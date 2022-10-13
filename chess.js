@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Maxim Dlugy's recent statement on the actions that brought him into the spotlight, suggesting a connection with the accusations Magnus Carlsen had initially made against Hans Niemann. In an interview with DER SPIEGEL, the latter, Maxim Dlugy, speaks of those accusations for the first time and discusses whether he will take legal action.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/der-spiegel-interviews-maxim-dlugy-what-magnus-carlsen-did-is-absolutely-ridiculous",
+         "pubDate" : "Thu, 13 Oct 2022 18:35:00 +0100",
+         "title" : "Maxim Dlugy talks to Der Spiegel: \"What Carlsen did is absolutely ridiculous\""
+      },
+      {
          "description" : "World Junior Chess Championship, held after a gap of 3 years due to the pandemic has started in Cala Gonone, Sardinia in Italy from 12th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -194,7 +202,7 @@ news_feed (
          "title" : "Megan Lee Takes Down Yu, is Co-Leader | Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Yasser Seirawan answers a viewer question during the seventh round of the 2022 U.S. Chess Championships. Has Yasser has ever been furious during a chess game? Why yes, he has, thank you for asking, and this fury was directed at the legendary Garry Kasparov. 2022.10.12<br /> USChessChamps.com<br /> Garry Kasparov vs Yasser Seirawan, Thessaloniki Olympiad (1988)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070394\">https://www.chessgames.com/perl/chessgame?gid=1070394</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-ty",
+         "description" : "<div class=\"body text-secondary\"> Yasser Seirawan answers a question from viewer Luke Walsh during the seventh round of the 2022 U.S. Chess Championships. Has Yasser has ever been furious during a chess game? Why yes, he has, thank you for asking, and this fury was directed at the legendary Garry Kasparov. 2022.10.12<br /> USChessChamps.com<br /> Garry Kasparov vs Yasser Seirawan, Thessaloniki Olympiad (1988)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1070394\">https://www.chessgames.com/perl/chessgame?gid=1070394</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-vid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/yasser-seirawan-gets-furious-kasparov-round-7",
@@ -1538,14 +1546,6 @@ news_feed (
          "title" : "FIDE October 2022 rating list is out"
       },
       {
-         "description" : "Mikhail Tal was the third of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It will appear (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-how-i-met-mikhail-tal",
-         "pubDate" : "Sat, 01 Oct 2022 16:00:00 +0100",
-         "title" : "Frederic's mates - How I met Mikhail Tal"
-      },
-      {
          "description" : "Having grown up in the era when the USSR dominated world chess, I must admit that the subtle distinctions between Russian, Soviet and Ukrainian were largely lost on me. Whether they were Latvian (Mikhail Tal), Armenian (Tigran Petrosian) Estonian (Paul Keres) or Ukrainian (Leonid Stein) - they all ended up representing the virtually unconquerable Soviet []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-now-adds-name-of-teens-mentor-to-the-drama/articleshow/94388291.cms",
          "pubDate" : "Fri, 23 Sep 2022 04:22:43 +0000",
          "title" : "Magnus Carlsen now adds name of teen's mentor to the drama"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1998",
-         "pubDate" : "Thu, 22 Sep 2022 16:22:04 +0000",
-         "title" : "Astana WGP: Goryachkina and Zhu Jiner extend their lead"
       }
    ]
 }
