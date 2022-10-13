@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2040",
+         "pubDate" : "Thu, 13 Oct 2022 22:01:50 +0000",
+         "title" : "Prisoners from 46 countries take part in the Intercontinental Championship"
+      },
+      {
          "description" : "The Aimchess Rapid is the 8th and penultimate event of the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field will be cut in half by the round-robin Prelims which will be played from 14-17 October. The players will have 15 minutes for all their moves, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
