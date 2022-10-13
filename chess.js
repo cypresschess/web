@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Junior Chess Championship, held after a gap of 3 years due to the pandemic has started in Cala Gonone, Sardinia in Italy from 12th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2022-at-sardinia-in-italy-from-12th-october-to-22nd-october-2022-round-1-report/",
+         "pubDate" : "Thu, 13 Oct 2022 15:13:20 +0000",
+         "title" : "World Junior Chess Championship 2022 at Sardinia, Italy from 12th October to 22nd October 2022 :ROUND 1 REPORT"
+      },
+      {
+         "description" : "After a long illness, GM Konstantin Landa has passed away. Landa was born in Omsk, attended the Sveshnikov and Botvinnik chess schools. In 1995 he became a grandmaster. Konstantin Landasvec lived in Germany since 1999. As a FIDE Senior Trainer he supported many strong players and national teams. Konstantin Landa was only 50 years old. | Photo: Konstantin Landa's personal archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/konstantin-landa-obituary",
+         "pubDate" : "Thu, 13 Oct 2022 16:00:00 +0100",
+         "title" : "Konstantin Landa (1972-2022)"
+      },
+      {
+         "description" : "Leinier Dominguez's 10-move win over Elshan Moradiabadi was just the start of what Fabiano Caruana called a \"very bloody day\" in Round 7 of the US Championship. Ray Robson crossed 2700 for the 1st time by playing a perfect game against Wesley So, Dariusz Swiercz crushed Hans Niemann and Fabi took down Alex Lenderman. In the Women's section Megan Lee beat and caught Jennifer Yu in the lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-champs-7-10-move-loss-on-very-bloody-day",
+         "pubDate" : "Thu, 13 Oct 2022 12:46:11 +0000",
+         "title" : "US Champs 7: 10-move loss on \"very bloody day\""
+      },
+      {
          "description" : "A prominent open event is currently taking place in Fagernes. A strong Indian group is dominating the action. But the top group also includes 17-year-old Elham Abdrlauf, Norway's biggest rising star. Report after round 5. | Photos: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1482,14 +1506,6 @@ news_feed (
          "title" : "Jose Carrillo Pujol elected new President of the Confederation of Chess for Americas"
       },
       {
-         "description" : "Vishy Anand re-entered the world Top 10 for the first time since 2019, while the youngesters continued their rise on the October FIDE rating list - 16-year-old Gukesh is now world no. 18, Vincent Keymer 2700, and Hans Niemann just 1 point short. Rapid and blitz ratings received a one-off reboot with some strange consequences: Garry Kasparov climbed 37 places in blitz without playing a game!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anand-back-in-top-10-pragg-gains-660-points",
-         "pubDate" : "Sun, 02 Oct 2022 10:23:46 +0000",
-         "title" : "Anand back in Top 10, Pragg gains 660 points!"
-      },
-      {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup take place from 2nd - 10th October in Mayrhofen, Austria. The Opening ceremony is scheduled for tonight at 20:00 CEST, while the first round starts tomorrow at 14:00 (local time). Schedule: With participation of 87 teams (70 in the Open event and 17 in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1536,14 +1552,6 @@ news_feed (
          "link" : "https://www.thearticle.com/david-bronstein-the-chess-dynamo-of-kyiv/",
          "pubDate" : "Sat, 01 Oct 2022 13:59:52 +0000",
          "title" : "David Bronstein: the chess dynamo of Kyiv"
-      },
-      {
-         "description" : "Wesley So, Levon Aronian, Leinier Dominguez and Sam Shankland all have something in common. They play for the US national team, and they are all Libra. Although many Libra grandmasters play excellent chess, none have won a world championship title, except for Ruslan Ponomariov, who won the FIDE title in 2002. Even legends like Ossip Bernstein, Viacheslav Ragozin and New York-born Reuben Fine were close, but not close enough. Maybe it's because Libras bring too much lightness to the game? | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/libra-and-their-strategy",
-         "pubDate" : "Sat, 01 Oct 2022 12:00:00 +0100",
-         "title" : "Libra and their strategy"
       },
       {
          "description" : "Click the link given below to watch Live 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A ) Link : https://view.livechesscloud.com/#871d3fc8-c6c3-48d4-916c-41a0cef9cc29",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-wont-play-against-cheat-hans-niemann/articleshow/94495697.cms",
          "pubDate" : "Wed, 28 Sep 2022 04:17:10 +0000",
          "title" : "Magnus Carlsen says won't play against 'cheat' Hans Niemann"
-      },
-      {
-         "description" : "Congratulations to Shubhi Gupta and Charvi A for becoming World Champions in Under-12 and Under-8 Girls Categories at World Cadet Chess Championship at Batumi, Georgia",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-shubhi-charvi-and-safin/",
-         "pubDate" : "Tue, 27 Sep 2022 16:59:51 +0000",
-         "title" : "Congratulations Shubhi, Charvi and Safin!!"
       },
       {
          "description" : " &#8220;With major pieces (queen or rook) on the board, having bishops on opposite colors favors the side with an attack.&#8221; Edmar Mednis It's been a while since we have discussed about these principles. The last article was published here. This past week one of the games from our club tournament brought them back into the spotlight. <a href=\"https://chessimprover.com/mednis-principles-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mednis Principles (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mednis-principles-3/\">Mednis Principles (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -2032,22 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1998",
          "pubDate" : "Thu, 22 Sep 2022 16:22:04 +0000",
          "title" : "Astana WGP: Goryachkina and Zhu Jiner extend their lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1997",
-         "pubDate" : "Thu, 22 Sep 2022 15:00:11 +0000",
-         "title" : "World Cadets Championships are halfway through"
-      },
-      {
-         "description" : " After a break of a few years, the 2022 ACT Teams Championship is being held on Sunday, 23rd October, at Campbell High School. It will be a team of 4 tournament, played with a time limit of G15m+5s. It will be FIDE rated (Rapid) and there will be 7 rounds. Cost for the team is $10 per player, with trophies and medals being awarded. The last time it was held (in 2019) there were 10 teams, and hopefully this year will see more players (especially given the larger numbers at each of the clubs). One interesting innovation this year is that a teams average rating is based on Boards 2,3 and 4 (and not board 1). The average limit is 1700, but this rule means you can have a strong board 1 player wit",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-teams-championship.html",
-         "pubDate" : "Thu, 22 Sep 2022 12:34:00 +0000",
-         "title" : "2022 ACT Teams Championship"
       }
    ]
 }
