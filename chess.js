@@ -2040,30 +2040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-world-champion-magnus-carlsen-refuses-to-clarify-cheating-claims/articleshow/94375114.cms",
          "pubDate" : "Thu, 22 Sep 2022 10:49:44 +0000",
          "title" : "Chess world champion Magnus Carlsen refuses to clarify cheating claims"
-      },
-      {
-         "description" : "The agenda and papers for the upcoming AGM can be found via this link &#8212; http://ecfcouncillive.ndlazi.uk/",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-agm-2022-papers/",
-         "pubDate" : "Thu, 22 Sep 2022 08:05:06 +0000",
-         "title" : "ECF AGM 2022 - papers"
-      },
-      {
-         "description" : "ECU taking in account the received applications, the proposals and selections by the Chairpersons, the wider representation, appointed the following members for ECU Commissions: ECU Arbiters Council: Geert Bailleul (BEL), Chairperson Tania Karali (GRE), Secretary Alon Shulman (ISR), Councillor Alexander Sokolski (POL), Councilor Tamas Gyomber (HUN), Councilor Marco Biagioli (ITA) ECU Legal Advisor, Data protectionAd, -hoc member&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-appoints-members-of-ecu-fide-commissions/",
-         "pubDate" : "Thu, 22 Sep 2022 08:04:46 +0000",
-         "title" : "ECU appoints members of ECU/FIDE Commissions"
-      },
-      {
-         "description" : " The Russian Championship Superfinals took place in Cheboksary 11th to 22nd September 2022. The event is much weaker than usual due to the war, it remains to be seen whether some of the stronger players will ever be back. Players: Vladislav Artemiev, Maksim Chigaev, Sanan Sjugirov, Evgeny Tomashevsky, Aleksandr Rakhmanov, Daniil Dubov, Evgeniy Najer, Maxim Matlakov, Ilia Iljiushenok, Volodar Murzin, Andrey Esipenko and Arseniy Nesterov. The players in the women's event: Marina Guseva, Leya Garifullina, Alina Bivol, Olga Girya, Daria Charochkina, Alisa Galliamova, Evgenija Ovod, Ekaterina Goltseva, Yana Zhapova, Valentina Gunina, Mariya Yakimova and Natalija Pogonina. Daniil Dubov won an Arma",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/75th-russian-chess-championship-2022",
-         "pubDate" : "Thu, 22 Sep 2022 11:59:00 +0400",
-         "title" : "75th Russian Chess Championship 2022 - Games and Results"
       }
    ]
 }
