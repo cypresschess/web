@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid is the 8th and penultimate event of the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field will be cut in half by the round-robin Prelims which will be played from 14-17 October. The players will have 15 minutes for all their moves, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-pairings-schedule/",
+         "pubDate" : "Thu, 13 Oct 2022 19:58:29 +0000",
+         "title" : "Aimchess Rapid - Pairings & Schedule"
+      },
+      {
          "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-live",
          "pubDate" : "Thu, 13 Oct 2022 20:00:00 +0100",
          "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.15<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-10-lichessorg",
+         "pubDate" : "Thu, 13 Oct 2022 18:58:08 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 10 | lichess.org"
       },
       {
          "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -274,14 +290,6 @@ news_feed (
          "title" : "Morris-Suzuki: Finally! I Played Good Chess! | Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.14<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-9-lichessorg",
-         "pubDate" : "Wed, 12 Oct 2022 21:57:03 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 9 | lichess.org"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #537 Merijn van Delft presents a game Pentala Harikrishna and Vishy Anand played at the European Club Cup in Mayrhofen, Austria. Harikrishna won with impressive technique. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/turkey-wins-fide-world-youth-u-16-chess-olympiad-2022",
          "pubDate" : "Wed, 12 Oct 2022 11:54:14 +0100",
          "title" : "Turkey wins FIDE World Youth U-16 Chess Olympiad 2022"
-      },
-      {
-         "description" : "FIDE World Junior Chess Championships 2022 (for Open &#38; Girls under 20)&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-junior-chess-championship-2022-open-section-live/",
-         "pubDate" : "Wed, 12 Oct 2022 10:15:31 +0000",
-         "title" : "FIDE World Junior Chess Championship 2022 - Open section LIVE"
       },
       {
          "description" : "",
