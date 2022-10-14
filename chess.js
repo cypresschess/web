@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 U.S. Championships continued on Thursday and featured wins for second-placed GM Ray Robson as well as GM Jeffery Xiong. Robson completed a hat-trick with a victory over GM Elshan Moradiabadi with the black pieces and is now trailing the l...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-8",
+         "pubDate" : "Thu, 13 Oct 2022 21:39:37 -0700",
+         "title" : "Robson Hat-trick Closes The Gap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-8",
+         "pubDate" : "Fri, 14 Oct 2022 03:58:10 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 8"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Cristian Chirila after defeating Christopher Yoo in Round 8 of the 2022 U.S. Chess Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-i-won-ruined-my-chance-13-draws-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jQpl1Mps7-A.jpg?itok=_1ENw802\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-live",
          "pubDate" : "Thu, 13 Oct 2022 20:00:00 +0100",
          "title" : "U.S. Championships - Live"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.15<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-10-lichessorg",
-         "pubDate" : "Thu, 13 Oct 2022 18:58:08 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 10 | lichess.org"
       },
       {
          "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1442,14 +1450,6 @@ news_feed (
          "title" : "Winners crowned at FIDE World Cadet Championship"
       },
       {
-         "description" : "GM Wesley So overcame GM Jeffery Xiong in a neck-and-neck match with all decisive games to commence the round of 16 at the Chess.com Global Championship on Sunday. GM Levon Aronian went undefeated to knock out GM Sam Sevian in three games.&#38;nbsp; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d1",
-         "pubDate" : "Sun, 02 Oct 2022 17:18:00 -0700",
-         "title" : "So Edges Out Xiong, Aronian Knocks Out Sevian"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
          "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
          "title" : "A Foundation for Beginners Seventy Two"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94388291.cms\" />Magnus Carlsen is still not explaining his one move resignation. But he has now added a name. That of Hans Niemann's coach GM Maxim Dlugy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-now-adds-name-of-teens-mentor-to-the-drama/articleshow/94388291.cms",
-         "pubDate" : "Fri, 23 Sep 2022 04:22:43 +0000",
-         "title" : "Magnus Carlsen now adds name of teen's mentor to the drama"
       }
    ]
 }
