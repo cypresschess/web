@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Under the name \"C-Squared\" Fabiano Caruana and Cristian Chirila recently launched a new chess podcast. Episode five featured Alejandro Ramirez, Costa Rica's first grandmaster, ChessBase author, trainer and popular commentator. The three talked about Ramirez's career, chess in Costa Rica, but above all about the Hans Niemann case. Asked whether he believes Niemann cheated when playing over-the-board, Ramirez said: \"It does seem very likely.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alejandro-ramirez-it-does-seem-very-likely-that-hans-cheated-over-the-board",
+         "pubDate" : "Fri, 14 Oct 2022 12:00:00 +0100",
+         "title" : "Alejandro Ramirez: \"It does seem very likely that Hans cheated over-the-board.\""
+      },
+      {
+         "description" : " The 2022 World Junior Championship is being held on the island of Sardinia, Italy (somewhere I have always wanted to visit). There are 2 Australian representatives, FM Albert Winkelman in the Open, and Jody Middleton in the Girls. After 3 rounds, Winkelman is on 2/3, winning in both rounds 2&amp;3. He defeated IM Jagadeesh Siddarth, and will play IM Jose Veiga in round 4. Having started the event playing 3 IM's in 4 rounds, Winkelman is already well placed to aim for an IM norm from this tournament. Middleton is on 1/3, having also playing a tough (and titled) field. Showing the strength of this tournament, her round 4 opponent is 2138 WFM Laman Hajiyeva. You can follow the event at <a href",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-world-junior.html",
+         "pubDate" : "Fri, 14 Oct 2022 10:25:00 +0000",
+         "title" : "2022 World Junior"
+      },
+      {
+         "description" : " Last week, we moved further towards the end of the game we are analyzing. We applied the games principles we have studied thus far to determine why each move was made. While this game doesn't end in a traditional endgame, there are a few endgame elements that will appear. Therefore, I decided to give you <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-four/\">A Foundation for Beginners Seventy Four</a> appeared first on <a rel=\"nofollow\" href=\"https://",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-four/",
+         "pubDate" : "Fri, 14 Oct 2022 10:00:54 +0000",
+         "title" : "A Foundation for Beginners Seventy Four"
+      },
+      {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After losing three games in four days, Hans Niemann broke []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1522,14 +1546,6 @@ news_feed (
          "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship 2022"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 93rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings by showing a Fischer-classic. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-92-backgrounds-of-structures-3",
-         "pubDate" : "Sun, 02 Oct 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 93: Backgrounds of structures (3)"
-      },
-      {
          "description" : " There's a trap in the Caro-Kann which seems to be both very popular and very successful in online chess at the moment. It made an appearance over the board in the recent British Championship. This was Thomas Villiers (2170) v Ioanis Lentzos (2097) 1. e4 c6 2. Nf3 d5 3. d3!? This looks harmless, but <a href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Trap in the Caro-Kann\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\">A Trap in the Caro-Kann</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -2048,14 +2064,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html",
          "pubDate" : "Fri, 23 Sep 2022 15:39:00 +0000",
          "title" : "1992 Fischer - Spassky 'Under the Weather'"
-      },
-      {
-         "description" : " We'll continue the game we start playing through a few weeks ago. I'm looking at this game and the moves we analyze through the eyes of a beginning player rather than a seasoned professional. What I mean is that we'll look at each move and the reasoning behind those moves as if a beginner was <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-two/\">A Foundation for Beginners Seventy Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.co",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-two/",
-         "pubDate" : "Fri, 23 Sep 2022 10:00:40 +0000",
-         "title" : "A Foundation for Beginners Seventy Two"
       }
    ]
 }
