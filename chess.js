@@ -10,6 +10,22 @@ news_feed (
          "title" : "U.S. Championships: Hat-tricks for Ray Robson and Megan Lee"
       },
       {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-9-live/",
+         "pubDate" : "Fri, 14 Oct 2022 07:22:50 +0000",
+         "title" : "US Chess Championship 2022 - Round 9 live"
+      },
+      {
+         "description" : "Fabiano Caruana remains the U.S. Championship leader, but GM Ray Robson is close on his tail, narrowing the gap to a half point with a victory. In the U.S. Women&#x2019;s Championship, Megan Lee pulled into the sole lead with a win over FM Ashritha Eswaran.&#xA0; Check out the full replay of live coverage from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/robson-closes-the-gap-caruana-holds-his-lead-us-chess-championship-round-8-recap/",
+         "pubDate" : "Fri, 14 Oct 2022 07:20:52 +0000",
+         "title" : "Robson closes the gap, Caruana holds his lead; US Chess Championship Round 8 recap"
+      },
+      {
          "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis, but then fell back, and was next to last after eight of the tournament's 13 rounds. The teenager won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made him the clear championship",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -282,14 +298,6 @@ news_feed (
          "title" : "Konstantin Landa (1972-2022)"
       },
       {
-         "description" : "GM Ray Robson upset GM Wesley So to break 2700 for the first time. He&#x2019;s in clear second, trailing GM Fabiano Caruana by a point, who won again to reach plus four.&#160;In the U.S. Women&#x2019;s Championship, WIM Megan Lee defeated WGM Jennifer Yu to replace her in the tie for first with GM Irina Krush.&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-continues-to-lead-by-a-full-point-us-chess-championship-round-7-recap/",
-         "pubDate" : "Thu, 13 Oct 2022 08:17:35 +0000",
-         "title" : "Caruana continues to lead by a full point; US Chess Championship Round 7 recap"
-      },
-      {
          "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
          "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
          "title" : "ECU E-Magazine September 2022"
-      },
-      {
-         "description" : "FIDE World Youth U-16 Chess Olympiad 2022 finished in Nakhchivan, Azerbaijan, on October 10. The 9-round Swiss tournament with classical time control brought together 34 teams from 22 countries. The fifth-rated Turkiye-Red swept the field, winning the event with one round to spare. The FM Eray Kilic (2428, board 1)&#xA0;won all the matches. Both FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/turkey-wins-gold-at-the-fide-world-youth-u16-chess-olympiad-2022/",
-         "pubDate" : "Thu, 13 Oct 2022 06:38:00 +0000",
-         "title" : "Turkey wins gold at the FIDE World Youth U16 Chess Olympiad 2022"
       },
       {
          "description" : "Instructive attacking chess, dazzling tactics, and a 10-move disaster game all came to the fore during the seventh round of the 2022 U.S. Chess Championships on Tuesday. GM Fabiano Caruana won his fourth game and remains ahead of his newest challe...",
