@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana remains in pole position at the U.S. Championship, but his lead has narrowed to a half point after Ray Robson scored a third consecutive victory in Thursday's eighth round. Robson defeated an out-of-form Elshan Moradiabadi and now stands in sole second place a full point ahead of a big pack sharing the third spot on 4&frac12;/8 points. Meanwhile, Megan Lee also scored a hat-trick and is now the sole leader in the women's tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r8",
+         "pubDate" : "Fri, 14 Oct 2022 08:25:00 +0100",
+         "title" : "U.S. Championships: Hat-tricks for Ray Robson and Megan Lee"
+      },
+      {
+         "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis, but then fell back, and was next to last after eight of the tournament's 13 rounds. The teenager won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made him the clear championship",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/oct/14/chess-hans-niemann-struggles-in-us-championship-amid-beefed-up-security",
+         "pubDate" : "Fri, 14 Oct 2022 07:00:31 +0000",
+         "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
+      },
+      {
          "description" : "The 2022 U.S. Championships continued on Thursday and featured wins for second-placed GM Ray Robson as well as GM Jeffery Xiong. Robson completed a hat-trick with a victory over GM Elshan Moradiabadi with the black pieces and is now trailing the l...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
          "pubDate" : "Thu, 13 Oct 2022 19:12:19 +0000",
          "title" : "Aimchess Rapid Preliminary stage LIVE"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Thu, 13 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
       },
       {
          "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
