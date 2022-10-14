@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Fri, 14 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2041",
+         "pubDate" : "Fri, 14 Oct 2022 18:39:02 +0000",
+         "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Fri, 14 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
+         "description" : "Ever since the&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen, who consequently withdrew from the Sinquefield Cup 2022 (see the timetable of events related to the Carlsen &#x2013; Niemann case below), the topic of cheating in chess is&#160;the top news in mass medias. Norwegian VG earlier reported on different cases of cheating in online chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-johan-sebastian-christiansen-discloses-for-vg-that-he-witnessed-match-fixing/",
+         "pubDate" : "Fri, 14 Oct 2022 16:03:33 +0000",
+         "title" : "GM Johan-Sebastian Christiansen discloses for VG that he witnessed match-fixing"
+      },
+      {
          "description" : "In his Power Play Show, Daniel King analyses a game from the US Championship between Awonder Liang and Levon Aronian. The origins of the opening go back 200 years, but something fresh was still created on the board. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-champs-8-ray-robson-closes-gap-on-caruana",
          "pubDate" : "Fri, 14 Oct 2022 14:15:48 +0000",
          "title" : "US Champs 8: Ray Robson closes gap on Caruana"
+      },
+      {
+         "description" : " The Aimchess Rapid is part of the Champions Chess Tour and takes place online on Chess24 14th to 21st October 2022. Players: Nodirbek Abdusattorov, Aditya MittalDavid Anton Guijarro, Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, D Gukesh, Eric Hansen, Pentala Harikrishna, Vincent Keymer, Shakhriyar Mamedyarov, Daniel Naroditsky, Richard Rapport and Santosh Gujrathi Vidit.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2022",
+         "pubDate" : "Fri, 14 Oct 2022 16:48:00 +0400",
+         "title" : "Aimchess Rapid 2022 - Games and Results"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nearly 6000 chess fans registered in 300 <strong>Magnus Chess Groups</strong> in 66 countries that use the app <strong>Meetup</strong>, which <a href=\"https://live.euronext.com/nb/product/equities/NO0010890726-MERK#CompanyPressRelease-11936564\">is now announced as a cooperation partner</a> of the <strong>Play Magnus Group</strong>. </div> ",
@@ -122,7 +162,7 @@ news_feed (
          "title" : "Robson closes the gap, Caruana holds his lead; US Chess Championship Round 8 recap"
       },
       {
-         "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis, but then fell back, and was next to last after eight of the tournament's 13 rounds. The teenager won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made him the clear championship",
+         "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis but then fell back and was next to last after eight of the 13 rounds. The teenager, who denies all the recent allegations, won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/oct/14/chess-hans-niemann-struggles-in-us-championship-amid-beefed-up-security",
@@ -138,12 +178,12 @@ news_feed (
          "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
-         "description" : "Scoring his third win in a row, GM Ray Robson completed a hat-trick on Thursday at the 2022 U.S. Championship. The 27-year-old grandmaster beat GM Elshan Moradiabadi with the black pieces and is now trailing the leader, GM Fabiano Caruana, by half...",
+         "description" : "Scoring his third win in a row, GM Ray Robson completed a hat trick on Thursday at the 2022 U.S. Championship. The 27-year-old grandmaster beat GM Elshan Moradiabadi with the black pieces and is now trailing the leader, GM Fabiano Caruana, by half...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-8",
          "pubDate" : "Thu, 13 Oct 2022 21:39:00 -0700",
-         "title" : "Robson Hat-trick Closes The Gap"
+         "title" : "Robson's Hat Trick Closes The Gap"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -344,14 +384,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-solution/",
          "pubDate" : "Thu, 13 Oct 2022 10:08:58 +0000",
          "title" : "Winton British Chess Solving Championship - solution"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana yesterday scored a victory against Aleksandr Lenderman and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/samuel-sevian-vs-fabiano-caruana-us-chess-championship-2022-round-8-live/",
-         "pubDate" : "Thu, 13 Oct 2022 10:04:06 +0000",
-         "title" : "Samuel Sevian vs Fabiano Caruana, US Chess Championship 2022 Round 8 LIVE"
       },
       {
          "description" : "The European Club Cup was played last week, with no fewer than 70 teams in the open section and 17 women's squads making their way to Mayrhofen, Austria. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Anna Muzychuk (photo by Fiona Steil-Antoni)",
@@ -1498,22 +1530,6 @@ news_feed (
          "title" : "ECF Book of the Year 2022"
       },
       {
-         "description" : "Chess history will be made this year at induction ceremonies recognizing several exceptional contributors to the iconic game as the newest members of the U.S. and World Chess Halls of Fame. The first ceremony will honor 2022 U.S. Chess Hall of Fame inductees Daniel Willard Fiske, James Tarjan and John Watson, as well as 2021 World Chess Hall of Fame inductees Miguel Najdorf and Eugene Torre.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/inductees-chess-halls-of-fame-2022",
-         "pubDate" : "Mon, 03 Oct 2022 09:00:00 +0100",
-         "title" : "Chess legends to be inducted into the U.S. and World Chess Halls of Fame"
-      },
-      {
-         "description" : "The FIDE World Cadet Chess Championship 2022 in the U8, U10 and U12 categories is in the books. In the final round, the participants, especially those contesting for medals, showed real fighting spirit. Not all the favourites made it to the podium, giving way to uprising lower-rated players. Find the winners of all categories in this article. | Photos: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-cadet-championships-2022",
-         "pubDate" : "Mon, 03 Oct 2022 08:00:00 +0100",
-         "title" : "Winners crowned at FIDE World Cadet Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2040,38 +2056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-to-meet-magnus-carlsen-in-final/articleshow/94413132.cms",
          "pubDate" : "Sat, 24 Sep 2022 06:51:27 +0000",
          "title" : "Julius Baer Cup: Arjun Erigaisi to meet Magnus Carlsen in final"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94405344.cms\" />The International Chess Federation (FIDE) has rebuked world champion Magnus Carlsen for abruptly conceding an online game against Hans Niemann while adding it shared the Norwegian's concerns surrounding cheating in the sport.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-shares-carlsens-concerns-about-the-damage-of-cheating-in-the-sport/articleshow/94405344.cms",
-         "pubDate" : "Fri, 23 Sep 2022 17:22:28 +0000",
-         "title" : "FIDE shares Carlsen's concerns about the damage of cheating in the sport"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1999",
-         "pubDate" : "Fri, 23 Sep 2022 17:21:03 +0000",
-         "title" : "FIDE Statement on the Carlsen - Niemann polemic "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2000",
-         "pubDate" : "Fri, 23 Sep 2022 16:43:33 +0000",
-         "title" : "FIDE WGP Astana: Kashlinskaya and Lagno close the gap"
-      },
-      {
-         "description" : "This post could have been the next in the 'under the weather' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2021/11/not-under-weather-channel.html\">Not the 'Under the Weather' Channel</A>(November 2021), but I've found that keeping busy is a good medicine for a bad cold. That and lots of sleep. <P>Instead I'll continue the 'Fischer Friday' series, seen last week in <A HREF=\"http://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html\">FS 1972 + 20 = FS 1992</A>(September 2022). In that post I wrote, <BLOCKQUOTE>I don't have much in my photo archive about the 1992 [Fischer - Spassky] match. The following composite image shows the wirephotos that I found. These are b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html",
-         "pubDate" : "Fri, 23 Sep 2022 15:39:00 +0000",
-         "title" : "1992 Fischer - Spassky 'Under the Weather'"
       }
    ]
 }
