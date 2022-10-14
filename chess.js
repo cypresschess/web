@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Power Play Show, Daniel King analyses a game from the US Championship between Awonder Liang and Levon Aronian. The origins of the opening go back 200 years, but something fresh was still created on the board. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-two-centuries-old-still-fresh",
+         "pubDate" : "Fri, 14 Oct 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Two centuries old, but still fresh"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen takes on Shakhriyar Mamedyarov, Eric Hansen, Vincent Keymer and Aditya Mittal as the Aimchess Rapid starts today at 12pm ET | 18:00 CEST | 21:30 IST!",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-aimchess-rapid-starts-now",
+         "pubDate" : "Fri, 14 Oct 2022 15:14:27 +0000",
+         "title" : "The Aimchess Rapid starts now! "
+      },
+      {
+         "description" : "The Braille Chess Association, which encourages and supports the playing of chess at all levels by blind and partially sighted people, is proudly celebrating its...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/braille-chess-association-90th-anniversary/",
+         "pubDate" : "Fri, 14 Oct 2022 14:49:59 +0000",
+         "title" : "Braille Chess Association 90th Anniversary"
+      },
+      {
+         "description" : "Ray Robson won a 3rd game in a row in Round 8 of the US Championship to cut the gap to Fabiano Caruana to just half a point with five rounds to go. The only other win was for Jeffery Xiong, who beat Christopher Yoo, leaving Levon Aronian, who drew against Hans Niemann, as the one player of the 28 in St. Louis yet to win a game. Megan Lee beat Ashritha Eswaran to take the sole lead in the Women's section.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-champs-8-ray-robson-closes-gap-on-caruana",
+         "pubDate" : "Fri, 14 Oct 2022 14:15:48 +0000",
+         "title" : "US Champs 8: Ray Robson closes gap on Caruana"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nearly 6000 chess fans registered in 300 <strong>Magnus Chess Groups</strong> in 66 countries that use the app <strong>Meetup</strong>, which <a href=\"https://live.euronext.com/nb/product/equities/NO0010890726-MERK#CompanyPressRelease-11936564\">is now announced as a cooperation partner</a> of the <strong>Play Magnus Group</strong>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-four/",
          "pubDate" : "Fri, 14 Oct 2022 10:00:54 +0000",
          "title" : "A Foundation for Beginners Seventy Four"
+      },
+      {
+         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
+         "pubDate" : "Fri, 14 Oct 2022 08:12:00 +0000",
+         "title" : "Aimchess Rapid Preliminary stage LIVE"
       },
       {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After losing three games in four days, Hans Niemann broke []",
@@ -216,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/aimchess-rapid-pairings-schedule/",
          "pubDate" : "Thu, 13 Oct 2022 19:58:29 +0000",
          "title" : "Aimchess Rapid - Pairings & Schedule"
-      },
-      {
-         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
-         "pubDate" : "Thu, 13 Oct 2022 19:12:19 +0000",
-         "title" : "Aimchess Rapid Preliminary stage LIVE"
       },
       {
          "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1322,14 +1354,6 @@ news_feed (
          "title" : "When the pressure is off"
       },
       {
-         "description" : "Magnus Carlsen and Vishy Anand both dropped 3.4 rating points, with Vishy falling out of the Top 10, as they were held to draws by lower-rated opposition on Day 1 of the European Club Cup in Mayrhofen, Austria. Their teams cruised to 5.5:0.5 wins, however, and despite scares for players such as Arjun Erigaisi the top teams all scored crushing wins. It was closer in the women's event, where Elisabeth Paehtz gave top seeds Cercle d'Echecs de Monte-Carlo a narrow win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/euro-club-cup-1-carlsen-and-anand-take-rating-hits",
-         "pubDate" : "Tue, 04 Oct 2022 11:52:50 +0000",
-         "title" : "Euro Club Cup 1: Carlsen and Anand take rating hits"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "Arkady Dvorkovich meets with President of Azerbaijan"
       },
       {
-         "description" : "Vishy Anand leads top seeds Superbet in the European Chess Club Cup that starts in Mayrhofen, Austria today, while Magnus Carlsen tops the line-up for 7th seeds Offerspill Chess Club. Anna Muzychuk is on board one for women's top seeds Cercle d'Echecs de Monte-Carlo, and we'll have live commentary and exclusive video of all the action here on chess24.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/euro-club-cup-begins-with-anand-carlsen-in-action",
-         "pubDate" : "Mon, 03 Oct 2022 08:56:30 +0000",
-         "title" : "Euro Club Cup begins with Anand & Carlsen in action"
-      },
-      {
          "description" : "Think like a Super-GM Adams and Hurtado Quality Chess pp464 &pound;29.50 The two authors, in conjunction with the publisher, have produced a book of great...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2021",
          "pubDate" : "Sun, 02 Oct 2022 18:42:15 +0000",
          "title" : "Record-breaking attendance at FIDE Trainers' Seminar"
-      },
-      {
-         "description" : "Today is Jonathan Speelman's sixty-sixth birthday, so he allowed himself a certain amount of self-indulgence, as he decided to present a selection of his favourite games and studies. His criterion: \"A preference for either the breathtakingly simple or the mind-bogglingly complex\". Happy birthday, Jon! | Pictured: Julian Hodgson and Jonathan Speelman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-179",
-         "pubDate" : "Sun, 02 Oct 2022 19:10:00 +0100",
-         "title" : "Codgerly self-indulgence"
       },
       {
          "description" : " The US Chess Championship takes place in Saint Louis Wed 5th (round 1) to Thu 20th Oct 2022. The event has been bumped up to a 14 player 13 round tournament for the first time in decades. There are Open and Women's events. Players: Wesley So, Levon Aronian, Fabiano Caruana, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Hans Moke Niemann, Samuel Sevian, Dariusz Swiercz, Awonder Liang, Christopher Woojin Yoo, Elshan Moradiabadi and Aleksandr Lenderman. Women's group: , Irina Krush, Anna Zatonskih, Ashritha Eswaran, Nazi Paikidze, Gulrukhbegim Tokhirjonova, Rochelle Wu, Tatev Abrahamyan, Jennifer Yu, Thalia Cervantes Landeiro, Alice Lee, Ruiyang Yan, Megan Lee, Sabina-Fran",
