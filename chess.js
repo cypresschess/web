@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nearly 6000 chess fans registered in 300 <strong>Magnus Chess Groups</strong> in 66 countries that use the app <strong>Meetup</strong>, which <a href=\"https://live.euronext.com/nb/product/equities/NO0010890726-MERK#CompanyPressRelease-11936564\">is now announced as a cooperation partner</a> of the <strong>Play Magnus Group</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/meetup-chess-groups-in-66-countries/",
+         "pubDate" : "Fri, 14 Oct 2022 12:18:44 +0100",
+         "title" : "Meetup chess groups in 66 countries"
+      },
+      {
          "description" : "Under the name \"C-Squared\" Fabiano Caruana and Cristian Chirila recently launched a new chess podcast. Episode five featured Alejandro Ramirez, Costa Rica's first grandmaster, ChessBase author, trainer and popular commentator. The three talked about Ramirez's career, chess in Costa Rica, but above all about the Hans Niemann case. Asked whether he believes Niemann cheated when playing over-the-board, Ramirez said: \"It does seem very likely.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html",
          "pubDate" : "Mon, 03 Oct 2022 15:14:00 +0000",
          "title" : "Breaking the 3500 Barrier"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>WR Masters</strong> is <a href=\"https://mobile.twitter.com/wr_chess\">announced in D&uuml;sseldorf</a> for the second half of February with Nepomnachtchi, Giri, Aronian and Keymer among its ten participants. The event is sponsored by the German-Russian logistics entrepreneur <strong>Wadim Rosenstein</strong> and his <strong>WR Group</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/february-top-event-in-duesseldorf/",
-         "pubDate" : "Mon, 03 Oct 2022 15:57:24 +0100",
-         "title" : "February top event in D&uuml;sseldorf"
       },
       {
          "description" : "Some players have made considerable Elo gains as the International Chess Federation has corrected rapid and blitz ratings with the publication of the October 2022 rating lists. GM Praggnanandhaa R. gains a staggering 660 points for his rapid ratin...",
