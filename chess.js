@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After losing three games in four days, Hans Niemann broke []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-wesley-so-us-chess-championship-2022-round-9-live/",
+         "pubDate" : "Fri, 14 Oct 2022 07:36:16 +0000",
+         "title" : "Hans Niemann vs Wesley So, US Chess Championship 2022 Round 9 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana maintained the sole lead in the tournament after []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-vs-awonder-liang-us-chess-championship-2022-round-9-live/",
+         "pubDate" : "Fri, 14 Oct 2022 07:33:24 +0000",
+         "title" : "Fabiano Caruana vs Awonder Liang, US Chess Championship 2022 Round 9 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Jeffery Xiong scored his first victory in the tournament yesterday []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jeffery-xiong-vs-levon-aronian-us-chess-championship-2022-round-9-live/",
+         "pubDate" : "Fri, 14 Oct 2022 07:31:32 +0000",
+         "title" : "Jeffery Xiong vs Levon Aronian, US Chess Championship 2022 Round 9 LIVE"
+      },
+      {
          "description" : "Fabiano Caruana remains in pole position at the U.S. Championship, but his lead has narrowed to a half point after Ray Robson scored a third consecutive victory in Thursday's eighth round. Robson defeated an out-of-form Elshan Moradiabadi and now stands in sole second place a full point ahead of a big pack sharing the third spot on 4&frac12;/8 points. Meanwhile, Megan Lee also scored a hat-trick and is now the sole leader in the women's tournament. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,11 +58,19 @@ news_feed (
          "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
       },
       {
-         "description" : "The 2022 U.S. Championships continued on Thursday and featured wins for second-placed GM Ray Robson as well as GM Jeffery Xiong. Robson completed a hat-trick with a victory over GM Elshan Moradiabadi with the black pieces and is now trailing the l...",
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Fri, 14 Oct 2022 04:59:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
+      },
+      {
+         "description" : "Scoring his third win in a row, GM Ray Robson completed a hat-trick on Thursday at the 2022 U.S. Championship. The 27-year-old grandmaster beat GM Elshan Moradiabadi with the black pieces and is now trailing the leader, GM Fabiano Caruana, by half...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-8",
-         "pubDate" : "Thu, 13 Oct 2022 21:39:37 -0700",
+         "pubDate" : "Thu, 13 Oct 2022 21:39:00 -0700",
          "title" : "Robson Hat-trick Closes The Gap"
       },
       {
@@ -186,6 +218,14 @@ news_feed (
          "title" : "Maxim Dlugy talks to Der Spiegel"
       },
       {
+         "description" : "Earlier this year I ran a series of four posts about living with Google's Adsense:- <UL><LI>2022-01-21: <A HREF=\"http://chessforallages.blogspot.com/2022/01/google-again.html\">Google, Again!</A> <LI>2022-01-28: <A HREF=\"http://chessforallages.blogspot.com/2022/01/life-in-googles-world.html\">Life in Google's World</A> <LI>2022-02-04: <A HREF=\"http://chessforallages.blogspot.com/2022/02/ads-for-zonals-out.html\">Ads for Zonals, Out!</A> <LI>2022-02-11: <A HREF=\"http://chessforallages.blogspot.com/2022/02/show-ads-everywhere-out.html\">Show Ads Everywhere, Out!</A></UL> <P>It's time for another post in the series. Lately I've been receiving emails from Google informing me about 'First-party cooki",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/party-cookies.html",
+         "pubDate" : "Thu, 13 Oct 2022 15:24:00 +0000",
+         "title" : "Party Cookies"
+      },
+      {
          "description" : "World Junior Chess Championship, held after a gap of 3 years due to the pandemic has started in Cala Gonone, Sardinia in Italy from 12th",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -258,36 +298,12 @@ news_feed (
          "title" : "Endgames from Mayrhofen"
       },
       {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After a slow start, GM Dariusz Swiercz scored two consecutive []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-vs-dariusz-swiercz-us-chess-championship-2022-round-8-live/",
-         "pubDate" : "Thu, 13 Oct 2022 09:58:38 +0000",
-         "title" : "Wesley So vs Dariusz Swiercz, US Chess Championship 2022 Round 8 LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann suffered three losses in four days, while Levon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-vs-hans-niemann-us-chess-championship-2022-round-8-live/",
-         "pubDate" : "Thu, 13 Oct 2022 09:44:08 +0000",
-         "title" : "Levon Aronian vs Hans Niemann, US Chess Championship 2022 Round 8 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2038",
          "pubDate" : "Thu, 13 Oct 2022 09:40:40 +0000",
          "title" : "World Sight Day: Chess perspective"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-8-live/",
-         "pubDate" : "Thu, 13 Oct 2022 09:34:57 +0000",
-         "title" : "US Chess Championship 2022 - Round 8 live"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian GM and coach <strong>Konstantin Landa</strong>, who lived in Germany for many years, <a href=\"https://fide.com/news/2035\">lost his fight</a> against Leukaemia. </div> ",
