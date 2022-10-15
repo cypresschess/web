@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann defeated Elshan Moradiabadi in the 10th round of the US Chess Championship. After a very good start with 2/3 points, Hans lost three games in four days and came back with an important victory today. In the post-game interview, Niemann revealed he went all-in into today's game: &#8220;Today I decided I will either []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-i-think-the-comeback-is-certainly-coming-and-ive-definitely-been-humbled-a-lot-in-this-tournament/",
+         "pubDate" : "Sat, 15 Oct 2022 22:04:34 +0000",
+         "title" : "Hans Niemann: I think the comeback is certainly coming and I've definitely been humbled a lot in this tournament"
+      },
+      {
+         "description" : "World Chess Champion&#xA0;Magnus Carlsen&#xA0;is participating in the Aimchess Rapid which kicked off yesterday with the Preliminary stage on chess24.com. After eight played rounds, Carlsen scores 17 points and ties for the second place with Shakhriyar Mamedyarov. Aimchess Rapid &#x2013; Replay all games here&#xA0;/&#xA0;Pairings &#38; Schedule In the Day 2 interview, Carlsen said he thought yesterday []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-i-think-its-good-that-the-attitude-about-cheating-is-changing/",
+         "pubDate" : "Sat, 15 Oct 2022 21:27:04 +0000",
+         "title" : "Magnus Carlsen: I think it's good that the attitude about cheating is changing"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,22 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/steven-burghart-strategy-across-board-gala-round-9",
          "pubDate" : "Fri, 14 Oct 2022 21:58:58 +0000",
          "title" : "Steven Burghart on the Strategy Across The Board Gala | Round 9"
-      },
-      {
-         "description" : "The 8th and penultimate tournament of the $1.6 million 2022 Meltwater Champions Chess Tour&#xA0;kicked off today with the Preliminary stage. After four played rounds, the Uzbekistani Grandmaster and a member of the Olympiad Golden team, Nodirbek Abdusattorov, scored three wins and one draw to be in the sole lead at the event. Joining the live []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-leads-aimchess-rapid-after-day-1-its-pretty-nice-to-start-with-three-wins/",
-         "pubDate" : "Fri, 14 Oct 2022 21:32:00 +0000",
-         "title" : "Nodirbek Abdusattorov leads Aimchess Rapid after Day 1: It's nice to start with three wins"
-      },
-      {
-         "description" : "The $150,000 Aimchess Rapid kicked off today with 18-year-old&#xA0;Nodirbek Abdusattorov taking an early lead and&#xA0;Indian youngster Aditya Mittal nearly toppling World Champion Magnus Carlsen. In a topsy-turvy final round of the day, Mittal, at 16 the youngest player in the tournament and the lowest rated, had two moments when he could have beaten Carlsen. Had []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-is-the-leader-of-aimchess-rapid-after-day-1/",
-         "pubDate" : "Fri, 14 Oct 2022 21:31:18 +0000",
-         "title" : "Nodirbek Abdusattorov is the leader of Aimchess Rapid after day 1"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
