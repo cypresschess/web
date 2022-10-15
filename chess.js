@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a very good start at the tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elshan-moradiabadi-vs-hans-niemann-us-chess-championship-2022-round-10-live/",
+         "pubDate" : "Sat, 15 Oct 2022 09:13:22 +0000",
+         "title" : "Elshan Moradiabadi vs Hans Niemann, US Chess Championship 2022 Round 10 LIVE"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Both Levon Aronian and Wesley So are having a hard []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-vs-welsey-so-us-chess-championship-2022-round-10-live/",
+         "pubDate" : "Sat, 15 Oct 2022 09:12:00 +0000",
+         "title" : "Levon Aronian vs Welsey So, US Chess Championship 2022 Round 10 LIVE"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana maintained the sole lead in the event with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/christopher-yoo-vs-fabiano-caruana-us-chess-championship-2022-round-10-live/",
+         "pubDate" : "Sat, 15 Oct 2022 09:08:54 +0000",
+         "title" : "Christopher Yoo vs Fabiano Caruana, US Chess Championship 2022 Round 10 LIVE"
+      },
+      {
+         "description" : "Uzbekistan&#39;s GM Nodirbek Abdusattorov leads the preliminaries of the Aimchess Rapid tournament after four rounds of play. It was GM Shakhriyar Mamedyarov who stole the show, beating GM Magnus Carlsen and, brilliantly, GM Anish Giri. How to watch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-1",
+         "pubDate" : "Sat, 15 Oct 2022 02:04:48 -0700",
+         "title" : "Aimchess Rapid: Abdusattorov Leads, Mamedyarov Shines"
+      },
+      {
+         "description" : "ROUND 2&#38;3 REPORT World Junior Chess Championship 2022 Round 2 IM Harshavardhan GB was facing the Moscow variation in the Sicilian against the top seeded",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-chess-2022-round-2-round-3-report/",
+         "pubDate" : "Sat, 15 Oct 2022 09:03:47 +0000",
+         "title" : "Fide World Junior Chess 2022: Round 2 & Round 3 Report"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-10-live/",
+         "pubDate" : "Sat, 15 Oct 2022 09:03:29 +0000",
+         "title" : "US Chess Championship 2022 - Round 10 live"
+      },
+      {
+         "description" : "5 GOLDS EACH FOR INDIA AND VIETNAM The much awaited ASIAN YOUTH CHESS CHAMPIONSHIP 2022 KICK STARTS AT BALI ,INDIAN TEAM PLAYERS : CHARVI,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-youth-chess-championship-2022/",
+         "pubDate" : "Sat, 15 Oct 2022 08:56:35 +0000",
+         "title" : "ASIAN YOUTH CHESS CHAMPIONSHIP - 2022"
+      },
+      {
          "description" : "When you find the winning move White played in the diagrammed position, the rest will be be easy - enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/finding-happiness",
          "pubDate" : "Sat, 15 Oct 2022 09:00:00 +0100",
          "title" : "Finding happiness"
+      },
+      {
+         "description" : "GM Sam Shankland was the only player to gain ground in round 9, defeating GM Christopher Yoo to join the tie for third. GM Fabiano Caruana continues to lead with GM Ray Robson trailing by half a point. In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu leapfrogged into clear first with a victory over FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-stays-in-sole-lead-us-chess-championship-round-9-recap/",
+         "pubDate" : "Sat, 15 Oct 2022 07:38:32 +0000",
+         "title" : "Fabiano Caruana stays in sole lead; US Chess Championship Round 9 recap"
       },
       {
          "description" : "The first four rounds of the Aimchess Rapid online tournament were played on Friday. Nodirbek Abdusattorov was the top scorer, as he collected three wins and a draw for a 10/12 score (wins are worth 3 points, draws are worth 1 point). Magnus Carlsen, Jan-Krzysztof Duda and Shakhriyar Mamedyarov are sharing second place on 7/12.",
@@ -154,20 +218,20 @@ news_feed (
          "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
       },
       {
-         "description" : "Ever since the&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen, who consequently withdrew from the Sinquefield Cup 2022 (see the timetable of events related to the Carlsen &#x2013; Niemann case below), the topic of cheating in chess is&#160;the top news in mass medias. Norwegian VG earlier reported on different cases of cheating in online chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-johan-sebastian-christiansen-discloses-for-vg-that-he-witnessed-match-fixing/",
-         "pubDate" : "Fri, 14 Oct 2022 16:03:33 +0000",
-         "title" : "GM Johan-Sebastian Christiansen discloses for VG that he witnessed match-fixing"
-      },
-      {
          "description" : "In his Power Play Show, Daniel King analyses a game from the US Championship between Awonder Liang and Levon Aronian. The origins of the opening go back 200 years, but something fresh was still created on the board. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-two-centuries-old-still-fresh",
          "pubDate" : "Fri, 14 Oct 2022 17:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Two centuries old, but still fresh"
+      },
+      {
+         "description" : "In last week's post for the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/roger-cohen-foreign-correspondent.html\">Roger Cohen, Foreign Correspondent</A>(October 2022), I noted that the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>was a tale of two matches:- <BLOCKQUOTE>The first match, which had little to do with chess, was about Fischer's sudden return to chess after 20 years of self-imposed retirement. Was he still capable of playing at the highest level? Was Spassky? The second match, which started with the third game, was all about chess. </BLOCKQUOTE> <P>One journalist was eminently qualified to cover both matc",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/historic-photo-historic-game.html",
+         "pubDate" : "Fri, 14 Oct 2022 15:36:00 +0000",
+         "title" : "Historic Photo, Historic Game"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen takes on Shakhriyar Mamedyarov, Eric Hansen, Vincent Keymer and Aditya Mittal as the Aimchess Rapid starts today at 12pm ET | 18:00 CEST | 21:30 IST!",
@@ -232,38 +296,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-four/",
          "pubDate" : "Fri, 14 Oct 2022 10:00:54 +0000",
          "title" : "A Foundation for Beginners Seventy Four"
-      },
-      {
-         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
-         "pubDate" : "Fri, 14 Oct 2022 08:12:00 +0000",
-         "title" : "Aimchess Rapid Preliminary stage LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After losing three games in four days, Hans Niemann broke []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-wesley-so-us-chess-championship-2022-round-9-live/",
-         "pubDate" : "Fri, 14 Oct 2022 07:36:16 +0000",
-         "title" : "Hans Niemann vs Wesley So, US Chess Championship 2022 Round 9 LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana maintained the sole lead in the tournament after []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-vs-awonder-liang-us-chess-championship-2022-round-9-live/",
-         "pubDate" : "Fri, 14 Oct 2022 07:33:24 +0000",
-         "title" : "Fabiano Caruana vs Awonder Liang, US Chess Championship 2022 Round 9 LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Jeffery Xiong scored his first victory in the tournament yesterday []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jeffery-xiong-vs-levon-aronian-us-chess-championship-2022-round-9-live/",
-         "pubDate" : "Fri, 14 Oct 2022 07:31:32 +0000",
-         "title" : "Jeffery Xiong vs Levon Aronian, US Chess Championship 2022 Round 9 LIVE"
       },
       {
          "description" : "Fabiano Caruana remains in pole position at the U.S. Championship, but his lead has narrowed to a half point after Ray Robson scored a third consecutive victory in Thursday's eighth round. Robson defeated an out-of-form Elshan Moradiabadi and now stands in sole second place a full point ahead of a big pack sharing the third spot on 4&frac12;/8 points. Meanwhile, Megan Lee also scored a hat-trick and is now the sole leader in the women's tournament. | Photo: Lennart Ootes",
@@ -1482,14 +1514,6 @@ news_feed (
          "title" : "European Club Cup: Anand and Carlsen start with draws"
       },
       {
-         "description" : "The 2022 Chess.com Global Championship presented by Brave continued on Monday with round of 16 matchups between GMs Hikaru Nakamura and Leinier Dominguez Perez, as well as GMs Fabiano Caruana and Dmitry Andreikin. Nakamura controlled his match f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d2",
-         "pubDate" : "Mon, 03 Oct 2022 20:14:00 -0700",
-         "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
-      },
-      {
          "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1632,14 +1656,6 @@ news_feed (
          "link" : "https://www.thearticle.com/david-bronstein-the-chess-dynamo-of-kyiv/",
          "pubDate" : "Sat, 01 Oct 2022 13:59:52 +0000",
          "title" : "David Bronstein: the chess dynamo of Kyiv"
-      },
-      {
-         "description" : "Click the link given below to watch Live 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A ) Link : https://view.livechesscloud.com/#871d3fc8-c6c3-48d4-916c-41a0cef9cc29",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-of-1st-bikaner-open-international-grand-masters-chess-tournament-2022-category-a/",
-         "pubDate" : "Sat, 01 Oct 2022 07:39:59 +0000",
-         "title" : "Live link of 1st Bikaner Open International Grand masters Chess Tournament 2022 (Category A )"
       },
       {
          "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
@@ -1842,14 +1858,6 @@ news_feed (
          "title" : "FIDE's statement on sexist remarks"
       },
       {
-         "description" : "Commonwealth Chess Championship 2022 will be started from 13th to 23rd November, 2022 at Kaluthara, Sri Lanka and players participated in the Over the Board",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2022-from-at-kaluthara-sri-lanka-from-13th-to-23rd-november-2022/",
-         "pubDate" : "Wed, 28 Sep 2022 08:19:44 +0000",
-         "title" : "Commonwealth Chess Championship 2022 from at Kaluthara, Sri Lanka from 13th to 23rd November, 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94495697.cms\" />Magnus Carlsen's reasons why he feels that Hans Niemann cheats: \"unusual\" progress in over-the-board chess, the 19-year-old world No. 49 American \"wasn't tense or concentrating on the game at critical points\" during his classical win over the Norwegian earlier this month.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cheating-in-grandmaster-chess/",
          "pubDate" : "Sat, 24 Sep 2022 10:23:45 +0000",
          "title" : "Cheating in grandmaster chess?"
-      },
-      {
-         "description" : "The 4th ESNA European Small Nations Individual Chess Championship 2022 starts tomorrow and will take place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. 10 players compete in the 9 rounds, and the field is headlined by: GM Henderson de la Fuente Lance (AND, 2504), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/",
-         "pubDate" : "Sat, 24 Sep 2022 07:30:52 +0000",
-         "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
       }
    ]
 }
