@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After nine rounds, Fabiano Caruana and Jennifer Yu are the sole leaders at the U.S. Championship and U.S. Women's Championship, respectively. Caruana drew with Awonder Liang after the latter continued the trend of playing offbeat openings in Saint Louis, while Jennifer Yu defeated Ashritha Eswaran in what was her sixth victory of the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r9",
+         "pubDate" : "Sat, 15 Oct 2022 15:00:00 +0100",
+         "title" : "U.S. Championships: Yu retakes the sole lead"
+      },
+      {
+         "description" : "Sam Shankland first met Christopher Yoo as an 8-year-old and said it was \"a tremendous delight to watch him grow up\", but in Round 9 of the US Championship he beat his prot&eacute;g&eacute; in the only decisive game of the Open section. In the Women's event Jennifer Yu regained the sole lead, while Alice Lee and Irina Krush share 2nd place after playing out an amazing draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-9-shankland-grabs-only-win",
+         "pubDate" : "Sat, 15 Oct 2022 11:42:47 +0000",
+         "title" : "US Chess Champs 9: Shankland grabs only win"
+      },
+      {
          "description" : "Round 4 in World Junior Chess Championship 2022 saw an Indian battle between IM Prraneeth Vuppala &#38; FM Rohith Krishna S. The game started from",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-1",
-         "pubDate" : "Sat, 15 Oct 2022 02:04:48 -0700",
+         "pubDate" : "Sat, 15 Oct 2022 02:04:00 -0700",
          "title" : "Aimchess Rapid: Abdusattorov Leads, Mamedyarov Shines"
       },
       {
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemanns-father-for-daily-mail-hans-is-a-good-kid-his-chess-speaks-for-itself/",
          "pubDate" : "Fri, 14 Oct 2022 20:54:34 +0000",
          "title" : "Hans Niemann's father for Daily Mail: Hans is a good kid. His chess speaks for itself"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Fri, 14 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -1322,14 +1330,6 @@ news_feed (
          "title" : "Nakamura's Tuesday Dominance Continues"
       },
       {
-         "description" : "Hans Niemann is accused of cheating in over 100 games at Chess.com in a 72-page report released by the company. They point to cheating in several more prize-money events than the one he admitted to as a 12-year-old, as well as in informal matches against top players. Despite highlighting \"a lack of concrete statistical evidence that he cheated in his game with Magnus or in any other over-the-board games\" Chess.com nevertheless outline \"apparent anomalies\" in Niemann's late rise to the top.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-com-release-72-page-hans-niemann-report",
-         "pubDate" : "Wed, 05 Oct 2022 14:48:38 +0000",
-         "title" : "Chess.com release 72-page Hans Niemann report"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1719,7 +1719,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Fri, 30 Sep 2022 06:48:35 +0000",
-         "title" : "European Cities & Towns Chess Championship 2022"
+         "title" : "European Cities & Towns Chess Championship - Registration Opens"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94550793.cms\" />FIDE said it will convene a three-person panel to look into world champion Magnus Carlsen's allegations that American player Hans Niemann had cheated.",
