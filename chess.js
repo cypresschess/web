@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first four rounds of the Aimchess Rapid online tournament were played on Friday. Nodirbek Abdusattorov was the top scorer, as he collected three wins and a draw for a 10/12 score (wins are worth 3 points, draws are worth 1 point). Magnus Carlsen, Jan-Krzysztof Duda and Shakhriyar Mamedyarov are sharing second place on 7/12.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d1",
+         "pubDate" : "Sat, 15 Oct 2022 05:40:00 +0100",
+         "title" : "Aimchess Rapid: Abdusattorov gets off to a winning start"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Christopher Yoo in Round 9 of the 2022 U.S. Chess Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-privilege-work-yoo-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ELyW54wXRuk.jpg?itok=2xFwhuiW\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2041",
          "pubDate" : "Fri, 14 Oct 2022 18:39:02 +0000",
          "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Fri, 14 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
       },
       {
          "description" : "Ever since the&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen, who consequently withdrew from the Sinquefield Cup 2022 (see the timetable of events related to the Carlsen &#x2013; Niemann case below), the topic of cheating in chess is&#160;the top news in mass medias. Norwegian VG earlier reported on different cases of cheating in online chess []",
