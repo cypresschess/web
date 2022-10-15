@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Sat, 15 Oct 2022 20:00:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Sat, 15 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
+         "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/henry-ii-thomas-becket-and-the-royal-game/",
+         "pubDate" : "Sat, 15 Oct 2022 15:48:12 +0000",
+         "title" : "Henry II, Thomas Becket and the Royal Game"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen is participating in the Aimchess Rapid which kicked off yesterday on chess24.com. Carlsen lost his Round 1 game to Shakhriyar Mamedyarov and finished the day with 7 points after defeating Eric Hansen and Vincent Keymer, and drawing against Aditya Mittal. Carlsen's game against Shakhriyar Mamedyarov started with 1.d4 Nf6 2.c4 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-still-looking-for-a-good-reply-to-1-d4-nf6-2-c4-tweetoftheday/",
          "pubDate" : "Sat, 15 Oct 2022 15:05:09 +0000",
          "title" : "Magnus Carlsen: Still looking for a good reply to 1.d4 Nf6 2.c4 #TweetOftheDay"
+      },
+      {
+         "description" : "The $150,000 Aimchess Rapid kicked off today with 18-year-old Nodirbek Abdusattorov taking an early lead and Indian youngster Aditya Mittal nearly toppling World Champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-1-flying-start-for-abdusattorov",
+         "pubDate" : "Sat, 15 Oct 2022 15:00:00 +0000",
+         "title" : "Aimchess Rapid Day 1: Flying start for Abdusattorov"
       },
       {
          "description" : "After nine rounds, Fabiano Caruana and Jennifer Yu are the sole leaders at the U.S. Championship and U.S. Women's Championship, respectively. Caruana drew with Awonder Liang after the latter continued the trend of playing offbeat openings in Saint Louis, while Jennifer Yu defeated Ashritha Eswaran in what was her sixth victory of the event. | Photo: Lennart Ootes",
@@ -1250,14 +1282,6 @@ news_feed (
          "title" : "US Chess Champs 1: Hans Niemann defies his critics"
       },
       {
-         "description" : "Magnus Carlsen sacrificed 3 pawns to beat Alexander Naumann in Round 2 of the European Club Cup, while in Round 3 we saw the top teams facing tough opposition for the first time. Maxime Vachier-Lagrave and his team were both on the edge of disaster before escaping with a draw. Round 4 will see major clashes, including Anand-Mamedyarov and Carlsen-Harikrishna.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/euro-club-cup-2-3-magnus-masterpiece",
-         "pubDate" : "Thu, 06 Oct 2022 13:31:56 +0000",
-         "title" : "Euro Club Cup 2-3: Magnus masterpiece"
-      },
-      {
          "description" : " The 2022 edition of the European Club Cup has attracted plenty of media attention, due in part to the participation of World Champion Magnus Carlsen and FIDE Deputy President Vishwanathan Anand. This year sees over 70 teams taking part in the Open and Women's section, in part due to the rule that each federation can send up to 5 teams. While this has increased the number of teams taking part, it has also seen a few Australian players sneak in as well. The Celtic Tigers team has both Fedja Zulfic and Chris Skulte playing for them, with the team scoring 1 win and 2 losses after 3 rounds. Round 2 saw Zulfic draw against his higher rated opponent, in a very combative game. <br /> <b>Zulfic,Fedj",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1504,22 +1528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
          "pubDate" : "Tue, 04 Oct 2022 00:45:00 -0700",
          "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
-      },
-      {
-         "description" : "Last week we presented you with a second set of unusual and interesting positions. They are clever and somewhat difficult to solve. But all of them are fun. Today you get the solutions, presented in a way that is particluarly easy to follow. You do not have to be a champion player or problem expert to follow.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/studies-for-fun-and-entertainment-3",
-         "pubDate" : "Tue, 04 Oct 2022 08:00:00 +0100",
-         "title" : "Studies for fun and entertainment (2)"
-      },
-      {
-         "description" : "The European Club Cups kicked off in Mayrhofen, Austria, with 70 teams in the open and 17 teams in the women's tournament. There were no major upsets in the open, as the top teams mostly got easy wins. On the other hand, among the women, the favourites from Monaco won by the smallest of margins. Vishy Anand and Magnus Carlsen both drew with the black pieces. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r1",
-         "pubDate" : "Tue, 04 Oct 2022 06:10:00 +0100",
-         "title" : "European Club Cup: Anand and Carlsen start with draws"
       },
       {
          "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
