@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you find the winning move White played in the diagrammed position, the rest will be be easy - enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finding-happiness",
+         "pubDate" : "Sat, 15 Oct 2022 09:00:00 +0100",
+         "title" : "Finding happiness"
+      },
+      {
          "description" : "The first four rounds of the Aimchess Rapid online tournament were played on Friday. Nodirbek Abdusattorov was the top scorer, as he collected three wins and a draw for a 10/12 score (wins are worth 3 points, draws are worth 1 point). Magnus Carlsen, Jan-Krzysztof Duda and Shakhriyar Mamedyarov are sharing second place on 7/12.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d1",
          "pubDate" : "Sat, 15 Oct 2022 05:40:00 +0100",
          "title" : "Aimchess Rapid: Abdusattorov gets off to a winning start"
+      },
+      {
+         "description" : "GM Sam Shankland was the sole winner in round nine of the 2022 U.S. Championships on Friday after he defeated a struggling GM Christopher Yoo. Besides this game, the remainder of the encounters were drawn with remarkably high accuracy: an average ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-9",
+         "pubDate" : "Fri, 14 Oct 2022 21:07:00 -0700",
+         "title" : "Shankland Brilliantly Retreats To Victory"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Christopher Yoo in Round 9 of the 2022 U.S. Chess Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-privilege-work-yoo-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ELyW54wXRuk.jpg?itok=2xFwhuiW\" alt=\"\" /></a></div>",
@@ -1474,28 +1490,12 @@ news_feed (
          "title" : "Nakamura Neutralizes Dominguez, Andreikin Upsets Caruana"
       },
       {
-         "description" : "Each of the ten European mini-states which make up the European Small Nations Association sent one player to this single round-robin tournament with a classical time control. The event took place in Vaduz, the capital of Liechtenstein, and ended Saturday. The winner of the tournament was GM Lance Henderson de la Fuente, from Andorra, who obtained an 8/9 score. The matter was only decided in the last round, when Henderson defeated Luitjen Akselsson Apol from the Faroe Islands. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lance-henderson-wins-european-small-nations-2022",
-         "pubDate" : "Mon, 03 Oct 2022 20:00:00 +0100",
-         "title" : "Lance Henderson wins European Small Nations Championship"
-      },
-      {
          "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html",
          "pubDate" : "Mon, 03 Oct 2022 15:14:00 +0000",
          "title" : "Breaking the 3500 Barrier"
-      },
-      {
-         "description" : "Some players have made considerable Elo gains as the International Chess Federation has corrected rapid and blitz ratings with the publication of the October 2022 rating lists. GM Praggnanandhaa R. gains a staggering 660 points for his rapid ratin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-october-fide-ratings-rapid-blitz",
-         "pubDate" : "Mon, 03 Oct 2022 07:12:00 -0700",
-         "title" : "Praggnanandhaa Gains 660 Points As FIDE Adjusts Rapid, Blitz Ratings"
       },
       {
          "description" : "",
@@ -2048,14 +2048,6 @@ news_feed (
          "link" : "https://www.europechess.org/4th-esna-european-small-nations-individual-chess-championship-starts/",
          "pubDate" : "Sat, 24 Sep 2022 07:30:52 +0000",
          "title" : "4th ESNA European Small Nations Individual Chess Championship starts"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94413132.cms\" />Young Indian Grandmaster Arjun Erigaisi got the better of Liem Quang Le (Vietnam) to set up a final clash with world no.1 Magnus Carlsen in the Julius Baer Generation Cup online rapid chess tournament. While the 19-year old Erigaisi had to fight hard to subdue the challenge of his Vietnamese rival, Carlsen won 3-1.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-arjun-erigaisi-to-meet-magnus-carlsen-in-final/articleshow/94413132.cms",
-         "pubDate" : "Sat, 24 Sep 2022 06:51:27 +0000",
-         "title" : "Julius Baer Cup: Arjun Erigaisi to meet Magnus Carlsen in final"
       }
    ]
 }
