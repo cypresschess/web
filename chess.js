@@ -10,6 +10,38 @@ news_feed (
          "title" : "Hans Niemann: I think the comeback is certainly coming and I've definitely been humbled a lot in this tournament"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-12-lichessorg",
+         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 12 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the U.S. Women's Championship field about their tournament expectations in regard to the mix of young talent and experience. This aired during Round 10. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-women%E2%80%99s-championship-tournament-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xWSv-SOIVI8.jpg",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-women%E2%80%99s-championship-tournament-expectations",
+         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
+         "title" : "2022 U.S. Women's Championship: Tournament Expectations"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw with Wesley So in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-needs-rest-day-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pgHXcSzAdhA.jpg?itok=j76MtlsX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-needs-rest-day-round-10",
+         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
+         "title" : "Levon Needs a Rest Day | Round 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after a defeating Elshan Moradiabadi in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-brewing-comeback-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_BA1apiSKfU.jpg?itok=7iU243A5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-brewing-comeback-round-10",
+         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
+         "title" : "Hans Niemann Brewing Up a Comeback! | Round 10"
+      },
+      {
          "description" : "Uzbek wonderkid Nodirbek Abdusattorov clung onto a narrow lead in the&#160;$150,000 Aimchess Rapid as World Champion Magnus Carlsen suffered a shock defeat. Having dominated on Day 1,&#160;Abdusattorov bounced back from a loss in the first game today to score two more wins and finish top of the leaderboard on 17/24 &#x2013; one point ahead of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -242,30 +274,6 @@ news_feed (
          "title" : "Maurice Ashley: Delay is the Worst for Spectators | Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after a draw with Wesley So in the ninth round of the 2022 U.S. Chess Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-uber-eats-has-lost-my-business-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FuMK1mtfCZY.jpg?itok=YDKBbwgz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-uber-eats-has-lost-my-business-round-9",
-         "pubDate" : "Fri, 14 Oct 2022 21:58:58 +0000",
-         "title" : "Niemann: Uber Eats Has Lost My Business | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cardinal Glennon Children&#039;s Hospital President Steven Burghart talks to Cristian Chirila during the ninth round of the 2022 U.S. Chess Championships. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/steven-burghart-strategy-across-board-gala-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-I7BiOF3pAo.jpg?itok=_1CyY3Ws\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/steven-burghart-strategy-across-board-gala-round-9",
-         "pubDate" : "Fri, 14 Oct 2022 21:58:58 +0000",
-         "title" : "Steven Burghart on the Strategy Across The Board Gala | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-11-lichessorg",
-         "pubDate" : "Fri, 14 Oct 2022 18:58:56 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 11 | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -384,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-8",
          "pubDate" : "Thu, 13 Oct 2022 21:39:00 -0700",
          "title" : "Robson's Hat Trick Closes The Gap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.13<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 03:58:10 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 8"
       },
       {
          "description" : "",
