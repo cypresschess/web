@@ -10,6 +10,14 @@ news_feed (
          "title" : "Hans Niemann: I think the comeback is certainly coming and I've definitely been humbled a lot in this tournament"
       },
       {
+         "description" : "Uzbek wonderkid Nodirbek Abdusattorov clung onto a narrow lead in the&#160;$150,000 Aimchess Rapid as World Champion Magnus Carlsen suffered a shock defeat. Having dominated on Day 1,&#160;Abdusattorov bounced back from a loss in the first game today to score two more wins and finish top of the leaderboard on 17/24 &#x2013; one point ahead of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-continues-to-lead-carlsen-and-mamedyarov-follow-aimchess-rapid-day-2-recap/",
+         "pubDate" : "Sat, 15 Oct 2022 21:30:00 +0000",
+         "title" : "Abdusattorov continues to lead, Carlsen and Mamedyarov follow; Aimchess Rapid Day 2 recap"
+      },
+      {
          "description" : "World Chess Champion&#xA0;Magnus Carlsen&#xA0;is participating in the Aimchess Rapid which kicked off yesterday with the Preliminary stage on chess24.com. After eight played rounds, Carlsen scores 17 points and ties for the second place with Shakhriyar Mamedyarov. Aimchess Rapid &#x2013; Replay all games here&#xA0;/&#xA0;Pairings &#38; Schedule In the Day 2 interview, Carlsen said he thought yesterday []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-publishes-the-community-update-on-the-carlsen-niemann-report/",
          "pubDate" : "Fri, 14 Oct 2022 22:27:27 +0000",
          "title" : "Chess.com publishes the \"community update\" on the Carlsen - Niemann report"
-      },
-      {
-         "description" : "Hans Niemann had a good start at the US Chess Championship, but after scoring 2/3 points, he suffered three losses in four days. After yesterday's draw against Levon Aronian, Hans today drew his game against Wesley So and now scores 3.5/9 points. Joining the US Championship studio for the post-game interview, Niemann said that he's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-i-am-just-playing-chess/",
-         "pubDate" : "Fri, 14 Oct 2022 22:10:08 +0000",
-         "title" : "Hans Niemann: I am just playing chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Cristian Chirila during Round 9 of the 2022 U.S. Chess Championships. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-ashley-delay-worst-spectators-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YIZTL4d7fyQ.jpg?itok=d-A-BDqv\" alt=\"\" /></a></div>",
