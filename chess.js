@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Christopher Yoo in Round 9 of the 2022 U.S. Chess Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-privilege-work-yoo-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ELyW54wXRuk.jpg?itok=2xFwhuiW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-privilege-work-yoo-round-9",
+         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
+         "title" : "Shankland: A Privilege to Work with Yoo | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Megan Lee in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-you-could-see-megan-was-nervous-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53DgTn0np0Q.jpg?itok=FQHjheZD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-you-could-see-megan-was-nervous-round-9",
+         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
+         "title" : "Begim: You Could See Megan Was Nervous | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Eswaran in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu%E2%80%99s-caro-kann-stops-ashritha-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y71Jn5BMlds.jpg?itok=QxAFV6oD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu%E2%80%99s-caro-kann-stops-ashritha-round-9",
+         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
+         "title" : "Jennifer Yu's Caro-Kann Stops Ashritha | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Cristian Chirila after defeating Foisor in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-qc1-bh6-weird-sequence-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r3lUIzGBytM.jpg?itok=Z4HGiSG_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thalia-qc1-bh6-weird-sequence-round-9",
+         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
+         "title" : "Thalia: Qc1, Bh6! A Weird Sequence | Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.14<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-9",
+         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 9"
+      },
+      {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -248,46 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-8",
          "pubDate" : "Fri, 14 Oct 2022 03:58:10 +0000",
          "title" : "2022 U.S. Chess Championships: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jeffery Xiong talks to Cristian Chirila after defeating Christopher Yoo in Round 8 of the 2022 U.S. Chess Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/xiong-i-won-ruined-my-chance-13-draws-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jQpl1Mps7-A.jpg?itok=_1ENw802\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/xiong-i-won-ruined-my-chance-13-draws-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 00:58:06 +0000",
-         "title" : "Xiong: I Won & Ruined My Chance at 13 Draws! | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Rochelle Wu in Round 8 of the 2022 U.S. Women's Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-rochelle-my-little-sister-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o3Jj8hpVFWk.jpg?itok=r2RnQpmm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-rochelle-my-little-sister-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 00:58:06 +0000",
-         "title" : "Jennifer Yu: Rochelle is Like My Little Sister | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after defeating Moradiabadi in Round 8 of the 2022 U.S. Chess Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson%E2%80%99s-next-goals-after-hitting-2700-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zvx77QiNrpo.jpg?itok=TOOd2fHO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ray-robson%E2%80%99s-next-goals-after-hitting-2700-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 00:58:06 +0000",
-         "title" : "Ray Robson's Next Goals after Hitting 2700 | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Swiercz in Round 8 of the 2022 U.S. Chess Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-wait-%E2%80%99til-next-year%E2%80%A6-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8PEvUzLmEfg.jpg?itok=NKQB27hv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-wait-%E2%80%99til-next-year%E2%80%A6-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 00:58:06 +0000",
-         "title" : "Wesley So: Wait 'Til Next Year&hellip; | Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after defeating Paikidze in Round 8 of the 2022 U.S. Women's Championship. 2022.10.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-didn%E2%80%99t-want-lose-my-birthday-round-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SKjMml1b7Ck.jpg?itok=UJcmTJSV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-didn%E2%80%99t-want-lose-my-birthday-round-8",
-         "pubDate" : "Fri, 14 Oct 2022 00:58:06 +0000",
-         "title" : "Alice Lee: Didn't Want to Lose on My Birthday | Round 8"
       },
       {
          "description" : "",
