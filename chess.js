@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen is participating in the Aimchess Rapid which kicked off yesterday on chess24.com. Carlsen lost his Round 1 game to Shakhriyar Mamedyarov and finished the day with 7 points after defeating Eric Hansen and Vincent Keymer, and drawing against Aditya Mittal. Carlsen's game against Shakhriyar Mamedyarov started with 1.d4 Nf6 2.c4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-still-looking-for-a-good-reply-to-1-d4-nf6-2-c4-tweetoftheday/",
+         "pubDate" : "Sat, 15 Oct 2022 15:05:09 +0000",
+         "title" : "Magnus Carlsen: Still looking for a good reply to 1.d4 Nf6 2.c4 #TweetOftheDay"
+      },
+      {
          "description" : "After nine rounds, Fabiano Caruana and Jennifer Yu are the sole leaders at the U.S. Championship and U.S. Women's Championship, respectively. Caruana drew with Awonder Liang after the latter continued the trend of playing offbeat openings in Saint Louis, while Jennifer Yu defeated Ashritha Eswaran in what was her sixth victory of the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fabiano-caruana-stays-in-sole-lead-us-chess-championship-round-9-recap/",
          "pubDate" : "Sat, 15 Oct 2022 07:38:32 +0000",
          "title" : "Fabiano Caruana stays in sole lead; US Chess Championship Round 9 recap"
+      },
+      {
+         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
+         "pubDate" : "Sat, 15 Oct 2022 06:48:35 +0000",
+         "title" : "European Cities & Towns Chess Championship Registration opens!"
       },
       {
          "description" : "The first four rounds of the Aimchess Rapid online tournament were played on Friday. Nodirbek Abdusattorov was the top scorer, as he collected three wins and a draw for a 10/12 score (wins are worth 3 points, draws are worth 1 point). Magnus Carlsen, Jan-Krzysztof Duda and Shakhriyar Mamedyarov are sharing second place on 7/12.",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nodirbek-abdusattorov-is-the-leader-of-aimchess-rapid-after-day-1/",
          "pubDate" : "Fri, 14 Oct 2022 21:31:18 +0000",
          "title" : "Nodirbek Abdusattorov is the leader of Aimchess Rapid after day 1"
-      },
-      {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament without detailed explanations. Two weeks after, Magnus Carlsen refused to play against Niemann in the Julius Baer Generation Cup and&#xA0;resigned his game after two moves of play. By the end of the tournament, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemanns-father-for-daily-mail-hans-is-a-good-kid-his-chess-speaks-for-itself/",
-         "pubDate" : "Fri, 14 Oct 2022 20:54:34 +0000",
-         "title" : "Hans Niemann's father for Daily Mail: Hans is a good kid. His chess speaks for itself"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -1714,14 +1722,6 @@ news_feed (
          "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
       },
       {
-         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
-         "pubDate" : "Fri, 30 Sep 2022 06:48:35 +0000",
-         "title" : "European Cities & Towns Chess Championship - Registration Opens"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94550793.cms\" />FIDE said it will convene a three-person panel to look into world champion Magnus Carlsen's allegations that American player Hans Niemann had cheated.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2024,22 +2024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/try-and-avoid-this.html",
          "pubDate" : "Sun, 25 Sep 2022 13:08:00 +0000",
          "title" : "Try and avoid this"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2002",
-         "pubDate" : "Sat, 24 Sep 2022 14:26:41 +0000",
-         "title" : "Free day of WCCC 2022 filled with chess activities"
-      },
-      {
-         "description" : " This years AFL grand Final has been run and done, with the Sydney Swans getting smashed by Geelong. During (or after) the coverage, I did see an advertisement for an insurance company which had a bit of chess in it. AFL legend Kevin Sheedy was one of the players, although the game was halted when someone ran through the game, smashing board, table, pieces etc. I'd post a link but I can't find one at the moment. If anyone does have a link, please post in the comments section. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/advertising.html",
-         "pubDate" : "Sat, 24 Sep 2022 14:14:00 +0000",
-         "title" : "Advertising"
       }
    ]
 }
