@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 4 in World Junior Chess Championship 2022 saw an Indian battle between IM Prraneeth Vuppala &#38; FM Rohith Krishna S. The game started from",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2022-round-4-report/",
+         "pubDate" : "Sat, 15 Oct 2022 10:37:48 +0000",
+         "title" : "World Junior Chess Championship 2022 ROUND 4 REPORT"
+      },
+      {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a very good start at the tournament []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1202,14 +1210,6 @@ news_feed (
          "title" : "World Under 16 Youth Olympiad-2022:Report"
       },
       {
-         "description" : "1st Bikaner Open International Grandmasters' Chess Tournament 2022 (Category B) organized by the RAJASTHAN CHESS ASSOCIATION was concluded on 5th Oct 2022, at the Banquet",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/jaganathan-brothers-lifted-first-two-prizes-of-bikaner-gm-category-b-while-sanskruti-and-polturi-create-waves/",
-         "pubDate" : "Thu, 06 Oct 2022 16:30:31 +0000",
-         "title" : "Jaganathan Brothers lifted first two prizes of Bikaner GM Category B while Sanskruti and Polturi create waves"
-      },
-      {
          "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html\">2022 CJA Awards - Part 2</A>(August 2022), I promised a follow-up:- <BLOCKQUOTE>In 'Part 1' I ended the post saying, \"There is so much to discuss this year that I might even squeeze out a 'Part 3'.\" Here are a few ideas for 'Part 3', '-4', and so on, no squeeze necessary. [...] </BLOCKQUOTE> <P>The first idea was 'Winners of multiple awards (e.g. Soltis [x4], Spanier [x4], and Donaldson [x3])', where I've added, e.g. '[x4]' to show how many awards each of them won. Although the numbers add up to 11 awards, Spanier and Donaldson were named jointly on one award:- <BLOCKQUOTE>Honorable Mention; Best Story of th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/advertising.html",
          "pubDate" : "Sat, 24 Sep 2022 14:14:00 +0000",
          "title" : "Advertising"
-      },
-      {
-         "description" : "Everything that follows this preamble proceeds from a common cognisance of the presumption of innocence: Ei incumbit probatio qui dicit, non qui negat. (\"The burden of proof lies upon him who affirms, not he who denies.)\" The reigning, though shortly retiring, World Chess Champion Magnus Carlsen has established a record for the longest sequence of games without loss []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/cheating-in-grandmaster-chess/",
-         "pubDate" : "Sat, 24 Sep 2022 10:23:45 +0000",
-         "title" : "Cheating in grandmaster chess?"
       }
    ]
 }
