@@ -10,6 +10,22 @@ news_feed (
          "title" : "Opening catastrophes"
       },
       {
+         "description" : "FIDE World Junior Chess Championships 2022 is taking place in Sardinia, Italy from October 11 to 23, 2022. Nearly 200 players from 58 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. IM Nurgyul Salimova, WIM Meruert Kamalidenova, WIM Mariam Mkrtchyan, WGM Govhar Beydullayeva and WGM Jana Schneider []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/govhar-beydullayeva-is-the-leader-of-world-girls-chess-2022/",
+         "pubDate" : "Sun, 16 Oct 2022 19:47:01 +0000",
+         "title" : "Govhar Beydullayeva is the leader of World Girls Chess 2022"
+      },
+      {
+         "description" : "FIDE World Junior Chess Championships 2022&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds in the open section are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon Luke Mendonca,&#xA0;IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/frederik-svane-leads-the-u20-world-chess-championship-on-better-tiebreak-after-r6/",
+         "pubDate" : "Sun, 16 Oct 2022 19:33:27 +0000",
+         "title" : "Frederik Svane leads the U20 World Chess Championship on better tiebreak after R6"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,14 +266,6 @@ news_feed (
          "title" : "Levon Aronian vs Welsey So, US Chess Championship 2022 Round 10 LIVE"
       },
       {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana maintained the sole lead in the event with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/christopher-yoo-vs-fabiano-caruana-us-chess-championship-2022-round-10-live/",
-         "pubDate" : "Sat, 15 Oct 2022 09:08:54 +0000",
-         "title" : "Christopher Yoo vs Fabiano Caruana, US Chess Championship 2022 Round 10 LIVE"
-      },
-      {
          "description" : "Uzbekistan&#39;s GM Nodirbek Abdusattorov leads the preliminaries of the Aimchess Rapid tournament after four rounds of play. It was GM Shakhriyar Mamedyarov who stole the show, beating GM Magnus Carlsen and, brilliantly, GM Anish Giri. How to watch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-chess-2022-round-2-round-3-report/",
          "pubDate" : "Sat, 15 Oct 2022 09:03:47 +0000",
          "title" : "Fide World Junior Chess 2022: Round 2 & Round 3 Report"
-      },
-      {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-10-live/",
-         "pubDate" : "Sat, 15 Oct 2022 09:03:29 +0000",
-         "title" : "US Chess Championship 2022 - Round 10 live"
       },
       {
          "description" : "5 GOLDS EACH FOR INDIA AND VIETNAM The much awaited ASIAN YOUTH CHESS CHAMPIONSHIP 2022 KICK STARTS AT BALI ,INDIAN TEAM PLAYERS : CHARVI,",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gm-arjun-erigaisi-goes-down-to-magnus-carlsen-in-final/articleshow/94445878.cms",
          "pubDate" : "Mon, 26 Sep 2022 05:11:52 +0000",
          "title" : "Julius Baer Cup: Indian GM Erigaisi goes down to Carlsen in final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2003",
-         "pubDate" : "Sun, 25 Sep 2022 20:02:24 +0000",
-         "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
       }
    ]
 }
