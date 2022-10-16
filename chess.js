@@ -10,6 +10,14 @@ news_feed (
          "title" : "Aimchess Rapid: Arjun beats Carlsen, Abdusattorov leads"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Ashritha Eswaran in Round 10 of the 2022 U.S. Women's Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tokhirjonova-critical-win-over-eswaran-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TiL40iH5ySQ.jpg?itok=jRIysLkb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tokhirjonova-critical-win-over-eswaran-round-10",
+         "pubDate" : "Sun, 16 Oct 2022 01:00:06 +0000",
+         "title" : "Tokhirjonova: Critical Win Over Eswaran | Round 10"
+      },
+      {
          "description" : "Hans Niemann defeated Elshan Moradiabadi in the 10th round of the US Chess Championship. After a very good start with 2/3 points, Hans lost three games in four days and came back with an important victory today. In the post-game interview, Niemann revealed he went all-in into today's game: &#8220;Today I decided I will either []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chess-com-publishes-the-community-update-on-the-carlsen-niemann-report/",
          "pubDate" : "Fri, 14 Oct 2022 22:27:27 +0000",
          "title" : "Chess.com publishes the \"community update\" on the Carlsen - Niemann report"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley talks to Cristian Chirila during Round 9 of the 2022 U.S. Chess Championships. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-ashley-delay-worst-spectators-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YIZTL4d7fyQ.jpg?itok=d-A-BDqv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maurice-ashley-delay-worst-spectators-round-9",
-         "pubDate" : "Fri, 14 Oct 2022 21:58:58 +0000",
-         "title" : "Maurice Ashley: Delay is the Worst for Spectators | Round 9"
       },
       {
          "description" : "",
