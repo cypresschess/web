@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The one decisive result in round 10 of the U.S. Championship saw Hans Niemann beating Elshan Moradiabadi with the black pieces. Fabiano Caruana continues to be the sole leader going into the second rest day of the 13-round tournament. In the women's section, Thalia Cervantes and Gulrukhbegim Tokhirjonova both scored with the black pieces. Jennifer Yu is still topping the standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r10",
+         "pubDate" : "Sun, 16 Oct 2022 16:15:00 +0100",
+         "title" : "U.S. Championships: Niemann plays 'psychotic chess', wins"
+      },
+      {
+         "description" : "Hans Niemann beat Elshan Moradiabadi to score the only win of Round 10 of the Open section of the US Chess Championship. \"I'm a competitive chess player on the path to becoming a World Champion,\" was how Hans described himself after finding a knockout blow at the end of the game. The Women's section was vastly more combative, but only Thalia Cervantes and Gulrukhbegim Tokhirjonova won to move within a point of the leader Jennifer Yu.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-champs-10-niemann-on-path-to-become-world-champion",
+         "pubDate" : "Sun, 16 Oct 2022 14:04:47 +0000",
+         "title" : "US Champs 10: Niemann \"on path to become World Champion\""
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 95th instalment of his ChessBase show \"Understanding before Moving\", Herman discusses structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lilit-mkrtchian-2",
          "pubDate" : "Sun, 16 Oct 2022 13:00:00 +0100",
          "title" : "Lilit Mkrtchian (2) - How to prepare against your first tournament opponent and succeed"
+      },
+      {
+         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
+         "pubDate" : "Sun, 16 Oct 2022 10:12:00 +0000",
+         "title" : "Aimchess Rapid Preliminary stage - Day 3 LIVE"
       },
       {
          "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
@@ -146,14 +170,6 @@ news_feed (
          "title" : "Magnus Carlsen: I think it's good that the attitude about cheating is changing"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Sat, 15 Oct 2022 20:00:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/finding-happiness",
          "pubDate" : "Sat, 15 Oct 2022 09:00:00 +0100",
          "title" : "Finding happiness"
-      },
-      {
-         "description" : "GM Sam Shankland was the only player to gain ground in round 9, defeating GM Christopher Yoo to join the tie for third. GM Fabiano Caruana continues to lead with GM Ray Robson trailing by half a point. In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu leapfrogged into clear first with a victory over FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-stays-in-sole-lead-us-chess-championship-round-9-recap/",
-         "pubDate" : "Sat, 15 Oct 2022 07:38:32 +0000",
-         "title" : "Fabiano Caruana stays in sole lead; US Chess Championship Round 9 recap"
       },
       {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
@@ -1234,14 +1242,6 @@ news_feed (
          "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
       },
       {
-         "description" : "Vishy Anand is back to World no. 9 after defeating Shakhriyar Mamedyarov in Round 4 of the European Club Cup, while Magnus Carlsen scored a second win in a row, taking down Harikrishna. Neither World Champion's team won, however, with Novy Bor taking the sole lead after wins for Vidit and Markus Ragger cancelled out Carlsen's win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/euro-club-cup-4-anand-and-carlsen-win",
-         "pubDate" : "Fri, 07 Oct 2022 09:32:31 +0000",
-         "title" : "Euro Club Cup 4: Anand and Carlsen win"
-      },
-      {
          "description" : "The third and fourth rounds at the European Club Cup saw nice wins for both GM Magnus Carlsen and GM Viswanathan Anand, but their respective teams dropped in the standings. Novy Bor (Czech Republic) is the only team that scored four victories, whi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2040,22 +2040,6 @@ news_feed (
          "link" : "https://chessimprover.com/bogo-meet-lucy/",
          "pubDate" : "Sun, 25 Sep 2022 15:36:12 +0000",
          "title" : "Bogo, Meet Lucy"
-      },
-      {
-         "description" : "In this blog's long-running monthly series on <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), this is the second post in a row to deal with the so-called 'root of all evil'. Last month we had <A HREF=\"http://chessforallages.blogspot.com/2022/08/was-fischer-avaricious.html\">Was Fischer Avaricious?</A>(August 2022). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/pDWS6hkN5Kw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Who Has Won The Most Money In Chess History?</B> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/the-root-of-all-evil.html",
-         "pubDate" : "Sun, 25 Sep 2022 15:09:00 +0000",
-         "title" : "'The Root of All Evil'?"
-      },
-      {
-         "description" : " This example probably falls under the heading of \"Do as I do, not as I say\". I've always told young players to spend their time on understanding openings, rather than simply memorising moves. On the other hand, when I was young, I spent a lot of time memorising lines, especially lines which contained a number of traps. If White had followed my example, but not my advice, they may not have had their queen trapped so quickly. <br /> <b>White - Black</b><br />Street Chess, 24.09.2022 <script>new PgnViewer( { boardName: \"game1353\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nc6 6.Nxe4 Nd4 7.Qc3 dxe4 8.Be2 Bb4 9.Qc4 Be6 0-1', pauseBetweenMoves: 500, pieceSize:",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/try-and-avoid-this.html",
-         "pubDate" : "Sun, 25 Sep 2022 13:08:00 +0000",
-         "title" : "Try and avoid this"
       }
    ]
 }
