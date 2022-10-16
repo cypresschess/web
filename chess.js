@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Sun, 16 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
          "description" : "The one decisive result in round 10 of the U.S. Championship saw Hans Niemann beating Elshan Moradiabadi with the black pieces. Fabiano Caruana continues to be the sole leader going into the second rest day of the 13-round tournament. In the women's section, Thalia Cervantes and Gulrukhbegim Tokhirjonova both scored with the black pieces. Jennifer Yu is still topping the standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "October 1972 & 1997 'On the Cover'"
       },
       {
-         "description" : "The cheating accusations against Hans Niemann continue to make waves. To check these accusations, a number of chess players have statistically analysed Niemann's games with the help of computer programmes. The latest research comes from the Brazilian streamer, programmer and data analyst \"Rafaelvleite\". He comes to the conclusion that Niemann's play \"after 2018 shows unexpected\" results \"not compatible with\" a rating of 2700. Here are excerpts from his article about his research.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/statistical-analysis-of-the-games-of-hans-niemann",
-         "pubDate" : "Tue, 04 Oct 2022 15:27:17 +0100",
-         "title" : "Statistical analysis of the games of Hans Niemann"
-      },
-      {
          "description" : " With chess players starting competitions at very young ages, it is always a balancing act between trying to get such players to behave in the correct 'chess' manner, and not to end up pushing them too hard. During a school holiday coaching day, I saw a couple of different approaches, that seem to have different results. The first was an older junior who seemed content to win as many games as possible using Scholars Mate. While it looked good on the scoreboard, it was also clear that he wasn't actually learning how to play better chess. The second was a young player who was worried about coming last (or scoring poorly) in the blitz tournament we ran. As a compromise, I told him (and his oppo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2024,22 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2003",
          "pubDate" : "Sun, 25 Sep 2022 20:02:24 +0000",
          "title" : "Magnus Carlsen wins Julius Baer Generation Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2001",
-         "pubDate" : "Sun, 25 Sep 2022 16:57:54 +0000",
-         "title" : "FIDE WGP Astana: Kateryna Lagno joins the lead"
-      },
-      {
-         "description" : " Here's another example of how far we've come in the past century. This is the final position in the game Bogoljubov Thomas, played in the Hastings 6 Masters Tournament on 13 September 1922. Sir George has just checked his opponent, and like the perfect English gentleman he was, has offered a draw. Bogo, on <a href=\"https://chessimprover.com/bogo-meet-lucy/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bogo, Meet Lucy\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bogo-meet-lucy/\">Bogo, Meet Lucy</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/bogo-meet-lucy/",
-         "pubDate" : "Sun, 25 Sep 2022 15:36:12 +0000",
-         "title" : "Bogo, Meet Lucy"
       }
    ]
 }
