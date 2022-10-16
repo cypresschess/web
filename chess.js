@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hans Niemann entered the round determined to have a decisive result and was the only player to score a victory today. GM Fabiano Caruana maintains his lead with Ray Robson trailing by half a point, heading into the rest day. In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu held a topsy-turvy game vs. IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-remains-in-sole-lead-us-chess-championship-2022-round-10-recap/",
+         "pubDate" : "Sun, 16 Oct 2022 07:45:08 +0000",
+         "title" : "Fabiano Caruana remains in sole lead; US Chess Championship 2022 Round 10 recap"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94892637.cms\" />Indian Grandmaster Arjun Erigaisi on Sunday hogged the spotlight, beating world champion Magnus Carlsen in round seven of the preliminaries of the Aimchess Rapid online chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-arjun-erigaisi-shocks-magnus-carlsen-in-aimchess-rapid-tourney/articleshow/94892637.cms",
+         "pubDate" : "Sun, 16 Oct 2022 06:10:06 +0000",
+         "title" : "Indian GM Erigaisi shocks Carlsen in Aimchess Rapid tourney"
+      },
+      {
          "description" : "The 10th round of the 2022 U.S. Chess Championship took place on Saturday with a single decisive result in favor of GM Hans Niemann. Draws for GMs Fabiano Caruana and Ray Robson left them on 7/10 and 6.5/10 respectively with chances for chasers to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-10",
-         "pubDate" : "Sat, 15 Oct 2022 21:33:29 -0700",
-         "title" : "Niemann Wins: \"A Comeback Is Brewing\""
+         "pubDate" : "Sat, 15 Oct 2022 21:33:00 -0700",
+         "title" : "Niemann Wins: 'A Comeback Is Brewing'"
       },
       {
          "description" : "Arjun Erigaisi was the top scorer on day 2 of the Aimchess Rapid. The Indian prodigy collected three wins and a draw and, in round 7, achieved his first-ever victory over world champion Magnus Carlsen. Thanks to his performance on Saturday, Arjun climbed to shared fourth place, two points behind sole leader Nodirbek Abdusattorov. Carlsen and Shakhriyar Mamedyarov are sharing second place a point behind the young Uzbek. | Photo: Amruta Mokal / 2022 Chess Olympiad",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-9",
          "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
          "title" : "2022 U.S. Chess Championships: Round 9"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-publishes-the-community-update-on-the-carlsen-niemann-report/",
-         "pubDate" : "Fri, 14 Oct 2022 22:27:27 +0000",
-         "title" : "Chess.com publishes the \"community update\" on the Carlsen - Niemann report"
       },
       {
          "description" : "",
