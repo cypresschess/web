@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leinier Dominguez won his round-7 game in the U.S. Championship after only ten moves. The opening debacle prompted Jon Speelman to locate similar examples both in a book by Yakov Neishtadt and in the database of his own games. And he also remembered to give the solution of the proof game from last week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-180",
+         "pubDate" : "Sun, 16 Oct 2022 21:00:00 +0100",
+         "title" : "Opening catastrophes"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/1993",
          "pubDate" : "Tue, 04 Oct 2022 16:42:23 +0000",
          "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
-      },
-      {
-         "description" : "There is a sense of frustration at this stage by parties wide and large, and while the quote in the headline will hit closer to home for chess players, the venerable British newspaper 'The Guardian' also took an unprecedented step by declaring their own official position regarding the entire scandal.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-on-magnus-carlsen-his-behavior-was-unacceptable",
-         "pubDate" : "Tue, 04 Oct 2022 17:00:00 +0100",
-         "title" : "Garry Kasparov on Magnus Carlsen: \"his behavior was unacceptable\""
       },
       {
          "description" : "In last month's post <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), I struggled to include the 1972 Fischer - Spassky match:- <BLOCKQUOTE>CL&R couldn't yet report the final result of the match. [...] The date of today's post, 1 September, marks 50 years since the historic match ended. [...] We'll come back to the end of the 1972 match for the October 'On the Cover' post. </BLOCKQUOTE> <P>So here we are. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj04.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Joel Benjamin: The New Interplay U.S. Champion! <U>INTERPLAY</",
