@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 10th round of the 2022 U.S. Chess Championship took place on Saturday with a single decisive result in favor of GM Hans Niemann. Draws for GMs Fabiano Caruana and Ray Robson left them on 7/10 and 6.5/10 respectively with chances for chasers to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-10",
+         "pubDate" : "Sat, 15 Oct 2022 21:33:29 -0700",
+         "title" : "Niemann Wins: \"A Comeback Is Brewing\""
+      },
+      {
          "description" : "Arjun Erigaisi was the top scorer on day 2 of the Aimchess Rapid. The Indian prodigy collected three wins and a draw and, in round 7, achieved his first-ever victory over world champion Magnus Carlsen. Thanks to his performance on Saturday, Arjun climbed to shared fourth place, two points behind sole leader Nodirbek Abdusattorov. Carlsen and Shakhriyar Mamedyarov are sharing second place a point behind the young Uzbek. | Photo: Amruta Mokal / 2022 Chess Olympiad",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-comedy-of-errors/",
          "pubDate" : "Tue, 04 Oct 2022 07:59:24 +0000",
          "title" : "A Comedy of Errors"
-      },
-      {
-         "description" : "Chess.com is excited to announce the launch of our newest app, &#34;Checkmate Or Die!&#34; In this game, only two things can happen: you either checkmate the zombies or they eat you! Quickly solve all the mating puzzles that come your way to escape the wr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-checkmate-or-die-zombie-bots",
-         "pubDate" : "Tue, 04 Oct 2022 00:45:00 -0700",
-         "title" : "Chess.com Releases New App And Bots: Checkmate Or Die"
       },
       {
          "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
