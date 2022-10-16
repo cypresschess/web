@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A day after Arjun Erigaisi beat Magnus Carlsen for the first time in his career, another (even younger) Indian prodigy managed to beat the world number one at the Aimchess Rapid online event. Gukesh Dommaraju defeated Carlsen with white to become the youngest-ever player to beat the Norwegian during his reign as world champion. Meanwhile, Jan-Krzysztof Duda had a great day and climbed to the sole lead. | Photo: Niki Riga / Gibraltar Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d3",
+         "pubDate" : "Sun, 16 Oct 2022 23:45:00 +0100",
+         "title" : "Aimchess Rapid: Gukesh youngest-ever to beat Carlsen, Duda leads"
+      },
+      {
+         "description" : "Indian teenager Gukesh D made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion! Incredibly, the 16-year-old&#x2019;s win was Carlsen&#x2019;s second loss in two days against one of India&#x2019;s new crop of talented teenagers in the&#160;Meltwater Champions Chess Tour. Carlsen went down yesterday&#160;to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/duda-takes-lead-gukesh-steals-the-show-aimchess-rapid-day-3-recap/",
+         "pubDate" : "Sun, 16 Oct 2022 22:08:39 +0000",
+         "title" : "Duda takes lead, Gukesh steals the show; Aimchess Rapid - Day 3 recap"
+      },
+      {
+         "description" : "Indian teenage chess star Dommaraju Gukesh today broke another record as he became the youngest chess player ever to beat Magnus Carlsen as World Chess Champion. Earlier this year, Gukesh became the youngest Indian player to cross the 2700 rating, and became the youngest Indian player to break into World Top 100. Gukesh defeated Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dommaraju-gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-world-champion/",
+         "pubDate" : "Sun, 16 Oct 2022 21:36:00 +0000",
+         "title" : "Dommaraju Gukesh is the youngest chess player ever to beat Magnus Carlsen as World Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2042",
+         "pubDate" : "Sun, 16 Oct 2022 21:32:45 +0000",
+         "title" : "FIDE World Junior Chess Championship passes midpoint"
+      },
+      {
          "description" : "Leinier Dominguez won his round-7 game in the U.S. Championship after only ten moves. The opening debacle prompted Jon Speelman to locate similar examples both in a book by Yakov Neishtadt and in the database of his own games. And he also remembered to give the solution of the proof game from last week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chessdom.com/frederik-svane-leads-the-u20-world-chess-championship-on-better-tiebreak-after-r6/",
          "pubDate" : "Sun, 16 Oct 2022 19:33:27 +0000",
          "title" : "Frederik Svane leads the U20 World Chess Championship on better tiebreak after R6"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Sun, 16 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
       },
       {
          "description" : "The one decisive result in round 10 of the U.S. Championship saw Hans Niemann beating Elshan Moradiabadi with the black pieces. Fabiano Caruana continues to be the sole leader going into the second rest day of the 13-round tournament. In the women's section, Thalia Cervantes and Gulrukhbegim Tokhirjonova both scored with the black pieces. Jennifer Yu is still topping the standings. | Photo: Lennart Ootes",
@@ -248,22 +272,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2022-round-4-report/",
          "pubDate" : "Sat, 15 Oct 2022 10:37:48 +0000",
          "title" : "World Junior Chess Championship 2022 ROUND 4 REPORT"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann had a very good start at the tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elshan-moradiabadi-vs-hans-niemann-us-chess-championship-2022-round-10-live/",
-         "pubDate" : "Sat, 15 Oct 2022 09:13:22 +0000",
-         "title" : "Elshan Moradiabadi vs Hans Niemann, US Chess Championship 2022 Round 10 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Both Levon Aronian and Wesley So are having a hard []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-vs-welsey-so-us-chess-championship-2022-round-10-live/",
-         "pubDate" : "Sat, 15 Oct 2022 09:12:00 +0000",
-         "title" : "Levon Aronian vs Welsey So, US Chess Championship 2022 Round 10 LIVE"
       },
       {
          "description" : "Uzbekistan&#39;s GM Nodirbek Abdusattorov leads the preliminaries of the Aimchess Rapid tournament after four rounds of play. It was GM Shakhriyar Mamedyarov who stole the show, beating GM Magnus Carlsen and, brilliantly, GM Anish Giri. How to watch...",
@@ -570,6 +578,14 @@ news_feed (
          "title" : "U.S. Championships: Winning streaks"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2037",
+         "pubDate" : "Thu, 13 Oct 2022 10:21:37 +0000",
+         "title" : "Arkady Dvorkovich meets with President of Argentina"
+      },
+      {
          "description" : "John Rice mate in 2 Tries &#8212; 1. e3? / Ng5? / Nd8? / Q x c8? 1.&hellip; B x e6! / Be6! /...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-7",
          "pubDate" : "Wed, 12 Oct 2022 19:43:00 -0700",
          "title" : "Caruana, Robson Win Again, Dominguez Records 10-Move Victory"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2037",
-         "pubDate" : "Wed, 12 Oct 2022 22:21:37 +0000",
-         "title" : "Arkady Dvorkovich meets with President of Argentina"
       },
       {
          "description" : "In his \"Game of the Week\" show #537 Merijn van Delft presents a game Pentala Harikrishna and Vishy Anand played at the European Club Cup in Mayrhofen, Austria. Harikrishna won with impressive technique. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
