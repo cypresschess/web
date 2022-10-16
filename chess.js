@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi was the top scorer on day 2 of the Aimchess Rapid. The Indian prodigy collected three wins and a draw and, in round 7, achieved his first-ever victory over world champion Magnus Carlsen. Thanks to his performance on Saturday, Arjun climbed to shared fourth place, two points behind sole leader Nodirbek Abdusattorov. Carlsen and Shakhriyar Mamedyarov are sharing second place a point behind the young Uzbek. | Photo: Amruta Mokal / 2022 Chess Olympiad",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d2",
+         "pubDate" : "Sun, 16 Oct 2022 02:10:00 +0100",
+         "title" : "Aimchess Rapid: Arjun beats Carlsen, Abdusattorov leads"
+      },
+      {
          "description" : "Hans Niemann defeated Elshan Moradiabadi in the 10th round of the US Chess Championship. After a very good start with 2/3 points, Hans lost three games in four days and came back with an important victory today. In the post-game interview, Niemann revealed he went all-in into today's game: &#8220;Today I decided I will either []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-live",
          "pubDate" : "Sat, 15 Oct 2022 20:00:00 +0100",
          "title" : "U.S. Championships - Live"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Sat, 15 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
       },
       {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
