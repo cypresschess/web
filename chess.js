@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 95th instalment of his ChessBase show \"Understanding before Moving\", Herman discusses structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-95-queen-s-gambit-declined",
+         "pubDate" : "Sun, 16 Oct 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 95: Queen's Gambit Declined"
+      },
+      {
+         "description" : "Uzbek wonderkid Nodirbek Abdusattorov clung onto a narrow lead in the $150,000 Aimchess Rapid as World Champion Magnus Carlsen suffered a shock defeat.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-2-erigaisi-upsets-carlsen-as-abdusattorov-clings-onto-lead",
+         "pubDate" : "Sun, 16 Oct 2022 12:06:07 +0000",
+         "title" : "Aimchess Rapid Day 2: Erigaisi upsets Carlsen as Abdusattorov clings onto lead"
+      },
+      {
+         "description" : "Today we want to know from Lilit what is happening one day before a tournament. When should you arrive? What happens if you had a bad sleep? Once you know your first opponent, how to prepare? The Armenian IM shows us the steps on how to do so, of course. We end the episode with a full analysis of her first game against the young, talented Filipa Pipiras, and how Lilit's plan to surprise her nicely succeeded.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-2",
+         "pubDate" : "Sun, 16 Oct 2022 13:00:00 +0100",
+         "title" : "Lilit Mkrtchian (2) - How to prepare against your first tournament opponent and succeed"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-2",
+         "pubDate" : "Sun, 16 Oct 2022 02:33:00 -0700",
+         "title" : "Mamedyarov's 16...Rxh2 Move Of The Year?"
+      },
+      {
+         "description" : " 3 rounds have been completed in the 2022 Asian Seniors, with IM Gary Lane the outright leader in the 50 years and over event, while FM Efrem Bagamasbad and Miles Patterson are joint leaders in the 65 years and Over event. Lane beat FM Leonard McLaren in the morning round and FM Arlan Cabe in the afternoon round. He leads IM Anthony Ker, FM Alexei Kulashko and IM Paul Garbett by half a point. In tomorrows round, Lane is playing Kulashko on the top board. The 65 and Over event saw, a couple of upsets on the top boards, with Bagamasbad beating FM Ewen Green, and Patterson beating FM Bob Smith. Oddly, the two leaders do not play each other tomorrow, as both a white in rounds 2 and 3, and cannot",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors.html",
+         "pubDate" : "Sun, 16 Oct 2022 09:28:00 +0000",
+         "title" : "2022 Asian Seniors"
+      },
+      {
+         "description" : " Today, as I write this, is World Mental Health Day 2022, Monday 10 October, so I thought it a good time to write a few words on the subject of chess and mental health. We live in stressful times, with rising rates of diagnosis of mental health problems, especially amongst children and young people, and <a href=\"https://chessimprover.com/mental-health-awareness/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mental Health Awareness\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mental-health-awareness/\">Mental Health Awareness</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/mental-health-awareness/",
+         "pubDate" : "Sun, 16 Oct 2022 09:00:02 +0000",
+         "title" : "Mental Health Awareness"
+      },
+      {
          "description" : "GM Hans Niemann entered the round determined to have a decisive result and was the only player to score a victory today. GM Fabiano Caruana maintains his lead with Ray Robson trailing by half a point, heading into the rest day. In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu held a topsy-turvy game vs. IM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1290,14 +1338,6 @@ news_feed (
          "title" : "20 years ago: \"Brains in Bahrain\", Vladimir Kramnik vs Deep Fritz"
       },
       {
-         "description" : "\"This game is a message\" said Hans Niemann after beating 15-year-old Christopher Yoo in Round 1 of the 2022 US Championship. He refused to analyse and left the interview in under a minute, commenting, \"it was such a beautiful game I don't even need to describe it\". Sam Sevian was the only other player to win in the Open section, while four of the seven games were decisive in the Women's section.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-1-hans-niemann-defies-his-critics",
-         "pubDate" : "Thu, 06 Oct 2022 14:18:24 +0000",
-         "title" : "US Chess Champs 1: Hans Niemann defies his critics"
-      },
-      {
          "description" : " The 2022 edition of the European Club Cup has attracted plenty of media attention, due in part to the participation of World Champion Magnus Carlsen and FIDE Deputy President Vishwanathan Anand. This year sees over 70 teams taking part in the Open and Women's section, in part due to the rule that each federation can send up to 5 teams. While this has increased the number of teams taking part, it has also seen a few Australian players sneak in as well. The Celtic Tigers team has both Fedja Zulfic and Chris Skulte playing for them, with the team scoring 1 win and 2 losses after 3 rounds. Round 2 saw Zulfic draw against his higher rated opponent, in a very combative game. <br /> <b>Zulfic,Fedj",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1490,14 +1530,6 @@ news_feed (
          "title" : "\"Chess in the Process of a Preschooler's Development\" International Online Conference announced"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Viswanathan Anand, the two biggest names in action at the 2022 European Club Cup in Mayrhofen, Austria, had to settle for draws in the first round. The tournament is a seven-round Swiss event for European club teams with o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-day-1",
-         "pubDate" : "Tue, 04 Oct 2022 03:46:00 -0700",
-         "title" : "Anand, Carlsen Start With Draws In European Club Cup"
-      },
-      {
          "description" : "Wood Green women's team and the open teams from Blackthorne, Celtic Tigers &#38; The Sharks are representing the ECF at the seven day tournament being...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1512,22 +1544,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/what-have-you-done-besides-tweet-elon-musk-to-garry-kasparov-on/",
          "pubDate" : "Tue, 04 Oct 2022 08:51:34 +0000",
          "title" : "\"What have you done besides tweet?\" Elon Musk to Garry Kasparov on Ukraine"
-      },
-      {
-         "description" : "At the beginning of October the FIDE published its new ranking list. With a rating of 2856 Magnus Carlsen continues to lead the list though he lost 5 points in the Sinquefield Cup. Currently, Carlsen is 44 ratings points away from 2900 but also 45 rating points ahead of Ding Liren, who has a rating of 2811 and is the world's number two. Hou Yifan continues to lead the women's ranking list, five juniors have a rating of 2700 or more, and Zhu Jiner from China is number one on the list of female juniors.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-october-2022",
-         "pubDate" : "Tue, 04 Oct 2022 09:47:46 +0100",
-         "title" : "FIDE ratings October 2022"
-      },
-      {
-         "description" : "In the diagrammed position White is a pawn up but is also in danger because Black's passed pawns are powerful. However, with precise play White can save the game. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/passed-pawns-are-powerful-3",
-         "pubDate" : "Tue, 04 Oct 2022 09:00:00 +0100",
-         "title" : "Passed pawns are powerful"
       },
       {
          "description" : " &#8220;And now let's go hand in hand, not one before another&#8221; The Comedy of Errors, Dromio of Ephesus, Act 5 Scene 1 Round 2 of our club tournament saw the top two players facing each other. Their game ended last, meaning the effort was there. Please replay it and form an opinion about it. After <a href=\"https://chessimprover.com/a-comedy-of-errors/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Comedy of Errors\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-comedy-of-errors/\">A Comedy of Errors</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
