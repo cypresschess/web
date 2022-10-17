@@ -202,7 +202,7 @@ news_feed (
          "title" : "Levon Needs a Rest Day | Round 10"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after a defeating Elshan Moradiabadi in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-brewing-comeback-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_BA1apiSKfU.jpg?itok=7iU243A5\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Elshan Moradiabadi in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-brewing-comeback-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_BA1apiSKfU.jpg?itok=7iU243A5\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-brewing-comeback-round-10",
