@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2022-10-15","181","<a href=http://www.uschess.org/msa/XtblMain.php?202210155622 target='_blank'>HOFFMAN MIDDLE SCHOOL SCHOLASTIC</a>",
 "CYPRESS","2022-10-14","30","<a href=http://www.uschess.org/msa/XtblMain.php?202210144612 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-10-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210113402 target='_blank'>RCC QUADS OCTOBER 11, 2022</a>",
 "HOUSTON","2022-10-08  - 10-09","98","<a href=http://www.uschess.org/msa/XtblMain.php?202210092182 target='_blank'>TCR: FALL CHAMPIONSHIP 2022</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-01-04  - 01-25","10","<a href=http://www.uschess.org/msa/XtblMain.php?202201252812 target='_blank'>JANUARY TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2022-01-23","13","<a href=http://www.uschess.org/msa/XtblMain.php?202201231302 target='_blank'>HOUSTON JAN. 23 SUNDAY SWISS</a>",
 "CYPRESS","2022-01-21","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201219862 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2022-01-21","22","<a href=http://www.uschess.org/msa/XtblMain.php?202201210062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
