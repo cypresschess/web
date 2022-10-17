@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Mon, 17 Oct 2022 20:15:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "Teams of the Philippines and Mongolia became the champions of the second Intercontinental Online Chess Championship for Prisoners after winning the final of the biggest-ever chess event among correctional facilities. The tournament was organized by FIDE and the Cook County (Chicago, IL, USA) Sheriff's Office and coincided with the International Day of Education in Prison.&#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/philippines-and-mongolia-win-intercontinental-championship-for-prisoners/",
+         "pubDate" : "Mon, 17 Oct 2022 18:56:18 +0000",
+         "title" : "Philippines and Mongolia win Intercontinental Championship for Prisoners"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Mon, 17 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2043",
+         "pubDate" : "Mon, 17 Oct 2022 16:09:40 +0000",
+         "title" : "Philippines and Mongolia win Intercontinental Championship for Prisoners "
+      },
+      {
          "description" : "The 1927 World Championship match in Buenos Aires between challenger Alexander Alekhine and World Champion Jos&eacute; Ra&uacute;l Capablanca ended with a surprise: Capablanca had gone into the match as the clear favourite, but after 34 games he had lost 3-6 (draws did not count). The decisive and interesting 34th game featured a theoretically and practically important endgame. Karsten M&uuml;ller took a closer look at the game and the endgame and invites readers to analyze both. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/govhar-beydullayeva-is-the-leader-of-world-girls-chess-2022/",
          "pubDate" : "Sun, 16 Oct 2022 19:47:01 +0000",
          "title" : "Govhar Beydullayeva is the leader of World Girls Chess 2022"
-      },
-      {
-         "description" : "FIDE World Junior Chess Championships 2022&#xA0;is taking place in Sardinia, Italy from October 11 to 23, 2022. 120 players from 55 countries will compete over 11 swiss rounds for the title of the World Junior Chess Champion. The top seeds in the open section are GM Andrey Esipenko,&#xA0;GM Arseniy Nesterov,&#xA0;GM Frederik Svane,&#xA0;GM Leon Luke Mendonca,&#xA0;IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/frederik-svane-leads-the-u20-world-chess-championship-on-better-tiebreak-after-r6/",
-         "pubDate" : "Sun, 16 Oct 2022 19:33:27 +0000",
-         "title" : "Frederik Svane leads the U20 World Chess Championship on better tiebreak after R6"
       },
       {
          "description" : "In the world of AI, Trump plays chess. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj16.gif\" WIDTH=400 HEIGHT=395><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/183159261@N04/52367614140/\">Donald Trump, Ai Generated Art, Public Domain</A>&#169; Flickr user <I>Ben Longstroth</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P>The description simply expanded on the title:- <BLOCKQUOTE>Images of Donald Trump generated by Artificial Intelligence. Licensed as CC0, public domain, free to use for any purpose. </BLOCKQUOTE> <P>And, yes, in the image on the upper right Trump is playing Biden. Trump is still insisting that",
@@ -1466,14 +1490,6 @@ news_feed (
          "title" : "European Chess Club Cup 2022 - Round 3 report"
       },
       {
-         "description" : "After three rounds, six teams in the open section of the European Club Cup have won all their matches in Mayrhofen. The top scorers on individual boards are Silla Valencia (Korobov, Santos), Offerspill (Carlsen, Tari) and Viernheim (Kryvoruchko, Kuzubov). In the women's event, Superbet (Bulmaga, Saduakassova) and Pamhagen (Danielian, Ushenina) have collected 6 match points in the first three rounds. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r3",
-         "pubDate" : "Thu, 06 Oct 2022 03:05:00 +0100",
-         "title" : "European Club Cup: Six teams still perfect in the open"
-      },
-      {
          "description" : "GMs Anish Giri and&#38;nbsp;Jan-Krzysztof Duda overcame Pavel Ponkratov and Alexey Sarana, respectively, in the 2022 Chess.com Global Championship round of 16 on Wednesday, presented by Brave. The two matches featured pairings between players who, alt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1496,14 +1512,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-hans-niemann-cheated-more-than-100-times-claims-chess-platform/articleshow/94665185.cms",
          "pubDate" : "Wed, 05 Oct 2022 14:21:29 +0000",
          "title" : "Grandmaster Hans Niemann cheated 'more than 100' times, claims chess platform"
-      },
-      {
-         "description" : "That's how chess can be: You cheerfully let the knights rush forward and threaten everything that's standing there. The dear pawns lash out so much that it's a real joy - and suddenly the cerebrum announces: T-R-A-P. Unfortunately too late. That doesn't have to be. With the tactics app in your ChessBase account, you can work on your tactics at any time: Solve tasks at your level without time pressure, measure yourself against others in the tactics fight or compete against the clock in the tactics sprint. In the second episode of his account tutorial, Martin Fischer explains how best to use the tactics app. So that you don't fall into a trap again...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/improve-your-tactics",
-         "pubDate" : "Wed, 05 Oct 2022 14:11:52 +0100",
-         "title" : "Improve your tactics!"
       },
       {
          "description" : "GM Magnus Carlsen won a lovely game in the second round of the European Club Cup in Austria, sacrificing two pawns in the endgame in return for a strong attack. He won&#39;t play in Wednesday&#39;s third round, but GM Viswanathan Anand will be back at the...",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2006",
          "pubDate" : "Mon, 26 Sep 2022 20:59:54 +0000",
          "title" : "Fifth Chess in Education Lecturer course announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2005",
-         "pubDate" : "Mon, 26 Sep 2022 19:06:47 +0000",
-         "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
       }
    ]
 }
