@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are several ways to check a player's performance using an engine. One is to simply ask an engine to analyze every move and highlight every disagreement however small. Another is to use the tool in ChessBase and Fritz known as Let's Check. Here are the results from the recent Sinquefield Cup including a 100% match and the curiously high results by...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/let-s-check-the-elite-are-better-than-you-know",
+         "pubDate" : "Mon, 17 Oct 2022 13:02:42 +0100",
+         "title" : "Let's Check: the elite are better than you know"
+      },
+      {
+         "description" : "Teams that will play the final matches of the second Intercontinental Online Chess Championship for Prisoners the biggest-ever chess event among correctional facilities &#x2013; were determined. The event organized by FIDE and the Cook County (Chicago, IL, USA) Sheriff's Office started on October 13, the International Day of Education in Prison.&#xA0; The teams of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbia-wins-youth-event-of-the-intercontinental-online-chess-championship-for-prisoners/",
+         "pubDate" : "Mon, 17 Oct 2022 10:59:27 +0000",
+         "title" : "Serbia wins youth event of the Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> extended their 13 NOK offer per <strong>Play Magnus Group</strong> share until 2 November and has yet to convince hundreds of shareholders to seal the deal. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-10-17-at-12-17.1920.jpeg\" title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a video announcing the take-over bid. \" data-title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a [video][1] announcing the take-over bid. [1]: https://www.youtube.com/watch?v=DP-K0mYHeD0&feature=emb_imp_woyt\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ch",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/the-game-changer-behind-chessdrama/",
+         "pubDate" : "Mon, 17 Oct 2022 11:06:23 +0100",
+         "title" : "Tik-tok with Magnus"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. After 10 played rounds, Hans Niemann scores 4.5 points and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-aleksandr-lenderman-us-chess-championship-2022-round-11-live/",
+         "pubDate" : "Mon, 17 Oct 2022 10:03:55 +0000",
+         "title" : "Hans Niemann vs Aleksandr Lenderman, US Chess Championship 2022 Round 11 LIVE"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Scoring 6.5/10 points, Ray Robson holds a clear second position, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ray-robson-vs-awonder-liang-us-chess-championship-2022-round-11-live/",
+         "pubDate" : "Mon, 17 Oct 2022 09:55:09 +0000",
+         "title" : "Ray Robson vs Awonder Liang, US Chess Championship 2022 Round 11 LIVE"
+      },
+      {
+         "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-wor/",
+         "pubDate" : "Mon, 17 Oct 2022 09:30:29 +0000",
+         "title" : "Gukesh is the youngest player ever to beat Magnus Carlsen as World Champion"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. With only three rounds to go, Fabiano Caruana maintained the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-vs-jeffery-xiong-us-chess-championship-2022-round-11-live/",
+         "pubDate" : "Mon, 17 Oct 2022 09:25:27 +0000",
+         "title" : "Fabiano Caruana vs Jeffery Xiong, US Chess Championship 2022 Round 11 LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-11-live/",
+         "pubDate" : "Mon, 17 Oct 2022 09:20:15 +0000",
+         "title" : "US Chess Championship 2022 - Round 11 live"
+      },
+      {
+         "description" : "Winning three games and drawing one on Sunday, GM Jan-Krzysztof Duda emerged as the new leader in the Aimchess Rapid preliminaries with three rounds to go. GM Magnus Carlsen continues to struggle with his form as he lost another game, this time ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-3",
+         "pubDate" : "Mon, 17 Oct 2022 01:44:00 -0700",
+         "title" : "Duda New Leader At Aimchess Rapid; Gukesh Youngest Player To Beat Carlsen"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.15<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -15,7 +87,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/historic-moment-as-16-year-old-gukesh-stuns-carlsen",
          "pubDate" : "Mon, 17 Oct 2022 06:47:22 +0000",
-         "title" : "Aimchess Rapid Day 3: Historic moment as 16-year-old Gukesh stuns Carlsen"
+         "title" : "Aimchess Rapid Day 3: 16-year-old Gukesh stuns Carlsen"
       },
       {
          "description" : "Jan-Krzysztof Duda is having a fantastic performance at the Aimchess Rapid. Duda is clear first with 25/36, two points ahead of Mamedyarov. Full standings after day 3 here Mr Dodgy aka ChessProblem points to Duda's success from another point of view the Polish player has had a stunning performance vs Indian players (Replay all []",
@@ -82,6 +154,14 @@ news_feed (
          "title" : "Frederik Svane leads the U20 World Chess Championship on better tiebreak after R6"
       },
       {
+         "description" : "In the world of AI, Trump plays chess. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj16.gif\" WIDTH=400 HEIGHT=395><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/183159261@N04/52367614140/\">Donald Trump, Ai Generated Art, Public Domain</A>&#169; Flickr user <I>Ben Longstroth</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P>The description simply expanded on the title:- <BLOCKQUOTE>Images of Donald Trump generated by Artificial Intelligence. Licensed as CC0, public domain, free to use for any purpose. </BLOCKQUOTE> <P>And, yes, in the image on the upper right Trump is playing Biden. Trump is still insisting that",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html",
+         "pubDate" : "Sun, 16 Oct 2022 15:47:00 +0000",
+         "title" : "Donald Trump, Chess Master"
+      },
+      {
          "description" : "The one decisive result in round 10 of the U.S. Championship saw Hans Niemann beating Elshan Moradiabadi with the black pieces. Fabiano Caruana continues to be the sole leader going into the second rest day of the 13-round tournament. In the women's section, Thalia Cervantes and Gulrukhbegim Tokhirjonova both scored with the black pieces. Jennifer Yu is still topping the standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,14 +202,6 @@ news_feed (
          "title" : "Lilit Mkrtchian (2) - How to prepare against your first tournament opponent and succeed"
       },
       {
-         "description" : "The Aimchess Rapid is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and will be played on chess24 from October 14-21. The 16-player field will be cut in half by the 4-day round-robin Prelims. The players will have 15 minutes for all their moves, plus a 10-second increment starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-preliminary-stage-live/",
-         "pubDate" : "Sun, 16 Oct 2022 10:12:00 +0000",
-         "title" : "Aimchess Rapid Preliminary stage - Day 3 LIVE"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -152,14 +224,6 @@ news_feed (
          "link" : "https://chessimprover.com/mental-health-awareness/",
          "pubDate" : "Sun, 16 Oct 2022 09:00:02 +0000",
          "title" : "Mental Health Awareness"
-      },
-      {
-         "description" : "GM Hans Niemann entered the round determined to have a decisive result and was the only player to score a victory today. GM Fabiano Caruana maintains his lead with Ray Robson trailing by half a point, heading into the rest day. In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu held a topsy-turvy game vs. IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-remains-in-sole-lead-us-chess-championship-2022-round-10-recap/",
-         "pubDate" : "Sun, 16 Oct 2022 07:45:08 +0000",
-         "title" : "Fabiano Caruana remains in sole lead; US Chess Championship 2022 Round 10 recap"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94892637.cms\" />Indian Grandmaster Arjun Erigaisi on Sunday hogged the spotlight, beating world champion Magnus Carlsen in round seven of the preliminaries of the Aimchess Rapid online chess tournament.",
@@ -194,14 +258,6 @@ news_feed (
          "title" : "Tokhirjonova: Critical Win Over Eswaran | Round 10"
       },
       {
-         "description" : "Hans Niemann defeated Elshan Moradiabadi in the 10th round of the US Chess Championship. After a very good start with 2/3 points, Hans lost three games in four days and came back with an important victory today. In the post-game interview, Niemann revealed he went all-in into today's game: &#8220;Today I decided I will either []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-i-think-the-comeback-is-certainly-coming-and-ive-definitely-been-humbled-a-lot-in-this-tournament/",
-         "pubDate" : "Sat, 15 Oct 2022 22:04:34 +0000",
-         "title" : "Hans Niemann: I think the comeback is certainly coming and I've definitely been humbled a lot in this tournament"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -232,22 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-brewing-comeback-round-10",
          "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
          "title" : "Hans Niemann Brewing Up a Comeback! | Round 10"
-      },
-      {
-         "description" : "Uzbek wonderkid Nodirbek Abdusattorov clung onto a narrow lead in the&#160;$150,000 Aimchess Rapid as World Champion Magnus Carlsen suffered a shock defeat. Having dominated on Day 1,&#160;Abdusattorov bounced back from a loss in the first game today to score two more wins and finish top of the leaderboard on 17/24 &#x2013; one point ahead of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-continues-to-lead-carlsen-and-mamedyarov-follow-aimchess-rapid-day-2-recap/",
-         "pubDate" : "Sat, 15 Oct 2022 21:30:00 +0000",
-         "title" : "Abdusattorov continues to lead, Carlsen and Mamedyarov follow; Aimchess Rapid Day 2 recap"
-      },
-      {
-         "description" : "World Chess Champion&#xA0;Magnus Carlsen&#xA0;is participating in the Aimchess Rapid which kicked off yesterday with the Preliminary stage on chess24.com. After eight played rounds, Carlsen scores 17 points and ties for the second place with Shakhriyar Mamedyarov. Aimchess Rapid &#x2013; Replay all games here&#xA0;/&#xA0;Pairings &#38; Schedule In the Day 2 interview, Carlsen said he thought yesterday []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-i-think-its-good-that-the-attitude-about-cheating-is-changing/",
-         "pubDate" : "Sat, 15 Oct 2022 21:27:04 +0000",
-         "title" : "Magnus Carlsen: I think it's good that the attitude about cheating is changing"
       },
       {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
@@ -1170,14 +1210,6 @@ news_feed (
          "title" : "U.S. Championships: Caruana scores, Yoo wins two in a row"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Joachim Nilsen</strong>, who was elected as President of the <strong>Norwegian Chess Federation</strong> in July, <a href=\"https://www.sjakk.no/aktuelt/joachim-nilsen-trer-av-som-president\">stepped down</a> after admitting to a computer equiped assistant telling him moves during the 2016/17 <strong>PRO Chess League</strong> season. Vice President <strong>Anniken Vestby</strong> is taking over. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/norway-president-resigns-after/",
-         "pubDate" : "Sat, 08 Oct 2022 08:22:09 +0100",
-         "title" : "Norway president resigns after admitting cheating"
-      },
-      {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1482,28 +1514,12 @@ news_feed (
          "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
       },
       {
-         "description" : "Chess fans will have one more reason to celebrate National Chess Day, which falls on October 8 in 2022. From October 8 to October 16, ChessKid.com is offering free access to all of its premium features: unlimited lessons, puzzles, videos, and bots...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-national-chess-day-2022",
-         "pubDate" : "Wed, 05 Oct 2022 00:01:00 -0700",
-         "title" : "ChessKid Celebrates National Chess Day, Free Week Of Premium Features"
-      },
-      {
          "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
          "pubDate" : "Wed, 05 Oct 2022 04:40:00 +0100",
          "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
-      },
-      {
-         "description" : "No major upsets were seen in round 2 of the European Club Cup in Mayrhofen, with the favourite teams mostly securing comfortable wins. Superbet's Vishy Anand was rested, while Offerspill's Magnus Carlsen played and beat Solingen's Alexander Naumann. In the women's event, the top two teams, Monte-Carlo (pictured) and Superbet, scored wins. Both teams will face difficult challenges in round 3, as they will play Pamhagen (third seeds) and Odlar Yurdu (fourth seeds) respectively. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r2",
-         "pubDate" : "Wed, 05 Oct 2022 04:25:00 +0100",
-         "title" : "European Club Cup: Key matchups ahead"
       },
       {
          "description" : "",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html",
          "pubDate" : "Mon, 26 Sep 2022 15:14:00 +0000",
          "title" : "TCEC S23 Paused; 'CCC19 Blitz Main' Underway"
-      },
-      {
-         "description" : " <p class=\"lead\">After posting a record score in the Julius Baer Generation Cup Prelims, Magnus Carlsen won the final against 19-year-old Arjun Erigaisi in the minimum possible number of games! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/magnus-carlsen-arjun-erigaisi-julius-baer-generation-cup.jpeg\" width=\"1280\" height=\"720\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Chess24</div> </div> The Julius Baer Generation Cup 2022 started unorthodoxically for the World Champion, who chose to <a href=\"https://worldchess.com/news/all/carlsen-chose-drama-against-niemann-resigned-after-move-2/\">resign on move 2</a> against Hans Niemann. Despite gifting Hans 3 whole po",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/",
-         "pubDate" : "Mon, 26 Sep 2022 09:23:50 +0000",
-         "title" : "Carlsen won against Erigaisi with \"Anti-young-player chess\""
       }
    ]
 }
