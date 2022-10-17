@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1927 World Championship match in Buenos Aires between challenger Alexander Alekhine and World Champion Jos&eacute; Ra&uacute;l Capablanca ended with a surprise: Capablanca had gone into the match as the clear favourite, but after 34 games he had lost 3-6 (draws did not count). The decisive and interesting 34th game featured a theoretically and practically important endgame. Karsten M&uuml;ller took a closer look at the game and the endgame and invites readers to analyze both. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-riddle-alekhine-vs-capablanca",
+         "pubDate" : "Mon, 17 Oct 2022 16:00:00 +0100",
+         "title" : "Endgame Riddle: Alekhine vs Capablanca"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94920728.cms\" />The legendary Viswanathan Anand feels young Indian chess players are on the right track given their penchant to hog the limelight on and off, here and there.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
       },
       {
-         "description" : "A few hours ago, the Wall Street Journal published a lengthy article sharing the findings emerging from an investigation conducted by chess.com. According to the piece, chess.com asserts that Hans Niemann \"likely received illegal assistance in more than 100 online games, as recently as 2020\", including in many tournaments with prize money on the line. Niemann did not respond to requests for comments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wall-street-journal-niemann-likely-cheated",
-         "pubDate" : "Wed, 05 Oct 2022 04:40:00 +0100",
-         "title" : "Wall Street Journal: \"Niemann 'likely cheated' more than 100 times\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2005",
          "pubDate" : "Mon, 26 Sep 2022 19:06:47 +0000",
          "title" : "FIDE WGP: Goryachkina and Lagno head-to-head in Astana "
-      },
-      {
-         "description" : "Another fortnight has passed since our previous report on the planet's top-two, ongoing, engine vs. engine competitions: <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-l1-ccc19-blitz-both-underway.html\">TCEC S23 L1, CCC19 Blitz - Both Underway</A>(September 2022). Here's a summary of that report:- <BLOCKQUOTE>TCEC: S23 L2 finished with four engines promoting. The 12-engine L1 is in the second of its four round robins. &#149; CCC: Dragon edged Lc0 by three points in the 'CCC18 Rapid Challenger' match. Later the site started a series of 'CCC19 Blitz' events. Between CCC18 and CCC19, the CCC launched an eight-engine 'Chess 324 Bonus' event. </BLOCKQUOTE> <P>In the two intervening",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html",
-         "pubDate" : "Mon, 26 Sep 2022 15:14:00 +0000",
-         "title" : "TCEC S23 Paused; 'CCC19 Blitz Main' Underway"
       }
    ]
 }
