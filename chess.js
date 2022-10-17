@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Indian teenager Donnarumma Gukesh made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion.",
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.15<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-10",
+         "pubDate" : "Mon, 17 Oct 2022 07:00:57 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 10"
+      },
+      {
+         "description" : "Indian teenager Gukesh made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/historic-moment-as-16-year-old-gukesh-stuns-carlsen",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/thalia-qc1-bh6-weird-sequence-round-9",
          "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
          "title" : "Thalia: Qc1, Bh6! A Weird Sequence | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.14<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-9",
-         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 9"
       },
       {
          "description" : "",
