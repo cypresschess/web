@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Just weeks after&#xA0;Magnus Carlsen&#xA0;shocked the chess world after&#xA0;resigning against Hans Niemann on the move 2&#xA0;during the Julius Baer Generation Cup, the Azerbaijani grandmaster&#xA0;Rauf Mamedov&#xA0;had the same reaction during the Titled Tuesday played on October 11th, on chess.com.&#xA0;Mamedov had white pieces and started with 1.e4, when Carlsen answered with Borg Defense &#x2013; 1&#x2026;g5. Rauf decided to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rauf-mamedov-i-almost-got-banned-from-chess-com-for-resigning-against-magnus-carlsen/",
+         "pubDate" : "Mon, 17 Oct 2022 23:10:59 +0000",
+         "title" : "Rauf Mamedov: I almost got banned from chess.com for resigning against Magnus Carlsen"
+      },
+      {
          "description" : "19-year-old Hans Niemann defeated Aleksandr Lenderman in today's 11th round of the US Chess Championship 2022, just as he announced in the Round 10 post-game interview. Joining the live studio, Hans analyzed his game against Lenderman and said he was surprised to see that Aleksandr knew all the theory: &#8220;It was a pretty good game. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-niemann-i-am-optimistic-for-my-future/",
          "pubDate" : "Mon, 17 Oct 2022 22:06:10 +0000",
          "title" : "Hans Niemann: I am optimistic for my future"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.19<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-13-lichessorg",
+         "pubDate" : "Mon, 17 Oct 2022 22:01:08 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 13 | lichess.org"
       },
       {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d3",
          "pubDate" : "Sun, 16 Oct 2022 23:45:00 +0100",
          "title" : "Aimchess Rapid: Gukesh youngest-ever to beat Carlsen, Duda leads"
-      },
-      {
-         "description" : "Indian teenager Gukesh D made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion! Incredibly, the 16-year-old&#x2019;s win was Carlsen&#x2019;s second loss in two days against one of India&#x2019;s new crop of talented teenagers in the&#160;Meltwater Champions Chess Tour. Carlsen went down yesterday&#160;to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/duda-takes-lead-gukesh-steals-the-show-aimchess-rapid-day-3-recap/",
-         "pubDate" : "Sun, 16 Oct 2022 22:08:39 +0000",
-         "title" : "Duda takes lead, Gukesh steals the show; Aimchess Rapid - Day 3 recap"
       },
       {
          "description" : "",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jennifer-yu%E2%80%99s-caro-kann-stops-ashritha-round-9",
          "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
          "title" : "Jennifer Yu's Caro-Kann Stops Ashritha | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Cristian Chirila after defeating Foisor in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-qc1-bh6-weird-sequence-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r3lUIzGBytM.jpg?itok=Z4HGiSG_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thalia-qc1-bh6-weird-sequence-round-9",
-         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
-         "title" : "Thalia: Qc1, Bh6! A Weird Sequence | Round 9"
       },
       {
          "description" : "",
