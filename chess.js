@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old Hans Niemann defeated Aleksandr Lenderman in today's 11th round of the US Chess Championship 2022, just as he announced in the Round 10 post-game interview. Joining the live studio, Hans analyzed his game against Lenderman and said he was surprised to see that Aleksandr knew all the theory: &#8220;It was a pretty good game. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-i-am-optimistic-for-my-future/",
+         "pubDate" : "Mon, 17 Oct 2022 22:06:10 +0000",
+         "title" : "Hans Niemann: I am optimistic for my future"
+      },
+      {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/duda-takes-lead-gukesh-steals-the-show-aimchess-rapid-day-3-recap/",
          "pubDate" : "Sun, 16 Oct 2022 22:08:39 +0000",
          "title" : "Duda takes lead, Gukesh steals the show; Aimchess Rapid - Day 3 recap"
-      },
-      {
-         "description" : "Indian teenage chess star Dommaraju Gukesh today broke another record as he became the youngest chess player ever to beat Magnus Carlsen as World Chess Champion. Earlier this year, Gukesh became the youngest Indian player to cross the 2700 rating, and became the youngest Indian player to break into World Top 100. Gukesh defeated Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dommaraju-gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-world-champion/",
-         "pubDate" : "Sun, 16 Oct 2022 21:36:00 +0000",
-         "title" : "Dommaraju Gukesh is the youngest chess player ever to beat Magnus Carlsen as World Champion"
       },
       {
          "description" : "",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-alleges-niemann-has-cheated-more-than-he-admits/articleshow/94466344.cms",
          "pubDate" : "Tue, 27 Sep 2022 02:43:22 +0000",
          "title" : "World champion Magnus Carlsen alleges Niemann has cheated more than he admits"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2006",
-         "pubDate" : "Mon, 26 Sep 2022 20:59:54 +0000",
-         "title" : "Fifth Chess in Education Lecturer course announced"
       }
    ]
 }
