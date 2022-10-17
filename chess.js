@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian teenager Donnarumma Gukesh made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/historic-moment-as-16-year-old-gukesh-stuns-carlsen",
+         "pubDate" : "Mon, 17 Oct 2022 06:47:22 +0000",
+         "title" : "Aimchess Rapid Day 3: Historic moment as 16-year-old Gukesh stuns Carlsen"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda is having a fantastic performance at the Aimchess Rapid. Duda is clear first with 25/36, two points ahead of Mamedyarov. Full standings after day 3 here Mr Dodgy aka ChessProblem points to Duda's success from another point of view the Polish player has had a stunning performance vs Indian players (Replay all []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-biggest-problem-of-india-chess-tweetoftheday/",
+         "pubDate" : "Mon, 17 Oct 2022 06:12:22 +0000",
+         "title" : "The biggest problem of India Chess #TweetOftheDay"
+      },
+      {
          "description" : "A day after Arjun Erigaisi beat Magnus Carlsen for the first time in his career, another (even younger) Indian prodigy managed to beat the world number one at the Aimchess Rapid online event. Gukesh Dommaraju defeated Carlsen with white to become the youngest-ever player to beat the Norwegian during his reign as world champion. Meanwhile, Jan-Krzysztof Duda had a great day and climbed to the sole lead. | Photo: Niki Riga / Gibraltar Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.thearticle.com/henry-ii-thomas-becket-and-the-royal-game/",
          "pubDate" : "Sat, 15 Oct 2022 15:48:12 +0000",
          "title" : "Henry II, Thomas Becket and the Royal Game"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen is participating in the Aimchess Rapid which kicked off yesterday on chess24.com. Carlsen lost his Round 1 game to Shakhriyar Mamedyarov and finished the day with 7 points after defeating Eric Hansen and Vincent Keymer, and drawing against Aditya Mittal. Carlsen's game against Shakhriyar Mamedyarov started with 1.d4 Nf6 2.c4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-still-looking-for-a-good-reply-to-1-d4-nf6-2-c4-tweetoftheday/",
-         "pubDate" : "Sat, 15 Oct 2022 15:05:09 +0000",
-         "title" : "Magnus Carlsen: Still looking for a good reply to 1.d4 Nf6 2.c4 #TweetOftheDay"
       },
       {
          "description" : "The $150,000 Aimchess Rapid kicked off today with 18-year-old Nodirbek Abdusattorov taking an early lead and Indian youngster Aditya Mittal nearly toppling World Champion Magnus Carlsen.",
@@ -1210,14 +1218,6 @@ news_feed (
          "title" : "Trent's Tactics - The Moscow Master: Evgeni Vasiukov"
       },
       {
-         "description" : "15-year-old Christopher Yoo said he felt \"disrespected on every level\" by Hans Niemann and channeled that anger to beat reigning US Champion Wesley So with the black pieces in Round 2. There was also a comeback win for Elshan Moradiabadi, while in the women's event 12-year-old Alice Lee scored a second upset win in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-2-yoo-channels-hans-anger-to-beat-so",
-         "pubDate" : "Fri, 07 Oct 2022 16:52:26 +0000",
-         "title" : "US Chess Champs 2: Yoo channels Hans anger to beat So"
-      },
-      {
          "description" : "Last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html\">Fischer: 'That's my answer'</A>(September 2022), covered the start of the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(m-w.com). At the pre-match press conference Fischer said, <BLOCKQUOTE>\"I'll start off with, umm, ah, some impudent questions from The New York Times [Roger Cohen].\" </BLOCKQUOTE> <P>Roger Cohen wasn't some random chess journalist. His Wikipedia page <A HREF=\"https://en.wikipedia.org/wiki/Roger_Cohen\">Roger Cohen</A>(wikipedia.org) starts, <BLOCKQUOTE>Roger Cohen (born 2 August 1955) is a journalist and author. He was a reporter, e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2008,22 +2008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-won-against-erigaisi-with-anti-young-player-chess/",
          "pubDate" : "Mon, 26 Sep 2022 09:23:50 +0000",
          "title" : "Carlsen won against Erigaisi with \"Anti-young-player chess\""
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900_1.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/buy-a-chess-set-plant-a-tree/",
-         "pubDate" : "Mon, 26 Sep 2022 06:52:36 +0000",
-         "title" : "Buy a Chess Set - Plant a Tree"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94445878.cms\" />Teenaged Indian Grandmaster Arjun Erigaisi went down against world no.1 Magnus Carlsen in the final of the Julius Baer Generation Cup online rapid chess tournament, losing the second match 0-2.Having won the first match, the Norwegian had the advantage and he won the first two games of the second match to close out the finale early on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/julius-baer-cup-indian-gm-arjun-erigaisi-goes-down-to-magnus-carlsen-in-final/articleshow/94445878.cms",
-         "pubDate" : "Mon, 26 Sep 2022 05:11:52 +0000",
-         "title" : "Julius Baer Cup: Indian GM Erigaisi goes down to Carlsen in final"
       }
    ]
 }
