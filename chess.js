@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94920728.cms\" />The legendary Viswanathan Anand feels young Indian chess players are on the right track given their penchant to hog the limelight on and off, here and there.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-erigaisi-are-very-very-strong-players-chess-legend-anand/articleshow/94920728.cms",
+         "pubDate" : "Mon, 17 Oct 2022 12:38:54 +0000",
+         "title" : "Gukesh, Erigaisi are very, very strong players: Chess legend Anand"
+      },
+      {
          "description" : "There are several ways to check a player's performance using an engine. One is to simply ask an engine to analyze every move and highlight every disagreement however small. Another is to use the tool in ChessBase and Fritz known as Let's Check. Here are the results from the recent Sinquefield Cup including a 100% match and the curiously high results by...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Let's Check: the elite are better than you know"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.berlinerschachverband.de/entry/informationen-ueber-die-veraenderungen-im-ueberregionalen-spielbetrieb-beschluss-des-dsb-kongress.html\">decided to trim down</a> its four second leagues of ten teams in the 2023/24 season to get two second leagues of twelve teams in 2024/25. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/second-leagues-trimmed-down-in/",
+         "pubDate" : "Mon, 17 Oct 2022 12:11:00 +0100",
+         "title" : "Second leagues trimmed down in Germany"
+      },
+      {
          "description" : "Teams that will play the final matches of the second Intercontinental Online Chess Championship for Prisoners the biggest-ever chess event among correctional facilities &#x2013; were determined. The event organized by FIDE and the Cook County (Chicago, IL, USA) Sheriff's Office started on October 13, the International Day of Education in Prison.&#xA0; The teams of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/serbia-wins-youth-event-of-the-intercontinental-online-chess-championship-for-prisoners/",
          "pubDate" : "Mon, 17 Oct 2022 10:59:27 +0000",
          "title" : "Serbia wins youth event of the Intercontinental Online Chess Championship for Prisoners"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Markus St&ouml;ttinger</strong>, a marketing and event manager, <a href=\"https://www.chess.at/archiv-service/blog/info-verband/5670-neuer-praesident-des-oesterreichischen-schachbundes-gewaehlt.html\">has been elected</a> the new President of the <strong>Austrian Chess Federation</strong> after his inactive predecessor <strong>Christoph Tschohl</strong> resigned. St&ouml;ttinger also sponsors the top seated team of the Austrian league, <strong>ASV Linz</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/marketing-expert-leads-austrian/",
+         "pubDate" : "Mon, 17 Oct 2022 11:54:39 +0100",
+         "title" : "Marketing expert leads Austrian Federation"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> extended their 13 NOK offer per <strong>Play Magnus Group</strong> share until 2 November and has yet to convince hundreds of shareholders to seal the deal. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-10-17-at-12-17.1920.jpeg\" title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a video announcing the take-over bid. \" data-title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a [video][1] announcing the take-over bid. [1]: https://www.youtube.com/watch?v=DP-K0mYHeD0&feature=emb_imp_woyt\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ch",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Is Chess a Sport?"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Chess.com</strong>-sponsored online <strong>Pro Chess League</strong>, whose last final in 2020 was overshadowed by cheating allegations, has <a href=\"https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023\">announced its next season</a> for February to May. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/pro-chess-league-back-in-february/",
-         "pubDate" : "Mon, 10 Oct 2022 13:02:50 +0100",
-         "title" : "Pro Chess League back in February"
-      },
-      {
          "description" : "The London Junior Chess Championship website has been updated with all the qualifying events and links to entry forms available www.ljcc.co.uk The LJCC Finals...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-gukesh-erigaisi-in-aimchess-rapid",
          "pubDate" : "Mon, 10 Oct 2022 09:17:35 +0000",
          "title" : "Carlsen, Gukesh & Erigaisi in Aimchess Rapid"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Association of Chess Professionals</strong> <a href=\"https://www.chessprofessionals.org/sites/default/files/World%20Open%20Circuit.pdf\">proposes that 20 players qualify from open tournaments</a> to the <strong>FIDE World Cup</strong> and thus the classical world championship cycle. Eligible should be results from open tournaments with at least 9 rounds, not more than one double-round, a minimum of 50 participants and 5 GM among them. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/acp-asks-to-open-world-championship/",
-         "pubDate" : "Mon, 10 Oct 2022 10:07:00 +0100",
-         "title" : "ACP asks to open world championship cycle"
       },
       {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women's tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to score impressive 7/7&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/\">Read More &#187;</a></span>",
