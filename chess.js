@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Tue, 18 Oct 2022 12:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "Fabiano Caruana and Jennifer Yu maintain their lead in the 2022 US Championship by half a point going into the final two rounds, but the battle is heating up. Leinier Dominguez and Sam Sevian have moved within a point of Fabi after defeating Christopher Yoo and Dariusz Swiercz in Round 11, while Wesley So and Hans Niemann also won to return to 50%.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-4",
-         "pubDate" : "Tue, 18 Oct 2022 02:39:42 -0700",
+         "pubDate" : "Tue, 18 Oct 2022 02:39:00 -0700",
          "title" : "Carlsen, Erigaisi To Meet Again As Aimchess Rapid Moves To Knockout"
       },
       {
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/konstantin-landa-1972-2022/",
          "pubDate" : "Thu, 13 Oct 2022 10:16:52 +0100",
          "title" : "Konstantin Landa (1972-2022)"
-      },
-      {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Thu, 13 Oct 2022 08:00:45 +0000",
-         "title" : "Rolling membership introduction"
       },
       {
          "description" : "ECU E-Magazine September 2022 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2022 ECU Commissions Global Chess Festival 2022 4th ESNA European Small Nations Individual Chess Championship 2022 European Cities &#38; Towns Chess Championship 2022 Tournament of Peace 2022 Upcoming European Senior Team Chess Championship 2022 9th RIDEF Francophone's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2022/\">Read More &#187;</a></span>",
@@ -2008,22 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34675094/chess-cheating-saga-magnus-carlsen-accuses-hans-niemann-refuses-play-american-again?device=featurephone",
          "pubDate" : "Tue, 27 Sep 2022 09:40:33 -0500",
          "title" : "Chess No. 1 Carlsen accuses rival of cheating"
-      },
-      {
-         "description" : " Today saw the finish to the 2022 ACT Under 14 Championships. The field of 21 players was a mixture of established junior talent, and enthusiastic newcomers. In the end the tournament was dominated by Masaki Horikawa and Charles Huang, who tied for 1st on 5.5/6. The subsequent playoff game was drawn, meaning that Horikawa won the Under 14 trophy on countback. As this event was combined with the Under 12 Championship, Huang collected that prize, meaning he has won the ACT Under 8's, 10's 14's and now the 12's over the last few years. While some of the field was there for serious competition, the real highlight for most were the endless games of bughouse played between the rounds. Normally I f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-under-14-chanpionships.html",
-         "pubDate" : "Tue, 27 Sep 2022 13:01:00 +0000",
-         "title" : "2022 ACT Under 14 Chanpionships"
-      },
-      {
-         "description" : "This book contains a revealing self-portrait of Abhimanyu Mishra. The youngest grandmaster in the history of chess tells the story of a highly ambitious family project. Supported by his father, mother and sister, Abhi sets out to beat a nineteen-year-old world record. In June 202, at the height of the Covid pandemic, he succeeded against all odds: 'I should have been jumping with excitement, but my heart was so full that I ended up teary-eyed in my father's arms.' Book review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhimanyu-s-book",
-         "pubDate" : "Tue, 27 Sep 2022 14:00:00 +0100",
-         "title" : "Abhimanyu's book"
       }
    ]
 }
