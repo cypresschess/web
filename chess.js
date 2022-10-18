@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Jennifer Yu maintain their lead in the 2022 US Championship by half a point going into the final two rounds, but the battle is heating up. Leinier Dominguez and Sam Sevian have moved within a point of Fabi after defeating Christopher Yoo and Dariusz Swiercz in Round 11, while Wesley So and Hans Niemann also won to return to 50%.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-champs-11-caruana-yu-lead-as-race-heats-up",
+         "pubDate" : "Tue, 18 Oct 2022 11:53:57 +0000",
+         "title" : "US Champs 11: Caruana & Yu lead as race heats up"
+      },
+      {
          "description" : "Following on from 'Part 1: Understanding The Dragon' where important themes and concepts were explained, now it's time to delve into the theory that has shaped this exciting opening over the years. From reasons why once popular variations are no more (but with revival suggestions!) to coverage of the more modern systems currently deployed by the World's elite, this two-parter has it all!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2028",
          "pubDate" : "Sat, 08 Oct 2022 19:18:22 +0000",
          "title" : "FIDE President makes a tour of Latin America"
-      },
-      {
-         "description" : "Fabiano Caruana eventually beat Dariusz Swiercz to join the US Championship leaders and tweeted afterwards, \"the 2022 Disrespect Championship is just warming up\". Wesley So made a quiet draw and then hit out at disrespect from Hans Niemann, who held a tricky endgame against Sam Shankland. Christopher Yoo tried to dial back his disrespect comments, but was on fire on the board as he won a 2nd game in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-3-fabi-yoo-join-disrespect-championship-leaders",
-         "pubDate" : "Sat, 08 Oct 2022 17:32:59 +0000",
-         "title" : "US Chess Champs 3: Fabi & Yoo join \"Disrespect Championship\" leaders"
       },
       {
          "description" : "Boris Spassky was the fourth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
