@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-11",
+         "pubDate" : "Mon, 17 Oct 2022 22:08:50 -0700",
+         "title" : "Sevian Beats Swiercz, Strengthens Title Claim"
+      },
+      {
          "description" : "The final three rounds of the Aimchess Rapid preliminaries were played on Monday. Eight out of sixteen players moved on to the knockout, with Jan-Krzysztof Duda the top scorer in the single round-robin. Suspense regarding who would make it through was limited to two players, as Anish Giri and Vidit Gujrathi entered the fifteenth round with chances of getting the coveted eighth spot in the knockout. In the end, it was Vidit who advanced to the quarterfinals, mainly thanks to Arjun Erigaisi's victory over Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-is-likely-over-after-new-cheating-evidence/",
          "pubDate" : "Wed, 05 Oct 2022 10:45:25 +0000",
          "title" : "Hans Niemann is \"likely\" over after new cheating evidence"
-      },
-      {
-         "description" : "In a 72-page report made public on Tuesday, Chess.com states that GM Hans Niemann &#34;has likely cheated in more than 100 online chess games, including several prize money events.&#34; Chess.com also notes that Niemann is &#34;the fastest rising top player i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-hans-niemann-report-cheating",
-         "pubDate" : "Wed, 05 Oct 2022 00:37:00 -0700",
-         "title" : "Chess.com: 'Niemann Has Likely Cheated In More Than 100 Online Chess Games'"
       },
       {
          "description" : "",
