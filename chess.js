@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final three rounds of the Aimchess Rapid preliminaries were played on Monday. Eight out of sixteen players moved on to the knockout, with Jan-Krzysztof Duda the top scorer in the single round-robin. Suspense regarding who would make it through was limited to two players, as Anish Giri and Vidit Gujrathi entered the fifteenth round with chances of getting the coveted eighth spot in the knockout. In the end, it was Vidit who advanced to the quarterfinals, mainly thanks to Arjun Erigaisi's victory over Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d4",
+         "pubDate" : "Tue, 18 Oct 2022 03:35:00 +0100",
+         "title" : "Aimchess Rapid: Duda wins prelims, Vidit makes it through"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master John Donaldson talks to Cristian Chirila during Round 11 of the 2022 U.S. Chess Championships. Watch the lecture: <a href=\"https://www.youtube.com/watch?v=ah_1gtCdIBM\">https://www.youtube.com/watch?v=ah_1gtCdIBM</a> 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/john-donaldson%E2%80%99s-fischer-spassky-lecture-must-see-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/john-donaldson%E2%80%99s-fischer-spassky-lecture-must-see-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "John Donaldson's Fischer-Spassky Lecture is Must See | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Lenderman in Round 11 of the 2022 U.S. Chess Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-performance-%E2%80%98terrible-ridiculous-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OadDKYQcA0I.jpg?itok=btbNIYJM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-performance-%E2%80%98terrible-ridiculous-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Niemann: Performance 'Terrible, Ridiculous' | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Cristian Chirila after a draw with Robson in Round 11 of the 2022 U.S. Chess Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-crazy-french-my-riskiest-opening-yet-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FgjXP0QohqM.jpg?itok=leyR-T9D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/awonder-crazy-french-my-riskiest-opening-yet-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Awonder: Crazy French is My Riskiest Opening Yet | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Cristian Chirila after defeating Swiercz in Round 11 of the 2022 U.S. Chess Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-thinking-forward-hans-wesley-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/616TMo5EQls.jpg?itok=_79ogN_C\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-thinking-forward-hans-wesley-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Sevian: Thinking Forward to Hans & Wesley | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Cristian Chirila after defeating Eswaran in Round 11 of the 2022 U.S. Women's Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thalia-wins-four-straight-momentum-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J2zXgMqgKuI.jpg?itok=-ELhQYmb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thalia-wins-four-straight-momentum-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Thalia Wins Four Straight! Momentum! | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ruiyang Yan talks to Cristian Chirila after defeating Megan Lee in Round 11 of the 2022 U.S. Women's Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ruiyang-results-are-fine-games-are%E2%80%A6-yeah-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4vqcrOUK8BM.jpg?itok=9I7_orxG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ruiyang-results-are-fine-games-are%E2%80%A6-yeah-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Ruiyang: Results are Fine, but the Games are&hellip; Yeah | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Paikidze in Round 11 of the 2022 U.S. Women's Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-collision-course-jennifer-yu-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cli_K8OKmsU.jpg?itok=hxwCts4M\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-collision-course-jennifer-yu-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Krush on Collision Course with Jennifer Yu | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Tokhirjonova in Round 11 of the 2022 U.S. Women's Championship. 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-treat-krush-game-%E2%80%98must-win%E2%80%99-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/x2HRf7l0wpg.jpg?itok=DsgFHQOL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-treat-krush-game-%E2%80%98must-win%E2%80%99-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "Jennifer Yu: Treat Krush Game as 'Must Win' | Round 11"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-11",
+         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 11"
+      },
+      {
          "description" : "Just weeks after&#xA0;Magnus Carlsen&#xA0;shocked the chess world after&#xA0;resigning against Hans Niemann on the move 2&#xA0;during the Julius Baer Generation Cup, the Azerbaijani grandmaster&#xA0;Rauf Mamedov&#xA0;had the same reaction during the Titled Tuesday played on October 11th, on chess.com.&#xA0;Mamedov had white pieces and started with 1.e4, when Carlsen answered with Borg Defense &#x2013; 1&#x2026;g5. Rauf decided to []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -56,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/philippines-and-mongolia-win-intercontinental-championship-for-prisoners/",
          "pubDate" : "Mon, 17 Oct 2022 18:56:18 +0000",
          "title" : "Philippines and Mongolia win Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Mon, 17 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
       },
       {
          "description" : "",
@@ -176,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-3",
          "pubDate" : "Mon, 17 Oct 2022 01:44:00 -0700",
          "title" : "Duda New Leader At Aimchess Rapid; Gukesh Youngest Player To Beat Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.15<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-10",
-         "pubDate" : "Mon, 17 Oct 2022 07:00:57 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 10"
       },
       {
          "description" : "Indian teenager Gukesh made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion.",
@@ -322,46 +386,6 @@ news_feed (
          "title" : "Aimchess Rapid: Arjun beats Carlsen, Abdusattorov leads"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Ashritha Eswaran in Round 10 of the 2022 U.S. Women's Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tokhirjonova-critical-win-over-eswaran-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TiL40iH5ySQ.jpg?itok=jRIysLkb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tokhirjonova-critical-win-over-eswaran-round-10",
-         "pubDate" : "Sun, 16 Oct 2022 01:00:06 +0000",
-         "title" : "Tokhirjonova: Critical Win Over Eswaran | Round 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-12-lichessorg",
-         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 12 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian Chirila asks the U.S. Women's Championship field about their tournament expectations in regard to the mix of young talent and experience. This aired during Round 10. 2022.10.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-women%E2%80%99s-championship-tournament-expectations\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xWSv-SOIVI8.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-women%E2%80%99s-championship-tournament-expectations",
-         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
-         "title" : "2022 U.S. Women's Championship: Tournament Expectations"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw with Wesley So in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-needs-rest-day-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pgHXcSzAdhA.jpg?itok=j76MtlsX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-needs-rest-day-round-10",
-         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
-         "title" : "Levon Needs a Rest Day | Round 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Elshan Moradiabadi in Round 10 of the 2022 U.S. Chess Championship. 2022.10.15<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-brewing-comeback-round-10\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_BA1apiSKfU.jpg?itok=7iU243A5\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-niemann-brewing-comeback-round-10",
-         "pubDate" : "Sat, 15 Oct 2022 21:59:56 +0000",
-         "title" : "Hans Niemann Brewing Up a Comeback! | Round 10"
-      },
-      {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -456,30 +480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-9",
          "pubDate" : "Fri, 14 Oct 2022 21:07:00 -0700",
          "title" : "Shankland Brilliantly Retreats To Victory"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after defeating Christopher Yoo in Round 9 of the 2022 U.S. Chess Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-privilege-work-yoo-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ELyW54wXRuk.jpg?itok=2xFwhuiW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-privilege-work-yoo-round-9",
-         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
-         "title" : "Shankland: A Privilege to Work with Yoo | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gulrukhbegim Tokhirjonova talks to Cristian Chirila after defeating Megan Lee in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-you-could-see-megan-was-nervous-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/53DgTn0np0Q.jpg?itok=FQHjheZD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-you-could-see-megan-was-nervous-round-9",
-         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
-         "title" : "Begim: You Could See Megan Was Nervous | Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Eswaran in Round 9 of the 2022 U.S. Women's Championship. 2022.10.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu%E2%80%99s-caro-kann-stops-ashritha-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y71Jn5BMlds.jpg?itok=QxAFV6oD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu%E2%80%99s-caro-kann-stops-ashritha-round-9",
-         "pubDate" : "Sat, 15 Oct 2022 00:59:06 +0000",
-         "title" : "Jennifer Yu's Caro-Kann Stops Ashritha | Round 9"
       },
       {
          "description" : "",
@@ -1962,6 +1962,14 @@ news_feed (
          "title" : "FIDE WGP: Lagno takes the lead in Astana"
       },
       {
+         "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
+         "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
+         "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94488153.cms\" />After the end of the penultimate round of the IInd Chief Minister's Trophy International Grandmaster Chess Championship, Pantsulaia Levan with eight points to his credit leads the table with a solitary point lead over others. The Georgian grandmaster went for a peace with Iranian international master Tabaz Arash whose score is 6.5 points in the table.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2000,14 +2008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/",
          "pubDate" : "Tue, 27 Sep 2022 08:01:06 +0000",
          "title" : "\"I am not willing to play chess with Niemann\" Carlsen on the cheating scandal"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94466344.cms\" />World chess champion Magnus Carlsen said on Monday he believed Hans Niemann had \"cheated more - and more recently - than he has publicly admitted\", adding he no longer wanted to play against the American and any rivals who repeatedly cheated in the past.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-champion-magnus-carlsen-alleges-niemann-has-cheated-more-than-he-admits/articleshow/94466344.cms",
-         "pubDate" : "Tue, 27 Sep 2022 02:43:22 +0000",
-         "title" : "World champion Magnus Carlsen alleges Niemann has cheated more than he admits"
       }
    ]
 }
