@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-lex-fridman-podcast-with-hikaru-nakamura",
+         "pubDate" : "Tue, 18 Oct 2022 17:19:16 +0100",
+         "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
+      },
+      {
+         "description" : "Nine out of fourteen games finished decisively in round 11 of the U.S. Championships. In the open, Fabiano Caruana continues to lead, with Ray Robson a half point back, while Leinier Dominguez and Sam Sevian both won to climb to shared third place. In the women's event, Jennifer Yu leads Irina Krush by a half point after both contenders for first place won their games with the black pieces. Yu will have white against Krush in their round-12 direct encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r11",
+         "pubDate" : "Tue, 18 Oct 2022 17:00:00 +0100",
+         "title" : "U.S. Championships: Yu and Krush score, will face off in the next round"
+      },
+      {
+         "description" : "The successful series \"How does a chess professional analyse with ChessBase\" with Regina Pokorna had shown the final episode on Sunday on the German ChessBase YouTube site. On the other hand, \"How to prepare for a tournament like a professional chess player\" with Lilit Mkrtchian has just started. In the first episode she shows us how she creates an opening repertoire, and has accumulated almost a terrabyte of opening data over the decades. Martin Fischer now shows us the version that ChessBase originally intended, so that amateur players also have an easier time starting their own repertoire.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-easiest-way-to-create-an-opening-repertoire",
+         "pubDate" : "Tue, 18 Oct 2022 16:51:31 +0100",
+         "title" : "The easiest way to create an opening repertoire"
+      },
+      {
+         "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/",
+         "pubDate" : "Tue, 18 Oct 2022 15:05:37 +0000",
+         "title" : "Need sure points? Queen's Gambit Accepted, Central Variation Edition"
+      },
+      {
          "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -258,14 +290,6 @@ news_feed (
          "title" : "Aimchess Rapid field cut in half as the Prelims stage concluded today"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Mon, 17 Oct 2022 20:15:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -448,6 +472,14 @@ news_feed (
          "link" : "https://chessimprover.com/mental-health-awareness/",
          "pubDate" : "Sun, 16 Oct 2022 09:00:02 +0000",
          "title" : "Mental Health Awareness"
+      },
+      {
+         "description" : "The European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid city...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-cities-towns-chess-championship/",
+         "pubDate" : "Sun, 16 Oct 2022 08:00:40 +0000",
+         "title" : "European Cities & Towns Chess Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94892637.cms\" />Indian Grandmaster Arjun Erigaisi on Sunday hogged the spotlight, beating world champion Magnus Carlsen in round seven of the preliminaries of the Aimchess Rapid online chess tournament.",
@@ -1466,22 +1498,6 @@ news_feed (
          "title" : "Surprise succeeded!"
       },
       {
-         "description" : "If you ever asked yourself what Svitlana's favourite \"Smart Moves\" theme is, we have a clear answer - fantastic, unexpected moves. And you can try to guess them in this video. In our 50th show, Svitlana has surprising examples from real games with Le Quang Liem, Pavel Eljanov, Jonathan Levitt, Mikhail Tal, and Arshak Petrosian (No, not the world champion Petrosian). Many of you might know the famous games already, but for those who don't know them, you are in for a treat.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-guess-the-surprising-unexpected-monster-move",
-         "pubDate" : "Thu, 06 Oct 2022 18:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Guess the surprising, unexpected smart move!"
-      },
-      {
-         "description" : "The Novy Bor Chess Club grabbed the sole lead at the open section of the European Club Cup after taking down Offerspill in Thursday's fourth round. Wins by Vidit and Markus Ragger more than made up for Harikrishna's loss on board 1 against Magnus Carlsen. In the women's event, co-leaders Superbet and Pamhagen drew their direct encounter to remain atop the standings. | Photos: Fiona Steil-Antoni",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r4",
-         "pubDate" : "Thu, 06 Oct 2022 17:55:00 +0100",
-         "title" : "European Club Cup: Novy Bor beats Offerspill, grabs the lead"
-      },
-      {
          "description" : "Today India won the fourth round by huge margin (3.5 - 0.5 point) against Uzbekistan-2 in the ongoing World Youth Olympiad being held at Nakhchivan,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1992,22 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
          "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
          "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94488153.cms\" />After the end of the penultimate round of the IInd Chief Minister's Trophy International Grandmaster Chess Championship, Pantsulaia Levan with eight points to his credit leads the table with a solitary point lead over others. The Georgian grandmaster went for a peace with Iranian international master Tabaz Arash whose score is 6.5 points in the table.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/georgian-gm-pantsulaia-levan-leads-table-with-a-solitary-point-lead-over-others/articleshow/94488153.cms",
-         "pubDate" : "Tue, 27 Sep 2022 15:25:21 +0000",
-         "title" : "Georgian GM Pantsulaia Levan leads table with a solitary point lead over others"
-      },
-      {
-         "description" : "World chess champion Magnus Carlsen said on Monday he believes Hans Niemann has \"cheated more -- and more recently -- than he has publicly admitted\" and that he no longer wants to play against the American.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/34675094/chess-cheating-saga-magnus-carlsen-accuses-hans-niemann-refuses-play-american-again?device=featurephone",
-         "pubDate" : "Tue, 27 Sep 2022 09:40:33 -0500",
-         "title" : "Chess No. 1 Carlsen accuses rival of cheating"
       }
    ]
 }
