@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Tue, 18 Oct 2022 20:15:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Tue, 18 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
          "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Frederik Svane leads at World Junior Championship"
       },
       {
-         "description" : "The Aimchess Rapid&#xA0;is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field was cut in half by the 4-day round-robin Prelims and Jan-Krzysztof Duda, Gukesh D, Shakhriyar Mamedyarov, Arjun Erigaisi, Magnus Carlsen, Nodirbek Abdusattorov, Richard Rapport and Vidit Santosh []",
+         "description" : "The Aimchess Rapid&#160;is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field was cut in half by the 4-day round-robin Prelims and Jan-Krzysztof Duda, Gukesh D, Shakhriyar Mamedyarov, Arjun Erigaisi, Magnus Carlsen, Nodirbek Abdusattorov, Richard Rapport and Vidit Santosh []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aimchess-rapid-knockout-stage-live/",
@@ -1426,14 +1442,6 @@ news_feed (
          "title" : "Smooth as silk"
       },
       {
-         "description" : "The two players who kicked off the U.S. Championship with losses bounced back immediately by winning their round-2 games in Saint Louis. Elshan Moradiabadi defeated Awonder Liang, while Christopher Yoo got the biggest win of his young career as he took down Wesley So with the black pieces. Meanwhile, in the women's event, three players still have a perfect score - Jennifer Yu, Alice Lee and Megan Lee. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r2",
-         "pubDate" : "Fri, 07 Oct 2022 13:05:00 +0100",
-         "title" : "U.S. Championships: Yoo upsets So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023",
          "pubDate" : "Thu, 06 Oct 2022 12:39:00 -0700",
          "title" : "Chess.com Announces The Return Of The PRO Chess League In 2023"
-      },
-      {
-         "description" : "The last time Alexei Shirov chose the Moscow Variation in the Semi Slav, Jorden van Foreest was just 13 years old. This June - and thus ten years later - the two players met for a mini-match over four classical games. The veteran, who had played the Botwinnik Variation over all these years, came up with a surprise and resorted to the Moscow Variation for the first time against the top player from the Netherlands. In the new ChessBase Magazine Extra #209 Shirov reviews this game in a 50-minute video. You can watch an excerpt here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surprise-succeeded",
-         "pubDate" : "Thu, 06 Oct 2022 19:00:00 +0100",
-         "title" : "Surprise succeeded!"
       },
       {
          "description" : "Today India won the fourth round by huge margin (3.5 - 0.5 point) against Uzbekistan-2 in the ongoing World Youth Olympiad being held at Nakhchivan,",
@@ -1984,30 +1984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-wont-play-against-cheat-hans-niemann/articleshow/94495697.cms",
          "pubDate" : "Wed, 28 Sep 2022 04:17:10 +0000",
          "title" : "Magnus Carlsen says won't play against 'cheat' Hans Niemann"
-      },
-      {
-         "description" : " &#8220;With major pieces (queen or rook) on the board, having bishops on opposite colors favors the side with an attack.&#8221; Edmar Mednis It's been a while since we have discussed about these principles. The last article was published here. This past week one of the games from our club tournament brought them back into the spotlight. <a href=\"https://chessimprover.com/mednis-principles-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mednis Principles (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mednis-principles-3/\">Mednis Principles (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/mednis-principles-3/",
-         "pubDate" : "Tue, 27 Sep 2022 16:58:44 +0000",
-         "title" : "Mednis Principles (3)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2007",
-         "pubDate" : "Tue, 27 Sep 2022 16:49:39 +0000",
-         "title" : "FIDE WGP: Lagno takes the lead in Astana"
-      },
-      {
-         "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
-         "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
-         "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
       }
    ]
 }
