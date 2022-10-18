@@ -1962,14 +1962,6 @@ news_feed (
          "title" : "FIDE WGP: Lagno takes the lead in Astana"
       },
       {
-         "description" : "World champion Magnus Carlsen has accused Hans Niemann of cheating and feels the American teenager's over-the-board progress is unusual.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34676224/magnus-carlsen-accuses-hans-niemann-cheating-chess-news?device=featurephone",
-         "pubDate" : "Tue, 27 Sep 2022 11:35:10 -0500",
-         "title" : "Check, and not mates: Magnus Carlsen's cheat charge rocks the chess world"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94488153.cms\" />After the end of the penultimate round of the IInd Chief Minister's Trophy International Grandmaster Chess Championship, Pantsulaia Levan with eight points to his credit leads the table with a solitary point lead over others. The Georgian grandmaster went for a peace with Iranian international master Tabaz Arash whose score is 6.5 points in the table.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
