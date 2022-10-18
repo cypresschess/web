@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most surprising discoveries in the 6-piece tablebase concerned the endgame Q+g+h pawn vs queen, which often is a theoretical draw when the defender is well placed. However, in a practical game with limited time, the endgame is usually too difficult to hold. The diagrammed position occurred in a game between M. Carlsen and G. Meier, played at the Chess Olympiad 2022. Black lost, but he could have drawn. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-tablebase-sensation",
+         "pubDate" : "Tue, 18 Oct 2022 09:00:00 +0100",
+         "title" : "The tablebase sensation"
+      },
+      {
+         "description" : "GM Fabiano Caruana leads with two rounds to go. GM Ray Robson remains in second place, but GM Leinier Dominguez and GM Sam Sevian inched closer with victories.&#xA0;In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu won to keep her lead while GM Irina Krush and WGM Thalia Cervantes also won to remain in striking distance. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-leads-with-two-rounds-to-go-us-chess-championship-2022-round-11-recap/",
+         "pubDate" : "Tue, 18 Oct 2022 07:29:57 +0000",
+         "title" : "Fabiano Caruana leads with two rounds to go; US Chess Championship 2022 Round 11 recap"
+      },
+      {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-11",
-         "pubDate" : "Mon, 17 Oct 2022 22:08:50 -0700",
-         "title" : "Sevian Beats Swiercz, Strengthens Title Claim"
+         "pubDate" : "Mon, 17 Oct 2022 22:08:00 -0700",
+         "title" : "Sevian Still In Contention After Beating Swiercz"
       },
       {
          "description" : "The final three rounds of the Aimchess Rapid preliminaries were played on Monday. Eight out of sixteen players moved on to the knockout, with Jan-Krzysztof Duda the top scorer in the single round-robin. Suspense regarding who would make it through was limited to two players, as Anish Giri and Vidit Gujrathi entered the fifteenth round with chances of getting the coveted eighth spot in the knockout. In the end, it was Vidit who advanced to the quarterfinals, mainly thanks to Arjun Erigaisi's victory over Giri.",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/historic-moment-as-16-year-old-gukesh-stuns-carlsen",
          "pubDate" : "Mon, 17 Oct 2022 06:47:22 +0000",
          "title" : "Aimchess Rapid Day 3: 16-year-old Gukesh stuns Carlsen"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda is having a fantastic performance at the Aimchess Rapid. Duda is clear first with 25/36, two points ahead of Mamedyarov. Full standings after day 3 here Mr Dodgy aka ChessProblem points to Duda's success from another point of view the Polish player has had a stunning performance vs Indian players (Replay all []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-biggest-problem-of-india-chess-tweetoftheday/",
-         "pubDate" : "Mon, 17 Oct 2022 06:12:22 +0000",
-         "title" : "The biggest problem of India Chess #TweetOftheDay"
       },
       {
          "description" : "A day after Arjun Erigaisi beat Magnus Carlsen for the first time in his career, another (even younger) Indian prodigy managed to beat the world number one at the Aimchess Rapid online event. Gukesh Dommaraju defeated Carlsen with white to become the youngest-ever player to beat the Norwegian during his reign as world champion. Meanwhile, Jan-Krzysztof Duda had a great day and climbed to the sole lead. | Photo: Niki Riga / Gibraltar Chess Festival",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34737621/after-magnus-carlsen-allegations-report-claims-hans-niemann-likely-cheated-100-s?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 05:56:07 -0500",
          "title" : "After Carlsen allegations, report claims Niemann 'likely cheated' over 100 times"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #536 Merijn van Delft looks at a fascinating game Magnus Carlsen played in round 2 of the European Club Cup in Mayrhofen, Austria. The World Champion had White against the German Grandmaster Alexander Naumann and impressed with surprising maneuvers in the opening and a couple of pawn sacrifices for positional compensation. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-536-m-carlsen-vs-a-naumann",
-         "pubDate" : "Thu, 06 Oct 2022 11:31:10 +0100",
-         "title" : "Game of the Week #536: M. Carlsen vs A. Naumann"
       },
       {
          "description" : "",
