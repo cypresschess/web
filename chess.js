@@ -10,6 +10,14 @@ news_feed (
          "title" : "U.S. Championships - Live"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, join a host TBD for the closing ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The fields and inductees are listed below. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang 2022 U.S. Women&#039;s Championship: Krush, Zatonskih, Eswaran, Paikidze, Tokhirjonova, Abrahamyan, J. Yu, A. Lee, R. Yan, Foisor, Cervantes, M. Lee, R. Wu, Morris-Suzuki 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-closing-ceremony",
+         "pubDate" : "Tue, 18 Oct 2022 19:02:31 +0000",
+         "title" : "2022 U.S. Chess Championships: Closing Ceremony"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemann-i-am-optimistic-for-my-future/",
          "pubDate" : "Mon, 17 Oct 2022 22:06:10 +0000",
          "title" : "Hans Niemann: I am optimistic for my future"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.19<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-13-lichessorg",
-         "pubDate" : "Mon, 17 Oct 2022 22:01:08 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 13 | lichess.org"
       },
       {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
