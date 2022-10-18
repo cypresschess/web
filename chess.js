@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-com-conducts-the-fair-play-survey/",
+         "pubDate" : "Tue, 18 Oct 2022 22:28:01 +0000",
+         "title" : "Chess.com conducts the Fair Play survey"
+      },
+      {
+         "description" : "Magnus Carlsen claimed the Meltwater Champions Chess Tour 2022 title with a tournament to spare! Defeating Arjun Erigaisi in the quarter-finals of the 8th and penultimate event of the Meltwater Champions Chess Tour with a convincing 2.5-1.5 result, Carlsen secured the title of the tour champion and a 50.000$ prize on top of his overall []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-a-tournament-to-spare/",
+         "pubDate" : "Tue, 18 Oct 2022 22:07:42 +0000",
+         "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with a tournament to spare!"
+      },
+      {
+         "description" : "Magnus Carlsen sealed the overall Meltwater Champions Chess Tour title for the second year running &#x2013; this time with an event to spare &#x2013; after storming into the semi-finals of the Aimchess Rapid. Norway&#x2019;s world number 1, going for a hat-trick of tournament wins in the Tour&#x2019;s penultimate event, scooped a $50,000 prize on top []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/duda-carlsen-mamedyarov-and-rapport-are-the-semi-finalists-of-the-aimchess-rapid/",
+         "pubDate" : "Tue, 18 Oct 2022 21:39:05 +0000",
+         "title" : "Duda, Carlsen, Mamedyarov and Rapport are the semi-finalists of the Aimchess Rapid"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2044",
          "pubDate" : "Tue, 18 Oct 2022 21:00:09 +0000",
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> By reaching the semifinal of the <strong>Aimchess Masters</strong>, <strong>Magnus Carlsen</strong> <a href=\"https://new.chess24.com/wall/news/arise-king-carlsen-norwegian-wins-meltwater-champions-chess-tour-2022-with-event-to-spare\">wins</a> the <strong>2022 Meltwater Champions Chess Tour</strong> ahead of the final event in November. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-seals-third-tour-victory/",
+         "pubDate" : "Tue, 18 Oct 2022 21:14:05 +0100",
+         "title" : "Carlsen seals third tour victory"
       },
       {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
@@ -138,7 +170,7 @@ news_feed (
          "title" : "Frederik Svane leads at World Junior Championship"
       },
       {
-         "description" : "The Aimchess Rapid&#160;is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field was cut in half by the 4-day round-robin Prelims and Jan-Krzysztof Duda, Gukesh D, Shakhriyar Mamedyarov, Arjun Erigaisi, Magnus Carlsen, Nodirbek Abdusattorov, Richard Rapport and Vidit Santosh []",
+         "description" : "The Aimchess Rapid&#xA0;is the 8th of 9 events on the $1.6 million 2022 Meltwater Champions Chess Tour and takes place on chess24 from October 14-21. The 16-player field was cut in half by the 4-day round-robin Prelims and Jan-Krzysztof Duda, Gukesh D, Shakhriyar Mamedyarov, Arjun Erigaisi, Magnus Carlsen, Nodirbek Abdusattorov, Richard Rapport and Vidit Santosh []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aimchess-rapid-knockout-stage-live/",
@@ -282,36 +314,12 @@ news_feed (
          "title" : "2022 U.S. Chess Championships: Round 11"
       },
       {
-         "description" : "Just weeks after&#xA0;Magnus Carlsen&#xA0;shocked the chess world after&#xA0;resigning against Hans Niemann on the move 2&#xA0;during the Julius Baer Generation Cup, the Azerbaijani grandmaster&#xA0;Rauf Mamedov&#xA0;had the same reaction during the Titled Tuesday played on October 11th, on chess.com.&#xA0;Mamedov had white pieces and started with 1.e4, when Carlsen answered with Borg Defense &#x2013; 1&#x2026;g5. Rauf decided to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rauf-mamedov-i-almost-got-banned-from-chess-com-for-resigning-against-magnus-carlsen/",
-         "pubDate" : "Mon, 17 Oct 2022 23:10:59 +0000",
-         "title" : "Rauf Mamedov: I almost got banned from chess.com for resigning against Magnus Carlsen"
-      },
-      {
-         "description" : "19-year-old Hans Niemann defeated Aleksandr Lenderman in today's 11th round of the US Chess Championship 2022, just as he announced in the Round 10 post-game interview. Joining the live studio, Hans analyzed his game against Lenderman and said he was surprised to see that Aleksandr knew all the theory: &#8220;It was a pretty good game. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-i-am-optimistic-for-my-future/",
-         "pubDate" : "Mon, 17 Oct 2022 22:06:10 +0000",
-         "title" : "Hans Niemann: I am optimistic for my future"
-      },
-      {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors-my-first-win.html",
          "pubDate" : "Mon, 17 Oct 2022 20:29:00 +0000",
          "title" : "2022 Asian Seniors - My first win"
-      },
-      {
-         "description" : "A nerve-wracking final three rounds of the Aimchess Rapid prelim stage saw Polish ace Jan-Krzysztof Duda sail through to the quarter-finals in first place while Anish Giri was sensationally knocked out. Duda sealed his spot and $7,000 in game winnings with an impressive 28/45pts. The 24-year-old also goes into the next phase&#xA0;having moved up to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aimchess-rapid-field-cut-in-half-as-the-prelims-stage-concluded-today/",
-         "pubDate" : "Mon, 17 Oct 2022 20:23:34 +0000",
-         "title" : "Aimchess Rapid field cut in half as the Prelims stage concluded today"
       },
       {
          "description" : "",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2038",
          "pubDate" : "Thu, 13 Oct 2022 09:40:40 +0000",
          "title" : "World Sight Day: Chess perspective"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian GM and coach <strong>Konstantin Landa</strong>, who lived in Germany for many years, <a href=\"https://fide.com/news/2035\">lost his fight</a> against Leukaemia. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/konstantin-landa-1972-2022/",
-         "pubDate" : "Thu, 13 Oct 2022 10:16:52 +0100",
-         "title" : "Konstantin Landa (1972-2022)"
       },
       {
          "description" : "ECU E-Magazine September 2022 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2022 ECU Commissions Global Chess Festival 2022 4th ESNA European Small Nations Individual Chess Championship 2022 European Cities &#38; Towns Chess Championship 2022 Tournament of Peace 2022 Upcoming European Senior Team Chess Championship 2022 9th RIDEF Francophone's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2022/\">Read More &#187;</a></span>",
