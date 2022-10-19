@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "19-year-old Hans Niemann defeated Samuel Sevian in the 12th round of the US Chess Championship. Altogether with the exciting game, the audience could have seen an interesting unusual situation. Samuel Sevian accidentally decapitated Niemann's king, picked it up from the board in the middle of the game, and tried to fix it. The 19-year-old protested []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-the-disrespect-just-reached-its-peak-sam-decapitated-hans-king-tweetoftheday/",
+         "pubDate" : "Tue, 18 Oct 2022 23:57:55 +0000",
+         "title" : "Fabiano Caruana: The disrespect just reached its peak. Sam decapitated Hans' king #TweetOftheDay"
+      },
+      {
          "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -216,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/us-chess-championship-2022-round-12-live/",
          "pubDate" : "Tue, 18 Oct 2022 07:40:25 +0000",
          "title" : "US Chess Championship 2022 - Round 12 live"
-      },
-      {
-         "description" : "GM Fabiano Caruana leads with two rounds to go. GM Ray Robson remains in second place, but GM Leinier Dominguez and GM Sam Sevian inched closer with victories.&#xA0;In the U.S. Women&#x2019;s Championship, WGM Jennifer Yu won to keep her lead while GM Irina Krush and WGM Thalia Cervantes also won to remain in striking distance. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-leads-with-two-rounds-to-go-us-chess-championship-2022-round-11-recap/",
-         "pubDate" : "Tue, 18 Oct 2022 07:29:57 +0000",
-         "title" : "Fabiano Caruana leads with two rounds to go; US Chess Championship 2022 Round 11 recap"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
