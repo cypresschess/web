@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three long-standing elite GMs defeated younger opponents in the quarterfinals of the Aimchess Rapid online tournament, as Magnus Carlsen, Shakhriyar Mamedyarov and Richard Rapport knocked out Arjun Erigaisi, Nodirbek Abdusattorov and Gukesh Dommaraju, respectively. The one exception to this rule was Jan-Krzysztof Duda, who got the better of Vidit Gujrathi. By reaching the event's semifinals, Carlsen secured overall tour victory with one tournament to spare!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d5",
+         "pubDate" : "Wed, 19 Oct 2022 02:45:00 +0100",
+         "title" : "Aimchess Rapid: Experience prevails, Carlsen secures tour victory"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Cristian Chirila after defeating Gulrukhbegim Tokhirjonova in Round 12 of the 2022 U.S. Women's Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cervantes-five-back-back-wins-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uTATe7xX7ys.jpg?itok=1vt2pGEx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/cervantes-five-back-back-wins-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 01:02:30 +0000",
+         "title" : "Cervantes: Five Back-to-Back Wins! | Round 12"
+      },
+      {
+         "description" : "Hans Niemann scored his third consecutive victory at the US Chess Championship after defeating Samuel Sevian in today's 12th round. Niemann managed to score in a thrilling endgame as Sevian missed his chances to hold a draw. An interesting and unusual situation was spotted on the venue's camera which showed the players communicating during the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-explains-what-happened-with-his-king-samuel-sevian-wanted-to-glue-the-piece/",
+         "pubDate" : "Wed, 19 Oct 2022 00:40:31 +0000",
+         "title" : "Hans Niemann explains what happened with his King: Samuel Sevian wanted to glue the piece"
+      },
+      {
          "description" : "19-year-old Hans Niemann defeated Samuel Sevian in the 12th round of the US Chess Championship. Altogether with the exciting game, the audience could have seen an interesting unusual situation. Samuel Sevian accidentally decapitated Niemann's king, picked it up from the board in the middle of the game, and tried to fix it. The 19-year-old protested []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -66,28 +90,12 @@ news_feed (
          "title" : "2022 U.S. Chess Championships: Closing Ceremony"
       },
       {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Tue, 18 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
-      },
-      {
          "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-lex-fridman-podcast-with-hikaru-nakamura",
          "pubDate" : "Tue, 18 Oct 2022 17:19:16 +0100",
          "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
-      },
-      {
-         "description" : "Nine out of fourteen games finished decisively in round 11 of the U.S. Championships. In the open, Fabiano Caruana continues to lead, with Ray Robson a half point back, while Leinier Dominguez and Sam Sevian both won to climb to shared third place. In the women's event, Jennifer Yu leads Irina Krush by a half point after both contenders for first place won their games with the black pieces. Yu will have white against Krush in their round-12 direct encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r11",
-         "pubDate" : "Tue, 18 Oct 2022 17:00:00 +0100",
-         "title" : "U.S. Championships: Yu and Krush score, will face off in the next round"
       },
       {
          "description" : "The successful series \"How does a chess professional analyse with ChessBase\" with Regina Pokorna had shown the final episode on Sunday on the German ChessBase YouTube site. On the other hand, \"How to prepare for a tournament like a professional chess player\" with Lilit Mkrtchian has just started. In the first episode she shows us how she creates an opening repertoire, and has accumulated almost a terrabyte of opening data over the decades. Martin Fischer now shows us the version that ChessBase originally intended, so that amateur players also have an easier time starting their own repertoire.",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal-part-2-and-3",
          "pubDate" : "Tue, 18 Oct 2022 12:00:00 +0100",
          "title" : "Sicilian Dragon: The Real Deal! Part 2 and 3"
+      },
+      {
+         "description" : "Nine out of fourteen games finished decisively in round 11 of the U.S. Championships. In the open, Fabiano Caruana continues to lead, with Ray Robson a half point back, while Leinier Dominguez and Sam Sevian both won to climb to shared third place. In the women's event, Jennifer Yu leads Irina Krush by a half point after both contenders for first place won their games with the black pieces. Yu will have white against Krush in their round-12 direct encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r11",
+         "pubDate" : "Tue, 18 Oct 2022 11:55:00 +0100",
+         "title" : "U.S. Championships: Yu and Krush score, will face off in the next round"
       },
       {
          "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
@@ -218,14 +234,6 @@ news_feed (
          "title" : "Sam Shankland vs Fabiano Caruana, US Chess Championship 2022 Round 12 LIVE"
       },
       {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-12-live/",
-         "pubDate" : "Tue, 18 Oct 2022 07:40:25 +0000",
-         "title" : "US Chess Championship 2022 - Round 12 live"
-      },
-      {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jennifer-yu-treat-krush-game-%E2%80%98must-win%E2%80%99-round-11",
          "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
          "title" : "Jennifer Yu: Treat Krush Game as 'Must Win' | Round 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.17<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-11",
-         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 11"
       },
       {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
