@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sicilian Defense is often a thorn in the side for 1.e4 players, with many tactical games arising from it. Elite players know this, and use it to play for a win with Black. Stomp the Sicilian: The Maroczy Bind by Vjekosav Nemec aka Chessentials illustrates how the Maroczy Bind pawn structure (pawns on e4 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stomp-the-sicilian-the-maroczy-bind/",
+         "pubDate" : "Wed, 19 Oct 2022 06:56:19 +0000",
+         "title" : "Stomp the Sicilian: The Maroczy Bind"
+      },
+      {
+         "description" : "The penultimate round of the U.S. Chess Championship took place on Tuesday and saw leader GM Fabiano Caruana draw his fifth game straight against GM Sam Shankland and move to 8/12. GM Ray Robson, his closest challenger, trails by half a point with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-us-championship-round-12",
+         "pubDate" : "Tue, 18 Oct 2022 22:28:28 -0700",
+         "title" : "Krush Wins Crucial Match Against Yu, Takes Sole Lead"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/christopher-yoo-vs-ray-robson-us-chess-championship-2022-round-12-live/",
          "pubDate" : "Tue, 18 Oct 2022 07:51:07 +0000",
          "title" : "Christopher Yoo vs Ray Robson, US Chess Championship 2022 Round 12 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Heading into the 12th the penultimate round of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shankland-vs-fabiano-caruana-us-chess-championship-2022-round-12-live/",
-         "pubDate" : "Tue, 18 Oct 2022 07:48:31 +0000",
-         "title" : "Sam Shankland vs Fabiano Caruana, US Chess Championship 2022 Round 12 LIVE"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d3",
          "pubDate" : "Wed, 05 Oct 2022 13:22:00 -0700",
          "title" : "Giri, Duda Shut Down Dark Horses, Earn Seats In Toronto Finals"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won his third straight Titled Tuesday on October 4 with the rare score of 10.5/11, then nearly swept the event for the second straight week with a second-place finish in the late event. Instead, it was won by GM Matthias Bluebau...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-october-4-2022",
-         "pubDate" : "Wed, 05 Oct 2022 08:03:00 -0700",
-         "title" : "Nakamura's Tuesday Dominance Continues"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
