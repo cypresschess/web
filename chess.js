@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alireza Firouzja played in both Titled Tuesday tournaments on October 18, scoring 18/22 overall before winning the late event. They were his first games on Chess.com since April 22, 2021. The early event was won by GM-elect Tuan Minh Le with th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-firouzja-win-titled-tuesday-october-18-2022",
+         "pubDate" : "Wed, 19 Oct 2022 07:42:55 -0700",
+         "title" : "World's Top Teenager Makes Triumphant Return"
+      },
+      {
+         "description" : "Going into Wednesday's final round, Fabiano Caruana and Irina Krush are sole leaders in the open and women's sections of the U.S. Championships, respectively. Ray Robson, Leinier Dominguez and Awonder Liang still have chances of catching Caruana in the open, while Jennifer Yu and Thalia Cervantes stand a half point behind Krush and will face each other in the thirteenth round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championship-2022-r12",
+         "pubDate" : "Wed, 19 Oct 2022 15:20:00 +0100",
+         "title" : "U.S. Championships: Krush leapfrogs Yu"
+      },
+      {
+         "description" : "19-year-old Hans Niemann defeated Samuel Sevian in yesterday's 12th round of the US Chess Championship (Replay the game here). A dynamic fighting play between the resilient grandmasters and a thrilling endgame was overshadowed by a unique over-the-board incident. While Niemann thought about his 45th move, Sevian picked up Niemann's King from the board and broke []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-lawrence-trent-sam-decapitating-hans-king-and-then-throwing-it-back-on-a-random-square-is-bizarre-tweetoftheday/",
+         "pubDate" : "Wed, 19 Oct 2022 13:13:58 +0000",
+         "title" : "IM Lawrence Trent: Sam decapitating Hans' King and then throwing it back on a random square is bizarre #TweetOftheDay"
+      },
+      {
+         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann scores 6.5/12 points as he scored three consecutive []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-vs-awonder-liang-us-chess-championship-2022-round-13-live/",
+         "pubDate" : "Wed, 19 Oct 2022 11:44:27 +0000",
+         "title" : "Hans Niemann vs Awonder Liang, US Chess Championship 2022 Round 13 LIVE"
+      },
+      {
+         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana heads into the last round of the tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ray-robson-vs-jeffery-xiong-us-chess-championship-2022-round-13-live/",
+         "pubDate" : "Wed, 19 Oct 2022 11:31:16 +0000",
+         "title" : "Ray Robson vs Jeffery Xiong, US Chess Championship 2022 Round 13 LIVE"
+      },
+      {
          "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana heads into the last round of the tournament []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -46,8 +86,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-quarterfinals",
-         "pubDate" : "Wed, 19 Oct 2022 02:31:28 -0700",
-         "title" : "Carlsen Knocks Out Erigaisi, Secures Early Champions Chess Tour Victory"
+         "pubDate" : "Wed, 19 Oct 2022 02:31:00 -0700",
+         "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
       },
       {
          "description" : "A broken king? A blundered bishop? A scrambled leaderboard in the U.S. Women&#x2019;s Championship with one round to go? Chaos has erupted at the U.S. Championships.&#xA0; Fabiano Caruana and his closest competitor Ray Robson each drew, staying in first and second. Wild card GM Awonder Liang fought for 105 moves for the win to join []",
@@ -178,22 +218,6 @@ news_feed (
          "title" : "Chess.com conducts the Fair Play survey"
       },
       {
-         "description" : "Magnus Carlsen claimed the Meltwater Champions Chess Tour 2022 title with a tournament to spare! Defeating Arjun Erigaisi in the quarter-finals of the 8th and penultimate event of the Meltwater Champions Chess Tour with a convincing 2.5-1.5 result, Carlsen secured the title of the tour champion and a 50.000$ prize on top of his overall []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-a-tournament-to-spare/",
-         "pubDate" : "Tue, 18 Oct 2022 22:07:42 +0000",
-         "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with a tournament to spare!"
-      },
-      {
-         "description" : "Magnus Carlsen sealed the overall Meltwater Champions Chess Tour title for the second year running &#x2013; this time with an event to spare &#x2013; after storming into the semi-finals of the Aimchess Rapid. Norway&#x2019;s world number 1, going for a hat-trick of tournament wins in the Tour&#x2019;s penultimate event, scooped a $50,000 prize on top []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/duda-carlsen-mamedyarov-and-rapport-are-the-semi-finalists-of-the-aimchess-rapid/",
-         "pubDate" : "Tue, 18 Oct 2022 21:39:05 +0000",
-         "title" : "Duda, Carlsen, Mamedyarov and Rapport are the semi-finalists of the Aimchess Rapid"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-seals-third-tour-victory/",
          "pubDate" : "Tue, 18 Oct 2022 21:14:05 +0100",
          "title" : "Carlsen seals third tour victory"
-      },
-      {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Tue, 18 Oct 2022 20:15:00 +0100",
-         "title" : "U.S. Championships - Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, join a host TBD for the closing ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The fields and inductees are listed below. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang 2022 U.S. Women&#039;s Championship: Krush, Zatonskih, Eswaran, Paikidze, Tokhirjonova, Abrahamyan, J. Yu, A. Lee, R. Yan, Foisor, Cervantes, M. Lee, R. Wu, Morris-Suzuki 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
          "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
          "title" : "Free chess training for Ukrainian refugees"
-      },
-      {
-         "description" : "Just weeks after&#xA0;Magnus Carlsen&#xA0;shocked the chess world after&#xA0;resigning against Hans Niemann on the move 2&#xA0;during the Julius Baer Generation Cup, the Azerbaijani grandmaster&#xA0;Rauf Mamedov&#xA0;had the same reaction during the Titled Tuesday played on October 11th, on chess.com.&#xA0;Mamedov had white pieces and started with 1.e4, when Carlsen answered with Borg Defense &#x2013; 1&#x2026;g5.&#xA0;Rauf decided to resign. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-romain-edouard-mamedovs-decision-was-brave-but-magnus-was-not-making-fun-of-anyone-tweetoftheday/",
-         "pubDate" : "Tue, 18 Oct 2022 09:20:33 +0000",
-         "title" : "GM Romain Edouard: Mamedov's decision was brave, but Magnus was not making fun of anyone #TweetOftheDay"
       },
       {
          "description" : "‌A nerve-wracking final three rounds of the Aimchess Rapid prelim stage saw Polish ace Jan-Krzysztof Duda sail through to the quarter-finals in first place while Anish Giri was sensationally knocked out. A struggling Magnus Carlsen is through, but will have to overcome the young star Arjun Erigaisi who beat him in the prelims.",
@@ -1450,14 +1458,6 @@ news_feed (
          "title" : "Six White Wins Shake Up Standings"
       },
       {
-         "description" : "Ossip Bernstein had a turbulent life: Born in 1882 in Czarist Russia he was a successful lawyer in Moscow until he had to flee from the Bolsheviks. He emigrated to Paris where he rebuilt his successful law firm but then had to flee again when the Nazis occupied France. After the war, Bernstein returned to Paris. Apart from his career as a lawyer and businessman he was also a successful chess player and at his peak he was one of the world's best players. Eugene Manlapao takes a look at the life and career of this brilliant amateur player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ossip-bernstein-september-20-1882-november-30-1962-the-last-star-of-chess-golden-age",
-         "pubDate" : "Fri, 07 Oct 2022 18:30:00 +0100",
-         "title" : "Ossip Bernstein (September 20, 1882 - November 30, 1962): The Last Star of Chess' Golden Age"
-      },
-      {
          "description" : "Last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html\">Fischer: 'That's my answer'</A>(September 2022), covered the start of the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(m-w.com). At the pre-match press conference Fischer said, <BLOCKQUOTE>\"I'll start off with, umm, ah, some impudent questions from The New York Times [Roger Cohen].\" </BLOCKQUOTE> <P>Roger Cohen wasn't some random chess journalist. His Wikipedia page <A HREF=\"https://en.wikipedia.org/wiki/Roger_Cohen\">Roger Cohen</A>(wikipedia.org) starts, <BLOCKQUOTE>Roger Cohen (born 2 August 1955) is a journalist and author. He was a reporter, e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1584,14 +1584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2025",
          "pubDate" : "Thu, 06 Oct 2022 10:14:03 +0000",
          "title" : "2022 U.S. Championships kick off in St. Louis"
-      },
-      {
-         "description" : "GMs Hans Niemann and Sam Sevian were the two winners on the opening day of the U.S. Championship in St. Louis as Niemann looked to put to bed any speculations about his over-the-board play. The women&#39;s section saw four decisive results, including ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-1",
-         "pubDate" : "Thu, 06 Oct 2022 02:59:00 -0700",
-         "title" : "Niemann: 'This Game Is A Message To Everyone'"
       },
       {
          "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women's Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women's section emerging on the top with the perfect score of 6 match points. With no major upsets, most of the favorites scored&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-round-3-report/\">Read More &#187;</a></span>",
@@ -1960,30 +1952,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/georgian-gm-pantsulaia-levan-wins-chhattisgarh-international-grandmaster-chess-championship/articleshow/94514693.cms",
          "pubDate" : "Wed, 28 Sep 2022 14:57:27 +0000",
          "title" : "Georgian Levan wins Chhattisgarh International Grandmaster C'ship"
-      },
-      {
-         "description" : " <p class=\"lead\">At the Women's Grand Prix held in Astana, Kazakhstan, FIDE's official commentator Ilya Smirin made some \"completely unacceptable\" sexist remarks publicly but also privately as revealed by his co-commentator WIM Fiona Steil-Antoni. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ilya-smirin-fiona-Steil-Antoni-women-grand-prix-fide-sexism.jpeg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by Anna Shtourman / FIDE</div> </div> While the <a href=\"https://worldchess.com/news/all/i-am-not-willing-to-play-chess-with-niemann-carlsen-on-the-cheat/\">cheating scandal</a> is still ongoing, GM Ilya Smirin decided to shock the chess w",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-fires-gm-smirin-for-sexism-at-the-women-grand-prix/",
-         "pubDate" : "Wed, 28 Sep 2022 14:33:14 +0000",
-         "title" : "FIDE fires GM Smirin for sexism at the Women Grand Prix"
-      },
-      {
-         "description" : " <table cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"float: right;\"><tbody><tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD7mSN1t8rMKx2nFTocxwBcDNHUaRNa4upsnuEd7ILFB87fac-tCsaIFOF7CJyivSdTlHolRUCbpzN3wsD3uzHyd_BuGZpmIKtmLjGfU2o4dAtvQlGtYYuxmealwqBqssxuwg9C9I/s680/amomuh.png\" imageanchor=\"1\" style=\"clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"200\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZOLTYMr72_O9EcoteW6jwgd4Ph1x8PETNNZqRGvSBSOyLil2YD",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/a-position-to-know.html",
-         "pubDate" : "Wed, 28 Sep 2022 13:58:00 +0000",
-         "title" : "A position to know"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2009",
-         "pubDate" : "Wed, 28 Sep 2022 13:00:08 +0000",
-         "title" : "2022 African Chess Championship: Bassem Amin and Shahenda Wafa claim titles"
       }
    ]
 }
