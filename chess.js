@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Wed, 19 Oct 2022 20:15:00 +0100",
+         "title" : "U.S. Championships - Live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/junior-excluded-for-bringing-earbuds/",
+         "pubDate" : "Wed, 19 Oct 2022 18:30:22 +0100",
+         "title" : "Junior excluded for bringing earbuds"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Wed, 19 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid: Live"
+      },
+      {
          "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "Aimchess Rapid 2022 - Games and Results"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nearly 6000 chess fans registered in 300 <strong>Magnus Chess Groups</strong> in 66 countries that use the app <strong>Meetup</strong>, which <a href=\"https://live.euronext.com/nb/product/equities/NO0010890726-MERK#CompanyPressRelease-11936564\">is now announced as a cooperation partner</a> of the <strong>Play Magnus Group</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/meetup-chess-groups-in-66-countries/",
-         "pubDate" : "Fri, 14 Oct 2022 12:18:44 +0100",
-         "title" : "Meetup chess groups in 66 countries"
-      },
-      {
          "description" : "Under the name \"C-Squared\" Fabiano Caruana and Cristian Chirila recently launched a new chess podcast. Episode five featured Alejandro Ramirez, Costa Rica's first grandmaster, ChessBase author, trainer and popular commentator. The three talked about Ramirez's career, chess in Costa Rica, but above all about the Hans Niemann case. Asked whether he believes Niemann cheated when playing over-the-board, Ramirez said: \"It does seem very likely.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,28 +1442,12 @@ news_feed (
          "title" : "European Club Cup: Vidit on fire!"
       },
       {
-         "description" : "Three decisive games were seen both at the U.S. Championship and the U.S. Women's Championship in Friday's third round. In the open, Fabiano Caruana and Awonder Liang scored their first wins of the event, while Christopher Yoo grabbed a second victory in a row. Among the women, Tatev Abrahamyan, Gulrukhbegim Tokhirjonova and Ruiyang Yan collected full points. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r3",
-         "pubDate" : "Sat, 08 Oct 2022 08:35:00 +0100",
-         "title" : "U.S. Championships: Caruana scores, Yoo wins two in a row"
-      },
-      {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/when-dinosaurs-ruled-the-chessboard/",
          "pubDate" : "Sat, 08 Oct 2022 07:04:03 +0000",
          "title" : "When dinosaurs ruled the chessboard"
-      },
-      {
-         "description" : "Grandmaster Smbat Lputian, chairman of the Chess and Education Commission of the International Chess Federation (EDU FIDE), informs us that an International Online Conference entitled \"Chess in the Process of a Preschooler's Development\" will be held on December 10, 2022. The goal of the conference is to discuss different approaches of teaching chess to preschoolers mainly considering chess as an educational tool for a child's development.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-preschooler-development",
-         "pubDate" : "Sat, 08 Oct 2022 07:30:00 +0100",
-         "title" : "Conference: Chess in the process of a preschooler's development"
       },
       {
          "description" : "GMs Fabiano Caruana, Christopher Yoo, and Awonder Liang all won their third-round games at the 2022 U.S. Championships on Friday, with the former two joining GMs Sam Sevian and Hans Niemann atop the leaderboard on 2/3. Players with the white pie...",
@@ -1928,22 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2012",
          "pubDate" : "Wed, 28 Sep 2022 20:33:43 +0000",
          "title" : "Winners crowned at FIDE World Cadet Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2011",
-         "pubDate" : "Wed, 28 Sep 2022 18:43:40 +0000",
-         "title" : "FIDE Chessable Academy resumes in October 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2010",
-         "pubDate" : "Wed, 28 Sep 2022 16:41:28 +0000",
-         "title" : "Huge excitement in Astana WGP"
       }
    ]
 }
