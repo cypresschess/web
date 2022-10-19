@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-champs-12-sevian-decapitates-niemann-s-king",
+         "pubDate" : "Wed, 19 Oct 2022 15:13:42 +0000",
+         "title" : "US Champs 12: Sevian \"decapitates\" Niemann's king "
+      },
+      {
          "description" : "GM Alireza Firouzja played in both Titled Tuesday tournaments on October 18, scoring 18/22 overall before winning the late event. They were his first games on Chess.com since April 22, 2021. The early event was won by GM-elect Tuan Minh Le with th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1266,14 +1274,6 @@ news_feed (
          "title" : "Gold For Novy Bor, Pamhagen At European Club Cup"
       },
       {
-         "description" : "Magnus Carlsen will be looking to wrap up overall Meltwater Champions Chess Tour victory as he plays the Aimchess Rapid, the penultimate event on the $1.6 million Tour, from Friday October 14th at 18:00 CEST. 16-year-old world no. 18 Gukesh makes his debut this season, alongside teen stars Arjun Erigaisi, Nodirbek Abdusattorov, Vincent Keymer and Aditya Mittal.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-gukesh-erigaisi-in-aimchess-rapid",
-         "pubDate" : "Mon, 10 Oct 2022 09:17:35 +0000",
-         "title" : "Carlsen, Gukesh & Erigaisi in Aimchess Rapid"
-      },
-      {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women's tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to score impressive 7/7&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1944,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2010",
          "pubDate" : "Wed, 28 Sep 2022 16:41:28 +0000",
          "title" : "Huge excitement in Astana WGP"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94514693.cms\" />Pantsulaia Levan of Georgia clinched the 2nd Chhattisgarh Chief Minister's Trophy International Grandmaster Chess Championship title, organised in Chhattisgarh's capital Raipur from September 18 to 28.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/georgian-gm-pantsulaia-levan-wins-chhattisgarh-international-grandmaster-chess-championship/articleshow/94514693.cms",
-         "pubDate" : "Wed, 28 Sep 2022 14:57:27 +0000",
-         "title" : "Georgian Levan wins Chhattisgarh International Grandmaster C'ship"
       }
    ]
 }
