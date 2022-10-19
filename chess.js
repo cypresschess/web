@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-rapid-indian-challenge-ends-in-quarterfinals/articleshow/94956298.cms",
+         "pubDate" : "Wed, 19 Oct 2022 04:22:36 +0000",
+         "title" : "Aimchess Rapid: Indian challenge ends in quarterfinals"
+      },
+      {
          "description" : "Three long-standing elite GMs defeated younger opponents in the quarterfinals of the Aimchess Rapid online tournament, as Magnus Carlsen, Shakhriyar Mamedyarov and Richard Rapport knocked out Arjun Erigaisi, Nodirbek Abdusattorov and Gukesh Dommaraju, respectively. The one exception to this rule was Jan-Krzysztof Duda, who got the better of Vidit Gujrathi. By reaching the event's semifinals, Carlsen secured overall tour victory with one tournament to spare!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2008",
          "pubDate" : "Wed, 28 Sep 2022 08:40:13 +0000",
          "title" : "FIDE's statement on sexist remarks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94495697.cms\" />Magnus Carlsen's reasons why he feels that Hans Niemann cheats: \"unusual\" progress in over-the-board chess, the 19-year-old world No. 49 American \"wasn't tense or concentrating on the game at critical points\" during his classical win over the Norwegian earlier this month.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/magnus-carlsen-says-wont-play-against-cheat-hans-niemann/articleshow/94495697.cms",
-         "pubDate" : "Wed, 28 Sep 2022 04:17:10 +0000",
-         "title" : "Magnus Carlsen says won't play against 'cheat' Hans Niemann"
       }
    ]
 }
