@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-538-r-robson-vs-w-so",
+         "pubDate" : "Thu, 20 Oct 2022 16:10:21 +0100",
+         "title" : "Game of the Week #538: R. Robson vs W. So"
+      },
+      {
+         "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/us-chess-champs-13-caruana-clinches-2nd-title",
+         "pubDate" : "Thu, 20 Oct 2022 12:20:25 +0000",
+         "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
+      },
+      {
          "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,11 +66,11 @@ news_feed (
          "title" : "US Women's Chess Champion 2022 to be determined in playoffs; Round 13 recap"
       },
       {
-         "description" : "GM Magnus Carlsen got eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
+         "description" : "GM Magnus Carlsen was eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-semifinals",
-         "pubDate" : "Wed, 19 Oct 2022 23:45:22 -0700",
+         "pubDate" : "Wed, 19 Oct 2022 23:45:00 -0700",
          "title" : "Duda Knocks Out Carlsen, To Play Mamedyarov In Final"
       },
       {
@@ -1178,14 +1194,6 @@ news_feed (
          "title" : "FIDE President visits Paraguay"
       },
       {
-         "description" : "19-year-old Awonder Liang recently called himself \"much more of a student than a chess player\", but in Round 5 of the US Championship he crushed world no. 10 Levon Aronian with the Scotch Gambit. Sam Shankland picked up the only other win in the Open section, while a 4th win in 5 games gave Jennifer Yu, currently studying at Harvard University, the sole lead in the Women's section.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-5-awonder-liang-stuns-aronian",
-         "pubDate" : "Tue, 11 Oct 2022 17:42:15 +0000",
-         "title" : "US Chess Champs 5: Awonder Liang stuns Aronian"
-      },
-      {
          "description" : "The Magician of Riga has made many incredibly smart moves in his career. Svitlana shows us in a couple of examples, what Mikhail Tal's secret for successful attacking is. Maybe you can use the tips to your advantage in a dominating position against your opponent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://aicf.in/world-youth-under-16-chess-olympiad-6th-round-report/",
          "pubDate" : "Sat, 08 Oct 2022 14:37:57 +0000",
          "title" : "World Youth (Under 16) Chess Olympiad- 6th Round report"
-      },
-      {
-         "description" : "White has active pieces and a powerful passed pawn on d6 while Black's back rank is weak. In the diagram position you are probably itching to find the decisive move that defeats Black. But can you calculate everything in your head until the knockout comes five moves later?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/double-flop-2",
-         "pubDate" : "Sat, 08 Oct 2022 09:00:00 +0100",
-         "title" : "Passed pawns are powerful"
       },
       {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
@@ -1912,22 +1912,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/cheating-mania.html",
          "pubDate" : "Thu, 29 Sep 2022 15:50:00 +0000",
          "title" : "Cheating Mania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2014",
-         "pubDate" : "Thu, 29 Sep 2022 14:49:45 +0000",
-         "title" : "2022 Astana Women's Grand Prix: Kateryna Lagno, winner "
-      },
-      {
-         "description" : " Sometimes you reach the end of a game, and despite a positive result, you aren't exactly sure why. This happened to me in a recent game, albeit one that had missed chances for both sides. Maybe what went right was not getting hit with 30.Rxf6! which leads to a better position after 31. ... Bxf6 32.Rxf6 Rxf6 33.Ng4! Instead the 'automatic' 30.Bxf6 enabled me to exploit my advantage on the queenside, although even then, it was my turn to miss the winning tactic. Fortunately there was still enough to convert the ending into a full point. <br /> <br /> <b>Pearce,Tim - Press,Shaun [E81]</b><br />Gungahlin CC (3), 27.09.2022 <script>new PgnViewer( { boardName: \"game1354\", movesFormat: \"default\", ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/not-sure-what-went-right-here.html",
-         "pubDate" : "Thu, 29 Sep 2022 13:01:00 +0000",
-         "title" : "Not sure what went right here"
       }
    ]
 }
