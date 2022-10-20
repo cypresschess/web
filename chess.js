@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "WGM Jennifer Yu was crowned the winner of the 2022 U.S. Women&#39;s Chess Championship on Thursday after a thrilling tiebreaker that had to be decided by an armageddon game. After winning the opening game of the match against GM Irina Krush, Yu very n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yu-wins-2022-us-championship-playoff",
+         "pubDate" : "Thu, 20 Oct 2022 16:26:57 -0700",
+         "title" : "Yu Claims U.S. Women's Championship In Thrilling Armageddon Tiebreaker"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Krush in the playoff of the 2022 U.S. Women's Championship. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-wins-armageddon-title-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/59R2wxI7e7E.jpg?itok=xAODUmbY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1-lichessorg",
          "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
          "title" : "2022 Fall Chess Classic: Round 1 | lichess.org"
+      },
+      {
+         "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
+         "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
+         "title" : "Chess scandal: Niemann files $100m lawsuit"
       },
       {
          "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann is seeking a total of 400 million USD in damages Hans Niemann is to be represented by Oved &#38; Oved and its attorneys Terrence A. Oved, Darren Oved, Andrew Urgenson, and James Reilly. []",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2026",
          "pubDate" : "Fri, 07 Oct 2022 10:57:28 +0000",
          "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
-      },
-      {
-         "description" : "The third and fourth rounds at the European Club Cup saw nice wins for both GM Magnus Carlsen and GM Viswanathan Anand, but their respective teams dropped in the standings. Novy Bor (Czech Republic) is the only team that scored four victories, whi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-european-chess-club-cup-round-4",
-         "pubDate" : "Fri, 07 Oct 2022 01:53:00 -0700",
-         "title" : "Wins For Anand, Carlsen But Their Teams Drop Points"
       },
       {
          "description" : "16th Asian Schools Chess Championships 2022 Open &#38; Girls under 7, 9, 11, 13, 15 &#38; 17 Kaluthara, Sri Lanka -3rd to 11th December 2022",
