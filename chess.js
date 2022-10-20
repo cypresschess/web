@@ -10,6 +10,14 @@ news_feed (
          "title" : "Aimchess Rapid: Duda knocks out Carlsen, will face Shakh in the final"
       },
       {
+         "description" : "This is a flash report. The full report will be added to this page soon. GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he cou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
+         "pubDate" : "Wed, 19 Oct 2022 17:59:26 -0700",
+         "title" : "Flash Report: Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
+      },
+      {
          "description" : "Fabiano Caruana is the Winner of the 2022 US Chess Championship! After a quick draw against Levon Aronian in today's final round of the tournament, Caruana needed to wait for Ray Robson to finish his game before knowing whether he claims the Champion title or goes for the playoff match. Ray Robson missed his chances []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
-      },
-      {
-         "description" : "The wait is over: Chess.com is happy to announce that the PRO Chess League is returning in 2023! The Professional Rapid Online League is the world&#39;s premier online chess league for professional players. The 2023 season starts on February 1, with t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-pro-chess-league-2023",
-         "pubDate" : "Thu, 06 Oct 2022 12:39:00 -0700",
-         "title" : "Chess.com Announces The Return Of The PRO Chess League In 2023"
       },
       {
          "description" : "Today India won the fourth round by huge margin (3.5 - 0.5 point) against Uzbekistan-2 in the ongoing World Youth Olympiad being held at Nakhchivan,",
