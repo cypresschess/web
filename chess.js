@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen got eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-semifinals",
+         "pubDate" : "Wed, 19 Oct 2022 23:45:22 -0700",
+         "title" : "Duda Knocks Out Carlsen, To Play Mamedyarov In Final"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Łukasz Turlej</strong>, a former President of the <strong>Polish Chess Federation</strong> and <strong>FIDE</strong> Vice President, <a href=\"https://twitter.com/lukaszturlej/status/1582788120738951168\">has been appointed as FIDE General Secretary</a>, a post that was vacant since 18 months. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/turlej-becomes-fide-general/",
+         "pubDate" : "Thu, 20 Oct 2022 06:33:24 +0100",
+         "title" : "Turlej becomes FIDE General Secretary"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -496,14 +512,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/marketing-expert-leads-austrian/",
          "pubDate" : "Mon, 17 Oct 2022 11:54:39 +0100",
          "title" : "Marketing expert leads Austrian Federation"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong> extended their 13 NOK offer per <strong>Play Magnus Group</strong> share until 2 November and has yet to convince hundreds of shareholders to seal the deal. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-10-17-at-12-17.1920.jpeg\" title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a video announcing the take-over bid. \" data-title=\"Danny Rensch, Chess.com, and Magnus Carlsen in a [video][1] announcing the take-over bid. [1]: https://www.youtube.com/watch?v=DP-K0mYHeD0&feature=emb_imp_woyt\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ch",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/the-game-changer-behind-chessdrama/",
-         "pubDate" : "Mon, 17 Oct 2022 11:06:23 +0100",
-         "title" : "Tik-tok with Magnus"
       },
       {
          "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credibility-test-in-st-louis-as-cheating-saga-continues",
          "pubDate" : "Fri, 07 Oct 2022 07:00:52 +0000",
          "title" : "Chess: Niemann faces credibility test in St Louis as cheating saga continues"
-      },
-      {
-         "description" : "The second day of the 2022 U.S. Chess Championships was a day of upsets as GM Christopher Yoo stunned 2021 champion GM Wesley So with the black pieces in a remarkably aggressive clash. Several results went the way of the underdogs in the women&#39;s e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-2",
-         "pubDate" : "Thu, 06 Oct 2022 20:53:00 -0700",
-         "title" : "Yoo Shocks U.S. Champion So With Black"
       },
       {
          "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
