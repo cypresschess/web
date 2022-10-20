@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Over the past month, the chess world has been turned upside down and inside-out with the cheating controversy surrounding world champion Magnus Carlsen and Grandmaster Hans Niemann. The Chess Drum has closely followed the drama on all media social platforms including Reddit and Twitter, where information is able to reach a viral effect. Looking back The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/\">The Anatomy of Carlsen-Niemann cheating controversy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/",
+         "pubDate" : "Thu, 20 Oct 2022 23:46:21 +0000",
+         "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
+      },
+      {
          "description" : "WGM Jennifer Yu was crowned the winner of the 2022 U.S. Women&#39;s Chess Championship on Thursday after a thrilling tiebreaker that had to be decided by an armageddon game. After winning the opening game of the match against GM Irina Krush, Yu very n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
