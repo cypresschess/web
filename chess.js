@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
+         "pubDate" : "Thu, 20 Oct 2022 12:45:00 +0100",
+         "title" : "Fabiano Caruana is the 2022 U.S. champion"
+      },
+      {
+         "description" : "You've seen videos using it, and articles displaying it, and here is the tutorial on how to use it in all its glory. The Engine Correlation in Let's Check can be a wonderful tool when used properly and comes with a variety of options in both ChessBase 16 and the Fritz interface. Here is the easy-to-use definitive guide.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/let-s-check-engine-correlation-how-to-use-it",
+         "pubDate" : "Thu, 20 Oct 2022 11:58:49 +0100",
+         "title" : "Let's Check Engine Correlation: How to use it"
+      },
+      {
+         "description" : "The Premier Division of TCEC Season 23 is over, and we will see Stockfish take on Leela in the superfinal while Komodo Dragon takes on Ethereal in the infrafinal. Although this was the foreshadowed result at the halfway mark, the second half of the division brought up plenty of drama. I had written then that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/its-stockfish-vs-leela-for-the-tcec-superfinal/",
+         "pubDate" : "Thu, 20 Oct 2022 09:31:30 +0000",
+         "title" : "It's Stockfish vs Leela for the TCEC Superfinal"
+      },
+      {
+         "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov today.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-6-duda-knocks-out-carlsen-to-face-mamedyarov-in-final",
+         "pubDate" : "Thu, 20 Oct 2022 09:20:20 +0000",
+         "title" : "Aimchess Rapid Day 6: Duda knocks out Carlsen to face Mamedyarov in final"
+      },
+      {
+         "description" : "GM Fabiano Caruana is the 2022 U.S. Champion, clinching his second title with a draw in the 13th and final round of the tournament against GM Levon Aronian. Fabiano celebrated his second US Champion title with Cristian Chirila, Alejandro Ramirez, Maurice Ashley and Tatev Abrahamyan in the C-squared podcast. Caruana explained the US Chess Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caruana-celebrates-his-us-champion-title-with-the-c-squared-podcast-every-year-its-one-of-my-main-goals-to-win-this-tournament/",
+         "pubDate" : "Thu, 20 Oct 2022 08:41:28 +0000",
+         "title" : "Caruana celebrates the title with the C-squared podcast: Every year, it's one of my main goals to win this tournament"
+      },
+      {
+         "description" : "GM Fabiano Caruana is the 2022 U.S. Champion, clinching his second title with a draw in the 13th and final round of the tournament against GM Levon Aronian, a first-time competitor in the U.S. Championship.&#xA0; The U.S. Women&#x2019;s Championship will be decided in a playoff tomorrow between GM Irina Krush and WGM Jennifer Yu. Krush []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-womens-chess-champion-2022-to-be-determined-in-playoffs-round-13-recap/",
+         "pubDate" : "Thu, 20 Oct 2022 08:11:32 +0000",
+         "title" : "US Women's Chess Champion 2022 to be determined in playoffs; Round 13 recap"
+      },
+      {
          "description" : "GM Magnus Carlsen got eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,14 +202,6 @@ news_feed (
          "title" : "Sam Shankland joins US Championship studio to apologize for a quick draw"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Wed, 19 Oct 2022 20:15:00 +0100",
-         "title" : "U.S. Championships - Live"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -242,14 +282,6 @@ news_feed (
          "title" : "Paul Buswell RIP"
       },
       {
-         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the&#160;US Women&#x2019;s Chess Championship 2022&#160;are concurrently held from 5-20 October&#160;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-championship-2022-round-13-live/",
-         "pubDate" : "Wed, 19 Oct 2022 10:05:05 +0000",
-         "title" : "US Chess Championship 2022 - Round 13 live"
-      },
-      {
          "description" : "By reaching the semifinals of the Aimchess Rapid tournament, GM Magnus Carlsen has secured overall victory in the 2022 Meltwater Champions Chess Tour. The world champion knocked out GM Arjun Erigaisi and will face GM Jan-Krzysztof Duda next. The o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -258,28 +290,12 @@ news_feed (
          "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
       },
       {
-         "description" : "A broken king? A blundered bishop? A scrambled leaderboard in the U.S. Women&#x2019;s Championship with one round to go? Chaos has erupted at the U.S. Championships.&#160; Fabiano Caruana and his closest competitor Ray Robson each drew, staying in first and second. Wild card GM Awonder Liang fought for 105 moves for the win to join []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-remains-in-sole-lead-us-chess-championship-2022-round-12-recap/",
-         "pubDate" : "Wed, 19 Oct 2022 08:09:22 +0000",
-         "title" : "Fabiano Caruana remains in sole lead; US Chess Championship 2022 Round 12 recap"
-      },
-      {
          "description" : "Magnus Carlsen sealed the overall Meltwater Champions Chess Tour title for the second year running - this time with an event to spare - after storming into the semi-finals of the Aimchess Rapid. The World Champion faces Jan-Krzysztof Duda in the semis, while either Shakhriyar Mamedyarov or Richard Rapport will be their opponent in the final.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-event-to-spare",
          "pubDate" : "Wed, 19 Oct 2022 07:33:50 +0000",
          "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with event to spare"
-      },
-      {
-         "description" : "The Sicilian Defense is often a thorn in the side for 1.e4 players, with many tactical games arising from it. Elite players know this, and use it to play for a win with Black. Stomp the Sicilian: The Maroczy Bind by Vjekosav Nemec aka Chessentials illustrates how the Maroczy Bind pawn structure (pawns on e4 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stomp-the-sicilian-the-maroczy-bind/",
-         "pubDate" : "Wed, 19 Oct 2022 06:56:19 +0000",
-         "title" : "Stomp the Sicilian: The Maroczy Bind"
       },
       {
          "description" : "Tuesday&#39;s penultimate round of the U.S. Chess Championship saw leader GM Fabiano Caruana draw his fifth game straight against GM Sam Shankland and move to 8/12. GM Ray Robson, his closest challenger, trails by half a point with the two players pla...",
@@ -1250,14 +1266,6 @@ news_feed (
          "title" : "GM Dlugy on Carlsen-Niemann"
       },
       {
-         "description" : "Harikrishna beat Maxime Vachier-Lagrave in the final round as his Novy Bor team took European Club Cup gold after winning all their matches. Magnus Carlsen's Offerspill suffered final day heartbreak, but he took individual gold on Board 1 with a 2889 performance. In the Women's section it was Elina Danielian's Pamhagen who took gold after finishing unbeaten.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/novy-bor-crush-euro-club-cup-as-magnus-takes-gold",
-         "pubDate" : "Mon, 10 Oct 2022 22:53:31 +0000",
-         "title" : "Novy Bor crush Euro Club Cup as Magnus takes gold"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/double-flop-2",
          "pubDate" : "Sat, 08 Oct 2022 09:00:00 +0100",
          "title" : "Passed pawns are powerful"
-      },
-      {
-         "description" : "Novy Bor, the well-known Czech chess club, is very likely to win the open section of the European Club Cup, as it has a 2-point lead going into Sunday's final round. Playing on board 2 for the Czech team is Vidit Gujrathi, who has scored six wins in as many games in Mayrhofen. In the women's cup, Pamhagen, representing the host country, also has a 2-point lead in the standings. | Photos: Fiona Steil-Antoni",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r6",
-         "pubDate" : "Sat, 08 Oct 2022 08:40:00 +0100",
-         "title" : "European Club Cup: Vidit on fire!"
       },
       {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/09/not-sure-what-went-right-here.html",
          "pubDate" : "Thu, 29 Sep 2022 13:01:00 +0000",
          "title" : "Not sure what went right here"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2013",
-         "pubDate" : "Thu, 29 Sep 2022 09:43:14 +0000",
-         "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
       }
    ]
 }
