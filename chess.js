@@ -2,6 +2,118 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan-Krzysztof Duda and Shakhriyar Mamedyarov reached the final of the Aimchess Rapid online tournament after outscoring Magnus Carlsen and Richard Rapport in Wednesday's semis, respectively. Duda and Shakh finished first and third in the preliminary stage, and enter the deciding match of the event as much-deserving finalists.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d6",
+         "pubDate" : "Thu, 20 Oct 2022 02:05:00 +0100",
+         "title" : "Aimchess Rapid: Duda knocks out Carlsen, will face Shakh in the final"
+      },
+      {
+         "description" : "Fabiano Caruana is the Winner of the 2022 US Chess Championship! After a quick draw against Levon Aronian in today's final round of the tournament, Caruana needed to wait for Ray Robson to finish his game before knowing whether he claims the Champion title or goes for the playoff match. Ray Robson missed his chances []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-wins-us-chess-championship-2022/",
+         "pubDate" : "Wed, 19 Oct 2022 23:33:05 +0000",
+         "title" : "Fabiano Caruana wins US Chess Championship 2022"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Jennifer Yu in Round 12 of the 2022 U.S. Women&#039;s Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krushs-critical-victory-over-jennifer-yu-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/08RqK6nDe2s.jpg?itok=nzLK24Lp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krushs-critical-victory-over-jennifer-yu-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Krush's Critical Victory over Jennifer Yu | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after defeating Elshan Moradiabadi after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronians-first-victory-relief-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6li2Ch6I8dU.jpg?itok=sFBsH4Zw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronians-first-victory-relief-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Aronian's First Victory... Relief! | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after drawing against Sam Shankland after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-clear-lead-final-day-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbCdC3d1Tzo.jpg?itok=whiy-GFm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-clear-lead-final-day-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Caruana in Clear Lead Before Final Day | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Sam Sevian after Round 12 of the 2022 U.S. Chess Championship. Hans said that Sevian wanted to glue the king back together. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-dispute-sevian-misunderstanding-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-RlWDjlfn_g.jpg?itok=8V",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/niemann-dispute-sevian-misunderstanding-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Niemann: Dispute with Sevian a 'Misunderstanding' | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after a quick draw with Dominguez in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-i-owe-world-apology-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OfBZ1hT02vY.jpg?itok=1GdDehLk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-i-owe-world-apology-round-13",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Shankland: I Owe the World an Apology | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a quick draw with Aronian in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-king-pieces-have-been-glued-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/05IbGZXtHOM.jpg?itok=zvECmTlG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-all-king-pieces-have-been-glued-round-13",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Caruana: All the King Pieces have been Glued | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after a quick draw with Shankland in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-all-suffering-over-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iQnHpG9NV1M.jpg?itok=67QvXYh7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-all-suffering-over-round-13",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Dominguez: All the Suffering is Over | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team recaps and dubs their own dialogue over the Sam Sevian-Hans Niemann incident from the previous day of the 2022 U.S. Chess Championship. Sevian suddenly snatched Niemann&#039;s king off the board and became concerned about its loose crown. After the discussion at the board with arbiter Franc Guadalupe, Hans won, and the dispute was resolved in the parking lot. This aired during Round 13. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/icymi-sevian-vs-niemann-what-really-happened-round-12",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "ICYMI: Sevian vs. Niemann (What Really Happened) | Round 12"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during Round 13 of the 2022 U.S. Chess Championships. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-didn%E2%80%99t-know-we%E2%80%99d-have-circus-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxHmYnbMwyA.jpg?itok=AAYmSiZV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-didn%E2%80%99t-know-we%E2%80%99d-have-circus-round-13",
+         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
+         "title" : "Rex Sinquefield: Didn't Know We'd Have a Circus! | Round 13"
+      },
+      {
+         "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov tomorrow. The pair, two of the most chaotic and attacking players in world chess, will go head-to-head over two days after a semi-final full of excitement in the&#xA0;Meltwater Champions Chess Tour. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-and-shakhriyar-mamedyarov-are-the-finalists-of-the-aimchess-rapid/",
+         "pubDate" : "Wed, 19 Oct 2022 20:50:15 +0000",
+         "title" : "Jan-Krzysztof Duda and Shakhriyar Mamedyarov are the finalists of the Aimchess Rapid"
+      },
+      {
+         "description" : "Sam Shankland's last game of the 2022 US Chess Championship ended in a draw after only 8 minutes of play as his opponent Leinier Dominguez decided to go for an early threefold repetition in Najdorf. Shankland was disappointed with the repetition of the moves and requested to join the event's live studio to apologize for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sam-shankland-joins-us-championship-studio-to-apologize-for-a-quick-draw/",
+         "pubDate" : "Wed, 19 Oct 2022 20:07:36 +0000",
+         "title" : "Sam Shankland joins US Championship studio to apologize for a quick draw"
+      },
+      {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +130,6 @@ news_feed (
          "title" : "Junior excluded for bringing earbuds"
       },
       {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Wed, 19 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid: Live"
-      },
-      {
          "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -40,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-firouzja-win-titled-tuesday-october-18-2022",
          "pubDate" : "Wed, 19 Oct 2022 07:42:55 -0700",
          "title" : "World's Top Teenager Makes Triumphant Return"
-      },
-      {
-         "description" : "Going into Wednesday's final round, Fabiano Caruana and Irina Krush are sole leaders in the open and women's sections of the U.S. Championships, respectively. Ray Robson, Leinier Dominguez and Awonder Liang still have chances of catching Caruana in the open, while Jennifer Yu and Thalia Cervantes stand a half point behind Krush and will face each other in the thirteenth round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championship-2022-r12",
-         "pubDate" : "Wed, 19 Oct 2022 15:20:00 +0100",
-         "title" : "U.S. Championships: Krush leapfrogs Yu"
       },
       {
          "description" : "19-year-old Hans Niemann defeated Samuel Sevian in yesterday's 12th round of the US Chess Championship (Replay the game here). A dynamic fighting play between the resilient grandmasters and a thrilling endgame was overshadowed by a unique over-the-board incident. While Niemann thought about his 45th move, Sevian picked up Niemann's King from the board and broke []",
@@ -90,6 +186,14 @@ news_feed (
          "title" : "Endgame wonders from Aimchess"
       },
       {
+         "description" : "Going into Wednesday's final round, Fabiano Caruana and Irina Krush are sole leaders in the open and women's sections of the U.S. Championships, respectively. Ray Robson, Leinier Dominguez and Awonder Liang still have chances of catching Caruana in the open, while Jennifer Yu and Thalia Cervantes stand a half point behind Krush and will face each other in the thirteenth round. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championship-2022-r12",
+         "pubDate" : "Wed, 19 Oct 2022 12:00:00 +0100",
+         "title" : "U.S. Championships: Krush leapfrogs Yu"
+      },
+      {
          "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -98,20 +202,12 @@ news_feed (
          "title" : "Paul Buswell RIP"
       },
       {
-         "description" : "The&#xA0;2022 U.S. Chess Championship&#xA0;and the&#xA0;US Women&#x2019;s Chess Championship 2022&#xA0;are concurrently held from 5-20 October&#xA0;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
+         "description" : "The&#160;2022 U.S. Chess Championship&#160;and the&#160;US Women&#x2019;s Chess Championship 2022&#160;are concurrently held from 5-20 October&#160;in Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. The U.S. Women&#x2019;s title is decided []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/us-chess-championship-2022-round-13-live/",
          "pubDate" : "Wed, 19 Oct 2022 10:05:05 +0000",
          "title" : "US Chess Championship 2022 - Round 13 live"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Sam Sevian after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-explains-drama-sevian-and-covers-his-victory-over-sevian-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-RlWDjlfn_g.jpg?itok=8VPrmSS_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-explains-drama-sevian-and-covers-his-victory-over-sevian-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 10:02:43 +0000",
-         "title" : "Niemann Explains the Drama with Sevian and Covers His Victory Over Sevian | Round 12"
       },
       {
          "description" : "By reaching the semifinals of the Aimchess Rapid tournament, GM Magnus Carlsen has secured overall victory in the 2022 Meltwater Champions Chess Tour. The world champion knocked out GM Arjun Erigaisi and will face GM Jan-Krzysztof Duda next. The o...",
@@ -122,7 +218,7 @@ news_feed (
          "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
       },
       {
-         "description" : "A broken king? A blundered bishop? A scrambled leaderboard in the U.S. Women&#x2019;s Championship with one round to go? Chaos has erupted at the U.S. Championships.&#xA0; Fabiano Caruana and his closest competitor Ray Robson each drew, staying in first and second. Wild card GM Awonder Liang fought for 105 moves for the win to join []",
+         "description" : "A broken king? A blundered bishop? A scrambled leaderboard in the U.S. Women&#x2019;s Championship with one round to go? Chaos has erupted at the U.S. Championships.&#160; Fabiano Caruana and his closest competitor Ray Robson each drew, staying in first and second. Wild card GM Awonder Liang fought for 105 moves for the win to join []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fabiano-caruana-remains-in-sole-lead-us-chess-championship-2022-round-12-recap/",
@@ -136,54 +232,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-event-to-spare",
          "pubDate" : "Wed, 19 Oct 2022 07:33:50 +0000",
          "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with event to spare"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Corporate Chess League Founder Alex Kerford talks to Cristian Chirila during Round 12 of the 2022 U.S. Chess Championships. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-kerford-financial-folks-chess-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FDrg3FoG9c.jpg?itok=FNohDHkE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-kerford-financial-folks-chess-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "Alex Kerford on \"Financial Folks\" & Chess | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-pulling-through-critical-victory-over-jennifer-yu-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "Krush Pulling Through With Critical Victory Over Jennifer Yu | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after defeating Elshan Moradiabadi after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-victory-over-moradiabadi-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6li2Ch6I8dU.jpg?itok=sFBsH4Zw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-victory-over-moradiabadi-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "Aronian: Victory Over Moradiabadi | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a strange occurrence, Sam Sevian removes Hans Niemann&#039;s king from the board while Niemann is on move, pulls out the king&#039;s cross from its body, and appears to have a contentious argument with Hans over the board during Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/incident-between-sam-sevian-hans-niemann-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/incident-between-sam-sevian-hans-niemann-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "The Incident Between Sam Sevian & Hans Niemann | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after drawing with Christopher Yoo after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-must-win-tomorrow-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jmtlbJw1K2s.jpg?itok=C8hh4ta9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robson-must-win-tomorrow-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "Robson: Must WIN Tomorrow | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after drawing against Sam Shankland after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-clear-lead-going-final-day-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbCdC3d1Tzo.jpg?itok=whiy-GFm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-clear-lead-going-final-day-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 07:02:40 +0000",
-         "title" : "Caruana In Clear Lead Going Into The Final Day | Round 12"
       },
       {
          "description" : "The Sicilian Defense is often a thorn in the side for 1.e4 players, with many tactical games arising from it. Elite players know this, and use it to play for a win with Black. Stomp the Sicilian: The Maroczy Bind by Vjekosav Nemec aka Chessentials illustrates how the Maroczy Bind pawn structure (pawns on e4 []",
@@ -218,38 +266,6 @@ news_feed (
          "title" : "Aimchess Rapid: Experience prevails, Carlsen secures tour victory"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Thalia Cervantes talks to Cristian Chirila after defeating Gulrukhbegim Tokhirjonova in Round 12 of the 2022 U.S. Women's Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cervantes-five-back-back-wins-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uTATe7xX7ys.jpg?itok=1vt2pGEx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cervantes-five-back-back-wins-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 01:02:30 +0000",
-         "title" : "Cervantes: Five Back-to-Back Wins! | Round 12"
-      },
-      {
-         "description" : "Hans Niemann scored his third consecutive victory at the US Chess Championship after defeating Samuel Sevian in today's 12th round. Niemann managed to score in a thrilling endgame as Sevian missed his chances to hold a draw. An interesting and unusual situation was spotted on the venue's camera which showed the players communicating during the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-explains-what-happened-with-his-king-samuel-sevian-wanted-to-glue-the-piece/",
-         "pubDate" : "Wed, 19 Oct 2022 00:40:31 +0000",
-         "title" : "Hans Niemann explains what happened with his King: Samuel Sevian wanted to glue the piece"
-      },
-      {
-         "description" : "19-year-old Hans Niemann defeated Samuel Sevian in the 12th round of the US Chess Championship. Altogether with the exciting game, the audience could have seen an interesting unusual situation. Samuel Sevian accidentally decapitated Niemann's king, picked it up from the board in the middle of the game, and tried to fix it. The 19-year-old protested []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-the-disrespect-just-reached-its-peak-sam-decapitated-hans-king-tweetoftheday/",
-         "pubDate" : "Tue, 18 Oct 2022 23:57:55 +0000",
-         "title" : "Fabiano Caruana: The disrespect just reached its peak. Sam decapitated Hans' king #TweetOftheDay"
-      },
-      {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social medias and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass medias&#xA0;ever since.&#xA0;Hans Niemann confessed cheating online&#xA0;in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-com-conducts-the-fair-play-survey/",
-         "pubDate" : "Tue, 18 Oct 2022 22:28:01 +0000",
-         "title" : "Chess.com conducts the Fair Play survey"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -264,14 +280,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/carlsen-seals-third-tour-victory/",
          "pubDate" : "Tue, 18 Oct 2022 21:14:05 +0100",
          "title" : "Carlsen seals third tour victory"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, join a host TBD for the closing ceremony of the 2022 U.S. &amp; U.S. Women&#039;s Championships. The fields and inductees are listed below. 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang 2022 U.S. Women&#039;s Championship: Krush, Zatonskih, Eswaran, Paikidze, Tokhirjonova, Abrahamyan, J. Yu, A. Lee, R. Yan, Foisor, Cervantes, M. Lee, R. Wu, Morris-Suzuki 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-closing-ceremony",
-         "pubDate" : "Tue, 18 Oct 2022 19:02:31 +0000",
-         "title" : "2022 U.S. Chess Championships: Closing Ceremony"
       },
       {
          "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d4",
          "pubDate" : "Tue, 18 Oct 2022 03:35:00 +0100",
          "title" : "Aimchess Rapid: Duda wins prelims, Vidit makes it through"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master John Donaldson talks to Cristian Chirila during Round 11 of the 2022 U.S. Chess Championships. Watch the lecture: <a href=\"https://www.youtube.com/watch?v=ah_1gtCdIBM\">https://www.youtube.com/watch?v=ah_1gtCdIBM</a> 2022.10.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/john-donaldson%E2%80%99s-fischer-spassky-lecture-must-see-round-11\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/john-donaldson%E2%80%99s-fischer-spassky-lecture-must-see-round-11",
-         "pubDate" : "Tue, 18 Oct 2022 01:01:22 +0000",
-         "title" : "John Donaldson's Fischer-Spassky Lecture is Must See | Round 11"
       },
       {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2013",
          "pubDate" : "Thu, 29 Sep 2022 09:43:14 +0000",
          "title" : "Arkady Dvorkovich meets with President of Kazakhstan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2012",
-         "pubDate" : "Wed, 28 Sep 2022 20:33:43 +0000",
-         "title" : "Winners crowned at FIDE World Cadet Championship"
       }
    ]
 }
