@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2045",
+         "pubDate" : "Thu, 20 Oct 2022 05:20:51 +0000",
+         "title" : "Fabiano Caruana wins 2022 U.S. Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Cristian Chirila after defeating Swiercz in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-last-game-tournament-you-remember-most-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sVgo89CjVVQ.jpg?itok=fEqQW4IZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-last-game-tournament-you-remember-most-round-13",
+         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
+         "title" : "Christopher Yoo: Last Game of the Tournament You Remember Most | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Cristian Chirila after a draw with Niemann in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-too-far-behind-homework-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-Sc66AetKQ.jpg?itok=Eo8uFMw-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/awonder-too-far-behind-homework-round-13",
+         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
+         "title" : "Awonder: Too Far Behind on Homework! | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maurice Ashley talks to Cristian Chirila during Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-everybody-sensitive-dude-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kxnkZHjyrpo.jpg?itok=EQQutdJ0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maurice-everybody-sensitive-dude-round-13",
+         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
+         "title" : "Maurice: Everybody is Sensitive! Dude! | Round 13"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Cervantes in Round 13 of the 2022 U.S. Women's Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-another-opportunity-title-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9rzoHcGczrE.jpg?itok=YzRB6AB7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-another-opportunity-title-round-13",
+         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
+         "title" : "Jennifer Yu: Another Opportunity at the Title | Round 13"
+      },
+      {
+         "description" : " There is one round left to play in the 2022 Asian Seniors, but the event has been hit by a covid outbreak. Round 8 saw a number of games unplayed (won/lost on forfeit) and it is unclear who will make it for the final round. As things stand IM Gary Lane holds a one point lead with 7.5/8 in the Over 50 event. The only player who can catch him is FM Arlan Cabe, who is on 6.5. FM Alexei Kulashko is in 3rd place on 6 points, and is hoping to finish in the top 3 to collect his 4th (or 5th) IM norm. In the over 65 event FM Efrem Bagamasbad also holds a 1 point lead, on 7/8. Miles Patterson is a point behind on 6, with FM Bob Smith and Hilton Bennett on 5.5. There has been a draft set of pairings r",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/things-are-crook-in-tallarook.html",
+         "pubDate" : "Thu, 20 Oct 2022 04:00:00 +0000",
+         "title" : "Things are crook in Tallarook"
+      },
+      {
          "description" : "Jan-Krzysztof Duda and Shakhriyar Mamedyarov reached the final of the Aimchess Rapid online tournament after outscoring Magnus Carlsen and Richard Rapport in Wednesday's semis, respectively. Duda and Shakh finished first and third in the preliminary stage, and enter the deciding match of the event as much-deserving finalists.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +74,12 @@ news_feed (
          "title" : "2022 U.S. Chess Championships: Round 13"
       },
       {
-         "description" : "This is a flash report. The full report will be added to this page soon. GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he cou...",
+         "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 17:59:26 -0700",
-         "title" : "Flash Report: Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
+         "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
+         "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
       },
       {
          "description" : "Fabiano Caruana is the Winner of the 2022 US Chess Championship! After a quick draw against Levon Aronian in today's final round of the tournament, Caruana needed to wait for Ray Robson to finish his game before knowing whether he claims the Champion title or goes for the playoff match. Ray Robson missed his chances []",
@@ -72,38 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-clear-lead-final-day-round-12",
          "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
          "title" : "Caruana in Clear Lead Before Final Day | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hans Niemann talks to Cristian Chirila after defeating Sam Sevian after Round 12 of the 2022 U.S. Chess Championship. Hans said that Sevian wanted to glue the king back together. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/niemann-dispute-sevian-misunderstanding-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-RlWDjlfn_g.jpg?itok=8V",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/niemann-dispute-sevian-misunderstanding-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Niemann: Dispute with Sevian a 'Misunderstanding' | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after a quick draw with Dominguez in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-i-owe-world-apology-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OfBZ1hT02vY.jpg?itok=1GdDehLk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-i-owe-world-apology-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Shankland: I Owe the World an Apology | Round 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a quick draw with Aronian in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-king-pieces-have-been-glued-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/05IbGZXtHOM.jpg?itok=zvECmTlG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-all-king-pieces-have-been-glued-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Caruana: All the King Pieces have been Glued | Round 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after a quick draw with Shankland in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-all-suffering-over-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iQnHpG9NV1M.jpg?itok=67QvXYh7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-all-suffering-over-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Dominguez: All the Suffering is Over | Round 13"
       },
       {
          "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov tomorrow. The pair, two of the most chaotic and attacking players in world chess, will go head-to-head over two days after a semi-final full of excitement in the&#xA0;Meltwater Champions Chess Tour. []",
