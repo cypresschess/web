@@ -10,6 +10,22 @@ news_feed (
          "title" : "Aimchess Rapid: Duda knocks out Carlsen, will face Shakh in the final"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush and Jennifer Yu are tied for first place after regulation. They compete in a G/10+2 match (Best-of-2) (blitz Armageddon if necessary) to determine the women&#039;s national champion, live from 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-womens-championship-playoff-krush-vs-yu-lichessorg\"><img s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-womens-championship-playoff-krush-vs-yu-lichessorg",
+         "pubDate" : "Thu, 20 Oct 2022 01:03:19 +0000",
+         "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. Broadcast issues in the second half. For Christopher Yoo's interview, <a href=\"https://youtu.be/sVgo89CjVVQ\">https://youtu.be/sVgo89CjVVQ</a> 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-13",
+         "pubDate" : "Thu, 20 Oct 2022 01:03:19 +0000",
+         "title" : "2022 U.S. Chess Championships: Round 13"
+      },
+      {
          "description" : "This is a flash report. The full report will be added to this page soon. GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he cou...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,22 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dominguez-all-suffering-over-round-13",
          "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
          "title" : "Dominguez: All the Suffering is Over | Round 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team recaps and dubs their own dialogue over the Sam Sevian-Hans Niemann incident from the previous day of the 2022 U.S. Chess Championship. Sevian suddenly snatched Niemann&#039;s king off the board and became concerned about its loose crown. After the discussion at the board with arbiter Franc Guadalupe, Hans won, and the dispute was resolved in the parking lot. This aired during Round 13. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/icymi-sevian-vs-niemann-what-really-happened-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "ICYMI: Sevian vs. Niemann (What Really Happened) | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during Round 13 of the 2022 U.S. Chess Championships. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-didn%E2%80%99t-know-we%E2%80%99d-have-circus-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IxHmYnbMwyA.jpg?itok=AAYmSiZV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-didn%E2%80%99t-know-we%E2%80%99d-have-circus-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Rex Sinquefield: Didn't Know We'd Have a Circus! | Round 13"
       },
       {
          "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov tomorrow. The pair, two of the most chaotic and attacking players in world chess, will go head-to-head over two days after a semi-final full of excitement in the&#xA0;Meltwater Champions Chess Tour. []",
