@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Thu, 20 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid Finals: Live"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1458,14 +1466,6 @@ news_feed (
          "title" : "FIDE President makes a tour of Latin America"
       },
       {
-         "description" : "Boris Spassky was the fourth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-how-i-met-boris-spassky",
-         "pubDate" : "Sat, 08 Oct 2022 16:00:00 +0100",
-         "title" : "Frederic's mates - How I met Boris Spassky"
-      },
-      {
          "description" : "India in Joint second Position- Bo. 13 Mongolia Rtg 3 India Rtg 1 : 3 4.1 FM Anand, Batsukh 2202 IM Pranav, V",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2015",
          "pubDate" : "Thu, 29 Sep 2022 21:45:56 +0000",
          "title" : "FIDE's FPL to form an investigatory panel for the Carlsen-Niemann controversy"
-      },
-      {
-         "description" : "It didn't take a crystal ball to predict that this month's Yahoos' post (see the footnote for an explanation of 'Yahoos') was going to be about Carlsen/Nakamura vs. Niemann, aka the chess cheating affair. The scandal broke three weeks ago and shows no sign of disappearing anytime soon. I've already featured it twice, the second time in <A HREF=\"http://chessforallages.blogspot.com/2022/09/talkchess-talks-current-topics.html\">Talkchess Talks Current Topics</A>(September 2022). <P>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from <I>Google News</I>, similar to the chart in last mont",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/cheating-mania.html",
-         "pubDate" : "Thu, 29 Sep 2022 15:50:00 +0000",
-         "title" : "Cheating Mania"
       }
    ]
 }
