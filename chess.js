@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The news broke out minutes ago. Hans Niemann posted on his Twitter the official complaint against Magnus Carlsen, the Play Magnus Group, Chess.com, LLC Daniel Rensch, and Hikaru Nakamura. The complaint states that he is seeking \"damages in an amount to be determined at trial, but no less than One Hundred Million Dollars ($100,000,000).",
+         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann is seeking a total of 400 million USD in damages Hans Niemann is to be represented by Oved &#38; Oved and its attorneys Terrence A. Oved, Darren Oved, Andrew Urgenson, and James Reilly. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-is-represented-by-oved-oved/",
+         "pubDate" : "Thu, 20 Oct 2022 21:01:01 +0000",
+         "title" : "Hans Niemann is represented by Oved & Oved"
+      },
+      {
+         "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> againt Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remark",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/niemann-sues-carlsen-and-chess-com-for-defamation-asks-for-100-m/",
+         "pubDate" : "Thu, 20 Oct 2022 20:45:46 +0000",
+         "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
+      },
+      {
+         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yosha-iglesias-cheating-is-no-longer-hans-niemann-biggest-mistake-in-his-career/",
+         "pubDate" : "Thu, 20 Oct 2022 20:31:11 +0000",
+         "title" : "Yosha Iglesias: Cheating is no longer Hans' Niemann biggest mistake in his career"
+      },
+      {
+         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jonathan-rowson-the-lawsuit-is-written-like-a-tabloid-article/",
+         "pubDate" : "Thu, 20 Oct 2022 20:19:30 +0000",
+         "title" : "Jonathan Rowson: The lawsuit is written like a tabloid article"
+      },
+      {
+         "description" : "The news broke out minutes ago. Hans Niemann posted on his Twitter the official complaint against Magnus Carlsen, the Play Magnus Group, Chess.com, Daniel Rensch, and Hikaru Nakamura. The complaint states that he is seeking \"damages in an amount to be determined at trial, but no less than One Hundred Million Dollars ($100,000,000)\". The text of the complaint does not mince words.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/breaking-news-hans-niemann-is-suing",
          "pubDate" : "Thu, 20 Oct 2022 21:15:00 +0100",
          "title" : "Breaking News: Hans Niemann is suing!"
+      },
+      {
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass media&#160;ever since. Scroll down for 90 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-is-seeking-400-million-usd-in-damages-from-carlsen-nakamura-chess-com-play-magnusm-and-danny-rensch/",
+         "pubDate" : "Thu, 20 Oct 2022 20:06:53 +0000",
+         "title" : "Hans Niemann is seeking 400 MILLION USD in damages from Carlsen, Nakamura, Chess.com, Play Magnus and Danny Rensch"
+      },
+      {
+         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass media&#xA0;ever since. Scroll down for 90 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-moke-niemann-files-massive-lawsuit-updated/",
+         "pubDate" : "Thu, 20 Oct 2022 19:45:24 +0000",
+         "title" : "Hans Moke Niemann files massive lawsuit (Updated)"
       },
       {
          "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
@@ -234,22 +282,6 @@ news_feed (
          "title" : "Caruana in Clear Lead Before Final Day | Round 12"
       },
       {
-         "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov tomorrow. The pair, two of the most chaotic and attacking players in world chess, will go head-to-head over two days after a semi-final full of excitement in the&#xA0;Meltwater Champions Chess Tour. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-and-shakhriyar-mamedyarov-are-the-finalists-of-the-aimchess-rapid/",
-         "pubDate" : "Wed, 19 Oct 2022 20:50:15 +0000",
-         "title" : "Jan-Krzysztof Duda and Shakhriyar Mamedyarov are the finalists of the Aimchess Rapid"
-      },
-      {
-         "description" : "Sam Shankland's last game of the 2022 US Chess Championship ended in a draw after only 8 minutes of play as his opponent Leinier Dominguez decided to go for an early threefold repetition in Najdorf. Shankland was disappointed with the repetition of the moves and requested to join the event's live studio to apologize for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sam-shankland-joins-us-championship-studio-to-apologize-for-a-quick-draw/",
-         "pubDate" : "Wed, 19 Oct 2022 20:07:36 +0000",
-         "title" : "Sam Shankland joins US Championship studio to apologize for a quick draw"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -272,38 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/minh-le-firouzja-win-titled-tuesday-october-18-2022",
          "pubDate" : "Wed, 19 Oct 2022 07:42:55 -0700",
          "title" : "World's Top Teenager Makes Triumphant Return"
-      },
-      {
-         "description" : "19-year-old Hans Niemann defeated Samuel Sevian in yesterday's 12th round of the US Chess Championship (Replay the game here). A dynamic fighting play between the resilient grandmasters and a thrilling endgame was overshadowed by a unique over-the-board incident. While Niemann thought about his 45th move, Sevian picked up Niemann's King from the board and broke []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-lawrence-trent-sam-decapitating-hans-king-and-then-throwing-it-back-on-a-random-square-is-bizarre-tweetoftheday/",
-         "pubDate" : "Wed, 19 Oct 2022 13:13:58 +0000",
-         "title" : "IM Lawrence Trent: Sam decapitating Hans' King and then throwing it back on a random square is bizarre #TweetOftheDay"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Hans Niemann scores 6.5/12 points as he scored three consecutive []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-vs-awonder-liang-us-chess-championship-2022-round-13-live/",
-         "pubDate" : "Wed, 19 Oct 2022 11:44:27 +0000",
-         "title" : "Hans Niemann vs Awonder Liang, US Chess Championship 2022 Round 13 LIVE"
-      },
-      {
-         "description" : "The&#160;US Chess Championship 2022&#160;is taking place from 5-20 October&#160;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#160;Fabiano Caruana,&#160;Levon Aronian&#160;and&#160;Wesley So&#160;headlining the field which includes&#160;Hans Niemann&#160;as the 8th seed. Fabiano Caruana heads into the last round of the tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ray-robson-vs-jeffery-xiong-us-chess-championship-2022-round-13-live/",
-         "pubDate" : "Wed, 19 Oct 2022 11:31:16 +0000",
-         "title" : "Ray Robson vs Jeffery Xiong, US Chess Championship 2022 Round 13 LIVE"
-      },
-      {
-         "description" : "The&#xA0;US Chess Championship 2022&#xA0;is taking place from 5-20 October&#xA0;at the Saint Louis Chess Club. Fourteen of the country&#x2019;s strongest chess players battle for the national title and $60,000 in a classical round-robin event with&#xA0;Fabiano Caruana,&#xA0;Levon Aronian&#xA0;and&#xA0;Wesley So&#xA0;headlining the field which includes&#xA0;Hans Niemann&#xA0;as the 8th seed. Fabiano Caruana heads into the last round of the tournament []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-vs-levon-aronian-us-chess-championship-2022-round-13-live/",
-         "pubDate" : "Wed, 19 Oct 2022 11:27:28 +0000",
-         "title" : "Fabiano Caruana vs Levon Aronian, US Chess Championship 2022 Round 13 LIVE"
       },
       {
          "description" : "There are periods of quiet in competition and periods of nonstop excitement, and readers have been treated to the latter of late. The Meltwater series now running the Aimchess event with World Champion as well as stars on the rise, has seen great battles left and right. Many of these led to mindboggling endgames which our resident (as in global) expert Karsten Mueller shares a few.",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/",
          "pubDate" : "Fri, 30 Sep 2022 00:10:49 +0000",
          "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2015",
-         "pubDate" : "Thu, 29 Sep 2022 21:45:56 +0000",
-         "title" : "FIDE's FPL to form an investigatory panel for the Carlsen-Niemann controversy"
       }
    ]
 }
