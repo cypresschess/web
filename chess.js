@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Krush in the playoff of the 2022 U.S. Women's Championship. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-wins-armageddon-title-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/59R2wxI7e7E.jpg?itok=xAODUmbY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-wins-armageddon-title-playoff",
+         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
+         "title" : "Jennifer Yu Wins Armageddon for the Title | Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush and Jennifer Yu are tied for first place after regulation. They compete in a G/10+2 match (Best-of-2) (blitz Armageddon if necessary) to determine the women&#039;s national champion, live from 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-womens-championship-playoff-krush-vs-yu\"><img src=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-womens-championship-playoff-krush-vs-yu",
+         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
+         "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments. The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-fa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1-lichessorg",
+         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
+         "title" : "2022 Fall Chess Classic: Round 1 | lichess.org"
+      },
+      {
          "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann is seeking a total of 400 million USD in damages Hans Niemann is to be represented by Oved &#38; Oved and its attorneys Terrence A. Oved, Darren Oved, Andrew Urgenson, and James Reilly. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -256,30 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-12",
          "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
          "title" : "2022 U.S. Chess Championships: Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Jennifer Yu in Round 12 of the 2022 U.S. Women&#039;s Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krushs-critical-victory-over-jennifer-yu-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/08RqK6nDe2s.jpg?itok=nzLK24Lp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krushs-critical-victory-over-jennifer-yu-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Krush's Critical Victory over Jennifer Yu | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after defeating Elshan Moradiabadi after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronians-first-victory-relief-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6li2Ch6I8dU.jpg?itok=sFBsH4Zw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronians-first-victory-relief-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Aronian's First Victory... Relief! | Round 12"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after drawing against Sam Shankland after Round 12 of the 2022 U.S. Chess Championship. 2022.10.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-clear-lead-final-day-round-12\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbCdC3d1Tzo.jpg?itok=whiy-GFm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-clear-lead-final-day-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "Caruana in Clear Lead Before Final Day | Round 12"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
