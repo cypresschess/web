@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The news broke out minutes ago. Hans Niemann posted on his Twitter the official complaint against Magnus Carlsen, the Play Magnus Group, Chess.com, LLC Daniel Rensch, and Hikaru Nakamura. The complaint states that he is seeking \"damages in an amount to be determined at trial, but no less than One Hundred Million Dollars ($100,000,000).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-hans-niemann-is-suing",
+         "pubDate" : "Thu, 20 Oct 2022 21:15:00 +0100",
+         "title" : "Breaking News: Hans Niemann is suing!"
+      },
+      {
+         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Thu, 20 Oct 2022 20:15:00 +0100",
+         "title" : "U.S. Women's Championship - Playoff: Live"
+      },
+      {
+         "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-tactical-slugfest",
+         "pubDate" : "Thu, 20 Oct 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A tactical slugfest"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
          "pubDate" : "Thu, 20 Oct 2022 17:55:00 +0100",
          "title" : "Aimchess Rapid Finals: Live"
+      },
+      {
+         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
+         "pubDate" : "Thu, 20 Oct 2022 16:25:00 +0100",
+         "title" : "Fabiano Caruana is the 2022 U.S. champion"
       },
       {
          "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-chess-champs-13-caruana-clinches-2nd-title",
          "pubDate" : "Thu, 20 Oct 2022 12:20:25 +0000",
          "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
-      },
-      {
-         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
-         "pubDate" : "Thu, 20 Oct 2022 12:45:00 +0100",
-         "title" : "Fabiano Caruana is the 2022 U.S. champion"
       },
       {
          "description" : "You've seen videos using it, and articles displaying it, and here is the tutorial on how to use it in all its glory. The Engine Correlation in Let's Check can be a wonderful tool when used properly and comes with a variety of options in both ChessBase 16 and the Fritz interface. Here is the easy-to-use definitive guide.",
@@ -1410,28 +1434,12 @@ news_feed (
          "title" : "Scisys beating"
       },
       {
-         "description" : "Welcome to our new series with Lilit Mkrtchian - \"How does a chess pro prepare for a tournament?\". Very recently, the Armenian IM played quite superb tournaments at the Olympiad, and the European Women's Championship. We wanted to ask a professional chess player, how they prepare for a tournament, so you at home can get some ideas, tricks, and inspiration for your next tournament. We start off with one of the keys for a good prep - building an opening repertoire. Perhaps not as ChessBase intended it, but it seems to work wonderfully for Lilit!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-1-how-to-create-an-opening-repertoire-with-chessbase-for-the-rest-of-your-life",
-         "pubDate" : "Sun, 09 Oct 2022 13:00:00 +0100",
-         "title" : "Lilit Mkrtchian (1) - How to create an opening repertoire with ChessBase for the rest of your life"
-      },
-      {
          "description" : " It's White to play in this position from the recent British Championship game between Dietmar Kolbus and Peter Finn. What do you think? White win, draw or black win? Place your bets now before reading on. Some of the most interesting endings are those involving battles between a piece and an army of pawns rushing <a href=\"https://chessimprover.com/bishop-against-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Against Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-against-pawns/\">Bishop Against Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/bishop-against-pawns/",
          "pubDate" : "Sun, 09 Oct 2022 10:00:04 +0000",
          "title" : "Bishop Against Pawns"
-      },
-      {
-         "description" : "The European Club Cup is taking place on October 3-9 in Mayrhofen, Austria. Open and women's tournaments take place concurrently. A number of elite players are participating, including Magnus Carlsen and Vishy Anand. The venue of the tournament is the Europahaus. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-live",
-         "pubDate" : "Sun, 09 Oct 2022 10:50:00 +0100",
-         "title" : "European Club Cup - Final round: Live"
       },
       {
          "description" : "The historical chess tournament, Tournament of Peace 2022, will take place from 12th 20th October 2022 in Zagreb, Croatia. The event will be played in the National and University Library, with 10 world-class grandmasters competing over 9 rounds (round-robin system). The participants are: Santos Latasa Jaime (ESP, 2672), Moussard Jules (FRA, 2670), Shevchenko Kirill (UKR, 2642), Yilmaz&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2022/\">Read More &#187;</a></span>",
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-4",
          "pubDate" : "Sat, 08 Oct 2022 21:12:00 -0700",
          "title" : "Caruana Topples Niemann, Takes Sole Lead"
-      },
-      {
-         "description" : "The two top seeds in the U.S. Championship won in Saturday's round 4. Wesley So bounced back from a loss by beating Sam Shankland, while Fabiano Caruana became the first sole leader of the event after taking down Hans Niemann. Aleksandr Lenderman also scored a full point, as he defeated Christopher Yoo. In the women's event, Jennifer Yu and Tatev Abrahamyan grabbed wins to join Alice Lee in the lead. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r4",
-         "pubDate" : "Sun, 09 Oct 2022 05:05:00 +0100",
-         "title" : "U.S. Championships: Caruana beats Niemann to take the lead"
       },
       {
          "description" : "",
