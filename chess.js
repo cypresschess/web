@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/people-said-ouf.html",
+         "pubDate" : "Fri, 21 Oct 2022 14:35:00 +0000",
+         "title" : "People Said, 'Ouf!'"
+      },
+      {
          "description" : "In the final match of the Aimchess Rapid online tournament, Jan-Krzysztof Duda took the lead against Shakhriyar Mamedyarov by scoring a 3-1 victory in Thursday's first set. Duda comes from winning the preliminaries and knocking out world champion Magnus Carlsen in the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
