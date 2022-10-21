@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-three/",
          "pubDate" : "Fri, 30 Sep 2022 12:14:59 +0000",
          "title" : "A Foundation for Beginners Seventy-Three"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2017",
-         "pubDate" : "Fri, 30 Sep 2022 09:16:07 +0000",
-         "title" : "Mr Short and Mr Iashvili appointed Director for Chess Development and Special Tasks Director"
       }
    ]
 }
