@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r14",
+         "pubDate" : "Fri, 21 Oct 2022 04:25:00 +0100",
+         "title" : "Jennifer Yu wins thrilling Armageddon, grabs second U.S. women's title"
+      },
+      {
          "description" : " While some games are still in progress, early results from the 2022 Asian Seniors have determined a lot of the top places. The over 50 event saw a number of quick draws on the top boards, leaving IM Gary Lane in outright first on 8/9. In 2nd place was FM Arlan Cabe (PHI) with 7, and FM Alexi Kulashko (NZL) in third place on 6. Both 2nd and third also earn IM norms, which might be enough for Kulashko to claim the title, as he had some previous norms for the New Zealand Championships. In the Over 65 event FM Efren Bagamasbad took a quick draw to secure first place on 7.5/9. Miles Patterson defeated David Lovejoy to finish outright 2nd on 7/9, while third place still depends on a couple of gam",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -114,14 +122,6 @@ news_feed (
          "title" : "Hans Moke Niemann files massive lawsuit (Updated)"
       },
       {
-         "description" : "The U.S. Chess Championships are taking place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Wesley So and Fabiano Caruana are the top seeds in the open, while Irina Krush and Anna Zatonskih are the highest-rated participants among the women. | Follow the games live with expert commentary starting at 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Thu, 20 Oct 2022 20:15:00 +0100",
-         "title" : "U.S. Women's Championship - Playoff: Live"
-      },
-      {
          "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,20 +130,28 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A tactical slugfest"
       },
       {
+         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
+         "pubDate" : "Thu, 20 Oct 2022 18:55:00 +0100",
+         "title" : "Fabiano Caruana is the 2022 U.S. champion"
+      },
+      {
+         "description" : "The U.S. Chess Championships took place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Fabiano Caruana and Jennifer Yu clinched the 2022 titles. | Replay all the games from both sections.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
+         "pubDate" : "Thu, 20 Oct 2022 18:50:00 +0100",
+         "title" : "U.S. Championships: Games and standings"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
          "pubDate" : "Thu, 20 Oct 2022 17:55:00 +0100",
          "title" : "Aimchess Rapid Finals: Live"
-      },
-      {
-         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
-         "pubDate" : "Thu, 20 Oct 2022 16:25:00 +0100",
-         "title" : "Fabiano Caruana is the 2022 U.S. champion"
       },
       {
          "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1448,14 +1456,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/what-makes-great-coach.html",
          "pubDate" : "Sun, 09 Oct 2022 15:03:00 +0000",
          "title" : "What Makes a Great Coach?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 94th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for 1.e4 e5 openings. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-94-backgrounds-of-structures-4",
-         "pubDate" : "Sun, 09 Oct 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 94: Backgrounds of structures (4)"
       },
       {
          "description" : " As I have written previously, my first chess computer was a Scisys Chess Champion Pocket Chess. I credit this computer with helping learn a lot about chess in my early days, and I still have as part of my vintage chess computer collection. However, as I got better at chess I began to beat it more easily, even on the harder levels. As an example here is a game I recently found in an old collection of scoresheets. It was set to level 6, which meant it thought for around 20 minutes a move, but event with this amount of thinking, it only lasted 12 moves. <br /> <b>Scisys - Press,Shaun [C50]</b><br />Computer Match, 1985 <script>new PgnViewer( { boardName: \"game1358\", movesFormat: \"default\", pgn",
