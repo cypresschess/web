@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Have you registered for the first Armageddon Online Cups? The Asia & Oceania section begins on October 22, at 13:00 UTC, Europe & Africa on October 23, at 16:00 UTC. The prize fund for each tournament is €1,000, which is divided between the first ten winners. The first 20 places get access to the Online Finals with a €10,000 prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-online-cup-begins",
+         "pubDate" : "Fri, 21 Oct 2022 21:00:00 +0100",
+         "title" : "Armageddon Online Cup begins"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Oved &amp; Oved</strong>, a New York litigation specialist, and the local <strong>Gartner Law Firm</strong> filed a defamation law suit in the state of Missouri on behalf of <strong>Hans Niemann</strong> claiming $100 million altogether from <strong>Magnus Carlsen</strong>, <strong>Hikaru Nakamura</strong>, the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>. <strong>Latham &amp; Watkins</strong> has <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-magnus-carlsen-lawsuit-11666291319\">rejected the law suit</a> as without base on behalf of Chess.com. Niemann <a href=\"https://twitter.com/HansMokeNiemann/status",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/two-law-firms-litigate-for-niemann/",
+         "pubDate" : "Fri, 21 Oct 2022 19:08:35 +0100",
+         "title" : "Two law firms litigate for Niemann"
+      },
+      {
+         "description" : "In his Power Play Show, Daniel King continues his explorations of opening gambits. This time around, using a game in which world champion Magnus Carlsen played the fashionable Scotch Gambit. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-scotch-gambit",
+         "pubDate" : "Fri, 21 Oct 2022 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: Carlsen with a Scotch Gambit"
+      },
+      {
          "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +42,6 @@ news_feed (
          "title" : "People Said, 'Ouf!'"
       },
       {
-         "description" : "In the final match of the Aimchess Rapid online tournament, Jan-Krzysztof Duda took the lead against Shakhriyar Mamedyarov by scoring a 3-1 victory in Thursday's first set. Duda comes from winning the preliminaries and knocking out world champion Magnus Carlsen in the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d7",
-         "pubDate" : "Fri, 21 Oct 2022 15:20:00 +0100",
-         "title" : "Aimchess Rapid Final: Duda wins first set"
-      },
-      {
          "description" : "Hans Niemann filed a federal lawsuit against Magnus Carlsen, Chess.com and others after being accused of cheating.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -38,8 +54,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
-         "pubDate" : "Fri, 21 Oct 2022 06:38:33 -0700",
+         "pubDate" : "Fri, 21 Oct 2022 06:38:00 -0700",
          "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
+      },
+      {
+         "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2022-r14",
+         "pubDate" : "Fri, 21 Oct 2022 14:15:00 +0100",
+         "title" : "Jennifer Yu wins thrilling Armageddon, grabs second U.S. women's title"
       },
       {
          "description" : "When Lawrence and Arne began their weekly show, they started with news, and then went over to tactics. The formats fused, and now we give birth to \"Trent's Ta(l)ctics\". We discuss the latest chess news, and add some tactics in the end. Did anything interesting happen in the last weeks? Besides the Magnus vs. Hans feud, we also dive into the US Women's championship Armageddon match, between Yu and Krush. Finally, our road to 3000 with our good ol' tactics training continues, with the help of birthday boy Maxime-Vachier Lagrave, who thinks the tactics we struggle with are a piece of cake. How fitting.",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-36",
          "pubDate" : "Fri, 21 Oct 2022 14:12:04 +0100",
          "title" : "Trent's Ta(l)ctics - Niemann's Counter-Gambit - US Armageddon drama - Happy Birthday MVL and thanks for helping us with the tactics"
+      },
+      {
+         "description" : "In the final match of the Aimchess Rapid online tournament, Jan-Krzysztof Duda took the lead against Shakhriyar Mamedyarov by scoring a 3-1 victory in Thursday's first set. Duda comes from winning the preliminaries and knocking out world champion Magnus Carlsen in the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d7",
+         "pubDate" : "Fri, 21 Oct 2022 14:10:00 +0100",
+         "title" : "Aimchess Rapid Final: Duda wins first set"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-final-day-1",
          "pubDate" : "Thu, 20 Oct 2022 23:27:00 -0700",
          "title" : "Duda Leads In Aimchess Rapid Final"
-      },
-      {
-         "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r14",
-         "pubDate" : "Fri, 21 Oct 2022 04:25:00 +0100",
-         "title" : "Jennifer Yu wins thrilling Armageddon, grabs second U.S. women's title"
       },
       {
          "description" : " While some games are still in progress, early results from the 2022 Asian Seniors have determined a lot of the top places. The over 50 event saw a number of quick draws on the top boards, leaving IM Gary Lane in outright first on 8/9. In 2nd place was FM Arlan Cabe (PHI) with 7, and FM Alexi Kulashko (NZL) in third place on 6. Both 2nd and third also earn IM norms, which might be enough for Kulashko to claim the title, as he had some previous norms for the New Zealand Championships. In the Over 65 event FM Efren Bagamasbad took a quick draw to secure first place on 7.5/9. Miles Patterson defeated David Lovejoy to finish outright 2nd on 7/9, while third place still depends on a couple of gam",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/second-leagues-trimmed-down-in/",
          "pubDate" : "Mon, 17 Oct 2022 12:11:00 +0100",
          "title" : "Second leagues trimmed down in Germany"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Markus St&ouml;ttinger</strong>, a marketing and event manager, <a href=\"https://www.chess.at/archiv-service/blog/info-verband/5670-neuer-praesident-des-oesterreichischen-schachbundes-gewaehlt.html\">has been elected</a> the new President of the <strong>Austrian Chess Federation</strong> after his inactive predecessor <strong>Christoph Tschohl</strong> resigned. St&ouml;ttinger also sponsors the top seated team of the Austrian league, <strong>ASV Linz</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/marketing-expert-leads-austrian/",
-         "pubDate" : "Mon, 17 Oct 2022 11:54:39 +0100",
-         "title" : "Marketing expert leads Austrian Federation"
       },
       {
          "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
@@ -1402,14 +1418,6 @@ news_feed (
          "title" : "World Open Circuit"
       },
       {
-         "description" : "While the World Champion made his position on Hans Niemann quite clear, a later Tweet openly suggested that GM Dlugy had had a role in it as Hans Niemann's 'mentor'. Shortly thereafter, Chess.com shared emails with Dlugy with the press. GM Dlugy has now released a very long and detailed statement regarding multiple aspects, including the accusations as well as his role and impressions of Hans Niemann.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-dlugy-on-carlsen-niemann",
-         "pubDate" : "Tue, 11 Oct 2022 00:46:24 +0100",
-         "title" : "GM Dlugy on Carlsen-Niemann"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2030",
          "pubDate" : "Mon, 10 Oct 2022 18:43:55 +0000",
          "title" : "Missing FIDE President: Investigation by FIDE Historical Committee"
-      },
-      {
-         "description" : "Do you have a fantastic memory and a liking for sharp positions, the evaluations of which can change with a few taps of a computer button? If so, then the main lines of the Open Sicilian are for you. But if you are one of the 99% of chess players who do NOT fall into this category, and open 1 e4, then the Closed Sicilian is a worthwhile option. The Closed Sicilian offers White a set of easy-to-understand plans, the chance of a kingside attack and little danger of being outgunned by tactics in the opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-the-closed-sicilian",
-         "pubDate" : "Mon, 10 Oct 2022 18:00:00 +0100",
-         "title" : "New: The Closed Sicilian"
       },
       {
          "description" : "Welcome back to our ongoing coverage of the world's two foremost engine vs. engine competitions. Let's first summarize the previous report from two weeks ago, <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html\">TCEC S23 Paused; 'CCC19 Blitz Main' Underway</A>(September 2022):- <BLOCKQUOTE>TCEC: S23 L1 finished with Ethereal and Berserk promoting into DivP. Before that event starts, the site is running 'VSOB22 until replacement GPU'. &#149; CCC: The site is currently running 'CCC19 Blitz Main' with 10 engines. This was preceded by three other 'CCC19 Blitz' events: 'Newcomers', 'Qualifier #1', and 'Qualifier #2'. </BLOCKQUOTE> <P>The current situation ha",
