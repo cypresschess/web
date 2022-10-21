@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Fri, 21 Oct 2022 17:55:00 +0100",
+         "title" : "Aimchess Rapid Finals: Live"
+      },
+      {
          "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -256,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-live",
          "pubDate" : "Thu, 20 Oct 2022 18:50:00 +0100",
          "title" : "U.S. Championships: Games and standings"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Thu, 20 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid Finals: Live"
       },
       {
          "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://www.thearticle.com/david-bronstein-the-chess-dynamo-of-kyiv/",
          "pubDate" : "Sat, 01 Oct 2022 13:59:52 +0000",
          "title" : "David Bronstein: the chess dynamo of Kyiv"
-      },
-      {
-         "description" : "Continuing with the 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/1992-fischer-spassky-under-weather.html\">1992 Fischer - Spassky 'Under the Weather'</A>(September 2022), in that post I wrote, <BLOCKQUOTE>Photo D1 is about a moment from the opening press conference that is more famous than any of the games played in the match. It shows Fischer with the letter that led to the famous spit incident. </BLOCKQUOTE> <P>The composite image including that photo in black & white is seen below, with 'photo D1' circled in red. Superimposed on the composite is a similar photo in color. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mi30.jpg\" WI",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html",
-         "pubDate" : "Fri, 30 Sep 2022 15:31:00 +0000",
-         "title" : "Fischer: 'That's my answer'"
       }
    ]
 }
