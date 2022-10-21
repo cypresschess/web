@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, sued him as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in the Nether",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
+         "pubDate" : "Fri, 21 Oct 2022 07:00:17 +0000",
+         "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
+      },
+      {
          "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2016",
          "pubDate" : "Fri, 30 Sep 2022 07:53:01 +0000",
          "title" : "Change of leadership in the FIDE Women's Commission"
-      },
-      {
-         "description" : " The 19-year-old, labelled a cheat by Magnus Carlsen, is due to play for the US title in a 14-grandmaster field including three of the world top 10 Hans Niemann will be tested by three of the top 10 grandmasters next week when the 19-year-old, who the world champion, Magnus Carlsen, has publicly declared to be a cheat, takes on the American elite in the $250,000 US championship at St Louis, which has its first round (of 13) on Wednesday. Niemann will be returning to the the \"capital of chess\" where a few weeks ago he shocked Carlsen by defeating the Norwegian in the third round of the Sinquefield Cup. <a href=\"https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-s",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-saga-expected-in-st-louis-on-wednesday",
-         "pubDate" : "Fri, 30 Sep 2022 07:00:32 +0000",
-         "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
       }
    ]
 }
