@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2047",
+         "pubDate" : "Fri, 21 Oct 2022 22:29:41 +0000",
+         "title" : "2022 FIDE World Amateur Championships kicks off in Malta"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2046",
+         "pubDate" : "Fri, 21 Oct 2022 21:58:02 +0000",
+         "title" : "Jan-Krzysztof Duda reigns supreme in Aimchess Rapid"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda won the 2022 Aimchess Rapid online tournament after beating Shakhriyar Mamedyarov in what somewhat unexpectedly turned out to be a hard-fought final match. After getting a clear victory in the first set, Duda got a superior position in Friday's first game. Shakh first managed to turn the tables in that game and then scored 1&frac12; points in the next two encounter to take the match to tiebreaks. Duda won back-to-back blitz games to secure overall victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d8",
+         "pubDate" : "Fri, 21 Oct 2022 22:10:00 +0100",
+         "title" : "Duda beats Mamedyarov in tiebreaks, wins Aimchess Rapid"
+      },
+      {
          "description" : "Have you registered for the first Armageddon Online Cups? The Asia & Oceania section begins on October 22, at 13:00 UTC, Europe & Africa on October 23, at 16:00 UTC. The prize fund for each tournament is €1,000, which is divided between the first ten winners. The first 20 places get access to the Online Finals with a €10,000 prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-online-cup-begins",
          "pubDate" : "Fri, 21 Oct 2022 21:00:00 +0100",
          "title" : "Armageddon Online Cup begins"
+      },
+      {
+         "description" : "The Chess.com Global Championship Finals start on November 2, 2022! As our biggest tournament of the year reaches its thrilling conclusion, the live finals will now occur in two locations: Toronto, Canada, and Belgrade, Serbia. Check out the detai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-to-watch-chesscom-global-championship-finals",
+         "pubDate" : "Fri, 21 Oct 2022 12:40:00 -0700",
+         "title" : "How To Watch The Chess.com Global Championship Finals"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Oved &amp; Oved</strong>, a New York litigation specialist, and the local <strong>Gartner Law Firm</strong> filed a defamation law suit in the state of Missouri on behalf of <strong>Hans Niemann</strong> claiming $100 million altogether from <strong>Magnus Carlsen</strong>, <strong>Hikaru Nakamura</strong>, the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>. <strong>Latham &amp; Watkins</strong> has <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-magnus-carlsen-lawsuit-11666291319\">rejected the law suit</a> as without base on behalf of Chess.com. Niemann <a href=\"https://twitter.com/HansMokeNiemann/status",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-scotch-gambit",
          "pubDate" : "Fri, 21 Oct 2022 18:30:00 +0100",
          "title" : "Daniel King's Power Play Show: Carlsen with a Scotch Gambit"
-      },
-      {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Fri, 21 Oct 2022 17:55:00 +0100",
-         "title" : "Aimchess Rapid Finals: Live"
       },
       {
          "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
@@ -80,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d7",
          "pubDate" : "Fri, 21 Oct 2022 14:10:00 +0100",
          "title" : "Aimchess Rapid Final: Duda wins first set"
+      },
+      {
+         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
+         "pubDate" : "Fri, 21 Oct 2022 14:00:00 +0100",
+         "title" : "Aimchess Rapid Finals: Live"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
@@ -1410,14 +1442,6 @@ news_feed (
          "title" : "The missed triangulation"
       },
       {
-         "description" : "The Association of Chess Professionals has an interesting proposal: most chess player, they say, only take part in open tournaments, which are completely disconnected from the World Championship cycle. That creates \"two parallel realities.\" For this reason, the ACF proposes making opens a part of the World Championship cycle. Here is their proposal, presented in full detail. We look forward to your comments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-open-circuit",
-         "pubDate" : "Tue, 11 Oct 2022 07:34:23 +0100",
-         "title" : "World Open Circuit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1528,14 +1552,6 @@ news_feed (
          "link" : "https://www.europechess.org/tournament-of-peace-2022/",
          "pubDate" : "Sun, 09 Oct 2022 09:20:18 +0000",
          "title" : "Tournament of Peace 2022"
-      },
-      {
-         "description" : "The 2022 U.S. Chess Championship continued on Saturday with electric games across the board in round four. GMs Fabiano Caruana, Wesley So, and Alex Lenderman won their respective games with the former rising above the rest of the field by half a p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-4",
-         "pubDate" : "Sat, 08 Oct 2022 21:12:00 -0700",
-         "title" : "Caruana Topples Niemann, Takes Sole Lead"
       },
       {
          "description" : "",
