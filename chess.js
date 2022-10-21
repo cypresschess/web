@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final match of the Aimchess Rapid online tournament, Jan-Krzysztof Duda took the lead against Shakhriyar Mamedyarov by scoring a 3-1 victory in Thursday's first set. Duda comes from winning the preliminaries and knocking out world champion Magnus Carlsen in the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d7",
+         "pubDate" : "Fri, 21 Oct 2022 15:20:00 +0100",
+         "title" : "Aimchess Rapid Final: Duda wins first set"
+      },
+      {
+         "description" : "Hans Niemann filed a federal lawsuit against Magnus Carlsen, Chess.com and others after being accused of cheating.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
+         "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
+         "title" : "Why was Magnus Carlsen sued for $100 million?"
+      },
+      {
+         "description" : "GM Hans Niemann has filed a defamation lawsuit against GM Magnus Carlsen, GM Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Danny Rensch, seeking at least $100 million in damages. The lawsuit is the next episode in the chess cheating sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
+         "pubDate" : "Fri, 21 Oct 2022 06:38:33 -0700",
+         "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
+      },
+      {
+         "description" : "When Lawrence and Arne began their weekly show, they started with news, and then went over to tactics. The formats fused, and now we give birth to \"Trent's Ta(l)ctics\". We discuss the latest chess news, and add some tactics in the end. Did anything interesting happen in the last weeks? Besides the Magnus vs. Hans feud, we also dive into the US Women's championship Armageddon match, between Yu and Krush. Finally, our road to 3000 with our good ol' tactics training continues, with the help of birthday boy Maxime-Vachier Lagrave, who thinks the tactics we struggle with are a piece of cake. How fitting.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-36",
+         "pubDate" : "Fri, 21 Oct 2022 14:12:04 +0100",
+         "title" : "Trent's Ta(l)ctics - Niemann's Counter-Gambit - US Armageddon drama - Happy Birthday MVL and thanks for helping us with the tactics"
+      },
+      {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -66,11 +98,11 @@ news_feed (
          "title" : "Hans Niemann lawsuit - Chess.com lawyers respond"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda took a big step towards winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in th...",
+         "description" : "GM Jan-Krzysztof Duda took a big step toward winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. The 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-final-day-1",
-         "pubDate" : "Thu, 20 Oct 2022 23:27:49 -0700",
+         "pubDate" : "Thu, 20 Oct 2022 23:27:00 -0700",
          "title" : "Duda Leads In Aimchess Rapid Final"
       },
       {
@@ -1418,14 +1450,6 @@ news_feed (
          "title" : "London Junior Chess Championships update"
       },
       {
-         "description" : "Fabiano Caruana and Jennifer Yu are the sole leaders in the U.S. Championships going into the first rest day of the 13-round event. In round 5, Caruana drew birthday boy Wesley So with the white pieces, while Yu defeated Sabina Foisor with black in what was her fifth consecutive decisive game of the tournament. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r5",
-         "pubDate" : "Mon, 10 Oct 2022 10:45:00 +0100",
-         "title" : "U.S. Championships: Yu sole leader in the women's event"
-      },
-      {
          "description" : "Novy Bor won the 2022 European Club Cup on Sunday after beating Asnieres Le Grand Echiquier in the final round. The Czech team won the tournament nine years after their first European gold in 2013.&#38;nbsp;Third-seeded ASVOe Pamhagen became the surpr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1448,14 +1472,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-5",
          "pubDate" : "Sun, 09 Oct 2022 21:29:00 -0700",
          "title" : "Liang 'Ecstatic' After Defeating Aronian With 19th-Century Gambit"
-      },
-      {
-         "description" : "A 3&frac12;-2&frac12; victory over Asnieres allowed Novy Bor to end the European Club Cup (open section) with a perfect 14/14 score. The team led by Pentala Harikrishna thus won the tournament in style. Clichy and Viernheim scored wins in the final round to get second and third place respectively. In the women's cup, ASVOe Pamhagen drew on Sunday to grab clear first place in the final standings. | Photos: Fiona Steil-Antoni",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-r7",
-         "pubDate" : "Mon, 10 Oct 2022 01:50:00 +0100",
-         "title" : "Novy Bor and ASVOe Pamhagen are the European Club Cup champions"
       },
       {
          "description" : "",
@@ -1536,14 +1552,6 @@ news_feed (
          "link" : "https://www.thearticle.com/when-dinosaurs-ruled-the-chessboard/",
          "pubDate" : "Sat, 08 Oct 2022 07:04:03 +0000",
          "title" : "When dinosaurs ruled the chessboard"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Christopher Yoo, and Awonder Liang all won their third-round games at the 2022 U.S. Championships on Friday, with the former two joining GMs Sam Sevian and Hans Niemann atop the leaderboard on 2/3. Players with the white pie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-3",
-         "pubDate" : "Fri, 07 Oct 2022 21:06:00 -0700",
-         "title" : "Six White Wins Shake Up Standings"
       },
       {
          "description" : "Last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html\">Fischer: 'That's my answer'</A>(September 2022), covered the start of the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(m-w.com). At the pre-match press conference Fischer said, <BLOCKQUOTE>\"I'll start off with, umm, ah, some impudent questions from The New York Times [Roger Cohen].\" </BLOCKQUOTE> <P>Roger Cohen wasn't some random chess journalist. His Wikipedia page <A HREF=\"https://en.wikipedia.org/wiki/Roger_Cohen\">Roger Cohen</A>(wikipedia.org) starts, <BLOCKQUOTE>Roger Cohen (born 2 August 1955) is a journalist and author. He was a reporter, e",
@@ -1864,22 +1872,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html",
          "pubDate" : "Fri, 30 Sep 2022 15:31:00 +0000",
          "title" : "Fischer: 'That's my answer'"
-      },
-      {
-         "description" : " Phong Huynh is the 2022 ACT Junior Chess Champion, after surviving a tense final day of the competition. Sharing the overnight lead with Masaki Horikawa on 5/6, both players lost their round 7 games to open the tournament right up. Richard Ji then took the lead on 5.5/7, but a round 8 draw with Dev Raichura (and a 2nd loss of the day to Horikawa), left Huynh, Ji and Muhammed Yunus tied for 1st on 6/8. As they had already played each other, it came to to games against other opponents. Both Huynh and Ji won their games, while Yunus missed a tactic against ACT Girls Champion Shriya Karthik and resigned material down. Under the tournament tie-break rules, Huynh was awarded the 1st place trophy ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/09/2022-act-junior-chess-championship.html",
-         "pubDate" : "Fri, 30 Sep 2022 12:55:00 +0000",
-         "title" : "2022 ACT Junior Chess Championship"
-      },
-      {
-         "description" : " Over the last two months, we've been analyzing a game through the eyes of a beginner. We've used the opening and middle-game principles studied thus far to guide us through each move. Using game principles as the basis for your analysis is what game analysis is all about. When asking the question \"why was a <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy-Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-three/\">A Foundation for Beginners Seventy-Three</a> appeared first on <a rel=\"nofollow\" href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-three/",
-         "pubDate" : "Fri, 30 Sep 2022 12:14:59 +0000",
-         "title" : "A Foundation for Beginners Seventy-Three"
       }
    ]
 }
