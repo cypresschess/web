@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-lawsuit-chess-com-lawyers-respond/",
+         "pubDate" : "Fri, 21 Oct 2022 06:36:20 +0000",
+         "title" : "Hans Niemann lawsuit - Chess.com lawyers respond"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda took a big step towards winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-final-day-1",
+         "pubDate" : "Thu, 20 Oct 2022 23:27:49 -0700",
+         "title" : "Duda Leads In Aimchess Rapid Final"
+      },
+      {
          "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yu-wins-2022-us-championship-playoff",
-         "pubDate" : "Thu, 20 Oct 2022 16:26:57 -0700",
+         "pubDate" : "Thu, 20 Oct 2022 16:26:00 -0700",
          "title" : "Yu Claims U.S. Women's Championship In Thrilling Armageddon Tiebreaker"
       },
       {
@@ -114,12 +130,12 @@ news_feed (
          "title" : "Hans Niemann is seeking 400 MILLION USD in damages from Carlsen, Nakamura, Chess.com, Play Magnus and Danny Rensch"
       },
       {
-         "description" : "After&#xA0;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#xA0;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#xA0;the top news in mass media&#xA0;ever since. Scroll down for 90 []",
+         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass media&#160;ever since. Scroll down for 90 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hans-moke-niemann-files-massive-lawsuit-updated/",
          "pubDate" : "Thu, 20 Oct 2022 19:45:24 +0000",
-         "title" : "Hans Moke Niemann files massive lawsuit (Updated)"
+         "title" : "Hans Moke Niemann files massive lawsuit"
       },
       {
          "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
          "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
          "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
-      },
-      {
-         "description" : "Fabiano Caruana is the Winner of the 2022 US Chess Championship! After a quick draw against Levon Aronian in today's final round of the tournament, Caruana needed to wait for Ray Robson to finish his game before knowing whether he claims the Champion title or goes for the playoff match. Ray Robson missed his chances []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-wins-us-chess-championship-2022/",
-         "pubDate" : "Wed, 19 Oct 2022 23:33:05 +0000",
-         "title" : "Fabiano Caruana wins US Chess Championship 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
@@ -1530,14 +1538,6 @@ news_feed (
          "title" : "Roger Cohen, Foreign Correspondent"
       },
       {
-         "description" : "IM Joachim Birger Nilsen (29) resigned as the president of the Norwegian Chess Federation, a day after admitting to cheating on Chess.com during one match in the 2016-2017 season of the PRO Chess League. Nilsen was part of the Norway Gnomes team, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norwegian-chess-federation-president-nilsen-cheating",
-         "pubDate" : "Fri, 07 Oct 2022 08:18:00 -0700",
-         "title" : "Norwegian Chess Federation President Resigns After Admitting To Cheating"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/sep/30/chess-latest-round-of-hans-niemann-saga-expected-in-st-louis-on-wednesday",
          "pubDate" : "Fri, 30 Sep 2022 07:00:32 +0000",
          "title" : "Chess: latest round of Hans Niemann saga expected in St Louis on Wednesday"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94550793.cms\" />FIDE said it will convene a three-person panel to look into world champion Magnus Carlsen's allegations that American player Hans Niemann had cheated.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/international-chess-federation-to-form-panel-to-look-into-cheating-allegations/articleshow/94550793.cms",
-         "pubDate" : "Fri, 30 Sep 2022 05:25:28 +0000",
-         "title" : "FIDE to form panel to look into cheating allegations"
       }
    ]
 }
