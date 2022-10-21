@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, sued him as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in the Nether",
+         "description" : "Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-7-duda-takes-decisive-lead",
+         "pubDate" : "Fri, 21 Oct 2022 08:47:10 +0000",
+         "title" : "Aimchess Rapid Day 7: Duda takes decisive lead"
+      },
+      {
+         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/merenzon-for-chess-hans-niemanns-lawsuit-is-the-perfect-pr-opportunity/",
+         "pubDate" : "Fri, 21 Oct 2022 08:44:31 +0000",
+         "title" : "Merenzon: For chess Hans Niemann's lawsuit is the perfect PR opportunity"
+      },
+      {
+         "description" : "The Hans Niemann lawsuit steals the spotlight, but top quality chess events continue around the world. Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov. The 24-year-old Duda, the reigning World Cup winner, was at his attacking best as he dominated Azerbaijan's number []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-takes-the-lead-in-the-aimchess-rapid-final/",
+         "pubDate" : "Fri, 21 Oct 2022 08:16:13 +0000",
+         "title" : "Jan-Krzysztof Duda takes the lead in the Aimchess rapid final"
+      },
+      {
+         "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, is to sue Carlsen as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "Hans Niemann is represented by Oved & Oved"
       },
       {
-         "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> againt Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remark",
+         "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> against Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remar",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/niemann-sues-carlsen-and-chess-com-for-defamation-asks-for-100-m/",
@@ -216,22 +240,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-6-duda-knocks-out-carlsen-to-face-mamedyarov-in-final",
          "pubDate" : "Thu, 20 Oct 2022 09:20:20 +0000",
          "title" : "Aimchess Rapid Day 6: Duda knocks out Carlsen to face Mamedyarov in final"
-      },
-      {
-         "description" : "GM Fabiano Caruana is the 2022 U.S. Champion, clinching his second title with a draw in the 13th and final round of the tournament against GM Levon Aronian. Fabiano celebrated his second US Champion title with Cristian Chirila, Alejandro Ramirez, Maurice Ashley and Tatev Abrahamyan in the C-squared podcast. Caruana explained the US Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-celebrates-his-us-champion-title-with-the-c-squared-podcast-every-year-its-one-of-my-main-goals-to-win-this-tournament/",
-         "pubDate" : "Thu, 20 Oct 2022 08:41:28 +0000",
-         "title" : "Caruana celebrates the title with the C-squared podcast: Every year, it's one of my main goals to win this tournament"
-      },
-      {
-         "description" : "GM Fabiano Caruana is the 2022 U.S. Champion, clinching his second title with a draw in the 13th and final round of the tournament against GM Levon Aronian, a first-time competitor in the U.S. Championship.&#xA0; The U.S. Women&#x2019;s Championship will be decided in a playoff tomorrow between GM Irina Krush and WGM Jennifer Yu. Krush []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-womens-chess-champion-2022-to-be-determined-in-playoffs-round-13-recap/",
-         "pubDate" : "Thu, 20 Oct 2022 08:11:32 +0000",
-         "title" : "US Women's Chess Champion 2022 to be determined in playoffs; Round 13 recap"
       },
       {
          "description" : "GM Magnus Carlsen was eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
@@ -1186,14 +1194,6 @@ news_feed (
          "title" : "International and FIDE Delegate reports from Malcolm Pein"
       },
       {
-         "description" : "Fabiano Caruana extended his lead in the US Chess Championship to a full point after beating Elshan Moradiabadi in Round 6. Levon Aronian lost a 2nd game in a row, this time to Dariusz Swiercz, while Hans Niemann went for an attack that was refuted by Ray Robson. Irina Krush won a 3rd game in a row to join Jennifer Yu in the Women's section lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-6-fabi-wins-again-as-hans-lev-crash",
-         "pubDate" : "Wed, 12 Oct 2022 14:57:17 +0000",
-         "title" : "US Champs 6: Fabi wins again as Hans & Lev crash to defeat"
-      },
-      {
          "description" : "GM Hikaru Nakamura just keeps on winning Titled Tuesday, taking home the early tournament on October 11, his fourth straight week with at least one tournament victory. GM Magnus Carlsen finished in third place despite missing the first round, but ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1888,22 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2017",
          "pubDate" : "Fri, 30 Sep 2022 09:16:07 +0000",
          "title" : "Mr Short and Mr Iashvili appointed Director for Chess Development and Special Tasks Director"
-      },
-      {
-         "description" : " <p class=\"lead\">From CNN and BBC to the Washington Post and the New York Times, the chess cheating scandal is still hitting the headlines after almost 25 days since <a href=\"https://worldchess.com/news/all/magnus-carlsen-walks-out-the-sinquefield-cup/\">Magnus Carlsen withdrew from the Sinquefield Cup.</a> The chess community has moved from the initial chaos and confusion to systematically gathering information - and maybe evidence - on this matter but also cheating in general. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-sinquefield-cup-magnus-carlsen-cheating-chess.jpeg\" width=\"1000\" height=\"600\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Len",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/niemann-is-either-the-greatest-american-talent-since-fischer-or/",
-         "pubDate" : "Fri, 30 Sep 2022 08:43:46 +0000",
-         "title" : "\"Niemann is either the greatest American talent since Fischer or a fraud\" Olimpiu Di Luppi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2016",
-         "pubDate" : "Fri, 30 Sep 2022 07:53:01 +0000",
-         "title" : "Change of leadership in the FIDE Women's Commission"
       }
    ]
 }
