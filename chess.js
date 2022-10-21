@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/international-chess-federation-to-form-panel-to-look-into-cheating-allegations/articleshow/94550793.cms",
          "pubDate" : "Fri, 30 Sep 2022 05:25:28 +0000",
          "title" : "FIDE to form panel to look into cheating allegations"
-      },
-      {
-         "description" : " From the publisher: &#8220;Rashid Nezhmetdinov (1912-1974) played fearless attacking chess. With his dazzling style, the Soviet master already was a legend during his lifetime, but international fame largely eluded him. Only once did he get permission to show his exceptional talent in a tournament abroad. Five times Nezhmetdinov was chess champion of the Russian Federation. <a href=\"http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollo",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/09/30/the-greatest-attacker-in-chess-the-enigmatic-rashid-nezhmetdinov/",
-         "pubDate" : "Fri, 30 Sep 2022 00:10:49 +0000",
-         "title" : "The Greatest Attacker in Chess: The Enigmatic Rashid Nezhmetdinov"
       }
    ]
 }
