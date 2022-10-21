@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/jennifer-yu-clinches-2nd-us-chess-championship",
+         "pubDate" : "Fri, 21 Oct 2022 10:52:04 +0000",
+         "title" : "Jennifer Yu clinches 2nd US Chess Championship"
+      },
+      {
+         "description" : "GM Mendonca Leon Luke played a brilliant attacking game in the queenless endgame arising from Slav defence to win against Georgian IM Petriashvili Nikoloz. With",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-9-report-world-junior-chess-championship-2022/",
+         "pubDate" : "Fri, 21 Oct 2022 10:11:23 +0000",
+         "title" : "ROUND 9 REPORT World Junior Chess Championship 2022"
+      },
+      {
+         "description" : "S.L. Narayanan is the winner of the 2022 edition of Fagernes Open. Narayanan collected 7,0/9, the same points as Abhimanyu Puranik and Anton Demchenko, but collected the gold on a better tiebreak. The title follow a nice streak of events for S.L. Narayanan, including the Chessmood Open and the Spanish League. Chessdom had a chance []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-s-l-narayanan-winner-of-fagernes-2022/",
+         "pubDate" : "Fri, 21 Oct 2022 10:09:04 +0000",
+         "title" : "Interview with S.L. Narayanan, winner of Fagernes 2022"
+      },
+      {
          "description" : "Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/let-s-check-engine-correlation-how-to-use-it",
          "pubDate" : "Thu, 20 Oct 2022 11:58:49 +0100",
          "title" : "Let's Check Engine Correlation: How to use it"
-      },
-      {
-         "description" : "The Premier Division of TCEC Season 23 is over, and we will see Stockfish take on Leela in the superfinal while Komodo Dragon takes on Ethereal in the infrafinal. Although this was the foreshadowed result at the halfway mark, the second half of the division brought up plenty of drama. I had written then that []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/its-stockfish-vs-leela-for-the-tcec-superfinal/",
-         "pubDate" : "Thu, 20 Oct 2022 09:31:30 +0000",
-         "title" : "It's Stockfish vs Leela for the TCEC Superfinal"
       },
       {
          "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov today.",
@@ -1058,14 +1074,6 @@ news_feed (
          "title" : "Konstantin Landa (1972-2022)"
       },
       {
-         "description" : "Leinier Dominguez's 10-move win over Elshan Moradiabadi was just the start of what Fabiano Caruana called a \"very bloody day\" in Round 7 of the US Championship. Ray Robson crossed 2700 for the 1st time by playing a perfect game against Wesley So, Dariusz Swiercz crushed Hans Niemann and Fabi took down Alex Lenderman. In the Women's section Megan Lee beat and caught Jennifer Yu in the lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-champs-7-10-move-loss-on-very-bloody-day",
-         "pubDate" : "Thu, 13 Oct 2022 12:46:11 +0000",
-         "title" : "US Champs 7: 10-move loss on \"very bloody day\""
-      },
-      {
          "description" : "A prominent open event is currently taking place in Fagernes. A strong Indian group is dominating the action. But the top group also includes 17-year-old Elham Abdrlauf, Norway's biggest rising star. Report after round 5. | Photos: Tom Eriksen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
-      },
-      {
-         "description" : "Today India won the fourth round by huge margin (3.5 - 0.5 point) against Uzbekistan-2 in the ongoing World Youth Olympiad being held at Nakhchivan,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-under-16-youth-olympiad-2022/",
-         "pubDate" : "Thu, 06 Oct 2022 16:46:17 +0000",
-         "title" : "World Under 16 Youth Olympiad-2022:Report"
       },
       {
          "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html\">2022 CJA Awards - Part 2</A>(August 2022), I promised a follow-up:- <BLOCKQUOTE>In 'Part 1' I ended the post saying, \"There is so much to discuss this year that I might even squeeze out a 'Part 3'.\" Here are a few ideas for 'Part 3', '-4', and so on, no squeeze necessary. [...] </BLOCKQUOTE> <P>The first idea was 'Winners of multiple awards (e.g. Soltis [x4], Spanier [x4], and Donaldson [x3])', where I've added, e.g. '[x4]' to show how many awards each of them won. Although the numbers add up to 11 awards, Spanier and Donaldson were named jointly on one award:- <BLOCKQUOTE>Honorable Mention; Best Story of th",
