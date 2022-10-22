@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "UT Dallas is hosting the top-tier collegiate chess programs in the state of Texas, which will meet in the state chess final this weekend on Saturday Oct 22 and Sunday Oct 23. Among the participants are IM Viktor Gazik, IM S. Khanin, GM Kmil Dragun, GM Aleksey Sorokin, GM Ivan Schitco, IM Viktor Matviishen, IM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/texas-collegiate-chess-super-finals-2022-live/",
+         "pubDate" : "Sat, 22 Oct 2022 11:29:47 +0000",
+         "title" : "Texas Collegiate Chess Super Finals 2022 LIVE"
+      },
+      {
+         "description" : "Jan-Krzysztof Duda fended off a fierce comeback from Shakhriyar Mamedyarov to win the &pound;150,000 Aimchess Rapid, his second Meltwater Champions Chess Tour title this season.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-8-duda-wins-thrilling-final-after-mamedyarov-comeback",
+         "pubDate" : "Sat, 22 Oct 2022 10:16:55 +0000",
+         "title" : "Aimchess Rapid Day 8: Duda wins thrilling final after Mamedyarov comeback"
+      },
+      {
+         "description" : "Bobby Fischer was the fifth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October. | Foto: YURIKO NAKAO/ REUTERS",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-bobby-fischer",
+         "pubDate" : "Sat, 22 Oct 2022 11:00:00 +0100",
+         "title" : "Frederic's mates - Bobby Fischer"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda won the Aimchess Rapid tournament on Friday after beating GM Shakhriyar Mamedyarov in a blitz tiebreak, necessary because Mamedyarov had levelled the score in the second match. It was Duda&#39;s second tournament victory in the t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-wins-aimchess-rapid-2022",
+         "pubDate" : "Sat, 22 Oct 2022 01:21:00 -0700",
+         "title" : "Duda Wins Aimchess Rapid 2022 In Tiebreak"
+      },
+      {
          "description" : "This time we would like to add only one piece of information to the inconspicuous diagram position: White to play! The rest is up to your tactical acumen...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hans-niemann-is-seeking-400-million-usd-in-damages-from-carlsen-nakamura-chess-com-play-magnusm-and-danny-rensch/",
          "pubDate" : "Thu, 20 Oct 2022 20:06:53 +0000",
          "title" : "Hans Niemann is seeking 400 MILLION USD in damages from Carlsen, Nakamura, Chess.com, Play Magnus and Danny Rensch"
-      },
-      {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass media&#160;ever since. Scroll down for 90 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-moke-niemann-files-massive-lawsuit-updated/",
-         "pubDate" : "Thu, 20 Oct 2022 19:45:24 +0000",
-         "title" : "Hans Moke Niemann files massive lawsuit"
       },
       {
          "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1050,14 +1074,6 @@ news_feed (
          "title" : "Braille Chess Association 90th Anniversary"
       },
       {
-         "description" : "Ray Robson won a 3rd game in a row in Round 8 of the US Championship to cut the gap to Fabiano Caruana to just half a point with five rounds to go. The only other win was for Jeffery Xiong, who beat Christopher Yoo, leaving Levon Aronian, who drew against Hans Niemann, as the one player of the 28 in St. Louis yet to win a game. Megan Lee beat Ashritha Eswaran to take the sole lead in the Women's section.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-champs-8-ray-robson-closes-gap-on-caruana",
-         "pubDate" : "Fri, 14 Oct 2022 14:15:48 +0000",
-         "title" : "US Champs 8: Ray Robson closes gap on Caruana"
-      },
-      {
          "description" : " The Aimchess Rapid is part of the Champions Chess Tour and takes place online on Chess24 14th to 21st October 2022. Players: Nodirbek Abdusattorov, Aditya MittalDavid Anton Guijarro, Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, D Gukesh, Eric Hansen, Pentala Harikrishna, Vincent Keymer, Shakhriyar Mamedyarov, Daniel Naroditsky, Richard Rapport and Santosh Gujrathi Vidit.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1418,14 +1434,6 @@ news_feed (
          "title" : "I never had the guts"
       },
       {
-         "description" : "Magnus Carlsen is the star of the Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour before the final tournament. But the field is strong and with reigning World Rapid Champion Nodirbek Abdusattorov, Germany's Vincent Keymer and a trio of Indian wonderkids in Arjun Erigaisi, Gukesh D and Aditya Mittal, who qualified via the MPL Indian Chess Tour, Carlsen will face five strong and ambitious juniors. The tournament begins Friday, 14 October, 12:00 ET (16:UTC, 18:00 CEST, 21:30 ISTAm Freitag um 18 Uhr geht es los.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-with-magnus-carlsen-and-strong-juniors",
-         "pubDate" : "Tue, 11 Oct 2022 13:00:00 +0100",
-         "title" : "Aimchess Rapid with Magnus Carlsen and strong juniors"
-      },
-      {
          "description" : "Asian Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Tagaytay City, Philippines from 17th 26th November, 2022 and players",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
          "pubDate" : "Mon, 10 Oct 2022 08:48:22 +0000",
          "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
-      },
-      {
-         "description" : "The fifth round of the 2022 U.S. Chess Championships saw a new contender, GM Awonder Liang, rise to challenge GM Fabiano Caruana after a scintillating win over one of the pre-tournament favorites, GM Levon Aronian using the Scotch Gambit. In the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-5",
-         "pubDate" : "Sun, 09 Oct 2022 21:29:00 -0700",
-         "title" : "Liang 'Ecstatic' After Defeating Aronian With 19th-Century Gambit"
       },
       {
          "description" : "",
