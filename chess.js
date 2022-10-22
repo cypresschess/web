@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/",
          "pubDate" : "Sat, 01 Oct 2022 18:41:16 +0000",
          "title" : "Bassem Amin & Shahenda Wafa&hellip; 2022 African Champs!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2018",
-         "pubDate" : "Sat, 01 Oct 2022 15:17:38 +0000",
-         "title" : "FIDE October 2022 rating list is out"
       }
    ]
 }
