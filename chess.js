@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This time we would like to add only one piece of information to the inconspicuous diagram position: White to play! The rest is up to your tactical acumen...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/out-of-the-blue-bundesliga-sky",
+         "pubDate" : "Sat, 22 Oct 2022 09:00:00 +0100",
+         "title" : "Out of the blue Bundesliga sky"
+      },
+      {
+         "description" : "In the last version of Asian Youth Chess Championship, the Blitz Championship, India bagged 5 Gold, 2 Silver and a Bronze here today in Bali,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/indian-tops-the-individual-medal-tally-and-wins-the-first-runner-up-over-all-trophy/",
+         "pubDate" : "Sat, 22 Oct 2022 06:26:32 +0000",
+         "title" : "INDIAN TOPS THE INDIVIDUAL MEDAL TALLY AND WINS THE FIRST RUNNER-UP OVER ALL TROPHY"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Indian Team finishes 5th in World Youth (Under 16) Chess Olympiad."
       },
       {
-         "description" : "The diagrammed position, in which White is to move, occurred in a blitz game between Wesley So and Jorden Van Foreest. White is a pawn down but has a way to draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-missed-triangulation",
-         "pubDate" : "Tue, 11 Oct 2022 09:00:00 +0100",
-         "title" : "The missed triangulation"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2026",
          "pubDate" : "Fri, 07 Oct 2022 10:57:28 +0000",
          "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
-      },
-      {
-         "description" : "16th Asian Schools Chess Championships 2022 Open &#38; Girls under 7, 9, 11, 13, 15 &#38; 17 Kaluthara, Sri Lanka -3rd to 11th December 2022",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/16-th-asian-schools-chess-championships-2022-open-girls-under-7-9-11-13-15-17-kaluthara-sri-lanka-3-rd-to-11th-december-2022/",
-         "pubDate" : "Fri, 07 Oct 2022 08:15:49 +0000",
-         "title" : "16th Asian Schools Chess Championships 2022"
       },
       {
          "description" : " The controversial 19-year-old won his opening round at the US championship, then described the game as 'beautiful' Hans Niemann, the 19-year-old who has confessed to cheating in online games but denies any illegalities over the board, faces a crucial credibility test at St Louis on his US Championship debut. The organisers have beefed up security, with spectators barred, a new metal detector to frisk players and a 30-minute delay before the games are displayed to online viewers. Live <a href=\"https://uschesschamps.com/2022-us-championships/2022-us-championship\" title=\"\">online coverage</a> now starts at 7.30pm. <a href=\"https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credi",
