@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Although Magnus Carlsen remains by far the most dominant player on the international circuit, the World Champion is facing a crisis. Maybe this has been brought on by distractions over his imbroglio concerning alleged cheating, involving the American teenage grandmaster, Hans Niemann. (Niemann has now brought a $400 million lawsuit against his accusers, as this []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/carlsens-crisis/",
+         "pubDate" : "Sat, 22 Oct 2022 11:49:48 +0000",
+         "title" : "Carlsen's Crisis"
+      },
+      {
+         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wsj-revisits-the-hans-niemann-carlsen-beach-game/",
+         "pubDate" : "Sat, 22 Oct 2022 11:30:18 +0000",
+         "title" : "WSJ revisits the Hans Niemann - Carlsen beach game"
+      },
+      {
          "description" : "UT Dallas is hosting the top-tier collegiate chess programs in the state of Texas, which will meet in the state chess final this weekend on Saturday Oct 22 and Sunday Oct 23. Among the participants are IM Viktor Gazik, IM S. Khanin, GM Kmil Dragun, GM Aleksey Sorokin, GM Ivan Schitco, IM Viktor Matviishen, IM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2018",
          "pubDate" : "Sat, 01 Oct 2022 15:17:38 +0000",
          "title" : "FIDE October 2022 rating list is out"
-      },
-      {
-         "description" : "Having grown up in the era when the USSR dominated world chess, I must admit that the subtle distinctions between Russian, Soviet and Ukrainian were largely lost on me. Whether they were Latvian (Mikhail Tal), Armenian (Tigran Petrosian) Estonian (Paul Keres) or Ukrainian (Leonid Stein) - they all ended up representing the virtually unconquerable Soviet []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/david-bronstein-the-chess-dynamo-of-kyiv/",
-         "pubDate" : "Sat, 01 Oct 2022 13:59:52 +0000",
-         "title" : "David Bronstein: the chess dynamo of Kyiv"
       }
    ]
 }
