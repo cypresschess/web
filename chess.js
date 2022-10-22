@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final will take place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup will include defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-preview",
+         "pubDate" : "Sat, 22 Oct 2022 20:00:00 +0100",
+         "title" : "Starting Tuesday: World Fischer Random Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2048",
+         "pubDate" : "Sat, 22 Oct 2022 17:59:06 +0000",
+         "title" : "FIDE President congratulates medalists of the 2nd Intercontinental Championship for Prisoners"
+      },
+      {
          "description" : "Although Magnus Carlsen remains by far the most dominant player on the international circuit, the World Champion is facing a crisis. Maybe this has been brought on by distractions over his imbroglio concerning alleged cheating, involving the American teenage grandmaster, Hans Niemann. (Niemann has now brought a $400 million lawsuit against his accusers, as this []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Attacking like Mikhail Tal"
       },
       {
-         "description" : "Learning openings means playing openings! But who wants to play the same systems again and again against you? We recommend the world champion as your sparring partner: PowerFritz 18! With the included Powerbook, PowerFritz plays \"your\" openings. All variations! As often as you want! Until you have mastered everything perfectly. You can choose whether you want to receive tips or whether you want to play serious games under tournament conditions. The use of the PowerBooks ensures that you can train openings according to your preferences and that you have access to the entire opening theory. Let the ChessBase experts Martin Fischer and Steffen Giehring show you how it's done! To help you be pre",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/training-openings-with-powerfritz18",
-         "pubDate" : "Tue, 11 Oct 2022 15:00:00 +0100",
-         "title" : "Training openings with PowerFritz18"
-      },
-      {
          "description" : " Early on in my career I used to play the Scotch Gambit line of the Italian quite a lot (1.e4 e5 2.Nf3 Nc6 3.d4 exd 4.Bc4). The idea was to aim for a Two Knights Defence as White, while avoiding the mainlines of the Italian game. One game that was given as a guide on what not to do was Meek v Morphy, where Meek played 5.Ng5 after 4. ... Bc5. As Morphy won brilliantly, the conventional wisdom was 'Do not play this opening'. And when I did face this line as White I chose the safer 5.O-O It appears that conventional wisdom may have wrong about this, as Awonder Liang belted Lev Aronian with this exact line. He even played the same sacrifice as Meek (adorned with a ? by Yusopov and others), and i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/",
          "pubDate" : "Sun, 02 Oct 2022 06:37:29 +0000",
          "title" : "European Chess Club Cup 2022 opens in Mayrhofen"
-      },
-      {
-         "description" : " WGM Shahenda Wafa (gold-women's), GM Abdelrahman Hesham (bronze-open), GM Bassem Amin (gold-open). All photos by Babatunde Ogunsiku (Africa Chess Media) Egypt's Bassem Amin wins his sixth continental title after winning the 2022 African Individual Chess Championships in Lagos, Nigeria. He edged out compatriot and fellow Grandmaster Ahmed Adly who had led most of the tournament. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/\">Bassem Amin &#038; Shahenda Wafa 2022 African Champs!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/10/01/bassem-amin-shahenda-wafa-2022-african-champs/",
-         "pubDate" : "Sat, 01 Oct 2022 18:41:16 +0000",
-         "title" : "Bassem Amin & Shahenda Wafa&hellip; 2022 African Champs!"
       }
    ]
 }
