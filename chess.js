@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After her first round win, Lilit had a winning position in her second game, but wasn't able to convert it, and drew. The draw against Anna Kubicka felt like a loss, and the IM had to recover quickly, to be prepared for the next round. Everybody knows the feeling after a loss in a tournament. But how to tackle those emotions, which pull you down best? Lilit has some good advice in this third episode.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-3",
+         "pubDate" : "Sun, 23 Oct 2022 13:00:00 +0100",
+         "title" : "Lilit Mkrtchian (3) - How to come back after a loss in a tournament"
+      },
+      {
+         "description" : " A book which doesn't seem to have received any attention this side of the Atlantic is Players and Pawns: How Chess Builds Community and Culture (University of Chicago Press 2015) by Gary Alan Fine. The author is a sociologist who writes about how minority interests create their own cultures, and, in this book, he turned <a href=\"https://chessimprover.com/soft-communities/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Soft Communities\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/soft-communities/\">Soft Communities</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/soft-communities/",
+         "pubDate" : "Sun, 23 Oct 2022 09:00:59 +0000",
+         "title" : "Soft Communities"
+      },
+      {
          "description" : "In the third and final instalment of the Chess Artistry Adventure series, we bring you seven more studies, six of them originals, by world-class composers like Arpad Rusz, Amatzia Avni, Michael Pasman, and more. We also briefly discuss the composers and try to understand how they can turn positions from games into original compositions. Like in the previous article, we also have an assortment of flavours here. Some of the studies are concrete and tactical, while others are a bit on the technical side. However, regardless of style, each composition is deeply instructional, and you can be sure to come out wiser as a chess player if you go through them all.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1456,14 +1472,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-grandmaster-konstantin-landa/",
          "pubDate" : "Wed, 12 Oct 2022 07:34:51 +0000",
          "title" : "Rest in Peace Grandmaster Konstantin Landa"
-      },
-      {
-         "description" : "Fabiano Caruana defeated Elshan Moradiabadi to increase his lead at the U.S. Championship in Saint Louis. Caruana now stands a full point ahead of Sam Sevian, Awonder Liang and Ray Robson - the latter joined the chasing pack after beating Hans Niemann with the black pieces. Meanwhile, in the women's tournament, Irina Krush scored her third consecutive victory to join Jennifer Yu in first place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r6",
-         "pubDate" : "Wed, 12 Oct 2022 08:00:00 +0100",
-         "title" : "U.S. Championships: Caruana widens the gap"
       },
       {
          "description" : "A day of decisive results with the black pieces ruled the sixth round of the 2022 U.S. Chess Championship on Tuesday. GM Fabiano Caruana was able to extend his lead to a full point after beating GM Elshan Moradiabadi while GMs Ray Robson and Dariu...",
