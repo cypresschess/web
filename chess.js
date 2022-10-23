@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 96th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-2",
+         "pubDate" : "Sun, 23 Oct 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 96: Queen's Gambit Declined (2)"
+      },
+      {
+         "description" : " After a break of 2 years, the ACT Teams Championship returned for 2022. Once again it was a 7 round Rapid (15m+5s) and 12 teams took part (well 11 + a scratch team to avoid the bye). A number of teams took their chess seriously, a few teams took their outfits seriously, and at least one team did both! The winning team was King Charles III, which consisted of CM Hui Li, Charles Huang, Larry Cheng and Jerry Cheng. They finished half a point ahead of The Wise Guys, who did in fact win the prize for Best Dressed Teams. In third place was Bishop's Monarchy, which like KCIII was a junior heavy team. Tuggeranong Chess Club won the Larko Cup for the best official Club team, beating the Canberra Che",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-act-teams-championship.html",
+         "pubDate" : "Sun, 23 Oct 2022 12:08:00 +0000",
+         "title" : "2022 ACT Teams Championship "
+      },
+      {
          "description" : "After her first round win, Lilit had a winning position in her second game, but wasn't able to convert it, and drew. The draw against Anna Kubicka felt like a loss, and the IM had to recover quickly, to be prepared for the next round. Everybody knows the feeling after a loss in a tournament. But how to tackle those emotions, which pull you down best? Lilit has some good advice in this third episode.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "3rd GM norm for Raymond Song"
       },
       {
-         "description" : "On 10 October the FIDE World Youth U-16 Chess Olympiad 2022 finished in Nakhchivan, Azerbaijan. The 9-round Swiss tournament with classical time control brought together 34 teams from 22 countries. The fifth-rated Turkiye-Red swept the field, winning the event with one round to spare. | Photos: Turkish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/turkey-wins-fide-world-youth-u-16-chess-olympiad-2022",
-         "pubDate" : "Wed, 12 Oct 2022 11:54:14 +0100",
-         "title" : "Turkey wins FIDE World Youth U-16 Chess Olympiad 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,38 +1888,6 @@ news_feed (
          "link" : "https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/",
          "pubDate" : "Sun, 02 Oct 2022 15:02:53 +0000",
          "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship 2022"
-      },
-      {
-         "description" : " There's a trap in the Caro-Kann which seems to be both very popular and very successful in online chess at the moment. It made an appearance over the board in the recent British Championship. This was Thomas Villiers (2170) v Ioanis Lentzos (2097) 1. e4 c6 2. Nf3 d5 3. d3!? This looks harmless, but <a href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Trap in the Caro-Kann\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-trap-in-the-caro-kann/\">A Trap in the Caro-Kann</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-trap-in-the-caro-kann/",
-         "pubDate" : "Sun, 02 Oct 2022 13:52:48 +0000",
-         "title" : "A Trap in the Caro-Kann"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2020",
-         "pubDate" : "Sun, 02 Oct 2022 12:37:55 +0000",
-         "title" : "FIDE World Youth U-16 Chess Olympiad 2022 starts in Nakhchivan"
-      },
-      {
-         "description" : "<h1 style=\"text-align: left;\"> 2022 Vikings Weekender</h1> 18th, 19th and 20th November 2022 6 round FIDE Rated Swiss* Lanyon Vikings, Heidelberg St, Condor, ACT Time control: 60m + 30s Open and Under 1600 sections (Both FIDE Rated) Round 1: Friday 7:00pm Round 2: Sat 10:15am Round 3: Sat 2:15pm Round 4: Sat 6:15pm Round 5: Sun 10:15am Round 6:Sun 2:15pm 1st Prize Open $1000, 1st Prize Minor $500 (All other prizes dependant upon entries) Entry fee: $65 ($45 Junior/Concession) GM, IM, WGM, WIM free Maximum of 60 players Lanyon Vikings is a Licenced club. Players under the age of 18 must be accompanied by an adult at all times in the upstairs gaming and bar areas. Please also note that bar/mea",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender-save-date.html",
-         "pubDate" : "Sun, 02 Oct 2022 12:31:00 +0000",
-         "title" : "2022 Vikings Weekender - Save the date"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2019",
-         "pubDate" : "Sun, 02 Oct 2022 12:24:59 +0000",
-         "title" : "Jose Carrillo Pujol elected new President of the Confederation of Chess for Americas"
       }
    ]
 }
