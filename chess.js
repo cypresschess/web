@@ -10,6 +10,30 @@ news_feed (
          "title" : "Women's Candidates: Monaco receives the players from Pool A"
       },
       {
+         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsens-lawyer-speaks-up-for-the-first-time-about-the-niemann-carlsen-lawsuit/",
+         "pubDate" : "Sun, 23 Oct 2022 19:53:41 +0000",
+         "title" : "Carlsen's lawyer speaks up for the first time about the Niemann - Carlsen lawsuit"
+      },
+      {
+         "description" : "Govhar Beydullayeva is the winner of the World Girls U20 Championship despite losing her last round game, as she had a full-point advantage and better tiebreak over her main rival Assel Serikbay from Kazakhstan. Govhar Beydullayeva was leading at the halfway point and never let her lead slip. An important draw against the rating favorite []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/govhar-beydullayeva-is-world-girls-u20-champion/",
+         "pubDate" : "Sun, 23 Oct 2022 19:52:27 +0000",
+         "title" : "Govhar Beydullayeva is World Girls U20 champion"
+      },
+      {
+         "description" : "Azerbaijani players take all gold medals 2022 FIDE World Junior Championship. Govhar Beydullayeva won the World Girls U20 championsihp, while&#xA0;Abdulla Gadimbayli took titles in very close competitions in the open section. The open event was a nail-biter until the very end. Adam Kozak (Hungary) was coming into the final round on 8/10, a half point []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdulla-gadimbayli-is-world-junior-chess-champion-2022/",
+         "pubDate" : "Sun, 23 Oct 2022 19:52:23 +0000",
+         "title" : "Abdulla Gadimbayli is World Junior Chess Champion 2022"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,11 +50,11 @@ news_feed (
          "title" : "FIDE Women's Candidates 2022/23 opens in Monaco"
       },
       {
-         "description" : "The 2022 World Junior Chess Championships was a resounding success for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old an...",
+         "description" : "The 2022 World Junior Chess Championships were resounding successes for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-world-junior-chess-championships-gadimbayli-beydullayeva",
-         "pubDate" : "Sun, 23 Oct 2022 07:24:10 -0700",
+         "pubDate" : "Sun, 23 Oct 2022 07:24:00 -0700",
          "title" : "Double Gold For Azerbaijan At World Juniors"
       },
       {
@@ -458,36 +482,12 @@ news_feed (
          "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
       },
       {
-         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yosha-iglesias-cheating-is-no-longer-hans-niemann-biggest-mistake-in-his-career/",
-         "pubDate" : "Thu, 20 Oct 2022 20:31:11 +0000",
-         "title" : "Yosha Iglesias: Cheating is no longer Hans' Niemann biggest mistake in his career"
-      },
-      {
-         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jonathan-rowson-the-lawsuit-is-written-like-a-tabloid-article/",
-         "pubDate" : "Thu, 20 Oct 2022 20:19:30 +0000",
-         "title" : "Jonathan Rowson: The lawsuit is written like a tabloid article"
-      },
-      {
          "description" : "The news broke out minutes ago. Hans Niemann posted on his Twitter the official complaint against Magnus Carlsen, the Play Magnus Group, Chess.com, Daniel Rensch, and Hikaru Nakamura. The complaint states that he is seeking \"damages in an amount to be determined at trial, but no less than One Hundred Million Dollars ($100,000,000)\". The text of the complaint does not mince words.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/breaking-news-hans-niemann-is-suing",
          "pubDate" : "Thu, 20 Oct 2022 21:15:00 +0100",
          "title" : "Breaking News: Hans Niemann is suing!"
-      },
-      {
-         "description" : "After&#160;19-year-old American grandmaster Hans Niemann defeated Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022, the World Chess Champion decided to&#160;withdraw from the event. Rumors that Magnus Carlsen suspected Niemann was cheating started spreading over social media and the &#x201C;Carlsen &#x2013; Niemann&#x201D; controversy is&#160;the top news in mass media&#160;ever since. Scroll down for 90 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-is-seeking-400-million-usd-in-damages-from-carlsen-nakamura-chess-com-play-magnusm-and-danny-rensch/",
-         "pubDate" : "Thu, 20 Oct 2022 20:06:53 +0000",
-         "title" : "Hans Niemann is seeking 400 MILLION USD in damages from Carlsen, Nakamura, Chess.com, Play Magnus and Danny Rensch"
       },
       {
          "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
