@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. FIDE announced the adoption of a new format back in June, and has yet to disclose where and when the second group of players (i.e. Pool B) will fight for the remaining spot in the final. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-preview",
+         "pubDate" : "Sun, 23 Oct 2022 21:00:00 +0100",
+         "title" : "Women's Candidates: Monaco receives the players from Pool A"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2050",
+         "pubDate" : "Sun, 23 Oct 2022 18:40:18 +0000",
+         "title" : "Are you ready to Random!?"
+      },
+      {
+         "description" : "FIDE Women's Candidates Tournament 2022/2023 opens tomorrow in Monaco with the Pool A knock-out part of the event. FIDE this year adopted the new knock-out system for the FIDE Women's Candidates Tournament 2022/2023 which features 8 players and two knock-out pools: A and B. The Winners of each pool will qualify for the Finals which will be played&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-womens-candidates-2022-23-opens-in-monaco/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-womens-candidates-2022-23-opens-in-monaco/",
+         "pubDate" : "Sun, 23 Oct 2022 17:25:02 +0000",
+         "title" : "FIDE Women's Candidates 2022/23 opens in Monaco"
+      },
+      {
          "description" : "The 2022 World Junior Chess Championships was a resounding success for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1856,22 +1880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2022/",
          "pubDate" : "Mon, 03 Oct 2022 08:45:31 +0000",
          "title" : "ECF Book of the Year 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2021",
-         "pubDate" : "Sun, 02 Oct 2022 18:42:15 +0000",
-         "title" : "Record-breaking attendance at FIDE Trainers' Seminar"
-      },
-      {
-         "description" : " The 37th European Club Cup takes place in Mayrhofen, Austria 3rd to 9th October. Leading players including Magnus Carlsen, Viswanathan Anand, Richard Rapport, Shakhriyar Mamedyarov, MVL, D Gukesh and Arjun Erigaisi. CSU ASE Superbet and Novy Bor Chess club are the top two seeded teams. There is in addition a women's team event alongside.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/37th-european-club-cup-2022",
-         "pubDate" : "Sun, 2 Oct 2022 20:30:00 +0400",
-         "title" : "37th European Club Cup 2022 - Games and Results"
       }
    ]
 }
