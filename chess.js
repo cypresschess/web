@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 World Junior Chess Championships was a resounding success for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-world-junior-chess-championships-gadimbayli-beydullayeva",
+         "pubDate" : "Sun, 23 Oct 2022 07:24:10 -0700",
+         "title" : "Double Gold For Azerbaijan At World Juniors"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 96th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1570,14 +1578,6 @@ news_feed (
          "title" : "London Junior Chess Championships update"
       },
       {
-         "description" : "Novy Bor won the 2022 European Club Cup on Sunday after beating Asnieres Le Grand Echiquier in the final round. The Czech team won the tournament nine years after their first European gold in 2013.&#38;nbsp;Third-seeded ASVOe Pamhagen became the surpr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/novy-bor-pamhagen-win-european-chess-club-cup",
-         "pubDate" : "Mon, 10 Oct 2022 02:31:00 -0700",
-         "title" : "Gold For Novy Bor, Pamhagen At European Club Cup"
-      },
-      {
          "description" : "The 37th European Chess Club Cup and the 26th European Women's Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women's tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to score impressive 7/7&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1872,22 +1872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/37th-european-club-cup-2022",
          "pubDate" : "Sun, 2 Oct 2022 20:30:00 +0400",
          "title" : "37th European Club Cup 2022 - Games and Results"
-      },
-      {
-         "description" : "Here on <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), when you say 'chess table', you mean something like the item featured in <A HREF=\"https://chessforallages.blogspot.com/2017/02/chess-with-rare-woods.html\">Chess with Rare Woods</A>(February 2017). The item pictured below was titled 'Aldo Tura 1950, Three Nesting Tables Goatskin, Decorated with Chess Figures'. It sold for US $700.00, 'Buy It Now'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj02.jpg\" WIDTH=400 HEIGHT=300> <P>The description said, <BLOCKQUOTE>Set of three nesting tables, Aldo Tura, Italy, 1950. In high lacquered goats",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html",
-         "pubDate" : "Sun, 02 Oct 2022 15:22:00 +0000",
-         "title" : "Chess and Italian Design"
-      },
-      {
-         "description" : "The&#160;4th ESNA European Small Nations Individual Chess Championship 2022&#160;took place from 25th September - 2nd October 2022 in the Principality of Liechtenstein with the support of the European Chess Union. GM Henderson de la Fuente Lance (AND, 2504) won the event scoring 8/9 points. With an important victory in the last round against Apol Luitjen Akselsson (FAI, 2113),&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/henderson-de-la-fuente-lance-wins-european-small-nations-individual-chess-championship-2022/",
-         "pubDate" : "Sun, 02 Oct 2022 15:02:53 +0000",
-         "title" : "Henderson de la Fuente Lance wins European Small Nations Individual Chess Championship 2022"
       }
    ]
 }
