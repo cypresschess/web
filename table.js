@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2022-10-21","14","<a href=http://www.uschess.org/msa/XtblMain.php?202210218772 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2022-10-21","6","<a href=http://www.uschess.org/msa/XtblMain.php?202210218742 target='_blank'>FBCC GETTING COLD OPEN</a>",
 "PEARLAND","2022-10-18","10","<a href=http://www.uschess.org/msa/XtblMain.php?202210187582 target='_blank'>RCC QUADS OCTOBER 18, 2022</a>",
 "HOUSTON","2022-10-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210166392 target='_blank'>OCTOBER  16 SUNDAY SWISS</a>",
 "HOUSTON","2022-10-15","181","<a href=http://www.uschess.org/msa/XtblMain.php?202210155622 target='_blank'>HOFFMAN MIDDLE SCHOOL SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2022-02-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202045572 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-01-30","7","<a href=http://www.uschess.org/msa/XtblMain.php?202201304832 target='_blank'>HOUSTON JAN. 30 SUNDAY SWISS</a>",
 "SPRING","2022-01-29","232","<a href=http://www.uschess.org/msa/XtblMain.php?202201293562 target='_blank'>22ND KLEIN WINTER SCHOLASTIC</a>",
-"SPRING","2022-01-28","13","<a href=http://www.uschess.org/msa/XtblMain.php?202201283152 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-01-28","16","<a href=http://www.uschess.org/msa/XtblMain.php?202201282982 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
