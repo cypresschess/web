@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the third and final instalment of the Chess Artistry Adventure series, we bring you seven more studies, six of them originals, by world-class composers like Arpad Rusz, Amatzia Avni, Michael Pasman, and more. We also briefly discuss the composers and try to understand how they can turn positions from games into original compositions. Like in the previous article, we also have an assortment of flavours here. Some of the studies are concrete and tactical, while others are a bit on the technical side. However, regardless of style, each composition is deeply instructional, and you can be sure to come out wiser as a chess player if you go through them all.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/underpromotions-play-on-same-squares-game-of-corners-chess-artistry-adventure-part-iii",
+         "pubDate" : "Sun, 23 Oct 2022 09:00:00 +0100",
+         "title" : "Underpromotions, Play on Same Squares, Game of Corners | Chess Artistry Adventure - Part III"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1474,14 +1482,6 @@ news_feed (
          "title" : "FIDE President visits Paraguay"
       },
       {
-         "description" : "The Magician of Riga has made many incredibly smart moves in his career. Svitlana shows us in a couple of examples, what Mikhail Tal's secret for successful attacking is. Maybe you can use the tips to your advantage in a dominating position against your opponent.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-attacking-like-mikhail-tal",
-         "pubDate" : "Tue, 11 Oct 2022 17:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Attacking like Mikhail Tal"
-      },
-      {
          "description" : " Early on in my career I used to play the Scotch Gambit line of the Italian quite a lot (1.e4 e5 2.Nf3 Nc6 3.d4 exd 4.Bc4). The idea was to aim for a Two Knights Defence as White, while avoiding the mainlines of the Italian game. One game that was given as a guide on what not to do was Meek v Morphy, where Meek played 5.Ng5 after 4. ... Bc5. As Morphy won brilliantly, the conventional wisdom was 'Do not play this opening'. And when I did face this line as White I chose the safer 5.O-O It appears that conventional wisdom may have wrong about this, as Awonder Liang belted Lev Aronian with this exact line. He even played the same sacrifice as Meek (adorned with a ? by Yusopov and others), and i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2019",
          "pubDate" : "Sun, 02 Oct 2022 12:24:59 +0000",
          "title" : "Jose Carrillo Pujol elected new President of the Confederation of Chess for Americas"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup and the 26th European Women's Chess Club Cup take place from 2nd - 10th October in Mayrhofen, Austria. The Opening ceremony is scheduled for tonight at 20:00 CEST, while the first round starts tomorrow at 14:00 (local time). Schedule: With participation of 87 teams (70 in the Open event and 17 in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2022-opens-in-mayrhofen/",
-         "pubDate" : "Sun, 02 Oct 2022 06:37:29 +0000",
-         "title" : "European Chess Club Cup 2022 opens in Mayrhofen"
       }
    ]
 }
