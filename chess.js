@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html",
          "pubDate" : "Mon, 03 Oct 2022 15:14:00 +0000",
          "title" : "Breaking the 3500 Barrier"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2024",
-         "pubDate" : "Mon, 03 Oct 2022 13:06:59 +0000",
-         "title" : "Wesley So set to defend his Fischer Random title"
       }
    ]
 }
