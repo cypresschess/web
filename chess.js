@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Another London System Repertoire! It's been beaten like a dead horse! So why another repertoire on the same darn opening? Because believe it or not, two former world champions have transformed the old London System into a complete 1.d4 repertoire that: &#x1F9E0; Gains the upper hand with precise move orders and smart transpositions. &#x1F9E0; Fights []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-london-system-gm-sahaj-grover-gm-srinath-narayanan/",
+         "pubDate" : "Mon, 24 Oct 2022 14:16:33 +0000",
+         "title" : "The London System: GM Sahaj Grover & GM Srinath Narayanan"
+      },
+      {
          "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-7-duda-takes-decisive-lead",
          "pubDate" : "Fri, 21 Oct 2022 08:47:10 +0000",
          "title" : "Aimchess Rapid Day 7: Duda takes decisive lead"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/merenzon-for-chess-hans-niemanns-lawsuit-is-the-perfect-pr-opportunity/",
-         "pubDate" : "Fri, 21 Oct 2022 08:44:31 +0000",
-         "title" : "Merenzon: For chess Hans Niemann's lawsuit is the perfect PR opportunity"
       },
       {
          "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, is to sue Carlsen as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in t",
