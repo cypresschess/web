@@ -1,6 +1,8 @@
 jtable([
+"HOUSTON","2022-10-22  - 10-23","32","<a href=http://www.uschess.org/msa/XtblMain.php?202210230092 target='_blank'>$2,500 HOUSTON CHESS STUDIO OCTOBER</a>",
 "HOUSTON","2022-10-21","14","<a href=http://www.uschess.org/msa/XtblMain.php?202210218772 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-10-21","6","<a href=http://www.uschess.org/msa/XtblMain.php?202210218742 target='_blank'>FBCC GETTING COLD OPEN</a>",
+"CYPRESS","2022-10-21","32","<a href=http://www.uschess.org/msa/XtblMain.php?202210218712 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-10-18","10","<a href=http://www.uschess.org/msa/XtblMain.php?202210187582 target='_blank'>RCC QUADS OCTOBER 18, 2022</a>",
 "HOUSTON","2022-10-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210166392 target='_blank'>OCTOBER  16 SUNDAY SWISS</a>",
 "HOUSTON","2022-10-15","181","<a href=http://www.uschess.org/msa/XtblMain.php?202210155622 target='_blank'>HOFFMAN MIDDLE SCHOOL SCHOLASTIC</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2022-02-05  - 02-06","29","<a href=http://www.uschess.org/msa/XtblMain.php?202202066852 target='_blank'>$1,000 FOR THE A B CS</a>",
 "SPRING","2022-02-04","26","<a href=http://www.uschess.org/msa/XtblMain.php?202202045642 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-02-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202202045572 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-01-30","7","<a href=http://www.uschess.org/msa/XtblMain.php?202201304832 target='_blank'>HOUSTON JAN. 30 SUNDAY SWISS</a>",
-"SPRING","2022-01-29","232","<a href=http://www.uschess.org/msa/XtblMain.php?202201293562 target='_blank'>22ND KLEIN WINTER SCHOLASTIC</a>",
 ]);
