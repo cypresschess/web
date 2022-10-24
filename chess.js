@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2054",
+         "pubDate" : "Mon, 24 Oct 2022 22:15:31 +0000",
+         "title" : "FIDE World Fischer Random Championship: Group stage ready to begin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2053",
+         "pubDate" : "Mon, 24 Oct 2022 21:34:35 +0000",
+         "title" : "Women's Candidates Tournament (Pool A) starts in Monte-Carlo"
+      },
+      {
          "description" : "There is love at first sight, as everyone knows, and there are, somewhat surprisingly, \"statistics at first sight\". What is that? In the infamous matter labelled by now as \"the Hans Niemann cheating case\" (a title that S.S. Van Dine would have greatly appreciated, as well as the mystery surrounding the case) such \"statistics at first sight\" have attracted the undisputed attention of every party involved - and above all the attention of the ones not involved. | Picture: The rating development of Hans Niemann",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Uzbekistan to host Pool B of the Women's Candidates Tournament"
       },
       {
-         "description" : "188 years ago, from June to October 1834, Louis-Charles Mah&eacute; de La Bourdonnais of France and Alexander McDonnell of Ireland played a series of five matches to determine who was the world's best player of their time. La Bourdonnais won with an overall score of 45 wins, 27 losses and 13 draws. Today, this series of matches is considered to be the first inofficial World Championship match. It helped enormously to popularize chess and led to a number of remarkable games. Eugene Manlapao has the details.",
+         "description" : "188 years ago, from June to October 1834, Louis-Charles Mah&eacute; de La Bourdonnais of France and Alexander McDonnell of Ireland played a series of five matches to determine who was the world's best player of their time. La Bourdonnais won with an overall score of 45 wins, 27 losses and 13 draws. Today, this series of matches is considered to be the first inofficial World Championship match. It helped enormously to popularize chess and led to a number of remarkable games. Eugene Manlapao has the details. | Pictured: Stamp issued by the postal administration of the Solomon Islands in 2013",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/in-the-beginning-la-bourdonnais-vs-mcdonnell-london-1834",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
-         "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. FIDE announced the adoption of a new format back in June, and has yet to disclose where and when the second group of players (i.e. Pool B) will fight for the remaining spot in the final. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
+         "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-preview",
