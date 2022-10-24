@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "188 years ago, from June to October 1834, Louis-Charles Mah&eacute; de La Bourdonnais of France and Alexander McDonnell of Ireland played a series of five matches to determine who was the world's best player of their time. La Bourdonnais won with an overall score of 45 wins, 27 losses and 13 draws. Today, this series of matches is considered to be the first inofficial World Championship match. It helped enormously to popularize chess and led to a number of remarkable games. Eugene Manlapao has the details.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-the-beginning-la-bourdonnais-vs-mcdonnell-london-1834",
+         "pubDate" : "Mon, 24 Oct 2022 16:35:32 +0100",
+         "title" : "In The Beginning: La Bourdonnais vs. Mcdonnell, London 1834"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2051",
+         "pubDate" : "Mon, 24 Oct 2022 15:06:12 +0000",
+         "title" : "Year of the Woman in Chess: New podcast episode released"
+      },
+      {
+         "description" : "Elon Musk has been very active in the chess world lately. Elon commented the accusations vs Hans Niemann, spread thoughts on computer chess, and often jokes with the game. In the previous weeks Elon Musk and Kasparov got into a serious debate regarding the cost and use of Starlink in Ukraine. But today that exchange []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elon-musk-lashes-out-at-kasparov-tweetoftheday/",
+         "pubDate" : "Mon, 24 Oct 2022 14:39:05 +0000",
+         "title" : "Elon Musk lashes out at Kasparov #TweetOftheDay"
+      },
+      {
          "description" : "Another London System Repertoire! It's been beaten like a dead horse! So why another repertoire on the same darn opening? Because believe it or not, two former world champions have transformed the old London System into a complete 1.d4 repertoire that: &#x1F9E0; Gains the upper hand with precise move orders and smart transpositions. &#x1F9E0; Fights []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "https://aicf.in/round-9-report-world-junior-chess-championship-2022/",
          "pubDate" : "Fri, 21 Oct 2022 10:11:23 +0000",
          "title" : "ROUND 9 REPORT World Junior Chess Championship 2022"
-      },
-      {
-         "description" : "S.L. Narayanan is the winner of the 2022 edition of Fagernes Open. Narayanan collected 7,0/9, the same points as Abhimanyu Puranik and Anton Demchenko, but collected the gold on a better tiebreak. The title follow a nice streak of events for S.L. Narayanan, including the Chessmood Open and the Spanish League. Chessdom had a chance []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-s-l-narayanan-winner-of-fagernes-2022/",
-         "pubDate" : "Fri, 21 Oct 2022 10:09:04 +0000",
-         "title" : "Interview with S.L. Narayanan, winner of Fagernes 2022"
       },
       {
          "description" : "Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov.",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Nakamura And Carlsen Both Win In Day Of Strange Openings"
       },
       {
-         "description" : "Manuel Aaron was India's first International Master. Manuel is a great champion who indulged in battles with players like Fischer, Botvinnik, and other world superstars in his prime. He laid the foundation for Indian chess, due to which India has now become a superpower in the chess world. In the fifth episode of Olympiad Stories with Saravanan, IM Saravanan shares some interesting stories about the first Indian Superstar, the grand old man of Indian chess. Photo: The Hindu archives.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/manuel-aaron-the-trailblazer-of-indian-chess",
-         "pubDate" : "Wed, 12 Oct 2022 15:00:00 +0100",
-         "title" : "Manuel Aaron - The Trailblazer of Indian Chess"
-      },
-      {
          "description" : " IM Raymond Song looks to have had a productive trip to Europe, scoring his 2nd and 3rd GM norms over the northern summer. In June he tied for 1st in the Silver Lake Open (Serbia) with 7/9, with a 2603 performance rating. After a few more events, he scored his 3rd norm at the October First Saturday event in Budapest, finishing on 7/9 and performing at 2610. Song, who formerly played for Australia (and NZ), now represents Chinese Taipei and only needs to get his rating above 2500 to confirm the title. Currently he is just short (by 3 points if I can add up correctly), and should be able to get his live rating above 2500 at his next event. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-comedy-of-errors/",
          "pubDate" : "Tue, 04 Oct 2022 07:59:24 +0000",
          "title" : "A Comedy of Errors"
-      },
-      {
-         "description" : "Another seven-plus months, another 100 posts. Yesterday's post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">Chess and Italian Design</A>(October 2022), was no.3500 on this blog. That means it's time for a follow-up to <A HREF=\"http://chessforallages.blogspot.com/2022/02/breaking-3400-barrier.html\">Breaking the 3400 Barrier</A>(February 2022). If you haven't seen the series before, the number 3400 also refers to a chess rating. We had to abandon humanity at <A HREF=\"http://chessforallages.blogspot.com/2019/04/breaking-2900-barrier.html\">Breaking the 2900 Barrier</A>(April 2019), because according to the accepted rating agencies, no one has ever achieved",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html",
-         "pubDate" : "Mon, 03 Oct 2022 15:14:00 +0000",
-         "title" : "Breaking the 3500 Barrier"
       }
    ]
 }
