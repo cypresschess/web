@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jurisdiction-the-first-issue-of-the-niemann-carlsen-lawsuit/",
+         "pubDate" : "Mon, 24 Oct 2022 09:30:09 +0000",
+         "title" : "Jurisdiction: the first issue of the Niemann - Carlsen lawsuit"
+      },
+      {
+         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. Find all the information about the 2022 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-fischer-random-world-championship-live/",
+         "pubDate" : "Mon, 24 Oct 2022 08:55:08 +0000",
+         "title" : "2022 Fischer Random World Championship LIVE"
+      },
+      {
+         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. Get ready for the Fischer Random: Replay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-to-defend-his-title-in-the-2022-fischer-random-world-championship/",
+         "pubDate" : "Mon, 24 Oct 2022 08:53:26 +0000",
+         "title" : "Wesley So to defend his title in the 2022 Fischer Random World Championship"
+      },
+      {
          "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. FIDE announced the adoption of a new format back in June, and has yet to disclose where and when the second group of players (i.e. Pool B) will fight for the remaining spot in the final. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -378,28 +402,12 @@ news_feed (
          "title" : "Merenzon: For chess Hans Niemann's lawsuit is the perfect PR opportunity"
       },
       {
-         "description" : "The Hans Niemann lawsuit steals the spotlight, but top quality chess events continue around the world. Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov. The 24-year-old Duda, the reigning World Cup winner, was at his attacking best as he dominated Azerbaijan's number []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-takes-the-lead-in-the-aimchess-rapid-final/",
-         "pubDate" : "Fri, 21 Oct 2022 08:16:13 +0000",
-         "title" : "Jan-Krzysztof Duda takes the lead in the Aimchess rapid final"
-      },
-      {
          "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, is to sue Carlsen as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
          "pubDate" : "Fri, 21 Oct 2022 07:00:17 +0000",
          "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-lawsuit-chess-com-lawyers-respond/",
-         "pubDate" : "Fri, 21 Oct 2022 06:36:20 +0000",
-         "title" : "Hans Niemann lawsuit - Chess.com lawyers respond"
       },
       {
          "description" : "GM Jan-Krzysztof Duda took a big step toward winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. The 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in...",
@@ -464,14 +472,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
          "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
          "title" : "Chess scandal: Niemann files $100m lawsuit"
-      },
-      {
-         "description" : "Today, Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann is seeking a total of 400 million USD in damages Hans Niemann is to be represented by Oved &#38; Oved and its attorneys Terrence A. Oved, Darren Oved, Andrew Urgenson, and James Reilly. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-is-represented-by-oved-oved/",
-         "pubDate" : "Thu, 20 Oct 2022 21:01:01 +0000",
-         "title" : "Hans Niemann is represented by Oved & Oved"
       },
       {
          "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> against Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remar",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2022",
          "pubDate" : "Mon, 03 Oct 2022 11:37:30 +0000",
          "title" : "Arkady Dvorkovich meets with President of Azerbaijan"
-      },
-      {
-         "description" : "Think like a Super-GM Adams and Hurtado Quality Chess pp464 &pound;29.50 The two authors, in conjunction with the publisher, have produced a book of great...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-book-of-the-year-2022/",
-         "pubDate" : "Mon, 03 Oct 2022 08:45:31 +0000",
-         "title" : "ECF Book of the Year 2022"
       }
    ]
 }
