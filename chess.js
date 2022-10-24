@@ -1856,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2024",
          "pubDate" : "Mon, 03 Oct 2022 13:06:59 +0000",
          "title" : "Wesley So set to defend his Fischer Random title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2023",
-         "pubDate" : "Mon, 03 Oct 2022 11:53:21 +0000",
-         "title" : "FIDE Arbiters' Manual 2022 released"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2022",
-         "pubDate" : "Mon, 03 Oct 2022 11:37:30 +0000",
-         "title" : "Arkady Dvorkovich meets with President of Azerbaijan"
       }
    ]
 }
