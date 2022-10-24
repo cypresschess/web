@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is love at first sight, as everyone knows, and there are, somewhat surprisingly, \"statistics at first sight\". What is that? In the infamous matter labelled by now as \"the Hans Niemann cheating case\" (a title that S.S. Van Dine would have greatly appreciated, as well as the mystery surrounding the case) such \"statistics at first sight\" have attracted the undisputed attention of every party involved - and above all the attention of the ones not involved. | Picture: The rating development of Hans Niemann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-hans-niemann-case-numbers-what-they-reveal-and-what-they-do-not-reveal",
+         "pubDate" : "Mon, 24 Oct 2022 20:00:00 +0100",
+         "title" : "The Hans Niemann case: Numbers - what they reveal and what they do not reveal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2052",
+         "pubDate" : "Mon, 24 Oct 2022 18:07:14 +0000",
+         "title" : "Uzbekistan to host Pool B of the Women's Candidates Tournament"
+      },
+      {
          "description" : "188 years ago, from June to October 1834, Louis-Charles Mah&eacute; de La Bourdonnais of France and Alexander McDonnell of Ireland played a series of five matches to determine who was the world's best player of their time. La Bourdonnais won with an overall score of 45 wins, 27 losses and 13 draws. Today, this series of matches is considered to be the first inofficial World Championship match. It helped enormously to popularize chess and led to a number of remarkable games. Eugene Manlapao has the details.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2051",
          "pubDate" : "Mon, 24 Oct 2022 15:06:12 +0000",
          "title" : "Year of the Woman in Chess: New podcast episode released"
+      },
+      {
+         "description" : " <p class=\"lead\">Elon Musk called chess player Garry Kasparov an idiot for criticizing his plan to reconcile Russia and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-10-24_20-03-04.jpg\" width=\"992\" height=\"1280\" alt=\"\" /> </div> Kasparov, former World Chess Champion criticized the head of Tesla in an interview with CNBC, condemning Musk's peaceful settlement of the situation around Ukraine (where Crimea is part of Russia, repeat referendums in the occupied territories are required). \"o why are people sitting in the comfort of their Silicon Valley mansions telling Ukraine how to run their own business?\" - Kasparov said. Musk's remarks angered",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/elon-musk-calls-garry-kasparov-a-douche-and-an-idiot-all-because/",
+         "pubDate" : "Mon, 24 Oct 2022 15:00:00 +0000",
+         "title" : "Elon Musk calls Garry Kasparov a \"douche\" and \"an idiot\". All because of his peace plan"
       },
       {
          "description" : "Elon Musk has been very active in the chess world lately. Elon commented the accusations vs Hans Niemann, spread thoughts on computer chess, and often jokes with the game. In the previous weeks Elon Musk and Kasparov got into a serious debate regarding the cost and use of Starlink in Ukraine. But today that exchange []",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.chessdom.com/wesley-so-to-defend-his-title-in-the-2022-fischer-random-world-championship/",
          "pubDate" : "Mon, 24 Oct 2022 08:53:26 +0000",
          "title" : "Wesley So to defend his title in the 2022 Fischer Random World Championship"
+      },
+      {
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Mon, 24 Oct 2022 05:59:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. FIDE announced the adoption of a new format back in June, and has yet to disclose where and when the second group of players (i.e. Pool B) will fight for the remaining spot in the final. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
@@ -1282,14 +1314,6 @@ news_feed (
          "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
       },
       {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Fri, 14 Oct 2022 04:59:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
-      },
-      {
          "description" : "Scoring his third win in a row, GM Ray Robson completed a hat trick on Thursday at the 2022 U.S. Championship. The 27-year-old grandmaster beat GM Elshan Moradiabadi with the black pieces and is now trailing the leader, GM Fabiano Caruana, by half...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-us-championship-round-7",
          "pubDate" : "Wed, 12 Oct 2022 19:43:00 -0700",
          "title" : "Caruana, Robson Win Again, Dominguez Records 10-Move Victory"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #537 Merijn van Delft presents a game Pentala Harikrishna and Vishy Anand played at the European Club Cup in Mayrhofen, Austria. Harikrishna won with impressive technique. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-537-p-harikrishna-vs-v-anand",
-         "pubDate" : "Wed, 12 Oct 2022 22:55:27 +0100",
-         "title" : "Game of the Week #537: P. Harikrishna vs V. Anand"
       },
       {
          "description" : "GM Konstantin Landa has passed away at the age of 50, after a long struggle with cancer. The news was confirmed by the Russian Chess Federation. Landa was born May 22, 1972 in Omsk, a city in southwestern Siberia. He got his first chess lessons ...",
