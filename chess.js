@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v8Gu3lrb_SA.jpg?itok=Zv04utkI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada",
+         "pubDate" : "Tue, 25 Oct 2022 22:07:21 +0000",
+         "title" : "2022 U.S. Championship: Best Attacking Games! | Grandmaster's Choice - GM Yuniesky Quesada"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the Zwischenzug, also known as an &quot;intermezzo&quot; or &quot;intermediate move,&quot; which describes a move that is played instead of and before the expected move and poses an immediate threat that the opponent must answer. 2022.10.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intermezzo-put-your-plans-hold-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/intermezzo-put-your-plans-hold-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 25 Oct 2022 22:07:21 +0000",
+         "title" : "Intermezzo: Put Your Plans on Hold! | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : " IM Kostya Kavutskiy Each one of us goes through unique personal experiences in our life. There is no generic plan we can follow to accomplish our goals. Of course we get tips from parents, teachers or friends and it is up to us to listen. If we do not, life has a funny way of <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (2)</a> appeared first on",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/",
+         "pubDate" : "Tue, 25 Oct 2022 21:51:43 +0000",
+         "title" : "\"Tactics are temporary, endgames are permanent\" (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2056",
+         "pubDate" : "Tue, 25 Oct 2022 21:43:34 +0000",
+         "title" : "FIDE World FR Championship: Veterans show muscle; teenager shows fire"
+      },
+      {
+         "description" : "The Asian Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. A total of 93 players will compete in the open section, with Rameshbabu Praggnanandhaa as top seeded. His main competitors are the Fargernes open winner S.L. Narayanan, the Olympic Champion Nodirbek Yakubboev, as well as S.P. Sethuraman, Chopra Aryan, Chithambaram []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pragg-is-top-seeded-at-the-asian-continental-chess-championship-2022/",
+         "pubDate" : "Tue, 25 Oct 2022 21:35:17 +0000",
+         "title" : "Pragg is top seeded at the Asian Continental Chess Championship 2022"
+      },
+      {
+         "description" : "The Asian Women Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. Tania Sachdev is top seeded in the event, where 48 titled players, 14 WGMs, and 7 IMs are participating. Her main competitors are Davaademberel Nomin-Erdene, Agrawal Vantika, Padmini Rout, Bhakti Kulkarni, Eesha Karavade, Vo Thi Kim Phung, Deshmukh Divya, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-asian-women-continental-chess-championship-2022/",
+         "pubDate" : "Tue, 25 Oct 2022 21:35:12 +0000",
+         "title" : "The Asian Women Continental Chess Championship 2022"
+      },
+      {
+         "description" : "The Asian Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. With Pragg and Tania Sachdev as top seeded, the event will be daily live on Chessdom.com Asian Continental 2022 open participants / Asian Continental 2022 women participants / Live games will be daily on Chessdom.com &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-continental-chess-championship-2022-live/",
+         "pubDate" : "Tue, 25 Oct 2022 21:33:56 +0000",
+         "title" : "Asian Continental Chess Championship 2022 LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,14 +306,6 @@ news_feed (
          "title" : "2022 Fischer Random World Championship LIVE"
       },
       {
-         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. Get ready for the Fischer Random: Replay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-to-defend-his-title-in-the-2022-fischer-random-world-championship/",
-         "pubDate" : "Mon, 24 Oct 2022 08:53:26 +0000",
-         "title" : "Wesley So to defend his title in the 2022 Fischer Random World Championship"
-      },
-      {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -272,22 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-preview",
          "pubDate" : "Sun, 23 Oct 2022 21:00:00 +0100",
          "title" : "Women's Candidates: Monaco receives the players from Pool A"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsens-lawyer-speaks-up-for-the-first-time-about-the-niemann-carlsen-lawsuit/",
-         "pubDate" : "Sun, 23 Oct 2022 19:53:41 +0000",
-         "title" : "Carlsen's lawyer speaks up for the first time about the Niemann - Carlsen lawsuit"
-      },
-      {
-         "description" : "Govhar Beydullayeva is the winner of the World Girls U20 Championship despite losing her last round game, as she had a full-point advantage and better tiebreak over her main rival Assel Serikbay from Kazakhstan. Govhar Beydullayeva was leading at the halfway point and never let her lead slip. An important draw against the rating favorite []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/govhar-beydullayeva-is-world-girls-u20-champion/",
-         "pubDate" : "Sun, 23 Oct 2022 19:52:27 +0000",
-         "title" : "Govhar Beydullayeva is World Girls U20 champion"
       },
       {
          "description" : "",
@@ -826,28 +858,12 @@ news_feed (
          "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. Broadcast issues in the second half. For Christopher Yoo's interview, <a href=\"https://youtu.be/sVgo89CjVVQ\">https://youtu.be/sVgo89CjVVQ</a> 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-13",
-         "pubDate" : "Thu, 20 Oct 2022 01:03:19 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 13"
-      },
-      {
          "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
          "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
          "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fourteen of the country's strongest chess players battle for the national title and $60,000 in a classical round robin event, live from 308 N Euclid Ave. Plus, the U.S. Women's title is decided in an identical format with a $40,000 first prize. Fields listed below. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.18<br /> USChessChamps.com 2022 U.S. Chess Championship: Caruana, Aronian, W. So, Dominguez, Shankland, Xiong, Sevian, Niemann, Robson, Swiercz, Lenderman, C. Yoo, Moradiabadi, Liang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-chess-championships-round-12",
-         "pubDate" : "Wed, 19 Oct 2022 22:03:17 +0000",
-         "title" : "2022 U.S. Chess Championships: Round 12"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
