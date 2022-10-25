@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2055",
+         "pubDate" : "Tue, 25 Oct 2022 20:22:08 +0000",
+         "title" : "Women's Candidates Tournament, Day 1: White start strong"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the Ukrainian or A group of the <strong>Women Candidates Tournament</strong> has started in Monaco, <strong>FIDE</strong> <a href=\"https://fide.com/news/2052\">announced</a> that the Russian or B group will be played from 28 November in Khiva, Uzbekistan. FIDE divided the event to avoid a clash between the Muzychuk sisters and any of the three Russian players. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/uzbekistan-hosts-other-women/",
+         "pubDate" : "Tue, 25 Oct 2022 20:41:53 +0100",
+         "title" : "Uzbekistan hosts other Women Candidates"
+      },
+      {
          "description" : "GM Leon Luke Mendonca played a marathon game on board 1 of open section in order to win against the leader GM Adam Kozak, Adam",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/let-s-check-the-elite-are-better-than-you-know",
          "pubDate" : "Mon, 17 Oct 2022 13:02:42 +0100",
          "title" : "Let's Check: the elite are better than you know"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.berlinerschachverband.de/entry/informationen-ueber-die-veraenderungen-im-ueberregionalen-spielbetrieb-beschluss-des-dsb-kongress.html\">decided to trim down</a> its four second leagues of ten teams in the 2023/24 season to get two second leagues of twelve teams in 2024/25. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/second-leagues-trimmed-down-in/",
-         "pubDate" : "Mon, 17 Oct 2022 12:11:00 +0100",
-         "title" : "Second leagues trimmed down in Germany"
       },
       {
          "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
