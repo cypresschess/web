@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
+         "pubDate" : "Tue, 25 Oct 2022 16:45:00 +0100",
+         "title" : "World Fischer Random Championship: Live"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Tue, 25 Oct 2022 14:55:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen takes on Hikaru Nakamura today in Reykjavik, Iceland, as the 8-player FIDE World Fischer Random Championship begins. For the first three days the players are split into two groups, with the other group headed by Defending Champion Wesley So and World Championship Challenger Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-fischer-random-championship-begins-in-reykjavik",
+         "pubDate" : "Tue, 25 Oct 2022 13:17:08 +0000",
+         "title" : "Carlsen-Nakamura as Fischer Random starts in Reykjavik"
+      },
+      {
+         "description" : " While doing some research on older model chess computers I came across <a href=\"http://www.spacious-mind.com/\">The Spacious Mind</a> webpage. it is dedicated to old desktop chess computers and vintage software, and looks to be a good resource for anyone interested. The only issue is that it seems somewhat incomplete, with around half the pages \"Coming Soon\". Also the design is a little 1990's, which has me wondering if it is deliberately going for the 'retro' feel, or it really is just very, very old. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/old-computers-old-website.html",
+         "pubDate" : "Tue, 25 Oct 2022 12:44:00 +0000",
+         "title" : "Old computers - old website?"
+      },
+      {
          "description" : "The FIDE president Arkady Dvorkovich announced during the opening ceremony of the FIDE Women's Candidates Tournament in Monaco, that Pool B for this event will be hosted in the ancient city of Khiva, in Uzbekistan. The event will take place from November 28 to December 11. | Photo: Fulvio Spada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1378,6 @@ news_feed (
          "title" : "Historic Photo, Historic Game"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen takes on Shakhriyar Mamedyarov, Eric Hansen, Vincent Keymer and Aditya Mittal as the Aimchess Rapid starts today at 12pm ET | 18:00 CEST | 21:30 IST!",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-aimchess-rapid-starts-now",
-         "pubDate" : "Fri, 14 Oct 2022 15:14:27 +0000",
-         "title" : "The Aimchess Rapid starts now! "
-      },
-      {
          "description" : "The Braille Chess Association, which encourages and supports the playing of chess at all levels by blind and partially sighted people, is proudly celebrating its...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1386,14 +1410,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Four"
       },
       {
-         "description" : "Fabiano Caruana remains in pole position at the U.S. Championship, but his lead has narrowed to a half point after Ray Robson scored a third consecutive victory in Thursday's eighth round. Robson defeated an out-of-form Elshan Moradiabadi and now stands in sole second place a full point ahead of a big pack sharing the third spot on 4&frac12;/8 points. Meanwhile, Megan Lee also scored a hat-trick and is now the sole leader in the women's tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r8",
-         "pubDate" : "Fri, 14 Oct 2022 08:25:00 +0100",
-         "title" : "U.S. Championships: Hat-tricks for Ray Robson and Megan Lee"
-      },
-      {
          "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis but then fell back and was next to last after eight of the 13 rounds. The teenager, who denies all the recent allegations, won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made h",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2040",
          "pubDate" : "Thu, 13 Oct 2022 22:01:50 +0000",
          "title" : "Prisoners from 46 countries take part in the Intercontinental Championship"
-      },
-      {
-         "description" : "This week Robert Ris will have a look at the good old Scotch Gambit, which was seen in the games Liang-Aronian (US Championship) and Mamedov-Anand (European Club Cup). In both games, Black got into some serious trouble, with Aronian even getting blown off the board! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-good-old-scotch-gambit",
-         "pubDate" : "Thu, 13 Oct 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The good old Scotch Gambit"
       },
       {
          "description" : "",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html",
          "pubDate" : "Tue, 04 Oct 2022 15:53:00 +0000",
          "title" : "October 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : " With chess players starting competitions at very young ages, it is always a balancing act between trying to get such players to behave in the correct 'chess' manner, and not to end up pushing them too hard. During a school holiday coaching day, I saw a couple of different approaches, that seem to have different results. The first was an older junior who seemed content to win as many games as possible using Scholars Mate. While it looked good on the scoreboard, it was also clear that he wasn't actually learning how to play better chess. The second was a young player who was worried about coming last (or scoring poorly) in the blitz tournament we ran. As a compromise, I told him (and his oppo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/when-pressure-is-off.html",
-         "pubDate" : "Tue, 04 Oct 2022 12:57:00 +0000",
-         "title" : "When the pressure is off"
       }
    ]
 }
