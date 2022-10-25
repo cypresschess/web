@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Leon Luke Mendonca played a marathon game on board 1 of open section in order to win against the leader GM Adam Kozak, Adam",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2022-gm-leon-mendonca-finishes-joint-first-in-world-juniors-chess-2022/",
+         "pubDate" : "Tue, 25 Oct 2022 17:08:10 +0000",
+         "title" : "World Junior Chess Championship 2022 :GM Leon Mendonca finishes joint first in World Juniors chess 2022"
+      },
+      {
+         "description" : "Halloween is fast approaching, and to commemorate the occasion, Chessable and chess24 are hosting a unique tournament, the Monster Mystery Bash Tournament. This tournament is unlike any other you've seen. Chessable authors and Super GMs alike will be playing with their masks on, and you will have the opportunity to try to guess who is who before they're knocked out of the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/the-monster-mystery-bash-tournament-returns",
+         "pubDate" : "Tue, 25 Oct 2022 16:08:12 +0000",
+         "title" : "The Monster Mystery Bash Tournament returns"
+      },
+      {
          "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1282,14 +1298,6 @@ news_feed (
          "title" : "U.S. Championships: Yu retakes the sole lead"
       },
       {
-         "description" : "Sam Shankland first met Christopher Yoo as an 8-year-old and said it was \"a tremendous delight to watch him grow up\", but in Round 9 of the US Championship he beat his prot&eacute;g&eacute; in the only decisive game of the Open section. In the Women's event Jennifer Yu regained the sole lead, while Alice Lee and Irina Krush share 2nd place after playing out an amazing draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-9-shankland-grabs-only-win",
-         "pubDate" : "Sat, 15 Oct 2022 11:42:47 +0000",
-         "title" : "US Chess Champs 9: Shankland grabs only win"
-      },
-      {
          "description" : "Round 4 in World Junior Chess Championship 2022 saw an Indian battle between IM Prraneeth Vuppala &#38; FM Rohith Krishna S. The game started from",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "FIDE President makes a tour of Latin America"
       },
       {
-         "description" : "India in Joint second Position- Bo. 13 Mongolia Rtg 3 India Rtg 1 : 3 4.1 FM Anand, Batsukh 2202 IM Pranav, V",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-youth-under-16-chess-olympiad-6th-round-report/",
-         "pubDate" : "Sat, 08 Oct 2022 14:37:57 +0000",
-         "title" : "World Youth (Under 16) Chess Olympiad- 6th Round report"
-      },
-      {
          "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1864,22 +1864,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hans-niemann-is-likely-over-after-new-cheating-evidence/",
          "pubDate" : "Wed, 05 Oct 2022 10:45:25 +0000",
          "title" : "Hans Niemann is \"likely\" over after new cheating evidence"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/1993",
-         "pubDate" : "Tue, 04 Oct 2022 16:42:23 +0000",
-         "title" : "Registration for the 3rd FIDE Educational Seminar \"Chess for children with ASD. Learn & teach\" is open"
-      },
-      {
-         "description" : "In last month's post <A HREF=\"http://chessforallages.blogspot.com/2022/09/september-1972-1997-on-cover.html\">September 1972 & 1997 'On the Cover'</A>(September 2022), I struggled to include the 1972 Fischer - Spassky match:- <BLOCKQUOTE>CL&R couldn't yet report the final result of the match. [...] The date of today's post, 1 September, marks 50 years since the historic match ended. [...] We'll come back to the end of the 1972 match for the October 'On the Cover' post. </BLOCKQUOTE> <P>So here we are. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj04.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Joel Benjamin: The New Interplay U.S. Champion! <U>INTERPLAY</",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html",
-         "pubDate" : "Tue, 04 Oct 2022 15:53:00 +0000",
-         "title" : "October 1972 & 1997 'On the Cover'"
       }
    ]
 }
