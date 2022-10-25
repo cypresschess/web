@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #212 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from the Aimchess Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-212-with-david-navara",
+         "pubDate" : "Tue, 25 Oct 2022 08:08:33 +0100",
+         "title" : "Endgame Magic #212 with David Navara"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-solution/",
          "pubDate" : "Thu, 13 Oct 2022 10:08:58 +0000",
          "title" : "Winton British Chess Solving Championship - solution"
-      },
-      {
-         "description" : "The European Club Cup was played last week, with no fewer than 70 teams in the open section and 17 women's squads making their way to Mayrhofen, Austria. Our in-house expert Karsten M&uuml;ller once again compiled a series of instructive endgames for us to learn from and enjoy! | Pictured: Anna Muzychuk (photo by Fiona Steil-Antoni)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-club-cup-2022-endgames",
-         "pubDate" : "Thu, 13 Oct 2022 11:00:00 +0100",
-         "title" : "Endgames from Mayrhofen"
       },
       {
          "description" : "",
