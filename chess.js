@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/when-pressure-is-off.html",
          "pubDate" : "Tue, 04 Oct 2022 12:57:00 +0000",
          "title" : "When the pressure is off"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2004",
-         "pubDate" : "Tue, 04 Oct 2022 11:15:36 +0000",
-         "title" : "\"Chess in the Process of a Preschooler's Development\" International Online Conference announced"
       }
    ]
 }
