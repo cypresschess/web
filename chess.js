@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn endings should be calculated very carefully. In the diagrammed position it is White to move and draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-pawn-race",
+         "pubDate" : "Tue, 25 Oct 2022 09:00:00 +0100",
+         "title" : "The pawn race"
+      },
+      {
          "description" : "In the Endgame Magic Show #212 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from the Aimchess Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-212-with-david-navara",
          "pubDate" : "Tue, 25 Oct 2022 08:08:33 +0100",
          "title" : "Endgame Magic #212 with David Navara"
+      },
+      {
+         "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland. Organiser is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. Open and Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/",
+         "pubDate" : "Tue, 25 Oct 2022 06:55:45 +0000",
+         "title" : "European Open and Women Rapid & Blitz Chess Championships 2022 - Official regulations"
       },
       {
          "description" : "",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/",
          "pubDate" : "Thu, 13 Oct 2022 10:51:01 +0000",
          "title" : "World Chess Plans to List On The London Stock Exchange"
-      },
-      {
-         "description" : "An exciting round in both sections of the U.S. Championships saw 9 out of 14 games ending decisively. In the open, Fabiano Caruana, Ray Robson (pictured) and Dariusz Swiercz grabbed second consecutive wins, while Leinier Dominguez scored his first full point after merely ten moves! In the women's section, Megan Lee defeated Jennifer Yu and is now sharing the lead with Irina Krush. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championship-2022-r7",
-         "pubDate" : "Thu, 13 Oct 2022 11:40:00 +0100",
-         "title" : "U.S. Championships: Winning streaks"
       },
       {
          "description" : "",
