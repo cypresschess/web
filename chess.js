@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE president Arkady Dvorkovich announced during the opening ceremony of the FIDE Women's Candidates Tournament in Monaco, that Pool B for this event will be hosted in the ancient city of Khiva, in Uzbekistan. The event will take place from November 28 to December 11. | Photo: Fulvio Spada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzbekistan-to-host-pool-b-of-women-s-candidates-tournament",
+         "pubDate" : "Tue, 25 Oct 2022 12:20:41 +0100",
+         "title" : "Uzbekistan to host Pool B of Women's Candidates Tournament"
+      },
+      {
+         "description" : "Last week the 25th Hoogeveen Chess Festival celebrated chess again - with matches and tournaments. Local hero Lucas von Foreest won his match against Luke McShane and Daniel Dardha from Belgium won his match against Max Warmerdam. The Open finished with a \"Final Four\" finale which was won by Robert Hovhanissyan. Frans Peeters reports. | Photos: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hoogeveen-celebrates-chess-with-matches-and-tournaments",
+         "pubDate" : "Tue, 25 Oct 2022 11:43:58 +0100",
+         "title" : "Hoogeveen celebrates with matches and tournaments"
+      },
+      {
+         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/play-magnus-group-about-the-hans-niemann-lawsuit/",
+         "pubDate" : "Tue, 25 Oct 2022 10:18:00 +0000",
+         "title" : "Play Magnus Group about the Hans Niemann lawsuit"
+      },
+      {
+         "description" : "The World Junior Championships in Sardinia ended on Saturday with a double success for players from Azerbaijan. In the Open, the 18th seed IM Abdulla Gadimbayli (photo) finished with 8.0/11 and shared first place with four other players but won the tournament on tiebreak. In the \"Girls\" section WGM Govhar Beydullayeva scored 8.5/11 to share first place with Assel Seribay from Kazakhstan but also won because of her better tiebreak-score. | Photos: Przemek Nikiel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/junioren-weltmeister-gadimbayli-und-beydullayeva",
+         "pubDate" : "Tue, 25 Oct 2022 11:09:29 +0100",
+         "title" : "Abdulla Gadimbayli and Govhar Beydullayeva win World Junior Championships"
+      },
+      {
+         "description" : "The FIDE World Fischer Random Chess Championship over-the-board final opened yesterday in Reykjavik, and will be played from 25-30 October 2022 at the Brjaya Reykjavik Natura Hotel. The finals will consist of a two-group stage followed by the knockout semifinals and final. The time control will be 25 minutes per player for the first 30 moves, after which&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/",
+         "pubDate" : "Tue, 25 Oct 2022 10:07:09 +0000",
+         "title" : "FIDE World Fischer Random Chess Championship Finals opened in Reykjavik"
+      },
+      {
+         "description" : "The ground-breaking Challengers Chess Tour reaches its climax with the end-of-season Final Four event this weekend featuring four of the top rising talents in the game. Grandmasters Andrey Esipenko, Pranav Venkatesh, Raunak Sadhwani and 13-year-old International Master Ihor Samunenkov will bid for the title in a two-day blitz knockout. The semi-finals on Saturday will see []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/challengers-chess-tour-final-four-esipenko-pranav-sadhwani-and-samunenkov-go-for-title/",
+         "pubDate" : "Tue, 25 Oct 2022 09:16:00 +0000",
+         "title" : "Challengers Chess Tour Final Four: Esipenko, Pranav, Sadhwani and Samunenkov go for title"
+      },
+      {
+         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship 2022. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. The Fischer Random Chess 2022 boasts []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fischer-random-chess-2022-pairings/",
+         "pubDate" : "Tue, 25 Oct 2022 09:04:25 +0000",
+         "title" : "Fischer Random Chess 2022 - pairings"
+      },
+      {
          "description" : "Pawn endings should be calculated very carefully. In the diagrammed position it is White to move and draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +80,22 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/",
          "pubDate" : "Tue, 25 Oct 2022 06:55:45 +0000",
          "title" : "European Open and Women Rapid & Blitz Chess Championships 2022 - Official regulations"
+      },
+      {
+         "description" : " The FIDE Women Candidates Pool A takes place in Monaco 24th October to 6th November, 4 players, two rounds, the winner plays the winner of pool B which it's been announced will take place in Khiva, in Uzbekistan November 28 to December 11 (players: Aleksandra Goryachkina, Alexandra Kosteniuk, Tan Zhongyi and Kateryna Lagno). The players in Monaco are Mariya Muzychuk, Tingjie Lei, Humpy Koneru and Anna Muzychuk. Games starts at 3pm local time each day. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-a-2022",
+         "pubDate" : "Tue, 25 Oct 2022 09:47:00 +0400",
+         "title" : "FIDE Women Candidates Pool A 2022 - Games and Results"
+      },
+      {
+         "description" : " The FIDE World Fischer Random Chess Championship takes place in Reykjavik 25th to 30th October 2022. The event starts tomorrow with two pools of four. Pool A Wesley So, Ian Nepomniachtchi, Nodirbek Abdusattorov and Hjorvar Steinn Gratarsson. Pool B Magnus Carlsen, Hikaru Nakamura, Vladimir Fedoseev and Matthias Bluebaum. I won't be doing much in the way of coverage as I can't display the games but will try and have a file for download. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-fischer-random-chess-championship-2022",
+         "pubDate" : "Tue, 25 Oct 2022 09:44:00 +0400",
+         "title" : "FIDE World Fischer Random Chess Championship 2022 - Games and Results"
       },
       {
          "description" : "",
@@ -152,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/govhar-beydullayeva-is-world-girls-u20-champion/",
          "pubDate" : "Sun, 23 Oct 2022 19:52:27 +0000",
          "title" : "Govhar Beydullayeva is World Girls U20 champion"
-      },
-      {
-         "description" : "Azerbaijani players take all gold medals 2022 FIDE World Junior Championship. Govhar Beydullayeva won the World Girls U20 championsihp, while&#xA0;Abdulla Gadimbayli took titles in very close competitions in the open section. The open event was a nail-biter until the very end. Adam Kozak (Hungary) was coming into the final round on 8/10, a half point []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdulla-gadimbayli-is-world-junior-chess-champion-2022/",
-         "pubDate" : "Sun, 23 Oct 2022 19:52:23 +0000",
-         "title" : "Abdulla Gadimbayli is World Junior Chess Champion 2022"
       },
       {
          "description" : "",
@@ -296,22 +360,6 @@ news_feed (
          "link" : "https://www.thearticle.com/carlsens-crisis/",
          "pubDate" : "Sat, 22 Oct 2022 11:49:48 +0000",
          "title" : "Carlsen's Crisis"
-      },
-      {
-         "description" : "After&#160;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#160;in the third round of the Sinquefield Cup 2022,&#160;Carlsen decided to withdraw&#160;from the tournament without detailed explanations.&#160;Rumors that Magnus Carlsen suspected Niemann was cheating&#160;started spreading over social media and the controversy over the Niemann &#x2013; Carlsen case is not stopping. While Niemann spoke on the case on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wsj-revisits-the-hans-niemann-carlsen-beach-game/",
-         "pubDate" : "Sat, 22 Oct 2022 11:30:18 +0000",
-         "title" : "WSJ revisits the Hans Niemann - Carlsen beach game"
-      },
-      {
-         "description" : "UT Dallas is hosting the top-tier collegiate chess programs in the state of Texas, which will meet in the state chess final this weekend on Saturday Oct 22 and Sunday Oct 23. Among the participants are IM Viktor Gazik, IM S. Khanin, GM Kmil Dragun, GM Aleksey Sorokin, GM Ivan Schitco, IM Viktor Matviishen, IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/texas-collegiate-chess-super-finals-2022-live/",
-         "pubDate" : "Sat, 22 Oct 2022 11:29:47 +0000",
-         "title" : "Texas Collegiate Chess Super Finals 2022 LIVE"
       },
       {
          "description" : "Jan-Krzysztof Duda fended off a fierce comeback from Shakhriyar Mamedyarov to win the &pound;150,000 Aimchess Rapid, his second Meltwater Champions Chess Tour title this season.",
@@ -1386,14 +1434,6 @@ news_feed (
          "title" : "FIDE approves new composition of the Management Board"
       },
       {
-         "description" : "After Maxim Dlugy's recent statement on the actions that brought him into the spotlight, suggesting a connection with the accusations Magnus Carlsen had initially made against Hans Niemann. In an interview with DER SPIEGEL, Europe's most influential news magazine and portal, Max speaks of those accusations for the first time and discusses whether he will take legal action.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/maxim-dlugy-talks-to-der-spiegel",
-         "pubDate" : "Thu, 13 Oct 2022 18:35:00 +0100",
-         "title" : "Maxim Dlugy talks to Der Spiegel"
-      },
-      {
          "description" : "Earlier this year I ran a series of four posts about living with Google's Adsense:- <UL><LI>2022-01-21: <A HREF=\"http://chessforallages.blogspot.com/2022/01/google-again.html\">Google, Again!</A> <LI>2022-01-28: <A HREF=\"http://chessforallages.blogspot.com/2022/01/life-in-googles-world.html\">Life in Google's World</A> <LI>2022-02-04: <A HREF=\"http://chessforallages.blogspot.com/2022/02/ads-for-zonals-out.html\">Ads for Zonals, Out!</A> <LI>2022-02-11: <A HREF=\"http://chessforallages.blogspot.com/2022/02/show-ads-everywhere-out.html\">Show Ads Everywhere, Out!</A></UL> <P>It's time for another post in the series. Lately I've been receiving emails from Google informing me about 'First-party cooki",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1408,22 +1448,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2022-at-sardinia-in-italy-from-12th-october-to-22nd-october-2022-round-1-report/",
          "pubDate" : "Thu, 13 Oct 2022 15:13:20 +0000",
          "title" : "World Junior Chess Championship 2022 at Sardinia, Italy from 12th October to 22nd October 2022 :ROUND 1 REPORT"
-      },
-      {
-         "description" : "After a long illness, GM Konstantin Landa has passed away. Landa was born in Omsk, attended the Sveshnikov and Botvinnik chess schools. In 1995 he became a grandmaster. Konstantin Landasvec lived in Germany since 1999. As a FIDE Senior Trainer he supported many strong players and national teams. Konstantin Landa was only 50 years old. | Photo: Konstantin Landa's personal archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/konstantin-landa-obituary",
-         "pubDate" : "Thu, 13 Oct 2022 16:00:00 +0100",
-         "title" : "Konstantin Landa (1972-2022)"
-      },
-      {
-         "description" : "A prominent open event is currently taking place in Fagernes. A strong Indian group is dominating the action. But the top group also includes 17-year-old Elham Abdrlauf, Norway's biggest rising star. Report after round 5. | Photos: Tom Eriksen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indians-dominate-in-fagernes",
-         "pubDate" : "Thu, 13 Oct 2022 12:15:00 +0100",
-         "title" : "Indians dominate in Fagernes"
       },
       {
          "description" : " <p class=\"lead\">World Chess Plc, a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of chess related activities, is pleased to announce its intention to seek admission of its Ordinary Shares to the Official List and to trading on the London Stock Exchange's Main Market for listed securities, and a placing of new shares to raise up to &pound;10m. It is expected that the Admission will become effective and that dealings will commence in November 2022, under the ticker CHSS. Novum Securities Limited (\"Novum\") is acting as Financial Adviser to the Company and Retail investors will be able to register their interest in the IPO",
@@ -1864,30 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2004",
          "pubDate" : "Tue, 04 Oct 2022 11:15:36 +0000",
          "title" : "\"Chess in the Process of a Preschooler's Development\" International Online Conference announced"
-      },
-      {
-         "description" : "Wood Green women's team and the open teams from Blackthorne, Celtic Tigers &#38; The Sharks are representing the ECF at the seven day tournament being...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-club-cup-club-cup-for-women/",
-         "pubDate" : "Tue, 04 Oct 2022 09:42:59 +0000",
-         "title" : "European Club Cup & Club Cup for Women"
-      },
-      {
-         "description" : " <p class=\"lead\">On Monday the 3rd of October, Tesla CEO Elon Musk shared on Twitter his thoughts on how to end Russia's invasion of Ukraine, including a poll for people to vote. Former World Champion Garry Kasparov negatively criticised Musk's \"solution\" to start a debate. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Garry-Kasparov-Elon-Musk-Ukraine-Twitter-Russia-war.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Gerry Kasparov: Maarten de Groot/Kasparovchess.com, Elon Musk: Reuters</div> </div> The world's wealthiest man Elon Musk made four proposals for \"Ukraine-Russia Peace\" in a tweet: Formally recognizing the Crimean penin",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/what-have-you-done-besides-tweet-elon-musk-to-garry-kasparov-on/",
-         "pubDate" : "Tue, 04 Oct 2022 08:51:34 +0000",
-         "title" : "\"What have you done besides tweet?\" Elon Musk to Garry Kasparov on Ukraine"
-      },
-      {
-         "description" : " &#8220;And now let's go hand in hand, not one before another&#8221; The Comedy of Errors, Dromio of Ephesus, Act 5 Scene 1 Round 2 of our club tournament saw the top two players facing each other. Their game ended last, meaning the effort was there. Please replay it and form an opinion about it. After <a href=\"https://chessimprover.com/a-comedy-of-errors/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Comedy of Errors\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-comedy-of-errors/\">A Comedy of Errors</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-comedy-of-errors/",
-         "pubDate" : "Tue, 04 Oct 2022 07:59:24 +0000",
-         "title" : "A Comedy of Errors"
       }
    ]
 }
