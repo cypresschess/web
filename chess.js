@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Wed, 26 Oct 2022 14:55:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : "Hikaru Nakamura exploited a huge blunder by World Champion Magnus Carlsen to win their mini-match on Day 1 of the Fischer Random World Championship in Reykjavik. In the other group the headlines were stolen by 18-year-old Nodirbek Abdusattorov, who crushed Ian Nepomniachtchi 2:0 before also taking down defending champion Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fischer-random-1-hikaru-beats-magnus",
+         "pubDate" : "Wed, 26 Oct 2022 12:50:13 +0000",
+         "title" : "Fischer Random 1: Hikaru beats Magnus "
+      },
+      {
+         "description" : " Dear Reader, as I'm still in therapy for my Traumatic Brain Injury I have another guest Article for you. This one is very special because it could be the answer to a frequent question I get: how can I improve my visualization skills? Aiden's own Chess-blog &#38; training program &#8216;Don't Move Until You See&#8216; focuses [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/improve-your-visualization/\">Supercharge Your Chess Visualization Skills</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/improve-your-visualization/",
+         "pubDate" : "Wed, 26 Oct 2022 12:30:00 +0000",
+         "title" : "Supercharge Your Chess Visualization Skills"
+      },
+      {
          "description" : "The first two rounds of mini-matches at the World Fischer Random Championship were played on Tuesday in Reykjavik. Nodirbek Abdusattorov (group A) and Hikaru Nakamura (group B) won both their mini-matches to take early leads. Nakamura defeated Magnus Carlsen in their direct matchup. The world champion had a faulty performance, as he blundered material both against Nakamura and Vladimir Fedoseev. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d1",
          "pubDate" : "Wed, 26 Oct 2022 13:15:00 +0100",
          "title" : "Fischer Random: The fun begins!"
+      },
+      {
+         "description" : " In the pre-computer days, the most common way to improve at chess was to study games played by stronger players. So entrenched was this method that most \"How to Play Chess\" books included a collection of master games, usually with very light annotations. One example was from the Meises update to RF Green's \"Chess\". It included 33 games, including the following early example, from 1834. Given the lack of notes (or analysis) for the game, I suspect the expectation was that the reader would play through the game, and basically improve by self realisation. While this may sound unrealistic today, it was a method that seemed to work. <br /> <b>De Labourdonnais,Louis Charles Mahe - McDonnell,Alexa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/examples-of-master-play.html",
+         "pubDate" : "Wed, 26 Oct 2022 11:38:00 +0000",
+         "title" : "Examples of Master Play"
+      },
+      {
+         "description" : "The FIDE World Team Championship 2022, aka the small Chess Olympiad, will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve team championship. Xinhua confirmed the participating teams USA (reigning champion), Israel (home team), Azerbaijan, The Netherlands, China, Ukraine, France, Poland, South Africa, India, Uzbekistan, and Spain. See []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/niemann-is-in-the-us-team-for-the-world-team-chess-2022-amid-the-ongoing-lawsuit/",
+         "pubDate" : "Wed, 26 Oct 2022 11:34:45 +0000",
+         "title" : "Niemann is in the US team for the World Team Chess 2022 amid the ongoing lawsuit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2058",
+         "pubDate" : "Wed, 26 Oct 2022 11:26:49 +0000",
+         "title" : "FIDE World Teams squads announced for Jerusalem 2022"
       },
       {
          "description" : "The FIDE World Team Championship 2022, aka the small Chess Olympiad, will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve team championship, including the best team by rating from each of the four Continents (Africa, Americas, Asia, Europe), five teams representing federations with the highest average ratings of []",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2057",
          "pubDate" : "Wed, 26 Oct 2022 11:01:03 +0000",
          "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
+      },
+      {
+         "description" : "Speed chess is defined as blitz chess, lightning chess, or bullet chess. Esipenko and Gelfand bring it to another level in this #TweetOftheDay by Olimpiu Urcan aka Olimpiu Di Luppi. More from Tweet of the day section / More news on Esipenko / More news on Gelfand",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/speed-chess-with-esipenko-and-gelfand-tweetoftheday/",
+         "pubDate" : "Wed, 26 Oct 2022 10:35:00 +0000",
+         "title" : "Speed chess with Esipenko and Gelfand #TweetOftheDay"
       },
       {
          "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
@@ -360,22 +416,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/elon-musk-calls-garry-kasparov-a-douche-and-an-idiot-all-because/",
          "pubDate" : "Mon, 24 Oct 2022 15:00:00 +0000",
          "title" : "Elon Musk calls Garry Kasparov a \"douche\" and \"an idiot\". All because of his peace plan"
-      },
-      {
-         "description" : "Elon Musk has been very active in the chess world lately. Elon commented the accusations vs Hans Niemann, spread thoughts on computer chess, and often jokes with the game. In the previous weeks Elon Musk and Kasparov got into a serious debate regarding the cost and use of Starlink in Ukraine. But today that exchange []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elon-musk-lashes-out-at-kasparov-tweetoftheday/",
-         "pubDate" : "Mon, 24 Oct 2022 14:39:05 +0000",
-         "title" : "Elon Musk lashes out at Kasparov #TweetOftheDay"
-      },
-      {
-         "description" : "Another London System Repertoire! It's been beaten like a dead horse! So why another repertoire on the same darn opening? Because believe it or not, two former world champions have transformed the old London System into a complete 1.d4 repertoire that: &#x1F9E0; Gains the upper hand with precise move orders and smart transpositions. &#x1F9E0; Fights []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-london-system-gm-sahaj-grover-gm-srinath-narayanan/",
-         "pubDate" : "Mon, 24 Oct 2022 14:16:33 +0000",
-         "title" : "The London System: GM Sahaj Grover & GM Srinath Narayanan"
       },
       {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
@@ -1354,14 +1394,6 @@ news_feed (
          "title" : "Henry II, Thomas Becket and the Royal Game"
       },
       {
-         "description" : "The $150,000 Aimchess Rapid kicked off today with 18-year-old Nodirbek Abdusattorov taking an early lead and Indian youngster Aditya Mittal nearly toppling World Champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-1-flying-start-for-abdusattorov",
-         "pubDate" : "Sat, 15 Oct 2022 15:00:00 +0000",
-         "title" : "Aimchess Rapid Day 1: Flying start for Abdusattorov"
-      },
-      {
          "description" : "After nine rounds, Fabiano Caruana and Jennifer Yu are the sole leaders at the U.S. Championship and U.S. Women's Championship, respectively. Caruana drew with Awonder Liang after the latter continued the trend of playing offbeat openings in Saint Louis, while Jennifer Yu defeated Ashritha Eswaran in what was her sixth victory of the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1440,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2041",
          "pubDate" : "Fri, 14 Oct 2022 18:39:02 +0000",
          "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
-      },
-      {
-         "description" : "In his Power Play Show, Daniel King analyses a game from the US Championship between Awonder Liang and Levon Aronian. The origins of the opening go back 200 years, but something fresh was still created on the board. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-two-centuries-old-still-fresh",
-         "pubDate" : "Fri, 14 Oct 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Two centuries old, but still fresh"
       },
       {
          "description" : "In last week's post for the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/roger-cohen-foreign-correspondent.html\">Roger Cohen, Foreign Correspondent</A>(October 2022), I noted that the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>was a tale of two matches:- <BLOCKQUOTE>The first match, which had little to do with chess, was about Fischer's sudden return to chess after 20 years of self-imposed retirement. Was he still capable of playing at the highest level? Was Spassky? The second match, which started with the third game, was all about chess. </BLOCKQUOTE> <P>One journalist was eminently qualified to cover both matc",
