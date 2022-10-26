@@ -10,7 +10,7 @@ news_feed (
          "title" : "Robson vs. So: Best Attacks at U.S. Champs! | Grandmaster's Choice - GM Yuniesky Quesada"
       },
       {
-         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakmaura won both matches of the day to lead Groups A and B at the 2022 Fischer Random World Championship on Tuesday. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nakamura won vs. GM ...",
+         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakmaura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
