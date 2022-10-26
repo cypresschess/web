@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attackin",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-us-championship-best-attacking-games-gm-yuniesky-quesada-lichessorg",
+         "pubDate" : "Wed, 26 Oct 2022 01:07:16 +0000",
+         "title" : "2022 U.S. Championship: Best Attacking Games! - GM Yuniesky Quesada | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the Zwischenzug, also known as an \"intermezzo\" or \"intermediate move,\" which describes a move that is played instead of and before the expected move and poses an immediate threat that the opponent must answer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intermezzo-put-your-plans-hold-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/intermezzo-put-your-plans-hold-beginner-breakdown",
+         "pubDate" : "Wed, 26 Oct 2022 01:07:16 +0000",
+         "title" : "Intermezzo: Put Your Plans on Hold! | Beginner Breakdown"
+      },
+      {
+         "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/",
+         "pubDate" : "Wed, 26 Oct 2022 01:00:00 +0000",
+         "title" : "Maurice Ashley on C-Squared Podcast"
+      },
+      {
+         "description" : "Day 1 of the Women's Candidates saw two decisive games (out of two), as Lei Tingjie and Humpy Koneru defeated Mariya and Anna Muzychuk respectively, both with the white pieces. Matches are played to the best of four, so the Muzychuk sisters have plenty of time to bounce back. Humpy's victory was a nice 24-mover. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-r1g1",
+         "pubDate" : "Wed, 26 Oct 2022 02:00:00 +0100",
+         "title" : "Women's Candidates: Lei and Humpy win with white"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v8Gu3lrb_SA.jpg?itok=Zv04utkI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
          "pubDate" : "Tue, 25 Oct 2022 16:45:00 +0100",
          "title" : "World Fischer Random Championship: Live"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Tue, 25 Oct 2022 14:55:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen takes on Hikaru Nakamura today in Reykjavik, Iceland, as the 8-player FIDE World Fischer Random Championship begins. For the first three days the players are split into two groups, with the other group headed by Defending Champion Wesley So and World Championship Challenger Ian Nepomniachtchi.",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "Maurice: Everybody is Sensitive! Dude! | Round 13"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Cervantes in Round 13 of the 2022 U.S. Women's Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-another-opportunity-title-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9rzoHcGczrE.jpg?itok=YzRB6AB7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-another-opportunity-title-round-13",
-         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
-         "title" : "Jennifer Yu: Another Opportunity at the Title | Round 13"
-      },
-      {
          "description" : " There is one round left to play in the 2022 Asian Seniors, but the event has been hit by a covid outbreak. Round 8 saw a number of games unplayed (won/lost on forfeit) and it is unclear who will make it for the final round. As things stand IM Gary Lane holds a one point lead with 7.5/8 in the Over 50 event. The only player who can catch him is FM Arlan Cabe, who is on 6.5. FM Alexei Kulashko is in 3rd place on 6 points, and is hoping to finish in the top 3 to collect his 4th (or 5th) IM norm. In the over 65 event FM Efrem Bagamasbad also holds a 1 point lead, on 7/8. Miles Patterson is a point behind on 6, with FM Bob Smith and Hilton Bennett on 5.5. There has been a draft set of pairings r",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d6",
          "pubDate" : "Thu, 20 Oct 2022 02:05:00 +0100",
          "title" : "Aimchess Rapid: Duda knocks out Carlsen, will face Shakh in the final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush and Jennifer Yu are tied for first place after regulation. They compete in a G/10+2 match (Best-of-2) (blitz Armageddon if necessary) to determine the women&#039;s national champion, live from 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-womens-championship-playoff-krush-vs-yu-lichessorg\"><img s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-womens-championship-playoff-krush-vs-yu-lichessorg",
-         "pubDate" : "Thu, 20 Oct 2022 01:03:19 +0000",
-         "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu | lichess.org"
       },
       {
          "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
