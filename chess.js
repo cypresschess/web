@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows what he believes is the best attacking game from this year&#039;s U.S. Chess Championship. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-vs-so-best-attacks-us-champs-grandmasters-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robson-vs-so-best-attacks-us-champs-grandmasters-choice-gm-yuniesky-quesada",
+         "pubDate" : "Wed, 26 Oct 2022 04:07:18 +0000",
+         "title" : "Robson vs. So: Best Attacks at U.S. Champs! | Grandmaster's Choice - GM Yuniesky Quesada"
+      },
+      {
+         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakmaura won both matches of the day to lead Groups A and B at the 2022 Fischer Random World Championship on Tuesday. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nakamura won vs. GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
+         "pubDate" : "Tue, 25 Oct 2022 20:42:00 -0700",
+         "title" : "The Winding Wonderland of Fischer Random: Abdusattorov, Nakamura Lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attackin",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Awonder: Too Far Behind on Homework! | Round 13"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Maurice Ashley talks to Cristian Chirila during Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/maurice-everybody-sensitive-dude-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kxnkZHjyrpo.jpg?itok=EQQutdJ0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/maurice-everybody-sensitive-dude-round-13",
-         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
-         "title" : "Maurice: Everybody is Sensitive! Dude! | Round 13"
-      },
-      {
          "description" : " There is one round left to play in the 2022 Asian Seniors, but the event has been hit by a covid outbreak. Round 8 saw a number of games unplayed (won/lost on forfeit) and it is unclear who will make it for the final round. As things stand IM Gary Lane holds a one point lead with 7.5/8 in the Over 50 event. The only player who can catch him is FM Arlan Cabe, who is on 6.5. FM Alexei Kulashko is in 3rd place on 6 points, and is hoping to finish in the top 3 to collect his 4th (or 5th) IM norm. In the over 65 event FM Efrem Bagamasbad also holds a 1 point lead, on 7/8. Miles Patterson is a point behind on 6, with FM Bob Smith and Hilton Bennett on 5.5. There has been a draft set of pairings r",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1632,14 +1640,6 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-grandmaster-konstantin-landa/",
          "pubDate" : "Wed, 12 Oct 2022 07:34:51 +0000",
          "title" : "Rest in Peace Grandmaster Konstantin Landa"
-      },
-      {
-         "description" : "A day of decisive results with the black pieces ruled the sixth round of the 2022 U.S. Chess Championship on Tuesday. GM Fabiano Caruana was able to extend his lead to a full point after beating GM Elshan Moradiabadi while GMs Ray Robson and Dariu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-6",
-         "pubDate" : "Tue, 11 Oct 2022 19:55:00 -0700",
-         "title" : "Caruana Cracks Moradiabadi, Extends Lead"
       },
       {
          "description" : "",
