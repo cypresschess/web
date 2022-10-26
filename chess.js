@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first two rounds of mini-matches at the World Fischer Random Championship were played on Tuesday in Reykjavik. Nodirbek Abdusattorov (group A) and Hikaru Nakamura (group B) won both their mini-matches to take early leads. Nakamura defeated Magnus Carlsen in their direct matchup. The world champion had a faulty performance, as he blundered material both against Nakamura and Vladimir Fedoseev. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d1",
+         "pubDate" : "Wed, 26 Oct 2022 13:15:00 +0100",
+         "title" : "Fischer Random: The fun begins!"
+      },
+      {
+         "description" : "The FIDE World Team Championship 2022, aka the small Chess Olympiad, will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve team championship, including the best team by rating from each of the four Continents (Africa, Americas, Asia, Europe), five teams representing federations with the highest average ratings of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-team-chess-championship-2022/",
+         "pubDate" : "Wed, 26 Oct 2022 11:23:30 +0000",
+         "title" : "World Team Chess Championship 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2057",
+         "pubDate" : "Wed, 26 Oct 2022 11:01:03 +0000",
+         "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
+      },
+      {
+         "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-asian-continental-chess-championship-2022/",
+         "pubDate" : "Wed, 26 Oct 2022 10:03:39 +0000",
+         "title" : "LIVE GAMES : ASIAN CONTINENTAL CHESS CHAMPIONSHIP-2022"
+      },
+      {
+         "description" : "It wasn&#39;t a good first day for the Muzychuk sisters at the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco, as both lost their games as Black. GM Humpy Koneru found a nice tactic to quickly beat GM Anna Muzychuk, while GM Lei Tingjie defeated...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-1",
+         "pubDate" : "Wed, 26 Oct 2022 02:49:00 -0700",
+         "title" : "Koneru, Lei Beat Muzychuk Sisters As Women's Candidates Tournament Takes Off"
+      },
+      {
+         "description" : "The Fischer Random World Championship, which started yesterday in Reykjavik, is overshadowed by the Niemann lawsuit, in which Niemann sued Magnus Carlsen, Hikaru Nakamura, Daniel Rensch, chess.com and the Play Magnus Group for 100 million USD. Carlsen and Nakamura are playing in the World Championship, but did not want to comment on the lawsuit. However, the Icelandic Grandmaster Hj&ouml;rvar Gretarsson, who is a lawyer by profession and who also takes part in the Championship, commented the lawsuit and a game he had played against Niemann. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-about-niemann-s-lawsuit-i-focus-on-chess",
+         "pubDate" : "Wed, 26 Oct 2022 10:23:32 +0100",
+         "title" : "Carlsen about Niemann's lawsuit: \"I focus on chess\""
+      },
+      {
+         "description" : "The first day of play saw two rounds of two-game mini-matches in each group and the contours of the competition beginning to emerge. The big questions were who would adapt best to the challenges of the Fischer Random variant and if there would be any unexpectedly good form from the newcomers to the event. Replay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-and-nakamura-leaders-of-their-fischer-random-2022-groups-after-day-1/",
+         "pubDate" : "Wed, 26 Oct 2022 08:20:45 +0000",
+         "title" : "Abdusattorov and Nakamura - leaders of their Fischer Random 2022 groups after day 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows what he believes is the best attacking game from this year&#039;s U.S. Chess Championship. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-vs-so-best-attacks-us-champs-grandmasters-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +66,7 @@ news_feed (
          "title" : "Robson vs. So: Best Attacks at U.S. Champs! | Grandmaster's Choice - GM Yuniesky Quesada"
       },
       {
-         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakmaura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
+         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
@@ -136,14 +192,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/the-monster-mystery-bash-tournament-returns",
          "pubDate" : "Tue, 25 Oct 2022 16:08:12 +0000",
          "title" : "The Monster Mystery Bash Tournament returns"
-      },
-      {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
-         "pubDate" : "Tue, 25 Oct 2022 16:45:00 +0100",
-         "title" : "World Fischer Random Championship: Live"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen takes on Hikaru Nakamura today in Reykjavik, Iceland, as the 8-player FIDE World Fischer Random Championship begins. For the first three days the players are split into two groups, with the other group headed by Defending Champion Wesley So and World Championship Challenger Ian Nepomniachtchi.",
@@ -328,22 +376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-london-system-gm-sahaj-grover-gm-srinath-narayanan/",
          "pubDate" : "Mon, 24 Oct 2022 14:16:33 +0000",
          "title" : "The London System: GM Sahaj Grover & GM Srinath Narayanan"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jurisdiction-the-first-issue-of-the-niemann-carlsen-lawsuit/",
-         "pubDate" : "Mon, 24 Oct 2022 09:30:09 +0000",
-         "title" : "Jurisdiction: the first issue of the Niemann - Carlsen lawsuit"
-      },
-      {
-         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. Find all the information about the 2022 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-fischer-random-world-championship-live/",
-         "pubDate" : "Mon, 24 Oct 2022 08:55:08 +0000",
-         "title" : "2022 Fischer Random World Championship LIVE"
       },
       {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
@@ -1434,14 +1466,6 @@ news_feed (
          "title" : "Braille Chess Association 90th Anniversary"
       },
       {
-         "description" : "Under the name \"C-Squared\" Fabiano Caruana and Cristian Chirila recently launched a new chess podcast. Episode five featured Alejandro Ramirez, Costa Rica's first grandmaster, ChessBase author, trainer and popular commentator. The three talked about Ramirez's career, chess in Costa Rica, but above all about the Hans Niemann case. Asked whether he believes Niemann cheated when playing over-the-board, Ramirez said: \"It does seem very likely.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alejandro-ramirez-it-does-seem-very-likely-that-hans-cheated-over-the-board",
-         "pubDate" : "Fri, 14 Oct 2022 12:00:00 +0100",
-         "title" : "Alejandro Ramirez: \"It does seem very likely that Hans cheated over-the-board.\""
-      },
-      {
          "description" : " The 2022 World Junior Championship is being held on the island of Sardinia, Italy (somewhere I have always wanted to visit). There are 2 Australian representatives, FM Albert Winkelman in the Open, and Jody Middleton in the Girls. After 3 rounds, Winkelman is on 2/3, winning in both rounds 2&amp;3. He defeated IM Jagadeesh Siddarth, and will play IM Jose Veiga in round 4. Having started the event playing 3 IM's in 4 rounds, Winkelman is already well placed to aim for an IM norm from this tournament. Middleton is on 1/3, having also playing a tough (and titled) field. Showing the strength of this tournament, her round 4 opponent is 2138 WFM Laman Hajiyeva. You can follow the event at <a href",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "International and FIDE Delegate reports from Malcolm Pein"
       },
       {
-         "description" : "GM Hikaru Nakamura just keeps on winning Titled Tuesday, taking home the early tournament on October 11, his fourth straight week with at least one tournament victory. GM Magnus Carlsen finished in third place despite missing the first round, but ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-october-11-2022",
-         "pubDate" : "Wed, 12 Oct 2022 07:44:21 -0700",
-         "title" : "Nakamura And Carlsen Both Win In Day Of Strange Openings"
-      },
-      {
          "description" : " IM Raymond Song looks to have had a productive trip to Europe, scoring his 2nd and 3rd GM norms over the northern summer. In June he tied for 1st in the Silver Lake Open (Serbia) with 7/9, with a 2603 performance rating. After a few more events, he scored his 3rd norm at the October First Saturday event in Budapest, finishing on 7/9 and performing at 2610. Song, who formerly played for Australia (and NZ), now represents Chinese Taipei and only needs to get his rating above 2500 to confirm the title. Currently he is just short (by 3 points if I can add up correctly), and should be able to get his live rating above 2500 at his next event. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://chessimprover.com/self-inflicted-wounds-4/",
          "pubDate" : "Tue, 11 Oct 2022 10:00:51 +0000",
          "title" : "Self Inflicted Wounds (4)"
-      },
-      {
-         "description" : "It was not a good day for Indian team as India lost to Gold Medallist Turkey-Red in the final round of World Youth Olympiad and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/indian-team-finishes-5th-in-world-youth-under-16-chess-olympiad/",
-         "pubDate" : "Tue, 11 Oct 2022 08:15:09 +0000",
-         "title" : "Indian Team finishes 5th in World Youth (Under 16) Chess Olympiad."
       },
       {
          "description" : "",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-hans-niemann-cheated-more-than-100-times-claims-chess-platform/articleshow/94665185.cms",
          "pubDate" : "Wed, 05 Oct 2022 14:21:29 +0000",
          "title" : "Grandmaster Hans Niemann cheated 'more than 100' times, claims chess platform"
-      },
-      {
-         "description" : " <p class=\"lead\">A 72 page report by chesscom, initially revealed by <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524\">The Wall Street Journal</a>, showed that Hans Niemann has \"likely cheated\" more than 100 times online, but there is still a lack of concrete statistical evidence that he cheated in his game with Magnus at the Sinquefield Cup 2022 or in any other over-the-board game. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hans-Niemann-Magnus-Carlsen-cheating-chess-chesscom-report-investigation.jpeg\" width=\"1200\" height=\"675\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> After Ha",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hans-niemann-is-likely-over-after-new-cheating-evidence/",
-         "pubDate" : "Wed, 05 Oct 2022 10:45:25 +0000",
-         "title" : "Hans Niemann is \"likely\" over after new cheating evidence"
       }
    ]
 }
