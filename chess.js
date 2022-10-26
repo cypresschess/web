@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
+         "pubDate" : "Wed, 26 Oct 2022 16:45:00 +0100",
+         "title" : "World Fischer Random Championship: Live"
+      },
+      {
+         "description" : "GM Sam Shankland began Titled Tuesday with a 9/9 score before winning the early event with a score of 10/11. In the late event, a six-way tie for first place on nine points was not completely broken, leaving GMs Alexey Sarana and Bogdan-Daniel Dea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shankland-sarana-deac-win-titled-tuesday-october-25-2022",
+         "pubDate" : "Wed, 26 Oct 2022 08:09:04 -0700",
+         "title" : "Another Perfect Start Precedes Rare Tie"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95104273.cms\" />The All India Chess Federation (AICF) has claimed that records pertaining to a Right to Information (RTI) Act query by a player were destroyed by pests at its headquarters, leading to a rebuke from the Central Information Commission.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-claims-pests-destroyed-records-in-response-to-query-under-rti-act/articleshow/95104273.cms",
+         "pubDate" : "Wed, 26 Oct 2022 14:38:22 +0000",
+         "title" : "AICF claims pests destroyed records in response to query under RTI Act"
+      },
+      {
          "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "European Cities & Towns Chess Championship Registration opens!"
       },
       {
-         "description" : "The first four rounds of the Aimchess Rapid online tournament were played on Friday. Nodirbek Abdusattorov was the top scorer, as he collected three wins and a draw for a 10/12 score (wins are worth 3 points, draws are worth 1 point). Magnus Carlsen, Jan-Krzysztof Duda and Shakhriyar Mamedyarov are sharing second place on 7/12.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d1",
-         "pubDate" : "Sat, 15 Oct 2022 05:40:00 +0100",
-         "title" : "Aimchess Rapid: Abdusattorov gets off to a winning start"
-      },
-      {
          "description" : "GM Sam Shankland was the sole winner in round nine of the 2022 U.S. Championships on Friday after he defeated a struggling GM Christopher Yoo. Besides this game, the remainder of the encounters were drawn with remarkably high accuracy: an average ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1632,14 +1648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess",
          "pubDate" : "Wed, 12 Oct 2022 11:15:00 -0700",
          "title" : "Chess.com Launches Duck Chess, Seirawan Chess, Setup Chess"
-      },
-      {
-         "description" : "In a day marked by underdog dominance, GMs Teimour Radjabov and Nihal Sarin defeated the two 2023 World Championship challengers Ian Nepomniachtchi and Ding Liren in the 2022 Chess.com Global Championship round of 16, presented by Brave. Nihal and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-knockouts-r16-d4",
-         "pubDate" : "Wed, 12 Oct 2022 10:49:00 -0700",
-         "title" : "Underdogs Eliminate World Championship Challengers From CGC In Day Of Upsets"
       },
       {
          "description" : "",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-chess-club-cup-2022-round-3-report/",
          "pubDate" : "Thu, 06 Oct 2022 08:19:34 +0000",
          "title" : "European Chess Club Cup 2022 - Round 3 report"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94665185.cms\" />American international grandmaster Hans Niemann has \"probably cheated more than 100 times\" in online games, claims the chess platform chess.com in a report.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/grandmaster-hans-niemann-cheated-more-than-100-times-claims-chess-platform/articleshow/94665185.cms",
-         "pubDate" : "Wed, 05 Oct 2022 14:21:29 +0000",
-         "title" : "Grandmaster Hans Niemann cheated 'more than 100' times, claims chess platform"
       }
    ]
 }
