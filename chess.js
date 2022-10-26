@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Humpy Koneru got off to a perfect start in the FIDE Women's Candidates yesterday, scoring a beautiful 24-move win against Anna Muzychuk. Lei Tingjie also converted with White as she beat Anna's sister Mariya Muzychuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/women-s-candidates-starts-with-a-bang",
+         "pubDate" : "Wed, 26 Oct 2022 17:35:27 +0000",
+         "title" : "Women's Candidates starts with a bang"
+      },
+      {
          "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-95-queen-s-gambit-declined",
          "pubDate" : "Sun, 16 Oct 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 95: Queen's Gambit Declined"
-      },
-      {
-         "description" : "Uzbek wonderkid Nodirbek Abdusattorov clung onto a narrow lead in the $150,000 Aimchess Rapid as World Champion Magnus Carlsen suffered a shock defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-2-erigaisi-upsets-carlsen-as-abdusattorov-clings-onto-lead",
-         "pubDate" : "Sun, 16 Oct 2022 12:06:07 +0000",
-         "title" : "Aimchess Rapid Day 2: Erigaisi upsets Carlsen as Abdusattorov clings onto lead"
       },
       {
          "description" : "Today we want to know from Lilit what is happening one day before a tournament. When should you arrive? What happens if you had a bad sleep? Once you know your first opponent, how to prepare? The Armenian IM shows us the steps on how to do so, of course. We end the episode with a full analysis of her first game against the young, talented Filipa Pipiras, and how Lilit's plan to surprise her nicely succeeded.",
