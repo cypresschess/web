@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following their losses on opening day, the Muzychuk sisters both faced the Petroff Defence on Wednesday. Mariya could not get much of an advantage in her game against Lei Tingjie and ended up signing a 40-move draw. Anna, meanwhile, got in trouble in a sharp struggle against Humpy Koneru, but managed to escape with a draw in the end. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-r1g2",
+         "pubDate" : "Thu, 27 Oct 2022 01:10:00 +0100",
+         "title" : "Women's Candidates: A double-edged Petroff"
+      },
+      {
+         "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/",
+         "pubDate" : "Wed, 26 Oct 2022 22:25:36 +0000",
+         "title" : "European Senior Team Chess Championships 2022 open in Dresden"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2060",
+         "pubDate" : "Wed, 26 Oct 2022 22:22:51 +0000",
+         "title" : "FIDE World FR Championship: Home and away - a day of double duels"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2059",
+         "pubDate" : "Wed, 26 Oct 2022 21:32:12 +0000",
+         "title" : "Women's Candidates Pool A: A peaceful day at the office"
+      },
+      {
          "description" : "Humpy Koneru got off to a perfect start in the FIDE Women's Candidates yesterday, scoring a beautiful 24-move win against Anna Muzychuk. Lei Tingjie also converted with White as she beat Anna's sister Mariya Muzychuk.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "AICF claims pests destroyed records in response to query under RTI Act"
       },
       {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Wed, 26 Oct 2022 14:55:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
-      },
-      {
          "description" : "Hikaru Nakamura exploited a huge blunder by World Champion Magnus Carlsen to win their mini-match on Day 1 of the Fischer Random World Championship in Reykjavik. In the other group the headlines were stolen by 18-year-old Nodirbek Abdusattorov, who crushed Ian Nepomniachtchi 2:0 before also taking down defending champion Wesley So.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/improve-your-visualization/",
          "pubDate" : "Wed, 26 Oct 2022 12:30:00 +0000",
          "title" : "Supercharge Your Chess Visualization Skills"
-      },
-      {
-         "description" : "The first two rounds of mini-matches at the World Fischer Random Championship were played on Tuesday in Reykjavik. Nodirbek Abdusattorov (group A) and Hikaru Nakamura (group B) won both their mini-matches to take early leads. Nakamura defeated Magnus Carlsen in their direct matchup. The world champion had a faulty performance, as he blundered material both against Nakamura and Vladimir Fedoseev. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d1",
-         "pubDate" : "Wed, 26 Oct 2022 13:15:00 +0100",
-         "title" : "Fischer Random: The fun begins!"
       },
       {
          "description" : " In the pre-computer days, the most common way to improve at chess was to study games played by stronger players. So entrenched was this method that most \"How to Play Chess\" books included a collection of master games, usually with very light annotations. One example was from the Meises update to RF Green's \"Chess\". It included 33 games, including the following early example, from 1834. Given the lack of notes (or analysis) for the game, I suspect the expectation was that the reader would play through the game, and basically improve by self realisation. While this may sound unrealistic today, it was a method that seemed to work. <br /> <b>De Labourdonnais,Louis Charles Mahe - McDonnell,Alexa",
@@ -136,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/carlsen-about-niemann-s-lawsuit-i-focus-on-chess",
          "pubDate" : "Wed, 26 Oct 2022 10:23:32 +0100",
          "title" : "Carlsen about Niemann's lawsuit: \"I focus on chess\""
+      },
+      {
+         "description" : "The first two rounds of mini-matches at the World Fischer Random Championship were played on Tuesday in Reykjavik. Nodirbek Abdusattorov (group A) and Hikaru Nakamura (group B) won both their mini-matches to take early leads. Nakamura defeated Magnus Carlsen in their direct matchup. The world champion had a faulty performance, as he blundered material both against Nakamura and Vladimir Fedoseev. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d1",
+         "pubDate" : "Wed, 26 Oct 2022 10:15:00 +0100",
+         "title" : "Fischer Random: The fun begins!"
       },
       {
          "description" : "The first day of play saw two rounds of two-game mini-matches in each group and the contours of the competition beginning to emerge. The big questions were who would adapt best to the challenges of the Fischer Random variant and if there would be any unexpectedly good form from the newcomers to the event. Replay []",
