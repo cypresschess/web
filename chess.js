@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #539 Merijn van Delft looks at a remarkable and unusual endgame German Grandmaster Rasmus Svane played in the new season of the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-539-r-svane-vs-j-krassowizkij",
+         "pubDate" : "Thu, 27 Oct 2022 10:00:00 +0100",
+         "title" : "Game of the Week #539: R. Svane vs J. Krassowizkij"
+      },
+      {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
-         "pubDate" : "Wed, 26 Oct 2022 23:15:36 -0700",
+         "pubDate" : "Wed, 26 Oct 2022 23:15:00 -0700",
          "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
       },
       {
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://aicf.in/asian-youth-chess-championship-2022/",
          "pubDate" : "Sat, 15 Oct 2022 08:56:35 +0000",
          "title" : "ASIAN YOUTH CHESS CHAMPIONSHIP - 2022"
-      },
-      {
-         "description" : "When you find the winning move White played in the diagrammed position, the rest will be be easy - enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finding-happiness",
-         "pubDate" : "Sat, 15 Oct 2022 09:00:00 +0100",
-         "title" : "Finding happiness"
       },
       {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
