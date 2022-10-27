@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "About a week ago Karsten M&uuml;ller invited readers of his latest endgame riddle to take a close look at the 34th game of the World Championship match between Alexander Alekhine and Jos&eacute; Ra&uacute;l Capablanca in Buenos Aires 1927. It was the last and the decisive game of the match - Alekhine won in an instructive rook ending. Zoran Petronijevic and Wolfram Sch&ouml;n had a very close look at this historically important game and present interesting discoveries. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-solved-capablanca-missed-several-drawing-opportunities",
+         "pubDate" : "Thu, 27 Oct 2022 13:00:00 +0100",
+         "title" : "Riddle solved: Capablanca missed several drawing opportunities"
+      },
+      {
+         "description" : "On 24 February 2022, Russia began its invasion of Ukraine and war has been raging in the country ever since, and Kiev, the capital of Ukraine, has been the target of repeated airstrikes. But the Ukrainians still play chess. Mikhail Golubev sends a report about a small but remarkable tournament: the 1st Anfield Cup. | Photo: Lana Chess Photography",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-despite-the-war-the-anfield-cup-in-kyiv",
+         "pubDate" : "Thu, 27 Oct 2022 12:00:00 +0100",
+         "title" : "Chess despite the war: The Anfield Cup in Kyiv"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2057",
+         "pubDate" : "Thu, 27 Oct 2022 09:01:03 +0000",
+         "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #539 Merijn van Delft looks at a remarkable and unusual endgame German Grandmaster Rasmus Svane played in the new season of the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/world-team-chess-championship-2022/",
          "pubDate" : "Wed, 26 Oct 2022 11:23:30 +0000",
          "title" : "World Team Chess Championship 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2057",
-         "pubDate" : "Wed, 26 Oct 2022 11:01:03 +0000",
-         "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
       },
       {
          "description" : "Speed chess is defined as blitz chess, lightning chess, or bullet chess. Esipenko and Gelfand bring it to another level in this #TweetOftheDay by Olimpiu Urcan aka Olimpiu Di Luppi. More from Tweet of the day section / More news on Esipenko / More news on Gelfand",
@@ -1458,28 +1474,12 @@ news_feed (
          "title" : "Niemann Wins: 'A Comeback Is Brewing'"
       },
       {
-         "description" : "Arjun Erigaisi was the top scorer on day 2 of the Aimchess Rapid. The Indian prodigy collected three wins and a draw and, in round 7, achieved his first-ever victory over world champion Magnus Carlsen. Thanks to his performance on Saturday, Arjun climbed to shared fourth place, two points behind sole leader Nodirbek Abdusattorov. Carlsen and Shakhriyar Mamedyarov are sharing second place a point behind the young Uzbek. | Photo: Amruta Mokal / 2022 Chess Olympiad",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d2",
-         "pubDate" : "Sun, 16 Oct 2022 02:10:00 +0100",
-         "title" : "Aimchess Rapid: Arjun beats Carlsen, Abdusattorov leads"
-      },
-      {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/henry-ii-thomas-becket-and-the-royal-game/",
          "pubDate" : "Sat, 15 Oct 2022 15:48:12 +0000",
          "title" : "Henry II, Thomas Becket and the Royal Game"
-      },
-      {
-         "description" : "After nine rounds, Fabiano Caruana and Jennifer Yu are the sole leaders at the U.S. Championship and U.S. Women's Championship, respectively. Caruana drew with Awonder Liang after the latter continued the trend of playing offbeat openings in Saint Louis, while Jennifer Yu defeated Ashritha Eswaran in what was her sixth victory of the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r9",
-         "pubDate" : "Sat, 15 Oct 2022 15:00:00 +0100",
-         "title" : "U.S. Championships: Yu retakes the sole lead"
       },
       {
          "description" : "Round 4 in World Junior Chess Championship 2022 saw an Indian battle between IM Prraneeth Vuppala &#38; FM Rohith Krishna S. The game started from",
@@ -1920,22 +1920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-european-club-cup.html",
          "pubDate" : "Thu, 06 Oct 2022 12:29:00 +0000",
          "title" : "2022 European Club Cup"
-      },
-      {
-         "description" : "The report also noted that four of the top 100 in the world admitted to cheating on Chess.com's platform.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34737621/after-magnus-carlsen-allegations-report-claims-hans-niemann-likely-cheated-100-s?device=featurephone",
-         "pubDate" : "Thu, 6 Oct 2022 05:56:07 -0500",
-         "title" : "After Carlsen allegations, report claims Niemann 'likely cheated' over 100 times"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2025",
-         "pubDate" : "Thu, 06 Oct 2022 10:14:03 +0000",
-         "title" : "2022 U.S. Championships kick off in St. Louis"
       }
    ]
 }
