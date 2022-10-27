@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris will have a look at a brilliant sacrifice in the Caro-Kann Advance Variation, which helped Pavel Eljanov to a fine win in the German Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-brilliant-sacrifice",
+         "pubDate" : "Thu, 27 Oct 2022 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A brilliant sacrifice"
+      },
+      {
+         "description" : "The ECF is very sad to learn of the passing last night of International Master Michael Basman. Michael was a renowned English chess player, author...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-master-michael-basman-rip/",
+         "pubDate" : "Thu, 27 Oct 2022 17:09:52 +0000",
+         "title" : "International Master Michael Basman RIP"
+      },
+      {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
+         "pubDate" : "Thu, 27 Oct 2022 16:45:00 +0100",
+         "title" : "World Fischer Random Championship: Live"
+      },
+      {
+         "description" : "Reigning Fischer Random World Champion Wesley So confessed he'd never read the rules after he lost to Ian Nepomniachtchi in 19 moves when he was unable to castle while in check. Nodirbek Abdusattorov has already qualified for the semi-finals, so that either Ian or Wesley will be knocked out, while Magnus Carlsen had a good day to catch Hikaru Nakamura in the Group B lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fischer-random-2-wesley-so-tries-to-castle-illegally",
+         "pubDate" : "Thu, 27 Oct 2022 12:30:12 +0000",
+         "title" : "Fischer Random 2: Wesley So tries to castle illegally"
+      },
+      {
          "description" : "About a week ago Karsten M&uuml;ller invited readers of his latest endgame riddle to take a close look at the 34th game of the World Championship match between Alexander Alekhine and Jos&eacute; Ra&uacute;l Capablanca in Buenos Aires 1927. It was the last and the decisive game of the match - Alekhine won in an instructive rook ending. Zoran Petronijevic and Wolfram Sch&ouml;n had a very close look at this historically important game and present interesting discoveries. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-despite-the-war-the-anfield-cup-in-kyiv",
          "pubDate" : "Thu, 27 Oct 2022 12:00:00 +0100",
          "title" : "Chess despite the war: The Anfield Cup in Kyiv"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The English IM, off-beat opening creator and initiator of the <strong>UK Chess Challenge</strong>, a nationwide scholastic tournament, <strong>Michael Basman</strong> <a href=\"https://twitter.com/Delancey_UKCC/status/1585590038678671361\">has passed away</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/mike-basman-1946-2022/",
+         "pubDate" : "Thu, 27 Oct 2022 11:51:30 +0100",
+         "title" : "Mike Basman (1946-2022)"
       },
       {
          "description" : "",
@@ -54,8 +94,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
-         "pubDate" : "Thu, 27 Oct 2022 01:08:04 -0700",
+         "pubDate" : "Thu, 27 Oct 2022 01:08:00 -0700",
          "title" : "Koneru Misses Win On Day Of Draws"
+      },
+      {
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Thu, 27 Oct 2022 06:59:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
@@ -520,14 +568,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/elon-musk-calls-garry-kasparov-a-douche-and-an-idiot-all-because/",
          "pubDate" : "Mon, 24 Oct 2022 15:00:00 +0000",
          "title" : "Elon Musk calls Garry Kasparov a \"douche\" and \"an idiot\". All because of his peace plan"
-      },
-      {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Mon, 24 Oct 2022 05:59:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
@@ -1154,14 +1194,6 @@ news_feed (
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> By reaching the semifinal of the <strong>Aimchess Masters</strong>, <strong>Magnus Carlsen</strong> <a href=\"https://new.chess24.com/wall/news/arise-king-carlsen-norwegian-wins-meltwater-champions-chess-tour-2022-with-event-to-spare\">wins</a> the <strong>2022 Meltwater Champions Chess Tour</strong> ahead of the final event in November. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-seals-third-tour-victory/",
-         "pubDate" : "Tue, 18 Oct 2022 21:14:05 +0100",
-         "title" : "Carlsen seals third tour victory"
-      },
-      {
          "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,30 +1432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-r10",
          "pubDate" : "Sun, 16 Oct 2022 16:15:00 +0100",
          "title" : "U.S. Championships: Niemann plays 'psychotic chess', wins"
-      },
-      {
-         "description" : "Hans Niemann beat Elshan Moradiabadi to score the only win of Round 10 of the Open section of the US Chess Championship. \"I'm a competitive chess player on the path to becoming a World Champion,\" was how Hans described himself after finding a knockout blow at the end of the game. The Women's section was vastly more combative, but only Thalia Cervantes and Gulrukhbegim Tokhirjonova won to move within a point of the leader Jennifer Yu.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-champs-10-niemann-on-path-to-become-world-champion",
-         "pubDate" : "Sun, 16 Oct 2022 14:04:47 +0000",
-         "title" : "US Champs 10: Niemann \"on path to become World Champion\""
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 95th instalment of his ChessBase show \"Understanding before Moving\", Herman discusses structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-95-queen-s-gambit-declined",
-         "pubDate" : "Sun, 16 Oct 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 95: Queen's Gambit Declined"
-      },
-      {
-         "description" : "Today we want to know from Lilit what is happening one day before a tournament. When should you arrive? What happens if you had a bad sleep? Once you know your first opponent, how to prepare? The Armenian IM shows us the steps on how to do so, of course. We end the episode with a full analysis of her first game against the young, talented Filipa Pipiras, and how Lilit's plan to surprise her nicely succeeded.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-2",
-         "pubDate" : "Sun, 16 Oct 2022 13:00:00 +0100",
-         "title" : "Lilit Mkrtchian (2) - How to prepare against your first tournament opponent and succeed"
       },
       {
          "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
@@ -1904,22 +1912,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
          "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
          "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
-      },
-      {
-         "description" : "In <A HREF=\"http://chessforallages.blogspot.com/2022/08/2022-cja-awards-part-2.html\">2022 CJA Awards - Part 2</A>(August 2022), I promised a follow-up:- <BLOCKQUOTE>In 'Part 1' I ended the post saying, \"There is so much to discuss this year that I might even squeeze out a 'Part 3'.\" Here are a few ideas for 'Part 3', '-4', and so on, no squeeze necessary. [...] </BLOCKQUOTE> <P>The first idea was 'Winners of multiple awards (e.g. Soltis [x4], Spanier [x4], and Donaldson [x3])', where I've added, e.g. '[x4]' to show how many awards each of them won. Although the numbers add up to 11 awards, Spanier and Donaldson were named jointly on one award:- <BLOCKQUOTE>Honorable Mention; Best Story of th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/2022-cja-awards-part-3.html",
-         "pubDate" : "Thu, 06 Oct 2022 15:44:00 +0000",
-         "title" : "2022 CJA Awards - Part 3"
-      },
-      {
-         "description" : " The 2022 edition of the European Club Cup has attracted plenty of media attention, due in part to the participation of World Champion Magnus Carlsen and FIDE Deputy President Vishwanathan Anand. This year sees over 70 teams taking part in the Open and Women's section, in part due to the rule that each federation can send up to 5 teams. While this has increased the number of teams taking part, it has also seen a few Australian players sneak in as well. The Celtic Tigers team has both Fedja Zulfic and Chris Skulte playing for them, with the team scoring 1 win and 2 losses after 3 rounds. Round 2 saw Zulfic draw against his higher rated opponent, in a very combative game. <br /> <b>Zulfic,Fedj",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-european-club-cup.html",
-         "pubDate" : "Thu, 06 Oct 2022 12:29:00 +0000",
-         "title" : "2022 European Club Cup"
       }
    ]
 }
