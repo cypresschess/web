@@ -10,6 +10,30 @@ news_feed (
          "title" : "Game of the Week #539: R. Svane vs J. Krassowizkij"
       },
       {
+         "description" : "The Asian Continental Chess Championship 2022 got off to a rousing start at Leela Ambience Convention Hotel on Wednesday. 140 players from 13 Asian countries which include 31 Grandmasters, 46 International Masters, 14 Women Grandmasters and 17 Women International Masters (see all participants Open section / all participants Women section) are participating in this nine []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rating-favorites-with-tough-start-at-asian-continental-2022/",
+         "pubDate" : "Thu, 27 Oct 2022 08:33:53 +0000",
+         "title" : "Rating favorites with tough start at Asian Continental 2022"
+      },
+      {
+         "description" : "The pairings are the simplest aspect of today's group stages, as the players face off four times against the same opponent, in two mini-matches, as the contest transitions into the return matches from rounds 3 to 4. Even though the match-ups repeat, the mini-matches were played from two different starting positions. Replay the games of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-is-the-first-to-qualify-for-the-fischer-random-semi-finals/",
+         "pubDate" : "Thu, 27 Oct 2022 08:23:43 +0000",
+         "title" : "Abdusattorov is the first to qualify for the Fischer Random semi-finals"
+      },
+      {
+         "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
+         "pubDate" : "Thu, 27 Oct 2022 01:08:04 -0700",
+         "title" : "Koneru Misses Win On Day Of Draws"
+      },
+      {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join Hikaru Nakamura―who was held to t...",
+         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join GM Hikaru Nakamura―who was held t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
@@ -384,22 +408,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/",
          "pubDate" : "Tue, 25 Oct 2022 10:07:09 +0000",
          "title" : "FIDE World Fischer Random Chess Championship Finals opened in Reykjavik"
-      },
-      {
-         "description" : "The ground-breaking Challengers Chess Tour reaches its climax with the end-of-season Final Four event this weekend featuring four of the top rising talents in the game. Grandmasters Andrey Esipenko, Pranav Venkatesh, Raunak Sadhwani and 13-year-old International Master Ihor Samunenkov will bid for the title in a two-day blitz knockout. The semi-finals on Saturday will see []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/challengers-chess-tour-final-four-esipenko-pranav-sadhwani-and-samunenkov-go-for-title/",
-         "pubDate" : "Tue, 25 Oct 2022 09:16:00 +0000",
-         "title" : "Challengers Chess Tour Final Four: Esipenko, Pranav, Sadhwani and Samunenkov go for title"
-      },
-      {
-         "description" : "Wesley So, Magnus Carlsen, Hikaru Nakamura, Hjorvar Steinn Gretarsson, Ian Nepomniachtchi, Matthias Bl&#xFC;baum, Vladimir Fedoseev, and Olympic Champion Nodirbek Abdusattorov will compete in the 2022 edition of the FIDE Fischer Random Chess Championship 2022. The event will take place at the Berjaya Reykjavik Natura Hotel, Iceland, 25-30 October 2022. The Fischer Random Chess 2022 boasts []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fischer-random-chess-2022-pairings/",
-         "pubDate" : "Tue, 25 Oct 2022 09:04:25 +0000",
-         "title" : "Fischer Random Chess 2022 - pairings"
       },
       {
          "description" : "Pawn endings should be calculated very carefully. In the diagrammed position it is White to move and draw. How?",
@@ -1658,14 +1666,6 @@ news_feed (
          "title" : "Caruana, Robson Win Again, Dominguez Records 10-Move Victory"
       },
       {
-         "description" : "GM Konstantin Landa has passed away at the age of 50, after a long struggle with cancer. The news was confirmed by the Russian Chess Federation. Landa was born May 22, 1972 in Omsk, a city in southwestern Siberia. He got his first chess lessons ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/konstantin-landa-1972-2022",
-         "pubDate" : "Wed, 12 Oct 2022 12:59:00 -0700",
-         "title" : "Konstantin Landa, 1972-2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1936,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2025",
          "pubDate" : "Thu, 06 Oct 2022 10:14:03 +0000",
          "title" : "2022 U.S. Championships kick off in St. Louis"
-      },
-      {
-         "description" : "Three rounds have been already played at the 37th European Chess Club Cup and the 26th European Women's Club Cup in Mayrhofen, Austria with six teams in the Open section and two teams in the Women's section emerging on the top with the perfect score of 6 match points. With no major upsets, most of the favorites scored&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-chess-club-cup-2022-round-3-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-club-cup-2022-round-3-report/",
-         "pubDate" : "Thu, 06 Oct 2022 08:19:34 +0000",
-         "title" : "European Chess Club Cup 2022 - Round 3 report"
       }
    ]
 }
