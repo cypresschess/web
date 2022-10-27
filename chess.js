@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2064",
+         "pubDate" : "Thu, 27 Oct 2022 23:01:27 +0000",
+         "title" : "2022 FIDE World Amateur Championship enters final stretch"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2063",
+         "pubDate" : "Thu, 27 Oct 2022 22:08:13 +0000",
+         "title" : "FIDE World FR Chess Championship: Carlsen, Nakamura and Nepomniachtchi reach semifinals - reigning champion So dethroned"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2062",
+         "pubDate" : "Thu, 27 Oct 2022 21:00:30 +0000",
+         "title" : "Monaco Chess Club: Rich history and honourable traditions"
+      },
+      {
          "description" : "This week Robert Ris will have a look at a brilliant sacrifice in the Caro-Kann Advance Variation, which helped Pavel Eljanov to a fine win in the German Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1936,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credibility-test-in-st-louis-as-cheating-saga-continues",
          "pubDate" : "Fri, 07 Oct 2022 07:00:52 +0000",
          "title" : "Chess: Niemann faces credibility test in St Louis as cheating saga continues"
-      },
-      {
-         "description" : "The Hans Niemann-Magnus Carlsen feud sheds light on the growing crisis that artifcial intelligence poses to chess -- and puts the future of the game in doubt.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/34736588/inside-chess-cheating-scandal-fight-soul-game?device=featurephone",
-         "pubDate" : "Thu, 6 Oct 2022 18:14:54 -0500",
-         "title" : "Inside the chess cheating scandal and the fight for the soul of the game"
       }
    ]
 }
