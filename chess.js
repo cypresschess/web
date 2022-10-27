@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
+         "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
+         "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join Hikaru Nakamura―who was held to t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
+         "pubDate" : "Wed, 26 Oct 2022 23:15:36 -0700",
+         "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov, the youngest participant in Reykjavik, became the first player to secure a spot in the semis of the World Fischer Random Championship. The 18-year-old has a perfect 8/8 score (in match points) and has only drawn one game so far in the event. Abdusattorov's qualification means either Wesley So or Ian Nepomniachtchi will be eliminated in group A. Meanwhile, in group B, Magnus Carlsen and Hikaru Nakamura are sharing the lead, two match points ahead of Vladimir Fedoseev. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d2",
+         "pubDate" : "Thu, 27 Oct 2022 07:10:00 +0100",
+         "title" : "Fischer Random: Abdusattorov reaches semis with two rounds to spare"
+      },
+      {
          "description" : "Following their losses on opening day, the Muzychuk sisters both faced the Petroff Defence on Wednesday. Mariya could not get much of an advantage in her game against Lei Tingjie and ended up signing a 40-move draw. Anna, meanwhile, got in trouble in a sharp struggle against Humpy Koneru, but managed to escape with a draw in the end. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/women-s-candidates-starts-with-a-bang",
          "pubDate" : "Wed, 26 Oct 2022 17:35:27 +0000",
          "title" : "Women's Candidates starts with a bang"
-      },
-      {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
-         "pubDate" : "Wed, 26 Oct 2022 16:45:00 +0100",
-         "title" : "World Fischer Random Championship: Live"
       },
       {
          "description" : "GM Sam Shankland began Titled Tuesday with a 9/9 score before winning the early event with a score of 10/11. In the late event, a six-way tie for first place on nine points was not completely broken, leaving GMs Alexey Sarana and Bogdan-Daniel Dea...",
@@ -1666,14 +1682,6 @@ news_feed (
          "title" : "FIDE World Junior Chess Championship kicks off in Cala Gonone, Sardinia"
       },
       {
-         "description" : "Chess.com is pleased to announce that you can now play three exciting chess variants on our website: Duck Chess, Seirawan Chess, and Setup Chess. Head over to our Variants page to try these and other chess variants now! Chess variants give pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess",
-         "pubDate" : "Wed, 12 Oct 2022 11:15:00 -0700",
-         "title" : "Chess.com Launches Duck Chess, Seirawan Chess, Setup Chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/i-never-had-guts.html",
          "pubDate" : "Tue, 11 Oct 2022 12:27:00 +0000",
          "title" : "I never had the guts"
-      },
-      {
-         "description" : "Asian Junior Chess Championships 2022 (for Open &#38; Girls under 20) to be held at Tagaytay City, Philippines from 17th 26th November, 2022 and players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-and-girls-chess-championships-from-17th-to-26th-november-2022-to-be-held-at-tagaytay-city-philippines/",
-         "pubDate" : "Tue, 11 Oct 2022 10:39:39 +0000",
-         "title" : "Asian Juniors and Girls Chess Championships from 17th to 26th November 2022 to be held at Tagaytay City, Philippines"
       },
       {
          "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World It is rather easy to spot mistakes played by others while you are watching their games. Their level matters for sure; however, many a time you can <a href=\"https://chessimprover.com/self-inflicted-wounds-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-4/\">Self Inflicted Wounds (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
