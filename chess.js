@@ -10,6 +10,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A brilliant sacrifice"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2061",
+         "pubDate" : "Thu, 27 Oct 2022 17:42:10 +0000",
+         "title" : "FIDE increases prize fund for World Senior Chess Championship"
+      },
+      {
          "description" : "The ECF is very sad to learn of the passing last night of International Master Michael Basman. Michael was a renowned English chess player, author...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
