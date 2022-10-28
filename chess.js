@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The group stage of the World Fischer Random Championship came to an end on Thursday. Besides Nodirbek Abdusattorov, who secured his spot in semis on the second day of action, Magnus Carlsen, Hikaru Nakamura and Ian Nepomniachtchi moved on to the knockout stage by finishing among the top two in each group. In Saturday's semis, Abdusattorov will face Nakamura, while Carlsen and Nepomniachtchi will play a rematch of last year's confrontation for the Classical World Championship title. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d3",
+         "pubDate" : "Fri, 28 Oct 2022 01:40:00 +0100",
+         "title" : "Fischer Random: Carlsen and Nepo to face off in semis"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-master-michael-basman-rip/",
          "pubDate" : "Thu, 27 Oct 2022 17:09:52 +0000",
          "title" : "International Master Michael Basman RIP"
-      },
-      {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup includes defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
-         "pubDate" : "Thu, 27 Oct 2022 16:45:00 +0100",
-         "title" : "World Fischer Random Championship: Live"
       },
       {
          "description" : "Reigning Fischer Random World Champion Wesley So confessed he'd never read the rules after he lost to Ian Nepomniachtchi in 19 moves when he was unable to castle while in check. Nodirbek Abdusattorov has already qualified for the semi-finals, so that either Ian or Wesley will be knocked out, while Magnus Carlsen had a good day to catch Hikaru Nakamura in the Group B lead.",
