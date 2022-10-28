@@ -10,6 +10,14 @@ news_feed (
          "title" : "Are security measures at chess tournaments ineffective?"
       },
       {
+         "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100,000 lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
+         "pubDate" : "Fri, 28 Oct 2022 07:00:22 +0000",
+         "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
+      },
+      {
          "description" : "The Fischer Random World Chess Championship 2022 will have a new champion. Wesley So did not manage to go out of the groups, finishing 3rd in the group stage. However, this takes away just a pinch of the excitement, as the semi finals will see the participants in the last World Chess Championship the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
-         "pubDate" : "Thu, 27 Oct 2022 22:20:04 -0700",
+         "pubDate" : "Thu, 27 Oct 2022 22:20:00 -0700",
          "title" : "Fischer's Vision Alive in Reykjavik: Abdusattorov, Carlsen at the Top"
       },
       {
@@ -1928,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2026",
          "pubDate" : "Fri, 07 Oct 2022 10:57:28 +0000",
          "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
-      },
-      {
-         "description" : " The controversial 19-year-old won his opening round at the US championship, then described the game as 'beautiful' Hans Niemann, the 19-year-old who has confessed to cheating in online games but denies any illegalities over the board, faces a crucial credibility test at St Louis on his US Championship debut. The organisers have beefed up security, with spectators barred, a new metal detector to frisk players and a 30-minute delay before the games are displayed to online viewers. Live <a href=\"https://uschesschamps.com/2022-us-championships/2022-us-championship\" title=\"\">online coverage</a> now starts at 7.30pm. <a href=\"https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/oct/07/chess-niemann-faces-credibility-test-in-st-louis-as-cheating-saga-continues",
-         "pubDate" : "Fri, 07 Oct 2022 07:00:52 +0000",
-         "title" : "Chess: Niemann faces credibility test in St Louis as cheating saga continues"
       }
    ]
 }
