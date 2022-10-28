@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2066",
+         "pubDate" : "Fri, 28 Oct 2022 20:56:11 +0000",
+         "title" : "Women's Candidates Pool A: The tension is rising"
+      },
+      {
          "description" : "Apart from the usual problems, Daniel King looks at a sensational attacking game played by Nodirbek Abdusattorov, the 18-year-old star from Uzbekistan. The initiative is everything. Apart from the attack itself, there is particular focus on the opening - a London System - and the subtleties involved in exchanging off THAT bishop. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-leon-mendonca-takes-lead-in-open-section-10-players-share-top-spot-in-womens-event/articleshow/95150515.cms",
          "pubDate" : "Fri, 28 Oct 2022 15:27:32 +0000",
          "title" : "Asian Chess: Leon Mendonca takes lead in Open section, 10 players share top spot in women's event"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Fri, 28 Oct 2022 14:55:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
       },
       {
          "description" : " In Michael Stean's classic \"Simple Chess\" he points out that open files don't always operate on a \"first come, first serve\" basis. As Nimzovitch first pointed out, the role of the open file is to get your rook to the 7th or 8th rank. In this game from the current Bangkok Open, GM Hrant Melkumyan demonstrates this quite effectively, opening a file that his opponent already has a rook on, but one without entry points into Black's position. After the Black rook moves to b8, it is Black that not only takes over the b file, but also the 7th and 8th ranks. After that, White is forced to defend a host of weak pawns, which eventually, he is unable to do. <br /> <b>Markovitz,Neil (1962) - Melkumyan,",
@@ -141,14 +141,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2064",
-         "pubDate" : "Thu, 27 Oct 2022 23:01:27 +0000",
-         "title" : "2022 FIDE World Amateur Championship enters final stretch"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2063",
          "pubDate" : "Thu, 27 Oct 2022 22:08:13 +0000",
          "title" : "FIDE World FR Chess Championship: Carlsen, Nakamura and Nepomniachtchi reach semifinals - reigning champion So dethroned"
@@ -158,8 +150,16 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2062",
-         "pubDate" : "Thu, 27 Oct 2022 21:00:30 +0000",
+         "pubDate" : "Thu, 27 Oct 2022 22:00:30 +0000",
          "title" : "Monaco Chess Club: Rich history and honourable traditions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2064",
+         "pubDate" : "Thu, 27 Oct 2022 21:25:27 +0000",
+         "title" : "2022 FIDE World Amateur Championship enters final stretch"
       },
       {
          "description" : "This week Robert Ris will have a look at a brilliant sacrifice in the Caro-Kann Advance Variation, which helped Pavel Eljanov to a fine win in the German Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1440,6 +1440,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/frederik-svane-leads-at-world-junior-championship",
          "pubDate" : "Tue, 18 Oct 2022 09:52:37 +0100",
          "title" : "Frederik Svane leads at World Junior Championship"
+      },
+      {
+         "description" : "One of the most surprising discoveries in the 6-piece tablebase concerned the endgame Q+g+h pawn vs queen, which often is a theoretical draw when the defender is well placed. However, in a practical game with limited time, the endgame is usually too difficult to hold. The diagrammed position occurred in a game between M. Carlsen and G. Meier, played at the Chess Olympiad 2022. Black lost, but he could have drawn. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-tablebase-sensation",
+         "pubDate" : "Tue, 18 Oct 2022 09:00:00 +0100",
+         "title" : "The tablebase sensation"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
