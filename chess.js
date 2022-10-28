@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess Olympiad 2022: Review with analyses by more than 20 players - Ivan Sokolov's writes about \"Steps to Gold\" - \"Special\" on World Championship candidate Ding Liren: exclusive collection of 18 annotated games + contributions on strategy and endgame - \"The Indian Gambit\": Daniel King presents a fresh and exciting idea in the English Opening: 1.c4 e5 2.Sc3 Sf6 3.Sf3 e4 4.Sg5 c6!? (Video) - \"Practical Tips for the Tournament Player\" Episode 3: How to play against a stronger opponent (Video by Jan Markos + small collection of exercises) - \"Full Throttle in the Open Spanish\": Robert Ris examines the highly topical Dilworth Variation, and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-210",
+         "pubDate" : "Fri, 28 Oct 2022 13:00:00 +0100",
+         "title" : "New: ChessBase Magazine #210"
+      },
+      {
          "description" : "The world champion Svitlana is talking about today, is one of the world's best chess players, since the late 80s. The five-time world chess champion has played some gorgeous games, and we will take a look at two of them. Anand beat Aronian with the Black pieces in 2013, and it is one of Svitlana's favourite games used for teaching. The second game is from 1997 against Joel Lautier, and Anand managed to trap the opponent's bishop for the whole game, without ever having the need to capture it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1442,14 +1450,6 @@ news_feed (
          "title" : "Gukesh, Erigaisi are very, very strong players: Chess legend Anand"
       },
       {
-         "description" : "There are several ways to check a player's performance using an engine. One is to simply ask an engine to analyze every move and highlight every disagreement however small. Another is to use the tool in ChessBase and Fritz known as Let's Check. Here are the results from the recent Sinquefield Cup including a 100% match and the curiously high results by...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-check-the-elite-are-better-than-you-know",
-         "pubDate" : "Mon, 17 Oct 2022 13:02:42 +0100",
-         "title" : "Let's Check: the elite are better than you know"
-      },
-      {
          "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/smooth-as-silk.html",
          "pubDate" : "Fri, 07 Oct 2022 12:39:00 +0000",
          "title" : "Smooth as silk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2026",
-         "pubDate" : "Fri, 07 Oct 2022 10:57:28 +0000",
-         "title" : "FIDE World Youth U-16 Chess Olympiad 2022 crosses halfway"
       }
    ]
 }
