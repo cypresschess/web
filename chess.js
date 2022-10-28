@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the last several weeks, the world of chess has been rocked by the accusations and allegations of cheating with the help of a computer. The idea is not new of course, but it might shock you to know the very first case of surreptitiously using a computer in a game against a grandmaster dates all the way back to 1980. You won't believe who were responsible! Here is the original video footage of the pioneers in action.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-pioneers-of-cheating-in-chess",
+         "pubDate" : "Fri, 28 Oct 2022 17:00:00 +0100",
+         "title" : "The Pioneers of Cheating in Chess"
+      },
+      {
          "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1434,6 @@ news_feed (
          "title" : "Sevian Still In Contention After Beating Swiercz"
       },
       {
-         "description" : "The final three rounds of the Aimchess Rapid preliminaries were played on Monday. Eight out of sixteen players moved on to the knockout, with Jan-Krzysztof Duda the top scorer in the single round-robin. Suspense regarding who would make it through was limited to two players, as Anish Giri and Vidit Gujrathi entered the fifteenth round with chances of getting the coveted eighth spot in the knockout. In the end, it was Vidit who advanced to the quarterfinals, mainly thanks to Arjun Erigaisi's victory over Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d4",
-         "pubDate" : "Tue, 18 Oct 2022 03:35:00 +0100",
-         "title" : "Aimchess Rapid: Duda wins prelims, Vidit makes it through"
-      },
-      {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1920,22 +1920,6 @@ news_feed (
          "link" : "https://www.thearticle.com/when-dinosaurs-ruled-the-chessboard/",
          "pubDate" : "Sat, 08 Oct 2022 07:04:03 +0000",
          "title" : "When dinosaurs ruled the chessboard"
-      },
-      {
-         "description" : "Last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/09/fischer-thats-my-answer.html\">Fischer: 'That's my answer'</A>(September 2022), covered the start of the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(m-w.com). At the pre-match press conference Fischer said, <BLOCKQUOTE>\"I'll start off with, umm, ah, some impudent questions from The New York Times [Roger Cohen].\" </BLOCKQUOTE> <P>Roger Cohen wasn't some random chess journalist. His Wikipedia page <A HREF=\"https://en.wikipedia.org/wiki/Roger_Cohen\">Roger Cohen</A>(wikipedia.org) starts, <BLOCKQUOTE>Roger Cohen (born 2 August 1955) is a journalist and author. He was a reporter, e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/roger-cohen-foreign-correspondent.html",
-         "pubDate" : "Fri, 07 Oct 2022 15:28:00 +0000",
-         "title" : "Roger Cohen, Foreign Correspondent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2027",
-         "pubDate" : "Fri, 07 Oct 2022 14:24:40 +0000",
-         "title" : "Teams from 46 countries to take part in 2nd Intercontinental Championship for Prisoners"
       }
    ]
 }
