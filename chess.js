@@ -530,22 +530,6 @@ news_feed (
          "title" : "European Open and Women Rapid & Blitz Chess Championships 2022 - Official regulations"
       },
       {
-         "description" : " The FIDE Women Candidates Pool A takes place in Monaco 24th October to 6th November, 4 players, two rounds, the winner plays the winner of pool B which it's been announced will take place in Khiva, in Uzbekistan November 28 to December 11 (players: Aleksandra Goryachkina, Alexandra Kosteniuk, Tan Zhongyi and Kateryna Lagno). The players in Monaco are Mariya Muzychuk, Tingjie Lei, Humpy Koneru and Anna Muzychuk. Games starts at 3pm local time each day. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-a-2022",
-         "pubDate" : "Tue, 25 Oct 2022 09:47:00 +0400",
-         "title" : "FIDE Women Candidates Pool A 2022 - Games and Results"
-      },
-      {
-         "description" : " The FIDE World Fischer Random Chess Championship takes place in Reykjavik 25th to 30th October 2022. The event starts tomorrow with two pools of four. Pool A Wesley So, Ian Nepomniachtchi, Nodirbek Abdusattorov and Hjorvar Steinn Gratarsson. Pool B Magnus Carlsen, Hikaru Nakamura, Vladimir Fedoseev and Matthias Bluebaum. I won't be doing much in the way of coverage as I can't display the games but will try and have a file for download. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-fischer-random-chess-championship-2022",
-         "pubDate" : "Tue, 25 Oct 2022 09:44:00 +0400",
-         "title" : "FIDE World Fischer Random Chess Championship 2022 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -690,52 +674,12 @@ news_feed (
          "title" : "Starting Tuesday: World Fischer Random Chess Championship"
       },
       {
-         "description" : " The German Schachbundesliga takes place over 15 rounds 21st October 2022 to 30th April 2023. Round 7 will be played over several Friday's (preceding normal rounds) during the season. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2022-23",
-         "pubDate" : "Sat, 22 Oct 2022 22:53:00 +0400",
-         "title" : "Schachbundesliga 2022-23 - Games and Results"
-      },
-      {
-         "description" : " The UK's 4NCL Chess League takes place over 5 weekends 22nd October to 1st May 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2022-23",
-         "pubDate" : "Sat, 22 Oct 2022 22:50:00 +0400",
-         "title" : "4NCL 2022-23 - Games and Results"
-      },
-      {
-         "description" : " The World Junior Championships took place in Cala Gonone, Italy Wednesday 12th to Sunday 23rd October 2022. This was the 59th edition and 38th Girls. The event hadn't been held since 2019 due to Covid-19. Abdulla Gadimbayli's draw in the final round was enough for him to overtake Adam Kozak in the final round and take Gold to the Hungarian's Silver, Nikolozi Kacharava took bronze ahead of Francesco Sonis and Leon Luke Mendonca. All these players scored 8/11. In the women's event the winner Govhar Beydullayeva lost in the final round but having beaten Assel Serikbay in their individual game she hung onto gold, Meruert Kamalidenova took bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-juniors-2022",
-         "pubDate" : "Sat, 22 Oct 2022 22:46:00 +0400",
-         "title" : "World Juniors 2022 - Games and Results"
-      },
-      {
-         "description" : " The Aimchess Rapid is part of the Champions Chess Tour and took place online on Chess24 14th to 21st October 2022. Players: Nodirbek Abdusattorov, Aditya MittalDavid Anton Guijarro, Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, D Gukesh, Eric Hansen, Pentala Harikrishna, Vincent Keymer, Shakhriyar Mamedyarov, Daniel Naroditsky, Richard Rapport and Santosh Gujrathi Vidit. Jan-Krzysztof Duda beat Carlsen in the semifinals and Mamedyarov in the final but only after a final blitz tie-break. Carlsen secured victory in the entire Champions Chess Tour series with an event to spare. The final tournament will be in San Francisco 14th to 20th November 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2022",
-         "pubDate" : "Sat, 22 Oct 2022 22:42:00 +0400",
-         "title" : "Aimchess Rapid 2022 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2048",
          "pubDate" : "Sat, 22 Oct 2022 17:59:06 +0000",
          "title" : "FIDE President congratulates medalists of the 2nd Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : " The US Chess Championship took place in Saint Louis Wed 5th (round 1) to Thu 20th Oct 2022. The event has been bumped up to a 14 player 13 round tournament for the first time in decades. There were Open and Women's events. Players: Wesley So, Levon Aronian, Fabiano Caruana, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Hans Moke Niemann, Samuel Sevian, Dariusz Swiercz, Awonder Liang, Christopher Woojin Yoo, Elshan Moradiabadi and Aleksandr Lenderman. Women's group: , Irina Krush, Anna Zatonskih, Ashritha Eswaran, Nazi Paikidze, Gulrukhbegim Tokhirjonova, Rochelle Wu, Tatev Abrahamyan, Jennifer Yu, Thalia Cervantes Landeiro, Alice Lee, Ruiyang Yan, Megan Lee, Sabina-Fran",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championship-2022",
-         "pubDate" : "Sat, 22 Oct 2022 20:39:00 +0400",
-         "title" : "US Chess Championship 2022 - Games and Results"
       },
       {
          "description" : "Although Magnus Carlsen remains by far the most dominant player on the international circuit, the World Champion is facing a crisis. Maybe this has been brought on by distractions over his imbroglio concerning alleged cheating, involving the American teenage grandmaster, Hans Niemann. (Niemann has now brought a $400 million lawsuit against his accusers, as this []",
