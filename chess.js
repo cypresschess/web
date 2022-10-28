@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Fri, 28 Oct 2022 14:55:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : " In Michael Stean's classic \"Simple Chess\" he points out that open files don't always operate on a \"first come, first serve\" basis. As Nimzovitch first pointed out, the role of the open file is to get your rook to the 7th or 8th rank. In this game from the current Bangkok Open, GM Hrant Melkumyan demonstrates this quite effectively, opening a file that his opponent already has a rook on, but one without entry points into Black's position. After the Black rook moves to b8, it is Black that not only takes over the b file, but also the 7th and 8th ranks. After that, White is forced to defend a host of weak pawns, which eventually, he is unable to do. <br /> <b>Markovitz,Neil (1962) - Melkumyan,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/entry-points.html",
+         "pubDate" : "Fri, 28 Oct 2022 12:50:00 +0000",
+         "title" : "Entry points"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2065",
+         "pubDate" : "Fri, 28 Oct 2022 12:18:14 +0000",
+         "title" : "2022 3rd FIDE Council meeting: List of decisions"
+      },
+      {
          "description" : "Chess Olympiad 2022: Review with analyses by more than 20 players - Ivan Sokolov's writes about \"Steps to Gold\" - \"Special\" on World Championship candidate Ding Liren: exclusive collection of 18 annotated games + contributions on strategy and endgame - \"The Indian Gambit\": Daniel King presents a fresh and exciting idea in the English Opening: 1.c4 e5 2.Sc3 Sf6 3.Sf3 e4 4.Sg5 c6!? (Video) - \"Practical Tips for the Tournament Player\" Episode 3: How to play against a stronger opponent (Video by Jan Markos + small collection of exercises) - \"Full Throttle in the Open Spanish\": Robert Ris examines the highly topical Dilworth Variation, and much more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Anish Giri releases Part 2 of his 1. e4 Lifetime Repertoires"
       },
       {
-         "description" : "IM Michael Basman, a strong British player in the 1960s and 70s, founder of the UK Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday, aged 76. Most famous for his ...",
+         "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/michael-basman-1946-2022",
          "pubDate" : "Fri, 28 Oct 2022 01:31:00 -0700",
-         "title" : "Michael Basman 1946-2022"
+         "title" : "Michael Basman, 1946-2022"
       },
       {
          "description" : "After the incident at the Sinquefield Cup, strict controls for technical aids are undertaken at the Fischer Random World Championship. But how well do these controls work? A journalist from the Norwegian TV station NRK tried it out.",
@@ -71,7 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
          "pubDate" : "Thu, 27 Oct 2022 22:20:00 -0700",
-         "title" : "Fischer's Vision Alive in Reykjavik: Abdusattorov, Carlsen at the Top"
+         "title" : "Fischer's Vision Alive In Reykjavik: Abdusattorov, Carlsen On Top"
       },
       {
          "description" : "The group stage of the World Fischer Random Championship came to an end on Thursday. Besides Nodirbek Abdusattorov, who secured his spot in semis on the second day of action, Magnus Carlsen, Hikaru Nakamura and Ian Nepomniachtchi moved on to the knockout stage by finishing among the top two in each group. In Saturday's semis, Abdusattorov will face Nakamura, while Carlsen and Nepomniachtchi will play a rematch of last year's confrontation for the Classical World Championship title. | Photo: FIDE / David Llada",
@@ -1434,14 +1458,6 @@ news_feed (
          "title" : "'One Move In, One Move Out'"
       },
       {
-         "description" : "The 1927 World Championship match in Buenos Aires between challenger Alexander Alekhine and World Champion Jos&eacute; Ra&uacute;l Capablanca ended with a surprise: Capablanca had gone into the match as the clear favourite, but after 34 games he had lost 3-6 (draws did not count). The decisive and interesting 34th game featured a theoretically and practically important endgame. Karsten M&uuml;ller took a closer look at the game and the endgame and invites readers to analyze both. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-riddle-alekhine-vs-capablanca",
-         "pubDate" : "Mon, 17 Oct 2022 16:00:00 +0100",
-         "title" : "Endgame Riddle: Alekhine vs Capablanca"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94920728.cms\" />The legendary Viswanathan Anand feels young Indian chess players are on the right track given their penchant to hog the limelight on and off, here and there.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2027",
          "pubDate" : "Fri, 07 Oct 2022 14:24:40 +0000",
          "title" : "Teams from 46 countries to take part in 2nd Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : " Here is another game from the 2022 European Club Cup. To my untrained eye, this is the kind of game that I wish I could play, even against club opposition, let alone titled players. White seems to have everything under control, even after sacrificing a pawn, and the win almost looks like it was inevitable from move 1. Of course it wasn't, but it does show the importance of piece activity out of the opening. A game worth studying and understanding. <br /> <b>Van Foreest,Jorden (2694) - Wedberg,Tom (2395) [E07]</b><br />37th European Club Cup chess24.com (1.2), 03.10.2022 <script>new PgnViewer( { boardName: \"game1357\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.g",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/smooth-as-silk.html",
-         "pubDate" : "Fri, 07 Oct 2022 12:39:00 +0000",
-         "title" : "Smooth as silk"
       }
    ]
 }
