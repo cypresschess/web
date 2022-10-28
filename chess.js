@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Pioneers of Cheating in Chess"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95150515.cms\" />Sixteen-year old Indian Grandmaster Leon Luke Mendonca shot into the sole lead in the Open section after the third round of the Asian Continental Chess Championship on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-leon-mendonca-takes-lead-in-open-section-10-players-share-top-spot-in-womens-event/articleshow/95150515.cms",
+         "pubDate" : "Fri, 28 Oct 2022 15:27:32 +0000",
+         "title" : "Asian Chess: Leon Mendonca takes lead in Open section, 10 players share top spot in women's event"
+      },
+      {
          "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
