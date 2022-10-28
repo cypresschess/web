@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Apart from the usual problems, Daniel King looks at a sensational attacking game played by Nodirbek Abdusattorov, the 18-year-old star from Uzbekistan. The initiative is everything. Apart from the attack itself, there is particular focus on the opening - a London System - and the subtleties involved in exchanging off THAT bishop. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-swinging-london",
+         "pubDate" : "Fri, 28 Oct 2022 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Swinging London"
+      },
+      {
          "description" : "In the last several weeks, the world of chess has been rocked by the accusations and allegations of cheating with the help of a computer. The idea is not new of course, but it might shock you to know the very first case of surreptitiously using a computer in a game against a grandmaster dates all the way back to 1980. You won't believe who were responsible! Here is the original video footage of the pioneers in action.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-pioneers-of-cheating-in-chess",
          "pubDate" : "Fri, 28 Oct 2022 17:00:00 +0100",
          "title" : "The Pioneers of Cheating in Chess"
+      },
+      {
+         "description" : "Defending Champion Wesley So blundered mate-in-3 against Icelandic no. 1 Hjorvar Gretarsson on the final day of the group stages of the Fischer Random World Championship, effectively ending his slim hopes of retaining his title. Elsewhere the favourites made it through and it's going to be Carlsen-Nepomniachtchi and Nakamura-Abdusattorov in Saturday's semi-finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fischer-random-3-wesley-so-knocked-out",
+         "pubDate" : "Fri, 28 Oct 2022 15:50:56 +0000",
+         "title" : "Fischer Random 3: Wesley So knocked out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95150515.cms\" />Sixteen-year old Indian Grandmaster Leon Luke Mendonca shot into the sole lead in the Open section after the third round of the Asian Continental Chess Championship on Friday.",
@@ -1426,14 +1442,6 @@ news_feed (
          "title" : "Frederik Svane leads at World Junior Championship"
       },
       {
-         "description" : "One of the most surprising discoveries in the 6-piece tablebase concerned the endgame Q+g+h pawn vs queen, which often is a theoretical draw when the defender is well placed. However, in a practical game with limited time, the endgame is usually too difficult to hold. The diagrammed position occurred in a game between M. Carlsen and G. Meier, played at the Chess Olympiad 2022. Black lost, but he could have drawn. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-tablebase-sensation",
-         "pubDate" : "Tue, 18 Oct 2022 09:00:00 +0100",
-         "title" : "The tablebase sensation"
-      },
-      {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-3",
          "pubDate" : "Mon, 17 Oct 2022 01:44:00 -0700",
          "title" : "Duda New Leader At Aimchess Rapid; Gukesh Youngest Player To Beat Carlsen"
-      },
-      {
-         "description" : "Indian teenager Gukesh made chess history in the Aimchess Rapid today as he became the youngest player ever to beat Magnus Carlsen as World Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/historic-moment-as-16-year-old-gukesh-stuns-carlsen",
-         "pubDate" : "Mon, 17 Oct 2022 06:47:22 +0000",
-         "title" : "Aimchess Rapid Day 3: 16-year-old Gukesh stuns Carlsen"
       },
       {
          "description" : "",
