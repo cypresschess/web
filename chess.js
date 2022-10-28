@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the incident at the Sinquefield Cup, strict controls for technical aids are undertaken at the Fischer Random World Championship. But how well do these controls work? A journalist from the Norwegian TV station NRK tried it out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/are-the-security-measures-at-chess-tournaments-ineffective",
+         "pubDate" : "Fri, 28 Oct 2022 08:06:34 +0100",
+         "title" : "Are security measures at chess tournaments ineffective?"
+      },
+      {
+         "description" : "The Fischer Random World Chess Championship 2022 will have a new champion. Wesley So did not manage to go out of the groups, finishing 3rd in the group stage. However, this takes away just a pinch of the excitement, as the semi finals will see the participants in the last World Chess Championship the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fischer-random-2022-semi-finals-carlsen-nakamura-nepomniachtchi-and-abdusattorov/",
+         "pubDate" : "Fri, 28 Oct 2022 06:19:43 +0000",
+         "title" : "Fischer Random 2022 semi finals - Carlsen, Nakamura, Nepomniachtchi, and Abdusattorov"
+      },
+      {
+         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced his invention―a brand new version of the game―Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
+         "pubDate" : "Thu, 27 Oct 2022 22:20:04 -0700",
+         "title" : "Fischer's Vision Alive in Reykjavik: Abdusattorov, Carlsen at the Top"
+      },
+      {
          "description" : "The group stage of the World Fischer Random Championship came to an end on Thursday. Besides Nodirbek Abdusattorov, who secured his spot in semis on the second day of action, Magnus Carlsen, Hikaru Nakamura and Ian Nepomniachtchi moved on to the knockout stage by finishing among the top two in each group. In Saturday's semis, Abdusattorov will face Nakamura, while Carlsen and Nepomniachtchi will play a rematch of last year's confrontation for the Classical World Championship title. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hoogeveen-celebrates-chess-with-matches-and-tournaments",
          "pubDate" : "Tue, 25 Oct 2022 11:43:58 +0100",
          "title" : "Hoogeveen celebrates with matches and tournaments"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of 400 million USD in damages from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/play-magnus-group-about-the-hans-niemann-lawsuit/",
-         "pubDate" : "Tue, 25 Oct 2022 10:18:00 +0000",
-         "title" : "Play Magnus Group about the Hans Niemann lawsuit"
       },
       {
          "description" : "The World Junior Championships in Sardinia ended on Saturday with a double success for players from Azerbaijan. In the Open, the 18th seed IM Abdulla Gadimbayli (photo) finished with 8.0/11 and shared first place with four other players but won the tournament on tiebreak. In the \"Girls\" section WGM Govhar Beydullayeva scored 8.5/11 to share first place with Assel Seribay from Kazakhstan but also won because of her better tiebreak-score. | Photos: Przemek Nikiel",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "Donald Trump, Chess Master"
       },
       {
-         "description" : "The one decisive result in round 10 of the U.S. Championship saw Hans Niemann beating Elshan Moradiabadi with the black pieces. Fabiano Caruana continues to be the sole leader going into the second rest day of the 13-round tournament. In the women's section, Thalia Cervantes and Gulrukhbegim Tokhirjonova both scored with the black pieces. Jennifer Yu is still topping the standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r10",
-         "pubDate" : "Sun, 16 Oct 2022 16:15:00 +0100",
-         "title" : "U.S. Championships: Niemann plays 'psychotic chess', wins"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
          "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
          "title" : "ECU E-Magazine September 2022"
-      },
-      {
-         "description" : "Instructive attacking chess, dazzling tactics, and a 10-move disaster game all came to the fore during the seventh round of the 2022 U.S. Chess Championships on Tuesday. GM Fabiano Caruana won his fourth game and remains ahead of his newest challe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-7",
-         "pubDate" : "Wed, 12 Oct 2022 19:43:00 -0700",
-         "title" : "Caruana, Robson Win Again, Dominguez Records 10-Move Victory"
       },
       {
          "description" : "",
