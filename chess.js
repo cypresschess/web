@@ -122,7 +122,7 @@ news_feed (
          "title" : "Fischer Random 2022 semi finals - Carlsen, Nakamura, Nepomniachtchi, and Abdusattorov"
       },
       {
-         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced his invention―a brand new version of the game―Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in...",
+         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced a variant he saw as the future of the game, Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in R...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
