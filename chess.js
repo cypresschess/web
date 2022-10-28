@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The world champion Svitlana is talking about today, is one of the world's best chess players, since the late 80s. The five-time world chess champion has played some gorgeous games, and we will take a look at two of them. Anand beat Aronian with the Black pieces in 2013, and it is one of Svitlana's favourite games used for teaching. The second game is from 1997 against Joel Lautier, and Anand managed to trap the opponent's bishop for the whole game, without ever having the need to capture it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-anand-s-amazing-bishop-trap",
+         "pubDate" : "Fri, 28 Oct 2022 12:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Anand's amazing bishop trap"
+      },
+      {
+         "description" : "From 19 to 26 November, the World Team Championship will be held in Jerusalem in a new format. Twelve national teams are taking part Some federations are coming with their top stars. Others are sending up-and-coming players. The US team is led by Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-teams-squads-announced-for-jerusalem-2022",
+         "pubDate" : "Fri, 28 Oct 2022 11:59:33 +0100",
+         "title" : "FIDE World Teams squads announced for Jerusalem 2022"
+      },
+      {
+         "description" : "Grandmaster Anish Giri brings you a robust repertoire which seizes Black&#x2019;s half of the board before move ten &#x2014; so you&#x2019;d have all the space and time in the world to set up the winning breakthrough. If there&#x2019;s one thing chess engines and super-grandmaster games have taught us, it&#x2019;s that space wins games. And why []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-releases-part-2-of-his-1-e4-lifetime-repertoires/",
+         "pubDate" : "Fri, 28 Oct 2022 10:26:16 +0000",
+         "title" : "Anish Giri releases Part 2 of his 1. e4 Lifetime Repertoires"
+      },
+      {
+         "description" : "IM Michael Basman, a strong British player in the 1960s and 70s, founder of the UK Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday, aged 76. Most famous for his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/michael-basman-1946-2022",
+         "pubDate" : "Fri, 28 Oct 2022 01:31:00 -0700",
+         "title" : "Michael Basman 1946-2022"
+      },
+      {
          "description" : "After the incident at the Sinquefield Cup, strict controls for technical aids are undertaken at the Fischer Random World Championship. But how well do these controls work? A journalist from the Norwegian TV station NRK tried it out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Are security measures at chess tournaments ineffective?"
       },
       {
-         "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100,000 lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.",
+         "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100m lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.com",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
@@ -440,14 +472,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-asian-women-continental-chess-championship-2022/",
          "pubDate" : "Tue, 25 Oct 2022 21:35:12 +0000",
          "title" : "The Asian Women Continental Chess Championship 2022"
-      },
-      {
-         "description" : "The Asian Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. With Pragg and Tania Sachdev as top seeded, the event will be daily live on Chessdom.com Asian Continental 2022 open participants / Asian Continental 2022 women participants / Live games will be daily on Chessdom.com &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-continental-chess-championship-2022-live/",
-         "pubDate" : "Tue, 25 Oct 2022 21:33:56 +0000",
-         "title" : "Asian Continental Chess Championship 2022 LIVE"
       },
       {
          "description" : "",
@@ -1450,28 +1474,12 @@ news_feed (
          "title" : "Aimchess Rapid Day 3: 16-year-old Gukesh stuns Carlsen"
       },
       {
-         "description" : "A day after Arjun Erigaisi beat Magnus Carlsen for the first time in his career, another (even younger) Indian prodigy managed to beat the world number one at the Aimchess Rapid online event. Gukesh Dommaraju defeated Carlsen with white to become the youngest-ever player to beat the Norwegian during his reign as world champion. Meanwhile, Jan-Krzysztof Duda had a great day and climbed to the sole lead. | Photo: Niki Riga / Gibraltar Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d3",
-         "pubDate" : "Sun, 16 Oct 2022 23:45:00 +0100",
-         "title" : "Aimchess Rapid: Gukesh youngest-ever to beat Carlsen, Duda leads"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2042",
          "pubDate" : "Sun, 16 Oct 2022 21:32:45 +0000",
          "title" : "FIDE World Junior Chess Championship passes midpoint"
-      },
-      {
-         "description" : "Leinier Dominguez won his round-7 game in the U.S. Championship after only ten moves. The opening debacle prompted Jon Speelman to locate similar examples both in a book by Yakov Neishtadt and in the database of his own games. And he also remembered to give the solution of the proof game from last week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-180",
-         "pubDate" : "Sun, 16 Oct 2022 21:00:00 +0100",
-         "title" : "Opening catastrophes"
       },
       {
          "description" : "In the world of AI, Trump plays chess. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj16.gif\" WIDTH=400 HEIGHT=395><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/183159261@N04/52367614140/\">Donald Trump, Ai Generated Art, Public Domain</A>&#169; Flickr user <I>Ben Longstroth</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P>The description simply expanded on the title:- <BLOCKQUOTE>Images of Donald Trump generated by Artificial Intelligence. Licensed as CC0, public domain, free to use for any purpose. </BLOCKQUOTE> <P>And, yes, in the image on the upper right Trump is playing Biden. Trump is still insisting that",
@@ -1632,14 +1640,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/14/chess-hans-niemann-struggles-in-us-championship-amid-beefed-up-security",
          "pubDate" : "Fri, 14 Oct 2022 07:00:31 +0000",
          "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
-      },
-      {
-         "description" : "Scoring his third win in a row, GM Ray Robson completed a hat trick on Thursday at the 2022 U.S. Championship. The 27-year-old grandmaster beat GM Elshan Moradiabadi with the black pieces and is now trailing the leader, GM Fabiano Caruana, by half...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-8",
-         "pubDate" : "Thu, 13 Oct 2022 21:39:00 -0700",
-         "title" : "Robson's Hat Trick Closes The Gap"
       },
       {
          "description" : "",
