@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2068",
+         "pubDate" : "Sat, 29 Oct 2022 21:43:12 +0000",
+         "title" : "FIDE World FR Championship: Carlsen crashes out, Nakamura downs prodigy to set up surprise final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2067",
+         "pubDate" : "Sat, 29 Oct 2022 20:33:55 +0000",
+         "title" : "Lei Tingjie advances, Humpy Koneru and Anna Muzychuk to play tiebreaker"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95169923.cms\" />Top-seed R Praggnanandhaa moved into joint lead with five others after his third consecutive win in the Open section of the Asian Continental Chess Championship on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -205,17 +221,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2063",
-         "pubDate" : "Thu, 27 Oct 2022 22:08:13 +0000",
-         "title" : "FIDE World FR Chess Championship: Carlsen, Nakamura and Nepomniachtchi reach semifinals - reigning champion So dethroned"
+         "link" : "https://www.fide.com/news/2062",
+         "pubDate" : "Thu, 27 Oct 2022 22:40:30 +0000",
+         "title" : "Monaco Chess Club: Rich history and honourable traditions"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2062",
-         "pubDate" : "Thu, 27 Oct 2022 22:00:30 +0000",
-         "title" : "Monaco Chess Club: Rich history and honourable traditions"
+         "link" : "https://www.fide.com/news/2063",
+         "pubDate" : "Thu, 27 Oct 2022 22:08:13 +0000",
+         "title" : "FIDE World FR Chess Championship: Carlsen, Nakamura and Nepomniachtchi reach semifinals - reigning champion So dethroned"
       },
       {
          "description" : "",
