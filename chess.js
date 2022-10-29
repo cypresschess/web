@@ -1936,14 +1936,6 @@ news_feed (
          "link" : "https://www.europechess.org/tournament-of-peace-2022/",
          "pubDate" : "Sun, 09 Oct 2022 09:20:18 +0000",
          "title" : "Tournament of Peace 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2028",
-         "pubDate" : "Sat, 08 Oct 2022 19:18:22 +0000",
-         "title" : "FIDE President makes a tour of Latin America"
       }
    ]
 }
