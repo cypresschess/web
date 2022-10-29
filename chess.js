@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. In Saturday's semifinals, Nodirbek Abdusattorov faces Hikaru Nakamura, while Magnus Carlsen plays Ian Nepomniachtchi. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
+         "pubDate" : "Sat, 29 Oct 2022 16:45:00 +0100",
+         "title" : "World Fischer Random Championship: Live"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Sat, 29 Oct 2022 14:55:00 +0100",
+         "title" : "Women's Candidates - Pool A, Round 1, Game 4: Live"
+      },
+      {
          "description" : "There is little doubt that, in physical sports, men will tend to outperform women. Upper bodily strength plays a major role, ensuring that contests between respectively leading male and female practitioners in tennis, boxing and rugby, for example, will inevitably end in favour of the men. However, should the same apply in mental sport, where physical strength is irrelevant? The late Tony Buzan, the inventor of Mind Maps, who []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1386,14 +1402,6 @@ news_feed (
          "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
       },
       {
-         "description" : "The successful series \"How does a chess professional analyse with ChessBase\" with Regina Pokorna had shown the final episode on Sunday on the German ChessBase YouTube site. On the other hand, \"How to prepare for a tournament like a professional chess player\" with Lilit Mkrtchian has just started. In the first episode she shows us how she creates an opening repertoire, and has accumulated almost a terrabyte of opening data over the decades. Martin Fischer now shows us the version that ChessBase originally intended, so that amateur players also have an easier time starting their own repertoire.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-easiest-way-to-create-an-opening-repertoire",
-         "pubDate" : "Tue, 18 Oct 2022 16:51:31 +0100",
-         "title" : "The easiest way to create an opening repertoire"
-      },
-      {
          "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-champs-11-caruana-yu-lead-as-race-heats-up",
          "pubDate" : "Tue, 18 Oct 2022 11:53:57 +0000",
          "title" : "US Champs 11: Caruana & Yu lead as race heats up"
-      },
-      {
-         "description" : "Following on from 'Part 1: Understanding The Dragon' where important themes and concepts were explained, now it's time to delve into the theory that has shaped this exciting opening over the years. From reasons why once popular variations are no more (but with revival suggestions!) to coverage of the more modern systems currently deployed by the World's elite, this two-parter has it all!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sicilian-dragon-the-real-deal-part-2-and-3",
-         "pubDate" : "Tue, 18 Oct 2022 12:00:00 +0100",
-         "title" : "Sicilian Dragon: The Real Deal! Part 2 and 3"
       },
       {
          "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
