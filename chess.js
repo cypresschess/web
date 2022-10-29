@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once more both the Muzychuk sisters tried their best to break through to match equality, and once more the games ended in draws. Still, there was a lot more to the story than the game result. Ana Muzychuk and Humpy Koneru followed the tense Sevian-Niemann game for 18 moves, while Mariya Muzychuk came 'oh, so close!' to sealing a dramatic win over Lei Tingjie. Read the tale of the tape. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-mariya-misses-her-chance",
+         "pubDate" : "Sat, 29 Oct 2022 03:55:00 +0100",
+         "title" : "Women's Candidates: Mariya misses her chance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/frederik-svane-leads-at-world-junior-championship",
          "pubDate" : "Tue, 18 Oct 2022 09:52:37 +0100",
          "title" : "Frederik Svane leads at World Junior Championship"
-      },
-      {
-         "description" : "One of the most surprising discoveries in the 6-piece tablebase concerned the endgame Q+g+h pawn vs queen, which often is a theoretical draw when the defender is well placed. However, in a practical game with limited time, the endgame is usually too difficult to hold. The diagrammed position occurred in a game between M. Carlsen and G. Meier, played at the Chess Olympiad 2022. Black lost, but he could have drawn. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-tablebase-sensation",
-         "pubDate" : "Tue, 18 Oct 2022 09:00:00 +0100",
-         "title" : "The tablebase sensation"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
