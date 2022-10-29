@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95169923.cms\" />Top-seed R Praggnanandhaa moved into joint lead with five others after his third consecutive win in the Open section of the Asian Continental Chess Championship on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-beats-pranav-anand-moves-into-joint-lead/articleshow/95169923.cms",
+         "pubDate" : "Sat, 29 Oct 2022 16:15:26 +0000",
+         "title" : "Asian Chess Championship: Praggnanandhaa beats Pranav Anand, moves into joint lead"
+      },
+      {
          "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. In Saturday's semifinals, Nodirbek Abdusattorov faces Hikaru Nakamura, while Magnus Carlsen plays Ian Nepomniachtchi. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
