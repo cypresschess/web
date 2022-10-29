@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is little doubt that, in physical sports, men will tend to outperform women. Upper bodily strength plays a major role, ensuring that contests between respectively leading male and female practitioners in tennis, boxing and rugby, for example, will inevitably end in favour of the men. However, should the same apply in mental sport, where physical strength is irrelevant? The late Tony Buzan, the inventor of Mind Maps, who []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/mind-games-and-memory-how-do-men-and-women-compare/",
+         "pubDate" : "Sat, 29 Oct 2022 12:06:55 +0000",
+         "title" : "Mind games and memory: how do men and women compare?"
+      },
+      {
          "description" : "This month, I planned to write about chess composition in Japan, but it turned out that not much information was obtainable. The situation in Singapore is even worse regarding sources. So instead, in this month's column we have a small mix of shorter articles again. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
