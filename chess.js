@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This month, I planned to write about chess composition in Japan, but it turned out that not much information was obtainable. The situation in Singapore is even worse regarding sources. So instead, in this month's column we have a small mix of shorter articles again. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-chess-composition-in-japan-and-singapore",
+         "pubDate" : "Sat, 29 Oct 2022 11:00:00 +0100",
+         "title" : "Study of the Month - Chess composition in Japan and Singapore"
+      },
+      {
+         "description" : "Please find the live links for MPL National U-11 Open Category Girls Category ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-mpl-national-u-11/",
+         "pubDate" : "Sat, 29 Oct 2022 09:44:19 +0000",
+         "title" : "LIVE GAMES :MPL National U-11"
+      },
+      {
          "description" : "In the game Jonny Hector and Jonathan Westerberg played at the Swedish Championship 2022 in Uppsala, both sides had been moving back and forth until they reached the diagram position. However, White now continued his waiting strategy for too long and played 36.Kf2? How can Black use this golden opportunity?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "Sicilian Dragon: The Real Deal! Part 2 and 3"
       },
       {
-         "description" : "Nine out of fourteen games finished decisively in round 11 of the U.S. Championships. In the open, Fabiano Caruana continues to lead, with Ray Robson a half point back, while Leinier Dominguez and Sam Sevian both won to climb to shared third place. In the women's event, Jennifer Yu leads Irina Krush by a half point after both contenders for first place won their games with the black pieces. Yu will have white against Krush in their round-12 direct encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r11",
-         "pubDate" : "Tue, 18 Oct 2022 11:55:00 +0100",
-         "title" : "U.S. Championships: Yu and Krush score, will face off in the next round"
-      },
-      {
          "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2034",
          "pubDate" : "Wed, 12 Oct 2022 09:53:37 +0000",
          "title" : "Chess for Children with ASD: third education seminar conducted"
-      },
-      {
-         "description" : "We are saddened to know the demise of former Trainer of Indian Junior Team Grandmaster Konstantin Landa today. Rest in Peace GM Landa, you will",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-grandmaster-konstantin-landa/",
-         "pubDate" : "Wed, 12 Oct 2022 07:34:51 +0000",
-         "title" : "Rest in Peace Grandmaster Konstantin Landa"
       },
       {
          "description" : "",
