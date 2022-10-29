@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the game Jonny Hector and Jonathan Westerberg played at the Swedish Championship 2022 in Uppsala, both sides had been moving back and forth until they reached the diagram position. However, White now continued his waiting strategy for too long and played 36.Kf2? How can Black use this golden opportunity?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oops",
+         "pubDate" : "Sat, 29 Oct 2022 09:00:00 +0100",
+         "title" : "Oops!"
+      },
+      {
          "description" : "Once more both the Muzychuk sisters tried their best to break through to match equality, and once more the games ended in draws. Still, there was a lot more to the story than the game result. Ana Muzychuk and Humpy Koneru followed the tense Sevian-Niemann game for 18 moves, while Mariya Muzychuk came 'oh, so close!' to sealing a dramatic win over Lei Tingjie. Read the tale of the tape. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1442,14 +1450,6 @@ news_feed (
          "title" : "Aimchess Rapid Day 4: Duda wins prelims on nerve-wracking final day"
       },
       {
-         "description" : "After six of eleven rounds, Frederik Svane leads the field in the Junior World Championship. The only German player in the open has the best tiebreak in a group of four players with 5.0/6. | Photo: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederik-svane-leads-at-world-junior-championship",
-         "pubDate" : "Tue, 18 Oct 2022 09:52:37 +0100",
-         "title" : "Frederik Svane leads at World Junior Championship"
-      },
-      {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2028",
          "pubDate" : "Sat, 08 Oct 2022 19:18:22 +0000",
          "title" : "FIDE President makes a tour of Latin America"
-      },
-      {
-         "description" : "I am frequently called upon to deliver post-prandial speeches at social chess gatherings, such as the traditional annual Varsity match at the Royal Automobile Club between the student teams from the universities of Oxford and Cambridge. Here I must declare an interest, in that my Alma Mater is Trinity College Cambridge, where in my final []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/when-dinosaurs-ruled-the-chessboard/",
-         "pubDate" : "Sat, 08 Oct 2022 07:04:03 +0000",
-         "title" : "When dinosaurs ruled the chessboard"
       }
    ]
 }
