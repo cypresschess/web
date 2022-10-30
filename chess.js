@@ -14,7 +14,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
-         "pubDate" : "Sun, 30 Oct 2022 01:56:48 -0700",
+         "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
          "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
       },
       {
