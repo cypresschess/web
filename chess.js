@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Report by Aga Milewska A very scary tournament was held on 29.10.2022 in London organised by the well-known GingerGMGM Simon Williams. The tournament had taken a break due to Covid but returned to the crypt at StPancras New Church in central London, a perfect venue for Halloween ! Players were encouraged towear fancy dress and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/a-very-scary-tournament-by-gingergm/",
+         "pubDate" : "Sun, 30 Oct 2022 19:03:00 +0000",
+         "title" : "A very scary tournament by GingerGM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95186429.cms\" />Indian Grandmaster Harsha Bharathakoti beat Koustav Chatterjee in the fifth round to move into sole lead with 4.5 points in the Open section of the Asian Continental Chess championship on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-indias-harsha-bharathakoti-in-lead/articleshow/95186429.cms",
+         "pubDate" : "Sun, 30 Oct 2022 16:07:24 +0000",
+         "title" : "Asian chess: India's Harsha Bharathakoti in lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -592,14 +608,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2058",
          "pubDate" : "Wed, 26 Oct 2022 11:26:49 +0000",
          "title" : "FIDE World Teams squads announced for Jerusalem 2022"
-      },
-      {
-         "description" : "The FIDE World Team Championship 2022, aka the small Chess Olympiad, will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve team championship, including the best team by rating from each of the four Continents (Africa, Americas, Asia, Europe), five teams representing federations with the highest average ratings of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-team-chess-championship-2022/",
-         "pubDate" : "Wed, 26 Oct 2022 11:23:30 +0000",
-         "title" : "World Team Chess Championship 2022"
       },
       {
          "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
