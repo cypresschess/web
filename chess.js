@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With massive popularity and a 400 million lawsuit going on, Hans Niemann is gaining legendary status. The Chess Speaks for Itself this this Halloween too, with players dressing up as Hans Niemann. Hans Niemann chess speaks for itself line Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dress-as-hans-niemann-this-halloween-chess-speaks-for-itself-tweetoftheday/",
+         "pubDate" : "Sun, 30 Oct 2022 06:59:10 +0000",
+         "title" : "Dress up as Hans Niemann this Halloween: Chess Speaks for Itself #TweetOftheDay"
+      },
+      {
+         "description" : "Six players at the open section and four players at the women section share the lead at the ongoing Asian Continental Chess Championship 2022. After four rounds no one has a full set of points, as early on rating favorites encountered problems. The open section leaders (see all participants Open section) with 3,5/4 are Koustav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/traffic-jam-at-the-top-at-the-asian-continental-chess-2022-after-r4/",
+         "pubDate" : "Sun, 30 Oct 2022 06:58:36 +0000",
+         "title" : "Traffic jam at the top at the Asian Continental Chess 2022 after R4"
+      },
+      {
+         "description" : "The Petroff has never had a reputation for decisive games, so deliberately entering into one in a must-win situation would seem not a little mad, yet for Ana Muzychuk at least her persistence paid off when she broke her higher rated opponent's resistance with a brilliant exchange sacrifice. Here sister was not so fortunate and Lei Tingjie won their match. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-Muzychuk-and-Koneru-go-to-tiebreaks",
+         "pubDate" : "Sun, 30 Oct 2022 07:42:36 +0100",
+         "title" : "Women's Candidates: Muzychuk and Koneru go to tiebreaks"
+      },
+      {
+         "description" : "Nakamura Nepomniachtchi is the final at the FIDE Fischer Random Chess Championship 2022. Ian Nepomniachtchi gained Fischer Random revenge for his unsuccessful classical title challenge against Magnus Carlsen last year, and immovable object Hikaru Nakamura toppled the irresistible force of the preliminaries, Nodirbek Abdusattorov, to set up a title match few predicted. Nakamura, the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-nepomniachtchi-is-the-fischer-random-2022-final/",
+         "pubDate" : "Sun, 30 Oct 2022 06:22:52 +0000",
+         "title" : "Nakamura - Nepomniachtchi is the Fischer Random 2022 final"
+      },
+      {
+         "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-sf",
+         "pubDate" : "Sat, 29 Oct 2022 20:45:00 -0700",
+         "title" : "World Champions Fall: Nakamura, Nepomniachtchi Progress To Final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -266,6 +306,14 @@ news_feed (
          "title" : "International Master Michael Basman RIP"
       },
       {
+         "description" : "Last month's Yahoos post (see the footnote for an explanation of Yahoos) was <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A>(September 2022). It followed a course not seen in previous Yahoos:- <BLOCKQUOTE>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from Google News, similar to the chart in last month's <B>Olympiad, Business, and Political Yahoos</B> (August 2022). On the right are counts from a special supplement, linked from the <I>Google News</I> results and called 'Full Coverage'. These stories were 100% about the cheating scandal.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/chess960-mania.html",
+         "pubDate" : "Thu, 27 Oct 2022 15:21:00 +0000",
+         "title" : "Chess960 Mania"
+      },
+      {
          "description" : "Reigning Fischer Random World Champion Wesley So confessed he'd never read the rules after he lost to Ian Nepomniachtchi in 19 moves when he was unable to castle while in check. Nodirbek Abdusattorov has already qualified for the semi-finals, so that either Ian or Wesley will be knocked out, while Magnus Carlsen had a good day to catch Hikaru Nakamura in the Group B lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -514,14 +562,6 @@ news_feed (
          "title" : "Fischer Random: The fun begins!"
       },
       {
-         "description" : "The first day of play saw two rounds of two-game mini-matches in each group and the contours of the competition beginning to emerge. The big questions were who would adapt best to the challenges of the Fischer Random variant and if there would be any unexpectedly good form from the newcomers to the event. Replay []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-and-nakamura-leaders-of-their-fischer-random-2022-groups-after-day-1/",
-         "pubDate" : "Wed, 26 Oct 2022 08:20:45 +0000",
-         "title" : "Abdusattorov and Nakamura - leaders of their Fischer Random 2022 groups after day 1"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows what he believes is the best attacking game from this year&#039;s U.S. Chess Championship. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-vs-so-best-attacks-us-champs-grandmasters-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -600,22 +640,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2056",
          "pubDate" : "Tue, 25 Oct 2022 21:43:34 +0000",
          "title" : "FIDE World FR Championship: Veterans show muscle; teenager shows fire"
-      },
-      {
-         "description" : "The Asian Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. A total of 93 players will compete in the open section, with Rameshbabu Praggnanandhaa as top seeded. His main competitors are the Fargernes open winner S.L. Narayanan, the Olympic Champion Nodirbek Yakubboev, as well as S.P. Sethuraman, Chopra Aryan, Chithambaram []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pragg-is-top-seeded-at-the-asian-continental-chess-championship-2022/",
-         "pubDate" : "Tue, 25 Oct 2022 21:35:17 +0000",
-         "title" : "Pragg is top seeded at the Asian Continental Chess Championship 2022"
-      },
-      {
-         "description" : "The Asian Women Continental Chess Championship 2022 is starting this October 26 in New Delhi, India. Tania Sachdev is top seeded in the event, where 48 titled players, 14 WGMs, and 7 IMs are participating. Her main competitors are Davaademberel Nomin-Erdene, Agrawal Vantika, Padmini Rout, Bhakti Kulkarni, Eesha Karavade, Vo Thi Kim Phung, Deshmukh Divya, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-asian-women-continental-chess-championship-2022/",
-         "pubDate" : "Tue, 25 Oct 2022 21:35:12 +0000",
-         "title" : "The Asian Women Continental Chess Championship 2022"
       },
       {
          "description" : "",
@@ -1418,14 +1442,6 @@ news_feed (
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
       },
       {
-         "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-lex-fridman-podcast-with-hikaru-nakamura",
-         "pubDate" : "Tue, 18 Oct 2022 17:19:16 +0100",
-         "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
-      },
-      {
          "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Sat, 15 Oct 2022 06:48:35 +0000",
          "title" : "European Cities & Towns Chess Championship Registration opens!"
-      },
-      {
-         "description" : "GM Sam Shankland was the sole winner in round nine of the 2022 U.S. Championships on Friday after he defeated a struggling GM Christopher Yoo. Besides this game, the remainder of the encounters were drawn with remarkably high accuracy: an average ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-9",
-         "pubDate" : "Fri, 14 Oct 2022 21:07:00 -0700",
-         "title" : "Shankland Brilliantly Retreats To Victory"
       },
       {
          "description" : "",
