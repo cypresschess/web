@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the semi-finals of the Fischer Random World Championship in Reykjavik Hikaru Nakamura (pictured) came to a clear win against Nodirbek Abdusattorov: Nakamura won 3-0 and will face Ian Nepomniachtchi in the final. Nepomniachtchi lost the first game in his match against Magnus Carlsen but then hit back: He won all of the remaining three games to win the match 3-1. So the final on Sunday (16.00 CET, 11.00 ET, 15.00 GMT) is now \"Naka against Nepo\". | Photos: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fischer-random-world-championship-nakamura-and-nepomniachtchi-advance-to-the-final",
+         "pubDate" : "Sun, 30 Oct 2022 12:01:32 +0100",
+         "title" : "Fischer Random World Championship: Nakamura and Nepomniachtchi advance to the final"
+      },
+      {
+         "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
+         "pubDate" : "Sun, 30 Oct 2022 01:56:48 -0700",
+         "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
+      },
+      {
+         "description" : "The final match of the Top Engine Chess Championship is here. Stockfish is taking on Leela for the highest title in computer chess, in a 100 games match, starting today at 17:00 UTC on the official site of TCEC and TCEC Twitch TV. Stockfish won convincingly the Premier Division and Leela snatched the second position []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-vs-lc0-tcec-superfinal-starts-today-at-1700-utc/",
+         "pubDate" : "Sun, 30 Oct 2022 08:29:19 +0000",
+         "title" : "Stockfish vs Lc0 - TCEC Superfinal (starts today at 17:00 UTC)"
+      },
+      {
          "description" : "With massive popularity and a 400 million lawsuit going on, Hans Niemann is gaining legendary status. The Chess Speaks for Itself this this Halloween too, with players dressing up as Hans Niemann. Hans Niemann chess speaks for itself line Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,22 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-beats-pranav-anand-moves-into-joint-lead/articleshow/95169923.cms",
          "pubDate" : "Sat, 29 Oct 2022 16:15:26 +0000",
          "title" : "Asian Chess Championship: Praggnanandhaa beats Pranav Anand, moves into joint lead"
-      },
-      {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. In Saturday's semifinals, Nodirbek Abdusattorov faces Hikaru Nakamura, while Magnus Carlsen plays Ian Nepomniachtchi. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
-         "pubDate" : "Sat, 29 Oct 2022 16:45:00 +0100",
-         "title" : "World Fischer Random Championship: Live"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A's qualifier is taking place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Sat, 29 Oct 2022 14:55:00 +0100",
-         "title" : "Women's Candidates - Pool A, Round 1, Game 4: Live"
       },
       {
          "description" : "There is little doubt that, in physical sports, men will tend to outperform women. Upper bodily strength plays a major role, ensuring that contests between respectively leading male and female practitioners in tennis, boxing and rugby, for example, will inevitably end in favour of the men. However, should the same apply in mental sport, where physical strength is irrelevant? The late Tony Buzan, the inventor of Mind Maps, who []",
@@ -160,6 +168,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-leon-mendonca-takes-lead-in-open-section-10-players-share-top-spot-in-womens-event/articleshow/95150515.cms",
          "pubDate" : "Fri, 28 Oct 2022 15:27:32 +0000",
          "title" : "Asian Chess: Leon Mendonca takes lead in Open section, 10 players share top spot in women's event"
+      },
+      {
+         "description" : "The first few months of this 'Fischer Friday' series were mainly about the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com). Then in the post <A HREF=\"https://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html\">FS 1972 + 20 = FS 1992</A>(September 2022; 'It's time to change the subject, if only for a few weeks'), I switched to the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(also m-w.com). Let's return to the 1972 match. <P>While preparing this month's eBay post -- 'Top eBay Chess Items by Price', <A HREF=\"https://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">C",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html",
+         "pubDate" : "Fri, 28 Oct 2022 15:09:00 +0000",
+         "title" : "'To Sam, With Thanks'"
       },
       {
          "description" : " In Michael Stean's classic \"Simple Chess\" he points out that open files don't always operate on a \"first come, first serve\" basis. As Nimzovitch first pointed out, the role of the open file is to get your rook to the 7th or 8th rank. In this game from the current Bangkok Open, GM Hrant Melkumyan demonstrates this quite effectively, opening a file that his opponent already has a rook on, but one without entry points into Black's position. After the Black rook moves to b8, it is Black that not only takes over the b file, but also the 7th and 8th ranks. After that, White is forced to defend a host of weak pawns, which eventually, he is unable to do. <br /> <b>Markovitz,Neil (1962) - Melkumyan,",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.chessdom.com/world-team-chess-championship-2022/",
          "pubDate" : "Wed, 26 Oct 2022 11:23:30 +0000",
          "title" : "World Team Chess Championship 2022"
-      },
-      {
-         "description" : "Speed chess is defined as blitz chess, lightning chess, or bullet chess. Esipenko and Gelfand bring it to another level in this #TweetOftheDay by Olimpiu Urcan aka Olimpiu Di Luppi. More from Tweet of the day section / More news on Esipenko / More news on Gelfand",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/speed-chess-with-esipenko-and-gelfand-tweetoftheday/",
-         "pubDate" : "Wed, 26 Oct 2022 10:35:00 +0000",
-         "title" : "Speed chess with Esipenko and Gelfand #TweetOftheDay"
       },
       {
          "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
@@ -1442,6 +1450,14 @@ news_feed (
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
       },
       {
+         "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-lex-fridman-podcast-with-hikaru-nakamura",
+         "pubDate" : "Tue, 18 Oct 2022 17:19:16 +0100",
+         "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
+      },
+      {
          "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1640,14 +1656,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2022-round-4-report/",
          "pubDate" : "Sat, 15 Oct 2022 10:37:48 +0000",
          "title" : "World Junior Chess Championship 2022 ROUND 4 REPORT"
-      },
-      {
-         "description" : "Uzbekistan&#39;s GM Nodirbek Abdusattorov leads the preliminaries of the Aimchess Rapid tournament after four rounds of play. It was GM Shakhriyar Mamedyarov who stole the show, beating GM Magnus Carlsen and, brilliantly, GM Anish Giri. How to watch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-1",
-         "pubDate" : "Sat, 15 Oct 2022 02:04:00 -0700",
-         "title" : "Aimchess Rapid: Abdusattorov Leads, Mamedyarov Shines"
       },
       {
          "description" : "ROUND 2&#38;3 REPORT World Junior Chess Championship 2022 Round 2 IM Harshavardhan GB was facing the Moscow variation in the Sicilian against the top seeded",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/scisys-beating.html",
          "pubDate" : "Sun, 09 Oct 2022 12:21:00 +0000",
          "title" : "Scisys beating"
-      },
-      {
-         "description" : " It's White to play in this position from the recent British Championship game between Dietmar Kolbus and Peter Finn. What do you think? White win, draw or black win? Place your bets now before reading on. Some of the most interesting endings are those involving battles between a piece and an army of pawns rushing <a href=\"https://chessimprover.com/bishop-against-pawns/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Bishop Against Pawns\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/bishop-against-pawns/\">Bishop Against Pawns</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/bishop-against-pawns/",
-         "pubDate" : "Sun, 09 Oct 2022 10:00:04 +0000",
-         "title" : "Bishop Against Pawns"
-      },
-      {
-         "description" : "The historical chess tournament, Tournament of Peace 2022, will take place from 12th 20th October 2022 in Zagreb, Croatia. The event will be played in the National and University Library, with 10 world-class grandmasters competing over 9 rounds (round-robin system). The participants are: Santos Latasa Jaime (ESP, 2672), Moussard Jules (FRA, 2670), Shevchenko Kirill (UKR, 2642), Yilmaz&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tournament-of-peace-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tournament-of-peace-2022/",
-         "pubDate" : "Sun, 09 Oct 2022 09:20:18 +0000",
-         "title" : "Tournament of Peace 2022"
       }
    ]
 }
