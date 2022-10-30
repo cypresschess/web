@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2071",
+         "pubDate" : "Sun, 30 Oct 2022 21:31:45 +0000",
+         "title" : "Anna Muzychuk edges out Humpy Koneru to reach semifinal"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> <a href=\"https://www.frchess.com/pairings-and-results\">narrowly beat</a> <strong>Ian Nepomniachtchi</strong> in the final of the <strong>Fischer Random World Championship</strong> in Reykjavik and scored $150,000. <strong>Magnus Carlsen</strong> was ousted by Nepo in the semifinal but won the match for 3rd place against <strong>Nodirbek Abdusattorov</strong>, who had dominated his preliminary. The defending champion <strong>Wesley So</strong> came sixth after losing to <strong>Vladimir Fedoseev</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nakamura-is-fischer-random-world/",
+         "pubDate" : "Sun, 30 Oct 2022 21:17:33 +0100",
+         "title" : "Nakamura is Fischer Random World Champion"
+      },
+      {
          "description" : "Report by Aga Milewska A very scary tournament was held on 29.10.2022 in London organised by the well-known GingerGMGM Simon Williams. The tournament had taken a break due to Covid but returned to the crypt at StPancras New Church in central London, a perfect venue for Halloween ! Players were encouraged towear fancy dress and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -834,7 +850,7 @@ news_feed (
          "title" : "FIDE Women Candidates Pool A 2022 - Games and Results"
       },
       {
-         "description" : " The FIDE World Fischer Random Chess Championship takes place in Reykjavik 25th to 30th October 2022. The event starts tomorrow with two pools of four. Pool A Wesley So, Ian Nepomniachtchi, Nodirbek Abdusattorov and Hjorvar Steinn Gratarsson. Pool B Magnus Carlsen, Hikaru Nakamura, Vladimir Fedoseev and Matthias Bluebaum. I won't be doing much in the way of coverage as I can't display the games but will try and have a file for download. ",
+         "description" : " The FIDE World Fischer Random Chess Championship took place in Reykjavik 25th to 30th October 2022. The event starts tomorrow with two pools of four. Pool A Wesley So, Ian Nepomniachtchi, Nodirbek Abdusattorov and Hjorvar Steinn Gratarsson. Pool B Magnus Carlsen, Hikaru Nakamura, Vladimir Fedoseev and Matthias Bluebaum. Hikaru Nakamura beat Ian Nepomniachtchi in a final Armageddon tie-break in the final to take the title, Magnus Carlsen finished in 3rd place beating Nodirbek Abdusattorov. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-fischer-random-chess-championship-2022",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
          "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
          "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Priyanka Nutakki</strong>, a 20-year old WGM from India participating in the <strong>U20 World Championship</strong>, after winning her sixth round game was declared the loser and excluded from the tournament because of earbuds that had not been detected during the pre-round scan but found in her jacket. There was no indication of cheating whatsoever. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/junior-excluded-for-bringing-earbuds/",
-         "pubDate" : "Wed, 19 Oct 2022 18:30:22 +0100",
-         "title" : "Junior excluded for bringing earbuds"
       },
       {
          "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
