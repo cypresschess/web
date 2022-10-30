@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A reminder to get your entries in for the 2022 Vikings Weekender on the weekend of the 18th, 19th and 20th. Due to space restrictions the event is capped at 60 players, and 50% of the seats are already sold. The venue is the Vikings Club at Condor ACT, and it will be a 6 round 60m+30s FIDE rated event, run in 2 sections. To enter, just visit <a href=\"https://www.trybooking.com/CDEUF\">https://www.trybooking.com/CDEUF</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender.html",
+         "pubDate" : "Sun, 30 Oct 2022 13:13:00 +0000",
+         "title" : "2022 Vikings Weekender"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2069",
+         "pubDate" : "Sun, 30 Oct 2022 12:13:29 +0000",
+         "title" : "10th IBCA PanAmerican Games for Blind set new records"
+      },
+      {
+         "description" : "Have you ever faced an opponent, who you played against many times, and lost the majority of the games? Well, Lilit had to face the player who was the favourite to win the European Women's Championship - Nana Dzagnidze. But how do you prepare against a stronger opponent? Maybe surprise them? Play for a draw? Or something different? Lilit shares her approach with us.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-4",
+         "pubDate" : "Sun, 30 Oct 2022 13:00:00 +0100",
+         "title" : "Lilit Mkrtchian (4) - How to prepare against a well-known, stronger opponent?"
+      },
+      {
          "description" : "In the semi-finals of the Fischer Random World Championship in Reykjavik Hikaru Nakamura (pictured) came to a clear win against Nodirbek Abdusattorov: Nakamura won 3-0 and will face Ian Nepomniachtchi in the final. Nepomniachtchi lost the first game in his match against Magnus Carlsen but then hit back: He won all of the remaining three games to win the match 3-1. So the final on Sunday (16.00 CET, 11.00 ET, 15.00 GMT) is now \"Naka against Nepo\". | Photos: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1474,6 @@ news_feed (
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
       },
       {
-         "description" : "The Lex Fridman Podcast has over two million subscribers on YouTube and is considered one of the most exciting, challenging and best podcasts in the world. It explores topics such as artificial intelligence, technology, history, consciousness, love and power. In the most recent episode of the podcast, Lex Fridman had Hikaru Nakamura as his guest. The American Grandmaster and streamer showed his \"Immortal Game\" and talked about \"the best player of all time\", crises and setbacks, Magnus Carlsen, the Hans Niemann case and revealed that for him love is \"the most important thing in life\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-lex-fridman-podcast-with-hikaru-nakamura",
-         "pubDate" : "Tue, 18 Oct 2022 17:19:16 +0100",
-         "title" : "The Lex Fridman Podcast - with Hikaru Nakamura"
-      },
-      {
          "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1944,14 +1960,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/what-makes-great-coach.html",
          "pubDate" : "Sun, 09 Oct 2022 15:03:00 +0000",
          "title" : "What Makes a Great Coach?"
-      },
-      {
-         "description" : " As I have written previously, my first chess computer was a Scisys Chess Champion Pocket Chess. I credit this computer with helping learn a lot about chess in my early days, and I still have as part of my vintage chess computer collection. However, as I got better at chess I began to beat it more easily, even on the harder levels. As an example here is a game I recently found in an old collection of scoresheets. It was set to level 6, which meant it thought for around 20 minutes a move, but event with this amount of thinking, it only lasted 12 moves. <br /> <b>Scisys - Press,Shaun [C50]</b><br />Computer Match, 1985 <script>new PgnViewer( { boardName: \"game1358\", movesFormat: \"default\", pgn",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/scisys-beating.html",
-         "pubDate" : "Sun, 09 Oct 2022 12:21:00 +0000",
-         "title" : "Scisys beating"
       }
    ]
 }
