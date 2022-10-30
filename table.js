@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2022-10-28","24","<a href=http://www.uschess.org/msa/XtblMain.php?202210282552 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2022-10-28","8","<a href=http://www.uschess.org/msa/XtblMain.php?202210282482 target='_blank'>FBCC 2022 HALLOWEEN PARTY OPEN/FBCC</a>",
 "SPRING","2022-10-28","10","<a href=http://www.uschess.org/msa/XtblMain.php?202210282432 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2022-10-04  - 10-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202210251552 target='_blank'>OCTOBER TUESDAY NIGHT SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-02-19","157","<a href=http://www.uschess.org/msa/XtblMain.php?202202191962 target='_blank'>BLANSON HS CHESS TOURNAMENT</a>",
 "SPRING","2022-02-18","21","<a href=http://www.uschess.org/msa/XtblMain.php?202202181492 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-02-18","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202181432 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2022-02-11","31","<a href=http://www.uschess.org/msa/XtblMain.php?202202118462 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
