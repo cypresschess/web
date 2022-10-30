@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2072",
+         "pubDate" : "Sun, 30 Oct 2022 21:51:40 +0000",
+         "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
+      },
+      {
+         "description" : "This report is a flash report; a full report will be published soon. GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Champion on Sunday after winning a thrilling armageddon tiebreaker against GM Ian Nepomniachtchi. Having split...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
+         "pubDate" : "Sun, 30 Oct 2022 14:43:00 -0700",
+         "title" : "Hikaru Nakamura Wins Fischer Random World Championship: Flash Report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2071",
          "pubDate" : "Sun, 30 Oct 2022 21:31:45 +0000",
          "title" : "Anna Muzychuk edges out Humpy Koneru to reach semifinal"
@@ -1674,14 +1690,6 @@ news_feed (
          "title" : "Indian GM Erigaisi shocks Carlsen in Aimchess Rapid tourney"
       },
       {
-         "description" : "The 10th round of the 2022 U.S. Chess Championship took place on Saturday with a single decisive result in favor of GM Hans Niemann. Draws for GMs Fabiano Caruana and Ray Robson left them on 7/10 and 6.5/10 respectively with chances for chasers to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-10",
-         "pubDate" : "Sat, 15 Oct 2022 21:33:00 -0700",
-         "title" : "Niemann Wins: 'A Comeback Is Brewing'"
-      },
-      {
          "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
          "pubDate" : "Mon, 10 Oct 2022 08:48:22 +0000",
          "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2029",
-         "pubDate" : "Sun, 09 Oct 2022 21:57:05 +0000",
-         "title" : "Novy Bor wins European Club Cup"
       }
    ]
 }
