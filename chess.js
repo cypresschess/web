@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2070",
+         "pubDate" : "Sun, 30 Oct 2022 15:22:33 +0000",
+         "title" : "Winners crowned at 2022 FIDE World Amateur Chess Championship"
+      },
+      {
+         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. On Sunday, Hikaru Nakamura and Ian Nepomniachtchi will play the final for the title of Fischer Random World Champion 2022. | Follow the games live with expert commentary starting at 16.00 CET (11.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
+         "pubDate" : "Sun, 30 Oct 2022 15:45:00 +0100",
+         "title" : "Fischer Random World Championship Finals: Live"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 97th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-3",
+         "pubDate" : "Sun, 30 Oct 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 97: Queen's Gambit Declined (3)"
+      },
+      {
+         "description" : "Ian Nepomniachtchi bounced back from losing the first semi-final game to Magnus Carlsen to win the next three and reach the Fischer Random World Championship final. His opponent will be Hikaru Nakamura, who was in devastating form as he completed a 3:0 whitewash of Nodirbek Abdusattorov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fischer-random-4-nepo-knocks-out-magnus-faces-naka-in-final",
+         "pubDate" : "Sun, 30 Oct 2022 13:59:32 +0000",
+         "title" : "Fischer Random 4: Nepo ousts Magnus, faces Naka in final"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei Tingjie will play against Anna Muzychuk or Humpy Koneru, who drew their minimatch and now have to go into tiebreak. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Sun, 30 Oct 2022 14:40:00 +0100",
+         "title" : "Women's Candidates: Anna Muzychuk and Humply Koneru play tiebreak"
+      },
+      {
          "description" : " A reminder to get your entries in for the 2022 Vikings Weekender on the weekend of the 18th, 19th and 20th. Due to space restrictions the event is capped at 60 players, and 50% of the seats are already sold. The venue is the Vikings Club at Condor ACT, and it will be a 6 round 60m+30s FIDE rated event, run in 2 sections. To enter, just visit <a href=\"https://www.trybooking.com/CDEUF\">https://www.trybooking.com/CDEUF</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1402,22 +1442,6 @@ news_feed (
          "title" : "World's Top Teenager Makes Triumphant Return"
       },
       {
-         "description" : "There are periods of quiet in competition and periods of nonstop excitement, and readers have been treated to the latter of late. The Meltwater series now running the Aimchess event with World Champion as well as stars on the rise, has seen great battles left and right. Many of these led to mindboggling endgames which our resident (as in global) expert Karsten Mueller shares a few.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-wonders-from-aimchess",
-         "pubDate" : "Wed, 19 Oct 2022 12:05:48 +0100",
-         "title" : "Endgame wonders from Aimchess"
-      },
-      {
-         "description" : "Going into Wednesday's final round, Fabiano Caruana and Irina Krush are sole leaders in the open and women's sections of the U.S. Championships, respectively. Ray Robson, Leinier Dominguez and Awonder Liang still have chances of catching Caruana in the open, while Jennifer Yu and Thalia Cervantes stand a half point behind Krush and will face each other in the thirteenth round. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championship-2022-r12",
-         "pubDate" : "Wed, 19 Oct 2022 12:00:00 +0100",
-         "title" : "U.S. Championships: Krush leapfrogs Yu"
-      },
-      {
          "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1456,14 +1480,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-rapid-indian-challenge-ends-in-quarterfinals/articleshow/94956298.cms",
          "pubDate" : "Wed, 19 Oct 2022 04:22:36 +0000",
          "title" : "Aimchess Rapid: Indian challenge ends in quarterfinals"
-      },
-      {
-         "description" : "Three long-standing elite GMs defeated younger opponents in the quarterfinals of the Aimchess Rapid online tournament, as Magnus Carlsen, Shakhriyar Mamedyarov and Richard Rapport knocked out Arjun Erigaisi, Nodirbek Abdusattorov and Gukesh Dommaraju, respectively. The one exception to this rule was Jan-Krzysztof Duda, who got the better of Vidit Gujrathi. By reaching the event's semifinals, Carlsen secured overall tour victory with one tournament to spare!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d5",
-         "pubDate" : "Wed, 19 Oct 2022 02:45:00 +0100",
-         "title" : "Aimchess Rapid: Experience prevails, Carlsen secures tour victory"
       },
       {
          "description" : "",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
          "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
          "title" : "Free chess training for Ukrainian refugees"
-      },
-      {
-         "description" : "‌A nerve-wracking final three rounds of the Aimchess Rapid prelim stage saw Polish ace Jan-Krzysztof Duda sail through to the quarter-finals in first place while Anish Giri was sensationally knocked out. A struggling Magnus Carlsen is through, but will have to overcome the young star Arjun Erigaisi who beat him in the prelims.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-4-duda-wins-prelims",
-         "pubDate" : "Tue, 18 Oct 2022 08:54:07 +0000",
-         "title" : "Aimchess Rapid Day 4: Duda wins prelims on nerve-wracking final day"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2029",
          "pubDate" : "Sun, 09 Oct 2022 21:57:05 +0000",
          "title" : "Novy Bor wins European Club Cup"
-      },
-      {
-         "description" : " Sixteen-year-old Saad Abobaker Elmi recently scored 7/11 in the World Youth Chess Championships in Romania after winning the Nordic Youth Championships. Of Somalian ancestry, his parents immigrated to Oslo, Norway where he took up chess at an early age. He recently came in second in the Norway Junior Championships and had a strong performance in The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/\">Saad Elmi, Next Star in Norway?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/10/09/saad-elmi-next-star-in-norway/",
-         "pubDate" : "Sun, 09 Oct 2022 15:29:55 +0000",
-         "title" : "Saad Elmi, Next Star in Norway?"
-      },
-      {
-         "description" : "Tired of all the recent, seemingly endless, stories and videos about cheating in chess? For this month's featured video, let's change the subject. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/sj1NhE5FcKE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>RB Ramesh free talk: \"Let your kids enjoy the game of chess!\"</B> (1:06:37) &#149; '[Published on] Sep 12, 2022' <P>The description summarized the message of the video. <BLOCKQUOTE>The great coach RB Ramesh invited parents attending the World Youth Chess Championships 2022 for a discussion to h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/what-makes-great-coach.html",
-         "pubDate" : "Sun, 09 Oct 2022 15:03:00 +0000",
-         "title" : "What Makes a Great Coach?"
       }
    ]
 }
