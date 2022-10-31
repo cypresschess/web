@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games of day 3 / []",
+         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 Candidates Tournament after winner her tiebreak match vs. Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and instantly got eliminated. Muzychuk wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
+         "pubDate" : "Mon, 31 Oct 2022 01:49:07 -0700",
+         "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
+      },
+      {
+         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here Hikaru Nakamura posted []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-on-his-frc-world-championship-title/",
+         "pubDate" : "Mon, 31 Oct 2022 08:46:17 +0000",
+         "title" : "Hikaru Nakamura on his FRC World Championship title"
+      },
+      {
+         "description" : "It was a tiebreak that was worthy of the importance and drama that had led up to it. While Humpy Koneru and her fans will lament how it ended, the fact is the tiebreak was incredibly entertaining and had a bit of it all. Even the quiet start was crucial in setting up the very dramatic third and fourth games. Don't miss out on the report! | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-Ana-Muzychuk-wins-thrilling-tiebreak",
+         "pubDate" : "Mon, 31 Oct 2022 08:54:03 +0100",
+         "title" : "Women's Candidates: Ana Muzychuk wins thrilling tiebreak"
+      },
+      {
+         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here / Find all []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/hikaru-nakamura-is-fischer-random-chess-world-champion-2022/",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://www.chessdom.com/rating-favorites-with-tough-start-at-asian-continental-2022/",
          "pubDate" : "Thu, 27 Oct 2022 08:33:53 +0000",
          "title" : "Rating favorites with tough start at Asian Continental 2022"
-      },
-      {
-         "description" : "The pairings are the simplest aspect of today's group stages, as the players face off four times against the same opponent, in two mini-matches, as the contest transitions into the return matches from rounds 3 to 4. Even though the match-ups repeat, the mini-matches were played from two different starting positions. Replay the games of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-is-the-first-to-qualify-for-the-fischer-random-semi-finals/",
-         "pubDate" : "Thu, 27 Oct 2022 08:23:43 +0000",
-         "title" : "Abdusattorov is the first to qualify for the Fischer Random semi-finals"
       },
       {
          "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
@@ -1650,14 +1666,6 @@ news_feed (
          "title" : "Donald Trump, Chess Master"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov still leads the preliminaries of the Aimchess Rapid tournament after eight rounds of play, but it was again GM Shakhriyar Mamedyarov who got fans on the edge of their seats as he played a brilliant move in his game with GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-2",
-         "pubDate" : "Sun, 16 Oct 2022 02:33:00 -0700",
-         "title" : "Mamedyarov's 16...Rxh2 Move Of The Year?"
-      },
-      {
          "description" : " 3 rounds have been completed in the 2022 Asian Seniors, with IM Gary Lane the outright leader in the 50 years and over event, while FM Efrem Bagamasbad and Miles Patterson are joint leaders in the 65 years and Over event. Lane beat FM Leonard McLaren in the morning round and FM Arlan Cabe in the afternoon round. He leads IM Anthony Ker, FM Alexei Kulashko and IM Paul Garbett by half a point. In tomorrows round, Lane is playing Kulashko on the top board. The 65 and Over event saw, a couple of upsets on the top boards, with Bagamasbad beating FM Ewen Green, and Patterson beating FM Bob Smith. Oddly, the two leaders do not play each other tomorrow, as both a white in rounds 2 and 3, and cannot",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1960,14 +1968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/london-junior-chess-championship-update/",
          "pubDate" : "Mon, 10 Oct 2022 11:44:06 +0000",
          "title" : "London Junior Chess Championships update"
-      },
-      {
-         "description" : "The 37th European Chess Club Cup and the 26th European Women's Club Cup concluded yesterday in Mayrhofen, Austria, with Novy Bor Chess Club clinching the title in the Open section and ASVOe Pamhagen winning the Women's tournament. The Czech team Novy Bor defeated Asnieres Le Grand Echiquier from France in the thrilling last round to score impressive 7/7&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/novy-bor-chess-club-and-asvoe-pamhagen-win-european-club-cup-2022/",
-         "pubDate" : "Mon, 10 Oct 2022 08:48:22 +0000",
-         "title" : "Novy Bor Chess Club and ASVOe Pamhagen win European Club Cup 2022"
       }
    ]
 }
