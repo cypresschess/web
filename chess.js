@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95213020.cms\" />Siddhant Gawai lived up to his billing to remain unbeaten and emerge champion in the Maharashtra State U-15 Open Fide rating chess championship, which concluded in Amravati on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-siddhant-gawai-emerges-state-u-15-chess-champion-qualifies-for-nationals/articleshow/95213020.cms",
+         "pubDate" : "Mon, 31 Oct 2022 17:05:43 +0000",
+         "title" : "Unbeaten Gawai emerges state U-15 champion, qualifies for nationals"
+      },
+      {
+         "description" : "Sofia Karpova, the daughter of Anatoly Karpov, confirmed that Anatoly Karpov is in serious condition, &#8220;Dad was injured as a result of the fall, he is in an artificial coma&#8220; The daughter of a Russian Grandmaster said that there was no attack on her father and that the injuries were a cause of her father []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sofia-karpova-anatoly-karpov-is-in-an-artificial-coma/",
+         "pubDate" : "Mon, 31 Oct 2022 17:04:25 +0000",
+         "title" : "Sofia Karpova: Anatoly Karpov is in an artificial coma"
+      },
+      {
+         "description" : "The media left and right has reported the sudden hospitalization of former World Champion Analtoly Karpov after he was found unresponsive in front of the Duma, upon which he was rushed to intensive care. The reports are all over the place as of this post, with some reporting an assault, and others saying he has nothing. Though with Russian media as the source it is hard to know where the truth lies. We will update this report as the news trickles in.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-news-anatoly-karpov-in-hospital-after-incident",
+         "pubDate" : "Mon, 31 Oct 2022 17:00:00 +0100",
+         "title" : "Breaking News: Anatoly Karpov in hospital after incident"
+      },
+      {
+         "description" : "Last Wednesday, 26 October, British International Master Michael Basman died of cancer at the age of 76. A prolific chess writer, he left his mark in the chess world as an uncompromising, inventive player. Among other endeavours, he will be remembered as a founder and organizer of the UK Chess Challenge, a tournament for juniors of all standards and ages. | Photo: David Llada / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-basman-obituary",
+         "pubDate" : "Mon, 31 Oct 2022 16:45:00 +0100",
+         "title" : "Michael Basman (1946 - 2022)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95211202.cms\" />Indian Grandmaster Harsha Bharathakoti held top-seeded compatriot and GM R Praggnanandhaa to a draw in the sixth round of the Open section to remain in sole lead with 5 points in the Asian Continental Chess championship on Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-harsha-bharathakoti-remains-in-top-spot/articleshow/95211202.cms",
+         "pubDate" : "Mon, 31 Oct 2022 15:35:34 +0000",
+         "title" : "Asian Chess Championship: Harsha Bharathakoti remains in top spot"
+      },
+      {
          "description" : "14:30 CET Former World Chess Champion Anatoly Karpov is hospitalized in serious condition and possibly in artificial coma. Karpov was found is serious condition near the state Duma, where he works as a member of the Russian Parliament. Initial reports suggested Karpov was a victim of an attack, citing head trauma and broken hip. Later, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,14 +114,6 @@ news_feed (
          "title" : "Dubov wins Halloween masked event"
       },
       {
-         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
-         "pubDate" : "Mon, 31 Oct 2022 01:49:00 -0700",
-         "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
-      },
-      {
          "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here Hikaru Nakamura posted []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2072",
          "pubDate" : "Sun, 30 Oct 2022 21:51:40 +0000",
          "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
-      },
-      {
-         "description" : "GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Chess Champion on Sunday after winning a thrilling armageddon tiebreaker final against GM Ian Nepomniachtchi. Having split the points in their four-game mini-match, Nakamura saved h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
-         "pubDate" : "Sun, 30 Oct 2022 14:43:00 -0700",
-         "title" : "Hikaru Nakamura Wins Fischer Random World Championship"
       },
       {
          "description" : "",
@@ -234,14 +258,6 @@ news_feed (
          "title" : "Fischer Random World Championship: Nakamura and Nepomniachtchi advance to the final"
       },
       {
-         "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
-         "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
-         "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
          "description" : "The final match of the Top Engine Chess Championship is here. Stockfish is taking on Leela for the highest title in computer chess, in a 100 games match, starting today at 17:00 UTC on the official site of TCEC and TCEC Twitch TV. Stockfish won convincingly the Premier Division and Leela snatched the second position []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nakamura-nepomniachtchi-is-the-fischer-random-2022-final/",
          "pubDate" : "Sun, 30 Oct 2022 06:22:52 +0000",
          "title" : "Nakamura - Nepomniachtchi is the Fischer Random 2022 final"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-sf",
-         "pubDate" : "Sat, 29 Oct 2022 20:45:00 -0700",
-         "title" : "World Champions Fall: Nakamura, Nepomniachtchi Progress To Final"
       },
       {
          "description" : "",
@@ -450,14 +458,6 @@ news_feed (
          "title" : "Anish Giri releases Part 2 of his 1. e4 Lifetime Repertoires"
       },
       {
-         "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/michael-basman-1946-2022",
-         "pubDate" : "Fri, 28 Oct 2022 01:31:00 -0700",
-         "title" : "Michael Basman, 1946-2022"
-      },
-      {
          "description" : "After the incident at the Sinquefield Cup, strict controls for technical aids are undertaken at the Fischer Random World Championship. But how well do these controls work? A journalist from the Norwegian TV station NRK tried it out.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,22 +472,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
          "pubDate" : "Fri, 28 Oct 2022 07:00:22 +0000",
          "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
-      },
-      {
-         "description" : "The Fischer Random World Chess Championship 2022 will have a new champion. Wesley So did not manage to go out of the groups, finishing 3rd in the group stage. However, this takes away just a pinch of the excitement, as the semi finals will see the participants in the last World Chess Championship the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fischer-random-2022-semi-finals-carlsen-nakamura-nepomniachtchi-and-abdusattorov/",
-         "pubDate" : "Fri, 28 Oct 2022 06:19:43 +0000",
-         "title" : "Fischer Random 2022 semi finals - Carlsen, Nakamura, Nepomniachtchi, and Abdusattorov"
-      },
-      {
-         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced a variant he saw as the future of the game, Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in R...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
-         "pubDate" : "Thu, 27 Oct 2022 22:20:00 -0700",
-         "title" : "Fischer's Vision Alive In Reykjavik: Abdusattorov, Carlsen On Top"
       },
       {
          "description" : "The group stage of the World Fischer Random Championship came to an end on Thursday. Besides Nodirbek Abdusattorov, who secured his spot in semis on the second day of action, Magnus Carlsen, Hikaru Nakamura and Ian Nepomniachtchi moved on to the knockout stage by finishing among the top two in each group. In Saturday's semis, Abdusattorov will face Nakamura, while Carlsen and Nepomniachtchi will play a rematch of last year's confrontation for the Classical World Championship title. | Photo: FIDE / David Llada",
@@ -602,14 +586,6 @@ news_feed (
          "title" : "Game of the Week #539: R. Svane vs J. Krassowizkij"
       },
       {
-         "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
-         "pubDate" : "Thu, 27 Oct 2022 01:08:00 -0700",
-         "title" : "Koneru Misses Win On Day Of Draws"
-      },
-      {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -624,14 +600,6 @@ news_feed (
          "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
          "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
          "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join GM Hikaru Nakamura―who was held t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
-         "pubDate" : "Wed, 26 Oct 2022 23:15:00 -0700",
-         "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
       },
       {
          "description" : "Nodirbek Abdusattorov, the youngest participant in Reykjavik, became the first player to secure a spot in the semis of the World Fischer Random Championship. The 18-year-old has a perfect 8/8 score (in match points) and has only drawn one game so far in the event. Abdusattorov's qualification means either Wesley So or Ian Nepomniachtchi will be eliminated in group A. Meanwhile, in group B, Magnus Carlsen and Hikaru Nakamura are sharing the lead, two match points ahead of Vladimir Fedoseev. | Photo: FIDE / Lennart Ootes",
@@ -682,14 +650,6 @@ news_feed (
          "title" : "Women's Candidates starts with a bang"
       },
       {
-         "description" : "GM Sam Shankland began Titled Tuesday with a 9/9 score before winning the early event with a score of 10/11. In the late event, a six-way tie for first place on nine points was not completely broken, leaving GMs Alexey Sarana and Bogdan-Daniel Dea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shankland-sarana-deac-win-titled-tuesday-october-25-2022",
-         "pubDate" : "Wed, 26 Oct 2022 08:09:04 -0700",
-         "title" : "Another Perfect Start Precedes Rare Tie"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95104273.cms\" />The All India Chess Federation (AICF) has claimed that records pertaining to a Right to Information (RTI) Act query by a player were destroyed by pests at its headquarters, leading to a rebuke from the Central Information Commission.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -738,14 +698,6 @@ news_feed (
          "title" : "LIVE GAMES : ASIAN CONTINENTAL CHESS CHAMPIONSHIP-2022"
       },
       {
-         "description" : "It wasn&#39;t a good first day for the Muzychuk sisters at the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco, as both lost their games as Black. GM Humpy Koneru found a nice tactic to quickly beat GM Anna Muzychuk, while GM Lei Tingjie defeated...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-1",
-         "pubDate" : "Wed, 26 Oct 2022 02:49:00 -0700",
-         "title" : "Koneru, Lei Beat Muzychuk Sisters As Women's Candidates Tournament Takes Off"
-      },
-      {
          "description" : "The Fischer Random World Championship, which started yesterday in Reykjavik, is overshadowed by the Niemann lawsuit, in which Niemann sued Magnus Carlsen, Hikaru Nakamura, Daniel Rensch, chess.com and the Play Magnus Group for 100 million USD. Carlsen and Nakamura are playing in the World Championship, but did not want to comment on the lawsuit. However, the Icelandic Grandmaster Hj&ouml;rvar Gretarsson, who is a lawyer by profession and who also takes part in the Championship, commented the lawsuit and a game he had played against Niemann. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -768,14 +720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/robson-vs-so-best-attacks-us-champs-grandmasters-choice-gm-yuniesky-quesada",
          "pubDate" : "Wed, 26 Oct 2022 04:07:18 +0000",
          "title" : "Robson vs. So: Best Attacks at U.S. Champs! | Grandmaster's Choice - GM Yuniesky Quesada"
-      },
-      {
-         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
-         "pubDate" : "Tue, 25 Oct 2022 20:42:00 -0700",
-         "title" : "The Winding Wonderland of Fischer Random: Abdusattorov, Nakamura Lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attackin",
@@ -1042,14 +986,6 @@ news_feed (
          "title" : "FIDE Women's Candidates 2022/23 opens in Monaco"
       },
       {
-         "description" : "The 2022 World Junior Chess Championships were resounding successes for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-world-junior-chess-championships-gadimbayli-beydullayeva",
-         "pubDate" : "Sun, 23 Oct 2022 07:24:00 -0700",
-         "title" : "Double Gold For Azerbaijan At World Juniors"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 96th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1178,14 +1114,6 @@ news_feed (
          "title" : "Frederic's mates - Bobby Fischer"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda won the Aimchess Rapid tournament on Friday after beating GM Shakhriyar Mamedyarov in a blitz tiebreak, necessary because Mamedyarov had levelled the score in the second match. It was Duda&#39;s second tournament victory in the t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-aimchess-rapid-2022",
-         "pubDate" : "Sat, 22 Oct 2022 01:21:00 -0700",
-         "title" : "Duda Wins Aimchess Rapid 2022 In Tiebreak"
-      },
-      {
          "description" : "This time we would like to add only one piece of information to the inconspicuous diagram position: White to play! The rest is up to your tactical acumen...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1234,14 +1162,6 @@ news_feed (
          "title" : "Armageddon Online Cup begins"
       },
       {
-         "description" : "The Chess.com Global Championship Finals start on November 2, 2022! As our biggest tournament of the year reaches its thrilling conclusion, the live finals will now occur in two locations: Toronto, Canada, and Belgrade, Serbia. Check out the detai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-to-watch-chesscom-global-championship-finals",
-         "pubDate" : "Fri, 21 Oct 2022 12:40:00 -0700",
-         "title" : "How To Watch The Chess.com Global Championship Finals"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Oved &amp; Oved</strong>, a New York litigation specialist, and the local <strong>Gartner Law Firm</strong> filed a defamation law suit in the state of Missouri on behalf of <strong>Hans Niemann</strong> claiming $100 million altogether from <strong>Magnus Carlsen</strong>, <strong>Hikaru Nakamura</strong>, the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>. <strong>Latham &amp; Watkins</strong> has <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-magnus-carlsen-lawsuit-11666291319\">rejected the law suit</a> as without base on behalf of Chess.com. Niemann <a href=\"https://twitter.com/HansMokeNiemann/status",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1272,14 +1192,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
          "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
          "title" : "Why was Magnus Carlsen sued for $100 million?"
-      },
-      {
-         "description" : "GM Hans Niemann has filed a defamation lawsuit against GM Magnus Carlsen, GM Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Danny Rensch, seeking at least $100 million in damages. The lawsuit is the next episode in the chess cheating sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
-         "pubDate" : "Fri, 21 Oct 2022 06:38:00 -0700",
-         "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
       },
       {
          "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
@@ -1346,14 +1258,6 @@ news_feed (
          "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda took a big step toward winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. The 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-final-day-1",
-         "pubDate" : "Thu, 20 Oct 2022 23:27:00 -0700",
-         "title" : "Duda Leads In Aimchess Rapid Final"
-      },
-      {
          "description" : " While some games are still in progress, early results from the 2022 Asian Seniors have determined a lot of the top places. The over 50 event saw a number of quick draws on the top boards, leaving IM Gary Lane in outright first on 8/9. In 2nd place was FM Arlan Cabe (PHI) with 7, and FM Alexi Kulashko (NZL) in third place on 6. Both 2nd and third also earn IM norms, which might be enough for Kulashko to claim the title, as he had some previous norms for the New Zealand Championships. In the Over 65 event FM Efren Bagamasbad took a quick draw to secure first place on 7.5/9. Miles Patterson defeated David Lovejoy to finish outright 2nd on 7/9, while third place still depends on a couple of gam",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1368,14 +1272,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/",
          "pubDate" : "Thu, 20 Oct 2022 23:46:21 +0000",
          "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
-      },
-      {
-         "description" : "WGM Jennifer Yu was crowned the winner of the 2022 U.S. Women&#39;s Chess Championship on Thursday after a thrilling tiebreaker that had to be decided by an armageddon game. After winning the opening game of the match against GM Irina Krush, Yu very n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yu-wins-2022-us-championship-playoff",
-         "pubDate" : "Thu, 20 Oct 2022 16:26:00 -0700",
-         "title" : "Yu Claims U.S. Women's Championship In Thrilling Armageddon Tiebreaker"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Krush in the playoff of the 2022 U.S. Women's Championship. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-wins-armageddon-title-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/59R2wxI7e7E.jpg?itok=xAODUmbY\" alt=\"\" /></a></div>",
@@ -1450,14 +1346,6 @@ news_feed (
          "title" : "U.S. Championships: Games and standings"
       },
       {
-         "description" : "In his \"Game of the Week\" show #538 Merijn van Delft looks at a fine and very creative attacking game Ray Robson played at the US Championship 2022 against Wesley So. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-538-r-robson-vs-w-so",
-         "pubDate" : "Thu, 20 Oct 2022 16:10:21 +0100",
-         "title" : "Game of the Week #538: R. Robson vs W. So"
-      },
-      {
          "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1466,28 +1354,12 @@ news_feed (
          "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
       },
       {
-         "description" : "You've seen videos using it, and articles displaying it, and here is the tutorial on how to use it in all its glory. The Engine Correlation in Let's Check can be a wonderful tool when used properly and comes with a variety of options in both ChessBase 16 and the Fritz interface. Here is the easy-to-use definitive guide.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-s-check-engine-correlation-how-to-use-it",
-         "pubDate" : "Thu, 20 Oct 2022 11:58:49 +0100",
-         "title" : "Let's Check Engine Correlation: How to use it"
-      },
-      {
          "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov today.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-6-duda-knocks-out-carlsen-to-face-mamedyarov-in-final",
          "pubDate" : "Thu, 20 Oct 2022 09:20:20 +0000",
          "title" : "Aimchess Rapid Day 6: Duda knocks out Carlsen to face Mamedyarov in final"
-      },
-      {
-         "description" : "GM Magnus Carlsen was eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-semifinals",
-         "pubDate" : "Wed, 19 Oct 2022 23:45:00 -0700",
-         "title" : "Duda Knocks Out Carlsen, To Play Mamedyarov In Final"
       },
       {
          "description" : "",
@@ -1522,28 +1394,12 @@ news_feed (
          "title" : "Things are crook in Tallarook"
       },
       {
-         "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
-         "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
-      },
-      {
          "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/us-champs-12-sevian-decapitates-niemann-s-king",
          "pubDate" : "Wed, 19 Oct 2022 15:13:42 +0000",
          "title" : "US Champs 12: Sevian \"decapitates\" Niemann's king "
-      },
-      {
-         "description" : "GM Alireza Firouzja played in both Titled Tuesday tournaments on October 18, scoring 18/22 overall before winning the late event. They were his first games on Chess.com since April 22, 2021. The early event was won by GM-elect Tuan Minh Le with th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-firouzja-win-titled-tuesday-october-18-2022",
-         "pubDate" : "Wed, 19 Oct 2022 07:42:55 -0700",
-         "title" : "World's Top Teenager Makes Triumphant Return"
       },
       {
          "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
@@ -1554,28 +1410,12 @@ news_feed (
          "title" : "Paul Buswell RIP"
       },
       {
-         "description" : "By reaching the semifinals of the Aimchess Rapid tournament, GM Magnus Carlsen has secured overall victory in the 2022 Meltwater Champions Chess Tour. The world champion knocked out GM Arjun Erigaisi and will face GM Jan-Krzysztof Duda next. The o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-quarterfinals",
-         "pubDate" : "Wed, 19 Oct 2022 02:31:00 -0700",
-         "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
-      },
-      {
          "description" : "Magnus Carlsen sealed the overall Meltwater Champions Chess Tour title for the second year running - this time with an event to spare - after storming into the semi-finals of the Aimchess Rapid. The World Champion faces Jan-Krzysztof Duda in the semis, while either Shakhriyar Mamedyarov or Richard Rapport will be their opponent in the final.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-event-to-spare",
          "pubDate" : "Wed, 19 Oct 2022 07:33:50 +0000",
          "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with event to spare"
-      },
-      {
-         "description" : "Tuesday&#39;s penultimate round of the U.S. Chess Championship saw leader GM Fabiano Caruana draw his fifth game straight against GM Sam Shankland and move to 8/12. GM Ray Robson, his closest challenger, trails by half a point with the two players pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-12",
-         "pubDate" : "Tue, 18 Oct 2022 22:28:00 -0700",
-         "title" : "Krush Wins Crucial Match Against Yu, Takes Sole Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
@@ -1618,14 +1458,6 @@ news_feed (
          "title" : "Rolling membership introduction"
       },
       {
-         "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-4",
-         "pubDate" : "Tue, 18 Oct 2022 02:39:00 -0700",
-         "title" : "Carlsen, Erigaisi To Meet Again As Aimchess Rapid Moves To Knockout"
-      },
-      {
          "description" : " The charm of events like Asian Seniors (apart from the chess), is the social get together.Tony Dowden is currently playing this event, and doing quite well. On the way to dinner one evening he recounted the time he pulled off an outrageous swindle against IM Alex Wohl. As he tells it, decided to offer a hot pawn, which Wohl took. The follow up was to offer up the exchange, which Wohl, also took. He then 'allowed' his bishop to be trapped, which Wohl should not have done. After Wohl played the fateful move, Dowden unleashed Qxf2+, which lead to a forced mate. 'Oh, that's mate' was Wohl's final reply. <br /> <br /> <b>Wohl, Aleks - Dowden, Tony</b><br />New Zealand Championship <script>new Pg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1640,14 +1472,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
          "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
          "title" : "Free chess training for Ukrainian refugees"
-      },
-      {
-         "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-11",
-         "pubDate" : "Mon, 17 Oct 2022 22:08:00 -0700",
-         "title" : "Sevian Still In Contention After Beating Swiercz"
       },
       {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
@@ -1688,14 +1512,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-wor/",
          "pubDate" : "Mon, 17 Oct 2022 09:30:29 +0000",
          "title" : "Gukesh is the youngest player ever to beat Magnus Carlsen as World Champion"
-      },
-      {
-         "description" : "Winning three games and drawing one on Sunday, GM Jan-Krzysztof Duda emerged as the new leader in the Aimchess Rapid preliminaries with three rounds to go. GM Magnus Carlsen continues to struggle with his form as he lost another game, this time ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-3",
-         "pubDate" : "Mon, 17 Oct 2022 01:44:00 -0700",
-         "title" : "Duda New Leader At Aimchess Rapid; Gukesh Youngest Player To Beat Carlsen"
       },
       {
          "description" : "",
