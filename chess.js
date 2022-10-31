@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games of day 3 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-is-fischer-random-chess-world-champion-2022/",
+         "pubDate" : "Mon, 31 Oct 2022 06:09:25 +0000",
+         "title" : "Hikaru Nakamura is Fischer Random Chess World Champion 2022"
+      },
+      {
          "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/examples-of-master-play.html",
          "pubDate" : "Wed, 26 Oct 2022 11:38:00 +0000",
          "title" : "Examples of Master Play"
-      },
-      {
-         "description" : "The FIDE World Team Championship 2022, aka the small Chess Olympiad, will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve team championship. Xinhua confirmed the participating teams USA (reigning champion), Israel (home team), Azerbaijan, The Netherlands, China, Ukraine, France, Poland, South Africa, India, Uzbekistan, and Spain. See []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/niemann-is-in-the-us-team-for-the-world-team-chess-2022-amid-the-ongoing-lawsuit/",
-         "pubDate" : "Wed, 26 Oct 2022 11:34:45 +0000",
-         "title" : "Niemann is in the US team for the World Team Chess 2022 amid the ongoing lawsuit"
       },
       {
          "description" : "",
