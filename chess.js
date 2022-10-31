@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 European Senior Team Chess Championships (50+ &#38; 65+ age categories) are ongoing in Dresden, Germany. After four played rounds, Slovakia and England 50-1 tie for the first place of the 50+ section, scoring perfect 8 match points. Slovakia headed by Lubomir Ftacnik yesterday convincingly defeated Österreich with the 3.5-0.5 score, while England 50-1 claimed a narrow&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-r4-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-r4-report/",
+         "pubDate" : "Mon, 31 Oct 2022 11:19:09 +0000",
+         "title" : "European Senior Team Chess Championships 2022 - R4 report"
+      },
+      {
          "description" : "Six England teams comprising 26 players gathered for the European Senior Team Chess Championship in Dresden, Germany. The six teams are as follows England...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
