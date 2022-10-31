@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "14:30 CET Former World Chess Champion Anatoly Karpov is hospitalized in serious condition and possibly in artificial coma. Karpov was found is serious condition near the state Duma, where he works as a member of the Russian Parliament. Initial reports suggested Karpov was a victim of an attack, citing head trauma and broken hip. Later, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anatoly-karpov-is-hospitalized-in-artificial-coma/",
+         "pubDate" : "Mon, 31 Oct 2022 13:47:02 +0000",
+         "title" : "Anatoly Karpov is hospitalized in serious condition [Updated]"
+      },
+      {
+         "description" : " Breaking News - Former World Chess Champion Anatoly Karpov hospitalized today. According to Russian telegram channels, Karpov was found unresponsive early in the morning near the State Duma (Russsian Parliament) building. He was rushed to the hospital and is now in the intensive care unit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D8321AFA-13BE-4F3A-A254-B6E0A3E339AD.jpeg\" width=\"624\" height=\"350\" alt=\"\" /> <div class=\"e2-text-caption\">Anatoly Karpov</div> </div> According to the media, Karpov suffered serious head injury and hip fracture. According to unconfirmed reports, his blood alcohol level was extremely high. Karpov, a former World Chess Champion, h",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/",
+         "pubDate" : "Mon, 31 Oct 2022 13:18:28 +0000",
+         "title" : "Anatoly Karpov Hospitalized in Serious Condition"
+      },
+      {
+         "description" : "Next year Ding Liren will play Ian Nepomniachtchi in a match for the World Championship title. Magnus Carlsen's withdrawal and Ding's second place in the 2022 Candidates Tournament made it possible. High time to take a closer look at the top player from China and especially his playing skills in ChessBase Magazine! In the current issue our authors comment on their favourite game of the Chinese player. In addition, \"Ding Liren's Positional Play\" (Mihail Marin's strategy column incl. video) and \"Endgame Highlights of Ding Liren\" (by Karsten M&uuml;ller, also with a video) are awaiting you. You can enjoy Romain Edouard's analysis of the game Ding Liren - Sergei Movsesian from the World Cup 2019",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-210-special-ding-liren",
+         "pubDate" : "Mon, 31 Oct 2022 14:00:00 +0100",
+         "title" : "CBM #210 \"Special\": Ding Liren"
+      },
+      {
+         "description" : " Magnus Carlsen, the reigning World Chess Champion and the highest-rated player in history, has officially quit the FIDE World Chess Championship cycle. According to the chess governing body, FIDE, Carlsen confirmed in writing that he will not defend his title. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/37D2912A-F018-4D5B-803C-18177A6BAC65.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen at the 2016 World Chess Championship Match in NYC</div> </div> The announcement, made earlier today, does not come as a surprise: Carlsen announced his intention to part ways with the official Championship circuit earlier this year. Howe",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-officially-quits-the-championship-cycle/",
+         "pubDate" : "Mon, 31 Oct 2022 12:52:28 +0000",
+         "title" : "Carlsen Officially Quits the Championship Cycle"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2073",
+         "pubDate" : "Mon, 31 Oct 2022 11:58:51 +0000",
+         "title" : "Ding Liren receives official invitation to take part in FIDE World Championship match 2023"
+      },
+      {
          "description" : "The 2022 European Senior Team Chess Championships (50+ &#38; 65+ age categories) are ongoing in Dresden, Germany. After four played rounds, Slovakia and England 50-1 tie for the first place of the 50+ section, scoring perfect 8 match points. Slovakia headed by Lubomir Ftacnik yesterday convincingly defeated Österreich with the 3.5-0.5 score, while England 50-1 claimed a narrow&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-r4-report/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,11 +74,11 @@ news_feed (
          "title" : "Dubov wins Halloween masked event"
       },
       {
-         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 Candidates Tournament after winner her tiebreak match vs. Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and instantly got eliminated. Muzychuk wi...",
+         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Muzychuk will n...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
-         "pubDate" : "Mon, 31 Oct 2022 01:49:07 -0700",
+         "pubDate" : "Mon, 31 Oct 2022 01:49:00 -0700",
          "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
       },
       {
@@ -55,7 +95,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-Ana-Muzychuk-wins-thrilling-tiebreak",
          "pubDate" : "Mon, 31 Oct 2022 08:54:03 +0100",
-         "title" : "Women's Candidates: Ana Muzychuk wins thrilling tiebreak"
+         "title" : "Women's Candidates: Anna Muzychuk wins thrilling tiebreak"
       },
       {
          "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here / Find all []",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fischer-random-4-nepo-knocks-out-magnus-faces-naka-in-final",
          "pubDate" : "Sun, 30 Oct 2022 13:59:32 +0000",
          "title" : "Fischer Random 4: Nepo ousts Magnus, faces Naka in final"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei Tingjie will play against Anna Muzychuk or Humpy Koneru, who drew their minimatch and now have to go into tiebreak. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Sun, 30 Oct 2022 14:40:00 +0100",
-         "title" : "Women's Candidates: Anna Muzychuk and Humply Koneru play tiebreak"
       },
       {
          "description" : " A reminder to get your entries in for the 2022 Vikings Weekender on the weekend of the 18th, 19th and 20th. Due to space restrictions the event is capped at 60 players, and 50% of the seats are already sold. The venue is the Vikings Club at Condor ACT, and it will be a 6 round 60m+30s FIDE rated event, run in 2 sections. To enter, just visit <a href=\"https://www.trybooking.com/CDEUF\">https://www.trybooking.com/CDEUF</a> ",
@@ -568,14 +600,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-539-r-svane-vs-j-krassowizkij",
          "pubDate" : "Thu, 27 Oct 2022 10:00:00 +0100",
          "title" : "Game of the Week #539: R. Svane vs J. Krassowizkij"
-      },
-      {
-         "description" : "The Asian Continental Chess Championship 2022 got off to a rousing start at Leela Ambience Convention Hotel on Wednesday. 140 players from 13 Asian countries which include 31 Grandmasters, 46 International Masters, 14 Women Grandmasters and 17 Women International Masters (see all participants Open section / all participants Women section) are participating in this nine []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rating-favorites-with-tough-start-at-asian-continental-2022/",
-         "pubDate" : "Thu, 27 Oct 2022 08:33:53 +0000",
-         "title" : "Rating favorites with tough start at Asian Continental 2022"
       },
       {
          "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
@@ -1976,22 +2000,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html",
          "pubDate" : "Mon, 10 Oct 2022 15:41:00 +0000",
          "title" : "TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway"
-      },
-      {
-         "description" : "It never fails; in time with Magnus' chessploits, the debate in Norwegian newspapers' commentary fields rages red hot over whether chess is a sport or athletics, with no surprising conclusions: one agrees to disagree, definitions do not diminish or lessen Magnus' performances and 'you can't compare apples and oranges.' Study by Rune Vik-Hansen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/is-chess-a-sport",
-         "pubDate" : "Mon, 10 Oct 2022 14:00:00 +0100",
-         "title" : "Is Chess a Sport?"
-      },
-      {
-         "description" : "The London Junior Chess Championship website has been updated with all the qualifying events and links to entry forms available www.ljcc.co.uk The LJCC Finals...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/london-junior-chess-championship-update/",
-         "pubDate" : "Mon, 10 Oct 2022 11:44:06 +0000",
-         "title" : "London Junior Chess Championships update"
       }
    ]
 }
