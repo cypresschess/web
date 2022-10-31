@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2030",
          "pubDate" : "Mon, 10 Oct 2022 18:43:55 +0000",
          "title" : "Missing FIDE President: Investigation by FIDE Historical Committee"
-      },
-      {
-         "description" : "Welcome back to our ongoing coverage of the world's two foremost engine vs. engine competitions. Let's first summarize the previous report from two weeks ago, <A HREF=\"http://chessforallages.blogspot.com/2022/09/tcec-s23-paused-ccc19-blitz-main.html\">TCEC S23 Paused; 'CCC19 Blitz Main' Underway</A>(September 2022):- <BLOCKQUOTE>TCEC: S23 L1 finished with Ethereal and Berserk promoting into DivP. Before that event starts, the site is running 'VSOB22 until replacement GPU'. &#149; CCC: The site is currently running 'CCC19 Blitz Main' with 10 engines. This was preceded by three other 'CCC19 Blitz' events: 'Newcomers', 'Qualifier #1', and 'Qualifier #2'. </BLOCKQUOTE> <P>The current situation ha",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html",
-         "pubDate" : "Mon, 10 Oct 2022 15:41:00 +0000",
-         "title" : "TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway"
       }
    ]
 }
