@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I'm currently writing a history of Richmond Junior Chess Club from 1975 to 2006: you can read the second part here. The next part will cover the period where our members included future GMs Luke McShane and Jonathan Rowson, along with future IMs Richard Bates and Tom Hinks-Edwards. Last Sunday two of these players happened <a href=\"https://chessimprover.com/at-last-the-1988-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"At Last the 1988 Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/at-last-the-1988-show/\">At Last the 1988 Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/at-last-the-1988-show/",
+         "pubDate" : "Mon, 31 Oct 2022 20:39:41 +0000",
+         "title" : "At Last the 1988 Show"
+      },
+      {
          "description" : "Chess.com is excited to announce that we will be hosting the 2022 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on November 13 and the blitz championship on November 20. Registration is underway and continues...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Sofia Karpova: Anatoly Karpov is in an artificial coma"
       },
       {
-         "description" : "The media left and right has reported the sudden hospitalization of former World Champion Analtoly Karpov after he was found unresponsive in front of the Duma, upon which he was rushed to intensive care. The reports are all over the place as of this post, with some reporting an assault, and others saying he has nothing. Though with Russian media as the source it is hard to know where the truth lies. We will update this report as the news trickles in.",
+         "description" : "After an accident, former World Champion Anatoly Karpov was rushed to the hospital with multiple head injuries in which he was placed in an induced coma. Karpov was put on a ventilator now, and has been diagnosed with cerebral edema, fractures of the right parietal and right temporal bones, multiple head hematomas, and traumatic subarachnoid hemorrhage. We will update this report as the news trickles in.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/breaking-news-anatoly-karpov-in-hospital-after-incident",
          "pubDate" : "Mon, 31 Oct 2022 17:00:00 +0100",
-         "title" : "Breaking News: Anatoly Karpov in hospital after incident"
+         "title" : "Breaking News: Anatoly Karpov in hospital with fractured skull"
       },
       {
          "description" : "Last Wednesday, 26 October, British International Master Michael Basman died of cancer at the age of 76. A prolific chess writer, he left his mark in the chess world as an uncompromising, inventive player. Among other endeavours, he will be remembered as a founder and organizer of the UK Chess Challenge, a tournament for juniors of all standards and ages. | Photo: David Llada / FIDE",
