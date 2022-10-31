@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-wins-the-fischer-random-world-championship",
+         "pubDate" : "Mon, 31 Oct 2022 00:11:02 +0000",
+         "title" : "Nakamura wins the Fischer Random World Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
       },
       {
-         "description" : "This report is a flash report; a full report will be published soon. GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Champion on Sunday after winning a thrilling armageddon tiebreaker against GM Ian Nepomniachtchi. Having split...",
+         "description" : "GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Chess Champion on Sunday after winning a thrilling armageddon tiebreaker final against GM Ian Nepomniachtchi. Having split the points in their four-game mini-match, Nakamura saved h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
          "pubDate" : "Sun, 30 Oct 2022 14:43:00 -0700",
-         "title" : "Hikaru Nakamura Wins Fischer Random World Championship: Flash Report"
+         "title" : "Hikaru Nakamura Wins Fischer Random World Championship"
       },
       {
          "description" : "",
@@ -1544,14 +1552,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
          "pubDate" : "Tue, 18 Oct 2022 12:00:45 +0000",
          "title" : "Rolling membership introduction"
-      },
-      {
-         "description" : "Fabiano Caruana and Jennifer Yu maintain their lead in the 2022 US Championship by half a point going into the final two rounds, but the battle is heating up. Leinier Dominguez and Sam Sevian have moved within a point of Fabi after defeating Christopher Yoo and Dariusz Swiercz in Round 11, while Wesley So and Hans Niemann also won to return to 50%.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-champs-11-caruana-yu-lead-as-race-heats-up",
-         "pubDate" : "Tue, 18 Oct 2022 11:53:57 +0000",
-         "title" : "US Champs 11: Caruana & Yu lead as race heats up"
       },
       {
          "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
