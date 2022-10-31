@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Six England teams comprising 26 players gathered for the European Senior Team Chess Championship in Dresden, Germany. The six teams are as follows England...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-reports-from-nigel-povah/",
+         "pubDate" : "Mon, 31 Oct 2022 10:26:05 +0000",
+         "title" : "European Senior Teams Championships - reports from Nigel Povah"
+      },
+      {
+         "description" : "An Armageddon game decided the Fischer Random World Championship 2022. In the finals of the World Championship Hikaru Nakamura played against Ian Nepomniachtchi and after a 2-2 tie in the four games of the initial mini-match, an Armageddon game had to decide. Here, Nakamura won with White to become new Fischer Random World Champion. The placement matches all ended 3:1: Magnus Carlsen won against Nodirbek Abdusattorov and came third, Vladimir Fedoseev beat Wesley So and came fifth, Matthias Bl&uuml;baum made it to 7th place with his win against Hjorvar Steinn Gretarsson. | Foto: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hikaru-nakamura-is-fischer-random-world-champion",
+         "pubDate" : "Mon, 31 Oct 2022 11:15:21 +0100",
+         "title" : "Hikaru Nakamura is Fischer Random World Champion"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An online tournament of masked players was held (<a href=\"https://www.youtube.com/watch?v=kfjLwZym1QQ&amp;t=2s\">video link</a>) by <strong>chess24</strong> and <strong>Chessable</strong>. The winner Scary Surprise turned out to be <strong>Daniil Dubov</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/dubov-wins-halloween-masked-event/",
+         "pubDate" : "Mon, 31 Oct 2022 10:44:46 +0100",
+         "title" : "Dubov wins Halloween masked event"
+      },
+      {
          "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 Candidates Tournament after winner her tiebreak match vs. Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and instantly got eliminated. Muzychuk wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-indias-harsha-bharathakoti-in-lead/articleshow/95186429.cms",
          "pubDate" : "Sun, 30 Oct 2022 16:07:24 +0000",
          "title" : "Asian chess: India's Harsha Bharathakoti in lead"
+      },
+      {
+         "description" : "Once again we return to the long-running series <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/the-root-of-all-evil.html\">'The Root of All Evil'?</A>(September 2022). In that post I wrote, <BLOCKQUOTE>This is the second post in a row to deal with the so-called 'root of all evil'. </BLOCKQUOTE> <P>By some weird twist of fate -- evil fate? -- we now have the third post in a row. The story appeared on my most recent Yahoos post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>(October 2022), where 'Yahoos' is ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/world-chess-ipo.html",
+         "pubDate" : "Sun, 30 Oct 2022 16:04:00 +0000",
+         "title" : "World Chess IPO"
       },
       {
          "description" : "",
@@ -1426,14 +1458,6 @@ news_feed (
          "title" : "Duda Knocks Out Carlsen, To Play Mamedyarov In Final"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Łukasz Turlej</strong>, a former President of the <strong>Polish Chess Federation</strong> and <strong>FIDE</strong> Vice President, <a href=\"https://twitter.com/lukaszturlej/status/1582788120738951168\">has been appointed as FIDE General Secretary</a>, a post that was vacant since 18 months. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/turlej-becomes-fide-general/",
-         "pubDate" : "Thu, 20 Oct 2022 06:33:24 +0100",
-         "title" : "Turlej becomes FIDE General Secretary"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1464,14 +1488,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/things-are-crook-in-tallarook.html",
          "pubDate" : "Thu, 20 Oct 2022 04:00:00 +0000",
          "title" : "Things are crook in Tallarook"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda and Shakhriyar Mamedyarov reached the final of the Aimchess Rapid online tournament after outscoring Magnus Carlsen and Richard Rapport in Wednesday's semis, respectively. Duda and Shakh finished first and third in the preliminary stage, and enter the deciding match of the event as much-deserving finalists.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d6",
-         "pubDate" : "Thu, 20 Oct 2022 02:05:00 +0100",
-         "title" : "Aimchess Rapid: Duda knocks out Carlsen, will face Shakh in the final"
       },
       {
          "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
