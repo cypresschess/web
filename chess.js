@@ -74,7 +74,7 @@ news_feed (
          "title" : "Dubov wins Halloween masked event"
       },
       {
-         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Muzychuk will n...",
+         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
