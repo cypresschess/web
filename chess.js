@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://chessimprover.com/self-inflicted-wounds-4/",
          "pubDate" : "Tue, 11 Oct 2022 10:00:51 +0000",
          "title" : "Self Inflicted Wounds (4)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2031",
-         "pubDate" : "Mon, 10 Oct 2022 21:26:56 +0000",
-         "title" : "Turkey triumphs at the FIDE World Youth U-16 Chess Olympiad 2022"
       }
    ]
 }
