@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #213 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from David's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-212-with-david-navara-2",
+         "pubDate" : "Tue, 01 Nov 2022 15:53:42 +0100",
+         "title" : "Endgame Magic #213 with David Navara"
+      },
+      {
+         "description" : " <p class=\"lead\">Hikaru Nakamura is not only a successful streamer but also a brilliant OTB player who got his first World Title by winning the FIDE World Fischer Random Chess Championship in Reykjavik, Iceland. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.jpg\" width=\"1200\" height=\"782\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / FIDE</div> </div> Τhe second edition of the FIDE World Fischer Random Chess Championship took place in Reykjavik, Iceland from 25 to 30 October 2022, with the defending champion Wesley So, reigning world champion and the world no.1 Magnus Carlsen, Iceland no.1 GM Hjorvar Steinn Gretarsson (Organizer Wildcard",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/hikaru-nakamura-is-the-new-fischer-random-world-champion/",
+         "pubDate" : "Tue, 01 Nov 2022 14:20:38 +0000",
+         "title" : "Hikaru Nakamura is the new Fischer Random World Champion"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei Tingjie will play against Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Tue, 01 Nov 2022 14:50:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : "WFM Shohreh Bayat &#38; Andrei Ciuravin are organising a series of free chess training lessons for Ukrainian refugees in Hull. The lessons are expected to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees-in-hull/",
+         "pubDate" : "Tue, 01 Nov 2022 13:41:55 +0000",
+         "title" : "Free Chess training for Ukrainian Refugees in Hull"
+      },
+      {
          "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club, is the third installment of the Chess []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1434,14 +1466,6 @@ news_feed (
          "title" : "Aimchess Rapid Final: Duda wins first set"
       },
       {
-         "description" : "The Aimchess Rapid, the eighth and penultimate tournament of the Meltwater Champions Chess Tour, is taking place on October 14-21. Sixteen world-class players, including top streamers Eric Hansen and Daniel Naroditsky and world champion Magnus Carlsen, will battle it out for eight days. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-live",
-         "pubDate" : "Fri, 21 Oct 2022 14:00:00 +0100",
-         "title" : "Aimchess Rapid Finals: Live"
-      },
-      {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1544,14 +1568,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/niemann-sues-carlsen-and-chess-com-for-defamation-asks-for-100-m/",
          "pubDate" : "Thu, 20 Oct 2022 20:45:46 +0000",
          "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
-      },
-      {
-         "description" : "The news broke out minutes ago. Hans Niemann posted on his Twitter the official complaint against Magnus Carlsen, the Play Magnus Group, Chess.com, Daniel Rensch, and Hikaru Nakamura. The complaint states that he is seeking \"damages in an amount to be determined at trial, but no less than One Hundred Million Dollars ($100,000,000)\". The text of the complaint does not mince words.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-hans-niemann-is-suing",
-         "pubDate" : "Thu, 20 Oct 2022 21:15:00 +0100",
-         "title" : "Breaking News: Hans Niemann is suing!"
       },
       {
          "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
@@ -1703,7 +1719,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
          "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
-         "title" : "Free chess training for Ukrainian refugees"
+         "title" : "Free chess training for Ukrainian refugees in London"
       },
       {
          "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
