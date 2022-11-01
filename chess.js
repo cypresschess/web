@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2075",
+         "pubDate" : "Tue, 01 Nov 2022 18:12:47 +0000",
+         "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
          "title" : "Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-billionaire-bots",
+         "pubDate" : "Tue, 01 Nov 2022 08:08:00 -0700",
+         "title" : "Play Chess Against The New Billionaire Bots"
       },
       {
          "description" : "In the Endgame Magic Show #213 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from David's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1722,14 +1738,6 @@ news_feed (
          "title" : "Free chess training for Ukrainian refugees in London"
       },
       {
-         "description" : "Tensions are sky-high in St. Louis after a high-voltage 11th round of the 2022 U.S. Chess Championship featured three decisive results. GM Sam Sevian scored a blistering win over GM Dariusz Swiercz with black to move into third place, while the le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-11",
-         "pubDate" : "Mon, 17 Oct 2022 22:08:00 -0700",
-         "title" : "Sevian Still In Contention After Beating Swiercz"
-      },
-      {
          "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2034",
          "pubDate" : "Wed, 12 Oct 2022 09:53:37 +0000",
          "title" : "Chess for Children with ASD: third education seminar conducted"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2033",
-         "pubDate" : "Tue, 11 Oct 2022 19:11:39 +0000",
-         "title" : "FIDE President visits Paraguay"
       }
    ]
 }
