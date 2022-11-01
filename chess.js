@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club, is the third installment of the Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fall-chess-classics-2022/",
+         "pubDate" : "Tue, 01 Nov 2022 11:49:26 +0000",
+         "title" : "Fall Chess Classic 2022"
+      },
+      {
+         "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fall-chess-classics-2022-live/",
+         "pubDate" : "Tue, 01 Nov 2022 11:49:21 +0000",
+         "title" : "Fall Chess Classic 2022 LIVE"
+      },
+      {
+         "description" : " Entries for the 2023 O2C Doeberl Cup are now open, and if you visit <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> you will see that there have been some big changes made to the tournament. The most significant one is the addition of an extra section (The Mini), which is for players rated below 1500 (ACF). Connected with that is the change in the rating limits for the Major (now Under 2100), and the Minor (now Under 1800). The reason for this is to balance the numbers in each event, and to make the pairings a little more sensible. The prizes for the Major and Minor are unchanged, while the Mini adds an extra $1700 to the overall prize pool. The always popular Blitz event a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2023-o2c-doeberl-cup.html",
+         "pubDate" : "Tue, 01 Nov 2022 11:48:00 +0000",
+         "title" : "2023 O2C Doeberl Cup"
+      },
+      {
+         "description" : "Chess has come a long way since Bobby Fischer was champion 50 years ago. Engines dominate how players study the game. So can we still really learn from his games after all this time? The answer is yes. You now have the opportunity to emulate Bobby Fischer's play and learn to put non-stop pressure on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fischers-endgame-technique-by-alex-colovic/",
+         "pubDate" : "Tue, 01 Nov 2022 11:40:46 +0000",
+         "title" : "Fischer's Endgame Technique by Alex Colovic"
+      },
+      {
          "description" : "It seems we have arrived at the strongest of all chess star signs. No less than three World Champions are Scorpios - Mikhail Tal, Alexander Alekhine, and Raoul Capablanca - and there are several other top players joining them - Ding Liren, Alexander Grischuk, Vincent Keymer, Lev Polugaevsky, Salo Flohr, and Ernst Gr&uuml;nfeld - to name but a few. But why are scorpions so brutally strong?| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +98,7 @@ news_feed (
          "title" : "Centipawn Analysis: evaluating strength with an engine"
       },
       {
-         "description" : " GM Hikaru Nakamura, 2022 Fischer Random World ChampionPhoto by David Llada In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. It marked the 50-year anniversary and same city of Bobby Fischer's victory over Soviet rival Boris Spassky The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. The American legend lost only once in the entire tournament and took a handsome prize of $150,000 after winning an Armageddon game again Ian Nepomniachtchi. GM Hikaru Nakamura, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/",
@@ -394,28 +426,12 @@ news_feed (
          "title" : "Dress up as Hans Niemann this Halloween: Chess Speaks for Itself #TweetOftheDay"
       },
       {
-         "description" : "Six players at the open section and four players at the women section share the lead at the ongoing Asian Continental Chess Championship 2022. After four rounds no one has a full set of points, as early on rating favorites encountered problems. The open section leaders (see all participants Open section) with 3,5/4 are Koustav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/traffic-jam-at-the-top-at-the-asian-continental-chess-2022-after-r4/",
-         "pubDate" : "Sun, 30 Oct 2022 06:58:36 +0000",
-         "title" : "Traffic jam at the top at the Asian Continental Chess 2022 after R4"
-      },
-      {
          "description" : "The Petroff has never had a reputation for decisive games, so deliberately entering into one in a must-win situation would seem not a little mad, yet for Ana Muzychuk at least her persistence paid off when she broke her higher rated opponent's resistance with a brilliant exchange sacrifice. Here sister was not so fortunate and Lei Tingjie won their match. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-Muzychuk-and-Koneru-go-to-tiebreaks",
          "pubDate" : "Sun, 30 Oct 2022 07:42:36 +0100",
          "title" : "Women's Candidates: Muzychuk and Koneru go to tiebreaks"
-      },
-      {
-         "description" : "Nakamura Nepomniachtchi is the final at the FIDE Fischer Random Chess Championship 2022. Ian Nepomniachtchi gained Fischer Random revenge for his unsuccessful classical title challenge against Magnus Carlsen last year, and immovable object Hikaru Nakamura toppled the irresistible force of the preliminaries, Nodirbek Abdusattorov, to set up a title match few predicted. Nakamura, the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-nepomniachtchi-is-the-fischer-random-2022-final/",
-         "pubDate" : "Sun, 30 Oct 2022 06:22:52 +0000",
-         "title" : "Nakamura - Nepomniachtchi is the Fischer Random 2022 final"
       },
       {
          "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-teams-squads-announced-for-jerusalem-2022",
          "pubDate" : "Fri, 28 Oct 2022 11:59:33 +0100",
          "title" : "FIDE World Teams squads announced for Jerusalem 2022"
-      },
-      {
-         "description" : "Grandmaster Anish Giri brings you a robust repertoire which seizes Black&#x2019;s half of the board before move ten &#x2014; so you&#x2019;d have all the space and time in the world to set up the winning breakthrough. If there&#x2019;s one thing chess engines and super-grandmaster games have taught us, it&#x2019;s that space wins games. And why []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-releases-part-2-of-his-1-e4-lifetime-repertoires/",
-         "pubDate" : "Fri, 28 Oct 2022 10:26:16 +0000",
-         "title" : "Anish Giri releases Part 2 of his 1. e4 Lifetime Repertoires"
       },
       {
          "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
