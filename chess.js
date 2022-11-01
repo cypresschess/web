@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World #6 Lei Tingjie and World #7 Anna Muzychuk edged closer to a chance to play a World Championship match as they knocked out Mariya Muzychuk and Humpy Koneru, respectively, in the €250,000 Women's Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anna-muzychuk-and-lei-tingjie-qualify-for-women-s-candidates-semi-final",
+         "pubDate" : "Tue, 01 Nov 2022 07:21:10 +0000",
+         "title" : "Anna Muzychuk and Lei Tingjie qualify for Women's Candidates semi-final"
+      },
+      {
+         "description" : "Using an engine to find out how many moves in a game match its top choice, is but one way to measure a move's quality with an engine. Another key way is what analysts such as Ken Regan use: a tool to compare the engine's evaluation of a move with its own choice of best move, and see by how much the evaluations differ. Now you can do this too using the Centipawn Analysis tool in ChessBase 16!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/centipawn-analysis-evaluating-strength-with-an-engine",
+         "pubDate" : "Tue, 01 Nov 2022 06:00:00 +0100",
+         "title" : "Centipawn Analysis: evaluating strength with an engine"
+      },
+      {
+         "description" : " GM Hikaru Nakamura, 2022 Fischer Random World ChampionPhoto by David Llada In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. It marked the 50-year anniversary and same city of Bobby Fischer's victory over Soviet rival Boris Spassky The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/",
+         "pubDate" : "Tue, 01 Nov 2022 03:56:15 +0000",
+         "title" : "Fischer Random Chess: A Dream Deferred"
+      },
+      {
          "description" : " I'm currently writing a history of Richmond Junior Chess Club from 1975 to 2006: you can read the second part here. The next part will cover the period where our members included future GMs Luke McShane and Jonathan Rowson, along with future IMs Richard Bates and Tom Hinks-Edwards. Last Sunday two of these players happened <a href=\"https://chessimprover.com/at-last-the-1988-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"At Last the 1988 Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/at-last-the-1988-show/\">At Last the 1988 Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "Fabiano Caruana is the 2022 U.S. champion"
       },
       {
-         "description" : "The U.S. Chess Championships took place on October 5-19 at the Saint Louis Chess Club. Both the open and the women's tournaments are 14-player round robins. Fabiano Caruana and Jennifer Yu clinched the 2022 titles. | Replay all the games from both sections.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-live",
-         "pubDate" : "Thu, 20 Oct 2022 18:50:00 +0100",
-         "title" : "U.S. Championships: Games and standings"
-      },
-      {
          "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1592,14 +1608,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-quarterfinals",
          "pubDate" : "Wed, 19 Oct 2022 02:31:00 -0700",
          "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
-      },
-      {
-         "description" : "Magnus Carlsen sealed the overall Meltwater Champions Chess Tour title for the second year running - this time with an event to spare - after storming into the semi-finals of the Aimchess Rapid. The World Champion faces Jan-Krzysztof Duda in the semis, while either Shakhriyar Mamedyarov or Richard Rapport will be their opponent in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-meltwater-champions-chess-tour-2022-with-event-to-spare",
-         "pubDate" : "Wed, 19 Oct 2022 07:33:50 +0000",
-         "title" : "Magnus Carlsen wins Meltwater Champions Chess Tour 2022 with event to spare"
       },
       {
          "description" : "Tuesday&#39;s penultimate round of the U.S. Chess Championship saw leader GM Fabiano Caruana draw his fifth game straight against GM Sam Shankland and move to 8/12. GM Ray Robson, his closest challenger, trails by half a point with the two players pla...",
