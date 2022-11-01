@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It seems we have arrived at the strongest of all chess star signs. No less than three World Champions are Scorpios - Mikhail Tal, Alexander Alekhine, and Raoul Capablanca - and there are several other top players joining them - Ding Liren, Alexander Grischuk, Vincent Keymer, Lev Polugaevsky, Salo Flohr, and Ernst Gr&uuml;nfeld - to name but a few. But why are scorpions so brutally strong?| Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/scorpio-and-their-strategy",
+         "pubDate" : "Tue, 01 Nov 2022 12:00:00 +0100",
+         "title" : "Scorpio and their strategy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2074",
+         "pubDate" : "Tue, 01 Nov 2022 10:57:50 +0000",
+         "title" : "FIDE November 2022 rating list published"
+      },
+      {
+         "description" : "Wesley So will join Magnus Carlsen, Anish Giri and Praggnanandhaa in San Francisco for the final event of the $1.6 million 2022 Meltwater Champions Chess Tour. The 8-player tournament runs from November 14-20 with Arjun Erigaisi, Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Liem Le joining remotely.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/meltwater-champions-chess-tour-finals-line-up-announced",
+         "pubDate" : "Tue, 01 Nov 2022 10:18:34 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals line-up announced"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Tue, 01 Nov 2022 10:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
          "description" : "The diagram shows a position which can often occur in rook endings. Both sides have passed pawns and it all seems to come down to a race between the passed pawns. However, in the diagram position White has a winning maneuver that one should know. How should White proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://www.chessdom.com/sofia-karpova-anatoly-karpov-is-in-an-artificial-coma/",
          "pubDate" : "Mon, 31 Oct 2022 17:04:25 +0000",
          "title" : "Sofia Karpova: Anatoly Karpov is in an artificial coma"
+      },
+      {
+         "description" : "'Another two weeks, another report about the world's top two ongoing engine vs.engine competitions.' That's what the lead sentence for this post should say, except that it's been three weeks since the previous report. My wife frequently insists on taking vacations that interfere with all of my well-planned schedules. That previous report, <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html\">TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway</A>(October 2022), can be summarized as follows:- <BLOCKQUOTE>TCEC: S23 DivP is well underway. Stockfish is two points ahead of LCzero and KomodoDragon, which are separated by a half-point. &#149; CCC: Stockfish ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html",
+         "pubDate" : "Mon, 31 Oct 2022 16:18:00 +0000",
+         "title" : "TCEC S23 Sufi, CCC19 Rapid : Both Underway"
       },
       {
          "description" : "After an accident, former World Champion Anatoly Karpov was rushed to the hospital with multiple head injuries in which he was placed in an induced coma. Karpov was put on a ventilator now, and has been diagnosed with cerebral edema, fractures of the right parietal and right temporal bones, multiple head hematomas, and traumatic subarachnoid hemorrhage. We will update this report as the news trickles in.",
@@ -1506,14 +1546,6 @@ news_feed (
          "title" : "Breaking News: Hans Niemann is suing!"
       },
       {
-         "description" : "This week Robert Ris will have a look at a tactically and strategically fascinating game between Duda and Carlsen, in which Carlsen tried a King's Indian, which soon led to entertaining complications. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-tactical-slugfest",
-         "pubDate" : "Thu, 20 Oct 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A tactical slugfest"
-      },
-      {
          "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1578,14 +1610,6 @@ news_feed (
          "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
       },
       {
-         "description" : "\"The disrespect just reached its peak. Sam decapitated Hans' king,\" tweeted Fabiano Caruana as the US Chess Championship descended into farce in Round 12. Niemann had the last laugh, ending Sevian's title hopes, while Fabi leads, with only Ray Robson, Leinier Dominguez and now Awonder Liang still able to catch him. Irina Krush leads the Women's section after exploiting a blunder by Jennifer Yu.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-champs-12-sevian-decapitates-niemann-s-king",
-         "pubDate" : "Wed, 19 Oct 2022 15:13:42 +0000",
-         "title" : "US Champs 12: Sevian \"decapitates\" Niemann's king "
-      },
-      {
          "description" : "GM Alireza Firouzja played in both Titled Tuesday tournaments on October 18, scoring 18/22 overall before winning the late event. They were his first games on Chess.com since April 22, 2021. The early event was won by GM-elect Tuan Minh Le with th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1648,14 +1672,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html",
          "pubDate" : "Tue, 18 Oct 2022 15:05:00 +0000",
          "title" : "Really Big Stereotypes"
-      },
-      {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Tue, 18 Oct 2022 12:00:45 +0000",
-         "title" : "Rolling membership introduction"
       },
       {
          "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
@@ -2000,14 +2016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/i-never-had-guts.html",
          "pubDate" : "Tue, 11 Oct 2022 12:27:00 +0000",
          "title" : "I never had the guts"
-      },
-      {
-         "description" : " \"I no longer have any fear of pain because I'm the one inflicting it and can decide when it stops.\" Maude Julien, The Only Girl in the World It is rather easy to spot mistakes played by others while you are watching their games. Their level matters for sure; however, many a time you can <a href=\"https://chessimprover.com/self-inflicted-wounds-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Self Inflicted Wounds (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/self-inflicted-wounds-4/\">Self Inflicted Wounds (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/self-inflicted-wounds-4/",
-         "pubDate" : "Tue, 11 Oct 2022 10:00:51 +0000",
-         "title" : "Self Inflicted Wounds (4)"
       }
    ]
 }
