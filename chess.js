@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-2-lichessorg",
+         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
+         "title" : "2022 Fall Chess Classic: Round 2 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-gm-miro-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-gm-miro-lichessorg",
+         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
+         "title" : "Chess Mistakes and How to Avoid Them - GM Miro | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on a concept you all should know. 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
+         "title" : "Beginner Breakdown | lichess.org"
+      },
+      {
          "description" : "In the Endgame Magic Show #213 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from David's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1-lichessorg",
-         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
-         "title" : "2022 Fall Chess Classic: Round 1 | lichess.org"
-      },
-      {
          "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1600,22 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2045",
          "pubDate" : "Thu, 20 Oct 2022 05:20:51 +0000",
          "title" : "Fabiano Caruana wins 2022 U.S. Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Cristian Chirila after defeating Swiercz in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-last-game-tournament-you-remember-most-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sVgo89CjVVQ.jpg?itok=fEqQW4IZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-last-game-tournament-you-remember-most-round-13",
-         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
-         "title" : "Christopher Yoo: Last Game of the Tournament You Remember Most | Round 13"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Awonder Liang talks to Cristian Chirila after a draw with Niemann in Round 13 of the 2022 U.S. Chess Championship. 2022.10.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/awonder-too-far-behind-homework-round-13\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w-Sc66AetKQ.jpg?itok=Eo8uFMw-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/awonder-too-far-behind-homework-round-13",
-         "pubDate" : "Thu, 20 Oct 2022 04:03:40 +0000",
-         "title" : "Awonder: Too Far Behind on Homework! | Round 13"
       },
       {
          "description" : " There is one round left to play in the 2022 Asian Seniors, but the event has been hit by a covid outbreak. Round 8 saw a number of games unplayed (won/lost on forfeit) and it is unclear who will make it for the final round. As things stand IM Gary Lane holds a one point lead with 7.5/8 in the Over 50 event. The only player who can catch him is FM Arlan Cabe, who is on 6.5. FM Alexei Kulashko is in 3rd place on 6 points, and is hoping to finish in the top 3 to collect his 4th (or 5th) IM norm. In the over 65 event FM Efrem Bagamasbad also holds a 1 point lead, on 7/8. Miles Patterson is a point behind on 6, with FM Bob Smith and Hilton Bennett on 5.5. There has been a draft set of pairings r",
