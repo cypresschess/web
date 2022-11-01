@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on a concept you all should know. 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/loose-pieces-drop-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/loose-pieces-drop-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 01 Nov 2022 22:13:04 +0000",
+         "title" : "Loose Pieces Drop Off! | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2076",
+         "pubDate" : "Tue, 01 Nov 2022 21:47:48 +0000",
+         "title" : "FIDE Women's Candidates semifinals: Mutual annihilation"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1576,14 +1592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jennifer-yu-wins-armageddon-title-playoff",
          "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
          "title" : "Jennifer Yu Wins Armageddon for the Title | Playoff"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush and Jennifer Yu are tied for first place after regulation. They compete in a G/10+2 match (Best-of-2) (blitz Armageddon if necessary) to determine the women&#039;s national champion, live from 308 N Euclid Ave. Join GMs Yasser Seirawan, Cristian Chirila, &amp; WGM Anastasiya Karlovych for the move-by-move. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-womens-championship-playoff-krush-vs-yu\"><img src=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-womens-championship-playoff-krush-vs-yu",
-         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
-         "title" : "2022 U.S. Women's Championship Playoff: Krush vs. Yu"
       },
       {
          "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
