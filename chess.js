@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2033",
          "pubDate" : "Tue, 11 Oct 2022 19:11:39 +0000",
          "title" : "FIDE President visits Paraguay"
-      },
-      {
-         "description" : " Early on in my career I used to play the Scotch Gambit line of the Italian quite a lot (1.e4 e5 2.Nf3 Nc6 3.d4 exd 4.Bc4). The idea was to aim for a Two Knights Defence as White, while avoiding the mainlines of the Italian game. One game that was given as a guide on what not to do was Meek v Morphy, where Meek played 5.Ng5 after 4. ... Bc5. As Morphy won brilliantly, the conventional wisdom was 'Do not play this opening'. And when I did face this line as White I chose the safer 5.O-O It appears that conventional wisdom may have wrong about this, as Awonder Liang belted Lev Aronian with this exact line. He even played the same sacrifice as Meek (adorned with a ? by Yusopov and others), and i",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/i-never-had-guts.html",
-         "pubDate" : "Tue, 11 Oct 2022 12:27:00 +0000",
-         "title" : "I never had the guts"
       }
    ]
 }
