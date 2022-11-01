@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The diagram shows a position which can often occur in rook endings. Both sides have passed pawns and it all seems to come down to a race between the passed pawns. However, in the diagram position White has a winning maneuver that one should know. How should White proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-typical-mistake",
+         "pubDate" : "Tue, 01 Nov 2022 09:00:00 +0100",
+         "title" : "A typical mistake"
+      },
+      {
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Tue, 01 Nov 2022 07:59:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
+      },
+      {
          "description" : "World #6 Lei Tingjie and World #7 Anna Muzychuk edged closer to a chance to play a World Championship match as they knocked out Mariya Muzychuk and Humpy Koneru, respectively, in the €250,000 Women's Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
          "pubDate" : "Thu, 27 Oct 2022 01:08:00 -0700",
          "title" : "Koneru Misses Win On Day Of Draws"
-      },
-      {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Thu, 27 Oct 2022 06:59:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
@@ -1504,14 +1512,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-tactical-slugfest",
          "pubDate" : "Thu, 20 Oct 2022 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A tactical slugfest"
-      },
-      {
-         "description" : "Fabiano Caruana won the 2022 U.S. Championship with an undefeated +4 score after drawing Levon Aronian in the final round of the tournament in Saint Louis. Ray Robson finished in clear second place, while Leinier Dominguez and Awonder Liang shared the third spot in the standings. In the women's event, Irina Krush and Jennifer Yu will play a tiebreaker for the title. | Photo: Bryan Adams",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r13",
-         "pubDate" : "Thu, 20 Oct 2022 18:55:00 +0100",
-         "title" : "Fabiano Caruana is the 2022 U.S. champion"
       },
       {
          "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
