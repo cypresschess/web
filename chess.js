@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Middlesex County Chess is struggling to find administrators and players, and they have set up a Google form for anyone and everyone who might be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/middlesex-chess-players-your-county-needs-you/",
+         "pubDate" : "Wed, 02 Nov 2022 14:31:09 +0000",
+         "title" : "Middlesex chess players - your county needs you!"
+      },
+      {
          "description" : "Chess.com is proud to announce that you can now enjoy Game Review in the newest versions of our mobile apps for Android and iOS! Study your moves like never before, review key moments, and relish your latest brilliant move right from your phone. M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2024,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2036",
          "pubDate" : "Wed, 12 Oct 2022 18:20:51 +0000",
          "title" : "FIDE World Junior Chess Championship kicks off in Cala Gonone, Sardinia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international/#new_tab",
-         "pubDate" : "Wed, 12 Oct 2022 15:27:35 +0000",
-         "title" : "International and FIDE Delegate reports from Malcolm Pein"
       }
    ]
 }
