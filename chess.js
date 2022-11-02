@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24th European Senior Team Championship is taking place in Dresden. After six rounds, England is leading the 50+ age group, after grabbing wins in all its matches. In the 65+ age group, Germany 3 is leading with 11/12 match points. Robert H&uuml;bner gave a lecture and played a simultaneous exhibition. Ulrike Vogel reports. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022",
+         "pubDate" : "Wed, 02 Nov 2022 10:00:00 +0100",
+         "title" : "European Senior Teams: England and Germany top the standings"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE's Fair Play Commission is preparing to train anti-cheating officials and to implement a screening system for ongoing games. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/niemann-scanned-by-chris-bird.1920.jpeg\" title=\"Arbiter Chris Bird scanned Hans Niemann at the Saint Louis Chess Club. photo: Lennart Ootes/Sinquefield Cup 2022\" data-title=\"Arbiter Chris Bird scanned Hans Niemann at the Saint Louis Chess Club. (photo: Lennart Ootes/Sinquefield Cup 2022)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/niemann-scanned-by-chris-bird.480.jpeg\" alt=\"Arbiter Chr",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/trust-was-yesterday/",
+         "pubDate" : "Wed, 02 Nov 2022 08:38:31 +0100",
+         "title" : "Trust was yesterday"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2075",
          "pubDate" : "Tue, 01 Nov 2022 18:12:47 +0000",
          "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
+      },
+      {
+         "description" : "How quickly we tend to forget. Last month, in <A HREF=\"http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html\">October 1972 & 1997 'On the Cover'</A>(October 2022), we saw Bobby Fischer on the cover as 'The World Champion!!'. This month his historic feat already risks sliding into the back pages of CL&R. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Herculean Labors' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>Grandmaster Walter Browne, left, after winning the 1972 U.S. Open in Atlantic City. N.J. USCF Executive Director Ed Edmondson is at right. Crosstable [inside].",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html",
+         "pubDate" : "Tue, 01 Nov 2022 16:33:00 +0000",
+         "title" : "November 1972 & 1997 'On the Cover'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "How To Watch The Chess.com Global Championship Finals"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Oved &amp; Oved</strong>, a New York litigation specialist, and the local <strong>Gartner Law Firm</strong> filed a defamation law suit in the state of Missouri on behalf of <strong>Hans Niemann</strong> claiming $100 million altogether from <strong>Magnus Carlsen</strong>, <strong>Hikaru Nakamura</strong>, the <strong>Play Magnus Group</strong> and <strong>Chess.com</strong>. <strong>Latham &amp; Watkins</strong> has <a href=\"https://www.wsj.com/articles/chess-cheating-hans-niemann-magnus-carlsen-lawsuit-11666291319\">rejected the law suit</a> as without base on behalf of Chess.com. Niemann <a href=\"https://twitter.com/HansMokeNiemann/status",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/two-law-firms-litigate-for-niemann/",
-         "pubDate" : "Fri, 21 Oct 2022 19:08:35 +0100",
-         "title" : "Two law firms litigate for Niemann"
-      },
-      {
          "description" : "In his Power Play Show, Daniel King continues his explorations of opening gambits. This time around, using a game in which world champion Magnus Carlsen played the fashionable Scotch Gambit. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-trent-s-tactics-36",
          "pubDate" : "Fri, 21 Oct 2022 14:12:04 +0100",
          "title" : "Trent's Ta(l)ctics - Niemann's Counter-Gambit - US Armageddon drama - Happy Birthday MVL and thanks for helping us with the tactics"
-      },
-      {
-         "description" : "In the final match of the Aimchess Rapid online tournament, Jan-Krzysztof Duda took the lead against Shakhriyar Mamedyarov by scoring a 3-1 victory in Thursday's first set. Duda comes from winning the preliminaries and knocking out world champion Magnus Carlsen in the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d7",
-         "pubDate" : "Fri, 21 Oct 2022 14:10:00 +0100",
-         "title" : "Aimchess Rapid Final: Duda wins first set"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
@@ -2032,22 +2040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/3rd-gm-norm-for-raymond-song.html",
          "pubDate" : "Wed, 12 Oct 2022 12:19:00 +0000",
          "title" : "3rd GM norm for Raymond Song"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2035",
-         "pubDate" : "Wed, 12 Oct 2022 09:58:37 +0000",
-         "title" : "Konstantin Landa (1972-2022)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2034",
-         "pubDate" : "Wed, 12 Oct 2022 09:53:37 +0000",
-         "title" : "Chess for Children with ASD: third education seminar conducted"
       }
    ]
 }
