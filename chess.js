@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro",
+         "pubDate" : "Wed, 02 Nov 2022 07:13:12 +0000",
+         "title" : "Chess Mistakes and How to Avoid Them | Grandmaster's Choice - GM Miro"
+      },
+      {
+         "description" : "The first game of the Women's Candidates semifinals between Anna Muzychuk and Lei Tingjie finished drawn. Muzychuk seemed surprised by her opponent's opening choice, as it was Lei's first time playing the Sicilian. The Chinese managed to get an edge in an endgame with rooks and knights, but her advantage was not enough to kick off the semifinal with a win. | Photo: FIDE / Michal walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g1",
+         "pubDate" : "Wed, 02 Nov 2022 05:00:00 +0100",
+         "title" : "Women's Candidates: Mutual annihilation"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-is-the-new-fischer-random-world-champion/",
          "pubDate" : "Tue, 01 Nov 2022 14:20:38 +0000",
          "title" : "Hikaru Nakamura is the new Fischer Random World Champion"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei Tingjie will play against Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Tue, 01 Nov 2022 14:50:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
       },
       {
          "description" : "WFM Shohreh Bayat &#38; Andrei Ciuravin are organising a series of free chess training lessons for Ukrainian refugees in Hull. The lessons are expected to...",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada",
          "pubDate" : "Tue, 25 Oct 2022 22:07:21 +0000",
          "title" : "2022 U.S. Championship: Best Attacking Games! | Grandmaster's Choice - GM Yuniesky Quesada"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the Zwischenzug, also known as an &quot;intermezzo&quot; or &quot;intermediate move,&quot; which describes a move that is played instead of and before the expected move and poses an immediate threat that the opponent must answer. 2022.10.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intermezzo-put-your-plans-hold-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/intermezzo-put-your-plans-hold-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 25 Oct 2022 22:07:21 +0000",
-         "title" : "Intermezzo: Put Your Plans on Hold! | Beginner Breakdown | lichess.org"
       },
       {
          "description" : " IM Kostya Kavutskiy Each one of us goes through unique personal experiences in our life. There is no generic plan we can follow to accomplish our goals. Of course we get tips from parents, teachers or friends and it is up to us to listen. If we do not, life has a funny way of <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (2)</a> appeared first on",
