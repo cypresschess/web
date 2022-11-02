@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura, who won the Fischer Random World Championship in Reykjavik, Iceland on October 30, and is now in Toronto, Canada for the Chess.com Global Championship Finals starting November 2, found time to take home yet another Titled Tuesd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-november-1-2022",
+         "pubDate" : "Wed, 02 Nov 2022 09:10:32 -0700",
+         "title" : "Newly-Crowned World Champion Nakamura Wins Another Tournament"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95261348.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa posted a crucial win over compatriot Koustav Chatterjee in the eighth round of the Open section to jump into sole lead of the Asian Continental Chess Championship on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1730,14 +1738,6 @@ news_feed (
          "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
       },
       {
-         "description" : "Tuesday&#39;s penultimate round of the U.S. Chess Championship saw leader GM Fabiano Caruana draw his fifth game straight against GM Sam Shankland and move to 8/12. GM Ray Robson, his closest challenger, trails by half a point with the two players pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-championship-round-12",
-         "pubDate" : "Tue, 18 Oct 2022 22:28:00 -0700",
-         "title" : "Krush Wins Crucial Match Against Yu, Takes Sole Lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2032",
          "pubDate" : "Wed, 12 Oct 2022 19:27:42 +0000",
          "title" : "Shortlist for FIDE Book Awards 2022 announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2036",
-         "pubDate" : "Wed, 12 Oct 2022 18:20:51 +0000",
-         "title" : "FIDE World Junior Chess Championship kicks off in Cala Gonone, Sardinia"
       }
    ]
 }
