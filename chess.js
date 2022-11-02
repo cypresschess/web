@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
+         "pubDate" : "Wed, 02 Nov 2022 12:30:00 +0100",
+         "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
+      },
+      {
          "description" : "The 24th European Senior Team Championship is taking place in Dresden. After six rounds, England is leading the 50+ age group, after grabbing wins in all its matches. In the 65+ age group, Germany 3 is leading with 11/12 match points. Robert H&uuml;bner gave a lecture and played a simultaneous exhibition. Ulrike Vogel reports. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1536,14 +1544,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2022-r14",
          "pubDate" : "Fri, 21 Oct 2022 14:15:00 +0100",
          "title" : "Jennifer Yu wins thrilling Armageddon, grabs second U.S. women's title"
-      },
-      {
-         "description" : "When Lawrence and Arne began their weekly show, they started with news, and then went over to tactics. The formats fused, and now we give birth to \"Trent's Ta(l)ctics\". We discuss the latest chess news, and add some tactics in the end. Did anything interesting happen in the last weeks? Besides the Magnus vs. Hans feud, we also dive into the US Women's championship Armageddon match, between Yu and Krush. Finally, our road to 3000 with our good ol' tactics training continues, with the help of birthday boy Maxime-Vachier Lagrave, who thinks the tactics we struggle with are a piece of cake. How fitting.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-trent-s-tactics-36",
-         "pubDate" : "Fri, 21 Oct 2022 14:12:04 +0100",
-         "title" : "Trent's Ta(l)ctics - Niemann's Counter-Gambit - US Armageddon drama - Happy Birthday MVL and thanks for helping us with the tactics"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
