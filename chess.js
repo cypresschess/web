@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-gm-miro",
+         "pubDate" : "Wed, 02 Nov 2022 01:13:04 +0000",
+         "title" : "Chess Mistakes and How to Avoid Them - GM Miro"
+      },
+      {
+         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/sac-or-no-sac-3/",
+         "pubDate" : "Tue, 01 Nov 2022 23:39:50 +0000",
+         "title" : "Sac Or No Sac? (3)"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on a concept you all should know. 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/loose-pieces-drop-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1584,14 +1600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yu-wins-2022-us-championship-playoff",
          "pubDate" : "Thu, 20 Oct 2022 16:26:00 -0700",
          "title" : "Yu Claims U.S. Women's Championship In Thrilling Armageddon Tiebreaker"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jennifer Yu talks to Cristian Chirila after defeating Krush in the playoff of the 2022 U.S. Women's Championship. 2022.10.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jennifer-yu-wins-armageddon-title-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/59R2wxI7e7E.jpg?itok=xAODUmbY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jennifer-yu-wins-armageddon-title-playoff",
-         "pubDate" : "Thu, 20 Oct 2022 22:03:57 +0000",
-         "title" : "Jennifer Yu Wins Armageddon for the Title | Playoff"
       },
       {
          "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
