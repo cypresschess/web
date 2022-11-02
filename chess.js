@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
          "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
          "title" : "ECU E-Magazine September 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2032",
-         "pubDate" : "Wed, 12 Oct 2022 19:27:42 +0000",
-         "title" : "Shortlist for FIDE Book Awards 2022 announced"
       }
    ]
 }
