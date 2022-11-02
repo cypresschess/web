@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95261348.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa posted a crucial win over compatriot Koustav Chatterjee in the eighth round of the Open section to jump into sole lead of the Asian Continental Chess Championship on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-nandhidhaa-in-lead/articleshow/95261348.cms",
+         "pubDate" : "Wed, 02 Nov 2022 16:01:10 +0000",
+         "title" : "Asian Chess Championship: Praggnanandhaa, Nandhidhaa in lead"
+      },
+      {
          "description" : "Middlesex County Chess is struggling to find administrators and players, and they have set up a Google form for anyone and everyone who might be...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -175,7 +183,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees-in-hull/",
          "pubDate" : "Tue, 01 Nov 2022 13:41:55 +0000",
-         "title" : "Free Chess training for Ukrainian Refugees in Hull"
+         "title" : "Free chess training for Ukrainian refugees in Hull"
       },
       {
          "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club, is the third installment of the Chess []",
