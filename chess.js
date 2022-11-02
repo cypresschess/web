@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is proud to announce that you can now enjoy Game Review in the newest versions of our mobile apps for Android and iOS! Study your moves like never before, review key moments, and relish your latest brilliant move right from your phone. M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-new-mobile-game-review",
+         "pubDate" : "Wed, 02 Nov 2022 07:00:00 -0700",
+         "title" : "Game Review Now On Mobile Apps"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei faces Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Wed, 02 Nov 2022 14:50:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : "The MPL National Under 11 Chess Championships 2022 was organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29 th October to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-35-th-national-under-11-chess-championships-2022-29-th-october-to-6-th-november-gurgaon-report-1-to-6-rounds/",
+         "pubDate" : "Wed, 02 Nov 2022 13:06:02 +0000",
+         "title" : "MPL 35 th National Under 11 Chess Championships 2022 29 th October to 6 th November, Gurgaon Report - 1 to 6 rounds"
+      },
+      {
          "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
       },
       {
-         "description" : "Jennifer Yu defeated Irina Krush in a rapid and blitz playoff to claim her second U.S. women's title. The contenders traded wins with white in the 2-game mini-match and decided the championship in an Armageddon encounter. Yu blundered a piece on move 9, but kept on fighting and ended up flagging her renowned opponent. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2022-r14",
-         "pubDate" : "Fri, 21 Oct 2022 14:15:00 +0100",
-         "title" : "Jennifer Yu wins thrilling Armageddon, grabs second U.S. women's title"
-      },
-      {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html",
          "pubDate" : "Tue, 18 Oct 2022 15:05:00 +0000",
          "title" : "Really Big Stereotypes"
-      },
-      {
-         "description" : "The quarterfinals of the Aimchess Rapid tournament will see another clash between GM Magnus Carlsen and GM Arjun Erigaisi, who also played each other in the final of the Julius Baer Generation Cup last month. GM Jan-Krzysztof Duda finished in firs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-day-4",
-         "pubDate" : "Tue, 18 Oct 2022 02:39:00 -0700",
-         "title" : "Carlsen, Erigaisi To Meet Again As Aimchess Rapid Moves To Knockout"
       },
       {
          "description" : " The charm of events like Asian Seniors (apart from the chess), is the social get together.Tony Dowden is currently playing this event, and doing quite well. On the way to dinner one evening he recounted the time he pulled off an outrageous swindle against IM Alex Wohl. As he tells it, decided to offer a hot pawn, which Wohl took. The follow up was to offer up the exchange, which Wohl, also took. He then 'allowed' his bishop to be trapped, which Wohl should not have done. After Wohl played the fateful move, Dowden unleashed Qxf2+, which lead to a forced mate. 'Oh, that's mate' was Wohl's final reply. <br /> <br /> <b>Wohl, Aleks - Dowden, Tony</b><br />New Zealand Championship <script>new Pg",
@@ -1962,14 +1970,6 @@ news_feed (
          "title" : "Party Cookies"
       },
       {
-         "description" : "World Junior Chess Championship, held after a gap of 3 years due to the pandemic has started in Cala Gonone, Sardinia in Italy from 12th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2022-at-sardinia-in-italy-from-12th-october-to-22nd-october-2022-round-1-report/",
-         "pubDate" : "Thu, 13 Oct 2022 15:13:20 +0000",
-         "title" : "World Junior Chess Championship 2022 at Sardinia, Italy from 12th October to 22nd October 2022 :ROUND 1 REPORT"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess Plc, a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of chess related activities, is pleased to announce its intention to seek admission of its Ordinary Shares to the Official List and to trading on the London Stock Exchange's Main Market for listed securities, and a placing of new shares to raise up to &pound;10m. It is expected that the Admission will become effective and that dealings will commence in November 2022, under the ticker CHSS. Novum Securities Limited (\"Novum\") is acting as Financial Adviser to the Company and Retail investors will be able to register their interest in the IPO",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international/#new_tab",
          "pubDate" : "Wed, 12 Oct 2022 15:27:35 +0000",
          "title" : "International and FIDE Delegate reports from Malcolm Pein"
-      },
-      {
-         "description" : " IM Raymond Song looks to have had a productive trip to Europe, scoring his 2nd and 3rd GM norms over the northern summer. In June he tied for 1st in the Silver Lake Open (Serbia) with 7/9, with a 2603 performance rating. After a few more events, he scored his 3rd norm at the October First Saturday event in Budapest, finishing on 7/9 and performing at 2610. Song, who formerly played for Australia (and NZ), now represents Chinese Taipei and only needs to get his rating above 2500 to confirm the title. Currently he is just short (by 3 points if I can add up correctly), and should be able to get his live rating above 2500 at his next event. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/3rd-gm-norm-for-raymond-song.html",
-         "pubDate" : "Wed, 12 Oct 2022 12:19:00 +0000",
-         "title" : "3rd GM norm for Raymond Song"
       }
    ]
 }
