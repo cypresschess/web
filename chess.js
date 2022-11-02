@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Fall Chess Classic group B is a 10-player round-robin tournament taking place from 2-10 November 2022 in the St. Louis Chess Club. The tournament includes Raunak Sadhwani, Christopher Yoo, Alexander Lenderman, etc. Fall Chess Classics information / Fall Chess Classics Group A live games / Fall Chess Classics Group B live games /",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fall-chess-classic-2022-group-b-live/",
+         "pubDate" : "Wed, 02 Nov 2022 18:54:32 +0000",
+         "title" : "Fall Chess Classic 2022 group B LIVE"
+      },
+      {
          "description" : "GM Hikaru Nakamura, who won the Fischer Random World Championship in Reykjavik, Iceland on October 30, and is now in Toronto, Canada for the Chess.com Global Championship Finals starting November 2, found time to take home yet another Titled Tuesd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-november-1-2022",
-         "pubDate" : "Wed, 02 Nov 2022 09:10:32 -0700",
+         "pubDate" : "Wed, 02 Nov 2022 09:10:00 -0700",
          "title" : "Newly-Crowned World Champion Nakamura Wins Another Tournament"
       },
       {
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chessdom.com/stockfish-vs-lc0-tcec-superfinal-starts-today-at-1700-utc/",
          "pubDate" : "Sun, 30 Oct 2022 08:29:19 +0000",
          "title" : "Stockfish vs Lc0 - TCEC Superfinal (starts today at 17:00 UTC)"
-      },
-      {
-         "description" : "With massive popularity and a 400 million lawsuit going on, Hans Niemann is gaining legendary status. The Chess Speaks for Itself this this Halloween too, with players dressing up as Hans Niemann. Hans Niemann chess speaks for itself line Hans Niemann filed a lawsuit in the United States District Court (Eastern District of Missouri, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dress-as-hans-niemann-this-halloween-chess-speaks-for-itself-tweetoftheday/",
-         "pubDate" : "Sun, 30 Oct 2022 06:59:10 +0000",
-         "title" : "Dress up as Hans Niemann this Halloween: Chess Speaks for Itself #TweetOftheDay"
       },
       {
          "description" : "The Petroff has never had a reputation for decisive games, so deliberately entering into one in a must-win situation would seem not a little mad, yet for Ana Muzychuk at least her persistence paid off when she broke her higher rated opponent's resistance with a brilliant exchange sacrifice. Here sister was not so fortunate and Lei Tingjie won their match. | Photo: Michal Walusza",
