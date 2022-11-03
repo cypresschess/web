@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1",
+         "pubDate" : "Thu, 03 Nov 2022 01:13:48 +0000",
+         "title" : "2022 Fall Chess Classic: Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-3-lichessorg",
+         "pubDate" : "Thu, 03 Nov 2022 01:13:48 +0000",
+         "title" : "2022 Fall Chess Classic: Round 3 | lichess.org"
+      },
+      {
+         "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM Jan-Krzystof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world number 18 i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d1",
+         "pubDate" : "Wed, 02 Nov 2022 16:46:00 -0700",
+         "title" : "Perfect 4-0 Day For Nakamura, Dismantles Bongcloud In CGC Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2077",
+         "pubDate" : "Wed, 02 Nov 2022 19:40:35 +0000",
+         "title" : "FIDE Women's Candidates: Slow but solid start of the semi-finals"
+      },
+      {
          "description" : "The 2022 Fall Chess Classic group B is a 10-player round-robin tournament taking place from 2-10 November 2022 in the St. Louis Chess Club. The tournament includes Raunak Sadhwani, Christopher Yoo, Alexander Lenderman, etc. Fall Chess Classics information / Fall Chess Classics Group A live games / Fall Chess Classics Group B live games /",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fall-chess-classic-2022-group-b-live/",
          "pubDate" : "Wed, 02 Nov 2022 18:54:32 +0000",
          "title" : "Fall Chess Classic 2022 group B LIVE"
+      },
+      {
+         "description" : " The final three rounds of the Chess.com Global Championship take place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players compete in this knockout events. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw),",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-global-championship-finals-2022",
+         "pubDate" : "Wed, 2 Nov 2022 20:44:00 +0400",
+         "title" : "Chess.com Global Championship Finals 2022 - Games and Results"
+      },
+      {
+         "description" : " The St Louis Fall Chess Classic takes place Tue 1st to Fri 11th Nov 2022. Two groups. Yu Yangyi, Santosh Vidit and Hans Moke Niemann are the top seeds. 30 minute delay.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/st-louis-fall-chess-classic-2022",
+         "pubDate" : "Wed, 2 Nov 2022 20:35:00 +0400",
+         "title" : "St Louis Fall Chess Classic 2022 - Games and Results"
       },
       {
          "description" : "GM Hikaru Nakamura, who won the Fischer Random World Championship in Reykjavik, Iceland on October 30, and is now in Toronto, Canada for the Chess.com Global Championship Finals starting November 2, found time to take home yet another Titled Tuesd...",
@@ -1106,14 +1154,6 @@ news_feed (
          "title" : "2022 U.S. Championship: Best Attacking Games! - GM Yuniesky Quesada | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about the Zwischenzug, also known as an \"intermezzo\" or \"intermediate move,\" which describes a move that is played instead of and before the expected move and poses an immediate threat that the opponent must answer. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intermezzo-put-your-plans-hold-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/intermezzo-put-your-plans-hold-beginner-breakdown",
-         "pubDate" : "Wed, 26 Oct 2022 01:07:16 +0000",
-         "title" : "Intermezzo: Put Your Plans on Hold! | Beginner Breakdown"
-      },
-      {
          "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1128,14 +1168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-r1g1",
          "pubDate" : "Wed, 26 Oct 2022 02:00:00 +0100",
          "title" : "Women's Candidates: Lei and Humpy win with white"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v8Gu3lrb_SA.jpg?itok=Zv04utkI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-championship-best-attacking-games-grandmasters-choice-gm-yuniesky-quesada",
-         "pubDate" : "Tue, 25 Oct 2022 22:07:21 +0000",
-         "title" : "2022 U.S. Championship: Best Attacking Games! | Grandmaster's Choice - GM Yuniesky Quesada"
       },
       {
          "description" : " IM Kostya Kavutskiy Each one of us goes through unique personal experiences in our life. There is no generic plan we can follow to accomplish our goals. Of course we get tips from parents, teachers or friends and it is up to us to listen. If we do not, life has a funny way of <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (2)</a> appeared first on",
@@ -1728,14 +1760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/paul-buswell-rip/",
          "pubDate" : "Wed, 19 Oct 2022 10:37:27 +0000",
          "title" : "Paul Buswell RIP"
-      },
-      {
-         "description" : "By reaching the semifinals of the Aimchess Rapid tournament, GM Magnus Carlsen has secured overall victory in the 2022 Meltwater Champions Chess Tour. The world champion knocked out GM Arjun Erigaisi and will face GM Jan-Krzysztof Duda next. The o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-quarterfinals",
-         "pubDate" : "Wed, 19 Oct 2022 02:31:00 -0700",
-         "title" : "Carlsen Knocks Out Erigaisi, Secures Champions Chess Tour Victory Early"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
