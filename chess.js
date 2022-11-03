@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals.&#38;nbsp; Nakamura won an all-decisive-games ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
+         "pubDate" : "Thu, 03 Nov 2022 14:31:00 -0700",
+         "title" : "Stunning Comebacks and Decisive Matches: Nakamura, So, Nihal, Giri Victorious"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2078",
+         "pubDate" : "Thu, 03 Nov 2022 20:31:31 +0000",
+         "title" : "2022 Asian Continental Championship: Praggnanadhaa R and Nandhidhaa P V clinch titles"
+      },
+      {
+         "description" : "Chess.com is excited to announce the 2022 Speed Chess Championship, beginning in late November.&#38;nbsp;World #1 GM Magnus Carlsen returns to an absolutely star-studded 16-player field that also includes&#38;nbsp;four-time Speed Chess Champion GM Hikaru ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-scc",
+         "pubDate" : "Thu, 03 Nov 2022 10:08:00 -0700",
+         "title" : "Announcing The 2022 Speed Chess Championship"
+      },
+      {
          "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 3 | lichess.org"
       },
       {
-         "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM Jan-Krzystof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world number 18 i...",
+         "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d1",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
       },
       {
-         "description" : "GM Magnus Carlsen was eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-semifinals",
-         "pubDate" : "Wed, 19 Oct 2022 23:45:00 -0700",
-         "title" : "Duda Knocks Out Carlsen, To Play Mamedyarov In Final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/things-are-crook-in-tallarook.html",
          "pubDate" : "Thu, 20 Oct 2022 04:00:00 +0000",
          "title" : "Things are crook in Tallarook"
-      },
-      {
-         "description" : "GM Fabiano Caruana was crowned the winner of the 2022 U.S. Chess Championships on Wednesday after scoring an unbeaten 8.5/13 in St. Louis. GM Ray Robson did all that he could to equal Caruana&#39;s score but couldn&#39;t break through against GM Jeffery X...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
-         "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
-         "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
       },
       {
          "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
@@ -2008,14 +2016,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/14/chess-hans-niemann-struggles-in-us-championship-amid-beefed-up-security",
          "pubDate" : "Fri, 14 Oct 2022 07:00:31 +0000",
          "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2040",
-         "pubDate" : "Thu, 13 Oct 2022 22:01:50 +0000",
-         "title" : "Prisoners from 46 countries take part in the Intercontinental Championship"
       }
    ]
 }
