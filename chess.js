@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ivanchuk-shines-in-the-sicilian-with-white-and-with-black",
+         "pubDate" : "Thu, 03 Nov 2022 15:28:56 +0100",
+         "title" : "Svitlana's Smart Moves - Ivanchuk shines in the Sicilian: With White and with Black"
+      },
+      {
+         "description" : "In the new issue of ChessBase Magazine, 21 participants from the Chess Olympiad comment on their best games, including Anish Giri, Wesley So, Arjun Erigaisi, Jules Moussard, Luke McShane, Pentala Harikrishna, Matthias Bl&uuml;baum, Rasmus Svane, the silver medal team from Armenia and the gold medallists Anna and Mariya Muzychuk. In addition, our authors Robert Ris, Daniel King, Karsten Mueller and Mihail Marin pick up on particularly exciting games and moments from the Olympiad in their columns and video contributions. Wesley So's analysis of his game against Hrant Melkumyan is \"The Analysis\" of this issue and can be viewed here in an shortened version. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-210-the-analysis",
+         "pubDate" : "Thu, 03 Nov 2022 15:00:00 +0100",
+         "title" : "\"The Analysis\" by Wesley So"
+      },
+      {
          "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/women-candidates-lei-muzychuk-semifinals-game-2",
-         "pubDate" : "Thu, 03 Nov 2022 01:31:24 -0700",
+         "pubDate" : "Thu, 03 Nov 2022 01:31:00 -0700",
          "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
       },
       {
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-releases-new-mobile-game-review",
          "pubDate" : "Wed, 02 Nov 2022 07:00:00 -0700",
          "title" : "Game Review Now On Mobile Apps"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei faces Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Wed, 02 Nov 2022 14:50:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
       },
       {
          "description" : "The MPL National Under 11 Chess Championships 2022 was organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29 th October to",
@@ -1618,14 +1626,6 @@ news_feed (
          "title" : "Jan-Krzysztof Duda reigns supreme in Aimchess Rapid"
       },
       {
-         "description" : "Jan-Krzysztof Duda won the 2022 Aimchess Rapid online tournament after beating Shakhriyar Mamedyarov in what somewhat unexpectedly turned out to be a hard-fought final match. After getting a clear victory in the first set, Duda got a superior position in Friday's first game. Shakh first managed to turn the tables in that game and then scored 1&frac12; points in the next two encounter to take the match to tiebreaks. Duda won back-to-back blitz games to secure overall victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aimchess-rapid-2022-d8",
-         "pubDate" : "Fri, 21 Oct 2022 22:10:00 +0100",
-         "title" : "Duda beats Mamedyarov in tiebreaks, wins Aimchess Rapid"
-      },
-      {
          "description" : "The Chess.com Global Championship Finals start on November 2, 2022! As our biggest tournament of the year reaches its thrilling conclusion, the live finals will now occur in two locations: Toronto, Canada, and Belgrade, Serbia. Check out the detai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2039",
          "pubDate" : "Thu, 13 Oct 2022 17:48:05 +0000",
          "title" : "FIDE approves new composition of the Management Board"
-      },
-      {
-         "description" : "Earlier this year I ran a series of four posts about living with Google's Adsense:- <UL><LI>2022-01-21: <A HREF=\"http://chessforallages.blogspot.com/2022/01/google-again.html\">Google, Again!</A> <LI>2022-01-28: <A HREF=\"http://chessforallages.blogspot.com/2022/01/life-in-googles-world.html\">Life in Google's World</A> <LI>2022-02-04: <A HREF=\"http://chessforallages.blogspot.com/2022/02/ads-for-zonals-out.html\">Ads for Zonals, Out!</A> <LI>2022-02-11: <A HREF=\"http://chessforallages.blogspot.com/2022/02/show-ads-everywhere-out.html\">Show Ads Everywhere, Out!</A></UL> <P>It's time for another post in the series. Lately I've been receiving emails from Google informing me about 'First-party cooki",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/party-cookies.html",
-         "pubDate" : "Thu, 13 Oct 2022 15:24:00 +0000",
-         "title" : "Party Cookies"
       }
    ]
 }
