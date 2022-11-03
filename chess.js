@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is something that everyone is looking forward to. Both the youngsters are very well matched. What is the format for the Death Match? In this article you get to know not only the format of the ChessBase India Death Match 2.0, but also all about the upcoming Comedians Over The Board (COTB) and the DreamHack Rapid and Blitz Tournament. The Death Match between the two remarkable prodigies takes place on Saturday, November 5th. Don't miss it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-vs-gukesh-death-match-2-0",
+         "pubDate" : "Thu, 03 Nov 2022 06:00:00 +0100",
+         "title" : "Arjun vs Gukesh: Death Match 2.0"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "How To Watch The Chess.com Global Championship Finals"
       },
       {
-         "description" : "In his Power Play Show, Daniel King continues his explorations of opening gambits. This time around, using a game in which world champion Magnus Carlsen played the fashionable Scotch Gambit. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-carlsen-scotch-gambit",
-         "pubDate" : "Fri, 21 Oct 2022 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: Carlsen with a Scotch Gambit"
-      },
-      {
          "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -2040,14 +2040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2038",
          "pubDate" : "Thu, 13 Oct 2022 09:40:40 +0000",
          "title" : "World Sight Day: Chess perspective"
-      },
-      {
-         "description" : "ECU E-Magazine September 2022 is out! In this edition of the ECU E-Magazine you may read about: European Chess Club Cup 2022 ECU Commissions Global Chess Festival 2022 4th ESNA European Small Nations Individual Chess Championship 2022 European Cities &#38; Towns Chess Championship 2022 Tournament of Peace 2022 Upcoming European Senior Team Chess Championship 2022 9th RIDEF Francophone's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-september-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-september-2022/",
-         "pubDate" : "Thu, 13 Oct 2022 07:11:45 +0000",
-         "title" : "ECU E-Magazine September 2022"
       }
    ]
 }
