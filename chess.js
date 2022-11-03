@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-housboat-2023-preview",
+         "pubDate" : "Thu, 03 Nov 2022 11:40:00 +0100",
+         "title" : "A delightful experience: Chess Houseboat 2023"
+      },
+      {
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Thu, 03 Nov 2022 10:00:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Jan-Krzysztof Duda played the Bongcloud opening against GM Hikaru Nakamura at the Chesscom Global Championship 2022 and the American streamer was not happy! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru-Nakamura-Duda-Bongcloud-chess.png\" width=\"2358\" height=\"1566\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> In 2021 the Guardian wrote: \"The self-destructive opening (2. Ke2) is known as the Bongcloud for a simple reason: you'd have to be stoned to the gills to think it was a good idea.\" and they couldn't be more accurate! Jan-Krzysztof Duda decided to rock the chess world by playing the Bongcloud against the \"B",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/duda-got-bongclouded-by-nakamura/",
+         "pubDate" : "Thu, 03 Nov 2022 09:09:12 +0000",
+         "title" : "Duda got \"Bongclouded\" by Nakamura"
+      },
+      {
+         "description" : "The Women&#39;s Candidates semifinals match between&#38;nbsp;GM Anna Muzychuk and GM Lei Tingjie started with two draws. If the match remains tied in the remaining two games, a tiebreak will be played on Sunday. The third game is scheduled to start on Fri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/women-candidates-lei-muzychuk-semifinals-game-2",
+         "pubDate" : "Thu, 03 Nov 2022 01:31:24 -0700",
+         "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
+      },
+      {
          "description" : "This is something that everyone is looking forward to. Both the youngsters are very well matched. What is the format for the Death Match? In this article you get to know not only the format of the ChessBase India Death Match 2.0, but also all about the upcoming Comedians Over The Board (COTB) and the DreamHack Rapid and Blitz Tournament. The Death Match between the two remarkable prodigies takes place on Saturday, November 5th. Don't miss it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-typical-mistake",
          "pubDate" : "Tue, 01 Nov 2022 09:00:00 +0100",
          "title" : "A typical mistake"
-      },
-      {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Tue, 01 Nov 2022 07:59:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : "World #6 Lei Tingjie and World #7 Anna Muzychuk edged closer to a chance to play a World Championship match as they knocked out Mariya Muzychuk and Humpy Koneru, respectively, in the €250,000 Women's Candidates.",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Duda beats Mamedyarov in tiebreaks, wins Aimchess Rapid"
       },
       {
-         "description" : "Have you registered for the first Armageddon Online Cups? The Asia & Oceania section begins on October 22, at 13:00 UTC, Europe & Africa on October 23, at 16:00 UTC. The prize fund for each tournament is €1,000, which is divided between the first ten winners. The first 20 places get access to the Online Finals with a €10,000 prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-online-cup-begins",
-         "pubDate" : "Fri, 21 Oct 2022 21:00:00 +0100",
-         "title" : "Armageddon Online Cup begins"
-      },
-      {
          "description" : "The Chess.com Global Championship Finals start on November 2, 2022! As our biggest tournament of the year reaches its thrilling conclusion, the live finals will now occur in two locations: Toronto, Canada, and Belgrade, Serbia. Check out the detai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-wins-2022-us-championship-round-13",
          "pubDate" : "Wed, 19 Oct 2022 17:59:00 -0700",
          "title" : "Caruana Crowned U.S. Champion, Yu Resurrected In Women's"
-      },
-      {
-         "description" : "GM Alireza Firouzja played in both Titled Tuesday tournaments on October 18, scoring 18/22 overall before winning the late event. They were his first games on Chess.com since April 22, 2021. The early event was won by GM-elect Tuan Minh Le with th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/minh-le-firouzja-win-titled-tuesday-october-18-2022",
-         "pubDate" : "Wed, 19 Oct 2022 07:42:55 -0700",
-         "title" : "World's Top Teenager Makes Triumphant Return"
       },
       {
          "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
@@ -2008,38 +2016,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/party-cookies.html",
          "pubDate" : "Thu, 13 Oct 2022 15:24:00 +0000",
          "title" : "Party Cookies"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess Plc, a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of chess related activities, is pleased to announce its intention to seek admission of its Ordinary Shares to the Official List and to trading on the London Stock Exchange's Main Market for listed securities, and a placing of new shares to raise up to &pound;10m. It is expected that the Admission will become effective and that dealings will commence in November 2022, under the ticker CHSS. Novum Securities Limited (\"Novum\") is acting as Financial Adviser to the Company and Retail investors will be able to register their interest in the IPO",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/",
-         "pubDate" : "Thu, 13 Oct 2022 10:51:01 +0000",
-         "title" : "World Chess Plans to List On The London Stock Exchange"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2037",
-         "pubDate" : "Thu, 13 Oct 2022 10:21:37 +0000",
-         "title" : "Arkady Dvorkovich meets with President of Argentina"
-      },
-      {
-         "description" : "John Rice mate in 2 Tries &#8212; 1. e3? / Ng5? / Nd8? / Q x c8? 1.&hellip; B x e6! / Be6! /...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-solution/",
-         "pubDate" : "Thu, 13 Oct 2022 10:08:58 +0000",
-         "title" : "Winton British Chess Solving Championship - solution"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2038",
-         "pubDate" : "Thu, 13 Oct 2022 09:40:40 +0000",
-         "title" : "World Sight Day: Chess perspective"
       }
    ]
 }
