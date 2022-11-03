@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/global-championship-1-bongcloud-can-t-stop-nakamura",
+         "pubDate" : "Thu, 03 Nov 2022 12:26:48 +0000",
+         "title" : "Global Championship 1: Bongcloud can't stop Nakamura"
+      },
+      {
+         "description" : " FM Albert Winkelman took part in the just completed 2022 Asian Continental Championship. A good start saw him in with a chance of an IM norm, but a final round loss meant he fell a little short. As a consolation he did pick up around 30 rating points, as well as scoring a couple of highly rated scalps. On such scalp came in the following game, where a daring sacrificial idea paid off. Usually sacrificing a knight for 2 pawns after h3-g4 isn't as good as it looks, but in this case it was barely worse than simply retreating the bishop. So much so, that one wrong move from his opponent, and Winkelman was winning quite easily. However the road to victory isn't always easy, and a missed opportun",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/a-daring-choice.html",
+         "pubDate" : "Thu, 03 Nov 2022 12:22:00 +0000",
+         "title" : " A daring choice"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95278033.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa and compatriot P V Nandhidhaa won the titles in the Open and women's sections respectively in the Asian Continental Chess championship on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-nandhidhaa-win-asian-chess-championship-titles/articleshow/95278033.cms",
+         "pubDate" : "Thu, 03 Nov 2022 10:59:10 +0000",
+         "title" : "India's Praggnanandhaa, Nandhidhaa win Asian Chess C'ship titles"
+      },
+      {
          "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1720,14 +1744,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/us-chess-champs-13-caruana-clinches-2nd-title",
          "pubDate" : "Thu, 20 Oct 2022 12:20:25 +0000",
          "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
-      },
-      {
-         "description" : "Polish ace Jan-Krzysztof Duda knocked newly-crowned Tour Champion Magnus Carlsen out of the Aimchess Rapid to set up a mouth-watering final against Shakhriyar Mamedyarov today.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-6-duda-knocks-out-carlsen-to-face-mamedyarov-in-final",
-         "pubDate" : "Thu, 20 Oct 2022 09:20:20 +0000",
-         "title" : "Aimchess Rapid Day 6: Duda knocks out Carlsen to face Mamedyarov in final"
       },
       {
          "description" : "GM Magnus Carlsen was eliminated from the Aimchess Rapid tournament on Wednesday after losing to GM Jan-Krzysztof Duda in the semifinals. Duda&#39;s next opponent is GM Shakhriyar Mamedyarov, who beat GM Richard Rapport. How to watch? The games of t...",
