@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2040",
          "pubDate" : "Thu, 13 Oct 2022 22:01:50 +0000",
          "title" : "Prisoners from 46 countries take part in the Intercontinental Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2039",
-         "pubDate" : "Thu, 13 Oct 2022 17:48:05 +0000",
-         "title" : "FIDE approves new composition of the Management Board"
       }
    ]
 }
