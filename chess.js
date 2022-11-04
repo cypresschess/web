@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Daniel King analyses a game he played against Michael Basman, who recently passed away. True to his nature, Basman went for the 'Creepy Crawly', with 1...h6 and 2...a6! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-michael-basman",
+         "pubDate" : "Fri, 04 Nov 2022 17:50:00 +0100",
+         "title" : "Daniel King's Power Play Show: Celebrating the play of Michael Basman"
+      },
+      {
          "description" : "The Edinburgh Chess Club, the second oldest chess club in the world, celebrates its bicentenary today. Founded on November 4, 1822, over the two centuries the club has been visited by famous players such as Howard Staunton, Joseph Blackburne, Jose...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
          "pubDate" : "Fri, 04 Nov 2022 14:08:44 +0000",
          "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
-      },
-      {
-         "description" : "This week Robert Ris goes over a splendid 18-move game, in which 12-year-old Chinese prodigy Lu Miaoyi showcases a hyper-aggressive style to obtain a remarkable victory. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-12-year-old-girl-wins-miniature",
-         "pubDate" : "Fri, 04 Nov 2022 15:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Lu Miaoyi, aged 12, wins amazing miniature"
       },
       {
          "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei faces Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
@@ -104,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eugenio-torre-pillar-of-philippine-chess",
          "pubDate" : "Fri, 04 Nov 2022 11:30:00 +0100",
          "title" : "Eugenio Torre: The Pillar of Philippine Chess"
+      },
+      {
+         "description" : "This week Robert Ris goes over a splendid 18-move game, in which 12-year-old Chinese prodigy Lu Miaoyi showcases a hyper-aggressive style to obtain a remarkable victory. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-12-year-old-girl-wins-miniature",
+         "pubDate" : "Fri, 04 Nov 2022 11:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Lu Miaoyi, aged 12, wins amazing miniature"
       },
       {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/elon-musk-calls-garry-kasparov-a-douche-and-an-idiot-all-because/",
          "pubDate" : "Mon, 24 Oct 2022 15:00:00 +0000",
          "title" : "Elon Musk calls Garry Kasparov a \"douche\" and \"an idiot\". All because of his peace plan"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates will battle it out in a knockout event to decide who qualifies to a final match set to take place sometime in 2023. Pool A will take place from October 24 to November 6 at the Hotel Hermitage in Monte Carlo.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-preview",
-         "pubDate" : "Sun, 23 Oct 2022 21:00:00 +0100",
-         "title" : "Women's Candidates: Monaco receives the players from Pool A"
       },
       {
          "description" : "",
