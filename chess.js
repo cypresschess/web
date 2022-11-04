@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Sat, 15 Oct 2022 06:48:35 +0000",
          "title" : "European Cities & Towns Chess Championship Registration opens!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2041",
-         "pubDate" : "Fri, 14 Oct 2022 18:39:02 +0000",
-         "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
       }
    ]
 }
