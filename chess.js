@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 25th Open Bavarian Championship is taking place from 5&#x2013;13 November 2022 in Gmund am Tegernsee, Germany. The 9 round Swiss event has a 15 000 eur prize fund with 2500 eur for the winner. Time control: 90 min/40 moves, 30 min/all moves, 30 sec. per move from the first move. A total of 526 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/25th-open-bavarian-championship/",
+         "pubDate" : "Fri, 04 Nov 2022 12:18:10 +0000",
+         "title" : "25th Open Bavarian Championship"
+      },
+      {
+         "description" : "25th Open Bavarian Championship is taking place from 5&#x2013;13 November 2022 in Gmund am Tegernsee, Germany. It is a 9-round Swiss tournament with Gabriel Sargissian, Anton Korobov, Anton Demchenko, Liviu-Dieter Nisipeanu, Daniele Vocaturo, Ivan Salgado Lopez, Eltaj Safarli, Vahap Sanal, Frederik Svane, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/25th-open-bavarian-championship-2022-live/",
+         "pubDate" : "Fri, 04 Nov 2022 12:05:35 +0000",
+         "title" : "25th Open Bavarian Championship 2022 LIVE"
+      },
+      {
+         "description" : "Maria Albulet Memorial 2022 took place 29 October to 4 November in Braila, Romania. It was a 10-player round-robin chess tournament with Alicja Sliwicka, Alessia-Mihaela Ciolacu, Elena-Luminita Cosma, Evgeniya Doluhanova, Nadya Toncheva, Miruna-Daria Lehaci, Fiona Sieber, Susanna Gaboyan, Anna Kubicka, and Marina Makropoulou. Alicja Sliwicka is the winner of the 2022 Maria Albulet Memorial with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alicja-sliwicka-wins-maria-albulet-memorial-2022/",
+         "pubDate" : "Fri, 04 Nov 2022 11:51:42 +0000",
+         "title" : "Alicja Sliwicka wins Maria Albulet Memorial 2022"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2022 will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
+         "pubDate" : "Fri, 04 Nov 2022 11:48:53 +0000",
+         "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world top players <a href=\"https://www.chess.com/news/view/chesscom-announces-2022-scc\">are lined up</a> for the <strong>Chess.com Speed Chess Championship</strong> held online from 21 November. Alireza Firouzja is the only big name missing, even though the $110,000 prizefund is considerably smaller than at the ongoing <strong>Chess.com Global Chess Championship</strong> ($1 million), the <strong>Meltwater Champions Chess Tour</strong> ($1,6 millon) and the <strong>Grand Chess Tour</strong> ($1,4 million). </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/stellar-line-up-at-chesscom-speed/",
+         "pubDate" : "Fri, 04 Nov 2022 11:33:03 +0100",
+         "title" : "Stellar line-up at Chess.com Speed Chess"
+      },
+      {
          "description" : "I take a break from my usual historical articles to pay tribute to a countryman who has been recently honored with one of the highest distinctions in chess - his induction into the World Chess Hall of Fame. In a sense, this tribute is still partly historical, as his long career is now all part of chess lore. He is none other than Grandmaster Eugenio Torre of the Philippines, who turns 71 today. To Eugene, a joyous birthday, and our heartfelt congratulations!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +722,6 @@ news_feed (
          "title" : "Women's Candidates: Anna Muzychuk wins thrilling tiebreak"
       },
       {
-         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here / Find all []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-is-fischer-random-chess-world-champion-2022/",
-         "pubDate" : "Mon, 31 Oct 2022 06:09:25 +0000",
-         "title" : "Hikaru Nakamura is Fischer Random Chess World Champion 2022"
-      },
-      {
          "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/nakamura-is-fischer-random-world/",
          "pubDate" : "Sun, 30 Oct 2022 21:17:33 +0100",
          "title" : "Nakamura is Fischer Random World Champion"
-      },
-      {
-         "description" : "Report by Aga Milewska A very scary tournament was held on 29.10.2022 in London organised by the well-known GingerGMGM Simon Williams. The tournament had taken a break due to Covid but returned to the crypt at StPancras New Church in central London, a perfect venue for Halloween ! Players were encouraged towear fancy dress and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/a-very-scary-tournament-by-gingergm/",
-         "pubDate" : "Sun, 30 Oct 2022 19:03:00 +0000",
-         "title" : "A very scary tournament by GingerGM"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95186429.cms\" />Indian Grandmaster Harsha Bharathakoti beat Koustav Chatterjee in the fifth round to move into sole lead with 4.5 points in the Open section of the Asian Continental Chess championship on Sunday.",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
          "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
          "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
-         "description" : "The final match of the Top Engine Chess Championship is here. Stockfish is taking on Leela for the highest title in computer chess, in a 100 games match, starting today at 17:00 UTC on the official site of TCEC and TCEC Twitch TV. Stockfish won convincingly the Premier Division and Leela snatched the second position []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-vs-lc0-tcec-superfinal-starts-today-at-1700-utc/",
-         "pubDate" : "Sun, 30 Oct 2022 08:29:19 +0000",
-         "title" : "Stockfish vs Lc0 - TCEC Superfinal (starts today at 17:00 UTC)"
       },
       {
          "description" : "The Petroff has never had a reputation for decisive games, so deliberately entering into one in a must-win situation would seem not a little mad, yet for Ana Muzychuk at least her persistence paid off when she broke her higher rated opponent's resistance with a brilliant exchange sacrifice. Here sister was not so fortunate and Lei Tingjie won their match. | Photo: Michal Walusza",
@@ -1344,14 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2055",
          "pubDate" : "Tue, 25 Oct 2022 20:22:08 +0000",
          "title" : "Women's Candidates Tournament, Day 1: White start strong"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> While the Ukrainian or A group of the <strong>Women Candidates Tournament</strong> has started in Monaco, <strong>FIDE</strong> <a href=\"https://fide.com/news/2052\">announced</a> that the Russian or B group will be played from 28 November in Khiva, Uzbekistan. FIDE divided the event to avoid a clash between the Muzychuk sisters and any of the three Russian players. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/uzbekistan-hosts-other-women/",
-         "pubDate" : "Tue, 25 Oct 2022 20:41:53 +0100",
-         "title" : "Uzbekistan hosts other Women Candidates"
       },
       {
          "description" : "GM Leon Luke Mendonca played a marathon game on board 1 of open section in order to win against the leader GM Adam Kozak, Adam",
