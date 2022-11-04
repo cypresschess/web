@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. The full report will be added shortly. GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the 2022 Chess.com Global Championship on Friday, but ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-sf",
+         "pubDate" : "Fri, 04 Nov 2022 14:55:12 -0700",
+         "title" : "Giri and So Miss Chances In Chaotic Semifinals: Flash Report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
          "pubDate" : "Fri, 21 Oct 2022 07:00:17 +0000",
          "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda took a big step toward winning the Aimchess Rapid tournament as he beat GM Shakhriyar Mamedyarov 3-1 on Thursday. The 24-year-old Duda, who eliminated GM Magnus Carlsen in the semifinals, dominated the first of two matches in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-aimchess-rapid-final-day-1",
-         "pubDate" : "Thu, 20 Oct 2022 23:27:00 -0700",
-         "title" : "Duda Leads In Aimchess Rapid Final"
       },
       {
          "description" : " While some games are still in progress, early results from the 2022 Asian Seniors have determined a lot of the top places. The over 50 event saw a number of quick draws on the top boards, leaving IM Gary Lane in outright first on 8/9. In 2nd place was FM Arlan Cabe (PHI) with 7, and FM Alexi Kulashko (NZL) in third place on 6. Both 2nd and third also earn IM norms, which might be enough for Kulashko to claim the title, as he had some previous norms for the New Zealand Championships. In the Over 65 event FM Efren Bagamasbad took a quick draw to secure first place on 7.5/9. Miles Patterson defeated David Lovejoy to finish outright 2nd on 7/9, while third place still depends on a couple of gam",
