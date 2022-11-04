@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Understanding an opening doesn't stop after the theory. It's essential to understand ideas and structures connected to the opening moves. Furthermore, recognising mistakes by your opponent to gain an advantage is a key component of the middlegame. In this video course we'll concentrate on Rossolimo and Maroczy structures in the Sicilian Defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/neu-understanding-middlegame-strategies-vol-5-vol-6",
+         "pubDate" : "Fri, 04 Nov 2022 15:59:46 +0100",
+         "title" : "New: Understanding Middlegame Strategies Vol. 5 + Vol. 6"
+      },
+      {
+         "description" : "India dominated the 2022 Asian Chess Championship, which came to an end in New Delhi on November 3. Indian players swept the podium in both open and women's sections, with&#xA0;Rameshbabu Praggnanadhaa&#xA0;and&#xA0;Pallathur Venkatachalam Nandhidhaa&#xA0;winning the titles. Both events were 9-round Swiss tournaments with classical time control. Praggnanandhaa scored unbeaten 7/9 points to be the sole winner []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanadhaa-r-and-nandhidhaa-p-v-win-asian-continental-chess-championship-2022/",
+         "pubDate" : "Fri, 04 Nov 2022 14:25:53 +0000",
+         "title" : "Praggnanadhaa R and Nandhidhaa P V win Asian Continental Chess Championship 2022"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2022&#xA0;will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
+         "pubDate" : "Fri, 04 Nov 2022 14:08:44 +0000",
+         "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
+      },
+      {
+         "description" : "This week Robert Ris goes over a splendid 18-move game, in which 12-year-old Chinese prodigy Lu Miaoyi showcases a hyper-aggressive style to obtain a remarkable victory. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-12-year-old-girl-wins-miniature",
+         "pubDate" : "Fri, 04 Nov 2022 15:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Lu Miaoyi, aged 12, wins amazing miniature"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei faces Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Fri, 04 Nov 2022 14:50:00 +0100",
+         "title" : "Women's Candidates - Pool A: Live"
+      },
+      {
+         "description" : "Anish Giri hit back after a Teimour Radjabov comeback to clinch a semi-final spot in the Chess.com Global Championship against Nihil Sarin, who himself came back against Sam Sevian. The other semi-finalists, guaranteed at least $50,000, are Wesley So and Hikaru Nakamura, with Wesley surprisingly wrapping up his match first while Jan-Krzysztof Duda beat Hikaru twice on demand.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/global-championship-2-giri-beats-radjabov-in-armageddon",
+         "pubDate" : "Fri, 04 Nov 2022 13:27:28 +0000",
+         "title" : "Global Championship 2: Giri beats Radjabov in Armageddon"
+      },
+      {
          "description" : "The 25th Open Bavarian Championship is taking place from 5&#x2013;13 November 2022 in Gmund am Tegernsee, Germany. The 9 round Swiss event has a 15 000 eur prize fund with 2500 eur for the winner. Time control: 90 min/40 moves, 30 min/all moves, 30 sec. per move from the first move. A total of 526 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -626,14 +674,6 @@ news_feed (
          "title" : "Asian Chess Championship: Harsha Bharathakoti remains in top spot"
       },
       {
-         "description" : "14:30 CET Former World Chess Champion Anatoly Karpov is hospitalized in serious condition and possibly in artificial coma. Karpov was found is serious condition near the state Duma, where he works as a member of the Russian Parliament. Initial reports suggested Karpov was a victim of an attack, citing head trauma and broken hip. Later, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anatoly-karpov-is-hospitalized-in-artificial-coma/",
-         "pubDate" : "Mon, 31 Oct 2022 13:47:02 +0000",
-         "title" : "Anatoly Karpov is hospitalized in serious condition [Updated]"
-      },
-      {
          "description" : " Breaking News - Former World Chess Champion Anatoly Karpov hospitalized today. According to Russian telegram channels, Karpov was found unresponsive early in the morning near the State Duma (Russsian Parliament) building. He was rushed to the hospital and is now in the intensive care unit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D8321AFA-13BE-4F3A-A254-B6E0A3E339AD.jpeg\" width=\"624\" height=\"350\" alt=\"\" /> <div class=\"e2-text-caption\">Anatoly Karpov</div> </div> According to the media, Karpov suffered serious head injury and hip fracture. According to unconfirmed reports, his blood alcohol level was extremely high. Karpov, a former World Chess Champion, h",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -704,14 +744,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
          "pubDate" : "Mon, 31 Oct 2022 01:49:00 -0700",
          "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
-      },
-      {
-         "description" : "US Chess Grandmaster Hikaru Nakamura gained his first world title, winning the FIDE World Fischer Random Chess Championship today in Reykjavik, Iceland. He defeated Ian Nepomniachtchi, the previous and current challenger for the classical chess world title, winning in a nail-biting &#x201C;Armageddon&#x201D; playoff game after their match ended 2-2.&#xA0;&#xA0;Replay all games here Hikaru Nakamura posted []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-on-his-frc-world-championship-title/",
-         "pubDate" : "Mon, 31 Oct 2022 08:46:17 +0000",
-         "title" : "Hikaru Nakamura on his FRC World Championship title"
       },
       {
          "description" : "It was a tiebreak that was worthy of the importance and drama that had led up to it. While Humpy Koneru and her fans will lament how it ended, the fact is the tiebreak was incredibly entertaining and had a bit of it all. Even the quiet start was crucial in setting up the very dramatic third and fourth games. Don't miss out on the report! | Photo: Michal Walusza",
@@ -1554,14 +1586,6 @@ news_feed (
          "title" : "Double Gold For Azerbaijan At World Juniors"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 96th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-2",
-         "pubDate" : "Sun, 23 Oct 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 96: Queen's Gambit Declined (2)"
-      },
-      {
          "description" : " After a break of 2 years, the ACT Teams Championship returned for 2022. Once again it was a 7 round Rapid (15m+5s) and 12 teams took part (well 11 + a scratch team to avoid the bye). A number of teams took their chess seriously, a few teams took their outfits seriously, and at least one team did both! The winning team was King Charles III, which consisted of CM Hui Li, Charles Huang, Larry Cheng and Jerry Cheng. They finished half a point ahead of The Wise Guys, who did in fact win the prize for Best Dressed Teams. In third place was Bishop's Monarchy, which like KCIII was a junior heavy team. Tuggeranong Chess Club won the Larko Cup for the best official Club team, beating the Canberra Che",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1570,28 +1594,12 @@ news_feed (
          "title" : "2022 ACT Teams Championship "
       },
       {
-         "description" : "After her first round win, Lilit had a winning position in her second game, but wasn't able to convert it, and drew. The draw against Anna Kubicka felt like a loss, and the IM had to recover quickly, to be prepared for the next round. Everybody knows the feeling after a loss in a tournament. But how to tackle those emotions, which pull you down best? Lilit has some good advice in this third episode.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-3",
-         "pubDate" : "Sun, 23 Oct 2022 13:00:00 +0100",
-         "title" : "Lilit Mkrtchian (3) - How to come back after a loss in a tournament"
-      },
-      {
          "description" : " A book which doesn't seem to have received any attention this side of the Atlantic is Players and Pawns: How Chess Builds Community and Culture (University of Chicago Press 2015) by Gary Alan Fine. The author is a sociologist who writes about how minority interests create their own cultures, and, in this book, he turned <a href=\"https://chessimprover.com/soft-communities/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Soft Communities\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/soft-communities/\">Soft Communities</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/soft-communities/",
          "pubDate" : "Sun, 23 Oct 2022 09:00:59 +0000",
          "title" : "Soft Communities"
-      },
-      {
-         "description" : "In the third and final instalment of the Chess Artistry Adventure series, we bring you seven more studies, six of them originals, by world-class composers like Arpad Rusz, Amatzia Avni, Michael Pasman, and more. We also briefly discuss the composers and try to understand how they can turn positions from games into original compositions. Like in the previous article, we also have an assortment of flavours here. Some of the studies are concrete and tactical, while others are a bit on the technical side. However, regardless of style, each composition is deeply instructional, and you can be sure to come out wiser as a chess player if you go through them all.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/underpromotions-play-on-same-squares-game-of-corners-chess-artistry-adventure-part-iii",
-         "pubDate" : "Sun, 23 Oct 2022 09:00:00 +0100",
-         "title" : "Underpromotions, Play on Same Squares, Game of Corners | Chess Artistry Adventure - Part III"
       },
       {
          "description" : "",
@@ -1810,14 +1818,6 @@ news_feed (
          "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
       },
       {
-         "description" : "Fabiano Caruana has won his 2nd US Chess Championship title after a 30-minute draw with Levon Aronian proved enough when Ray Robson was unable to defeat Jeffery Xiong to force a playoff. There will be a playoff on Thursday in the Women's tournament, after Jennifer Yu defeated Thalia Cervantes to catch Irina Krush, who was held to a draw by her great rival Anna Zatonskih.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/us-chess-champs-13-caruana-clinches-2nd-title",
-         "pubDate" : "Thu, 20 Oct 2022 12:20:25 +0000",
-         "title" : "US Chess Champs 13: Caruana clinches 2nd title! "
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/historic-photo-historic-game.html",
          "pubDate" : "Fri, 14 Oct 2022 15:36:00 +0000",
          "title" : "Historic Photo, Historic Game"
-      },
-      {
-         "description" : "The Braille Chess Association, which encourages and supports the playing of chess at all levels by blind and partially sighted people, is proudly celebrating its...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/braille-chess-association-90th-anniversary/",
-         "pubDate" : "Fri, 14 Oct 2022 14:49:59 +0000",
-         "title" : "Braille Chess Association 90th Anniversary"
       }
    ]
 }
