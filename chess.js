@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Edinburgh Chess Club, the second oldest chess club in the world, celebrates its bicentenary today. Founded on November 4, 1822, over the two centuries the club has been visited by famous players such as Howard Staunton, Joseph Blackburne, Jose...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/edinburgh-chess-club-celebrates-200th-anniversary",
+         "pubDate" : "Fri, 04 Nov 2022 08:50:00 -0700",
+         "title" : "Edinburgh Chess Club Celebrates 200th Anniversary"
+      },
+      {
          "description" : "Understanding an opening doesn't stop after the theory. It's essential to understand ideas and structures connected to the opening moves. Furthermore, recognising mistakes by your opponent to gain an advantage is a key component of the middlegame. In this video course we'll concentrate on Rossolimo and Maroczy structures in the Sicilian Defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1794,14 +1802,6 @@ news_feed (
          "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
       },
       {
-         "description" : "WGM Jennifer Yu was crowned the winner of the 2022 U.S. Women&#39;s Chess Championship on Thursday after a thrilling tiebreaker that had to be decided by an armageddon game. After winning the opening game of the match against GM Irina Krush, Yu very n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yu-wins-2022-us-championship-playoff",
-         "pubDate" : "Thu, 20 Oct 2022 16:26:00 -0700",
-         "title" : "Yu Claims U.S. Women's Championship In Thrilling Armageddon Tiebreaker"
-      },
-      {
          "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -2016,14 +2016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2041",
          "pubDate" : "Fri, 14 Oct 2022 18:39:02 +0000",
          "title" : "Intercontinental Championship for Prisoners: Serbia wins youth event"
-      },
-      {
-         "description" : "In last week's post for the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/roger-cohen-foreign-correspondent.html\">Roger Cohen, Foreign Correspondent</A>(October 2022), I noted that the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>was a tale of two matches:- <BLOCKQUOTE>The first match, which had little to do with chess, was about Fischer's sudden return to chess after 20 years of self-imposed retirement. Was he still capable of playing at the highest level? Was Spassky? The second match, which started with the third game, was all about chess. </BLOCKQUOTE> <P>One journalist was eminently qualified to cover both matc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/historic-photo-historic-game.html",
-         "pubDate" : "Fri, 14 Oct 2022 15:36:00 +0000",
-         "title" : "Historic Photo, Historic Game"
       }
    ]
 }
