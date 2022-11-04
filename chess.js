@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-2",
+         "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
+         "title" : "2022 Fall Chess Classic: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4-lichessorg",
+         "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
+         "title" : "2022 Fall Chess Classic: Round 4 | lichess.org"
+      },
+      {
          "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals.&#38;nbsp; Nakamura won an all-decisive-games ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1218,28 +1234,12 @@ news_feed (
          "title" : "Fischer Random: The fun begins!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows what he believes is the best attacking game from this year&#039;s U.S. Chess Championship. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-vs-so-best-attacks-us-champs-grandmasters-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robson-vs-so-best-attacks-us-champs-grandmasters-choice-gm-yuniesky-quesada",
-         "pubDate" : "Wed, 26 Oct 2022 04:07:18 +0000",
-         "title" : "Robson vs. So: Best Attacks at U.S. Champs! | Grandmaster's Choice - GM Yuniesky Quesada"
-      },
-      {
          "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
          "pubDate" : "Tue, 25 Oct 2022 20:42:00 -0700",
          "title" : "The Winding Wonderland of Fischer Random: Abdusattorov, Nakamura Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Yuniesky Quesada shows the best attacking games from this year&#039;s U.S. Chess Championship, which was won by Fabiano Caruana. 2022.10.25<br /> Ray Robson vs Wesley So, U.S. Championship (2022): E50 Nimzo-Indian, 4.e3 e8g8, 5.Nf3, without ...d5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2389953\">https://www.chessgames.com/perl/chessgame?gid=2389953</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-us-championship-best-attackin",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-us-championship-best-attacking-games-gm-yuniesky-quesada-lichessorg",
-         "pubDate" : "Wed, 26 Oct 2022 01:07:16 +0000",
-         "title" : "2022 U.S. Championship: Best Attacking Games! - GM Yuniesky Quesada | lichess.org"
       },
       {
          "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
