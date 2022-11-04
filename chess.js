@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I take a break from my usual historical articles to pay tribute to a countryman who has been recently honored with one of the highest distinctions in chess - his induction into the World Chess Hall of Fame. In a sense, this tribute is still partly historical, as his long career is now all part of chess lore. He is none other than Grandmaster Eugenio Torre of the Philippines, who turns 71 today. To Eugene, a joyous birthday, and our heartfelt congratulations!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eugenio-torre-pillar-of-philippine-chess",
+         "pubDate" : "Fri, 04 Nov 2022 11:30:00 +0100",
+         "title" : "Eugenio Torre: The Pillar of Philippine Chess"
+      },
+      {
+         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
+         "pubDate" : "Fri, 04 Nov 2022 09:32:00 +0000",
+         "title" : "Armageddon Championship Series: Everything you need to know"
+      },
+      {
+         "description" : " <p class=\"lead\">The first regional tournaments in the Armageddon Online Cups are over. The top 10 from each region shared a prize fund of €1,000. The first twenty places have already secured places in the regional online finals with a total prize pool of €10,000 each. By now we can probably see the names of those who will win the online finals and make it to the over the board event in Berlin next year. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #1:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-first-tournaments-1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-first-tournaments/",
+         "pubDate" : "Fri, 04 Nov 2022 09:30:19 +0000",
+         "title" : "Armageddon Online Cups: Results for the first tournaments"
+      },
+      {
+         "description" : " Nakamura beat Ian Nepomniachtchi to win Fischer Random world championship, 50 years after Bobby Fischer beat Boris Spassky Hikaru Nakamura won the Fischer Random world championship in Reykjavik, in an event which marked 50 years since Bobby Fischer defeated Boris Spassky in Iceland in the most famous match in chess history. Fischer Random is a chess variant where the back rank pieces are placed randomly, and is an effective way of escaping book openings. Nakamura, 34, a five-time US champion who has become a streamer with more than a million followers, lost only one game throughout, though he needed an Armageddon at the end to clinch the final against Russia's Ian Nepomniachtchi, who played",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/nov/04/chess-hikaru-nakamura-reykjavik-fischer-random",
+         "pubDate" : "Fri, 04 Nov 2022 08:00:38 +0000",
+         "title" : "Chess: Hikaru Nakamura follows Fischer's footsteps to win in Reykjavik"
+      },
+      {
+         "description" : "The Edinburgh Chess Club was founded in 1822 and is celebrating its 200th birthday on November 4. It is the world's second oldest chess club in continued existence after Zurich (1809). Best wishes for the Bicentenary celebrations, and for the next 100 years!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/edinburgh-chess-club-200-anniversary",
+         "pubDate" : "Fri, 04 Nov 2022 08:45:00 +0100",
+         "title" : "The Edinburgh Chess Club celebrates its 200th anniversary"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #540 Merijn van Delft again analyses a game from the German Bundesliga. Sergei Movsesian proved to be better prepared than Frank Bracker in a sharp Sicilian Taimanov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +114,14 @@ news_feed (
          "title" : "Announcing The 2022 Speed Chess Championship"
       },
       {
+         "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-housboat-2023-preview",
+         "pubDate" : "Thu, 03 Nov 2022 15:40:00 +0100",
+         "title" : "A delightful experience: Chess Houseboat 2023"
+      },
+      {
          "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,22 +160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-nandhidhaa-win-asian-chess-championship-titles/articleshow/95278033.cms",
          "pubDate" : "Thu, 03 Nov 2022 10:59:10 +0000",
          "title" : "India's Praggnanandhaa, Nandhidhaa win Asian Chess C'ship titles"
-      },
-      {
-         "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-housboat-2023-preview",
-         "pubDate" : "Thu, 03 Nov 2022 11:40:00 +0100",
-         "title" : "A delightful experience: Chess Houseboat 2023"
-      },
-      {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Thu, 03 Nov 2022 10:00:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
       },
       {
          "description" : " <p class=\"lead\">GM Jan-Krzysztof Duda played the Bongcloud opening against GM Hikaru Nakamura at the Chesscom Global Championship 2022 and the American streamer was not happy! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru-Nakamura-Duda-Bongcloud-chess.png\" width=\"2358\" height=\"1566\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> In 2021 the Guardian wrote: \"The self-destructive opening (2. Ke2) is known as the Bongcloud for a simple reason: you'd have to be stoned to the gills to think it was a good idea.\" and they couldn't be more accurate! Jan-Krzysztof Duda decided to rock the chess world by playing the Bongcloud against the \"B",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "Abdulla Gadimbayli and Govhar Beydullayeva win 2022 FIDE World Junior Championship"
       },
       {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final will take place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. The 8-player lineup will include defending champion Wesley So, classical chess champion Magnus Carlsen and rapidplay specialist Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-preview",
-         "pubDate" : "Sat, 22 Oct 2022 20:00:00 +0100",
-         "title" : "Starting Tuesday: World Fischer Random Chess Championship"
-      },
-      {
          "description" : " The German Schachbundesliga takes place over 15 rounds 21st October 2022 to 30th April 2023. Round 7 will be played over several Friday's (preceding normal rounds) during the season. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1632,14 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-8-duda-wins-thrilling-final-after-mamedyarov-comeback",
          "pubDate" : "Sat, 22 Oct 2022 10:16:55 +0000",
          "title" : "Aimchess Rapid Day 8: Duda wins thrilling final after Mamedyarov comeback"
-      },
-      {
-         "description" : "Bobby Fischer was the fifth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October. | Foto: YURIKO NAKAO/ REUTERS",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-bobby-fischer",
-         "pubDate" : "Sat, 22 Oct 2022 11:00:00 +0100",
-         "title" : "Frederic's mates - Bobby Fischer"
       },
       {
          "description" : "GM Jan-Krzysztof Duda won the Aimchess Rapid tournament on Friday after beating GM Shakhriyar Mamedyarov in a blitz tiebreak, necessary because Mamedyarov had levelled the score in the second match. It was Duda&#39;s second tournament victory in the t...",
@@ -2008,22 +2024,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/braille-chess-association-90th-anniversary/",
          "pubDate" : "Fri, 14 Oct 2022 14:49:59 +0000",
          "title" : "Braille Chess Association 90th Anniversary"
-      },
-      {
-         "description" : " The 2022 World Junior Championship is being held on the island of Sardinia, Italy (somewhere I have always wanted to visit). There are 2 Australian representatives, FM Albert Winkelman in the Open, and Jody Middleton in the Girls. After 3 rounds, Winkelman is on 2/3, winning in both rounds 2&amp;3. He defeated IM Jagadeesh Siddarth, and will play IM Jose Veiga in round 4. Having started the event playing 3 IM's in 4 rounds, Winkelman is already well placed to aim for an IM norm from this tournament. Middleton is on 1/3, having also playing a tough (and titled) field. Showing the strength of this tournament, her round 4 opponent is 2138 WFM Laman Hajiyeva. You can follow the event at <a href",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-world-junior.html",
-         "pubDate" : "Fri, 14 Oct 2022 10:25:00 +0000",
-         "title" : "2022 World Junior"
-      },
-      {
-         "description" : " Last week, we moved further towards the end of the game we are analyzing. We applied the games principles we have studied thus far to determine why each move was made. While this game doesn't end in a traditional endgame, there are a few endgame elements that will appear. Therefore, I decided to give you <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-four/\">A Foundation for Beginners Seventy Four</a> appeared first on <a rel=\"nofollow\" href=\"https://",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-four/",
-         "pubDate" : "Fri, 14 Oct 2022 10:00:54 +0000",
-         "title" : "A Foundation for Beginners Seventy Four"
       }
    ]
 }
