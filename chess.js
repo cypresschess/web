@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #540 Merijn van Delft again analyses a game from the German Bundesliga. Sergei Movsesian proved to be better prepared than Frank Bracker in a sharp Sicilian Taimanov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-540-movsesian-bracker",
+         "pubDate" : "Fri, 04 Nov 2022 07:15:00 +0100",
+         "title" : "Game of the Week #540: S. Movsesian vs F. Bracker"
+      },
+      {
+         "description" : "Praggnanandhaa and Nandhidhaa becomes Asian Champions New Delhi (04 Nov 2022):- Top seed Grandmaster Praggnanandhaa R and Women Grandmaster Nandhidhaa P V became the Asian",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-continental-chess-championship-final-daypraggnanandhaa-and-nandhidhaa-becomes-asian-champions/",
+         "pubDate" : "Fri, 04 Nov 2022 05:49:27 +0000",
+         "title" : "Asian Continental Chess Championship (Final Day):Praggnanandhaa and Nandhidhaa becomes Asian Champions"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95291715.cms\" />Despite losing the second round to a lower seed in the classical format and her opening game of the blitz event, Divya on Thursday brought home two Asian medals from the selection tournament for the Fide Knockout World Cup in New Delhi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-continental-chess-championship-divya-deshmukh-does-a-double-wins-blitz-gold-and-classical-bronze/articleshow/95291715.cms",
+         "pubDate" : "Fri, 04 Nov 2022 04:52:12 +0000",
+         "title" : "Asian Continental Chess: Divya does a double with blitz gold, classical bronze"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95291324.cms\" />The 11th seed finished behind champion PV Nandhidhaa in the Asian Continental chess meet. Only two players from the women's meet booked their seats for the World Cup scheduled next year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/priyanka-nutakki-qualifies-for-fide-world-cup/articleshow/95291324.cms",
+         "pubDate" : "Fri, 04 Nov 2022 04:33:33 +0000",
+         "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1618,14 +1650,6 @@ news_feed (
          "title" : "Duda Wins Aimchess Rapid 2022 In Tiebreak"
       },
       {
-         "description" : "This time we would like to add only one piece of information to the inconspicuous diagram position: White to play! The rest is up to your tactical acumen...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/out-of-the-blue-bundesliga-sky",
-         "pubDate" : "Sat, 22 Oct 2022 09:00:00 +0100",
-         "title" : "Out of the blue Bundesliga sky"
-      },
-      {
          "description" : "In the last version of Asian Youth Chess Championship, the Blitz Championship, India bagged 5 Gold, 2 Silver and a Bronze here today in Bali,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1954,14 +1978,6 @@ news_feed (
          "title" : "Fide World Junior Chess 2022: Round 2 & Round 3 Report"
       },
       {
-         "description" : "5 GOLDS EACH FOR INDIA AND VIETNAM The much awaited ASIAN YOUTH CHESS CHAMPIONSHIP 2022 KICK STARTS AT BALI ,INDIAN TEAM PLAYERS : CHARVI,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-youth-chess-championship-2022/",
-         "pubDate" : "Sat, 15 Oct 2022 08:56:35 +0000",
-         "title" : "ASIAN YOUTH CHESS CHAMPIONSHIP - 2022"
-      },
-      {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2008,14 +2024,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-four/",
          "pubDate" : "Fri, 14 Oct 2022 10:00:54 +0000",
          "title" : "A Foundation for Beginners Seventy Four"
-      },
-      {
-         "description" : " The controversial 19-year-old began well in St Louis, but now he is among the tailenders Hans Niemann, the controversial 19-year-old named as a probable cheat by the world champion, Magnus Carlsen, made a fast start at the $262,000 US championship in St Louis but then fell back and was next to last after eight of the 13 rounds. The teenager, who denies all the recent allegations, won in round one, calling it \"such a beautiful game that I don't need to describe it.\" He should have won <a href=\"https://chess24.com/en/watch/live-tournaments/us-championship-2022/2/1/1\" title=\"\">in round two</a> as well, emerging as White against the French Defence with an extra passed pawn. It would have made h",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/oct/14/chess-hans-niemann-struggles-in-us-championship-amid-beefed-up-security",
-         "pubDate" : "Fri, 14 Oct 2022 07:00:31 +0000",
-         "title" : "Chess: Hans Niemann struggles in US championship amid beefed up security"
       }
    ]
 }
