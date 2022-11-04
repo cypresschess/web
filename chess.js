@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2079",
+         "pubDate" : "Fri, 04 Nov 2022 20:38:52 +0000",
+         "title" : "FIDE Women's Candidates: No risks taken"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> His <a href=\"https://cse.buffalo.edu/~regan/chess/fidelity/\">cheating-detection work</a> <a href=\"https://time.com/6227677/magnus-carlsen-hans-niemann-kenneth-regan-chess-scandal/\">in chess helped</a> <strong>Ken Regan</strong> to be promoted from assistant professor to full professor of computer science at the <strong>University of Buffalo</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/regan-promoted-to-full-professor/",
+         "pubDate" : "Fri, 04 Nov 2022 21:07:29 +0100",
+         "title" : "Regan promoted to full professor"
+      },
+      {
          "description" : "This week, Daniel King analyses a game he played against Michael Basman, who recently passed away. True to his nature, Basman went for the 'Creepy Crawly', with 1...h6 and 2...a6! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-despite-the-war-the-anfield-cup-in-kyiv",
          "pubDate" : "Thu, 27 Oct 2022 12:00:00 +0100",
          "title" : "Chess despite the war: The Anfield Cup in Kyiv"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The English IM, off-beat opening creator and initiator of the <strong>UK Chess Challenge</strong>, a nationwide scholastic tournament, <strong>Michael Basman</strong> <a href=\"https://twitter.com/Delancey_UKCC/status/1585590038678671361\">has passed away</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/mike-basman-1946-2022/",
-         "pubDate" : "Thu, 27 Oct 2022 11:51:30 +0100",
-         "title" : "Mike Basman (1946-2022)"
       },
       {
          "description" : "",
