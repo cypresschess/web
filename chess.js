@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Imagine two young men. The American teenage chess grandmaster, Hans Niemann, and the Norwegian world chess champion, Magnus Carlsen, are sitting on a sunny Miami beach together, hunched over a chessboard and obviously enjoying themselves as they play a series of quick games. This is chess for fun. Within a few days, the two meet again on September 4th in a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/cheating-at-chess-the-story-so-far/",
+         "pubDate" : "Sat, 05 Nov 2022 11:23:51 +0000",
+         "title" : " Cheating at chess: the story so far"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2080",
+         "pubDate" : "Sat, 05 Nov 2022 10:55:18 +0000",
+         "title" : "Winners crowned at 2022 European Senior Team Championships"
+      },
+      {
+         "description" : "The 2022 European Senior Chess Championships (50+ &#38; 65+ age categories) concluded yesterday in Dresden, Germany. England 50-1 won the 50+ event with a round to spare and after nine played rounds scored convincing 17 match points. Berlin 1 and Germany tied for the second place scoring 14 match points, each. According to tiebreaks criteria (Olympiad-Sonneborn-Berger), Berlin 1&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-concluded-in-dresden/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-concluded-in-dresden/",
+         "pubDate" : "Sat, 05 Nov 2022 09:58:07 +0000",
+         "title" : "European Senior Team Chess Championships 2022 concluded in Dresden"
+      },
+      {
+         "description" : "November 4th Round 9 England 50+ 1st team are European Senior Team Chess Champions! The England 50+ 1st team celebrated their status as the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-final-round-and-winners-photographs/",
+         "pubDate" : "Sat, 05 Nov 2022 09:42:25 +0000",
+         "title" : "European Senior Teams Championships - final round and winners photographs"
+      },
+      {
+         "description" : "After the initial move 20...Qb6+! in the diagram position 21.Rf2 is easy enough to refute, but what would you do after 21.Nf2? Good luck - and enjoy the position!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-swinging-queen",
+         "pubDate" : "Sat, 05 Nov 2022 09:00:00 +0100",
+         "title" : "The swinging queen"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -248,6 +288,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-2022-scc",
          "pubDate" : "Thu, 03 Nov 2022 10:08:00 -0700",
          "title" : "Announcing The 2022 Speed Chess Championship"
+      },
+      {
+         "description" : "Yes, that's what the ad said. Pictured below, it appeared inside the November 1997 issue of <I>Chess Life</I> that I discussed a few days ago in <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Center of ad:</B>'Hereford to field eight. &#149; Ewe to tractor seven. &#149; Ram mates ewe.' <P>The two page ad started, <BLOCKQUOTE><FONT COLOR=\"#ff0000\">Introducing Chessmaster 5500,</FONT> the latest in the award-winning software line for the chess-obsessed. Thanks to patented Illustrated Voice Analysis, C",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/ram-mates-ewe.html",
+         "pubDate" : "Thu, 03 Nov 2022 16:08:00 +0000",
+         "title" : "'Ram Mates Ewe'?"
       },
       {
          "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
@@ -1562,14 +1610,6 @@ news_feed (
          "title" : "Uzbekistan to host Pool B of the Women's Candidates Tournament"
       },
       {
-         "description" : "188 years ago, from June to October 1834, Louis-Charles Mah&eacute; de La Bourdonnais of France and Alexander McDonnell of Ireland played a series of five matches to determine who was the world's best player of their time. La Bourdonnais won with an overall score of 45 wins, 27 losses and 13 draws. Today, this series of matches is considered to be the first inofficial World Championship match. It helped enormously to popularize chess and led to a number of remarkable games. Eugene Manlapao has the details. | Pictured: Stamp issued by the postal administration of the Solomon Islands in 2013",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-the-beginning-la-bourdonnais-vs-mcdonnell-london-1834",
-         "pubDate" : "Mon, 24 Oct 2022 16:35:32 +0100",
-         "title" : "In The Beginning: La Bourdonnais vs. Mcdonnell, London 1834"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,22 +2032,6 @@ news_feed (
          "link" : "https://www.thearticle.com/henry-ii-thomas-becket-and-the-royal-game/",
          "pubDate" : "Sat, 15 Oct 2022 15:48:12 +0000",
          "title" : "Henry II, Thomas Becket and the Royal Game"
-      },
-      {
-         "description" : "Round 4 in World Junior Chess Championship 2022 saw an Indian battle between IM Prraneeth Vuppala &#38; FM Rohith Krishna S. The game started from",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2022-round-4-report/",
-         "pubDate" : "Sat, 15 Oct 2022 10:37:48 +0000",
-         "title" : "World Junior Chess Championship 2022 ROUND 4 REPORT"
-      },
-      {
-         "description" : "ROUND 2&#38;3 REPORT World Junior Chess Championship 2022 Round 2 IM Harshavardhan GB was facing the Moscow variation in the Sicilian against the top seeded",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-chess-2022-round-2-round-3-report/",
-         "pubDate" : "Sat, 15 Oct 2022 09:03:47 +0000",
-         "title" : "Fide World Junior Chess 2022: Round 2 & Round 3 Report"
       }
    ]
 }
