@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nakamura-So and Giri-Sarin are locked at 2:2 going into Day 2 of the Chess.com Global Championship semi-finals. Hikaru and Wesley drew all four games, but not without real chances, especially in the 134-move Game 3. Anish Giri took the lead against Nihal Sarin but the young Indian hit straight back and missed a wonderful chance to take the lead himself.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/global-championship-3-missed-chances",
+         "pubDate" : "Sat, 05 Nov 2022 14:29:49 +0000",
+         "title" : "Global Championship 3: Missed chances"
+      },
+      {
+         "description" : "After three games and three draws, the semi-final of the Women's Candidates between Anna Muzychuk and Lei Tingjie is tied. On Saturday the fourth and last game with a classical time-control will be played. Can Lei Tingjie use the advantage of the white pieces, will Anna Muzychuk win with Black or will we see a tiebreak? | Follow game 4 game live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Sat, 05 Nov 2022 14:50:00 +0100",
+         "title" : "Women's Candidates - Semi-final Live"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
          "pubDate" : "Fri, 04 Nov 2022 14:08:44 +0000",
          "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates is participating in a knockout event to decide who qualifies to a final match set to take place in 2023. The Chinese Lei Tingjie qualified for the final of Pool A after beating Mariya Muzychuk in a 4-game match. In the final, Lei faces Anna Muzychuk, who beat Humpy Koneru in tiebreaks. | Follow the tiebreak games live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Fri, 04 Nov 2022 14:50:00 +0100",
-         "title" : "Women's Candidates - Pool A: Live"
       },
       {
          "description" : "Anish Giri hit back after a Teimour Radjabov comeback to clinch a semi-final spot in the Chess.com Global Championship against Nihil Sarin, who himself came back against Sam Sevian. The other semi-finalists, guaranteed at least $50,000, are Wesley So and Hikaru Nakamura, with Wesley surprisingly wrapping up his match first while Jan-Krzysztof Duda beat Hikaru twice on demand.",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://aicf.in/round-9-report-world-junior-chess-championship-2022/",
          "pubDate" : "Fri, 21 Oct 2022 10:11:23 +0000",
          "title" : "ROUND 9 REPORT World Junior Chess Championship 2022"
-      },
-      {
-         "description" : "Polish ace Jan-Krzysztof Duda took a decisive lead in the two-day Aimchess Rapid final with a 3-1 win over Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-7-duda-takes-decisive-lead",
-         "pubDate" : "Fri, 21 Oct 2022 08:47:10 +0000",
-         "title" : "Aimchess Rapid Day 7: Duda takes decisive lead"
       },
       {
          "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, is to sue Carlsen as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in t",
