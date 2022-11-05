@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/woman-quota-in-french-leagues-works/",
+         "pubDate" : "Sat, 05 Nov 2022 13:38:06 +0100",
+         "title" : "Woman quota in French leagues works"
+      },
+      {
+         "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/opening-doors.html",
+         "pubDate" : "Sat, 05 Nov 2022 11:48:00 +0000",
+         "title" : "Opening the doors"
+      },
+      {
          "description" : "Imagine two young men. The American teenage chess grandmaster, Hans Niemann, and the Norwegian world chess champion, Magnus Carlsen, are sitting on a sunny Miami beach together, hunched over a chessboard and obviously enjoying themselves as they play a series of quick games. This is chess for fun. Within a few days, the two meet again on September 4th in a []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/cheating-at-chess-the-story-so-far/",
          "pubDate" : "Sat, 05 Nov 2022 11:23:51 +0000",
          "title" : " Cheating at chess: the story so far"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ilya Merenzon</strong>, the Berlin-based Russian-Israeli entrepreneur behind <strong>World Chess</strong>, <a href=\"https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/\">has hired</a> <strong>Novum Securities Limited</strong>, a UK brokerage, to help his company get listed on the <strong>London Stock Exchange</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/world-chess-seeks-stock-listing/",
+         "pubDate" : "Sat, 05 Nov 2022 12:03:57 +0100",
+         "title" : "World Chess seeks stock listing"
       },
       {
          "description" : "",
@@ -818,14 +842,6 @@ news_feed (
          "title" : "Hikaru Nakamura is Fischer Random World Champion"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An online tournament of masked players was held (<a href=\"https://www.youtube.com/watch?v=kfjLwZym1QQ&amp;t=2s\">video link</a>) by <strong>chess24</strong> and <strong>Chessable</strong>. The winner Scary Surprise turned out to be <strong>Daniil Dubov</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/dubov-wins-halloween-masked-event/",
-         "pubDate" : "Mon, 31 Oct 2022 10:44:46 +0100",
-         "title" : "Dubov wins Halloween masked event"
-      },
-      {
          "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2071",
          "pubDate" : "Sun, 30 Oct 2022 21:31:45 +0000",
          "title" : "Anna Muzychuk edges out Humpy Koneru to reach semifinal"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> <a href=\"https://www.frchess.com/pairings-and-results\">narrowly beat</a> <strong>Ian Nepomniachtchi</strong> in the final of the <strong>Fischer Random World Championship</strong> in Reykjavik and scored $150,000. <strong>Magnus Carlsen</strong> was ousted by Nepo in the semifinal but won the match for 3rd place against <strong>Nodirbek Abdusattorov</strong>, who had dominated his preliminary. The defending champion <strong>Wesley So</strong> came sixth after losing to <strong>Vladimir Fedoseev</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nakamura-is-fischer-random-world/",
-         "pubDate" : "Sun, 30 Oct 2022 21:17:33 +0100",
-         "title" : "Nakamura is Fischer Random World Champion"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95186429.cms\" />Indian Grandmaster Harsha Bharathakoti beat Koustav Chatterjee in the fifth round to move into sole lead with 4.5 points in the Open section of the Asian Continental Chess championship on Sunday.",
