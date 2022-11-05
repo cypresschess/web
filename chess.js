@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa and Nandhidhaa P V won the open and women's sections of the 2022 Asian Championships, respectively. Praggnanandhaa took the sole lead in round 8, and a draw in his final game was enough for the 17-year-old to win the open. Nandhidhaa, aged 26, claimed tournament victory with one round to spare. | Photos: All India Chess Federation and Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/asian-continental-championship-2022",
+         "pubDate" : "Sat, 05 Nov 2022 19:15:00 +0100",
+         "title" : "Indians dominate Asian Continental Championships"
+      },
+      {
+         "description" : "The 2022 FIDE World Amateur Championship&#xA0;is&#xA0;in the books. The event took place in Malta from October 20-30 and was held in four sections: U2300, U2000, U1700 and Women U1700. Women playing in the open sections U2300 and U2000 were eligible to win prizes from both categories. All the competitions were 9-round Swiss tournaments with classical []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-amateur-chess-championships-2022-concluded-in-malta/",
+         "pubDate" : "Sat, 05 Nov 2022 17:46:21 +0000",
+         "title" : "FIDE World Amateur Chess Championships 2022 concluded in Malta"
+      },
+      {
+         "description" : "The 2022 European Senior Team Chess Championships (50+ &#38; 65+ age categories) concluded yesterday in Dresden, Germany. England 50-1 won the 50+ event with a round to spare and after nine played rounds scored convincing 17 match points. Berlin 1 and Germany tied for the second place scoring 14 match points, each. According to tiebreaks []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-team-chess-champions-2022-crowned-in-dresden/",
+         "pubDate" : "Sat, 05 Nov 2022 17:36:39 +0000",
+         "title" : "European Senior Team Chess Champions 2022 crowned in Dresden"
+      },
+      {
          "description" : "Pia Cramling is a regular guest at the V&auml;stg&ouml;ta Open, the open championship of the Swedish V&auml;sterg&ouml;tland Chess Federation, which was again held as a rapid chess tournament in Skara last weekend. This time, however, the Swedish chess icon had to concede the tournament victory to Erik Blomqvist. She came third. Holger Blauhut (11th place) also played and sent a report. | Next to the window, GM Erik Blomqvist plays against FM Lars-Goran Eklund, while GM Pia Cramling faces GM Petro Golubka on the next board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup"
       },
       {
-         "description" : "Chess has come a long way since Bobby Fischer was champion 50 years ago. Engines dominate how players study the game. So can we still really learn from his games after all this time? The answer is yes. You now have the opportunity to emulate Bobby Fischer's play and learn to put non-stop pressure on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fischers-endgame-technique-by-alex-colovic/",
-         "pubDate" : "Tue, 01 Nov 2022 11:40:46 +0000",
-         "title" : "Fischer's Endgame Technique by Alex Colovic"
-      },
-      {
          "description" : "It seems we have arrived at the strongest of all chess star signs. No less than three World Champions are Scorpios - Mikhail Tal, Alexander Alekhine, and Raoul Capablanca - and there are several other top players joining them - Ding Liren, Alexander Grischuk, Vincent Keymer, Lev Polugaevsky, Salo Flohr, and Ernst Gr&uuml;nfeld - to name but a few. But why are scorpions so brutally strong?| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-siddhant-gawai-emerges-state-u-15-chess-champion-qualifies-for-nationals/articleshow/95213020.cms",
          "pubDate" : "Mon, 31 Oct 2022 17:05:43 +0000",
          "title" : "Unbeaten Gawai emerges state U-15 champion, qualifies for nationals"
-      },
-      {
-         "description" : "Sofia Karpova, the daughter of Anatoly Karpov, confirmed that Anatoly Karpov is in serious condition, &#8220;Dad was injured as a result of the fall, he is in an artificial coma&#8220; The daughter of a Russian Grandmaster said that there was no attack on her father and that the injuries were a cause of her father []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sofia-karpova-anatoly-karpov-is-in-an-artificial-coma/",
-         "pubDate" : "Mon, 31 Oct 2022 17:04:25 +0000",
-         "title" : "Sofia Karpova: Anatoly Karpov is in an artificial coma"
       },
       {
          "description" : "'Another two weeks, another report about the world's top two ongoing engine vs.engine competitions.' That's what the lead sentence for this post should say, except that it's been three weeks since the previous report. My wife frequently insists on taking vacations that interfere with all of my well-planned schedules. That previous report, <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html\">TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway</A>(October 2022), can be summarized as follows:- <BLOCKQUOTE>TCEC: S23 DivP is well underway. Stockfish is two points ahead of LCzero and KomodoDragon, which are separated by a half-point. &#149; CCC: Stockfish ",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-pawn-race",
          "pubDate" : "Tue, 25 Oct 2022 09:00:00 +0100",
          "title" : "The pawn race"
-      },
-      {
-         "description" : "In the Endgame Magic Show #212 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from the Aimchess Tournament. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-212-with-david-navara",
-         "pubDate" : "Tue, 25 Oct 2022 08:08:33 +0100",
-         "title" : "Endgame Magic #212 with David Navara"
       },
       {
          "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland. Organiser is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. Open and Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/\">Read More &#187;</a></span>",
