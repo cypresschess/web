@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report. The full report will be added shortly. GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the 2022 Chess.com Global Championship on Friday, but ...",
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-3",
+         "pubDate" : "Sat, 05 Nov 2022 01:15:12 +0000",
+         "title" : "2022 Fall Chess Classic: Round 3"
+      },
+      {
+         "description" : "GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the Chess.com Global Championship on Friday but were both held to 2-2 following some resolute defense by their opponent...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-sf",
-         "pubDate" : "Fri, 04 Nov 2022 14:55:12 -0700",
-         "title" : "Giri and So Miss Chances In Chaotic Semifinals: Flash Report"
+         "pubDate" : "Fri, 04 Nov 2022 14:55:00 -0700",
+         "title" : "Giri, So Miss Chances In Chaotic Semifinals"
       },
       {
          "description" : "",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-gm-miro-lichessorg",
          "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
          "title" : "Chess Mistakes and How to Avoid Them - GM Miro | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on a concept you all should know. 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
-         "title" : "Beginner Breakdown | lichess.org"
       },
       {
          "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
