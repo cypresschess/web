@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-chess-2022-round-2-round-3-report/",
          "pubDate" : "Sat, 15 Oct 2022 09:03:47 +0000",
          "title" : "Fide World Junior Chess 2022: Round 2 & Round 3 Report"
-      },
-      {
-         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
-         "pubDate" : "Sat, 15 Oct 2022 06:48:35 +0000",
-         "title" : "European Cities & Towns Chess Championship Registration opens!"
       }
    ]
 }
