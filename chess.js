@@ -10,20 +10,28 @@ news_feed (
          "title" : "Global Championship 3: Missed chances"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>BDS</strong>, a <a href=\"https://time.com/5914975/what-to-know-about-bds/\">Palestinian organisation that is mobilizing against Israel</a>, <a href=\"https://bdsmovement.net/fide\">asks to boycott</a> the <strong>World Teams Championship</strong> later this month as it will be held in East Jerusalem which has been occupied by Israel since 1967 and de facto annexed. The <strong>Palestine Chess Federation</strong>, which is receiving significant support from FIDE, is not known to support the call. <strong>FIDE</strong> has since 2018 taken significant steps against the frequent boycott of Israeli players. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/boycott-call-against-world-teams/",
+         "pubDate" : "Sat, 05 Nov 2022 15:18:38 +0100",
+         "title" : "Boycott call against World Teams"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. Niederle has earlier established <a href=\"https://www.researchgate.net/publication/24091981_Do_Women_Shy_Away_from_Competition_Do_Men_Compete_too_Much\">gender differences in confidence and competitive reward schemes</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/woman-quota-in-french-leagues-works/",
+         "pubDate" : "Sat, 05 Nov 2022 15:10:39 +0100",
+         "title" : "Woman quota in French leagues works"
+      },
+      {
          "description" : "After three games and three draws, the semi-final of the Women's Candidates between Anna Muzychuk and Lei Tingjie is tied. On Saturday the fourth and last game with a classical time-control will be played. Can Lei Tingjie use the advantage of the white pieces, will Anna Muzychuk win with Black or will we see a tiebreak? | Follow game 4 game live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
          "pubDate" : "Sat, 05 Nov 2022 14:50:00 +0100",
          "title" : "Women's Candidates - Semi-final Live"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/woman-quota-in-french-leagues-works/",
-         "pubDate" : "Sat, 05 Nov 2022 13:38:06 +0100",
-         "title" : "Woman quota in French leagues works"
       },
       {
          "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022",
          "pubDate" : "Wed, 02 Nov 2022 10:00:00 +0100",
          "title" : "European Senior Teams: England and Germany top the standings"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE's Fair Play Commission is preparing to train anti-cheating officials and to implement a screening system for ongoing games. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/niemann-scanned-by-chris-bird.1920.jpeg\" title=\"Arbiter Chris Bird scanned Hans Niemann at the Saint Louis Chess Club. photo: Lennart Ootes/Sinquefield Cup 2022\" data-title=\"Arbiter Chris Bird scanned Hans Niemann at the Saint Louis Chess Club. (photo: Lennart Ootes/Sinquefield Cup 2022)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/niemann-scanned-by-chris-bird.480.jpeg\" alt=\"Arbiter Chr",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/trust-was-yesterday/",
-         "pubDate" : "Wed, 02 Nov 2022 08:38:31 +0100",
-         "title" : "Trust was yesterday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
