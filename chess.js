@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pia Cramling is a regular guest at the V&auml;stg&ouml;ta Open, the open championship of the Swedish V&auml;sterg&ouml;tland Chess Federation, which was again held as a rapid chess tournament in Skara last weekend. This time, however, the Swedish chess icon had to concede the tournament victory to Erik Blomqvist. She came third. Holger Blauhut (11th place) also played and sent a report. | Next to the window, GM Erik Blomqvist plays against FM Lars-Goran Eklund, while GM Pia Cramling faces GM Petro Golubka on the next board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/erik-blomqvist-wins-vastgota-open",
+         "pubDate" : "Sat, 05 Nov 2022 17:30:00 +0100",
+         "title" : "Erik Blomqvist wins V&auml;stg&ouml;ta Open"
+      },
+      {
          "description" : "Nakamura-So and Giri-Sarin are locked at 2:2 going into Day 2 of the Chess.com Global Championship semi-finals. Hikaru and Wesley drew all four games, but not without real chances, especially in the 134-move Game 3. Anish Giri took the lead against Nihal Sarin but the young Indian hit straight back and missed a wonderful chance to take the lead himself.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1610,14 +1618,6 @@ news_feed (
          "title" : "Women's Candidates Tournament (Pool A) starts in Monte-Carlo"
       },
       {
-         "description" : "There is love at first sight, as everyone knows, and there are, somewhat surprisingly, \"statistics at first sight\". What is that? In the infamous matter labelled by now as \"the Hans Niemann cheating case\" (a title that S.S. Van Dine would have greatly appreciated, as well as the mystery surrounding the case) such \"statistics at first sight\" have attracted the undisputed attention of every party involved - and above all the attention of the ones not involved. | Picture: The rating development of Hans Niemann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-hans-niemann-case-numbers-what-they-reveal-and-what-they-do-not-reveal",
-         "pubDate" : "Mon, 24 Oct 2022 20:00:00 +0100",
-         "title" : "The Hans Niemann case: Numbers - what they reveal and what they do not reveal"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2032,14 +2032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-arjun-erigaisi-shocks-magnus-carlsen-in-aimchess-rapid-tourney/articleshow/94892637.cms",
          "pubDate" : "Sun, 16 Oct 2022 06:10:06 +0000",
          "title" : "Indian GM Erigaisi shocks Carlsen in Aimchess Rapid tourney"
-      },
-      {
-         "description" : "It is perilous to annoy Princes, Potentates and Powers. Alert courtiers may just pick up vibes and intentions only vaguely communicated and act thereon with all the force that extreme sycophancy might encourage. Chess is known as the Royal Game, perhaps recalling that period of kings, knights and bishops of mediaeval England, when chess was []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/henry-ii-thomas-becket-and-the-royal-game/",
-         "pubDate" : "Sat, 15 Oct 2022 15:48:12 +0000",
-         "title" : "Henry II, Thomas Becket and the Royal Game"
       }
    ]
 }
