@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. The full report will be added shortly. GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
+         "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
+         "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura: Flash Report"
+      },
+      {
+         "description" : "The 4th and final classical game of the Women's Candidates Pool A semi-finals between Anna Muzychuk and Lei Tingjie kicked off by Marie Noelle Gibelli, a member of the National Council of Monaco, making the ceremonial first move. Marco Biagioli, Mitropa President and External Manager of the Italian Chess Federation, also was in the playing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lei-tingjie-wins-her-spot-in-the-womens-candidates-finals/",
+         "pubDate" : "Sat, 05 Nov 2022 20:48:55 +0000",
+         "title" : "Lei Tingjie wins her spot in the Women's Candidates finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2081",
+         "pubDate" : "Sat, 05 Nov 2022 20:20:14 +0000",
+         "title" : "Lei Tingjie wins her spot in the Women's Candidates finals"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5-lichessorg",
+         "pubDate" : "Sat, 05 Nov 2022 19:15:24 +0000",
+         "title" : "2022 Fall Chess Classic: Round 5 | lichess.org"
+      },
+      {
+         "description" : " Much of the last week, I was asked a specific question, how much theory should I study and how often should I put that theory into play (practice)? I was going to finish the game we've been analyzing this week but realized that this question might be on the minds of those reading this series <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\">A Foundation for Beginners Seventy Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-five/",
+         "pubDate" : "Sat, 05 Nov 2022 18:57:36 +0000",
+         "title" : "A Foundation for Beginners Seventy Five"
+      },
+      {
          "description" : "Praggnanandhaa and Nandhidhaa P V won the open and women's sections of the 2022 Asian Championships, respectively. Praggnanandhaa took the sole lead in round 8, and a draw in his final game was enough for the 17-year-old to win the open. Nandhidhaa, aged 26, claimed tournament victory with one round to spare. | Photos: All India Chess Federation and Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -626,14 +666,6 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 2 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-gm-miro-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-gm-miro-lichessorg",
-         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
-         "title" : "Chess Mistakes and How to Avoid Them - GM Miro | lichess.org"
-      },
-      {
          "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,14 +704,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fall-chess-classics-2022/",
          "pubDate" : "Tue, 01 Nov 2022 11:49:26 +0000",
          "title" : "Fall Chess Classic 2022"
-      },
-      {
-         "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fall-chess-classics-2022-live/",
-         "pubDate" : "Tue, 01 Nov 2022 11:49:21 +0000",
-         "title" : "Fall Chess Classic 2022 LIVE"
       },
       {
          "description" : " Entries for the 2023 O2C Doeberl Cup are now open, and if you visit <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> you will see that there have been some big changes made to the tournament. The most significant one is the addition of an extra section (The Mini), which is for players rated below 1500 (ACF). Connected with that is the change in the rating limits for the Major (now Under 2100), and the Minor (now Under 1800). The reason for this is to balance the numbers in each event, and to make the pairings a little more sensible. The prizes for the Major and Minor are unchanged, while the Mini adds an extra $1700 to the overall prize pool. The always popular Blitz event a",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
          "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
          "title" : "Why was Magnus Carlsen sued for $100 million?"
-      },
-      {
-         "description" : "GM Hans Niemann has filed a defamation lawsuit against GM Magnus Carlsen, GM Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Danny Rensch, seeking at least $100 million in damages. The lawsuit is the next episode in the chess cheating sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
-         "pubDate" : "Fri, 21 Oct 2022 06:38:00 -0700",
-         "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
