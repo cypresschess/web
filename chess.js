@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following three draws, Lei Tingjie beat Anna Muzychuk in the final encounter of the Women's Candidates semifinals in Monte Carlo. The 25-year-old will face the winner of Pool B, a similar 4-player knockout set to kick off on November 28 in Uzbekistan. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g4",
+         "pubDate" : "Sun, 06 Nov 2022 11:20:00 +0100",
+         "title" : "Lei Tingjie advances to Women's Candidates final"
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
+         "pubDate" : "Sun, 06 Nov 2022 10:12:54 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
+      },
+      {
+         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the award-winning Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022/",
+         "pubDate" : "Sun, 06 Nov 2022 09:41:25 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022"
+      },
+      {
+         "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland.&#xA0;The organizer is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation. The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022/",
+         "pubDate" : "Sun, 06 Nov 2022 09:21:37 +0000",
+         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4",
          "pubDate" : "Sun, 06 Nov 2022 07:15:29 +0000",
          "title" : "2022 Fall Chess Classic: Round 4"
+      },
+      {
+         "description" : "GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for the top prize of $200,000, and the winner will be crowned the in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
+         "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
+         "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura"
       },
       {
          "description" : "The 4th and final classical game of the Women's Candidates Pool A semi-finals between Anna Muzychuk and Lei Tingjie kicked off by Marie Noelle Gibelli, a member of the National Council of Monaco, making the ceremonial first move. Marco Biagioli, Mitropa President and External Manager of the Italian Chess Federation, also was in the playing []",
@@ -98,14 +138,6 @@ news_feed (
          "title" : "Woman quota in French leagues works"
       },
       {
-         "description" : "After three games and three draws, the semi-final of the Women's Candidates between Anna Muzychuk and Lei Tingjie is tied. On Saturday the fourth and last game with a classical time-control will be played. Can Lei Tingjie use the advantage of the white pieces, will Anna Muzychuk win with Black or will we see a tiebreak? | Follow game 4 game live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Sat, 05 Nov 2022 14:50:00 +0100",
-         "title" : "Women's Candidates - Semi-final Live"
-      },
-      {
          "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -162,6 +194,14 @@ news_feed (
          "title" : "The swinging queen"
       },
       {
+         "description" : "After three games and three draws, the semi-final of the Women's Candidates between Anna Muzychuk and Lei Tingjie is tied. On Saturday the fourth and last game with a classical time-control will be played. Can Lei Tingjie use the advantage of the white pieces, will Anna Muzychuk win with Black or will we see a tiebreak? | Follow game 4 game live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
+         "pubDate" : "Sat, 05 Nov 2022 08:50:00 +0100",
+         "title" : "Women's Candidates: Games and commentary"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,6 +240,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-michael-basman",
          "pubDate" : "Fri, 04 Nov 2022 17:50:00 +0100",
          "title" : "Daniel King's Power Play Show: Celebrating the play of Michael Basman"
+      },
+      {
+         "description" : "Last week's post in the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html\">'To Sam, With Thanks'</A>(October 2022), featured an eBay item, <BLOCKQUOTE>Signed by Bobby Fischer to his friend Saemi Rock, a.k.a. Saemundur Palsson, friend and bodyguard in 1972. </BLOCKQUOTE> <P>Palsson is seen frequently in 'Bobby Fischer vs. the Rest of the World' by Brad Darrach. The previous post where I quoted the author was <A HREF=\"http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html\">October 1972 & 1997 'On the Cover'</A>(October 2022), about a day where Darrach and his LIFE colleague, photographer Harry Benson, spent with the soon-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html",
+         "pubDate" : "Fri, 04 Nov 2022 16:18:00 +0000",
+         "title" : "Fashionable Fischer"
       },
       {
          "description" : "The Edinburgh Chess Club, the second oldest chess club in the world, celebrates its bicentenary today. Founded on November 4, 1822, over the two centuries the club has been visited by famous players such as Howard Staunton, Joseph Blackburne, Jose...",
@@ -256,14 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/25th-open-bavarian-championship-2022-live/",
          "pubDate" : "Fri, 04 Nov 2022 12:05:35 +0000",
          "title" : "25th Open Bavarian Championship 2022 LIVE"
-      },
-      {
-         "description" : "Maria Albulet Memorial 2022 took place 29 October to 4 November in Braila, Romania. It was a 10-player round-robin chess tournament with Alicja Sliwicka, Alessia-Mihaela Ciolacu, Elena-Luminita Cosma, Evgeniya Doluhanova, Nadya Toncheva, Miruna-Daria Lehaci, Fiona Sieber, Susanna Gaboyan, Anna Kubicka, and Marina Makropoulou. Alicja Sliwicka is the winner of the 2022 Maria Albulet Memorial with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alicja-sliwicka-wins-maria-albulet-memorial-2022/",
-         "pubDate" : "Fri, 04 Nov 2022 11:51:42 +0000",
-         "title" : "Alicja Sliwicka wins Maria Albulet Memorial 2022"
       },
       {
          "description" : "The European Youth Chess Championship 2022 will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/\">Read More &#187;</a></span>",
@@ -378,7 +418,7 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 4 | lichess.org"
       },
       {
-         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals.&#38;nbsp; Nakamura won an all-decisive-games ...",
+         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
@@ -512,14 +552,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2077",
          "pubDate" : "Wed, 02 Nov 2022 19:40:35 +0000",
          "title" : "FIDE Women's Candidates: Slow but solid start of the semi-finals"
-      },
-      {
-         "description" : "The 2022 Fall Chess Classic group B is a 10-player round-robin tournament taking place from 2-10 November 2022 in the St. Louis Chess Club. The tournament includes Raunak Sadhwani, Christopher Yoo, Alexander Lenderman, etc. Fall Chess Classics information / Fall Chess Classics Group A live games / Fall Chess Classics Group B live games /",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fall-chess-classic-2022-group-b-live/",
-         "pubDate" : "Wed, 02 Nov 2022 18:54:32 +0000",
-         "title" : "Fall Chess Classic 2022 group B LIVE"
       },
       {
          "description" : " The final three rounds of the Chess.com Global Championship take place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players compete in this knockout events. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw),",
@@ -688,14 +720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees-in-hull/",
          "pubDate" : "Tue, 01 Nov 2022 13:41:55 +0000",
          "title" : "Free chess training for Ukrainian refugees in Hull"
-      },
-      {
-         "description" : "Fall Chess Classics 2022 is a 10 player round robin with Yu Yangi, Hans Niemann, Vidit Santosh Gujrathi, Nikolas Theodorou, Ilya Nyzhnyk, Grigoriy Oparin, Surya Shekhar Ganguly, Nijat Abasov, Aram Hakobyan, and Nguyen Thai Dai Van. The 2022 Fall Chess Classic, organized by the Saint Louis Chess Club, is the third installment of the Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fall-chess-classics-2022/",
-         "pubDate" : "Tue, 01 Nov 2022 11:49:26 +0000",
-         "title" : "Fall Chess Classic 2022"
       },
       {
          "description" : " Entries for the 2023 O2C Doeberl Cup are now open, and if you visit <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> you will see that there have been some big changes made to the tournament. The most significant one is the addition of an extra section (The Mini), which is for players rated below 1500 (ACF). Connected with that is the change in the rating limits for the Major (now Under 2100), and the Minor (now Under 1800). The reason for this is to balance the numbers in each event, and to make the pairings a little more sensible. The prizes for the Major and Minor are unchanged, while the Mini adds an extra $1700 to the overall prize pool. The always popular Blitz event a",
@@ -1586,14 +1610,6 @@ news_feed (
          "title" : "FIDE World Fischer Random Chess Championship Finals opened in Reykjavik"
       },
       {
-         "description" : "Pawn endings should be calculated very carefully. In the diagrammed position it is White to move and draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-pawn-race",
-         "pubDate" : "Tue, 25 Oct 2022 09:00:00 +0100",
-         "title" : "The pawn race"
-      },
-      {
          "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland. Organiser is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. Open and Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1826,14 +1842,6 @@ news_feed (
          "title" : "Why was Magnus Carlsen sued for $100 million?"
       },
       {
-         "description" : "GM Hans Niemann has filed a defamation lawsuit against GM Magnus Carlsen, GM Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Danny Rensch, seeking at least $100 million in damages. The lawsuit is the next episode in the chess cheating sc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
-         "pubDate" : "Fri, 21 Oct 2022 06:38:00 -0700",
-         "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
-      },
-      {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -2016,22 +2024,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html",
          "pubDate" : "Sun, 16 Oct 2022 15:47:00 +0000",
          "title" : "Donald Trump, Chess Master"
-      },
-      {
-         "description" : " 3 rounds have been completed in the 2022 Asian Seniors, with IM Gary Lane the outright leader in the 50 years and over event, while FM Efrem Bagamasbad and Miles Patterson are joint leaders in the 65 years and Over event. Lane beat FM Leonard McLaren in the morning round and FM Arlan Cabe in the afternoon round. He leads IM Anthony Ker, FM Alexei Kulashko and IM Paul Garbett by half a point. In tomorrows round, Lane is playing Kulashko on the top board. The 65 and Over event saw, a couple of upsets on the top boards, with Bagamasbad beating FM Ewen Green, and Patterson beating FM Bob Smith. Oddly, the two leaders do not play each other tomorrow, as both a white in rounds 2 and 3, and cannot",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors.html",
-         "pubDate" : "Sun, 16 Oct 2022 09:28:00 +0000",
-         "title" : "2022 Asian Seniors"
-      },
-      {
-         "description" : " Today, as I write this, is World Mental Health Day 2022, Monday 10 October, so I thought it a good time to write a few words on the subject of chess and mental health. We live in stressful times, with rising rates of diagnosis of mental health problems, especially amongst children and young people, and <a href=\"https://chessimprover.com/mental-health-awareness/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mental Health Awareness\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mental-health-awareness/\">Mental Health Awareness</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/mental-health-awareness/",
-         "pubDate" : "Sun, 16 Oct 2022 09:00:02 +0000",
-         "title" : "Mental Health Awareness"
       }
    ]
 }
