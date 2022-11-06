@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4",
+         "pubDate" : "Sun, 06 Nov 2022 07:15:29 +0000",
+         "title" : "2022 Fall Chess Classic: Round 4"
+      },
+      {
          "description" : "The 4th and final classical game of the Women's Candidates Pool A semi-finals between Anna Muzychuk and Lei Tingjie kicked off by Marie Noelle Gibelli, a member of the National Council of Monaco, making the ceremonial first move. Marco Biagioli, Mitropa President and External Manager of the Italian Chess Federation, also was in the playing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html",
          "pubDate" : "Tue, 01 Nov 2022 16:33:00 +0000",
          "title" : "November 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-2-lichessorg",
-         "pubDate" : "Tue, 01 Nov 2022 16:12:46 +0000",
-         "title" : "2022 Fall Chess Classic: Round 2 | lichess.org"
       },
       {
          "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
@@ -2032,22 +2032,6 @@ news_feed (
          "link" : "https://chessimprover.com/mental-health-awareness/",
          "pubDate" : "Sun, 16 Oct 2022 09:00:02 +0000",
          "title" : "Mental Health Awareness"
-      },
-      {
-         "description" : "The European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 11 December 2022, in hybrid city...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-cities-towns-chess-championship/",
-         "pubDate" : "Sun, 16 Oct 2022 08:00:40 +0000",
-         "title" : "European Cities & Towns Chess Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94892637.cms\" />Indian Grandmaster Arjun Erigaisi on Sunday hogged the spotlight, beating world champion Magnus Carlsen in round seven of the preliminaries of the Aimchess Rapid online chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-arjun-erigaisi-shocks-magnus-carlsen-in-aimchess-rapid-tourney/articleshow/94892637.cms",
-         "pubDate" : "Sun, 16 Oct 2022 06:10:06 +0000",
-         "title" : "Indian GM Erigaisi shocks Carlsen in Aimchess Rapid tourney"
       }
    ]
 }
