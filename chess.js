@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out Anna&#39;s sister GM Mariya Muzychuk in the quarterfinals, w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
+         "pubDate" : "Sun, 06 Nov 2022 03:08:45 -0800",
+         "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
+      },
+      {
          "description" : "Following three draws, Lei Tingjie beat Anna Muzychuk in the final encounter of the Women's Candidates semifinals in Monte Carlo. The 25-year-old will face the winner of Pool B, a similar 4-player knockout set to kick off on November 28 in Uzbekistan. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2046",
          "pubDate" : "Fri, 21 Oct 2022 21:58:02 +0000",
          "title" : "Jan-Krzysztof Duda reigns supreme in Aimchess Rapid"
-      },
-      {
-         "description" : "The Chess.com Global Championship Finals start on November 2, 2022! As our biggest tournament of the year reaches its thrilling conclusion, the live finals will now occur in two locations: Toronto, Canada, and Belgrade, Serbia. Check out the detai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-to-watch-chesscom-global-championship-finals",
-         "pubDate" : "Fri, 21 Oct 2022 12:40:00 -0700",
-         "title" : "How To Watch The Chess.com Global Championship Finals"
       },
       {
          "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
