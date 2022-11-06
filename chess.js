@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura had to satisfy himself with winning \"only\" $200,000 in a couple of weeks as Wesley So won the last two games to reach the final of the Chess.com Global Championship. Anish Giri vs. Nihal Sarin went all the way to Armageddon, with 18-year-old Nihal managing to win a drawish endgame on demand to guarantee himself at least $100,000.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/global-championship-4-wesley-so-and-nihal-sarin-reach-final",
+         "pubDate" : "Sun, 06 Nov 2022 14:59:35 +0000",
+         "title" : "Global Championship 4: Wesley So and Nihal Sarin reach final"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 98th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-98-queen-s-gambit-declined-4",
+         "pubDate" : "Sun, 06 Nov 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 98: Queen's Gambit Declined (4)"
+      },
+      {
+         "description" : " Sultan-Diego Abdullah Sulayman, a 2020 finance graduate of Howard University, passed away suddenly on October 30th after being found by his mother at their home. The news came as a shock to the Howard community as he was only 26, weeks away from his 27th birthday. At the time of his death, he was attending The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/\">Howard chess activist, Sultan-Diego Sulayman (1995-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/",
+         "pubDate" : "Sun, 06 Nov 2022 13:53:19 +0000",
+         "title" : "Howard chess activist, Sultan-Diego Sulayman (1995-2022)"
+      },
+      {
          "description" : "With 10 opening articles, ChessBase Magazine #210 covers the usual broad spectrum of variations: From the English Opening &aacute; la Caruana (1.c4 e5 2.g3 f5 3.Bg2 Be7) or the Sicilian O'Kelly Variation (1.e4 c5 2.Nc3 a6 Part I: 3.d4/3.c3) to the Catalan (with the unconventional move 7.Qd2). In his contribution, Patrick Zelbel provides a concept against the Modern Defence (1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3), which is especially popular at club level and in which the move 4...a6 has become firmly established thanks to the Swedish GM Tiger Hillarp Persson. Our author begins the hunt for the tiger with 5.g4!? and thus makes it immediately clear where the journey is heading. \"If Black plays the m",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,11 +34,11 @@ news_feed (
          "title" : "Hunting the Tiger"
       },
       {
-         "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out Anna&#39;s sister GM Mariya Muzychuk in the quarterfinals, w...",
+         "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out her opponent&#39;s sister, GM Mariya Muzychuk, in the quarte...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
-         "pubDate" : "Sun, 06 Nov 2022 03:08:45 -0800",
+         "pubDate" : "Sun, 06 Nov 2022 03:08:00 -0800",
          "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
       },
       {
@@ -1602,14 +1626,6 @@ news_feed (
          "title" : "Uzbekistan to host Pool B of Women's Candidates Tournament"
       },
       {
-         "description" : "Last week the 25th Hoogeveen Chess Festival celebrated chess again - with matches and tournaments. Local hero Lucas von Foreest won his match against Luke McShane and Daniel Dardha from Belgium won his match against Max Warmerdam. The Open finished with a \"Final Four\" finale which was won by Robert Hovhanissyan. Frans Peeters reports. | Photos: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hoogeveen-celebrates-chess-with-matches-and-tournaments",
-         "pubDate" : "Tue, 25 Oct 2022 11:43:58 +0100",
-         "title" : "Hoogeveen celebrates with matches and tournaments"
-      },
-      {
          "description" : "The FIDE World Fischer Random Chess Championship over-the-board final opened yesterday in Reykjavik, and will be played from 25-30 October 2022 at the Brjaya Reykjavik Natura Hotel. The finals will consist of a two-group stage followed by the knockout semifinals and final. The time control will be 25 minutes per player for the first 30 moves, after which&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
          "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
          "title" : "Why was Magnus Carlsen sued for $100 million?"
-      },
-      {
-         "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/jennifer-yu-clinches-2nd-us-chess-championship",
-         "pubDate" : "Fri, 21 Oct 2022 10:52:04 +0000",
-         "title" : "Jennifer Yu clinches 2nd US Chess Championship"
       },
       {
          "description" : "GM Mendonca Leon Luke played a brilliant attacking game in the queenless endgame arising from Slav defence to win against Georgian IM Petriashvili Nikoloz. With",
