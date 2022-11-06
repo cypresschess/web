@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. Full report coming soon.&#38;nbsp; GM Wesley So&#38;nbsp;kicked off the championship match with a commanding two-point lead, winning twice with white and drawing both games with black. Will So continue smooth sailing to the title...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d1",
+         "pubDate" : "Sun, 06 Nov 2022 12:26:27 -0800",
+         "title" : "Flash Report: So Goes Undefeated, Leads 3-1"
+      },
+      {
          "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-8-duda-wins-thrilling-final-after-mamedyarov-comeback",
          "pubDate" : "Sat, 22 Oct 2022 10:16:55 +0000",
          "title" : "Aimchess Rapid Day 8: Duda wins thrilling final after Mamedyarov comeback"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda won the Aimchess Rapid tournament on Friday after beating GM Shakhriyar Mamedyarov in a blitz tiebreak, necessary because Mamedyarov had levelled the score in the second match. It was Duda&#39;s second tournament victory in the t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-wins-aimchess-rapid-2022",
-         "pubDate" : "Sat, 22 Oct 2022 01:21:00 -0700",
-         "title" : "Duda Wins Aimchess Rapid 2022 In Tiebreak"
       },
       {
          "description" : "In the last version of Asian Youth Chess Championship, the Blitz Championship, India bagged 5 Gold, 2 Silver and a Bronze here today in Bali,",
