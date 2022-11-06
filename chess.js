@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/",
+         "pubDate" : "Sun, 06 Nov 2022 19:27:03 +0000",
+         "title" : "Cannon Farragut&hellip; Tampa's ray of sunshine"
+      },
+      {
+         "description" : "50+ Spanish Senior Championship is taking place from 29 October to 6 November 2022 in Altea, Spain. It is a 9-round Swiss open with Jose Candela Perez, Francisco M. Terron Elena, Antonio Cantero Navarro, Evarist Perez Pastora, Luis Bevia Martinez, Francisco Carrera Perez, Pedro Maria Pastor Pons, Julio Gonzalez Valero, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50-spanish-senior-championship-2022-live/",
+         "pubDate" : "Sun, 06 Nov 2022 17:39:46 +0000",
+         "title" : "50+ Spanish Senior Championship 2022 LIVE"
+      },
+      {
+         "description" : "Baden-Baden Herbstopen is taking place from 3&#x2013;6 November 2022 in Baden-Baden, Germany. It is a 7-round Swiss tournament with Philipp Schlosser, Lukas Pfatteicher, Igor Solomunovic, Oleg Korneev, Vadim Cernov, Sebastian Fischer, Veaceslav Cofmann, Jonathan Carlstedt, Jafar Mohebbi, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/baden-baden-herbstopen-2022-live/",
+         "pubDate" : "Sun, 06 Nov 2022 17:38:41 +0000",
+         "title" : "Baden-Baden Herbstopen 2022 LIVE"
+      },
+      {
          "description" : "Today's column is dedicated to the memory of Michael Basman, who sadly passed away on Wednesday, October 26th, at the age of 76. It's one of the great joys of the chess world that we provide a relatively safe environment for eccentric talent, and Basman was as engaging and eccentric in person as in his wonderful creations on the chessboard. | Pictured: Joel Benjamin facing Michael Basman (Lloyds Bank Open 1978)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,22 +360,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/global-championship-2-giri-beats-radjabov-in-armageddon",
          "pubDate" : "Fri, 04 Nov 2022 13:27:28 +0000",
          "title" : "Global Championship 2: Giri beats Radjabov in Armageddon"
-      },
-      {
-         "description" : "The 25th Open Bavarian Championship is taking place from 5&#x2013;13 November 2022 in Gmund am Tegernsee, Germany. The 9 round Swiss event has a 15 000 eur prize fund with 2500 eur for the winner. Time control: 90 min/40 moves, 30 min/all moves, 30 sec. per move from the first move. A total of 526 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/25th-open-bavarian-championship/",
-         "pubDate" : "Fri, 04 Nov 2022 12:18:10 +0000",
-         "title" : "25th Open Bavarian Championship"
-      },
-      {
-         "description" : "25th Open Bavarian Championship is taking place from 5&#x2013;13 November 2022 in Gmund am Tegernsee, Germany. It is a 9-round Swiss tournament with Gabriel Sargissian, Anton Korobov, Anton Demchenko, Liviu-Dieter Nisipeanu, Daniele Vocaturo, Ivan Salgado Lopez, Eltaj Safarli, Vahap Sanal, Frederik Svane, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/25th-open-bavarian-championship-2022-live/",
-         "pubDate" : "Fri, 04 Nov 2022 12:05:35 +0000",
-         "title" : "25th Open Bavarian Championship 2022 LIVE"
       },
       {
          "description" : "The European Youth Chess Championship 2022 will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/\">Read More &#187;</a></span>",
