@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With 10 opening articles, ChessBase Magazine #210 covers the usual broad spectrum of variations: From the English Opening &aacute; la Caruana (1.c4 e5 2.g3 f5 3.Bg2 Be7) or the Sicilian O'Kelly Variation (1.e4 c5 2.Nc3 a6 Part I: 3.d4/3.c3) to the Catalan (with the unconventional move 7.Qd2). In his contribution, Patrick Zelbel provides a concept against the Modern Defence (1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3), which is especially popular at club level and in which the move 4...a6 has become firmly established thanks to the Swedish GM Tiger Hillarp Persson. Our author begins the hunt for the tiger with 5.g4!? and thus makes it immediately clear where the journey is heading. \"If Black plays the m",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hunting-the-tiger",
+         "pubDate" : "Sun, 06 Nov 2022 14:00:00 +0100",
+         "title" : "Hunting the Tiger"
+      },
+      {
          "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out Anna&#39;s sister GM Mariya Muzychuk in the quarterfinals, w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1600,14 +1608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hoogeveen-celebrates-chess-with-matches-and-tournaments",
          "pubDate" : "Tue, 25 Oct 2022 11:43:58 +0100",
          "title" : "Hoogeveen celebrates with matches and tournaments"
-      },
-      {
-         "description" : "The World Junior Championships in Sardinia ended on Saturday with a double success for players from Azerbaijan. In the Open, the 18th seed IM Abdulla Gadimbayli (photo) finished with 8.0/11 and shared first place with four other players but won the tournament on tiebreak. In the \"Girls\" section WGM Govhar Beydullayeva scored 8.5/11 to share first place with Assel Seribay from Kazakhstan but also won because of her better tiebreak-score. | Photos: Przemek Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/junioren-weltmeister-gadimbayli-und-beydullayeva",
-         "pubDate" : "Tue, 25 Oct 2022 11:09:29 +0100",
-         "title" : "Abdulla Gadimbayli and Govhar Beydullayeva win World Junior Championships"
       },
       {
          "description" : "The FIDE World Fischer Random Chess Championship over-the-board final opened yesterday in Reykjavik, and will be played from 25-30 October 2022 at the Brjaya Reykjavik Natura Hotel. The finals will consist of a two-group stage followed by the knockout semifinals and final. The time control will be 25 minutes per player for the first 30 moves, after which&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/\">Read More &#187;</a></span>",
