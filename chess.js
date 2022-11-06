@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today's column is dedicated to the memory of Michael Basman, who sadly passed away on Wednesday, October 26th, at the age of 76. It's one of the great joys of the chess world that we provide a relatively safe environment for eccentric talent, and Basman was as engaging and eccentric in person as in his wonderful creations on the chessboard. | Pictured: Joel Benjamin facing Michael Basman (Lloyds Bank Open 1978)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-181",
+         "pubDate" : "Sun, 06 Nov 2022 16:30:00 +0100",
+         "title" : "Battles with Basman"
+      },
+      {
          "description" : "Hikaru Nakamura had to satisfy himself with winning \"only\" $200,000 in a couple of weeks as Wesley So won the last two games to reach the final of the Chess.com Global Championship. Anish Giri vs. Nihal Sarin went all the way to Armageddon, with 18-year-old Nihal managing to win a drawish endgame on demand to guarantee himself at least $100,000.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/global-championship-4-wesley-so-and-nihal-sarin-reach-final",
          "pubDate" : "Sun, 06 Nov 2022 14:59:35 +0000",
          "title" : "Global Championship 4: Wesley So and Nihal Sarin reach final"
+      },
+      {
+         "description" : "Following three draws, Lei Tingjie beat Anna Muzychuk in the final encounter of the Women's Candidates semifinals in Monte Carlo. The 25-year-old will face the winner of Pool B, a similar 4-player knockout set to kick off on November 28 in Uzbekistan. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g4",
+         "pubDate" : "Sun, 06 Nov 2022 15:05:00 +0100",
+         "title" : "Lei Tingjie advances to Women's Candidates final"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 98th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
          "pubDate" : "Sun, 06 Nov 2022 03:08:00 -0800",
          "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
-      },
-      {
-         "description" : "Following three draws, Lei Tingjie beat Anna Muzychuk in the final encounter of the Women's Candidates semifinals in Monte Carlo. The 25-year-old will face the winner of Pool B, a similar 4-player knockout set to kick off on November 28 in Uzbekistan. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g4",
-         "pubDate" : "Sun, 06 Nov 2022 11:20:00 +0100",
-         "title" : "Lei Tingjie advances to Women's Candidates final"
       },
       {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
@@ -1618,14 +1626,6 @@ news_feed (
          "title" : "Old computers - old website?"
       },
       {
-         "description" : "The FIDE president Arkady Dvorkovich announced during the opening ceremony of the FIDE Women's Candidates Tournament in Monaco, that Pool B for this event will be hosted in the ancient city of Khiva, in Uzbekistan. The event will take place from November 28 to December 11. | Photo: Fulvio Spada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzbekistan-to-host-pool-b-of-women-s-candidates-tournament",
-         "pubDate" : "Tue, 25 Oct 2022 12:20:41 +0100",
-         "title" : "Uzbekistan to host Pool B of Women's Candidates Tournament"
-      },
-      {
          "description" : "The FIDE World Fischer Random Chess Championship over-the-board final opened yesterday in Reykjavik, and will be played from 25-30 October 2022 at the Brjaya Reykjavik Natura Hotel. The finals will consist of a two-group stage followed by the knockout semifinals and final. The time control will be 25 minutes per player for the first 30 moves, after which&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2042",
          "pubDate" : "Sun, 16 Oct 2022 21:32:45 +0000",
          "title" : "FIDE World Junior Chess Championship passes midpoint"
-      },
-      {
-         "description" : "In the world of AI, Trump plays chess. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj16.gif\" WIDTH=400 HEIGHT=395><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/183159261@N04/52367614140/\">Donald Trump, Ai Generated Art, Public Domain</A>&#169; Flickr user <I>Ben Longstroth</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P>The description simply expanded on the title:- <BLOCKQUOTE>Images of Donald Trump generated by Artificial Intelligence. Licensed as CC0, public domain, free to use for any purpose. </BLOCKQUOTE> <P>And, yes, in the image on the upper right Trump is playing Biden. Trump is still insisting that",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html",
-         "pubDate" : "Sun, 16 Oct 2022 15:47:00 +0000",
-         "title" : "Donald Trump, Chess Master"
       }
    ]
 }
