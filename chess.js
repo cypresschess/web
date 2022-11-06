@@ -2,14 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report. The full report will be added shortly. GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
-         "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
-         "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura: Flash Report"
-      },
-      {
          "description" : "The 4th and final classical game of the Women's Candidates Pool A semi-finals between Anna Muzychuk and Lei Tingjie kicked off by Marie Noelle Gibelli, a member of the National Council of Monaco, making the ceremonial first move. Marco Biagioli, Mitropa President and External Manager of the Italian Chess Federation, also was in the playing []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1832,6 +1824,14 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
          "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
          "title" : "Why was Magnus Carlsen sued for $100 million?"
+      },
+      {
+         "description" : "GM Hans Niemann has filed a defamation lawsuit against GM Magnus Carlsen, GM Hikaru Nakamura, Chess.com, the Play Magnus Group, and IM Danny Rensch, seeking at least $100 million in damages. The lawsuit is the next episode in the chess cheating sc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-files-100-million-defamation-lawsuit",
+         "pubDate" : "Fri, 21 Oct 2022 06:38:00 -0700",
+         "title" : "Hans Niemann Files $100 Million Defamation Lawsuit"
       },
       {
          "description" : "Jennifer Yu blundered a full bishop against Irina Krush for a second time in three days but still went on to win that Armageddon game and clinch a 2nd US Women's Championship title. Armageddon had been needed after the players traded wins in the first two blitz games of the playoff.",
