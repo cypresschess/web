@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2082",
+         "pubDate" : "Mon, 07 Nov 2022 06:00:00 +0000",
+         "title" : "Almaty, Kazakhstan to host 2022 FIDE Rapid & Blitz Championships in late December"
+      },
+      {
+         "description" : "After nine exciting rounds, the largest European Team Senior Chess Championship so far has come to an end in Dresden. A total of 76 teams from 16 nations took part and competed for the titles in two age categories: 50+ and 65+. England-1 won the 50+ section (pictured), while the German squad Lasker Schachstiftung got first place in the 65+ category. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022-report",
+         "pubDate" : "Mon, 07 Nov 2022 06:25:00 +0100",
+         "title" : "European Senior Team Championships conclude in Dresden"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-7-lichessorg",
+         "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
+         "title" : "2022 Fall Chess Classic: Round 7 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5",
+         "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
+         "title" : "2022 Fall Chess Classic: Round 5"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -698,28 +730,12 @@ news_feed (
          "title" : "European Senior Teams: England and Germany top the standings"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-grandmasters-choice-gm-miro",
-         "pubDate" : "Wed, 02 Nov 2022 07:13:12 +0000",
-         "title" : "Chess Mistakes and How to Avoid Them | Grandmaster's Choice - GM Miro"
-      },
-      {
          "description" : "The first game of the Women's Candidates semifinals between Anna Muzychuk and Lei Tingjie finished drawn. Muzychuk seemed surprised by her opponent's opening choice, as it was Lei's first time playing the Sicilian. The Chinese managed to get an edge in an endgame with rooks and knights, but her advantage was not enough to kick off the semifinal with a win. | Photo: FIDE / Michal walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g1",
          "pubDate" : "Wed, 02 Nov 2022 05:00:00 +0100",
          "title" : "Women's Candidates: Mutual annihilation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Evgenij Miroshnichenko shows his own losses and explains what exactly he was thinking and what went wrong. After all, we all make mistakes! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-mistakes-and-how-avoid-them-gm-miro\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cPr0hNjvjNA.jpg?itok=4IBAgIJm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-mistakes-and-how-avoid-them-gm-miro",
-         "pubDate" : "Wed, 02 Nov 2022 01:13:04 +0000",
-         "title" : "Chess Mistakes and How to Avoid Them - GM Miro"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1576,14 +1592,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/",
          "pubDate" : "Wed, 26 Oct 2022 01:00:00 +0000",
          "title" : "Maurice Ashley on C-Squared Podcast"
-      },
-      {
-         "description" : "Day 1 of the Women's Candidates saw two decisive games (out of two), as Lei Tingjie and Humpy Koneru defeated Mariya and Anna Muzychuk respectively, both with the white pieces. Matches are played to the best of four, so the Muzychuk sisters have plenty of time to bounce back. Humpy's victory was a nice 24-mover. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-r1g1",
-         "pubDate" : "Wed, 26 Oct 2022 02:00:00 +0100",
-         "title" : "Women's Candidates: Lei and Humpy win with white"
       },
       {
          "description" : " IM Kostya Kavutskiy Each one of us goes through unique personal experiences in our life. There is no generic plan we can follow to accomplish our goals. Of course we get tips from parents, teachers or friends and it is up to us to listen. If we do not, life has a funny way of <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (2)</a> appeared first on",
