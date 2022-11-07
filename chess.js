@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. Full report coming soon. GM Wesley So clinched the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. So takes home the $200,000 grand prize―the largest prize of his ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
+         "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
+         "title" : "Flash Report: Wesley So Is the First-Ever Chess.com Global Champion"
+      },
+      {
          "description" : "Semifinal U15 Polish Youth Championship is taking place from 6-12 November 2022. It is a 9-round Swiss tournament with Mikolaj Gbiorczyk, Szymon Wydmanski, Witold Szymkiewicz, Hubert Zieba, Jan Krol, Szymon Duda, Grzegorz Marek, Kuba Rodziewicz-Bielewicz, Dawid Wierzbicki, etc. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4-lichessorg",
          "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
          "title" : "2022 Fall Chess Classic: Round 4 | lichess.org"
-      },
-      {
-         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
-         "pubDate" : "Thu, 03 Nov 2022 14:31:00 -0700",
-         "title" : "Stunning Comebacks and Decisive Matches: Nakamura, So, Nihal, Giri Victorious"
       },
       {
          "description" : "",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
          "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
          "title" : "Free chess training for Ukrainian refugees in London"
-      },
-      {
-         "description" : " After 4 rounds of the 2022 Asian Seniors I am 1.5/4. I lost in the first round to IM Gary Lane, drew my 2nd round, and won my third round game. Sadly my upwards trajectory did not continue, losing in round 4 to Gordon Morrell. At the time I thought I was just being outplayed (which I was), but I did miss a somewhat obvious saving move towards the end, which I saw but dismissed due to overthinking the position. Here is my third round game, where I won a pawn in the middlegame, and eventually a second going into a Queen ending. These can be very difficult to play, even materially ahead, and my opponent certainly tried everything he could to hold the draw. However once I started marching my ki",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors-my-first-win.html",
-         "pubDate" : "Mon, 17 Oct 2022 20:29:00 +0000",
-         "title" : "2022 Asian Seniors - My first win"
       }
    ]
 }
