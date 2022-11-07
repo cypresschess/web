@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of October the FIDE and the Malta Chess Federation organised the World Amateur Chess Championships, in which about 200 male and female players took part. The titles all went to Mongolia or Kazakhstan. | Photo: Andreas Kontokanis",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mongolia-and-kazakhstan-dominate-world-amateur-championships-on-malta",
+         "pubDate" : "Mon, 07 Nov 2022 13:13:55 +0100",
+         "title" : "Mongolia and Kazakhstan dominate World Amateur Championships on Malta"
+      },
+      {
          "description" : "Wesley So took a 3:1 lead over Nihal Sarin on Day 1 of the Chess.com Global Championship final, meaning he needs just 1.5 points to wrap up victory on Monday. The match hinged on Game 3, where Nihal had a great chance to level the scores but lost his way and stumbled into checkmate.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-1",
          "pubDate" : "Wed, 26 Oct 2022 02:49:00 -0700",
          "title" : "Koneru, Lei Beat Muzychuk Sisters As Women's Candidates Tournament Takes Off"
-      },
-      {
-         "description" : "The Fischer Random World Championship, which started yesterday in Reykjavik, is overshadowed by the Niemann lawsuit, in which Niemann sued Magnus Carlsen, Hikaru Nakamura, Daniel Rensch, chess.com and the Play Magnus Group for 100 million USD. Carlsen and Nakamura are playing in the World Championship, but did not want to comment on the lawsuit. However, the Icelandic Grandmaster Hj&ouml;rvar Gretarsson, who is a lawyer by profession and who also takes part in the Championship, commented the lawsuit and a game he had played against Niemann. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-about-niemann-s-lawsuit-i-focus-on-chess",
-         "pubDate" : "Wed, 26 Oct 2022 10:23:32 +0100",
-         "title" : "Carlsen about Niemann's lawsuit: \"I focus on chess\""
       },
       {
          "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
