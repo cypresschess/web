@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second last part of the series tackles Lilit's mindset a bit. With just five more rounds to go, the Armenian IM had the chance to at least qualify for the FIDE Women's World Cup 2023. Would she struggle with her overall condition, and get distracted from chess? One powerful opponent was waiting for her in round number eight - Mai Narva. But Lilit managed to prepare well, and surprise the Estonian WGM in the opening preparation. In the video, we can see how. And now, Lilit was actually playing for a medal!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-5",
+         "pubDate" : "Mon, 07 Nov 2022 16:15:23 +0100",
+         "title" : "Lilit Mkrtchian (5) - How to surprise your opponent with the London System"
+      },
+      {
          "description" : " I'm pretty sure my 40th anniversary as a tournament chess player is coming up, in a few days. Unfortunately my first events were 'Allegro' tournaments, and so I don't have game scores. What I do remember is turning up to the Woden Chess Club towards the end of 1982. On the first night there was an interclub event taking place, so I just played casual games, which I lost quite badly. The next week they started an Allegro event, which was 4 rounds a night with a time limit of G/15m. I started off with 0/8 but eventually recovered to finish on 4/15. Combing through back issues of the Canberra Times, it appears that this event started on the 9th or possibly the 16th of November. As the format w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/11/i-think-i-have-turned-40-as-chessplayer.html",
          "pubDate" : "Mon, 07 Nov 2022 13:13:00 +0000",
          "title" : "I think I have turned 40 (as a chessplayer)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>BDS</strong>, a <a href=\"https://time.com/5914975/what-to-know-about-bds/\">Palestinian organisation that is mobilizing against Israel</a>, <a href=\"https://bdsmovement.net/fide\">asks to boycott</a> the <strong>World Teams Championship</strong> later this month as it will be held in East Jerusalem which has been occupied by Israel since 1967 and de facto annexed. The <strong>Palestine Chess Federation</strong> is not known to support the call. <strong>FIDE</strong> has since 2018 taken significant steps against the frequent boycott of Israeli players. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/boycott-call-against-world-teams/",
+         "pubDate" : "Mon, 07 Nov 2022 13:50:12 +0100",
+         "title" : "Boycott call against World Teams"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://fide.com/news/2082\">will hold</a> the <strong>World Rapid and Blitz Championship</strong> as usual between Christmas and New Year in the Kazakh capital Almaty (not Abu Dhabi as <a href=\"https://www.chesstech.org/2022/four-more-years-with-a-russian/\">reported here in April</a>). </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/almaty-hosts-world-rapid-and-blitz/",
+         "pubDate" : "Mon, 07 Nov 2022 13:48:53 +0100",
+         "title" : "Almaty hosts World Rapid and Blitz"
       },
       {
          "description" : "At the end of October the FIDE and the Malta Chess Federation organised the World Amateur Chess Championships, in which about 200 male and female players took part. The titles all went to Mongolia or Kazakhstan. | Photo: Andreas Kontokanis",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "European Youth Chess Championship 2022 officially opened"
       },
       {
-         "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city today in a press release. Traditionally, two of the most exciting ev...",
+         "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city on Monday in a press release. Traditionally, two of the most excitin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-championships-in-kazakhstan",
@@ -322,14 +346,6 @@ news_feed (
          "title" : "Global Championship 3: Missed chances"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>BDS</strong>, a <a href=\"https://time.com/5914975/what-to-know-about-bds/\">Palestinian organisation that is mobilizing against Israel</a>, <a href=\"https://bdsmovement.net/fide\">asks to boycott</a> the <strong>World Teams Championship</strong> later this month as it will be held in East Jerusalem which has been occupied by Israel since 1967 and de facto annexed. The <strong>Palestine Chess Federation</strong>, which is receiving significant support from FIDE, is not known to support the call. <strong>FIDE</strong> has since 2018 taken significant steps against the frequent boycott of Israeli players. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/boycott-call-against-world-teams/",
-         "pubDate" : "Sat, 05 Nov 2022 15:18:38 +0100",
-         "title" : "Boycott call against World Teams"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. Niederle has earlier established <a href=\"https://www.researchgate.net/publication/24091981_Do_Women_Shy_Away_from_Competition_Do_Men_Compete_too_Much\">gender differences in confidence and competitive reward schemes</a>. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
          "pubDate" : "Fri, 04 Nov 2022 11:48:53 +0000",
          "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The world top players <a href=\"https://www.chess.com/news/view/chesscom-announces-2022-scc\">are lined up</a> for the <strong>Chess.com Speed Chess Championship</strong> held online from 21 November. Alireza Firouzja is the only big name missing, even though the $110,000 prizefund is considerably smaller than at the ongoing <strong>Chess.com Global Chess Championship</strong> ($1 million), the <strong>Meltwater Champions Chess Tour</strong> ($1,6 millon) and the <strong>Grand Chess Tour</strong> ($1,4 million). </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/stellar-line-up-at-chesscom-speed/",
-         "pubDate" : "Fri, 04 Nov 2022 11:33:03 +0100",
-         "title" : "Stellar line-up at Chess.com Speed Chess"
       },
       {
          "description" : "I take a break from my usual historical articles to pay tribute to a countryman who has been recently honored with one of the highest distinctions in chess - his induction into the World Chess Hall of Fame. In a sense, this tribute is still partly historical, as his long career is now all part of chess lore. He is none other than Grandmaster Eugenio Torre of the Philippines, who turns 71 today. To Eugene, a joyous birthday, and our heartfelt congratulations!",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "Fischer Random: Abdusattorov reaches semis with two rounds to spare"
       },
       {
-         "description" : "Following their losses on opening day, the Muzychuk sisters both faced the Petroff Defence on Wednesday. Mariya could not get much of an advantage in her game against Lei Tingjie and ended up signing a 40-move draw. Anna, meanwhile, got in trouble in a sharp struggle against Humpy Koneru, but managed to escape with a draw in the end. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-r1g2",
-         "pubDate" : "Thu, 27 Oct 2022 01:10:00 +0100",
-         "title" : "Women's Candidates: A double-edged Petroff"
-      },
-      {
          "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -2032,22 +2032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors-my-first-win.html",
          "pubDate" : "Mon, 17 Oct 2022 20:29:00 +0000",
          "title" : "2022 Asian Seniors - My first win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2043",
-         "pubDate" : "Mon, 17 Oct 2022 16:09:40 +0000",
-         "title" : "Philippines and Mongolia win Intercontinental Championship for Prisoners "
-      },
-      {
-         "description" : "Is it safe to come out now? Although last month's <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A>(September 2022; aka Carlsen/Nakamura vs. Niemann), seems to be calming down, it's important to remember that there are two aspects to 'Fair Play':- <BLOCKQUOTE>1) Thou shall not cheat. &#149; 2) Thou shall not accuse the winner of cheating unless thou hast proof. </BLOCKQUOTE> <P>Accusing your opponent of cheating without having proof opens you to accusations of being a 'sore loser'. One of the best known sore loser sagas happened 25 years ago. I've covered the details in several posts, of which the most important were:- <UL><LI>2018-12-31: <A HREF=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/one-move-in-one-move-out.html",
-         "pubDate" : "Mon, 17 Oct 2022 15:24:00 +0000",
-         "title" : "'One Move In, One Move Out'"
       }
    ]
 }
