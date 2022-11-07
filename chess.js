@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I'm pretty sure my 40th anniversary as a tournament chess player is coming up, in a few days. Unfortunately my first events were 'Allegro' tournaments, and so I don't have game scores. What I do remember is turning up to the Woden Chess Club towards the end of 1982. On the first night there was an interclub event taking place, so I just played casual games, which I lost quite badly. The next week they started an Allegro event, which was 4 rounds a night with a time limit of G/15m. I started off with 0/8 but eventually recovered to finish on 4/15. Combing through back issues of the Canberra Times, it appears that this event started on the 9th or possibly the 16th of November. As the format w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/i-think-i-have-turned-40-as-chessplayer.html",
+         "pubDate" : "Mon, 07 Nov 2022 13:13:00 +0000",
+         "title" : "I think I have turned 40 (as a chessplayer)"
+      },
+      {
          "description" : "At the end of October the FIDE and the Malta Chess Federation organised the World Amateur Chess Championships, in which about 200 male and female players took part. The titles all went to Mongolia or Kazakhstan. | Photo: Andreas Kontokanis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -2040,14 +2048,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/one-move-in-one-move-out.html",
          "pubDate" : "Mon, 17 Oct 2022 15:24:00 +0000",
          "title" : "'One Move In, One Move Out'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94920728.cms\" />The legendary Viswanathan Anand feels young Indian chess players are on the right track given their penchant to hog the limelight on and off, here and there.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-erigaisi-are-very-very-strong-players-chess-legend-anand/articleshow/94920728.cms",
-         "pubDate" : "Mon, 17 Oct 2022 12:38:54 +0000",
-         "title" : "Gukesh, Erigaisi are very, very strong players: Chess legend Anand"
       }
    ]
 }
