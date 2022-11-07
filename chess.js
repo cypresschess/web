@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So took a 3:1 lead over Nihal Sarin on Day 1 of the Chess.com Global Championship final, meaning he needs just 1.5 points to wrap up victory on Monday. The match hinged on Game 3, where Nihal had a great chance to level the scores but lost his way and stumbled into checkmate.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/global-championship-5-wesley-so-on-brink-of-victory",
+         "pubDate" : "Mon, 07 Nov 2022 11:12:02 +0000",
+         "title" : "Global Championship 5: Wesley So on brink of victory"
+      },
+      {
+         "description" : " The UK chess community is mourning the loss of IM Mike Basman, whose death at the age of 76 was reported last week. Mike was one of the great characters of chess, a true eccentric with a truly eccentric style of play, famous for his use of rather dubious openings with early moves of his <a href=\"https://chessimprover.com/mike-basman/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basman/\">Mike Basman</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/mike-basman/",
+         "pubDate" : "Mon, 07 Nov 2022 10:48:29 +0000",
+         "title" : "Mike Basman"
+      },
+      {
+         "description" : "The 5th and final leg of the Romanian Grand Prix 2022 took place from 5th 6th November in Braila, Romania. The event gathered more than 140 players, with world-known grandmasters completing the field. The event was played in 10 rounds, swiss system, with time control 15 minutes + 5 seconds of increment, and featured []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-david-navara-wins-the-5th-leg-of-the-romanian-grand-prix-2022/",
+         "pubDate" : "Mon, 07 Nov 2022 10:45:00 +0000",
+         "title" : "GM David Navara wins the 5th leg of the Romanian Grand Prix 2022"
+      },
+      {
+         "description" : "The 2022 European Youth Chess Championship officially opened yesterday in Antalya, before the start of the first round. The impressive opening ceremony of the event was attended by Turkish Minister of Youth and Sports Dr. Mehmet Muharrem Kasapoglu, the ECU President Zurab Azmaiparashvili, President of Turkish Chess Federation Gulkiz Tulay, Turkiye Is Bankasi Deputy General Manager Suat Sozen,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens/",
+         "pubDate" : "Mon, 07 Nov 2022 10:31:06 +0000",
+         "title" : "European Youth Chess Championship 2022 opens"
+      },
+      {
+         "description" : "The 2022 European Youth Chess Championship officially opened yesterday in Antalya, before the start of the first round. The impressive opening ceremony of the event was attended by Turkish Minister of Youth and Sports Dr. Mehmet Muharrem Kasapoglu, the ECU President Zurab Azmaiparashvili, President of Turkish Chess Federation Gulkiz Tulay, Turkiye Is Bankasi Deputy General []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-officially-opened/",
+         "pubDate" : "Mon, 07 Nov 2022 09:41:00 +0000",
+         "title" : "European Youth Chess Championship 2022 officially opened"
+      },
+      {
+         "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city today in a press release. Traditionally, two of the most exciting ev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-championships-in-kazakhstan",
+         "pubDate" : "Mon, 07 Nov 2022 01:14:00 -0800",
+         "title" : "Kazakhstan To Host FIDE World Rapid & Blitz Championships Dec. 26-30"
+      },
+      {
+         "description" : "FIDE is happy to confirm the dates and the venue for the World Rapid and Blitz Championships 2022. The prestigious event will take place in Almaty, Kazakhstan's largest metropolis, set in the foothills of the Trans-Ili Alatau mountains. The championship will be played on its traditional dates, between December 25 (arrival and opening) and December 30 (last playing day and closing). | Photo: advantour.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/almaty-to-host-fide-rapid-blitz-championships-2022",
+         "pubDate" : "Mon, 07 Nov 2022 10:09:33 +0100",
+         "title" : "Almaty to host FIDE Rapid & Blitz Championships 2022"
+      },
+      {
+         "description" : "After Nakamura's win in the Fischer Random World Championship, it is time for another World Championship to take place. The FIDE Rapid and Blitz Championships 2022 will take place in Almaty,&#xA0;Kazakhstan.&#xA0;The championship will be played on its traditional dates, between December 26 and December 30. The event will boast a 1 million USD prize fund []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-rapid-and-blitz-championships-2022-is-in-almaty/",
+         "pubDate" : "Mon, 07 Nov 2022 08:39:51 +0000",
+         "title" : "FIDE Rapid and Blitz Championships 2022 is in Almaty"
+      },
+      {
+         "description" : "FIDE Rapid and Blitz Championships 2022 will take place in Almaty,&#xA0;Kazakhstan.&#xA0;The championship will be played on its traditional dates, between December 26 and December 30. Chessdom will follow the event with daily news and videos and will broadcast the live games of the Rapid and Blitz 2022. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-rapid-and-blitz-championship-2022-live/",
+         "pubDate" : "Mon, 07 Nov 2022 08:33:54 +0000",
+         "title" : "World Rapid and Blitz Championship 2022 LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,6 +144,14 @@ news_feed (
          "link" : "https://www.chessdom.com/baden-baden-herbstopen-2022-live/",
          "pubDate" : "Sun, 06 Nov 2022 17:38:41 +0000",
          "title" : "Baden-Baden Herbstopen 2022 LIVE"
+      },
+      {
+         "description" : "The first Sunday of the month means a new post in the long-running series <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010). The priority generally goes to artwork, where -- if you don't count <A HREF=\"http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html\">The Spanish Forger Liked Chess</A>(September 2022) -- the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022). <P>This month I had three interesting paintings to choose from, so I went with the one I liked most. Titled, 'Henri Dillon (1851-1909) signed Fr",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/chess-in-artists-studio.html",
+         "pubDate" : "Sun, 06 Nov 2022 16:05:00 +0000",
+         "title" : "Chess in the Artist's Studio"
       },
       {
          "description" : "Today's column is dedicated to the memory of Michael Basman, who sadly passed away on Wednesday, October 26th, at the age of 76. It's one of the great joys of the chess world that we provide a relatively safe environment for eccentric talent, and Basman was as engaging and eccentric in person as in his wonderful creations on the chessboard. | Pictured: Joel Benjamin facing Michael Basman (Lloyds Bank Open 1978)",
@@ -208,22 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/asian-continental-championship-2022",
          "pubDate" : "Sat, 05 Nov 2022 19:15:00 +0100",
          "title" : "Indians dominate Asian Continental Championships"
-      },
-      {
-         "description" : "The 2022 FIDE World Amateur Championship&#xA0;is&#xA0;in the books. The event took place in Malta from October 20-30 and was held in four sections: U2300, U2000, U1700 and Women U1700. Women playing in the open sections U2300 and U2000 were eligible to win prizes from both categories. All the competitions were 9-round Swiss tournaments with classical []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-amateur-chess-championships-2022-concluded-in-malta/",
-         "pubDate" : "Sat, 05 Nov 2022 17:46:21 +0000",
-         "title" : "FIDE World Amateur Chess Championships 2022 concluded in Malta"
-      },
-      {
-         "description" : "The 2022 European Senior Team Chess Championships (50+ &#38; 65+ age categories) concluded yesterday in Dresden, Germany. England 50-1 won the 50+ event with a round to spare and after nine played rounds scored convincing 17 match points. Berlin 1 and Germany tied for the second place scoring 14 match points, each. According to tiebreaks []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-team-chess-champions-2022-crowned-in-dresden/",
-         "pubDate" : "Sat, 05 Nov 2022 17:36:39 +0000",
-         "title" : "European Senior Team Chess Champions 2022 crowned in Dresden"
       },
       {
          "description" : "Pia Cramling is a regular guest at the V&auml;stg&ouml;ta Open, the open championship of the Swedish V&auml;sterg&ouml;tland Chess Federation, which was again held as a rapid chess tournament in Skara last weekend. This time, however, the Swedish chess icon had to concede the tournament victory to Erik Blomqvist. She came third. Holger Blauhut (11th place) also played and sent a report. | Next to the window, GM Erik Blomqvist plays against FM Lars-Goran Eklund, while GM Pia Cramling faces GM Petro Golubka on the next board.",
@@ -384,22 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/neu-understanding-middlegame-strategies-vol-5-vol-6",
          "pubDate" : "Fri, 04 Nov 2022 15:59:46 +0100",
          "title" : "New: Understanding Middlegame Strategies Vol. 5 + Vol. 6"
-      },
-      {
-         "description" : "India dominated the 2022 Asian Chess Championship, which came to an end in New Delhi on November 3. Indian players swept the podium in both open and women's sections, with&#xA0;Rameshbabu Praggnanadhaa&#xA0;and&#xA0;Pallathur Venkatachalam Nandhidhaa&#xA0;winning the titles. Both events were 9-round Swiss tournaments with classical time control. Praggnanandhaa scored unbeaten 7/9 points to be the sole winner []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanadhaa-r-and-nandhidhaa-p-v-win-asian-continental-chess-championship-2022/",
-         "pubDate" : "Fri, 04 Nov 2022 14:25:53 +0000",
-         "title" : "Praggnanadhaa R and Nandhidhaa P V win Asian Continental Chess Championship 2022"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2022&#xA0;will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
-         "pubDate" : "Fri, 04 Nov 2022 14:08:44 +0000",
-         "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
       },
       {
          "description" : "Anish Giri hit back after a Teimour Radjabov comeback to clinch a semi-final spot in the Chess.com Global Championship against Nihil Sarin, who himself came back against Sam Sevian. The other semi-finalists, guaranteed at least $50,000, are Wesley So and Hikaru Nakamura, with Wesley surprisingly wrapping up his match first while Jan-Krzysztof Duda beat Hikaru twice on demand.",
@@ -1570,14 +1618,6 @@ news_feed (
          "title" : "Carlsen about Niemann's lawsuit: \"I focus on chess\""
       },
       {
-         "description" : "The first two rounds of mini-matches at the World Fischer Random Championship were played on Tuesday in Reykjavik. Nodirbek Abdusattorov (group A) and Hikaru Nakamura (group B) won both their mini-matches to take early leads. Nakamura defeated Magnus Carlsen in their direct matchup. The world champion had a faulty performance, as he blundered material both against Nakamura and Vladimir Fedoseev. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d1",
-         "pubDate" : "Wed, 26 Oct 2022 10:15:00 +0100",
-         "title" : "Fischer Random: The fun begins!"
-      },
-      {
          "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1738,14 +1778,6 @@ news_feed (
          "title" : "FIDE Women's Candidates 2022/23 opens in Monaco"
       },
       {
-         "description" : "The 2022 World Junior Chess Championships were resounding successes for Azerbaijan with IM Abdulla Gadimbayli winning the open section and WGM Govhar Beydullayeva grabbing gold in the girls&#39; section. The event, which was for players 20 years old a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-world-junior-chess-championships-gadimbayli-beydullayeva",
-         "pubDate" : "Sun, 23 Oct 2022 07:24:00 -0700",
-         "title" : "Double Gold For Azerbaijan At World Juniors"
-      },
-      {
          "description" : " After a break of 2 years, the ACT Teams Championship returned for 2022. Once again it was a 7 round Rapid (15m+5s) and 12 teams took part (well 11 + a scratch team to avoid the bye). A number of teams took their chess seriously, a few teams took their outfits seriously, and at least one team did both! The winning team was King Charles III, which consisted of CM Hui Li, Charles Huang, Larry Cheng and Jerry Cheng. They finished half a point ahead of The Wise Guys, who did in fact win the prize for Best Dressed Teams. In third place was Bishop's Monarchy, which like KCIII was a junior heavy team. Tuggeranong Chess Club won the Larko Cup for the best official Club team, beating the Canberra Che",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1824,14 +1856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/carlsens-crisis/",
          "pubDate" : "Sat, 22 Oct 2022 11:49:48 +0000",
          "title" : "Carlsen's Crisis"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda fended off a fierce comeback from Shakhriyar Mamedyarov to win the &pound;150,000 Aimchess Rapid, his second Meltwater Champions Chess Tour title this season.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aimchess-rapid-day-8-duda-wins-thrilling-final-after-mamedyarov-comeback",
-         "pubDate" : "Sat, 22 Oct 2022 10:16:55 +0000",
-         "title" : "Aimchess Rapid Day 8: Duda wins thrilling final after Mamedyarov comeback"
       },
       {
          "description" : "In the last version of Asian Youth Chess Championship, the Blitz Championship, India bagged 5 Gold, 2 Silver and a Bronze here today in Bali,",
@@ -2024,14 +2048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-erigaisi-are-very-very-strong-players-chess-legend-anand/articleshow/94920728.cms",
          "pubDate" : "Mon, 17 Oct 2022 12:38:54 +0000",
          "title" : "Gukesh, Erigaisi are very, very strong players: Chess legend Anand"
-      },
-      {
-         "description" : " <p class=\"lead\">16-year-old Indian GM Gukesh D. made chess history in the Aimchess Rapid as he became the youngest player ever to beat Magnus Carlsen as World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52269061513_a3d45e0507_k.jpg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Stev Bonhage</div> </div> After his incredible performance at the 44th Chess Olympiad, Gukesh has jumped to World No.18, reached the 2700 rating club and now amazes everyone with a win against the World Champion at the Aimchess Rapid. \"What a monumental day in history,\" International Master Jovanka Houska said. \"It was just an incredible, incredibl",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-wor/",
-         "pubDate" : "Mon, 17 Oct 2022 09:30:29 +0000",
-         "title" : "Gukesh is the youngest player ever to beat Magnus Carlsen as World Champion"
       }
    ]
 }
