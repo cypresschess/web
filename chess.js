@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Yuri Averbakh/Isaac Boleslavsky Award for the best book published in 2021 goes to \"The Secret Ingredient\", co-authored by Jan Markos and David Navara and published by Quality Chess. The runners-up were \"Miguel Najdorf - 'El Viejo' - Life, Games & Stories\", by Zen&oacute;n Franco and Zeev Zohar, and \"Forgotten Genius - The Life and Games of Grandmaster Albin Planinc\", both published by Thinkers Publishing.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/averbakh-boleslavsky-award-2021",
+         "pubDate" : "Mon, 07 Nov 2022 22:00:00 +0100",
+         "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
+      },
+      {
          "description" : "This is a flash report. Full report coming soon. GM Wesley So clinched the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. So takes home the $200,000 grand prize―the largest prize of his ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2057",
          "pubDate" : "Thu, 27 Oct 2022 09:01:03 +0000",
          "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #539 Merijn van Delft looks at a remarkable and unusual endgame German Grandmaster Rasmus Svane played in the new season of the Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-539-r-svane-vs-j-krassowizkij",
-         "pubDate" : "Thu, 27 Oct 2022 10:00:00 +0100",
-         "title" : "Game of the Week #539: R. Svane vs J. Krassowizkij"
       },
       {
          "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
