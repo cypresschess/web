@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report. Full report coming soon.&#38;nbsp; GM Wesley So&#38;nbsp;kicked off the championship match with a commanding two-point lead, winning twice with white and drawing both games with black. Will So continue smooth sailing to the title...",
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-6-lichessorg",
+         "pubDate" : "Sun, 06 Nov 2022 22:15:41 +0000",
+         "title" : "2022 Fall Chess Classic: Round 6 | lichess.org"
+      },
+      {
+         "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d1",
-         "pubDate" : "Sun, 06 Nov 2022 12:26:27 -0800",
-         "title" : "Flash Report: So Goes Undefeated, Leads 3-1"
+         "pubDate" : "Sun, 06 Nov 2022 12:26:00 -0800",
+         "title" : "Adventurous So Goes Undefeated, Leads 3-1"
       },
       {
          "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://chessimprover.com/sac-or-no-sac-3/",
          "pubDate" : "Tue, 01 Nov 2022 23:39:50 +0000",
          "title" : "Sac Or No Sac? (3)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on a concept you all should know. 2022.11.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/loose-pieces-drop-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/loose-pieces-drop-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 01 Nov 2022 22:13:04 +0000",
-         "title" : "Loose Pieces Drop Off! | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "",
@@ -2024,14 +2024,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/gukesh-is-the-youngest-player-ever-to-beat-magnus-carlsen-as-wor/",
          "pubDate" : "Mon, 17 Oct 2022 09:30:29 +0000",
          "title" : "Gukesh is the youngest player ever to beat Magnus Carlsen as World Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2042",
-         "pubDate" : "Sun, 16 Oct 2022 21:32:45 +0000",
-         "title" : "FIDE World Junior Chess Championship passes midpoint"
       }
    ]
 }
