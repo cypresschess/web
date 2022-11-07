@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Semifinal U15 Polish Youth Championship is taking place from 6-12 November 2022. It is a 9-round Swiss tournament with Mikolaj Gbiorczyk, Szymon Wydmanski, Witold Szymkiewicz, Hubert Zieba, Jan Krol, Szymon Duda, Grzegorz Marek, Kuba Rodziewicz-Bielewicz, Dawid Wierzbicki, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/semifinal-u15-polish-youth-championship-2022-live/",
+         "pubDate" : "Mon, 07 Nov 2022 18:30:08 +0000",
+         "title" : "Semifinal U15 Polish Youth Championship 2022 LIVE"
+      },
+      {
+         "description" : "In the Endgame Magic Show #214 Karsten M&uuml;ller and his guest Harald Schneider-Zinner look at endgame highlights from the last Bundesliga round. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-214-with-harald-schneider-zinner",
+         "pubDate" : "Mon, 07 Nov 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #214 with Harald Schneider-Zinner"
+      },
+      {
          "description" : "The second last part of the series tackles Lilit's mindset a bit. With just five more rounds to go, the Armenian IM had the chance to at least qualify for the FIDE Women's World Cup 2023. Would she struggle with her overall condition, and get distracted from chess? One powerful opponent was waiting for her in round number eight - Mai Narva. But Lilit managed to prepare well, and surprise the Estonian WGM in the opening preparation. In the video, we can see how. And now, Lilit was actually playing for a medal!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/lilit-mkrtchian-5",
          "pubDate" : "Mon, 07 Nov 2022 16:15:23 +0100",
          "title" : "Lilit Mkrtchian (5) - How to surprise your opponent with the London System"
+      },
+      {
+         "description" : " The final three rounds of the Chess.com Global Championship took place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players competed in this final part of the knockout event. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw). Wesley So won beating Hikaru Nakamura in the semifinal and Nihal Sarin in the final.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-global-championship-finals-2022",
+         "pubDate" : "Mon, 7 Nov 2022 18:51:00 +0400",
+         "title" : "Chess.com Global Championship Finals 2022 - Games and Results"
       },
       {
          "description" : " I'm pretty sure my 40th anniversary as a tournament chess player is coming up, in a few days. Unfortunately my first events were 'Allegro' tournaments, and so I don't have game scores. What I do remember is turning up to the Woden Chess Club towards the end of 1982. On the first night there was an interclub event taking place, so I just played casual games, which I lost quite badly. The next week they started an Allegro event, which was 4 rounds a night with a time limit of G/15m. I started off with 0/8 but eventually recovered to finish on 4/15. Combing through back issues of the Canberra Times, it appears that this event started on the 9th or possibly the 16th of November. As the format w",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
          "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
          "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura"
-      },
-      {
-         "description" : "The 4th and final classical game of the Women's Candidates Pool A semi-finals between Anna Muzychuk and Lei Tingjie kicked off by Marie Noelle Gibelli, a member of the National Council of Monaco, making the ceremonial first move. Marco Biagioli, Mitropa President and External Manager of the Italian Chess Federation, also was in the playing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lei-tingjie-wins-her-spot-in-the-womens-candidates-finals/",
-         "pubDate" : "Sat, 05 Nov 2022 20:48:55 +0000",
-         "title" : "Lei Tingjie wins her spot in the Women's Candidates finals"
       },
       {
          "description" : "",
@@ -728,14 +744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2077",
          "pubDate" : "Wed, 02 Nov 2022 19:40:35 +0000",
          "title" : "FIDE Women's Candidates: Slow but solid start of the semi-finals"
-      },
-      {
-         "description" : " The final three rounds of the Chess.com Global Championship take place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players compete in this knockout events. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw),",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-global-championship-finals-2022",
-         "pubDate" : "Wed, 2 Nov 2022 20:44:00 +0400",
-         "title" : "Chess.com Global Championship Finals 2022 - Games and Results"
       },
       {
          "description" : " The St Louis Fall Chess Classic takes place Tue 1st to Fri 11th Nov 2022. Two groups. Yu Yangyi, Santosh Vidit and Hans Moke Niemann are the top seeds. 30 minute delay.",
@@ -1520,14 +1528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
          "pubDate" : "Wed, 26 Oct 2022 23:15:00 -0700",
          "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov, the youngest participant in Reykjavik, became the first player to secure a spot in the semis of the World Fischer Random Championship. The 18-year-old has a perfect 8/8 score (in match points) and has only drawn one game so far in the event. Abdusattorov's qualification means either Wesley So or Ian Nepomniachtchi will be eliminated in group A. Meanwhile, in group B, Magnus Carlsen and Hikaru Nakamura are sharing the lead, two match points ahead of Vladimir Fedoseev. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d2",
-         "pubDate" : "Thu, 27 Oct 2022 07:10:00 +0100",
-         "title" : "Fischer Random: Abdusattorov reaches semis with two rounds to spare"
       },
       {
          "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
