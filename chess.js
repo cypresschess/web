@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wesley-so-wins-chess-com-global-championship",
+         "pubDate" : "Tue, 08 Nov 2022 00:15:23 +0000",
+         "title" : "Wesley So wins Chess.com Global Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong>'s <strong>Global Chess Championship</strong> and $200,000 was won by <strong>Wesley So</strong> who dominated <strong>Nihal Sarin</strong> in the final with 4,5:1,5. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/so-is-global-champion/",
+         "pubDate" : "Mon, 07 Nov 2022 23:23:00 +0100",
+         "title" : "So is Global Champion"
+      },
+      {
          "description" : "The Yuri Averbakh/Isaac Boleslavsky Award for the best book published in 2021 goes to \"The Secret Ingredient\", co-authored by Jan Markos and David Navara and published by Quality Chess. The runners-up were \"Miguel Najdorf - 'El Viejo' - Life, Games & Stories\", by Zen&oacute;n Franco and Zeev Zohar, and \"Forgotten Genius - The Life and Games of Grandmaster Albin Planinc\", both published by Thinkers Publishing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
       },
       {
-         "description" : "This is a flash report. Full report coming soon. GM Wesley So clinched the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. So takes home the $200,000 grand prize―the largest prize of his ca...",
+         "description" : "GM Wesley So triumphed at the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. Unfazed by a couple of recent performances, So showed us what it means to be a grandmaster of his caliber, coming...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
          "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
-         "title" : "Flash Report: Wesley So Is the First-Ever Chess.com Global Champion"
+         "title" : "Wesley So Becomes First-Ever Chess.com Global Champion"
       },
       {
          "description" : "Semifinal U15 Polish Youth Championship is taking place from 6-12 November 2022. It is a 9-round Swiss tournament with Mikolaj Gbiorczyk, Szymon Wydmanski, Witold Szymkiewicz, Hubert Zieba, Jan Krol, Szymon Duda, Grzegorz Marek, Kuba Rodziewicz-Bielewicz, Dawid Wierzbicki, etc. &#xFEFF;",
@@ -474,14 +490,6 @@ news_feed (
          "title" : "FIDE Women's Candidates: No risks taken"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> His <a href=\"https://cse.buffalo.edu/~regan/chess/fidelity/\">cheating-detection work</a> <a href=\"https://time.com/6227677/magnus-carlsen-hans-niemann-kenneth-regan-chess-scandal/\">in chess helped</a> <strong>Ken Regan</strong> to be promoted from assistant professor to full professor of computer science at the <strong>University of Buffalo</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/regan-promoted-to-full-professor/",
-         "pubDate" : "Fri, 04 Nov 2022 21:07:29 +0100",
-         "title" : "Regan promoted to full professor"
-      },
-      {
          "description" : "This week, Daniel King analyses a game he played against Michael Basman, who recently passed away. True to his nature, Basman went for the 'Creepy Crawly', with 1...h6 and 2...a6! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,6 +632,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4-lichessorg",
          "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
          "title" : "2022 Fall Chess Classic: Round 4 | lichess.org"
+      },
+      {
+         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
+         "pubDate" : "Thu, 03 Nov 2022 14:47:00 -0700",
+         "title" : "Stunning Comebacks and Decisive Matches: Nakamura, So, Nihal, Giri Victorious"
       },
       {
          "description" : "",
@@ -1626,14 +1642,6 @@ news_feed (
          "title" : "Koneru, Lei Beat Muzychuk Sisters As Women's Candidates Tournament Takes Off"
       },
       {
-         "description" : "GMs Nodirbek Abdusattorov and Hikaru Nakamura both won their matches on Tuesday to lead groups A and B at the 2022 Fischer Random World Championship in Reykjavik, Iceland. Abdusattorov swept vs. GM Ian Nepomniachtchi and defeated GM Wesley So. Nak...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-knockout-d1",
-         "pubDate" : "Tue, 25 Oct 2022 20:42:00 -0700",
-         "title" : "The Winding Wonderland of Fischer Random: Abdusattorov, Nakamura Lead"
-      },
-      {
          "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/the-monster-mystery-bash-tournament-returns",
          "pubDate" : "Tue, 25 Oct 2022 16:08:12 +0000",
          "title" : "The Monster Mystery Bash Tournament returns"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen takes on Hikaru Nakamura today in Reykjavik, Iceland, as the 8-player FIDE World Fischer Random Championship begins. For the first three days the players are split into two groups, with the other group headed by Defending Champion Wesley So and World Championship Challenger Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-fischer-random-championship-begins-in-reykjavik",
-         "pubDate" : "Tue, 25 Oct 2022 13:17:08 +0000",
-         "title" : "Carlsen-Nakamura as Fischer Random starts in Reykjavik"
       },
       {
          "description" : " While doing some research on older model chess computers I came across <a href=\"http://www.spacious-mind.com/\">The Spacious Mind</a> webpage. it is dedicated to old desktop chess computers and vintage software, and looks to be a good resource for anyone interested. The only issue is that it seems somewhat incomplete, with around half the pages \"Coming Soon\". Also the design is a little 1990's, which has me wondering if it is deliberately going for the 'retro' feel, or it really is just very, very old. ",
