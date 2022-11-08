@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase India hosted its second \"Death Match\" duel and this time Gukesh D and Arjun Erigaisi played against each other. The show and other chess events, such as a comedian chess tournament, were part of the DreamHack gamers fair in Hyderabad. The match was broadcasted live and attracted about 200,000 viewers: Results and video... | Photos: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/great-chess-show-at-the-dreamhack-in-hyderabad",
+         "pubDate" : "Tue, 08 Nov 2022 14:00:00 +0100",
+         "title" : "Great chess show at the DreamHack in Hyderabad"
+      },
+      {
          "description" : "Former World Chess Champion Anatoly Karpov was hospitalized in serious condition and in artificial coma the night of October 29. The first information on Karpov's health was conflicting ranging from &#8220;nothing serious&#8221; to &#8220;Karpov is in critical condition&#8221;. The cause of Karpov's health problems was a also unknown unfortunate fall, assault, alcoholic intoxication, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2064",
          "pubDate" : "Thu, 27 Oct 2022 21:25:27 +0000",
          "title" : "2022 FIDE World Amateur Championship enters final stretch"
-      },
-      {
-         "description" : "This week Robert Ris will have a look at a brilliant sacrifice in the Caro-Kann Advance Variation, which helped Pavel Eljanov to a fine win in the German Bundesliga. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-brilliant-sacrifice",
-         "pubDate" : "Thu, 27 Oct 2022 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A brilliant sacrifice"
       },
       {
          "description" : "",
