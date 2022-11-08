@@ -1898,14 +1898,6 @@ news_feed (
          "title" : "People Said, 'Ouf!'"
       },
       {
-         "description" : "Hans Niemann filed a federal lawsuit against Magnus Carlsen, Chess.com and others after being accused of cheating.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
-         "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
-         "title" : "Why was Magnus Carlsen sued for $100 million?"
-      },
-      {
          "description" : "GM Mendonca Leon Luke played a brilliant attacking game in the queenless endgame arising from Slav defence to win against Georgian IM Petriashvili Nikoloz. With",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1936,14 +1928,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/",
          "pubDate" : "Thu, 20 Oct 2022 23:46:21 +0000",
          "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
-      },
-      {
-         "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
-         "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
-         "title" : "Chess scandal: Niemann files $100m lawsuit"
       },
       {
          "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> against Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remar",
