@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Thursday, the new season of the Austrian League started. Top favourite is the team of ASV Linz with Maxime Vachier-Lagrave on board one. However, the star-studded team had a somewhat rocky start and drew two of their first four matches, and now share third and fourth place. With three wins and one draw the teams of Jenbach and Ottakring share the lead. | Photo: Matthias Bl&uuml;baum (left) plays against Markus Ragger | Photos: Knapp/Theny (Austrian Chess Federation)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/germans-lead-in-austrian-league",
+         "pubDate" : "Tue, 08 Nov 2022 17:00:00 +0100",
+         "title" : "Germans lead in Austrian League"
+      },
+      {
          "description" : "ChessBase India hosted its second \"Death Match\" duel and this time Gukesh D and Arjun Erigaisi played against each other. The show and other chess events, such as a comedian chess tournament, were part of the DreamHack gamers fair in Hyderabad. The match was broadcasted live and attracted about 200,000 viewers: Results and video... | Photos: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1450,14 +1458,6 @@ news_feed (
          "title" : "Fischer's Vision Alive In Reykjavik: Abdusattorov, Carlsen On Top"
       },
       {
-         "description" : "The group stage of the World Fischer Random Championship came to an end on Thursday. Besides Nodirbek Abdusattorov, who secured his spot in semis on the second day of action, Magnus Carlsen, Hikaru Nakamura and Ian Nepomniachtchi moved on to the knockout stage by finishing among the top two in each group. In Saturday's semis, Abdusattorov will face Nakamura, while Carlsen and Nepomniachtchi will play a rematch of last year's confrontation for the Classical World Championship title. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-d3",
-         "pubDate" : "Fri, 28 Oct 2022 01:40:00 +0100",
-         "title" : "Fischer Random: Carlsen and Nepo to face off in semis"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1992,22 +1992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2044",
          "pubDate" : "Tue, 18 Oct 2022 21:00:09 +0000",
          "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
-      },
-      {
-         "description" : " &#8220;Beth Harmon: You think I'm a prima donna, don't you? Harry Beltik: It's chess. We're all prima donnas&#8221; The Queen's Gambit series Queen's Gambit Declined (QGD) is arguably more popular these days. Still this should not stop you from looking into the Queen's Gambit Accepted (QGA), especially at the club level. The positions that arise <a href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? Queen's Gambit Accepted, Central Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-queens-gambit-accepted",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-queens-gambit-accepted-central-variation-edition/",
-         "pubDate" : "Tue, 18 Oct 2022 15:05:37 +0000",
-         "title" : "Need sure points? Queen's Gambit Accepted, Central Variation Edition"
-      },
-      {
-         "description" : "How long has it been since we had a real Yahoo -- a mainstream news source reporting on a chess story -- on this blog? I scrolled back through dozens of 'posts with label Yahoos' and decided that it must have been <A HREF=\"http://chessforallages.blogspot.com/2020/12/a-yahoo-backstory.html\">A Yahoo Backstory</A>(December 2020). Shown below is the latest Yahoo. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj18.gif\" WIDTH=400 HEIGHT=215> <P>It's not immediately obvious which of the six stories is the chess story. If we eliminate the three stories referring to U.S. politics, like the one on the top, the chess story must be the one in the middle of the bottom row captioned, 'Why ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html",
-         "pubDate" : "Tue, 18 Oct 2022 15:05:00 +0000",
-         "title" : "Really Big Stereotypes"
       }
    ]
 }
