@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former World Chess Champion Anatoly Karpov was hospitalized in serious condition and in artificial coma the night of October 29. The first information on Karpov's health was conflicting ranging from &#8220;nothing serious&#8221; to &#8220;Karpov is in critical condition&#8221;. The cause of Karpov's health problems was a also unknown unfortunate fall, assault, alcoholic intoxication, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/update-on-anatoly-karpovs-health/",
+         "pubDate" : "Tue, 08 Nov 2022 10:18:57 +0000",
+         "title" : "Update on Anatoly Karpov's health"
+      },
+      {
+         "description" : "At the end of October, former World Champion Anatoly Karpov had a severe accident that caused a traumatic brain injury and a fractured neck of the femur. Moreover, he has been battling pneumonia. But according to current news Karpov is on the road to recovery and was even able to complain about the bad hospital food. | Photo: Anatoly Karpov with his wife Natalia and his daughter Sofia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karpov-on-the-road-to-recovery",
+         "pubDate" : "Tue, 08 Nov 2022 11:00:00 +0100",
+         "title" : "Karpov on the road to recovery"
+      },
+      {
          "description" : "Rook endings often have drawish tendencies but pawn races are often very sharp. In the diagram position, we have both: a rook ending and a pawn race and the position is very sharp. Black is two pawns up but the far advanced white pawns are dangerous. White just played 53.Rd7+ - how should Black react?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022/",
          "pubDate" : "Sun, 06 Nov 2022 09:41:25 +0000",
          "title" : "Meltwater Champions Chess Tour Finals 2022"
-      },
-      {
-         "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland.&#xA0;The organizer is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation. The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022/",
-         "pubDate" : "Sun, 06 Nov 2022 09:21:37 +0000",
-         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "Fischer Random 2: Wesley So tries to castle illegally"
       },
       {
-         "description" : "About a week ago Karsten M&uuml;ller invited readers of his latest endgame riddle to take a close look at the 34th game of the World Championship match between Alexander Alekhine and Jos&eacute; Ra&uacute;l Capablanca in Buenos Aires 1927. It was the last and the decisive game of the match - Alekhine won in an instructive rook ending. Zoran Petronijevic and Wolfram Sch&ouml;n had a very close look at this historically important game and present interesting discoveries. | Photo: Capablanca (right) and Alekhine at the World Championship 1927, the man in the middle is the arbiter Carlos Augusto Querencio | Source: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-solved-capablanca-missed-several-drawing-opportunities",
-         "pubDate" : "Thu, 27 Oct 2022 13:00:00 +0100",
-         "title" : "Riddle solved: Capablanca missed several drawing opportunities"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2008,22 +2008,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html",
          "pubDate" : "Tue, 18 Oct 2022 15:05:00 +0000",
          "title" : "Really Big Stereotypes"
-      },
-      {
-         "description" : " The charm of events like Asian Seniors (apart from the chess), is the social get together.Tony Dowden is currently playing this event, and doing quite well. On the way to dinner one evening he recounted the time he pulled off an outrageous swindle against IM Alex Wohl. As he tells it, decided to offer a hot pawn, which Wohl took. The follow up was to offer up the exchange, which Wohl, also took. He then 'allowed' his bishop to be trapped, which Wohl should not have done. After Wohl played the fateful move, Dowden unleashed Qxf2+, which lead to a forced mate. 'Oh, that's mate' was Wohl's final reply. <br /> <br /> <b>Wohl, Aleks - Dowden, Tony</b><br />New Zealand Championship <script>new Pg",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/a-glorious-swindle.html",
-         "pubDate" : "Tue, 18 Oct 2022 09:37:00 +0000",
-         "title" : "A glorious swindle"
-      },
-      {
-         "description" : "WFM Shohreh Bayat is offering a series of free chess training lessons for Ukrainian refugees. The lessons are expected to run weekly on Tuesday afternoons...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees/",
-         "pubDate" : "Tue, 18 Oct 2022 09:21:24 +0000",
-         "title" : "Free chess training for Ukrainian refugees in London"
       }
    ]
 }
