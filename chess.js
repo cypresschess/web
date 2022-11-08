@@ -1992,14 +1992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-rapid-indian-challenge-ends-in-quarterfinals/articleshow/94956298.cms",
          "pubDate" : "Wed, 19 Oct 2022 04:22:36 +0000",
          "title" : "Aimchess Rapid: Indian challenge ends in quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2044",
-         "pubDate" : "Tue, 18 Oct 2022 21:00:09 +0000",
-         "title" : "Magnus Carlsen wins 2022 Meltwater Champions Tour with event to spare"
       }
    ]
 }
