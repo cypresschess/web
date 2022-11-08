@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Chess Championship G14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Valeria Kleymenova, Maia Arzur, Yana Zhapova, Michelle Trunz, Narmin Abdinova, Anastasia Kirtadze, Sofiya Mullyaminova, Elif Zeren Yildiz, Nurtan Nuriyeva, Lucia Stoll, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g14-2022-live/",
+         "pubDate" : "Tue, 08 Nov 2022 19:51:55 +0000",
+         "title" : "European Youth Chess Championship G14 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship G14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G14 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g14-2022-participants/",
+         "pubDate" : "Tue, 08 Nov 2022 19:47:51 +0000",
+         "title" : "European Youth Chess Championship G14 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship U14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Ediz Gurel, Jakub Seemann, Hasan Huseyin Celik, Vladimir-Alexandru Cnejev, Arthur De Winter, Matic Lavrencic, Filip Magold, Magnus Ermitsch, Roy Vagman, Can Durak, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u14-2022-live/",
+         "pubDate" : "Tue, 08 Nov 2022 19:43:38 +0000",
+         "title" : "European Youth Chess Championship U14 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship U14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U14 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u14-2022-participants/",
+         "pubDate" : "Tue, 08 Nov 2022 19:38:26 +0000",
+         "title" : "European Youth Chess Championship U14 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship G16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Olga Dm. Karmanova, Mariia Manko, Manon Schippke, Vesna Mihelic, Kata Karacsonyi, Alexandra Shvedova, Alexia-Teodora Puia, Zumra Meryem Alagoz, Alina Kalenichenko, Gulenay Aydin, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g16-2022-live/",
+         "pubDate" : "Tue, 08 Nov 2022 19:34:18 +0000",
+         "title" : "European Youth Chess Championship G16 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship G16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G16 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g16-2022-participants/",
+         "pubDate" : "Tue, 08 Nov 2022 19:29:54 +0000",
+         "title" : "European Youth Chess Championship G16 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship U16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Diego Macias Pino, Jan Klimkowski, Semen Mitusov, Erdem Khubukshanov, Aleksey Grebnev, Emin Ohanyan, Aleks Sahakyan, Taha Ozkan, Eray Kilic, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u16-2022-live/",
+         "pubDate" : "Tue, 08 Nov 2022 19:25:14 +0000",
+         "title" : "European Youth Chess Championship U16 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship U16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U18 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u16-2022-participants/",
+         "pubDate" : "Tue, 08 Nov 2022 19:20:16 +0000",
+         "title" : "European Youth Chess Championship U16 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship G18 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Mariam Mkrtchyan, Leya Garifullina, Mariya Yakimova, Anastassia Sinitsina, Viviana Galvan Cipriani, Trisha Kanyamarala, Alisa Nur-Mukhametova, Astghik Hakobyan, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g18-2022-live/",
+         "pubDate" : "Tue, 08 Nov 2022 19:14:21 +0000",
+         "title" : "European Youth Chess Championship G18 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship G18 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G18 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g18-2022-participants/",
+         "pubDate" : "Tue, 08 Nov 2022 19:07:03 +0000",
+         "title" : "European Youth Chess Championship G18 2022 participants"
+      },
+      {
+         "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/quick-decisions-10/",
+         "pubDate" : "Tue, 08 Nov 2022 18:17:42 +0000",
+         "title" : "Quick Decisions (10)"
+      },
+      {
          "description" : "Last Thursday, the new season of the Austrian League started. Top favourite is the team of ASV Linz with Maxime Vachier-Lagrave on board one. However, the star-studded team had a somewhat rocky start and drew two of their first four matches, and now share third and fourth place. With three wins and one draw the teams of Jenbach and Ottakring share the lead. | Photo: Matthias Bl&uuml;baum (left) plays against Markus Ragger | Photos: Knapp/Theny (Austrian Chess Federation)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/great-chess-show-at-the-dreamhack-in-hyderabad",
          "pubDate" : "Tue, 08 Nov 2022 14:00:00 +0100",
          "title" : "Great chess show at the DreamHack in Hyderabad"
-      },
-      {
-         "description" : "Former World Chess Champion Anatoly Karpov was hospitalized in serious condition and in artificial coma the night of October 29. The first information on Karpov's health was conflicting ranging from &#8220;nothing serious&#8221; to &#8220;Karpov is in critical condition&#8221;. The cause of Karpov's health problems was a also unknown unfortunate fall, assault, alcoholic intoxication, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/update-on-anatoly-karpovs-health/",
-         "pubDate" : "Tue, 08 Nov 2022 10:18:57 +0000",
-         "title" : "Update on Anatoly Karpov's health"
       },
       {
          "description" : "At the end of October, former World Champion Anatoly Karpov had a severe accident that caused a traumatic brain injury and a fractured neck of the femur. Moreover, he has been battling pneumonia. But according to current news Karpov is on the road to recovery and was even able to complain about the bad hospital food. | Photo: Anatoly Karpov with his wife Natalia and his daughter Sofia",
@@ -80,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
          "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
          "title" : "Wesley So Becomes First-Ever Chess.com Global Champion"
-      },
-      {
-         "description" : "Semifinal U15 Polish Youth Championship is taking place from 6-12 November 2022. It is a 9-round Swiss tournament with Mikolaj Gbiorczyk, Szymon Wydmanski, Witold Szymkiewicz, Hubert Zieba, Jan Krol, Szymon Duda, Grzegorz Marek, Kuba Rodziewicz-Bielewicz, Dawid Wierzbicki, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/semifinal-u15-polish-youth-championship-2022-live/",
-         "pubDate" : "Mon, 07 Nov 2022 18:30:08 +0000",
-         "title" : "Semifinal U15 Polish Youth Championship 2022 LIVE"
       },
       {
          "description" : "In the Endgame Magic Show #214 Karsten M&uuml;ller and his guest Harald Schneider-Zinner look at endgame highlights from the last Bundesliga round. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -162,28 +234,12 @@ news_feed (
          "title" : "Mike Basman"
       },
       {
-         "description" : "The 5th and final leg of the Romanian Grand Prix 2022 took place from 5th 6th November in Braila, Romania. The event gathered more than 140 players, with world-known grandmasters completing the field. The event was played in 10 rounds, swiss system, with time control 15 minutes + 5 seconds of increment, and featured []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-david-navara-wins-the-5th-leg-of-the-romanian-grand-prix-2022/",
-         "pubDate" : "Mon, 07 Nov 2022 10:45:00 +0000",
-         "title" : "GM David Navara wins the 5th leg of the Romanian Grand Prix 2022"
-      },
-      {
          "description" : "The 2022 European Youth Chess Championship officially opened yesterday in Antalya, before the start of the first round. The impressive opening ceremony of the event was attended by Turkish Minister of Youth and Sports Dr. Mehmet Muharrem Kasapoglu, the ECU President Zurab Azmaiparashvili, President of Turkish Chess Federation Gulkiz Tulay, Turkiye Is Bankasi Deputy General Manager Suat Sozen,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens/",
          "pubDate" : "Mon, 07 Nov 2022 10:31:06 +0000",
          "title" : "European Youth Chess Championship 2022 opens"
-      },
-      {
-         "description" : "The 2022 European Youth Chess Championship officially opened yesterday in Antalya, before the start of the first round. The impressive opening ceremony of the event was attended by Turkish Minister of Youth and Sports Dr. Mehmet Muharrem Kasapoglu, the ECU President Zurab Azmaiparashvili, President of Turkish Chess Federation Gulkiz Tulay, Turkiye Is Bankasi Deputy General []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-2022-officially-opened/",
-         "pubDate" : "Mon, 07 Nov 2022 09:41:00 +0000",
-         "title" : "European Youth Chess Championship 2022 officially opened"
       },
       {
          "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city on Monday in a press release. Traditionally, two of the most excitin...",
@@ -200,22 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/almaty-to-host-fide-rapid-blitz-championships-2022",
          "pubDate" : "Mon, 07 Nov 2022 10:09:33 +0100",
          "title" : "Almaty to host FIDE Rapid & Blitz Championships 2022"
-      },
-      {
-         "description" : "After Nakamura's win in the Fischer Random World Championship, it is time for another World Championship to take place. The FIDE Rapid and Blitz Championships 2022 will take place in Almaty,&#xA0;Kazakhstan.&#xA0;The championship will be played on its traditional dates, between December 26 and December 30. The event will boast a 1 million USD prize fund []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-rapid-and-blitz-championships-2022-is-in-almaty/",
-         "pubDate" : "Mon, 07 Nov 2022 08:39:51 +0000",
-         "title" : "FIDE Rapid and Blitz Championships 2022 is in Almaty"
-      },
-      {
-         "description" : "FIDE Rapid and Blitz Championships 2022 will take place in Almaty,&#xA0;Kazakhstan.&#xA0;The championship will be played on its traditional dates, between December 26 and December 30. Chessdom will follow the event with daily news and videos and will broadcast the live games of the Rapid and Blitz 2022. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-rapid-and-blitz-championship-2022-live/",
-         "pubDate" : "Mon, 07 Nov 2022 08:33:54 +0000",
-         "title" : "World Rapid and Blitz Championship 2022 LIVE"
       },
       {
          "description" : "",
@@ -272,22 +312,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/",
          "pubDate" : "Sun, 06 Nov 2022 19:27:03 +0000",
          "title" : "Cannon Farragut&hellip; Tampa's ray of sunshine"
-      },
-      {
-         "description" : "50+ Spanish Senior Championship is taking place from 29 October to 6 November 2022 in Altea, Spain. It is a 9-round Swiss open with Jose Candela Perez, Francisco M. Terron Elena, Antonio Cantero Navarro, Evarist Perez Pastora, Luis Bevia Martinez, Francisco Carrera Perez, Pedro Maria Pastor Pons, Julio Gonzalez Valero, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50-spanish-senior-championship-2022-live/",
-         "pubDate" : "Sun, 06 Nov 2022 17:39:46 +0000",
-         "title" : "50+ Spanish Senior Championship 2022 LIVE"
-      },
-      {
-         "description" : "Baden-Baden Herbstopen is taking place from 3&#x2013;6 November 2022 in Baden-Baden, Germany. It is a 7-round Swiss tournament with Philipp Schlosser, Lukas Pfatteicher, Igor Solomunovic, Oleg Korneev, Vadim Cernov, Sebastian Fischer, Veaceslav Cofmann, Jonathan Carlstedt, Jafar Mohebbi, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/baden-baden-herbstopen-2022-live/",
-         "pubDate" : "Sun, 06 Nov 2022 17:38:41 +0000",
-         "title" : "Baden-Baden Herbstopen 2022 LIVE"
       },
       {
          "description" : "The first Sunday of the month means a new post in the long-running series <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010). The priority generally goes to artwork, where -- if you don't count <A HREF=\"http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html\">The Spanish Forger Liked Chess</A>(September 2022) -- the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022). <P>This month I had three interesting paintings to choose from, so I went with the one I liked most. Titled, 'Henri Dillon (1851-1909) signed Fr",
@@ -352,22 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
          "pubDate" : "Sun, 06 Nov 2022 03:08:00 -0800",
          "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
-         "pubDate" : "Sun, 06 Nov 2022 10:12:54 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
-      },
-      {
-         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the award-winning Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022/",
-         "pubDate" : "Sun, 06 Nov 2022 09:41:25 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
