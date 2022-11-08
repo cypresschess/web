@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endings often have drawish tendencies but pawn races are often very sharp. In the diagram position, we have both: a rook ending and a pawn race and the position is very sharp. Black is two pawns up but the far advanced white pawns are dangerous. White just played 53.Rd7+ - how should Black react?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/where-to-go",
+         "pubDate" : "Tue, 08 Nov 2022 09:00:00 +0100",
+         "title" : "Where to go?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-6",
+         "pubDate" : "Tue, 08 Nov 2022 04:16:51 +0000",
+         "title" : "2022 Fall Chess Classic: Round 6"
+      },
+      {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1",
          "pubDate" : "Thu, 03 Nov 2022 01:13:48 +0000",
          "title" : "2022 Fall Chess Classic: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-3-lichessorg",
-         "pubDate" : "Thu, 03 Nov 2022 01:13:48 +0000",
-         "title" : "2022 Fall Chess Classic: Round 3 | lichess.org"
       },
       {
          "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
@@ -1506,14 +1514,6 @@ news_feed (
          "title" : "Riddle solved: Capablanca missed several drawing opportunities"
       },
       {
-         "description" : "On 24 February 2022, Russia began its invasion of Ukraine and war has been raging in the country ever since, and Kiev, the capital of Ukraine, has been the target of repeated airstrikes. But the Ukrainians still play chess. Mikhail Golubev sends a report about a small but remarkable tournament: the 1st Anfield Cup. | Photo: Lana Chess Photography",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-despite-the-war-the-anfield-cup-in-kyiv",
-         "pubDate" : "Thu, 27 Oct 2022 12:00:00 +0100",
-         "title" : "Chess despite the war: The Anfield Cup in Kyiv"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1898,6 +1898,14 @@ news_feed (
          "title" : "People Said, 'Ouf!'"
       },
       {
+         "description" : "Hans Niemann filed a federal lawsuit against Magnus Carlsen, Chess.com and others after being accused of cheating.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
+         "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
+         "title" : "Why was Magnus Carlsen sued for $100 million?"
+      },
+      {
          "description" : "GM Mendonca Leon Luke played a brilliant attacking game in the queenless endgame arising from Slav defence to win against Georgian IM Petriashvili Nikoloz. With",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1928,6 +1936,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/",
          "pubDate" : "Thu, 20 Oct 2022 23:46:21 +0000",
          "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
+      },
+      {
+         "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
+         "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
+         "title" : "Chess scandal: Niemann files $100m lawsuit"
       },
       {
          "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> against Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remar",
