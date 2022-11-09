@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Those who are familiar with Rainer Knaak's column in ChessBase Magazine will have noticed that many trap motifs in tournament practice recur again and again in the same or a similar form and lead to quick decisions. That is certainly also a reason why the trap expert generally recommends spicing up one's own repertoire with opening traps or even building one's repertoire from a broad collection of traps. In the current CBM #210, Rainer Knaak presents a parade building block for the Sicilian Paulsen Variation. You can watch his video analysis of this trap in full here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-trap-and-repertoire-recommendation",
+         "pubDate" : "Wed, 09 Nov 2022 12:00:00 +0100",
+         "title" : "Opening trap and repertoire recommendation"
+      },
+      {
+         "description" : "ECU E-Magazine October 2022 is out! In this edition of the ECU E-Magazine you may read about: European Senior Team Chess Championship 2022 European Youth Chess Championship 2022 Upcoming European Open and Women Rapid&#38;Blitz Chess Championships 2022 FIDE World Fischer Random Chess Championship 2022 FIDE Women's Candidates Tournament 2022/2023 Tournament of Peace 2022 ECU Commission for Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-october-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-october-2022/",
+         "pubDate" : "Wed, 09 Nov 2022 10:16:20 +0000",
+         "title" : "ECU E-Magazine October 2022"
+      },
+      {
+         "description" : "National U-07 Open &#38; Girls Chess Championship Certificates are out to download Download using the link given below: Open : Click Here! Girls : Click Here! Any",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-07-certificates/",
+         "pubDate" : "Wed, 09 Nov 2022 10:01:00 +0000",
+         "title" : "National U-07 Certificates"
+      },
+      {
+         "description" : "IM Laura Unuk has been the best woman of her country, Slovenia for over seven years. She has won several Slovenia girls championships - Under-10, 12, 14, 16 and 18 from 2009 to 2017. She has also won a team Gold, individual Gold (2014) and Silver (2017) at European Under-18 Girls' Team. She is also the World Youth Under-16 (2014) and Under-18 Girls (2017) champion. The brand ambassador of Ferme Fashion and Huawei Slovenia also became the brand ambassador of Ford Slovenia. She was given a brand-new custom designed Ford Puma hybrid car which she calls Pumica (Baby Puma). On her 23rd birthday, we wish her a very happy birthday and bring you a short interview we conducted few days ago. Photo: Ce",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/laura-unuk-becomes-the-brand-ambassador-of-ford-slovenia",
+         "pubDate" : "Wed, 09 Nov 2022 10:01:32 +0100",
+         "title" : "Laura Unuk becomes the brand ambassador of Ford Slovenia"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -192,6 +224,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-214-with-harald-schneider-zinner",
          "pubDate" : "Mon, 07 Nov 2022 18:00:00 +0100",
          "title" : "Endgame Magic #214 with Harald Schneider-Zinner"
+      },
+      {
+         "description" : "The September 2022 <I>Chess Life</I> had a topical article, 'But Does It Actually Work?; Sadler and Doknjas on improving by studying with modern engines' by IM John Watson. The master book author and reviewer discussed two books:- <UL><LI>Sadler, Matthew. The Silicon Road to Chess Improvement. New in Chess, 2022. <LI>Doknjas, Joshua. The AI Revolution in Chess. Everyman Chess, 2002. [sic; 2022?] </UL> <P>The article is available online at <A HREF=\"https://new.uschess.org/news/watson-book-review-sadler-doknjas-and-modern-engines\">Watson Book Review: Sadler, Doknjas, and Modern Engines</A>(uschess.org). Watson explains, <BLOCKQUOTE>To grossly oversimplify, the older-style engines (like Stockfi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/studying-with-modern-engines.html",
+         "pubDate" : "Mon, 07 Nov 2022 16:07:00 +0000",
+         "title" : "'Studying with Modern Engines'"
       },
       {
          "description" : "The second last part of the series tackles Lilit's mindset a bit. With just five more rounds to go, the Armenian IM had the chance to at least qualify for the FIDE Women's World Cup 2023. Would she struggle with her overall condition, and get distracted from chess? One powerful opponent was waiting for her in round number eight - Mai Narva. But Lilit managed to prepare well, and surprise the Estonian WGM in the opening preparation. In the video, we can see how. And now, Lilit was actually playing for a medal!",
@@ -962,6 +1002,14 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup"
       },
       {
+         "description" : "The 2022 Chess Calendar begins with Magnus Carlsen and Fabiano Caruana topping the field for the Tata Steel Masters from January 15th onwards, and, if all goes to plan, it's a year that's going to feature another Candidates Tournament and the first over-the-board World Chess Olympiad since 2018. Whatever happens with the pandemic, the Meltwater Champions Chess Tour will be back, with nine high stakes events running from February 19th to November 20th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
+         "pubDate" : "Tue, 01 Nov 2022 11:35:00 +0000",
+         "title" : "2022 Chess Calendar"
+      },
+      {
          "description" : "It seems we have arrived at the strongest of all chess star signs. No less than three World Champions are Scorpios - Mikhail Tal, Alexander Alekhine, and Raoul Capablanca - and there are several other top players joining them - Ding Liren, Alexander Grischuk, Vincent Keymer, Lev Polugaevsky, Salo Flohr, and Ernst Gr&uuml;nfeld - to name but a few. But why are scorpions so brutally strong?| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,22 +1474,6 @@ news_feed (
          "title" : "New: ChessBase Magazine #210"
       },
       {
-         "description" : "The world champion Svitlana is talking about today, is one of the world's best chess players, since the late 80s. The five-time world chess champion has played some gorgeous games, and we will take a look at two of them. Anand beat Aronian with the Black pieces in 2013, and it is one of Svitlana's favourite games used for teaching. The second game is from 1997 against Joel Lautier, and Anand managed to trap the opponent's bishop for the whole game, without ever having the need to capture it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-anand-s-amazing-bishop-trap",
-         "pubDate" : "Fri, 28 Oct 2022 12:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Anand's amazing bishop trap"
-      },
-      {
-         "description" : "From 19 to 26 November, the World Team Championship will be held in Jerusalem in a new format. Twelve national teams are taking part Some federations are coming with their top stars. Others are sending up-and-coming players. The US team is led by Hans Niemann.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-teams-squads-announced-for-jerusalem-2022",
-         "pubDate" : "Fri, 28 Oct 2022 11:59:33 +0100",
-         "title" : "FIDE World Teams squads announced for Jerusalem 2022"
-      },
-      {
          "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1688,14 +1720,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2022-gm-leon-mendonca-finishes-joint-first-in-world-juniors-chess-2022/",
          "pubDate" : "Tue, 25 Oct 2022 17:08:10 +0000",
          "title" : "World Junior Chess Championship 2022 :GM Leon Mendonca finishes joint first in World Juniors chess 2022"
-      },
-      {
-         "description" : "Halloween is fast approaching, and to commemorate the occasion, Chessable and chess24 are hosting a unique tournament, the Monster Mystery Bash Tournament. This tournament is unlike any other you've seen. Chessable authors and Super GMs alike will be playing with their masks on, and you will have the opportunity to try to guess who is who before they're knocked out of the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/the-monster-mystery-bash-tournament-returns",
-         "pubDate" : "Tue, 25 Oct 2022 16:08:12 +0000",
-         "title" : "The Monster Mystery Bash Tournament returns"
       },
       {
          "description" : " While doing some research on older model chess computers I came across <a href=\"http://www.spacious-mind.com/\">The Spacious Mind</a> webpage. it is dedicated to old desktop chess computers and vintage software, and looks to be a good resource for anyone interested. The only issue is that it seems somewhat incomplete, with around half the pages \"Coming Soon\". Also the design is a little 1990's, which has me wondering if it is deliberately going for the 'retro' feel, or it really is just very, very old. ",
@@ -1976,14 +2000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/things-are-crook-in-tallarook.html",
          "pubDate" : "Thu, 20 Oct 2022 04:00:00 +0000",
          "title" : "Things are crook in Tallarook"
-      },
-      {
-         "description" : "It was with great sadness that we learned that our colleague and friend, Paul Buswell passed away yesterday morning, 18th October 2022, at St.Michael's Hospice,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/paul-buswell-rip/",
-         "pubDate" : "Wed, 19 Oct 2022 10:37:27 +0000",
-         "title" : "Paul Buswell RIP"
       }
    ]
 }
