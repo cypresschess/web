@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-firouzja-win-titled-tuesday-november-8-2022",
+         "pubDate" : "Wed, 09 Nov 2022 09:57:52 -0800",
+         "title" : "Firouzja Returns To Titled Tuesday With Spectacular Win"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #541 Merijn van Delft looks at a game which featured an interesting opening, a fine attack and an inspired endgame. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-541-t-meurs-vs-k-lambrechts",
+         "pubDate" : "Wed, 09 Nov 2022 18:40:18 +0100",
+         "title" : "Game of the Week #541: T. Meurs vs K. Lambrechts"
+      },
+      {
          "description" : "European Youth Chess Championship G12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Veronika Iudina, Marija Kuznecova, Oksana Goriachkina, Diana Preobrazhenskaya, Kesaria Mgeladze, Or Shatil, Timea Haasova, Zumral Yazici, Lala Huseynova, etc &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Women's Candidates Pool A: The tension is rising"
       },
       {
-         "description" : "Apart from the usual problems, Daniel King looks at a sensational attacking game played by Nodirbek Abdusattorov, the 18-year-old star from Uzbekistan. The initiative is everything. Apart from the attack itself, there is particular focus on the opening - a London System - and the subtleties involved in exchanging off THAT bishop. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-swinging-london",
-         "pubDate" : "Fri, 28 Oct 2022 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Swinging London"
-      },
-      {
          "description" : "Defending Champion Wesley So blundered mate-in-3 against Icelandic no. 1 Hjorvar Gretarsson on the final day of the group stages of the Fischer Random World Championship, effectively ending his slim hopes of retaining his title. Elsewhere the favourites made it through and it's going to be Carlsen-Nepomniachtchi and Nakamura-Abdusattorov in Saturday's semi-finals.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-asian-continental-chess-championship-2022/",
          "pubDate" : "Wed, 26 Oct 2022 10:03:39 +0000",
          "title" : "LIVE GAMES : ASIAN CONTINENTAL CHESS CHAMPIONSHIP-2022"
-      },
-      {
-         "description" : "It wasn&#39;t a good first day for the Muzychuk sisters at the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco, as both lost their games as Black. GM Humpy Koneru found a nice tactic to quickly beat GM Anna Muzychuk, while GM Lei Tingjie defeated...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-1",
-         "pubDate" : "Wed, 26 Oct 2022 02:49:00 -0700",
-         "title" : "Koneru, Lei Beat Muzychuk Sisters As Women's Candidates Tournament Takes Off"
       },
       {
          "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
