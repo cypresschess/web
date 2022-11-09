@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/act-interschool-2022.html",
+         "pubDate" : "Wed, 09 Nov 2022 13:03:00 +0000",
+         "title" : "ACT Interschool 2022"
+      },
+      {
+         "description" : "The MPL National Under 11 Chess Championships 2022 were organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29th October to 6th",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-35th-national-under-11-chess-championships-2022-29th-october-to-6th-november-gurgaon/",
+         "pubDate" : "Wed, 09 Nov 2022 13:00:09 +0000",
+         "title" : "MPL 35th National Under 11 Chess Championships 2022 29th October to 6th November, Gurgaon"
+      },
+      {
+         "description" : "At the beginning of November, there were plenty of opportunities to play chess in the south of Germany: The open tournaments in Deizisau and Baden-Baden gave committed chess players the chance to play 14 games in a total of eight tournament days. Jonathan Carlstedt won in Deizisan and Oleg Korneev won in Baden-Baden. Bettina Trabert reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/14-games-in-8-days-open-tournaments-in-deizisau-and-baden-baden",
+         "pubDate" : "Wed, 09 Nov 2022 13:47:09 +0100",
+         "title" : "14 games in 8 days: Open tournaments in Deizisau and Baden-Baden"
+      },
+      {
          "description" : "Those who are familiar with Rainer Knaak's column in ChessBase Magazine will have noticed that many trap motifs in tournament practice recur again and again in the same or a similar form and lead to quick decisions. That is certainly also a reason why the trap expert generally recommends spicing up one's own repertoire with opening traps or even building one's repertoire from a broad collection of traps. In the current CBM #210, Rainer Knaak presents a parade building block for the Sicilian Paulsen Variation. You can watch his video analysis of this trap in full here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1416,14 +1440,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-swinging-london",
          "pubDate" : "Fri, 28 Oct 2022 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Swinging London"
-      },
-      {
-         "description" : "In the last several weeks, the world of chess has been rocked by the accusations and allegations of cheating with the help of a computer. The idea is not new of course, but it might shock you to know the very first case of surreptitiously using a computer in a game against a grandmaster dates all the way back to 1980. You won't believe who were responsible! Here is the original video footage of the pioneers in action.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-pioneers-of-cheating-in-chess",
-         "pubDate" : "Fri, 28 Oct 2022 17:00:00 +0100",
-         "title" : "The Pioneers of Cheating in Chess"
       },
       {
          "description" : "Defending Champion Wesley So blundered mate-in-3 against Icelandic no. 1 Hjorvar Gretarsson on the final day of the group stages of the Fischer Random World Championship, effectively ending his slim hopes of retaining his title. Elsewhere the favourites made it through and it's going to be Carlsen-Nepomniachtchi and Nakamura-Abdusattorov in Saturday's semi-finals.",
