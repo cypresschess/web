@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Chess Championship G12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Veronika Iudina, Marija Kuznecova, Oksana Goriachkina, Diana Preobrazhenskaya, Kesaria Mgeladze, Or Shatil, Timea Haasova, Zumral Yazici, Lala Huseynova, etc &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g12-2022-live/",
+         "pubDate" : "Wed, 09 Nov 2022 14:46:58 +0000",
+         "title" : "European Youth Chess Championship G12 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship G12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g12-2022-participants/",
+         "pubDate" : "Wed, 09 Nov 2022 14:42:04 +0000",
+         "title" : "European Youth Chess Championship G12 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship U12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Nikolay Averin, Khagan Ahmad, Lukas Dotzer, Borys Witczak, Felix Borne, Elias Ruzhansky, Pawel Sowinski, Alex Villa Tornero, Stanislav Bukreev, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u12-2022-live/",
+         "pubDate" : "Wed, 09 Nov 2022 14:37:05 +0000",
+         "title" : "European Youth Chess Championship U12 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship U12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u12-2022-participants/",
+         "pubDate" : "Wed, 09 Nov 2022 14:30:56 +0000",
+         "title" : "European Youth Chess Championship U12 2022 participants"
+      },
+      {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -128,38 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-g16-2022-live/",
          "pubDate" : "Tue, 08 Nov 2022 19:34:18 +0000",
          "title" : "European Youth Chess Championship G16 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship G16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G16 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g16-2022-participants/",
-         "pubDate" : "Tue, 08 Nov 2022 19:29:54 +0000",
-         "title" : "European Youth Chess Championship G16 2022 participants"
-      },
-      {
-         "description" : "European Youth Chess Championship U16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Diego Macias Pino, Jan Klimkowski, Semen Mitusov, Erdem Khubukshanov, Aleksey Grebnev, Emin Ohanyan, Aleks Sahakyan, Taha Ozkan, Eray Kilic, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u16-2022-live/",
-         "pubDate" : "Tue, 08 Nov 2022 19:25:14 +0000",
-         "title" : "European Youth Chess Championship U16 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship U16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U18 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u16-2022-participants/",
-         "pubDate" : "Tue, 08 Nov 2022 19:20:16 +0000",
-         "title" : "European Youth Chess Championship U16 2022 participants"
-      },
-      {
-         "description" : "European Youth Chess Championship G18 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Mariam Mkrtchyan, Leya Garifullina, Mariya Yakimova, Anastassia Sinitsina, Viviana Galvan Cipriani, Trisha Kanyamarala, Alisa Nur-Mukhametova, Astghik Hakobyan, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g18-2022-live/",
-         "pubDate" : "Tue, 08 Nov 2022 19:14:21 +0000",
-         "title" : "European Youth Chess Championship G18 2022 LIVE"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
