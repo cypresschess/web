@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-7",
+         "pubDate" : "Wed, 09 Nov 2022 07:18:01 +0000",
+         "title" : "2022 Fall Chess Classic: Round 7"
+      },
+      {
+         "description" : "The Fall Chess Classic is taking place at the Saint Louis Chess Club on November 2-10. Two 10-player round-robin tournaments, group A and group B, are being played concurrently. In the main group, second seed Yu Yangyi from China is in the sole lead with a 5/7 points. Yu scored consecutive wins in the last three rounds. Meanwhile, Aleksandr Lenderman has all but secured victory in group B. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fall-chess-classic-2022-r6",
+         "pubDate" : "Wed, 09 Nov 2022 03:50:00 +0100",
+         "title" : "Fall Chess Classic: Yu Yangyi leads with two rounds to go"
+      },
+      {
+         "description" : "Understand and conquer the Sicilian, French, and Caro-Kann with Part 2 of Lifetime Repertoires: 1.e4 by International Master Yuriy Krykun. After dismantling 1.e4 e5 and those tricky sidelines in Krykun's 1. e4 Part 1, he&#x2019;s back to show you how to outplay the big guns in Part 2, giving you a complete repertoire for White []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/krykuns-1-e4-complete-repertoire-for-white/",
+         "pubDate" : "Tue, 08 Nov 2022 22:31:13 +0000",
+         "title" : "Krykun's 1. e4 - complete repertoire for White"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8-lichessorg",
+         "pubDate" : "Tue, 08 Nov 2022 22:17:33 +0000",
+         "title" : "2022 Fall Chess Classic: Round 8 | lichess.org"
+      },
+      {
          "description" : "European Youth Chess Championship G14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Valeria Kleymenova, Maia Arzur, Yana Zhapova, Michelle Trunz, Narmin Abdinova, Anastasia Kirtadze, Sofiya Mullyaminova, Elif Zeren Yildiz, Nurtan Nuriyeva, Lucia Stoll, etc. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-g18-2022-live/",
          "pubDate" : "Tue, 08 Nov 2022 19:14:21 +0000",
          "title" : "European Youth Chess Championship G18 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship G18 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G18 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g18-2022-participants/",
-         "pubDate" : "Tue, 08 Nov 2022 19:07:03 +0000",
-         "title" : "European Youth Chess Championship G18 2022 participants"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4-lichessorg",
-         "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
-         "title" : "2022 Fall Chess Classic: Round 4 | lichess.org"
-      },
-      {
          "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -784,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-vs-gukesh-death-match-2-0",
          "pubDate" : "Thu, 03 Nov 2022 06:00:00 +0100",
          "title" : "Arjun vs Gukesh: Death Match 2.0"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-1",
-         "pubDate" : "Thu, 03 Nov 2022 01:13:48 +0000",
-         "title" : "2022 Fall Chess Classic: Round 1"
       },
       {
          "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
@@ -1442,14 +1450,6 @@ news_feed (
          "title" : "Michael Basman, 1946-2022"
       },
       {
-         "description" : "After the incident at the Sinquefield Cup, strict controls for technical aids are undertaken at the Fischer Random World Championship. But how well do these controls work? A journalist from the Norwegian TV station NRK tried it out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/are-the-security-measures-at-chess-tournaments-ineffective",
-         "pubDate" : "Fri, 28 Oct 2022 08:06:34 +0100",
-         "title" : "Are security measures at chess tournaments ineffective?"
-      },
-      {
          "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100m lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.com",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/paul-buswell-rip/",
          "pubDate" : "Wed, 19 Oct 2022 10:37:27 +0000",
          "title" : "Paul Buswell RIP"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/94956298.cms\" />India's challenge ended at the Aimchess Rapid online chess tournament with the trio of D Gukesh, Arjun Erigaisi and Vidit Santosh Gujrathi bowing out in the quarterfinals.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aimchess-rapid-indian-challenge-ends-in-quarterfinals/articleshow/94956298.cms",
-         "pubDate" : "Wed, 19 Oct 2022 04:22:36 +0000",
-         "title" : "Aimchess Rapid: Indian challenge ends in quarterfinals"
       }
    ]
 }
