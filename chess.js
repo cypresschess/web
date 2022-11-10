@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8",
+         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
+         "title" : "2022 Fall Chess Classic: Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman chats with Jacob Sanders after his draw with Kadric in the eighth round of the 2022 Fall Chess Classic. The draw secured Lenderman the top place in Group B. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-lenderman-2022-fall-classic-b-champion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5dHHqaGaABU.jpg?itok=E7",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-lenderman-2022-fall-classic-b-champion",
+         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
+         "title" : "Alex Lenderman: 2022 Fall Classic B Champion!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Hans Niemann chats with Jacob Sanders after his win over Nyzhnyk in the eighth round of the 2022 Fall Chess Classic. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-beats-nyzhnyk-draw-streak-broken\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/12nrdA6sj4Y.jpg?itok=vpTLV442\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-beats-nyzhnyk-draw-streak-broken",
+         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
+         "title" : "Hans Niemann Beats Nyzhnyk! Draw Streak Broken!"
+      },
+      {
          "description" : "European Youth Chess Championship G10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U12 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-4",
-         "pubDate" : "Sun, 06 Nov 2022 07:15:29 +0000",
-         "title" : "2022 Fall Chess Classic: Round 4"
-      },
-      {
          "description" : "GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for the top prize of $200,000, and the winner will be crowned the in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -512,14 +528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2081",
          "pubDate" : "Sat, 05 Nov 2022 20:20:14 +0000",
          "title" : "Lei Tingjie wins her spot in the Women's Candidates finals"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5-lichessorg",
-         "pubDate" : "Sat, 05 Nov 2022 19:15:24 +0000",
-         "title" : "2022 Fall Chess Classic: Round 5 | lichess.org"
       },
       {
          "description" : " Much of the last week, I was asked a specific question, how much theory should I study and how often should I put that theory into play (practice)? I was going to finish the game we've been analyzing this week but realized that this question might be on the minds of those reading this series <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\">A Foundation for Beginners Seventy Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
          "pubDate" : "Sat, 05 Nov 2022 08:50:00 +0100",
          "title" : "Women's Candidates: Games and commentary"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.04<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-3",
-         "pubDate" : "Sat, 05 Nov 2022 01:15:12 +0000",
-         "title" : "2022 Fall Chess Classic: Round 3"
       },
       {
          "description" : "GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the Chess.com Global Championship on Friday but were both held to 2-2 following some resolute defense by their opponent...",
@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2045",
          "pubDate" : "Thu, 20 Oct 2022 05:20:51 +0000",
          "title" : "Fabiano Caruana wins 2022 U.S. Championship"
-      },
-      {
-         "description" : " There is one round left to play in the 2022 Asian Seniors, but the event has been hit by a covid outbreak. Round 8 saw a number of games unplayed (won/lost on forfeit) and it is unclear who will make it for the final round. As things stand IM Gary Lane holds a one point lead with 7.5/8 in the Over 50 event. The only player who can catch him is FM Arlan Cabe, who is on 6.5. FM Alexei Kulashko is in 3rd place on 6 points, and is hoping to finish in the top 3 to collect his 4th (or 5th) IM norm. In the over 65 event FM Efrem Bagamasbad also holds a 1 point lead, on 7/8. Miles Patterson is a point behind on 6, with FM Bob Smith and Hilton Bennett on 5.5. There has been a draft set of pairings r",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/things-are-crook-in-tallarook.html",
-         "pubDate" : "Thu, 20 Oct 2022 04:00:00 +0000",
-         "title" : "Things are crook in Tallarook"
       }
    ]
 }
