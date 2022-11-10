@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris presents one of his own games - a painful loss he suffered against GM Hugo ten Hertog in the Two Knights Variation of the Caro-Kann. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-painful-loss",
+         "pubDate" : "Thu, 10 Nov 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A painful loss"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.1920.jpeg\" title=\"\"Old news\" is what Peter Svidler called his move to Israel. photo: Maria Emelianova / Chess.com\" data-title=\"\"Old news\" is what Peter Svidler called his move to Israel. (photo: Maria Emelianova / Chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.480.jpeg\" alt=\"\"Old news\" is what Peter Svidler called his move to Israel.\" srcset=\"https://www.chesstech.org/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/out-of-russia/",
+         "pubDate" : "Thu, 10 Nov 2022 17:31:18 +0100",
+         "title" : "Out of Russia"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cheating-at-chess-the-story-so-far/",
          "pubDate" : "Sat, 05 Nov 2022 11:23:51 +0000",
          "title" : " Cheating at chess: the story so far"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ilya Merenzon</strong>, the Berlin-based Russian-Israeli entrepreneur behind <strong>World Chess</strong>, <a href=\"https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/\">has hired</a> <strong>Novum Securities Limited</strong>, a UK brokerage, to help his company get listed on the <strong>London Stock Exchange</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/world-chess-seeks-stock-listing/",
-         "pubDate" : "Sat, 05 Nov 2022 12:03:57 +0100",
-         "title" : "World Chess seeks stock listing"
       },
       {
          "description" : "",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://www.thearticle.com/mind-games-and-memory-how-do-men-and-women-compare/",
          "pubDate" : "Sat, 29 Oct 2022 12:06:55 +0000",
          "title" : "Mind games and memory: how do men and women compare?"
-      },
-      {
-         "description" : "This month, I planned to write about chess composition in Japan, but it turned out that not much information was obtainable. The situation in Singapore is even worse regarding sources. So instead, in this month's column we have a small mix of shorter articles again. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-chess-composition-in-japan-and-singapore",
-         "pubDate" : "Sat, 29 Oct 2022 11:00:00 +0100",
-         "title" : "Study of the Month - Chess composition in Japan and Singapore"
       },
       {
          "description" : "Please find the live links for MPL National U-11 Open Category Girls Category ",
