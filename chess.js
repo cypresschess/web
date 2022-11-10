@@ -2008,14 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
          "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
          "title" : "Chess scandal: Niemann files $100m lawsuit"
-      },
-      {
-         "description" : " In what probably is the largest legal action in chess history, Hans Niemann <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.1.0.pdf\">filed a lawsuit</a> against Magnus Carlsen, Chess.com, Danny Rensch, and Hikaru Nakamura, seeking at least $100 million in damages. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/6C9AB70D-A3F3-4873-8AE9-7A60EEE46153.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann</div> </div> According to the filing, \"&hellip;the falsity of Defendants' accusations, Defendants' malicious defamation and unlawful collusion has, by design, destroyed Niemann's remar",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/niemann-sues-carlsen-and-chess-com-for-defamation-asks-for-100-m/",
-         "pubDate" : "Thu, 20 Oct 2022 20:45:46 +0000",
-         "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
       }
    ]
 }
