@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European Youth Chess Championship G10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U12 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g10-2022-participants/",
+         "pubDate" : "Wed, 09 Nov 2022 23:59:24 +0000",
+         "title" : "European Youth Chess Championship G10 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship G10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Marianta Lampou, Leyla Mirzaliyeva, Sara Maria Sunea, Maria Oksanen, Kristina Zavivaeva, Senem Gul Bassari, Alicia Kovalskyy, Arina Berezovskaya, Blanka Ejsymont, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-g10-2022-live/",
+         "pubDate" : "Wed, 09 Nov 2022 23:52:28 +0000",
+         "title" : "European Youth Chess Championship G10 2022 LIVE"
+      },
+      {
+         "description" : "European Youth Chess Championship U10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u10-2022-participants/",
+         "pubDate" : "Wed, 09 Nov 2022 23:46:47 +0000",
+         "title" : "European Youth Chess Championship U10 2022 participants"
+      },
+      {
+         "description" : "European Youth Chess Championship U10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Gorkem Unsal, Khoi Nguyen, Ozgur Toprak Kurt, Baver Yilmaz, Adam Gibala, Kemal Cagan Develi, Maksym Faryma, Martin Policar, Gabriel Gabadadze, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-championship-u10-2022-live/",
+         "pubDate" : "Wed, 09 Nov 2022 23:40:38 +0000",
+         "title" : "European Youth Chess Championship U10 2022 LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-9-lichessorg",
+         "pubDate" : "Wed, 09 Nov 2022 22:18:51 +0000",
+         "title" : "2022 Fall Chess Classic: Round 9 | lichess.org"
+      },
+      {
          "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,38 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-g14-2022-live/",
          "pubDate" : "Tue, 08 Nov 2022 19:51:55 +0000",
          "title" : "European Youth Chess Championship G14 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship G14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G14 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g14-2022-participants/",
-         "pubDate" : "Tue, 08 Nov 2022 19:47:51 +0000",
-         "title" : "European Youth Chess Championship G14 2022 participants"
-      },
-      {
-         "description" : "European Youth Chess Championship U14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Ediz Gurel, Jakub Seemann, Hasan Huseyin Celik, Vladimir-Alexandru Cnejev, Arthur De Winter, Matic Lavrencic, Filip Magold, Magnus Ermitsch, Roy Vagman, Can Durak, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u14-2022-live/",
-         "pubDate" : "Tue, 08 Nov 2022 19:43:38 +0000",
-         "title" : "European Youth Chess Championship U14 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship U14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U14 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u14-2022-participants/",
-         "pubDate" : "Tue, 08 Nov 2022 19:38:26 +0000",
-         "title" : "European Youth Chess Championship U14 2022 participants"
-      },
-      {
-         "description" : "European Youth Chess Championship G16 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Olga Dm. Karmanova, Mariia Manko, Manon Schippke, Vesna Mihelic, Kata Karacsonyi, Alexandra Shvedova, Alexia-Teodora Puia, Zumra Meryem Alagoz, Alina Kalenichenko, Gulenay Aydin, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g16-2022-live/",
-         "pubDate" : "Tue, 08 Nov 2022 19:34:18 +0000",
-         "title" : "European Youth Chess Championship G16 2022 LIVE"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/priyanka-nutakki-qualifies-for-fide-world-cup/articleshow/95291324.cms",
          "pubDate" : "Fri, 04 Nov 2022 04:33:33 +0000",
          "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.02<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-2",
-         "pubDate" : "Fri, 04 Nov 2022 01:14:13 +0000",
-         "title" : "2022 Fall Chess Classic: Round 2"
       },
       {
          "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
