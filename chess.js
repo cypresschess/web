@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Surya Ganguly, the experienced GM from West Bengal, won the Bangkok Chess Club Open 2022 with a score of 7&frac12;/9 ahead of strong players like Aryan Tari, Hrant Melkumyan and Nigel Short. IM Sagar Shah conducted an interview with the Bengal tiger, where they talk about Surya's whole experience in the tournament, the beautiful moments with her daughter Arya (pictured), and his passion for wildlife!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-interview-bangkok-2022",
+         "pubDate" : "Thu, 10 Nov 2022 09:07:57 +0100",
+         "title" : "Sagar Shah interviews Surya Ganguly, winner of the Bangkok Open"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1434,14 +1442,6 @@ news_feed (
          "title" : "Oops!"
       },
       {
-         "description" : "Once more both the Muzychuk sisters tried their best to break through to match equality, and once more the games ended in draws. Still, there was a lot more to the story than the game result. Ana Muzychuk and Humpy Koneru followed the tense Sevian-Niemann game for 18 moves, while Mariya Muzychuk came 'oh, so close!' to sealing a dramatic win over Lei Tingjie. Read the tale of the tape. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-mariya-misses-her-chance",
-         "pubDate" : "Sat, 29 Oct 2022 03:55:00 +0100",
-         "title" : "Women's Candidates: Mariya misses her chance"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -2000,14 +2000,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/niemann-sues-carlsen-and-chess-com-for-defamation-asks-for-100-m/",
          "pubDate" : "Thu, 20 Oct 2022 20:45:46 +0000",
          "title" : "Niemann Sues Carlsen and Chess.com for Defamation, Asks for $100m in Damages"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2045",
-         "pubDate" : "Thu, 20 Oct 2022 05:20:51 +0000",
-         "title" : "Fabiano Caruana wins 2022 U.S. Championship"
       }
    ]
 }
