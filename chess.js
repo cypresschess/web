@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German national correspondence chess team wins the gold medal at the 21st Correspondence Chess Olympiad, ahead of the USA, Luxembourg and Ukraine. The best German player was Roland del Rio with 7.5/12 (three wins, nine draws). | Photo: Team Germany: Matthias Kribben, Stephan Busemann, Hans-Dieter Wunderlich, Robert Bauer, Robert von Weizs&auml;cker and Roland del Rio (Photo: Matthias Kribben)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/germany-wins-21-correspondence-chess-olympiad",
+         "pubDate" : "Thu, 10 Nov 2022 13:00:00 +0100",
+         "title" : "Germany wins 21. Correspondence Chess Olympiad"
+      },
+      {
          "description" : "Surya Ganguly, the experienced GM from West Bengal, won the Bangkok Chess Club Open 2022 with a score of 7&frac12;/9 ahead of strong players like Aryan Tari, Hrant Melkumyan and Nigel Short. IM Sagar Shah conducted an interview with the Bengal tiger, where they talk about Surya's whole experience in the tournament, the beautiful moments with her daughter Arya (pictured), and his passion for wildlife!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,6 +232,14 @@ news_feed (
          "link" : "https://chessimprover.com/quick-decisions-10/",
          "pubDate" : "Tue, 08 Nov 2022 18:17:42 +0000",
          "title" : "Quick Decisions (10)"
+      },
+      {
+         "description" : "In a post that was titled <A HREF=\"http://chessforallages.blogspot.com/2016/11/election-special.html\">Election Special</A>(November 2016), but should have been titled 'Election Special 2016', I wrote, <BLOCKQUOTE>With the USA voting today, it seems that everywhere I look someone is running an 'election special'. Why shouldn't I? </BLOCKQUOTE> <P>That was six years ago, when my special was a 'Google Image search on \"chess hillary trump\"'. I neglected to do similar two years ago, but the search I would have used then still works on today's election day in the USA. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk08.jpg\" WIDTH=400 HEIGHT=175><BR><B>Google Image search on 'chess t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/election-special-2022.html",
+         "pubDate" : "Tue, 08 Nov 2022 16:04:00 +0000",
+         "title" : "Election Special 2022"
       },
       {
          "description" : "Last Thursday, the new season of the Austrian League started. Top favourite is the team of ASV Linz with Maxime Vachier-Lagrave on board one. However, the star-studded team had a somewhat rocky start and drew two of their first four matches, and now share third and fourth place. With three wins and one draw the teams of Jenbach and Ottakring share the lead. | Photo: Matthias Bl&uuml;baum (left) plays against Markus Ragger | Photos: Knapp/Theny (Austrian Chess Federation)",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-mpl-national-u-11/",
          "pubDate" : "Sat, 29 Oct 2022 09:44:19 +0000",
          "title" : "LIVE GAMES :MPL National U-11"
-      },
-      {
-         "description" : "In the game Jonny Hector and Jonathan Westerberg played at the Swedish Championship 2022 in Uppsala, both sides had been moving back and forth until they reached the diagram position. However, White now continued his waiting strategy for too long and played 36.Kf2? How can Black use this golden opportunity?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oops",
-         "pubDate" : "Sat, 29 Oct 2022 09:00:00 +0100",
-         "title" : "Oops!"
       },
       {
          "description" : "",
