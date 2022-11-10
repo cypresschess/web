@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Final stage of the Italian Championship is a 12-player round-robin tournament, held from November 12th to 23rd in Cagliari, Italy. Time control is 100 minutes for 40 moves followed by 50 minutes for 20 moves and then by 15 minutes for the rest of the game, with a 30-seconds increment starting from move one. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italian-championship-2022-participants/",
+         "pubDate" : "Thu, 10 Nov 2022 23:44:50 +0000",
+         "title" : "Italian Championship 2022 participants"
+      },
+      {
+         "description" : "New York Fall Invitational IM (C) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Nasyr Akylbekov, Nikoloz Managadze, Gabriela Antova, Nikolai Andrianov, Tejas Rama, Justin Lee, David Berczes, Andrea La Manna, Bryan Xie, Nathaniel Philip Moor. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-fall-invitational-im-c-2022-live/",
+         "pubDate" : "Thu, 10 Nov 2022 22:58:31 +0000",
+         "title" : "New York Fall Invitational IM (C) 2022 LIVE"
+      },
+      {
+         "description" : "New York Fall Invitational GM (B) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Mark Paragua, Farai Mandizha, Zurab Javakhadze, Josiah Stearman, Tanitoluwa Adewumi, Djurabek Khamrakulov, Nicholas Vettese, Aaron Jacobson, Leonid Yudasin, Shelev Oberoi. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-fall-invitational-gm-b-2022-live/",
+         "pubDate" : "Thu, 10 Nov 2022 22:53:18 +0000",
+         "title" : "New York Fall Invitational GM (B) 2022 LIVE"
+      },
+      {
+         "description" : "Which positions arose in Fischer Random games, which from classical chess games? This is what Arno Nickel asks, and in his essay he takes an in-depth look at Fischer Random Chess. His proposal: give players at tournaments the option of playing either classical or Fischer Random!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/classical-chess-fischer-random-both",
+         "pubDate" : "Thu, 10 Nov 2022 23:50:00 +0100",
+         "title" : "Classical chess or Fischer Random? Or both?"
+      },
+      {
+         "description" : "New York Fall Invitational GM (A) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Kassa Korley, Nico Chasin, Justus Williams, Titas Stremavicius, Alexander Kaliksteyn, Robby Kevlishvili, Gabor Nagy, Jagadeesh Siddharth, Aleksandr Ostrovskiy, Pedro Alejandro Jimenez Fraga. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-fall-invitational-gm-a-2022-live/",
+         "pubDate" : "Thu, 10 Nov 2022 22:46:44 +0000",
+         "title" : "New York Fall Invitational GM (A) 2022 LIVE"
+      },
+      {
+         "description" : "Next Wednesday, 15 November, the first round of the FIDE World Senior Chess Championships will be played at the Hotel Cenacolo in Assisi in Italy. Dr. John Nunn is top seed in the age group 65+, Zurab Sturua is favourite in the 50+ group. | Photo: Google Maps",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-chess-championships-in-assisi",
+         "pubDate" : "Thu, 10 Nov 2022 22:04:53 +0100",
+         "title" : "World Senior Chess Championships in Assisi"
+      },
+      {
          "description" : "This week Robert Ris presents one of his own games - a painful loss he suffered against GM Hugo ten Hertog in the Two Knights Variation of the Caro-Kann. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,22 +186,6 @@ news_feed (
          "title" : "European Youth Chess Championship G12 2022 participants"
       },
       {
-         "description" : "European Youth Chess Championship U12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Nikolay Averin, Khagan Ahmad, Lukas Dotzer, Borys Witczak, Felix Borne, Elias Ruzhansky, Pawel Sowinski, Alex Villa Tornero, Stanislav Bukreev, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u12-2022-live/",
-         "pubDate" : "Wed, 09 Nov 2022 14:37:05 +0000",
-         "title" : "European Youth Chess Championship U12 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship U12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u12-2022-participants/",
-         "pubDate" : "Wed, 09 Nov 2022 14:30:56 +0000",
-         "title" : "European Youth Chess Championship U12 2022 participants"
-      },
-      {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -226,28 +258,12 @@ news_feed (
          "title" : "Fall Chess Classic: Yu Yangyi leads with two rounds to go"
       },
       {
-         "description" : "Understand and conquer the Sicilian, French, and Caro-Kann with Part 2 of Lifetime Repertoires: 1.e4 by International Master Yuriy Krykun. After dismantling 1.e4 e5 and those tricky sidelines in Krykun's 1. e4 Part 1, he&#x2019;s back to show you how to outplay the big guns in Part 2, giving you a complete repertoire for White []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/krykuns-1-e4-complete-repertoire-for-white/",
-         "pubDate" : "Tue, 08 Nov 2022 22:31:13 +0000",
-         "title" : "Krykun's 1. e4 - complete repertoire for White"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8-lichessorg",
          "pubDate" : "Tue, 08 Nov 2022 22:17:33 +0000",
          "title" : "2022 Fall Chess Classic: Round 8 | lichess.org"
-      },
-      {
-         "description" : "European Youth Chess Championship G14 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Valeria Kleymenova, Maia Arzur, Yana Zhapova, Michelle Trunz, Narmin Abdinova, Anastasia Kirtadze, Sofiya Mullyaminova, Elif Zeren Yildiz, Nurtan Nuriyeva, Lucia Stoll, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g14-2022-live/",
-         "pubDate" : "Tue, 08 Nov 2022 19:51:55 +0000",
-         "title" : "European Youth Chess Championship G14 2022 LIVE"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1386,28 +1402,12 @@ news_feed (
          "title" : "Lilit Mkrtchian (4) - How to prepare against a well-known, stronger opponent?"
       },
       {
-         "description" : "In the semi-finals of the Fischer Random World Championship in Reykjavik Hikaru Nakamura (pictured) came to a clear win against Nodirbek Abdusattorov: Nakamura won 3-0 and will face Ian Nepomniachtchi in the final. Nepomniachtchi lost the first game in his match against Magnus Carlsen but then hit back: He won all of the remaining three games to win the match 3-1. So the final on Sunday (16.00 CET, 11.00 ET, 15.00 GMT) is now \"Naka against Nepo\". | Photos: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fischer-random-world-championship-nakamura-and-nepomniachtchi-advance-to-the-final",
-         "pubDate" : "Sun, 30 Oct 2022 12:01:32 +0100",
-         "title" : "Fischer Random World Championship: Nakamura and Nepomniachtchi advance to the final"
-      },
-      {
          "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
          "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
          "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
-         "description" : "The Petroff has never had a reputation for decisive games, so deliberately entering into one in a must-win situation would seem not a little mad, yet for Ana Muzychuk at least her persistence paid off when she broke her higher rated opponent's resistance with a brilliant exchange sacrifice. Here sister was not so fortunate and Lei Tingjie won their match. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-Muzychuk-and-Koneru-go-to-tiebreaks",
-         "pubDate" : "Sun, 30 Oct 2022 07:42:36 +0100",
-         "title" : "Women's Candidates: Muzychuk and Koneru go to tiebreaks"
       },
       {
          "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
@@ -1992,22 +1992,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors-early-results.html",
          "pubDate" : "Thu, 20 Oct 2022 23:59:00 +0000",
          "title" : "2022 Asian Seniors - Early results"
-      },
-      {
-         "description" : " Over the past month, the chess world has been turned upside down and inside-out with the cheating controversy surrounding world champion Magnus Carlsen and Grandmaster Hans Niemann. The Chess Drum has closely followed the drama on all media social platforms including Reddit and Twitter, where information is able to reach a viral effect. Looking back The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/\">The Anatomy of Carlsen-Niemann cheating controversy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/10/20/the-anatomy-of-carlsen-niemann-cheating-controversy/",
-         "pubDate" : "Thu, 20 Oct 2022 23:46:21 +0000",
-         "title" : "The Anatomy of Carlsen-Niemann cheating controversy"
-      },
-      {
-         "description" : "American chess grandmaster Hans Niemann, who found himself at the center of a bombshell cheating scandal last month when world No. 1 Magnus Carlsen accused him of cheating, has filed a federal lawsuit against Carlsen, Chess.com and others.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/34840275/hans-niemann-files-100-million-lawsuit-magnus-carlsen?device=featurephone",
-         "pubDate" : "Thu, 20 Oct 2022 16:56:05 -0500",
-         "title" : "Chess scandal: Niemann files $100m lawsuit"
       }
    ]
 }
