@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2083",
+         "pubDate" : "Thu, 10 Nov 2022 14:20:01 +0000",
+         "title" : "Resolution on transfer regulations approved by FIDE Council"
+      },
+      {
          "description" : "The German national correspondence chess team wins the gold medal at the 21st Correspondence Chess Olympiad, ahead of the USA, Luxembourg and Ukraine. The best German player was Roland del Rio with 7.5/12 (three wins, nine draws). | Photo: Team Germany: Matthias Kribben, Stephan Busemann, Hans-Dieter Wunderlich, Robert Bauer, Robert von Weizs&auml;cker and Roland del Rio (Photo: Matthias Kribben)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
