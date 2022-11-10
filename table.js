@@ -1,5 +1,6 @@
 jtable([
 "PEARLAND","2022-11-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202211088792 target='_blank'>RCC QUADS NOVEMBER 8, 2022</a>",
+"HOUSTON","2022-11-06","9","<a href=http://www.uschess.org/msa/XtblMain.php?202211067822 target='_blank'>NOVEMBER 6 SUNDAY SWISS</a>",
 "HOUSTON","2022-11-05","43","<a href=http://www.uschess.org/msa/XtblMain.php?202211057552 target='_blank'>PISD NOV 2022- NOVEMBER 2022 HS</a>",
 "LEAGUE CITY","2022-11-05","141","<a href=http://www.uschess.org/msa/XtblMain.php?202211057262 target='_blank'>HYDE ELEMENTARY SCHOOL CHESS TOURNA</a>",
 "HOUSTON","2022-11-05","34","<a href=http://www.uschess.org/msa/XtblMain.php?202211057062 target='_blank'>PISD NOV 2022- NOV 2022 INTERMEDIAT</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-03-04","9","<a href=http://www.uschess.org/msa/XtblMain.php?202203048192 target='_blank'>F7  SCHOLASTIC BLITZ WARMUP TOURNAM</a>",
 "SUGAR LAND","2022-03-04","11","<a href=http://www.uschess.org/msa/XtblMain.php?202203048182 target='_blank'>FBCC 2022 IN LIKE A LION OPEN</a>",
 "CYPRESS","2022-03-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202203048112 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-02-27","14","<a href=http://www.uschess.org/msa/XtblMain.php?202202276032 target='_blank'>HOUSTON FEB 27 SUNDAY SWISS</a>",
 ]);
