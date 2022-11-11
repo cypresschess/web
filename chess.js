@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The London teenager has a chance to become the youngest English player ever to score a grandmaster result Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five games, the last two against highly rated GMs, before drawing quickly by repeated moves in Thursday's sixth round against Azerbaijan's Eltaj Safarli, the 2616-rated No 4 seed in the giant 530-player tournament. The Greenwich teenager's fourth- and fifth-round victories were both impressive. In round four he <a href=\"https://chess24.com/en/watch/live-tournaments/offene-bayerische-meisterschaft-2022/4/1/3\" title=\"\">defeated GM Bobby Ch",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/nov/11/chess-shreyas-royal-13-leads-bavarian-open-with-56-as-records-beckon",
+         "pubDate" : "Fri, 11 Nov 2022 08:00:08 +0000",
+         "title" : "Chess: Shreyas Royal, 13, leads Bavarian Open as records beckon"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://aicf.in/round-9-report-world-junior-chess-championship-2022/",
          "pubDate" : "Fri, 21 Oct 2022 10:11:23 +0000",
          "title" : "ROUND 9 REPORT World Junior Chess Championship 2022"
-      },
-      {
-         "description" : " The 19-year-old, who has denied all cheating allegations made by the world champion, is to sue Carlsen as well as chess.com, Hikaru Nakamura and others the day after fighting back to almost win a medal at the US Championship Hans Niemann, the 19-year-old accused by the world champion, Magnus Carlsen, of being a cheat, made an impressive recovery in the second half of the US championship in St Louis. After that, his next move was in the Eastern Missouri District Court, seeking $100m in damages from Carlsen, the chess.com website, the streamer Hikaru Nakamura and others, alleging that they are \"colluding to blacklist\" him from major events, including the \"chess Wimbledon\" at Wijk aan Zee in t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
-         "pubDate" : "Fri, 21 Oct 2022 07:00:17 +0000",
-         "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
       }
    ]
 }
