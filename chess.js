@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Chess.com Speed Chess Championship commenced on Thursday with a cutthroat qualifier where GM David Paravyan emerged victorious after defeating GM Tuan Minh Le in a dazzling armageddon tiebreaker. Amidst a field of 142 titled players, Mi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paravyan-wins-2022-speed-chess-championship-qualifier-1",
+         "pubDate" : "Fri, 11 Nov 2022 11:22:11 -0800",
+         "title" : "Unstoppable Paravyan Qualifies For SCC Main Event"
+      },
+      {
+         "description" : "New York Fall Invitational IM (D) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Mike Zaloznyy, Chawit Asavasaetakul, Mykola Bortnyk, Attila Istvan Csonka, Konstantin Dolgitser, Kyron Griffith, Ryan Goldenberg, Jiangwei Yu, Danila Poliannikov, Zachary Tanenbaum. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-fall-invitational-im-d-2022-live/",
+         "pubDate" : "Fri, 11 Nov 2022 17:57:38 +0000",
+         "title" : "New York Fall Invitational IM (D) 2022 LIVE"
+      },
+      {
+         "description" : "This week, Daniel King looks at recent examples of brilliant defence using stalemate - a creative way and often surprising way to defend. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-best-rule-in-chess",
+         "pubDate" : "Fri, 11 Nov 2022 18:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: The best rule in chess"
+      },
+      {
          "description" : "&#8212; from Brendan O'Gorman I'm sad to report that Alan Fraser died on 2 November. A member of Beckenham and Bromley chess club, Alan only...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-championship-g12-2022-live/",
          "pubDate" : "Wed, 09 Nov 2022 14:46:58 +0000",
          "title" : "European Youth Chess Championship G12 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship G12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in G12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g12-2022-participants/",
-         "pubDate" : "Wed, 09 Nov 2022 14:42:04 +0000",
-         "title" : "European Youth Chess Championship G12 2022 participants"
       },
       {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
@@ -1418,14 +1434,6 @@ news_feed (
          "title" : "Winners crowned at 2022 FIDE World Amateur Chess Championship"
       },
       {
-         "description" : "The FIDE World Fischer Random Chess Championship is back with its second edition. The over-the-board final is taking place at the Berjaya Natura Hotel in Reykjavik, Iceland, on 25-30 October. On Sunday, Hikaru Nakamura and Ian Nepomniachtchi will play the final for the title of Fischer Random World Champion 2022. | Follow the games live with expert commentary starting at 16.00 CET (11.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
-         "pubDate" : "Sun, 30 Oct 2022 15:45:00 +0100",
-         "title" : "Fischer Random World Championship Finals: Live"
-      },
-      {
          "description" : "Ian Nepomniachtchi bounced back from losing the first semi-final game to Magnus Carlsen to win the next three and reach the Fischer Random World Championship final. His opponent will be Hikaru Nakamura, who was in devastating form as he completed a 3:0 whitewash of Nodirbek Abdusattorov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/women-s-candidates-starts-with-a-bang",
          "pubDate" : "Wed, 26 Oct 2022 17:35:27 +0000",
          "title" : "Women's Candidates starts with a bang"
-      },
-      {
-         "description" : "GM Sam Shankland began Titled Tuesday with a 9/9 score before winning the early event with a score of 10/11. In the late event, a six-way tie for first place on nine points was not completely broken, leaving GMs Alexey Sarana and Bogdan-Daniel Dea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shankland-sarana-deac-win-titled-tuesday-october-25-2022",
-         "pubDate" : "Wed, 26 Oct 2022 08:09:04 -0700",
-         "title" : "Another Perfect Start Precedes Rare Tie"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95104273.cms\" />The All India Chess Federation (AICF) has claimed that records pertaining to a Right to Information (RTI) Act query by a player were destroyed by pests at its headquarters, leading to a rebuke from the Central Information Commission.",
