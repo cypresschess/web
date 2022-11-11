@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#8212; from Brendan O'Gorman I'm sad to report that Alan Fraser died on 2 November. A member of Beckenham and Bromley chess club, Alan only...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/alan-fraser-rip/",
+         "pubDate" : "Fri, 11 Nov 2022 14:05:30 +0000",
+         "title" : "Alan Fraser RIP"
+      },
+      {
          "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. Huge portion of blunders can be avoided by a little discipline and a few simple tricks.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1992,22 +2000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2046",
          "pubDate" : "Fri, 21 Oct 2022 21:58:02 +0000",
          "title" : "Jan-Krzysztof Duda reigns supreme in Aimchess Rapid"
-      },
-      {
-         "description" : "Cover, <I>Europe Echecs</I>, December 1992:- <H4><CENTER>Fischer - Spassky :<BR>ouf, c'est fini! </CENTER></H4> <P>In the following scan I've enlargened the text on a portion of the cover, with the top line of the original text still visible on the right. On the left are a couple of partially hidden headlines. <P>The first headline said some guy named Adams won some tournament called Tilburg. The second headline said some guy named Kasparov won some tournament called Troph&eacute;e Immopar over some other guy named Anand. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mj21.jpg\" WIDTH=285 HEIGHT=400> <P>My French - English dictionary says 'ouf' means 'phew', and I know enough F",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/people-said-ouf.html",
-         "pubDate" : "Fri, 21 Oct 2022 14:35:00 +0000",
-         "title" : "People Said, 'Ouf!'"
-      },
-      {
-         "description" : "Hans Niemann filed a federal lawsuit against Magnus Carlsen, Chess.com and others after being accused of cheating.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
-         "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
-         "title" : "Why was Magnus Carlsen sued for $100 million?"
       }
    ]
 }
