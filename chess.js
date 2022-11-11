@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. Huge portion of blunders can be avoided by a little discipline and a few simple tricks.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-15-how-to-avoid-blunders-part-1",
+         "pubDate" : "Fri, 11 Nov 2022 14:00:00 +0100",
+         "title" : "The Winning Academy 15: How to avoid blunders (part 1)"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "New York Fall Invitational GM (A) 2022 LIVE"
       },
       {
-         "description" : "Next Wednesday, 15 November, the first round of the FIDE World Senior Chess Championships will be played at the Hotel Cenacolo in Assisi in Italy. Dr. John Nunn is top seed in the age group 65+, Zurab Sturua is favourite in the 50+ group. | Photo: Google Maps",
+         "description" : "Next Tuesday, 15 November, the first round of the FIDE World Senior Chess Championships will be played at the Hotel Cenacolo in Assisi in Italy. Dr. John Nunn is top seed in the age group 65+, Zurab Sturua is favourite in the 50+ group. | Photo: Google Maps",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-senior-chess-championships-in-assisi",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-fischer-random-ch-2022-live",
          "pubDate" : "Sun, 30 Oct 2022 15:45:00 +0100",
          "title" : "Fischer Random World Championship Finals: Live"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 97th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-96-queen-s-gambit-declined-3",
-         "pubDate" : "Sun, 30 Oct 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 97: Queen's Gambit Declined (3)"
       },
       {
          "description" : "Ian Nepomniachtchi bounced back from losing the first semi-final game to Magnus Carlsen to win the next three and reach the Fischer Random World Championship final. His opponent will be Hikaru Nakamura, who was in devastating form as he completed a 3:0 whitewash of Nodirbek Abdusattorov.",
