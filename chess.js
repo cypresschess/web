@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2084",
+         "pubDate" : "Fri, 11 Nov 2022 11:44:00 +0000",
+         "title" : "Chinese Championship 2022: Dai Changren and Tan Zhongyi win titles"
+      },
+      {
+         "description" : "Five rounds have been already played at the 2022 European Youth Chess Championship in Antalya, Turkey. Many sections got the emerges sole leaders, but four rounds left to be played before the announcement of the Winners. Shogdzhiev Roman Sav (FIDE) is the sole leader of the U8 Open category scoring perfect 5/5 points, and Kokareva Sofya (FIDE) and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-round-5-report/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-round-5-report/",
+         "pubDate" : "Fri, 11 Nov 2022 11:01:55 +0000",
+         "title" : "European Youth Chess Championship 2022 - Round 5 report"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.1920.jpeg\" title=\"\"Old news\" is what Peter Svidler called his move to Israel. photo: Maria Emelianova / Chess.com\" data-title=\"\"Old news\" is what Peter Svidler called his move to Israel. (photo: Maria Emelianova / Chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.480.jpeg\" alt=\"\"Old news\" is what Peter Svidler called his move to Israel.\" srcset=\"https://www.chesstech.org/files/s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/out-of-russia/",
+         "pubDate" : "Fri, 11 Nov 2022 11:13:02 +0100",
+         "title" : "Out of Russia"
+      },
+      {
+         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
+         "pubDate" : "Fri, 11 Nov 2022 10:00:45 +0000",
+         "title" : "Rolling membership introduction"
+      },
+      {
+         "description" : "With an Elo rating of 2718, Yu Yangyi (pictured) was the top seed in the strong Fall Chess Classic in Saint Louis and he lived up to this role: with a convincing final-round win against Grigoriy Oparin he finished with 6.5 points from 9 games (+4, =5, -0) and secured sole first place. Vidit Gujrathi followed half a point behind with 6.0/9, third place went to Thai Dai Van Nguyen, who scored 5.5/9. Hans Niemann was fourth with 5.0/9. | Photo: Austin Fuller (Archive)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fall-chess-classic-yu-yangyi-wins-the-last-round-and-the-tournament",
+         "pubDate" : "Fri, 11 Nov 2022 10:33:56 +0100",
+         "title" : "Fall Chess Classic: Yu Yangyi wins the last round and the tournament"
+      },
+      {
+         "description" : "The Chessable ECF Grand Prix leaderboards are now available on the Grand Prix page here https://www.englishchess.org.uk/ecf-chessable-grand-prix/ The Grand Prix is a year-long individual competition...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessable-ecf-grand-prix-leaderboards-now-available-for-events-to-mid-october/",
+         "pubDate" : "Fri, 11 Nov 2022 09:20:56 +0000",
+         "title" : "Chessable ECF Grand Prix Leaderboards now available for events to mid-October"
+      },
+      {
+         "description" : "Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-leads-bavarian-open-from-leonard-barden/",
+         "pubDate" : "Fri, 11 Nov 2022 09:04:51 +0000",
+         "title" : "Shreyas Royal leads Bavarian Open - from Leonard Barden"
+      },
+      {
          "description" : " The London teenager has a chance to become the youngest English player ever to score a grandmaster result Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five games, the last two against highly rated GMs, before drawing quickly by repeated moves in Thursday's sixth round against Azerbaijan's Eltaj Safarli, the 2616-rated No 4 seed in the giant 530-player tournament. The Greenwich teenager's fourth- and fifth-round victories were both impressive. In round four he <a href=\"https://chess24.com/en/watch/live-tournaments/offene-bayerische-meisterschaft-2022/4/1/3\" title=\"\">defeated GM Bobby Ch",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -72,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-painful-loss",
          "pubDate" : "Thu, 10 Nov 2022 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A painful loss"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.1920.jpeg\" title=\"\"Old news\" is what Peter Svidler called his move to Israel. photo: Maria Emelianova / Chess.com\" data-title=\"\"Old news\" is what Peter Svidler called his move to Israel. (photo: Maria Emelianova / Chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.480.jpeg\" alt=\"\"Old news\" is what Peter Svidler called his move to Israel.\" srcset=\"https://www.chesstech.org/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/out-of-russia/",
-         "pubDate" : "Thu, 10 Nov 2022 17:31:18 +0100",
-         "title" : "Out of Russia"
       },
       {
          "description" : "",
@@ -1138,14 +1186,6 @@ news_feed (
          "title" : "Meltwater Champions Chess Tour Finals line-up announced"
       },
       {
-         "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
-         "pubDate" : "Tue, 01 Nov 2022 10:00:45 +0000",
-         "title" : "Rolling membership introduction"
-      },
-      {
          "description" : "The diagram shows a position which can often occur in rook endings. Both sides have passed pawns and it all seems to come down to a race between the passed pawns. However, in the diagram position White has a winning maneuver that one should know. How should White proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2069",
          "pubDate" : "Sun, 30 Oct 2022 12:13:29 +0000",
          "title" : "10th IBCA PanAmerican Games for Blind set new records"
-      },
-      {
-         "description" : "Have you ever faced an opponent, who you played against many times, and lost the majority of the games? Well, Lilit had to face the player who was the favourite to win the European Women's Championship - Nana Dzagnidze. But how do you prepare against a stronger opponent? Maybe surprise them? Play for a draw? Or something different? Lilit shares her approach with us.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-4",
-         "pubDate" : "Sun, 30 Oct 2022 13:00:00 +0100",
-         "title" : "Lilit Mkrtchian (4) - How to prepare against a well-known, stronger opponent?"
       },
       {
          "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
@@ -1976,14 +2008,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/34844408/why-was-magnus-carlsen-sued-100-million-hans-niemann-lawsuit-chess-cheating-scandal?device=featurephone",
          "pubDate" : "Fri, 21 Oct 2022 09:14:16 -0500",
          "title" : "Why was Magnus Carlsen sued for $100 million?"
-      },
-      {
-         "description" : "GM Mendonca Leon Luke played a brilliant attacking game in the queenless endgame arising from Slav defence to win against Georgian IM Petriashvili Nikoloz. With",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-9-report-world-junior-chess-championship-2022/",
-         "pubDate" : "Fri, 21 Oct 2022 10:11:23 +0000",
-         "title" : "ROUND 9 REPORT World Junior Chess Championship 2022"
       }
    ]
 }
