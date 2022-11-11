@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-9",
+         "pubDate" : "Fri, 11 Nov 2022 01:19:26 +0000",
+         "title" : "2022 Fall Chess Classic: Round 9"
+      },
+      {
          "description" : "The Final stage of the Italian Championship is a 12-player round-robin tournament, held from November 12th to 23rd in Cagliari, Italy. Time control is 100 minutes for 40 moves followed by 50 minutes for 20 moves and then by 15 minutes for the rest of the game, with a 30-seconds increment starting from move one. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5",
          "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
          "title" : "2022 Fall Chess Classic: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-6-lichessorg",
-         "pubDate" : "Sun, 06 Nov 2022 22:15:41 +0000",
-         "title" : "2022 Fall Chess Classic: Round 6 | lichess.org"
       },
       {
          "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
