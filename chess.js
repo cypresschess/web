@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/21/chess-niemann-sues-carlsen-and-others-for-100m-after-recovery-at-st-louis",
          "pubDate" : "Fri, 21 Oct 2022 07:00:17 +0000",
          "title" : "Chess: Niemann sues Carlsen and others for $100m after recovery at St Louis"
-      },
-      {
-         "description" : " While some games are still in progress, early results from the 2022 Asian Seniors have determined a lot of the top places. The over 50 event saw a number of quick draws on the top boards, leaving IM Gary Lane in outright first on 8/9. In 2nd place was FM Arlan Cabe (PHI) with 7, and FM Alexi Kulashko (NZL) in third place on 6. Both 2nd and third also earn IM norms, which might be enough for Kulashko to claim the title, as he had some previous norms for the New Zealand Championships. In the Over 65 event FM Efren Bagamasbad took a quick draw to secure first place on 7.5/9. Miles Patterson defeated David Lovejoy to finish outright 2nd on 7/9, while third place still depends on a couple of gam",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-asian-seniors-early-results.html",
-         "pubDate" : "Thu, 20 Oct 2022 23:59:00 +0000",
-         "title" : "2022 Asian Seniors - Early results"
       }
    ]
 }
