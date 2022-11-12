@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 11:46:13 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Team Championship 2022 will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-teams-compositions/",
+         "pubDate" : "Sat, 12 Nov 2022 11:40:06 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Teams compositions"
+      },
+      {
+         "description" : "Anatoly Karpov was the sixth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-anatoly-karpov",
+         "pubDate" : "Sat, 12 Nov 2022 12:00:00 +0100",
+         "title" : "Frederic's mates - How I met Anatoly Karpov"
+      },
+      {
+         "description" : "The 2022 Chinese Chess Championships took place from 2-11 November in Xinghua, Jiangsu province. Both Open and Women's tournaments were 12-player round robins with classical time control.&#xA0; IM Dai Changren was the sole winner of the Open tournament with 7/11 points, with GM Zhao Jun clinching silver with 6.5 points. GM Xu Xiangyu and GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-dai-changren-and-gm-tan-zhongyi-win-chinese-chess-championships-2022/",
+         "pubDate" : "Sat, 12 Nov 2022 10:53:00 +0000",
+         "title" : "IM Dai Changren and GM Tan Zhongyi win Chinese Chess Championships 2022"
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 10:12:00 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
+      },
+      {
+         "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/hilton-bennett-1955-2022.html",
+         "pubDate" : "Sat, 12 Nov 2022 09:59:00 +0000",
+         "title" : "Hilton Bennett (1955 - 2022)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2058",
+         "pubDate" : "Sat, 12 Nov 2022 08:00:49 +0000",
+         "title" : "FIDE World Team Championship: Lineups and group composition"
+      },
+      {
          "description" : "With Christmas just around the corner, the time has come to nominate some new chess books for chess enthusiasts. A real heavyweight is the latest Elk and Ruby disquisition on the inside stories of the Soviet Chess Imperium, Masterpieces and Dramas of the Soviet Championships Volume III (1948-1953), compiled by Sergey Voronkov. In the final []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-best-rule-in-chess",
          "pubDate" : "Fri, 11 Nov 2022 18:30:00 +0100",
          "title" : "Daniel King's Power Play Show: The best rule in chess"
+      },
+      {
+         "description" : "We're nearing the end of this blog's 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html\">Fashionable Fischer</A>(November 2022). This current post has nothing to do with Fischer's 1972 or 1992 matches, and takes its title from an old post <A HREF=\"http://chessforallages.blogspot.com/2012/05/korchnoi-busted.html\">Korchnoi Busted</A>(May 2012). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk11.jpg\" WIDTH=400 HEIGHT=300> <P>I found the photo on <A HREF=\"https://www.deviantart.com/florijanmedjugorje/art/Bobby-Fischer-166312639\">Bobby Fischer by florijanmedjugorje</A>(deviantart.com), and compressed its description ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/fischer-busted.html",
+         "pubDate" : "Fri, 11 Nov 2022 16:21:00 +0000",
+         "title" : "Fischer Busted"
       },
       {
          "description" : "&#8212; from Brendan O'Gorman I'm sad to report that Alan Fraser died on 2 November. A member of Beckenham and Bromley chess club, Alan only...",
@@ -242,30 +306,6 @@ news_feed (
          "title" : "European Youth Chess Championship G10 2022 participants"
       },
       {
-         "description" : "European Youth Chess Championship G10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Marianta Lampou, Leyla Mirzaliyeva, Sara Maria Sunea, Maria Oksanen, Kristina Zavivaeva, Senem Gul Bassari, Alicia Kovalskyy, Arina Berezovskaya, Blanka Ejsymont, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g10-2022-live/",
-         "pubDate" : "Wed, 09 Nov 2022 23:52:28 +0000",
-         "title" : "European Youth Chess Championship G10 2022 LIVE"
-      },
-      {
-         "description" : "European Youth Chess Championship U10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u10-2022-participants/",
-         "pubDate" : "Wed, 09 Nov 2022 23:46:47 +0000",
-         "title" : "European Youth Chess Championship U10 2022 participants"
-      },
-      {
-         "description" : "European Youth Chess Championship U10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Gorkem Unsal, Khoi Nguyen, Ozgur Toprak Kurt, Baver Yilmaz, Adam Gibala, Kemal Cagan Develi, Maksym Faryma, Martin Policar, Gabriel Gabadadze, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-u10-2022-live/",
-         "pubDate" : "Wed, 09 Nov 2022 23:40:38 +0000",
-         "title" : "European Youth Chess Championship U10 2022 LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-541-t-meurs-vs-k-lambrechts",
          "pubDate" : "Wed, 09 Nov 2022 18:40:18 +0100",
          "title" : "Game of the Week #541: T. Meurs vs K. Lambrechts"
-      },
-      {
-         "description" : "European Youth Chess Championship G12 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. It is a 9-round Swiss tournament with Veronika Iudina, Marija Kuznecova, Oksana Goriachkina, Diana Preobrazhenskaya, Kesaria Mgeladze, Or Shatil, Timea Haasova, Zumral Yazici, Lala Huseynova, etc &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g12-2022-live/",
-         "pubDate" : "Wed, 09 Nov 2022 14:46:58 +0000",
-         "title" : "European Youth Chess Championship G12 2022 LIVE"
       },
       {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
@@ -1370,14 +1402,6 @@ news_feed (
          "title" : "European Senior Teams Championships - reports from Nigel Povah"
       },
       {
-         "description" : "An Armageddon game decided the Fischer Random World Championship 2022. In the finals of the World Championship Hikaru Nakamura played against Ian Nepomniachtchi and after a 2-2 tie in the four games of the initial mini-match, an Armageddon game had to decide. Here, Nakamura won with White to become new Fischer Random World Champion. The placement matches all ended 3:1: Magnus Carlsen won against Nodirbek Abdusattorov and came third, Vladimir Fedoseev beat Wesley So and came fifth, Matthias Bl&uuml;baum made it to 7th place with his win against Hjorvar Steinn Gretarsson. | Foto: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hikaru-nakamura-is-fischer-random-world-champion",
-         "pubDate" : "Mon, 31 Oct 2022 11:15:21 +0100",
-         "title" : "Hikaru Nakamura is Fischer Random World Champion"
-      },
-      {
          "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1754,14 +1778,6 @@ news_feed (
          "title" : "Examples of Master Play"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2058",
-         "pubDate" : "Wed, 26 Oct 2022 11:26:49 +0000",
-         "title" : "FIDE World Teams squads announced for Jerusalem 2022"
-      },
-      {
          "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1976,14 +1992,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-chess-championship-2022",
          "pubDate" : "Sat, 22 Oct 2022 20:39:00 +0400",
          "title" : "US Chess Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "Although Magnus Carlsen remains by far the most dominant player on the international circuit, the World Champion is facing a crisis. Maybe this has been brought on by distractions over his imbroglio concerning alleged cheating, involving the American teenage grandmaster, Hans Niemann. (Niemann has now brought a $400 million lawsuit against his accusers, as this []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/carlsens-crisis/",
-         "pubDate" : "Sat, 22 Oct 2022 11:49:48 +0000",
-         "title" : "Carlsen's Crisis"
       }
    ]
 }
