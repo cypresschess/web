@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With Christmas just around the corner, the time has come to nominate some new chess books for chess enthusiasts. A real heavyweight is the latest Elk and Ruby disquisition on the inside stories of the Soviet Chess Imperium, Masterpieces and Dramas of the Soviet Championships Volume III (1948-1953), compiled by Sergey Voronkov. In the final []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-books-for-christmas-and-karpovs-enigma/",
+         "pubDate" : "Sat, 12 Nov 2022 08:00:32 +0000",
+         "title" : "Chess books for Christmas - and Karpov's enigma"
+      },
+      {
+         "description" : "In the diagram position, White missed the moment to turn the activity of his pieces into something tangible. Without time pressure and with the certainty that 'something is possible' - can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/while-the-iron-is-hot",
+         "pubDate" : "Sat, 12 Nov 2022 09:00:00 +0100",
+         "title" : "While the iron is hot..."
+      },
+      {
          "description" : "The 2022 Chess.com Speed Chess Championship commenced on Thursday with a cutthroat qualifier where GM David Paravyan emerged victorious after defeating GM Tuan Minh Le in a dazzling armageddon tiebreaker. Amidst a field of 142 titled players, Mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1370,14 +1386,6 @@ news_feed (
          "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
       },
       {
-         "description" : "It was a tiebreak that was worthy of the importance and drama that had led up to it. While Humpy Koneru and her fans will lament how it ended, the fact is the tiebreak was incredibly entertaining and had a bit of it all. Even the quiet start was crucial in setting up the very dramatic third and fourth games. Don't miss out on the report! | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-Ana-Muzychuk-wins-thrilling-tiebreak",
-         "pubDate" : "Mon, 31 Oct 2022 08:54:03 +0100",
-         "title" : "Women's Candidates: Anna Muzychuk wins thrilling tiebreak"
-      },
-      {
          "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1976,14 +1984,6 @@ news_feed (
          "link" : "https://www.thearticle.com/carlsens-crisis/",
          "pubDate" : "Sat, 22 Oct 2022 11:49:48 +0000",
          "title" : "Carlsen's Crisis"
-      },
-      {
-         "description" : "In the last version of Asian Youth Chess Championship, the Blitz Championship, India bagged 5 Gold, 2 Silver and a Bronze here today in Bali,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/indian-tops-the-individual-medal-tally-and-wins-the-first-runner-up-over-all-trophy/",
-         "pubDate" : "Sat, 22 Oct 2022 06:26:32 +0000",
-         "title" : "INDIAN TOPS THE INDIVIDUAL MEDAL TALLY AND WINS THE FIRST RUNNER-UP OVER ALL TROPHY"
       }
    ]
 }
