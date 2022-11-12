@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top division in Norwegian team league with Offerspill, V&#xE5;lerenga, Oslo SS, SK 1911, Nordstrand, Bergens, Hell, Troms&#xF8;, Stavanger and Asker. Watch Aryan Tari, Jon Ludvig Hammer and David Howell among others. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norwegian-team-league-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 20:02:34 +0000",
+         "title" : "Norwegian Team League 2022 LIVE"
+      },
+      {
+         "description" : "The Final stage of the Italian Championship is a 12-player round-robin tournament, held from November 12th to 23rd in Cagliari, Italy with Pier Luigi Basso, Luca Moroni, Alberto David, Alberto Barp, Giuseppe Lettieri, Valerio Carnicelli, Edoardo Di Benedetto, Lorenzo Lodici, Francesco Sonis, Sabino Brunello, Danyyil Dvinryy, Michele Godena. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italian-championship-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 19:42:40 +0000",
+         "title" : "Italian Championship 2022 LIVE"
+      },
+      {
+         "description" : "India has seen the rise of many fine chess players who have done exceedingly well in their junior years and have even become strong grandmasters, but have stumbled on their path towards becoming world class players. There was definitely something missing when it came to development of these talents. As on today, it is widely agreed in the chess world that India has the best crop of young talents with players like Gukesh, Arjun Erigaisi, Praggnanandhaa, Nihal Sarin, Raunak Sadhwani and many others. In order to ensure that their potential reaches the right destination, Vishy Anand decided to start off with the WestBridge Anand Chess Academy (WACA) in December 2020. How did it all begin? How do",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-vishy-anand-is-supporting-young-super-talents-of-india-through-waca",
+         "pubDate" : "Sat, 12 Nov 2022 19:00:00 +0100",
+         "title" : "How Vishy Anand is supporting young super talents of India through WACA"
+      },
+      {
+         "description" : "The final two rounds of the Swiss Nationalliga A take place from 12-13 November 2022 in Zurich, Switzerland with Christian Bauer, Martin Kraemer, Oliver Kurmann, Yannick Pelletier, Alexandra Kosteniuk, Fabian Baenziger, Valery Atlas, Lucas Brunner, Markus Ragger, Andreas Heimann, Nico Georgiadis, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-nationalliga-a-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 17:59:25 +0000",
+         "title" : "Swiss Nationalliga A 2022 LIVE"
+      },
+      {
+         "description" : "Women's Bundesliga round 3 and 4 is taking place from 12-13 November 2022 with SF Deizisau ( Hanna Marie Klek, Zoya Schleining, Dina Belenkaya, Jovana Rapport, Elena Koepke and Mara Jelica) , Medizin Erfurt ( Ha Thanh Nguyen, Elisa Reuter, Kristin Mueller-Ludwig, Doreen Troyke, Carolin Umpfenbach, Helena Irene Ulrich) , OSG Baden-Baden ( Zhansaya []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-bundesliga-2022-live/",
+         "pubDate" : "Sat, 12 Nov 2022 17:51:44 +0000",
+         "title" : "Women's Bundesliga 2022 LIVE"
+      },
+      {
          "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool will []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -202,36 +242,12 @@ news_feed (
          "title" : "Italian Championship 2022 participants"
       },
       {
-         "description" : "New York Fall Invitational IM (C) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Nasyr Akylbekov, Nikoloz Managadze, Gabriela Antova, Nikolai Andrianov, Tejas Rama, Justin Lee, David Berczes, Andrea La Manna, Bryan Xie, Nathaniel Philip Moor. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-fall-invitational-im-c-2022-live/",
-         "pubDate" : "Thu, 10 Nov 2022 22:58:31 +0000",
-         "title" : "New York Fall Invitational IM (C) 2022 LIVE"
-      },
-      {
-         "description" : "New York Fall Invitational GM (B) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Mark Paragua, Farai Mandizha, Zurab Javakhadze, Josiah Stearman, Tanitoluwa Adewumi, Djurabek Khamrakulov, Nicholas Vettese, Aaron Jacobson, Leonid Yudasin, Shelev Oberoi. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-fall-invitational-gm-b-2022-live/",
-         "pubDate" : "Thu, 10 Nov 2022 22:53:18 +0000",
-         "title" : "New York Fall Invitational GM (B) 2022 LIVE"
-      },
-      {
          "description" : "Which positions arose in Fischer Random games, which from classical chess games? This is what Arno Nickel asks, and in his essay he takes an in-depth look at Fischer Random Chess. His proposal: give players at tournaments the option of playing either classical or Fischer Random!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/classical-chess-fischer-random-both",
          "pubDate" : "Thu, 10 Nov 2022 23:50:00 +0100",
          "title" : "Classical chess or Fischer Random? Or both?"
-      },
-      {
-         "description" : "New York Fall Invitational GM (A) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Kassa Korley, Nico Chasin, Justus Williams, Titas Stremavicius, Alexander Kaliksteyn, Robby Kevlishvili, Gabor Nagy, Jagadeesh Siddharth, Aleksandr Ostrovskiy, Pedro Alejandro Jimenez Fraga. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-fall-invitational-gm-a-2022-live/",
-         "pubDate" : "Thu, 10 Nov 2022 22:46:44 +0000",
-         "title" : "New York Fall Invitational GM (A) 2022 LIVE"
       },
       {
          "description" : "Next Tuesday, 15 November, the first round of the FIDE World Senior Chess Championships will be played at the Hotel Cenacolo in Assisi in Italy. Dr. John Nunn is top seed in the age group 65+, Zurab Sturua is favourite in the 50+ group. | Photo: Google Maps",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-beats-nyzhnyk-draw-streak-broken",
          "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
          "title" : "Hans Niemann Beats Nyzhnyk! Draw Streak Broken!"
-      },
-      {
-         "description" : "European Youth Chess Championship G10 is taking place from 6&#x2013;14 November 2022 in Antalya, Turkey. More than 1000 players from 46 European federations take part in the tournament which is played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately. Here is the list of participants in U12 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-championship-g10-2022-participants/",
-         "pubDate" : "Wed, 09 Nov 2022 23:59:24 +0000",
-         "title" : "European Youth Chess Championship G10 2022 participants"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
@@ -1362,14 +1370,6 @@ news_feed (
          "title" : "Anatoly Karpov Hospitalized in Serious Condition"
       },
       {
-         "description" : "Next year Ding Liren will play Ian Nepomniachtchi in a match for the World Championship title. Magnus Carlsen's withdrawal and Ding's second place in the 2022 Candidates Tournament made it possible. High time to take a closer look at the top player from China and especially his playing skills in ChessBase Magazine! In the current issue our authors comment on their favourite game of the Chinese player. In addition, \"Ding Liren's Positional Play\" (Mihail Marin's strategy column incl. video) and \"Endgame Highlights of Ding Liren\" (by Karsten M&uuml;ller, also with a video) are awaiting you. You can enjoy Romain Edouard's analysis of the game Ding Liren - Sergei Movsesian from the World Cup 2019",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-210-special-ding-liren",
-         "pubDate" : "Mon, 31 Oct 2022 14:00:00 +0100",
-         "title" : "CBM #210 \"Special\": Ding Liren"
-      },
-      {
          "description" : " Magnus Carlsen, the reigning World Chess Champion and the highest-rated player in history, has officially quit the FIDE World Chess Championship cycle. According to the chess governing body, FIDE, Carlsen confirmed in writing that he will not defend his title. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/37D2912A-F018-4D5B-803C-18177A6BAC65.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen at the 2016 World Chess Championship Match in NYC</div> </div> The announcement, made earlier today, does not come as a surprise: Carlsen announced his intention to part ways with the official Championship circuit earlier this year. Howe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1944,46 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2049",
          "pubDate" : "Sat, 22 Oct 2022 22:15:13 +0000",
          "title" : "Abdulla Gadimbayli and Govhar Beydullayeva win 2022 FIDE World Junior Championship"
-      },
-      {
-         "description" : " The German Schachbundesliga takes place over 15 rounds 21st October 2022 to 30th April 2023. Round 7 will be played over several Friday's (preceding normal rounds) during the season. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2022-23",
-         "pubDate" : "Sat, 22 Oct 2022 22:53:00 +0400",
-         "title" : "Schachbundesliga 2022-23 - Games and Results"
-      },
-      {
-         "description" : " The UK's 4NCL Chess League takes place over 5 weekends 22nd October to 1st May 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4ncl-2022-23",
-         "pubDate" : "Sat, 22 Oct 2022 22:50:00 +0400",
-         "title" : "4NCL 2022-23 - Games and Results"
-      },
-      {
-         "description" : " The World Junior Championships took place in Cala Gonone, Italy Wednesday 12th to Sunday 23rd October 2022. This was the 59th edition and 38th Girls. The event hadn't been held since 2019 due to Covid-19. Abdulla Gadimbayli's draw in the final round was enough for him to overtake Adam Kozak in the final round and take Gold to the Hungarian's Silver, Nikolozi Kacharava took bronze ahead of Francesco Sonis and Leon Luke Mendonca. All these players scored 8/11. In the women's event the winner Govhar Beydullayeva lost in the final round but having beaten Assel Serikbay in their individual game she hung onto gold, Meruert Kamalidenova took bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-juniors-2022",
-         "pubDate" : "Sat, 22 Oct 2022 22:46:00 +0400",
-         "title" : "World Juniors 2022 - Games and Results"
-      },
-      {
-         "description" : " The Aimchess Rapid is part of the Champions Chess Tour and took place online on Chess24 14th to 21st October 2022. Players: Nodirbek Abdusattorov, Aditya MittalDavid Anton Guijarro, Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Nils Grandelius, D Gukesh, Eric Hansen, Pentala Harikrishna, Vincent Keymer, Shakhriyar Mamedyarov, Daniel Naroditsky, Richard Rapport and Santosh Gujrathi Vidit. Jan-Krzysztof Duda beat Carlsen in the semifinals and Mamedyarov in the final but only after a final blitz tie-break. Carlsen secured victory in the entire Champions Chess Tour series with an event to spare. The final tournament will be in San Francisco 14th to 20th November 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/aimchess-rapid-2022",
-         "pubDate" : "Sat, 22 Oct 2022 22:42:00 +0400",
-         "title" : "Aimchess Rapid 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2048",
-         "pubDate" : "Sat, 22 Oct 2022 17:59:06 +0000",
-         "title" : "FIDE President congratulates medalists of the 2nd Intercontinental Championship for Prisoners"
       }
    ]
 }
