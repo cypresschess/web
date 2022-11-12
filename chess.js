@@ -1984,14 +1984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2048",
          "pubDate" : "Sat, 22 Oct 2022 17:59:06 +0000",
          "title" : "FIDE President congratulates medalists of the 2nd Intercontinental Championship for Prisoners"
-      },
-      {
-         "description" : " The US Chess Championship took place in Saint Louis Wed 5th (round 1) to Thu 20th Oct 2022. The event has been bumped up to a 14 player 13 round tournament for the first time in decades. There were Open and Women's events. Players: Wesley So, Levon Aronian, Fabiano Caruana, Leinier Dominguez Perez, Sam Shankland, Jeffery Xiong, Ray Robson, Hans Moke Niemann, Samuel Sevian, Dariusz Swiercz, Awonder Liang, Christopher Woojin Yoo, Elshan Moradiabadi and Aleksandr Lenderman. Women's group: , Irina Krush, Anna Zatonskih, Ashritha Eswaran, Nazi Paikidze, Gulrukhbegim Tokhirjonova, Rochelle Wu, Tatev Abrahamyan, Jennifer Yu, Thalia Cervantes Landeiro, Alice Lee, Ruiyang Yan, Megan Lee, Sabina-Fran",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/us-chess-championship-2022",
-         "pubDate" : "Sat, 22 Oct 2022 20:39:00 +0400",
-         "title" : "US Chess Championship 2022 - Games and Results"
       }
    ]
 }
