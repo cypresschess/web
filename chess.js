@@ -1984,22 +1984,6 @@ news_feed (
          "link" : "https://aicf.in/indian-tops-the-individual-medal-tally-and-wins-the-first-runner-up-over-all-trophy/",
          "pubDate" : "Sat, 22 Oct 2022 06:26:32 +0000",
          "title" : "INDIAN TOPS THE INDIVIDUAL MEDAL TALLY AND WINS THE FIRST RUNNER-UP OVER ALL TROPHY"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2047",
-         "pubDate" : "Fri, 21 Oct 2022 22:29:41 +0000",
-         "title" : "2022 FIDE World Amateur Championships kicks off in Malta"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2046",
-         "pubDate" : "Fri, 21 Oct 2022 21:58:02 +0000",
-         "title" : "Jan-Krzysztof Duda reigns supreme in Aimchess Rapid"
       }
    ]
 }
