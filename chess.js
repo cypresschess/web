@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've written a lot of courses for beginners over the years, most of which I've discarded because I didn't think they were much good. Every time, I say to myself that this will be the last one I'll write. But it seems to me, looking at the experiences related by beginners on social media, that <a href=\"https://chessimprover.com/chess-for-heroes-november-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess For Heroes (November 2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-november-2022/\">Chess For Heroes (November 2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-for-heroes-november-2022/",
+         "pubDate" : "Sun, 13 Nov 2022 11:52:41 +0000",
+         "title" : "Chess For Heroes (November 2022)"
+      },
+      {
+         "description" : "The 12th edition of the Mediterranean Chess Championship was held from 5-13 November in El Caire. The event was played in 9 rounds, swiss system, with time control of 90 minutes plus 30 seconds of increment, and 15 minutes after 40 played moves. 19-year-old IM Dimitris Alexakis won the tournament scoring convincing 8/9 points. Alexakis []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-dimitris-alexakis-wins-mediterranean-chess-championship-2022/",
+         "pubDate" : "Sun, 13 Nov 2022 11:04:22 +0000",
+         "title" : "IM Dimitris Alexakis wins Mediterranean Chess Championship 2022"
+      },
+      {
+         "description" : "A small country, Norway has produced exceptional representatives in various disciplines. Magnus Carlsen, the chess world champion, is joined by fellow geniuses hailing from the Scandinavian country: Niels Henrik Abel, Henrik Ibsen, Edvard Grieg and Edvard Munch. Diana Mihajlova tells us more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-land-of-exceptions",
+         "pubDate" : "Sun, 13 Nov 2022 12:00:00 +0100",
+         "title" : "Norway, land of exceptions"
+      },
+      {
+         "description" : "The&#xA0;2022 FIDE World Senior Chess Championship&#xA0;will be held from 14-27 November in Assisi &#x2013; Umbria Italy. The Championship will be played in two age categories: 50+ and 65+, 11 rounds, swiss system, with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-senior-chess-championship-2022-live/",
+         "pubDate" : "Sun, 13 Nov 2022 10:41:12 +0000",
+         "title" : "FIDE World Senior Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy. The Championship will be played in two age categories: 50+ and 65+, 11 rounds, swiss system, with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-senior-chess-championship-2022-starts-in-italy/",
+         "pubDate" : "Sun, 13 Nov 2022 10:33:07 +0000",
+         "title" : "FIDE World Senior Chess Championship 2022 starts in Italy"
+      },
+      {
+         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the award-winning Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022/",
+         "pubDate" : "Sun, 13 Nov 2022 09:59:00 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <strong>F&ouml;rderverein Schach Wolfgang Uhlmann</strong> <a href=\"https://de.chessbase.com/post/gruendung-eines-foerdervereins-wolfgang-uhlmann-in-dresden\">will be founded this week in Dresden</a> with the intention to run chess events and a little chess museum to commemorate East Germany's top player who passed away in 2020. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -82,22 +130,6 @@ news_feed (
          "title" : "Frederic's mates - How I met Anatoly Karpov"
       },
       {
-         "description" : "The 2022 Chinese Chess Championships took place from 2-11 November in Xinghua, Jiangsu province. Both Open and Women's tournaments were 12-player round robins with classical time control.&#xA0; IM Dai Changren was the sole winner of the Open tournament with 7/11 points, with GM Zhao Jun clinching silver with 6.5 points. GM Xu Xiangyu and GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-dai-changren-and-gm-tan-zhongyi-win-chinese-chess-championships-2022/",
-         "pubDate" : "Sat, 12 Nov 2022 10:53:00 +0000",
-         "title" : "IM Dai Changren and GM Tan Zhongyi win Chinese Chess Championships 2022"
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 10:12:00 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
-      },
-      {
          "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/paravyan-wins-2022-speed-chess-championship-qualifier-1",
          "pubDate" : "Fri, 11 Nov 2022 11:22:11 -0800",
          "title" : "Unstoppable Paravyan Qualifies For SCC Main Event"
-      },
-      {
-         "description" : "New York Fall Invitational IM (D) is taking place from 9&#x2013;13 November 2022 in New York, USA. It is an 10-player round-robin tournament with Mike Zaloznyy, Chawit Asavasaetakul, Mykola Bortnyk, Attila Istvan Csonka, Konstantin Dolgitser, Kyron Griffith, Ryan Goldenberg, Jiangwei Yu, Danila Poliannikov, Zachary Tanenbaum. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-fall-invitational-im-d-2022-live/",
-         "pubDate" : "Fri, 11 Nov 2022 17:57:38 +0000",
-         "title" : "New York Fall Invitational IM (D) 2022 LIVE"
       },
       {
          "description" : "This week, Daniel King looks at recent examples of brilliant defence using stalemate - a creative way and often surprising way to defend. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-9",
          "pubDate" : "Fri, 11 Nov 2022 01:19:26 +0000",
          "title" : "2022 Fall Chess Classic: Round 9"
-      },
-      {
-         "description" : "The Final stage of the Italian Championship is a 12-player round-robin tournament, held from November 12th to 23rd in Cagliari, Italy. Time control is 100 minutes for 40 moves followed by 50 minutes for 20 moves and then by 15 minutes for the rest of the game, with a 30-seconds increment starting from move one. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italian-championship-2022-participants/",
-         "pubDate" : "Thu, 10 Nov 2022 23:44:50 +0000",
-         "title" : "Italian Championship 2022 participants"
       },
       {
          "description" : "Which positions arose in Fischer Random games, which from classical chess games? This is what Arno Nickel asks, and in his essay he takes an in-depth look at Fischer Random Chess. His proposal: give players at tournaments the option of playing either classical or Fischer Random!",
@@ -1346,14 +1362,6 @@ news_feed (
          "title" : "Breaking News: Anatoly Karpov in hospital with fractured skull"
       },
       {
-         "description" : "Last Wednesday, 26 October, British International Master Michael Basman died of cancer at the age of 76. A prolific chess writer, he left his mark in the chess world as an uncompromising, inventive player. Among other endeavours, he will be remembered as a founder and organizer of the UK Chess Challenge, a tournament for juniors of all standards and ages. | Photo: David Llada / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-basman-obituary",
-         "pubDate" : "Mon, 31 Oct 2022 16:45:00 +0100",
-         "title" : "Michael Basman (1946 - 2022)"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95211202.cms\" />Indian Grandmaster Harsha Bharathakoti held top-seeded compatriot and GM R Praggnanandhaa to a draw in the sixth round of the Open section to remain in sole lead with 5 points in the Asian Continental Chess championship on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1920,22 +1928,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-womens-candidates-2022-23-opens-in-monaco/",
          "pubDate" : "Sun, 23 Oct 2022 17:25:02 +0000",
          "title" : "FIDE Women's Candidates 2022/23 opens in Monaco"
-      },
-      {
-         "description" : " After a break of 2 years, the ACT Teams Championship returned for 2022. Once again it was a 7 round Rapid (15m+5s) and 12 teams took part (well 11 + a scratch team to avoid the bye). A number of teams took their chess seriously, a few teams took their outfits seriously, and at least one team did both! The winning team was King Charles III, which consisted of CM Hui Li, Charles Huang, Larry Cheng and Jerry Cheng. They finished half a point ahead of The Wise Guys, who did in fact win the prize for Best Dressed Teams. In third place was Bishop's Monarchy, which like KCIII was a junior heavy team. Tuggeranong Chess Club won the Larko Cup for the best official Club team, beating the Canberra Che",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-act-teams-championship.html",
-         "pubDate" : "Sun, 23 Oct 2022 12:08:00 +0000",
-         "title" : "2022 ACT Teams Championship "
-      },
-      {
-         "description" : " A book which doesn't seem to have received any attention this side of the Atlantic is Players and Pawns: How Chess Builds Community and Culture (University of Chicago Press 2015) by Gary Alan Fine. The author is a sociologist who writes about how minority interests create their own cultures, and, in this book, he turned <a href=\"https://chessimprover.com/soft-communities/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Soft Communities\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/soft-communities/\">Soft Communities</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/soft-communities/",
-         "pubDate" : "Sun, 23 Oct 2022 09:00:59 +0000",
-         "title" : "Soft Communities"
       }
    ]
 }
