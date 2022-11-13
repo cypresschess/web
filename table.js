@@ -1,4 +1,6 @@
 jtable([
+"SPRING","2022-11-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202211110162 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2022-11-11","20","<a href=http://www.uschess.org/msa/XtblMain.php?202211110112 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2022-11-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202211110102 target='_blank'>FBCC 2022 VETERANS DAY OPEN/FBCC 20</a>",
 "PEARLAND","2022-11-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202211088792 target='_blank'>RCC QUADS NOVEMBER 8, 2022</a>",
 "HOUSTON","2022-11-06","9","<a href=http://www.uschess.org/msa/XtblMain.php?202211067822 target='_blank'>NOVEMBER 6 SUNDAY SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2022-03-06","6","<a href=http://www.uschess.org/msa/XtblMain.php?202203069812 target='_blank'>MARCH 6 SUNDAY SWISS</a>",
 "KATY","2022-03-06","30","<a href=http://www.uschess.org/msa/XtblMain.php?202203064302 target='_blank'>CIA SPRING OTB</a>",
 "SPRING","2022-03-04","22","<a href=http://www.uschess.org/msa/XtblMain.php?202203048202 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2022-03-04","9","<a href=http://www.uschess.org/msa/XtblMain.php?202203048192 target='_blank'>F7  SCHOLASTIC BLITZ WARMUP TOURNAM</a>",
-"SUGAR LAND","2022-03-04","11","<a href=http://www.uschess.org/msa/XtblMain.php?202203048182 target='_blank'>FBCC 2022 IN LIKE A LION OPEN</a>",
 ]);
