@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <strong>F&ouml;rderverein Schach Wolfgang Uhlmann</strong> <a href=\"https://de.chessbase.com/post/gruendung-eines-foerdervereins-wolfgang-uhlmann-in-dresden\">will be founded this week in Dresden</a> with the intention to run chess events and a little chess museum to commemorate East Germany's top player who passed away in 2020. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/new-chess-foundation-in-dresden/",
+         "pubDate" : "Sat, 12 Nov 2022 22:18:32 +0100",
+         "title" : "New chess foundation in Dresden"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> and an unnamed partner <a href=\"https://www.instagram.com/p/CjssbV7K4J0/?hl=de\">have bought</a> the <strong>World Chess Club Moscow</strong> from <strong>Ilya Merenzon</strong> and reopened it. Apart from the bar service, the plan is to run a chess school and business chess events. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nepomniachtchi-buys-chess-bar/",
+         "pubDate" : "Sat, 12 Nov 2022 22:00:30 +0100",
+         "title" : "Nepomniachtchi buys chess bar"
+      },
+      {
          "description" : "Top division in Norwegian team league with Offerspill, V&#xE5;lerenga, Oslo SS, SK 1911, Nordstrand, Bergens, Hell, Troms&#xF8;, Stavanger and Asker. Watch Aryan Tari, Jon Ludvig Hammer and David Howell among others. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "I think I have turned 40 (as a chessplayer)"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>BDS</strong>, a <a href=\"https://time.com/5914975/what-to-know-about-bds/\">Palestinian organisation that is mobilizing against Israel</a>, <a href=\"https://bdsmovement.net/fide\">asks to boycott</a> the <strong>World Teams Championship</strong> later this month as it will be held in East Jerusalem which has been occupied by Israel since 1967 and de facto annexed. The <strong>Palestine Chess Federation</strong> is not known to support the call. <strong>FIDE</strong> has since 2018 taken significant steps against the frequent boycott of Israeli players. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/boycott-call-against-world-teams/",
-         "pubDate" : "Mon, 07 Nov 2022 13:50:12 +0100",
-         "title" : "Boycott call against World Teams"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://fide.com/news/2082\">will hold</a> the <strong>World Rapid and Blitz Championship</strong> as usual between Christmas and New Year in the Kazakh capital Almaty (not Abu Dhabi as <a href=\"https://www.chesstech.org/2022/four-more-years-with-a-russian/\">reported here in April</a>). </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/global-championship-3-missed-chances",
          "pubDate" : "Sat, 05 Nov 2022 14:29:49 +0000",
          "title" : "Global Championship 3: Missed chances"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Two economists interested in discrimination, <strong>Jos&eacute; de Sousa</strong> and <strong>Muriel Niederle</strong>, <a href=\"https://www.nber.org/system/files/working_papers/w30367/w30367.pdf\">found mainly positive effects</a> of the women quota introduced by the <strong>French Chess Federation</strong> in leagues in 1990 and virtually no adverse effects on men. Niederle has earlier established <a href=\"https://www.researchgate.net/publication/24091981_Do_Women_Shy_Away_from_Competition_Do_Men_Compete_too_Much\">gender differences in confidence and competitive reward schemes</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/woman-quota-in-french-leagues-works/",
-         "pubDate" : "Sat, 05 Nov 2022 15:10:39 +0100",
-         "title" : "Woman quota in French leagues works"
       },
       {
          "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
@@ -1936,14 +1936,6 @@ news_feed (
          "link" : "https://chessimprover.com/soft-communities/",
          "pubDate" : "Sun, 23 Oct 2022 09:00:59 +0000",
          "title" : "Soft Communities"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2049",
-         "pubDate" : "Sat, 22 Oct 2022 22:15:13 +0000",
-         "title" : "Abdulla Gadimbayli and Govhar Beydullayeva win 2022 FIDE World Junior Championship"
       }
    ]
 }
