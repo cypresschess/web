@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Akiba Rubinstein was one of Polands greatest chess players. Svitlana is showing us two of his incredible games. In the first game, Rubinstein achieved a small tempo advantage with the Black pieces, and quickly unleashes a beautiful, tactical combination to crush his opponent. Furthermore, in the second game, his endgame skills shine, and we can learn a lot about pawn endgames in general.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-akiba-rubinstein-quick-win-endgame-expertise",
+         "pubDate" : "Sun, 13 Nov 2022 21:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Akiba Rubinstein - Quick win & Endgame expertise"
+      },
+      {
          "description" : "Senior National Arbiters Seminar held at Tirupati , AP from 29th to 30th October , 2022.Total 40 participants has participated in this seminar and all",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
          "pubDate" : "Tue, 01 Nov 2022 11:35:00 +0000",
          "title" : "2022 Chess Calendar"
-      },
-      {
-         "description" : "It seems we have arrived at the strongest of all chess star signs. No less than three World Champions are Scorpios - Mikhail Tal, Alexander Alekhine, and Raoul Capablanca - and there are several other top players joining them - Ding Liren, Alexander Grischuk, Vincent Keymer, Lev Polugaevsky, Salo Flohr, and Ernst Gr&uuml;nfeld - to name but a few. But why are scorpions so brutally strong?| Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/scorpio-and-their-strategy",
-         "pubDate" : "Tue, 01 Nov 2022 12:00:00 +0100",
-         "title" : "Scorpio and their strategy"
       },
       {
          "description" : "",
