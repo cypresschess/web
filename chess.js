@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Senior National Arbiters Seminar held at Tirupati , AP from 29th to 30th October , 2022.Total 40 participants has participated in this seminar and all",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/all-india-chess-federation-senior-national-arbiters-seminar-examination-tirupati-andhra-pradesh-29-30-october-2022/",
+         "pubDate" : "Sun, 13 Nov 2022 16:05:37 +0000",
+         "title" : "All India Chess Federation Senior National Arbiter's Seminar & Examination at Tirupati ,Andhra Pradesh 29-30 October , 2022"
+      },
+      {
+         "description" : "How do you feel when you have to play against an opponent whose rating is some hundred points better than your own? The bold among us will see this as a special incentive. For most of us, however, unease will probably prevail. In the third part of his video series \"Practical Tips for the Tournament Player\" in ChessBase Magazine #210, Jan Markos deals with the important topic of how to play against a stronger opponent. The GM from Slovakia first makes it clear that you have to keep a cool head and then presents three promising strategies. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/don-t-be-afraid-of-stronger-opponents",
+         "pubDate" : "Sun, 13 Nov 2022 17:00:00 +0100",
+         "title" : "Don't be afraid of stronger opponents!"
+      },
+      {
+         "description" : "The final episode of our series, in which we discuss something critical - the final round of a tournament. The last round often decides your fate. Will you avoid a rating loss? Can you qualify? Or even fight for a medal? Lilit has played hundreds of tournaments, and can give us some good advice. Furthermore, she shares her thoughts on what is the most likeable, dislikable, and important thing when preparing for a tournament. Thank you everyone for watching, and commenting on our YouTube channel.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-6",
+         "pubDate" : "Sun, 13 Nov 2022 17:00:00 +0100",
+         "title" : "Lilit Mkrtchian (6) - What to do in the last round of the tournament?"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 99th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-99-play-the-sicilian",
+         "pubDate" : "Sun, 13 Nov 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 99: Play the Sicilian!"
+      },
+      {
+         "description" : " Keith Vernon Eubanks, 56, of Columbia, SC was born on September 27, 1965 and passed away on September 23, 2022. He was a lifelong resident of South Carolina and was a mainstay in the South Carolinian chess scene. No cause of death is known, but Keith had a long struggle with diabetes. Keith was a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/\">South Carolina's Keith Eubanks (1965-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/",
+         "pubDate" : "Sun, 13 Nov 2022 12:40:53 +0000",
+         "title" : "South Carolina's Keith Eubanks (1965-2022)"
+      },
+      {
          "description" : " I've written a lot of courses for beginners over the years, most of which I've discarded because I didn't think they were much good. Every time, I say to myself that this will be the last one I'll write. But it seems to me, looking at the experiences related by beginners on social media, that <a href=\"https://chessimprover.com/chess-for-heroes-november-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess For Heroes (November 2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-november-2022/\">Chess For Heroes (November 2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/while-the-iron-is-hot",
          "pubDate" : "Sat, 12 Nov 2022 09:00:00 +0100",
          "title" : "While the iron is hot..."
-      },
-      {
-         "description" : "The 2022 Chess.com Speed Chess Championship commenced on Thursday with a cutthroat qualifier where GM David Paravyan emerged victorious after defeating GM Tuan Minh Le in a dazzling armageddon tiebreaker. Amidst a field of 142 titled players, Mi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paravyan-wins-2022-speed-chess-championship-qualifier-1",
-         "pubDate" : "Fri, 11 Nov 2022 11:22:11 -0800",
-         "title" : "Unstoppable Paravyan Qualifies For SCC Main Event"
       },
       {
          "description" : "This week, Daniel King looks at recent examples of brilliant defence using stalemate - a creative way and often surprising way to defend. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -354,14 +386,6 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 9 | lichess.org"
       },
       {
-         "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-firouzja-win-titled-tuesday-november-8-2022",
-         "pubDate" : "Wed, 09 Nov 2022 09:57:52 -0800",
-         "title" : "Firouzja Returns To Titled Tuesday With Spectacular Win"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #541 Merijn van Delft looks at a game which featured an interesting opening, a fine attack and an inspired endgame. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
       },
       {
-         "description" : "GM Wesley So triumphed at the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. Unfazed by a couple of recent performances, So showed us what it means to be a grandmaster of his caliber, coming...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
-         "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
-         "title" : "Wesley So Becomes First-Ever Chess.com Global Champion"
-      },
-      {
          "description" : "In the Endgame Magic Show #214 Karsten M&uuml;ller and his guest Harald Schneider-Zinner look at endgame highlights from the last Bundesliga round. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "European Youth Chess Championship 2022 opens"
       },
       {
-         "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city on Monday in a press release. Traditionally, two of the most excitin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-championships-in-kazakhstan",
-         "pubDate" : "Mon, 07 Nov 2022 01:14:00 -0800",
-         "title" : "Kazakhstan To Host FIDE World Rapid & Blitz Championships Dec. 26-30"
-      },
-      {
          "description" : "FIDE is happy to confirm the dates and the venue for the World Rapid and Blitz Championships 2022. The prestigious event will take place in Almaty, Kazakhstan's largest metropolis, set in the foothills of the Trans-Ili Alatau mountains. The championship will be played on its traditional dates, between December 25 (arrival and opening) and December 30 (last playing day and closing). | Photo: advantour.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5",
          "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
          "title" : "2022 Fall Chess Classic: Round 5"
-      },
-      {
-         "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d1",
-         "pubDate" : "Sun, 06 Nov 2022 12:26:00 -0800",
-         "title" : "Adventurous So Goes Undefeated, Leads 3-1"
       },
       {
          "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -736,22 +736,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/hunting-the-tiger",
          "pubDate" : "Sun, 06 Nov 2022 14:00:00 +0100",
          "title" : "Hunting the Tiger"
-      },
-      {
-         "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out her opponent&#39;s sister, GM Mariya Muzychuk, in the quarte...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
-         "pubDate" : "Sun, 06 Nov 2022 03:08:00 -0800",
-         "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
-      },
-      {
-         "description" : "GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for the top prize of $200,000, and the winner will be crowned the in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
-         "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
-         "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura"
       },
       {
          "description" : "",
@@ -850,14 +834,6 @@ news_feed (
          "title" : "Women's Candidates: Games and commentary"
       },
       {
-         "description" : "GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the Chess.com Global Championship on Friday but were both held to 2-2 following some resolute defense by their opponent...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-sf",
-         "pubDate" : "Fri, 04 Nov 2022 14:55:00 -0700",
-         "title" : "Giri, So Miss Chances In Chaotic Semifinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -880,14 +856,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html",
          "pubDate" : "Fri, 04 Nov 2022 16:18:00 +0000",
          "title" : "Fashionable Fischer"
-      },
-      {
-         "description" : "The Edinburgh Chess Club, the second oldest chess club in the world, celebrates its bicentenary today. Founded on November 4, 1822, over the two centuries the club has been visited by famous players such as Howard Staunton, Joseph Blackburne, Jose...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/edinburgh-chess-club-celebrates-200th-anniversary",
-         "pubDate" : "Fri, 04 Nov 2022 08:50:00 -0700",
-         "title" : "Edinburgh Chess Club Celebrates 200th Anniversary"
       },
       {
          "description" : "Understanding an opening doesn't stop after the theory. It's essential to understand ideas and structures connected to the opening moves. Furthermore, recognising mistakes by your opponent to gain an advantage is a key component of the middlegame. In this video course we'll concentrate on Rossolimo and Maroczy structures in the Sicilian Defence.",
@@ -994,28 +962,12 @@ news_feed (
          "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
       },
       {
-         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
-         "pubDate" : "Thu, 03 Nov 2022 14:47:00 -0700",
-         "title" : "Stunning Comebacks and Decisive Matches: Nakamura, So, Nihal, Giri Victorious"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2078",
          "pubDate" : "Thu, 03 Nov 2022 20:31:31 +0000",
          "title" : "2022 Asian Continental Championship: Praggnanadhaa R and Nandhidhaa P V clinch titles"
-      },
-      {
-         "description" : "Chess.com is excited to announce the 2022 Speed Chess Championship, beginning in late November.&#38;nbsp;World #1 GM Magnus Carlsen returns to an absolutely star-studded 16-player field that also includes&#38;nbsp;four-time Speed Chess Champion GM Hikaru ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-scc",
-         "pubDate" : "Thu, 03 Nov 2022 10:08:00 -0700",
-         "title" : "Announcing The 2022 Speed Chess Championship"
       },
       {
          "description" : "Yes, that's what the ad said. Pictured below, it appeared inside the November 1997 issue of <I>Chess Life</I> that I discussed a few days ago in <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Center of ad:</B>'Hereford to field eight. &#149; Ewe to tractor seven. &#149; Ram mates ewe.' <P>The two page ad started, <BLOCKQUOTE><FONT COLOR=\"#ff0000\">Introducing Chessmaster 5500,</FONT> the latest in the award-winning software line for the chess-obsessed. Thanks to patented Illustrated Voice Analysis, C",
@@ -1082,28 +1034,12 @@ news_feed (
          "title" : "Duda got \"Bongclouded\" by Nakamura"
       },
       {
-         "description" : "The Women&#39;s Candidates semifinals match between&#38;nbsp;GM Anna Muzychuk and GM Lei Tingjie started with two draws. If the match remains tied in the remaining two games, a tiebreak will be played on Sunday. The third game is scheduled to start on Fri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-candidates-lei-muzychuk-semifinals-game-2",
-         "pubDate" : "Thu, 03 Nov 2022 01:31:00 -0700",
-         "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
-      },
-      {
          "description" : "This is something that everyone is looking forward to. Both the youngsters are very well matched. What is the format for the Death Match? In this article you get to know not only the format of the ChessBase India Death Match 2.0, but also all about the upcoming Comedians Over The Board (COTB) and the DreamHack Rapid and Blitz Tournament. The Death Match between the two remarkable prodigies takes place on Saturday, November 5th. Don't miss it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arjun-vs-gukesh-death-match-2-0",
          "pubDate" : "Thu, 03 Nov 2022 06:00:00 +0100",
          "title" : "Arjun vs Gukesh: Death Match 2.0"
-      },
-      {
-         "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d1",
-         "pubDate" : "Wed, 02 Nov 2022 16:46:00 -0700",
-         "title" : "Perfect 4-0 Day For Nakamura, Dismantles Bongcloud In CGC Finals"
       },
       {
          "description" : "",
@@ -1122,14 +1058,6 @@ news_feed (
          "title" : "St Louis Fall Chess Classic 2022 - Games and Results"
       },
       {
-         "description" : "GM Hikaru Nakamura, who won the Fischer Random World Championship in Reykjavik, Iceland on October 30, and is now in Toronto, Canada for the Chess.com Global Championship Finals starting November 2, found time to take home yet another Titled Tuesd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-november-1-2022",
-         "pubDate" : "Wed, 02 Nov 2022 09:10:00 -0700",
-         "title" : "Newly-Crowned World Champion Nakamura Wins Another Tournament"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95261348.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa posted a crucial win over compatriot Koustav Chatterjee in the eighth round of the Open section to jump into sole lead of the Asian Continental Chess Championship on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1144,14 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/middlesex-chess-players-your-county-needs-you/",
          "pubDate" : "Wed, 02 Nov 2022 14:31:09 +0000",
          "title" : "Middlesex chess players - your county needs you!"
-      },
-      {
-         "description" : "Chess.com is proud to announce that you can now enjoy Game Review in the newest versions of our mobile apps for Android and iOS! Study your moves like never before, review key moments, and relish your latest brilliant move right from your phone. M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-mobile-game-review",
-         "pubDate" : "Wed, 02 Nov 2022 07:00:00 -0700",
-         "title" : "Game Review Now On Mobile Apps"
       },
       {
          "description" : "The MPL National Under 11 Chess Championships 2022 was organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29 th October to",
@@ -1218,14 +1138,6 @@ news_feed (
          "title" : "November 1972 & 1997 'On the Cover'"
       },
       {
-         "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-billionaire-bots",
-         "pubDate" : "Tue, 01 Nov 2022 08:08:00 -0700",
-         "title" : "Play Chess Against The New Billionaire Bots"
-      },
-      {
          "description" : "In the Endgame Magic Show #213 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from David's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1290,28 +1202,12 @@ news_feed (
          "title" : "Meltwater Champions Chess Tour Finals line-up announced"
       },
       {
-         "description" : "The diagram shows a position which can often occur in rook endings. Both sides have passed pawns and it all seems to come down to a race between the passed pawns. However, in the diagram position White has a winning maneuver that one should know. How should White proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-typical-mistake",
-         "pubDate" : "Tue, 01 Nov 2022 09:00:00 +0100",
-         "title" : "A typical mistake"
-      },
-      {
          "description" : "World #6 Lei Tingjie and World #7 Anna Muzychuk edged closer to a chance to play a World Championship match as they knocked out Mariya Muzychuk and Humpy Koneru, respectively, in the €250,000 Women's Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/anna-muzychuk-and-lei-tingjie-qualify-for-women-s-candidates-semi-final",
          "pubDate" : "Tue, 01 Nov 2022 07:21:10 +0000",
          "title" : "Anna Muzychuk and Lei Tingjie qualify for Women's Candidates semi-final"
-      },
-      {
-         "description" : "Using an engine to find out how many moves in a game match its top choice, is but one way to measure a move's quality with an engine. Another key way is what analysts such as Ken Regan use: a tool to compare the engine's evaluation of a move with its own choice of best move, and see by how much the evaluations differ. Now you can do this too using the Centipawn Analysis tool in ChessBase 16!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/centipawn-analysis-evaluating-strength-with-an-engine",
-         "pubDate" : "Tue, 01 Nov 2022 06:00:00 +0100",
-         "title" : "Centipawn Analysis: evaluating strength with an engine"
       },
       {
          "description" : " In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. The American legend lost only once in the entire tournament and took a handsome prize of $150,000 after winning an Armageddon game again Ian Nepomniachtchi. GM Hikaru Nakamura, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1330,14 +1226,6 @@ news_feed (
          "title" : "At Last the 1988 Show"
       },
       {
-         "description" : "Chess.com is excited to announce that we will be hosting the 2022 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on November 13 and the blitz championship on November 20. Registration is underway and continues...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-collegiate-rapid-and-blitz-championships",
-         "pubDate" : "Mon, 31 Oct 2022 12:13:22 -0700",
-         "title" : "Announcing The 2022 US Collegiate Rapid & Blitz Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95213020.cms\" />Siddhant Gawai lived up to his billing to remain unbeaten and emerge champion in the Maharashtra State U-15 Open Fide rating chess championship, which concluded in Amravati on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1352,14 +1240,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html",
          "pubDate" : "Mon, 31 Oct 2022 16:18:00 +0000",
          "title" : "TCEC S23 Sufi, CCC19 Rapid : Both Underway"
-      },
-      {
-         "description" : "After an accident, former World Champion Anatoly Karpov was rushed to the hospital with multiple head injuries in which he was placed in an induced coma. Karpov was put on a ventilator now, and has been diagnosed with cerebral edema, fractures of the right parietal and right temporal bones, multiple head hematomas, and traumatic subarachnoid hemorrhage. We will update this report as the news trickles in.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-news-anatoly-karpov-in-hospital-after-incident",
-         "pubDate" : "Mon, 31 Oct 2022 17:00:00 +0100",
-         "title" : "Breaking News: Anatoly Karpov in hospital with fractured skull"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95211202.cms\" />Indian Grandmaster Harsha Bharathakoti held top-seeded compatriot and GM R Praggnanandhaa to a draw in the sixth round of the Open section to remain in sole lead with 5 points in the Asian Continental Chess championship on Sunday.",
@@ -1410,14 +1290,6 @@ news_feed (
          "title" : "European Senior Teams Championships - reports from Nigel Povah"
       },
       {
-         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
-         "pubDate" : "Mon, 31 Oct 2022 01:49:00 -0700",
-         "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
-      },
-      {
          "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1432,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2072",
          "pubDate" : "Sun, 30 Oct 2022 21:51:40 +0000",
          "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
-      },
-      {
-         "description" : "GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Chess Champion on Sunday after winning a thrilling armageddon tiebreaker final against GM Ian Nepomniachtchi. Having split the points in their four-game mini-match, Nakamura saved h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
-         "pubDate" : "Sun, 30 Oct 2022 14:43:00 -0700",
-         "title" : "Hikaru Nakamura Wins Fischer Random World Championship"
       },
       {
          "description" : "",
@@ -1496,22 +1360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2069",
          "pubDate" : "Sun, 30 Oct 2022 12:13:29 +0000",
          "title" : "10th IBCA PanAmerican Games for Blind set new records"
-      },
-      {
-         "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
-         "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
-         "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-sf",
-         "pubDate" : "Sat, 29 Oct 2022 20:45:00 -0700",
-         "title" : "World Champions Fall: Nakamura, Nepomniachtchi Progress To Final"
       },
       {
          "description" : "",
@@ -1610,28 +1458,12 @@ news_feed (
          "title" : "New: ChessBase Magazine #210"
       },
       {
-         "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/michael-basman-1946-2022",
-         "pubDate" : "Fri, 28 Oct 2022 01:31:00 -0700",
-         "title" : "Michael Basman, 1946-2022"
-      },
-      {
          "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100m lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.com",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
          "pubDate" : "Fri, 28 Oct 2022 07:00:22 +0000",
          "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
-      },
-      {
-         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced a variant he saw as the future of the game, Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in R...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
-         "pubDate" : "Thu, 27 Oct 2022 22:20:00 -0700",
-         "title" : "Fischer's Vision Alive In Reykjavik: Abdusattorov, Carlsen On Top"
       },
       {
          "description" : "",
@@ -1698,28 +1530,12 @@ news_feed (
          "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
       },
       {
-         "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
-         "pubDate" : "Thu, 27 Oct 2022 01:08:00 -0700",
-         "title" : "Koneru Misses Win On Day Of Draws"
-      },
-      {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
          "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
          "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join GM Hikaru Nakamura―who was held t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
-         "pubDate" : "Wed, 26 Oct 2022 23:15:00 -0700",
-         "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
       },
       {
          "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
