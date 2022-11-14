@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-wins-2022-speed-chess-championship-qualifier-2",
+         "pubDate" : "Sun, 13 Nov 2022 18:38:30 -0800",
+         "title" : "Grischuk Masterclass Seals Qualifying Spot"
+      },
+      {
          "description" : "Akiba Rubinstein was one of Polands greatest chess players. Svitlana is showing us two of his incredible games. In the first game, Rubinstein achieved a small tempo advantage with the Black pieces, and quickly unleashes a beautiful, tactical combination to crush his opponent. Furthermore, in the second game, his endgame skills shine, and we can learn a lot about pawn endgames in general.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
          "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
          "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov swept both matches vs. GM Hjorvar Gretarsson to increase his lead in group A of the 2022 Fischer Random World Championship&#38;nbsp;on Wednesday. GM Magnus Carlsen also won two matches to join GM Hikaru Nakamura―who was held t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d2",
-         "pubDate" : "Wed, 26 Oct 2022 23:15:00 -0700",
-         "title" : "Opening Theory in Fischer Random?! Abdusattorov Leads, Carlsen Catches Nakamura"
       },
       {
          "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
