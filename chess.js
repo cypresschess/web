@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Mon, 14 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1290,14 +1298,6 @@ news_feed (
          "title" : "MPL 35 th National Under 11 Chess Championships 2022 29 th October to 6 th November, Gurgaon Report - 1 to 6 rounds"
       },
       {
-         "description" : "The 24th European Senior Team Championship is taking place in Dresden. After six rounds, England is leading the 50+ age group, after grabbing wins in all its matches. In the 65+ age group, Germany 3 is leading with 11/12 match points. Robert H&uuml;bner gave a lecture and played a simultaneous exhibition. Ulrike Vogel reports. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022",
-         "pubDate" : "Wed, 02 Nov 2022 10:00:00 +0100",
-         "title" : "European Senior Teams: England and Germany top the standings"
-      },
-      {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1944,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2053",
          "pubDate" : "Mon, 24 Oct 2022 21:34:35 +0000",
          "title" : "Women's Candidates Tournament (Pool A) starts in Monte-Carlo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2052",
-         "pubDate" : "Mon, 24 Oct 2022 18:07:14 +0000",
-         "title" : "Uzbekistan to host Pool B of the Women's Candidates Tournament"
       }
    ]
 }
