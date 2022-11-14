@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
+         "pubDate" : "Mon, 14 Nov 2022 07:30:00 +0100",
+         "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
+      },
+      {
          "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/grischuk-wins-2022-speed-chess-championship-qualifier-2",
-         "pubDate" : "Sun, 13 Nov 2022 18:38:30 -0800",
+         "pubDate" : "Sun, 13 Nov 2022 18:38:00 -0800",
          "title" : "Grischuk Masterclass Seals Qualifying Spot"
       },
       {
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-35-th-national-under-11-chess-championships-2022-29-th-october-to-6-th-november-gurgaon-report-1-to-6-rounds/",
          "pubDate" : "Wed, 02 Nov 2022 13:06:02 +0000",
          "title" : "MPL 35 th National Under 11 Chess Championships 2022 29 th October to 6 th November, Gurgaon Report - 1 to 6 rounds"
-      },
-      {
-         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
-         "pubDate" : "Wed, 02 Nov 2022 12:30:00 +0100",
-         "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
       },
       {
          "description" : "The 24th European Senior Team Championship is taking place in Dresden. After six rounds, England is leading the 50+ age group, after grabbing wins in all its matches. In the 65+ age group, Germany 3 is leading with 11/12 match points. Robert H&uuml;bner gave a lecture and played a simultaneous exhibition. Ulrike Vogel reports. | Photos: Official website",
