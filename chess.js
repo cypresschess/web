@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF congratulates Shreyas Royal on the tremendous achievement of gaining his first GM norm at just 13 years old! Click here to see Shreyas's...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-first-gm-norm-at-13/",
+         "pubDate" : "Mon, 14 Nov 2022 12:28:52 +0000",
+         "title" : "Shreyas Royal - first GM norm at 13!"
+      },
+      {
+         "description" : "Tour Winner Magnus Carlsen will take on Global Chess Champion Wesley So as the final event of the 2022 Meltwater Champions Chess Tour begins in San Francisco today. We'll also have Duda vs. Arjun Erigaisi, Praggnanandhaa vs. Mamedyarov and Le vs. Giri as play begins at 12pm in San Francisco (3pm ET, 21:00 CEST, 01:30 IST).",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-carlsen-vs-wesley-so-in-san-francisco",
+         "pubDate" : "Mon, 14 Nov 2022 12:11:48 +0000",
+         "title" : "Magnus Carlsen vs. Wesley So in San Francisco"
+      },
+      {
+         "description" : "Dai Changren and Tan Zhongyi (pictured) are the new champions of China. The 2022 Chinese Championships took place in Xinghua, Jiangsu province, on November 2-11. Both tournaments, open and women's, were 12-player round robins with classical time controls. | Photos: Chinese Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chinese-championships-2022-final-report",
+         "pubDate" : "Mon, 14 Nov 2022 13:00:00 +0100",
+         "title" : "Dai Changren and Tan Zhongyi win Chinese Championships"
+      },
+      {
+         "description" : " The 2022 Vikings Weekender begins this Friday (18th November), and there are still a few places left (13 at the time of posting this). As space at the venue is limited, there is a hard cap of 60 players, across 2 sections. Surprisingly it is the Under 1600 section that has fewer players, with the Open section looking quite strong. The tournament is a 6 round swiss, with 1 round on the Friday, 3 on Saturday and 2 on Sunday. The time limit is 60m+30s and both sections (Open and Under 1600) will be FIDE rated. Full details at <a href=\"http://actchess.org.au\">actchess.org.au</a> (or <a href=\"http://tournament.streetchess.net\">tournament.streetchess.net</a>) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-reminder.html",
+         "pubDate" : "Mon, 14 Nov 2022 11:36:00 +0000",
+         "title" : "2022 Vikings Weekender - Reminder"
+      },
+      {
+         "description" : "Anil Kumar and IM V. Saravanan invite you to the Houseboat Chess Tournament in Kerala, which will take place in January for the second time after 2020 in the fairytale backwaters of the Indian province and will be played partly on a houseboat. Registration is still open until 15 November. | Photo: Cottages at 'Waterscapes', an exotic backwater resort at Kumarakom| Photo: Orient Chess Moves",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-on-a-houseboat-in-kerala",
+         "pubDate" : "Mon, 14 Nov 2022 09:44:00 +0100",
+         "title" : "Chess on a houseboat in Kerala"
+      },
+      {
          "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
          "pubDate" : "Mon, 14 Nov 2022 07:30:00 +0100",
          "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
+      },
+      {
+         "description" : " The Meltwater Champions Chess Tour Finals take place 14th to 20th November 2022. The event is played on the Chess24 platform but half the players will be based at the Ferry Building in San Francisco, the city where Meltwater is based. Carlsen has already won the whole tour but there is $210,000 to play for. The event is a mini-match round robin. Four rapid games each day against the same opponent, the result of the mini-match, win draw or loss going into the table.Players: Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Quang Liem Le, Shakhriyar Mamedyarov, R Praggnanandhaa and Wesley So. Play starts 8pm GMT each day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-finals-2022",
+         "pubDate" : "Mon, 14 Nov 2022 08:42:00 +0400",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 - Games and Results"
       },
       {
          "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-akiba-rubinstein-quick-win-endgame-expertise",
          "pubDate" : "Sun, 13 Nov 2022 21:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Akiba Rubinstein - Quick win & Endgame expertise"
+      },
+      {
+         "description" : "The description tells us 'What' and 'Why'. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Wd8Acy60xQQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How chess is made || These workers make money by making chess sets</B> (10:02) &#149; '[Published on] Nov 4, 2022' <P>The description said, <BLOCKQUOTE>In this video make money by making chess sets and how its made chase [sic] set. Best way to earn money. </BLOCKQUOTE> <P>The comments mention India, but the description links to a Facebook page that says 'Karachi, Pakistan'. The whole thing remind",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/who-where-when.html",
+         "pubDate" : "Sun, 13 Nov 2022 16:55:00 +0000",
+         "title" : "Who? Where? When?"
       },
       {
          "description" : "Senior National Arbiters Seminar held at Tirupati , AP from 29th to 30th October , 2022.Total 40 participants has participated in this seminar and all",
@@ -1234,14 +1290,6 @@ news_feed (
          "title" : "European Senior Teams: England and Germany top the standings"
       },
       {
-         "description" : "The first game of the Women's Candidates semifinals between Anna Muzychuk and Lei Tingjie finished drawn. Muzychuk seemed surprised by her opponent's opening choice, as it was Lei's first time playing the Sicilian. The Chinese managed to get an edge in an endgame with rooks and knights, but her advantage was not enough to kick off the semifinal with a win. | Photo: FIDE / Michal walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g1",
-         "pubDate" : "Wed, 02 Nov 2022 05:00:00 +0100",
-         "title" : "Women's Candidates: Mutual annihilation"
-      },
-      {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1280,14 +1328,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-billionaire-bots",
          "pubDate" : "Tue, 01 Nov 2022 08:08:00 -0700",
          "title" : "Play Chess Against The New Billionaire Bots"
-      },
-      {
-         "description" : "In the Endgame Magic Show #213 Karsten M&uuml;ller and his guest David Navara look at endgame highlights from David's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-212-with-david-navara-2",
-         "pubDate" : "Tue, 01 Nov 2022 15:53:42 +0100",
-         "title" : "Endgame Magic #213 with David Navara"
       },
       {
          "description" : " <p class=\"lead\">Hikaru Nakamura is not only a successful streamer but also a brilliant OTB player who got his first World Title by winning the FIDE World Fischer Random Chess Championship in Reykjavik, Iceland. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.jpg\" width=\"1200\" height=\"782\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / FIDE</div> </div> Τhe second edition of the FIDE World Fischer Random Chess Championship took place in Reykjavik, Iceland from 25 to 30 October 2022, with the defending champion Wesley So, reigning world champion and the world no.1 Magnus Carlsen, Iceland no.1 GM Hjorvar Steinn Gretarsson (Organizer Wildcard",
@@ -1776,14 +1816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-claims-pests-destroyed-records-in-response-to-query-under-rti-act/articleshow/95104273.cms",
          "pubDate" : "Wed, 26 Oct 2022 14:38:22 +0000",
          "title" : "AICF claims pests destroyed records in response to query under RTI Act"
-      },
-      {
-         "description" : "Hikaru Nakamura exploited a huge blunder by World Champion Magnus Carlsen to win their mini-match on Day 1 of the Fischer Random World Championship in Reykjavik. In the other group the headlines were stolen by 18-year-old Nodirbek Abdusattorov, who crushed Ian Nepomniachtchi 2:0 before also taking down defending champion Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fischer-random-1-hikaru-beats-magnus",
-         "pubDate" : "Wed, 26 Oct 2022 12:50:13 +0000",
-         "title" : "Fischer Random 1: Hikaru beats Magnus "
       },
       {
          "description" : " Dear Reader, as I'm still in therapy for my Traumatic Brain Injury I have another guest Article for you. This one is very special because it could be the answer to a frequent question I get: how can I improve my visualization skills? Aiden's own Chess-blog &#38; training program &#8216;Don't Move Until You See&#8216; focuses [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/improve-your-visualization/\">Supercharge Your Chess Visualization Skills</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
