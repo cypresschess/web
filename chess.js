@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-1-live-video-coverage/",
+         "pubDate" : "Mon, 14 Nov 2022 14:24:32 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals - Day 1 live video coverage"
+      },
+      {
          "description" : "The ECF congratulates Shreyas Royal on the tremendous achievement of gaining his first GM norm at just 13 years old! Click here to see Shreyas's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-reminder.html",
          "pubDate" : "Mon, 14 Nov 2022 11:36:00 +0000",
          "title" : "2022 Vikings Weekender - Reminder"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2085",
+         "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
+         "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
+         "pubDate" : "Mon, 14 Nov 2022 10:12:00 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
       },
       {
          "description" : "Anil Kumar and IM V. Saravanan invite you to the Houseboat Chess Tournament in Kerala, which will take place in January for the second time after 2020 in the fairytale backwaters of the Indian province and will be played partly on a houseboat. Registration is still open until 15 November. | Photo: Cottages at 'Waterscapes', an exotic backwater resort at Kumarakom| Photo: Orient Chess Moves",
@@ -224,22 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/womens-bundesliga-2022-live/",
          "pubDate" : "Sat, 12 Nov 2022 17:51:44 +0000",
          "title" : "Women's Bundesliga 2022 LIVE"
-      },
-      {
-         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 11:46:13 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Team Championship 2022 will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-teams-compositions/",
-         "pubDate" : "Sat, 12 Nov 2022 11:40:06 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Teams compositions"
       },
       {
          "description" : "Anatoly Karpov was the sixth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2052",
          "pubDate" : "Mon, 24 Oct 2022 18:07:14 +0000",
          "title" : "Uzbekistan to host Pool B of the Women's Candidates Tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2051",
-         "pubDate" : "Mon, 24 Oct 2022 15:06:12 +0000",
-         "title" : "Year of the Woman in Chess: New podcast episode released"
-      },
-      {
-         "description" : " <p class=\"lead\">Elon Musk called chess player Garry Kasparov an idiot for criticizing his plan to reconcile Russia and Ukraine. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-10-24_20-03-04.jpg\" width=\"992\" height=\"1280\" alt=\"\" /> </div> Kasparov, former World Chess Champion criticized the head of Tesla in an interview with CNBC, condemning Musk's peaceful settlement of the situation around Ukraine (where Crimea is part of Russia, repeat referendums in the occupied territories are required). \"o why are people sitting in the comfort of their Silicon Valley mansions telling Ukraine how to run their own business?\" - Kasparov said. Musk's remarks angered",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/elon-musk-calls-garry-kasparov-a-douche-and-an-idiot-all-because/",
-         "pubDate" : "Mon, 24 Oct 2022 15:00:00 +0000",
-         "title" : "Elon Musk calls Garry Kasparov a \"douche\" and \"an idiot\". All because of his peace plan"
       }
    ]
 }
