@@ -1928,22 +1928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-fischer-random-chess-championship-2022",
          "pubDate" : "Tue, 25 Oct 2022 09:44:00 +0400",
          "title" : "FIDE World Fischer Random Chess Championship 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2054",
-         "pubDate" : "Mon, 24 Oct 2022 22:15:31 +0000",
-         "title" : "FIDE World Fischer Random Championship: Group stage ready to begin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2053",
-         "pubDate" : "Mon, 24 Oct 2022 21:34:35 +0000",
-         "title" : "Women's Candidates Tournament (Pool A) starts in Monte-Carlo"
       }
    ]
 }
