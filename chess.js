@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 16-year-old Eline Roebers from the Netherlands is an outstanding talent. She has already attracted attention with several successes and now fulfilled all the requirements to get the IM-title. On her way to the necessary norms, Roebers even skipped several other FIDE titles. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eline-roebers-16-years-old-international-master",
+         "pubDate" : "Tue, 15 Nov 2022 12:33:58 +0100",
+         "title" : "Eline Roebers: 16 years old, International Master"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2087",
+         "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
+         "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
+      },
+      {
+         "description" : "The final stage of the multi award-winning&#xA0;Meltwater Champions Chess Tour&#xA0;got off to a dramatic start in San Francisco today as Magnus Carlsen beat&#xA0;US star Wesley&#xA0;So. Magnus Carlsen and Wesley So, the two big rivals from the 2021 Tour, went head-to-head on Day 1 of the 2022 Tour Finals in a match seen by the experts []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-duda-giri-and-mamedyarov-win-their-r1-matches-meltwater-champions-tour-finals-2022-day-1-recap/",
+         "pubDate" : "Tue, 15 Nov 2022 10:03:21 +0000",
+         "title" : "Carlsen, Duda, Giri and Mamedyarov win their R1 matches; Meltwater Champions Tour Finals 2022 - Day 1 recap"
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour Finals took off on Monday in San Francisco with a win for the world champion. GM Magnus Carlsen toppled GM Wesley So, the recent winner of the Chess.com Global Chess Championship, in the opening round. How to w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-1",
+         "pubDate" : "Tue, 15 Nov 2022 01:13:26 -0800",
+         "title" : "Carlsen Beats So As Champions Chess Tour Finals Take Off In San Francisco"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2086",
+         "pubDate" : "Tue, 15 Nov 2022 09:09:20 +0000",
+         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
+      },
+      {
+         "description" : "Peter Svidler has been Russian Champion eight times, and no other player in the history of chess has won so many Russian or Soviet championships. In Chess Olympiads Svidler has played for Russia 10 times, winning gold five times and silver twice with the team. But as the site ChessTech reports, Svidler has now left Russia for Israel. | Photo: Peter Svidler at the Biel Chess Festival 2018 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/peter-svidler-leaves-russia",
+         "pubDate" : "Tue, 15 Nov 2022 10:00:39 +0100",
+         "title" : "Peter Svidler leaves Russia"
+      },
+      {
+         "description" : "One important defensive method in rook endings is giving checks - pawns that stop this \"rain of checks\" are called \"umbrellas\". In the diagrammed position it is White to move. How can he draw the game and stop Black from opening a functioning umbrella?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-umbrella",
+         "pubDate" : "Tue, 15 Nov 2022 09:00:00 +0100",
+         "title" : "The umbrella"
+      },
+      {
          "description" : "National U-11 Certificates(Gurgaon) are out to download Download using the link given below Open : Click Here! Girls : Click Here! Any Correction mail us at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
          "pubDate" : "Mon, 14 Nov 2022 20:50:00 +0100",
          "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
+         "description" : "Continuing with this blog's fortnightly coverage of the world's two foremost, ongoing engine vs. engine competitions, the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html\">TCEC S23 Sufi, CCC19 Rapid : Both Underway</A>(October 2022). To summarize that post:- <BLOCKQUOTE>TCEC: In S23 DivP Stockfish won all of its mini-matches, finishing three points ahead of LCzero and KomodoDragon; LCZero had tiebreak superior to KomodoDragon. The 100-game Sufi has seen five games finish, with Stockfish having a one point lead over LCZero. &#149; CCC: In the 'CCC19 Blitz Final' 300-game match, Stockfish beat Dragon by 60 points. Eight engines",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html",
+         "pubDate" : "Mon, 14 Nov 2022 16:03:00 +0000",
+         "title" : "TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish"
       },
       {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
@@ -272,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/swiss-nationalliga-a-2022-live/",
          "pubDate" : "Sat, 12 Nov 2022 17:59:25 +0000",
          "title" : "Swiss Nationalliga A 2022 LIVE"
-      },
-      {
-         "description" : "Women's Bundesliga round 3 and 4 is taking place from 12-13 November 2022 with SF Deizisau ( Hanna Marie Klek, Zoya Schleining, Dina Belenkaya, Jovana Rapport, Elena Koepke and Mara Jelica) , Medizin Erfurt ( Ha Thanh Nguyen, Elisa Reuter, Kristin Mueller-Ludwig, Doreen Troyke, Carolin Umpfenbach, Helena Irene Ulrich) , OSG Baden-Baden ( Zhansaya []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-bundesliga-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 17:51:44 +0000",
-         "title" : "Women's Bundesliga 2022 LIVE"
       },
       {
          "description" : "Anatoly Karpov was the sixth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
@@ -1194,22 +1250,6 @@ news_feed (
          "title" : "A delightful experience: Chess Houseboat 2023"
       },
       {
-         "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ivanchuk-shines-in-the-sicilian-with-white-and-with-black",
-         "pubDate" : "Thu, 03 Nov 2022 15:28:56 +0100",
-         "title" : "Svitlana's Smart Moves - Ivanchuk shines in the Sicilian: With White and with Black"
-      },
-      {
-         "description" : "In the new issue of ChessBase Magazine, 21 participants from the Chess Olympiad comment on their best games, including Anish Giri, Wesley So, Arjun Erigaisi, Jules Moussard, Luke McShane, Pentala Harikrishna, Matthias Bl&uuml;baum, Rasmus Svane, the silver medal team from Armenia and the gold medallists Anna and Mariya Muzychuk. In addition, our authors Robert Ris, Daniel King, Karsten Mueller and Mihail Marin pick up on particularly exciting games and moments from the Olympiad in their columns and video contributions. Wesley So's analysis of his game against Hrant Melkumyan is \"The Analysis\" of this issue and can be viewed here in an shortened version. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-210-the-analysis",
-         "pubDate" : "Thu, 03 Nov 2022 15:00:00 +0100",
-         "title" : "\"The Analysis\" by Wesley So"
-      },
-      {
          "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1248,14 +1288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/women-candidates-lei-muzychuk-semifinals-game-2",
          "pubDate" : "Thu, 03 Nov 2022 01:31:00 -0700",
          "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
-      },
-      {
-         "description" : "This is something that everyone is looking forward to. Both the youngsters are very well matched. What is the format for the Death Match? In this article you get to know not only the format of the ChessBase India Death Match 2.0, but also all about the upcoming Comedians Over The Board (COTB) and the DreamHack Rapid and Blitz Tournament. The Death Match between the two remarkable prodigies takes place on Saturday, November 5th. Don't miss it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-vs-gukesh-death-match-2-0",
-         "pubDate" : "Thu, 03 Nov 2022 06:00:00 +0100",
-         "title" : "Arjun vs Gukesh: Death Match 2.0"
       },
       {
          "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
@@ -1794,14 +1826,6 @@ news_feed (
          "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
       },
       {
-         "description" : "On Wednesday GM Humpy Koneru missed a great chance to take a 2-0 lead in her match with&#38;nbsp;GM Anna Muzychuk in the 2022-23 FIDE Women&#39;s Candidates Tournament in Monaco. The game ended in a draw, which also happened in GM Mariya Muzychuk vs. GM L...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-2",
-         "pubDate" : "Thu, 27 Oct 2022 01:08:00 -0700",
-         "title" : "Koneru Misses Win On Day Of Draws"
-      },
-      {
          "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1920,14 +1944,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/old-computers-old-website.html",
          "pubDate" : "Tue, 25 Oct 2022 12:44:00 +0000",
          "title" : "Old computers - old website?"
-      },
-      {
-         "description" : "The FIDE World Fischer Random Chess Championship over-the-board final opened yesterday in Reykjavik, and will be played from 25-30 October 2022 at the Brjaya Reykjavik Natura Hotel. The finals will consist of a two-group stage followed by the knockout semifinals and final. The time control will be 25 minutes per player for the first 30 moves, after which&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/",
-         "pubDate" : "Tue, 25 Oct 2022 10:07:09 +0000",
-         "title" : "FIDE World Fischer Random Chess Championship Finals opened in Reykjavik"
       }
    ]
 }
