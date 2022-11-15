@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National U-11 Certificates(Gurgaon) are out to download Download using the link given below Open : Click Here! Girls : Click Here! Any Correction mail us at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-11-certificates/",
+         "pubDate" : "Tue, 15 Nov 2022 07:44:52 +0000",
+         "title" : "National U-11 Certificates"
+      },
+      {
+         "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/",
+         "pubDate" : "Tue, 15 Nov 2022 06:44:42 +0000",
+         "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> and his manager <strong>Zoe Arnatskaya</strong> <a href=\"https://www.instagram.com/p/CjssbV7K4J0/?hl=de\">have bought</a> the <strong>World Chess Club Moscow</strong> from <strong>Ilya Merenzon</strong> and reopened it. Apart from the bar service, the plan is to run a chess school and business chess events. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/nepomniachtchi-buys-chess-bar/",
+         "pubDate" : "Tue, 15 Nov 2022 07:40:09 +0100",
+         "title" : "Nepomniachtchi buys chess bar"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95525344.cms\" />While the 17-year old Praggnanandhaa went down 1.5-2.5 to Shakhriyar Mamedyarov of Azerbaijan, Erigasi lost to Poland's Jan-Krzysztof Duda 0.5-2.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-indian-gms-praggnanandhaa-arjun-erigaisi-lose-in-opening-round/articleshow/95525344.cms",
+         "pubDate" : "Tue, 15 Nov 2022 06:31:19 +0000",
+         "title" : "Meltwater Champions Tour: Indian GMs Praggnanandhaa, Erigaisi lose in opening round"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2022/new-chess-foundation-in-dresden/",
          "pubDate" : "Sat, 12 Nov 2022 22:18:32 +0100",
          "title" : "New chess foundation in Dresden"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> and an unnamed partner <a href=\"https://www.instagram.com/p/CjssbV7K4J0/?hl=de\">have bought</a> the <strong>World Chess Club Moscow</strong> from <strong>Ilya Merenzon</strong> and reopened it. Apart from the bar service, the plan is to run a chess school and business chess events. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nepomniachtchi-buys-chess-bar/",
-         "pubDate" : "Sat, 12 Nov 2022 22:00:30 +0100",
-         "title" : "Nepomniachtchi buys chess bar"
       },
       {
          "description" : "Top division in Norwegian team league with Offerspill, V&#xE5;lerenga, Oslo SS, SK 1911, Nordstrand, Bergens, Hell, Troms&#xF8;, Stavanger and Asker. Watch Aryan Tari, Jon Ludvig Hammer and David Howell among others. &#xFEFF;",
@@ -1904,30 +1928,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-fischer-random-chess-championship-finals-opened-in-reykjavik/",
          "pubDate" : "Tue, 25 Oct 2022 10:07:09 +0000",
          "title" : "FIDE World Fischer Random Chess Championship Finals opened in Reykjavik"
-      },
-      {
-         "description" : "The 2022 European Open and Women Rapid &#38; Blitz Chess Championships will take place from 16th-18th December in Katowice, Poland. Organiser is Silesian Chess Federation under the auspices of the ECU and Polish Chess Federation The first tournament on the schedule will be the European Blitz Chess Championship which will be played on December 16th. Open and Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-and-women-rapid-blitz-chess-championships-2022-official-regulations/",
-         "pubDate" : "Tue, 25 Oct 2022 06:55:45 +0000",
-         "title" : "European Open and Women Rapid & Blitz Chess Championships 2022 - Official regulations"
-      },
-      {
-         "description" : " The FIDE Women Candidates Pool A takes place in Monaco 24th October to 6th November, 4 players, two rounds, the winner plays the winner of pool B which it's been announced will take place in Khiva, in Uzbekistan November 28 to December 11 (players: Aleksandra Goryachkina, Alexandra Kosteniuk, Tan Zhongyi and Kateryna Lagno). The players in Monaco are Mariya Muzychuk, Tingjie Lei, Humpy Koneru and Anna Muzychuk. Games starts at 3pm local time each day. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-a-2022",
-         "pubDate" : "Tue, 25 Oct 2022 09:47:00 +0400",
-         "title" : "FIDE Women Candidates Pool A 2022 - Games and Results"
-      },
-      {
-         "description" : " The FIDE World Fischer Random Chess Championship took place in Reykjavik 25th to 30th October 2022. The event starts tomorrow with two pools of four. Pool A Wesley So, Ian Nepomniachtchi, Nodirbek Abdusattorov and Hjorvar Steinn Gratarsson. Pool B Magnus Carlsen, Hikaru Nakamura, Vladimir Fedoseev and Matthias Bluebaum. Hikaru Nakamura beat Ian Nepomniachtchi in a final Armageddon tie-break in the final to take the title, Magnus Carlsen finished in 3rd place beating Nodirbek Abdusattorov. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-fischer-random-chess-championship-2022",
-         "pubDate" : "Tue, 25 Oct 2022 09:44:00 +0400",
-         "title" : "FIDE World Fischer Random Chess Championship 2022 - Games and Results"
       }
    ]
 }
