@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-2-live-video-coverage-2/",
+         "pubDate" : "Tue, 15 Nov 2022 15:50:16 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals - Day 2 live video coverage"
+      },
+      {
+         "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-youth-chess-champions-2022-crowned-in-antalya-turkey/",
+         "pubDate" : "Tue, 15 Nov 2022 15:44:06 +0000",
+         "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
+      },
+      {
+         "description" : "Magnus Carlsen won a thrilling match against Wesley So to take his Meltwater Champions Chess Tour season earnings to exactly $200,000 as the final event began in San Francisco. There were also wins for Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri, who overcame Liem Le in a blitz tiebreak.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-1-carlsen-beats-so-in-thriller",
+         "pubDate" : "Tue, 15 Nov 2022 15:29:28 +0000",
+         "title" : "MCCT Finals 1: Carlsen beats So in thriller"
+      },
+      {
+         "description" : "The Meltwater Tour Finals kicked off on Monday, with four out of eight participants playing on-site in San Francisco. The all-important clash between Magnus Carlsen and Wesley So saw the former getting a 2&frac12;-1&frac12; victory in a match not exempt of blunders. Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri also won in the event's first round.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r1",
+         "pubDate" : "Tue, 15 Nov 2022 16:00:00 +0100",
+         "title" : "Meltwater Finals: Carlsen beats So in hard-fought match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2088",
+         "pubDate" : "Tue, 15 Nov 2022 13:47:41 +0000",
+         "title" : "64th World Congress of Chess Composition gets underway in Fujairah, UAE"
+      },
+      {
+         "description" : "Zoe Veselow has won a silver medal in the Euro Youth U8 Girls.&#160;Her coach for the event, GM Jonathan Hawkins, said Zoe worked very hard...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/zoe-veselow-silver-medal-in-the-euro-youth-u8-girls/",
+         "pubDate" : "Tue, 15 Nov 2022 13:14:22 +0000",
+         "title" : "Zoe Veselow - silver medal in the Euro Youth U8 Girls!"
+      },
+      {
          "description" : "The 16-year-old Eline Roebers from the Netherlands is an outstanding talent. She has already attracted attention with several successes and now fulfilled all the requirements to get the IM-title. On her way to the necessary norms, Roebers even skipped several other FIDE titles. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +74,12 @@ news_feed (
          "title" : "Carlsen, Duda, Giri and Mamedyarov win their R1 matches; Meltwater Champions Tour Finals 2022 - Day 1 recap"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour Finals took off on Monday in San Francisco with a win for the world champion. GM Magnus Carlsen toppled GM Wesley So, the recent winner of the Chess.com Global Chess Championship, in the opening round. How to w...",
+         "description" : "The Meltwater Champions Chess Tour Finals began on Monday in San Francisco with a win for the world champion. GM Magnus Carlsen toppled GM Wesley So, the recent winner of the Chess.com Global Chess Championship, in the opening round. How to watc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-1",
-         "pubDate" : "Tue, 15 Nov 2022 01:13:26 -0800",
-         "title" : "Carlsen Beats So As Champions Chess Tour Finals Take Off In San Francisco"
+         "pubDate" : "Tue, 15 Nov 2022 01:13:00 -0800",
+         "title" : "Carlsen Beats So As Champions Chess Tour Finals Begin In San Francisco"
       },
       {
          "description" : "",
@@ -40,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2086",
          "pubDate" : "Tue, 15 Nov 2022 09:09:20 +0000",
          "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
-      },
-      {
-         "description" : "Peter Svidler has been Russian Champion eight times, and no other player in the history of chess has won so many Russian or Soviet championships. In Chess Olympiads Svidler has played for Russia 10 times, winning gold five times and silver twice with the team. But as the site ChessTech reports, Svidler has now left Russia for Israel. | Photo: Peter Svidler at the Biel Chess Festival 2018 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/peter-svidler-leaves-russia",
-         "pubDate" : "Tue, 15 Nov 2022 10:00:39 +0100",
-         "title" : "Peter Svidler leaves Russia"
       },
       {
          "description" : "One important defensive method in rook endings is giving checks - pawns that stop this \"rain of checks\" are called \"umbrellas\". In the diagrammed position it is White to move. How can he draw the game and stop Black from opening a functioning umbrella?",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-indian-gms-praggnanandhaa-arjun-erigaisi-lose-in-opening-round/articleshow/95525344.cms",
          "pubDate" : "Tue, 15 Nov 2022 06:31:19 +0000",
          "title" : "Meltwater Champions Tour: Indian GMs Praggnanandhaa, Erigaisi lose in opening round"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Mon, 14 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
       },
       {
          "description" : "Continuing with this blog's fortnightly coverage of the world's two foremost, ongoing engine vs. engine competitions, the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html\">TCEC S23 Sufi, CCC19 Rapid : Both Underway</A>(October 2022). To summarize that post:- <BLOCKQUOTE>TCEC: In S23 DivP Stockfish won all of its mini-matches, finishing three points ahead of LCzero and KomodoDragon; LCZero had tiebreak superior to KomodoDragon. The 100-game Sufi has seen five games finish, with Stockfish having a one point lead over LCZero. &#149; CCC: In the 'CCC19 Blitz Final' 300-game match, Stockfish beat Dragon by 60 points. Eight engines",
@@ -314,28 +346,12 @@ news_feed (
          "title" : "Norwegian Team League 2022 LIVE"
       },
       {
-         "description" : "The Final stage of the Italian Championship is a 12-player round-robin tournament, held from November 12th to 23rd in Cagliari, Italy with Pier Luigi Basso, Luca Moroni, Alberto David, Alberto Barp, Giuseppe Lettieri, Valerio Carnicelli, Edoardo Di Benedetto, Lorenzo Lodici, Francesco Sonis, Sabino Brunello, Danyyil Dvinryy, Michele Godena. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italian-championship-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 19:42:40 +0000",
-         "title" : "Italian Championship 2022 LIVE"
-      },
-      {
          "description" : "India has seen the rise of many fine chess players who have done exceedingly well in their junior years and have even become strong grandmasters, but have stumbled on their path towards becoming world class players. There was definitely something missing when it came to development of these talents. As on today, it is widely agreed in the chess world that India has the best crop of young talents with players like Gukesh, Arjun Erigaisi, Praggnanandhaa, Nihal Sarin, Raunak Sadhwani and many others. In order to ensure that their potential reaches the right destination, Vishy Anand decided to start off with the WestBridge Anand Chess Academy (WACA) in December 2020. How did it all begin? How do",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/how-vishy-anand-is-supporting-young-super-talents-of-india-through-waca",
          "pubDate" : "Sat, 12 Nov 2022 19:00:00 +0100",
          "title" : "How Vishy Anand is supporting young super talents of India through WACA"
-      },
-      {
-         "description" : "The final two rounds of the Swiss Nationalliga A take place from 12-13 November 2022 in Zurich, Switzerland with Christian Bauer, Martin Kraemer, Oliver Kurmann, Yannick Pelletier, Alexandra Kosteniuk, Fabian Baenziger, Valery Atlas, Lucas Brunner, Markus Ragger, Andreas Heimann, Nico Georgiadis, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-nationalliga-a-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 17:59:25 +0000",
-         "title" : "Swiss Nationalliga A 2022 LIVE"
       },
       {
          "description" : "Anatoly Karpov was the sixth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
@@ -1250,6 +1266,14 @@ news_feed (
          "title" : "A delightful experience: Chess Houseboat 2023"
       },
       {
+         "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ivanchuk-shines-in-the-sicilian-with-white-and-with-black",
+         "pubDate" : "Thu, 03 Nov 2022 15:28:56 +0100",
+         "title" : "Svitlana's Smart Moves - Ivanchuk shines in the Sicilian: With White and with Black"
+      },
+      {
          "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1794,14 +1818,6 @@ news_feed (
          "title" : "FIDE increases prize fund for World Senior Chess Championship"
       },
       {
-         "description" : "The ECF is very sad to learn of the passing last night of International Master Michael Basman. Michael was a renowned English chess player, author...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-master-michael-basman-rip/",
-         "pubDate" : "Thu, 27 Oct 2022 17:09:52 +0000",
-         "title" : "International Master Michael Basman RIP"
-      },
-      {
          "description" : "Last month's Yahoos post (see the footnote for an explanation of Yahoos) was <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A>(September 2022). It followed a course not seen in previous Yahoos:- <BLOCKQUOTE>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from Google News, similar to the chart in last month's <B>Olympiad, Business, and Political Yahoos</B> (August 2022). On the right are counts from a special supplement, linked from the <I>Google News</I> results and called 'Full Coverage'. These stories were 100% about the cheating scandal.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2059",
          "pubDate" : "Wed, 26 Oct 2022 21:32:12 +0000",
          "title" : "Women's Candidates Pool A: A peaceful day at the office"
-      },
-      {
-         "description" : "Humpy Koneru got off to a perfect start in the FIDE Women's Candidates yesterday, scoring a beautiful 24-move win against Anna Muzychuk. Lei Tingjie also converted with White as she beat Anna's sister Mariya Muzychuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/women-s-candidates-starts-with-a-bang",
-         "pubDate" : "Wed, 26 Oct 2022 17:35:27 +0000",
-         "title" : "Women's Candidates starts with a bang"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95104273.cms\" />The All India Chess Federation (AICF) has claimed that records pertaining to a Right to Information (RTI) Act query by a player were destroyed by pests at its headquarters, leading to a rebuke from the Central Information Commission.",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2022-gm-leon-mendonca-finishes-joint-first-in-world-juniors-chess-2022/",
          "pubDate" : "Tue, 25 Oct 2022 17:08:10 +0000",
          "title" : "World Junior Chess Championship 2022 :GM Leon Mendonca finishes joint first in World Juniors chess 2022"
-      },
-      {
-         "description" : " While doing some research on older model chess computers I came across <a href=\"http://www.spacious-mind.com/\">The Spacious Mind</a> webpage. it is dedicated to old desktop chess computers and vintage software, and looks to be a good resource for anyone interested. The only issue is that it seems somewhat incomplete, with around half the pages \"Coming Soon\". Also the design is a little 1990's, which has me wondering if it is deliberately going for the 'retro' feel, or it really is just very, very old. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/old-computers-old-website.html",
-         "pubDate" : "Tue, 25 Oct 2022 12:44:00 +0000",
-         "title" : "Old computers - old website?"
       }
    ]
 }
