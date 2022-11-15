@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Beirut Open is taking place from 12&#x2013;19 November 2022 in Beirut, Lebanon. It is a 9-round Swiss tournament&#xA0;with Amro El Jawich, Malek. Koniahli, Shahin Lorparizangeneh, Abdelrahman Hesham, Joe Assaad, Azer Mirzoev, Ahmad Najjar, Amir Zaibi, Alexander Raetsky, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/beirut-open-2022-live/",
+         "pubDate" : "Tue, 15 Nov 2022 16:45:40 +0000",
+         "title" : "Beirut Open 2022 LIVE"
+      },
+      {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.chessdom.com/european-youth-chess-champions-2022-crowned-in-antalya-turkey/",
          "pubDate" : "Tue, 15 Nov 2022 15:44:06 +0000",
          "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.1920.jpeg\" title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. photo: LevitovChess\" data-title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. (photo: LevitovChess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.480.jpeg\" alt=\"While st",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/out-of-russia/",
+         "pubDate" : "Tue, 15 Nov 2022 16:42:56 +0100",
+         "title" : "Out of Russia"
       },
       {
          "description" : "Magnus Carlsen won a thrilling match against Wesley So to take his Meltwater Champions Chess Tour season earnings to exactly $200,000 as the final event began in San Francisco. There were also wins for Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri, who overcame Liem Le in a blitz tiebreak.",
@@ -338,14 +354,6 @@ news_feed (
          "title" : "New chess foundation in Dresden"
       },
       {
-         "description" : "Top division in Norwegian team league with Offerspill, V&#xE5;lerenga, Oslo SS, SK 1911, Nordstrand, Bergens, Hell, Troms&#xF8;, Stavanger and Asker. Watch Aryan Tari, Jon Ludvig Hammer and David Howell among others. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norwegian-team-league-2022-live/",
-         "pubDate" : "Sat, 12 Nov 2022 20:02:34 +0000",
-         "title" : "Norwegian Team League 2022 LIVE"
-      },
-      {
          "description" : "India has seen the rise of many fine chess players who have done exceedingly well in their junior years and have even become strong grandmasters, but have stumbled on their path towards becoming world class players. There was definitely something missing when it came to development of these talents. As on today, it is widely agreed in the chess world that India has the best crop of young talents with players like Gukesh, Arjun Erigaisi, Praggnanandhaa, Nihal Sarin, Raunak Sadhwani and many others. In order to ensure that their potential reaches the right destination, Vishy Anand decided to start off with the WestBridge Anand Chess Academy (WACA) in December 2020. How did it all begin? How do",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-round-5-report/",
          "pubDate" : "Fri, 11 Nov 2022 11:01:55 +0000",
          "title" : "European Youth Chess Championship 2022 - Round 5 report"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.1920.jpeg\" title=\"\"Old news\" is what Peter Svidler called his move to Israel. photo: Maria Emelianova / Chess.com\" data-title=\"\"Old news\" is what Peter Svidler called his move to Israel. (photo: Maria Emelianova / Chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-55.480.jpeg\" alt=\"\"Old news\" is what Peter Svidler called his move to Israel.\" srcset=\"https://www.chesstech.org/files/s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/out-of-russia/",
-         "pubDate" : "Fri, 11 Nov 2022 11:13:02 +0100",
-         "title" : "Out of Russia"
       },
       {
          "description" : "We're delighted to be able to confirm that rolling membership has now gone live. This means that people joining or renewing part-way through the season...",
