@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Tue, 15 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young players who performed well at the 2022 Chess Olympiad in August. Nodirbek Abdusattorov, Gukesh D, and more! 2022.11.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-stars-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/young-stars-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 15 Nov 2022 19:22:16 +0000",
+         "title" : "Young Stars of the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It took me a while to get into the Ragozin defence of QGD. I played with success the Catalan for a number of years and forcing Nb8-c6 in front of <a href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Ragozin Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\">Need sure points? QGD, Ragozin Variation Edition</a> appeared first on <a rel=",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/",
+         "pubDate" : "Tue, 15 Nov 2022 18:43:35 +0000",
+         "title" : "Need sure points? QGD, Ragozin Variation Edition"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2089",
+         "pubDate" : "Tue, 15 Nov 2022 17:02:06 +0000",
+         "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
+      },
+      {
          "description" : "Beirut Open is taking place from 12&#x2013;19 November 2022 in Beirut, Lebanon. It is a 9-round Swiss tournament&#xA0;with Amro El Jawich, Malek. Koniahli, Shahin Lorparizangeneh, Abdelrahman Hesham, Joe Assaad, Azer Mirzoev, Ahmad Najjar, Amir Zaibi, Alexander Raetsky, etc. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -890,14 +922,6 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 7 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-5",
-         "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
-         "title" : "2022 Fall Chess Classic: Round 5"
-      },
-      {
          "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1264,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-housboat-2023-preview",
          "pubDate" : "Thu, 03 Nov 2022 15:40:00 +0100",
          "title" : "A delightful experience: Chess Houseboat 2023"
-      },
-      {
-         "description" : "In the 1980s Vasyl \"Chucky\" Ivanchuk became one of the world's top 100 players and he will probably remain one for another ten years, or longer. Svitlana shows us how the Ukrainian GM plays the Sicilian - in two wonderful games we see how Ivanchuk defeats Kasparov and Vallejo Pons with White, and then we see how he plays the Sicilian with Black to smash Anand.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-ivanchuk-shines-in-the-sicilian-with-white-and-with-black",
-         "pubDate" : "Thu, 03 Nov 2022 15:28:56 +0100",
-         "title" : "Svitlana's Smart Moves - Ivanchuk shines in the Sicilian: With White and with Black"
       },
       {
          "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
@@ -1928,22 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2056",
          "pubDate" : "Tue, 25 Oct 2022 21:43:34 +0000",
          "title" : "FIDE World FR Championship: Veterans show muscle; teenager shows fire"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2055",
-         "pubDate" : "Tue, 25 Oct 2022 20:22:08 +0000",
-         "title" : "Women's Candidates Tournament, Day 1: White start strong"
-      },
-      {
-         "description" : "GM Leon Luke Mendonca played a marathon game on board 1 of open section in order to win against the leader GM Adam Kozak, Adam",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2022-gm-leon-mendonca-finishes-joint-first-in-world-juniors-chess-2022/",
-         "pubDate" : "Tue, 25 Oct 2022 17:08:10 +0000",
-         "title" : "World Junior Chess Championship 2022 :GM Leon Mendonca finishes joint first in World Juniors chess 2022"
       }
    ]
 }
