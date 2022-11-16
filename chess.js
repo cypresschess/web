@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana and Vladimir Fedoseev were the winners of Titled Tuesday on November 15, both doing so outright without needing tiebreaks. Caruana reached the coveted 10.5/11 score in the early tournament, only drawing in round five. Fedoseev ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-fedoseev-win-titled-tuesday-november-15-2022",
+         "pubDate" : "Wed, 16 Nov 2022 08:13:20 -0800",
+         "title" : "U.S. Champion Caruana Dominates Tuesday"
+      },
+      {
+         "description" : "Magnus Carlsen and Jan-Krzysztof Duda have the only perfect scores after two rounds of the Meltwater Champions Chess Tour Finals after overcoming Arjun Erigaisi and Shakhriyar Mamedyarov respectively. Anish Giri has also won both matches, in tiebreaks, after staging an incredible recovery from 2:0 down to beat Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-2-carlsen-duda-lead-giri-comeback",
+         "pubDate" : "Wed, 16 Nov 2022 15:49:51 +0000",
+         "title" : "MCCT Finals 2: Carlsen & Duda lead, Giri comeback"
+      },
+      {
+         "description" : "The 30th edition of the FIDE World Senior Championship began in Assisi, Italy. The country is hosting this event for the eighth time. After the tournaments in Arco (2001), Lignano Sabbiadoro (2005), Arvier (2006), Condino (2009), Arco (2010), Acqui Terme (2015 and 2017), Assisi, the capital of Umbria, a small town in the heart of Italy, picked up the baton. | Photo: FIDE President Arkady Dvorkovich makes the first ceremonial move in the game between GM John Nunn (ENG) and FM Sameer Sursock (LBN) | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-senior-chess-championship-2022-kicks-off-in-assisi-italy",
+         "pubDate" : "Wed, 16 Nov 2022 16:00:36 +0100",
+         "title" : "FIDE World Senior Chess Championship 2022 kicks off in Assisi, Italy"
+      },
+      {
+         "description" : "The Russian Chess Federation sent no less than 73 participants to the European Youth Championship in Antalya, who all had to play under the flag of FIDE - and they won more medals than the other federations. But it was Mariam Mkrtchyan (photo) from Armenia, who started in the U18w, who achieved the most dominant victory by winning gold with 8.5/9. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russia-most-successful-at-european-youth-championships",
+         "pubDate" : "Wed, 16 Nov 2022 15:46:38 +0100",
+         "title" : "Russia most successful at European Youth Championships"
+      },
+      {
+         "description" : "Plenty of our customers are delighted by Ivan Sokolov's Understanding Middlegame Strategies series, and meanwhile we have six parts available. The Grandmaster who has participated at twelve chess Olympiads as a player, and reached a rating of over 2700 in January 2004, had very recent success again, as the coach of the Uzbek national team, who won the gold medal in Chennai in 2022. We wanted to know what Sokolov is doing besides chess, and why he is paying a tax when he meets the gym. | Photos: Ivan Sokolov Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-ivan-sokolov",
+         "pubDate" : "Wed, 16 Nov 2022 15:20:43 +0100",
+         "title" : "Meet The Fritztrainer - Ivan Sokolov"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has finally <a href=\"https://fide.com/news/2090\">published the make-up of its commissions</a> until 2026. Among the promoted people are top arbiters like <strong>St&eacute;phane Escafre</strong> (Rules Commission), <strong>Laurent Freyd</strong> (Planning and Development), <strong>Anastasya Sorokina</strong> (Women), <strong>Ivan Sorovy</strong> (Arbiters). <strong>Yuri Garrett</strong>, <a href=\"https://www.chesstech.org/2022/trust-was-yesterday/\">who we recently interviewed</a>, heads Fair Play, <strong>Jerry Nash</strong> Education, <strong>Akaki Iashvili</strong> Events and GM <strong>Tiberiu-Marian Georgescu</strong> the T",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/arbiters-head-commissions/",
+         "pubDate" : "Wed, 16 Nov 2022 14:24:56 +0100",
+         "title" : "Arbiters head commissions"
+      },
+      {
+         "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/new-fide-commissions.html",
+         "pubDate" : "Wed, 16 Nov 2022 13:05:00 +0000",
+         "title" : "New FIDE Commissions "
+      },
+      {
+         "description" : "The pianist Volker Ahmels regularly organises music festivals in Schwerin, Germany, to remember and to honour ostracised and persecuted musicians. One of these musicians was the composer Arnold Sch&ouml;nberg, who had to flee Austria because he was persecuted by the Nazis. Sch&ouml;nberg is the creator of 12-tone music but he also invented a chess variant, which he called \"Coalition Chess\". Last week, Volker Ahmels and the cabaret artist Matthias Deutschmann tried their hand at this demanding form of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/music-chess-and-arnold-schoenberg",
+         "pubDate" : "Wed, 16 Nov 2022 14:00:00 +0100",
+         "title" : "Music, chess and Arnold Sch&ouml;nberg"
+      },
+      {
          "description" : "5-time World Champion Viswanathan Anand spoke about cheating in chess and opened up about the cheating scandal involving Magnus Carlsen and Hans Niemann.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/anand-on-the-carlsen-niemann-scandal-there-is-not-going-to-be-any-proof",
          "pubDate" : "Wed, 16 Nov 2022 12:27:04 +0000",
-         "title" : "Anand on the Carlsen/Niemann scandal: \"There is not going to be any proof\""
+         "title" : "Anand on Carlsen-Niemann: \"There's not going to be any proof\""
       },
       {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
@@ -42,7 +106,7 @@ news_feed (
          "title" : "64th World Congress of Chess Composition kicked off in Fujairah, UAE"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the&#38;nbsp;Meltwater Champions Chess Tour Finals as the only two players to win both of their matches 3-0.&#38;nbsp;GM Anish Giri won his second blitz tiebreak in a row, this ti...",
+         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the Meltwater Champions Chess Tour Finals. They are the only players to gain six points for winning both of their matches without a tiebreak. GM Anish Giri won his second ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-2",
@@ -890,14 +954,6 @@ news_feed (
          "title" : "I think I have turned 40 (as a chessplayer)"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> <a href=\"https://fide.com/news/2082\">will hold</a> the <strong>World Rapid and Blitz Championship</strong> as usual between Christmas and New Year in the Kazakh capital Almaty (not Abu Dhabi as <a href=\"https://www.chesstech.org/2022/four-more-years-with-a-russian/\">reported here in April</a>). </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/almaty-hosts-world-rapid-and-blitz/",
-         "pubDate" : "Mon, 07 Nov 2022 13:48:53 +0100",
-         "title" : "Almaty hosts World Rapid and Blitz"
-      },
-      {
          "description" : "At the end of October the FIDE and the Malta Chess Federation organised the World Amateur Chess Championships, in which about 200 male and female players took part. The titles all went to Mongolia or Kazakhstan. | Photo: Andreas Kontokanis",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1218,14 +1274,6 @@ news_feed (
          "title" : "Eugenio Torre: The Pillar of Philippine Chess"
       },
       {
-         "description" : "This week Robert Ris goes over a splendid 18-move game, in which 12-year-old Chinese prodigy Lu Miaoyi showcases a hyper-aggressive style to obtain a remarkable victory. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-12-year-old-girl-wins-miniature",
-         "pubDate" : "Fri, 04 Nov 2022 11:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Lu Miaoyi, aged 12, wins amazing miniature"
-      },
-      {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1248,22 +1296,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/nov/04/chess-hikaru-nakamura-reykjavik-fischer-random",
          "pubDate" : "Fri, 04 Nov 2022 08:00:38 +0000",
          "title" : "Chess: Hikaru Nakamura follows Fischer's footsteps to win in Reykjavik"
-      },
-      {
-         "description" : "The Edinburgh Chess Club was founded in 1822 and is celebrating its 200th birthday on November 4. It is the world's second oldest chess club in continued existence after Zurich (1809). Best wishes for the Bicentenary celebrations, and for the next 100 years!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/edinburgh-chess-club-200-anniversary",
-         "pubDate" : "Fri, 04 Nov 2022 08:45:00 +0100",
-         "title" : "The Edinburgh Chess Club celebrates its 200th anniversary"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #540 Merijn van Delft again analyses a game from the German Bundesliga. Sergei Movsesian proved to be better prepared than Frank Bracker in a sharp Sicilian Taimanov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-540-movsesian-bracker",
-         "pubDate" : "Fri, 04 Nov 2022 07:15:00 +0100",
-         "title" : "Game of the Week #540: S. Movsesian vs F. Bracker"
       },
       {
          "description" : "Praggnanandhaa and Nandhidhaa becomes Asian Champions New Delhi (04 Nov 2022):- Top seed Grandmaster Praggnanandhaa R and Women Grandmaster Nandhidhaa P V became the Asian",
@@ -1320,14 +1352,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/ram-mates-ewe.html",
          "pubDate" : "Thu, 03 Nov 2022 16:08:00 +0000",
          "title" : "'Ram Mates Ewe'?"
-      },
-      {
-         "description" : "The Chess Houseboat 2023 event, set to take place on 22-28 January, is a unique tournament that is played on a boat on the backwaters of Kerala, in southwest India. The games take place while sailing through fairytale landscapes. After the rounds, participants will have the opportunity to enjoy the mooring locations and will be accommodated in top resorts: chess in paradise.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-housboat-2023-preview",
-         "pubDate" : "Thu, 03 Nov 2022 15:40:00 +0100",
-         "title" : "A delightful experience: Chess Houseboat 2023"
       },
       {
          "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "Women's Candidates Pool A: The tension is rising"
       },
       {
-         "description" : "Defending Champion Wesley So blundered mate-in-3 against Icelandic no. 1 Hjorvar Gretarsson on the final day of the group stages of the Fischer Random World Championship, effectively ending his slim hopes of retaining his title. Elsewhere the favourites made it through and it's going to be Carlsen-Nepomniachtchi and Nakamura-Abdusattorov in Saturday's semi-finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fischer-random-3-wesley-so-knocked-out",
-         "pubDate" : "Fri, 28 Oct 2022 15:50:56 +0000",
-         "title" : "Fischer Random 3: Wesley So knocked out"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95150515.cms\" />Sixteen-year old Indian Grandmaster Leon Luke Mendonca shot into the sole lead in the Open section after the third round of the Asian Continental Chess Championship on Friday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1816,14 +1832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-210",
          "pubDate" : "Fri, 28 Oct 2022 13:00:00 +0100",
          "title" : "New: ChessBase Magazine #210"
-      },
-      {
-         "description" : "IM Michael Basman, a strong British player in the 1960s and &#39;70s, founder of the U.K. Chess Challenge, prolific author, and most of all an innovator both on and off the chessboard, died of pancreatic cancer on Wednesday at age 76. Most famous for ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/michael-basman-1946-2022",
-         "pubDate" : "Fri, 28 Oct 2022 01:31:00 -0700",
-         "title" : "Michael Basman, 1946-2022"
       },
       {
          "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100m lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.com",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2059",
          "pubDate" : "Wed, 26 Oct 2022 21:32:12 +0000",
          "title" : "Women's Candidates Pool A: A peaceful day at the office"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95104273.cms\" />The All India Chess Federation (AICF) has claimed that records pertaining to a Right to Information (RTI) Act query by a player were destroyed by pests at its headquarters, leading to a rebuke from the Central Information Commission.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-claims-pests-destroyed-records-in-response-to-query-under-rti-act/articleshow/95104273.cms",
-         "pubDate" : "Wed, 26 Oct 2022 14:38:22 +0000",
-         "title" : "AICF claims pests destroyed records in response to query under RTI Act"
       }
    ]
 }
