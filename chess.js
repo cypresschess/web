@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Wed, 16 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
          "description" : "The 2022 Speed Chess Championship main event begins in less than a week! Sixteen of the world&#38;rsquo;s top players will find out who&#38;rsquo;s the quickest on their feet as they vie for the world&#38;rsquo;s most prestigious online speed chess title.&#38;nbs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
          "pubDate" : "Fri, 04 Nov 2022 11:48:53 +0000",
          "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
-      },
-      {
-         "description" : "I take a break from my usual historical articles to pay tribute to a countryman who has been recently honored with one of the highest distinctions in chess - his induction into the World Chess Hall of Fame. In a sense, this tribute is still partly historical, as his long career is now all part of chess lore. He is none other than Grandmaster Eugenio Torre of the Philippines, who turns 71 today. To Eugene, a joyous birthday, and our heartfelt congratulations!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eugenio-torre-pillar-of-philippine-chess",
-         "pubDate" : "Fri, 04 Nov 2022 11:30:00 +0100",
-         "title" : "Eugenio Torre: The Pillar of Philippine Chess"
       },
       {
          "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
