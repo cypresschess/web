@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned his 3rd International Master norm last Sunday and is now focused on joining the ranks of Grandmaster. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-earns-3rd-norm-now-im-elect/\">Tani Adewumi is now IM-elect!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-earns-3rd-norm-now-im-elect/",
+         "pubDate" : "Tue, 15 Nov 2022 23:55:58 +0000",
+         "title" : "Tani Adewumi is now IM-elect!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2090",
+         "pubDate" : "Tue, 15 Nov 2022 21:32:55 +0000",
+         "title" : "FIDE Commissions for 2022-26"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -109,6 +125,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2086",
+         "pubDate" : "Tue, 15 Nov 2022 11:09:20 +0000",
+         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2087",
          "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
          "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-1",
          "pubDate" : "Tue, 15 Nov 2022 01:13:00 -0800",
          "title" : "Carlsen Beats So As Champions Chess Tour Finals Begin In San Francisco"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2086",
-         "pubDate" : "Tue, 15 Nov 2022 09:09:20 +0000",
-         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
       },
       {
          "description" : "One important defensive method in rook endings is giving checks - pawns that stop this \"rain of checks\" are called \"umbrellas\". In the diagrammed position it is White to move. How can he draw the game and stop Black from opening a functioning umbrella?",
@@ -1928,22 +1944,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/",
          "pubDate" : "Wed, 26 Oct 2022 01:00:00 +0000",
          "title" : "Maurice Ashley on C-Squared Podcast"
-      },
-      {
-         "description" : " IM Kostya Kavutskiy Each one of us goes through unique personal experiences in our life. There is no generic plan we can follow to accomplish our goals. Of course we get tips from parents, teachers or friends and it is up to us to listen. If we do not, life has a funny way of <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (2)</a> appeared first on",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-2/",
-         "pubDate" : "Tue, 25 Oct 2022 21:51:43 +0000",
-         "title" : "\"Tactics are temporary, endgames are permanent\" (2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2056",
-         "pubDate" : "Tue, 25 Oct 2022 21:43:34 +0000",
-         "title" : "FIDE World FR Championship: Veterans show muscle; teenager shows fire"
       }
    ]
 }
