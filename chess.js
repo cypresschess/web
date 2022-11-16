@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young players who performed well at the 2022 Chess Olympiad in August. Nodirbek Abdusattorov, Gukesh D, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" /></a></div",
+         "description" : "Two players have 6/6 match points at the Meltwater Champions Chess Tour Finals 2022. Magnus Carlsen and Jan-Krzysztof Duda both won their first two matches without needing tiebreaks and are now sharing the lead. Anish Giri and Le Quang Liem stand two points back. Duda and Giri will face each other in Wednesday's third round.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r2",
+         "pubDate" : "Wed, 16 Nov 2022 09:10:00 +0100",
+         "title" : "Meltwater Finals: Duda and Carlsen share the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95547768.cms\" />Young Indian Grandmaster R Praggnanandhaa went down to Dutch GM Anish Giri 2.5-3.5 in the second round of the Meltwater Champions Tour Finals here on Wednesday. The other Indian in the fray -- Arjun Erigaisi was outclassed by world no.1 Magnus Carlsen 2.5-0.5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-r-praggnanandhaa-arjun-erigaisi-lose-again/articleshow/95547768.cms",
+         "pubDate" : "Wed, 16 Nov 2022 05:14:51 +0000",
+         "title" : "Meltwater Champions Tour Finals: R Praggnanandhaa, Arjun Erigaisi lose again"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Indian grandmaster Gukesh D, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
@@ -18,20 +34,20 @@ news_feed (
          "title" : "Loose Pieces Drop Off! | Beginner Breakdown"
       },
       {
+         "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned a 3rd International Master norm last Sunday. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title. At the NYC Fall GM/IM Invitational this past weekend at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/\">Tani Adewumi earns another IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/",
+         "pubDate" : "Tue, 15 Nov 2022 23:55:58 +0000",
+         "title" : "Tani Adewumi earns another IM norm!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2090",
          "pubDate" : "Tue, 15 Nov 2022 21:32:55 +0000",
          "title" : "FIDE Commissions for 2022-26"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Tue, 15 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young players who performed well at the 2022 Chess Olympiad in August. Nodirbek Abdusattorov, Gukesh D, and more! 2022.11.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-stars-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" />",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "MCCT Finals 1: Carlsen beats So in thriller"
       },
       {
-         "description" : "The Meltwater Tour Finals kicked off on Monday, with four out of eight participants playing on-site in San Francisco. The all-important clash between Magnus Carlsen and Wesley So saw the former getting a 2&frac12;-1&frac12; victory in a match not exempt of blunders. Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri also won in the event's first round.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r1",
-         "pubDate" : "Tue, 15 Nov 2022 16:00:00 +0100",
-         "title" : "Meltwater Finals: Carlsen beats So in hard-fought match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-umbrella",
          "pubDate" : "Tue, 15 Nov 2022 09:00:00 +0100",
          "title" : "The umbrella"
+      },
+      {
+         "description" : "The Meltwater Tour Finals kicked off on Monday, with four out of eight participants playing on-site in San Francisco. The all-important clash between Magnus Carlsen and Wesley So saw the former getting a 2&frac12;-1&frac12; victory in a match not exempt of blunders. Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri also won in the event's first round.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r1",
+         "pubDate" : "Tue, 15 Nov 2022 08:55:00 +0100",
+         "title" : "Meltwater Finals: Carlsen beats So in hard-fought match"
       },
       {
          "description" : "National U-11 Certificates(Gurgaon) are out to download Download using the link given below Open : Click Here! Girls : Click Here! Any Correction mail us at",
