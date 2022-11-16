@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned his 3rd International Master norm last Sunday and is now focused on joining the ranks of Grandmaster. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-earns-3rd-norm-now-im-elect/\">Tani Adewumi is now IM-elect!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-earns-3rd-norm-now-im-elect/",
-         "pubDate" : "Tue, 15 Nov 2022 23:55:58 +0000",
-         "title" : "Tani Adewumi is now IM-elect!"
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young players who performed well at the 2022 Chess Olympiad in August. Nodirbek Abdusattorov, Gukesh D, and more! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 16 Nov 2022 01:22:19 +0000",
+         "title" : "Gukesh Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on exploited unprotected pieces. Identify the opponent's \"loose\" pieces and pick them off with forks, pins, and discover attacks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/loose-pieces-drop-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/loose-pieces-drop-beginner-breakdown",
+         "pubDate" : "Wed, 16 Nov 2022 01:22:19 +0000",
+         "title" : "Loose Pieces Drop Off! | Beginner Breakdown"
       },
       {
          "description" : "",
@@ -778,14 +786,6 @@ news_feed (
          "title" : "Where to go?"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-6",
-         "pubDate" : "Tue, 08 Nov 2022 04:16:51 +0000",
-         "title" : "2022 Fall Chess Classic: Round 6"
-      },
-      {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022-report",
          "pubDate" : "Mon, 07 Nov 2022 06:25:00 +0100",
          "title" : "European Senior Team Championships conclude in Dresden"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-7-lichessorg",
-         "pubDate" : "Mon, 07 Nov 2022 01:15:35 +0000",
-         "title" : "2022 Fall Chess Classic: Round 7 | lichess.org"
       },
       {
          "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
@@ -1936,14 +1928,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-asian-continental-chess-championship-2022/",
          "pubDate" : "Wed, 26 Oct 2022 10:03:39 +0000",
          "title" : "LIVE GAMES : ASIAN CONTINENTAL CHESS CHAMPIONSHIP-2022"
-      },
-      {
-         "description" : " GM Maurice Ashley at the World Chess Hall of Fame with his plaque.Photo courtesy of Maurice Ashley GM Maurice Ashley recently appeared on the C-Squared Podcast with GMs Fabiano Caruana and Christian Chirila discussing a wide range of topics you have never heard before. The format was a very relaxed conversation covering Ashley's beginnings, his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/\">Maurice Ashley on C-Squared Podcast</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/10/25/maurice-ashley-on-c-squared-podcast/",
-         "pubDate" : "Wed, 26 Oct 2022 01:00:00 +0000",
-         "title" : "Maurice Ashley on C-Squared Podcast"
       }
    ]
 }
