@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "5-time World Champion Viswanathan Anand spoke about cheating in chess and opened up about the cheating scandal involving Magnus Carlsen and Hans Niemann.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anand-on-the-carlsen-niemann-scandal-there-is-not-going-to-be-any-proof",
+         "pubDate" : "Wed, 16 Nov 2022 12:27:04 +0000",
+         "title" : "Anand on the Carlsen/Niemann scandal: \"There is not going to be any proof\""
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-3-live-video-coverage/",
+         "pubDate" : "Wed, 16 Nov 2022 10:52:37 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals - Day 3 live video coverage"
+      },
+      {
+         "description" : "FIDE announced the composition of the FIDE Commissions for the period 2022-2026. In total, the commissions amount to a considerable workforce amount, with a total of 285 people, in which 111 of our member federations are represented: 53 from Africa, 58 from America, 61 from Asia, and 108 from Europe. Of them, 78 are women []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-announces-commissions-for-2022-26/",
+         "pubDate" : "Wed, 16 Nov 2022 10:39:08 +0000",
+         "title" : "FIDE announces Commissions for 2022-26"
+      },
+      {
+         "description" : "Magnus Carlsen and Jan-Krzysztof Duda, the two front runners in the 2022 Meltwater Champions Chess Tour, sped ahead again in the final event today after both won their second round matches. Newly-crowned Tour Champion Carlsen finished for the day early in San Francisco, beating the Indian teen Arjun Erigaisi in three games. It was not []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-duda-take-lead-at-the-meltwater-champions-chess-tour-finals-2022-day-2-recap/",
+         "pubDate" : "Wed, 16 Nov 2022 10:34:46 +0000",
+         "title" : "Carlsen and Duda take lead at the Meltwater Champions Chess Tour Finals 2022 - Day 2 recap"
+      },
+      {
+         "description" : "The 64th World Congress of Chess Composition takes place in Fujairah, UAE, from the 12th to the 19th of November. There are many events scheduled, including the 45th World Chess Solving Championship.&#xA0; The Opening session of the 64th World Congress of Chess Composition took place on the 13th of November, with many important issues being []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/64th-world-congress-of-chess-composition-kicked-off-in-fujairah-uae/",
+         "pubDate" : "Wed, 16 Nov 2022 08:41:00 +0000",
+         "title" : "64th World Congress of Chess Composition kicked off in Fujairah, UAE"
+      },
+      {
+         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the&#38;nbsp;Meltwater Champions Chess Tour Finals as the only two players to win both of their matches 3-0.&#38;nbsp;GM Anish Giri won his second blitz tiebreak in a row, this ti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-2",
+         "pubDate" : "Wed, 16 Nov 2022 00:21:00 -0800",
+         "title" : "Champions Chess Tour Finals: Carlsen, Duda Lead The Pack"
+      },
+      {
          "description" : "Two players have 6/6 match points at the Meltwater Champions Chess Tour Finals 2022. Magnus Carlsen and Jan-Krzysztof Duda both won their first two matches without needing tiebreaks and are now sharing the lead. Anish Giri and Le Quang Liem stand two points back. Duda and Giri will face each other in Wednesday's third round.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +202,7 @@ news_feed (
          "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
       },
       {
-         "description" : "The final stage of the multi award-winning&#xA0;Meltwater Champions Chess Tour&#xA0;got off to a dramatic start in San Francisco today as Magnus Carlsen beat&#xA0;US star Wesley&#xA0;So. Magnus Carlsen and Wesley So, the two big rivals from the 2021 Tour, went head-to-head on Day 1 of the 2022 Tour Finals in a match seen by the experts []",
+         "description" : "The final stage of the multi award-winning&#160;Meltwater Champions Chess Tour&#160;got off to a dramatic start in San Francisco today as Magnus Carlsen beat&#160;US star Wesley&#160;So. Magnus Carlsen and Wesley So, the two big rivals from the 2021 Tour, went head-to-head on Day 1 of the 2022 Tour Finals in a match seen by the experts []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/carlsen-duda-giri-and-mamedyarov-win-their-r1-matches-meltwater-champions-tour-finals-2022-day-1-recap/",
@@ -378,44 +426,12 @@ news_feed (
          "title" : "Chess For Heroes (November 2022)"
       },
       {
-         "description" : "The 12th edition of the Mediterranean Chess Championship was held from 5-13 November in El Caire. The event was played in 9 rounds, swiss system, with time control of 90 minutes plus 30 seconds of increment, and 15 minutes after 40 played moves. 19-year-old IM Dimitris Alexakis won the tournament scoring convincing 8/9 points. Alexakis []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-dimitris-alexakis-wins-mediterranean-chess-championship-2022/",
-         "pubDate" : "Sun, 13 Nov 2022 11:04:22 +0000",
-         "title" : "IM Dimitris Alexakis wins Mediterranean Chess Championship 2022"
-      },
-      {
          "description" : "A small country, Norway has produced exceptional representatives in various disciplines. Magnus Carlsen, the chess world champion, is joined by fellow geniuses hailing from the Scandinavian country: Niels Henrik Abel, Henrik Ibsen, Edvard Grieg and Edvard Munch. Diana Mihajlova tells us more.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-land-of-exceptions",
          "pubDate" : "Sun, 13 Nov 2022 12:00:00 +0100",
          "title" : "Norway, land of exceptions"
-      },
-      {
-         "description" : "The&#xA0;2022 FIDE World Senior Chess Championship&#xA0;will be held from 14-27 November in Assisi &#x2013; Umbria Italy. The Championship will be played in two age categories: 50+ and 65+, 11 rounds, swiss system, with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-senior-chess-championship-2022-live/",
-         "pubDate" : "Sun, 13 Nov 2022 10:41:12 +0000",
-         "title" : "FIDE World Senior Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy. The Championship will be played in two age categories: 50+ and 65+, 11 rounds, swiss system, with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-senior-chess-championship-2022-starts-in-italy/",
-         "pubDate" : "Sun, 13 Nov 2022 10:33:07 +0000",
-         "title" : "FIDE World Senior Chess Championship 2022 starts in Italy"
-      },
-      {
-         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the award-winning Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022/",
-         "pubDate" : "Sun, 13 Nov 2022 09:59:00 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <strong>F&ouml;rderverein Schach Wolfgang Uhlmann</strong> <a href=\"https://de.chessbase.com/post/gruendung-eines-foerdervereins-wolfgang-uhlmann-in-dresden\">will be founded this week in Dresden</a> with the intention to run chess events and a little chess museum to commemorate East Germany's top player who passed away in 2020. </div> ",
@@ -1818,14 +1834,6 @@ news_feed (
          "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
       },
       {
-         "description" : "On June 19, 1996, GM Bobby Fischer, hoping to enhance the creative potential of chess, announced a variant he saw as the future of the game, Fischer Random.&#38;nbsp;Twenty-six years later on the 50th anniversary of his world championship victory in R...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-round-robin-d3",
-         "pubDate" : "Thu, 27 Oct 2022 22:20:00 -0700",
-         "title" : "Fischer's Vision Alive In Reykjavik: Abdusattorov, Carlsen On Top"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/chess960-mania.html",
          "pubDate" : "Thu, 27 Oct 2022 15:21:00 +0000",
          "title" : "Chess960 Mania"
-      },
-      {
-         "description" : "Reigning Fischer Random World Champion Wesley So confessed he'd never read the rules after he lost to Ian Nepomniachtchi in 19 moves when he was unable to castle while in check. Nodirbek Abdusattorov has already qualified for the semi-finals, so that either Ian or Wesley will be knocked out, while Magnus Carlsen had a good day to catch Hikaru Nakamura in the Group B lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fischer-random-2-wesley-so-tries-to-castle-illegally",
-         "pubDate" : "Thu, 27 Oct 2022 12:30:12 +0000",
-         "title" : "Fischer Random 2: Wesley So tries to castle illegally"
       },
       {
          "description" : "",
@@ -1920,30 +1920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aicf-claims-pests-destroyed-records-in-response-to-query-under-rti-act/articleshow/95104273.cms",
          "pubDate" : "Wed, 26 Oct 2022 14:38:22 +0000",
          "title" : "AICF claims pests destroyed records in response to query under RTI Act"
-      },
-      {
-         "description" : " Dear Reader, as I'm still in therapy for my Traumatic Brain Injury I have another guest Article for you. This one is very special because it could be the answer to a frequent question I get: how can I improve my visualization skills? Aiden's own Chess-blog &#38; training program &#8216;Don't Move Until You See&#8216; focuses [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/improve-your-visualization/\">Supercharge Your Chess Visualization Skills</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/improve-your-visualization/",
-         "pubDate" : "Wed, 26 Oct 2022 12:30:00 +0000",
-         "title" : "Supercharge Your Chess Visualization Skills"
-      },
-      {
-         "description" : " In the pre-computer days, the most common way to improve at chess was to study games played by stronger players. So entrenched was this method that most \"How to Play Chess\" books included a collection of master games, usually with very light annotations. One example was from the Meises update to RF Green's \"Chess\". It included 33 games, including the following early example, from 1834. Given the lack of notes (or analysis) for the game, I suspect the expectation was that the reader would play through the game, and basically improve by self realisation. While this may sound unrealistic today, it was a method that seemed to work. <br /> <b>De Labourdonnais,Louis Charles Mahe - McDonnell,Alexa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/examples-of-master-play.html",
-         "pubDate" : "Wed, 26 Oct 2022 11:38:00 +0000",
-         "title" : "Examples of Master Play"
-      },
-      {
-         "description" : "LIVE GAMES : OPEN &#160; LIVES GAMES : WOMEN &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-asian-continental-chess-championship-2022/",
-         "pubDate" : "Wed, 26 Oct 2022 10:03:39 +0000",
-         "title" : "LIVE GAMES : ASIAN CONTINENTAL CHESS CHAMPIONSHIP-2022"
       }
    ]
 }
