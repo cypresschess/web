@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Speed Chess Championship main event begins in less than a week! Sixteen of the world&#38;rsquo;s top players will find out who&#38;rsquo;s the quickest on their feet as they vie for the world&#38;rsquo;s most prestigious online speed chess title.&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-bracket-contest",
+         "pubDate" : "Wed, 16 Nov 2022 10:56:00 -0800",
+         "title" : "Chess.com Announces 2022 SCC Bracket Contest"
+      },
+      {
+         "description" : "The fourth quarterly meeting of the board of ECU was held on November 13-14 in Antalya, Turkey, during the 2022 European Youth Chess Championship. The Turkish Chess Federation hosted the event under excellent conditions and Mrs. Gulkiz Tulay, President of the Turkish Chess Federation, opened the meetings on Saturday, November 13. At the beginning, a minute of silence&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/",
+         "pubDate" : "Wed, 16 Nov 2022 17:46:32 +0000",
+         "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> has announced a partnership with <strong>Minimol Games</strong>, a Brazilian studio that develops chess-based games and quizzes for distribution on <strong>Steam</strong>. Their biggest project <strong>Chessarama</strong> is <a href=\"https://store.steampowered.com/app/1831830/Chessarama/\">to launch in spring 2023</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/tour-features-chessarama/",
+         "pubDate" : "Wed, 16 Nov 2022 18:13:55 +0100",
+         "title" : "Tour features Chessarama"
+      },
+      {
          "description" : "GMs Fabiano Caruana and Vladimir Fedoseev were the winners of Titled Tuesday on November 15, both doing so outright without needing tiebreaks. Caruana reached the coveted 10.5/11 score in the early tournament, only drawing in round five. Fedoseev ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-fedoseev-win-titled-tuesday-november-15-2022",
-         "pubDate" : "Wed, 16 Nov 2022 08:13:20 -0800",
+         "pubDate" : "Wed, 16 Nov 2022 08:13:00 -0800",
          "title" : "U.S. Champion Caruana Dominates Tuesday"
       },
       {
@@ -890,14 +914,6 @@ news_feed (
          "title" : "Wesley So wins Chess.com Global Championship"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess.com</strong>'s <strong>Global Chess Championship</strong> and $200,000 was won by <strong>Wesley So</strong> who dominated <strong>Nihal Sarin</strong> in the final with 4,5:1,5. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/so-is-global-champion/",
-         "pubDate" : "Mon, 07 Nov 2022 23:23:00 +0100",
-         "title" : "So is Global Champion"
-      },
-      {
          "description" : "The Yuri Averbakh/Isaac Boleslavsky Award for the best book published in 2021 goes to \"The Secret Ingredient\", co-authored by Jan Markos and David Navara and published by Quality Chess. The runners-up were \"Miguel Najdorf - 'El Viejo' - Life, Games & Stories\", by Zen&oacute;n Franco and Zeev Zohar, and \"Forgotten Genius - The Life and Games of Grandmaster Albin Planinc\", both published by Thinkers Publishing.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1736,14 +1752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
          "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
          "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi and Hikaru Nakamura were confirmed on Saturday as the grand finalists for the 2022 Fischer Random World Championships after winning their respective semifinals by convincing margins.&#38;nbsp; Nakamura only needed three games ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fischer-random-world-championship-finals-sf",
-         "pubDate" : "Sat, 29 Oct 2022 20:45:00 -0700",
-         "title" : "World Champions Fall: Nakamura, Nepomniachtchi Progress To Final"
       },
       {
          "description" : "",
