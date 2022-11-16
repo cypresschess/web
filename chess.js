@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2060",
          "pubDate" : "Wed, 26 Oct 2022 22:22:51 +0000",
          "title" : "FIDE World FR Championship: Home and away - a day of double duels"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2059",
-         "pubDate" : "Wed, 26 Oct 2022 21:32:12 +0000",
-         "title" : "Women's Candidates Pool A: A peaceful day at the office"
       }
    ]
 }
