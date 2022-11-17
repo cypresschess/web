@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Monday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-team-championships-in-jerusalem-start-on-monday",
+         "pubDate" : "Thu, 17 Nov 2022 16:10:09 +0100",
+         "title" : "The World Team Championships in Jerusalem start on Monday"
+      },
+      {
          "description" : "Jan-Krzysztof Duda couldn't stop smiling as he unleashed a 9-move checkmating combination on Anish Giri to win their Round 3 Meltwater Champions Chess Tour Finals match 2.5:0.5. It was a fast day, as Magnus Carlsen swept Shakhriyar Mamedyarov 3:0, Praggnanandhaa did the same to Liem Le, and Wesley So scored his 1st win of this year's Tour.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1306,14 +1314,6 @@ news_feed (
          "title" : "Edinburgh Chess Club Celebrates 200th Anniversary"
       },
       {
-         "description" : "Understanding an opening doesn't stop after the theory. It's essential to understand ideas and structures connected to the opening moves. Furthermore, recognising mistakes by your opponent to gain an advantage is a key component of the middlegame. In this video course we'll concentrate on Rossolimo and Maroczy structures in the Sicilian Defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/neu-understanding-middlegame-strategies-vol-5-vol-6",
-         "pubDate" : "Fri, 04 Nov 2022 15:59:46 +0100",
-         "title" : "New: Understanding Middlegame Strategies Vol. 5 + Vol. 6"
-      },
-      {
          "description" : "Anish Giri hit back after a Teimour Radjabov comeback to clinch a semi-final spot in the Chess.com Global Championship against Nihil Sarin, who himself came back against Sam Sevian. The other semi-finalists, guaranteed at least $50,000, are Wesley So and Hikaru Nakamura, with Wesley surprisingly wrapping up his match first while Jan-Krzysztof Duda beat Hikaru twice on demand.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2061",
          "pubDate" : "Thu, 27 Oct 2022 17:42:10 +0000",
          "title" : "FIDE increases prize fund for World Senior Chess Championship"
-      },
-      {
-         "description" : "Last month's Yahoos post (see the footnote for an explanation of Yahoos) was <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A>(September 2022). It followed a course not seen in previous Yahoos:- <BLOCKQUOTE>Unlike all previous posts in the Yahoos series, this month requires two charts to present the base statistics, shown below. On the left are the counts derived from Google News, similar to the chart in last month's <B>Olympiad, Business, and Political Yahoos</B> (August 2022). On the right are counts from a special supplement, linked from the <I>Google News</I> results and called 'Full Coverage'. These stories were 100% about the cheating scandal.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/chess960-mania.html",
-         "pubDate" : "Thu, 27 Oct 2022 15:21:00 +0000",
-         "title" : "Chess960 Mania"
       }
    ]
 }
