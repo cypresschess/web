@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "description" : " Small changes will make a huge difference in your life. Sounds too good to be true? Give me 5 Minutes and I'll convince you. Let's start with numbers. Imagine you improve yourself by 1% every single day for one year. Doesn't sound impossible, right? Not worth it either? Oh, you couldn't be more wrong! If [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/small-changes/\">Small Changes Huge Results</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/small-changes/",
+         "pubDate" : "Thu, 17 Nov 2022 10:34:32 +0000",
+         "title" : "Small Changes - Huge Results"
+      },
+      {
+         "description" : "GM Jan-Krzysztof Duda defeated GM Anish Giri with a brilliant third match game on Wednesday, in what was round three of the Meltwater Champions Chess Tour Finals. The Polish grandmaster is still on a perfect 9/9 score but that is also the case for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-3",
+         "pubDate" : "Thu, 17 Nov 2022 02:19:46 -0800",
+         "title" : "Duda Wins Brilliant Game In Champions Chess Tour Finals"
+      },
+      {
+         "description" : "All four matches in round 3 of the Meltwater Champions Chess Tour Finals lasted three games, as Magnus Carlsen, Jan-Krzysztof Duda, Wesley So and Praggnanandhaa all secured clear victories which granted them 3 match points for the standings. Carlsen and Duda continue to share the lead, now no fewer than 5 points ahead of their closest chasers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Wed, 16 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r3",
+         "pubDate" : "Thu, 17 Nov 2022 07:10:00 +0100",
+         "title" : "Meltwater Finals: Pragg scores 3-0 win, Duda and Carlsen still perfect"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95570778.cms\" />Indian Grandmaster R Praggnanandhaa posted his first win while compatriot Arjun Erigaisi suffered a third straight defeat in the Meltwater Champions Tour Finals on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-praggnanandhaa-secures-first-win-another-loss-for-erigaisi/articleshow/95570778.cms",
+         "pubDate" : "Thu, 17 Nov 2022 04:29:28 +0000",
+         "title" : "Meltwater Champions Tour Finals: Praggnanandhaa secures first win; another loss for Erigaisi"
       },
       {
          "description" : "The 2022 Speed Chess Championship main event begins in less than a week! Sixteen of the world&#38;rsquo;s top players will find out who&#38;rsquo;s the quickest on their feet as they vie for the world&#38;rsquo;s most prestigious online speed chess title.&#38;nbs...",
@@ -1746,14 +1770,6 @@ news_feed (
          "title" : "10th IBCA PanAmerican Games for Blind set new records"
       },
       {
-         "description" : "GM Anna Muzychuk defeated&#38;nbsp;GM Humpy Koneru on demand in Saturday&#39;s fourth game of their Women&#39;s Candidates quarterfinal, thus forcing a tiebreak to be played on Sunday. The winner will face GM Lei Tingjie, who reached the draw she needed again...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-day-4",
-         "pubDate" : "Sun, 30 Oct 2022 01:56:00 -0700",
-         "title" : "Lei Tingjie Reaches Semis; Anna Muzychuk Hits Back To Force Tiebreak"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,22 +1904,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/10/chess960-mania.html",
          "pubDate" : "Thu, 27 Oct 2022 15:21:00 +0000",
          "title" : "Chess960 Mania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2057",
-         "pubDate" : "Thu, 27 Oct 2022 09:01:03 +0000",
-         "title" : "Asian Continental Chess Championship 2022 begins in New Delhi"
-      },
-      {
-         "description" : "New Delhi (27 Oct 2022) :- The Asian Continental Chess Championship-2022 got off to a rousing start here at Leela Ambience Convention Hotel on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
-         "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
-         "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
       }
    ]
 }
