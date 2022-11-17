@@ -1904,22 +1904,6 @@ news_feed (
          "link" : "https://aicf.in/asian-continental-chess-championship-2022-starts-tough-day-for-top-seeds/",
          "pubDate" : "Thu, 27 Oct 2022 06:42:26 +0000",
          "title" : "Asian Continental Chess Championship 2022 starts; tough day for top seeds"
-      },
-      {
-         "description" : "The 2022 European Senior Team Chess Championships 2022 (categories 50+ and 65+) will be played from 27th October to 5th November 2022 in Dresden, Germany. The event opens today with the technical meeting and opening ceremony starting at 11:00 CEST, while the first round kicks off at 15:00 CEST. A record number of 79 teams will take part&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-open-in-dresden/",
-         "pubDate" : "Wed, 26 Oct 2022 22:25:36 +0000",
-         "title" : "European Senior Team Chess Championships 2022 open in Dresden"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2060",
-         "pubDate" : "Wed, 26 Oct 2022 22:22:51 +0000",
-         "title" : "FIDE World FR Championship: Home and away - a day of double duels"
       }
    ]
 }
