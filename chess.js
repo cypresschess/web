@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/judge-ronnie-lee-white-niemanns-complaint-is-procedurally-defective/",
+         "pubDate" : "Thu, 17 Nov 2022 20:03:58 +0000",
+         "title" : "Judge Ronnie Lee White: \"Niemann's Complaint is procedurally defective\""
+      },
+      {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Thu, 17 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-4-live-video-coverage/",
+         "pubDate" : "Thu, 17 Nov 2022 19:44:53 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals - Day 4 live video coverage"
+      },
+      {
+         "description" : "Magnus Carlsen showed off all his silky skills on Day 3 of the Meltwater Champions Chess Tour Finals as he blew away Azerbaijani big beast Shakhriyar Mamedyarov. On a day of quick wins at SHACK15 in San Francisco, the World Champion thrashed&#xA0;Mamedyarov 3-0 to stay joint-top of the leaderboard as the event reaches its mid-point. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-and-duda-maintain-the-lead-meltwater-champions-chess-tour-finals-2022-day-3-recap/",
+         "pubDate" : "Thu, 17 Nov 2022 19:42:35 +0000",
+         "title" : "Carlsen and Duda maintain the lead; Meltwater Champions Chess Tour Finals 2022 - Day 3 recap"
+      },
+      {
+         "description" : "Italian Women Championship is taking place from 17&#x2013;23 November 2022 in Cagliari, Italy. It is a 8-player round-robin tournament with Olga Zimina, Sara Gabbani, Valeria Martinelli, Marina Brunell, Elisa Cassi, Marianna Raccanello, Elena Sedina and Melissa Maione. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italian-women-championship-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 19:05:52 +0000",
+         "title" : "Italian Women Championship 2022 - LIVE"
+      },
+      {
+         "description" : "FM Tani Adewumi is scheduled to play against fellow young chess sensation IM Yagiz Erdogmus at 7 a.m. Pacific Time/16:00 Central European Time on November 20&#38;nbsp;in the next episode of his regular ChessKid series &#34;Tani vs. The World.&#34; Erdogmus ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-adewumi-vs-yagiz-erdogmus",
+         "pubDate" : "Thu, 17 Nov 2022 11:04:42 -0800",
+         "title" : "Young Prodigies FM Tani Adewumi, IM Yagiz Erdogmus Face Off"
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 19:02:00 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2091",
+         "pubDate" : "Thu, 17 Nov 2022 19:01:25 +0000",
+         "title" : "WCSC 2022: Danila Pavlov wins title, Marjan Kovacevic elected as WFCC President"
+      },
+      {
+         "description" : "Maplewood Invitational is taking place from 14-19 November 2022 in Waterloo, Quebec, Canada. It is a 10-player Round-robin tournament with Bator Sambuev, Nikolay Noritsyn, Toms Kantans, Marin Bosiocic, Artiom Samsonkin, Mark Plotkin, Isan Reynaldo Ortiz Suarez, Jason Liang, Shawn Rodrigue-Lemieux and G V Sai Krishna. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maplewood-invitational-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 18:59:11 +0000",
+         "title" : "Maplewood Invitational 2022 - LIVE"
+      },
+      {
+         "description" : "28th Vojvodina Women's Open Team Championship is taking place from 17&#x2013;20 November 2022 in Senta. It is a 5-round Swiss tournament with Dnevnik Novi Sad ( Teodora Jaukovic, Kalina Oro, Marija Z Stojanovic) , Polet Rastina ( Milica Milivojevic, Patricija Vujnovic, Galina Zelenaya-Azaric) , Sah Art Subotica ( Sofija Gligoric, Anastazija Milenkovic, Dijana Bilicki, Ema []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/28th-vojvodina-womens-open-team-championship-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 18:46:10 +0000",
+         "title" : "28th Vojvodina Women's Open Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Bangladesh 41st National Women's Chess Championship is taking place from 17-28 November 2022 in Bangladesh. It is a 10-round chess tournament with Nazrana Khan, Khusbu Warsia, Tasnim Kazi Zarin, Marjana Sabiha, Walijah Ahmed,Ahmed Wadifa, Rani Hamid, Ferdous Jannatul, Anjum Noshin, Orpa Tasnia Tarannum, Alo Nusrat Jahan, Talukder Umme Taslima Protiva. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangladesh-41st-national-womens-chess-championship-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 18:07:40 +0000",
+         "title" : "Bangladesh 41st National Women's Chess Championship 2022 - LIVE"
+      },
+      {
          "description" : "On Monday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,6 +127,14 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Thu, 17 Nov 2022 06:48:35 +0000",
+         "title" : "European Cities & Towns Chess Championship to take place in January 2023"
+      },
+      {
+         "description" : "European Chess Union announces the&#xA0;1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 23rd January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-to-take-place-in-january-2023/",
+         "pubDate" : "Thu, 17 Nov 2022 06:45:00 +0000",
          "title" : "European Cities & Towns Chess Championship to take place in January 2023"
       },
       {
@@ -162,30 +258,6 @@ news_feed (
          "title" : "Meltwater Champions Chess Tour Finals - Day 3 live video coverage"
       },
       {
-         "description" : "FIDE announced the composition of the FIDE Commissions for the period 2022-2026. In total, the commissions amount to a considerable workforce amount, with a total of 285 people, in which 111 of our member federations are represented: 53 from Africa, 58 from America, 61 from Asia, and 108 from Europe. Of them, 78 are women []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-announces-commissions-for-2022-26/",
-         "pubDate" : "Wed, 16 Nov 2022 10:39:08 +0000",
-         "title" : "FIDE announces Commissions for 2022-26"
-      },
-      {
-         "description" : "Magnus Carlsen and Jan-Krzysztof Duda, the two front runners in the 2022 Meltwater Champions Chess Tour, sped ahead again in the final event today after both won their second round matches. Newly-crowned Tour Champion Carlsen finished for the day early in San Francisco, beating the Indian teen Arjun Erigaisi in three games. It was not []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-duda-take-lead-at-the-meltwater-champions-chess-tour-finals-2022-day-2-recap/",
-         "pubDate" : "Wed, 16 Nov 2022 10:34:46 +0000",
-         "title" : "Carlsen and Duda take lead at the Meltwater Champions Chess Tour Finals 2022 - Day 2 recap"
-      },
-      {
-         "description" : "The 64th World Congress of Chess Composition takes place in Fujairah, UAE, from the 12th to the 19th of November. There are many events scheduled, including the 45th World Chess Solving Championship.&#xA0; The Opening session of the 64th World Congress of Chess Composition took place on the 13th of November, with many important issues being []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/64th-world-congress-of-chess-composition-kicked-off-in-fujairah-uae/",
-         "pubDate" : "Wed, 16 Nov 2022 08:41:00 +0000",
-         "title" : "64th World Congress of Chess Composition kicked off in Fujairah, UAE"
-      },
-      {
          "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the Meltwater Champions Chess Tour Finals. They are the only players to gain six points for winning both of their matches without a tiebreak. GM Anish Giri won his second ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -266,30 +338,6 @@ news_feed (
          "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
       },
       {
-         "description" : "Beirut Open is taking place from 12&#x2013;19 November 2022 in Beirut, Lebanon. It is a 9-round Swiss tournament&#xA0;with Amro El Jawich, Malek. Koniahli, Shahin Lorparizangeneh, Abdelrahman Hesham, Joe Assaad, Azer Mirzoev, Ahmad Najjar, Amir Zaibi, Alexander Raetsky, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/beirut-open-2022-live/",
-         "pubDate" : "Tue, 15 Nov 2022 16:45:40 +0000",
-         "title" : "Beirut Open 2022 LIVE"
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-2-live-video-coverage-2/",
-         "pubDate" : "Tue, 15 Nov 2022 15:50:16 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals - Day 2 live video coverage"
-      },
-      {
-         "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-youth-chess-champions-2022-crowned-in-antalya-turkey/",
-         "pubDate" : "Tue, 15 Nov 2022 15:44:06 +0000",
-         "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.1920.jpeg\" title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. photo: LevitovChess\" data-title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. (photo: LevitovChess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.480.jpeg\" alt=\"While st",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -304,6 +352,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/mcct-finals-1-carlsen-beats-so-in-thriller",
          "pubDate" : "Tue, 15 Nov 2022 15:29:28 +0000",
          "title" : "MCCT Finals 1: Carlsen beats So in thriller"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2086",
+         "pubDate" : "Tue, 15 Nov 2022 14:09:20 +0000",
+         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
       },
       {
          "description" : "",
@@ -333,25 +389,9 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2086",
-         "pubDate" : "Tue, 15 Nov 2022 11:09:20 +0000",
-         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2087",
          "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
          "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
-      },
-      {
-         "description" : "The final stage of the multi award-winning&#160;Meltwater Champions Chess Tour&#160;got off to a dramatic start in San Francisco today as Magnus Carlsen beat&#160;US star Wesley&#160;So. Magnus Carlsen and Wesley So, the two big rivals from the 2021 Tour, went head-to-head on Day 1 of the 2022 Tour Finals in a match seen by the experts []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-duda-giri-and-mamedyarov-win-their-r1-matches-meltwater-champions-tour-finals-2022-day-1-recap/",
-         "pubDate" : "Tue, 15 Nov 2022 10:03:21 +0000",
-         "title" : "Carlsen, Duda, Giri and Mamedyarov win their R1 matches; Meltwater Champions Tour Finals 2022 - Day 1 recap"
       },
       {
          "description" : "The Meltwater Champions Chess Tour Finals began on Monday in San Francisco with a win for the world champion. GM Magnus Carlsen toppled GM Wesley So, the recent winner of the Chess.com Global Chess Championship, in the opening round. How to watc...",
@@ -418,14 +458,6 @@ news_feed (
          "title" : "TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish"
       },
       {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-1-live-video-coverage/",
-         "pubDate" : "Mon, 14 Nov 2022 14:24:32 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals - Day 1 live video coverage"
-      },
-      {
          "description" : "The ECF congratulates Shreyas Royal on the tremendous achievement of gaining his first GM norm at just 13 years old! Click here to see Shreyas's...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -464,14 +496,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2085",
          "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
          "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
-         "pubDate" : "Mon, 14 Nov 2022 10:12:00 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
       },
       {
          "description" : "Anil Kumar and IM V. Saravanan invite you to the Houseboat Chess Tournament in Kerala, which will take place in January for the second time after 2020 in the fairytale backwaters of the Indian province and will be played partly on a houseboat. Registration is still open until 15 November. | Photo: Cottages at 'Waterscapes', an exotic backwater resort at Kumarakom| Photo: Orient Chess Moves",
@@ -1290,14 +1314,6 @@ news_feed (
          "title" : "FIDE Women's Candidates: No risks taken"
       },
       {
-         "description" : "This week, Daniel King analyses a game he played against Michael Basman, who recently passed away. True to his nature, Basman went for the 'Creepy Crawly', with 1...h6 and 2...a6! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-michael-basman",
-         "pubDate" : "Fri, 04 Nov 2022 17:50:00 +0100",
-         "title" : "Daniel King's Power Play Show: Celebrating the play of Michael Basman"
-      },
-      {
          "description" : "Last week's post in the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html\">'To Sam, With Thanks'</A>(October 2022), featured an eBay item, <BLOCKQUOTE>Signed by Bobby Fischer to his friend Saemi Rock, a.k.a. Saemundur Palsson, friend and bodyguard in 1972. </BLOCKQUOTE> <P>Palsson is seen frequently in 'Bobby Fischer vs. the Rest of the World' by Brad Darrach. The previous post where I quoted the author was <A HREF=\"http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html\">October 1972 & 1997 'On the Cover'</A>(October 2022), about a day where Darrach and his LIFE colleague, photographer Harry Benson, spent with the soon-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1722,14 +1738,6 @@ news_feed (
          "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
       },
       {
-         "description" : "GM Hikaru Nakamura was crowned as the FIDE Fischer Random World Chess Champion on Sunday after winning a thrilling armageddon tiebreaker final against GM Ian Nepomniachtchi. Having split the points in their four-game mini-match, Nakamura saved h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wins-fischer-random-world-championship-final-hikaru-nakamura",
-         "pubDate" : "Sun, 30 Oct 2022 14:43:00 -0700",
-         "title" : "Hikaru Nakamura Wins Fischer Random World Championship"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2064",
          "pubDate" : "Thu, 27 Oct 2022 21:25:27 +0000",
          "title" : "2022 FIDE World Amateur Championship enters final stretch"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2061",
-         "pubDate" : "Thu, 27 Oct 2022 17:42:10 +0000",
-         "title" : "FIDE increases prize fund for World Senior Chess Championship"
       }
    ]
 }
