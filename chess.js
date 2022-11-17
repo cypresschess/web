@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan-Krzysztof Duda couldn't stop smiling as he unleashed a 9-move checkmating combination on Anish Giri to win their Round 3 Meltwater Champions Chess Tour Finals match 2.5:0.5. It was a fast day, as Magnus Carlsen swept Shakhriyar Mamedyarov 3:0, Praggnanandhaa did the same to Liem Le, and Wesley So scored his 1st win of this year's Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-3-duda-s-immortal",
+         "pubDate" : "Thu, 17 Nov 2022 13:24:52 +0000",
+         "title" : "MCCT Finals 3: Duda's Immortal"
+      },
+      {
          "description" : " Small changes will make a huge difference in your life. Sounds too good to be true? Give me 5 Minutes and I'll convince you. Let's start with numbers. Imagine you improve yourself by 1% every single day for one year. Doesn't sound impossible, right? Not worth it either? Oh, you couldn't be more wrong! If [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/small-changes/\">Small Changes Huge Results</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Small Changes - Huge Results"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda defeated GM Anish Giri with a brilliant third match game on Wednesday, in what was round three of the Meltwater Champions Chess Tour Finals. The Polish grandmaster is still on a perfect 9/9 score but that is also the case for...",
+         "description" : "GM Jan-Krzysztof Duda defeated GM Anish Giri with a brilliant third-match game on Wednesday in round three of the Meltwater Champions Chess Tour Finals. The Polish grandmaster is still on a perfect 9/9 score but that is also the case for GM Magnus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-3",
-         "pubDate" : "Thu, 17 Nov 2022 02:19:46 -0800",
+         "pubDate" : "Thu, 17 Nov 2022 02:19:00 -0800",
          "title" : "Duda Wins Brilliant Game In Champions Chess Tour Finals"
+      },
+      {
+         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 23rd January 2023, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
+         "pubDate" : "Thu, 17 Nov 2022 06:48:35 +0000",
+         "title" : "European Cities & Towns Chess Championship to take place in January 2023"
       },
       {
          "description" : "All four matches in round 3 of the Meltwater Champions Chess Tour Finals lasted three games, as Magnus Carlsen, Jan-Krzysztof Duda, Wesley So and Praggnanandhaa all secured clear victories which granted them 3 match points for the standings. Carlsen and Duda continue to share the lead, now no fewer than 5 points ahead of their closest chasers.",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2070",
          "pubDate" : "Sun, 30 Oct 2022 15:22:33 +0000",
          "title" : "Winners crowned at 2022 FIDE World Amateur Chess Championship"
-      },
-      {
-         "description" : "Ian Nepomniachtchi bounced back from losing the first semi-final game to Magnus Carlsen to win the next three and reach the Fischer Random World Championship final. His opponent will be Hikaru Nakamura, who was in devastating form as he completed a 3:0 whitewash of Nodirbek Abdusattorov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fischer-random-4-nepo-knocks-out-magnus-faces-naka-in-final",
-         "pubDate" : "Sun, 30 Oct 2022 13:59:32 +0000",
-         "title" : "Fischer Random 4: Nepo ousts Magnus, faces Naka in final"
       },
       {
          "description" : " A reminder to get your entries in for the 2022 Vikings Weekender on the weekend of the 18th, 19th and 20th. Due to space restrictions the event is capped at 60 players, and 50% of the seats are already sold. The venue is the Vikings Club at Condor ACT, and it will be a 6 round 60m+30s FIDE rated event, run in 2 sections. To enter, just visit <a href=\"https://www.trybooking.com/CDEUF\">https://www.trybooking.com/CDEUF</a> ",
