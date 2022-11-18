@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 23rd European Women's Chess Championship 2022 will take place from 17-30 March 2023 in Petrovac, Montenegro. The event is open for all women players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of the ECU Board and General Assembly. The Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023/",
+         "pubDate" : "Fri, 18 Nov 2022 11:51:37 +0000",
+         "title" : "European Women's Chess Championship 2023"
+      },
+      {
+         "description" : "The 64th World Congress of Chess Composition (WCSC) is in full swing in Fujairah, UAE.&#xA0;The first day of the World Solving Chess Championship saw FM&#xA0;Bilguun Sumia&#xA0;(pictured below) from Mongolia grab the lead. The member of the Mongolian chess national team he pulled a half-point ahead of the World Champion in solving&#xA0;Danila Pavlov&#xA0;and&#xA0;Nikos Sidiropoulos. In the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danila-pavlov-wins-world-chess-solving-championship-2022/",
+         "pubDate" : "Fri, 18 Nov 2022 11:46:26 +0000",
+         "title" : "Danila Pavlov wins World Chess Solving Championship 2022"
+      },
+      {
+         "description" : "This week Robert Ris presents a sharp line against the Reti, and takes a close look at the game Duda vs Erigaisi from the Meltwater Chess Champions Tour, in which this line was tested. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-sharp-line-in-the-reti",
+         "pubDate" : "Fri, 18 Nov 2022 12:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A sharp line in the Reti"
+      },
+      {
          "description" : "GM Magnus Carlsen is the only player left on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match, to GM Le Quang Liem, while GM Arjun Eri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,20 +178,12 @@ news_feed (
          "title" : "Maplewood Invitational 2022 - LIVE"
       },
       {
-         "description" : "28th Vojvodina Women's Open Team Championship is taking place from 17&#x2013;20 November 2022 in Senta. It is a 5-round Swiss tournament with Dnevnik Novi Sad ( Teodora Jaukovic, Kalina Oro, Marija Z Stojanovic) , Polet Rastina ( Milica Milivojevic, Patricija Vujnovic, Galina Zelenaya-Azaric) , Sah Art Subotica ( Sofija Gligoric, Anastazija Milenkovic, Dijana Bilicki, Ema []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/28th-vojvodina-womens-open-team-championship-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 18:46:10 +0000",
-         "title" : "28th Vojvodina Women's Open Team Championship 2022 - LIVE"
-      },
-      {
-         "description" : "Bangladesh 41st National Women's Chess Championship is taking place from 17-28 November 2022 in Bangladesh. It is a 10-round chess tournament with Nazrana Khan, Khusbu Warsia, Tasnim Kazi Zarin, Marjana Sabiha, Walijah Ahmed,Ahmed Wadifa, Rani Hamid, Ferdous Jannatul, Anjum Noshin, Orpa Tasnia Tarannum, Alo Nusrat Jahan, Talukder Umme Taslima Protiva. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bangladesh-41st-national-womens-chess-championship-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 18:07:40 +0000",
-         "title" : "Bangladesh 41st National Women's Chess Championship 2022 - LIVE"
+         "description" : "FTX : Where have we heard that acronym before? If you've been following the financial news for the last couple of weeks, then you've undoubtedly seen a headline like <A HREF=\"https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html\">Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy</A>(cnbc.com). The article's summarizing bullets explained, <BLOCKQUOTE>Sam Bankman-Fried's cryptocurrency exchange FTX has filed for bankruptcy. Alameda Research and approximately 130 additional affiliated companies are part of the voluntary proceedings. </BLOCKQUOTE> <P>What's that got to do with chess? FTX figured in a couple of p",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/speculative-sponsor.html",
+         "pubDate" : "Thu, 17 Nov 2022 16:47:00 +0000",
+         "title" : "Speculative Sponsor"
       },
       {
          "description" : "On Monday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
@@ -1282,14 +1298,6 @@ news_feed (
          "title" : "Indians dominate Asian Continental Championships"
       },
       {
-         "description" : "Pia Cramling is a regular guest at the V&auml;stg&ouml;ta Open, the open championship of the Swedish V&auml;sterg&ouml;tland Chess Federation, which was again held as a rapid chess tournament in Skara last weekend. This time, however, the Swedish chess icon had to concede the tournament victory to Erik Blomqvist. She came third. Holger Blauhut (11th place) also played and sent a report. | Next to the window, GM Erik Blomqvist plays against FM Lars-Goran Eklund, while GM Pia Cramling faces GM Petro Golubka on the next board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/erik-blomqvist-wins-vastgota-open",
-         "pubDate" : "Sat, 05 Nov 2022 17:30:00 +0100",
-         "title" : "Erik Blomqvist wins V&auml;stg&ouml;ta Open"
-      },
-      {
          "description" : "Nakamura-So and Giri-Sarin are locked at 2:2 going into Day 2 of the Chess.com Global Championship semi-finals. Hikaru and Wesley drew all four games, but not without real chances, especially in the 134-move Game 3. Anish Giri took the lead against Nihal Sarin but the young Indian hit straight back and missed a wonderful chance to take the lead himself.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,22 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/entry-points.html",
          "pubDate" : "Fri, 28 Oct 2022 12:50:00 +0000",
          "title" : "Entry points"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2065",
-         "pubDate" : "Fri, 28 Oct 2022 12:18:14 +0000",
-         "title" : "2022 3rd FIDE Council meeting: List of decisions"
-      },
-      {
-         "description" : "Chess Olympiad 2022: Review with analyses by more than 20 players - Ivan Sokolov's writes about \"Steps to Gold\" - \"Special\" on World Championship candidate Ding Liren: exclusive collection of 18 annotated games + contributions on strategy and endgame - \"The Indian Gambit\": Daniel King presents a fresh and exciting idea in the English Opening: 1.c4 e5 2.Sc3 Sf6 3.Sf3 e4 4.Sg5 c6!? (Video) - \"Practical Tips for the Tournament Player\" Episode 3: How to play against a stronger opponent (Video by Jan Markos + small collection of exercises) - \"Full Throttle in the Open Spanish\": Robert Ris examines the highly topical Dilworth Variation, and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-210",
-         "pubDate" : "Fri, 28 Oct 2022 13:00:00 +0100",
-         "title" : "New: ChessBase Magazine #210"
       }
    ]
 }
