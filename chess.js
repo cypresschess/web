@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen is the only player left on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match, to GM Le Quang Liem, while GM Arjun Eri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-4",
+         "pubDate" : "Fri, 18 Nov 2022 00:24:36 -0800",
+         "title" : "Carlsen Leads Alone On Perfect 12/12"
+      },
+      {
+         "description" : "Italian Championship U20 is a 8-player round-robin tournament, held from November 17th to 23rd in Cagliari, Italy with Joshuaede Cappelletto, Neven Hercegova, Gabriele Lumachi, Nicol&#xF2; Orfini, Andrea Rindone,&#xA0;Ieysaa Bin-Suhayl,Francesco Bettalli and Luca Ballotti. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/italian-championship-u20-2022-live/",
+         "pubDate" : "Fri, 18 Nov 2022 08:08:24 +0000",
+         "title" : "Italian Championship U20 2022 - LIVE"
+      },
+      {
+         "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds, but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020, and who the follo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/nov/18/chess-magnus-carlsen-faces-his-nemesis-in-final-round-of-meltwater-tour",
+         "pubDate" : "Fri, 18 Nov 2022 08:00:03 +0000",
+         "title" : "Chess: Magnus Carlsen faces his nemesis in final round of Meltwater tour"
+      },
+      {
+         "description" : "Ever analyzing and sharing with readers and fans, Karsten Mueller receives many interesting correspondence and contributions. Here are a handful of endgames analyzed and sent in by Frederick Davies, which Mueller was quick to compliment profusely and send it forward for publication.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mueller-and-Davies",
+         "pubDate" : "Fri, 18 Nov 2022 08:24:45 +0100",
+         "title" : "Mueller and Davies"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #542 Merijn van Delft looks at a fascinating though not entirely correct game Jan-Krzysztof Duda and Arjun Erigaisi played at the Meltwater Champions Chess Tour. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-542-duda-vs-erigaisi",
+         "pubDate" : "Fri, 18 Nov 2022 08:23:40 +0100",
+         "title" : "Game of the Week #542: Duda vs Erigaisi"
+      },
+      {
+         "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the 23rd EUROPEAN WOMEN CHESS CHAMPIONSHIP organized in Petrovac, Montenegro from 17th March (arrival) to 30th March (departure). The event is open for all women players from National&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/",
+         "pubDate" : "Fri, 18 Nov 2022 07:06:11 +0000",
+         "title" : "European Women's Chess Championship 2023 - Official invitation"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95593388.cms\" />Indian Grandmaster Arjun Erigaisi posted his first win while compatriot R Praggnanandhaa lost in the fourth round of the Meltwater Champions Tour Finals on Friday. While Erigaisi beat Azerbaijan's Shakhriyar Mamedyarov 3-1 for his first victory in the tournament, Praggnanandhaa went down 1-2 to American GM Wesley So.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,7 +58,7 @@ news_feed (
          "title" : "Meltwater Champions Tour Finals: Erigaisi posts first win; Praggnanandhaa loses"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches tournament players how to prepare like the professionals, using his own experience. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-alex-yermolinsky\"><img src=\"ht",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches tournament players how to prepare like the professionals, using his own experience. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-alex-yermolinsky",
@@ -159,14 +207,6 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Thu, 17 Nov 2022 06:48:35 +0000",
-         "title" : "European Cities & Towns Chess Championship to take place in January 2023"
-      },
-      {
-         "description" : "European Chess Union announces the&#xA0;1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 23rd January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-to-take-place-in-january-2023/",
-         "pubDate" : "Thu, 17 Nov 2022 06:45:00 +0000",
          "title" : "European Cities & Towns Chess Championship to take place in January 2023"
       },
       {
@@ -1298,22 +1338,6 @@ news_feed (
          "title" : "European Senior Teams Championships - final round and winners photographs"
       },
       {
-         "description" : "After the initial move 20...Qb6+! in the diagram position 21.Rf2 is easy enough to refute, but what would you do after 21.Nf2? Good luck - and enjoy the position!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-swinging-queen",
-         "pubDate" : "Sat, 05 Nov 2022 09:00:00 +0100",
-         "title" : "The swinging queen"
-      },
-      {
-         "description" : "After three games and three draws, the semi-final of the Women's Candidates between Anna Muzychuk and Lei Tingjie is tied. On Saturday the fourth and last game with a classical time-control will be played. Can Lei Tingjie use the advantage of the white pieces, will Anna Muzychuk win with Black or will we see a tiebreak? | Follow game 4 game live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-a-live",
-         "pubDate" : "Sat, 05 Nov 2022 08:50:00 +0100",
-         "title" : "Women's Candidates: Games and commentary"
-      },
-      {
          "description" : "GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the Chess.com Global Championship on Friday but were both held to 2-2 following some resolute defense by their opponent...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "European Senior Teams Championships - reports from Nigel Povah"
       },
       {
-         "description" : "GM Anna Muzychuk reached the semifinals of the 2022-2023 FIDE Women&#39;s Candidates Tournament after winning her tiebreak match vs. GM Humpy Koneru on Sunday. After three draws, the Indian grandmaster blundered a full piece and quickly resigned. Mu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-muzychuk-koneru-tiebreak",
-         "pubDate" : "Mon, 31 Oct 2022 01:49:00 -0700",
-         "title" : "Anna Muzychuk Through To Semifinals As Humpy Koneru Blunders Piece"
-      },
-      {
          "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-210",
          "pubDate" : "Fri, 28 Oct 2022 13:00:00 +0100",
          "title" : "New: ChessBase Magazine #210"
-      },
-      {
-         "description" : " The 19-year-old will play at Jerusalem in his first event since he launched his $100m lawsuit against Magnus Carlsen and others Hans Niemann is the surprise choice to play top board for the six-player US squad at the World Team Championship in Jerusalem on 19-26 November. It will be the 19-year-old's first event since launching his $100m lawsuit against the world champion, Magnus Carlsen, and others. Niemann is nationally ranked only No 8, so it is possible that some of those with higher ratings, including Hikaru Nakamura, who is among those being sued, and the current US champion, Fabiano Caruana, have declined to play in the same squad as the teenager. <a href=\"https://www.theguardian.com",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
-         "pubDate" : "Fri, 28 Oct 2022 07:00:22 +0000",
-         "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
       }
    ]
 }
