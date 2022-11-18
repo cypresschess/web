@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Norwegian Youth Championship will take place in Molde, Norway from the 18th to the 20th of November. It is a 7-round Dutch Swiss with Johan-Sebastian Christiansen, David Hellesoy, Mathias&#xA0;Unneland, Leo Moen Eidet, Nikolai Olsen Wernberg, Shazil Shehzad, Elma Selvik, etc. Time control : Rounds 1-2: 15 minutes for the entire game with a 5-second []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/norwegian-youth-championship-2022-live/",
+         "pubDate" : "Fri, 18 Nov 2022 17:43:01 +0000",
+         "title" : "Norwegian Youth Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen leads the Meltwater Champions Chess Tour Finals by 3 points after he beat Anish Giri 3:0 in Round 4 while Jan-Krzysztof Duda fell to Liem Le. Anish commented, \"today was the day when I found out what's broken,\" as he saw lessons in a defeat full of hard-to-explain decisions. Wesley So won a second match in a row, against Praggnanandhaa, while Arjun Erigaisi picked up his first win, against Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-4-carlsen-beats-giri-3-0-to-take-sole-lead",
+         "pubDate" : "Fri, 18 Nov 2022 17:37:26 +0000",
+         "title" : "MCCT Finals 4: Carlsen beats Giri 3:0 to take sole lead"
+      },
+      {
+         "description" : "This week, Daniel King looks at a brilliant attack by Jan-Krzysztof attack and revisits the stalemate theme, as he shows a brilliant resource also seen at the Meltwater Tour Finals. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-duda-dazzles",
+         "pubDate" : "Fri, 18 Nov 2022 18:05:00 +0100",
+         "title" : "Daniel King's Power Play Show: Duda dazzles"
+      },
+      {
+         "description" : "The 64th World Congress of Chess Composition (WCSC) is in full swing in Fujairah, UAE. The first day of the World Solving Chess Championship saw FM Bilguun Sumia (pictured below) from Mongolia grab the lead. But in the end the reigning Champion, FIDE solving GM Danila Pavlov (pictured), showed his mettle and defended his title.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/danila-pavlov-wins-title-at-world-congress-of-chess-composition",
+         "pubDate" : "Fri, 18 Nov 2022 18:00:00 +0100",
+         "title" : "Danila Pavlov wins title at World Congress of Chess Composition"
+      },
+      {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-4-live-video-coverage/",
          "pubDate" : "Thu, 17 Nov 2022 19:44:53 +0000",
          "title" : "Meltwater Champions Chess Tour Finals - Day 4 live video coverage"
-      },
-      {
-         "description" : "Magnus Carlsen showed off all his silky skills on Day 3 of the Meltwater Champions Chess Tour Finals as he blew away Azerbaijani big beast Shakhriyar Mamedyarov. On a day of quick wins at SHACK15 in San Francisco, the World Champion thrashed&#xA0;Mamedyarov 3-0 to stay joint-top of the leaderboard as the event reaches its mid-point. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-and-duda-maintain-the-lead-meltwater-champions-chess-tour-finals-2022-day-3-recap/",
-         "pubDate" : "Thu, 17 Nov 2022 19:42:35 +0000",
-         "title" : "Carlsen and Duda maintain the lead; Meltwater Champions Chess Tour Finals 2022 - Day 3 recap"
       },
       {
          "description" : "FM Tani Adewumi is scheduled to play against fellow young chess sensation IM Yagiz Erdogmus at 7 a.m. Pacific Time/16:00 Central European Time on November 20&#38;nbsp;in the next episode of his regular ChessKid series &#34;Tani vs. The World.&#34; Erdogmus ...",
@@ -1250,28 +1274,12 @@ news_feed (
          "title" : "Lei Tingjie advances to Women's Candidates final"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 98th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to discuss structures that are typical for the Queen's Gambit Declined. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-98-queen-s-gambit-declined-4",
-         "pubDate" : "Sun, 06 Nov 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 98: Queen's Gambit Declined (4)"
-      },
-      {
          "description" : " Sultan-Diego Abdullah Sulayman, a 2020 finance graduate of Howard University, passed away suddenly on October 30th after being found by his mother at their home. The news came as a shock to the Howard community as he was only 26, weeks away from his 27th birthday. At the time of his death, he was attending The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/\">Howard chess activist, Sultan-Diego Sulayman (1995-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/",
          "pubDate" : "Sun, 06 Nov 2022 13:53:19 +0000",
          "title" : "Howard chess activist, Sultan-Diego Sulayman (1995-2022)"
-      },
-      {
-         "description" : "With 10 opening articles, ChessBase Magazine #210 covers the usual broad spectrum of variations: From the English Opening &aacute; la Caruana (1.c4 e5 2.g3 f5 3.Bg2 Be7) or the Sicilian O'Kelly Variation (1.e4 c5 2.Nc3 a6 Part I: 3.d4/3.c3) to the Catalan (with the unconventional move 7.Qd2). In his contribution, Patrick Zelbel provides a concept against the Modern Defence (1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3), which is especially popular at club level and in which the move 4...a6 has become firmly established thanks to the Swedish GM Tiger Hillarp Persson. Our author begins the hunt for the tiger with 5.g4!? and thus makes it immediately clear where the journey is heading. \"If Black plays the m",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hunting-the-tiger",
-         "pubDate" : "Sun, 06 Nov 2022 14:00:00 +0100",
-         "title" : "Hunting the Tiger"
       },
       {
          "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out her opponent&#39;s sister, GM Mariya Muzychuk, in the quarte...",
@@ -1768,14 +1776,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-reports-from-nigel-povah/",
          "pubDate" : "Mon, 31 Oct 2022 10:26:05 +0000",
          "title" : "European Senior Teams Championships - reports from Nigel Povah"
-      },
-      {
-         "description" : "Hikaru Nakamura has won the World Fischer Random Championship in Reykjavik, Iceland, defeating Ian Nepomniachtchi in Armageddon 50 years after Bobby Fischer took down Boris Spassky. Magnus Carlsen bounced back to win his final three games against Nodirbek Abdusattov to take a consolation 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-wins-the-fischer-random-world-championship",
-         "pubDate" : "Mon, 31 Oct 2022 00:11:02 +0000",
-         "title" : "Nakamura wins the Fischer Random World Championship"
       },
       {
          "description" : "",
