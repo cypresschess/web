@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95593388.cms\" />Indian Grandmaster Arjun Erigaisi posted his first win while compatriot R Praggnanandhaa lost in the fourth round of the Meltwater Champions Tour Finals on Friday. While Erigaisi beat Azerbaijan's Shakhriyar Mamedyarov 3-1 for his first victory in the tournament, Praggnanandhaa went down 1-2 to American GM Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-posts-first-win-r-praggnanandhaa-loses/articleshow/95593388.cms",
+         "pubDate" : "Fri, 18 Nov 2022 03:58:29 +0000",
+         "title" : "Meltwater Champions Tour Finals: Erigaisi posts first win; Praggnanandhaa loses"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches tournament players how to prepare like the professionals, using his own experience. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-alex-yermolinsky\"><img src=\"ht",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
