@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-5-live-video-coverage/",
+         "pubDate" : "Fri, 18 Nov 2022 16:28:08 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals - Day 5 live video coverage"
+      },
+      {
+         "description" : "Magnus Carlsen&#xA0;racked up his seventh straight rapid game win to snatch the sole lead in the Meltwater Champions Chess Tour Finals in San Francisco. The World Chess Champion put on another sparking display in Round 4 of 7 as he thrashed Dutch No.1 Anish Giri 3-0 to march on towards victory in the $1.6 million []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-grabs-the-sole-lead-meltwater-champions-chess-tour-finals-2022-day-4-recap/",
+         "pubDate" : "Fri, 18 Nov 2022 16:23:44 +0000",
+         "title" : "Carlsen grabs the sole lead; Meltwater Champions Chess Tour Finals 2022 - Day 4 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2092",
+         "pubDate" : "Fri, 18 Nov 2022 15:17:31 +0000",
+         "title" : "Meltwater Tour Finals 2022: Carlsen takes the sole lead"
+      },
+      {
+         "description" : "There were no major surprises in the Superfinal of the Top Chess Engine Championship, as Stockfish came out the comfortable winner the final +17 score even surpassed most viewers' expectations.&#xA0; TCEC Season 23 so far: Full standings Premier Division / It&#x2019;s Stockfish vs Leela for the TCEC Superfinal / Ethereal trailblazes TCEC League 1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-23/",
+         "pubDate" : "Fri, 18 Nov 2022 13:38:36 +0000",
+         "title" : "Stockfish wins TCEC Season 23"
+      },
+      {
+         "description" : "Magnus Carlsen continues his perfect run at the Meltwater Champions Chess Tour Finals as he got a second consecutive 3-0 win on Thursday. The world champion defeated Anish Giri while former co-leader Jan-Krzysztof Duda lost to Le Quang Liem, which means Carlsen has now taken the sole lead with three rounds to go. Wesley So and Arjun Erigaisi also won their round-4 matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r4",
+         "pubDate" : "Fri, 18 Nov 2022 14:35:00 +0100",
+         "title" : "Meltwater Finals: Carlsen bamboozles Giri"
+      },
+      {
+         "description" : " The Vikings Weekender has always been a bit of a hidden gem on the Australian Weekend circuit. Run in 2 sections, it usually attracts between 50 to 70 players, has a fairly strong set of regular players (1 or 2 IM's, plus assorted 2000+ players), good prize money ($3000+) and an excellent venue. Unlike the more crowded events elsewhere, it always has a somewhat relaxed feel about it, even when players are striving for prizes and rating points. This year event has attracted 50 players, which might have been more if some of the players who had entered early had not pulled out. The top section is larger than the Under 1600 section (!), with IM Junta Ikeda and IM Stephen Solomon the headline ac",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekend-day-1.html",
+         "pubDate" : "Fri, 18 Nov 2022 13:14:00 +0000",
+         "title" : "2022 Vikings Weekend - Day 1"
+      },
+      {
          "description" : "The 23rd European Women's Chess Championship 2022 will take place from 17-30 March 2023 in Petrovac, Montenegro. The event is open for all women players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of the ECU Board and General Assembly. The Championship []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,11 +74,11 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A sharp line in the Reti"
       },
       {
-         "description" : "GM Magnus Carlsen is the only player left on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match, to GM Le Quang Liem, while GM Arjun Eri...",
+         "description" : "GM Magnus Carlsen is the only player on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match to GM Le Quang Liem, while GM Arjun Erigaisi ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-4",
-         "pubDate" : "Fri, 18 Nov 2022 00:24:36 -0800",
+         "pubDate" : "Fri, 18 Nov 2022 00:24:00 -0800",
          "title" : "Carlsen Leads Alone On Perfect 12/12"
       },
       {
@@ -42,7 +90,7 @@ news_feed (
          "title" : "Italian Championship U20 2022 - LIVE"
       },
       {
-         "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds, but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020, and who the follo",
+         "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020 and who the followi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/nov/18/chess-magnus-carlsen-faces-his-nemesis-in-final-round-of-meltwater-tour",
@@ -114,14 +162,6 @@ news_feed (
          "title" : "Judge Ronnie Lee White: \"Niemann's Complaint is procedurally defective\""
       },
       {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Thu, 17 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
-      },
-      {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Carlsen and Duda maintain the lead; Meltwater Champions Chess Tour Finals 2022 - Day 3 recap"
       },
       {
-         "description" : "Italian Women Championship is taking place from 17&#x2013;23 November 2022 in Cagliari, Italy. It is a 8-player round-robin tournament with Olga Zimina, Sara Gabbani, Valeria Martinelli, Marina Brunell, Elisa Cassi, Marianna Raccanello, Elena Sedina and Melissa Maione. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italian-women-championship-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 19:05:52 +0000",
-         "title" : "Italian Women Championship 2022 - LIVE"
-      },
-      {
          "description" : "FM Tani Adewumi is scheduled to play against fellow young chess sensation IM Yagiz Erdogmus at 7 a.m. Pacific Time/16:00 Central European Time on November 20&#38;nbsp;in the next episode of his regular ChessKid series &#34;Tani vs. The World.&#34; Erdogmus ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,28 +186,12 @@ news_feed (
          "title" : "Young Prodigies FM Tani Adewumi, IM Yagiz Erdogmus Face Off"
       },
       {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022 will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 19:02:00 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2091",
          "pubDate" : "Thu, 17 Nov 2022 19:01:25 +0000",
          "title" : "WCSC 2022: Danila Pavlov wins title, Marjan Kovacevic elected as WFCC President"
-      },
-      {
-         "description" : "Maplewood Invitational is taking place from 14-19 November 2022 in Waterloo, Quebec, Canada. It is a 10-player Round-robin tournament with Bator Sambuev, Nikolay Noritsyn, Toms Kantans, Marin Bosiocic, Artiom Samsonkin, Mark Plotkin, Isan Reynaldo Ortiz Suarez, Jason Liang, Shawn Rodrigue-Lemieux and G V Sai Krishna. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maplewood-invitational-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 18:59:11 +0000",
-         "title" : "Maplewood Invitational 2022 - LIVE"
       },
       {
          "description" : "FTX : Where have we heard that acronym before? If you've been following the financial news for the last couple of weeks, then you've undoubtedly seen a headline like <A HREF=\"https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html\">Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy</A>(cnbc.com). The article's summarizing bullets explained, <BLOCKQUOTE>Sam Bankman-Fried's cryptocurrency exchange FTX has filed for bankruptcy. Alameda Research and approximately 130 additional affiliated companies are part of the voluntary proceedings. </BLOCKQUOTE> <P>What's that got to do with chess? FTX figured in a couple of p",
@@ -1290,14 +1306,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Five"
       },
       {
-         "description" : "Praggnanandhaa and Nandhidhaa P V won the open and women's sections of the 2022 Asian Championships, respectively. Praggnanandhaa took the sole lead in round 8, and a draw in his final game was enough for the 17-year-old to win the open. Nandhidhaa, aged 26, claimed tournament victory with one round to spare. | Photos: All India Chess Federation and Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/asian-continental-championship-2022",
-         "pubDate" : "Sat, 05 Nov 2022 19:15:00 +0100",
-         "title" : "Indians dominate Asian Continental Championships"
-      },
-      {
          "description" : "Nakamura-So and Giri-Sarin are locked at 2:2 going into Day 2 of the Chess.com Global Championship semi-finals. Hikaru and Wesley drew all four games, but not without real chances, especially in the 134-move Game 3. Anish Giri took the lead against Nihal Sarin but the young Indian hit straight back and missed a wonderful chance to take the lead himself.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1872,30 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2066",
          "pubDate" : "Fri, 28 Oct 2022 20:56:11 +0000",
          "title" : "Women's Candidates Pool A: The tension is rising"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95150515.cms\" />Sixteen-year old Indian Grandmaster Leon Luke Mendonca shot into the sole lead in the Open section after the third round of the Asian Continental Chess Championship on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-leon-mendonca-takes-lead-in-open-section-10-players-share-top-spot-in-womens-event/articleshow/95150515.cms",
-         "pubDate" : "Fri, 28 Oct 2022 15:27:32 +0000",
-         "title" : "Asian Chess: Leon Mendonca takes lead in Open section, 10 players share top spot in women's event"
-      },
-      {
-         "description" : "The first few months of this 'Fischer Friday' series were mainly about the <A HREF=\"https://www.mark-weeks.com/chess/7072$wix.htm\">1972 Fischer - Spassky Title Match</A>(m-w.com). Then in the post <A HREF=\"https://chessforallages.blogspot.com/2022/09/fs-1972-20-fs-1992.html\">FS 1972 + 20 = FS 1992</A>(September 2022; 'It's time to change the subject, if only for a few weeks'), I switched to the <A HREF=\"https://www.mark-weeks.com/chess/92fs$mix.htm\">1992 Fischer - Spassky Rematch</A>(also m-w.com). Let's return to the 1972 match. <P>While preparing this month's eBay post -- 'Top eBay Chess Items by Price', <A HREF=\"https://chessforallages.blogspot.com/2022/10/chess-and-italian-design.html\">C",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html",
-         "pubDate" : "Fri, 28 Oct 2022 15:09:00 +0000",
-         "title" : "'To Sam, With Thanks'"
-      },
-      {
-         "description" : " In Michael Stean's classic \"Simple Chess\" he points out that open files don't always operate on a \"first come, first serve\" basis. As Nimzovitch first pointed out, the role of the open file is to get your rook to the 7th or 8th rank. In this game from the current Bangkok Open, GM Hrant Melkumyan demonstrates this quite effectively, opening a file that his opponent already has a rook on, but one without entry points into Black's position. After the Black rook moves to b8, it is Black that not only takes over the b file, but also the 7th and 8th ranks. After that, White is forced to defend a host of weak pawns, which eventually, he is unable to do. <br /> <b>Markovitz,Neil (1962) - Melkumyan,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/entry-points.html",
-         "pubDate" : "Fri, 28 Oct 2022 12:50:00 +0000",
-         "title" : "Entry points"
       }
    ]
 }
