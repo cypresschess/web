@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Fri, 18 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky shares his greatest chess preparation (up to that point) from the early 1980s with games against Alexsander Shashin. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prep-mar-del-plata-kings-indian-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 18 Nov 2022 19:23:58 +0000",
+         "title" : "Prep in the Mar del Plata King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
          "description" : "The Norwegian Youth Championship will take place in Molde, Norway from the 18th to the 20th of November. It is a 7-round Dutch Swiss with Johan-Sebastian Christiansen, David Hellesoy, Mathias&#xA0;Unneland, Leo Moen Eidet, Nikolai Olsen Wernberg, Shazil Shehzad, Elma Selvik, etc. Time control : Rounds 1-2: 15 minutes for the entire game with a 5-second []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "Laura Unuk becomes the brand ambassador of Ford Slovenia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-7",
-         "pubDate" : "Wed, 09 Nov 2022 07:18:01 +0000",
-         "title" : "2022 Fall Chess Classic: Round 7"
-      },
-      {
          "description" : "The Fall Chess Classic is taking place at the Saint Louis Chess Club on November 2-10. Two 10-player round-robin tournaments, group A and group B, are being played concurrently. In the main group, second seed Yu Yangyi from China is in the sole lead with a 5/7 points. Yu scored consecutive wins in the last three rounds. Meanwhile, Aleksandr Lenderman has all but secured victory in group B. | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/global-championship-4-wesley-so-and-nihal-sarin-reach-final",
          "pubDate" : "Sun, 06 Nov 2022 14:59:35 +0000",
          "title" : "Global Championship 4: Wesley So and Nihal Sarin reach final"
-      },
-      {
-         "description" : "Following three draws, Lei Tingjie beat Anna Muzychuk in the final encounter of the Women's Candidates semifinals in Monte Carlo. The 25-year-old will face the winner of Pool B, a similar 4-player knockout set to kick off on November 28 in Uzbekistan. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-a-2022-r2g4",
-         "pubDate" : "Sun, 06 Nov 2022 15:05:00 +0100",
-         "title" : "Lei Tingjie advances to Women's Candidates final"
       },
       {
          "description" : " Sultan-Diego Abdullah Sulayman, a 2020 finance graduate of Howard University, passed away suddenly on October 30th after being found by his mother at their home. The news came as a shock to the Howard community as he was only 26, weeks away from his 27th birthday. At the time of his death, he was attending The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/\">Howard chess activist, Sultan-Diego Sulayman (1995-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
