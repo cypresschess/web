@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches tournament players how to prepare like the professionals, using his own experience. 2022.11.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_Ld62Ti7QMo.jpg?itok=wpUZUDTc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Thu, 17 Nov 2022 22:23:34 +0000",
+         "title" : "Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : " The 2022 World Seniors has just begun in Italy, and as is normal, there are a mix of well known players and enthusiastic amateurs. It is being run in two section, 50+ and 65+, and somewhat surprisingly, there are more players in the 65+ section than the 50+ section. Top seed on the 65+ section is GM John Nunn, who started the event with a smooth, and somewhat instructive win over his first round opponent. <br /> <b>Nunn,John D M (2580) - Sursock,Sameer (1976) [B28]</b><br />30th World Senior Chess Championship 202 Assisi (ITA) (1.1), 15.11.2022 <script>new PgnViewer( { boardName: \"game1366\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-seniors.html",
+         "pubDate" : "Thu, 17 Nov 2022 22:16:00 +0000",
+         "title" : "2022 World Seniors"
+      },
+      {
+         "description" : "Nakhchivan Chess Center IM is taking place from 17&#x2013;22 November 2022 in Nakhchivan, Azerbaijan. It is a 10-round Scheveningen tournament with Barad Yeganegi, Tunahan Makaraci, Parva Behzad Nazif, Toghrul Hasanzade, Urfan Sevdimaliyev, Arvin Danesharaste, Sadig Mammadov, Parviz Gasimov, Arsalan Zarinfam and Morteza Darban. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakhchivan-chess-center-im-2022-live/",
+         "pubDate" : "Thu, 17 Nov 2022 21:30:47 +0000",
+         "title" : "Nakhchivan Chess Center IM 2022 - LIVE"
+      },
+      {
          "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/anand-on-the-carlsen-niemann-scandal-there-is-not-going-to-be-any-proof",
          "pubDate" : "Wed, 16 Nov 2022 12:27:04 +0000",
          "title" : "Anand on Carlsen-Niemann: \"There's not going to be any proof\""
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-3-live-video-coverage/",
-         "pubDate" : "Wed, 16 Nov 2022 10:52:37 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals - Day 3 live video coverage"
       },
       {
          "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the Meltwater Champions Chess Tour Finals. They are the only players to gain six points for winning both of their matches without a tiebreak. GM Anish Giri won his second ...",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fall-chess-classic-2022-r6",
          "pubDate" : "Wed, 09 Nov 2022 03:50:00 +0100",
          "title" : "Fall Chess Classic: Yu Yangyi leads with two rounds to go"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8-lichessorg",
-         "pubDate" : "Tue, 08 Nov 2022 22:17:33 +0000",
-         "title" : "2022 Fall Chess Classic: Round 8 | lichess.org"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1880,30 +1888,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/oct/28/chess-hans-niemann-chosen-to-lead-usa-at-world-team-championship",
          "pubDate" : "Fri, 28 Oct 2022 07:00:22 +0000",
          "title" : "Chess: Hans Niemann chosen to lead USA at World Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2062",
-         "pubDate" : "Thu, 27 Oct 2022 22:40:30 +0000",
-         "title" : "Monaco Chess Club: Rich history and honourable traditions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2063",
-         "pubDate" : "Thu, 27 Oct 2022 22:08:13 +0000",
-         "title" : "FIDE World FR Chess Championship: Carlsen, Nakamura and Nepomniachtchi reach semifinals - reigning champion So dethroned"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2064",
-         "pubDate" : "Thu, 27 Oct 2022 21:25:27 +0000",
-         "title" : "2022 FIDE World Amateur Championship enters final stretch"
       }
    ]
 }
