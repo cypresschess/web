@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The recent death of Michael Basman brought to my mind Shakespeare's stirring words from King Henry V's pre battle oration at Agincourt: And Crispin Crispian shall ne'er go by, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/basman-basmadjian-the-uncrowned-chess-champion/",
+         "pubDate" : "Sat, 19 Nov 2022 08:00:08 +0000",
+         "title" : "Basman Basmadjian, the uncrowned chess champion"
+      },
+      {
+         "description" : "The razor-sharp diagram position should be drawn with best play, but until then there are still some cliffs to be avoided on both sides. White starts - please fasten your seatbelts!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishops-in-enemy-territory",
+         "pubDate" : "Sat, 19 Nov 2022 09:00:00 +0100",
+         "title" : "Bishops in enemy territory"
+      },
+      {
+         "description" : "We have a new show on ChessBase with Grandmaster Chris Ward. The Sicilian Dragon aficionado is back on-screen, and presents us games, news, moves, tactics, ideas, and much more about his \"go to\" opening each month. In the first episode, Chris is presenting us one of his own, rare dragon games, which he played quite recently. The English Grandmaster had a couple of options to continue with his dragon, but chose the good ol' move 11. .. Qa5, which caused several mate threats a little later. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-11-qa5-chris-ward-s-nostalgic-decision",
+         "pubDate" : "Sat, 19 Nov 2022 08:00:00 +0100",
+         "title" : "The Monthly Dragon - 11. .. Qa5 Chris Ward's nostalgic decision"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95618342.cms\" />Indian Grandmaster Arjun Erigaisi scored a 2.5-1.5 win over Dutch GM Anish Giri in the fifth round of the Meltwater Champions Tour Finals on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1242,14 +1266,6 @@ news_feed (
          "title" : "Almaty, Kazakhstan to host 2022 FIDE Rapid & Blitz Championships in late December"
       },
       {
-         "description" : "After nine exciting rounds, the largest European Team Senior Chess Championship so far has come to an end in Dresden. A total of 76 teams from 16 nations took part and competed for the titles in two age categories: 50+ and 65+. England-1 won the 50+ section (pictured), while the German squad Lasker Schachstiftung got first place in the 65+ category. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-senior-team-championships-2022-report",
-         "pubDate" : "Mon, 07 Nov 2022 06:25:00 +0100",
-         "title" : "European Senior Team Championships conclude in Dresden"
-      },
-      {
          "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/chess-in-artists-studio.html",
          "pubDate" : "Sun, 06 Nov 2022 16:05:00 +0000",
          "title" : "Chess in the Artist's Studio"
-      },
-      {
-         "description" : "Today's column is dedicated to the memory of Michael Basman, who sadly passed away on Wednesday, October 26th, at the age of 76. It's one of the great joys of the chess world that we provide a relatively safe environment for eccentric talent, and Basman was as engaging and eccentric in person as in his wonderful creations on the chessboard. | Pictured: Joel Benjamin facing Michael Basman (Lloyds Bank Open 1978)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-181",
-         "pubDate" : "Sun, 06 Nov 2022 16:30:00 +0100",
-         "title" : "Battles with Basman"
       },
       {
          "description" : "Hikaru Nakamura had to satisfy himself with winning \"only\" $200,000 in a couple of weeks as Wesley So won the last two games to reach the final of the Chess.com Global Championship. Anish Giri vs. Nihal Sarin went all the way to Armageddon, with 18-year-old Nihal managing to win a drawish endgame on demand to guarantee himself at least $100,000.",
