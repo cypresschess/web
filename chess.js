@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2069",
          "pubDate" : "Sun, 30 Oct 2022 12:13:29 +0000",
          "title" : "10th IBCA PanAmerican Games for Blind set new records"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2068",
-         "pubDate" : "Sat, 29 Oct 2022 21:43:12 +0000",
-         "title" : "FIDE World FR Championship: Carlsen crashes out, Nakamura downs prodigy to set up surprise final"
       }
    ]
 }
