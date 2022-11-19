@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " At the end of the 2nd day of the 2022 Vikings Weekender, 3 players share the lead on 3.5/4. The top 2 seeds, IM Junta Ikeda and IM Stephen Solomon drew their round 4 game to reach 3.5, where they were joined by Oladoyin Fasakin, who also drew in the last round of the day. His opponent, Matt Radisich, is one of the surprise packets of the event, have reached 3/4, despite being seeded 11th at the start. Also on 3 points are CM Hui Li, Fred Litchfield and Queensland junior Harvey Zhu. In the Minor event James Minogue leads with 4/4. He reached this score with a careful win against top seed Kamal Jain, nursing home his final pawn while trying to avoid a K+N+B v K ending (Jain was trying to sacr",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-day-2.html",
+         "pubDate" : "Sat, 19 Nov 2022 11:42:00 +0000",
+         "title" : "2022 Vikings Weekender - Day 2"
+      },
+      {
+         "description" : "Garry Kasparov was the eight of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-garry-kasparov",
+         "pubDate" : "Sat, 19 Nov 2022 12:00:00 +0100",
+         "title" : "Frederic's mates - Garry Kasparov"
+      },
+      {
+         "description" : "Charlotte Fall Invitational IM (D) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Alice Lee, Gabriel Eidelman, Nicolas De La Colina, Tamas Petenyi, Matyas Marek, Julian Estrada []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-d-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:58:59 +0000",
+         "title" : "Charlotte Fall Invitational - IM (D) 2022 LIVE"
+      },
+      {
+         "description" : "Charlotte Fall Invitational GM (C) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Bartlomiej Macieja, Tianqi Wang, Max Gedajlovic, Vladimir Georgiev, Konstantin Kavutskiy, Dean Ippolito, Alder Escobar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-c-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:54:02 +0000",
+         "title" : "Charlotte Fall Invitational - GM (C) 2022 - LIVE"
+      },
+      {
+         "description" : "Charlotte Fall Invitational GM (B) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Gergely Kantor, Cristhian Cruz, Irakli Beradze, Mark Paragua, Kassa Korley, Andy Woodward, Justus Williams, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-b-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:49:45 +0000",
+         "title" : "Charlotte Fall Invitational - GM (B) 2022 - LIVE"
+      },
+      {
+         "description" : "The Charlotte Fall Invitational GM (A) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Emilio Cordova, Razvan Preotu, Titas Stremavicius, Jagadeesh Siddharth, Jakub Fus, Denis Shmeliov, Alexander []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-a-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:33:53 +0000",
+         "title" : "Charlotte Fall Invitational - GM (A) 2022 - LIVE"
+      },
+      {
+         "description" : "65+ FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy.&#xA0;The Championship will be played&#xA0;with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per move starting from move 1. In category 65+ will participate []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/65-fide-world-senior-chess-championship-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:27:57 +0000",
+         "title" : "65+ FIDE World Senior Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "50+ FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy.&#xA0;The Championship will be played&#xA0;with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per move starting from move 1. In category 50+ will participate []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50-fide-world-senior-chess-championship-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 10:20:53 +0000",
+         "title" : "50+ FIDE World Senior Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem only went down in the armageddon game of their tiebreak. The Vietnamese GM thereby took one match point away...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-5",
+         "pubDate" : "Sat, 19 Nov 2022 02:08:00 -0800",
+         "title" : "Carlsen On The Brink After Armageddon Win"
+      },
+      {
          "description" : "The recent death of Michael Basman brought to my mind Shakespeare's stirring words from King Henry V's pre battle oration at Agincourt: And Crispin Crispian shall ne'er go by, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -106,6 +178,14 @@ news_feed (
          "title" : "Carlsen grabs the sole lead; Meltwater Champions Chess Tour Finals 2022 - Day 4 recap"
       },
       {
+         "description" : "A week ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fischer-busted.html\">Fischer Busted</A>(November 2022), I promised, 'We're nearing the end of this blog's 'Fischer Friday' series'. I'll end the series with a post on <A HREF=\"https://www.mark-weeks.com/chess/7375$wix.htm\">1975 Fischer forfeits to Karpov</A>(m-w.com). The drawing below -- by artist Greg Spalenka -- is from the 29 July 1985 issue of <I>Sports Illustrated</I> (SI). See the post <A HREF=\"http://chessforallages.blogspot.com/2017/06/fischer-im-not-seeing-people.html\">Fischer: 'I'm not seeing people'</A>(June 2017; '1985-07-29: Bobby Fischer') for a link. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/a-clock-without-hands.html",
+         "pubDate" : "Fri, 18 Nov 2022 16:10:00 +0000",
+         "title" : "'A Clock Without Hands'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,22 +218,6 @@ news_feed (
          "title" : "2022 Vikings Weekend - Day 1"
       },
       {
-         "description" : "The 23rd European Women's Chess Championship 2022 will take place from 17-30 March 2023 in Petrovac, Montenegro. The event is open for all women players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of the ECU Board and General Assembly. The Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023/",
-         "pubDate" : "Fri, 18 Nov 2022 11:51:37 +0000",
-         "title" : "European Women's Chess Championship 2023"
-      },
-      {
-         "description" : "The 64th World Congress of Chess Composition (WCSC) is in full swing in Fujairah, UAE.&#xA0;The first day of the World Solving Chess Championship saw FM&#xA0;Bilguun Sumia&#xA0;(pictured below) from Mongolia grab the lead. The member of the Mongolian chess national team he pulled a half-point ahead of the World Champion in solving&#xA0;Danila Pavlov&#xA0;and&#xA0;Nikos Sidiropoulos. In the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danila-pavlov-wins-world-chess-solving-championship-2022/",
-         "pubDate" : "Fri, 18 Nov 2022 11:46:26 +0000",
-         "title" : "Danila Pavlov wins World Chess Solving Championship 2022"
-      },
-      {
          "description" : "This week Robert Ris presents a sharp line against the Reti, and takes a close look at the game Duda vs Erigaisi from the Meltwater Chess Champions Tour, in which this line was tested. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-4",
          "pubDate" : "Fri, 18 Nov 2022 00:24:00 -0800",
          "title" : "Carlsen Leads Alone On Perfect 12/12"
-      },
-      {
-         "description" : "Italian Championship U20 is a 8-player round-robin tournament, held from November 17th to 23rd in Cagliari, Italy with Joshuaede Cappelletto, Neven Hercegova, Gabriele Lumachi, Nicol&#xF2; Orfini, Andrea Rindone,&#xA0;Ieysaa Bin-Suhayl,Francesco Bettalli and Luca Ballotti. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/italian-championship-u20-2022-live/",
-         "pubDate" : "Fri, 18 Nov 2022 08:08:24 +0000",
-         "title" : "Italian Championship U20 2022 - LIVE"
       },
       {
          "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020 and who the followi",
@@ -232,30 +288,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-seniors.html",
          "pubDate" : "Thu, 17 Nov 2022 22:16:00 +0000",
          "title" : "2022 World Seniors"
-      },
-      {
-         "description" : "Nakhchivan Chess Center IM is taking place from 17&#x2013;22 November 2022 in Nakhchivan, Azerbaijan. It is a 10-round Scheveningen tournament with Barad Yeganegi, Tunahan Makaraci, Parva Behzad Nazif, Toghrul Hasanzade, Urfan Sevdimaliyev, Arvin Danesharaste, Sadig Mammadov, Parviz Gasimov, Arsalan Zarinfam and Morteza Darban. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakhchivan-chess-center-im-2022-live/",
-         "pubDate" : "Thu, 17 Nov 2022 21:30:47 +0000",
-         "title" : "Nakhchivan Chess Center IM 2022 - LIVE"
-      },
-      {
-         "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/judge-ronnie-lee-white-niemanns-complaint-is-procedurally-defective/",
-         "pubDate" : "Thu, 17 Nov 2022 20:03:58 +0000",
-         "title" : "Judge Ronnie Lee White: \"Niemann's Complaint is procedurally defective\""
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-4-live-video-coverage/",
-         "pubDate" : "Thu, 17 Nov 2022 19:44:53 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals - Day 4 live video coverage"
       },
       {
          "description" : "FM Tani Adewumi is scheduled to play against fellow young chess sensation IM Yagiz Erdogmus at 7 a.m. Pacific Time/16:00 Central European Time on November 20&#38;nbsp;in the next episode of his regular ChessKid series &#34;Tani vs. The World.&#34; Erdogmus ...",
@@ -1250,14 +1282,6 @@ news_feed (
          "title" : "Kazakhstan To Host FIDE World Rapid & Blitz Championships Dec. 26-30"
       },
       {
-         "description" : "FIDE is happy to confirm the dates and the venue for the World Rapid and Blitz Championships 2022. The prestigious event will take place in Almaty, Kazakhstan's largest metropolis, set in the foothills of the Trans-Ili Alatau mountains. The championship will be played on its traditional dates, between December 25 (arrival and opening) and December 30 (last playing day and closing). | Photo: advantour.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/almaty-to-host-fide-rapid-blitz-championships-2022",
-         "pubDate" : "Mon, 07 Nov 2022 10:09:33 +0100",
-         "title" : "Almaty to host FIDE Rapid & Blitz Championships 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1730,14 +1754,6 @@ news_feed (
          "title" : "At Last the 1988 Show"
       },
       {
-         "description" : "Chess.com is excited to announce that we will be hosting the 2022 U.S. Collegiate Rapid and Blitz Championships. The rapid championship will be held on November 13 and the blitz championship on November 20. Registration is underway and continues...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-us-collegiate-rapid-and-blitz-championships",
-         "pubDate" : "Mon, 31 Oct 2022 12:13:22 -0700",
-         "title" : "Announcing The 2022 US Collegiate Rapid & Blitz Championships"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95213020.cms\" />Siddhant Gawai lived up to his billing to remain unbeaten and emerge champion in the Maharashtra State U-15 Open Fide rating chess championship, which concluded in Amravati on Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1880,22 +1896,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-beats-pranav-anand-moves-into-joint-lead/articleshow/95169923.cms",
          "pubDate" : "Sat, 29 Oct 2022 16:15:26 +0000",
          "title" : "Asian Chess Championship: Praggnanandhaa beats Pranav Anand, moves into joint lead"
-      },
-      {
-         "description" : "There is little doubt that, in physical sports, men will tend to outperform women. Upper bodily strength plays a major role, ensuring that contests between respectively leading male and female practitioners in tennis, boxing and rugby, for example, will inevitably end in favour of the men. However, should the same apply in mental sport, where physical strength is irrelevant? The late Tony Buzan, the inventor of Mind Maps, who []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/mind-games-and-memory-how-do-men-and-women-compare/",
-         "pubDate" : "Sat, 29 Oct 2022 12:06:55 +0000",
-         "title" : "Mind games and memory: how do men and women compare?"
-      },
-      {
-         "description" : "Please find the live links for MPL National U-11 Open Category Girls Category ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-mpl-national-u-11/",
-         "pubDate" : "Sat, 29 Oct 2022 09:44:19 +0000",
-         "title" : "LIVE GAMES :MPL National U-11"
       }
    ]
 }
