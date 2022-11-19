@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vezerkepzo GM November is taking place from 17-26 November 2022 in Budapest, Hungary. It is an 12-player Round-robin GM norm tournament&#xA0;with Valeriy Neverov, Stanislaw Zylka, Belurkar&#xA0;Nitish, Bobir Sattarov, Edward Song, Walia&#xA0;Namitbir Singh, Jimmy Jubin, Tripathi Adarsh, Vuppala Prraneeth, Zoltan Varga, Valeriy&#xA0;Aveskulov and Tamas Jr. Fodor. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-gm-november-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 16:08:07 +0000",
+         "title" : "Vezerkepzo GM November 2022 - LIVE"
+      },
+      {
+         "description" : "Portuguese Rapid Championship is taking place on 19 November 2022 in Felgueiras, Portugal. It is a 8-round Swiss tournament with Miguel Sismeiro, Andre Ventura Sousa, Bruno Andre Leite Martins, Luis Sousa Reis, Paul-Mihai Avramescu, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/portuguese-rapid-championship-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 15:58:52 +0000",
+         "title" : "Portuguese Rapid Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Charlotte Fall Invitational IM (F) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Gabor Nagy, David Vigorito, Nikolai Andrianov, Robby Adamson, Mike Zaloznyy, Maili-Jade Ouellet, Pedro Rodriguez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-f-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 15:54:17 +0000",
+         "title" : "Charlotte Fall Invitational - IM (F) 2022 LIVE"
+      },
+      {
+         "description" : "Charlotte Fall Invitational IM (E) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Sriram Krishnakumar, Grayson Rorrer, Liam Putnam, Dante M Beukes, Sila Caglar, Roberto Martin Del []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-e-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 15:48:14 +0000",
+         "title" : "Charlotte Fall Invitational - IM (E) 2022 LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-5-carlsen-pragg-win-in-armageddon",
+         "pubDate" : "Sat, 19 Nov 2022 15:44:27 +0000",
+         "title" : "MCCT Finals 5: Carlsen & Pragg win in Armageddon"
+      },
+      {
+         "description" : "Magnus Carlsen has a 4-point lead with two rounds to go at the Meltwater Champions Chess Tour Finals. The world champion defeated Le Quang Liem in Armageddon, as he remains the big favourite to take the title. Praggnanandhaa beat Jan-Krzysztof Duda, also in Armageddon, while Wesley So and Arjun Erigaisi won their matches 'in regulation'.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r5",
+         "pubDate" : "Sat, 19 Nov 2022 13:40:00 +0100",
+         "title" : "Meltwater Finals: Carlsen and Pragg win in Armageddon"
+      },
+      {
          "description" : " At the end of the 2nd day of the 2022 Vikings Weekender, 3 players share the lead on 3.5/4. The top 2 seeds, IM Junta Ikeda and IM Stephen Solomon drew their round 4 game to reach 3.5, where they were joined by Oladoyin Fasakin, who also drew in the last round of the day. His opponent, Matt Radisich, is one of the surprise packets of the event, have reached 3/4, despite being seeded 11th at the start. Also on 3 points are CM Hui Li, Fred Litchfield and Queensland junior Harvey Zhu. In the Minor event James Minogue leads with 4/4. He reached this score with a careful win against top seed Kamal Jain, nursing home his final pawn while trying to avoid a K+N+B v K ending (Jain was trying to sacr",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,12 +114,12 @@ news_feed (
          "title" : "50+ FIDE World Senior Chess Championship 2022 - LIVE"
       },
       {
-         "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem only went down in the armageddon game of their tiebreak. The Vietnamese GM thereby took one match point away...",
+         "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-5",
          "pubDate" : "Sat, 19 Nov 2022 02:08:00 -0800",
-         "title" : "Carlsen On The Brink After Armageddon Win"
+         "title" : "Carlsen On Brink Of Victory After Armageddon Win"
       },
       {
          "description" : "The recent death of Michael Basman brought to my mind Shakespeare's stirring words from King Henry V's pre battle oration at Agincourt: And Crispin Crispian shall ne'er go by, []",
@@ -114,28 +162,12 @@ news_feed (
          "title" : "Winners crowned at 64th World Congress of Chess Composition"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Fri, 18 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky shares his greatest chess preparation (up to that point) from the early 1980s with games against Alexsander Shashin. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/prep-mar-del-plata-kings-indian-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 18 Nov 2022 19:23:58 +0000",
          "title" : "Prep in the Mar del Plata King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "The Norwegian Youth Championship will take place in Molde, Norway from the 18th to the 20th of November. It is a 7-round Dutch Swiss with Johan-Sebastian Christiansen, David Hellesoy, Mathias&#xA0;Unneland, Leo Moen Eidet, Nikolai Olsen Wernberg, Shazil Shehzad, Elma Selvik, etc. Time control : Rounds 1-2: 15 minutes for the entire game with a 5-second []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/norwegian-youth-championship-2022-live/",
-         "pubDate" : "Fri, 18 Nov 2022 17:43:01 +0000",
-         "title" : "Norwegian Youth Championship 2022 - LIVE"
       },
       {
          "description" : "Magnus Carlsen leads the Meltwater Champions Chess Tour Finals by 3 points after he beat Anish Giri 3:0 in Round 4 while Jan-Krzysztof Duda fell to Liem Le. Anish commented, \"today was the day when I found out what's broken,\" as he saw lessons in a defeat full of hard-to-explain decisions. Wesley So won a second match in a row, against Praggnanandhaa, while Arjun Erigaisi picked up his first win, against Shakhriyar Mamedyarov.",
@@ -162,22 +194,6 @@ news_feed (
          "title" : "Danila Pavlov wins title at World Congress of Chess Composition"
       },
       {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-day-5-live-video-coverage/",
-         "pubDate" : "Fri, 18 Nov 2022 16:28:08 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals - Day 5 live video coverage"
-      },
-      {
-         "description" : "Magnus Carlsen&#xA0;racked up his seventh straight rapid game win to snatch the sole lead in the Meltwater Champions Chess Tour Finals in San Francisco. The World Chess Champion put on another sparking display in Round 4 of 7 as he thrashed Dutch No.1 Anish Giri 3-0 to march on towards victory in the $1.6 million []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-grabs-the-sole-lead-meltwater-champions-chess-tour-finals-2022-day-4-recap/",
-         "pubDate" : "Fri, 18 Nov 2022 16:23:44 +0000",
-         "title" : "Carlsen grabs the sole lead; Meltwater Champions Chess Tour Finals 2022 - Day 4 recap"
-      },
-      {
          "description" : "A week ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fischer-busted.html\">Fischer Busted</A>(November 2022), I promised, 'We're nearing the end of this blog's 'Fischer Friday' series'. I'll end the series with a post on <A HREF=\"https://www.mark-weeks.com/chess/7375$wix.htm\">1975 Fischer forfeits to Karpov</A>(m-w.com). The drawing below -- by artist Greg Spalenka -- is from the 29 July 1985 issue of <I>Sports Illustrated</I> (SI). See the post <A HREF=\"http://chessforallages.blogspot.com/2017/06/fischer-im-not-seeing-people.html\">Fischer: 'I'm not seeing people'</A>(June 2017; '1985-07-29: Bobby Fischer') for a link. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/c",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2092",
          "pubDate" : "Fri, 18 Nov 2022 15:17:31 +0000",
          "title" : "Meltwater Tour Finals 2022: Carlsen takes the sole lead"
-      },
-      {
-         "description" : "There were no major surprises in the Superfinal of the Top Chess Engine Championship, as Stockfish came out the comfortable winner the final +17 score even surpassed most viewers' expectations.&#xA0; TCEC Season 23 so far: Full standings Premier Division / It&#x2019;s Stockfish vs Leela for the TCEC Superfinal / Ethereal trailblazes TCEC League 1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockfish-wins-tcec-season-23/",
-         "pubDate" : "Fri, 18 Nov 2022 13:38:36 +0000",
-         "title" : "Stockfish wins TCEC Season 23"
       },
       {
          "description" : "Magnus Carlsen continues his perfect run at the Meltwater Champions Chess Tour Finals as he got a second consecutive 3-0 win on Thursday. The world champion defeated Anish Giri while former co-leader Jan-Krzysztof Duda lost to Le Quang Liem, which means Carlsen has now taken the sole lead with three rounds to go. Wesley So and Arjun Erigaisi also won their round-4 matches.",
@@ -1730,14 +1738,6 @@ news_feed (
          "title" : "Meltwater Champions Chess Tour Finals line-up announced"
       },
       {
-         "description" : "World #6 Lei Tingjie and World #7 Anna Muzychuk edged closer to a chance to play a World Championship match as they knocked out Mariya Muzychuk and Humpy Koneru, respectively, in the €250,000 Women's Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anna-muzychuk-and-lei-tingjie-qualify-for-women-s-candidates-semi-final",
-         "pubDate" : "Tue, 01 Nov 2022 07:21:10 +0000",
-         "title" : "Anna Muzychuk and Lei Tingjie qualify for Women's Candidates semi-final"
-      },
-      {
          "description" : " In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. The American legend lost only once in the entire tournament and took a handsome prize of $150,000 after winning an Armageddon game again Ian Nepomniachtchi. GM Hikaru Nakamura, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2067",
          "pubDate" : "Sat, 29 Oct 2022 20:33:55 +0000",
          "title" : "Lei Tingjie advances, Humpy Koneru and Anna Muzychuk to play tiebreaker"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95169923.cms\" />Top-seed R Praggnanandhaa moved into joint lead with five others after his third consecutive win in the Open section of the Asian Continental Chess Championship on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-beats-pranav-anand-moves-into-joint-lead/articleshow/95169923.cms",
-         "pubDate" : "Sat, 29 Oct 2022 16:15:26 +0000",
-         "title" : "Asian Chess Championship: Praggnanandhaa beats Pranav Anand, moves into joint lead"
       }
    ]
 }
