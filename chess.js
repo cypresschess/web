@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Asian Junior Championship is taking place in Tagaytay City, Philippines. It is a 9-round Swiss tournament with Mark Jay Bacojo, Saha Neelash, G B Harshavardhan, Sugar Gan-Erdene, Arman Hakemi, Chatterjee Utsab, Duy Dau Khuong, Jerico M Santiaguel, Al-Basher Buto, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-junior-championship-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 21:04:25 +0000",
+         "title" : "Asian Junior Championship 2022- LIVE"
+      },
+      {
+         "description" : "Cascavel Blitz is taking place from 19&#x2013;20 November 2022 in Cascavel, Brazil. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is a &#xA0;7-round Swiss tournament with Jaime Sunye Neto, Marcelo Villalba, Zini Jhone Marcelo, Jose Apuril, Jhonatan Rodrigues Da Luz, Vinicius Savaris Rech, Ulises Cristaldo, Fernando []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cascavel-blitz-2022-live/",
+         "pubDate" : "Sat, 19 Nov 2022 20:53:21 +0000",
+         "title" : "Cascavel Blitz 2022- LIVE"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,22 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-b-2022-live/",
          "pubDate" : "Sat, 19 Nov 2022 10:49:45 +0000",
          "title" : "Charlotte Fall Invitational - GM (B) 2022 - LIVE"
-      },
-      {
-         "description" : "The Charlotte Fall Invitational GM (A) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Emilio Cordova, Razvan Preotu, Titas Stremavicius, Jagadeesh Siddharth, Jakub Fus, Denis Shmeliov, Alexander []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-a-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:33:53 +0000",
-         "title" : "Charlotte Fall Invitational - GM (A) 2022 - LIVE"
-      },
-      {
-         "description" : "65+ FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy.&#xA0;The Championship will be played&#xA0;with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per move starting from move 1. In category 65+ will participate []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/65-fide-world-senior-chess-championship-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:27:57 +0000",
-         "title" : "65+ FIDE World Senior Chess Championship 2022 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2068",
          "pubDate" : "Sat, 29 Oct 2022 21:43:12 +0000",
          "title" : "FIDE World FR Championship: Carlsen crashes out, Nakamura downs prodigy to set up surprise final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2067",
-         "pubDate" : "Sat, 29 Oct 2022 20:33:55 +0000",
-         "title" : "Lei Tingjie advances, Humpy Koneru and Anna Muzychuk to play tiebreaker"
       }
    ]
 }
