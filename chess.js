@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Sat, 19 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-day-6-live/",
+         "pubDate" : "Sat, 19 Nov 2022 17:33:50 +0000",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 - Day 6 live"
+      },
+      {
          "description" : "Vezerkepzo GM November is taking place from 17-26 November 2022 in Budapest, Hungary. It is an 12-player Round-robin GM norm tournament&#xA0;with Valeriy Neverov, Stanislaw Zylka, Belurkar&#xA0;Nitish, Bobir Sattarov, Edward Song, Walia&#xA0;Namitbir Singh, Jimmy Jubin, Tripathi Adarsh, Vuppala Prraneeth, Zoltan Varga, Valeriy&#xA0;Aveskulov and Tamas Jr. Fodor. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/65-fide-world-senior-chess-championship-2022-live/",
          "pubDate" : "Sat, 19 Nov 2022 10:27:57 +0000",
          "title" : "65+ FIDE World Senior Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "50+ FIDE World Senior Chess Championship will be held from 14-27 November in Assisi &#x2013; Umbria Italy.&#xA0;The Championship will be played&#xA0;with time control 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per move starting from move 1. In category 50+ will participate []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50-fide-world-senior-chess-championship-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:20:53 +0000",
-         "title" : "50+ FIDE World Senior Chess Championship 2022 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/i-think-i-have-turned-40-as-chessplayer.html",
          "pubDate" : "Mon, 07 Nov 2022 13:13:00 +0000",
          "title" : "I think I have turned 40 (as a chessplayer)"
-      },
-      {
-         "description" : "At the end of October the FIDE and the Malta Chess Federation organised the World Amateur Chess Championships, in which about 200 male and female players took part. The titles all went to Mongolia or Kazakhstan. | Photo: Andreas Kontokanis",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mongolia-and-kazakhstan-dominate-world-amateur-championships-on-malta",
-         "pubDate" : "Mon, 07 Nov 2022 13:13:55 +0100",
-         "title" : "Mongolia and Kazakhstan dominate World Amateur Championships on Malta"
       },
       {
          "description" : "Wesley So took a 3:1 lead over Nihal Sarin on Day 1 of the Chess.com Global Championship final, meaning he needs just 1.5 points to wrap up victory on Monday. The match hinged on Game 3, where Nihal had a great chance to level the scores but lost his way and stumbled into checkmate.",
