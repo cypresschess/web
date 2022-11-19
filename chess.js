@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95618342.cms\" />Indian Grandmaster Arjun Erigaisi scored a 2.5-1.5 win over Dutch GM Anish Giri in the fifth round of the Meltwater Champions Tour Finals on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-beats-anish-giri/articleshow/95618342.cms",
+         "pubDate" : "Sat, 19 Nov 2022 05:41:19 +0000",
+         "title" : "Meltwater Champions Tour Finals: Erigaisi beats Giri"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
