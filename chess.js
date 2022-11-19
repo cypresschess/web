@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2093",
+         "pubDate" : "Fri, 18 Nov 2022 21:20:20 +0000",
+         "title" : "Winners crowned at 64th World Congress of Chess Composition"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-mpl-national-u-11/",
          "pubDate" : "Sat, 29 Oct 2022 09:44:19 +0000",
          "title" : "LIVE GAMES :MPL National U-11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2066",
-         "pubDate" : "Fri, 28 Oct 2022 20:56:11 +0000",
-         "title" : "Women's Candidates Pool A: The tension is rising"
       }
    ]
 }
