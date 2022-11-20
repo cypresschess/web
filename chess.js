@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIFA World Cup 2022 is about to start in Qatar and Cristiano Ronaldo and Lionel Messi chose to prepare for the event by playing a chess game. &#8220;Victory is a State of Mind&#8220;, wrote Ronaldo on his twitter account and shared the photo taken by Annie Leibovitz at the Louis Vuitton shooting. Read more: Carlsen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ronaldo-and-messi-playing-chess-tweetoftheday/",
+         "pubDate" : "Sat, 19 Nov 2022 23:49:59 +0000",
+         "title" : "Ronaldo and Messi playing chess #TweetOftheDay"
+      },
+      {
          "description" : "Asian Junior Championship is taking place in Tagaytay City, Philippines. It is a 9-round Swiss tournament with Mark Jay Bacojo, Saha Neelash, G B Harshavardhan, Sugar Gan-Erdene, Arman Hakemi, Chatterjee Utsab, Duy Dau Khuong, Jerico M Santiaguel, Al-Basher Buto, etc. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-c-2022-live/",
          "pubDate" : "Sat, 19 Nov 2022 10:54:02 +0000",
          "title" : "Charlotte Fall Invitational - GM (C) 2022 - LIVE"
-      },
-      {
-         "description" : "Charlotte Fall Invitational GM (B) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Gergely Kantor, Cristhian Cruz, Irakli Beradze, Mark Paragua, Kassa Korley, Andy Woodward, Justus Williams, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-b-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:49:45 +0000",
-         "title" : "Charlotte Fall Invitational - GM (B) 2022 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
