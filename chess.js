@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Sun, 20 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Live"
+      },
+      {
          "description" : "At a tournament organized by the Grandmaster Association in Reykjav&iacute;k back in 1988, there was no security in the snack area. Inevitably, this prompted interest in Garry Kasparov's snacks: Toblerones. In fact, there was a massive temptation to half-inch the odd piece of his numinous nutrition. There was a crucial proviso, though. The pieces of Toblerone had letters on the side spelling it out and no one in his right mind would pilfer an O, thus positively demanding bad luck... | Pictured: Garry Kasparov with Alexander Nikitin",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "MCCT Finals 6: Magnus wins with round to spare"
       },
       {
-         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about.",
+         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about. | Photo: Louis Vuitton",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/messi-vs-ronaldo-but-not-football",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/great-chess-show-at-the-dreamhack-in-hyderabad",
          "pubDate" : "Tue, 08 Nov 2022 14:00:00 +0100",
          "title" : "Great chess show at the DreamHack in Hyderabad"
-      },
-      {
-         "description" : "At the end of October, former World Champion Anatoly Karpov had a severe accident that caused a traumatic brain injury and a fractured neck of the femur. Moreover, he has been battling pneumonia. But according to current news Karpov is on the road to recovery and was even able to complain about the bad hospital food. | Photo: Anatoly Karpov with his wife Natalia and his daughter Sofia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karpov-on-the-road-to-recovery",
-         "pubDate" : "Tue, 08 Nov 2022 11:00:00 +0100",
-         "title" : "Karpov on the road to recovery"
       },
       {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
