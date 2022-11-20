@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Junta Ikeda has won the 2022 Vikings Weekender, with an undefeated 5.5/6. He won his round 5 and 6 games today, to finish half a point ahead of IM Stephen Solomon. Solomon was tied with Ikeda going into the final round, but could only draw with Fred Litchfield, after getting a worse position out of the opening. Queensland junior Micah Young finished in 3rd placed, defeating Macau Olympiad player CM Hui Li in the final round. The Minor was won by James Minogue and Nick Beare, on 5/6. The two winners drew their round 5 game, leaving Minogue half a point in front going into the final round. However Beare was able to catch Minogue with a crushing win over Jerry Cheng, with Minogue only drawi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
+         "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
+         "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; In the line-ups of the participating teams we find []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-1-live-video-coverage-with-almira-skripchenko-vishy-anand/",
+         "pubDate" : "Sun, 20 Nov 2022 09:55:19 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Day 1 live video coverage with Almira Skripchenko & Vishy Anand"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-live/",
+         "pubDate" : "Sun, 20 Nov 2022 09:46:00 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 1st European Small Nations Individual Women Chess Championship will be held from Saturday 19 November Sunday 27 November 2022 in Monaco. Ten players representing Andorra, Cyprus, Guernsey, Jersey, Liechtenstein, Malta, Monaco, and San Marino will compete in 9 rounds, round-robin system. The participants are WGM Tatiana Dornbusch, WFM Andrea Henderson De La Fuente, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-european-small-nations-individual-women-chess-championship/",
+         "pubDate" : "Sun, 20 Nov 2022 09:40:17 +0000",
+         "title" : "1st European Small Nations Individual Women Chess Championship"
+      },
+      {
+         "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday, against GM Praggnanandhaa R. GM Wesley So is in second place, but five points behind Carlsen, after beating GM Jan-Kr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-6",
+         "pubDate" : "Sun, 20 Nov 2022 01:30:00 -0800",
+         "title" : "Carlsen Wins Champions Chess Tour Finals With Round To Spare"
+      },
+      {
+         "description" : "Magnus Carlsen showed his near complete dominance in online chess once again today after marching to victory in the 2022 Meltwater Champions Chess Tour Finals with a round to spare. The World Champion blew away&#160;17-year-old sensation Rameshbabu Praggnanandhaa to seal the final event of the season held at the SHACK15 venue in San Francisco. Read []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-convincingly-wins-meltwater-champions-chess-tour-finals-2022/",
+         "pubDate" : "Sun, 20 Nov 2022 09:22:49 +0000",
+         "title" : "Magnus Carlsen convincingly wins Meltwater Champions Chess Tour Finals 2022"
+      },
+      {
+         "description" : "It has been nearly 40 years since an American last emerged victorious in the World Correspondence Chess Championship, but GM Jon Edwards has succeeded by winning the 32nd edition. While not a little remarkable, Jon Edwards holds another lesser known title: owner of the largest chess stamp collection in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-edwards-wins-the-32nd-world-correspondence-championship",
+         "pubDate" : "Sun, 20 Nov 2022 10:00:00 +0100",
+         "title" : "Jon Edwards wins the 32nd World Correspondence Championship"
+      },
+      {
+         "description" : "Asian Girls Junior Championship is taking place in Tagaytay City, Philippines. It is a 9-round Swiss tournament with Amina Kairbekova, Assel Serikbay, Ravi Rakshitta, Nazerke Nurgali, Ngoc Thuy Duong Bach, Anousha Mahdian, Jia-Tien Chua, Anahita Zahedifar, Dhea Safitri, Patil Bhagyashree, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-girls-junior-championship-2022-live/",
+         "pubDate" : "Sun, 20 Nov 2022 08:39:48 +0000",
+         "title" : "Asian Girls Junior Championship 2022 - LIVE"
+      },
+      {
          "description" : "FIFA World Cup 2022 is about to start in Qatar and Cristiano Ronaldo and Lionel Messi chose to prepare for the event by playing a chess game. &#8220;Victory is a State of Mind&#8220;, wrote Ronaldo on his twitter account and shared the photo taken by Annie Leibovitz at the Louis Vuitton shooting. Read more: Carlsen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +98,7 @@ news_feed (
          "title" : "Meltwater Champions Tour Finals - Live"
       },
       {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#xA0;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#xA0; []",
+         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-day-6-live/",
@@ -50,44 +114,12 @@ news_feed (
          "title" : "Vezerkepzo GM November 2022 - LIVE"
       },
       {
-         "description" : "Portuguese Rapid Championship is taking place on 19 November 2022 in Felgueiras, Portugal. It is a 8-round Swiss tournament with Miguel Sismeiro, Andre Ventura Sousa, Bruno Andre Leite Martins, Luis Sousa Reis, Paul-Mihai Avramescu, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/portuguese-rapid-championship-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 15:58:52 +0000",
-         "title" : "Portuguese Rapid Championship 2022 - LIVE"
-      },
-      {
-         "description" : "Charlotte Fall Invitational IM (F) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Gabor Nagy, David Vigorito, Nikolai Andrianov, Robby Adamson, Mike Zaloznyy, Maili-Jade Ouellet, Pedro Rodriguez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-f-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 15:54:17 +0000",
-         "title" : "Charlotte Fall Invitational - IM (F) 2022 LIVE"
-      },
-      {
-         "description" : "Charlotte Fall Invitational IM (E) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Sriram Krishnakumar, Grayson Rorrer, Liam Putnam, Dante M Beukes, Sila Caglar, Roberto Martin Del []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-e-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 15:48:14 +0000",
-         "title" : "Charlotte Fall Invitational - IM (E) 2022 LIVE"
-      },
-      {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/mcct-finals-5-carlsen-pragg-win-in-armageddon",
          "pubDate" : "Sat, 19 Nov 2022 15:44:27 +0000",
          "title" : "MCCT Finals 5: Carlsen & Pragg win in Armageddon"
-      },
-      {
-         "description" : "Magnus Carlsen has a 4-point lead with two rounds to go at the Meltwater Champions Chess Tour Finals. The world champion defeated Le Quang Liem in Armageddon, as he remains the big favourite to take the title. Praggnanandhaa beat Jan-Krzysztof Duda, also in Armageddon, while Wesley So and Arjun Erigaisi won their matches 'in regulation'.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r5",
-         "pubDate" : "Sat, 19 Nov 2022 13:40:00 +0100",
-         "title" : "Meltwater Finals: Carlsen and Pragg win in Armageddon"
       },
       {
          "description" : " At the end of the 2nd day of the 2022 Vikings Weekender, 3 players share the lead on 3.5/4. The top 2 seeds, IM Junta Ikeda and IM Stephen Solomon drew their round 4 game to reach 3.5, where they were joined by Oladoyin Fasakin, who also drew in the last round of the day. His opponent, Matt Radisich, is one of the surprise packets of the event, have reached 3/4, despite being seeded 11th at the start. Also on 3 points are CM Hui Li, Fred Litchfield and Queensland junior Harvey Zhu. In the Minor event James Minogue leads with 4/4. He reached this score with a careful win against top seed Kamal Jain, nursing home his final pawn while trying to avoid a K+N+B v K ending (Jain was trying to sacr",
@@ -104,22 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/frederic-s-mates-garry-kasparov",
          "pubDate" : "Sat, 19 Nov 2022 12:00:00 +0100",
          "title" : "Frederic's mates - Garry Kasparov"
-      },
-      {
-         "description" : "Charlotte Fall Invitational IM (D) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Alice Lee, Gabriel Eidelman, Nicolas De La Colina, Tamas Petenyi, Matyas Marek, Julian Estrada []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-im-d-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:58:59 +0000",
-         "title" : "Charlotte Fall Invitational - IM (D) 2022 LIVE"
-      },
-      {
-         "description" : "Charlotte Fall Invitational GM (C) is taking place from 18-22 November 2022 in Charlotte, North Carolina, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Bartlomiej Macieja, Tianqi Wang, Max Gedajlovic, Vladimir Georgiev, Konstantin Kavutskiy, Dean Ippolito, Alder Escobar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-fall-invitational-gm-c-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 10:54:02 +0000",
-         "title" : "Charlotte Fall Invitational - GM (C) 2022 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bishops-in-enemy-territory",
          "pubDate" : "Sat, 19 Nov 2022 09:00:00 +0100",
          "title" : "Bishops in enemy territory"
+      },
+      {
+         "description" : "Magnus Carlsen has a 4-point lead with two rounds to go at the Meltwater Champions Chess Tour Finals. The world champion defeated Le Quang Liem in Armageddon, as he remains the big favourite to take the title. Praggnanandhaa beat Jan-Krzysztof Duda, also in Armageddon, while Wesley So and Arjun Erigaisi won their matches 'in regulation'.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r5",
+         "pubDate" : "Sat, 19 Nov 2022 08:55:00 +0100",
+         "title" : "Meltwater Finals: Carlsen and Pragg win in Armageddon"
       },
       {
          "description" : "We have a new show on ChessBase with Grandmaster Chris Ward. The Sicilian Dragon aficionado is back on-screen, and presents us games, news, moves, tactics, ideas, and much more about his \"go to\" opening each month. In the first episode, Chris is presenting us one of his own, rare dragon games, which he played quite recently. The English Grandmaster had a couple of options to continue with his dragon, but chose the good ol' move 11. .. Qa5, which caused several mate threats a little later. | Photo: John Upham",
@@ -330,12 +354,12 @@ news_feed (
          "title" : "Speculative Sponsor"
       },
       {
-         "description" : "On Monday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
+         "description" : "On Sunday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-team-championships-in-jerusalem-start-on-monday",
          "pubDate" : "Thu, 17 Nov 2022 16:10:09 +0100",
-         "title" : "The World Team Championships in Jerusalem start on Monday"
+         "title" : "The World Team Championships in Jerusalem start on Sunday"
       },
       {
          "description" : "Jan-Krzysztof Duda couldn't stop smiling as he unleashed a 9-move checkmating combination on Anish Giri to win their Round 3 Meltwater Champions Chess Tour Finals match 2.5:0.5. It was a fast day, as Magnus Carlsen swept Shakhriyar Mamedyarov 3:0, Praggnanandhaa did the same to Liem Le, and Wesley So scored his 1st win of this year's Tour.",
@@ -1234,14 +1258,6 @@ news_feed (
          "title" : "'Studying with Modern Engines'"
       },
       {
-         "description" : "The second last part of the series tackles Lilit's mindset a bit. With just five more rounds to go, the Armenian IM had the chance to at least qualify for the FIDE Women's World Cup 2023. Would she struggle with her overall condition, and get distracted from chess? One powerful opponent was waiting for her in round number eight - Mai Narva. But Lilit managed to prepare well, and surprise the Estonian WGM in the opening preparation. In the video, we can see how. And now, Lilit was actually playing for a medal!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-5",
-         "pubDate" : "Mon, 07 Nov 2022 16:15:23 +0100",
-         "title" : "Lilit Mkrtchian (5) - How to surprise your opponent with the London System"
-      },
-      {
          "description" : " The final three rounds of the Chess.com Global Championship took place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players competed in this final part of the knockout event. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw). Wesley So won beating Hikaru Nakamura in the semifinal and Nihal Sarin in the final.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1682,14 +1698,6 @@ news_feed (
          "title" : "November 1972 & 1997 'On the Cover'"
       },
       {
-         "description" : "Some billionaires like to go to space while others enjoy posting weird tweets&#38;mdash;some even fancy going to space and posting weird tweets. No one knows what goes on inside a billionaire&#39;s mind, but we do know one thing: When we turn them into bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-billionaire-bots",
-         "pubDate" : "Tue, 01 Nov 2022 08:08:00 -0700",
-         "title" : "Play Chess Against The New Billionaire Bots"
-      },
-      {
          "description" : " <p class=\"lead\">Hikaru Nakamura is not only a successful streamer but also a brilliant OTB player who got his first World Title by winning the FIDE World Fischer Random Chess Championship in Reykjavik, Iceland. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.jpg\" width=\"1200\" height=\"782\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / FIDE</div> </div> Τhe second edition of the FIDE World Fischer Random Chess Championship took place in Reykjavik, Iceland from 25 to 30 October 2022, with the defending champion Wesley So, reigning world champion and the world no.1 Magnus Carlsen, Iceland no.1 GM Hjorvar Steinn Gretarsson (Organizer Wildcard",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender.html",
          "pubDate" : "Sun, 30 Oct 2022 13:13:00 +0000",
          "title" : "2022 Vikings Weekender"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2069",
-         "pubDate" : "Sun, 30 Oct 2022 12:13:29 +0000",
-         "title" : "10th IBCA PanAmerican Games for Blind set new records"
       }
    ]
 }
