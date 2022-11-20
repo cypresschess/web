@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At a tournament organized by the Grandmaster Association in Reykjav&iacute;k back in 1988, there was no security in the snack area. Inevitably, this prompted interest in Garry Kasparov's snacks: Toblerones. In fact, there was a massive temptation to half-inch the odd piece of his numinous nutrition. There was a crucial proviso, though. The pieces of Toblerone had letters on the side spelling it out and no one in his right mind would pilfer an O, thus positively demanding bad luck... | Pictured: Garry Kasparov with Alexander Nikitin",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-182",
+         "pubDate" : "Sun, 20 Nov 2022 18:00:00 +0100",
+         "title" : "A story of no Os"
+      },
+      {
          "description" : "Magnus Carlsen had already won the 2022 Meltwater Champions Chess Tour with a tournament to spare and now he's won the Finals with a round to spare after defeating Praggnanandhaa 2.5:0.5. Magnus is still gunning to win all 7 matches, while Wesley So is up to 2nd place after he defeated Jan-Krzysztof Duda to make it 4 wins in a row.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/karpov-on-the-road-to-recovery",
          "pubDate" : "Tue, 08 Nov 2022 11:00:00 +0100",
          "title" : "Karpov on the road to recovery"
-      },
-      {
-         "description" : "Rook endings often have drawish tendencies but pawn races are often very sharp. In the diagram position, we have both: a rook ending and a pawn race and the position is very sharp. Black is two pawns up but the far advanced white pawns are dangerous. White just played 53.Rd7+ - how should Black react?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/where-to-go",
-         "pubDate" : "Tue, 08 Nov 2022 09:00:00 +0100",
-         "title" : "Where to go?"
       },
       {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
