@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen had already won the 2022 Meltwater Champions Chess Tour with a tournament to spare and now he's won the Finals with a round to spare after defeating Praggnanandhaa 2.5:0.5. Magnus is still gunning to win all 7 matches, while Wesley So is up to 2nd place after he defeated Jan-Krzysztof Duda to make it 4 wins in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mcct-finals-6-magnus-wins-with-round-to-spare",
+         "pubDate" : "Sun, 20 Nov 2022 15:53:22 +0000",
+         "title" : "MCCT Finals 6: Magnus wins with round to spare"
+      },
+      {
+         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/messi-vs-ronaldo-but-not-football",
+         "pubDate" : "Sun, 20 Nov 2022 15:20:00 +0100",
+         "title" : "Messi vs Ronaldo - but not football"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2094",
+         "pubDate" : "Sun, 20 Nov 2022 14:11:33 +0000",
+         "title" : "Magnus Carlsen crowned 2022 Tour Finals champion with a round to spare"
+      },
+      {
+         "description" : "Magnus Carlsen won a sixth match in a row to secure victory at the Meltwater Champions Chess Tour Finals in San Francisco. The world champion, who had already won the year-long series, defeated Praggnanandhaa by a 2&frac12;-&frac12; score. All remaining matches were also decided after three games, with Wesley So, Arjun Erigaisi and Shakhriyar Mamedyarov getting clear match victories on Saturday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r6",
+         "pubDate" : "Sun, 20 Nov 2022 15:05:00 +0100",
+         "title" : "Meltwater Finals: Carlsen secures victory with a round to spare"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 100th (!) instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-100-play-the-sicilian-2",
+         "pubDate" : "Sun, 20 Nov 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 100: Play the Sicilian! (2)"
+      },
+      {
+         "description" : "Lionel Messi and Cristiano Ronaldo, the two biggest stars of football (soccer), are playing chess in Louis Vuitton&#39;s latest campaign, launched on Saturday. Chess fans quickly discovered that the position on the board is from a real game. &#34;Victor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/messi-ronaldo-play-chess-in-louis-vuitton-campaign",
+         "pubDate" : "Sun, 20 Nov 2022 05:29:00 -0800",
+         "title" : "Messi, Ronaldo Play Chess In Louis Vuitton Campaign (And The Position Is Real)"
+      },
+      {
          "description" : " IM Junta Ikeda has won the 2022 Vikings Weekender, with an undefeated 5.5/6. He won his round 5 and 6 games today, to finish half a point ahead of IM Stephen Solomon. Solomon was tied with Ikeda going into the final round, but could only draw with Fred Litchfield, after getting a worse position out of the opening. Queensland junior Micah Young finished in 3rd placed, defeating Macau Olympiad player CM Hui Li in the final round. The Minor was won by James Minogue and Nick Beare, on 5/6. The two winners drew their round 5 game, leaving Minogue half a point in front going into the final round. However Beare was able to catch Minogue with a crushing win over Jerry Cheng, with Minogue only drawi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "1st European Small Nations Individual Women Chess Championship"
       },
       {
-         "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday, against GM Praggnanandhaa R. GM Wesley So is in second place, but five points behind Carlsen, after beating GM Jan-Kr...",
+         "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday against GM Praggnanandhaa R. GM Wesley So is in second place, after beating GM Jan-Krzysztof Duda, but five points beh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-6",
@@ -48,6 +96,14 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-convincingly-wins-meltwater-champions-chess-tour-finals-2022/",
          "pubDate" : "Sun, 20 Nov 2022 09:22:49 +0000",
          "title" : "Magnus Carlsen convincingly wins Meltwater Champions Chess Tour Finals 2022"
+      },
+      {
+         "description" : " The 13th World Team Chess Championship takes place in Jerusalem 20th to 25th November 2022. There has been a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was higher. This time there are a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not the best that could be put out. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
+         "pubDate" : "Sun, 20 Nov 2022 13:18:00 +0400",
+         "title" : "13th World Teams 2022 - Games and Results"
       },
       {
          "description" : "It has been nearly 40 years since an American last emerged victorious in the World Correspondence Chess Championship, but GM Jon Edwards has succeeded by winning the 32nd edition. While not a little remarkable, Jon Edwards holds another lesser known title: owner of the largest chess stamp collection in the world.",
@@ -88,14 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/cascavel-blitz-2022-live/",
          "pubDate" : "Sat, 19 Nov 2022 20:53:21 +0000",
          "title" : "Cascavel Blitz 2022- LIVE"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Sat, 19 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
       },
       {
          "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
@@ -1226,28 +1274,12 @@ news_feed (
          "title" : "Wesley So wins Chess.com Global Championship"
       },
       {
-         "description" : "The Yuri Averbakh/Isaac Boleslavsky Award for the best book published in 2021 goes to \"The Secret Ingredient\", co-authored by Jan Markos and David Navara and published by Quality Chess. The runners-up were \"Miguel Najdorf - 'El Viejo' - Life, Games & Stories\", by Zen&oacute;n Franco and Zeev Zohar, and \"Forgotten Genius - The Life and Games of Grandmaster Albin Planinc\", both published by Thinkers Publishing.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/averbakh-boleslavsky-award-2021",
-         "pubDate" : "Mon, 07 Nov 2022 22:00:00 +0100",
-         "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
-      },
-      {
          "description" : "GM Wesley So triumphed at the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. Unfazed by a couple of recent performances, So showed us what it means to be a grandmaster of his caliber, coming...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
          "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
          "title" : "Wesley So Becomes First-Ever Chess.com Global Champion"
-      },
-      {
-         "description" : "In the Endgame Magic Show #214 Karsten M&uuml;ller and his guest Harald Schneider-Zinner look at endgame highlights from the last Bundesliga round. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-214-with-harald-schneider-zinner",
-         "pubDate" : "Mon, 07 Nov 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #214 with Harald Schneider-Zinner"
       },
       {
          "description" : "The September 2022 <I>Chess Life</I> had a topical article, 'But Does It Actually Work?; Sadler and Doknjas on improving by studying with modern engines' by IM John Watson. The master book author and reviewer discussed two books:- <UL><LI>Sadler, Matthew. The Silicon Road to Chess Improvement. New in Chess, 2022. <LI>Doknjas, Joshua. The AI Revolution in Chess. Everyman Chess, 2002. [sic; 2022?] </UL> <P>The article is available online at <A HREF=\"https://new.uschess.org/news/watson-book-review-sadler-doknjas-and-modern-engines\">Watson Book Review: Sadler, Doknjas, and Modern Engines</A>(uschess.org). Watson explains, <BLOCKQUOTE>To grossly oversimplify, the older-style engines (like Stockfi",
@@ -1650,14 +1682,6 @@ news_feed (
          "title" : "Middlesex chess players - your county needs you!"
       },
       {
-         "description" : "Chess.com is proud to announce that you can now enjoy Game Review in the newest versions of our mobile apps for Android and iOS! Study your moves like never before, review key moments, and relish your latest brilliant move right from your phone. M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-new-mobile-game-review",
-         "pubDate" : "Wed, 02 Nov 2022 07:00:00 -0700",
-         "title" : "Game Review Now On Mobile Apps"
-      },
-      {
          "description" : "The MPL National Under 11 Chess Championships 2022 was organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29 th October to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2074",
          "pubDate" : "Tue, 01 Nov 2022 10:57:50 +0000",
          "title" : "FIDE November 2022 rating list published"
-      },
-      {
-         "description" : "Wesley So will join Magnus Carlsen, Anish Giri and Praggnanandhaa in San Francisco for the final event of the $1.6 million 2022 Meltwater Champions Chess Tour. The 8-player tournament runs from November 14-20 with Arjun Erigaisi, Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Liem Le joining remotely.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/meltwater-champions-chess-tour-finals-line-up-announced",
-         "pubDate" : "Tue, 01 Nov 2022 10:18:34 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals line-up announced"
       },
       {
          "description" : " In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. The American legend lost only once in the entire tournament and took a handsome prize of $150,000 after winning an Armageddon game again Ian Nepomniachtchi. GM Hikaru Nakamura, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1840,38 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2071",
          "pubDate" : "Sun, 30 Oct 2022 21:31:45 +0000",
          "title" : "Anna Muzychuk edges out Humpy Koneru to reach semifinal"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95186429.cms\" />Indian Grandmaster Harsha Bharathakoti beat Koustav Chatterjee in the fifth round to move into sole lead with 4.5 points in the Open section of the Asian Continental Chess championship on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-indias-harsha-bharathakoti-in-lead/articleshow/95186429.cms",
-         "pubDate" : "Sun, 30 Oct 2022 16:07:24 +0000",
-         "title" : "Asian chess: India's Harsha Bharathakoti in lead"
-      },
-      {
-         "description" : "Once again we return to the long-running series <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/09/the-root-of-all-evil.html\">'The Root of All Evil'?</A>(September 2022). In that post I wrote, <BLOCKQUOTE>This is the second post in a row to deal with the so-called 'root of all evil'. </BLOCKQUOTE> <P>By some weird twist of fate -- evil fate? -- we now have the third post in a row. The story appeared on my most recent Yahoos post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>(October 2022), where 'Yahoos' is ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/world-chess-ipo.html",
-         "pubDate" : "Sun, 30 Oct 2022 16:04:00 +0000",
-         "title" : "World Chess IPO"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2070",
-         "pubDate" : "Sun, 30 Oct 2022 15:22:33 +0000",
-         "title" : "Winners crowned at 2022 FIDE World Amateur Chess Championship"
-      },
-      {
-         "description" : " A reminder to get your entries in for the 2022 Vikings Weekender on the weekend of the 18th, 19th and 20th. Due to space restrictions the event is capped at 60 players, and 50% of the seats are already sold. The venue is the Vikings Club at Condor ACT, and it will be a 6 round 60m+30s FIDE rated event, run in 2 sections. To enter, just visit <a href=\"https://www.trybooking.com/CDEUF\">https://www.trybooking.com/CDEUF</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/10/2022-vikings-weekender.html",
-         "pubDate" : "Sun, 30 Oct 2022 13:13:00 +0000",
-         "title" : "2022 Vikings Weekender"
       }
    ]
 }
