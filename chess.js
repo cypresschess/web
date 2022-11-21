@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess Championship saw some scintillating action by the top players which led to some equally exciting endgames. The players showed their standard by tendering attractive traps and avoiding them and resident expert Karsten Mueller has the story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-endgame-gems",
+         "pubDate" : "Mon, 21 Nov 2022 21:00:00 +0100",
+         "title" : "Global Chess endgame gems"
+      },
+      {
+         "description" : "In the Endgame Magic Show #215 Karsten M&uuml;ller and French GM Christian Bauer look at endgame highlights from the Global Chess Championship and the finals of the Meltwater Chess Champions Tour. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-215-with-christian-bauer",
+         "pubDate" : "Mon, 21 Nov 2022 19:00:00 +0100",
+         "title" : "Endgame Magic #215 with Christian Bauer"
+      },
+      {
+         "description" : "Magnus Carlsen finished the 2022 Meltwater Champions Chess Tour by beating Jan-Krzysztof Duda for a clean sweep of defeating all his opponents. That earned him $50,000 and took his Tour earnings to $242,500, $80,000 more than 2nd placed Duda. A spectacular last day also saw Anish Giri beat Wesley So in Armageddon, Praggnanandhaa defeat Arjun Erigaisi, and Liem Le take down Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-completes-near-perfect-finish-to-2022-champions-tour",
+         "pubDate" : "Mon, 21 Nov 2022 17:22:53 +0000",
+         "title" : "Carlsen completes near perfect finish to 2022 Champions Tour"
+      },
+      {
          "description" : "Azerbaijan and China are the early leaders at the FIDE World Team Chess Championship which started on Sunday in Jerusalem, Israel. The tournament is played under the rapid time control of 45+10 and has a pool stage followed by a knockout stage. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1330,22 +1354,6 @@ news_feed (
          "title" : "MPL 35th National Under 11 Chess Championships 2022 29th October to 6th November, Gurgaon"
       },
       {
-         "description" : "At the beginning of November, there were plenty of opportunities to play chess in the south of Germany: The open tournaments in Deizisau and Baden-Baden gave committed chess players the chance to play 14 games in a total of eight tournament days. Jonathan Carlstedt won in Deizisan and Oleg Korneev won in Baden-Baden. Bettina Trabert reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/14-games-in-8-days-open-tournaments-in-deizisau-and-baden-baden",
-         "pubDate" : "Wed, 09 Nov 2022 13:47:09 +0100",
-         "title" : "14 games in 8 days: Open tournaments in Deizisau and Baden-Baden"
-      },
-      {
-         "description" : "Those who are familiar with Rainer Knaak's column in ChessBase Magazine will have noticed that many trap motifs in tournament practice recur again and again in the same or a similar form and lead to quick decisions. That is certainly also a reason why the trap expert generally recommends spicing up one's own repertoire with opening traps or even building one's repertoire from a broad collection of traps. In the current CBM #210, Rainer Knaak presents a parade building block for the Sicilian Paulsen Variation. You can watch his video analysis of this trap in full here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-trap-and-repertoire-recommendation",
-         "pubDate" : "Wed, 09 Nov 2022 12:00:00 +0100",
-         "title" : "Opening trap and repertoire recommendation"
-      },
-      {
          "description" : "ECU E-Magazine October 2022 is out! In this edition of the ECU E-Magazine you may read about: European Senior Team Chess Championship 2022 European Youth Chess Championship 2022 Upcoming European Open and Women Rapid&#38;Blitz Chess Championships 2022 FIDE World Fischer Random Chess Championship 2022 FIDE Women's Candidates Tournament 2022/2023 Tournament of Peace 2022 ECU Commission for Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-october-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1842,14 +1850,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup"
       },
       {
-         "description" : "The 2022 Chess Calendar begins with Magnus Carlsen and Fabiano Caruana topping the field for the Tata Steel Masters from January 15th onwards, and, if all goes to plan, it's a year that's going to feature another Candidates Tournament and the first over-the-board World Chess Olympiad since 2018. Whatever happens with the pandemic, the Meltwater Champions Chess Tour will be back, with nine high stakes events running from February 19th to November 20th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/2022-chess-calendar",
-         "pubDate" : "Tue, 01 Nov 2022 11:35:00 +0000",
-         "title" : "2022 Chess Calendar"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/at-last-the-1988-show/",
          "pubDate" : "Mon, 31 Oct 2022 20:39:41 +0000",
          "title" : "At Last the 1988 Show"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95213020.cms\" />Siddhant Gawai lived up to his billing to remain unbeaten and emerge champion in the Maharashtra State U-15 Open Fide rating chess championship, which concluded in Amravati on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-siddhant-gawai-emerges-state-u-15-chess-champion-qualifies-for-nationals/articleshow/95213020.cms",
-         "pubDate" : "Mon, 31 Oct 2022 17:05:43 +0000",
-         "title" : "Unbeaten Gawai emerges state U-15 champion, qualifies for nationals"
       }
    ]
 }
