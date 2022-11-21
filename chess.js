@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The qualifying phase of the €460,000 Armageddon Championship Series continues on the FIDE Online Arena with more than 700 people already participating. As before, the top 20 players of the second tournament in each region advance to the online final with a prize pool of €10,000. We already know the names of 99 finalists. There may already be six winners among them, who will get a ticket to the OTB Berlin event and face the world's best grandmasters. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #2:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9437.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-second-tournaments/",
+         "pubDate" : "Mon, 21 Nov 2022 07:41:16 +0000",
+         "title" : "Armageddon Online Cups: Results for the second tournaments"
+      },
+      {
+         "description" : "World Team Chess Championship got of to a rousing start at Dan Hotel, Jerusalem on Sunday. As per the regulations, 12 teams are divided to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-begins-india-starts-with-two-draws/",
+         "pubDate" : "Mon, 21 Nov 2022 06:27:00 +0000",
+         "title" : "World Team Chess Championship begins; India starts with two draws"
+      },
+      {
          "description" : "In the women's section, Women International Master Rakshitta Ravi played Caro Kann's advance variation and obtained a clear advantage right from the opening against Iranian WFM",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
