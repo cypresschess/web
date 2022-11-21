@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pool A: the favorites challenged; Pool B: smooth sailing for the top-rated teams The Israel Chess Federation, in close collaboration with FIDE, has raised the level of chess excitement in Jerusalem. An opening ceremony on Sunday, starring internationally renowned mentalist&#xA0;Lior Suchard, set the stage for tension-filled rounds 1 and 2. After each amazing act by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-team-chess-championship-2022-day-1-recap/",
+         "pubDate" : "Sun, 20 Nov 2022 22:21:40 +0000",
+         "title" : "World Team Chess Championship 2022 - Day 1 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2095",
+         "pubDate" : "Sun, 20 Nov 2022 21:10:27 +0000",
+         "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
+      },
+      {
          "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-day-6-live/",
          "pubDate" : "Sat, 19 Nov 2022 17:33:50 +0000",
          "title" : "Meltwater Champions Chess Tour Finals 2022 - Day 6 live"
-      },
-      {
-         "description" : "Vezerkepzo GM November is taking place from 17-26 November 2022 in Budapest, Hungary. It is an 12-player Round-robin GM norm tournament&#xA0;with Valeriy Neverov, Stanislaw Zylka, Belurkar&#xA0;Nitish, Bobir Sattarov, Edward Song, Walia&#xA0;Namitbir Singh, Jimmy Jubin, Tripathi Adarsh, Vuppala Prraneeth, Zoltan Varga, Valeriy&#xA0;Aveskulov and Tamas Jr. Fodor. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-gm-november-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 16:08:07 +0000",
-         "title" : "Vezerkepzo GM November 2022 - LIVE"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
@@ -1840,22 +1848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-reports-from-nigel-povah/",
          "pubDate" : "Mon, 31 Oct 2022 10:26:05 +0000",
          "title" : "European Senior Teams Championships - reports from Nigel Povah"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2072",
-         "pubDate" : "Sun, 30 Oct 2022 21:51:40 +0000",
-         "title" : "New US World Champion - Nakamura follows in Bobby Fischer's footsteps"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2071",
-         "pubDate" : "Sun, 30 Oct 2022 21:31:45 +0000",
-         "title" : "Anna Muzychuk edges out Humpy Koneru to reach semifinal"
       }
    ]
 }
