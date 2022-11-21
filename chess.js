@@ -1864,14 +1864,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/",
          "pubDate" : "Tue, 01 Nov 2022 03:56:15 +0000",
          "title" : "Fischer Random Chess: A Dream Deferred"
-      },
-      {
-         "description" : " I'm currently writing a history of Richmond Junior Chess Club from 1975 to 2006: you can read the second part here. The next part will cover the period where our members included future GMs Luke McShane and Jonathan Rowson, along with future IMs Richard Bates and Tom Hinks-Edwards. Last Sunday two of these players happened <a href=\"https://chessimprover.com/at-last-the-1988-show/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"At Last the 1988 Show\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/at-last-the-1988-show/\">At Last the 1988 Show</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/at-last-the-1988-show/",
-         "pubDate" : "Mon, 31 Oct 2022 20:39:41 +0000",
-         "title" : "At Last the 1988 Show"
       }
    ]
 }
