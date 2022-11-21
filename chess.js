@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Azerbaijan and China are the early leaders at the FIDE World Team Chess Championship which started on Sunday in Jerusalem, Israel. The tournament is played under the rapid time control of 45+10 and has a pool stage followed by a knockout stage. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-1",
+         "pubDate" : "Mon, 21 Nov 2022 06:57:00 -0800",
+         "title" : "World Team Championship Begins In Jerusalem, Played With Rapid Time Control"
+      },
+      {
+         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
+         "pubDate" : "Mon, 21 Nov 2022 13:55:00 +0100",
+         "title" : "World Team Chess Championship - Live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2096",
+         "pubDate" : "Mon, 21 Nov 2022 12:53:28 +0000",
+         "title" : "World Senior Chess Championship 2022: It's halftime!"
+      },
+      {
          "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; In the line-ups of the participating teams we find []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-live-video-coverage/",
          "pubDate" : "Mon, 21 Nov 2022 12:15:41 +0000",
          "title" : "FIDE World Team Chess Championship 2022 - Day 2 live video coverage"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Stockfish</strong>'s complaint about licensing infringements in <strong>Fat Fritz 2</strong> against <strong>Chessbase</strong> has been <a href=\"https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/\">settled</a> in a court in Munich. Chessbase admitted not to have complied with the GNU Public License and will not distribute any products with Stockfish software until 7 November 2023. No damages are paid, both parties cover their legal costs, and are preparing a joint press release. The full settlement is <a href=\"https://stockfishchess.org/files/settlement_english.pdf\">available in English</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/chessbase-wont-have-stockfish-for/",
+         "pubDate" : "Mon, 21 Nov 2022 12:37:19 +0100",
+         "title" : "Chessbase won't have Stockfish for a year"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>Meltwater Champions Chess Tour</strong> with a tournament to go, <strong>Magnus Carlsen</strong> also won the Tour Final that was held in San Francisco with a round to go, netting $242,000 this season. <strong>Wesley So</strong> came second, third was <strong>Jan-Krzysztof Duda</strong>, who won $162,500 <a href=\"https://chess24.com/tour/standings/\">on the tour</a>, while <strong>Praggnanandhaa</strong> collected $129,000. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2022/carlsen-wins-tour-final/",
+         "pubDate" : "Mon, 21 Nov 2022 12:30:29 +0100",
+         "title" : "Carlsen wins Tour Final"
       },
       {
          "description" : "Round 4: On the top board in boy's section, IM Neelash Saha played Catalan against Phillipine's Labog. They reached the double bishop versus double knight endgame",
@@ -72,6 +112,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/messi-and-ronaldo-break-the-internet-by-playing-chess-for-louis/",
          "pubDate" : "Mon, 21 Nov 2022 08:49:18 +0000",
          "title" : "Messi and Ronaldo break the internet by playing chess for Louis Vuitton"
+      },
+      {
+         "description" : " The Meltwater Champions Chess Tour Finals took place 14th to 20th November 2022. The event was played on the Chess24 platform but half the players will be based at the Ferry Building in San Francisco, the city where Meltwater is based. Carlsen had already won the whole tour but there was still $210,000 to play for. The event was a mini-match round robin. Four rapid games each day against the same opponent, the result of the mini-match, win draw or loss going into the table. Players: Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Quang Liem Le, Shakhriyar Mamedyarov, R Praggnanandhaa and Wesley So. Carlsen dominated throughout with only Duda keeping pace in the early rounds ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-finals-2022",
+         "pubDate" : "Mon, 21 Nov 2022 12:45:00 +0400",
+         "title" : "Meltwater Champions Chess Tour Finals 2022 - Games and Results"
       },
       {
          "description" : " <p class=\"lead\">The qualifying phase of the €460,000 Armageddon Championship Series continues on the FIDE Online Arena with more than 700 people already participating. As before, the top 20 players of the second tournament in each region advance to the online final with a prize pool of €10,000. We already know the names of 99 finalists. There may already be six winners among them, who will get a ticket to the OTB Berlin event and face the world's best grandmasters. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #2:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9437.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div ",
@@ -162,7 +210,7 @@ news_feed (
          "title" : "MCCT Finals 6: Magnus wins with round to spare"
       },
       {
-         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about. | Photo: Louis Vuitton",
+         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about. | Photo: Annie Leibovitz for Louis Vuitton",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/messi-vs-ronaldo-but-not-football",
@@ -770,14 +818,6 @@ news_feed (
          "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> More than half of Russia's top chess players have left their country. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.1920.jpeg\" title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. photo: LevitovChess\" data-title=\"While streaming for LevitovChess Alexandr Shimanov and Daniil Dubov revealed that they moved to the Kazakh capital Astana. (photo: LevitovChess)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/screenshot-2022-11-10-at-16-53.480.jpeg\" alt=\"While st",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/out-of-russia/",
-         "pubDate" : "Tue, 15 Nov 2022 16:42:56 +0100",
-         "title" : "Out of Russia"
-      },
-      {
          "description" : "Magnus Carlsen won a thrilling match against Wesley So to take his Meltwater Champions Chess Tour season earnings to exactly $200,000 as the final event began in San Francisco. There were also wins for Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri, who overcame Liem Le in a blitz tiebreak.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -866,14 +906,6 @@ news_feed (
          "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Ian Nepomniachtchi</strong> and his manager <strong>Zoe Arnatskaya</strong> <a href=\"https://www.instagram.com/p/CjssbV7K4J0/?hl=de\">have bought</a> the <strong>World Chess Club Moscow</strong> from <strong>Ilya Merenzon</strong> and reopened it. Apart from the bar service, the plan is to run a chess school and business chess events. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/nepomniachtchi-buys-chess-bar/",
-         "pubDate" : "Tue, 15 Nov 2022 07:40:09 +0100",
-         "title" : "Nepomniachtchi buys chess bar"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95525344.cms\" />While the 17-year old Praggnanandhaa went down 1.5-2.5 to Shakhriyar Mamedyarov of Azerbaijan, Erigasi lost to Poland's Jan-Krzysztof Duda 0.5-2.5.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -944,14 +976,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
          "pubDate" : "Mon, 14 Nov 2022 07:30:00 +0100",
          "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
-      },
-      {
-         "description" : " The Meltwater Champions Chess Tour Finals take place 14th to 20th November 2022. The event is played on the Chess24 platform but half the players will be based at the Ferry Building in San Francisco, the city where Meltwater is based. Carlsen has already won the whole tour but there is $210,000 to play for. The event is a mini-match round robin. Four rapid games each day against the same opponent, the result of the mini-match, win draw or loss going into the table.Players: Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Quang Liem Le, Shakhriyar Mamedyarov, R Praggnanandhaa and Wesley So. Play starts 8pm GMT each day.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-finals-2022",
-         "pubDate" : "Mon, 14 Nov 2022 08:42:00 +0400",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 - Games and Results"
       },
       {
          "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
@@ -1338,14 +1362,6 @@ news_feed (
          "title" : "National U-07 Certificates"
       },
       {
-         "description" : "IM Laura Unuk has been the best woman of her country, Slovenia for over seven years. She has won several Slovenia girls championships - Under-10, 12, 14, 16 and 18 from 2009 to 2017. She has also won a team Gold, individual Gold (2014) and Silver (2017) at European Under-18 Girls' Team. She is also the World Youth Under-16 (2014) and Under-18 Girls (2017) champion. The brand ambassador of Ferme Fashion and Huawei Slovenia also became the brand ambassador of Ford Slovenia. She was given a brand-new custom designed Ford Puma hybrid car which she calls Pumica (Baby Puma). On her 23rd birthday, we wish her a very happy birthday and bring you a short interview we conducted few days ago. Photo: Ce",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/laura-unuk-becomes-the-brand-ambassador-of-ford-slovenia",
-         "pubDate" : "Wed, 09 Nov 2022 10:01:32 +0100",
-         "title" : "Laura Unuk becomes the brand ambassador of Ford Slovenia"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
       },
       {
-         "description" : "Coming off of his Fischer Random World Championship victory, GM Hikaru Nakamura continues his unstoppable winning streak, sweeping GM &#38;nbsp;Jan-Krzysztof Duda 4-0 on Wednesday at the Chess.com Global Championship Finals. This leaves the world numb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d1",
-         "pubDate" : "Wed, 02 Nov 2022 16:46:00 -0700",
-         "title" : "Perfect 4-0 Day For Nakamura, Dismantles Bongcloud In CGC Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,38 +1880,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/unbeaten-siddhant-gawai-emerges-state-u-15-chess-champion-qualifies-for-nationals/articleshow/95213020.cms",
          "pubDate" : "Mon, 31 Oct 2022 17:05:43 +0000",
          "title" : "Unbeaten Gawai emerges state U-15 champion, qualifies for nationals"
-      },
-      {
-         "description" : "'Another two weeks, another report about the world's top two ongoing engine vs.engine competitions.' That's what the lead sentence for this post should say, except that it's been three weeks since the previous report. My wife frequently insists on taking vacations that interfere with all of my well-planned schedules. That previous report, <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-divp-ccc19-blitz-final-well.html\">TCEC S23 DivP, CCC19 Blitz Final : 'Well' Underway</A>(October 2022), can be summarized as follows:- <BLOCKQUOTE>TCEC: S23 DivP is well underway. Stockfish is two points ahead of LCzero and KomodoDragon, which are separated by a half-point. &#149; CCC: Stockfish ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html",
-         "pubDate" : "Mon, 31 Oct 2022 16:18:00 +0000",
-         "title" : "TCEC S23 Sufi, CCC19 Rapid : Both Underway"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95211202.cms\" />Indian Grandmaster Harsha Bharathakoti held top-seeded compatriot and GM R Praggnanandhaa to a draw in the sixth round of the Open section to remain in sole lead with 5 points in the Asian Continental Chess championship on Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-harsha-bharathakoti-remains-in-top-spot/articleshow/95211202.cms",
-         "pubDate" : "Mon, 31 Oct 2022 15:35:34 +0000",
-         "title" : "Asian Chess Championship: Harsha Bharathakoti remains in top spot"
-      },
-      {
-         "description" : " Breaking News - Former World Chess Champion Anatoly Karpov hospitalized today. According to Russian telegram channels, Karpov was found unresponsive early in the morning near the State Duma (Russsian Parliament) building. He was rushed to the hospital and is now in the intensive care unit. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/D8321AFA-13BE-4F3A-A254-B6E0A3E339AD.jpeg\" width=\"624\" height=\"350\" alt=\"\" /> <div class=\"e2-text-caption\">Anatoly Karpov</div> </div> According to the media, Karpov suffered serious head injury and hip fracture. According to unconfirmed reports, his blood alcohol level was extremely high. Karpov, a former World Chess Champion, h",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/anatoly-karpov-hospitalized-in-serious-condition/",
-         "pubDate" : "Mon, 31 Oct 2022 13:18:28 +0000",
-         "title" : "Anatoly Karpov Hospitalized in Serious Condition"
-      },
-      {
-         "description" : " Magnus Carlsen, the reigning World Chess Champion and the highest-rated player in history, has officially quit the FIDE World Chess Championship cycle. According to the chess governing body, FIDE, Carlsen confirmed in writing that he will not defend his title. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/37D2912A-F018-4D5B-803C-18177A6BAC65.jpeg\" width=\"1536\" height=\"1536\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen at the 2016 World Chess Championship Match in NYC</div> </div> The announcement, made earlier today, does not come as a surprise: Carlsen announced his intention to part ways with the official Championship circuit earlier this year. Howe",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-officially-quits-the-championship-cycle/",
-         "pubDate" : "Mon, 31 Oct 2022 12:52:28 +0000",
-         "title" : "Carlsen Officially Quits the Championship Cycle"
       }
    ]
 }
