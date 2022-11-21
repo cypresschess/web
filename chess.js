@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the women's section, Women International Master Rakshitta Ravi played Caro Kann's advance variation and obtained a clear advantage right from the opening against Iranian WFM",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-round-2-and-round-3-day-2/",
+         "pubDate" : "Mon, 21 Nov 2022 05:47:05 +0000",
+         "title" : "ASIAN JUNIOR: Round 2 and Round 3 (Day 2)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95651531.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 2.5-0.5 in the seventh and final round to finish fifth in the Meltwater Champions Tour Finals on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-chess-praggnanandhaa-beats-arjun-erigaisi-in-final-round-finishes-5th/articleshow/95651531.cms",
+         "pubDate" : "Mon, 21 Nov 2022 05:04:27 +0000",
+         "title" : "Meltwater Chess: Praggnanandhaa beats Erigaisi to finish 5th"
+      },
+      {
+         "description" : "Magnus Carlsen had secured first place with a round to spare at the Meltwater Champions Chess Tour Finals, but nonetheless finished the tournament with a seventh straight win in San Francisco. Carlsen's win over Jan-Krzysztof Duda allowed Le Quang Liem to climb to third place thanks to a victory over Shakhriyar Mamedyarov. Wesley So, who lost to Anish Giri, remained in second place. | Photo: Ayushi Shah",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r7",
+         "pubDate" : "Mon, 21 Nov 2022 05:50:00 +0100",
+         "title" : "Meltwater Finals: So and Le reach the podium"
+      },
+      {
          "description" : "Pool A: the favorites challenged; Pool B: smooth sailing for the top-rated teams The Israel Chess Federation, in close collaboration with FIDE, has raised the level of chess excitement in Jerusalem. An opening ceremony on Sunday, starring internationally renowned mentalist&#xA0;Lior Suchard, set the stage for tension-filled rounds 1 and 2. After each amazing act by []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour Finals is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars take part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Follow the games live with expert commentary starting at 21.00 CET (15.00 ET, 01.30 IST)",
+         "description" : "The Meltwater Champions Chess Tour Finals was a seven-day long all-play-all round robin in San Francisco which started on November 14 and concluded on November 20. Eight elite chess stars took part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Replay all the games from the tournament with computer analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
          "pubDate" : "Sun, 20 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Live"
+         "title" : "Meltwater Champions Tour Finals - Games and standings"
       },
       {
          "description" : "At a tournament organized by the Grandmaster Association in Reykjav&iacute;k back in 1988, there was no security in the snack area. Inevitably, this prompted interest in Garry Kasparov's snacks: Toblerones. In fact, there was a massive temptation to half-inch the odd piece of his numinous nutrition. There was a crucial proviso, though. The pieces of Toblerone had letters on the side spelling it out and no one in his right mind would pilfer an O, thus positively demanding bad luck... | Pictured: Garry Kasparov with Alexander Nikitin",
@@ -1264,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/germans-lead-in-austrian-league",
          "pubDate" : "Tue, 08 Nov 2022 17:00:00 +0100",
          "title" : "Germans lead in Austrian League"
-      },
-      {
-         "description" : "ChessBase India hosted its second \"Death Match\" duel and this time Gukesh D and Arjun Erigaisi played against each other. The show and other chess events, such as a comedian chess tournament, were part of the DreamHack gamers fair in Hyderabad. The match was broadcasted live and attracted about 200,000 viewers: Results and video... | Photos: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/great-chess-show-at-the-dreamhack-in-hyderabad",
-         "pubDate" : "Tue, 08 Nov 2022 14:00:00 +0100",
-         "title" : "Great chess show at the DreamHack in Hyderabad"
       },
       {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
