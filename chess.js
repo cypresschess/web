@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; In the line-ups of the participating teams we find []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-live-video-coverage/",
+         "pubDate" : "Mon, 21 Nov 2022 12:15:41 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Day 2 live video coverage"
+      },
+      {
+         "description" : "Round 4: On the top board in boy's section, IM Neelash Saha played Catalan against Phillipine's Labog. They reached the double bishop versus double knight endgame",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-2022-round-4-day-3/",
+         "pubDate" : "Mon, 21 Nov 2022 11:14:27 +0000",
+         "title" : "ASIAN JUNIOR 2022 : Round 4 (Day 3)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/world-senior-individual-chess-championship-report/#new_tab",
+         "pubDate" : "Mon, 21 Nov 2022 11:06:26 +0000",
+         "title" : "World Senior Individual Chess Championship - report"
+      },
+      {
+         "description" : "...until ChessBase 17 is released! Be prepared for some very exciting news. The new program is not just a routine update - it brings you revolutionary features that take us to a new dimension in chess training. The release will be announced on Tuesday, and you will be able to order it at a premium price. Together with any other product on our grand autumn Discount Day service, on Wednesday, where everything is 25% off. Don't miss your chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/just-one-day-left",
+         "pubDate" : "Mon, 21 Nov 2022 12:00:00 +0100",
+         "title" : "Just one day left&hellip;"
+      },
+      {
+         "description" : "GM Magnus Carlsen finished the Meltwater Champions Chess Tour Finals in style as he also won his seventh and final match, against GM Jan-Krzysztof Duda. The world champion scored a stunning 20/21, seven points more than runner-up GM Wesley So. H...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-7",
+         "pubDate" : "Mon, 21 Nov 2022 02:27:00 -0800",
+         "title" : "Champions Chess Tour Finals: Carlsen Wins All Matches"
+      },
+      {
+         "description" : "The smooth run of Indian Contingent continued in the Sixth round of Commonwealth Chess Championships being held at Hotel Citrus, Waskaduwa, Kaluthara, Sri Lanka. In",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2022-at-kaluthara-srilanka-report/",
+         "pubDate" : "Mon, 21 Nov 2022 10:18:13 +0000",
+         "title" : "Commonwealth Chess Championship 2022 at Kaluthara Srilanka :Report"
+      },
+      {
+         "description" : "The World Team Chess Championship kicked off in Jerusalem on Sunday. With a new 'slow rapid' format, the event saw the teams from each of the two pools playing two matches on the first day of action. Pool A saw China and Ukraine winning both their matches, while only Azerbaijan managed the same feat in Pool B. Four out of six squads in each group will move on to the quarterfinals. | Pictured: France's Laurent Fressinet (currently on 2 out of 2) | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d1",
+         "pubDate" : "Mon, 21 Nov 2022 11:00:00 +0100",
+         "title" : "World Teams: Three squads get back-to-back wins"
+      },
+      {
+         "description" : " Like most chess teachers, I encourage my students to look for forcing moves: checks, captures and threats. Some time ago I thought it a good idea to teach them to use a CCTV to look at the board, so I told them about Checks, Captures, Threats and Violent moves. The Violent moves serves as a <a href=\"https://chessimprover.com/cctv/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"CCTV\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/cctv/\">CCTV</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/cctv/",
+         "pubDate" : "Mon, 21 Nov 2022 09:07:30 +0000",
+         "title" : "CCTV"
+      },
+      {
+         "description" : " <p class=\"lead\">Lionel Messi and Cristiano Ronaldo, two of the most iconic football players of all time, are staring in Louis Vuitton's latest campaign, and they appear to play a real position of chess! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/messi-ronaldo-chess-louis-vuitton.jpeg\" width=\"810\" height=\"417\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://twitter.com/annieleibovitz\">Annie Leibovitz</a></div> </div> \"Victory is a State of Mind,\" writes Louis Vuitton alongside the photo by the legendary celebrity portrait photographer Annie Leibovitz, in which Messi and Ronaldo are playing chess on a checkered Louis Vuitton suitcase. The photo",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/messi-and-ronaldo-break-the-internet-by-playing-chess-for-louis/",
+         "pubDate" : "Mon, 21 Nov 2022 08:49:18 +0000",
+         "title" : "Messi and Ronaldo break the internet by playing chess for Louis Vuitton"
+      },
+      {
          "description" : " <p class=\"lead\">The qualifying phase of the €460,000 Armageddon Championship Series continues on the FIDE Online Arena with more than 700 people already participating. As before, the top 20 players of the second tournament in each region advance to the online final with a prize pool of €10,000. We already know the names of 99 finalists. There may already be six winners among them, who will get a ticket to the OTB Berlin event and face the world's best grandmasters. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #2:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9437.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -72,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-182",
          "pubDate" : "Sun, 20 Nov 2022 18:00:00 +0100",
          "title" : "A story of no Os"
+      },
+      {
+         "description" : "The short list for this month's featured Flickr photo had two items. One was a little too naughty (not 'For All Ages') and the other was a little too uninspiring. The last time something similar happened I came up with <A HREF=\"http://chessforallages.blogspot.com/2021/12/shallow-green-chess-photos.html\">Shallow, Green Chess Photos</A>(December 2021). What to do this time? <P>Fortunately I had an idea left over from <A HREF=\"http://chessforallages.blogspot.com/2021/10/the-hand-that-guides-blank.html\">'The Hand that Guides the [blank]'</A>(October 2021). The Flickr photo behind that post was included in 29 groups, all begging to be explored. <P>One of the groups had the title 'deviantART Devia",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/to-cc-or-not-to-cc.html",
+         "pubDate" : "Sun, 20 Nov 2022 16:48:00 +0000",
+         "title" : "To CC or Not to CC"
       },
       {
          "description" : "Magnus Carlsen had already won the 2022 Meltwater Champions Chess Tour with a tournament to spare and now he's won the Finals with a round to spare after defeating Praggnanandhaa 2.5:0.5. Magnus is still gunning to win all 7 matches, while Wesley So is up to 2nd place after he defeated Jan-Krzysztof Duda to make it 4 wins in a row.",
@@ -216,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/cascavel-blitz-2022-live/",
          "pubDate" : "Sat, 19 Nov 2022 20:53:21 +0000",
          "title" : "Cascavel Blitz 2022- LIVE"
-      },
-      {
-         "description" : "The final event of the 1.6$ Meltwater Champions Chess Tour 2022&#160;will be held from 14-20 November in San Francisco. Eight elite chess stars will take part in the third and final major in a unique online and in-person hybrid chess event. Four players will compete from SHACK15 in San Francisco, while four will play remotely.&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meltwater-champions-chess-tour-finals-2022-day-6-live/",
-         "pubDate" : "Sat, 19 Nov 2022 17:33:50 +0000",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 - Day 6 live"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
@@ -1274,14 +1346,6 @@ news_feed (
          "title" : "Laura Unuk becomes the brand ambassador of Ford Slovenia"
       },
       {
-         "description" : "The Fall Chess Classic is taking place at the Saint Louis Chess Club on November 2-10. Two 10-player round-robin tournaments, group A and group B, are being played concurrently. In the main group, second seed Yu Yangyi from China is in the sole lead with a 5/7 points. Yu scored consecutive wins in the last three rounds. Meanwhile, Aleksandr Lenderman has all but secured victory in group B. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fall-chess-classic-2022-r6",
-         "pubDate" : "Wed, 09 Nov 2022 03:50:00 +0100",
-         "title" : "Fall Chess Classic: Yu Yangyi leads with two rounds to go"
-      },
-      {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1296,14 +1360,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/election-special-2022.html",
          "pubDate" : "Tue, 08 Nov 2022 16:04:00 +0000",
          "title" : "Election Special 2022"
-      },
-      {
-         "description" : "Last Thursday, the new season of the Austrian League started. Top favourite is the team of ASV Linz with Maxime Vachier-Lagrave on board one. However, the star-studded team had a somewhat rocky start and drew two of their first four matches, and now share third and fourth place. With three wins and one draw the teams of Jenbach and Ottakring share the lead. | Photo: Matthias Bl&uuml;baum (left) plays against Markus Ragger | Photos: Knapp/Theny (Austrian Chess Federation)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/germans-lead-in-austrian-league",
-         "pubDate" : "Tue, 08 Nov 2022 17:00:00 +0100",
-         "title" : "Germans lead in Austrian League"
       },
       {
          "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
@@ -1698,14 +1754,6 @@ news_feed (
          "title" : "St Louis Fall Chess Classic 2022 - Games and Results"
       },
       {
-         "description" : "GM Hikaru Nakamura, who won the Fischer Random World Championship in Reykjavik, Iceland on October 30, and is now in Toronto, Canada for the Chess.com Global Championship Finals starting November 2, found time to take home yet another Titled Tuesd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bortnyk-win-titled-tuesday-november-1-2022",
-         "pubDate" : "Wed, 02 Nov 2022 09:10:00 -0700",
-         "title" : "Newly-Crowned World Champion Nakamura Wins Another Tournament"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95261348.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa posted a crucial win over compatriot Koustav Chatterjee in the eighth round of the Open section to jump into sole lead of the Asian Continental Chess Championship on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1856,30 +1904,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-officially-quits-the-championship-cycle/",
          "pubDate" : "Mon, 31 Oct 2022 12:52:28 +0000",
          "title" : "Carlsen Officially Quits the Championship Cycle"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2073",
-         "pubDate" : "Mon, 31 Oct 2022 11:58:51 +0000",
-         "title" : "Ding Liren receives official invitation to take part in FIDE World Championship match 2023"
-      },
-      {
-         "description" : "The 2022 European Senior Team Chess Championships (50+ &#38; 65+ age categories) are ongoing in Dresden, Germany. After four played rounds, Slovakia and England 50-1 tie for the first place of the 50+ section, scoring perfect 8 match points. Slovakia headed by Lubomir Ftacnik yesterday convincingly defeated Österreich with the 3.5-0.5 score, while England 50-1 claimed a narrow&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-r4-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-r4-report/",
-         "pubDate" : "Mon, 31 Oct 2022 11:19:09 +0000",
-         "title" : "European Senior Team Chess Championships 2022 - R4 report"
-      },
-      {
-         "description" : "Six England teams comprising 26 players gathered for the European Senior Team Chess Championship in Dresden, Germany. The six teams are as follows England...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-reports-from-nigel-povah/",
-         "pubDate" : "Mon, 31 Oct 2022 10:26:05 +0000",
-         "title" : "European Senior Teams Championships - reports from Nigel Povah"
       }
    ]
 }
