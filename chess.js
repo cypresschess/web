@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2097",
+         "pubDate" : "Mon, 21 Nov 2022 21:30:43 +0000",
+         "title" : "World Team Championship 2022: Sunny days for China and Uzbekistan"
+      },
+      {
          "description" : "The Global Chess Championship saw some scintillating action by the top players which led to some equally exciting endgames. The players showed their standard by tendering attractive traps and avoiding them and resident expert Karsten Mueller has the story.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
