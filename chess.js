@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our second Discount Day of the year begins on Tuesday, November 22, at 4:00 p.m. CET (midnight in Tokyo) and ends on Thursday, November 24, at 10.00 a.m. CET (midnight in California). We are offering you a 25% discount on everything. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products: the brand new ChessBase 17, Mega Database 2023, new Fritztrainers by Mihail Marin and Sipke Ernst. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-6",
+         "pubDate" : "Tue, 22 Nov 2022 15:00:00 +0100",
+         "title" : "This is your chance: big Discount Day"
+      },
+      {
+         "description" : "What's new in ChessBase 17? The ChessBase developers Matthias W&uuml;llenweber, Mathias Feist, Lutz Nebe and Jeroen van Belt show in conversation with Arne K&auml;hler why the new ChessBase is indispensable for every ambitious chess lover. Live from 4 pm. At the end of the live show, Robert Ris reports on how he will use the new features as a trainer, for example to bring his student Eline Roebers further forward. From 4 pm, live on YouTube, Twitch or right here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
+         "pubDate" : "Tue, 22 Nov 2022 15:00:00 +0100",
+         "title" : "What's new in ChessBase 17: Livestream with the developers"
+      },
+      {
+         "description" : "Pool A:&#xA0;China dominates; Pool B, Uzbekistan narrowly leads Thus far, the chess teams competing in Jerusalem have enjoyed gorgeous weather. Each day has been sunny and warm, with highs approaching the mid-20s Celsius. But changes are coming for the weather and for the teams. Rain will arrive on Thursday, matching the mood of the four []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-recap/",
+         "pubDate" : "Tue, 22 Nov 2022 13:57:59 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Day 2 recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2098",
+         "pubDate" : "Tue, 22 Nov 2022 13:52:33 +0000",
+         "title" : "Bernard Lesbros wins Senegalese Championship 2022"
+      },
+      {
+         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#160; In the line-ups of the participating teams we find []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-3-live-video-coverage/",
+         "pubDate" : "Tue, 22 Nov 2022 13:52:00 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Day 3 live video coverage"
+      },
+      {
+         "description" : "That 17-year-old Praggnanandhaa is the lowest-rated player in the 14-player line-up for the 85th edition of the Tata Steel Masters tells you all you need to know about what Anish Giri describes as \"the strongest field I have ever seen in Wijk aan Zee\". World no. 2 Ding Liren will warm up for his World Championship match against Ian Nepomniachtchi by playing in a field that also features a 19th Wijk aan Zee appearance for current World Champion Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-masters-line-up-announced",
+         "pubDate" : "Tue, 22 Nov 2022 13:09:30 +0000",
+         "title" : "Tata Steel Masters line-up announced!"
+      },
+      {
+         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
+         "pubDate" : "Tue, 22 Nov 2022 13:55:00 +0100",
+         "title" : "World Team Chess Championship - Live"
+      },
+      {
+         "description" : " The number of international events is on the increase, which is surely a good sign. One big event currently running is the World Team Championship. This years event sees a new (and faster) format, with 2 groups of 6 teams, qualifying for an 8 team KO final. The big change is with the time limit, as the games are now played at 45m+10s, with 2 rounds per day. I must confess I am not a fan of this change, in part because I worry that this may become a suggested new time control for the chess Olympiad. After 4 of the 5 preliminary rounds, most of the usual suspects are in the lead. China is leading one group, which they would fine satisfying, as they did not attend the Olympiad this year. The o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-team-championship.html",
+         "pubDate" : "Tue, 22 Nov 2022 12:32:00 +0000",
+         "title" : "2022 World Team Championship"
+      },
+      {
+         "description" : "GM Magnus Carlsen once again tops the field for the upcoming 2023 Tata Steel Chess Tournament. The 85th edition of the annual super-tournament in Wijk aan Zee will have five players from the world&#39;s top-10 and also five of the world&#39;s biggest tale...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-tournament-participants",
+         "pubDate" : "Tue, 22 Nov 2022 04:30:14 -0800",
+         "title" : "Carlsen Tops 'Strongest-Ever Field' At Tata Steel Chess 2023"
+      },
+      {
          "description" : "The Meltwater Champions Chess Final in San Francisco was visited by a chess fan whose uncle is a legend in the chess world: Bobby Fischer. Nicholas Targ, son of Joan Fischer Targ, the sister of Bobby Fischer, came to visit the tournament and met Magnus Carlsen. In a short interview with Tania Sachdev Nicholas Targ also talked about his love for chess and his encounters with his uncle.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +178,7 @@ news_feed (
          "title" : "World Senior Chess Championship 2022: It's halftime!"
       },
       {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; In the line-ups of the participating teams we find []",
+         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#160; In the line-ups of the participating teams we find []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-live-video-coverage/",
@@ -242,7 +314,7 @@ news_feed (
          "title" : "Meltwater Finals: So and Le reach the podium"
       },
       {
-         "description" : "Pool A: the favorites challenged; Pool B: smooth sailing for the top-rated teams The Israel Chess Federation, in close collaboration with FIDE, has raised the level of chess excitement in Jerusalem. An opening ceremony on Sunday, starring internationally renowned mentalist&#xA0;Lior Suchard, set the stage for tension-filled rounds 1 and 2. After each amazing act by []",
+         "description" : "Pool A: the favorites challenged; Pool B: smooth sailing for the top-rated teams The Israel Chess Federation, in close collaboration with FIDE, has raised the level of chess excitement in Jerusalem. An opening ceremony on Sunday, starring internationally renowned mentalist&#160;Lior Suchard, set the stage for tension-filled rounds 1 and 2. After each amazing act by []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/world-team-chess-championship-2022-day-1-recap/",
@@ -408,22 +480,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ronaldo-and-messi-playing-chess-tweetoftheday/",
          "pubDate" : "Sat, 19 Nov 2022 23:49:59 +0000",
          "title" : "Ronaldo and Messi playing chess #TweetOftheDay"
-      },
-      {
-         "description" : "Asian Junior Championship is taking place in Tagaytay City, Philippines. It is a 9-round Swiss tournament with Mark Jay Bacojo, Saha Neelash, G B Harshavardhan, Sugar Gan-Erdene, Arman Hakemi, Chatterjee Utsab, Duy Dau Khuong, Jerico M Santiaguel, Al-Basher Buto, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-junior-championship-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 21:04:25 +0000",
-         "title" : "Asian Junior Championship 2022- LIVE"
-      },
-      {
-         "description" : "Cascavel Blitz is taking place from 19&#x2013;20 November 2022 in Cascavel, Brazil. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is a &#xA0;7-round Swiss tournament with Jaime Sunye Neto, Marcelo Villalba, Zini Jhone Marcelo, Jose Apuril, Jhonatan Rodrigues Da Luz, Vinicius Savaris Rech, Ulises Cristaldo, Fernando []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cascavel-blitz-2022-live/",
-         "pubDate" : "Sat, 19 Nov 2022 20:53:21 +0000",
-         "title" : "Cascavel Blitz 2022- LIVE"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
@@ -1298,30 +1354,6 @@ news_feed (
          "title" : "2022 Fall Chess Classic: Round 9"
       },
       {
-         "description" : "Which positions arose in Fischer Random games, which from classical chess games? This is what Arno Nickel asks, and in his essay he takes an in-depth look at Fischer Random Chess. His proposal: give players at tournaments the option of playing either classical or Fischer Random!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/classical-chess-fischer-random-both",
-         "pubDate" : "Thu, 10 Nov 2022 23:50:00 +0100",
-         "title" : "Classical chess or Fischer Random? Or both?"
-      },
-      {
-         "description" : "Next Tuesday, 15 November, the first round of the FIDE World Senior Chess Championships will be played at the Hotel Cenacolo in Assisi in Italy. Dr. John Nunn is top seed in the age group 65+, Zurab Sturua is favourite in the 50+ group. | Photo: Google Maps",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-chess-championships-in-assisi",
-         "pubDate" : "Thu, 10 Nov 2022 22:04:53 +0100",
-         "title" : "World Senior Chess Championships in Assisi"
-      },
-      {
-         "description" : "This week Robert Ris presents one of his own games - a painful loss he suffered against GM Hugo ten Hertog in the Two Knights Variation of the Caro-Kann. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-painful-loss",
-         "pubDate" : "Thu, 10 Nov 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A painful loss"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1722,28 +1754,12 @@ news_feed (
          "title" : "2022 Asian Continental Championship: Praggnanadhaa R and Nandhidhaa P V clinch titles"
       },
       {
-         "description" : "Chess.com is excited to announce the 2022 Speed Chess Championship, beginning in late November.&#38;nbsp;World #1 GM Magnus Carlsen returns to an absolutely star-studded 16-player field that also includes&#38;nbsp;four-time Speed Chess Champion GM Hikaru ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-2022-scc",
-         "pubDate" : "Thu, 03 Nov 2022 10:08:00 -0700",
-         "title" : "Announcing The 2022 Speed Chess Championship"
-      },
-      {
          "description" : "Yes, that's what the ad said. Pictured below, it appeared inside the November 1997 issue of <I>Chess Life</I> that I discussed a few days ago in <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Center of ad:</B>'Hereford to field eight. &#149; Ewe to tractor seven. &#149; Ram mates ewe.' <P>The two page ad started, <BLOCKQUOTE><FONT COLOR=\"#ff0000\">Introducing Chessmaster 5500,</FONT> the latest in the award-winning software line for the chess-obsessed. Thanks to patented Illustrated Voice Analysis, C",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/11/ram-mates-ewe.html",
          "pubDate" : "Thu, 03 Nov 2022 16:08:00 +0000",
          "title" : "'Ram Mates Ewe'?"
-      },
-      {
-         "description" : "Hikaru Nakamura stormed to a 4:0 lead on Day 1 of the Chess.com Global Championship Finals, with Jan-Krzysztof Duda playing the Bongcloud in the final game of the day. Wesley So missed mate-in-2 but still leads Dmitry Andreikin 3:1, while Anish Giri and Sam Sevian lead Teimour Radjabov and Nihal Sarin 2.5:1.5.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/global-championship-1-bongcloud-can-t-stop-nakamura",
-         "pubDate" : "Thu, 03 Nov 2022 12:26:48 +0000",
-         "title" : "Global Championship 1: Bongcloud can't stop Nakamura"
       },
       {
          "description" : " FM Albert Winkelman took part in the just completed 2022 Asian Continental Championship. A good start saw him in with a chance of an IM norm, but a final round loss meant he fell a little short. As a consolation he did pick up around 30 rating points, as well as scoring a couple of highly rated scalps. On such scalp came in the following game, where a daring sacrificial idea paid off. Usually sacrificing a knight for 2 pawns after h3-g4 isn't as good as it looks, but in this case it was barely worse than simply retreating the bishop. So much so, that one wrong move from his opponent, and Winkelman was winning quite easily. However the road to victory isn't always easy, and a missed opportun",
@@ -1832,22 +1848,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html",
          "pubDate" : "Tue, 01 Nov 2022 16:33:00 +0000",
          "title" : "November 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : " <p class=\"lead\">Hikaru Nakamura is not only a successful streamer but also a brilliant OTB player who got his first World Title by winning the FIDE World Fischer Random Chess Championship in Reykjavik, Iceland. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/unnamed.jpg\" width=\"1200\" height=\"782\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes / FIDE</div> </div> Τhe second edition of the FIDE World Fischer Random Chess Championship took place in Reykjavik, Iceland from 25 to 30 October 2022, with the defending champion Wesley So, reigning world champion and the world no.1 Magnus Carlsen, Iceland no.1 GM Hjorvar Steinn Gretarsson (Organizer Wildcard",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-is-the-new-fischer-random-world-champion/",
-         "pubDate" : "Tue, 01 Nov 2022 14:20:38 +0000",
-         "title" : "Hikaru Nakamura is the new Fischer Random World Champion"
-      },
-      {
-         "description" : "WFM Shohreh Bayat &#38; Andrei Ciuravin are organising a series of free chess training lessons for Ukrainian refugees in Hull. The lessons are expected to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees-in-hull/",
-         "pubDate" : "Tue, 01 Nov 2022 13:41:55 +0000",
-         "title" : "Free chess training for Ukrainian refugees in Hull"
       }
    ]
 }
