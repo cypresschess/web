@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2100",
+         "pubDate" : "Tue, 22 Nov 2022 19:48:45 +0000",
+         "title" : "World Team Championship 2022: Four Teams Depart the Gathering"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Tue, 22 Nov 2022 18:50:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (62)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (62)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-62/",
+         "pubDate" : "Tue, 22 Nov 2022 17:49:22 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
+      },
+      {
+         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Cap Echecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/laurent-fressinet-wins-the-20th-capechecs-trophy",
+         "pubDate" : "Tue, 22 Nov 2022 18:00:00 +0100",
+         "title" : "Laurent Fressinet wins the 20th Capechecs Trophy!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95695340.cms\" />Riding on wins from Vidit Gujrathi and SL Narayanan, India defeated USA 3-1 in a fifth round Pool B match to qualify for the quarterfinals of the FIDE World Team chess championship on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
+         "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
+         "title" : "World Team Chess Championship: India beat USA, qualify for quarterfinals"
+      },
+      {
          "description" : "Our second Discount Day of the year begins on Tuesday, November 22, at 4:00 p.m. CET (midnight in Tokyo) and ends on Thursday, November 24, at 10.00 a.m. CET (midnight in California). We are offering you a 25% discount on everything. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products: the brand new ChessBase 17, Mega Database 2023, new Fritztrainers by Mihail Marin and Sipke Ernst. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1314,14 +1354,6 @@ news_feed (
          "title" : "Rolling membership introduction"
       },
       {
-         "description" : "With an Elo rating of 2718, Yu Yangyi (pictured) was the top seed in the strong Fall Chess Classic in Saint Louis and he lived up to this role: with a convincing final-round win against Grigoriy Oparin he finished with 6.5 points from 9 games (+4, =5, -0) and secured sole first place. Vidit Gujrathi followed half a point behind with 6.0/9, third place went to Thai Dai Van Nguyen, who scored 5.5/9. Hans Niemann was fourth with 5.0/9. | Photo: Austin Fuller (Archive)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fall-chess-classic-yu-yangyi-wins-the-last-round-and-the-tournament",
-         "pubDate" : "Fri, 11 Nov 2022 10:33:56 +0100",
-         "title" : "Fall Chess Classic: Yu Yangyi wins the last round and the tournament"
-      },
-      {
          "description" : "The Chessable ECF Grand Prix leaderboards are now available on the Grand Prix page here https://www.englishchess.org.uk/ecf-chessable-grand-prix/ The Grand Prix is a year-long individual competition...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1832,22 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2076",
          "pubDate" : "Tue, 01 Nov 2022 21:47:48 +0000",
          "title" : "FIDE Women's Candidates semifinals: Mutual annihilation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2075",
-         "pubDate" : "Tue, 01 Nov 2022 18:12:47 +0000",
-         "title" : "\"The Secret Ingredient\" wins the Averbakh-Boleslavsky Award 2021"
-      },
-      {
-         "description" : "How quickly we tend to forget. Last month, in <A HREF=\"http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html\">October 1972 & 1997 'On the Cover'</A>(October 2022), we saw Bobby Fischer on the cover as 'The World Champion!!'. This month his historic feat already risks sliding into the back pages of CL&R. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Herculean Labors' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>Grandmaster Walter Browne, left, after winning the 1972 U.S. Open in Atlantic City. N.J. USCF Executive Director Ed Edmondson is at right. Crosstable [inside].",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html",
-         "pubDate" : "Tue, 01 Nov 2022 16:33:00 +0000",
-         "title" : "November 1972 & 1997 'On the Cover'"
       }
    ]
 }
