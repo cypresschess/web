@@ -1864,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2074",
          "pubDate" : "Tue, 01 Nov 2022 10:57:50 +0000",
          "title" : "FIDE November 2022 rating list published"
-      },
-      {
-         "description" : " In what was perhaps the most exciting chess tournament we've seen in some time Hikaru Nakamura won the 2022 Fischer Random World Chess Championship in Reykjavik, Iceland. The American legend lost only once in the entire tournament and took a handsome prize of $150,000 after winning an Armageddon game again Ian Nepomniachtchi. GM Hikaru Nakamura, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/\">Fischer Random Chess: A Dream Deferred</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/10/31/fischer-random-a-chess-dream-deferred/",
-         "pubDate" : "Tue, 01 Nov 2022 03:56:15 +0000",
-         "title" : "Fischer Random Chess: A Dream Deferred"
       }
    ]
 }
