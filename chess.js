@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India defeated Azerbaijan in the third round while suffered shock defeat against Uzbekistan in the fourth of the ongoing World Team Chess Championship at Jerusalem",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-mixed-day-for-india/",
+         "pubDate" : "Tue, 22 Nov 2022 08:14:53 +0000",
+         "title" : "World Team Chess Championship- Mixed day for India"
+      },
+      {
+         "description" : "This is not just an update of the standard program that everybody uses - from rank amateurs to tournament players all the way up to world champions. Today we would like you to tell you about the major features of the new version, ChessBase 17: the improved analysis functions, data format, search mask and the very exciting feature of finding beauty in games. We even have an interview with the main programmers. You are sure to get your money worth by going for the new ChessBase 17. Order it this afternoon, from 15:00h CET, and get it at a premium discount price!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-amazing-world-of-chessbase-17",
+         "pubDate" : "Tue, 22 Nov 2022 09:00:00 +0100",
+         "title" : "The amazing world of ChessBase 17"
+      },
+      {
+         "description" : "In the diagram position it is Black to move and win. Do you see how? But be careful: Black's winning idea might be obvious but Black has to calculate precisely.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-tactics-5",
+         "pubDate" : "Tue, 22 Nov 2022 09:00:00 +0100",
+         "title" : "Endgame tactics"
+      },
+      {
+         "description" : "Report for Day 1 (20th November 2022) India faced the host country Israel and Poland on the first day of the World Team Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-report-day-1-2/",
+         "pubDate" : "Tue, 22 Nov 2022 07:38:31 +0000",
+         "title" : "World Team Chess Championship Report Day 1 & 2"
+      },
+      {
+         "description" : "Two more rounds of the preliminaries were played on Monday at the World Team Chess Championship in Jerusalem. With one round to go, a number of teams have already secured a spot in the quarterfinals. However, there is plenty to fight for still, especially in Pool B, where even the US - currently in last place - still has chances to make it to the knockout. | Pictured: Li Di | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d2",
+         "pubDate" : "Tue, 22 Nov 2022 06:05:00 +0100",
+         "title" : "World Teams: China still perfect, Uzbekistan has a great day"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-1",
          "pubDate" : "Mon, 21 Nov 2022 06:57:00 -0800",
          "title" : "World Team Championship Begins In Jerusalem, Played With Rapid Time Control"
-      },
-      {
-         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
-         "pubDate" : "Mon, 21 Nov 2022 13:55:00 +0100",
-         "title" : "World Team Chess Championship - Live"
       },
       {
          "description" : "",
@@ -1290,14 +1322,6 @@ news_feed (
          "title" : "Germany wins 21. Correspondence Chess Olympiad"
       },
       {
-         "description" : "Surya Ganguly, the experienced GM from West Bengal, won the Bangkok Chess Club Open 2022 with a score of 7&frac12;/9 ahead of strong players like Aryan Tari, Hrant Melkumyan and Nigel Short. IM Sagar Shah conducted an interview with the Bengal tiger, where they talk about Surya's whole experience in the tournament, the beautiful moments with her daughter Arya (pictured), and his passion for wildlife!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-interview-bangkok-2022",
-         "pubDate" : "Thu, 10 Nov 2022 09:07:57 +0100",
-         "title" : "Sagar Shah interviews Surya Ganguly, winner of the Bangkok Open"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1336,14 +1360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andreikin-firouzja-win-titled-tuesday-november-8-2022",
          "pubDate" : "Wed, 09 Nov 2022 09:57:52 -0800",
          "title" : "Firouzja Returns To Titled Tuesday With Spectacular Win"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #541 Merijn van Delft looks at a game which featured an interesting opening, a fine attack and an inspired endgame. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-541-t-meurs-vs-k-lambrechts",
-         "pubDate" : "Wed, 09 Nov 2022 18:40:18 +0100",
-         "title" : "Game of the Week #541: T. Meurs vs K. Lambrechts"
       },
       {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
@@ -1666,14 +1682,6 @@ news_feed (
          "title" : "Chess: Hikaru Nakamura follows Fischer's footsteps to win in Reykjavik"
       },
       {
-         "description" : "Praggnanandhaa and Nandhidhaa becomes Asian Champions New Delhi (04 Nov 2022):- Top seed Grandmaster Praggnanandhaa R and Women Grandmaster Nandhidhaa P V became the Asian",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-continental-chess-championship-final-daypraggnanandhaa-and-nandhidhaa-becomes-asian-champions/",
-         "pubDate" : "Fri, 04 Nov 2022 05:49:27 +0000",
-         "title" : "Asian Continental Chess Championship (Final Day):Praggnanandhaa and Nandhidhaa becomes Asian Champions"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95291715.cms\" />Despite losing the second round to a lower seed in the classical format and her opening game of the blitz event, Divya on Thursday brought home two Asian medals from the selection tournament for the Fide Knockout World Cup in New Delhi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/middlesex-chess-players-your-county-needs-you/",
          "pubDate" : "Wed, 02 Nov 2022 14:31:09 +0000",
          "title" : "Middlesex chess players - your county needs you!"
-      },
-      {
-         "description" : "The MPL National Under 11 Chess Championships 2022 was organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29 th October to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-35-th-national-under-11-chess-championships-2022-29-th-october-to-6-th-november-gurgaon-report-1-to-6-rounds/",
-         "pubDate" : "Wed, 02 Nov 2022 13:06:02 +0000",
-         "title" : "MPL 35 th National Under 11 Chess Championships 2022 29 th October to 6 th November, Gurgaon Report - 1 to 6 rounds"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
