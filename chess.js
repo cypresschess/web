@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Meltwater Champions Chess Final in San Francisco was visited by a chess fan whose uncle is a legend in the chess world: Bobby Fischer. Nicholas Targ, son of Joan Fischer Targ, the sister of Bobby Fischer, came to visit the tournament and met Magnus Carlsen. In a short interview with Tania Sachdev Nicholas Targ also talked about his love for chess and his encounters with his uncle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-meets-the-nephew-of-bobby-fischer",
+         "pubDate" : "Tue, 22 Nov 2022 11:35:33 +0100",
+         "title" : "Carlsen meets the nephew of Bobby Fischer"
+      },
+      {
+         "description" : "With one round to go in the pool stage, the Netherlands and the United States are in danger of missing out in the next rounds of the World Team Chess Championship. The two teams are currently not among the top four in their respective pools. China...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-2",
+         "pubDate" : "Tue, 22 Nov 2022 00:36:51 -0800",
+         "title" : "World Teams: Netherlands, U.S. In Trouble"
+      },
+      {
          "description" : "India defeated Azerbaijan in the third round while suffered shock defeat against Uzbekistan in the fourth of the ongoing World Team Chess Championship at Jerusalem",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "Resolution on transfer regulations approved by FIDE Council"
       },
       {
-         "description" : "The German national correspondence chess team wins the gold medal at the 21st Correspondence Chess Olympiad, ahead of the USA, Luxembourg and Ukraine. The best German player was Roland del Rio with 7.5/12 (three wins, nine draws). | Photo: Team Germany: Matthias Kribben, Stephan Busemann, Hans-Dieter Wunderlich, Robert Bauer, Robert von Weizs&auml;cker and Roland del Rio (Photo: Matthias Kribben)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/germany-wins-21-correspondence-chess-olympiad",
-         "pubDate" : "Thu, 10 Nov 2022 13:00:00 +0100",
-         "title" : "Germany wins 21. Correspondence Chess Olympiad"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1762,14 +1770,6 @@ news_feed (
          "title" : "Duda got \"Bongclouded\" by Nakamura"
       },
       {
-         "description" : "The Women&#39;s Candidates semifinals match between&#38;nbsp;GM Anna Muzychuk and GM Lei Tingjie started with two draws. If the match remains tied in the remaining two games, a tiebreak will be played on Sunday. The third game is scheduled to start on Fri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/women-candidates-lei-muzychuk-semifinals-game-2",
-         "pubDate" : "Thu, 03 Nov 2022 01:31:00 -0700",
-         "title" : "Tension Growing In Monaco As Lei, Muzychuk Start With Draws"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/free-chess-training-for-ukrainian-refugees-in-hull/",
          "pubDate" : "Tue, 01 Nov 2022 13:41:55 +0000",
          "title" : "Free chess training for Ukrainian refugees in Hull"
-      },
-      {
-         "description" : " Entries for the 2023 O2C Doeberl Cup are now open, and if you visit <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> you will see that there have been some big changes made to the tournament. The most significant one is the addition of an extra section (The Mini), which is for players rated below 1500 (ACF). Connected with that is the change in the rating limits for the Major (now Under 2100), and the Minor (now Under 1800). The reason for this is to balance the numbers in each event, and to make the pairings a little more sensible. The prizes for the Major and Minor are unchanged, while the Mini adds an extra $1700 to the overall prize pool. The always popular Blitz event a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2023-o2c-doeberl-cup.html",
-         "pubDate" : "Tue, 01 Nov 2022 11:48:00 +0000",
-         "title" : "2023 O2C Doeberl Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2074",
-         "pubDate" : "Tue, 01 Nov 2022 10:57:50 +0000",
-         "title" : "FIDE November 2022 rating list published"
       }
    ]
 }
