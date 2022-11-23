@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 3 of the World Team Championships saw four teams leaving the competition as the preliminaries came to an end in Jerusalem. South Africa and the Netherlands did not make it through in Pool A, while Israel and the United States were eliminated in Pool B. Poland barely qualified, after tying in match points and individual points with Israel - a better tiebreaker score allowed the Polish team to move on. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d3",
+         "pubDate" : "Wed, 23 Nov 2022 04:45:00 +0100",
+         "title" : "World Teams: Poland edges out Israel"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a \"reverse pin.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRBoB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-masters-line-up-announced",
          "pubDate" : "Tue, 22 Nov 2022 13:09:30 +0000",
          "title" : "Tata Steel Masters line-up announced!"
-      },
-      {
-         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
-         "pubDate" : "Tue, 22 Nov 2022 13:55:00 +0100",
-         "title" : "World Team Chess Championship - Live"
       },
       {
          "description" : " The number of international events is on the increase, which is surely a good sign. One big event currently running is the World Team Championship. This years event sees a new (and faster) format, with 2 groups of 6 teams, qualifying for an 8 team KO final. The big change is with the time limit, as the games are now played at 45m+10s, with 2 rounds per day. I must confess I am not a fan of this change, in part because I worry that this may become a suggested new time control for the chess Olympiad. After 4 of the 5 preliminary rounds, most of the usual suspects are in the lead. China is leading one group, which they would fine satisfying, as they did not attend the Olympiad this year. The o",
