@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What's new in ChessBase 17? The ChessBase developers Matthias W&uuml;llenweber, Mathias Feist, Lutz Nebe and Jeroen van Belt show in conversation with Arne K&auml;hler why the new ChessBase is indispensable for every ambitious chess lover. Live from 4 pm. At the end of the live show, Robert Ris reports on how he will use the new features as a trainer, for example to bring his student Eline Roebers further forward. From 4 pm, live on YouTube, Twitch or right here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
+         "pubDate" : "Wed, 23 Nov 2022 08:00:00 +0100",
+         "title" : "What's new in ChessBase 17: Livestream with the developers"
+      },
+      {
+         "description" : "The overnight leaders IM Neelash and IM Harshavardhan drew both their games today. Utsab won a positional game in round 6 to catch up with the leaders. After",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-round-5-and-round-6-day-4/",
+         "pubDate" : "Wed, 23 Nov 2022 06:49:50 +0000",
+         "title" : "ASIAN JUNIOR: Round 5 and Round 6 (Day 4)"
+      },
+      {
+         "description" : "India was paired against USA in the final round for quarter final qualification. The match ended 3:1 in India's favour with Vidit Gurathi and SL Narayanan",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-2022report-day-3/",
+         "pubDate" : "Wed, 23 Nov 2022 06:36:14 +0000",
+         "title" : "World Team Chess Championship 2022:Report Day 3"
+      },
+      {
          "description" : "Day 3 of the World Team Championships saw four teams leaving the competition as the preliminaries came to an end in Jerusalem. South Africa and the Netherlands did not make it through in Pool A, while Israel and the United States were eliminated in Pool B. Poland barely qualified, after tying in match points and individual points with Israel - a better tiebreaker score allowed the Polish team to move on. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
       },
       {
-         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Cap Echecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
+         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Capechecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the and the Grand Prix Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/laurent-fressinet-wins-the-20th-capechecs-trophy",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-6",
          "pubDate" : "Tue, 22 Nov 2022 15:00:00 +0100",
          "title" : "This is your chance: big Discount Day"
-      },
-      {
-         "description" : "What's new in ChessBase 17? The ChessBase developers Matthias W&uuml;llenweber, Mathias Feist, Lutz Nebe and Jeroen van Belt show in conversation with Arne K&auml;hler why the new ChessBase is indispensable for every ambitious chess lover. Live from 4 pm. At the end of the live show, Robert Ris reports on how he will use the new features as a trainer, for example to bring his student Eline Roebers further forward. From 4 pm, live on YouTube, Twitch or right here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
-         "pubDate" : "Tue, 22 Nov 2022 15:00:00 +0100",
-         "title" : "What's new in ChessBase 17: Livestream with the developers"
       },
       {
          "description" : "Pool A:&#xA0;China dominates; Pool B, Uzbekistan narrowly leads Thus far, the chess teams competing in Jerusalem have enjoyed gorgeous weather. Each day has been sunny and warm, with highs approaching the mid-20s Celsius. But changes are coming for the weather and for the teams. Rain will arrive on Thursday, matching the mood of the four []",
@@ -1450,28 +1466,12 @@ news_feed (
          "title" : "ACT Interschool 2022"
       },
       {
-         "description" : "The MPL National Under 11 Chess Championships 2022 were organised by District Chess Association Gurgaon at HSV Global School Gurgaon from 29th October to 6th",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-35th-national-under-11-chess-championships-2022-29th-october-to-6th-november-gurgaon/",
-         "pubDate" : "Wed, 09 Nov 2022 13:00:09 +0000",
-         "title" : "MPL 35th National Under 11 Chess Championships 2022 29th October to 6th November, Gurgaon"
-      },
-      {
          "description" : "ECU E-Magazine October 2022 is out! In this edition of the ECU E-Magazine you may read about: European Senior Team Chess Championship 2022 European Youth Chess Championship 2022 Upcoming European Open and Women Rapid&#38;Blitz Chess Championships 2022 FIDE World Fischer Random Chess Championship 2022 FIDE Women's Candidates Tournament 2022/2023 Tournament of Peace 2022 ECU Commission for Women's&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-october-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-october-2022/",
          "pubDate" : "Wed, 09 Nov 2022 10:16:20 +0000",
          "title" : "ECU E-Magazine October 2022"
-      },
-      {
-         "description" : "National U-07 Open &#38; Girls Chess Championship Certificates are out to download Download using the link given below: Open : Click Here! Girls : Click Here! Any",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-07-certificates/",
-         "pubDate" : "Wed, 09 Nov 2022 10:01:00 +0000",
-         "title" : "National U-07 Certificates"
       },
       {
          "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
