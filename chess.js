@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
+         "pubDate" : "Wed, 23 Nov 2022 13:39:13 +0000",
+         "title" : "Tata Steel Chess 2023 - LIVE"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen and Ding Liren), five top 10 players and a total of eight []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/strongest-field-ever-at-the-85th-edition-of-the-tata-steel-chess-masters/",
+         "pubDate" : "Wed, 23 Nov 2022 13:28:48 +0000",
+         "title" : "Strongest field ever at the 85th edition of the Tata Steel Chess Masters"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-quarterfinals-live/",
+         "pubDate" : "Wed, 23 Nov 2022 13:13:08 +0000",
+         "title" : "FIDE World Team Chess Championship 2022 - Quarterfinals live"
+      },
+      {
+         "description" : " One of the more spectacular games from the 2022 Vikings Weekender was the round 2 match up between Fred Litchfield and Glenn Ingham. Litchfield demonstrated the adage that 'good moves come from good positions' by finding a winning queen sacrifice in a position that was already in his favour. But while most of the combination relied on checks and captures, there was still the necessity to find a quite move or two, which Litchfield did. <br /> <b>Litchfield,Fred - Ingham,Glenn [D30]</b><br />2022 Vikings Weekender Canberra, Australia (2.4), 19.11.2022 <script>new PgnViewer( { boardName: \"game1368\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Be7 6.Bd3 dxc4 7.Nx",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/well-calculated.html",
+         "pubDate" : "Wed, 23 Nov 2022 13:09:00 +0000",
+         "title" : "Well calculated"
+      },
+      {
+         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
+         "pubDate" : "Wed, 23 Nov 2022 13:55:00 +0100",
+         "title" : "World Team Chess Championship - Live"
+      },
+      {
+         "description" : "It's China-Poland, Spain-Azerbaijan, Ukraine-Uzbekistan and France-India in the World Team Championship quarterfinals after the Netherlands, USA, Israel and South Africa were knocked out in the group stages. Anish Giri's planned flight to Jerusalem for the knockout stages had to be cancelled.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-teams-usa-and-netherlands-crash-out",
+         "pubDate" : "Wed, 23 Nov 2022 12:34:01 +0000",
+         "title" : "World Teams: USA and Netherlands crash out"
+      },
+      {
          "description" : "ChessBase 17 is available now, and the amount of new options are immense. The four ChessBase developers Lutz Nebe, Mathias Feist, Jeroen van den Belt, and Matthias Wuellenweber shared their screens on a special discount day live stream, presented us all new features in detail, and answered questions from the chat. Whoever missed the stream yesterday, can rewatch it now.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-team-ch-2022-d3",
          "pubDate" : "Wed, 23 Nov 2022 04:45:00 +0100",
          "title" : "World Teams: Poland edges out Israel"
+      },
+      {
+         "description" : "The FIDE World Rapid &#38; Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, the arena that has hosted many international sports competitions as well as live concerts and various shows. Registrations for the event have been opened and will close on 8th December 2022. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-blitz-championships-2022-registrations-opened/",
+         "pubDate" : "Wed, 23 Nov 2022 01:32:00 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registrations opened"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a \"reverse pin.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRBoB\" alt=\"\" /></a></div>",
@@ -184,6 +240,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-tournament-participants",
          "pubDate" : "Tue, 22 Nov 2022 04:30:14 -0800",
          "title" : "Carlsen Tops 'Strongest-Ever Field' At Tata Steel Chess 2023"
+      },
+      {
+         "description" : "The German chess software company ChessBase and the team behind the open-source chess engine Stockfish have reached a settlement and ended their legal dispute over the latter&#39;s claim regarding a repeated license violation by Chessbase with their p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessbase-stockfish-reach-settlement",
+         "pubDate" : "Tue, 22 Nov 2022 03:32:00 -0800",
+         "title" : "Chessbase, Stockfish Reach Settlement Over License Violation Claim"
       },
       {
          "description" : "The Meltwater Champions Chess Final in San Francisco was visited by a chess fan whose uncle is a legend in the chess world: Bobby Fischer. Nicholas Targ, son of Joan Fischer Targ, the sister of Bobby Fischer, came to visit the tournament and met Magnus Carlsen. In a short interview with Tania Sachdev Nicholas Targ also talked about his love for chess and his encounters with his uncle.",
@@ -522,36 +586,12 @@ news_feed (
          "title" : "FIDE World Team Chess Championship 2022 - Day 1 live video coverage with Almira Skripchenko & Vishy Anand"
       },
       {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B. The best ranked four teams of each pool will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-live/",
-         "pubDate" : "Sun, 20 Nov 2022 09:46:00 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 1st European Small Nations Individual Women Chess Championship will be held from Saturday 19 November Sunday 27 November 2022 in Monaco. Ten players representing Andorra, Cyprus, Guernsey, Jersey, Liechtenstein, Malta, Monaco, and San Marino will compete in 9 rounds, round-robin system. The participants are WGM Tatiana Dornbusch, WFM Andrea Henderson De La Fuente, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-european-small-nations-individual-women-chess-championship/",
-         "pubDate" : "Sun, 20 Nov 2022 09:40:17 +0000",
-         "title" : "1st European Small Nations Individual Women Chess Championship"
-      },
-      {
          "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday against GM Praggnanandhaa R. GM Wesley So is in second place, after beating GM Jan-Krzysztof Duda, but five points beh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-6",
          "pubDate" : "Sun, 20 Nov 2022 01:30:00 -0800",
          "title" : "Carlsen Wins Champions Chess Tour Finals With Round To Spare"
-      },
-      {
-         "description" : "Magnus Carlsen showed his near complete dominance in online chess once again today after marching to victory in the 2022 Meltwater Champions Chess Tour Finals with a round to spare. The World Champion blew away&#160;17-year-old sensation Rameshbabu Praggnanandhaa to seal the final event of the season held at the SHACK15 venue in San Francisco. Read []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-convincingly-wins-meltwater-champions-chess-tour-finals-2022/",
-         "pubDate" : "Sun, 20 Nov 2022 09:22:49 +0000",
-         "title" : "Magnus Carlsen convincingly wins Meltwater Champions Chess Tour Finals 2022"
       },
       {
          "description" : " The 13th World Team Chess Championship takes place in Jerusalem 20th to 25th November 2022. There has been a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was higher. This time there are a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not the best that could be put out. ",
@@ -568,14 +608,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jon-edwards-wins-the-32nd-world-correspondence-championship",
          "pubDate" : "Sun, 20 Nov 2022 10:00:00 +0100",
          "title" : "Jon Edwards wins the 32nd World Correspondence Championship"
-      },
-      {
-         "description" : "Asian Girls Junior Championship is taking place in Tagaytay City, Philippines. It is a 9-round Swiss tournament with Amina Kairbekova, Assel Serikbay, Ravi Rakshitta, Nazerke Nurgali, Ngoc Thuy Duong Bach, Anousha Mahdian, Jia-Tien Chua, Anahita Zahedifar, Dhea Safitri, Patil Bhagyashree, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-girls-junior-championship-2022-live/",
-         "pubDate" : "Sun, 20 Nov 2022 08:39:48 +0000",
-         "title" : "Asian Girls Junior Championship 2022 - LIVE"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
@@ -1314,14 +1346,6 @@ news_feed (
          "title" : "Chess books for Christmas - and Karpov's enigma"
       },
       {
-         "description" : "In the diagram position, White missed the moment to turn the activity of his pieces into something tangible. Without time pressure and with the certainty that 'something is possible' - can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/while-the-iron-is-hot",
-         "pubDate" : "Sat, 12 Nov 2022 09:00:00 +0100",
-         "title" : "While the iron is hot..."
-      },
-      {
          "description" : "The 2022 Chess.com Speed Chess Championship commenced on Thursday with a cutthroat qualifier where GM David Paravyan emerged victorious after defeating GM Tuan Minh Le in a dazzling armageddon tiebreaker. Amidst a field of 142 titled players, Mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1682,22 +1706,6 @@ news_feed (
          "title" : "Fashionable Fischer"
       },
       {
-         "description" : "The Edinburgh Chess Club, the second oldest chess club in the world, celebrates its bicentenary today. Founded on November 4, 1822, over the two centuries the club has been visited by famous players such as Howard Staunton, Joseph Blackburne, Jose...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/edinburgh-chess-club-celebrates-200th-anniversary",
-         "pubDate" : "Fri, 04 Nov 2022 08:50:00 -0700",
-         "title" : "Edinburgh Chess Club Celebrates 200th Anniversary"
-      },
-      {
-         "description" : "Anish Giri hit back after a Teimour Radjabov comeback to clinch a semi-final spot in the Chess.com Global Championship against Nihil Sarin, who himself came back against Sam Sevian. The other semi-finalists, guaranteed at least $50,000, are Wesley So and Hikaru Nakamura, with Wesley surprisingly wrapping up his match first while Jan-Krzysztof Duda beat Hikaru twice on demand.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/global-championship-2-giri-beats-radjabov-in-armageddon",
-         "pubDate" : "Fri, 04 Nov 2022 13:27:28 +0000",
-         "title" : "Global Championship 2: Giri beats Radjabov in Armageddon"
-      },
-      {
          "description" : "The European Youth Chess Championship 2022 will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1800,22 +1808,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/st-louis-fall-chess-classic-2022",
          "pubDate" : "Wed, 2 Nov 2022 20:35:00 +0400",
          "title" : "St Louis Fall Chess Classic 2022 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95261348.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa posted a crucial win over compatriot Koustav Chatterjee in the eighth round of the Open section to jump into sole lead of the Asian Continental Chess Championship on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-chess-championship-praggnanandhaa-nandhidhaa-in-lead/articleshow/95261348.cms",
-         "pubDate" : "Wed, 02 Nov 2022 16:01:10 +0000",
-         "title" : "Asian Chess Championship: Praggnanandhaa, Nandhidhaa in lead"
-      },
-      {
-         "description" : "Middlesex County Chess is struggling to find administrators and players, and they have set up a Google form for anyone and everyone who might be...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/middlesex-chess-players-your-county-needs-you/",
-         "pubDate" : "Wed, 02 Nov 2022 14:31:09 +0000",
-         "title" : "Middlesex chess players - your county needs you!"
       }
    ]
 }
