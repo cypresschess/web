@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase 17 is available now, and the amount of new options are immense. The four ChessBase developers Lutz Nebe, Mathias Feist, Jeroen van den Belt, and Matthias Wuellenweber shared their screens on a special discount day live stream, presented us all new features in detail, and answered questions from the chat. Whoever missed the stream yesterday, can rewatch it now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yesterday-s-live-stream-with-the-developers-of-chessbase-17",
+         "pubDate" : "Wed, 23 Nov 2022 12:09:54 +0100",
+         "title" : "Yesterday's Live Stream with the Developers of ChessBase 17"
+      },
+      {
+         "description" : "With both the number one and number two in the world (Magnus Carlsen and Ding Liren), five top 10 players and a total of eight top 20 players, the Masters of the jubilee edition of the Tata Steel Chess Tournament has a very strong field of participants. The 85th edition promises to be a wonderful battleground, because a number of great talents are also present to compete with these world class players. The tournament will take place from 13 to 29 January 2023 in Wijk aan Zee in the Netherlands.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/strongest-field-ever-at-85th-edition-of-the-tata-steel-chess-tournament",
+         "pubDate" : "Wed, 23 Nov 2022 11:00:00 +0100",
+         "title" : "'Strongest field ever' at 85th edition of the Tata Steel Chess Tournament"
+      },
+      {
          "description" : "What's new in ChessBase 17? The ChessBase developers Matthias W&uuml;llenweber, Mathias Feist, Lutz Nebe and Jeroen van Belt show in conversation with Arne K&auml;hler why the new ChessBase is indispensable for every ambitious chess lover. Live from 4 pm. At the end of the live show, Robert Ris reports on how he will use the new features as a trainer, for example to bring his student Eline Roebers further forward. From 4 pm, live on YouTube, Twitch or right here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,6 +274,14 @@ news_feed (
          "title" : "Carlsen completes near perfect finish to 2022 Champions Tour"
       },
       {
+         "description" : "I've been following the 'Fat Fritz' story on this blog for over three years -- four years if you count the 'Deus X [DeusX]' posts linked in the first post listed here:- <UL><LI>2019-11-18: <A HREF=\"https://chessforallages.blogspot.com/2019/11/fat-fritz-by-albert-silver.html\">'Fat Fritz' by Albert Silver</A> <LI>2020-06-15: <A HREF=\"https://chessforallages.blogspot.com/2020/06/fat-fritz-followup.html\">Fat Fritz Followup</A> <LI>2021-02-22: <A HREF=\"https://chessforallages.blogspot.com/2021/02/the-transformation-of-fat-fritz.html\">The Transformation of Fat Fritz</A> <LI>2021-03-08: <A HREF=\"https://chessforallages.blogspot.com/2021/03/the-condemnation-of-fat-fritz.html\">The Condemnation of Fat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/stockfish-vs-chessbase-settlement.html",
+         "pubDate" : "Mon, 21 Nov 2022 16:44:00 +0000",
+         "title" : "Stockfish vs. ChessBase Settlement"
+      },
+      {
          "description" : "Azerbaijan and China are the early leaders at the FIDE World Team Chess Championship which started on Sunday in Jerusalem, Israel. The tournament is played under the rapid time control of 45+10 and has a pool stage followed by a knockout stage. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -280,22 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-live-video-coverage/",
          "pubDate" : "Mon, 21 Nov 2022 12:15:41 +0000",
          "title" : "FIDE World Team Chess Championship 2022 - Day 2 live video coverage"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Stockfish</strong>'s complaint about licensing infringements in <strong>Fat Fritz 2</strong> against <strong>Chessbase</strong> has been <a href=\"https://stockfishchess.org/blog/2022/chessbase-stockfish-agreement/\">settled</a> in a court in Munich. Chessbase admitted not to have complied with the GNU Public License and will not distribute any products with Stockfish software until 7 November 2023. No damages are paid, both parties cover their legal costs, and are preparing a joint press release. The full settlement is <a href=\"https://stockfishchess.org/files/settlement_english.pdf\">available in English</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/chessbase-wont-have-stockfish-for/",
-         "pubDate" : "Mon, 21 Nov 2022 12:37:19 +0100",
-         "title" : "Chessbase won't have Stockfish for a year"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After winning the <strong>Meltwater Champions Chess Tour</strong> with a tournament to go, <strong>Magnus Carlsen</strong> also won the Tour Final that was held in San Francisco with a round to go, netting $242,000 this season. <strong>Wesley So</strong> came second, third was <strong>Jan-Krzysztof Duda</strong>, who won $162,500 <a href=\"https://chess24.com/tour/standings/\">on the tour</a>, while <strong>Praggnanandhaa</strong> collected $129,000. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/carlsen-wins-tour-final/",
-         "pubDate" : "Mon, 21 Nov 2022 12:30:29 +0100",
-         "title" : "Carlsen wins Tour Final"
       },
       {
          "description" : "Round 4: On the top board in boy's section, IM Neelash Saha played Catalan against Phillipine's Labog. They reached the double bishop versus double knight endgame",
@@ -882,14 +890,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Meltwater Champions Chess Tour</strong> has announced a partnership with <strong>Minimol Games</strong>, a Brazilian studio that develops chess-based games and quizzes for distribution on <strong>Steam</strong>. Their biggest project <strong>Chessarama</strong> is <a href=\"https://store.steampowered.com/app/1831830/Chessarama/\">to launch in spring 2023</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/tour-features-chessarama/",
-         "pubDate" : "Wed, 16 Nov 2022 18:13:55 +0100",
-         "title" : "Tour features Chessarama"
-      },
-      {
          "description" : "GMs Fabiano Caruana and Vladimir Fedoseev were the winners of Titled Tuesday on November 15, both doing so outright without needing tiebreaks. Caruana reached the coveted 10.5/11 score in the early tournament, only drawing in round five. Fedoseev ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-ivan-sokolov",
          "pubDate" : "Wed, 16 Nov 2022 15:20:43 +0100",
          "title" : "Meet The Fritztrainer - Ivan Sokolov"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has finally <a href=\"https://fide.com/news/2090\">published the make-up of its commissions</a> until 2026. Among the promoted people are top arbiters like <strong>St&eacute;phane Escafre</strong> (Rules Commission), <strong>Laurent Freyd</strong> (Planning and Development), <strong>Anastasya Sorokina</strong> (Women), <strong>Ivan Sorovy</strong> (Arbiters). <strong>Yuri Garrett</strong>, <a href=\"https://www.chesstech.org/2022/trust-was-yesterday/\">who we recently interviewed</a>, heads Fair Play, <strong>Jerry Nash</strong> Education, <strong>Akaki Iashvili</strong> Events and GM <strong>Tiberiu-Marian Georgescu</strong> the T",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/arbiters-head-commissions/",
-         "pubDate" : "Wed, 16 Nov 2022 14:24:56 +0100",
-         "title" : "Arbiters head commissions"
       },
       {
          "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
@@ -1282,14 +1274,6 @@ news_feed (
          "title" : "Norway, land of exceptions"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A <strong>F&ouml;rderverein Schach Wolfgang Uhlmann</strong> <a href=\"https://de.chessbase.com/post/gruendung-eines-foerdervereins-wolfgang-uhlmann-in-dresden\">will be founded this week in Dresden</a> with the intention to run chess events and a little chess museum to commemorate East Germany's top player who passed away in 2020. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2022/new-chess-foundation-in-dresden/",
-         "pubDate" : "Sat, 12 Nov 2022 22:18:32 +0100",
-         "title" : "New chess foundation in Dresden"
-      },
-      {
          "description" : "India has seen the rise of many fine chess players who have done exceedingly well in their junior years and have even become strong grandmasters, but have stumbled on their path towards becoming world class players. There was definitely something missing when it came to development of these talents. As on today, it is widely agreed in the chess world that India has the best crop of young talents with players like Gukesh, Arjun Erigaisi, Praggnanandhaa, Nihal Sarin, Raunak Sadhwani and many others. In order to ensure that their potential reaches the right destination, Vishy Anand decided to start off with the WestBridge Anand Chess Academy (WACA) in December 2020. How did it all begin? How do",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1330,6 @@ news_feed (
          "title" : "Unstoppable Paravyan Qualifies For SCC Main Event"
       },
       {
-         "description" : "This week, Daniel King looks at recent examples of brilliant defence using stalemate - a creative way and often surprising way to defend. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-best-rule-in-chess",
-         "pubDate" : "Fri, 11 Nov 2022 18:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: The best rule in chess"
-      },
-      {
          "description" : "We're nearing the end of this blog's 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html\">Fashionable Fischer</A>(November 2022). This current post has nothing to do with Fischer's 1972 or 1992 matches, and takes its title from an old post <A HREF=\"http://chessforallages.blogspot.com/2012/05/korchnoi-busted.html\">Korchnoi Busted</A>(May 2012). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk11.jpg\" WIDTH=400 HEIGHT=300> <P>I found the photo on <A HREF=\"https://www.deviantart.com/florijanmedjugorje/art/Bobby-Fischer-166312639\">Bobby Fischer by florijanmedjugorje</A>(deviantart.com), and compressed its description ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1368,14 +1344,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/alan-fraser-rip/",
          "pubDate" : "Fri, 11 Nov 2022 14:05:30 +0000",
          "title" : "Alan Fraser RIP"
-      },
-      {
-         "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. Huge portion of blunders can be avoided by a little discipline and a few simple tricks.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-15-how-to-avoid-blunders-part-1",
-         "pubDate" : "Fri, 11 Nov 2022 14:00:00 +0100",
-         "title" : "The Winning Academy 15: How to avoid blunders (part 1)"
       },
       {
          "description" : "",
