@@ -1,4 +1,5 @@
 jtable([
+"PEARLAND","2022-11-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202211227182 target='_blank'>RCC QUADS NOVEMBER 22, 2022</a>",
 "HOUSTON","2022-11-19","21","<a href=http://www.uschess.org/msa/XtblMain.php?202211195212 target='_blank'>HOUSTON WOMEN AND GIRLS 2022 CHESS</a>",
 "CYPRESS","2022-11-18","30","<a href=http://www.uschess.org/msa/XtblMain.php?202211184262 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "SPRING","2022-11-18","19","<a href=http://www.uschess.org/msa/XtblMain.php?202211184242 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-03-01  - 03-22","13","<a href=http://www.uschess.org/msa/XtblMain.php?202203227022 target='_blank'>MARCH TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2022-03-18  - 03-20","302","<a href=http://www.uschess.org/msa/XtblMain.php?202203206552 target='_blank'>2022 LONE STAR OPEN CHAMPIONSHIPS</a>",
 "SPRING","2022-03-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202203184922 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-03-18","8","<a href=http://www.uschess.org/msa/XtblMain.php?202203184902 target='_blank'>TOURNAMENTS/FBCC 2022 ST. PATRICK O</a>",
 ]);
