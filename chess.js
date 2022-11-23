@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Tuesday morning, the Knesset (Israel&#x2019;s parliament) hosted FIDE Deputy President and former World Chess Champion Grandmaster&#160;Viswanathan Anand&#160;and FIDE CEO Grandmaster&#160;Emil Sutovsky. The grandmasters played blindfolded, defeating three opponents each.&#160; Their opponents were&#160;Ze&#x2019;ev Elkin, Minister of Jerusalem Affairs and Minister of Housing and Construction,&#160;Aviad Friedman, Director General of the Ministry of Construction and Housing,&#160;Raz Frohlich, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/usa-netherlands-south-africa-and-israel-eliminated-from-fide-world-team-championship-2022/",
+         "pubDate" : "Wed, 23 Nov 2022 00:04:56 +0000",
+         "title" : "USA, Netherlands, South Africa and Israel eliminated from FIDE World Team Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Uzbek grandmaster Nodirbek Abdusattorov, who performed well at the 2022 Chess Olympiad in August. 2022.11.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSDx3f8xsys.jpg?itok=8rJui4X0\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 22 Nov 2022 22:27:52 +0000",
+         "title" : "Abdusattorov Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a &quot;reverse pin.&quot; 2022.11.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRB",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thanksgiving-try-skewer-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 22 Nov 2022 22:27:52 +0000",
+         "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-3",
+         "pubDate" : "Tue, 22 Nov 2022 14:19:00 -0800",
+         "title" : "China, Uzbekistan At The Top, Heading Into Knockout"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -512,14 +544,6 @@ news_feed (
          "link" : "https://www.chessdom.com/asian-girls-junior-championship-2022-live/",
          "pubDate" : "Sun, 20 Nov 2022 08:39:48 +0000",
          "title" : "Asian Girls Junior Championship 2022 - LIVE"
-      },
-      {
-         "description" : "FIFA World Cup 2022 is about to start in Qatar and Cristiano Ronaldo and Lionel Messi chose to prepare for the event by playing a chess game. &#8220;Victory is a State of Mind&#8220;, wrote Ronaldo on his twitter account and shared the photo taken by Annie Leibovitz at the Louis Vuitton shooting. Read more: Carlsen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ronaldo-and-messi-playing-chess-tweetoftheday/",
-         "pubDate" : "Sat, 19 Nov 2022 23:49:59 +0000",
-         "title" : "Ronaldo and Messi playing chess #TweetOftheDay"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
@@ -1410,22 +1434,6 @@ news_feed (
          "title" : "Alex Lenderman: 2022 Fall Classic B Champion!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Hans Niemann chats with Jacob Sanders after his win over Nyzhnyk in the eighth round of the 2022 Fall Chess Classic. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-beats-nyzhnyk-draw-streak-broken\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/12nrdA6sj4Y.jpg?itok=vpTLV442\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-niemann-beats-nyzhnyk-draw-streak-broken",
-         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
-         "title" : "Hans Niemann Beats Nyzhnyk! Draw Streak Broken!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-9-lichessorg",
-         "pubDate" : "Wed, 09 Nov 2022 22:18:51 +0000",
-         "title" : "2022 Fall Chess Classic: Round 9 | lichess.org"
-      },
-      {
          "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1770,14 +1778,6 @@ news_feed (
          "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
       },
       {
-         "description" : "In a day loaded with decisive games and shocking comebacks, GMs Wesley So, Hikaru Nakamura, Nihal Sarin, and Anish Giri advanced to the semifinals on Thursday at the Chess.com Global Championship Finals. Nakamura won an all-decisive-games match ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-quarterfinals-d2",
-         "pubDate" : "Thu, 03 Nov 2022 14:47:00 -0700",
-         "title" : "Stunning Comebacks and Decisive Matches: Nakamura, So, Nihal, Giri Victorious"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/middlesex-chess-players-your-county-needs-you/",
          "pubDate" : "Wed, 02 Nov 2022 14:31:09 +0000",
          "title" : "Middlesex chess players - your county needs you!"
-      },
-      {
-         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz I have been talking about the importance of knowing patterns and combinations in rapid play many times. This past week at the club we witnessed another game where this knowledge (or lack of) made the difference. It is not like we did not learn the <a href=\"https://chessimprover.com/sac-or-no-sac-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-3/\">Sac Or No Sac? (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/sac-or-no-sac-3/",
-         "pubDate" : "Tue, 01 Nov 2022 23:39:50 +0000",
-         "title" : "Sac Or No Sac? (3)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2076",
-         "pubDate" : "Tue, 01 Nov 2022 21:47:48 +0000",
-         "title" : "FIDE Women's Candidates semifinals: Mutual annihilation"
       }
    ]
 }
