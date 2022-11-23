@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a \"reverse pin.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRBoB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thanksgiving-try-skewer-beginner-breakdown",
+         "pubDate" : "Wed, 23 Nov 2022 01:28:35 +0000",
+         "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown"
+      },
+      {
          "description" : "On Tuesday morning, the Knesset (Israel&#x2019;s parliament) hosted FIDE Deputy President and former World Chess Champion Grandmaster&#160;Viswanathan Anand&#160;and FIDE CEO Grandmaster&#160;Emil Sutovsky. The grandmasters played blindfolded, defeating three opponents each.&#160; Their opponents were&#160;Ze&#x2019;ev Elkin, Minister of Jerusalem Affairs and Minister of Housing and Construction,&#160;Aviad Friedman, Director General of the Ministry of Construction and Housing,&#160;Raz Frohlich, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "USA, Netherlands, South Africa and Israel eliminated from FIDE World Team Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Uzbek grandmaster Nodirbek Abdusattorov, who performed well at the 2022 Chess Olympiad in August. 2022.11.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSDx3f8xsys.jpg?itok=8rJui4X0\" alt=\"\" /></",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Uzbek grandmaster Nodirbek Abdusattorov, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSDx3f8xsys.jpg?itok=8rJui4X0\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8",
          "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
          "title" : "2022 Fall Chess Classic: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Lenderman chats with Jacob Sanders after his draw with Kadric in the eighth round of the 2022 Fall Chess Classic. The draw secured Lenderman the top place in Group B. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-lenderman-2022-fall-classic-b-champion\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5dHHqaGaABU.jpg?itok=E7",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-lenderman-2022-fall-classic-b-champion",
-         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
-         "title" : "Alex Lenderman: 2022 Fall Classic B Champion!"
       },
       {
          "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
