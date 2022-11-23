@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The highlight of the Meltwater competition was of course the presence of Magnus Carlsen, and he did not disappoint as he showed off his endgame skills in game after game. They may not have all ended in resounding victories but every one of them was a lesson.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-in-the-endgame",
+         "pubDate" : "Wed, 23 Nov 2022 20:00:00 +0100",
+         "title" : "Carlsen in the endgame"
+      },
+      {
+         "description" : "Chess.com is happy to announce that registrations are now open&#38;nbsp;for the Spring 2023 season of the Collegiate Chess League!&#38;nbsp;This season returns with the 4 vs. 4 team format most CCL players and fans are familiar with and a whopping $30,000...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2023-registration",
+         "pubDate" : "Wed, 23 Nov 2022 10:36:36 -0800",
+         "title" : "Register For The Collegiate Chess League Spring 2023 Season"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #543 Merijn van Delft looks at a recently played brilliancy: Jan-Krzysztof Duda's spectacular win against Anish Giri at the finals of the Meltwater Champions Chess Tour. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-543-duda-vs-giri",
+         "pubDate" : "Wed, 23 Nov 2022 18:00:00 +0100",
+         "title" : "Game of the Week #543: Duda vs Giri"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -238,7 +262,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-tournament-participants",
-         "pubDate" : "Tue, 22 Nov 2022 04:30:14 -0800",
+         "pubDate" : "Tue, 22 Nov 2022 04:30:00 -0800",
          "title" : "Carlsen Tops 'Strongest-Ever Field' At Tata Steel Chess 2023"
       },
       {
@@ -1306,22 +1330,6 @@ news_feed (
          "title" : "Norway, land of exceptions"
       },
       {
-         "description" : "India has seen the rise of many fine chess players who have done exceedingly well in their junior years and have even become strong grandmasters, but have stumbled on their path towards becoming world class players. There was definitely something missing when it came to development of these talents. As on today, it is widely agreed in the chess world that India has the best crop of young talents with players like Gukesh, Arjun Erigaisi, Praggnanandhaa, Nihal Sarin, Raunak Sadhwani and many others. In order to ensure that their potential reaches the right destination, Vishy Anand decided to start off with the WestBridge Anand Chess Academy (WACA) in December 2020. How did it all begin? How do",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-vishy-anand-is-supporting-young-super-talents-of-india-through-waca",
-         "pubDate" : "Sat, 12 Nov 2022 19:00:00 +0100",
-         "title" : "How Vishy Anand is supporting young super talents of India through WACA"
-      },
-      {
-         "description" : "Anatoly Karpov was the sixth of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-anatoly-karpov",
-         "pubDate" : "Sat, 12 Nov 2022 12:00:00 +0100",
-         "title" : "Frederic's mates - How I met Anatoly Karpov"
-      },
-      {
          "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1682,14 +1690,6 @@ news_feed (
          "title" : "European Senior Teams Championships - final round and winners photographs"
       },
       {
-         "description" : "GMs Wesley So and Anish Giri almost hit the front in their respective semifinals against GMs Hikaru Nakamura and Nihal Sarin at the Chess.com Global Championship on Friday but were both held to 2-2 following some resolute defense by their opponent...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-sf",
-         "pubDate" : "Fri, 04 Nov 2022 14:55:00 -0700",
-         "title" : "Giri, So Miss Chances In Chaotic Semifinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1792,22 +1792,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/duda-got-bongclouded-by-nakamura/",
          "pubDate" : "Thu, 03 Nov 2022 09:09:12 +0000",
          "title" : "Duda got \"Bongclouded\" by Nakamura"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2077",
-         "pubDate" : "Wed, 02 Nov 2022 19:40:35 +0000",
-         "title" : "FIDE Women's Candidates: Slow but solid start of the semi-finals"
-      },
-      {
-         "description" : " The St Louis Fall Chess Classic takes place Tue 1st to Fri 11th Nov 2022. Two groups. Yu Yangyi, Santosh Vidit and Hans Moke Niemann are the top seeds. 30 minute delay.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/st-louis-fall-chess-classic-2022",
-         "pubDate" : "Wed, 2 Nov 2022 20:35:00 +0400",
-         "title" : "St Louis Fall Chess Classic 2022 - Games and Results"
       }
    ]
 }
