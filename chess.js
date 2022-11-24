@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Harshavardhan beats Utsab in the sharp Najdorf 6.Bg5 variation to take the sole lead after round 7. IM Neelash Saha suffered a loss against the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-junior-2022-round-7/",
+         "pubDate" : "Thu, 24 Nov 2022 07:14:38 +0000",
+         "title" : "ASIAN JUNIOR 2022 : Round 7"
+      },
+      {
+         "description" : "In a nail biting Quarter Final match India defeated France in a tie breaker to advance to the Semi Final of World Team Chess Championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-india-moved-to-semi-final/",
+         "pubDate" : "Thu, 24 Nov 2022 06:39:48 +0000",
+         "title" : "World Team Chess Championship - India moved to Semi Final"
+      },
+      {
+         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
+         "pubDate" : "Thu, 24 Nov 2022 07:32:40 +0100",
+         "title" : "Chessbase 17: the amazing new Search function"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-team-chess-india-edges-out-france-reaches-last-four/articleshow/95731259.cms",
+         "pubDate" : "Thu, 24 Nov 2022 05:33:03 +0000",
+         "title" : "FIDE World Team Chess: India edges out France, reaches last four"
+      },
+      {
          "description" : " International Master Justus Williams took a big step toward his goal of becoming an International Grandmaster by earning his first GM norm. Just over one year ago, he clinched his IM title, won a couple of tournaments, and wrote a nice article in Chess Life titled, &#8220;Getting My Reps In.&#8221; Those reps are certainly paying The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/\">Justus Williams notches first GM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Justus Williams notches first GM norm!"
       },
       {
-         "description" : "Uzbekistan and China continue to perform exceptionally, knocking out Ukraine and Poland. Spain defeated the powerhouse Azerbaijan team. India pulled ahead of France in a riveting blitz playoff. The semifinals begin on Thursday, November 24, star...",
+         "description" : "The World Team Chess Championship in Jerusalem saw Uzbekistan and China continue to perform exceptionally, knocking out Ukraine and Poland. Spain defeated the powerhouse Azerbaijan team. India pulled ahead of France in a riveting blitz playoff. ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-quarterfinals",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-caruana-erigaisi",
-         "pubDate" : "Wed, 23 Nov 2022 14:56:49 -0800",
+         "pubDate" : "Wed, 23 Nov 2022 14:56:00 -0800",
          "title" : "Caruana Survives Scare Against Erigaisi"
       },
       {
@@ -279,7 +311,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
          "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
-         "title" : "World Team Chess Championship: India beat USA, qualify for quarterfinals"
+         "title" : "World Team Chess: India qualify for quarterfinals"
       },
       {
          "description" : "Our second Discount Day of the year begins on Tuesday, November 22, at 4:00 p.m. CET (midnight in Tokyo) and ends on Thursday, November 24, at 10.00 a.m. CET (midnight in California). We are offering you a 25% discount on everything. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products: the brand new ChessBase 17, Mega Database 2023, new Fritztrainers by Mihail Marin and Sipke Ernst. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
@@ -1202,14 +1234,6 @@ news_feed (
          "title" : "Meltwater Finals: Carlsen beats So in hard-fought match"
       },
       {
-         "description" : "National U-11 Certificates(Gurgaon) are out to download Download using the link given below Open : Click Here! Girls : Click Here! Any Correction mail us at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-11-certificates/",
-         "pubDate" : "Tue, 15 Nov 2022 07:44:52 +0000",
-         "title" : "National U-11 Certificates"
-      },
-      {
          "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "Who? Where? When?"
       },
       {
-         "description" : "Senior National Arbiters Seminar held at Tirupati , AP from 29th to 30th October , 2022.Total 40 participants has participated in this seminar and all",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/all-india-chess-federation-senior-national-arbiters-seminar-examination-tirupati-andhra-pradesh-29-30-october-2022/",
-         "pubDate" : "Sun, 13 Nov 2022 16:05:37 +0000",
-         "title" : "All India Chess Federation Senior National Arbiter's Seminar & Examination at Tirupati ,Andhra Pradesh 29-30 October , 2022"
-      },
-      {
          "description" : "How do you feel when you have to play against an opponent whose rating is some hundred points better than your own? The bold among us will see this as a special incentive. For most of us, however, unease will probably prevail. In the third part of his video series \"Practical Tips for the Tournament Player\" in ChessBase Magazine #210, Jan Markos deals with the important topic of how to play against a stronger opponent. The GM from Slovakia first makes it clear that you have to keep a cool head and then presents three promising strategies. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-heroes-november-2022/",
          "pubDate" : "Sun, 13 Nov 2022 11:52:41 +0000",
          "title" : "Chess For Heroes (November 2022)"
-      },
-      {
-         "description" : "A small country, Norway has produced exceptional representatives in various disciplines. Magnus Carlsen, the chess world champion, is joined by fellow geniuses hailing from the Scandinavian country: Niels Henrik Abel, Henrik Ibsen, Edvard Grieg and Edvard Munch. Diana Mihajlova tells us more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-land-of-exceptions",
-         "pubDate" : "Sun, 13 Nov 2022 12:00:00 +0100",
-         "title" : "Norway, land of exceptions"
       },
       {
          "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
