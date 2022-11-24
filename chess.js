@@ -298,7 +298,7 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
       },
       {
-         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Capechecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the and the Grand Prix Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
+         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Capechecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the Grand Prix Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/laurent-fressinet-wins-the-20th-capechecs-trophy",
@@ -312,14 +312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
          "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
          "title" : "World Team Chess: India qualify for quarterfinals"
-      },
-      {
-         "description" : "Our second Discount Day of the year begins on Tuesday, November 22, at 4:00 p.m. CET (midnight in Tokyo) and ends on Thursday, November 24, at 10.00 a.m. CET (midnight in California). We are offering you a 25% discount on everything. That includes software, training DVDs, services, the ChessBase Account. And there are some very interesting new products: the brand new ChessBase 17, Mega Database 2023, new Fritztrainers by Mihail Marin and Sipke Ernst. Don't miss this great opportunity to shop in our store, and get all our software at a premium price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-is-your-chance-big-discount-day-6",
-         "pubDate" : "Tue, 22 Nov 2022 15:00:00 +0100",
-         "title" : "This is your chance: big Discount Day"
       },
       {
          "description" : "Pool A:&#xA0;China dominates; Pool B, Uzbekistan narrowly leads Thus far, the chess teams competing in Jerusalem have enjoyed gorgeous weather. Each day has been sunny and warm, with highs approaching the mid-20s Celsius. But changes are coming for the weather and for the teams. Rain will arrive on Thursday, matching the mood of the four []",
@@ -1378,6 +1370,14 @@ news_feed (
          "title" : "Chess For Heroes (November 2022)"
       },
       {
+         "description" : "A small country, Norway has produced exceptional representatives in various disciplines. Magnus Carlsen, the chess world champion, is joined by fellow geniuses hailing from the Scandinavian country: Niels Henrik Abel, Henrik Ibsen, Edvard Grieg and Edvard Munch. Diana Mihajlova tells us more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-land-of-exceptions",
+         "pubDate" : "Sun, 13 Nov 2022 12:00:00 +0100",
+         "title" : "Norway, land of exceptions"
+      },
+      {
          "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1816,14 +1816,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-nandhidhaa-win-asian-chess-championship-titles/articleshow/95278033.cms",
          "pubDate" : "Thu, 03 Nov 2022 10:59:10 +0000",
          "title" : "India's Praggnanandhaa, Nandhidhaa win Asian Chess C'ship titles"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Jan-Krzysztof Duda played the Bongcloud opening against GM Hikaru Nakamura at the Chesscom Global Championship 2022 and the American streamer was not happy! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Hikaru-Nakamura-Duda-Bongcloud-chess.png\" width=\"2358\" height=\"1566\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Eric Rosen</div> </div> In 2021 the Guardian wrote: \"The self-destructive opening (2. Ke2) is known as the Bongcloud for a simple reason: you'd have to be stoned to the gills to think it was a good idea.\" and they couldn't be more accurate! Jan-Krzysztof Duda decided to rock the chess world by playing the Bongcloud against the \"B",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/duda-got-bongclouded-by-nakamura/",
-         "pubDate" : "Thu, 03 Nov 2022 09:09:12 +0000",
-         "title" : "Duda got \"Bongclouded\" by Nakamura"
       }
    ]
 }
