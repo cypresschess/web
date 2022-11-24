@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Uzbekistan and China continue to perform exceptionally, knocking out Ukraine and Poland. Spain defeated the powerhouse Azerbaijan team. India pulled ahead of France in a riveting blitz playoff. The semifinals begin on Thursday, November 24, star...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-quarterfinals",
+         "pubDate" : "Wed, 23 Nov 2022 16:13:21 -0800",
+         "title" : "India, Spain, Uzbekistan, China Advance to Semifinals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2102",
+         "pubDate" : "Wed, 23 Nov 2022 23:11:53 +0000",
+         "title" : "Italian Championship: Luka Moroni and Olga Zimina win titles"
+      },
+      {
+         "description" : "The quarterfinals of the World Team Championship were played on Wednesday at the Dan Hotel in Jerusalem. One of the four matches was decided in tiebreaks, with India beating France in blitz to get a spot in the semis. China, Spain and Uzbekistan, on their part, knocked out Poland, Azerbaijan and Ukraine, respectively. | Pictured: Spain's David Anton and Daniil Yuffa | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d4",
+         "pubDate" : "Thu, 24 Nov 2022 00:05:00 +0100",
+         "title" : "World Teams: Spain, India, China and Uzbekistan in semis"
+      },
+      {
+         "description" : "GM Fabiano Caruana was the first player to progress to the quarterfinals of the 2022 Speed Chess Championship on Wednesday after defeating GM Arjun Erigaisi in a nail-biting curtain-raiser for the main event. Erigaisi built a strong lead early; ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-caruana-erigaisi",
+         "pubDate" : "Wed, 23 Nov 2022 14:56:49 -0800",
+         "title" : "Caruana Survives Scare Against Erigaisi"
+      },
+      {
+         "description" : "The 2022 NC Open will be held over Thanksgiving Weekend from 25-27 November 2022 in Charlotte, NC, USA. The NCO features a&#xA0;$11,000&#xA0;guaranteed prize fund in 8 US Chess rated sections: Championship (1900+), U1900, U1700, U1500, U1300 and U1100. The event runs alongside the&#xA0;2022 US Masters, a national event featuring the top players in the Americas.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nc-open-chess-championship-2022/",
+         "pubDate" : "Wed, 23 Nov 2022 22:17:13 +0000",
+         "title" : "NC Open Chess Championship 2022"
+      },
+      {
+         "description" : "The 2022 US Masters takes place over Thanksgiving Weekend from November 23-27, 2022 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The&#xA0;US Masters Chess Championship&#xA0;is an official US Chess National Championship event which features a&#xA0;20.000$&#xA0;guaranteed prize fund. Time control is 90 minutes for the entire game, plus a 30-second increment starting from move one. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-masters-chess-championship-2022-live/",
+         "pubDate" : "Wed, 23 Nov 2022 22:02:18 +0000",
+         "title" : "US Masters Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 US Masters will be held over Thanksgiving Weekend from November 23-27, 2022 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The US Masters Chess Championship is an official US Chess National Championship event which features a 20.000$ guaranteed prize fund. Time control is 90 minutes for the entire game, plus a 30-second increment []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-masters-chess-championship-2022/",
+         "pubDate" : "Wed, 23 Nov 2022 21:57:00 +0000",
+         "title" : "US Masters Chess Championship 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2101",
+         "pubDate" : "Wed, 23 Nov 2022 21:47:46 +0000",
+         "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
+      },
+      {
+         "description" : "When chess players, officials, and fans arrived at the Western Wall Plaza on Wednesday morning, they saw over one hundred Ethiopian Jews celebrating Sigd. Tour guide Shuki Cohen told the chess group, &#x201C;The Ethiopian Jews are here in big numbers today, as Sigd is a once-a-year holiday.&#x201D; Likewise, the FIDE World Team Championship is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/china-india-spain-and-uzbekistan-are-semi-finalists-of-the-fide-world-team-championship/",
+         "pubDate" : "Wed, 23 Nov 2022 21:44:27 +0000",
+         "title" : "China, India, Spain, and Uzbekistan are semi-finalists of the FIDE World Team Championship"
+      },
+      {
          "description" : "The highlight of the Meltwater competition was of course the presence of Magnus Carlsen, and he did not disappoint as he showed off his endgame skills in game after game. They may not have all ended in resounding victories but every one of them was a lesson.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/well-calculated.html",
          "pubDate" : "Wed, 23 Nov 2022 13:09:00 +0000",
          "title" : "Well calculated"
-      },
-      {
-         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
-         "pubDate" : "Wed, 23 Nov 2022 13:55:00 +0100",
-         "title" : "World Team Chess Championship - Live"
       },
       {
          "description" : "It's China-Poland, Spain-Azerbaijan, Ukraine-Uzbekistan and France-India in the World Team Championship quarterfinals after the Netherlands, USA, Israel and South Africa were knocked out in the group stages. Anish Giri's planned flight to Jerusalem for the knockout stages had to be cancelled.",
@@ -234,14 +298,6 @@ news_feed (
          "title" : "Bernard Lesbros wins Senegalese Championship 2022"
       },
       {
-         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#160; In the line-ups of the participating teams we find []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-3-live-video-coverage/",
-         "pubDate" : "Tue, 22 Nov 2022 13:52:00 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Day 3 live video coverage"
-      },
-      {
          "description" : "That 17-year-old Praggnanandhaa is the lowest-rated player in the 14-player line-up for the 85th edition of the Tata Steel Masters tells you all you need to know about what Anish Giri describes as \"the strongest field I have ever seen in Wijk aan Zee\". World no. 2 Ding Liren will warm up for his World Championship match against Ian Nepomniachtchi by playing in a field that also features a 19th Wijk aan Zee appearance for current World Champion Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -386,14 +442,6 @@ news_feed (
          "title" : "World Senior Chess Championship 2022: It's halftime!"
       },
       {
-         "description" : "The&#160;FIDE World Team Championship 2022&#160;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#160; In the line-ups of the participating teams we find []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-live-video-coverage/",
-         "pubDate" : "Mon, 21 Nov 2022 12:15:41 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Day 2 live video coverage"
-      },
-      {
          "description" : "Round 4: On the top board in boy's section, IM Neelash Saha played Catalan against Phillipine's Labog. They reached the double bishop versus double knight endgame",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -506,14 +554,6 @@ news_feed (
          "title" : "Meltwater Finals: So and Le reach the podium"
       },
       {
-         "description" : "Pool A: the favorites challenged; Pool B: smooth sailing for the top-rated teams The Israel Chess Federation, in close collaboration with FIDE, has raised the level of chess excitement in Jerusalem. An opening ceremony on Sunday, starring internationally renowned mentalist&#160;Lior Suchard, set the stage for tension-filled rounds 1 and 2. After each amazing act by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-team-chess-championship-2022-day-1-recap/",
-         "pubDate" : "Sun, 20 Nov 2022 22:21:40 +0000",
-         "title" : "World Team Chess Championship 2022 - Day 1 recap"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -600,14 +640,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
          "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
          "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;will take place from 19 to 26 November in Jerusalem, Israel. It will be a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; In the line-ups of the participating teams we find []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-1-live-video-coverage-with-almira-skripchenko-vishy-anand/",
-         "pubDate" : "Sun, 20 Nov 2022 09:55:19 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Day 1 live video coverage with Almira Skripchenko & Vishy Anand"
       },
       {
          "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday against GM Praggnanandhaa R. GM Wesley So is in second place, after beating GM Jan-Krzysztof Duda, but five points beh...",
@@ -1608,22 +1640,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/",
          "pubDate" : "Sun, 06 Nov 2022 13:53:19 +0000",
          "title" : "Howard chess activist, Sultan-Diego Sulayman (1995-2022)"
-      },
-      {
-         "description" : "GM Lei Tingjie&#38;nbsp;qualified for the final of the 2022-23 FIDE Women&#39;s Candidates Tournament after beating GM Anna Muzychuk in the fourth game of their match in Monaco. Lei, who knocked out her opponent&#39;s sister, GM Mariya Muzychuk, in the quarte...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lei-tingjie-beats-anna-muzychuk-women-candidates-2022-23",
-         "pubDate" : "Sun, 06 Nov 2022 03:08:00 -0800",
-         "title" : "Lei Tingjie Beats Anna Muzychuk, Qualifies For Women's Candidates Final"
-      },
-      {
-         "description" : "GMs Wesley So and Nihal Sarin confirmed their progression to the Chess.com Global Championship final after winning arduous semifinal matches on Saturday. The players will compete for the top prize of $200,000, and the winner will be crowned the in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-chesscom-global-championship-sf-d2",
-         "pubDate" : "Sat, 05 Nov 2022 14:24:00 -0700",
-         "title" : "Nihal Shocks Giri in Armageddon, So Knocks Out Nakamura"
       },
       {
          "description" : "",
