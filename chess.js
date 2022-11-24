@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " International Master Justus Williams took a big step toward his goal of becoming an International Grandmaster by earning his first GM norm. Just over one year ago, he clinched his IM title, won a couple of tournaments, and wrote a nice article in Chess Life titled, &#8220;Getting My Reps In.&#8221; Those reps are certainly paying The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/\">Justus Williams notches first GM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/",
+         "pubDate" : "Thu, 24 Nov 2022 00:39:36 +0000",
+         "title" : "Justus Williams notches first GM norm!"
+      },
+      {
          "description" : "Uzbekistan and China continue to perform exceptionally, knocking out Ukraine and Poland. Spain defeated the powerhouse Azerbaijan team. India pulled ahead of France in a riveting blitz playoff. The semifinals begin on Thursday, November 24, star...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-quarterfinals",
-         "pubDate" : "Wed, 23 Nov 2022 16:13:21 -0800",
+         "pubDate" : "Wed, 23 Nov 2022 16:13:00 -0800",
          "title" : "India, Spain, Uzbekistan, China Advance to Semifinals"
       },
       {
