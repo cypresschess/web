@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-championship-2022-semifinals-live/",
+         "pubDate" : "Thu, 24 Nov 2022 12:25:34 +0000",
+         "title" : "FIDE World Team Championship 2022 - Semifinals LIVE"
+      },
+      {
+         "description" : "Congratulations to Samar Dayal who has won the Gold medal in the Under 8 section of the Commonwealth Chess Championships. His mother writes &#8212; &#8216;Samar...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/samar-dayal-commonwealth-under-8-champion/",
+         "pubDate" : "Thu, 24 Nov 2022 12:13:54 +0000",
+         "title" : "Samar Dayal - Commonwealth Under 8 Champion"
+      },
+      {
+         "description" : "The FIDE World Rapid & Blitz Championship will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, the arena that has hosted many international sports competitions as well as live concerts and various shows. You can now register for the event!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-2022-registration-is-open",
+         "pubDate" : "Thu, 24 Nov 2022 12:00:00 +0100",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "IM Harshavardhan beats Utsab in the sharp Najdorf 6.Bg5 variation to take the sole lead after round 7. IM Neelash Saha suffered a loss against the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
          "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
          "title" : "World Team Chess: India qualify for quarterfinals"
-      },
-      {
-         "description" : "Pool A:&#xA0;China dominates; Pool B, Uzbekistan narrowly leads Thus far, the chess teams competing in Jerusalem have enjoyed gorgeous weather. Each day has been sunny and warm, with highs approaching the mid-20s Celsius. But changes are coming for the weather and for the teams. Rain will arrive on Thursday, matching the mood of the four []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-day-2-recap/",
-         "pubDate" : "Tue, 22 Nov 2022 13:57:59 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Day 2 recap"
       },
       {
          "description" : "",
@@ -970,7 +986,7 @@ news_feed (
          "title" : "Duda Wins Brilliant Game In Champions Chess Tour Finals"
       },
       {
-         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 23rd January 2023, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
+         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 29th January 2023, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-heroes-november-2022/",
          "pubDate" : "Sun, 13 Nov 2022 11:52:41 +0000",
          "title" : "Chess For Heroes (November 2022)"
-      },
-      {
-         "description" : "A small country, Norway has produced exceptional representatives in various disciplines. Magnus Carlsen, the chess world champion, is joined by fellow geniuses hailing from the Scandinavian country: Niels Henrik Abel, Henrik Ibsen, Edvard Grieg and Edvard Munch. Diana Mihajlova tells us more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-land-of-exceptions",
-         "pubDate" : "Sun, 13 Nov 2022 12:00:00 +0100",
-         "title" : "Norway, land of exceptions"
       },
       {
          "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
@@ -1800,22 +1808,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/ram-mates-ewe.html",
          "pubDate" : "Thu, 03 Nov 2022 16:08:00 +0000",
          "title" : "'Ram Mates Ewe'?"
-      },
-      {
-         "description" : " FM Albert Winkelman took part in the just completed 2022 Asian Continental Championship. A good start saw him in with a chance of an IM norm, but a final round loss meant he fell a little short. As a consolation he did pick up around 30 rating points, as well as scoring a couple of highly rated scalps. On such scalp came in the following game, where a daring sacrificial idea paid off. Usually sacrificing a knight for 2 pawns after h3-g4 isn't as good as it looks, but in this case it was barely worse than simply retreating the bishop. So much so, that one wrong move from his opponent, and Winkelman was winning quite easily. However the road to victory isn't always easy, and a missed opportun",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/a-daring-choice.html",
-         "pubDate" : "Thu, 03 Nov 2022 12:22:00 +0000",
-         "title" : " A daring choice"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95278033.cms\" />Top-seeded Indian Grandmaster R Praggnanandhaa and compatriot P V Nandhidhaa won the titles in the Open and women's sections respectively in the Asian Continental Chess championship on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-praggnanandhaa-nandhidhaa-win-asian-chess-championship-titles/articleshow/95278033.cms",
-         "pubDate" : "Thu, 03 Nov 2022 10:59:10 +0000",
-         "title" : "India's Praggnanandhaa, Nandhidhaa win Asian Chess C'ship titles"
       }
    ]
 }
