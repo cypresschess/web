@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 81st Italian National Chess Championships ended on Wednesday in Sicily with a clear victory for GM Luca Moroni. The Women's Championship was won by Olga Zimina while Gabriele Lumachi became Italian Junior Champion. | Photos: Official website",
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#xA0;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-participants-lists/",
+         "pubDate" : "Thu, 24 Nov 2022 18:15:49 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - Participants lists"
+      },
+      {
+         "description" : "The final stage of the National Chess Championship of Senegal 2022 took place from 11-13 &#38; 19-20 November in Dakar. The event was played in 9 round-robin rounds, with 10 players who qualified for the finals through the preliminary stages. The 74-year-old Bernard Lesbros won the Championship scoring 7.5/9 points. Lesbros had a slow start []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/74-year-old-bernard-lesbros-wins-the-national-chess-championship-of-senegal/",
+         "pubDate" : "Thu, 24 Nov 2022 17:58:12 +0000",
+         "title" : "74-year-old Bernard Lesbros wins the National Chess Championship of Senegal"
+      },
+      {
+         "description" : "The International Open Chess Championship of Central Serbia took place from 16-23 November in Pirot, Serbia. The event attracted 74 players from 15 countries, and was played in 9 rounds, swiss system, with time control of 90 minutes per player each 40 moves and 15 minutes until the end of the game, with an additional []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-dhulipalla-triumphs-at-the-2022-international-open-championship-of-central-serbia/",
+         "pubDate" : "Thu, 24 Nov 2022 17:49:42 +0000",
+         "title" : "IM Dhulipalla triumphs at the 2022 International Open Championship of Central Serbia"
+      },
+      {
+         "description" : "American live streamer, YouTuber, esports commentator and competition&#xA0;Ludwig Anders Ahgren, known simply as Ludwig, announced the&#xA0;Mogul Chessboxing Championship this September. It will be a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#xA0;The event will take place on 11th December 2022. The main event []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mogul-chessboxing-championship-belenkaya-vs-botez/",
+         "pubDate" : "Thu, 24 Nov 2022 17:36:53 +0000",
+         "title" : "Mogul Chessboxing Championship - Belenkaya vs Botez"
+      },
+      {
+         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
+         "pubDate" : "Thu, 24 Nov 2022 15:07:40 +0100",
+         "title" : "Chessbase 17: the amazing new Search function"
+      },
+      {
+         "description" : "The 81st Italian National Chess Championships ended on Wednesday in Cagliari, Sardinia, with a clear victory for GM Luca Moroni. The Women's Championship was won by Olga Zimina while Gabriele Lumachi became Italian Junior Champion. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/luca-moroni-and-olga-zimina-win-italian-championships",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://aicf.in/world-team-chess-championship-india-moved-to-semi-final/",
          "pubDate" : "Thu, 24 Nov 2022 06:39:48 +0000",
          "title" : "World Team Chess Championship - India moved to Semi Final"
-      },
-      {
-         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
-         "pubDate" : "Thu, 24 Nov 2022 07:32:40 +0100",
-         "title" : "Chessbase 17: the amazing new Search function"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
@@ -194,30 +226,6 @@ news_feed (
          "title" : "Game of the Week #543: Duda vs Giri"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
-         "pubDate" : "Wed, 23 Nov 2022 13:39:13 +0000",
-         "title" : "Tata Steel Chess 2023 - LIVE"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen and Ding Liren), five top 10 players and a total of eight []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/strongest-field-ever-at-the-85th-edition-of-the-tata-steel-chess-masters/",
-         "pubDate" : "Wed, 23 Nov 2022 13:28:48 +0000",
-         "title" : "Strongest field ever at the 85th edition of the Tata Steel Chess Masters"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-chess-championship-2022-quarterfinals-live/",
-         "pubDate" : "Wed, 23 Nov 2022 13:13:08 +0000",
-         "title" : "FIDE World Team Chess Championship 2022 - Quarterfinals live"
-      },
-      {
          "description" : " One of the more spectacular games from the 2022 Vikings Weekender was the round 2 match up between Fred Litchfield and Glenn Ingham. Litchfield demonstrated the adage that 'good moves come from good positions' by finding a winning queen sacrifice in a position that was already in his favour. But while most of the combination relied on checks and captures, there was still the necessity to find a quite move or two, which Litchfield did. <br /> <b>Litchfield,Fred - Ingham,Glenn [D30]</b><br />2022 Vikings Weekender Canberra, Australia (2.4), 19.11.2022 <script>new PgnViewer( { boardName: \"game1368\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Be7 6.Bd3 dxc4 7.Nx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-team-ch-2022-d3",
          "pubDate" : "Wed, 23 Nov 2022 04:45:00 +0100",
          "title" : "World Teams: Poland edges out Israel"
-      },
-      {
-         "description" : "The FIDE World Rapid &#38; Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, the arena that has hosted many international sports competitions as well as live concerts and various shows. Registrations for the event have been opened and will close on 8th December 2022. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-blitz-championships-2022-registrations-opened/",
-         "pubDate" : "Wed, 23 Nov 2022 01:32:00 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registrations opened"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a \"reverse pin.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRBoB\" alt=\"\" /></a></div>",
