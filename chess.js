@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 81st Italian National Chess Championships ended on Wednesday in Sicily with a clear victory for GM Luca Moroni. The Women's Championship was won by Olga Zimina while Gabriele Lumachi became Italian Junior Champion. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/luca-moroni-and-olga-zimina-win-italian-championships",
+         "pubDate" : "Thu, 24 Nov 2022 15:00:00 +0100",
+         "title" : "Luca Moroni and Olga Zimina win Italian Championships"
+      },
+      {
+         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
+         "pubDate" : "Thu, 24 Nov 2022 13:55:00 +0100",
+         "title" : "World Team Chess Championship - Live"
+      },
+      {
+         "description" : "The Italian Chess Championship Finals 2022 took place from 12-23 November in Cagliari (Sicily). The Open event was played as a 12-player round-robin tournament, and Women's Championship was played in 7 round-robin rounds with 8 participants. 22-year-old GM Luca Moroni convincingly won the Open tournament scoring 8.5/11 points. He clinched his second National Champion title []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/luca-moroni-and-olga-zimina-win-the-italian-chess-championship-2022/",
+         "pubDate" : "Thu, 24 Nov 2022 12:54:33 +0000",
+         "title" : "Luca Moroni and Olga Zimina win the Italian Chess Championship 2022"
+      },
+      {
+         "description" : "It's India-Uzbekistan and China-Spain in the FIDE World Team Championship semi-finals after India survived a comeback to beat top seeds France in a blitz playoff, with Vishy Anand calling Indian hero Nihal Sarin \"a blitz genius\". The other shock was Spain taking down Azerbaijan, with David Anton defeating Teimour Radjabov in the crucial game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-teams-india-take-down-top-seeds-france",
+         "pubDate" : "Thu, 24 Nov 2022 12:51:16 +0000",
+         "title" : "World Teams: India take down top seeds France"
+      },
+      {
          "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -79,7 +111,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2102",
          "pubDate" : "Wed, 23 Nov 2022 23:11:53 +0000",
-         "title" : "Italian Championship: Luka Moroni and Olga Zimina win titles"
+         "title" : "Italian Championship: Luca Moroni and Olga Zimina win titles"
       },
       {
          "description" : "The quarterfinals of the World Team Championship were played on Wednesday at the Dan Hotel in Jerusalem. One of the four matches was decided in tiebreaks, with India beating France in blitz to get a spot in the semis. China, Spain and Uzbekistan, on their part, knocked out Poland, Azerbaijan and Ukraine, respectively. | Pictured: Spain's David Anton and Daniil Yuffa | Photo: Mark Livshitz",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/thanksgiving-try-skewer-beginner-breakdown",
          "pubDate" : "Wed, 23 Nov 2022 01:28:35 +0000",
          "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown"
-      },
-      {
-         "description" : "On Tuesday morning, the Knesset (Israel&#x2019;s parliament) hosted FIDE Deputy President and former World Chess Champion Grandmaster&#160;Viswanathan Anand&#160;and FIDE CEO Grandmaster&#160;Emil Sutovsky. The grandmasters played blindfolded, defeating three opponents each.&#160; Their opponents were&#160;Ze&#x2019;ev Elkin, Minister of Jerusalem Affairs and Minister of Housing and Construction,&#160;Aviad Friedman, Director General of the Ministry of Construction and Housing,&#160;Raz Frohlich, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/usa-netherlands-south-africa-and-israel-eliminated-from-fide-world-team-championship-2022/",
-         "pubDate" : "Wed, 23 Nov 2022 00:04:56 +0000",
-         "title" : "USA, Netherlands, South Africa and Israel eliminated from FIDE World Team Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Uzbek grandmaster Nodirbek Abdusattorov, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSDx3f8xsys.jpg?itok=8rJui4X0\" alt=\"\" /></a></div>",
@@ -1354,22 +1378,6 @@ news_feed (
          "title" : "Don't be afraid of stronger opponents!"
       },
       {
-         "description" : "The final episode of our series, in which we discuss something critical - the final round of a tournament. The last round often decides your fate. Will you avoid a rating loss? Can you qualify? Or even fight for a medal? Lilit has played hundreds of tournaments, and can give us some good advice. Furthermore, she shares her thoughts on what is the most likeable, dislikable, and important thing when preparing for a tournament. Thank you everyone for watching, and commenting on our YouTube channel.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lilit-mkrtchian-6",
-         "pubDate" : "Sun, 13 Nov 2022 17:00:00 +0100",
-         "title" : "Lilit Mkrtchian (6) - What to do in the last round of the tournament?"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 99th instalment of his ChessBase show \"Understanding before Moving\", Herman explains why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-99-play-the-sicilian",
-         "pubDate" : "Sun, 13 Nov 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 99: Play the Sicilian!"
-      },
-      {
          "description" : " Keith Vernon Eubanks, 56, of Columbia, SC was born on September 27, 1965 and passed away on September 23, 2022. He was a lifelong resident of South Carolina and was a mainstay in the South Carolinian chess scene. No cause of death is known, but Keith had a long struggle with diabetes. Keith was a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/\">South Carolina's Keith Eubanks (1965-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1682,14 +1690,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Five"
       },
       {
-         "description" : "Nakamura-So and Giri-Sarin are locked at 2:2 going into Day 2 of the Chess.com Global Championship semi-finals. Hikaru and Wesley drew all four games, but not without real chances, especially in the 134-move Game 3. Anish Giri took the lead against Nihal Sarin but the young Indian hit straight back and missed a wonderful chance to take the lead himself.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/global-championship-3-missed-chances",
-         "pubDate" : "Sat, 05 Nov 2022 14:29:49 +0000",
-         "title" : "Global Championship 3: Missed chances"
-      },
-      {
          "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1800,14 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2078",
          "pubDate" : "Thu, 03 Nov 2022 20:31:31 +0000",
          "title" : "2022 Asian Continental Championship: Praggnanadhaa R and Nandhidhaa P V clinch titles"
-      },
-      {
-         "description" : "Yes, that's what the ad said. Pictured below, it appeared inside the November 1997 issue of <I>Chess Life</I> that I discussed a few days ago in <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Center of ad:</B>'Hereford to field eight. &#149; Ewe to tractor seven. &#149; Ram mates ewe.' <P>The two page ad started, <BLOCKQUOTE><FONT COLOR=\"#ff0000\">Introducing Chessmaster 5500,</FONT> the latest in the award-winning software line for the chess-obsessed. Thanks to patented Illustrated Voice Analysis, C",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/ram-mates-ewe.html",
-         "pubDate" : "Thu, 03 Nov 2022 16:08:00 +0000",
-         "title" : "'Ram Mates Ewe'?"
       }
    ]
 }
