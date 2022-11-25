@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I realized that I'd been suggesting that readers practice what they've learned in this series of articles playing against chess apps or software. I thought this to be good advice, since you can always stop a game and try again with no penalty. While there is no substitute for siting down and playing against another <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-six/\">A Foundation for Beginners Seventy Six</a> appeared first on <a rel=\"nofollow\" href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-six/",
+         "pubDate" : "Fri, 25 Nov 2022 19:41:43 +0000",
+         "title" : "A Foundation for Beginners Seventy Six"
+      },
+      {
+         "description" : "FIDE World Team Chess Championship 2022 finished today in Jerusalem, Israel. China won the Championship after beating Uzbekistan in the finals with convincing 2-0 result in matches and no need for tiebreaks GM Jinshi Bai was the Chinese hero of the first final match. He prevailed against GM Shamsiddin Vokhidov and China won with a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/china-wins-fide-world-team-chess-championship-2022/",
+         "pubDate" : "Fri, 25 Nov 2022 19:18:49 +0000",
+         "title" : "China wins FIDE World Team Chess Championship 2022"
+      },
+      {
+         "description" : "This week, Daniel King looks at a problem theme appearing in practical games, incredibly, twice within a week. Living legend Vasyl Ivanchuk and rising star Arjun Erigaisi both played the 'Novotny'! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ivanchuk-brilliant-idea",
+         "pubDate" : "Fri, 25 Nov 2022 19:15:00 +0100",
+         "title" : "Daniel King's Power Play Show: Ivanchuk's brilliant idea"
+      },
+      {
+         "description" : "In the final of the World Team Chess Championship in Jerusalem, the surprise winner was the Chinese team, after winning both matches against Uzbekistan, the champions from the Chennai Chess Olympiad. In the battle for the bronze medals, at the t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
+         "pubDate" : "Fri, 25 Nov 2022 09:23:46 -0800",
+         "title" : "China Wins World Team Chess Championship - Flash Report"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0&#160;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-knockout-stage-live/",
+         "pubDate" : "Fri, 25 Nov 2022 17:18:21 +0000",
+         "title" : "MrDodgy Invitational 3.0 - Knockout stage LIVE"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-b-live/",
+         "pubDate" : "Fri, 25 Nov 2022 17:13:35 +0000",
+         "title" : "MrDodgy Invitational 3.0 Group B - LIVE"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0 is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-a-live/",
+         "pubDate" : "Fri, 25 Nov 2022 17:07:56 +0000",
+         "title" : "MrDodgy Invitational 3.0 Group A - LIVE"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0 is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-headlines-mrdodgy-invitational-3-0/",
+         "pubDate" : "Fri, 25 Nov 2022 17:03:57 +0000",
+         "title" : "Magnus Carlsen headlines MrDodgy Invitational 3.0"
+      },
+      {
+         "description" : "Few tournaments brought as much stake to its host nation as Moscow 1925 did to Russia. The event brought a Russian into world title contention, but, more importantly, it proved vital to Russia's rise as dominant force in chess. Eugene Manlapao takes a look at the tournament and its history. | Photo: Tournament winner Efim Bogoljubov (left) and Akiba Rubinstein during their game | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/moscow-1925-the-rise-of-soviet-chess-november-10-december-8-1925",
+         "pubDate" : "Fri, 25 Nov 2022 18:00:00 +0100",
+         "title" : "Moscow 1925: The Rise of Soviet Chess (November 10-December 8, 1925)"
+      },
+      {
          "description" : "The Asian Junior Chess Championship 2022 took place from 17-25 November in Tagaytay City, Philippines. The event was played in two categories: Open and Women's, 9 rounds, swiss system, with the time control of 90 minutes with an increment of 30 seconds per move from move 1. Indian International master Harshavardhan GB scored 7/9 points []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +88,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2104",
          "pubDate" : "Fri, 25 Nov 2022 13:37:31 +0000",
          "title" : "The FIDE President visits the Middle East"
+      },
+      {
+         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
+         "pubDate" : "Fri, 25 Nov 2022 13:05:00 +0100",
+         "title" : "Chessbase 17: the amazing new Search function"
       },
       {
          "description" : "This week Robert Ris presents a line to fight against the Jobava-London System (1.d4 2.Bf4 & 3.Nc3). The always well-prepared Anish Giri used this line to win a fine game with Black against Praggnanandhaa at the Meltwater Chess Champions Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -90,7 +170,7 @@ news_feed (
          "title" : "World Team Chess: India loses to Uzbekistan in semifinals"
       },
       {
-         "description" : " Norway's world champion made a clean sweep of his seven matches in the $210,000 Meltwater Tour final and will take on five of the world's best teenagers at Tata Steel Wijk aan Zee in January Magnus Carlsen won all his seven matches at last week's $210,000 Meltwater Tour online final in San Francisco, as the world champion continues to dominate internet events. Fast time limits suit his powerful and resourceful all-round game, his alertness to fleeting opportunities, and his ability to grind out endgame wins. If online tournaments were rated like classical chess, his San Francisco performance would rank above or close to the record 2900 level he has twice narrowly missed over-the-board. Disc",
+         "description" : " Norway's world champion made a clean sweep of his seven matches in the $210,000 Meltwater Tour final and will take on five of the world's best teenagers at Tata Steel Wijk aan Zee in January Magnus Carlsen won all his seven matches at last week's $210,000 Meltwater Tour online final in San Francisco, as the world champion continues to dominate internet events. Fast time limits suit his powerful and resourceful all-round game, his alertness to fleeting opportunities and his ability to grind out endgame wins. If online tournaments were rated like classical chess, his San Francisco performance would rank above or close to the record 2900 level he has twice narrowly missed over-the-board. Disco",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/nov/25/chess-magnus-carlsen-wins-online-and-will-face-the-new-generation-at-wijk",
@@ -122,14 +202,6 @@ news_feed (
          "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
       },
       {
-         "description" : "Except for Grandmaster Hans Niemann, who remains abroad for other tournament opportunities, the USA players and the USA team captain returned to their homes for Thanksgiving, a traditional holiday in the USA. On the fourth Thursday of November, celebrants sing the folk song&#xA0;Simple Gifts&#xA0;and the hymn&#xA0;We Gather Together. After a tense semifinal Round 1, which []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/china-and-uzbekistan-advance-to-fide-world-team-championship-finals/",
-         "pubDate" : "Thu, 24 Nov 2022 22:37:31 +0000",
-         "title" : "China and Uzbekistan advance to FIDE World Team Championship Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,52 +210,12 @@ news_feed (
          "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
       },
       {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-participants-lists/",
-         "pubDate" : "Thu, 24 Nov 2022 18:15:49 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - Participants lists"
-      },
-      {
-         "description" : "The final stage of the National Chess Championship of Senegal 2022 took place from 11-13 &#38; 19-20 November in Dakar. The event was played in 9 round-robin rounds, with 10 players who qualified for the finals through the preliminary stages. The 74-year-old Bernard Lesbros won the Championship scoring 7.5/9 points. Lesbros had a slow start []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/74-year-old-bernard-lesbros-wins-the-national-chess-championship-of-senegal/",
-         "pubDate" : "Thu, 24 Nov 2022 17:58:12 +0000",
-         "title" : "74-year-old Bernard Lesbros wins the National Chess Championship of Senegal"
-      },
-      {
-         "description" : "The International Open Chess Championship of Central Serbia took place from 16-23 November in Pirot, Serbia. The event attracted 74 players from 15 countries, and was played in 9 rounds, swiss system, with time control of 90 minutes per player each 40 moves and 15 minutes until the end of the game, with an additional []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-dhulipalla-triumphs-at-the-2022-international-open-championship-of-central-serbia/",
-         "pubDate" : "Thu, 24 Nov 2022 17:49:42 +0000",
-         "title" : "IM Dhulipalla triumphs at the 2022 International Open Championship of Central Serbia"
-      },
-      {
-         "description" : "American live streamer, YouTuber, esports commentator and competition&#xA0;Ludwig Anders Ahgren, known simply as Ludwig, announced the&#xA0;Mogul Chessboxing Championship this September. It will be a hybrid event where participants play alternating rounds of chess and boxing until one side wins either by checkmate or knockout.&#xA0;The event will take place on 11th December 2022. The main event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mogul-chessboxing-championship-belenkaya-vs-botez/",
-         "pubDate" : "Thu, 24 Nov 2022 17:36:53 +0000",
-         "title" : "Mogul Chessboxing Championship - Belenkaya vs Botez"
-      },
-      {
          "description" : "It's been over two and a half months since I posted <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), aka the Niemann affair. In that time it's been the focus of two Yahoos posts ('mainstream news stories about chess'):- <UL><LI>2022-09-29: <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A> <LI>2022-10-27: <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>&#149; 'In last month's <I>Cheating Mania</I>, I observed, \"Of the [78] Google News stories, 17 were about cheating.\" The cheating story continued bi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/11/steamin-niemann.html",
          "pubDate" : "Thu, 24 Nov 2022 16:09:00 +0000",
          "title" : "Steamin' Niemann"
-      },
-      {
-         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
-         "pubDate" : "Thu, 24 Nov 2022 15:07:40 +0100",
-         "title" : "Chessbase 17: the amazing new Search function"
       },
       {
          "description" : "The 81st Italian National Chess Championships ended on Wednesday in Cagliari, Sardinia, with a clear victory for GM Luca Moroni. The Women's Championship was won by Olga Zimina while Gabriele Lumachi became Italian Junior Champion. | Photos: Official website",
@@ -1386,14 +1418,6 @@ news_feed (
          "title" : "Magnus Carlsen vs. Wesley So in San Francisco"
       },
       {
-         "description" : "Dai Changren and Tan Zhongyi (pictured) are the new champions of China. The 2022 Chinese Championships took place in Xinghua, Jiangsu province, on November 2-11. Both tournaments, open and women's, were 12-player round robins with classical time controls. | Photos: Chinese Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chinese-championships-2022-final-report",
-         "pubDate" : "Mon, 14 Nov 2022 13:00:00 +0100",
-         "title" : "Dai Changren and Tan Zhongyi win Chinese Championships"
-      },
-      {
          "description" : " The 2022 Vikings Weekender begins this Friday (18th November), and there are still a few places left (13 at the time of posting this). As space at the venue is limited, there is a hard cap of 60 players, across 2 sections. Surprisingly it is the Under 1600 section that has fewer players, with the Open section looking quite strong. The tournament is a 6 round swiss, with 1 round on the Friday, 3 on Saturday and 2 on Sunday. The time limit is 60m+30s and both sections (Open and Under 1600) will be FIDE rated. Full details at <a href=\"http://actchess.org.au\">actchess.org.au</a> (or <a href=\"http://tournament.streetchess.net\">tournament.streetchess.net</a>) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1408,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2085",
          "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
          "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
-      },
-      {
-         "description" : "Anil Kumar and IM V. Saravanan invite you to the Houseboat Chess Tournament in Kerala, which will take place in January for the second time after 2020 in the fairytale backwaters of the Indian province and will be played partly on a houseboat. Registration is still open until 15 November. | Photo: Cottages at 'Waterscapes', an exotic backwater resort at Kumarakom| Photo: Orient Chess Moves",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-on-a-houseboat-in-kerala",
-         "pubDate" : "Mon, 14 Nov 2022 09:44:00 +0100",
-         "title" : "Chess on a houseboat in Kerala"
       },
       {
          "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens/",
          "pubDate" : "Mon, 07 Nov 2022 10:31:06 +0000",
          "title" : "European Youth Chess Championship 2022 opens"
-      },
-      {
-         "description" : "The FIDE World Rapid &#38;amp; Blitz Championships will be held December 26-30, 2022 in Almaty, Kazakhstan. The International Chess Federation confirmed the dates and the host city on Monday in a press release. Traditionally, two of the most excitin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-championships-in-kazakhstan",
-         "pubDate" : "Mon, 07 Nov 2022 01:14:00 -0800",
-         "title" : "Kazakhstan To Host FIDE World Rapid & Blitz Championships Dec. 26-30"
       },
       {
          "description" : "",
