@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week Robert Ris presents a line to fight against the Jobava-London System (1.d4 2.Bf4 & 3.Nc3). The always well-prepared Anish Giri used this line to win a fine game with Black against Praggnanandhaa at the Meltwater Chess Champions Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-how-to-fight-the-jobava-london-1-d4-2-bf4-3-nc3",
+         "pubDate" : "Fri, 25 Nov 2022 13:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: How to fight the Jobava-London (1.d4 2.Bf4 & 3.Nc3)?"
+      },
+      {
+         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
+         "pubDate" : "Fri, 25 Nov 2022 12:55:00 +0100",
+         "title" : "World Team Chess Championship - Live"
+      },
+      {
+         "description" : "16-year-old Javokhir Sindarov scored a crucial win as Olympiad Champions Uzbekistan defeated India in the FIDE World Team Championship semi-finals. They now take on China, who escaped with a draw in the first match against Spain before overpowering them in the second, including a wonderful victory by Bai Jinshi over Alexei Shirov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-teams-uzbekistan-and-china-reach-final",
+         "pubDate" : "Fri, 25 Nov 2022 11:07:55 +0000",
+         "title" : "World Teams: Uzbekistan and China reach final"
+      },
+      {
+         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-team-championship-finals-china-vs-uzbekistan-live/",
+         "pubDate" : "Fri, 25 Nov 2022 10:50:59 +0000",
+         "title" : "FIDE World Team Championship Finals - China vs Uzbekistan LIVE"
+      },
+      {
+         "description" : "Title hope of India in the World Team Championship shattered in the semi final as Olympiad Gold medalist team Uzbekistan won the second duel in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-uzbekistan-beat-india-in-semi-final/",
+         "pubDate" : "Fri, 25 Nov 2022 10:30:11 +0000",
+         "title" : "World Team Chess Championship - Uzbekistan beat India in Semi Final"
+      },
+      {
+         "description" : "The 2022 Turkish Championship is taking place from 25 November to 3 December in Kemer, Antalya, Turkey. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-player round-robin tournament with Mustafa Yilmaz, Mert Yilmazyerli, Alparslan Isik, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/turkish-championship-2022-live/",
+         "pubDate" : "Fri, 25 Nov 2022 08:56:29 +0000",
+         "title" : "Turkish Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-in-schools-and-communities-are-recruiting-new-tutors/",
+         "pubDate" : "Fri, 25 Nov 2022 08:48:09 +0000",
+         "title" : "Chess in Schools and Communities are recruiting new tutors"
+      },
+      {
+         "description" : "China and Uzbekistan reached the final of the World Team Chess Championship in Jerusalem. The two countries defeated Spain and India respectively, in the second match on Thursday, after both first matches had ended in a 2-2 tie. The final and the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-semifinals",
+         "pubDate" : "Fri, 25 Nov 2022 00:35:00 -0800",
+         "title" : "China, Uzbekistan To Play World Team Chess Championship Final"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95759722.cms\" />India went down 1-3 to Uzbekistan in the semifinal of the FIDE World Team chess Championship on Friday. The two teams shared honours in the first round at 2-2 scoreline with S L Narayanan's superb win with black pieces over Shamsiddin Vokhidov being offset by SP Sethuraman's loss to Jakhongir Vokhidov.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -90,6 +154,14 @@ news_feed (
          "title" : "Mogul Chessboxing Championship - Belenkaya vs Botez"
       },
       {
+         "description" : "It's been over two and a half months since I posted <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), aka the Niemann affair. In that time it's been the focus of two Yahoos posts ('mainstream news stories about chess'):- <UL><LI>2022-09-29: <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A> <LI>2022-10-27: <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>&#149; 'In last month's <I>Cheating Mania</I>, I observed, \"Of the [78] Google News stories, 17 were about cheating.\" The cheating story continued bi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/steamin-niemann.html",
+         "pubDate" : "Thu, 24 Nov 2022 16:09:00 +0000",
+         "title" : "Steamin' Niemann"
+      },
+      {
          "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +192,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-teams-india-take-down-top-seeds-france",
          "pubDate" : "Thu, 24 Nov 2022 12:51:16 +0000",
          "title" : "World Teams: India take down top seeds France"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-championship-2022-semifinals-live/",
-         "pubDate" : "Thu, 24 Nov 2022 12:25:34 +0000",
-         "title" : "FIDE World Team Championship 2022 - Semifinals LIVE"
       },
       {
          "description" : "Congratulations to Samar Dayal who has won the Gold medal in the Under 8 section of the Commonwealth Chess Championships. His mother writes &#8212; &#8216;Samar...",
@@ -208,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-caruana-erigaisi",
          "pubDate" : "Wed, 23 Nov 2022 14:56:00 -0800",
          "title" : "Caruana Survives Scare Against Erigaisi"
-      },
-      {
-         "description" : "The 2022 NC Open will be held over Thanksgiving Weekend from 25-27 November 2022 in Charlotte, NC, USA. The NCO features a&#xA0;$11,000&#xA0;guaranteed prize fund in 8 US Chess rated sections: Championship (1900+), U1900, U1700, U1500, U1300 and U1100. The event runs alongside the&#xA0;2022 US Masters, a national event featuring the top players in the Americas.&#xA0; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nc-open-chess-championship-2022/",
-         "pubDate" : "Wed, 23 Nov 2022 22:17:13 +0000",
-         "title" : "NC Open Chess Championship 2022"
       },
       {
          "description" : "",
@@ -624,14 +680,6 @@ news_feed (
          "link" : "https://aicf.in/world-team-chess-championship-begins-india-starts-with-two-draws/",
          "pubDate" : "Mon, 21 Nov 2022 06:27:00 +0000",
          "title" : "World Team Chess Championship begins; India starts with two draws"
-      },
-      {
-         "description" : "In the women's section, Women International Master Rakshitta Ravi played Caro Kann's advance variation and obtained a clear advantage right from the opening against Iranian WFM",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-round-2-and-round-3-day-2/",
-         "pubDate" : "Mon, 21 Nov 2022 05:47:05 +0000",
-         "title" : "ASIAN JUNIOR: Round 2 and Round 3 (Day 2)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95651531.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 2.5-0.5 in the seventh and final round to finish fifth in the Meltwater Champions Tour Finals on Monday.",
@@ -1362,28 +1410,12 @@ news_feed (
          "title" : "Chess on a houseboat in Kerala"
       },
       {
-         "description" : "A drama-filled season spanning nearly a full year of competition has led to the ninth and final event of the Meltwater Champions Chess Tour. The tournament is a seven-day long all-play-all round robin in San Francisco starting on November 14 and concluding on November 20. Eight elite chess stars will take part in the third and final major, the Tour Finals 2022, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-preview",
-         "pubDate" : "Mon, 14 Nov 2022 07:30:00 +0100",
-         "title" : "Meltwater Champions Chess Tour reaches its climax in San Francisco"
-      },
-      {
          "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/grischuk-wins-2022-speed-chess-championship-qualifier-2",
          "pubDate" : "Sun, 13 Nov 2022 18:38:00 -0800",
          "title" : "Grischuk Masterclass Seals Qualifying Spot"
-      },
-      {
-         "description" : "Akiba Rubinstein was one of Polands greatest chess players. Svitlana is showing us two of his incredible games. In the first game, Rubinstein achieved a small tempo advantage with the Black pieces, and quickly unleashes a beautiful, tactical combination to crush his opponent. Furthermore, in the second game, his endgame skills shine, and we can learn a lot about pawn endgames in general.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-akiba-rubinstein-quick-win-endgame-expertise",
-         "pubDate" : "Sun, 13 Nov 2022 21:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Akiba Rubinstein - Quick win & Endgame expertise"
       },
       {
          "description" : "The description tells us 'What' and 'Why'. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Wd8Acy60xQQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How chess is made || These workers make money by making chess sets</B> (10:02) &#149; '[Published on] Nov 4, 2022' <P>The description said, <BLOCKQUOTE>In this video make money by making chess sets and how its made chase [sic] set. Best way to earn money. </BLOCKQUOTE> <P>The comments mention India, but the description links to a Facebook page that says 'Karachi, Pakistan'. The whole thing remind",
@@ -1658,14 +1690,6 @@ news_feed (
          "title" : "Almaty, Kazakhstan to host 2022 FIDE Rapid & Blitz Championships in late December"
       },
       {
-         "description" : "GM Wesley So gained a commanding two-point lead in the Chess.com Global Championship final, winning twice with white and drawing both games with black. Despite playing more adventurously than usual, sacrificing in nearly every game, So went undefe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d1",
-         "pubDate" : "Sun, 06 Nov 2022 12:26:00 -0800",
-         "title" : "Adventurous So Goes Undefeated, Leads 3-1"
-      },
-      {
          "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1680,14 +1704,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/chess-in-artists-studio.html",
          "pubDate" : "Sun, 06 Nov 2022 16:05:00 +0000",
          "title" : "Chess in the Artist's Studio"
-      },
-      {
-         "description" : "Hikaru Nakamura had to satisfy himself with winning \"only\" $200,000 in a couple of weeks as Wesley So won the last two games to reach the final of the Chess.com Global Championship. Anish Giri vs. Nihal Sarin went all the way to Armageddon, with 18-year-old Nihal managing to win a drawish endgame on demand to guarantee himself at least $100,000.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/global-championship-4-wesley-so-and-nihal-sarin-reach-final",
-         "pubDate" : "Sun, 06 Nov 2022 14:59:35 +0000",
-         "title" : "Global Championship 4: Wesley So and Nihal Sarin reach final"
       },
       {
          "description" : " Sultan-Diego Abdullah Sulayman, a 2020 finance graduate of Howard University, passed away suddenly on October 30th after being found by his mother at their home. The news came as a shock to the Howard community as he was only 26, weeks away from his 27th birthday. At the time of his death, he was attending The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/\">Howard chess activist, Sultan-Diego Sulayman (1995-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1768,30 +1784,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html",
          "pubDate" : "Fri, 04 Nov 2022 16:18:00 +0000",
          "title" : "Fashionable Fischer"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2022 will be played in 6 age categories: U8, U10, U12, U14, U16, and U18, open and girls sections separately, and opens on Sunday in Antalya, Turkey. The event will be played from 6th to 15th November in 9 rounds, swiss system. More than 1000 players coming from 46 European federations will compete&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens-in-antalya-turkey/",
-         "pubDate" : "Fri, 04 Nov 2022 11:48:53 +0000",
-         "title" : "European Youth Chess Championship 2022 opens in Antalya, Turkey"
-      },
-      {
-         "description" : " <p class=\"lead\">Armageddon, the most dramatic chess series, starts on October 22 on the FIDE Online Arena. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1200-h-1219.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>Format & Details</h2> 🔸 The Armageddon Championship Series is divided to two parts, the online regional cups and the over-the-board events in Berlin.<br /> 🔸 The Online Cups are divided into three regions: Europe & Africa, Americas, Asia & Oceania.<br /> 🔸 Six players, the two winners of each Online Region Cup, will meet the world's top grandmasters face to face in Berlin.<br /> 🔸 There are 5 OTB events: three regional series, Women's ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-armageddon-2022-all-the-information/",
-         "pubDate" : "Fri, 04 Nov 2022 09:32:00 +0000",
-         "title" : "Armageddon Championship Series: Everything you need to know"
-      },
-      {
-         "description" : " <p class=\"lead\">The first regional tournaments in the Armageddon Online Cups are over. The top 10 from each region shared a prize fund of €1,000. The first twenty places have already secured places in the regional online finals with a total prize pool of €10,000 each. By now we can probably see the names of those who will win the online finals and make it to the over the board event in Berlin next year. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #1:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-first-tournaments-1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-first-tournaments/",
-         "pubDate" : "Fri, 04 Nov 2022 09:30:19 +0000",
-         "title" : "Armageddon Online Cups: Results for the first tournaments"
       }
    ]
 }
