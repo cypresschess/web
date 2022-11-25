@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95759722.cms\" />India went down 1-3 to Uzbekistan in the semifinal of the FIDE World Team chess Championship on Friday. The two teams shared honours in the first round at 2-2 scoreline with S L Narayanan's superb win with black pieces over Shamsiddin Vokhidov being offset by SP Sethuraman's loss to Jakhongir Vokhidov.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-team-chess-championship-india-loses-to-uzbekistan-in-semifinals/articleshow/95759722.cms",
+         "pubDate" : "Fri, 25 Nov 2022 07:50:15 +0000",
+         "title" : "World Team Chess: India loses to Uzbekistan in semifinals"
+      },
+      {
+         "description" : " Norway's world champion made a clean sweep of his seven matches in the $210,000 Meltwater Tour final and will take on five of the world's best teenagers at Tata Steel Wijk aan Zee in January Magnus Carlsen won all his seven matches at last week's $210,000 Meltwater Tour online final in San Francisco, as the world champion continues to dominate internet events. Fast time limits suit his powerful and resourceful all-round game, his alertness to fleeting opportunities, and his ability to grind out endgame wins. If online tournaments were rated like classical chess, his San Francisco performance would rank above or close to the record 2900 level he has twice narrowly missed over-the-board. Disc",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/nov/25/chess-magnus-carlsen-wins-online-and-will-face-the-new-generation-at-wijk",
+         "pubDate" : "Fri, 25 Nov 2022 07:30:00 +0000",
+         "title" : "Chess: Magnus Carlsen wins online and will face the new generation at Wijk"
+      },
+      {
+         "description" : "At the semifinals of the World Team Championship in Jerusalem, China and Uzbekistan defeated Spain and India respectively. In both cases, a draw in the first set was followed by a deciding victory in the second. The final and the match for third place will be played on Friday. | Pictured: Uzbekistan's Javokhir Sindarov | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d5",
+         "pubDate" : "Fri, 25 Nov 2022 05:40:00 +0100",
+         "title" : "World Teams: Tense matches, China and Uzbekistan reach the final"
+      },
+      {
          "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/luca-moroni-and-olga-zimina-win-italian-championships",
          "pubDate" : "Thu, 24 Nov 2022 15:00:00 +0100",
          "title" : "Luca Moroni and Olga Zimina win Italian Championships"
-      },
-      {
-         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
-         "pubDate" : "Thu, 24 Nov 2022 13:55:00 +0100",
-         "title" : "World Team Chess Championship - Live"
       },
       {
          "description" : "The Italian Chess Championship Finals 2022 took place from 12-23 November in Cagliari (Sicily). The Open event was played as a 12-player round-robin tournament, and Women's Championship was played in 7 round-robin rounds with 8 participants. 22-year-old GM Luca Moroni convincingly won the Open tournament scoring 8.5/11 points. He clinched his second National Champion title []",
@@ -1776,30 +1792,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-first-tournaments/",
          "pubDate" : "Fri, 04 Nov 2022 09:30:19 +0000",
          "title" : "Armageddon Online Cups: Results for the first tournaments"
-      },
-      {
-         "description" : " Nakamura beat Ian Nepomniachtchi to win Fischer Random world championship, 50 years after Bobby Fischer beat Boris Spassky Hikaru Nakamura won the Fischer Random world championship in Reykjavik, in an event which marked 50 years since Bobby Fischer defeated Boris Spassky in Iceland in the most famous match in chess history. Fischer Random is a chess variant where the back rank pieces are placed randomly, and is an effective way of escaping book openings. Nakamura, 34, a five-time US champion who has become a streamer with more than a million followers, lost only one game throughout, though he needed an Armageddon at the end to clinch the final against Russia's Ian Nepomniachtchi, who played",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/nov/04/chess-hikaru-nakamura-reykjavik-fischer-random",
-         "pubDate" : "Fri, 04 Nov 2022 08:00:38 +0000",
-         "title" : "Chess: Hikaru Nakamura follows Fischer's footsteps to win in Reykjavik"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95291715.cms\" />Despite losing the second round to a lower seed in the classical format and her opening game of the blitz event, Divya on Thursday brought home two Asian medals from the selection tournament for the Fide Knockout World Cup in New Delhi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/asian-continental-chess-championship-divya-deshmukh-does-a-double-wins-blitz-gold-and-classical-bronze/articleshow/95291715.cms",
-         "pubDate" : "Fri, 04 Nov 2022 04:52:12 +0000",
-         "title" : "Asian Continental Chess: Divya does a double with blitz gold, classical bronze"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95291324.cms\" />The 11th seed finished behind champion PV Nandhidhaa in the Asian Continental chess meet. Only two players from the women's meet booked their seats for the World Cup scheduled next year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/priyanka-nutakki-qualifies-for-fide-world-cup/articleshow/95291324.cms",
-         "pubDate" : "Fri, 04 Nov 2022 04:33:33 +0000",
-         "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
       }
    ]
 }
