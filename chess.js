@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#xA0;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
+         "pubDate" : "Thu, 24 Nov 2022 23:20:53 +0000",
+         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
+      },
+      {
+         "description" : "The fourth edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#xA0;The very strong line-up features world-class grandmasters and Indian chess stars.&#xA0;Wesley So&#xA0;headlines the Open tournament, together with&#xA0;Hikaru Nakamura,&#xA0;Shakhriyar Mamedyarov,&#xA0;Nodirbek Abdusattorov, and&#xA0;Parham Maghsoodloo.&#xA0;Vidit Santosh Gujrathi,&#xA0;Arjun Erigaisi,&#xA0;D Gukesh, and&#xA0;Nihal Sarin&#xA0;complete the field together []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
+         "pubDate" : "Thu, 24 Nov 2022 23:15:05 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
+      },
+      {
+         "description" : "Except for Grandmaster Hans Niemann, who remains abroad for other tournament opportunities, the USA players and the USA team captain returned to their homes for Thanksgiving, a traditional holiday in the USA. On the fourth Thursday of November, celebrants sing the folk song&#xA0;Simple Gifts&#xA0;and the hymn&#xA0;We Gather Together. After a tense semifinal Round 1, which []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/china-and-uzbekistan-advance-to-fide-world-team-championship-finals/",
+         "pubDate" : "Thu, 24 Nov 2022 22:37:31 +0000",
+         "title" : "China and Uzbekistan advance to FIDE World Team Championship Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2103",
+         "pubDate" : "Thu, 24 Nov 2022 21:10:39 +0000",
+         "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
+      },
+      {
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-participants-lists/",
@@ -170,36 +202,12 @@ news_feed (
          "title" : "NC Open Chess Championship 2022"
       },
       {
-         "description" : "The 2022 US Masters takes place over Thanksgiving Weekend from November 23-27, 2022 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The&#xA0;US Masters Chess Championship&#xA0;is an official US Chess National Championship event which features a&#xA0;20.000$&#xA0;guaranteed prize fund. Time control is 90 minutes for the entire game, plus a 30-second increment starting from move one. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-masters-chess-championship-2022-live/",
-         "pubDate" : "Wed, 23 Nov 2022 22:02:18 +0000",
-         "title" : "US Masters Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 US Masters will be held over Thanksgiving Weekend from November 23-27, 2022 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The US Masters Chess Championship is an official US Chess National Championship event which features a 20.000$ guaranteed prize fund. Time control is 90 minutes for the entire game, plus a 30-second increment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-masters-chess-championship-2022/",
-         "pubDate" : "Wed, 23 Nov 2022 21:57:00 +0000",
-         "title" : "US Masters Chess Championship 2022"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2101",
          "pubDate" : "Wed, 23 Nov 2022 21:47:46 +0000",
          "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
-      },
-      {
-         "description" : "When chess players, officials, and fans arrived at the Western Wall Plaza on Wednesday morning, they saw over one hundred Ethiopian Jews celebrating Sigd. Tour guide Shuki Cohen told the chess group, &#x201C;The Ethiopian Jews are here in big numbers today, as Sigd is a once-a-year holiday.&#x201D; Likewise, the FIDE World Team Championship is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/china-india-spain-and-uzbekistan-are-semi-finalists-of-the-fide-world-team-championship/",
-         "pubDate" : "Wed, 23 Nov 2022 21:44:27 +0000",
-         "title" : "China, India, Spain, and Uzbekistan are semi-finalists of the FIDE World Team Championship"
       },
       {
          "description" : "The highlight of the Meltwater competition was of course the presence of Magnus Carlsen, and he did not disappoint as he showed off his endgame skills in game after game. They may not have all ended in resounding victories but every one of them was a lesson.",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/priyanka-nutakki-qualifies-for-fide-world-cup/articleshow/95291324.cms",
          "pubDate" : "Fri, 04 Nov 2022 04:33:33 +0000",
          "title" : "Priyanka Nutakki qualifies for FIDE World Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2078",
-         "pubDate" : "Thu, 03 Nov 2022 20:31:31 +0000",
-         "title" : "2022 Asian Continental Championship: Praggnanadhaa R and Nandhidhaa P V clinch titles"
       }
    ]
 }
