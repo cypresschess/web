@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Asian Junior Chess Championship 2022 took place from 17-25 November in Tagaytay City, Philippines. The event was played in two categories: Open and Women's, 9 rounds, swiss system, with the time control of 90 minutes with an increment of 30 seconds per move from move 1. Indian International master Harshavardhan GB scored 7/9 points []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-junior-chess-champions-2022-crowned-in-tagaytay-philippines/",
+         "pubDate" : "Fri, 25 Nov 2022 15:44:26 +0000",
+         "title" : "Asian Junior Chess Champions 2022 crowned in Tagaytay, Philippines"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2104",
+         "pubDate" : "Fri, 25 Nov 2022 13:37:31 +0000",
+         "title" : "The FIDE President visits the Middle East"
+      },
+      {
          "description" : "This week Robert Ris presents a line to fight against the Jobava-London System (1.d4 2.Bf4 & 3.Nc3). The always well-prepared Anish Giri used this line to win a fine game with Black against Praggnanandhaa at the Meltwater Chess Champions Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Chess in Schools and Communities are recruiting new tutors"
       },
       {
-         "description" : "China and Uzbekistan reached the final of the World Team Chess Championship in Jerusalem. The two countries defeated Spain and India respectively, in the second match on Thursday, after both first matches had ended in a 2-2 tie. The final and the ...",
+         "description" : "China and Uzbekistan reached the final of the World Team Chess Championship in Jerusalem. The two countries defeated Spain and India, respectively, in the second match on Thursday, after both first matches had ended in a 2-2 tie. The final and the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-semifinals",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/luca-moroni-and-olga-zimina-win-italian-championships",
          "pubDate" : "Thu, 24 Nov 2022 15:00:00 +0100",
          "title" : "Luca Moroni and Olga Zimina win Italian Championships"
-      },
-      {
-         "description" : "The Italian Chess Championship Finals 2022 took place from 12-23 November in Cagliari (Sicily). The Open event was played as a 12-player round-robin tournament, and Women's Championship was played in 7 round-robin rounds with 8 participants. 22-year-old GM Luca Moroni convincingly won the Open tournament scoring 8.5/11 points. He clinched his second National Champion title []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/luca-moroni-and-olga-zimina-win-the-italian-chess-championship-2022/",
-         "pubDate" : "Thu, 24 Nov 2022 12:54:33 +0000",
-         "title" : "Luca Moroni and Olga Zimina win the Italian Chess Championship 2022"
       },
       {
          "description" : "It's India-Uzbekistan and China-Spain in the FIDE World Team Championship semi-finals after India survived a comeback to beat top seeds France in a blitz playoff, with Vishy Anand calling Indian hero Nihal Sarin \"a blitz genius\". The other shock was Spain taking down Azerbaijan, with David Anton defeating Teimour Radjabov in the crucial game.",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2079",
          "pubDate" : "Fri, 04 Nov 2022 20:38:52 +0000",
          "title" : "FIDE Women's Candidates: No risks taken"
-      },
-      {
-         "description" : "Last week's post in the 'Fischer Friday' series, <A HREF=\"http://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html\">'To Sam, With Thanks'</A>(October 2022), featured an eBay item, <BLOCKQUOTE>Signed by Bobby Fischer to his friend Saemi Rock, a.k.a. Saemundur Palsson, friend and bodyguard in 1972. </BLOCKQUOTE> <P>Palsson is seen frequently in 'Bobby Fischer vs. the Rest of the World' by Brad Darrach. The previous post where I quoted the author was <A HREF=\"http://chessforallages.blogspot.com/2022/10/october-1972-1997-on-cover.html\">October 1972 & 1997 'On the Cover'</A>(October 2022), about a day where Darrach and his LIFE colleague, photographer Harry Benson, spent with the soon-",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html",
-         "pubDate" : "Fri, 04 Nov 2022 16:18:00 +0000",
-         "title" : "Fashionable Fischer"
       }
    ]
 }
