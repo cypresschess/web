@@ -82,7 +82,7 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Ivanchuk's brilliant idea"
       },
       {
-         "description" : "In the final of the World Team Chess Championship in Jerusalem, the surprise winner was the Chinese team, after winning both matches against Uzbekistan, the champions from the Chennai Chess Olympiad. In the battle for the bronze medals, at the t...",
+         "description" : "In the final of the World Team Chess Championship in Jerusalem, the surprise winner was the Chinese team, after winning both matches against Uzbekistan, the champions from the Chennai Chess Olympiad. In the battle for the bronze medals, Spain an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
