@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pattern recognition is a major feat of the human brain, albeit one that can lead to wrong outputs. Examples include seeing faces where there are none, known as pareidolia. Once it was believed that the planet Mars has a face structure on it, speculations about former inhabitants of the planet ran wild, later it turned out that this isn't the case and could be attributed to the low resolution of the photo. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-patterns-and-pictograms",
+         "pubDate" : "Sat, 26 Nov 2022 20:00:00 +0100",
+         "title" : "Study of the Month - Patterns and pictograms"
+      },
+      {
+         "description" : "By beating Uzbekistan in the final match, China won the World Team Championship in Jerusalem. The Chinese squad won both sets by a 2&frac12;-1&frac12; score to claim the title. Meanwhile, in the match for third place, Spain got the better of India in tiebreaks, with wins for Jaime Santos and David Anton in the blitz decider. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d6",
+         "pubDate" : "Sat, 26 Nov 2022 18:05:00 +0100",
+         "title" : "China beats Uzbekistan, wins World Team Championship"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0 kicked off yesterday on chess24 and takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B takes place on November 26. The top 8 players in each group will advance to the knockout stage of the event which will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-mrdodgy-invitational-group-a-stage/",
+         "pubDate" : "Sat, 26 Nov 2022 16:54:30 +0000",
+         "title" : "Magnus Carlsen wins MrDodgy Invitational Group A stage"
+      },
+      {
+         "description" : "China defeated Uzbekistan in both mini-matches to add to the gold medals they won in the 2015 and 2017 FIDE World Team Championships. They finished unbeaten, which was a remarkable performance for the 3rd or 4th best team China could have fielded. Spain took their first ever World Team medals as they inflicted more heartbreak on India to snatch bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/china-clinch-3rd-world-team-championship-title",
+         "pubDate" : "Sat, 26 Nov 2022 15:15:00 +0000",
+         "title" : "China clinch 3rd World Team Championship title"
+      },
+      {
          "description" : "India lost to Spain for the Small Finals (the match for the third place) The first match ended in a 2:2 draw with Nihal Sarin",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "Keep calm!"
       },
       {
+         "description" : "The prestigious MrDodgy Invitational 3.0&#160;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-b-live/",
+         "pubDate" : "Sat, 26 Nov 2022 05:13:00 +0000",
+         "title" : "MrDodgy Invitational 3.0 Group B - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-knockout-stage-live/",
          "pubDate" : "Fri, 25 Nov 2022 17:18:21 +0000",
          "title" : "MrDodgy Invitational 3.0 - Knockout stage LIVE"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-b-live/",
-         "pubDate" : "Fri, 25 Nov 2022 17:13:35 +0000",
-         "title" : "MrDodgy Invitational 3.0 Group B - LIVE"
       },
       {
          "description" : "The prestigious MrDodgy Invitational 3.0 is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout []",
@@ -248,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-team-ch-2022-d5",
          "pubDate" : "Fri, 25 Nov 2022 05:40:00 +0100",
          "title" : "World Teams: Tense matches, China and Uzbekistan reach the final"
-      },
-      {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
-         "pubDate" : "Thu, 24 Nov 2022 23:20:53 +0000",
-         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "",
@@ -1282,14 +1306,6 @@ news_feed (
          "title" : "Champions Chess Tour Finals: Carlsen, Duda Lead The Pack"
       },
       {
-         "description" : "Two players have 6/6 match points at the Meltwater Champions Chess Tour Finals 2022. Magnus Carlsen and Jan-Krzysztof Duda both won their first two matches without needing tiebreaks and are now sharing the lead. Anish Giri and Le Quang Liem stand two points back. Duda and Giri will face each other in Wednesday's third round.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r2",
-         "pubDate" : "Wed, 16 Nov 2022 09:10:00 +0100",
-         "title" : "Meltwater Finals: Duda and Carlsen share the lead"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95547768.cms\" />Young Indian Grandmaster R Praggnanandhaa went down to Dutch GM Anish Giri 2.5-3.5 in the second round of the Meltwater Champions Tour Finals here on Wednesday. The other Indian in the fray -- Arjun Erigaisi was outclassed by world no.1 Magnus Carlsen 2.5-0.5.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/zoe-veselow-silver-medal-in-the-euro-youth-u8-girls/",
          "pubDate" : "Tue, 15 Nov 2022 13:14:22 +0000",
          "title" : "Zoe Veselow - silver medal in the Euro Youth U8 Girls!"
-      },
-      {
-         "description" : "The 16-year-old Eline Roebers from the Netherlands is an outstanding talent. She has already attracted attention with several successes and now fulfilled all the requirements to get the IM-title. On her way to the necessary norms, Roebers even skipped several other FIDE titles. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eline-roebers-16-years-old-international-master",
-         "pubDate" : "Tue, 15 Nov 2022 12:33:58 +0100",
-         "title" : "Eline Roebers: 16 years old, International Master"
       },
       {
          "description" : "",
@@ -1706,14 +1714,6 @@ news_feed (
          "title" : "I think I have turned 40 (as a chessplayer)"
       },
       {
-         "description" : "Wesley So took a 3:1 lead over Nihal Sarin on Day 1 of the Chess.com Global Championship final, meaning he needs just 1.5 points to wrap up victory on Monday. The match hinged on Game 3, where Nihal had a great chance to level the scores but lost his way and stumbled into checkmate.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/global-championship-5-wesley-so-on-brink-of-victory",
-         "pubDate" : "Mon, 07 Nov 2022 11:12:02 +0000",
-         "title" : "Global Championship 5: Wesley So on brink of victory"
-      },
-      {
          "description" : " The UK chess community is mourning the loss of IM Mike Basman, whose death at the age of 76 was reported last week. Mike was one of the great characters of chess, a true eccentric with a truly eccentric style of play, famous for his use of rather dubious openings with early moves of his <a href=\"https://chessimprover.com/mike-basman/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basman/\">Mike Basman</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1760,22 +1760,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/",
          "pubDate" : "Sun, 06 Nov 2022 13:53:19 +0000",
          "title" : "Howard chess activist, Sultan-Diego Sulayman (1995-2022)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2081",
-         "pubDate" : "Sat, 05 Nov 2022 20:20:14 +0000",
-         "title" : "Lei Tingjie wins her spot in the Women's Candidates finals"
-      },
-      {
-         "description" : " Much of the last week, I was asked a specific question, how much theory should I study and how often should I put that theory into play (practice)? I was going to finish the game we've been analyzing this week but realized that this question might be on the minds of those reading this series <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-five/\">A Foundation for Beginners Seventy Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-five/",
-         "pubDate" : "Sat, 05 Nov 2022 18:57:36 +0000",
-         "title" : "A Foundation for Beginners Seventy Five"
       }
    ]
 }
