@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 FIDE World Team Chess Championship took place from 17-26 November in Jerusalem, Israel. China clinched gold medal after defeating Uzbekistan in the finals. The finals were played over the two matches and China scored narrow 2.5-1.5 victories in both to win the event without the need for tiebreaks. 2022 Olympiad Champions Uzbekistan won silver medal. Spain&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/",
+         "pubDate" : "Sat, 26 Nov 2022 08:06:46 +0000",
+         "title" : "China clinches FIDE World Team Chess Championship 2022"
+      },
+      {
+         "description" : "In the diagram position, White just played Rd1 to d4, threatening to take the black pawn on b4 and - more dangerous - to play Rh4 with a mating attack. But it's Black to move and win - if he keeps calm and calculates the lines! How should Black proceed?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/keeping-calm",
+         "pubDate" : "Sat, 26 Nov 2022 09:00:00 +0100",
+         "title" : "Keep calm!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
-         "pubDate" : "Fri, 25 Nov 2022 09:23:46 -0800",
+         "pubDate" : "Fri, 25 Nov 2022 09:23:00 -0800",
          "title" : "China Wins World Team Chess Championship"
       },
       {
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-umbrella",
          "pubDate" : "Tue, 15 Nov 2022 09:00:00 +0100",
          "title" : "The umbrella"
-      },
-      {
-         "description" : "The Meltwater Tour Finals kicked off on Monday, with four out of eight participants playing on-site in San Francisco. The all-important clash between Magnus Carlsen and Wesley So saw the former getting a 2&frac12;-1&frac12; victory in a match not exempt of blunders. Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri also won in the event's first round.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r1",
-         "pubDate" : "Tue, 15 Nov 2022 08:55:00 +0100",
-         "title" : "Meltwater Finals: Carlsen beats So in hard-fought match"
       },
       {
          "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
