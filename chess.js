@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
          "pubDate" : "Fri, 25 Nov 2022 09:23:46 -0800",
-         "title" : "China Wins World Team Chess Championship - Flash Report"
+         "title" : "China Wins World Team Chess Championship"
       },
       {
          "description" : "The prestigious MrDodgy Invitational 3.0&#160;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
