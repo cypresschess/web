@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India lost to Spain for the Small Finals (the match for the third place) The first match ended in a 2:2 draw with Nihal Sarin",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-team-chess-championship-2022final-day-report/",
+         "pubDate" : "Sat, 26 Nov 2022 11:26:40 +0000",
+         "title" : "World Team Chess Championship 2022:Final Day Report"
+      },
+      {
+         "description" : "U20 Swedish Team Championship Division 1 is takins place from 25-27 November 2022. It is 5-round round-robin with Spelare &#xD6;rgryte SK ( Gustav Torngren, William Olsson, Sol Andersson and Sairahul Konduru) , Spelare Kristallens SK ( Erik Dingertz, Sebastian Ivarsson, Harald Ljung and Gabriel Nord) , Spelare SK Rockaden, Sthlm ( Edvin Trost, Hampus Sorensen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-swedish-team-championship-division-1-2022-live/",
+         "pubDate" : "Sat, 26 Nov 2022 10:42:56 +0000",
+         "title" : "U20 Swedish Team Championship Division 1 2022 - LIVE"
+      },
+      {
+         "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/royal-game/",
+         "pubDate" : "Sat, 26 Nov 2022 10:19:36 +0000",
+         "title" : "Royal Game"
+      },
+      {
+         "description" : "Garry Kasparov was the eight of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frederic-s-mates-garry-kasparov-2",
+         "pubDate" : "Sat, 26 Nov 2022 11:00:00 +0100",
+         "title" : "Frederic's mates - Garry Kasparov PART II"
+      },
+      {
          "description" : "The 2022 FIDE World Team Chess Championship took place from 17-26 November in Jerusalem, Israel. China clinched gold medal after defeating Uzbekistan in the finals. The finals were played over the two matches and China scored narrow 2.5-1.5 victories in both to win the event without the need for tiebreaks. 2022 Olympiad Champions Uzbekistan won silver medal. Spain&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "China clinches FIDE World Team Chess Championship 2022"
       },
       {
-         "description" : "In the diagram position, White just played Rd1 to d4, threatening to take the black pawn on b4 and - more dangerous - to play Rh4 with a mating attack. But it's Black to move and win - if he keeps calm and calculates the lines! How should Black proceed?",
+         "description" : "In the diagram position, White just played Rd1 to d4, threatening to take the black knight on b4 and to play Rh4 with a mating attack. But it's Black to move and win - if he keeps calm and calculates the lines! How should Black proceed?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/keeping-calm",
@@ -96,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/moscow-1925-the-rise-of-soviet-chess-november-10-december-8-1925",
          "pubDate" : "Fri, 25 Nov 2022 18:00:00 +0100",
          "title" : "Moscow 1925: The Rise of Soviet Chess (November 10-December 8, 1925)"
+      },
+      {
+         "description" : "Earlier this month on my 'World Chess Championship Blog', I posted <A HREF=\"http://worldchesschampionship.blogspot.com/2022/11/smartchess-interviews-karpov.html\">Smartchess Interviews Karpov</A>(November 2022). I noted, <BLOCKQUOTE>A footnote to the interview mentioned that it first appeared on Smartchess Online in September 1997. I tried to find the original interview via the Wayback Machine, but failed. Smartchess.com appears to have been built using techniques that are incompatible with Wayback assumptions. </BLOCKQUOTE> <P>It turned out that the Wayback obstacle is easily overcome. Don't try to open its links in new tabs, then everything works. Starting with the web.archive.org link give",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html",
+         "pubDate" : "Fri, 25 Nov 2022 16:04:00 +0000",
+         "title" : "Wayback to Smartchess"
       },
       {
          "description" : "The Asian Junior Chess Championship 2022 took place from 17-25 November in Tagaytay City, Philippines. The event was played in two categories: Open and Women's, 9 rounds, swiss system, with the time control of 90 minutes with an increment of 30 seconds per move from move 1. Indian International master Harshavardhan GB scored 7/9 points []",
@@ -216,14 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
          "pubDate" : "Thu, 24 Nov 2022 23:20:53 +0000",
          "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
-      },
-      {
-         "description" : "The fourth edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#xA0;The very strong line-up features world-class grandmasters and Indian chess stars.&#xA0;Wesley So&#xA0;headlines the Open tournament, together with&#xA0;Hikaru Nakamura,&#xA0;Shakhriyar Mamedyarov,&#xA0;Nodirbek Abdusattorov, and&#xA0;Parham Maghsoodloo.&#xA0;Vidit Santosh Gujrathi,&#xA0;Arjun Erigaisi,&#xA0;D Gukesh, and&#xA0;Nihal Sarin&#xA0;complete the field together []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
-         "pubDate" : "Thu, 24 Nov 2022 23:15:05 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "",
@@ -736,14 +768,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-second-tournaments/",
          "pubDate" : "Mon, 21 Nov 2022 07:41:16 +0000",
          "title" : "Armageddon Online Cups: Results for the second tournaments"
-      },
-      {
-         "description" : "World Team Chess Championship got of to a rousing start at Dan Hotel, Jerusalem on Sunday. As per the regulations, 12 teams are divided to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-begins-india-starts-with-two-draws/",
-         "pubDate" : "Mon, 21 Nov 2022 06:27:00 +0000",
-         "title" : "World Team Chess Championship begins; India starts with two draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95651531.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 2.5-0.5 in the seventh and final round to finish fifth in the Meltwater Champions Tour Finals on Monday.",
@@ -1386,14 +1410,6 @@ news_feed (
          "title" : "Carlsen Beats So As Champions Chess Tour Finals Begin In San Francisco"
       },
       {
-         "description" : "One important defensive method in rook endings is giving checks - pawns that stop this \"rain of checks\" are called \"umbrellas\". In the diagrammed position it is White to move. How can he draw the game and stop Black from opening a functioning umbrella?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-umbrella",
-         "pubDate" : "Tue, 15 Nov 2022 09:00:00 +0100",
-         "title" : "The umbrella"
-      },
-      {
          "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1760,46 +1776,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-five/",
          "pubDate" : "Sat, 05 Nov 2022 18:57:36 +0000",
          "title" : "A Foundation for Beginners Seventy Five"
-      },
-      {
-         "description" : " I saw two separate chess events in the last 2 days which show that if you hold chess events, you will find chess players. The first was in Port Moresby, where GM Nigel Short is visiting as part of his new role as FIDE Director of Chess Development. Although the main purpose of his visit (which includes another 6 countries), is to talk to Federations, there is also a PR component to the trip. He played a 20 board simul at the Vision City Mall, attracting a crowd in the hundreds to watch. With PNG chess affected by Covid for the past 2 and a half years, getting such a crowd to spectate was a fantastic result. The second was at Street Chess today. Whether it was the weather (in that it wasn't ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/opening-doors.html",
-         "pubDate" : "Sat, 05 Nov 2022 11:48:00 +0000",
-         "title" : "Opening the doors"
-      },
-      {
-         "description" : "Imagine two young men. The American teenage chess grandmaster, Hans Niemann, and the Norwegian world chess champion, Magnus Carlsen, are sitting on a sunny Miami beach together, hunched over a chessboard and obviously enjoying themselves as they play a series of quick games. This is chess for fun. Within a few days, the two meet again on September 4th in a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/cheating-at-chess-the-story-so-far/",
-         "pubDate" : "Sat, 05 Nov 2022 11:23:51 +0000",
-         "title" : " Cheating at chess: the story so far"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2080",
-         "pubDate" : "Sat, 05 Nov 2022 10:55:18 +0000",
-         "title" : "Winners crowned at 2022 European Senior Team Championships"
-      },
-      {
-         "description" : "The 2022 European Senior Chess Championships (50+ &#38; 65+ age categories) concluded yesterday in Dresden, Germany. England 50-1 won the 50+ event with a round to spare and after nine played rounds scored convincing 17 match points. Berlin 1 and Germany tied for the second place scoring 14 match points, each. According to tiebreaks criteria (Olympiad-Sonneborn-Berger), Berlin 1&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championships-2022-concluded-in-dresden/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championships-2022-concluded-in-dresden/",
-         "pubDate" : "Sat, 05 Nov 2022 09:58:07 +0000",
-         "title" : "European Senior Team Chess Championships 2022 concluded in Dresden"
-      },
-      {
-         "description" : "November 4th Round 9 England 50+ 1st team are European Senior Team Chess Champions! The England 50+ 1st team celebrated their status as the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-senior-teams-championships-final-round-and-winners-photographs/",
-         "pubDate" : "Sat, 05 Nov 2022 09:42:25 +0000",
-         "title" : "European Senior Teams Championships - final round and winners photographs"
       }
    ]
 }
