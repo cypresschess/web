@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2106",
+         "pubDate" : "Sat, 26 Nov 2022 22:43:08 +0000",
+         "title" : "Winners crowned at 30th World Senior Championship 2022"
+      },
+      {
          "description" : "Pattern recognition is a major feat of the human brain, albeit one that can lead to wrong outputs. Examples include seeing faces where there are none, known as pareidolia. Once it was believed that the planet Mars has a face structure on it, speculations about former inhabitants of the planet ran wild, later it turned out that this isn't the case and could be attributed to the low resolution of the photo. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
