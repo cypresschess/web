@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "97th Argentine Championship is taking place from 1-10 December 2022 in Rio Negro, Argentina. It is a 10-player Round-robin tournament. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Starting list of players : No. Name FED Rtg 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/97th-argentine-championship-2022-participants/",
+         "pubDate" : "Sun, 27 Nov 2022 18:20:17 +0000",
+         "title" : "97th Argentine Championship 2022 - Participants"
+      },
+      {
+         "description" : "Magnus Carlsen only appeared in the line-up for the 1st 16-player qualifier of the prestigious Mr Dodgy Invitational 3 when David Howell dropped out with an hour to spare. Magnus went on to dominate, though he did lose to Kamil Plichta, Gawain Jones and Alan Pichot. Magnus now plays Salem Saleh in the knockout stages.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/plichta-beats-magnus-as-mr-dodgy-invitational-begins",
+         "pubDate" : "Sun, 27 Nov 2022 16:48:52 +0000",
+         "title" : "Plichta beats Magnus as Mr Dodgy Invitational begins"
+      },
+      {
          "description" : "Top International Grandmasters, top Indian men and women Grandmasters, young Indian talents and Viswanathan Anand - as the ambassador and advisor of the tournament - will enrich the fourth edition of the Tata Steel Chess Tournament. For the first time, a women's tournament will be played with the same format and the same prize fund. The tournament will take place from November 29 to December 4 in Kolkata.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,12 @@ news_feed (
          "title" : "Serbian Chess Championship 2022"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 100th (!) instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 101st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-100-play-the-sicilian-3",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-101-play-the-sicilian-3",
          "pubDate" : "Sun, 27 Nov 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 100: Play the Sicilian! (3)"
+         "title" : "Understanding before Moving 101: Play the Sicilian! (3)"
       },
       {
          "description" : "Pool B of the FIDE Women's Candidates Tournament will be held from November 28 to December 11 in the ancient city of&#xA0;Khiva, in Uzbekistan. This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina, Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
          "pubDate" : "Sun, 27 Nov 2022 07:50:10 +0000",
          "title" : "John Nunn takes Gold!"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#160;takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B took on November 26. The top 8 players of each group advance to the knockout stage of the event which will be played from 27 November &#x2013; 1 December.&#160; Azerbaijani []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mahammad-muradli-convincingly-wins-mrdodgy-invitational-3-0-group-b-stage/",
-         "pubDate" : "Sun, 27 Nov 2022 00:19:00 +0000",
-         "title" : "Mahammad Muradli convincingly wins MrDodgy Invitational 3.0 Group B stage"
       },
       {
          "description" : "",
@@ -1706,14 +1714,6 @@ news_feed (
          "title" : "Election Special 2022"
       },
       {
-         "description" : "Wesley So needed just two games on Monday to clinch a 4.5:1.5 victory and take the Chess.com Global Championship title and $200,000. 18-year-old Indian prodigy Nihal Sarin won $100,000, by far the biggest prize of his career so far, but despite having some chances in the penultimate game he was unable to land any blows against the 3-time US Champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wesley-so-wins-chess-com-global-championship",
-         "pubDate" : "Tue, 08 Nov 2022 00:15:23 +0000",
-         "title" : "Wesley So wins Chess.com Global Championship"
-      },
-      {
          "description" : "GM Wesley So triumphed at the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. Unfazed by a couple of recent performances, So showed us what it means to be a grandmaster of his caliber, coming...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1768,14 +1768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2082",
          "pubDate" : "Mon, 07 Nov 2022 06:00:00 +0000",
          "title" : "Almaty, Kazakhstan to host 2022 FIDE Rapid & Blitz Championships in late December"
-      },
-      {
-         "description" : " In various forms of chess, a cannon is an integral part of showing force and Tampa's Cannon Farragut is showing his force of talent. Cannon is amongst the top 50 list among 12-year-olds and one of the state's top juniors. Cannon learned the moves as a four-year-old after stumbling across a chess app on a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/\">Cannon Farragut Tampa's ray of sunshine</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/",
-         "pubDate" : "Sun, 06 Nov 2022 19:27:03 +0000",
-         "title" : "Cannon Farragut&hellip; Tampa's ray of sunshine"
       }
    ]
 }
