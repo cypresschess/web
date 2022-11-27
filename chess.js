@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation bagged the Award for the Best National Sports Federation of the year at the TURF 2022 &#38; India Sports Awards by",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-bags-best-national-sports-federation-of-the-year-award-at-turf-2022-r-b-ramesh-adjudged-best-coach/",
+         "pubDate" : "Sun, 27 Nov 2022 12:07:45 +0000",
+         "title" : "AICF bags Best National Sports Federation of the year award at TURF 2022 & India Sports Awards of FICCI; R B Ramesh adjudged Best Coach"
+      },
+      {
+         "description" : "The 2022 FIDE World Senior Chess Championships concluded yesterday in Assisi Umbria. The&#xA0;event was held from 14-27 November in Assisi &#x2013; Umbria Italy, and it was played in two age categories: 50+ and 65+, 11 rounds, swiss system. Women's sections were merged with the Open tournament and the best-ranked female players were crowned as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-senior-chess-champions-2022-crowned-in-italy/",
+         "pubDate" : "Sun, 27 Nov 2022 11:50:31 +0000",
+         "title" : "FIDE World Senior Chess Champions 2022 crowned in Italy"
+      },
+      {
+         "description" : "The&#xA0;1st European Small Nations Individual Women Chess Championship&#xA0;took place from 19 &#x2013; 27 November 2022 in Monaco. Ten players representing Andorra, Cyprus, Guernsey, Jersey, Liechtenstein, Malta, Monaco, and San Marino competed in 9 rounds, round-robin system. WGM Tatiana Dornbusch from Monaco convincingly won the event and scored perfect 9/9 points! WFM Andrea Henderson De La []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tatiana-dornbusch-wins-1st-european-small-nations-womens-championship-with-perfect-9-9-score/",
+         "pubDate" : "Sun, 27 Nov 2022 11:02:52 +0000",
+         "title" : "Tatiana Dornbusch wins 1st European Small Nations Women's Championship with perfect 9/9 score!"
+      },
+      {
          "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
          "pubDate" : "Sun, 27 Nov 2022 07:50:10 +0000",
          "title" : "John Nunn takes Gold!"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B took on November 26. The top 8 players of each group advance to the knockout stage of the event which will be played from 27 November &#x2013; 1 December.&#xA0; Azerbaijani []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mahammad-muradli-convincingly-wins-mrdodgy-invitational-3-0-group-b-stage/",
+         "pubDate" : "Sun, 27 Nov 2022 00:19:00 +0000",
+         "title" : "Mahammad Muradli convincingly wins MrDodgy Invitational 3.0 Group B stage"
       },
       {
          "description" : "",
@@ -194,14 +226,6 @@ news_feed (
          "title" : "Wayback to Smartchess"
       },
       {
-         "description" : "The Asian Junior Chess Championship 2022 took place from 17-25 November in Tagaytay City, Philippines. The event was played in two categories: Open and Women's, 9 rounds, swiss system, with the time control of 90 minutes with an increment of 30 seconds per move from move 1. Indian International master Harshavardhan GB scored 7/9 points []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-junior-chess-champions-2022-crowned-in-tagaytay-philippines/",
-         "pubDate" : "Fri, 25 Nov 2022 15:44:26 +0000",
-         "title" : "Asian Junior Chess Champions 2022 crowned in Tagaytay, Philippines"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -242,28 +266,12 @@ news_feed (
          "title" : "World Teams: Uzbekistan and China reach final"
       },
       {
-         "description" : "The&#xA0;FIDE World Team Championship 2022&#xA0;takes place from 19 to 26 November in Jerusalem, Israel. It is a twelve-team championship with China, France, Netherlands, South Africa, Spain and Ukraine competing in Pool A, and Azerbaijan, India, Israel, Poland, USA and Uzbekistan competing in Pool B.&#xA0; Four best-ranked teams of each pool advanced to the Knockout stage []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-team-championship-finals-china-vs-uzbekistan-live/",
-         "pubDate" : "Fri, 25 Nov 2022 10:50:59 +0000",
-         "title" : "FIDE World Team Championship Finals - China vs Uzbekistan LIVE"
-      },
-      {
          "description" : "Title hope of India in the World Team Championship shattered in the semi final as Olympiad Gold medalist team Uzbekistan won the second duel in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/world-team-chess-championship-uzbekistan-beat-india-in-semi-final/",
          "pubDate" : "Fri, 25 Nov 2022 10:30:11 +0000",
          "title" : "World Team Chess Championship - Uzbekistan beat India in Semi Final"
-      },
-      {
-         "description" : "The 2022 Turkish Championship is taking place from 25 November to 3 December in Kemer, Antalya, Turkey. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-player round-robin tournament with Mustafa Yilmaz, Mert Yilmazyerli, Alparslan Isik, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/turkish-championship-2022-live/",
-         "pubDate" : "Fri, 25 Nov 2022 08:56:29 +0000",
-         "title" : "Turkish Championship 2022 - LIVE"
       },
       {
          "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
@@ -312,6 +320,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2103",
          "pubDate" : "Thu, 24 Nov 2022 21:10:39 +0000",
          "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Thu, 24 Nov 2022 18:50:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "It's been over two and a half months since I posted <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), aka the Niemann affair. In that time it's been the focus of two Yahoos posts ('mainstream news stories about chess'):- <UL><LI>2022-09-29: <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A> <LI>2022-10-27: <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>&#149; 'In last month's <I>Cheating Mania</I>, I observed, \"Of the [78] Google News stories, 17 were about cheating.\" The cheating story continued bi",
@@ -554,14 +570,6 @@ news_feed (
          "title" : "World Team Championship 2022: Four Teams Depart the Gathering"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Tue, 22 Nov 2022 18:50:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
-      },
-      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (62)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (62)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-7",
          "pubDate" : "Mon, 21 Nov 2022 02:27:00 -0800",
          "title" : "Champions Chess Tour Finals: Carlsen Wins All Matches"
-      },
-      {
-         "description" : "The smooth run of Indian Contingent continued in the Sixth round of Commonwealth Chess Championships being held at Hotel Citrus, Waskaduwa, Kaluthara, Sri Lanka. In",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2022-at-kaluthara-srilanka-report/",
-         "pubDate" : "Mon, 21 Nov 2022 10:18:13 +0000",
-         "title" : "Commonwealth Chess Championship 2022 at Kaluthara Srilanka :Report"
       },
       {
          "description" : "The World Team Chess Championship kicked off in Jerusalem on Sunday. With a new 'slow rapid' format, the event saw the teams from each of the two pools playing two matches on the first day of action. Pool A saw China and Ukraine winning both their matches, while only Azerbaijan managed the same feat in Pool B. Four out of six squads in each group will move on to the quarterfinals. | Pictured: France's Laurent Fressinet (currently on 2 out of 2) | Photo: Mark Livshitz",
