@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top International Grandmasters, top Indian men and women Grandmasters, young Indian talents and Viswanathan Anand - as the ambassador and advisor of the tournament - will enrich the fourth edition of the Tata Steel Chess Tournament. For the first time, a women's tournament will be played with the same format and the same prize fund. The tournament will take place from November 29 to December 4 in Kolkata.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-preview",
+         "pubDate" : "Sun, 27 Nov 2022 16:30:00 +0100",
+         "title" : "Naka and Gukesh among star-studded field at Tata Steel Chess India"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together with&#160;Praggnanandhaa&#160;who will play only []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-arrives-in-kolkata-for-tata-steel-chess-india-rapidblitz-2022/",
+         "pubDate" : "Sun, 27 Nov 2022 14:36:52 +0000",
+         "title" : "Wesley So arrives in Kolkata for Tata Steel Chess India Rapid&Blitz 2022"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
+         "pubDate" : "Sun, 27 Nov 2022 14:27:48 +0000",
+         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 National Chess Championship of Serbia&#xA0;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
+         "pubDate" : "Sun, 27 Nov 2022 14:15:33 +0000",
+         "title" : "Serbian Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
+         "pubDate" : "Sun, 27 Nov 2022 14:08:54 +0000",
+         "title" : "Serbian Chess Championship 2022"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 100th (!) instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-100-play-the-sicilian-3",
+         "pubDate" : "Sun, 27 Nov 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 100: Play the Sicilian! (3)"
+      },
+      {
+         "description" : "Pool B of the FIDE Women's Candidates Tournament will be held from November 28 to December 11 in the ancient city of&#xA0;Khiva, in Uzbekistan. This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina, Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-introducing-the-players/",
+         "pubDate" : "Sun, 27 Nov 2022 13:25:32 +0000",
+         "title" : "Women's Candidates 2022/2023 - Pool B: Introducing the players"
+      },
+      {
+         "description" : "Pool B of the FIDE Women's Candidates Tournament is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva. Read more:&#160;Women&#x2019;s Candidates Chess Tournament 2022/23 &#x2013; The new system, Pools &#38; Participants list This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk and&#160;Tan Zhongyi&#160;as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-pool-b-starts-in-uzbekistan/",
+         "pubDate" : "Sun, 27 Nov 2022 13:10:12 +0000",
+         "title" : "Women's Candidates 2022/2023 - Pool B starts in Uzbekistan"
+      },
+      {
+         "description" : " The 2022 World Seniors has just finished with GM Zurab Sturua winning the Over 50, GM John Nunn winning the Over 65, WGM Elvira Berend winning the Over 50 Women's title, and GM Nona Gaprindashvili winning the Women's Over 65 title (her 8th Senior world championship!). Playing through some of the games I cam across this interesting brevity. It is almost a 'Greek Gift' sacrifice, but only if the soldiers charged first, and then the horse was dragged through the gates. By that I mean, after the sacrifice on h7 was played, the Queen checked first, before the cavalry arrived. In fact Black gave up after the queen check, which i think was a little premature. Certainly White is winning, but there ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/11/a-variation-on-theme.html",
+         "pubDate" : "Sun, 27 Nov 2022 12:49:00 +0000",
+         "title" : "A variation on a theme"
+      },
+      {
+         "description" : " When I was running primary school chess clubs I would occasionally go up to a student during the game and ask four questions. 1. What was your last move? Quite often, they were unable to tell me, because they weren't really concentrating on the game. First lesson: you have to concentrate at all times when <a href=\"https://chessimprover.com/four-questions/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Four Questions\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/four-questions/\">Four Questions</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/four-questions/",
+         "pubDate" : "Sun, 27 Nov 2022 12:37:45 +0000",
+         "title" : "Four Questions"
+      },
+      {
          "description" : "All India Chess Federation bagged the Award for the Best National Sports Federation of the year at the TURF 2022 &#38; India Sports Awards by",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +96,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-senior-chess-champions-2022-crowned-in-italy/",
          "pubDate" : "Sun, 27 Nov 2022 11:50:31 +0000",
          "title" : "FIDE World Senior Chess Champions 2022 crowned in Italy"
+      },
+      {
+         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B., followed by the Knockout stage with 16 players. Each group was a 16-player round-robin with a time control of 5+0 and the best-ranked 8 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-knockout-stage-live/",
+         "pubDate" : "Sun, 27 Nov 2022 11:18:00 +0000",
+         "title" : "MrDodgy Invitational 3.0 - Knockout stage LIVE"
       },
       {
          "description" : "The&#xA0;1st European Small Nations Individual Women Chess Championship&#xA0;took place from 19 &#x2013; 27 November 2022 in Monaco. Ten players representing Andorra, Cyprus, Guernsey, Jersey, Liechtenstein, Malta, Monaco, and San Marino competed in 9 rounds, round-robin system. WGM Tatiana Dornbusch from Monaco convincingly won the event and scored perfect 9/9 points! WFM Andrea Henderson De La []",
@@ -42,7 +130,7 @@ news_feed (
          "title" : "John Nunn takes Gold!"
       },
       {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B took on November 26. The top 8 players of each group advance to the knockout stage of the event which will be played from 27 November &#x2013; 1 December.&#xA0; Azerbaijani []",
+         "description" : "The prestigious MrDodgy Invitational 3.0&#160;takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B took on November 26. The top 8 players of each group advance to the knockout stage of the event which will be played from 27 November &#x2013; 1 December.&#160; Azerbaijani []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/mahammad-muradli-convincingly-wins-mrdodgy-invitational-3-0-group-b-stage/",
@@ -74,14 +162,6 @@ news_feed (
          "title" : "China beats Uzbekistan, wins World Team Championship"
       },
       {
-         "description" : "The prestigious MrDodgy Invitational 3.0 kicked off yesterday on chess24 and takes place from 25 November to 1 December 2022. The group A games were played on November 25, while group B takes place on November 26. The top 8 players in each group will advance to the knockout stage of the event which will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-mrdodgy-invitational-group-a-stage/",
-         "pubDate" : "Sat, 26 Nov 2022 16:54:30 +0000",
-         "title" : "Magnus Carlsen wins MrDodgy Invitational Group A stage"
-      },
-      {
          "description" : "China defeated Uzbekistan in both mini-matches to add to the gold medals they won in the 2015 and 2017 FIDE World Team Championships. They finished unbeaten, which was a remarkable performance for the 3rd or 4th best team China could have fielded. Spain took their first ever World Team medals as they inflicted more heartbreak on India to snatch bronze.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -96,14 +176,6 @@ news_feed (
          "link" : "https://aicf.in/world-team-chess-championship-2022final-day-report/",
          "pubDate" : "Sat, 26 Nov 2022 11:26:40 +0000",
          "title" : "World Team Chess Championship 2022:Final Day Report"
-      },
-      {
-         "description" : "U20 Swedish Team Championship Division 1 is takins place from 25-27 November 2022. It is 5-round round-robin with Spelare &#xD6;rgryte SK ( Gustav Torngren, William Olsson, Sol Andersson and Sairahul Konduru) , Spelare Kristallens SK ( Erik Dingertz, Sebastian Ivarsson, Harald Ljung and Gabriel Nord) , Spelare SK Rockaden, Sthlm ( Edvin Trost, Hampus Sorensen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-swedish-team-championship-division-1-2022-live/",
-         "pubDate" : "Sat, 26 Nov 2022 10:42:56 +0000",
-         "title" : "U20 Swedish Team Championship Division 1 2022 - LIVE"
       },
       {
          "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
@@ -138,14 +210,6 @@ news_feed (
          "title" : "Keep calm!"
       },
       {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#160;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-b-live/",
-         "pubDate" : "Sat, 26 Nov 2022 05:13:00 +0000",
-         "title" : "MrDodgy Invitational 3.0 Group B - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -162,14 +226,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Six"
       },
       {
-         "description" : "FIDE World Team Chess Championship 2022 finished today in Jerusalem, Israel. China won the Championship after beating Uzbekistan in the finals with convincing 2-0 result in matches and no need for tiebreaks GM Jinshi Bai was the Chinese hero of the first final match. He prevailed against GM Shamsiddin Vokhidov and China won with a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/china-wins-fide-world-team-chess-championship-2022/",
-         "pubDate" : "Fri, 25 Nov 2022 19:18:49 +0000",
-         "title" : "China wins FIDE World Team Chess Championship 2022"
-      },
-      {
          "description" : "This week, Daniel King looks at a problem theme appearing in practical games, incredibly, twice within a week. Living legend Vasyl Ivanchuk and rising star Arjun Erigaisi both played the 'Novotny'! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,30 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
          "pubDate" : "Fri, 25 Nov 2022 09:23:00 -0800",
          "title" : "China Wins World Team Chess Championship"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#160;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout stage. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-knockout-stage-live/",
-         "pubDate" : "Fri, 25 Nov 2022 17:18:21 +0000",
-         "title" : "MrDodgy Invitational 3.0 - Knockout stage LIVE"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0 is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-group-a-live/",
-         "pubDate" : "Fri, 25 Nov 2022 17:07:56 +0000",
-         "title" : "MrDodgy Invitational 3.0 Group A - LIVE"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0 is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B. Each group is a 16-player round-robin with a time control of 5+0. The best-ranked 8 players of each group will qualify for the knockout []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-headlines-mrdodgy-invitational-3-0/",
-         "pubDate" : "Fri, 25 Nov 2022 17:03:57 +0000",
-         "title" : "Magnus Carlsen headlines MrDodgy Invitational 3.0"
       },
       {
          "description" : "Few tournaments brought as much stake to its host nation as Moscow 1925 did to Russia. The event brought a Russian into world title contention, but, more importantly, it proved vital to Russia's rise as dominant force in chess. Eugene Manlapao takes a look at the tournament and its history. | Photo: Tournament winner Efim Bogoljubov (left) and Akiba Rubinstein during their game | Photo: Wikipedia",
@@ -1282,22 +1314,6 @@ news_feed (
          "title" : "FIDE World Senior Chess Championship 2022 kicks off in Assisi, Italy"
       },
       {
-         "description" : "The Russian Chess Federation sent no less than 73 participants to the European Youth Championship in Antalya, who all had to play under the flag of FIDE - and they won more medals than the other federations. But it was Mariam Mkrtchyan (photo) from Armenia, who started in the U18w, who achieved the most dominant victory by winning gold with 8.5/9. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russia-most-successful-at-european-youth-championships",
-         "pubDate" : "Wed, 16 Nov 2022 15:46:38 +0100",
-         "title" : "Russia most successful at European Youth Championships"
-      },
-      {
-         "description" : "Plenty of our customers are delighted by Ivan Sokolov's Understanding Middlegame Strategies series, and meanwhile we have six parts available. The Grandmaster who has participated at twelve chess Olympiads as a player, and reached a rating of over 2700 in January 2004, had very recent success again, as the coach of the Uzbek national team, who won the gold medal in Chennai in 2022. We wanted to know what Sokolov is doing besides chess, and why he is paying a tax when he meets the gym. | Photos: Ivan Sokolov Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-ivan-sokolov",
-         "pubDate" : "Wed, 16 Nov 2022 15:20:43 +0100",
-         "title" : "Meet The Fritztrainer - Ivan Sokolov"
-      },
-      {
          "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1760,22 +1776,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/06/cannon-farragut-tampas-ray-of-sunshine/",
          "pubDate" : "Sun, 06 Nov 2022 19:27:03 +0000",
          "title" : "Cannon Farragut&hellip; Tampa's ray of sunshine"
-      },
-      {
-         "description" : "The first Sunday of the month means a new post in the long-running series <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010). The priority generally goes to artwork, where -- if you don't count <A HREF=\"http://chessforallages.blogspot.com/2022/09/the-spanish-forger-liked-chess.html\">The Spanish Forger Liked Chess</A>(September 2022) -- the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/08/a-wizard-or-god.html\">A Wizard or a God?</A>(August 2022). <P>This month I had three interesting paintings to choose from, so I went with the one I liked most. Titled, 'Henri Dillon (1851-1909) signed Fr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/chess-in-artists-studio.html",
-         "pubDate" : "Sun, 06 Nov 2022 16:05:00 +0000",
-         "title" : "Chess in the Artist's Studio"
-      },
-      {
-         "description" : " Sultan-Diego Abdullah Sulayman, a 2020 finance graduate of Howard University, passed away suddenly on October 30th after being found by his mother at their home. The news came as a shock to the Howard community as he was only 26, weeks away from his 27th birthday. At the time of his death, he was attending The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/\">Howard chess activist, Sultan-Diego Sulayman (1995-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/06/howard-chess-activist-sultan-diego-sulayman-1995-2022/",
-         "pubDate" : "Sun, 06 Nov 2022 13:53:19 +0000",
-         "title" : "Howard chess activist, Sultan-Diego Sulayman (1995-2022)"
       }
    ]
 }
