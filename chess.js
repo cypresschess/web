@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-vlastimil-jansa-turns-80",
+         "pubDate" : "Sun, 27 Nov 2022 09:15:00 +0100",
+         "title" : "Happy birthday - Vlastimil Jansa turns 80!"
+      },
+      {
+         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! &#8216;There will be dancing in the streets of Bude tonight' Kevin Thurlow,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
+         "pubDate" : "Sun, 27 Nov 2022 07:50:10 +0000",
+         "title" : "John Nunn takes Gold!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/new-fide-commissions.html",
          "pubDate" : "Wed, 16 Nov 2022 13:05:00 +0000",
          "title" : "New FIDE Commissions "
-      },
-      {
-         "description" : "The pianist Volker Ahmels regularly organises music festivals in Schwerin, Germany, to remember and to honour ostracised and persecuted musicians. One of these musicians was the composer Arnold Sch&ouml;nberg, who had to flee Austria because he was persecuted by the Nazis. Sch&ouml;nberg is the creator of 12-tone music but he also invented a chess variant, which he called \"Coalition Chess\". Last week, Volker Ahmels and the cabaret artist Matthias Deutschmann tried their hand at this demanding form of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/music-chess-and-arnold-schoenberg",
-         "pubDate" : "Wed, 16 Nov 2022 14:00:00 +0100",
-         "title" : "Music, chess and Arnold Sch&ouml;nberg"
       },
       {
          "description" : "5-time World Champion Viswanathan Anand spoke about cheating in chess and opened up about the cheating scandal involving Magnus Carlsen and Hans Niemann.",
