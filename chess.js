@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find live link of MPL National Sub-Junior Chess Championship 2022 Open https://view.livechesscloud.com/#9fa1fbe3-7812-48b5-8705-2577f844213d Girls https://view.livechesscloud.com/#00733143-c9c7-49ab-a209-4a4c8a9d3023",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-mpl-national-sub-junior-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 09:28:38 +0000",
+         "title" : "Live Link : MPL National Sub-Junior Chess Championship 2022"
+      },
+      {
+         "description" : "Sri Lanka's Chess Federation Golden Jubilee Open Chess Championship 2022 took place from 23-27 November at Sports Ministry Pavilion, Colombo. The event attracted 37 entries among whom 13 titled players. The tournament was played in 9 rounds, swiss system, with time control of 90 minutes plus 30 seconds increment. The total prize fund of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-mihail-nikitenko-wins-cfsl-golden-jubilee-open-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 09:15:09 +0000",
+         "title" : "GM Mihail Nikitenko wins CFSL Golden Jubilee Open Chess Championship 2022"
+      },
+      {
+         "description" : "First of all, I want to say that it was nice to be a part of the GB team at the WCCC 2022 in Fujairah....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/kamila-hryshchenko-world-congress-of-chess-composition/",
+         "pubDate" : "Mon, 28 Nov 2022 09:10:07 +0000",
+         "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
+      },
+      {
          "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. Pool B will take place from November 29 to December 11 at the Hotel Farovon Khiva in the ancient city of Khiva, Uzbekistan. | Photos: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/plichta-beats-magnus-as-mr-dodgy-invitational-begins",
          "pubDate" : "Sun, 27 Nov 2022 16:48:52 +0000",
          "title" : "Plichta beats Magnus as Mr Dodgy Invitational begins"
+      },
+      {
+         "description" : "Podcasts have become an important component in understanding <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). Earlier this year in the series we had <A HREF=\"http://chessforallages.blogspot.com/2022/04/women-in-chess-podcasts.html\">Women in Chess Podcasts</A>(April 2022) and here we have top players talking about top-level chess. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ZGuUkfW_E_Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>C-Squared Podcast #10 | Global Che",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/top-players-talk-top-chess.html",
+         "pubDate" : "Sun, 27 Nov 2022 16:21:00 +0000",
+         "title" : "Top Players Talk Top Chess"
       },
       {
          "description" : "Top International Grandmasters, top Indian men and women Grandmasters, young Indian talents and Viswanathan Anand - as the ambassador and advisor of the tournament - will enrich the fourth edition of the Tata Steel Chess Tournament. For the first time, a women's tournament will be played with the same format and the same prize fund. The tournament will take place from November 29 to December 4 in Kolkata.",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-bags-best-national-sports-federation-of-the-year-award-at-turf-2022-r-b-ramesh-adjudged-best-coach/",
          "pubDate" : "Sun, 27 Nov 2022 12:07:45 +0000",
          "title" : "AICF bags Best National Sports Federation of the year award at TURF 2022 & India Sports Awards of FICCI; R B Ramesh adjudged Best Coach"
-      },
-      {
-         "description" : "The 2022 FIDE World Senior Chess Championships concluded yesterday in Assisi Umbria. The&#xA0;event was held from 14-27 November in Assisi &#x2013; Umbria Italy, and it was played in two age categories: 50+ and 65+, 11 rounds, swiss system. Women's sections were merged with the Open tournament and the best-ranked female players were crowned as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-senior-chess-champions-2022-crowned-in-italy/",
-         "pubDate" : "Sun, 27 Nov 2022 11:50:31 +0000",
-         "title" : "FIDE World Senior Chess Champions 2022 crowned in Italy"
       },
       {
          "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-tactics-5",
          "pubDate" : "Tue, 22 Nov 2022 09:00:00 +0100",
          "title" : "Endgame tactics"
-      },
-      {
-         "description" : "Report for Day 1 (20th November 2022) India faced the host country Israel and Poland on the first day of the World Team Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-report-day-1-2/",
-         "pubDate" : "Tue, 22 Nov 2022 07:38:31 +0000",
-         "title" : "World Team Chess Championship Report Day 1 & 2"
       },
       {
          "description" : "Two more rounds of the preliminaries were played on Monday at the World Team Chess Championship in Jerusalem. With one round to go, a number of teams have already secured a spot in the quarterfinals. However, there is plenty to fight for still, especially in Pool B, where even the US - currently in last place - still has chances to make it to the knockout. | Pictured: Li Di | Photo: Mark Livshitz",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chessable-ecf-grand-prix-leaderboards-now-available-for-events-to-mid-october/",
          "pubDate" : "Fri, 11 Nov 2022 09:20:56 +0000",
          "title" : "Chessable ECF Grand Prix Leaderboards now available for events to mid-October"
-      },
-      {
-         "description" : "Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-leads-bavarian-open-from-leonard-barden/",
-         "pubDate" : "Fri, 11 Nov 2022 09:04:51 +0000",
-         "title" : "Shreyas Royal leads Bavarian Open - from Leonard Barden"
       },
       {
          "description" : " The London teenager has a chance to become the youngest English player ever to score a grandmaster result Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five games, the last two against highly rated GMs, before drawing quickly by repeated moves in Thursday's sixth round against Azerbaijan's Eltaj Safarli, the 2616-rated No 4 seed in the giant 530-player tournament. The Greenwich teenager's fourth- and fifth-round victories were both impressive. In round four he <a href=\"https://chess24.com/en/watch/live-tournaments/offene-bayerische-meisterschaft-2022/4/1/3\" title=\"\">defeated GM Bobby Ch",
