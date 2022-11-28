@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2108",
+         "pubDate" : "Mon, 28 Nov 2022 20:11:09 +0000",
+         "title" : "Women's Candidates Tournament Pool B kicks off in ancient Khiva"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95836270.cms\" />The fourth edition of the Tata Steel Chess India is likely to see a battle of the next generation with some of the world's best rising talent crossing swords over the next six days at the Bhasha Bhawan in the National Library of India campus.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-battle-of-next-generation-in-kolkata-chess-meet/articleshow/95836270.cms",
+         "pubDate" : "Mon, 28 Nov 2022 17:18:54 +0000",
+         "title" : "The battle of next generation in Kolkata chess meet"
+      },
+      {
+         "description" : "In the Endgame Magic Show #216 Karsten M&uuml;ller and German female top player Jana Schneider look at endgame highlights from the finals of the Meltwater Chess Champions Tour. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-216-with-jana-schneider",
+         "pubDate" : "Mon, 28 Nov 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #216 - with Jana Schneider"
+      },
+      {
+         "description" : "The&#xA0;2022 Kazakhstan Women&#x2019;s Chess Championship&#xA0;will take place from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;, concurently with the&#xA0;Kazakhstan Open Chess Championship 2022. It will be an 11-player round-robin tournament with&#xA0;WIM Meruert Kamalidenova&#xA0;as the top seed. (The complete list of players can be found here) Chessdom will follow the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-womens-chess-championship-2022-live/",
+         "pubDate" : "Mon, 28 Nov 2022 16:56:07 +0000",
+         "title" : "Kazakhstan Women's Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The&#160;2022 Kazakhstan Women's Chess Championship&#160;will be held from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;, simultaneously with the Kazakhstan Open Chess Championship 2022. It will be an 11-player round-robin tournament with WIM Meruert Kamalidenova as the top seed. The field includes WIM Assel Serikbay, WIM Amina Kairbekova, WIM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-womens-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 16:47:27 +0000",
+         "title" : "Kazakhstan Women's Chess Championship 2022"
+      },
+      {
+         "description" : "The&#xA0;2022 National Chess Championship of Kazakhstan&#xA0;will take place from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;. The event features 14 players who will compete for the title of the National champion in 13 rounds (round-robin system). GM Murtas Kazhgaleyev&#xA0;headlines the field and the complete starting list of players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-chess-championship-2022-live/",
+         "pubDate" : "Mon, 28 Nov 2022 16:33:26 +0000",
+         "title" : "Kazakhstan Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "GM John Nunn won the gold medal in the 65+ section of the World Senior Chess Championships held in Assisi, Italy. Playing in the same group, GM Nona Gaprindashvili won the women&#39;s senior title for the eighth time. GM Zurab Sturua won the 50+ secti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-world-senior-chess-championships-nunn-gaprindashvili",
+         "pubDate" : "Mon, 28 Nov 2022 08:27:51 -0800",
+         "title" : "Gold For Nunn, Sturua, Gaprindashvili, Berend At World Senior Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/cambridge-international-open/",
+         "pubDate" : "Mon, 28 Nov 2022 16:25:48 +0000",
+         "title" : "Cambridge International Open"
+      },
+      {
          "description" : "Cheating in chess has a long and storied history, none of these stories ever penetrated the public eye, having been relegated to books on history and anecdotes on the game of chess. This all changed when a cheating controversy in chess became known throughout the US and then the world, and at its center was a 19-year-old American.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +194,7 @@ news_feed (
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
       },
       {
-         "description" : " The FIDE Women Candidates Pool B takes place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the titel. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi.",
+         "description" : " The FIDE Women Candidates Pool B takes place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
@@ -154,12 +218,12 @@ news_feed (
          "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       },
       {
-         "description" : "The&#160;FIDE Women's World Rapid &#38; Blitz Chess Championship 2022&#160;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE Open World Rapid and Blitz Championships. Read more: European Open and Women Rapid and Blitz Chess Championships 2022 taking place from 16-18 December in Katowice, Poland The following players []",
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-rapid-and-blitz-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 02:40:00 +0000",
-         "title" : "FIDE Women's World Rapid and Blitz Chess Championship 2022"
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-participants-lists/",
+         "pubDate" : "Mon, 28 Nov 2022 04:15:00 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 starts in Kolkata"
       },
       {
          "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
@@ -176,30 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-interview-sagar-2022",
          "pubDate" : "Sun, 27 Nov 2022 23:30:00 +0100",
          "title" : "Magnus Carlsen applauds Indian chess talents and fans"
-      },
-      {
-         "description" : "The Schachbundesliga 2022/2023 is German National Team Chess Championship which attracts some of the world's top chess players. The league features 16 teams competing in 15 round-robin rounds. The season is split into six weekend double rounds and rounds 11-15 are played in one long seeking in Berlin. The time control of the event is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/schachbundesliga-2022-2023-live/",
-         "pubDate" : "Sun, 27 Nov 2022 21:30:46 +0000",
-         "title" : "Schachbundesliga 2022/2023 - LIVE"
-      },
-      {
-         "description" : "Indian grandmaster S.L. Narayanan is currently competing in the German Schachbundesliga one of the world&#x2019;s top chess leagues. After today's game, Narayanan posted on his official twitter account that he felt humiliated during the anti-cheating checks which happened before the round. &#8220;Today I felt humiliated. And if I prefer to remain silent about it, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/s-l-narayanan-i-felt-humiliated-during-the-anti-cheating-checks-at-bundesliga/",
-         "pubDate" : "Sun, 27 Nov 2022 21:20:28 +0000",
-         "title" : "S.L. Narayanan: I felt humiliated during the anti-cheating checks at Bundesliga"
-      },
-      {
-         "description" : "97th Argentine Championship is taking place from 1-10 December 2022 in Rio Negro, Argentina. It is a 10-player Round-robin tournament. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Starting list of players : No. Name FED Rtg 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/97th-argentine-championship-2022-participants/",
-         "pubDate" : "Sun, 27 Nov 2022 18:20:17 +0000",
-         "title" : "97th Argentine Championship 2022 - Participants"
       },
       {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
@@ -365,6 +405,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Fri, 25 Nov 2022 20:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2105",
          "pubDate" : "Fri, 25 Nov 2022 20:52:32 +0000",
          "title" : "China is World Team Champion 2022"
@@ -376,14 +424,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-six/",
          "pubDate" : "Fri, 25 Nov 2022 19:41:43 +0000",
          "title" : "A Foundation for Beginners Seventy Six"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Fri, 25 Nov 2022 18:50:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "This week, Daniel King looks at a problem theme appearing in practical games, incredibly, twice within a week. Living legend Vasyl Ivanchuk and rising star Arjun Erigaisi both played the 'Novotny'! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1250,14 +1290,6 @@ news_feed (
          "title" : "2022 Vikings Weekend - Day 1"
       },
       {
-         "description" : "This week Robert Ris presents a sharp line against the Reti, and takes a close look at the game Duda vs Erigaisi from the Meltwater Chess Champions Tour, in which this line was tested. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-sharp-line-in-the-reti",
-         "pubDate" : "Fri, 18 Nov 2022 12:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A sharp line in the Reti"
-      },
-      {
          "description" : "GM Magnus Carlsen is the only player on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match to GM Le Quang Liem, while GM Arjun Erigaisi ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1698,14 +1730,6 @@ news_feed (
          "title" : "Rolling membership introduction"
       },
       {
-         "description" : "The Chessable ECF Grand Prix leaderboards are now available on the Grand Prix page here https://www.englishchess.org.uk/ecf-chessable-grand-prix/ The Grand Prix is a year-long individual competition...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessable-ecf-grand-prix-leaderboards-now-available-for-events-to-mid-october/",
-         "pubDate" : "Fri, 11 Nov 2022 09:20:56 +0000",
-         "title" : "Chessable ECF Grand Prix Leaderboards now available for events to mid-October"
-      },
-      {
          "description" : " The London teenager has a chance to become the youngest English player ever to score a grandmaster result Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five games, the last two against highly rated GMs, before drawing quickly by repeated moves in Thursday's sixth round against Azerbaijan's Eltaj Safarli, the 2616-rated No 4 seed in the giant 530-player tournament. The Greenwich teenager's fourth- and fifth-round victories were both impressive. In round four he <a href=\"https://chess24.com/en/watch/live-tournaments/offene-bayerische-meisterschaft-2022/4/1/3\" title=\"\">defeated GM Bobby Ch",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1736,14 +1760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8",
          "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
          "title" : "2022 Fall Chess Classic: Round 8"
-      },
-      {
-         "description" : "GMs Dmitry Andreikin and Alireza Firouzja were the victors in Titled Tuesday on November 8, both with scores of 9.5/11, Andreikin on tiebreaks and Firouzja outright. It was Andreikin&#39;s 10th Titled Tuesday victory of the year and Firouzja&#39;s second,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-firouzja-win-titled-tuesday-november-8-2022",
-         "pubDate" : "Wed, 09 Nov 2022 09:57:52 -0800",
-         "title" : "Firouzja Returns To Titled Tuesday With Spectacular Win"
       },
       {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
