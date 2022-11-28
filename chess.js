@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cheating in chess has a long and storied history, none of these stories ever penetrated the public eye, having been relegated to books on history and anecdotes on the game of chess. This all changed when a cheating controversy in chess became known throughout the US and then the world, and at its center was a 19-year-old American.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/famous-chess-cheating-tales-part-1",
+         "pubDate" : "Mon, 28 Nov 2022 17:00:00 +0100",
+         "title" : "Famous chess cheating tales - Part 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2107",
+         "pubDate" : "Mon, 28 Nov 2022 15:27:50 +0000",
+         "title" : "Women's Candidates Tournament Pool B: Introducing the players"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95834416.cms\" />Indian chess legend Viswanathan Anand, who is now deputy president of world governing body FIDE, feels cheating in his sport is \"not rampant\" and limited to \"online\" tournaments only. Reigning world champion Magnus Carlsen kicked up a storm in September this year when he levelled cheating allegations against US teenager Hans Niemann, following his stunning defeat in round three of the Sinquefield Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/cheating-in-chess-is-not-rampant-viswanathan-anand/articleshow/95834416.cms",
+         "pubDate" : "Mon, 28 Nov 2022 15:24:40 +0000",
+         "title" : "Cheating in chess is not rampant: Viswanathan Anand"
+      },
+      {
+         "description" : "\"I don't feel bad about beating him at all!\" said Magnus Carlsen after defeating Salem Saleh 7:0 in the Last 16 of the MrDodgy Invitational, revealing he'd recently lost some online games to the UAE grandmaster. There were also wins for Daniil Dubov and Rauf Mamedov as the knockout stage began.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-scores-7-0-mrdodgy-invitational-win",
+         "pubDate" : "Mon, 28 Nov 2022 15:17:00 +0000",
+         "title" : "Magnus scores 7:0 MrDodgy Invitational win"
+      },
+      {
+         "description" : "The 2022 National Chess Championship of Kazakhstan will take place from 1st 12th December in Semey at the Cultural and sports complex &#8220;Abay Arena&#8221;. The event gathers 14 players who will compete for the title of the National champion in 13 rounds (round-robin system). GM Murtas Kazhgaleyev headlines the field which includes IM Alisher []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 15:16:36 +0000",
+         "title" : "Kazakhstan Chess Championship 2022"
+      },
+      {
+         "description" : "The&#xA0;2022 European Open and Women Rapid &#38; Blitz Chess Championships&#xA0;will take place from 16th-18th December in Katowice, Poland. The first tournament on the schedule will be the&#xA0;European Blitz Chess Championship&#xA0;which will be played on December 16th. Open and Women&#x2019;s sections will be merged, with separate prizes for the best ranked female players. The event will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022-live/",
+         "pubDate" : "Mon, 28 Nov 2022 14:54:54 +0000",
+         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;FIDE Women&#x2019;s World Rapid &#38; Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Open World Rapid and Blitz Championships. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 seconds increment per move, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-rapid-and-blitz-chess-championship-2022-live/",
+         "pubDate" : "Mon, 28 Nov 2022 14:50:04 +0000",
+         "title" : "FIDE Women's World Rapid and Blitz Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The&#160;2022 NC Open&#160;was held over Thanksgiving Weekend from 25-27 November 2022 in Charlotte, NC, USA. The NCO featured a&#160;$11,000&#160;prize fund and was played in 8 US Chess rated sections: Championship (1900+), U1900, U1700, U1500, U1300 and U1100. The event was running alongside the&#160;2022 US Masters, a national event that featured the top players in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/diego-zilleruelo-wins-nc-open-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 14:26:44 +0000",
+         "title" : "Diego Zilleruelo wins NC Open Championship 2022"
+      },
+      {
+         "description" : "With Magnus Carlsen, chess has become incredibly popular in Norway and the Norwegian Junior and Children's Championships attracted a lot of young players. Maybe one of them is the next Magnus Carlsen? Holger Blauhut reports. | Photos: Holger Blauhut and the organisers",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-next-magnus-carlsen-in-molde",
+         "pubDate" : "Mon, 28 Nov 2022 15:23:56 +0100",
+         "title" : "The next Magnus Carlsen in Molde?"
+      },
+      {
+         "description" : "The 2022 US Masters took place over the Thanksgiving Weekend from November 23-27 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The&#xA0;US Masters Chess Championship&#xA0;is an official US Chess National Championship event which featured a&#xA0;20.000$&#xA0;prize fund and it was played in 9 rounds, swiss system, with time control is 90 minutes for the entire game, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-christopher-yoo-wins-us-masters-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 14:06:27 +0000",
+         "title" : "GM Christopher Yoo wins US Masters Chess Championship 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95832141.cms\" />Indian Grandmaster SL Narayanan felt \"humiliated\" as he was left to stand barefoot inside the playing hall for metal detector check during a Bundesliga chess league match in Germany on Monday. As there was a beep sound during the metal detector check, Narayanan was made to remove his shoes and subsequently his socks too. It was later found out that the beep sound emanated from the carpet on the floor.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-gm-narayanan-left-to-stand-barefoot-for-metal-detector-check-during-match-in-germany/articleshow/95832141.cms",
+         "pubDate" : "Mon, 28 Nov 2022 13:09:27 +0000",
+         "title" : "GM Narayanan left to stand barefoot for metal detector check in Germany"
+      },
+      {
          "description" : " <p class=\"lead\">FIDE Online Arena, the official gaming platform of the International Chess Federation, advances personal health in e-sport by introducing a new feature to measure calories burned by playing online. Starting from today, <a href=\"https://chessarena.com\">FIDE Online Arena</a>, the official FIDE gaming platform, which is operated by World Chess, will track and display the calories users burn during an online game of chess. Whilst calorie tracking is already widely used across offline fitness and sports, including chess, it has not previously been used as a feature in e-sports. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.7777777777778\"> <im",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -66,6 +154,14 @@ news_feed (
          "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       },
       {
+         "description" : "The&#160;FIDE Women's World Rapid &#38; Blitz Chess Championship 2022&#160;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE Open World Rapid and Blitz Championships. Read more: European Open and Women Rapid and Blitz Chess Championships 2022 taking place from 16-18 December in Katowice, Poland The following players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-rapid-and-blitz-chess-championship-2022/",
+         "pubDate" : "Mon, 28 Nov 2022 02:40:00 +0000",
+         "title" : "FIDE Women's World Rapid and Blitz Chess Championship 2022"
+      },
+      {
          "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,12 +210,12 @@ news_feed (
          "title" : "MrDodgy Invitational 3.0 2022 - Games and Results"
       },
       {
-         "description" : "Magnus Carlsen only appeared in the line-up for the 1st 16-player qualifier of the prestigious Mr Dodgy Invitational 3 when David Howell dropped out with an hour to spare. Magnus went on to dominate, though he did lose to Kamil Plichta, Gawain Jones and Alan Pichot. Magnus now plays Salem Saleh in the knockout stages.",
+         "description" : "Magnus Carlsen only appeared in the line-up for the 1st 16-player qualifier of the prestigious MrDodgy Invitational 3 when David Howell dropped out with an hour to spare. Magnus went on to dominate, though he did lose to Kamil Plichta, Gawain Jones and Alan Pichot. Magnus now plays Salem Saleh in the knockout stages.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/plichta-beats-magnus-as-mr-dodgy-invitational-begins",
          "pubDate" : "Sun, 27 Nov 2022 16:48:52 +0000",
-         "title" : "Plichta beats Magnus as Mr Dodgy Invitational begins"
+         "title" : "Plichta beats Magnus as MrDodgy Invitational begins"
       },
       {
          "description" : "Podcasts have become an important component in understanding <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). Earlier this year in the series we had <A HREF=\"http://chessforallages.blogspot.com/2022/04/women-in-chess-podcasts.html\">Women in Chess Podcasts</A>(April 2022) and here we have top players talking about top-level chess. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ZGuUkfW_E_Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>C-Squared Podcast #10 | Global Che",
@@ -138,60 +234,12 @@ news_feed (
          "title" : "Naka and Gukesh among star-studded field at Tata Steel Chess India"
       },
       {
-         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together with&#160;Praggnanandhaa&#160;who will play only []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-arrives-in-kolkata-for-tata-steel-chess-india-rapidblitz-2022/",
-         "pubDate" : "Sun, 27 Nov 2022 14:36:52 +0000",
-         "title" : "Wesley So arrives in Kolkata for Tata Steel Chess India Rapid&Blitz 2022"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
-         "pubDate" : "Sun, 27 Nov 2022 14:27:48 +0000",
-         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 National Chess Championship of Serbia&#xA0;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
-         "pubDate" : "Sun, 27 Nov 2022 14:15:33 +0000",
-         "title" : "Serbian Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
-         "pubDate" : "Sun, 27 Nov 2022 14:08:54 +0000",
-         "title" : "Serbian Chess Championship 2022"
-      },
-      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 101st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-101-play-the-sicilian-3",
          "pubDate" : "Sun, 27 Nov 2022 15:00:00 +0100",
          "title" : "Understanding before Moving 101: Play the Sicilian! (3)"
-      },
-      {
-         "description" : "Pool B of the FIDE Women's Candidates Tournament will be held from November 28 to December 11 in the ancient city of&#xA0;Khiva, in Uzbekistan. This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina, Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-introducing-the-players/",
-         "pubDate" : "Sun, 27 Nov 2022 13:25:32 +0000",
-         "title" : "Women's Candidates 2022/2023 - Pool B: Introducing the players"
-      },
-      {
-         "description" : "Pool B of the FIDE Women's Candidates Tournament is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva. Read more:&#160;Women&#x2019;s Candidates Chess Tournament 2022/23 &#x2013; The new system, Pools &#38; Participants list This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk and&#160;Tan Zhongyi&#160;as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-pool-b-starts-in-uzbekistan/",
-         "pubDate" : "Sun, 27 Nov 2022 13:10:12 +0000",
-         "title" : "Women's Candidates 2022/2023 - Pool B starts in Uzbekistan"
       },
       {
          "description" : " The 2022 World Seniors has just finished with GM Zurab Sturua winning the Over 50, GM John Nunn winning the Over 65, WGM Elvira Berend winning the Over 50 Women's title, and GM Nona Gaprindashvili winning the Women's Over 65 title (her 8th Senior world championship!). Playing through some of the games I cam across this interesting brevity. It is almost a 'Greek Gift' sacrifice, but only if the soldiers charged first, and then the horse was dragged through the gates. By that I mean, after the sacrifice on h7 was played, the Queen checked first, before the cavalry arrived. In fact Black gave up after the queen check, which i think was a little premature. Certainly White is winning, but there ",
@@ -226,7 +274,7 @@ news_feed (
          "title" : "Happy birthday - Vlastimil Jansa turns 80!"
       },
       {
-         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ &#8216;There will be dancing in...",
+         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ and here to read...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
@@ -328,6 +376,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-six/",
          "pubDate" : "Fri, 25 Nov 2022 19:41:43 +0000",
          "title" : "A Foundation for Beginners Seventy Six"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Fri, 25 Nov 2022 18:50:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "This week, Daniel King looks at a problem theme appearing in practical games, incredibly, twice within a week. Living legend Vasyl Ivanchuk and rising star Arjun Erigaisi both played the 'Novotny'! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -456,14 +512,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2103",
          "pubDate" : "Thu, 24 Nov 2022 21:10:39 +0000",
          "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Thu, 24 Nov 2022 18:50:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "It's been over two and a half months since I posted <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), aka the Niemann affair. In that time it's been the focus of two Yahoos posts ('mainstream news stories about chess'):- <UL><LI>2022-09-29: <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A> <LI>2022-10-27: <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>&#149; 'In last month's <I>Cheating Mania</I>, I observed, \"Of the [78] Google News stories, 17 were about cheating.\" The cheating story continued bi",
@@ -1226,22 +1274,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen faces his nemesis in final round of Meltwater tour"
       },
       {
-         "description" : "Ever analyzing and sharing with readers and fans, Karsten Mueller receives many interesting correspondence and contributions. Here are a handful of endgames analyzed and sent in by Frederick Davies, which Mueller was quick to compliment profusely and send it forward for publication.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mueller-and-Davies",
-         "pubDate" : "Fri, 18 Nov 2022 08:24:45 +0100",
-         "title" : "Mueller and Davies"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #542 Merijn van Delft looks at a fascinating though not entirely correct game Jan-Krzysztof Duda and Arjun Erigaisi played at the Meltwater Champions Chess Tour. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-542-duda-vs-erigaisi",
-         "pubDate" : "Fri, 18 Nov 2022 08:23:40 +0100",
-         "title" : "Game of the Week #542: Duda vs Erigaisi"
-      },
-      {
          "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the 23rd EUROPEAN WOMEN CHESS CHAMPIONSHIP organized in Petrovac, Montenegro from 17th March (arrival) to 30th March (departure). The event is open for all women players from National&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1538,14 +1570,6 @@ news_feed (
          "title" : "Shreyas Royal - first GM norm at 13!"
       },
       {
-         "description" : "Tour Winner Magnus Carlsen will take on Global Chess Champion Wesley So as the final event of the 2022 Meltwater Champions Chess Tour begins in San Francisco today. We'll also have Duda vs. Arjun Erigaisi, Praggnanandhaa vs. Mamedyarov and Le vs. Giri as play begins at 12pm in San Francisco (3pm ET, 21:00 CEST, 01:30 IST).",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-vs-wesley-so-in-san-francisco",
-         "pubDate" : "Mon, 14 Nov 2022 12:11:48 +0000",
-         "title" : "Magnus Carlsen vs. Wesley So in San Francisco"
-      },
-      {
          "description" : " The 2022 Vikings Weekender begins this Friday (18th November), and there are still a few places left (13 at the time of posting this). As space at the venue is limited, there is a hard cap of 60 players, across 2 sections. Surprisingly it is the Under 1600 section that has fewer players, with the Open section looking quite strong. The tournament is a 6 round swiss, with 1 round on the Friday, 3 on Saturday and 2 on Sunday. The time limit is 60m+30s and both sections (Open and Under 1600) will be FIDE rated. Full details at <a href=\"http://actchess.org.au\">actchess.org.au</a> (or <a href=\"http://tournament.streetchess.net\">tournament.streetchess.net</a>) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1752,30 +1776,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/election-special-2022.html",
          "pubDate" : "Tue, 08 Nov 2022 16:04:00 +0000",
          "title" : "Election Special 2022"
-      },
-      {
-         "description" : "The September 2022 <I>Chess Life</I> had a topical article, 'But Does It Actually Work?; Sadler and Doknjas on improving by studying with modern engines' by IM John Watson. The master book author and reviewer discussed two books:- <UL><LI>Sadler, Matthew. The Silicon Road to Chess Improvement. New in Chess, 2022. <LI>Doknjas, Joshua. The AI Revolution in Chess. Everyman Chess, 2002. [sic; 2022?] </UL> <P>The article is available online at <A HREF=\"https://new.uschess.org/news/watson-book-review-sadler-doknjas-and-modern-engines\">Watson Book Review: Sadler, Doknjas, and Modern Engines</A>(uschess.org). Watson explains, <BLOCKQUOTE>To grossly oversimplify, the older-style engines (like Stockfi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/studying-with-modern-engines.html",
-         "pubDate" : "Mon, 07 Nov 2022 16:07:00 +0000",
-         "title" : "'Studying with Modern Engines'"
-      },
-      {
-         "description" : " The final three rounds of the Chess.com Global Championship took place in Toronto Canada (three players in person in Serbia) 2nd to 7th November. 8 players competed in this final part of the knockout event. Players: Nakamura, Duda, So, Andreikin, Giri, Radjabov, Sarin and Sevian (he lost to Aronian in the 8th finals but replaced him as he had to withdraw). Wesley So won beating Hikaru Nakamura in the semifinal and Nihal Sarin in the final.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-global-championship-finals-2022",
-         "pubDate" : "Mon, 7 Nov 2022 18:51:00 +0400",
-         "title" : "Chess.com Global Championship Finals 2022 - Games and Results"
-      },
-      {
-         "description" : " I'm pretty sure my 40th anniversary as a tournament chess player is coming up, in a few days. Unfortunately my first events were 'Allegro' tournaments, and so I don't have game scores. What I do remember is turning up to the Woden Chess Club towards the end of 1982. On the first night there was an interclub event taking place, so I just played casual games, which I lost quite badly. The next week they started an Allegro event, which was 4 rounds a night with a time limit of G/15m. I started off with 0/8 but eventually recovered to finish on 4/15. Combing through back issues of the Canberra Times, it appears that this event started on the 9th or possibly the 16th of November. As the format w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/i-think-i-have-turned-40-as-chessplayer.html",
-         "pubDate" : "Mon, 07 Nov 2022 13:13:00 +0000",
-         "title" : "I think I have turned 40 (as a chessplayer)"
       }
    ]
 }
