@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-ding-grischuk",
+         "pubDate" : "Sun, 27 Nov 2022 16:13:42 -0800",
+         "title" : "Ding Wins Blockbuster Match Against Grischuk"
+      },
+      {
+         "description" : "Magnus Carlsen was in scintillating form in San Francisco, where he won the Champions Chess Tour Finals. In round 6 he played an excellent match against Praggnanandhaa. After the match ended, we were able to get Magnus on the livestream to discuss some of the critical moments from the match. It was a special interview that ended with Magnus praising the work that ChessBase India is doing and giving a big shout-out to the Indian talents and fans! | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-interview-sagar-2022",
+         "pubDate" : "Sun, 27 Nov 2022 23:30:00 +0100",
+         "title" : "Magnus Carlsen applauds Indian chess talents and fans"
+      },
+      {
+         "description" : "The Schachbundesliga 2022/2023 is German National Team Chess Championship which attracts some of the world's top chess players. The league features 16 teams competing in 15 round-robin rounds. The season is split into six weekend double rounds and rounds 11-15 are played in one long seeking in Berlin. The time control of the event is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/schachbundesliga-2022-2023-live/",
+         "pubDate" : "Sun, 27 Nov 2022 21:30:46 +0000",
+         "title" : "Schachbundesliga 2022/2023 - LIVE"
+      },
+      {
+         "description" : "Indian grandmaster S.L. Narayanan is currently competing in the German Schachbundesliga one of the world&#x2019;s top chess leagues. After today's game, Narayanan posted on his official twitter account that he felt humiliated during the anti-cheating checks which happened before the round. &#8220;Today I felt humiliated. And if I prefer to remain silent about it, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/s-l-narayanan-i-felt-humiliated-during-the-anti-cheating-checks-at-bundesliga/",
+         "pubDate" : "Sun, 27 Nov 2022 21:20:28 +0000",
+         "title" : "S.L. Narayanan: I felt humiliated during the anti-cheating checks at Bundesliga"
+      },
+      {
          "description" : "97th Argentine Championship is taking place from 1-10 December 2022 in Rio Negro, Argentina. It is a 10-player Round-robin tournament. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Starting list of players : No. Name FED Rtg 2 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/97th-argentine-championship-2022-participants/",
          "pubDate" : "Sun, 27 Nov 2022 18:20:17 +0000",
          "title" : "97th Argentine Championship 2022 - Participants"
+      },
+      {
+         "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/mrdodgy-invitational-3.0-2022",
+         "pubDate" : "Sun, 27 Nov 2022 22:11:00 +0400",
+         "title" : "MrDodgy Invitational 3.0 2022 - Games and Results"
       },
       {
          "description" : "Magnus Carlsen only appeared in the line-up for the 1st 16-player qualifier of the prestigious Mr Dodgy Invitational 3 when David Howell dropped out with an hour to spare. Magnus went on to dominate, though he did lose to Kamil Plichta, Gawain Jones and Alan Pichot. Magnus now plays Salem Saleh in the knockout stages.",
@@ -112,22 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-senior-chess-champions-2022-crowned-in-italy/",
          "pubDate" : "Sun, 27 Nov 2022 11:50:31 +0000",
          "title" : "FIDE World Senior Chess Champions 2022 crowned in Italy"
-      },
-      {
-         "description" : "The prestigious MrDodgy Invitational 3.0&#xA0;is a 32-player tournament taking place on chess24 from 25 November to 1 December 2022. The event is played in two group stages A and B., followed by the Knockout stage with 16 players. Each group was a 16-player round-robin with a time control of 5+0 and the best-ranked 8 players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-invitational-3-0-knockout-stage-live/",
-         "pubDate" : "Sun, 27 Nov 2022 11:18:00 +0000",
-         "title" : "MrDodgy Invitational 3.0 - Knockout stage LIVE"
-      },
-      {
-         "description" : "The&#xA0;1st European Small Nations Individual Women Chess Championship&#xA0;took place from 19 &#x2013; 27 November 2022 in Monaco. Ten players representing Andorra, Cyprus, Guernsey, Jersey, Liechtenstein, Malta, Monaco, and San Marino competed in 9 rounds, round-robin system. WGM Tatiana Dornbusch from Monaco convincingly won the event and scored perfect 9/9 points! WFM Andrea Henderson De La []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tatiana-dornbusch-wins-1st-european-small-nations-womens-championship-with-perfect-9-9-score/",
-         "pubDate" : "Sun, 27 Nov 2022 11:02:52 +0000",
-         "title" : "Tatiana Dornbusch wins 1st European Small Nations Women's Championship with perfect 9/9 score!"
       },
       {
          "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "MCCT Finals 2: Carlsen & Duda lead, Giri comeback"
       },
       {
-         "description" : "The 30th edition of the FIDE World Senior Championship began in Assisi, Italy. The country is hosting this event for the eighth time. After the tournaments in Arco (2001), Lignano Sabbiadoro (2005), Arvier (2006), Condino (2009), Arco (2010), Acqui Terme (2015 and 2017), Assisi, the capital of Umbria, a small town in the heart of Italy, picked up the baton. | Photo: FIDE President Arkady Dvorkovich makes the first ceremonial move in the game between GM John Nunn (ENG) and FM Sameer Sursock (LBN) | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-senior-chess-championship-2022-kicks-off-in-assisi-italy",
-         "pubDate" : "Wed, 16 Nov 2022 16:00:36 +0100",
-         "title" : "FIDE World Senior Chess Championship 2022 kicks off in Assisi, Italy"
-      },
-      {
          "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/election-special-2022.html",
          "pubDate" : "Tue, 08 Nov 2022 16:04:00 +0000",
          "title" : "Election Special 2022"
-      },
-      {
-         "description" : "GM Wesley So triumphed at the inaugural Chess.com Global Championship, defeating GM Nihal Sarin in the final with two games to spare. Unfazed by a couple of recent performances, So showed us what it means to be a grandmaster of his caliber, coming...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-global-championship-final-d2",
-         "pubDate" : "Mon, 07 Nov 2022 11:14:00 -0800",
-         "title" : "Wesley So Becomes First-Ever Chess.com Global Champion"
       },
       {
          "description" : "The September 2022 <I>Chess Life</I> had a topical article, 'But Does It Actually Work?; Sadler and Doknjas on improving by studying with modern engines' by IM John Watson. The master book author and reviewer discussed two books:- <UL><LI>Sadler, Matthew. The Silicon Road to Chess Improvement. New in Chess, 2022. <LI>Doknjas, Joshua. The AI Revolution in Chess. Everyman Chess, 2002. [sic; 2022?] </UL> <P>The article is available online at <A HREF=\"https://new.uschess.org/news/watson-book-review-sadler-doknjas-and-modern-engines\">Watson Book Review: Sadler, Doknjas, and Modern Engines</A>(uschess.org). Watson explains, <BLOCKQUOTE>To grossly oversimplify, the older-style engines (like Stockfi",
