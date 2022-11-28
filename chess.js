@@ -1768,14 +1768,6 @@ news_feed (
          "link" : "https://chessimprover.com/mike-basman/",
          "pubDate" : "Mon, 07 Nov 2022 10:48:29 +0000",
          "title" : "Mike Basman"
-      },
-      {
-         "description" : "The 2022 European Youth Chess Championship officially opened yesterday in Antalya, before the start of the first round. The impressive opening ceremony of the event was attended by Turkish Minister of Youth and Sports Dr. Mehmet Muharrem Kasapoglu, the ECU President Zurab Azmaiparashvili, President of Turkish Chess Federation Gulkiz Tulay, Turkiye Is Bankasi Deputy General Manager Suat Sozen,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-championship-2022-opens/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens/",
-         "pubDate" : "Mon, 07 Nov 2022 10:31:06 +0000",
-         "title" : "European Youth Chess Championship 2022 opens"
       }
    ]
 }
