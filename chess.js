@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">FIDE Online Arena, the official gaming platform of the International Chess Federation, advances personal health in e-sport by introducing a new feature to measure calories burned by playing online. Starting from today, <a href=\"https://chessarena.com\">FIDE Online Arena</a>, the official FIDE gaming platform, which is operated by World Chess, will track and display the calories users burn during an online game of chess. Whilst calorie tracking is already widely used across offline fitness and sports, including chess, it has not previously been used as a feature in e-sports. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.7777777777778\"> <im",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/chess-platform-to-measure-calories-burned-by-playing-chess-onlin/",
+         "pubDate" : "Mon, 28 Nov 2022 11:54:58 +0000",
+         "title" : "Chess Platform to Measure Calories Burned by Playing Chess Online"
+      },
+      {
+         "description" : "Tireless in his quest for truth, Karsten Mueller brings up the rear with a selection of instructive and sometimes jawdropping endgames. Wesley So is both teacher and student as he overwhelms one opponent but stumbles in a simplified rook endgame against another. Be sure to see the notes to the last game with some amazing shots sure to leave you scratching your head.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mueller-on-meltwater",
+         "pubDate" : "Mon, 28 Nov 2022 12:00:00 +0100",
+         "title" : "Mueller on Meltwater"
+      },
+      {
          "description" : "Please find live link of MPL National Sub-Junior Chess Championship 2022 Open https://view.livechesscloud.com/#9fa1fbe3-7812-48b5-8705-2577f844213d Girls https://view.livechesscloud.com/#00733143-c9c7-49ab-a209-4a4c8a9d3023",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kamila-hryshchenko-world-congress-of-chess-composition/",
          "pubDate" : "Mon, 28 Nov 2022 09:10:07 +0000",
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
+      },
+      {
+         "description" : " The FIDE Women Candidates Pool B takes place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the titel. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
+         "pubDate" : "Mon, 28 Nov 2022 12:05:00 +0400",
+         "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
       },
       {
          "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. Pool B will take place from November 29 to December 11 at the Hotel Farovon Khiva in the ancient city of Khiva, Uzbekistan. | Photos: FIDE / David Llada",
@@ -280,6 +304,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/keeping-calm",
          "pubDate" : "Sat, 26 Nov 2022 09:00:00 +0100",
          "title" : "Keep calm!"
+      },
+      {
+         "description" : " The 13th World Team Chess Championship took place in Jerusalem 20th to 25th November 2022. There was a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was potentially higher. This time there were a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not at all the best that could be put out by each country. In the end China beat Uzbekistan in the final with Spain beating India to take bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
+         "pubDate" : "Sat, 26 Nov 2022 11:58:00 +0400",
+         "title" : "13th World Teams 2022 - Games and Results"
       },
       {
          "description" : "",
@@ -1018,14 +1050,6 @@ news_feed (
          "title" : "Carlsen Wins Champions Chess Tour Finals With Round To Spare"
       },
       {
-         "description" : " The 13th World Team Chess Championship takes place in Jerusalem 20th to 25th November 2022. There has been a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was higher. This time there are a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not the best that could be put out. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
-         "pubDate" : "Sun, 20 Nov 2022 13:18:00 +0400",
-         "title" : "13th World Teams 2022 - Games and Results"
-      },
-      {
          "description" : "It has been nearly 40 years since an American last emerged victorious in the World Correspondence Chess Championship, but GM Jon Edwards has succeeded by winning the 32nd edition. While not a little remarkable, Jon Edwards holds another lesser known title: owner of the largest chess stamp collection in the world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/speculative-sponsor.html",
          "pubDate" : "Thu, 17 Nov 2022 16:47:00 +0000",
          "title" : "Speculative Sponsor"
-      },
-      {
-         "description" : "On Sunday, the World Team Championship begins in Jerusalem. Some federations come with the best possible line-up, other federations send B-teams. The tournament will be held in a new format with a shorter time-control. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-team-championships-in-jerusalem-start-on-monday",
-         "pubDate" : "Thu, 17 Nov 2022 16:10:09 +0100",
-         "title" : "The World Team Championships in Jerusalem start on Sunday"
       },
       {
          "description" : "Jan-Krzysztof Duda couldn't stop smiling as he unleashed a 9-move checkmating combination on Anish Giri to win their Round 3 Meltwater Champions Chess Tour Finals match 2.5:0.5. It was a fast day, as Magnus Carlsen swept Shakhriyar Mamedyarov 3:0, Praggnanandhaa did the same to Liem Le, and Wesley So scored his 1st win of this year's Tour.",
@@ -1760,14 +1776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/i-think-i-have-turned-40-as-chessplayer.html",
          "pubDate" : "Mon, 07 Nov 2022 13:13:00 +0000",
          "title" : "I think I have turned 40 (as a chessplayer)"
-      },
-      {
-         "description" : " The UK chess community is mourning the loss of IM Mike Basman, whose death at the age of 76 was reported last week. Mike was one of the great characters of chess, a true eccentric with a truly eccentric style of play, famous for his use of rather dubious openings with early moves of his <a href=\"https://chessimprover.com/mike-basman/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Mike Basman\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/mike-basman/\">Mike Basman</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/mike-basman/",
-         "pubDate" : "Mon, 07 Nov 2022 10:48:29 +0000",
-         "title" : "Mike Basman"
       }
    ]
 }
