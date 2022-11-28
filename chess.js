@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. Pool B will take place from November 29 to December 11 at the Hotel Farovon Khiva in the ancient city of Khiva, Uzbekistan. | Photos: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-preview",
+         "pubDate" : "Mon, 28 Nov 2022 09:00:00 +0100",
+         "title" : "Women's Candidates: Pool B players make their way to Khiva"
+      },
+      {
+         "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-2022-final-report/",
+         "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
+         "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
+      },
+      {
          "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -810,14 +826,6 @@ news_feed (
          "title" : "World Senior Chess Championship 2022: It's halftime!"
       },
       {
-         "description" : "Round 4: On the top board in boy's section, IM Neelash Saha played Catalan against Phillipine's Labog. They reached the double bishop versus double knight endgame",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-2022-round-4-day-3/",
-         "pubDate" : "Mon, 21 Nov 2022 11:14:27 +0000",
-         "title" : "ASIAN JUNIOR 2022 : Round 4 (Day 3)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1290,14 +1298,6 @@ news_feed (
          "title" : "European Cities & Towns Chess Championship to take place in January 2023"
       },
       {
-         "description" : "All four matches in round 3 of the Meltwater Champions Chess Tour Finals lasted three games, as Magnus Carlsen, Jan-Krzysztof Duda, Wesley So and Praggnanandhaa all secured clear victories which granted them 3 match points for the standings. Carlsen and Duda continue to share the lead, now no fewer than 5 points ahead of their closest chasers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r3",
-         "pubDate" : "Thu, 17 Nov 2022 07:10:00 +0100",
-         "title" : "Meltwater Finals: Pragg scores 3-0 win, Duda and Carlsen still perfect"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95570778.cms\" />Indian Grandmaster R Praggnanandhaa posted his first win while compatriot Arjun Erigaisi suffered a third straight defeat in the Meltwater Champions Tour Finals on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1768,14 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2022-opens/",
          "pubDate" : "Mon, 07 Nov 2022 10:31:06 +0000",
          "title" : "European Youth Chess Championship 2022 opens"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2082",
-         "pubDate" : "Mon, 07 Nov 2022 06:00:00 +0000",
-         "title" : "Almaty, Kazakhstan to host 2022 FIDE Rapid & Blitz Championships in late December"
       }
    ]
 }
