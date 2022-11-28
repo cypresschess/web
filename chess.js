@@ -178,7 +178,7 @@ news_feed (
          "title" : "Happy birthday - Vlastimil Jansa turns 80!"
       },
       {
-         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! &#8216;There will be dancing in the streets of Bude tonight' Kevin Thurlow,...",
+         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ &#8216;There will be dancing in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
