@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-ding-grischuk",
-         "pubDate" : "Sun, 27 Nov 2022 16:13:42 -0800",
+         "pubDate" : "Sun, 27 Nov 2022 16:13:00 -0800",
          "title" : "Ding Wins Blockbuster Match Against Grischuk"
       },
       {
