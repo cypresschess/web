@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MPL 47th National Sub Junior &#38; 38th National Sub Junior Girls Chess Championship-2022 kick starts at IGI stadium Delhi with a bang . A number",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-47th-national-sub-junior-38th-national-sub-junior-girls-chess-championship-2022-report/",
+         "pubDate" : "Tue, 29 Nov 2022 11:57:10 +0000",
+         "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
+      },
+      {
+         "description" : "Girls U15 MPL 38th Indian Youth Championship is taking place from 28 November to 6 December 2022 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament&#xA0;with Sachi Jain, Anishka Vikram, Mrittika Mallick, Tejaswini G, Shubhi Gupta, Kheerthi Ganta, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u15-mpl-38th-indian-youth-championship-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 11:53:46 +0000",
+         "title" : "Girls U15 MPL 38th Indian Youth Championship 2022 - LIVE"
+      },
+      {
+         "description" : "U15 MPL 47th Indian Youth Championship is taking place from 28 November to 6 December 2022 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament&#xA0;with Gawai Siddhant, Dhyey Agarwal, Kavin Oviyan R,Daaevik Wadhawan,Abhash Roimya Saikia, Ashish Chaudhari, Shahil []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u15-mpl-47th-indian-youth-championship-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 11:49:19 +0000",
+         "title" : "U15 MPL 47th Indian Youth Championship 2022 - LIVE"
+      },
+      {
          "description" : "The Kallai Gabor Memorial Rapid is taking place from 28&#x2013;30 November 2022 in Budapest, Hungary. Players receive 25 minutes for the entire game, plus a 5-second increment starting from move one. It is a 10-player round-robin tournament with Alexander Motylev, Adam Kozak, Robert Ruck, Jonas Buhl Bjerre, Marcell Borhy, Kayden Troff, Ferenc Berkes, Csaba Horvath, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,22 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-216-with-jana-schneider",
          "pubDate" : "Mon, 28 Nov 2022 18:00:00 +0100",
          "title" : "Endgame Magic #216 - with Jana Schneider"
-      },
-      {
-         "description" : "The&#xA0;2022 Kazakhstan Women&#x2019;s Chess Championship&#xA0;will take place from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;, concurently with the&#xA0;Kazakhstan Open Chess Championship 2022. It will be an 11-player round-robin tournament with&#xA0;WIM Meruert Kamalidenova&#xA0;as the top seed. (The complete list of players can be found here) Chessdom will follow the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-womens-chess-championship-2022-live/",
-         "pubDate" : "Mon, 28 Nov 2022 16:56:07 +0000",
-         "title" : "Kazakhstan Women's Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#160;2022 Kazakhstan Women's Chess Championship&#160;will be held from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;, simultaneously with the Kazakhstan Open Chess Championship 2022. It will be an 11-player round-robin tournament with WIM Meruert Kamalidenova as the top seed. The field includes WIM Assel Serikbay, WIM Amina Kairbekova, WIM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-womens-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 16:47:27 +0000",
-         "title" : "Kazakhstan Women's Chess Championship 2022"
       },
       {
          "description" : "The previous report on the globe's top engine vs. engine ongoing tournaments was <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html\">TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish</A>(November 2022). Here's a summary of that report. <BLOCKQUOTE>TCEC: After 83 games in the S23 Sufi ('Superfinal'), Stockfish leads LCZero +19-6=58. It needs only 2.5 more points to clinch its sixth straight Sufi. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon (1-2-3 in that order) -- are in the lead for the 'Challenger' (2-3) and 'Final' (1-?) matches. </BLOCKQUOTE> <P>Stockfish won both events by significant margins. The rest of this post ",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://aicf.in/asian-junior-round-5-and-round-6-day-4/",
          "pubDate" : "Wed, 23 Nov 2022 06:49:50 +0000",
          "title" : "ASIAN JUNIOR: Round 5 and Round 6 (Day 4)"
-      },
-      {
-         "description" : "India was paired against USA in the final round for quarter final qualification. The match ended 3:1 in India's favour with Vidit Gurathi and SL Narayanan",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-2022report-day-3/",
-         "pubDate" : "Wed, 23 Nov 2022 06:36:14 +0000",
-         "title" : "World Team Chess Championship 2022:Report Day 3"
       },
       {
          "description" : "Day 3 of the World Team Championships saw four teams leaving the competition as the preliminaries came to an end in Jerusalem. South Africa and the Netherlands did not make it through in Pool A, while Israel and the United States were eliminated in Pool B. Poland barely qualified, after tying in match points and individual points with Israel - a better tiebreaker score allowed the Polish team to move on. | Photo: Mark Livshitz",
