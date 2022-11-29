@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Chess Championship 2023 is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/",
+         "pubDate" : "Tue, 29 Nov 2022 14:50:24 +0000",
+         "title" : "European Individual Chess Championship 2023 - Official regulations"
+      },
+      {
+         "description" : "FIDE functions on the basis of its different commissions. For the rules related to arbiters, we have the arbiters commission, for the rules related to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/eight-indians-are-members-of-fide-commissions-from-2022-26/",
+         "pubDate" : "Tue, 29 Nov 2022 13:17:44 +0000",
+         "title" : "Eight Indians are members of FIDE commissions from 2022-26"
+      },
+      {
          "description" : "MPL 47th National Sub Junior &#38; 38th National Sub Junior Girls Chess Championship-2022 kick starts at IGI stadium Delhi with a bang . A number",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
          "pubDate" : "Wed, 23 Nov 2022 08:00:00 +0100",
          "title" : "What's new in ChessBase 17: Livestream with the developers"
-      },
-      {
-         "description" : "The overnight leaders IM Neelash and IM Harshavardhan drew both their games today. Utsab won a positional game in round 6 to catch up with the leaders. After",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-round-5-and-round-6-day-4/",
-         "pubDate" : "Wed, 23 Nov 2022 06:49:50 +0000",
-         "title" : "ASIAN JUNIOR: Round 5 and Round 6 (Day 4)"
       },
       {
          "description" : "Day 3 of the World Team Championships saw four teams leaving the competition as the preliminaries came to an end in Jerusalem. South Africa and the Netherlands did not make it through in Pool A, while Israel and the United States were eliminated in Pool B. Poland barely qualified, after tying in match points and individual points with Israel - a better tiebreaker score allowed the Polish team to move on. | Photo: Mark Livshitz",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://chessimprover.com/quick-decisions-10/",
          "pubDate" : "Tue, 08 Nov 2022 18:17:42 +0000",
          "title" : "Quick Decisions (10)"
-      },
-      {
-         "description" : "In a post that was titled <A HREF=\"http://chessforallages.blogspot.com/2016/11/election-special.html\">Election Special</A>(November 2016), but should have been titled 'Election Special 2016', I wrote, <BLOCKQUOTE>With the USA voting today, it seems that everywhere I look someone is running an 'election special'. Why shouldn't I? </BLOCKQUOTE> <P>That was six years ago, when my special was a 'Google Image search on \"chess hillary trump\"'. I neglected to do similar two years ago, but the search I would have used then still works on today's election day in the USA. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk08.jpg\" WIDTH=400 HEIGHT=175><BR><B>Google Image search on 'chess t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/election-special-2022.html",
-         "pubDate" : "Tue, 08 Nov 2022 16:04:00 +0000",
-         "title" : "Election Special 2022"
       }
    ]
 }
