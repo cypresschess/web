@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kallai Gabor Memorial Rapid is taking place from 28&#x2013;30 November 2022 in Budapest, Hungary. Players receive 25 minutes for the entire game, plus a 5-second increment starting from move one. It is a 10-player round-robin tournament with Alexander Motylev, Adam Kozak, Robert Ruck, Jonas Buhl Bjerre, Marcell Borhy, Kayden Troff, Ferenc Berkes, Csaba Horvath, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kallai-gabor-memorial-rapid-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 11:39:06 +0000",
+         "title" : "Kallai Gabor Memorial Rapid 2022 - LIVE"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-vs-kateryna-lagno-womens-candidates-pool-b-game-1-live/",
+         "pubDate" : "Tue, 29 Nov 2022 10:14:38 +0000",
+         "title" : "Tan Zhongyi vs Kateryna Lagno; Women's Candidates Pool B Game 1 LIVE"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-1-live/",
+         "pubDate" : "Tue, 29 Nov 2022 10:13:46 +0000",
+         "title" : "Alexandra Kosteniuk vs Aleksandra Goryachkina; Women's Candidates Pool B Game 1 LIVE"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in the ancient city of Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Tue, 29 Nov 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B: Live"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-1-live-video-coverage/",
+         "pubDate" : "Tue, 29 Nov 2022 09:23:18 +0000",
+         "title" : "Women's Candidates Pool B - Day 1 live video coverage"
+      },
+      {
+         "description" : "The 30th edition of the FIDE World Senior Chess Championship in Assisi (Italy) ended on Saturday, November 26, after a hard fight until the last minute. In the 50+ group, the Georgian Grandmaster Zurab Sturua became the new World Champion. The Women's World Champion in this group was WGM Elvira Berend (Luxembourg). In the 65+ group the title went to English GM John Nunn (pictured), the women's title was won by GM Nona Gaprindashvili (Georgia). | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/winners-crowned-at-world-senior-championship-2022",
+         "pubDate" : "Tue, 29 Nov 2022 10:02:19 +0100",
+         "title" : "Winners crowned at World Senior Championship 2022"
+      },
+      {
+         "description" : "A long-awaited second pool of the FIDE Women's Candidates has finally started in Uzbekistan, in the beautiful oasis city of Khiva. In the next two weeks, the chess world will follow exciting chess battles of leading world female players fighting for the second spot in the big final. The winner of Pool B will take []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-pool-b-opened-in-khiva/",
+         "pubDate" : "Tue, 29 Nov 2022 08:54:59 +0000",
+         "title" : "Women's Candidates Pool B opened in Khiva"
+      },
+      {
+         "description" : "Wesley So and Hikaru Nakamura top a line-up packed full of Indian prodigies as the Tata Steel Chess India Rapid & Blitz begins today in the National Library in Kolkata, with the first three rounds of the rapid tournament. For the first time there's also a parallel Women's tournament featuring Humpy Koneru, the Muzychuk sisters and more top players.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-starts-in-kolkata",
+         "pubDate" : "Tue, 29 Nov 2022 08:28:54 +0000",
+         "title" : "Tata Steel Chess India starts in Kolkata"
+      },
+      {
          "description" : "It is a well-known but still slightly surprising fact that king, bishop and outside pawn cannot win against a bare king if the defending king is in front of the pawn and the bishop does not control the queening square of the pawn - a constellation Hans Kmoch called the \"impotent pair\". In the diagram position Black is close to such a draw but has to be precise to reach it. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-speed-chess-championship-r16-mvl-nepomniachtchi",
-         "pubDate" : "Mon, 28 Nov 2022 21:15:54 -0800",
+         "pubDate" : "Mon, 28 Nov 2022 21:15:00 -0800",
          "title" : "Vachier-Lagrave Stuns Nepomniachtchi In Bullet Blowout"
       },
       {
@@ -114,12 +178,12 @@ news_feed (
          "title" : "Kazakhstan Women's Chess Championship 2022"
       },
       {
-         "description" : "The&#xA0;2022 National Chess Championship of Kazakhstan&#xA0;will take place from 1st &#x2013; 12th December in Semey at the Cultural and sports complex &#x201C;Abay Arena&#x201D;. The event features 14 players who will compete for the title of the National champion in 13 rounds (round-robin system). GM Murtas Kazhgaleyev&#xA0;headlines the field and the complete starting list of players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-chess-championship-2022-live/",
-         "pubDate" : "Mon, 28 Nov 2022 16:33:26 +0000",
-         "title" : "Kazakhstan Chess Championship 2022 - LIVE"
+         "description" : "The previous report on the globe's top engine vs. engine ongoing tournaments was <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html\">TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish</A>(November 2022). Here's a summary of that report. <BLOCKQUOTE>TCEC: After 83 games in the S23 Sufi ('Superfinal'), Stockfish leads LCZero +19-6=58. It needs only 2.5 more points to clinch its sixth straight Sufi. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon (1-2-3 in that order) -- are in the lead for the 'Challenger' (2-3) and 'Final' (1-?) matches. </BLOCKQUOTE> <P>Stockfish won both events by significant margins. The rest of this post ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-ccc19-rapid-stockfish-wins-both.html",
+         "pubDate" : "Mon, 28 Nov 2022 16:44:00 +0000",
+         "title" : "TCEC S23, CCC19 Rapid : Stockfish Wins Both"
       },
       {
          "description" : "GM John Nunn won the gold medal in the 65+ section of the World Senior Chess Championships held in Assisi, Italy. Playing in the same group, GM Nona Gaprindashvili won the women&#39;s senior title for the eighth time. GM Zurab Sturua won the 50+ secti...",
@@ -168,38 +232,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-scores-7-0-mrdodgy-invitational-win",
          "pubDate" : "Mon, 28 Nov 2022 15:17:00 +0000",
          "title" : "Magnus scores 7:0 MrDodgy Invitational win"
-      },
-      {
-         "description" : "The 2022 National Chess Championship of Kazakhstan will take place from 1st 12th December in Semey at the Cultural and sports complex &#8220;Abay Arena&#8221;. The event gathers 14 players who will compete for the title of the National champion in 13 rounds (round-robin system). GM Murtas Kazhgaleyev headlines the field which includes IM Alisher []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 15:16:36 +0000",
-         "title" : "Kazakhstan Chess Championship 2022"
-      },
-      {
-         "description" : "The&#xA0;2022 European Open and Women Rapid &#38; Blitz Chess Championships&#xA0;will take place from 16th-18th December in Katowice, Poland. The first tournament on the schedule will be the&#xA0;European Blitz Chess Championship&#xA0;which will be played on December 16th. Open and Women&#x2019;s sections will be merged, with separate prizes for the best ranked female players. The event will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022-live/",
-         "pubDate" : "Mon, 28 Nov 2022 14:54:54 +0000",
-         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022 - LIVE"
-      },
-      {
-         "description" : "The&#xA0;FIDE Women&#x2019;s World Rapid &#38; Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Open World Rapid and Blitz Championships. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 seconds increment per move, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-rapid-and-blitz-chess-championship-2022-live/",
-         "pubDate" : "Mon, 28 Nov 2022 14:50:04 +0000",
-         "title" : "FIDE Women's World Rapid and Blitz Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#160;2022 NC Open&#160;was held over Thanksgiving Weekend from 25-27 November 2022 in Charlotte, NC, USA. The NCO featured a&#160;$11,000&#160;prize fund and was played in 8 US Chess rated sections: Championship (1900+), U1900, U1700, U1500, U1300 and U1100. The event was running alongside the&#160;2022 US Masters, a national event that featured the top players in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/diego-zilleruelo-wins-nc-open-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 14:26:44 +0000",
-         "title" : "Diego Zilleruelo wins NC Open Championship 2022"
       },
       {
          "description" : "With Magnus Carlsen, chess has become incredibly popular in Norway and the Norwegian Junior and Children's Championships attracted a lot of young players. Maybe one of them is the next Magnus Carlsen? Holger Blauhut reports. | Photos: Holger Blauhut and the organisers",
@@ -1282,22 +1314,6 @@ news_feed (
          "title" : "MCCT Finals 4: Carlsen beats Giri 3:0 to take sole lead"
       },
       {
-         "description" : "This week, Daniel King looks at a brilliant attack by Jan-Krzysztof attack and revisits the stalemate theme, as he shows a brilliant resource also seen at the Meltwater Tour Finals. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-duda-dazzles",
-         "pubDate" : "Fri, 18 Nov 2022 18:05:00 +0100",
-         "title" : "Daniel King's Power Play Show: Duda dazzles"
-      },
-      {
-         "description" : "The 64th World Congress of Chess Composition (WCSC) is in full swing in Fujairah, UAE. The first day of the World Solving Chess Championship saw FM Bilguun Sumia (pictured below) from Mongolia grab the lead. But in the end the reigning Champion, FIDE solving GM Danila Pavlov (pictured), showed his mettle and defended his title.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/danila-pavlov-wins-title-at-world-congress-of-chess-composition",
-         "pubDate" : "Fri, 18 Nov 2022 18:00:00 +0100",
-         "title" : "Danila Pavlov wins title at World Congress of Chess Composition"
-      },
-      {
          "description" : "A week ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fischer-busted.html\">Fischer Busted</A>(November 2022), I promised, 'We're nearing the end of this blog's 'Fischer Friday' series'. I'll end the series with a post on <A HREF=\"https://www.mark-weeks.com/chess/7375$wix.htm\">1975 Fischer forfeits to Karpov</A>(m-w.com). The drawing below -- by artist Greg Spalenka -- is from the 29 July 1985 issue of <I>Sports Illustrated</I> (SI). See the post <A HREF=\"http://chessforallages.blogspot.com/2017/06/fischer-im-not-seeing-people.html\">Fischer: 'I'm not seeing people'</A>(June 2017; '1985-07-29: Bobby Fischer') for a link. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/c",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1552,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2089",
          "pubDate" : "Tue, 15 Nov 2022 17:02:06 +0000",
          "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
-      },
-      {
-         "description" : "Magnus Carlsen won a thrilling match against Wesley So to take his Meltwater Champions Chess Tour season earnings to exactly $200,000 as the final event began in San Francisco. There were also wins for Jan-Krzysztof Duda, Shakhriyar Mamedyarov and Anish Giri, who overcame Liem Le in a blitz tiebreak.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-1-carlsen-beats-so-in-thriller",
-         "pubDate" : "Tue, 15 Nov 2022 15:29:28 +0000",
-         "title" : "MCCT Finals 1: Carlsen beats So in thriller"
       },
       {
          "description" : "",
