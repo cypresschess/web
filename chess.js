@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India Rapid and Tata Steel Chess India Women&#39;s Rapid were inaugurated at a short evening ceremony in Kolkata, India. At its fourth edition, the iconic event with separate rapid and blitz sections and a total prize fund of $41,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-india-rapid-blitz-inaugurated-in-kolkata",
+         "pubDate" : "Mon, 28 Nov 2022 14:24:22 -0800",
+         "title" : "Tata Steel Chess India Rapid & Blitz Inaugurated In Kolkata"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-books-for-christmas-and-karpovs-enigma/",
          "pubDate" : "Sat, 12 Nov 2022 08:00:32 +0000",
          "title" : "Chess books for Christmas - and Karpov's enigma"
-      },
-      {
-         "description" : "The 2022 Chess.com Speed Chess Championship commenced on Thursday with a cutthroat qualifier where GM David Paravyan emerged victorious after defeating GM Tuan Minh Le in a dazzling armageddon tiebreaker. Amidst a field of 142 titled players, Mi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paravyan-wins-2022-speed-chess-championship-qualifier-1",
-         "pubDate" : "Fri, 11 Nov 2022 11:22:11 -0800",
-         "title" : "Unstoppable Paravyan Qualifies For SCC Main Event"
       },
       {
          "description" : "We're nearing the end of this blog's 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html\">Fashionable Fischer</A>(November 2022). This current post has nothing to do with Fischer's 1972 or 1992 matches, and takes its title from an old post <A HREF=\"http://chessforallages.blogspot.com/2012/05/korchnoi-busted.html\">Korchnoi Busted</A>(May 2012). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk11.jpg\" WIDTH=400 HEIGHT=300> <P>I found the photo on <A HREF=\"https://www.deviantart.com/florijanmedjugorje/art/Bobby-Fischer-166312639\">Bobby Fischer by florijanmedjugorje</A>(deviantart.com), and compressed its description ",
