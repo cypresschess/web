@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is a well-known but still slightly surprising fact that king, bishop and outside pawn cannot win against a bare king if the defending king is in front of the pawn and the bishop does not control the queening square of the pawn - a constellation Hans Kmoch called the \"impotent pair\". In the diagram position Black is close to such a draw but has to be precise to reach it. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wonderful-stalemates",
+         "pubDate" : "Tue, 29 Nov 2022 09:00:00 +0100",
+         "title" : "Wonderful stalemates"
+      },
+      {
+         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Our Provincial Junior Championship returned to in-person play this year. The games were played during the Nov 19-20 weekend. A number of our past and current <a href=\"https://chessimprover.com/students-analysis-11/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (11)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-11/\">Students Analysis (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/students-analysis-11/",
+         "pubDate" : "Tue, 29 Nov 2022 07:48:39 +0000",
+         "title" : "Students Analysis (11)"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 07:30:00 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
+         "pubDate" : "Tue, 29 Nov 2022 07:27:00 +0000",
+         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
+      },
+      {
+         "description" : "LIVE GAMES : OPEN LIVES GAMES : WOMEN",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
+         "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
+         "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
+      },
+      {
+         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
+         "pubDate" : "Tue, 29 Nov 2022 07:25:00 +0100",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, takes place from November 29 till December 4, 2022.&#xA0;The Tata Steel Chess India 2022 this year has the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 06:20:00 +0000",
+         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave&#38;nbsp;convincingly won his round of 16 match against GM Ian Nepomniachtchi by the greatest margin yet in Chess.com&#39;s 2022 Speed Chess Championship on Monday after an exceptional run in the bullet portion. Vachier-Lagrave...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-speed-chess-championship-r16-mvl-nepomniachtchi",
+         "pubDate" : "Mon, 28 Nov 2022 21:15:54 -0800",
+         "title" : "Vachier-Lagrave Stuns Nepomniachtchi In Bullet Blowout"
+      },
+      {
          "description" : "The Tata Steel Chess India Rapid and Tata Steel Chess India Women&#39;s Rapid were inaugurated at a short evening ceremony in Kolkata, India. At its fourth edition, the iconic event with separate rapid and blitz sections and a total prize fund of $41,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -62,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-world-senior-chess-championships-nunn-gaprindashvili",
-         "pubDate" : "Mon, 28 Nov 2022 08:27:51 -0800",
+         "pubDate" : "Mon, 28 Nov 2022 08:27:00 -0800",
          "title" : "Gold For Nunn, Sturua, Gaprindashvili, Berend At World Senior Championships"
       },
       {
@@ -146,14 +210,6 @@ news_feed (
          "title" : "The next Magnus Carlsen in Molde?"
       },
       {
-         "description" : "The 2022 US Masters took place over the Thanksgiving Weekend from November 23-27 at Hilton Charlotte University Place, in Charlotte, NC, USA.&#xA0;The&#xA0;US Masters Chess Championship&#xA0;is an official US Chess National Championship event which featured a&#xA0;20.000$&#xA0;prize fund and it was played in 9 rounds, swiss system, with time control is 90 minutes for the entire game, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-christopher-yoo-wins-us-masters-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 14:06:27 +0000",
-         "title" : "GM Christopher Yoo wins US Masters Chess Championship 2022"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95832141.cms\" />Indian Grandmaster SL Narayanan felt \"humiliated\" as he was left to stand barefoot inside the playing hall for metal detector check during a Bundesliga chess league match in Germany on Monday. As there was a beep sound during the metal detector check, Narayanan was made to remove his shoes and subsequently his socks too. It was later found out that the beep sound emanated from the carpet on the floor.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -186,14 +242,6 @@ news_feed (
          "title" : "Live Link : MPL National Sub-Junior Chess Championship 2022"
       },
       {
-         "description" : "Sri Lanka's Chess Federation Golden Jubilee Open Chess Championship 2022 took place from 23-27 November at Sports Ministry Pavilion, Colombo. The event attracted 37 entries among whom 13 titled players. The tournament was played in 9 rounds, swiss system, with time control of 90 minutes plus 30 seconds increment. The total prize fund of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-mihail-nikitenko-wins-cfsl-golden-jubilee-open-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 09:15:09 +0000",
-         "title" : "GM Mihail Nikitenko wins CFSL Golden Jubilee Open Chess Championship 2022"
-      },
-      {
          "description" : "First of all, I want to say that it was nice to be a part of the GB team at the WCCC 2022 in Fujairah....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -224,14 +272,6 @@ news_feed (
          "link" : "https://aicf.in/asian-juniors-2022-final-report/",
          "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
          "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
-      },
-      {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 will this year have the women's tournament with the same format &#x2013; rapid and blitz. The Rapid event will be first on the schedule, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-participants-lists/",
-         "pubDate" : "Mon, 28 Nov 2022 04:15:00 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 starts in Kolkata"
       },
       {
          "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
@@ -882,14 +922,6 @@ news_feed (
          "title" : "World Teams: Netherlands, U.S. In Trouble"
       },
       {
-         "description" : "India defeated Azerbaijan in the third round while suffered shock defeat against Uzbekistan in the fourth of the ongoing World Team Chess Championship at Jerusalem",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-mixed-day-for-india/",
-         "pubDate" : "Tue, 22 Nov 2022 08:14:53 +0000",
-         "title" : "World Team Chess Championship- Mixed day for India"
-      },
-      {
          "description" : "This is not just an update of the standard program that everybody uses - from rank amateurs to tournament players all the way up to world champions. Today we would like you to tell you about the major features of the new version, ChessBase 17: the improved analysis functions, data format, search mask and the very exciting feature of finding beauty in games. We even have an interview with the main programmers. You are sure to get your money worth by going for the new ChessBase 17. Order it this afternoon, from 15:00h CET, and get it at a premium discount price!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1282,14 +1314,6 @@ news_feed (
          "title" : "Meltwater Tour Finals 2022: Carlsen takes the sole lead"
       },
       {
-         "description" : "Magnus Carlsen continues his perfect run at the Meltwater Champions Chess Tour Finals as he got a second consecutive 3-0 win on Thursday. The world champion defeated Anish Giri while former co-leader Jan-Krzysztof Duda lost to Le Quang Liem, which means Carlsen has now taken the sole lead with three rounds to go. Wesley So and Arjun Erigaisi also won their round-4 matches.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r4",
-         "pubDate" : "Fri, 18 Nov 2022 14:35:00 +0100",
-         "title" : "Meltwater Finals: Carlsen bamboozles Giri"
-      },
-      {
          "description" : " The Vikings Weekender has always been a bit of a hidden gem on the Australian Weekend circuit. Run in 2 sections, it usually attracts between 50 to 70 players, has a fairly strong set of regular players (1 or 2 IM's, plus assorted 2000+ players), good prize money ($3000+) and an excellent venue. Unlike the more crowded events elsewhere, it always has a somewhat relaxed feel about it, even when players are striving for prizes and rating points. This year event has attracted 50 players, which might have been more if some of the players who had entered early had not pulled out. The top section is larger than the Under 1600 section (!), with IM Junta Ikeda and IM Stephen Solomon the headline ac",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1624,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2085",
          "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
          "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
-      },
-      {
-         "description" : "GM Alexander Grischuk won the second qualifier of the 2022 Chess.com Speed Chess Championship on Sunday following a convincing triumph over compatriot GM Vladislav Artemiev in the final. Having claimed he hadn&#39;t looked at chess for two or three ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-wins-2022-speed-chess-championship-qualifier-2",
-         "pubDate" : "Sun, 13 Nov 2022 18:38:00 -0800",
-         "title" : "Grischuk Masterclass Seals Qualifying Spot"
       },
       {
          "description" : "The description tells us 'What' and 'Why'. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Wd8Acy60xQQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How chess is made || These workers make money by making chess sets</B> (10:02) &#149; '[Published on] Nov 4, 2022' <P>The description said, <BLOCKQUOTE>In this video make money by making chess sets and how its made chase [sic] set. Best way to earn money. </BLOCKQUOTE> <P>The comments mention India, but the description links to a Facebook page that says 'Karachi, Pakistan'. The whole thing remind",
