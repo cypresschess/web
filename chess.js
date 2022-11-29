@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-india-rapid-day-1",
+         "pubDate" : "Tue, 29 Nov 2022 11:55:06 -0800",
+         "title" : "Mamedyarov, Dzagnidze In Full-Point Leads With Clean Scores"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-primer-beginner-breakdown",
+         "pubDate" : "Tue, 29 Nov 2022 19:34:09 +0000",
+         "title" : "The Pawn Primer | Beginner Breakdown"
+      },
+      {
+         "description" : "The 4th edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, started today in Kolkata with the Rapid event. The event features a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Shakhriyar Mamedyarov grabbed the early lead as he was the only player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-takes-early-lead-at-the-tata-steel-chess-india-rapid-2022/",
+         "pubDate" : "Tue, 29 Nov 2022 19:13:04 +0000",
+         "title" : "Shakhriyar Mamedyarov takes early lead at the Tata Steel Chess India Rapid 2022"
+      },
+      {
+         "description" : "The&#160;Women&#x2019;s Candidates Pool B tournament&#160;commenced today in Khiva, Uzbekistan after yesterday&#x2019;s&#160;official opening. The event features four players&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk,&#160;Kateryna Lagno&#160;and&#160;Tan Zhongyi&#160;fighting in a knock-out system for a place in the Women&#x2019;s Candidates finals against&#160;Lei Tingjie Both games on the Day 1 finished in draws (Day 1 report can be found here) but it looked that []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-i-was-very-worried-about-my-position-video/",
+         "pubDate" : "Tue, 29 Nov 2022 18:47:19 +0000",
+         "title" : "Alexandra Kosteniuk: I was very worried about my position (VIDEO)"
+      },
+      {
+         "description" : "The Women's Candidates Pool B tournament commenced today in Khiva, Uzbekistan after yesterday's official opening. The event features four players Aleksandra Goryachkina, Alexandra Kosteniuk, Kateryna Lagno and Tan Zhongyi fighting in a knock-out system for a place in the Women's Candidates finals against Lei Tingjie Both games on the Day 1 finished in a peaceful []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-draw-is-okay-but-i-have-a-feeling-that-i-was-better-video/",
+         "pubDate" : "Tue, 29 Nov 2022 18:33:39 +0000",
+         "title" : "Kateryna Lagno: Draw is okay but I have a feeling that I was better (VIDEO)"
+      },
+      {
+         "description" : "The first game of the 2022 Women&#x2019;s Candidates Pool B kicked off this afternoon in the walled city of Khiva a remote desert oasis on the Silk Road in Uzbekistan. In light of the country&#x2019;s current chess boom, due to the many recent outstanding results by their national team, the federation bid for this []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-pool-b-kicks-off-with-two-draws-day-1-report/",
+         "pubDate" : "Tue, 29 Nov 2022 18:15:50 +0000",
+         "title" : "Women's Candidates Pool B kicks off with two draws - Day 1 report"
+      },
+      {
+         "description" : "The&#160;European Individual Chess Championship 2023&#160;is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd &#x2013; 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-ches-championship-2023/",
+         "pubDate" : "Tue, 29 Nov 2022 18:15:00 +0000",
+         "title" : "European Individual Chess Championship 2023"
+      },
+      {
+         "description" : "The&#xA0;Croatian National Chess Championship 2022 takes place from November 28 &#x2013; December 1 at Hotel Pax. It is a 12-player round-robin tournament with a total prize fund of 10.000 euros. The time control of the event is 90 minutes for 40 moves plus 30 minutes for the rest of the game, with 30 seconds increment []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/croatian-chess-championship-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 18:03:55 +0000",
+         "title" : "Croatian Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Croatian National Chess Championship 2022 commenced today in Split and takes place from November 28 December 1 at Hotel Pax. It is a 12-player round-robin tournament with a total prize fund of 10.000 euros. Four-time Croatian Chess Champion (2009, 2013, 2014, 2018) and European Chess Champion (2018) GM Ivan Saric headlines the filed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/croatian-chess-championship-2022-commenced-in-split/",
+         "pubDate" : "Tue, 29 Nov 2022 17:59:20 +0000",
+         "title" : "Croatian Chess Championship 2022 commenced in Split"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2110",
+         "pubDate" : "Tue, 29 Nov 2022 17:43:04 +0000",
+         "title" : "From Monaco to Khiva: the Women's Candidates continue on the Silk Road"
+      },
+      {
+         "description" : "Pool B, the second stage of the 2022-23 FIDE Women&#39;s Candidates Tournament held in Khiva, Uzbekistan, started with two draws. GM Aleksandra Goryachkina was close to a decisive advantage in her game with GM Alexandra Kosteniuk, while GM Tan Zhongyi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-1",
+         "pubDate" : "Tue, 29 Nov 2022 08:51:22 -0800",
+         "title" : "Goryachkina Misses Chance As Women's Candidates Tournament Resumes In Khiva"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2109",
+         "pubDate" : "Tue, 29 Nov 2022 16:19:44 +0000",
+         "title" : "FIDE Aid Package to Open Tournaments 2023"
+      },
+      {
          "description" : "The European Individual Chess Championship 2023 is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +112,14 @@ news_feed (
          "link" : "https://aicf.in/eight-indians-are-members-of-fide-commissions-from-2022-26/",
          "pubDate" : "Tue, 29 Nov 2022 13:17:44 +0000",
          "title" : "Eight Indians are members of FIDE commissions from 2022-26"
+      },
+      {
+         "description" : " The Tata Steel India Rapid & Blitz takes place Tue 29th Nov to Sun 4th Dec 2022. Nakamura, So, Mamedyarov, Abdusattorov, Vidit etc. There are men's and women's sections for rapid followed by blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2022",
+         "pubDate" : "Tue, 29 Nov 2022 16:26:00 +0400",
+         "title" : "Tata Steel India Rapid & Blitz 2022 - Games and Results"
       },
       {
          "description" : "MPL 47th National Sub Junior &#38; 38th National Sub Junior Girls Chess Championship-2022 kick starts at IGI stadium Delhi with a bang . A number",
@@ -50,22 +154,6 @@ news_feed (
          "title" : "Kallai Gabor Memorial Rapid 2022 - LIVE"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-vs-kateryna-lagno-womens-candidates-pool-b-game-1-live/",
-         "pubDate" : "Tue, 29 Nov 2022 10:14:38 +0000",
-         "title" : "Tan Zhongyi vs Kateryna Lagno; Women's Candidates Pool B Game 1 LIVE"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-1-live/",
-         "pubDate" : "Tue, 29 Nov 2022 10:13:46 +0000",
-         "title" : "Alexandra Kosteniuk vs Aleksandra Goryachkina; Women's Candidates Pool B Game 1 LIVE"
-      },
-      {
          "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in the ancient city of Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,28 +162,12 @@ news_feed (
          "title" : "Women's Candidates - Pool B: Live"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-1-live-video-coverage/",
-         "pubDate" : "Tue, 29 Nov 2022 09:23:18 +0000",
-         "title" : "Women's Candidates Pool B - Day 1 live video coverage"
-      },
-      {
          "description" : "The 30th edition of the FIDE World Senior Chess Championship in Assisi (Italy) ended on Saturday, November 26, after a hard fight until the last minute. In the 50+ group, the Georgian Grandmaster Zurab Sturua became the new World Champion. The Women's World Champion in this group was WGM Elvira Berend (Luxembourg). In the 65+ group the title went to English GM John Nunn (pictured), the women's title was won by GM Nona Gaprindashvili (Georgia). | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/winners-crowned-at-world-senior-championship-2022",
          "pubDate" : "Tue, 29 Nov 2022 10:02:19 +0100",
          "title" : "Winners crowned at World Senior Championship 2022"
-      },
-      {
-         "description" : "A long-awaited second pool of the FIDE Women's Candidates has finally started in Uzbekistan, in the beautiful oasis city of Khiva. In the next two weeks, the chess world will follow exciting chess battles of leading world female players fighting for the second spot in the big final. The winner of Pool B will take []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-pool-b-opened-in-khiva/",
-         "pubDate" : "Tue, 29 Nov 2022 08:54:59 +0000",
-         "title" : "Women's Candidates Pool B opened in Khiva"
       },
       {
          "description" : "Wesley So and Hikaru Nakamura top a line-up packed full of Indian prodigies as the Tata Steel Chess India Rapid & Blitz begins today in the National Library in Kolkata, with the first three rounds of the rapid tournament. For the first time there's also a parallel Women's tournament featuring Humpy Koneru, the Muzychuk sisters and more top players.",
@@ -122,22 +194,6 @@ news_feed (
          "title" : "Students Analysis (11)"
       },
       {
-         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
-         "pubDate" : "Tue, 29 Nov 2022 07:30:00 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
-         "pubDate" : "Tue, 29 Nov 2022 07:27:00 +0000",
-         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
-      },
-      {
          "description" : "LIVE GAMES : OPEN LIVES GAMES : WOMEN",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -152,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
          "pubDate" : "Tue, 29 Nov 2022 07:25:00 +0100",
          "title" : "Tata Steel Chess India - Live!"
-      },
-      {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, takes place from November 29 till December 4, 2022.&#xA0;The Tata Steel Chess India 2022 this year has the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
-         "pubDate" : "Tue, 29 Nov 2022 06:20:00 +0000",
-         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave&#38;nbsp;convincingly won his round of 16 match against GM Ian Nepomniachtchi by the greatest margin yet in Chess.com&#39;s 2022 Speed Chess Championship on Monday after an exceptional run in the bullet portion. Vachier-Lagrave...",
@@ -1506,14 +1554,6 @@ news_feed (
          "title" : "Anand on Carlsen-Niemann: \"There's not going to be any proof\""
       },
       {
-         "description" : "GM Magnus Carlsen and GM Jan-Krzysztof Duda are in a tie for first place at the Meltwater Champions Chess Tour Finals. They are the only players to gain six points for winning both of their matches without a tiebreak. GM Anish Giri won his second ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-2",
-         "pubDate" : "Wed, 16 Nov 2022 00:21:00 -0800",
-         "title" : "Champions Chess Tour Finals: Carlsen, Duda Lead The Pack"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95547768.cms\" />Young Indian Grandmaster R Praggnanandhaa went down to Dutch GM Anish Giri 2.5-3.5 in the second round of the Meltwater Champions Tour Finals here on Wednesday. The other Indian in the fray -- Arjun Erigaisi was outclassed by world no.1 Magnus Carlsen 2.5-0.5.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1608,14 +1648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2087",
          "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
          "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
-      },
-      {
-         "description" : "The Meltwater Champions Chess Tour Finals began on Monday in San Francisco with a win for the world champion. GM Magnus Carlsen toppled GM Wesley So, the recent winner of the Chess.com Global Chess Championship, in the opening round. How to watc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-1",
-         "pubDate" : "Tue, 15 Nov 2022 01:13:00 -0800",
-         "title" : "Carlsen Beats So As Champions Chess Tour Finals Begin In San Francisco"
       },
       {
          "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
@@ -1786,14 +1818,6 @@ news_feed (
          "title" : "Resolution on transfer regulations approved by FIDE Council"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-8",
-         "pubDate" : "Thu, 10 Nov 2022 01:18:58 +0000",
-         "title" : "2022 Fall Chess Classic: Round 8"
-      },
-      {
          "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-october-2022/",
          "pubDate" : "Wed, 09 Nov 2022 10:16:20 +0000",
          "title" : "ECU E-Magazine October 2022"
-      },
-      {
-         "description" : " \"Choices are the hinges of destiny\" Pythagoras The following examples are from a couple of &#8220;chess 960&#8221; games at our club. I thought it would be interesting to mention this since you could not tell it otherwise. The other interesting detail is the 15 minutes (no increments) reflection time, meaning good and quick decisions were <a href=\"https://chessimprover.com/quick-decisions-10/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Quick Decisions (10)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/quick-decisions-10/\">Quick Decisions (10)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/quick-decisions-10/",
-         "pubDate" : "Tue, 08 Nov 2022 18:17:42 +0000",
-         "title" : "Quick Decisions (10)"
       }
    ]
 }
