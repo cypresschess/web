@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2022-11-01  - 11-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202211291852 target='_blank'>NOV 2022 TUESDAY NIGHT SWISS</a>",
+"PEARLAND","2022-11-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202211291832 target='_blank'>RCC QUADS NOVEMBER 29, 2022</a>",
+"LEAGUE CITY","2022-11-07  - 11-28","6","<a href=http://www.uschess.org/msa/XtblMain.php?202211281072 target='_blank'>CLCC NOVEMBER MONDAYS</a>",
+"HOUSTON","2022-11-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202211271202 target='_blank'>NOVEMBER 27 SUNDAY SWISS</a>",
+"HOUSTON","2022-11-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202211261702 target='_blank'>F7 CHESS CLUB'S NOVEMBER SCHOLASTIC</a>",
 "SPRING","2022-11-25","16","<a href=http://www.uschess.org/msa/XtblMain.php?202211257992 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-11-25","19","<a href=http://www.uschess.org/msa/XtblMain.php?202211257972 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-11-22","12","<a href=http://www.uschess.org/msa/XtblMain.php?202211227182 target='_blank'>RCC QUADS NOVEMBER 22, 2022</a>",
@@ -194,9 +199,4 @@ jtable([
 "HOUSTON","2022-04-03","4","<a href=http://www.uschess.org/msa/XtblMain.php?202204033392 target='_blank'>APRIL 3RD  SUNDAY SWISS</a>",
 "HOUSTON","2022-04-02","19","<a href=http://www.uschess.org/msa/XtblMain.php?202204021952 target='_blank'>3 ROUND SATURDAY SWISS (AN INDIVIDU</a>",
 "SPRING","2022-04-01","16","<a href=http://www.uschess.org/msa/XtblMain.php?202204011402 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-04-01","23","<a href=http://www.uschess.org/msa/XtblMain.php?202204011292 target='_blank'>TES</a>",
-"HOUSTON","2022-03-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202203279032 target='_blank'>MARCH 27 SUNDAY SWISS</a>",
-"SPRING","2022-03-25","21","<a href=http://www.uschess.org/msa/XtblMain.php?202203257862 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-03-25","22","<a href=http://www.uschess.org/msa/XtblMain.php?202203257802 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-03-01  - 03-22","13","<a href=http://www.uschess.org/msa/XtblMain.php?202203227022 target='_blank'>MARCH TUESDAY NIGHT SWISS</a>",
 ]);
