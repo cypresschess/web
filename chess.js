@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-sevian-in-the-mrdodgy-invitational-semis",
+         "pubDate" : "Wed, 30 Nov 2022 15:25:13 +0000",
+         "title" : "Carlsen-Sevian in MrDodgy Invitational Semis"
+      },
+      {
+         "description" : "The 97th edition of the Argentine Absolute Chess Championship takes place from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players will compete in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). The best-rated player in Argentina,&#xA0;GM Alan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/97th-argentine-absolute-chess-championship-live/",
+         "pubDate" : "Wed, 30 Nov 2022 15:19:17 +0000",
+         "title" : "97th Argentine Absolute Chess Championship - LIVE"
+      },
+      {
+         "description" : "The 97th edition of the Argentine Absolute Chess Championship will be held from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players will compete in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). Time control is 90 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/97th-argentine-absolute-chess-championship/",
+         "pubDate" : "Wed, 30 Nov 2022 15:17:29 +0000",
+         "title" : "97th Argentine Absolute Chess Championship"
+      },
+      {
          "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain and gathers 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! GM Francisco Vallejo Pons,&#xA0;GM Yu Yangyi&#xA0;and&#xA0;GM Hans Niemann&#xA0;are the top seeds, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "3rd El Llobregat Open with Yu Yangyi, Vallejo Pons, and Hans Niemann as the top seeds - LIVE GAMES"
       },
       {
-         "description" : "The TCEC Season 23 Subfinal is a bonus 3rd-place match between the loser of the Superfinal (Lc0) and the winner of the Infrafinal&#xA0;(Komodo Dragon), played with the same opening book as the Superfinal. It ended with a decisive victory for Lc0, +24 -13 =63. Most viewers predicted a Lc0 win by +1 to +5, so []",
+         "description" : "The TCEC Season 23 Subfinal is a bonus 3rd-place match between the loser of the Superfinal (Lc0) and the winner of the Infrafinal&#160;(Komodo Dragon), played with the same opening book as the Superfinal. It ended with a decisive victory for Lc0, +24 -13 =63. Most viewers predicted a Lc0 win by +1 to +5, so []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/lc0-wins-tcec-season-23-subfinal/",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/happy-birthday-to-magnus-carlsen/",
          "pubDate" : "Wed, 30 Nov 2022 13:35:29 +0000",
          "title" : "Happy birthday to Magnus Carlsen!"
+      },
+      {
+         "description" : "The Alekhine Defense 1. e4 Nf6 is one of the most underrated surprise weapons out there. Truth be told, few players have studied it. Even if they have, this complete repertoire differs from other courses by showing you innovative and original ideas that are sure to give you imbalanced, dynamic, and complicated lines. Here is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alekhine-defense-by-gm-roeland-pruijssers/",
+         "pubDate" : "Wed, 30 Nov 2022 13:25:00 +0000",
+         "title" : "Alekhine Defense - by GM Roeland Pruijssers"
       },
       {
          "description" : "The Romanian International Open is a 8-round Swiss tournament, held on December 2nd in Sebe&#x219;, Romania.Time control is 10 minutes for the entire game with a 5-second increment beginning from move one. Starting list of players : No. Name FED Rtg 1 GM Jianu Vlad-Cristian ROU 2539 2 IM Ardelean George-Catalin ROU 2494 3 IM []",
@@ -88,30 +120,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-1-mamedyarov-on-fire",
          "pubDate" : "Wed, 30 Nov 2022 08:50:51 +0000",
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-2-live-video-coverage/",
-         "pubDate" : "Wed, 30 Nov 2022 08:48:31 +0000",
-         "title" : "Women's Candidates Pool B - Day 2 live video coverage"
-      },
-      {
-         "description" : "The 3rd edition of the El Llobregat Open Chess Tournament 2022 will be played from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain. The event is played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the end of the game, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yu-yangyi-and-francisco-vallejo-pons-are-the-top-seeds-at-the-3rd-el-llobregat-open/",
-         "pubDate" : "Wed, 30 Nov 2022 08:07:11 +0000",
-         "title" : "Yu Yangyi, Francisco Vallejo Pons and Hans Niemann are the top seeds at the 3rd El Llobregat Open"
-      },
-      {
-         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:50:00 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
@@ -1584,14 +1592,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/",
          "pubDate" : "Wed, 16 Nov 2022 17:46:32 +0000",
          "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
-      },
-      {
-         "description" : "Magnus Carlsen and Jan-Krzysztof Duda have the only perfect scores after two rounds of the Meltwater Champions Chess Tour Finals after overcoming Arjun Erigaisi and Shakhriyar Mamedyarov respectively. Anish Giri has also won both matches, in tiebreaks, after staging an incredible recovery from 2:0 down to beat Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-2-carlsen-duda-lead-giri-comeback",
-         "pubDate" : "Wed, 16 Nov 2022 15:49:51 +0000",
-         "title" : "MCCT Finals 2: Carlsen & Duda lead, Giri comeback"
       },
       {
          "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
