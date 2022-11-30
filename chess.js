@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 30 Nov 2022 19:34:54 +0000",
+         "title" : "Keymer Shines in 2022! | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "GMs Daniil Dubov and Magnus Carlsen won the November 29 editions of Titled Tuesday. Dubov scored 10.5/11 in the early tournament, winning by 1.5 points, while Carlsen scored 9.5 and outlasted GM Vladimir Fedoseev on tiebreaks. Also making an imp...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-carlsen-win-titled-tuesday-november-29-2022",
+         "pubDate" : "Wed, 30 Nov 2022 09:34:16 -0800",
+         "title" : "Carlsen Returns And Wins After Dubov Dominance"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2112",
+         "pubDate" : "Wed, 30 Nov 2022 17:31:10 +0000",
+         "title" : "Women's Candidates Pool B: Missed opportunities in Khiva "
+      },
+      {
+         "description" : "Chess engines have been helping chess players for over 40 years, first as opponents, and later as analysts, but over that lengthy timeframe, very little has been added to the core landscape of chess engine analysis. ChessBase 17 aims to change that and seriously extend the analysis done, and the information it produces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-taking-engine-functions-to-the-next-level",
+         "pubDate" : "Wed, 30 Nov 2022 18:00:00 +0100",
+         "title" : "Chessbase 17: Taking engine functions to the next level"
+      },
+      {
          "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -122,20 +154,20 @@ news_feed (
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
       },
       {
-         "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g1",
-         "pubDate" : "Wed, 30 Nov 2022 08:35:00 +0100",
-         "title" : "Women's Candidates: Two draws to start"
-      },
-      {
          "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
          "pubDate" : "Wed, 30 Nov 2022 07:25:00 +0100",
          "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g1",
+         "pubDate" : "Wed, 30 Nov 2022 07:15:00 +0100",
+         "title" : "Women's Candidates: Two draws to start"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
@@ -1402,14 +1434,6 @@ news_feed (
          "title" : "Basman Basmadjian, the uncrowned chess champion"
       },
       {
-         "description" : "The razor-sharp diagram position should be drawn with best play, but until then there are still some cliffs to be avoided on both sides. White starts - please fasten your seatbelts!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishops-in-enemy-territory",
-         "pubDate" : "Sat, 19 Nov 2022 09:00:00 +0100",
-         "title" : "Bishops in enemy territory"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95618342.cms\" />Indian Grandmaster Arjun Erigaisi scored a 2.5-1.5 win over Dutch GM Anish Giri in the fifth round of the Meltwater Champions Tour Finals on Saturday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Meltwater Champions Tour Finals: Praggnanandhaa secures first win; another loss for Erigaisi"
       },
       {
-         "description" : "The 2022 Speed Chess Championship main event begins in less than a week! Sixteen of the world&#38;rsquo;s top players will find out who&#38;rsquo;s the quickest on their feet as they vie for the world&#38;rsquo;s most prestigious online speed chess title.&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-bracket-contest",
-         "pubDate" : "Wed, 16 Nov 2022 10:56:00 -0800",
-         "title" : "Chess.com Announces 2022 SCC Bracket Contest"
-      },
-      {
          "description" : "The fourth quarterly meeting of the board of ECU was held on November 13-14 in Antalya, Turkey, during the 2022 European Youth Chess Championship. The Turkish Chess Federation hosted the event under excellent conditions and Mrs. Gulkiz Tulay, President of the Turkish Chess Federation, opened the meetings on Saturday, November 13. At the beginning, a minute of silence&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1608,14 +1624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-r-praggnanandhaa-arjun-erigaisi-lose-again/articleshow/95547768.cms",
          "pubDate" : "Wed, 16 Nov 2022 05:14:51 +0000",
          "title" : "Meltwater Champions Tour Finals: R Praggnanandhaa, Arjun Erigaisi lose again"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Indian grandmaster Gukesh D, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Wed, 16 Nov 2022 01:22:19 +0000",
-         "title" : "Gukesh Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
          "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned a 3rd International Master norm last Sunday. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title. At the NYC Fall GM/IM Invitational this past weekend at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/\">Tani Adewumi earns another IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
