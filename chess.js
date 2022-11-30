@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 30 Nov 2022 01:34:09 +0000",
+         "title" : "Keymer Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "The Tata Steel Chess India event kicked off on Monday in Kolkata. Each of the two tournaments has a sole leader with 3 out of 3 after the first day of rapid chess. In the open, Shakhriyar Mamedyarov has taken the lead, while among the women, Nana Dzagnidze tops the standings with six rounds to go in the rapid section of the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d1",
+         "pubDate" : "Wed, 30 Nov 2022 02:00:00 +0100",
+         "title" : "Tata Steel India: Shakh and Nana on 3 out of 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "Mamedyarov, Dzagnidze In Full-Point Leads With Clean Scores"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns.<br /> See the pawns' relationships with the rooks, bishops, and knights. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/pawn-primer-beginner-breakdown",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
          "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
          "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
-      },
-      {
-         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
-         "pubDate" : "Tue, 29 Nov 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave&#38;nbsp;convincingly won his round of 16 match against GM Ian Nepomniachtchi by the greatest margin yet in Chess.com&#39;s 2022 Speed Chess Championship on Monday after an exceptional run in the bullet portion. Vachier-Lagrave...",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gukesh-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Wed, 16 Nov 2022 01:22:19 +0000",
          "title" : "Gukesh Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on exploited unprotected pieces. Identify the opponent's \"loose\" pieces and pick them off with forks, pins, and discover attacks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/loose-pieces-drop-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mAuvjrs0zgE.jpg?itok=ZLhi4Kye\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/loose-pieces-drop-beginner-breakdown",
-         "pubDate" : "Wed, 16 Nov 2022 01:22:19 +0000",
-         "title" : "Loose Pieces Drop Off! | Beginner Breakdown"
       },
       {
          "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned a 3rd International Master norm last Sunday. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title. At the NYC Fall GM/IM Invitational this past weekend at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/\">Tani Adewumi earns another IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
