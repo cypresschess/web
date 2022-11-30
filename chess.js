@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-primer-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 29 Nov 2022 22:34:01 +0000",
+         "title" : "The Pawn Primer | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from a young grandmaster who performed well at the 2022 Chess Olympiad in August. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-stars-shine-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/young-stars-shine-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 29 Nov 2022 22:34:01 +0000",
+         "title" : "Young Stars Shine at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2111",
+         "pubDate" : "Tue, 29 Nov 2022 20:41:08 +0000",
+         "title" : "African Amateur Championship 2022 gets underway in Kenya"
+      },
+      {
          "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,12 +42,36 @@ news_feed (
          "title" : "The Pawn Primer | Beginner Breakdown"
       },
       {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 19:30:00 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
+         "pubDate" : "Tue, 29 Nov 2022 19:27:00 +0000",
+         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
+      },
+      {
          "description" : "The 4th edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, started today in Kolkata with the Rapid event. The event features a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Shakhriyar Mamedyarov grabbed the early lead as he was the only player []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/shakhriyar-mamedyarov-takes-early-lead-at-the-tata-steel-chess-india-rapid-2022/",
          "pubDate" : "Tue, 29 Nov 2022 19:13:04 +0000",
          "title" : "Shakhriyar Mamedyarov takes early lead at the Tata Steel Chess India Rapid 2022"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, takes place from November 29 till December 4, 2022, featuring the Women's event for the first time this year. After the first day and three played rapid rounds, GM Nana Dzagnidze emerged as the sole leader of the event with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nana-dzagnidze-in-the-sole-lead-at-tata-steel-chess-india-womens-rapid-2022/",
+         "pubDate" : "Tue, 29 Nov 2022 18:53:00 +0000",
+         "title" : "Nana Dzagnidze in the sole lead at Tata Steel Chess India Women's Rapid 2022"
       },
       {
          "description" : "The&#160;Women&#x2019;s Candidates Pool B tournament&#160;commenced today in Khiva, Uzbekistan after yesterday&#x2019;s&#160;official opening. The event features four players&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk,&#160;Kateryna Lagno&#160;and&#160;Tan Zhongyi&#160;fighting in a knock-out system for a place in the Women&#x2019;s Candidates finals against&#160;Lei Tingjie Both games on the Day 1 finished in draws (Day 1 report can be found here) but it looked that []",
@@ -40,6 +88,14 @@ news_feed (
          "link" : "https://www.chessdom.com/kateryna-lagno-draw-is-okay-but-i-have-a-feeling-that-i-was-better-video/",
          "pubDate" : "Tue, 29 Nov 2022 18:33:39 +0000",
          "title" : "Kateryna Lagno: Draw is okay but I have a feeling that I was better (VIDEO)"
+      },
+      {
+         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, takes place from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 this year has the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
+         "pubDate" : "Tue, 29 Nov 2022 18:20:00 +0000",
+         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "The first game of the 2022 Women&#x2019;s Candidates Pool B kicked off this afternoon in the walled city of Khiva a remote desert oasis on the Silk Road in Uzbekistan. In light of the country&#x2019;s current chess boom, due to the many recent outstanding results by their national team, the federation bid for this []",
@@ -64,14 +120,6 @@ news_feed (
          "link" : "https://www.chessdom.com/croatian-chess-championship-2022-live/",
          "pubDate" : "Tue, 29 Nov 2022 18:03:55 +0000",
          "title" : "Croatian Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Croatian National Chess Championship 2022 commenced today in Split and takes place from November 28 December 1 at Hotel Pax. It is a 12-player round-robin tournament with a total prize fund of 10.000 euros. Four-time Croatian Chess Champion (2009, 2013, 2014, 2018) and European Chess Champion (2018) GM Ivan Saric headlines the filed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/croatian-chess-championship-2022-commenced-in-split/",
-         "pubDate" : "Tue, 29 Nov 2022 17:59:20 +0000",
-         "title" : "Croatian Chess Championship 2022 commenced in Split"
       },
       {
          "description" : "",
@@ -128,30 +176,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-47th-national-sub-junior-38th-national-sub-junior-girls-chess-championship-2022-report/",
          "pubDate" : "Tue, 29 Nov 2022 11:57:10 +0000",
          "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
-      },
-      {
-         "description" : "Girls U15 MPL 38th Indian Youth Championship is taking place from 28 November to 6 December 2022 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament&#xA0;with Sachi Jain, Anishka Vikram, Mrittika Mallick, Tejaswini G, Shubhi Gupta, Kheerthi Ganta, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u15-mpl-38th-indian-youth-championship-2022-live/",
-         "pubDate" : "Tue, 29 Nov 2022 11:53:46 +0000",
-         "title" : "Girls U15 MPL 38th Indian Youth Championship 2022 - LIVE"
-      },
-      {
-         "description" : "U15 MPL 47th Indian Youth Championship is taking place from 28 November to 6 December 2022 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 11-round Swiss tournament&#xA0;with Gawai Siddhant, Dhyey Agarwal, Kavin Oviyan R,Daaevik Wadhawan,Abhash Roimya Saikia, Ashish Chaudhari, Shahil []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u15-mpl-47th-indian-youth-championship-2022-live/",
-         "pubDate" : "Tue, 29 Nov 2022 11:49:19 +0000",
-         "title" : "U15 MPL 47th Indian Youth Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Kallai Gabor Memorial Rapid is taking place from 28&#x2013;30 November 2022 in Budapest, Hungary. Players receive 25 minutes for the entire game, plus a 5-second increment starting from move one. It is a 10-player round-robin tournament with Alexander Motylev, Adam Kozak, Robert Ruck, Jonas Buhl Bjerre, Marcell Borhy, Kayden Troff, Ferenc Berkes, Csaba Horvath, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kallai-gabor-memorial-rapid-2022-live/",
-         "pubDate" : "Tue, 29 Nov 2022 11:39:06 +0000",
-         "title" : "Kallai Gabor Memorial Rapid 2022 - LIVE"
       },
       {
          "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in the ancient city of Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
@@ -282,14 +306,6 @@ news_feed (
          "title" : "Famous chess cheating tales - Part 1"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2107",
-         "pubDate" : "Mon, 28 Nov 2022 15:27:50 +0000",
-         "title" : "Women's Candidates Tournament Pool B: Introducing the players"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95834416.cms\" />Indian chess legend Viswanathan Anand, who is now deputy president of world governing body FIDE, feels cheating in his sport is \"not rampant\" and limited to \"online\" tournaments only. Reigning world champion Magnus Carlsen kicked up a storm in September this year when he levelled cheating allegations against US teenager Hans Niemann, following his stunning defeat in round three of the Sinquefield Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -394,6 +410,14 @@ news_feed (
          "title" : "Magnus Carlsen applauds Indian chess talents and fans"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Sun, 27 Nov 2022 20:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -424,6 +448,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-preview",
          "pubDate" : "Sun, 27 Nov 2022 16:30:00 +0100",
          "title" : "Naka and Gukesh among star-studded field at Tata Steel Chess India"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2107",
+         "pubDate" : "Sun, 27 Nov 2022 15:27:50 +0000",
+         "title" : "Women's Candidates Tournament Pool B: Introducing the players"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 101st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -552,14 +584,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
          "pubDate" : "Sat, 26 Nov 2022 11:58:00 +0400",
          "title" : "13th World Teams 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Fri, 25 Nov 2022 20:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "",
@@ -1594,14 +1618,6 @@ news_feed (
          "title" : "FIDE Commissions for 2022-26"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young players who performed well at the 2022 Chess Olympiad in August. Nodirbek Abdusattorov, Gukesh D, and more! 2022.11.15 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-stars-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7tbQ8a4VLGc.jpg?itok=LyvyOKr_\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/young-stars-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 15 Nov 2022 19:22:16 +0000",
-         "title" : "Young Stars of the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It took me a while to get into the Ragozin defence of QGD. I played with success the Catalan for a number of years and forcing Nb8-c6 in front of <a href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Ragozin Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\">Need sure points? QGD, Ragozin Variation Edition</a> appeared first on <a rel=",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1800,14 +1816,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/nov/11/chess-shreyas-royal-13-leads-bavarian-open-with-56-as-records-beckon",
          "pubDate" : "Fri, 11 Nov 2022 08:00:08 +0000",
          "title" : "Chess: Shreyas Royal, 13, leads Bavarian Open as records beckon"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fourth Fall Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join GM Evgenij Miroshnichenko and Jonathan Schrantz for the move-by-move. 2022.11.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-fall-chess-classic-round-9",
-         "pubDate" : "Fri, 11 Nov 2022 01:19:26 +0000",
-         "title" : "2022 Fall Chess Classic: Round 9"
       },
       {
          "description" : "",
