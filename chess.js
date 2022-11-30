@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain and gathers 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! GM Francisco Vallejo Pons,&#xA0;GM Yu Yangyi&#xA0;and&#xA0;GM Hans Niemann&#xA0;are the top seeds, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-el-llobregat-open-2022-round-1-pairings/",
+         "pubDate" : "Wed, 30 Nov 2022 15:00:06 +0000",
+         "title" : "3rd El Llobregat Open 2022 - Round 1 pairings"
+      },
+      {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! GM Yu Yangyi, GM Francisco Vallejo Pons, and GM Hans Niemann are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-el-llobregat-open-with-yu-yangyi-vallejo-pons-and-hans-niemann-as-the-top-seeds-live-games/",
+         "pubDate" : "Wed, 30 Nov 2022 14:46:07 +0000",
+         "title" : "3rd El Llobregat Open with Yu Yangyi, Vallejo Pons, and Hans Niemann as the top seeds - LIVE GAMES"
+      },
+      {
+         "description" : "The TCEC Season 23 Subfinal is a bonus 3rd-place match between the loser of the Superfinal (Lc0) and the winner of the Infrafinal&#xA0;(Komodo Dragon), played with the same opening book as the Superfinal. It ended with a decisive victory for Lc0, +24 -13 =63. Most viewers predicted a Lc0 win by +1 to +5, so []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lc0-wins-tcec-season-23-subfinal/",
+         "pubDate" : "Wed, 30 Nov 2022 14:21:09 +0000",
+         "title" : "Lc0 wins TCEC Season 23 Subfinal"
+      },
+      {
+         "description" : "Chess.com is happy to announce that we&#39;ve released 50 lessons on the most popular chess openings. Developed by our team of master players, these lessons will teach you everything you need to know to take your opening play to the next level. Many...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-50-opening-lessons",
+         "pubDate" : "Wed, 30 Nov 2022 06:00:00 -0800",
+         "title" : "Chess.com Releases 50 Opening Lessons"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95889479.cms\" />Chess prodigy R Praggnanandhaa believes becoming a world champion is a realistic possibility and has given himself three to four years to achieve the feat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aiming-to-become-world-champion-in-3-4-years-says-r-praggnanandhaa/articleshow/95889479.cms",
+         "pubDate" : "Wed, 30 Nov 2022 13:47:31 +0000",
+         "title" : "Aiming to become world champion in 3-4 years, says R Praggnanandhaa"
+      },
+      {
+         "description" : "World Chess Champion Magnus Carlsen celebrates his 32nd birthday today! We wish him loads of beautiful chess games and many more Champions titles! Magnus Carlsen is a reigning five-time World Chess Champion who holds also three World Rapid Champion titles and five World Blitz Champion titles. Carlsen has held the 1st position on the FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/happy-birthday-to-magnus-carlsen/",
+         "pubDate" : "Wed, 30 Nov 2022 13:35:29 +0000",
+         "title" : "Happy birthday to Magnus Carlsen!"
+      },
+      {
          "description" : "The Romanian International Open is a 8-round Swiss tournament, held on December 2nd in Sebe&#x219;, Romania.Time control is 10 minutes for the entire game with a 5-second increment beginning from move one. Starting list of players : No. Name FED Rtg 1 GM Jianu Vlad-Cristian ROU 2539 2 IM Ardelean George-Catalin ROU 2494 3 IM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -55,7 +103,15 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/yu-yangyi-and-francisco-vallejo-pons-are-the-top-seeds-at-the-3rd-el-llobregat-open/",
          "pubDate" : "Wed, 30 Nov 2022 08:07:11 +0000",
-         "title" : "Yu Yangyi and Francisco Vallejo Pons are the top seeds at the 3rd El Llobregat Open"
+         "title" : "Yu Yangyi, Francisco Vallejo Pons and Hans Niemann are the top seeds at the 3rd El Llobregat Open"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
+         "pubDate" : "Wed, 30 Nov 2022 07:50:00 +0000",
+         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
       },
       {
          "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
@@ -64,46 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g1",
          "pubDate" : "Wed, 30 Nov 2022 08:35:00 +0100",
          "title" : "Women's Candidates: Two draws to start"
-      },
-      {
-         "description" : "The fourth edition of the Tata Steel Chess India Rapid &#38; Blitz, India's biggest chess tournament, takes place from November 29 till December 4, 2022.&#160;The Tata Steel Chess India 2022 this year has the women's tournament with the same format &#x2013; rapid and blitz. Anna Muzychuk and Mariya Muzychuk are the top seeds of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-womens-rapid-blitz-2022-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:34:00 +0000",
-         "title" : "Tata Steel Chess India Women's Rapid & Blitz 2022 - LIVE"
-      },
-      {
-         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, will be held from November 29 till December 4, 2022.&#160;The very strong line-up features world-class grandmasters and Indian chess stars.&#160;Wesley So&#160;headlines the Open tournament, together with&#160;Hikaru Nakamura,&#160;Shakhriyar Mamedyarov,&#160;Nodirbek Abdusattorov, and&#160;Parham Maghsoodloo.&#160;Vidit Santosh Gujrathi,&#160;Arjun Erigaisi,&#160;D Gukesh, and&#160;Nihal Sarin&#160;complete the field together []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-india-rapid-blitz-2022-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:30:00 +0000",
-         "title" : "Tata Steel Chess India Rapid & Blitz 2022 - LIVE"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-2022-2023-pool-b-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:27:00 +0000",
-         "title" : "Women's Candidates 2022/2023- Pool B LIVE"
-      },
-      {
-         "description" : "The Girl's &#8220;The Game has begun!&#8221; is taking place from 29 November to 7 December 2022 in Khanty-Mansiysk, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Anna Zhurova, Alisa Nur-Mukhametova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-the-game-has-begun-2022-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:11:06 +0000",
-         "title" : "Girl's \"The Game has begun!\" 2022 - LIVE"
-      },
-      {
-         "description" : "The &#8220;The Game has begun!&#8221; is taking place from 29 November to 7 December 2022 in Khanty-Mansiysk, Russia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Aleksey Grebnev, Arseniy Nesterov, Rudik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-game-has-begun-2022-live/",
-         "pubDate" : "Wed, 30 Nov 2022 07:03:50 +0000",
-         "title" : "\"The Game has begun!\" 2022 - LIVE"
       },
       {
          "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
       },
       {
-         "description" : "GMs Fabiano Caruana and Vladimir Fedoseev were the winners of Titled Tuesday on November 15, both doing so outright without needing tiebreaks. Caruana reached the coveted 10.5/11 score in the early tournament, only drawing in round five. Fedoseev ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-fedoseev-win-titled-tuesday-november-15-2022",
-         "pubDate" : "Wed, 16 Nov 2022 08:13:00 -0800",
-         "title" : "U.S. Champion Caruana Dominates Tuesday"
-      },
-      {
          "description" : "Magnus Carlsen and Jan-Krzysztof Duda have the only perfect scores after two rounds of the Meltwater Champions Chess Tour Finals after overcoming Arjun Erigaisi and Shakhriyar Mamedyarov respectively. Anish Giri has also won both matches, in tiebreaks, after staging an incredible recovery from 2:0 down to beat Praggnanandhaa.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2083",
          "pubDate" : "Thu, 10 Nov 2022 14:20:01 +0000",
          "title" : "Resolution on transfer regulations approved by FIDE Council"
-      },
-      {
-         "description" : " I've had a hectic few weeks, finishing up the 2022 ACT Interschool Championships. Due to covid related issues, the various sections finished a lot later in the year than usual, which has caused some issues with playoffs etc. Overall it was a successful year, with one of the highlights being the 94 player final for the Girls Primary Section, which was the biggest single event for any section this year. The winning teams in each section were Primary Girls : Kaleen Primary Primary Open: Majura Primary Secondary Girls: Merici College Secondary Open : Canberra Grammar There were also playoffs* to select the ACT representatives for the Australian Schools Teams Championship, and surprisingly, in t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/act-interschool-2022.html",
-         "pubDate" : "Wed, 09 Nov 2022 13:03:00 +0000",
-         "title" : "ACT Interschool 2022"
       }
    ]
 }
