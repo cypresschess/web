@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen celebrated his 32nd birthday with a crushing 7:1 victory over Sam Sevian in the MrDodgy Invitational semi-finals. At first that looked set to earn a final against Alexander Grischuk, who stormed to a 3:0 lead, but Daniil Dubov hit back to win five games and clinch a 7:5 victory. The Carlsen-Dubov final starts at 17:00 CET on Thursday December 1st.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-s-7-1-birthday-win-sets-up-dubov-final",
+         "pubDate" : "Thu, 01 Dec 2022 15:00:48 +0000",
+         "title" : "Carlsen's 7:1 birthday win sets up Dubov final"
+      },
+      {
+         "description" : "Much like on the first day of the Women's Candidates (Pool B) in Khiva, two tense draws were signed by the contenders looking to get a spot in the final against Lei Tingjie. After a rest day on Thursday, two more games will be played in this phase, with tiebreaks scheduled for Sunday in case of a 2-2 result in the classical portion. | Photo: Xushnud Baltaev",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g2",
+         "pubDate" : "Thu, 01 Dec 2022 15:30:00 +0100",
+         "title" : "Women's Candidates: Missed opportunities"
+      },
+      {
+         "description" : "The ChessBase Magazine Extra is the perfect addition to the ChessBase Magazine and keeps you informed about everything that happens in tournament chess. The current issue - CBM Extra #210 - contains training videos with Robert Ris and Mihail Marin (total playing time: just under 1 hour) and 38 deep and comprehensive analyses by Anish Giri, Romain Edouard, Lubomir Ftacnik, Michal Krasenkow, and many others.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-210",
+         "pubDate" : "Thu, 01 Dec 2022 15:00:00 +0100",
+         "title" : "New: ChessBase Magazine Extra #210"
+      },
+      {
+         "description" : "On July 10th August 10th 2022, NEUROHM, Michal Kanarkiewicz and PLAY MAGNUS GROUP conducted a chess survey, aimed at promoting the royal game and expanding knowledge about the group of people who play chess, both professionally and on amateur level. The respondents were in different age groups, with different ELO Rating, from different countries and with different&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/",
+         "pubDate" : "Thu, 01 Dec 2022 13:00:27 +0000",
+         "title" : "Results of the Neurohm, Kanarkiewicz and Play Magnus Group study"
+      },
+      {
+         "description" : "Magnus Carlsen, Hikaru Nakamura and Vishy Anand are certainly among the most prominent players in the chess world. Samuel Reshevsky, Akiba Rubinstein and Vasja Pirc are the Sagittarius legends. Karsten M&uuml;ller, Rustam Kasimdzhanov and Victor Bologan are super popular FritzTrainers. Sagittarius is chivalrous, swift as an arrow, and fair. And apparently Sagittarians are also absolutely brilliant chess players. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sagittarius-and-their-strategy",
+         "pubDate" : "Thu, 01 Dec 2022 14:00:00 +0100",
+         "title" : "Sagittarius and their strategy"
+      },
+      {
          "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;kicked off yesterday in Saint Boi de Llobregat, Barcelona.&#xA0;A very strong field of 179 players includes 50 grandmasters and 44 international masters, and the first round was marked with a number of upsets. After the first round, 70 players score 1/1 and tie for the top, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "Underdogs show their strength in the 1st round of the El Llobregat Open 2022"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess.",
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door1",
@@ -102,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-rapid-day-2",
-         "pubDate" : "Wed, 30 Nov 2022 13:21:07 -0800",
+         "pubDate" : "Wed, 30 Nov 2022 13:21:00 -0800",
          "title" : "Nihal And Dzagnidze Leaders After 6 Rounds"
       },
       {
@@ -1354,14 +1394,6 @@ news_feed (
          "title" : "Meltwater Champions Tour Finals - Games and standings"
       },
       {
-         "description" : "At a tournament organized by the Grandmaster Association in Reykjav&iacute;k back in 1988, there was no security in the snack area. Inevitably, this prompted interest in Garry Kasparov's snacks: Toblerones. In fact, there was a massive temptation to half-inch the odd piece of his numinous nutrition. There was a crucial proviso, though. The pieces of Toblerone had letters on the side spelling it out and no one in his right mind would pilfer an O, thus positively demanding bad luck... | Pictured: Garry Kasparov with Alexander Nikitin",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-182",
-         "pubDate" : "Sun, 20 Nov 2022 18:00:00 +0100",
-         "title" : "A story of no Os"
-      },
-      {
          "description" : "The short list for this month's featured Flickr photo had two items. One was a little too naughty (not 'For All Ages') and the other was a little too uninspiring. The last time something similar happened I came up with <A HREF=\"http://chessforallages.blogspot.com/2021/12/shallow-green-chess-photos.html\">Shallow, Green Chess Photos</A>(December 2021). What to do this time? <P>Fortunately I had an idea left over from <A HREF=\"http://chessforallages.blogspot.com/2021/10/the-hand-that-guides-blank.html\">'The Hand that Guides the [blank]'</A>(October 2021). The Flickr photo behind that post was included in 29 groups, all begging to be explored. <P>One of the groups had the title 'deviantART Devia",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1378,28 +1410,12 @@ news_feed (
          "title" : "MCCT Finals 6: Magnus wins with round to spare"
       },
       {
-         "description" : "This is a picture of the two greatest football players of our generation - perhaps in the history of the game. Rivals on the field, here they are engaged in a chess match. Well, not really. It was for a photo shoot, staged by Louis Vuitton, the French luxury fashion house, specializing in handbags. Sagar Shah tells us what the campaign was all about. | Photo: Annie Leibovitz for Louis Vuitton",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/messi-vs-ronaldo-but-not-football",
-         "pubDate" : "Sun, 20 Nov 2022 15:20:00 +0100",
-         "title" : "Messi vs Ronaldo - but not football"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2094",
          "pubDate" : "Sun, 20 Nov 2022 14:11:33 +0000",
          "title" : "Magnus Carlsen crowned 2022 Tour Finals champion with a round to spare"
-      },
-      {
-         "description" : "Magnus Carlsen won a sixth match in a row to secure victory at the Meltwater Champions Chess Tour Finals in San Francisco. The world champion, who had already won the year-long series, defeated Praggnanandhaa by a 2&frac12;-&frac12; score. All remaining matches were also decided after three games, with Wesley So, Arjun Erigaisi and Shakhriyar Mamedyarov getting clear match victories on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-r6",
-         "pubDate" : "Sun, 20 Nov 2022 15:05:00 +0100",
-         "title" : "Meltwater Finals: Carlsen secures victory with a round to spare"
       },
       {
          "description" : "Lionel Messi and Cristiano Ronaldo, the two biggest stars of football (soccer), are playing chess in Louis Vuitton&#39;s latest campaign, launched on Saturday. Chess fans quickly discovered that the position on the board is from a real game. &#34;Victor...",
@@ -1576,14 +1592,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/speculative-sponsor.html",
          "pubDate" : "Thu, 17 Nov 2022 16:47:00 +0000",
          "title" : "Speculative Sponsor"
-      },
-      {
-         "description" : "Jan-Krzysztof Duda couldn't stop smiling as he unleashed a 9-move checkmating combination on Anish Giri to win their Round 3 Meltwater Champions Chess Tour Finals match 2.5:0.5. It was a fast day, as Magnus Carlsen swept Shakhriyar Mamedyarov 3:0, Praggnanandhaa did the same to Liem Le, and Wesley So scored his 1st win of this year's Tour.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-3-duda-s-immortal",
-         "pubDate" : "Thu, 17 Nov 2022 13:24:52 +0000",
-         "title" : "MCCT Finals 3: Duda's Immortal"
       },
       {
          "description" : " Small changes will make a huge difference in your life. Sounds too good to be true? Give me 5 Minutes and I'll convince you. Let's start with numbers. Imagine you improve yourself by 1% every single day for one year. Doesn't sound impossible, right? Not worth it either? Oh, you couldn't be more wrong! If [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/small-changes/\">Small Changes Huge Results</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/nov/11/chess-shreyas-royal-13-leads-bavarian-open-with-56-as-records-beckon",
          "pubDate" : "Fri, 11 Nov 2022 08:00:08 +0000",
          "title" : "Chess: Shreyas Royal, 13, leads Bavarian Open as records beckon"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2083",
-         "pubDate" : "Thu, 10 Nov 2022 14:20:01 +0000",
-         "title" : "Resolution on transfer regulations approved by FIDE Council"
       }
    ]
 }
