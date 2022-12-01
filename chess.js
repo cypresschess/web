@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Philippine Women's Championship is taking place from 29 November to 7 December 2022 in Quezon City.. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with Mary Joy Tan, April Joy Claros, Bernadette Galas, Kate Nicole Ordizo, Bea Mendoza, Jan Jodilyn []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/philippine-womens-championship-2022-live/",
+         "pubDate" : "Wed, 30 Nov 2022 22:10:04 +0000",
+         "title" : "Philippine Women's Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The&#160;Women&#x2019;s Candidates Pool B tournament&#160;is underway in Khiva, Uzbekistan. The event features four players&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk,&#160;Kateryna Lagno&#160;and&#160;Tan Zhongyi&#160;fighting in a knock-out system for a place in the Women&#x2019;s Candidates finals against&#160;Lei Tingjie. Going into the first rest day of the tournament, both matches are tied 1-1 (The day 2 report can be found here). Goryachkina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-i-am-still-warming-up-in-this-tournament-video/",
+         "pubDate" : "Wed, 30 Nov 2022 21:47:30 +0000",
+         "title" : "Aleksandra Goryachkina: I am still warming up in this tournament (VIDEO)"
+      },
+      {
+         "description" : "The 4th edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, kicked off on Monday with the Rapid tournament in Kolkata. The event features a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Indian prodigy Nihal Sarin scored impressive 2.5/3 points today and grabbed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nihal-sarin-grabs-the-lead-at-tata-steel-chess-india-rapid-2022-day-2-report/",
+         "pubDate" : "Wed, 30 Nov 2022 21:30:03 +0000",
+         "title" : "Nihal Sarin grabs the lead at Tata Steel Chess India Rapid 2022 - Day 2 report"
+      },
+      {
+         "description" : "GM Nihal Sarin and GM Nana Dzagnidze are in the sole leads of their respective groups with an identical 4.5 points from six games in the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid. Overnight leader GM Sh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-rapid-day-2",
+         "pubDate" : "Wed, 30 Nov 2022 13:21:07 -0800",
+         "title" : "Nihal And Dzagnidze Leaders After 6 Rounds"
+      },
+      {
+         "description" : "The&#xA0;Women&#x2019;s Candidates Pool B tournament&#xA0;is underway in Khiva, Uzbekistan. The event features four players&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk,&#xA0;Kateryna Lagno&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in a knock-out system for a place in the Women&#x2019;s Candidates finals against&#xA0;Lei Tingjie. Going into the first rest day of the tournament, both matches are tied 1-1 (The day 2 report can be found here). It []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-i-feel-a-little-nervous-video/",
+         "pubDate" : "Wed, 30 Nov 2022 20:55:54 +0000",
+         "title" : "Tan Zhongyi: I feel a little nervous (VIDEO)"
+      },
+      {
+         "description" : "Uzbekistan is booming with chess. The chess federation is building on the resonant successes of their national team &#x2013; gold medal in the 2022 Chennai Olympiad and silver medal in the recent 2022 World Teams Championship in Israel &#x2013; and are clearly putting their country on the map. Bringing the Women&#x2019;s Candidates to Khiva is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/calm-before-the-storm-another-two-draws-in-the-pool-b-of-the-womens-candidates/",
+         "pubDate" : "Wed, 30 Nov 2022 20:37:29 +0000",
+         "title" : "Calm before the storm! Another two draws in the Pool B of the Women's Candidates"
+      },
+      {
+         "description" : "The 1st International Al-Beruniy Chess Tournament commenced yesterday in the ancient city of&#xA0;Khiva, in Uzbekistan, which concurrently hosts the FIDE Women's Candidates Pool B tournament. The 1st Al-Beruniy Chess Tournament is being held from November 29 to December 5 with three events: Tournament A (for players rated 2000+), Tournament B (for players rated 1500-2000) and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-international-al-beruniy-chess-tournament-kicked-off-in-khiva/",
+         "pubDate" : "Wed, 30 Nov 2022 20:24:12 +0000",
+         "title" : "1st International Al-Beruniy Chess Tournament kicked off in Khiva"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Wed, 30 Nov 2022 19:34:54 +0000",
          "title" : "Keymer Shines in 2022! | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "The fourth edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, takes place from November 29 till December 4, 2022, featuring the Women&#x2019;s event for the first time this year. After yesterday's perfect 3/3, Georgian grandmaster Nana Dzagnidze today scored three draws against GM Anna Ushenina, GM Harika Dronavalli and GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nana-dzagnidze-maintains-the-lead-at-tata-steel-chess-india-womens-rapid-2022/",
+         "pubDate" : "Wed, 30 Nov 2022 19:05:00 +0000",
+         "title" : "Nana Dzagnidze maintains the lead at Tata Steel Chess India Women's Rapid 2022"
       },
       {
          "description" : "GMs Daniil Dubov and Magnus Carlsen won the November 29 editions of Titled Tuesday. Dubov scored 10.5/11 in the early tournament, winning by 1.5 points, while Carlsen scored 9.5 and outlasted GM Vladimir Fedoseev on tiebreaks. Also making an imp...",
@@ -66,22 +130,6 @@ news_feed (
          "title" : "3rd El Llobregat Open 2022 - Round 1 pairings"
       },
       {
-         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! GM Yu Yangyi, GM Francisco Vallejo Pons, and GM Hans Niemann are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-el-llobregat-open-with-yu-yangyi-vallejo-pons-and-hans-niemann-as-the-top-seeds-live-games/",
-         "pubDate" : "Wed, 30 Nov 2022 14:46:07 +0000",
-         "title" : "3rd El Llobregat Open with Yu Yangyi, Vallejo Pons, and Hans Niemann as the top seeds - LIVE GAMES"
-      },
-      {
-         "description" : "The TCEC Season 23 Subfinal is a bonus 3rd-place match between the loser of the Superfinal (Lc0) and the winner of the Infrafinal&#160;(Komodo Dragon), played with the same opening book as the Superfinal. It ended with a decisive victory for Lc0, +24 -13 =63. Most viewers predicted a Lc0 win by +1 to +5, so []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lc0-wins-tcec-season-23-subfinal/",
-         "pubDate" : "Wed, 30 Nov 2022 14:21:09 +0000",
-         "title" : "Lc0 wins TCEC Season 23 Subfinal"
-      },
-      {
          "description" : "Chess.com is happy to announce that we&#39;ve released 50 lessons on the most popular chess openings. Developed by our team of master players, these lessons will teach you everything you need to know to take your opening play to the next level. Many...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,52 +146,12 @@ news_feed (
          "title" : "Aiming to become world champion in 3-4 years, says R Praggnanandhaa"
       },
       {
-         "description" : "World Chess Champion Magnus Carlsen celebrates his 32nd birthday today! We wish him loads of beautiful chess games and many more Champions titles! Magnus Carlsen is a reigning five-time World Chess Champion who holds also three World Rapid Champion titles and five World Blitz Champion titles. Carlsen has held the 1st position on the FIDE []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/happy-birthday-to-magnus-carlsen/",
-         "pubDate" : "Wed, 30 Nov 2022 13:35:29 +0000",
-         "title" : "Happy birthday to Magnus Carlsen!"
-      },
-      {
-         "description" : "The Alekhine Defense 1. e4 Nf6 is one of the most underrated surprise weapons out there. Truth be told, few players have studied it. Even if they have, this complete repertoire differs from other courses by showing you innovative and original ideas that are sure to give you imbalanced, dynamic, and complicated lines. Here is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alekhine-defense-by-gm-roeland-pruijssers/",
-         "pubDate" : "Wed, 30 Nov 2022 13:25:00 +0000",
-         "title" : "Alekhine Defense - by GM Roeland Pruijssers"
-      },
-      {
-         "description" : "The Romanian International Open is a 8-round Swiss tournament, held on December 2nd in Sebe&#x219;, Romania.Time control is 10 minutes for the entire game with a 5-second increment beginning from move one. Starting list of players : No. Name FED Rtg 1 GM Jianu Vlad-Cristian ROU 2539 2 IM Ardelean George-Catalin ROU 2494 3 IM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-international-open-rapid-2022-participants/",
-         "pubDate" : "Wed, 30 Nov 2022 12:15:20 +0000",
-         "title" : "Romanian International Open Rapid 2022 - Participants"
-      },
-      {
          "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in the ancient city of Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
          "pubDate" : "Wed, 30 Nov 2022 10:55:00 +0100",
          "title" : "Women's Candidates - Pool B: Live"
-      },
-      {
-         "description" : "The&#160;Women&#x2019;s Candidates Pool B tournament&#160;kicked off yesterday in Khiva, Uzbekistan with two draws. Though it seemed that both Kateryna Lagno and Aleksandra Goryachkina had their chances to score the full point in the first game, both games eventually ended in a peaceful manner. Tan Zhongyi escaped from slightly worse position and Lagno revealed in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-womens-candidates-pool-b-game-2-live/",
-         "pubDate" : "Wed, 30 Nov 2022 09:21:55 +0000",
-         "title" : "Kateryna Lagno vs Tan Zhongyi; Women's Candidates Pool B Game 2 LIVE"
-      },
-      {
-         "description" : "The Women's Candidates Pool B tournament kicked off yesterday in Khiva, Uzbekistan with two draws. Though it seemed that both Kateryna Lagno and Aleksandra Goryachkina had their chances to score the full point in the first game, both games eventually ended in a peaceful manner. Kosteniuk saved the game against Goryachkina yesterday, saying in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-2-live/",
-         "pubDate" : "Wed, 30 Nov 2022 09:16:31 +0000",
-         "title" : "Alexandra Kosteniuk vs Aleksandra Goryachkina; Women's Candidates Pool B Game 2 LIVE"
       },
       {
          "description" : "Shakhriyar Mamedyarov won a brilliant game against Wesley So as he scored 3/3 on Day 1 of the Tata Steel Chess India Rapid and Blitz in Kolkata. It was all the more impressive after Wesley had scored a fine win over Hikaru Nakamura in the previous round. No-one else has won more than a single game, which was a pattern followed in the Women's section, where only Nana Dzagnidze made it 3/3.",
@@ -1576,14 +1584,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/small-changes/",
          "pubDate" : "Thu, 17 Nov 2022 10:34:32 +0000",
          "title" : "Small Changes - Huge Results"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda defeated GM Anish Giri with a brilliant third-match game on Wednesday in round three of the Meltwater Champions Chess Tour Finals. The Polish grandmaster is still on a perfect 9/9 score but that is also the case for GM Magnus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-3",
-         "pubDate" : "Thu, 17 Nov 2022 02:19:00 -0800",
-         "title" : "Duda Wins Brilliant Game In Champions Chess Tour Finals"
       },
       {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 29th January 2023, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
