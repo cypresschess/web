@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;kicked off yesterday in Saint Boi de Llobregat, Barcelona.&#xA0;A very strong field of 179 players includes 50 grandmasters and 44 international masters, and the first round was marked with a number of upsets. After the first round, 70 players score 1/1 and tie for the top, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/el-llobregat-open-2022-round-2-pairings/",
+         "pubDate" : "Thu, 01 Dec 2022 11:38:11 +0000",
+         "title" : "El Llobregat Open 2022 - Round 2 pairings"
+      },
+      {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;kicked off yesterday in Saint Boi de Llobregat, Barcelona. A very strong field with 179 entries is led by GM Francisco Vallejo Pons,&#xA0;GM Yu Yangyi, GM Hans Niemann,&#xA0;GM Ivan Cheparinov,&#xA0;GM Vladimir Fedoseev,&#xA0;GM Kirill Alekseenko,&#xA0;GM Jaime Santos Latasa,&#xA0;GM Aryan Tari,&#xA0;GM Amin Tabatabaei,&#xA0;GM Matthias Bluebaum, GM Kirill Shevchenko&#xA0;etc.&#xA0; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/underdogs-show-their-strength-in-the-1st-round-of-the-el-llobregat-open-2022/",
+         "pubDate" : "Thu, 01 Dec 2022 11:29:03 +0000",
+         "title" : "Underdogs show their strength in the 1st round of the El Llobregat Open 2022"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door1",
+         "pubDate" : "Thu, 01 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 1"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #544 Merijn van Delft presents a game in which the well-known commentator and streamer Jan Gustafsson demonstrated his attacking and his tactical skills. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-544-j-gustafsson-vs-s-grigorian",
+         "pubDate" : "Thu, 01 Dec 2022 11:26:44 +0100",
+         "title" : "Game of the Week #544: J. Gustafsson vs S. Grigorian"
+      },
+      {
+         "description" : "The Bangabandhu Bangladesh Premier League is taking place from 30 November to 10 December 2022 . Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 11-team round-robin tournament with Sultana Kamal Smirity Pathagar ( Shameem Mohammad, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-bangladesh-premier-league-2022-live/",
+         "pubDate" : "Thu, 01 Dec 2022 08:50:29 +0000",
+         "title" : "Bangabandhu Bangladesh Premier League 2022 - LIVE"
+      },
+      {
          "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,30 +176,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-sevian-in-the-mrdodgy-invitational-semis",
          "pubDate" : "Wed, 30 Nov 2022 15:25:13 +0000",
          "title" : "Carlsen-Sevian in MrDodgy Invitational Semis"
-      },
-      {
-         "description" : "The 97th edition of the Argentine Absolute Chess Championship takes place from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players will compete in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). The best-rated player in Argentina,&#xA0;GM Alan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/97th-argentine-absolute-chess-championship-live/",
-         "pubDate" : "Wed, 30 Nov 2022 15:19:17 +0000",
-         "title" : "97th Argentine Absolute Chess Championship - LIVE"
-      },
-      {
-         "description" : "The 97th edition of the Argentine Absolute Chess Championship will be held from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players will compete in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). Time control is 90 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/97th-argentine-absolute-chess-championship/",
-         "pubDate" : "Wed, 30 Nov 2022 15:17:29 +0000",
-         "title" : "97th Argentine Absolute Chess Championship"
-      },
-      {
-         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain and gathers 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! GM Francisco Vallejo Pons,&#xA0;GM Yu Yangyi&#xA0;and&#xA0;GM Hans Niemann&#xA0;are the top seeds, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-el-llobregat-open-2022-round-1-pairings/",
-         "pubDate" : "Wed, 30 Nov 2022 15:00:06 +0000",
-         "title" : "3rd El Llobregat Open 2022 - Round 1 pairings"
       },
       {
          "description" : "Chess.com is happy to announce that we&#39;ve released 50 lessons on the most popular chess openings. Developed by our team of master players, these lessons will teach you everything you need to know to take your opening play to the next level. Many...",
@@ -1386,14 +1402,6 @@ news_feed (
          "title" : "Meltwater Finals: Carlsen secures victory with a round to spare"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 100th (!) instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-100-play-the-sicilian-2",
-         "pubDate" : "Sun, 20 Nov 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 100: Play the Sicilian! (2)"
-      },
-      {
          "description" : "Lionel Messi and Cristiano Ronaldo, the two biggest stars of football (soccer), are playing chess in Louis Vuitton&#39;s latest campaign, launched on Saturday. Chess fans quickly discovered that the position on the board is from a real game. &#34;Victor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-6",
          "pubDate" : "Sun, 20 Nov 2022 01:30:00 -0800",
          "title" : "Carlsen Wins Champions Chess Tour Finals With Round To Spare"
-      },
-      {
-         "description" : "It has been nearly 40 years since an American last emerged victorious in the World Correspondence Chess Championship, but GM Jon Edwards has succeeded by winning the 32nd edition. While not a little remarkable, Jon Edwards holds another lesser known title: owner of the largest chess stamp collection in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-edwards-wins-the-32nd-world-correspondence-championship",
-         "pubDate" : "Sun, 20 Nov 2022 10:00:00 +0100",
-         "title" : "Jon Edwards wins the 32nd World Correspondence Championship"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
