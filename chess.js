@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 4th edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, kicked off on Monday with the Rapid tournament in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Indian prodigy Nihal Sarin clinched gold with a round to spare []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nihal-sarin-is-the-winner-of-tata-steel-chess-india-rapid-2022/",
+         "pubDate" : "Thu, 01 Dec 2022 17:32:40 +0000",
+         "title" : "Nihal Sarin is the Winner of Tata Steel Chess India Rapid 2022"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, takes place from November 29 till December 4, 2022, featuring the Women&#x2019;s event for the first time this year. Ukrainian grandmaster Anna Ushenina won the Rapid portion of the tournament as she clinched a convincing 2-0 victory against GM Nana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anna-ushenina-defeats-nana-dzagnidze-in-the-playoffs-to-win-tata-steel-chess-india-womens-rapid-2022/",
+         "pubDate" : "Thu, 01 Dec 2022 17:21:18 +0000",
+         "title" : "Anna Ushenina defeats Nana Dzagnidze in the playoffs to win Tata Steel Chess India Women's Rapid 2022"
+      },
+      {
+         "description" : "This week Robert Ris takes a loot at the Van Geet Opening: 1.Nc3!?, a move that helped Arjun Erigaisi to achieve a miniature victory against his compatriot Praggnanandhaa at the finals of the Meltwater Champions Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-surprising-and-often-surprisingly-effective-1-nc3",
+         "pubDate" : "Thu, 01 Dec 2022 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Surprising and often surprisingly effective: 1.Nc3!?"
+      },
+      {
+         "description" : "Is it already the end of the year again? The Holiday season approaches, and on Chess.com this can only mean one thing: Your favorite Holiday Bots are back! Put on your best holiday-themed sweater, grab some cookies, pour some eggnog, and head to o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/holiday-bots-2022",
+         "pubDate" : "Thu, 01 Dec 2022 08:31:51 -0800",
+         "title" : "Have A Jolly Time With The Holiday Bots"
+      },
+      {
          "description" : "Magnus Carlsen celebrated his 32nd birthday with a crushing 7:1 victory over Sam Sevian in the MrDodgy Invitational semi-finals. At first that looked set to earn a final against Alexander Grischuk, who stormed to a 3:0 lead, but Daniil Dubov hit back to win five games and clinch a 7:5 victory. The Carlsen-Dubov final starts at 17:00 CET on Thursday December 1st.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-210",
          "pubDate" : "Thu, 01 Dec 2022 15:00:00 +0100",
          "title" : "New: ChessBase Magazine Extra #210"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2114",
+         "pubDate" : "Thu, 01 Dec 2022 13:04:11 +0000",
+         "title" : "FIDE December 2022 rating list published"
       },
       {
          "description" : "On July 10th August 10th 2022, NEUROHM, Michal Kanarkiewicz and PLAY MAGNUS GROUP conducted a chess survey, aimed at promoting the royal game and expanding knowledge about the group of people who play chess, both professionally and on amateur level. The respondents were in different age groups, with different ELO Rating, from different countries and with different&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/\">Read More &#187;</a></span>",
@@ -162,28 +202,12 @@ news_feed (
          "title" : "Calm before the storm! Another two draws in the Pool B of the Women's Candidates"
       },
       {
-         "description" : "The 1st International Al-Beruniy Chess Tournament commenced yesterday in the ancient city of&#xA0;Khiva, in Uzbekistan, which concurrently hosts the FIDE Women's Candidates Pool B tournament. The 1st Al-Beruniy Chess Tournament is being held from November 29 to December 5 with three events: Tournament A (for players rated 2000+), Tournament B (for players rated 1500-2000) and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-international-al-beruniy-chess-tournament-kicked-off-in-khiva/",
-         "pubDate" : "Wed, 30 Nov 2022 20:24:12 +0000",
-         "title" : "1st International Al-Beruniy Chess Tournament kicked off in Khiva"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Wed, 30 Nov 2022 19:34:54 +0000",
          "title" : "Keymer Shines in 2022! | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "The fourth edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, takes place from November 29 till December 4, 2022, featuring the Women&#x2019;s event for the first time this year. After yesterday's perfect 3/3, Georgian grandmaster Nana Dzagnidze today scored three draws against GM Anna Ushenina, GM Harika Dronavalli and GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nana-dzagnidze-maintains-the-lead-at-tata-steel-chess-india-womens-rapid-2022/",
-         "pubDate" : "Wed, 30 Nov 2022 19:05:00 +0000",
-         "title" : "Nana Dzagnidze maintains the lead at Tata Steel Chess India Women's Rapid 2022"
       },
       {
          "description" : "GMs Daniil Dubov and Magnus Carlsen won the November 29 editions of Titled Tuesday. Dubov scored 10.5/11 in the early tournament, winning by 1.5 points, while Carlsen scored 9.5 and outlasted GM Vladimir Fedoseev on tiebreaks. Also making an imp...",
@@ -1386,14 +1410,6 @@ news_feed (
          "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
       },
       {
-         "description" : "The Meltwater Champions Chess Tour Finals was a seven-day long all-play-all round robin in San Francisco which started on November 14 and concluded on November 20. Eight elite chess stars took part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Replay all the games from the tournament with computer analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
-         "pubDate" : "Sun, 20 Nov 2022 20:50:00 +0100",
-         "title" : "Meltwater Champions Tour Finals - Games and standings"
-      },
-      {
          "description" : "The short list for this month's featured Flickr photo had two items. One was a little too naughty (not 'For All Ages') and the other was a little too uninspiring. The last time something similar happened I came up with <A HREF=\"http://chessforallages.blogspot.com/2021/12/shallow-green-chess-photos.html\">Shallow, Green Chess Photos</A>(December 2021). What to do this time? <P>Fortunately I had an idea left over from <A HREF=\"http://chessforallages.blogspot.com/2021/10/the-hand-that-guides-blank.html\">'The Hand that Guides the [blank]'</A>(October 2021). The Flickr photo behind that post was included in 29 groups, all begging to be explored. <P>One of the groups had the title 'deviantART Devia",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1528,14 +1544,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekend-day-1.html",
          "pubDate" : "Fri, 18 Nov 2022 13:14:00 +0000",
          "title" : "2022 Vikings Weekend - Day 1"
-      },
-      {
-         "description" : "GM Magnus Carlsen is the only player on a perfect 12/12 score at the Meltwater Champions Chess Tour Finals after beating GM Anish Giri 3-0 in round four.&#38;nbsp;GM Jan-Krzysztof Duda lost his first match to GM Le Quang Liem, while GM Arjun Erigaisi ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-4",
-         "pubDate" : "Fri, 18 Nov 2022 00:24:00 -0800",
-         "title" : "Carlsen Leads Alone On Perfect 12/12"
       },
       {
          "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020 and who the followi",
