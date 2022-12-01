@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-aronian-andreikin",
+         "pubDate" : "Wed, 30 Nov 2022 19:35:13 -0800",
+         "title" : "Aronian Sparks Bullet Comeback vs. Andreikin"
+      },
+      {
+         "description" : "Day 2 of the Tata Steel India Chess event once again finished with sole leaders in both tournaments. In the open, Nihal Sarin climbed to sole first place after scoring 2&frac12; out of 3 points, while among the women, Nana Dzagnidze could have lost her last two games of the day, but instead drew both times and is still in sole first place with three rounds to go. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d2",
+         "pubDate" : "Thu, 01 Dec 2022 03:55:00 +0100",
+         "title" : "Tata Steel India: Nihal surges ahead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2113",
+         "pubDate" : "Thu, 01 Dec 2022 00:26:06 +0000",
+         "title" : "FIDE Events Commission: Call for Bids"
+      },
+      {
          "description" : "The Philippine Women's Championship is taking place from 29 November to 7 December 2022 in Quezon City.. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with Mary Joy Tan, April Joy Claros, Bernadette Galas, Kate Nicole Ordizo, Bea Mendoza, Jan Jodilyn []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
       },
       {
-         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
-         "pubDate" : "Wed, 30 Nov 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
          "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/young-stars-shine-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Tue, 29 Nov 2022 22:34:01 +0000",
          "title" : "Young Stars Shine at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2111",
-         "pubDate" : "Tue, 29 Nov 2022 20:41:08 +0000",
-         "title" : "African Amateur Championship 2022 gets underway in Kenya"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
@@ -266,12 +274,28 @@ news_feed (
          "title" : "FIDE Aid Package to Open Tournaments 2023"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Tue, 29 Nov 2022 15:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "The European Individual Chess Championship 2023 is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/",
          "pubDate" : "Tue, 29 Nov 2022 14:50:24 +0000",
          "title" : "European Individual Chess Championship 2023 - Official regulations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2111",
+         "pubDate" : "Tue, 29 Nov 2022 13:41:08 +0000",
+         "title" : "African Amateur Championship 2022 gets underway in Kenya"
       },
       {
          "description" : "FIDE functions on the basis of its different commissions. For the rules related to arbiters, we have the arbiters commission, for the rules related to",
@@ -512,14 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-carlsen-interview-sagar-2022",
          "pubDate" : "Sun, 27 Nov 2022 23:30:00 +0100",
          "title" : "Magnus Carlsen applauds Indian chess talents and fans"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Sun, 27 Nov 2022 20:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-seniors.html",
          "pubDate" : "Thu, 17 Nov 2022 22:16:00 +0000",
          "title" : "2022 World Seniors"
-      },
-      {
-         "description" : "FM Tani Adewumi is scheduled to play against fellow young chess sensation IM Yagiz Erdogmus at 7 a.m. Pacific Time/16:00 Central European Time on November 20&#38;nbsp;in the next episode of his regular ChessKid series &#34;Tani vs. The World.&#34; Erdogmus ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-adewumi-vs-yagiz-erdogmus",
-         "pubDate" : "Thu, 17 Nov 2022 11:04:42 -0800",
-         "title" : "Young Prodigies FM Tani Adewumi, IM Yagiz Erdogmus Face Off"
       },
       {
          "description" : "",
