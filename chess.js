@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
+         "pubDate" : "Thu, 01 Dec 2022 07:25:00 +0100",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-aronian-andreikin",
-         "pubDate" : "Wed, 30 Nov 2022 19:35:13 -0800",
+         "pubDate" : "Wed, 30 Nov 2022 19:35:00 -0800",
          "title" : "Aronian Sparks Bullet Comeback vs. Andreikin"
       },
       {
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-day-2.html",
          "pubDate" : "Sat, 19 Nov 2022 11:42:00 +0000",
          "title" : "2022 Vikings Weekender - Day 2"
-      },
-      {
-         "description" : "Garry Kasparov was the eight of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-garry-kasparov",
-         "pubDate" : "Sat, 19 Nov 2022 12:00:00 +0100",
-         "title" : "Frederic's mates - Garry Kasparov"
       },
       {
          "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
