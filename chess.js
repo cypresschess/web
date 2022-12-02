@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King&#039;s Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. 2022.12.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
+         "description" : "The 9-round rapid tournaments - open and women's - at the Tata Steel India Chess event came to an end on Thursday. Nihal Sarin had a dominating performance in the open, securing first place with a round to spare after collecting back-to-back wins over Shakhriyar Mamedyarov and Parham Maghsoodloo. Earlier in the day, Anna Ushenina had defeated Nana Dzagnidze in blitz tiebreaks to claim the women's title. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d3",
+         "pubDate" : "Fri, 02 Dec 2022 01:25:00 +0100",
+         "title" : "Nihal and Ushenina win Tata Steel India Rapid tournaments"
+      },
+      {
+         "description" : "GM Nihal Sarin won the 2022 Tata Steel Chess India Open Rapid with a round to spare, while GM Anna Ushenina tied for first and won the tiebreak match to win the 2022 Tata Steel Chess India Women&#39;s Rapid. In the Open section, while Nihal scored 6...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-rapid-day-3",
+         "pubDate" : "Thu, 01 Dec 2022 15:03:00 -0800",
+         "title" : "Nihal, Ushenina Winners In Contrasting Styles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King's Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/bangabandhu-bangladesh-premier-league-2022-live/",
          "pubDate" : "Thu, 01 Dec 2022 08:50:29 +0000",
          "title" : "Bangabandhu Bangladesh Premier League 2022 - LIVE"
-      },
-      {
-         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with expert commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
-         "pubDate" : "Thu, 01 Dec 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Live!"
       },
       {
          "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-day-2.html",
          "pubDate" : "Sat, 19 Nov 2022 11:42:00 +0000",
          "title" : "2022 Vikings Weekender - Day 2"
-      },
-      {
-         "description" : "GM Magnus Carlsen won his fifth match in a row at the Meltwater Champions Chess Tour Finals but lost his perfect score as GM Le Quang Liem went down only in the armageddon game of their tiebreak. The Vietnamese GM thus took one match point away fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-5",
-         "pubDate" : "Sat, 19 Nov 2022 02:08:00 -0800",
-         "title" : "Carlsen On Brink Of Victory After Armageddon Win"
       },
       {
          "description" : "The recent death of Michael Basman brought to my mind Shakespeare's stirring words from King Henry V's pre battle oration at Agincourt: And Crispin Crispian shall ne'er go by, []",
