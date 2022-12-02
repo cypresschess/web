@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The former world top-10 grandmaster edged out his rivals by half a point after a tense final round at Assisi, concluding a year where England 50+ and 65+ players also won two world and one European team championships John Nunn, the former top-10 player and author of several instructional books, recovered the form of his best years at age 67 last week when the grandmaster from Bude in Conrwall won the world 65+ senior championship in Assisi, Italy. Nunn scored nine out of 11, and won all his six games with White, including a vital win in what had seemed a drawn final round queen and knight v queen and bishop ending. The championship was a competitive event of 192 players, where Nunn's only d",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/02/chess-john-nunn-wins-world-65-title-in-vintage-year-for-england-seniors",
+         "pubDate" : "Fri, 02 Dec 2022 07:30:09 +0000",
+         "title" : "Chess: John Nunn wins world 65+ title in vintage year for England seniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky shares his greatest chess preparation (up to that point) from the early 1980s with games against Alexsander Shashin. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-1-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
+         "title" : "The Classical King's Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King's Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-2-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
+         "title" : "The Classical King's Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King&#039;s Indian Defense for the final time in this third part finale. 2022.12.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NzIcI4F3bpw.jpg?itok=SZt_SUn6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
+         "title" : "The Classical King's Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
          "description" : "The 9-round rapid tournaments - open and women's - at the Tata Steel India Chess event came to an end on Thursday. Nihal Sarin had a dominating performance in the open, securing first place with a round to spare after collecting back-to-back wins over Shakhriyar Mamedyarov and Parham Maghsoodloo. Earlier in the day, Anna Ushenina had defeated Nana Dzagnidze in blitz tiebreaks to claim the women's title. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +304,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aiming-to-become-world-champion-in-3-4-years-says-r-praggnanandhaa/articleshow/95889479.cms",
          "pubDate" : "Wed, 30 Nov 2022 13:47:31 +0000",
          "title" : "Aiming to become world champion in 3-4 years, says R Praggnanandhaa"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in the ancient city of Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Wed, 30 Nov 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B: Live"
       },
       {
          "description" : "Shakhriyar Mamedyarov won a brilliant game against Wesley So as he scored 3/3 on Day 1 of the Tata Steel Chess India Rapid and Blitz in Kolkata. It was all the more impressive after Wesley had scored a fine win over Hikaru Nakamura in the previous round. No-one else has won more than a single game, which was a pattern followed in the Women's section, where only Nana Dzagnidze made it 3/3.",
@@ -1146,22 +1170,6 @@ news_feed (
          "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young Uzbek grandmaster Nodirbek Abdusattorov, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nSDx3f8xsys.jpg?itok=8rJui4X0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abdusattorov-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 22 Nov 2022 22:27:52 +0000",
-         "title" : "Abdusattorov Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a &quot;reverse pin.&quot; 2022.11.22 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRB",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thanksgiving-try-skewer-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 22 Nov 2022 22:27:52 +0000",
-         "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown | lichess.org"
-      },
-      {
          "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1426,6 +1434,14 @@ news_feed (
          "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
       },
       {
+         "description" : "The Meltwater Champions Chess Tour Finals was a seven-day long all-play-all round robin in San Francisco which started on November 14 and concluded on November 20. Eight elite chess stars took part in the third and final major of the tour, including Magnus Carlsen, Wesley So and Rameshbabu Praggnanandhaa. | Replay all the games from the tournament with computer analysis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meltwater-tour-finals-2022-live",
+         "pubDate" : "Sun, 20 Nov 2022 20:50:00 +0100",
+         "title" : "Meltwater Champions Tour Finals - Games and standings"
+      },
+      {
          "description" : "The short list for this month's featured Flickr photo had two items. One was a little too naughty (not 'For All Ages') and the other was a little too uninspiring. The last time something similar happened I came up with <A HREF=\"http://chessforallages.blogspot.com/2021/12/shallow-green-chess-photos.html\">Shallow, Green Chess Photos</A>(December 2021). What to do this time? <P>Fortunately I had an idea left over from <A HREF=\"http://chessforallages.blogspot.com/2021/10/the-hand-that-guides-blank.html\">'The Hand that Guides the [blank]'</A>(October 2021). The Flickr photo behind that post was included in 29 groups, all begging to be explored. <P>One of the groups had the title 'deviantART Devia",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2093",
          "pubDate" : "Fri, 18 Nov 2022 21:20:20 +0000",
          "title" : "Winners crowned at 64th World Congress of Chess Composition"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky shares his greatest chess preparation (up to that point) from the early 1980s with games against Alexsander Shashin. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prep-mar-del-plata-kings-indian-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 18 Nov 2022 19:23:58 +0000",
-         "title" : "Prep in the Mar del Plata King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
          "description" : "Magnus Carlsen leads the Meltwater Champions Chess Tour Finals by 3 points after he beat Anish Giri 3:0 in Round 4 while Jan-Krzysztof Duda fell to Liem Le. Anish commented, \"today was the day when I found out what's broken,\" as he saw lessons in a defeat full of hard-to-explain decisions. Wesley So won a second match in a row, against Praggnanandhaa, while Arjun Erigaisi picked up his first win, against Shakhriyar Mamedyarov.",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rolling-membership-introduction/",
          "pubDate" : "Fri, 11 Nov 2022 10:00:45 +0000",
          "title" : "Rolling membership introduction"
-      },
-      {
-         "description" : " The London teenager has a chance to become the youngest English player ever to score a grandmaster result Shreyas Royal, 13, is in contention to score England's youngest ever grandmaster result in the Bavarian Open at Tegernsee, Germany. Royal won his first five games, the last two against highly rated GMs, before drawing quickly by repeated moves in Thursday's sixth round against Azerbaijan's Eltaj Safarli, the 2616-rated No 4 seed in the giant 530-player tournament. The Greenwich teenager's fourth- and fifth-round victories were both impressive. In round four he <a href=\"https://chess24.com/en/watch/live-tournaments/offene-bayerische-meisterschaft-2022/4/1/3\" title=\"\">defeated GM Bobby Ch",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/nov/11/chess-shreyas-royal-13-leads-bavarian-open-with-56-as-records-beckon",
-         "pubDate" : "Fri, 11 Nov 2022 08:00:08 +0000",
-         "title" : "Chess: Shreyas Royal, 13, leads Bavarian Open as records beckon"
       }
    ]
 }
