@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week, Daniel King continues to explore the 'Novotny interference', a beautiful theme that recently resurfaced in competitive play. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-novotny-classic",
+         "pubDate" : "Fri, 02 Dec 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: A Novotny classic"
+      },
+      {
+         "description" : " I was asked a question during the Thanksgiving holiday that led to an interesting conversation, one worth interrupting this series of articles to present. It not only has to do with chess but with nearly everything else we do in life. The question was simple enough, why bother learning how to play chess? The answer, <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\">A Foundation for Beginners Seventy Seven</a> appeared first on <a rel=\"nofollow",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-seven/",
+         "pubDate" : "Fri, 02 Dec 2022 14:00:02 +0000",
+         "title" : "A Foundation for Beginners Seventy Seven"
+      },
+      {
+         "description" : "There has been little change at the top of the FIDE world rankings. Magnus Carlsen leads ahead of Ding Liren and Ian Nepomniachtchi. The best woman player is Hou Yifan and the best juniors are Alireza Firouzja and Zhu Jiner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-december-2022",
+         "pubDate" : "Fri, 02 Dec 2022 15:00:00 +0100",
+         "title" : "FIDE ratings December 2022"
+      },
+      {
+         "description" : " I've hit a bit of a dry spell with this blog lately. I suspect the main reason is that the effects of covid on OTB chess are still being felt. This has resulted in more online events (which I don't really follow), and faster/shorter events, which I don't take that seriously. The other reason is that paradoxically, having more free time (due to retirement) has resulted in me having less free time. I've ended up doing a lot more coaching than ever before, which makes it harder for me to organise the time for other (important) tasks. The knock-on effect is that instead of chess being an alternative to work, it is just part of my work. On the bright side, I finally knocked off all the possible ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/more-things-that-are-not-chess.html",
+         "pubDate" : "Fri, 02 Dec 2022 13:20:00 +0000",
+         "title" : "More things that are not chess"
+      },
+      {
          "description" : "Magnus Carlsen has won the 3rd edition of the MrDodgy Invitational after cruising to a 6.5:1.5 victory in the final against Daniil Dubov. The games were closer than the scoreline suggests, but Daniil explained that when playing Magnus it's a case of \"you can choose the way you lose\". He chose to try and match the World Champion on the board, but not on the clock.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -66,7 +98,7 @@ news_feed (
          "title" : "Women's Candidates - Pool B: Live"
       },
       {
-         "description" : "The European School Chess Championship 2022 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "description" : "The European School Chess Championship 2023 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-official-invitation/",
@@ -1394,28 +1426,12 @@ news_feed (
          "title" : "World Senior Individual Chess Championship - report"
       },
       {
-         "description" : "...until ChessBase 17 is released! Be prepared for some very exciting news. The new program is not just a routine update - it brings you revolutionary features that take us to a new dimension in chess training. The release will be announced on Tuesday, and you will be able to order it at a premium price. Together with any other product on our grand autumn Discount Day service, on Wednesday, where everything is 25% off. Don't miss your chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/just-one-day-left",
-         "pubDate" : "Mon, 21 Nov 2022 12:00:00 +0100",
-         "title" : "Just one day left&hellip;"
-      },
-      {
          "description" : "GM Magnus Carlsen finished the Meltwater Champions Chess Tour Finals in style as he also won his seventh and final match, against GM Jan-Krzysztof Duda. The world champion scored a stunning 20/21, seven points more than runner-up GM Wesley So. H...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-7",
          "pubDate" : "Mon, 21 Nov 2022 02:27:00 -0800",
          "title" : "Champions Chess Tour Finals: Carlsen Wins All Matches"
-      },
-      {
-         "description" : "The World Team Chess Championship kicked off in Jerusalem on Sunday. With a new 'slow rapid' format, the event saw the teams from each of the two pools playing two matches on the first day of action. Pool A saw China and Ukraine winning both their matches, while only Azerbaijan managed the same feat in Pool B. Four out of six squads in each group will move on to the quarterfinals. | Pictured: France's Laurent Fressinet (currently on 2 out of 2) | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d1",
-         "pubDate" : "Mon, 21 Nov 2022 11:00:00 +0100",
-         "title" : "World Teams: Three squads get back-to-back wins"
       },
       {
          "description" : " Like most chess teachers, I encourage my students to look for forcing moves: checks, captures and threats. Some time ago I thought it a good idea to teach them to use a CCTV to look at the board, so I told them about Checks, Captures, Threats and Violent moves. The Violent moves serves as a <a href=\"https://chessimprover.com/cctv/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"CCTV\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/cctv/\">CCTV</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1840,22 +1856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-books-for-christmas-and-karpovs-enigma/",
          "pubDate" : "Sat, 12 Nov 2022 08:00:32 +0000",
          "title" : "Chess books for Christmas - and Karpov's enigma"
-      },
-      {
-         "description" : "We're nearing the end of this blog's 'Fischer Friday' series, last seen in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fashionable-fischer.html\">Fashionable Fischer</A>(November 2022). This current post has nothing to do with Fischer's 1972 or 1992 matches, and takes its title from an old post <A HREF=\"http://chessforallages.blogspot.com/2012/05/korchnoi-busted.html\">Korchnoi Busted</A>(May 2012). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk11.jpg\" WIDTH=400 HEIGHT=300> <P>I found the photo on <A HREF=\"https://www.deviantart.com/florijanmedjugorje/art/Bobby-Fischer-166312639\">Bobby Fischer by florijanmedjugorje</A>(deviantart.com), and compressed its description ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/fischer-busted.html",
-         "pubDate" : "Fri, 11 Nov 2022 16:21:00 +0000",
-         "title" : "Fischer Busted"
-      },
-      {
-         "description" : "&#8212; from Brendan O'Gorman I'm sad to report that Alan Fraser died on 2 November. A member of Beckenham and Bromley chess club, Alan only...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/alan-fraser-rip/",
-         "pubDate" : "Fri, 11 Nov 2022 14:05:30 +0000",
-         "title" : "Alan Fraser RIP"
       }
    ]
 }
