@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King&#039;s Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. 2022.12.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Thu, 01 Dec 2022 22:36:33 +0000",
+         "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "Austrian Student Rapid Championship &#xA0;is taking place on 1 December 2022. Players receive 10 minutes for the entire game, plus a 2-second increment starting from move one. It is a 7-round Swiss tournament with Dominik Horvath, Mattias Filek, Emanuel Hoegl, Anastasiya Kolba, Erik Andresen, Noah Faderbauer, Patrick Nussbaumer, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-student-rapid-championship-2022-live/",
+         "pubDate" : "Thu, 01 Dec 2022 22:14:14 +0000",
+         "title" : "Austrian Student Rapid Championship 2022 - LIVE"
+      },
+      {
          "description" : "The 4th edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, kicked off on Monday with the Rapid tournament in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Indian prodigy Nihal Sarin clinched gold with a round to spare []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/holiday-bots-2022",
-         "pubDate" : "Thu, 01 Dec 2022 08:31:51 -0800",
+         "pubDate" : "Thu, 01 Dec 2022 08:31:00 -0800",
          "title" : "Have A Jolly Time With The Holiday Bots"
       },
       {
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tan-zhongyi-i-feel-a-little-nervous-video/",
          "pubDate" : "Wed, 30 Nov 2022 20:55:54 +0000",
          "title" : "Tan Zhongyi: I feel a little nervous (VIDEO)"
-      },
-      {
-         "description" : "Uzbekistan is booming with chess. The chess federation is building on the resonant successes of their national team &#x2013; gold medal in the 2022 Chennai Olympiad and silver medal in the recent 2022 World Teams Championship in Israel &#x2013; and are clearly putting their country on the map. Bringing the Women&#x2019;s Candidates to Khiva is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/calm-before-the-storm-another-two-draws-in-the-pool-b-of-the-womens-candidates/",
-         "pubDate" : "Wed, 30 Nov 2022 20:37:29 +0000",
-         "title" : "Calm before the storm! Another two draws in the Pool B of the Women's Candidates"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-posts-first-win-r-praggnanandhaa-loses/articleshow/95593388.cms",
          "pubDate" : "Fri, 18 Nov 2022 03:58:29 +0000",
          "title" : "Meltwater Champions Tour Finals: Erigaisi posts first win; Praggnanandhaa loses"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches tournament players how to prepare like the professionals, using his own experience. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Thu, 17 Nov 2022 22:23:34 +0000",
-         "title" : "Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
          "description" : " The 2022 World Seniors has just begun in Italy, and as is normal, there are a mix of well known players and enthusiastic amateurs. It is being run in two section, 50+ and 65+, and somewhat surprisingly, there are more players in the 65+ section than the 50+ section. Top seed on the 65+ section is GM John Nunn, who started the event with a smooth, and somewhat instructive win over his first round opponent. <br /> <b>Nunn,John D M (2580) - Sursock,Sameer (1976) [B28]</b><br />30th World Senior Chess Championship 202 Assisi (ITA) (1.1), 15.11.2022 <script>new PgnViewer( { boardName: \"game1366\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 ",
