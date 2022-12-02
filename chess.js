@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-2",
+         "pubDate" : "Fri, 02 Dec 2022 12:00:00 -0800",
+         "title" : "Women's Candidates: Goryachkina Leads Against Kosteniuk"
+      },
+      {
+         "description" : "Chess.com has formally requested the Eastern Missouri District Court to dismiss GM Hans Niemann&#39;s defamation lawsuit. The motion to dismiss, filed on December 2, 2022, asserts that the lawsuit &#34;could have been brought only as a public relations st...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-files-motion-to-dismiss-niemann-lawsuit",
+         "pubDate" : "Fri, 02 Dec 2022 11:51:06 -0800",
+         "title" : "Chess.com Files Motion To Dismiss Hans Niemann Lawsuit"
+      },
+      {
+         "description" : "It's too expensive. It is overpriced. The complaints are as widespread as they are common. We hear it all around us, we have said it ourselves. So how does one handle this when on the fence? Some thoughts on the decision process.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/when-to-splurge-when-to-save",
+         "pubDate" : "Fri, 02 Dec 2022 20:00:00 +0100",
+         "title" : "When to splurge, when to save"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2115",
+         "pubDate" : "Fri, 02 Dec 2022 18:48:09 +0000",
+         "title" : "Khiva Women's Candidates: Goryachkina draws first blood"
+      },
+      {
+         "description" : "Aleksandra Goryachkina broke the deadlock in Pool B of the Women's Candidates, as she defeated Alexandra Kosteniuk with the black pieces in game 3 of their match. Meanwhile, Tan Zhongyi held a draw in a rook endgame a pawn down against Kateryna Lagno - their confrontation is still tied. The fourth and final games of this stage will be played on Saturday. | Photos: Timur Sattarov and Xushnud Baltaev",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r1g3",
+         "pubDate" : "Fri, 02 Dec 2022 18:35:00 +0100",
+         "title" : "Women's Candidates: Goryachkina scores with black"
+      },
+      {
          "description" : "This week, Daniel King continues to explore the 'Novotny interference', a beautiful theme that recently resurfaced in competitive play. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/azerbaijan-rapid-and-blitz-chess-championship-2022/",
          "pubDate" : "Fri, 02 Dec 2022 10:00:58 +0000",
          "title" : "Azerbaijan Rapid and Blitz Chess Championship 2022"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Fri, 02 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B: Live"
       },
       {
          "description" : "The European School Chess Championship 2023 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -362,6 +394,14 @@ news_feed (
          "title" : "Chessbase 17: Taking engine functions to the next level"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Wed, 30 Nov 2022 15:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -480,14 +520,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2109",
          "pubDate" : "Tue, 29 Nov 2022 16:19:44 +0000",
          "title" : "FIDE Aid Package to Open Tournaments 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Tue, 29 Nov 2022 15:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "The European Individual Chess Championship 2023 is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
@@ -1378,14 +1410,6 @@ news_feed (
          "title" : "Global Chess endgame gems"
       },
       {
-         "description" : "In the Endgame Magic Show #215 Karsten M&uuml;ller and French GM Christian Bauer look at endgame highlights from the Global Chess Championship and the finals of the Meltwater Chess Champions Tour. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-215-with-christian-bauer",
-         "pubDate" : "Mon, 21 Nov 2022 19:00:00 +0100",
-         "title" : "Endgame Magic #215 with Christian Bauer"
-      },
-      {
          "description" : "Magnus Carlsen finished the 2022 Meltwater Champions Chess Tour by beating Jan-Krzysztof Duda for a clean sweep of defeating all his opponents. That earned him $50,000 and took his Tour earnings to $242,500, $80,000 more than 2nd placed Duda. A spectacular last day also saw Anish Giri beat Wesley So in Armageddon, Praggnanandhaa defeat Arjun Erigaisi, and Liem Le take down Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1506,28 +1530,12 @@ news_feed (
          "title" : "Magnus Carlsen crowned 2022 Tour Finals champion with a round to spare"
       },
       {
-         "description" : "Lionel Messi and Cristiano Ronaldo, the two biggest stars of football (soccer), are playing chess in Louis Vuitton&#39;s latest campaign, launched on Saturday. Chess fans quickly discovered that the position on the board is from a real game. &#34;Victor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/messi-ronaldo-play-chess-in-louis-vuitton-campaign",
-         "pubDate" : "Sun, 20 Nov 2022 05:29:00 -0800",
-         "title" : "Messi, Ronaldo Play Chess In Louis Vuitton Campaign (And The Position Is Real)"
-      },
-      {
          "description" : " IM Junta Ikeda has won the 2022 Vikings Weekender, with an undefeated 5.5/6. He won his round 5 and 6 games today, to finish half a point ahead of IM Stephen Solomon. Solomon was tied with Ikeda going into the final round, but could only draw with Fred Litchfield, after getting a worse position out of the opening. Queensland junior Micah Young finished in 3rd placed, defeating Macau Olympiad player CM Hui Li in the final round. The Minor was won by James Minogue and Nick Beare, on 5/6. The two winners drew their round 5 game, leaving Minogue half a point in front going into the final round. However Beare was able to catch Minogue with a crushing win over Jerry Cheng, with Minogue only drawi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
          "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
          "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
-      },
-      {
-         "description" : "GM Magnus Carlsen clinched the Meltwater Champions Chess Tour Finals with a round to spare as he won his sixth match on Saturday against GM Praggnanandhaa R. GM Wesley So is in second place, after beating GM Jan-Krzysztof Duda, but five points beh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-6",
-         "pubDate" : "Sun, 20 Nov 2022 01:30:00 -0800",
-         "title" : "Carlsen Wins Champions Chess Tour Finals With Round To Spare"
       },
       {
          "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
