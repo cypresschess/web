@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Russian Grandmaster Sergey Karjakin announced today on his official Telegram account that he will join the race in the upcoming elections for President of the Russian Chess Federation. Karjakin, who was earlier this year banned for 6 months from FIDE competitions, publicly criticized the leadership of the Russian Chess Federation as well as FIDE. (all []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sergey-karjakin-runs-for-russian-chess-federation-president/",
+         "pubDate" : "Sat, 03 Dec 2022 14:53:46 +0000",
+         "title" : "Sergey Karjakin runs for Russian Chess Federation President"
+      },
+      {
+         "description" : "GM Aleksandra Goryachkina eliminated GM Alexandra Kosteniuk from the 2022-23 FIDE Women&#39;s Candidates Tournament by securing a draw in the fourth game from a better position. After four draws, the match between GM Tan Zhongyi and GM Kateryna Lagno ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-4",
+         "pubDate" : "Sat, 03 Dec 2022 06:38:35 -0800",
+         "title" : "Goryachkina Forces Draw, Eliminates Kosteniuk"
+      },
+      {
+         "description" : "The 51st UAE National Day Rapid is taking place from 3&#x2013;4 December 2022 in Sharjah, United Arab Emirates. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. It is a 10-round Swiss tournament Farrukh Amonatov, Viorel Iordachescu, A.R. Saleh Salem, Igor Miladinovic, Efstratios Grivas, Walter Arencibia Rodriguez, A. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/51st-uae-national-day-rapid-2022-live/",
+         "pubDate" : "Sat, 03 Dec 2022 14:08:15 +0000",
+         "title" : "51st UAE National Day Rapid 2022 - LIVE"
+      },
+      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,6 +138,14 @@ news_feed (
          "title" : "Tata Steel Chess India - Live!"
       },
       {
+         "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
+         "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
+         "title" : "Chess site files motion to dismiss $100m lawsuit"
+      },
+      {
          "description" : "The British Women's Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Katarzyna Toma, Elmira Mirzoeva, Madara Orlovska, Kamila Hryshchenko, Stefanie Duessler, Meri Grigoryan, Louise Head, Eugenia Karas, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/british-blitz-championship-2022-live/",
          "pubDate" : "Fri, 02 Dec 2022 22:27:42 +0000",
          "title" : "British Blitz Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The U20 North American Youth Championship is taking place from 2&#x2013;6 December 2022 in Mexico City, Mexico. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Vyom Vidyarthi, Johnathan Han, Aaryan Deshpande, Angel Ivan Quiroga Jaquez, Eugene Hua, Joshua Ad Avila []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-north-american-youth-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 22:13:10 +0000",
-         "title" : "U20 North American Youth Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The G20 North American Youth Championship is taking place from 2&#x2013;6 December 2022 in Mexico City, Mexico. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Iris Mou, Lhia Itzayana Castellanos Hernandez, Nastassja Matus, Michelle Hua, Omya Vidyarthi, Alexa Caballero Alonzo, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u20-north-american-youth-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 22:05:20 +0000",
-         "title" : "Girls U20 North American Youth Championship 2022 - LIVE"
       },
       {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
       },
       {
-         "description" : "From 26th October to 3rd of November 2022 the 20th edition of the Capechecs chess festival took place in Cap d'Agde in France. A total of 879 players fought in the different tournaments, from the famous Capechecs Trophy to various open tournaments for players of all strength. The Trophy was won by GM Laurent Fressinet after a narrow final against GM Luca Moroni, and the Grand Prix Open was won by GM Maxime Lagarde ahead of 49 grandmasters from 32 nations. | Photos: Pierre Textoris",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/laurent-fressinet-wins-the-20th-capechecs-trophy",
-         "pubDate" : "Tue, 22 Nov 2022 18:00:00 +0100",
-         "title" : "Laurent Fressinet wins the 20th Capechecs Trophy!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95695340.cms\" />Riding on wins from Vidit Gujrathi and SL Narayanan, India defeated USA 3-1 in a fifth round Pool B match to qualify for the quarterfinals of the FIDE World Team chess championship on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1472,14 +1480,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/world-senior-individual-chess-championship-report/#new_tab",
          "pubDate" : "Mon, 21 Nov 2022 11:06:26 +0000",
          "title" : "World Senior Individual Chess Championship - report"
-      },
-      {
-         "description" : "GM Magnus Carlsen finished the Meltwater Champions Chess Tour Finals in style as he also won his seventh and final match, against GM Jan-Krzysztof Duda. The world champion scored a stunning 20/21, seven points more than runner-up GM Wesley So. H...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-meltwater-champions-chess-tour-finals-round-7",
-         "pubDate" : "Mon, 21 Nov 2022 02:27:00 -0800",
-         "title" : "Champions Chess Tour Finals: Carlsen Wins All Matches"
       },
       {
          "description" : " Like most chess teachers, I encourage my students to look for forcing moves: checks, captures and threats. Some time ago I thought it a good idea to teach them to use a CCTV to look at the board, so I told them about Checks, Captures, Threats and Violent moves. The Violent moves serves as a <a href=\"https://chessimprover.com/cctv/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"CCTV\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/cctv/\">CCTV</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
