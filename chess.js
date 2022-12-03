@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The UK Open Blitz Finals will be taking place today (Saturday 3rd December) at the Woodland Grange Hotel in Leamington Spa. Round 1 is at...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-day/",
+         "pubDate" : "Sat, 03 Dec 2022 08:10:59 +0000",
+         "title" : "UK Open Blitz - finals day!"
+      },
+      {
+         "description" : "Well rested and prepared after the free day, the four candidates returned this afternoon to the playing venue to dispute the third of the four match games. Two of Uzbekistan&#x2019;s top female players, elegantly dressed in the traditional national-style Uzbekistan attire, performed the ceremonial first moves. WGM Nilufar Yakubbaeva, Uzbekistan&#x2019;s number one female player, three-time []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-takes-lead-against-kosteniuk-lagno-and-tan-zhongyi-tied-womens-candidates-pool-b-day-4-report/",
+         "pubDate" : "Sat, 03 Dec 2022 08:09:25 +0000",
+         "title" : "Goryachkina takes lead against Kosteniuk, Lagno and Tan Zhongyi tied; Women's Candidates Pool B - Day 4 report"
+      },
+      {
+         "description" : "In the diagram position, the fork 18...e4?? blundered the game for Black, but he did have a subtle way to get a clear advantage - enjoy the notes by Wesley So!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/olympic-spotlight",
+         "pubDate" : "Sat, 03 Dec 2022 09:00:00 +0100",
+         "title" : "Olympic spotlight"
+      },
+      {
+         "description" : "After the last news announcing Hans Niemann's lawsuit against Magnus Carlsen, Chess.com and more to the tune of $100 million each, there have been developments such as the judge who was assigned the case recusing himself, as well as the latest in which the parties cited now seek a dismissal.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-and-chess-com-seek-dismissal-of-lawsuit",
+         "pubDate" : "Sat, 03 Dec 2022 07:40:00 +0100",
+         "title" : "Carlsen and Chess.com seek dismissal of lawsuit"
+      },
+      {
+         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
+         "pubDate" : "Sat, 03 Dec 2022 07:25:00 +0100",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
          "description" : "The British Women's Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Katarzyna Toma, Elmira Mirzoeva, Madara Orlovska, Kamila Hryshchenko, Stefanie Duessler, Meri Grigoryan, Louise Head, Eugenia Karas, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -170,14 +210,6 @@ news_feed (
          "title" : "European School Chess Championship 2023 - Official invitation"
       },
       {
-         "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. After two played games the players had a free day yesterday and today come back to the playing venue. The result in both matches is tied 1-1, though both matches saw chances for decisive results.&#160;Day 2 report&#160;/&#160;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Tan Zhongyi&#xA0;will in today&#x2019;s []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-vs-kateryna-lagno-womens-candidates-pool-b-game-3-live/",
-         "pubDate" : "Fri, 02 Dec 2022 09:46:50 +0000",
-         "title" : "Tan Zhongyi vs Kateryna Lagno; Women's Candidates Pool B Game 3 LIVE"
-      },
-      {
          "description" : "A commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022. Any interested CHESS lover may contact Indianchessfed@gmail.com. The value of per stamp",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -242,7 +274,7 @@ news_feed (
          "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
-         "description" : "This week Robert Ris takes a loot at the Van Geet Opening: 1.Nc3!?, a move that helped Arjun Erigaisi to achieve a miniature victory against his compatriot Praggnanandhaa at the finals of the Meltwater Champions Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "This week Robert Ris takes a look at the Van Geet Opening: 1.Nc3!?, a move that helped Arjun Erigaisi to achieve a miniature victory against his compatriot Praggnanandhaa at the finals of the Meltwater Champions Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-surprising-and-often-surprisingly-effective-1-nc3",
@@ -1378,36 +1410,12 @@ news_feed (
          "title" : "The amazing world of ChessBase 17"
       },
       {
-         "description" : "In the diagram position it is Black to move and win. Do you see how? But be careful: Black's winning idea might be obvious but Black has to calculate precisely.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-tactics-5",
-         "pubDate" : "Tue, 22 Nov 2022 09:00:00 +0100",
-         "title" : "Endgame tactics"
-      },
-      {
-         "description" : "Two more rounds of the preliminaries were played on Monday at the World Team Chess Championship in Jerusalem. With one round to go, a number of teams have already secured a spot in the quarterfinals. However, there is plenty to fight for still, especially in Pool B, where even the US - currently in last place - still has chances to make it to the knockout. | Pictured: Li Di | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d2",
-         "pubDate" : "Tue, 22 Nov 2022 06:05:00 +0100",
-         "title" : "World Teams: China still perfect, Uzbekistan has a great day"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2097",
          "pubDate" : "Mon, 21 Nov 2022 21:30:43 +0000",
          "title" : "World Team Championship 2022: Sunny days for China and Uzbekistan"
-      },
-      {
-         "description" : "The Global Chess Championship saw some scintillating action by the top players which led to some equally exciting endgames. The players showed their standard by tendering attractive traps and avoiding them and resident expert Karsten Mueller has the story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-endgame-gems",
-         "pubDate" : "Mon, 21 Nov 2022 21:00:00 +0100",
-         "title" : "Global Chess endgame gems"
       },
       {
          "description" : "Magnus Carlsen finished the 2022 Meltwater Champions Chess Tour by beating Jan-Krzysztof Duda for a clean sweep of defeating all his opponents. That earned him $50,000 and took his Tour earnings to $242,500, $80,000 more than 2nd placed Duda. A spectacular last day also saw Anish Giri beat Wesley So in Armageddon, Praggnanandhaa defeat Arjun Erigaisi, and Liem Le take down Shakhriyar Mamedyarov.",
@@ -1848,22 +1856,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/hilton-bennett-1955-2022.html",
          "pubDate" : "Sat, 12 Nov 2022 09:59:00 +0000",
          "title" : "Hilton Bennett (1955 - 2022)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2058",
-         "pubDate" : "Sat, 12 Nov 2022 08:00:49 +0000",
-         "title" : "FIDE World Team Championship: Lineups and group composition"
-      },
-      {
-         "description" : "With Christmas just around the corner, the time has come to nominate some new chess books for chess enthusiasts. A real heavyweight is the latest Elk and Ruby disquisition on the inside stories of the Soviet Chess Imperium, Masterpieces and Dramas of the Soviet Championships Volume III (1948-1953), compiled by Sergey Voronkov. In the final []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-books-for-christmas-and-karpovs-enigma/",
-         "pubDate" : "Sat, 12 Nov 2022 08:00:32 +0000",
-         "title" : "Chess books for Christmas - and Karpov's enigma"
       }
    ]
 }
