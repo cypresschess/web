@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Elite chess tournaments require strict arbitration and anti-cheating measures to ensure fair play and Khiva is not an exception. Chief arbiter&#xA0;Husan Turdialiev&#xA0;(from Uzbekistan) and Fair Play officer&#xA0;Bojana Bejatovic&#xA0;(Macedonia) have years of experience to draw from. Before the round, all players are scanned at the entrance mobile phones, watches, pens, and any unnecessary items are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/goryachkina-advances-to-semi-finals-lagno-and-tan-zhongyi-go-to-tiebreaks/",
+         "pubDate" : "Sat, 03 Dec 2022 19:59:48 +0000",
+         "title" : "Goryachkina advances to semi-finals, Lagno and Tan Zhongyi go to tiebreaks"
+      },
+      {
+         "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/yes-these-soccer-stars-play-chess-between-games-in-qatar/",
+         "pubDate" : "Sat, 03 Dec 2022 19:39:51 +0000",
+         "title" : "Yes, These Soccer Stars Play Chess Between Games in Qatar"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2117",
+         "pubDate" : "Sat, 03 Dec 2022 18:38:13 +0000",
+         "title" : "Mustafa Yilmaz wins 2022 Turkish Championship"
+      },
+      {
+         "description" : "After Nihal Sarin and Anna Ushenina claimed titles in the rapid tournaments of the Tata Steel Chess India event, the 2-day blitz section kicked off on Saturday. The women's tournament saw Mariya Muzychuk having a blasting start, as she scored 8/9 points to grab a commanding lead. In the open, meanwhile, Arjun Erigaisi tops the standings with 6&frac12;/9 points; Shakhriyar Mamedyarov stands close behind, a half point back. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d4",
+         "pubDate" : "Sat, 03 Dec 2022 19:05:00 +0100",
+         "title" : "Tata Steel India: Mariya Muzychuk starts strong in the bltiz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2116",
+         "pubDate" : "Sat, 03 Dec 2022 16:47:28 +0000",
+         "title" : "Goryachkina qualifies for semifinals Lagno and Tan Zhongyi go to tiebreak"
+      },
+      {
          "description" : "Russian Grandmaster Sergey Karjakin announced today on his official Telegram account that he will join the race in the upcoming elections for President of the Russian Chess Federation. Karjakin, who was earlier this year banned for 6 months from FIDE competitions, publicly criticized the leadership of the Russian Chess Federation as well as FIDE. (all []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-4",
-         "pubDate" : "Sat, 03 Dec 2022 06:38:35 -0800",
+         "pubDate" : "Sat, 03 Dec 2022 06:38:00 -0800",
          "title" : "Goryachkina Forces Draw, Eliminates Kosteniuk"
       },
       {
@@ -130,14 +170,6 @@ news_feed (
          "title" : "Carlsen and Chess.com seek dismissal of lawsuit"
       },
       {
-         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
-         "pubDate" : "Sat, 03 Dec 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Live!"
-      },
-      {
          "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/british-womens-blitz-championship-2022-live/",
          "pubDate" : "Fri, 02 Dec 2022 22:35:04 +0000",
          "title" : "British Women's Blitz Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The British Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Daniel W Gormally, Jon S Speelman, Eldar Gasanov, Mark L Hebden, Yichen Han, Jonah B Willow, Jose []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/british-blitz-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 22:27:42 +0000",
-         "title" : "British Blitz Championship 2022 - LIVE"
       },
       {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
@@ -394,6 +418,14 @@ news_feed (
          "title" : "Sagittarius and their strategy"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Thu, 01 Dec 2022 11:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +504,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-17-taking-engine-functions-to-the-next-level",
          "pubDate" : "Wed, 30 Nov 2022 18:00:00 +0100",
          "title" : "Chessbase 17: Taking engine functions to the next level"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Wed, 30 Nov 2022 15:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
