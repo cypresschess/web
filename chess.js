@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The British Women's Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Katarzyna Toma, Elmira Mirzoeva, Madara Orlovska, Kamila Hryshchenko, Stefanie Duessler, Meri Grigoryan, Louise Head, Eugenia Karas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/british-womens-blitz-championship-2022-live/",
+         "pubDate" : "Fri, 02 Dec 2022 22:35:04 +0000",
+         "title" : "British Women's Blitz Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The British Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Daniel W Gormally, Jon S Speelman, Eldar Gasanov, Mark L Hebden, Yichen Han, Jonah B Willow, Jose []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/british-blitz-championship-2022-live/",
+         "pubDate" : "Fri, 02 Dec 2022 22:27:42 +0000",
+         "title" : "British Blitz Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The U20 North American Youth Championship is taking place from 2&#x2013;6 December 2022 in Mexico City, Mexico. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Vyom Vidyarthi, Johnathan Han, Aaryan Deshpande, Angel Ivan Quiroga Jaquez, Eugene Hua, Joshua Ad Avila []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-north-american-youth-championship-2022-live/",
+         "pubDate" : "Fri, 02 Dec 2022 22:13:10 +0000",
+         "title" : "U20 North American Youth Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The G20 North American Youth Championship is taking place from 2&#x2013;6 December 2022 in Mexico City, Mexico. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Iris Mou, Lhia Itzayana Castellanos Hernandez, Nastassja Matus, Michelle Hua, Omya Vidyarthi, Alexa Caballero Alonzo, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u20-north-american-youth-championship-2022-live/",
+         "pubDate" : "Fri, 02 Dec 2022 22:05:20 +0000",
+         "title" : "Girls U20 North American Youth Championship 2022 - LIVE"
+      },
+      {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -14,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-files-motion-to-dismiss-niemann-lawsuit",
-         "pubDate" : "Fri, 02 Dec 2022 11:51:06 -0800",
+         "pubDate" : "Fri, 02 Dec 2022 11:51:00 -0800",
          "title" : "Chess.com Files Motion To Dismiss Hans Niemann Lawsuit"
       },
       {
@@ -146,22 +178,6 @@ news_feed (
          "title" : "Tan Zhongyi vs Kateryna Lagno; Women's Candidates Pool B Game 3 LIVE"
       },
       {
-         "description" : "The Women's Candidates Pool B is underway in Khiva, Uzbekistan. After two played games the players had a free day yesterday and today come back to the playing venue. The result in both matches is tied 1-1, though both matches saw chances for decisive results. Day 2 report&#xA0;/&#xA0;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Alexandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-3-live/",
-         "pubDate" : "Fri, 02 Dec 2022 09:44:19 +0000",
-         "title" : "Alexandra Kosteniuk vs Aleksandra Goryachkina; Women's Candidates Pool B Game 3 LIVE"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket will see the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-4-live-video-coverage/",
-         "pubDate" : "Fri, 02 Dec 2022 09:22:00 +0000",
-         "title" : "Women's Candidates Pool B - Day 4 live video coverage"
-      },
-      {
          "description" : "A commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022. Any interested CHESS lover may contact Indianchessfed@gmail.com. The value of per stamp",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,22 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Thu, 01 Dec 2022 22:36:33 +0000",
          "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "Austrian Student Rapid Championship &#xA0;is taking place on 1 December 2022. Players receive 10 minutes for the entire game, plus a 2-second increment starting from move one. It is a 7-round Swiss tournament with Dominik Horvath, Mattias Filek, Emanuel Hoegl, Anastasiya Kolba, Erik Andresen, Noah Faderbauer, Patrick Nussbaumer, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-student-rapid-championship-2022-live/",
-         "pubDate" : "Thu, 01 Dec 2022 22:14:14 +0000",
-         "title" : "Austrian Student Rapid Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 4th edition of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, kicked off on Monday with the Rapid tournament in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. Indian prodigy Nihal Sarin clinched gold with a round to spare []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nihal-sarin-is-the-winner-of-tata-steel-chess-india-rapid-2022/",
-         "pubDate" : "Thu, 01 Dec 2022 17:32:40 +0000",
-         "title" : "Nihal Sarin is the Winner of Tata Steel Chess India Rapid 2022"
       },
       {
          "description" : "This week Robert Ris takes a loot at the Van Geet Opening: 1.Nc3!?, a move that helped Arjun Erigaisi to achieve a miniature victory against his compatriot Praggnanandhaa at the finals of the Meltwater Champions Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
