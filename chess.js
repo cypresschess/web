@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-3678",
+         "pubDate" : "Sat, 03 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 3"
+      },
+      {
+         "description" : "The Women's Romanian National Rapid Team Championship Open held on December 3rd in Sebe&#x219;, Romania.Time control is 15 minutes for the entire game with a 15-second increment beginning from move one.It is a 8-round Swiss tournament with CSU ASE Bucuresti&#xA0;( Irina Bumlmaga, Elena-Luminita Cosma and Alessia-Mihaela Ciolacu) , ACS Arnia Chess IT ( Carmen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-womens-team-rapid-championship-2022-live/",
+         "pubDate" : "Sat, 03 Dec 2022 10:25:35 +0000",
+         "title" : "Romanian Women's Team Rapid Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Romanian National Rapid Team Championship Open held on December 3rd in Sebe&#x219;, Romania.Time control is 15 minutes for the entire game with a 15-second increment beginning from move one.It is a 8-round Swiss tournament with CSU ASE Superbet ( Constantin Lupulescu, Vlad-Cristian Jianu, Mircea-Emilian Parligras and David Gavrilescu) , CSM Unirea Alba Iulia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-team-rapid-championship-2022-live/",
+         "pubDate" : "Sat, 03 Dec 2022 10:17:17 +0000",
+         "title" : "Romanian Team Rapid Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Sat, 03 Dec 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B: Live"
+      },
+      {
+         "description" : "The&#xA0;Women&#x2019;s Candidates Pool B&#xA0;is underway in Khiva, Uzbekistan. After three played games the result in the match between Kateryna Lagno and Tan Zhongyi is tied 1.5-1.5. Today is the final game of the first round and if the result remains tied, the winner of the match will be determined in the playoffs.&#xA0;Day 4 report&#xA0;/&#xA0;Women&#x2019;s Candidates []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-womens-candidates-pool-b-game-4-live/",
+         "pubDate" : "Sat, 03 Dec 2022 09:44:25 +0000",
+         "title" : "Kateryna Lagno vs Tan Zhongyi; Women's Candidates Pool B Game 4 LIVE"
+      },
+      {
+         "description" : "The&#xA0;Women&#x2019;s Candidates Pool B&#xA0;is underway in Khiva, Uzbekistan. Aleksandra Goryachkina took lead in the match against Aleksandra Kosteniuk as she prevailed in the third round. Kosteniuk now needs to win on demand to take the match into tiebreaks.&#xA0;Day 4 report&#xA0;/&#xA0;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Alexandra Kosteniuk&#xA0;will in today&#x2019;s game take Black pieces against&#xA0;Aleksandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-vs-alexandra-kosteniuk-womens-candidates-pool-b-game-4-live/",
+         "pubDate" : "Sat, 03 Dec 2022 09:41:09 +0000",
+         "title" : "Aleksandra Goryachkina vs Alexandra Kosteniuk; Women's Candidates Pool B Game 4 LIVE"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-5-live-video-coverage/",
+         "pubDate" : "Sat, 03 Dec 2022 09:32:32 +0000",
+         "title" : "Women's Candidates Pool B - Day 5 live video coverage"
+      },
+      {
+         "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nihal-sarin-dominates-tata-steel-chess-india-rapid",
+         "pubDate" : "Sat, 03 Dec 2022 09:21:35 +0000",
+         "title" : "Nihal Sarin dominates Tata Steel Chess India Rapid"
+      },
+      {
+         "description" : "The summary expos&eacute; in TheArticle by that ethereal poetess, Fiona Pitt Kethley, of the Jimmy Savile of the chess world, the late Brian Eley, deserves a response from the chess community. Fiona is obviously an expert in the case. She is also married to Grandmaster James Plaskett: once, if only briefly, a target of Eley's []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/unnatural-acts-chess-paedophilia-and-brian-eley/",
+         "pubDate" : "Sat, 03 Dec 2022 09:01:44 +0000",
+         "title" : "Unnatural acts: chess, paedophilia and Brian Eley"
+      },
+      {
          "description" : "The UK Open Blitz Finals will be taking place today (Saturday 3rd December) at the Woodland Grange Hotel in Leamington Spa. Round 1 is at...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -160,46 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-2663",
          "pubDate" : "Fri, 02 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 2"
-      },
-      {
-         "description" : "The&#xA0;European School Chess Championship 2022&#xA0;will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament.Throwback: European School Chess Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-chess-championship-2023-to-take-place-in-durres-albania/",
-         "pubDate" : "Fri, 02 Dec 2022 10:35:44 +0000",
-         "title" : "European School Chess Championship 2023 to take place in Durres, Albania"
-      },
-      {
-         "description" : "The Azerbaijan Women Rapid and Blitz Chess Championship 2022 will be held from 2-5 December in Baku, concurrently with&#xA0;Azerbaijan Rapid and Blitz Chess Championship 2022. 14-player field is led by Ulviyya Fataliyeva, Govhar Beydullayeva, and Khanim Balajayeva. The Winner of the Championship will be determined by the sum of points in the Rapid and Blitz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-women-rapid-and-blitz-chess-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 10:12:26 +0000",
-         "title" : "Azerbaijan Women Rapid and Blitz Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Azerbaijan Women Rapid and Blitz Chess Championship 2022 will be held from 2-5 December in Baku, concurrently with&#xA0;Azerbaijan Rapid and Blitz Chess Championship 2022. 14-players field is led by Ulviyya Fataliyeva, Govhar Beydullayeva, and Khanim Balajayeva. The Rapid tournament will be played in 9 rounds, swiss system, with time control of 15 minutes + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-women-rapid-and-blitz-chess-championship-2022/",
-         "pubDate" : "Fri, 02 Dec 2022 10:09:19 +0000",
-         "title" : "Azerbaijan Women Rapid and Blitz Chess Championship 2022"
-      },
-      {
-         "description" : "The Azerbaijan Rapid and Blitz Chess Championship 2022 is being played from 2-5 December in Baku. The event gathers 21 participants with Rauf Mamedov, Nijat Abasov and Vasif Durarbayli headlining the field. The Winner of the Championship will be determined by the sum of points in the Rapid and Blitz Championship. Follow the games live:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-rapid-and-blitz-chess-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 10:02:53 +0000",
-         "title" : "Azerbaijan Rapid and Blitz Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Azerbaijan Rapid and Blitz Chess Championship 2022 will take place from 2-5 December in Baku, simultaneously with the Azerbaijan Women Rapid &#38; Blitz 2022. The event gathers 21 participants with Rauf Mamedov, Nijat Abasov and Vasif Durarbayli headlining the field. The Rapid tournament will be played in 9 rounds, swiss system, with time control []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-rapid-and-blitz-chess-championship-2022/",
-         "pubDate" : "Fri, 02 Dec 2022 10:00:58 +0000",
-         "title" : "Azerbaijan Rapid and Blitz Chess Championship 2022"
       },
       {
          "description" : "The European School Chess Championship 2023 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -1386,28 +1418,12 @@ news_feed (
          "title" : "Chessbase, Stockfish Reach Settlement Over License Violation Claim"
       },
       {
-         "description" : "The Meltwater Champions Chess Final in San Francisco was visited by a chess fan whose uncle is a legend in the chess world: Bobby Fischer. Nicholas Targ, son of Joan Fischer Targ, the sister of Bobby Fischer, came to visit the tournament and met Magnus Carlsen. In a short interview with Tania Sachdev Nicholas Targ also talked about his love for chess and his encounters with his uncle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-meets-the-nephew-of-bobby-fischer",
-         "pubDate" : "Tue, 22 Nov 2022 11:35:33 +0100",
-         "title" : "Carlsen meets the nephew of Bobby Fischer"
-      },
-      {
          "description" : "With one round to go in the pool stage, the Netherlands and the United States are in danger of missing out in the next rounds of the World Team Chess Championship. The two teams are currently not among the top four in their respective pools. China...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-2",
          "pubDate" : "Tue, 22 Nov 2022 00:36:51 -0800",
          "title" : "World Teams: Netherlands, U.S. In Trouble"
-      },
-      {
-         "description" : "This is not just an update of the standard program that everybody uses - from rank amateurs to tournament players all the way up to world champions. Today we would like you to tell you about the major features of the new version, ChessBase 17: the improved analysis functions, data format, search mask and the very exciting feature of finding beauty in games. We even have an interview with the main programmers. You are sure to get your money worth by going for the new ChessBase 17. Order it this afternoon, from 15:00h CET, and get it at a premium discount price!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-amazing-world-of-chessbase-17",
-         "pubDate" : "Tue, 22 Nov 2022 09:00:00 +0100",
-         "title" : "The amazing world of ChessBase 17"
       },
       {
          "description" : "",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
          "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
          "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
-      },
-      {
-         "description" : "Magnus Carlsen won 8 games in a row, but Liem Le hit back in Round 5 of the Meltwater Champions Chess Tour Finals to take their match to Armageddon. Magnus won, and despite dropping a point he took a 4-point lead over Jan-Krzysztof Duda, who was beaten in Armageddon by Praggnanandhaa. Wesley So is 3rd after winning a 3rd match in a row, against Shakhriyar Mamedyarov, while Arjun Erigaisi beat an out-of-form Anish Giri.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-5-carlsen-pragg-win-in-armageddon",
-         "pubDate" : "Sat, 19 Nov 2022 15:44:27 +0000",
-         "title" : "MCCT Finals 5: Carlsen & Pragg win in Armageddon"
       },
       {
          "description" : " At the end of the 2nd day of the 2022 Vikings Weekender, 3 players share the lead on 3.5/4. The top 2 seeds, IM Junta Ikeda and IM Stephen Solomon drew their round 4 game to reach 3.5, where they were joined by Oladoyin Fasakin, who also drew in the last round of the day. His opponent, Matt Radisich, is one of the surprise packets of the event, have reached 3/4, despite being seeded 11th at the start. Also on 3 points are CM Hui Li, Fred Litchfield and Queensland junior Harvey Zhu. In the Minor event James Minogue leads with 4/4. He reached this score with a careful win against top seed Kamal Jain, nursing home his final pawn while trying to avoid a K+N+B v K ending (Jain was trying to sacr",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-heroes-november-2022/",
          "pubDate" : "Sun, 13 Nov 2022 11:52:41 +0000",
          "title" : "Chess For Heroes (November 2022)"
-      },
-      {
-         "description" : " Absolutely tragic new from New Zealand. Hilton Bennett has passed away at the age of 67. He suffered a serious heart attack a few days ago, and despite the best efforts of medical staff, he never regained consciousness, and died today (12 November). For those that knew Hilton, he was one of the genuinely good guys of chess. He was an avid player and organiser, a serious book collector, and someone with an absolute love of the game. I knew him for over 20 years, crossing paths at various tournaments (the last just 3 weeks ago), and working together on a number of chess projects. He was a frequent participant in Australian chess events (including a number of Doeberl Cups), a familiar face at ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/hilton-bennett-1955-2022.html",
-         "pubDate" : "Sat, 12 Nov 2022 09:59:00 +0000",
-         "title" : "Hilton Bennett (1955 - 2022)"
       }
    ]
 }
