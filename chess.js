@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two young rising stars claimed titles in the blitz section of the Tata Steel Chess India event. Arjun Erigaisi and Vaishali Rameshbabu made their country proud as they got clear victories in the 18-round tournaments organized in Kolkata. The Indians outscored top-notch opposition on their way to memorable triumphs at the imposing National Library of India. | Pictured: Nihal, Arjun, Ushenina and Vaishali | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d5",
+         "pubDate" : "Sun, 04 Dec 2022 20:00:00 +0100",
+         "title" : "Tata Steel Blitz: Arjun and Vaishali make India proud"
+      },
+      {
+         "description" : "The Hungarian Women's Championship is taking place from 5&#x2013;13 December 2022 in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Julianna Terbe, Barbara Mihok-Juhasz, Bianka Havanecz, Dorina Demeter, Hanna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hungarian-womens-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 18:45:38 +0000",
+         "title" : "Hungarian Women's Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Hungarian Championship is taking place from 5&#x2013;13 December 2022 in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with Ferenc Berkes, Peter Prohaszka, Gabor Papp, Sergey Grigoriants, Adam Kozak, Bence []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hungarian-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 18:39:03 +0000",
+         "title" : "Hungarian Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Israeli Women's Championship is taking place from 5&#x2013;13 December 2022 in Arad, Romania. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with Marsel Efroimski, Yuliya Shvayger, Dana Kochavi, Nadejda Reprun, Ronit Levitan, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israeli-womens-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 18:26:39 +0000",
+         "title" : "Israeli Women's Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Israeli Championship is taking place from 5&#x2013;13 December 2022 in Arad, Romania. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Tamir Nabaty, Evgeny Postny, Ori Kobo, Avital Boruchovsky, Victor Mikhalevski, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israeli-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 18:22:21 +0000",
+         "title" : "Israeli Championship 2022 - LIVE"
+      },
+      {
          "description" : "The&#160;3rd edition of the El Llobregat Open Chess Tournament 2022&#160;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur. Hans Niemann,m who has been in the limelight of the cheating drama []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -46,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/b-is-for-basman",
-         "pubDate" : "Sun, 04 Dec 2022 15:00:00 +0100",
+         "pubDate" : "Sun, 04 Dec 2022 15:05:00 +0100",
          "title" : "B is for Basman"
       },
       {
@@ -90,30 +130,6 @@ news_feed (
          "title" : "71st Greek Championship 2022 - LIVE"
       },
       {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Sun, 04 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B: Live"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-fide-womens-candidates-pool-b-quarterfinals-tiebreak-live-games/",
-         "pubDate" : "Sun, 04 Dec 2022 09:17:18 +0000",
-         "title" : "Kateryna Lagno vs Tan Zhongyi; FIDE Women's Candidates Pool B - Quarterfinals tiebreak LIVE games"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-quarterfinals-tiebreak-live-video-coverage/",
-         "pubDate" : "Sun, 04 Dec 2022 08:50:56 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Quarterfinals tiebreak live video coverage"
-      },
-      {
          "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <div class=\"e2-text-caption\">A person who looks lik Hans Niemann (Image by Dall-e)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.44.0.pdf\">rude but legally convincing motion</a> states: After years of trying to curate a reputation as the bad boy of chess, Plaintiff Hans Niemann wants to cash in by blaming others for the fallout f",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -122,12 +138,12 @@ news_feed (
          "title" : "Carlsen: Niemann is Bad in Both Chess and Lawsuits. Dismiss the Case."
       },
       {
-         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
+         "description" : "The Tata Steel Chess India event took place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event were played concurrently, with the same format and the same prize fund. A rapid and a blitz section took place, with ten players per tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
          "pubDate" : "Sun, 04 Dec 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Live!"
+         "title" : "Tata Steel Chess India - Games and standings"
       },
       {
          "description" : "At the Women's Candidates Tournament in Uzbekistan, the fourth classical games of the quarterfinals both ended in draws on Saturday. Thus, Aleksandra Goryachkina beat Alexandra Kosteniuk 2&frac12;-1&frac12; and qualified for the semifinals, while Kateryna Lagno and Tan Zhongyi will decide their match in tiebreaks. | Photos: Timur Sattarov and Xushnud Baltaev",
@@ -146,28 +162,12 @@ news_feed (
          "title" : "2022 Strategy Across the Board: The Gala"
       },
       {
-         "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-chess-com-and-daniel-rensch-filed-a-motion-to-dismiss-niemanns-complaints/",
-         "pubDate" : "Sat, 03 Dec 2022 23:22:43 +0000",
-         "title" : "Magnus Carlsen, chess.com, and Daniel Rensch filed a motion to dismiss Niemann's complaints"
-      },
-      {
          "description" : "Shakhriyar Mamedyarov started the Tata Steel Chess India Blitz with a stunning 6/7, but defeats in the last two rounds allowed Arjun Erigaisi to overtake him before the final day. At least five players are in contention in the Open section, while in the Women's Mariya Muzychuk scored a brilliant 8/9, leaving only Vaishali within touching distance.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-india-blitz-day-1-arjun-and-mariya-lead",
          "pubDate" : "Sat, 03 Dec 2022 23:20:22 +0000",
          "title" : "Tata Steel India Blitz Day 1: Arjun and Mariya lead"
-      },
-      {
-         "description" : "Kateryna Lagno and Tan Zhongyi will play a tiebreak match tomorrow to determine the second semi-finalist of the FIDE Women's Candidates Tournament. The match ended in a tie 2-2 after four draws, although it seemed that Lagno had good chances to prevail. Kateryna Lagno explained in today's post-game interview that she was surprised by Tan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-todays-game-was-very-complicated-she-surprised-me-in-the-opening-video/",
-         "pubDate" : "Sat, 03 Dec 2022 21:31:30 +0000",
-         "title" : "Kateryna Lagno: Today's game was very complicated; She surprised me in the opening (VIDEO)"
       },
       {
          "description" : "GM Arjun Erigaisi shot into the lead with 6.5 points from nine rounds after the first day of the 2022 Tata Steel Chess India Open Blitz, while GM Mariya Muzychuk scored an impressive eight points from nine rounds to lead the 2022 Tata Steel Chess ...",
