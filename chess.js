@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> AUCTION: <a href=\"https://e.givesmart.com/events/tym/\">https://e.givesmart.com/events/tym/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 6th Annual Strategy Across the Board gala on Saturday, December 3, 2022 at The Chase Park Plaza Hotel for an evening of celebrating chess in Saint Louis and around the world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2022-strategy-across-board-gala",
+         "pubDate" : "Sun, 04 Dec 2022 01:38:29 +0000",
+         "title" : "2022 Strategy Across the Board: The Gala"
+      },
+      {
          "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1384,14 +1392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-team-ch-2022-d3",
          "pubDate" : "Wed, 23 Nov 2022 04:45:00 +0100",
          "title" : "World Teams: Poland edges out Israel"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on skewers. A skewer is an attack upon two pieces in a line and is similar to a pin. A skewer is sometimes described as a \"reverse pin.\" </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thanksgiving-try-skewer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DcGcstbcnio.jpg?itok=i11QRBoB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thanksgiving-try-skewer-beginner-breakdown",
-         "pubDate" : "Wed, 23 Nov 2022 01:28:35 +0000",
-         "title" : "This Thanksgiving, Try a Skewer! | Beginner Breakdown"
       },
       {
          "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
