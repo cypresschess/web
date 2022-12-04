@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Elite chess tournaments require strict arbitration and anti-cheating measures to ensure fair play and Khiva is not an exception. Chief arbiter&#xA0;Husan Turdialiev&#xA0;(from Uzbekistan) and Fair Play officer&#xA0;Bojana Bejatovic&#xA0;(Macedonia) have years of experience to draw from. Before the round, all players are scanned at the entrance mobile phones, watches, pens, and any unnecessary items are []",
+         "description" : "Hans Niemann filed a lawsuit&#xA0;in the United States District Court (Eastern District of Missouri, Eastern Division). Plaintiff Hans Moke Niemann, represented by his attorneys Oved &#38; Oved LLP and local Missouri counsel The Gartner Law Firm, is seeking a total of&#xA0;400 million USD in damages&#xA0;from &#x201C;Sven Magnus &#xD8;en Carlsen aka Magnus Carlsen, Play Magnus as []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-chess-com-and-daniel-rensch-filed-a-motion-to-dismiss-niemanns-complaints/",
+         "pubDate" : "Sat, 03 Dec 2022 23:22:43 +0000",
+         "title" : "Magnus Carlsen, chess.com, and Daniel Rensch filed a motion to dismiss Niemann's complaints"
+      },
+      {
+         "description" : "Shakhriyar Mamedyarov started the Tata Steel Chess India Blitz with a stunning 6/7, but defeats in the last two rounds allowed Arjun Erigaisi to overtake him before the final day. At least five players are in contention in the Open section, while in the Women's Mariya Muzychuk scored a brilliant 8/9, leaving only Vaishali within touching distance.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-india-blitz-day-1-arjun-and-mariya-lead",
+         "pubDate" : "Sat, 03 Dec 2022 23:20:22 +0000",
+         "title" : "Tata Steel India Blitz Day 1: Arjun and Mariya lead"
+      },
+      {
+         "description" : "Kateryna Lagno and Tan Zhongyi will play a tiebreak match tomorrow to determine the second semi-finalist of the FIDE Women's Candidates Tournament. The match ended in a tie 2-2 after four draws, although it seemed that Lagno had good chances to prevail. Kateryna Lagno explained in today's post-game interview that she was surprised by Tan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-todays-game-was-very-complicated-she-surprised-me-in-the-opening-video/",
+         "pubDate" : "Sat, 03 Dec 2022 21:31:30 +0000",
+         "title" : "Kateryna Lagno: Today's game was very complicated; She surprised me in the opening (VIDEO)"
+      },
+      {
+         "description" : "Aleksandra Goryachkina booked her seat for the semi-finals of the FIDE Women's Candidates 2022/2023 after defeating her compatriot Alexandra Kosteniuk in the Round 1 of the Pool B tournament. Goryachkina drew the last game of the match, taking the overall 2.5-1.5 victory. (Day 5 report) In the post-game interview, Goryachkina revealed that she was worried []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-kosteniuk-had-a-good-winning-plan-but-she-didnt-put-enough-pressure-in-the-end-video/",
+         "pubDate" : "Sat, 03 Dec 2022 21:19:28 +0000",
+         "title" : "Aleksandra Goryachkina: Kosteniuk had a good winning plan, but she didn't put enough pressure in the end (VIDEO)"
+      },
+      {
+         "description" : "GM Arjun Erigaisi shot into the lead with 6.5 points from nine rounds after the first day of the 2022 Tata Steel Chess India Open Blitz, while GM Mariya Muzychuk scored an impressive eight points from nine rounds to lead the 2022 Tata Steel Chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-1",
+         "pubDate" : "Sat, 03 Dec 2022 13:07:00 -0800",
+         "title" : "Erigaisi, Mariya Muzychuk Lead Tata Steel India Blitz"
+      },
+      {
+         "description" : "Elite chess tournaments require strict arbitration and anti-cheating measures to ensure fair play and Khiva is not an exception. Chief arbiter&#160;Husan Turdialiev&#160;(from Uzbekistan) and Fair Play officer&#160;Bojana Bejatovic&#160;(Macedonia) have years of experience to draw from. Before the round, all players are scanned at the entrance mobile phones, watches, pens, and any unnecessary items are []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/goryachkina-advances-to-semi-finals-lagno-and-tan-zhongyi-go-to-tiebreaks/",
@@ -31,7 +71,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d4",
          "pubDate" : "Sat, 03 Dec 2022 19:05:00 +0100",
-         "title" : "Tata Steel India: Mariya Muzychuk starts strong in the bltiz"
+         "title" : "Tata Steel India: Mariya Muzychuk starts strong in the blitz"
       },
       {
          "description" : "",
@@ -98,7 +138,7 @@ news_feed (
          "title" : "Women's Candidates - Pool B: Live"
       },
       {
-         "description" : "The&#xA0;Women&#x2019;s Candidates Pool B&#xA0;is underway in Khiva, Uzbekistan. After three played games the result in the match between Kateryna Lagno and Tan Zhongyi is tied 1.5-1.5. Today is the final game of the first round and if the result remains tied, the winner of the match will be determined in the playoffs.&#xA0;Day 4 report&#xA0;/&#xA0;Women&#x2019;s Candidates []",
+         "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. After three played games the result in the match between Kateryna Lagno and Tan Zhongyi is tied 1.5-1.5. Today is the final game of the first round and if the result remains tied, the winner of the match will be determined in the playoffs.&#160;Day 4 report&#160;/&#160;Women&#x2019;s Candidates []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-womens-candidates-pool-b-game-4-live/",
@@ -106,20 +146,12 @@ news_feed (
          "title" : "Kateryna Lagno vs Tan Zhongyi; Women's Candidates Pool B Game 4 LIVE"
       },
       {
-         "description" : "The&#xA0;Women&#x2019;s Candidates Pool B&#xA0;is underway in Khiva, Uzbekistan. Aleksandra Goryachkina took lead in the match against Aleksandra Kosteniuk as she prevailed in the third round. Kosteniuk now needs to win on demand to take the match into tiebreaks.&#xA0;Day 4 report&#xA0;/&#xA0;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Alexandra Kosteniuk&#xA0;will in today&#x2019;s game take Black pieces against&#xA0;Aleksandra []",
+         "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. Aleksandra Goryachkina took lead in the match against Aleksandra Kosteniuk as she prevailed in the third round. Kosteniuk now needs to win on demand to take the match into tiebreaks.&#160;Day 4 report&#160;/&#160;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Alexandra Kosteniuk&#160;will in today&#x2019;s game take Black pieces against&#160;Aleksandra []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aleksandra-goryachkina-vs-alexandra-kosteniuk-womens-candidates-pool-b-game-4-live/",
          "pubDate" : "Sat, 03 Dec 2022 09:41:09 +0000",
          "title" : "Aleksandra Goryachkina vs Alexandra Kosteniuk; Women's Candidates Pool B Game 4 LIVE"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket will see the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-candidates-pool-b-day-5-live-video-coverage/",
-         "pubDate" : "Sat, 03 Dec 2022 09:32:32 +0000",
-         "title" : "Women's Candidates Pool B - Day 5 live video coverage"
       },
       {
          "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
@@ -146,14 +178,6 @@ news_feed (
          "title" : "UK Open Blitz - finals day!"
       },
       {
-         "description" : "Well rested and prepared after the free day, the four candidates returned this afternoon to the playing venue to dispute the third of the four match games. Two of Uzbekistan&#x2019;s top female players, elegantly dressed in the traditional national-style Uzbekistan attire, performed the ceremonial first moves. WGM Nilufar Yakubbaeva, Uzbekistan&#x2019;s number one female player, three-time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/goryachkina-takes-lead-against-kosteniuk-lagno-and-tan-zhongyi-tied-womens-candidates-pool-b-day-4-report/",
-         "pubDate" : "Sat, 03 Dec 2022 08:09:25 +0000",
-         "title" : "Goryachkina takes lead against Kosteniuk, Lagno and Tan Zhongyi tied; Women's Candidates Pool B - Day 4 report"
-      },
-      {
          "description" : "In the diagram position, the fork 18...e4?? blundered the game for Black, but he did have a subtle way to get a clear advantage - enjoy the notes by Wesley So!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
          "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
          "title" : "Chess site files motion to dismiss $100m lawsuit"
-      },
-      {
-         "description" : "The British Women's Blitz Championship is taking place on 3 December 2022 in Royal Leamington Spa. Players receive 3 minutes for the entire game, plus a 2-second increment starting from move one. It is an 16-player round-robin tournament with Katarzyna Toma, Elmira Mirzoeva, Madara Orlovska, Kamila Hryshchenko, Stefanie Duessler, Meri Grigoryan, Louise Head, Eugenia Karas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/british-womens-blitz-championship-2022-live/",
-         "pubDate" : "Fri, 02 Dec 2022 22:35:04 +0000",
-         "title" : "British Women's Blitz Championship 2022 - LIVE"
       },
       {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
@@ -1482,14 +1498,6 @@ news_feed (
          "title" : "Stockfish vs. ChessBase Settlement"
       },
       {
-         "description" : "Azerbaijan and China are the early leaders at the FIDE World Team Chess Championship which started on Sunday in Jerusalem, Israel. The tournament is played under the rapid time control of 45+10 and has a pool stage followed by a knockout stage. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-1",
-         "pubDate" : "Mon, 21 Nov 2022 06:57:00 -0800",
-         "title" : "World Team Championship Begins In Jerusalem, Played With Rapid Time Control"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1560,14 +1568,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/to-cc-or-not-to-cc.html",
          "pubDate" : "Sun, 20 Nov 2022 16:48:00 +0000",
          "title" : "To CC or Not to CC"
-      },
-      {
-         "description" : "Magnus Carlsen had already won the 2022 Meltwater Champions Chess Tour with a tournament to spare and now he's won the Finals with a round to spare after defeating Praggnanandhaa 2.5:0.5. Magnus is still gunning to win all 7 matches, while Wesley So is up to 2nd place after he defeated Jan-Krzysztof Duda to make it 4 wins in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mcct-finals-6-magnus-wins-with-round-to-spare",
-         "pubDate" : "Sun, 20 Nov 2022 15:53:22 +0000",
-         "title" : "MCCT Finals 6: Magnus wins with round to spare"
       },
       {
          "description" : "",
