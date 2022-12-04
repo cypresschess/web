@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <div class=\"e2-text-caption\">A person who looks lik Hans Niemann (Image by Dall-e)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.44.0.pdf\">rude but legally convincing motion</a> states: After years of trying to curate a reputation as the bad boy of chess, Plaintiff Hans Niemann wants to cash in by blaming others for the fallout f",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-and-chess-com-hans-niemann-is-bad-in-both-chess-and-laws/",
+         "pubDate" : "Sun, 04 Dec 2022 07:25:53 +0000",
+         "title" : "Carlsen: Niemann is Bad in Both Chess and Lawsuits. Dismiss the Case."
+      },
+      {
+         "description" : "The Tata Steel Chess India event is taking place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event are being played concurrently, with the same format and the same prize fund. A rapid and a blitz section will take place, with ten players per tournament. | Follow the games live with commentary by Tania Sachdev and Sagar Shah starting at 7.30 CET (2.30 ET, 12.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
+         "pubDate" : "Sun, 04 Dec 2022 07:25:00 +0100",
+         "title" : "Tata Steel Chess India - Live!"
+      },
+      {
+         "description" : "At the Women's Candidates Tournament in Uzbekistan, the fourth classical games of the quarterfinals both ended in draws on Saturday. Thus, Aleksandra Goryachkina beat Alexandra Kosteniuk 2&frac12;-1&frac12; and qualified for the semifinals, while Kateryna Lagno and Tan Zhongyi will decide their match in tiebreaks. | Photos: Timur Sattarov and Xushnud Baltaev",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r1g4",
+         "pubDate" : "Sun, 04 Dec 2022 07:10:00 +0100",
+         "title" : "Women's Candidates: Goryachkina advances to the semifinals"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> AUCTION: <a href=\"https://e.givesmart.com/events/tym/\">https://e.givesmart.com/events/tym/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 6th Annual Strategy Across the Board gala on Saturday, December 3, 2022 at The Chase Park Plaza Hotel for an evening of celebrating chess in Saint Louis and around the world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/romanian-team-rapid-championship-2022-live/",
          "pubDate" : "Sat, 03 Dec 2022 10:17:17 +0000",
          "title" : "Romanian Team Rapid Championship 2022 - LIVE"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Sat, 03 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B: Live"
       },
       {
          "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. After three played games the result in the match between Kateryna Lagno and Tan Zhongyi is tied 1.5-1.5. Today is the final game of the first round and if the result remains tied, the winner of the match will be determined in the playoffs.&#160;Day 4 report&#160;/&#160;Women&#x2019;s Candidates []",
@@ -1384,14 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
          "pubDate" : "Wed, 23 Nov 2022 08:00:00 +0100",
          "title" : "What's new in ChessBase 17: Livestream with the developers"
-      },
-      {
-         "description" : "Day 3 of the World Team Championships saw four teams leaving the competition as the preliminaries came to an end in Jerusalem. South Africa and the Netherlands did not make it through in Pool A, while Israel and the United States were eliminated in Pool B. Poland barely qualified, after tying in match points and individual points with Israel - a better tiebreaker score allowed the Polish team to move on. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d3",
-         "pubDate" : "Wed, 23 Nov 2022 04:45:00 +0100",
-         "title" : "World Teams: Poland edges out Israel"
       },
       {
          "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
