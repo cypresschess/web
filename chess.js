@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Blitz portion of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz 2022, kicked off yesterday in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. 19-year-old Indian grandmaster Arjun Erigaisi convincingly won the event with a round to spare. Erigaisi defeated Hikaru Nakamura in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arjun-erigaisi-wins-tata-steel-chess-india-blitz-2022/",
+         "pubDate" : "Sun, 04 Dec 2022 16:02:35 +0000",
+         "title" : "Arjun Erigaisi wins Tata Steel Chess India Blitz 2022"
+      },
+      {
+         "description" : "The Women's Candidates Pool B tournament is halfway through in Khiva, Uzbekistan. Aleksandra Goryachkina booked her seat for the semifinals after defeating Alexandra Kosteniuk with a 2.5-1.5 score, taking a two-day rest before the next game. Tan Zhongyi and Kateryna Lagno needed to play the tiebreak match as the regular part finished in a tie []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-advances-to-womens-candidates-semifinals/",
+         "pubDate" : "Sun, 04 Dec 2022 15:48:46 +0000",
+         "title" : "Tan Zhongyi advances to Women's Candidates semi-finals"
+      },
+      {
+         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, took place from November 29 to December 4, 2022, featuring the Women&#x2019;s event for the first time this year. Anna Ushenina won the Rapid portion of the event, while Indian international master Vaishali R won the Blitz tournament. Vaishali scored []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vaishali-r-clinches-tata-steel-chess-india-womens-blitz-2022/",
+         "pubDate" : "Sun, 04 Dec 2022 15:45:00 +0000",
+         "title" : "Vaishali R clinches Tata Steel Chess India Women's Blitz 2022"
+      },
+      {
+         "description" : "In 1968, the American magazine Chess Review introduced Michael Basman as \"another bright B\" in the tradition of famous British chess players represented by Bird, Blackburne and Burn. \"Basman would never be the brightest chess star in this constellation of Bs, but he became the most doggedly extra-terrestrial of all of them,\" writes Jonathan Manley in the December issue of CHESS Magazine. Here's his fine tribute.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/b-is-for-basman",
+         "pubDate" : "Sun, 04 Dec 2022 15:00:00 +0100",
+         "title" : "B is for Basman"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 102nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-102-play-the-sicilian-4",
+         "pubDate" : "Sun, 04 Dec 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 102: Play the Sicilian! (4)"
+      },
+      {
          "description" : " Here's a tactical idea which comes up from time to time. Your opponent has a king in the centre. You move a unit to a square controlled by two enemy pawns. Either pawn capture opens a diagonal for a check by a bishop or queen with fatal results. I could have reached this position in <a href=\"https://chessimprover.com/opening-diagonals/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Diagonals\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-diagonals/\">Opening Diagonals</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "Kateryna Lagno vs Tan Zhongyi; FIDE Women's Candidates Pool B - Quarterfinals tiebreak LIVE games"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-quarterfinals-tiebreak-live-video-coverage/",
@@ -130,14 +170,6 @@ news_feed (
          "title" : "Erigaisi, Mariya Muzychuk Lead Tata Steel India Blitz"
       },
       {
-         "description" : "Elite chess tournaments require strict arbitration and anti-cheating measures to ensure fair play and Khiva is not an exception. Chief arbiter&#160;Husan Turdialiev&#160;(from Uzbekistan) and Fair Play officer&#160;Bojana Bejatovic&#160;(Macedonia) have years of experience to draw from. Before the round, all players are scanned at the entrance mobile phones, watches, pens, and any unnecessary items are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/goryachkina-advances-to-semi-finals-lagno-and-tan-zhongyi-go-to-tiebreaks/",
-         "pubDate" : "Sat, 03 Dec 2022 19:59:48 +0000",
-         "title" : "Goryachkina advances to semi-finals, Lagno and Tan Zhongyi go to tiebreaks"
-      },
-      {
          "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -170,28 +202,12 @@ news_feed (
          "title" : "Goryachkina qualifies for semifinals Lagno and Tan Zhongyi go to tiebreak"
       },
       {
-         "description" : "Russian Grandmaster Sergey Karjakin announced today on his official Telegram account that he will join the race in the upcoming elections for President of the Russian Chess Federation. Karjakin, who was earlier this year banned for 6 months from FIDE competitions, publicly criticized the leadership of the Russian Chess Federation as well as FIDE. (all []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sergey-karjakin-runs-for-russian-chess-federation-president/",
-         "pubDate" : "Sat, 03 Dec 2022 14:53:46 +0000",
-         "title" : "Sergey Karjakin runs for Russian Chess Federation President"
-      },
-      {
          "description" : "GM Aleksandra Goryachkina eliminated GM Alexandra Kosteniuk from the 2022-23 FIDE Women&#39;s Candidates Tournament by securing a draw in the fourth game from a better position. After four draws, the match between GM Tan Zhongyi and GM Kateryna Lagno ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-4",
          "pubDate" : "Sat, 03 Dec 2022 06:38:00 -0800",
          "title" : "Goryachkina Forces Draw, Eliminates Kosteniuk"
-      },
-      {
-         "description" : "The 51st UAE National Day Rapid is taking place from 3&#x2013;4 December 2022 in Sharjah, United Arab Emirates. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. It is a 10-round Swiss tournament Farrukh Amonatov, Viorel Iordachescu, A.R. Saleh Salem, Igor Miladinovic, Efstratios Grivas, Walter Arencibia Rodriguez, A. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/51st-uae-national-day-rapid-2022-live/",
-         "pubDate" : "Sat, 03 Dec 2022 14:08:15 +0000",
-         "title" : "51st UAE National Day Rapid 2022 - LIVE"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "Register For The Collegiate Chess League Spring 2023 Season"
       },
       {
-         "description" : "In his \"Game of the Week\" show #543 Merijn van Delft looks at a recently played brilliancy: Jan-Krzysztof Duda's spectacular win against Anish Giri at the finals of the Meltwater Champions Chess Tour. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-543-duda-vs-giri",
-         "pubDate" : "Wed, 23 Nov 2022 18:00:00 +0100",
-         "title" : "Game of the Week #543: Duda vs Giri"
-      },
-      {
          "description" : " One of the more spectacular games from the 2022 Vikings Weekender was the round 2 match up between Fred Litchfield and Glenn Ingham. Litchfield demonstrated the adage that 'good moves come from good positions' by finding a winning queen sacrifice in a position that was already in his favour. But while most of the combination relied on checks and captures, there was still the necessity to find a quite move or two, which Litchfield did. <br /> <b>Litchfield,Fred - Ingham,Glenn [D30]</b><br />2022 Vikings Weekender Canberra, Australia (2.4), 19.11.2022 <script>new PgnViewer( { boardName: \"game1368\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Be7 6.Bd3 dxc4 7.Nx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-teams-usa-and-netherlands-crash-out",
          "pubDate" : "Wed, 23 Nov 2022 12:34:01 +0000",
          "title" : "World Teams: USA and Netherlands crash out"
-      },
-      {
-         "description" : "ChessBase 17 is available now, and the amount of new options are immense. The four ChessBase developers Lutz Nebe, Mathias Feist, Jeroen van den Belt, and Matthias Wuellenweber shared their screens on a special discount day live stream, presented us all new features in detail, and answered questions from the chat. Whoever missed the stream yesterday, can rewatch it now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yesterday-s-live-stream-with-the-developers-of-chessbase-17",
-         "pubDate" : "Wed, 23 Nov 2022 12:09:54 +0100",
-         "title" : "Yesterday's Live Stream with the Developers of ChessBase 17"
       },
       {
          "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
@@ -1800,22 +1800,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/who-where-when.html",
          "pubDate" : "Sun, 13 Nov 2022 16:55:00 +0000",
          "title" : "Who? Where? When?"
-      },
-      {
-         "description" : "How do you feel when you have to play against an opponent whose rating is some hundred points better than your own? The bold among us will see this as a special incentive. For most of us, however, unease will probably prevail. In the third part of his video series \"Practical Tips for the Tournament Player\" in ChessBase Magazine #210, Jan Markos deals with the important topic of how to play against a stronger opponent. The GM from Slovakia first makes it clear that you have to keep a cool head and then presents three promising strategies. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/don-t-be-afraid-of-stronger-opponents",
-         "pubDate" : "Sun, 13 Nov 2022 17:00:00 +0100",
-         "title" : "Don't be afraid of stronger opponents!"
-      },
-      {
-         "description" : " Keith Vernon Eubanks, 56, of Columbia, SC was born on September 27, 1965 and passed away on September 23, 2022. He was a lifelong resident of South Carolina and was a mainstay in the South Carolinian chess scene. No cause of death is known, but Keith had a long struggle with diabetes. Keith was a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/\">South Carolina's Keith Eubanks (1965-2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/",
-         "pubDate" : "Sun, 13 Nov 2022 12:40:53 +0000",
-         "title" : "South Carolina's Keith Eubanks (1965-2022)"
       }
    ]
 }
