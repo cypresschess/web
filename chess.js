@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Here's a tactical idea which comes up from time to time. Your opponent has a king in the centre. You move a unit to a square controlled by two enemy pawns. Either pawn capture opens a diagonal for a check by a bishop or queen with fatal results. I could have reached this position in <a href=\"https://chessimprover.com/opening-diagonals/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Diagonals\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-diagonals/\">Opening Diagonals</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/opening-diagonals/",
+         "pubDate" : "Sun, 04 Dec 2022 11:45:28 +0000",
+         "title" : "Opening Diagonals"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-483322",
+         "pubDate" : "Sun, 04 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 4"
+      },
+      {
+         "description" : "The 44th Greek Women Championship take place in Athens from 3-11 December. Time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move 1. It is 12-player-round-robin tournament with Magdalini Mihailidou, Marina Makropoulou, Antonia Christodoulaki, Evanthia Makka, Ioulia Makka, Konstantina Androni, Panagiota []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/44th-greek-women-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 10:28:21 +0000",
+         "title" : "44th Greek Women Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 Greek Championships take place in Athens from 3-11 December. Time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move 1. It is 10-player-round-robin tournament with Petros Trimitzios, Spyridon Skembris, Spyridon Naoum, Konstantinos Moutousis, Georgios Mitsis, Konstantinos Markidis, Hristos Marinakis, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/71st-greek-championship-2022-live/",
+         "pubDate" : "Sun, 04 Dec 2022 10:20:29 +0000",
+         "title" : "71st Greek Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Sun, 04 Dec 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B: Live"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-fide-womens-candidates-pool-b-quarterfinals-tiebreak-live-games/",
+         "pubDate" : "Sun, 04 Dec 2022 09:17:18 +0000",
+         "title" : "Kateryna Lagno vs Tan Zhongyi; FIDE Women's Candidates Pool B - Quarterfinals tiebreak LIVE games"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-quarterfinals-tiebreak-live-video-coverage/",
+         "pubDate" : "Sun, 04 Dec 2022 08:50:56 +0000",
+         "title" : "FIDE Women's Candidates Pool B - Quarterfinals tiebreak live video coverage"
+      },
+      {
          "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <div class=\"e2-text-caption\">A person who looks lik Hans Niemann (Image by Dall-e)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.44.0.pdf\">rude but legally convincing motion</a> states: After years of trying to curate a reputation as the bad boy of chess, Plaintiff Hans Niemann wants to cash in by blaming others for the fallout f",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -146,38 +202,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 3"
       },
       {
-         "description" : "The Women's Romanian National Rapid Team Championship Open held on December 3rd in Sebe&#x219;, Romania.Time control is 15 minutes for the entire game with a 15-second increment beginning from move one.It is a 8-round Swiss tournament with CSU ASE Bucuresti&#xA0;( Irina Bumlmaga, Elena-Luminita Cosma and Alessia-Mihaela Ciolacu) , ACS Arnia Chess IT ( Carmen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-womens-team-rapid-championship-2022-live/",
-         "pubDate" : "Sat, 03 Dec 2022 10:25:35 +0000",
-         "title" : "Romanian Women's Team Rapid Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Romanian National Rapid Team Championship Open held on December 3rd in Sebe&#x219;, Romania.Time control is 15 minutes for the entire game with a 15-second increment beginning from move one.It is a 8-round Swiss tournament with CSU ASE Superbet ( Constantin Lupulescu, Vlad-Cristian Jianu, Mircea-Emilian Parligras and David Gavrilescu) , CSM Unirea Alba Iulia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-team-rapid-championship-2022-live/",
-         "pubDate" : "Sat, 03 Dec 2022 10:17:17 +0000",
-         "title" : "Romanian Team Rapid Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. After three played games the result in the match between Kateryna Lagno and Tan Zhongyi is tied 1.5-1.5. Today is the final game of the first round and if the result remains tied, the winner of the match will be determined in the playoffs.&#160;Day 4 report&#160;/&#160;Women&#x2019;s Candidates []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kateryna-lagno-vs-tan-zhongyi-womens-candidates-pool-b-game-4-live/",
-         "pubDate" : "Sat, 03 Dec 2022 09:44:25 +0000",
-         "title" : "Kateryna Lagno vs Tan Zhongyi; Women's Candidates Pool B Game 4 LIVE"
-      },
-      {
-         "description" : "The&#160;Women&#x2019;s Candidates Pool B&#160;is underway in Khiva, Uzbekistan. Aleksandra Goryachkina took lead in the match against Aleksandra Kosteniuk as she prevailed in the third round. Kosteniuk now needs to win on demand to take the match into tiebreaks.&#160;Day 4 report&#160;/&#160;Women&#x2019;s Candidates Pool B &#x2013; LIVE games Alexandra Kosteniuk&#160;will in today&#x2019;s game take Black pieces against&#160;Aleksandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-vs-alexandra-kosteniuk-womens-candidates-pool-b-game-4-live/",
-         "pubDate" : "Sat, 03 Dec 2022 09:41:09 +0000",
-         "title" : "Aleksandra Goryachkina vs Alexandra Kosteniuk; Women's Candidates Pool B Game 4 LIVE"
-      },
-      {
          "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -266,6 +290,14 @@ news_feed (
          "title" : "Women's Candidates: Goryachkina scores with black"
       },
       {
+         "description" : "Last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html\">Wayback to Smartchess</A>(November 2022), discussed a trailblazer among chess-on-the-web sites. I noted, 'The first issue of 'SmartChess Online' was dated August 1997 and the last was dated August/September 2003, a total of 45 issues.' <P>The first item in the August 1997 issue was titled 'Publisher's Message by International Grandmaster Ron Henley'. Largely editiorial, it was to become a regular column in future issues, appearing more often than not. In it GM Henley gave his thoughts on topical issues related to chess, to video publishing, and to the internet in general. The first such",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html",
+         "pubDate" : "Fri, 02 Dec 2022 16:17:00 +0000",
+         "title" : "The SmartChess Saga"
+      },
+      {
          "description" : "This week, Daniel King continues to explore the 'Novotny interference', a beautiful theme that recently resurfaced in competitive play. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,14 +352,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2023-official-invitation/",
          "pubDate" : "Fri, 02 Dec 2022 09:48:30 +0000",
          "title" : "European School Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "A commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022. Any interested CHESS lover may contact Indianchessfed@gmail.com. The value of per stamp",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commemorative-postal-stamp-was-released-in-respect-of-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 02 Dec 2022 08:39:22 +0000",
-         "title" : "Commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022"
       },
       {
          "description" : " The former world top-10 grandmaster edged out his rivals by half a point after a tense final round at Assisi, concluding a year where England 50+ and 65+ players also won two world and one European team championships John Nunn, the former top-10 player and author of several instructional books, recovered the form of his best years at age 67 last week when the grandmaster from Bude in Conrwall won the world 65+ senior championship in Assisi, Italy. Nunn scored nine out of 11, and won all his six games with White, including a vital win in what had seemed a drawn final round queen and knight v queen and bishop ending. The championship was a competitive event of 192 players, where Nunn's only d",
@@ -682,28 +706,12 @@ news_feed (
          "title" : "African Amateur Championship 2022 gets underway in Kenya"
       },
       {
-         "description" : "FIDE functions on the basis of its different commissions. For the rules related to arbiters, we have the arbiters commission, for the rules related to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/eight-indians-are-members-of-fide-commissions-from-2022-26/",
-         "pubDate" : "Tue, 29 Nov 2022 13:17:44 +0000",
-         "title" : "Eight Indians are members of FIDE commissions from 2022-26"
-      },
-      {
          "description" : " The Tata Steel India Rapid & Blitz takes place Tue 29th Nov to Sun 4th Dec 2022. Nakamura, So, Mamedyarov, Abdusattorov, Vidit etc. There are men's and women's sections for rapid followed by blitz.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2022",
          "pubDate" : "Tue, 29 Nov 2022 16:26:00 +0400",
          "title" : "Tata Steel India Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : "MPL 47th National Sub Junior &#38; 38th National Sub Junior Girls Chess Championship-2022 kick starts at IGI stadium Delhi with a bang . A number",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-47th-national-sub-junior-38th-national-sub-junior-girls-chess-championship-2022-report/",
-         "pubDate" : "Tue, 29 Nov 2022 11:57:10 +0000",
-         "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
       },
       {
          "description" : "The 30th edition of the FIDE World Senior Chess Championship in Assisi (Italy) ended on Saturday, November 26, after a hard fight until the last minute. In the 50+ group, the Georgian Grandmaster Zurab Sturua became the new World Champion. The Women's World Champion in this group was WGM Elvira Berend (Luxembourg). In the 65+ group the title went to English GM John Nunn (pictured), the women's title was won by GM Nona Gaprindashvili (Georgia). | Photos: FIDE",
@@ -736,14 +744,6 @@ news_feed (
          "link" : "https://chessimprover.com/students-analysis-11/",
          "pubDate" : "Tue, 29 Nov 2022 07:48:39 +0000",
          "title" : "Students Analysis (11)"
-      },
-      {
-         "description" : "LIVE GAMES : OPEN LIVES GAMES : WOMEN",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
-         "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
-         "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave&#38;nbsp;convincingly won his round of 16 match against GM Ian Nepomniachtchi by the greatest margin yet in Chess.com&#39;s 2022 Speed Chess Championship on Monday after an exceptional run in the bullet portion. Vachier-Lagrave...",
@@ -866,14 +866,6 @@ news_feed (
          "title" : "Mueller on Meltwater"
       },
       {
-         "description" : "Please find live link of MPL National Sub-Junior Chess Championship 2022 Open https://view.livechesscloud.com/#9fa1fbe3-7812-48b5-8705-2577f844213d Girls https://view.livechesscloud.com/#00733143-c9c7-49ab-a209-4a4c8a9d3023",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-mpl-national-sub-junior-chess-championship-2022/",
-         "pubDate" : "Mon, 28 Nov 2022 09:28:38 +0000",
-         "title" : "Live Link : MPL National Sub-Junior Chess Championship 2022"
-      },
-      {
          "description" : "First of all, I want to say that it was nice to be a part of the GB team at the WCCC 2022 in Fujairah....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -896,14 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-preview",
          "pubDate" : "Mon, 28 Nov 2022 09:00:00 +0100",
          "title" : "Women's Candidates: Pool B players make their way to Khiva"
-      },
-      {
-         "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-2022-final-report/",
-         "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
-         "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       },
       {
          "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
@@ -986,14 +970,6 @@ news_feed (
          "title" : "Four Questions"
       },
       {
-         "description" : "All India Chess Federation bagged the Award for the Best National Sports Federation of the year at the TURF 2022 &#38; India Sports Awards by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-bags-best-national-sports-federation-of-the-year-award-at-turf-2022-r-b-ramesh-adjudged-best-coach/",
-         "pubDate" : "Sun, 27 Nov 2022 12:07:45 +0000",
-         "title" : "AICF bags Best National Sports Federation of the year award at TURF 2022 & India Sports Awards of FICCI; R B Ramesh adjudged Best Coach"
-      },
-      {
          "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,14 +1016,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/china-clinch-3rd-world-team-championship-title",
          "pubDate" : "Sat, 26 Nov 2022 15:15:00 +0000",
          "title" : "China clinch 3rd World Team Championship title"
-      },
-      {
-         "description" : "India lost to Spain for the Small Finals (the match for the third place) The first match ended in a 2:2 draw with Nihal Sarin",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-2022final-day-report/",
-         "pubDate" : "Sat, 26 Nov 2022 11:26:40 +0000",
-         "title" : "World Team Chess Championship 2022:Final Day Report"
       },
       {
          "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
@@ -1178,14 +1146,6 @@ news_feed (
          "title" : "World Teams: Uzbekistan and China reach final"
       },
       {
-         "description" : "Title hope of India in the World Team Championship shattered in the semi final as Olympiad Gold medalist team Uzbekistan won the second duel in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-uzbekistan-beat-india-in-semi-final/",
-         "pubDate" : "Fri, 25 Nov 2022 10:30:11 +0000",
-         "title" : "World Team Chess Championship - Uzbekistan beat India in Semi Final"
-      },
-      {
          "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1272,14 +1232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-2022-registration-is-open",
          "pubDate" : "Thu, 24 Nov 2022 12:00:00 +0100",
          "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
-      },
-      {
-         "description" : "IM Harshavardhan beats Utsab in the sharp Najdorf 6.Bg5 variation to take the sole lead after round 7. IM Neelash Saha suffered a loss against the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-2022-round-7/",
-         "pubDate" : "Thu, 24 Nov 2022 07:14:38 +0000",
-         "title" : "ASIAN JUNIOR 2022 : Round 7"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
@@ -1384,22 +1336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/yesterday-s-live-stream-with-the-developers-of-chessbase-17",
          "pubDate" : "Wed, 23 Nov 2022 12:09:54 +0100",
          "title" : "Yesterday's Live Stream with the Developers of ChessBase 17"
-      },
-      {
-         "description" : "With both the number one and number two in the world (Magnus Carlsen and Ding Liren), five top 10 players and a total of eight top 20 players, the Masters of the jubilee edition of the Tata Steel Chess Tournament has a very strong field of participants. The 85th edition promises to be a wonderful battleground, because a number of great talents are also present to compete with these world class players. The tournament will take place from 13 to 29 January 2023 in Wijk aan Zee in the Netherlands.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strongest-field-ever-at-85th-edition-of-the-tata-steel-chess-tournament",
-         "pubDate" : "Wed, 23 Nov 2022 11:00:00 +0100",
-         "title" : "'Strongest field ever' at 85th edition of the Tata Steel Chess Tournament"
-      },
-      {
-         "description" : "What's new in ChessBase 17? The ChessBase developers Matthias W&uuml;llenweber, Mathias Feist, Lutz Nebe and Jeroen van Belt show in conversation with Arne K&auml;hler why the new ChessBase is indispensable for every ambitious chess lover. Live from 4 pm. At the end of the live show, Robert Ris reports on how he will use the new features as a trainer, for example to bring his student Eline Roebers further forward. From 4 pm, live on YouTube, Twitch or right here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-s-new-in-chessbase-17-livestream-with-the-developers",
-         "pubDate" : "Wed, 23 Nov 2022 08:00:00 +0100",
-         "title" : "What's new in ChessBase 17: Livestream with the developers"
       },
       {
          "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
@@ -1880,14 +1816,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/13/south-carolinas-keith-eubanks-1965-2022/",
          "pubDate" : "Sun, 13 Nov 2022 12:40:53 +0000",
          "title" : "South Carolina's Keith Eubanks (1965-2022)"
-      },
-      {
-         "description" : " I've written a lot of courses for beginners over the years, most of which I've discarded because I didn't think they were much good. Every time, I say to myself that this will be the last one I'll write. But it seems to me, looking at the experiences related by beginners on social media, that <a href=\"https://chessimprover.com/chess-for-heroes-november-2022/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess For Heroes (November 2022)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-november-2022/\">Chess For Heroes (November 2022)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-for-heroes-november-2022/",
-         "pubDate" : "Sun, 13 Nov 2022 11:52:41 +0000",
-         "title" : "Chess For Heroes (November 2022)"
       }
    ]
 }
