@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;3rd edition of the El Llobregat Open Chess Tournament 2022&#160;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur. Hans Niemann,m who has been in the limelight of the cheating drama []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-in-the-sole-lead-at-the-3rd-el-llobregat-open/",
+         "pubDate" : "Sun, 04 Dec 2022 16:31:19 +0000",
+         "title" : "Hans Niemann in the sole lead at the 3rd El Llobregat Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2118",
+         "pubDate" : "Sun, 04 Dec 2022 16:13:05 +0000",
+         "title" : "Tan Zhongyi defeats Lagno in tiebreak and will face Goryachkina in semifinal"
+      },
+      {
          "description" : "The Blitz portion of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz 2022, kicked off yesterday in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. 19-year-old Indian grandmaster Arjun Erigaisi convincingly won the event with a round to spare. Erigaisi defeated Hikaru Nakamura in []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/kateryna-lagno-todays-game-was-very-complicated-she-surprised-me-in-the-opening-video/",
          "pubDate" : "Sat, 03 Dec 2022 21:31:30 +0000",
          "title" : "Kateryna Lagno: Today's game was very complicated; She surprised me in the opening (VIDEO)"
-      },
-      {
-         "description" : "Aleksandra Goryachkina booked her seat for the semi-finals of the FIDE Women's Candidates 2022/2023 after defeating her compatriot Alexandra Kosteniuk in the Round 1 of the Pool B tournament. Goryachkina drew the last game of the match, taking the overall 2.5-1.5 victory. (Day 5 report) In the post-game interview, Goryachkina revealed that she was worried []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-kosteniuk-had-a-good-winning-plan-but-she-didnt-put-enough-pressure-in-the-end-video/",
-         "pubDate" : "Sat, 03 Dec 2022 21:19:28 +0000",
-         "title" : "Aleksandra Goryachkina: Kosteniuk had a good winning plan, but she didn't put enough pressure in the end (VIDEO)"
       },
       {
          "description" : "GM Arjun Erigaisi shot into the lead with 6.5 points from nine rounds after the first day of the 2022 Tata Steel Chess India Open Blitz, while GM Mariya Muzychuk scored an impressive eight points from nine rounds to lead the 2022 Tata Steel Chess ...",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2085",
          "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
          "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
-      },
-      {
-         "description" : "The description tells us 'What' and 'Why'. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Wd8Acy60xQQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>How chess is made || These workers make money by making chess sets</B> (10:02) &#149; '[Published on] Nov 4, 2022' <P>The description said, <BLOCKQUOTE>In this video make money by making chess sets and how its made chase [sic] set. Best way to earn money. </BLOCKQUOTE> <P>The comments mention India, but the description links to a Facebook page that says 'Karachi, Pakistan'. The whole thing remind",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/who-where-when.html",
-         "pubDate" : "Sun, 13 Nov 2022 16:55:00 +0000",
-         "title" : "Who? Where? When?"
       }
    ]
 }
