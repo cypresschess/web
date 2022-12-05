@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following Daniel King's recap of 'Novotny' patterns, Jon Speelman could not deny himself the pleasure of analysing the game played by Vasyl Ivanchuk which motivated the theme's resurgence. Speelman writes of Ivanchuk: \"Of all the players that I've ever faced over the board, I've always considered Ivanchuk the most talented, with no exceptions\". | Photo: Amruta Mokal / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-183",
+         "pubDate" : "Sun, 04 Dec 2022 23:55:00 +0100",
+         "title" : "Patterns of interference"
+      },
+      {
+         "description" : "At the Women's Candidates Tournament in Khiva, Tan Zhongyi and her opponent Kateryna Lagno played the tiebreak of their quarterfinal match on Sunday. Tan won the first 15+10 game and drew the next three encounters to make it to the semifinals, where she will face Aleksandra Goryachkina in a similar 4-game match starting Tuesday. | Photos: FIDE / Timur Sattarov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r1g5",
+         "pubDate" : "Sun, 04 Dec 2022 23:10:00 +0100",
+         "title" : "Women's Candidates: Tan knocks out Lagno, reaches semis"
+      },
+      {
+         "description" : "GM Arjun Erigaisi captured the 2022 Tata Steel Chess India Open Blitz with a round to spare, while IM Vaishali Rameshbabu caught up with the overnight leader, GM Mariya Muzychuk, and outpaced her in the final rounds to win the 2022 Tata Steel Ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-2",
+         "pubDate" : "Sun, 04 Dec 2022 13:16:07 -0800",
+         "title" : "Erigaisi, Vaishali Win Blitz Titles"
+      },
+      {
+         "description" : "GM Tan Zhongyi defeated GM Kateryna Lagno in Sunday&#39;s tiebreak of their FIDE Women&#39;s Candidates Tournament quarterfinal. Tan won the first of four rapid games. Then the remaining three ended in draws. The 31-year-old Chinese GM will now face GM Al...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-tiebreak",
+         "pubDate" : "Sun, 04 Dec 2022 12:48:00 -0800",
+         "title" : "Tan Zhongyi Knocks Out Kateryna Lagno In Women's Candidates Quarterfinals"
+      },
+      {
          "description" : "Two young rising stars claimed titles in the blitz section of the Tata Steel Chess India event. Arjun Erigaisi and Vaishali Rameshbabu made their country proud as they got clear victories in the 18-round tournaments organized in Kolkata. The Indians outscored top-notch opposition on their way to memorable triumphs at the imposing National Library of India. | Pictured: Nihal, Arjun, Ushenina and Vaishali | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1290,14 +1322,6 @@ news_feed (
          "title" : "Italian Championship: Luca Moroni and Olga Zimina win titles"
       },
       {
-         "description" : "The quarterfinals of the World Team Championship were played on Wednesday at the Dan Hotel in Jerusalem. One of the four matches was decided in tiebreaks, with India beating France in blitz to get a spot in the semis. China, Spain and Uzbekistan, on their part, knocked out Poland, Azerbaijan and Ukraine, respectively. | Pictured: Spain's David Anton and Daniil Yuffa | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d4",
-         "pubDate" : "Thu, 24 Nov 2022 00:05:00 +0100",
-         "title" : "World Teams: Spain, India, China and Uzbekistan in semis"
-      },
-      {
          "description" : "GM Fabiano Caruana was the first player to progress to the quarterfinals of the 2022 Speed Chess Championship on Wednesday after defeating GM Arjun Erigaisi in a nail-biting curtain-raiser for the main event. Erigaisi built a strong lead early; ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1312,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2101",
          "pubDate" : "Wed, 23 Nov 2022 21:47:46 +0000",
          "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
-      },
-      {
-         "description" : "The highlight of the Meltwater competition was of course the presence of Magnus Carlsen, and he did not disappoint as he showed off his endgame skills in game after game. They may not have all ended in resounding victories but every one of them was a lesson.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-in-the-endgame",
-         "pubDate" : "Wed, 23 Nov 2022 20:00:00 +0100",
-         "title" : "Carlsen in the endgame"
       },
       {
          "description" : "Chess.com is happy to announce that registrations are now open&#38;nbsp;for the Spring 2023 season of the Collegiate Chess League!&#38;nbsp;This season returns with the 4 vs. 4 team format most CCL players and fans are familiar with and a whopping $30,000...",
@@ -1408,22 +1424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-tournament-participants",
          "pubDate" : "Tue, 22 Nov 2022 04:30:00 -0800",
          "title" : "Carlsen Tops 'Strongest-Ever Field' At Tata Steel Chess 2023"
-      },
-      {
-         "description" : "The German chess software company ChessBase and the team behind the open-source chess engine Stockfish have reached a settlement and ended their legal dispute over the latter&#39;s claim regarding a repeated license violation by Chessbase with their p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessbase-stockfish-reach-settlement",
-         "pubDate" : "Tue, 22 Nov 2022 03:32:00 -0800",
-         "title" : "Chessbase, Stockfish Reach Settlement Over License Violation Claim"
-      },
-      {
-         "description" : "With one round to go in the pool stage, the Netherlands and the United States are in danger of missing out in the next rounds of the World Team Chess Championship. The two teams are currently not among the top four in their respective pools. China...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-2",
-         "pubDate" : "Tue, 22 Nov 2022 00:36:51 -0800",
-         "title" : "World Teams: Netherlands, U.S. In Trouble"
       },
       {
          "description" : "",
