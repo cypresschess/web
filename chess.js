@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Turkish Chess Championship took place from 25 November to 3 December in Keymer. It was a 10-player round-robin tournament with time control of 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#160; The rating favourite GM Mustafa Yilmaz won []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mustafa-yilmaz-is-the-winner-of-the-turkish-chess-championship-2022/",
+         "pubDate" : "Mon, 05 Dec 2022 19:27:14 +0000",
+         "title" : "Mustafa Yilmaz is the Winner of the Turkish Chess Championship"
+      },
+      {
+         "description" : "FIDE Council approved the below-mentioned changes to the simplified procedure for performing under the FIDE flag for players representing Russia/Belarus: The right to play under the FIDE flag is granted until January 1 2024, unless decided otherwise. After this period, in the absence of other requests, the player will automatically be returned to the previous []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-council-approves-resolution-on-performing-under-fide-flag/",
+         "pubDate" : "Mon, 05 Dec 2022 19:10:00 +0000",
+         "title" : "FIDE Council approves resolution on performing under FIDE flag"
+      },
+      {
+         "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. A lot of blunders can be avoided by a little discipline and a few simple tricks.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-16-how-to-avoid-blunders-2",
+         "pubDate" : "Mon, 05 Dec 2022 20:00:00 +0100",
+         "title" : "The Winning Academy 16: How to Avoid Blunders (2)"
+      },
+      {
          "description" : "In the Endgame Magic Show #217 Karsten M&uuml;ller and German female top player Jana Schneider look at endgame highlights from Jana's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -31,7 +55,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2120",
          "pubDate" : "Mon, 05 Dec 2022 14:12:38 +0000",
-         "title" : "Kenya tops medal standings in 2022 Africa Amateurs Championship"
+         "title" : "Kenya tops medal standings in 2022 Africa Amateur Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96004771.cms\" />An idea floated quite casually has led to the foundation of an academy that is showing promise of making India the world's next chess superpower. ",
@@ -240,22 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-483322",
          "pubDate" : "Sun, 04 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 4"
-      },
-      {
-         "description" : "The 44th Greek Women Championship take place in Athens from 3-11 December. Time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move 1. It is 12-player-round-robin tournament with Magdalini Mihailidou, Marina Makropoulou, Antonia Christodoulaki, Evanthia Makka, Ioulia Makka, Konstantina Androni, Panagiota []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/44th-greek-women-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 10:28:21 +0000",
-         "title" : "44th Greek Women Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 Greek Championships take place in Athens from 3-11 December. Time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move 1. It is 10-player-round-robin tournament with Petros Trimitzios, Spyridon Skembris, Spyridon Naoum, Konstantinos Moutousis, Georgios Mitsis, Konstantinos Markidis, Hristos Marinakis, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/71st-greek-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 10:20:29 +0000",
-         "title" : "71st Greek Championship 2022 - LIVE"
       },
       {
          "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <div class=\"e2-text-caption\">A person who looks lik Hans Niemann (Image by Dall-e)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.44.0.pdf\">rude but legally convincing motion</a> states: After years of trying to curate a reputation as the bad boy of chess, Plaintiff Hans Niemann wants to cash in by blaming others for the fallout f",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
          "pubDate" : "Fri, 25 Nov 2022 13:05:00 +0100",
          "title" : "Chessbase 17: the amazing new Search function"
-      },
-      {
-         "description" : "This week Robert Ris presents a line to fight against the Jobava-London System (1.d4 2.Bf4 & 3.Nc3). The always well-prepared Anish Giri used this line to win a fine game with Black against Praggnanandhaa at the Meltwater Chess Champions Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-how-to-fight-the-jobava-london-1-d4-2-bf4-3-nc3",
-         "pubDate" : "Fri, 25 Nov 2022 13:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: How to fight the Jobava-London (1.d4 2.Bf4 & 3.Nc3)?"
       },
       {
          "description" : "16-year-old Javokhir Sindarov scored a crucial win as Olympiad Champions Uzbekistan defeated India in the FIDE World Team Championship semi-finals. They now take on China, who escaped with a draw in the first match against Spain before overpowering them in the second, including a wonderful victory by Bai Jinshi over Alexei Shirov.",
