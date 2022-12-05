@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Mustafa Yilmaz emerged as the winner of the 2022 Turkish Championship. The native of Mamak claimed his third national title, repeating his triumphs of 2009 and 2017. The 2022 Turkish Championship, a 10-player round-robin tournament with classical time control, took place in Kemer, a seaside resort in the province of Antalya, from 25 November to 3 December. | Photos: Turkish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mustafa-yilmaz-wins-turkish-championship-2022",
+         "pubDate" : "Mon, 05 Dec 2022 11:00:22 +0100",
+         "title" : "Mustafa Yilmaz wins 2022 Turkish Championship"
+      },
+      {
+         "description" : "The ECF is committed to developing our junior talent. We want to encourage as many young people as we can to play given the educational...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
+         "pubDate" : "Mon, 05 Dec 2022 09:32:55 +0000",
+         "title" : "ECF Safeguarding Officer"
+      },
+      {
          "description" : "Following Daniel King's recap of 'Novotny' patterns, Jon Speelman could not deny himself the pleasure of analysing the game played by Vasyl Ivanchuk which motivated the theme's resurgence. Speelman writes of Ivanchuk: \"Of all the players that I've ever faced over the board, I've always considered Ivanchuk the most talented, with no exceptions\". | Photo: Amruta Mokal / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/samar-dayal-commonwealth-under-8-champion/",
          "pubDate" : "Thu, 24 Nov 2022 12:13:54 +0000",
          "title" : "Samar Dayal - Commonwealth Under 8 Champion"
-      },
-      {
-         "description" : "The FIDE World Rapid & Blitz Championship will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, the arena that has hosted many international sports competitions as well as live concerts and various shows. You can now register for the event!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-blitz-championships-2022-registration-is-open",
-         "pubDate" : "Thu, 24 Nov 2022 12:00:00 +0100",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
