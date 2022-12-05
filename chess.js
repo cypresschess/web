@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96004771.cms\" />An idea floated quite casually has led to the foundation of an academy that is showing promise of making India the world's next chess superpower. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-focuses-on-producing-the-next-champion/articleshow/96004771.cms",
+         "pubDate" : "Mon, 05 Dec 2022 12:28:20 +0000",
+         "title" : "Viswanathan Anand focuses on producing the next champion"
+      },
+      {
          "description" : "Arjun Erigaisi defeated Hikaru Nakamura in the penultimate round to clinch victory in the Tata Steel India Chess Blitz with a round to spare, meaning that for two years in a row he's never finished below 2nd place in either the Blitz or Rapid in Kolkata. There was more Indian success in the Women's event, as Vaishali finished 1.5 points clear of Mariya Muzychuk.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -711,7 +719,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aiming-to-become-world-champion-in-3-4-years-says-r-praggnanandhaa/articleshow/95889479.cms",
          "pubDate" : "Wed, 30 Nov 2022 13:47:31 +0000",
-         "title" : "Aiming to become world champion in 3-4 years, says R Praggnanandhaa"
+         "title" : "Aiming to become world champion in 3-4 years: Praggnanandhaa"
       },
       {
          "description" : "Shakhriyar Mamedyarov won a brilliant game against Wesley So as he scored 3/3 on Day 1 of the Tata Steel Chess India Rapid and Blitz in Kolkata. It was all the more impressive after Wesley had scored a fine win over Hikaru Nakamura in the previous round. No-one else has won more than a single game, which was a pattern followed in the Women's section, where only Nana Dzagnidze made it 3/3.",
