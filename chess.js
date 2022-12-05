@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-2",
-         "pubDate" : "Sun, 04 Dec 2022 13:16:07 -0800",
+         "pubDate" : "Sun, 04 Dec 2022 13:16:00 -0800",
          "title" : "Erigaisi, Vaishali Win Blitz Titles"
       },
       {
