@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2121",
+         "pubDate" : "Mon, 05 Dec 2022 15:56:20 +0000",
+         "title" : "4th FIDE Council Meeting, Jerusalem, Israel: List of decisions"
+      },
+      {
+         "description" : "Among the numerous powerful new features in Chessbase 17, one of the most striking has to be the introduction of the Buddy Engine in the panoply of engine tools. This innocuous named tool is the lynchpin in the new engine data shared with users, effectively innovating on a standard that has changed very little in decades. Don't miss this overview and video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-the-buddy-engine",
+         "pubDate" : "Mon, 05 Dec 2022 16:00:00 +0100",
+         "title" : "Chessbase 17: the Buddy Engine"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2120",
+         "pubDate" : "Mon, 05 Dec 2022 14:12:38 +0000",
+         "title" : "Kenya tops medal standings in 2022 Africa Amateurs Championship"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96004771.cms\" />An idea floated quite casually has led to the foundation of an academy that is showing promise of making India the world's next chess superpower. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -272,6 +296,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-1",
          "pubDate" : "Sat, 03 Dec 2022 13:07:00 -0800",
          "title" : "Erigaisi, Mariya Muzychuk Lead Tata Steel India Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Sat, 03 Dec 2022 19:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
@@ -560,14 +592,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-s-7-1-birthday-win-sets-up-dubov-final",
          "pubDate" : "Thu, 01 Dec 2022 15:00:48 +0000",
          "title" : "Carlsen's 7:1 birthday win sets up Dubov final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Thu, 01 Dec 2022 14:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "Much like on the first day of the Women's Candidates (Pool B) in Khiva, two tense draws were signed by the contenders looking to get a spot in the final against Lei Tingjie. After a rest day on Thursday, two more games will be played in this phase, with tiebreaks scheduled for Sunday in case of a 2-2 result in the classical portion. | Photo: Xushnud Baltaev",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen wins online and will face the new generation at Wijk"
       },
       {
-         "description" : "At the semifinals of the World Team Championship in Jerusalem, China and Uzbekistan defeated Spain and India respectively. In both cases, a draw in the first set was followed by a deciding victory in the second. The final and the match for third place will be played on Friday. | Pictured: Uzbekistan's Javokhir Sindarov | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-d5",
-         "pubDate" : "Fri, 25 Nov 2022 05:40:00 +0100",
-         "title" : "World Teams: Tense matches, China and Uzbekistan reach the final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-indian-gms-praggnanandhaa-arjun-erigaisi-lose-in-opening-round/articleshow/95525344.cms",
          "pubDate" : "Tue, 15 Nov 2022 06:31:19 +0000",
          "title" : "Meltwater Champions Tour: Indian GMs Praggnanandhaa, Erigaisi lose in opening round"
-      },
-      {
-         "description" : "Continuing with this blog's fortnightly coverage of the world's two foremost, ongoing engine vs. engine competitions, the previous post was <A HREF=\"http://chessforallages.blogspot.com/2022/10/tcec-s23-sufi-ccc19-rapid-both-underway.html\">TCEC S23 Sufi, CCC19 Rapid : Both Underway</A>(October 2022). To summarize that post:- <BLOCKQUOTE>TCEC: In S23 DivP Stockfish won all of its mini-matches, finishing three points ahead of LCzero and KomodoDragon; LCZero had tiebreak superior to KomodoDragon. The 100-game Sufi has seen five games finish, with Stockfish having a one point lead over LCZero. &#149; CCC: In the 'CCC19 Blitz Final' 300-game match, Stockfish beat Dragon by 60 points. Eight engines",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html",
-         "pubDate" : "Mon, 14 Nov 2022 16:03:00 +0000",
-         "title" : "TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish"
       }
    ]
 }
