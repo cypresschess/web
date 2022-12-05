@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #217 Karsten M&uuml;ller and German female top player Jana Schneider look at endgame highlights from Jana's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-217-with-jana-schneider",
+         "pubDate" : "Mon, 05 Dec 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #217 - with Jana Schneider"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-how-to-fight-the-jobava-london-1-d4-2-bf4-3-nc3",
          "pubDate" : "Fri, 25 Nov 2022 13:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: How to fight the Jobava-London (1.d4 2.Bf4 & 3.Nc3)?"
-      },
-      {
-         "description" : "The Israel Chess Federation is hosting the World Team Championship on November 19-26, with twelve teams from all around the world. The participant countries were split into two pools of similar strength, taking as a reference the rapid rating list. The four best teams from each pool will advance to the knockout stage. | Follow the games live with expert commentary by Almira Skripchenko and Vishy Anand starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-team-ch-2022-live",
-         "pubDate" : "Fri, 25 Nov 2022 12:55:00 +0100",
-         "title" : "World Team Chess Championship - Live"
       },
       {
          "description" : "16-year-old Javokhir Sindarov scored a crucial win as Olympiad Champions Uzbekistan defeated India in the FIDE World Team Championship semi-finals. They now take on China, who escaped with a draw in the first match against Spain before overpowering them in the second, including a wonderful victory by Bai Jinshi over Alexei Shirov.",
