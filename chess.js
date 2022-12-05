@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi defeated Hikaru Nakamura in the penultimate round to clinch victory in the Tata Steel India Chess Blitz with a round to spare, meaning that for two years in a row he's never finished below 2nd place in either the Blitz or Rapid in Kolkata. There was more Indian success in the Women's event, as Vaishali finished 1.5 points clear of Mariya Muzychuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-and-vaishali-win-tata-steel-blitz",
+         "pubDate" : "Mon, 05 Dec 2022 11:36:06 +0000",
+         "title" : "Arjun Erigaisi and Vaishali win Tata Steel Blitz"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-5223",
+         "pubDate" : "Mon, 05 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 5"
+      },
+      {
+         "description" : " I have just updated the Street Chess tournament statistics (<a href=\"http://streetchess.net/archive/\">http://streetchess.net/archive/</a>) Although the tournament has now been running for 30 years, the stats only cover the time when pairings were done by computer (2009). Looking through them I realised I missed one significant milestone last Saturday. Oscar Hellman (who has been playing almost every Saturday since Street Chess started) racked up his 3000 tournament game. Noting that this is only based on games since 2009, I suspect the real total is closer to 7000 games! Close behind him is Miles Patterson (2800 games), although Patterson's pre-2009 career is shorter than Hellman's ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/the-ironman.html",
+         "pubDate" : "Mon, 05 Dec 2022 10:57:00 +0000",
+         "title" : "The Ironman"
+      },
+      {
          "description" : "Mustafa Yilmaz emerged as the winner of the 2022 Turkish Championship. The native of Mamak claimed his third national title, repeating his triumphs of 2009 and 2017. The 2022 Turkish Championship, a 10-player round-robin tournament with classical time control, took place in Kemer, a seaside resort in the province of Antalya, from 25 November to 3 December. | Photos: Turkish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +42,28 @@ news_feed (
          "title" : "ECF Safeguarding Officer"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2119",
+         "pubDate" : "Sun, 04 Dec 2022 23:13:37 +0000",
+         "title" : "FIDE Council approves resolution on performing under the FIDE flag"
+      },
+      {
          "description" : "Following Daniel King's recap of 'Novotny' patterns, Jon Speelman could not deny himself the pleasure of analysing the game played by Vasyl Ivanchuk which motivated the theme's resurgence. Speelman writes of Ivanchuk: \"Of all the players that I've ever faced over the board, I've always considered Ivanchuk the most talented, with no exceptions\". | Photo: Amruta Mokal / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speelman-agony-183",
          "pubDate" : "Sun, 04 Dec 2022 23:55:00 +0100",
          "title" : "Patterns of interference"
+      },
+      {
+         "description" : "After so many years of posts inspired by <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), various themes eventually repeat. The item pictured below was titled 'Austrian cold painted cats playing chess by Bergman', and sold for GBP 625.00 ('approximately US $763.50'), 'Best offer accepted'. Ranked between two items of similar value, the real final price was probably around $740. <P>We've seen cats, as in <A HREF=\"http://chessforallages.blogspot.com/2019/03/cats-attacking-royalty.html\">Cats Attacking Royalty</A>(March 2019), and we've seen bronzes, as in <A HREF=\"http://chessforallages.blogspot.com/2022/07/f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/cold-painted-cats.html",
+         "pubDate" : "Sun, 04 Dec 2022 22:32:00 +0000",
+         "title" : "Cold Painted Cats"
       },
       {
          "description" : "At the Women's Candidates Tournament in Khiva, Tan Zhongyi and her opponent Kateryna Lagno played the tiebreak of their quarterfinal match on Sunday. Tan won the first 15+10 game and drew the next three encounters to make it to the semifinals, where she will face Aleksandra Goryachkina in a similar 4-game match starting Tuesday. | Photos: FIDE / Timur Sattarov",
@@ -514,6 +554,14 @@ news_feed (
          "title" : "Carlsen's 7:1 birthday win sets up Dubov final"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Thu, 01 Dec 2022 14:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "Much like on the first day of the Women's Candidates (Pool B) in Khiva, two tense draws were signed by the contenders looking to get a spot in the final against Lei Tingjie. After a rest day on Thursday, two more games will be played in this phase, with tiebreaks scheduled for Sunday in case of a 2-2 result in the classical portion. | Photo: Xushnud Baltaev",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -554,14 +602,6 @@ news_feed (
          "title" : "Sagittarius and their strategy"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Thu, 01 Dec 2022 11:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,6 +640,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2113",
          "pubDate" : "Thu, 01 Dec 2022 00:26:06 +0000",
          "title" : "FIDE Events Commission: Call for Bids"
+      },
+      {
+         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/01/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/12/01/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
+         "pubDate" : "Thu, 01 Dec 2022 00:10:12 +0000",
+         "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
       },
       {
          "description" : "GM Nihal Sarin and GM Nana Dzagnidze are in the sole leads of their respective groups with an identical 4.5 points from six games in the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid. Overnight leader GM Sh...",
@@ -696,6 +744,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d1",
          "pubDate" : "Wed, 30 Nov 2022 02:00:00 +0100",
          "title" : "Tata Steel India: Shakh and Nana on 3 out of 3"
+      },
+      {
+         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
+         "pubDate" : "Wed, 30 Nov 2022 00:10:07 +0000",
+         "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
@@ -1274,14 +1330,6 @@ news_feed (
          "title" : "Steamin' Niemann"
       },
       {
-         "description" : "The 81st Italian National Chess Championships ended on Wednesday in Cagliari, Sardinia, with a clear victory for GM Luca Moroni. The Women's Championship was won by Olga Zimina while Gabriele Lumachi became Italian Junior Champion. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/luca-moroni-and-olga-zimina-win-italian-championships",
-         "pubDate" : "Thu, 24 Nov 2022 15:00:00 +0100",
-         "title" : "Luca Moroni and Olga Zimina win Italian Championships"
-      },
-      {
          "description" : "It's India-Uzbekistan and China-Spain in the FIDE World Team Championship semi-finals after India survived a comeback to beat top seeds France in a blitz playoff, with Vishy Anand calling Indian hero Nihal Sarin \"a blitz genius\". The other shock was Spain taking down Azerbaijan, with David Anton defeating Teimour Radjabov in the crucial game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1440,14 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2097",
          "pubDate" : "Mon, 21 Nov 2022 21:30:43 +0000",
          "title" : "World Team Championship 2022: Sunny days for China and Uzbekistan"
-      },
-      {
-         "description" : "Magnus Carlsen finished the 2022 Meltwater Champions Chess Tour by beating Jan-Krzysztof Duda for a clean sweep of defeating all his opponents. That earned him $50,000 and took his Tour earnings to $242,500, $80,000 more than 2nd placed Duda. A spectacular last day also saw Anish Giri beat Wesley So in Armageddon, Praggnanandhaa defeat Arjun Erigaisi, and Liem Le take down Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-completes-near-perfect-finish-to-2022-champions-tour",
-         "pubDate" : "Mon, 21 Nov 2022 17:22:53 +0000",
-         "title" : "Carlsen completes near perfect finish to 2022 Champions Tour"
       },
       {
          "description" : "I've been following the 'Fat Fritz' story on this blog for over three years -- four years if you count the 'Deus X [DeusX]' posts linked in the first post listed here:- <UL><LI>2019-11-18: <A HREF=\"https://chessforallages.blogspot.com/2019/11/fat-fritz-by-albert-silver.html\">'Fat Fritz' by Albert Silver</A> <LI>2020-06-15: <A HREF=\"https://chessforallages.blogspot.com/2020/06/fat-fritz-followup.html\">Fat Fritz Followup</A> <LI>2021-02-22: <A HREF=\"https://chessforallages.blogspot.com/2021/02/the-transformation-of-fat-fritz.html\">The Transformation of Fat Fritz</A> <LI>2021-03-08: <A HREF=\"https://chessforallages.blogspot.com/2021/03/the-condemnation-of-fat-fritz.html\">The Condemnation of Fat",
@@ -1784,30 +1824,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html",
          "pubDate" : "Mon, 14 Nov 2022 16:03:00 +0000",
          "title" : "TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish"
-      },
-      {
-         "description" : "The ECF congratulates Shreyas Royal on the tremendous achievement of gaining his first GM norm at just 13 years old! Click here to see Shreyas's...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-first-gm-norm-at-13/",
-         "pubDate" : "Mon, 14 Nov 2022 12:28:52 +0000",
-         "title" : "Shreyas Royal - first GM norm at 13!"
-      },
-      {
-         "description" : " The 2022 Vikings Weekender begins this Friday (18th November), and there are still a few places left (13 at the time of posting this). As space at the venue is limited, there is a hard cap of 60 players, across 2 sections. Surprisingly it is the Under 1600 section that has fewer players, with the Open section looking quite strong. The tournament is a 6 round swiss, with 1 round on the Friday, 3 on Saturday and 2 on Sunday. The time limit is 60m+30s and both sections (Open and Under 1600) will be FIDE rated. Full details at <a href=\"http://actchess.org.au\">actchess.org.au</a> (or <a href=\"http://tournament.streetchess.net\">tournament.streetchess.net</a>) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-reminder.html",
-         "pubDate" : "Mon, 14 Nov 2022 11:36:00 +0000",
-         "title" : "2022 Vikings Weekender - Reminder"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2085",
-         "pubDate" : "Mon, 14 Nov 2022 11:18:07 +0000",
-         "title" : "Chess for Social benefits and Women inclusion Conference set for December 1 "
       }
    ]
 }
