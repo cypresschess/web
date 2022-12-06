@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2122",
+         "pubDate" : "Tue, 06 Dec 2022 18:01:40 +0000",
+         "title" : "Women's Candidates semifinal: Tan Zhongyi came close, but no cigar"
+      },
+      {
+         "description" : "In Germany, the 6 December is the day of \"Nikolaus\" - a day for small presents, and on the evening of 5 December children in Germany put out their shoes, hoping that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom ChessBase offers its customers the new \"60 Minutes\" \"A dangerous weapon against the Caro-Kann\" by Andrew Martin for free. Buy a new course (or something else) and get the \"60 Minutes\" course for free...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/presents-from-the-nikolaus",
+         "pubDate" : "Tue, 06 Dec 2022 18:10:57 +0100",
+         "title" : "Presents from the \"Nikolaus\""
+      },
+      {
          "description" : "Wearing a face mask during a game of chess decreases the quality of chess players&#39; decisions, an effect that is relatively short and mostly hurts strong players. This is the conclusion of a study about the effect of masks on cognitive performance ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -298,6 +314,14 @@ news_feed (
          "title" : "Tan Zhongyi Knocks Out Kateryna Lagno In Women's Candidates Quarterfinals"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Sun, 04 Dec 2022 19:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
+      },
+      {
          "description" : "Two young rising stars claimed titles in the blitz section of the Tata Steel Chess India event. Arjun Erigaisi and Vaishali Rameshbabu made their country proud as they got clear victories in the 18-round tournaments organized in Kolkata. The Indians outscored top-notch opposition on their way to memorable triumphs at the imposing National Library of India. | Pictured: Nihal, Arjun, Ushenina and Vaishali | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-1",
          "pubDate" : "Sat, 03 Dec 2022 13:07:00 -0800",
          "title" : "Erigaisi, Mariya Muzychuk Lead Tata Steel India Blitz"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Sat, 03 Dec 2022 19:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
@@ -1282,14 +1298,6 @@ news_feed (
          "title" : "Royal Game"
       },
       {
-         "description" : "Garry Kasparov was the eight of the twelve World Chess Champions whom Frederic met. In our new weekly series he tells us how he met and befriended the top players, and the adventures they experienced together. Frederic has written a new book, together with Professor Christian Hesse, with fascinating chess stories from the last 50 years. It appeared (first in German) in October.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frederic-s-mates-garry-kasparov-2",
-         "pubDate" : "Sat, 26 Nov 2022 11:00:00 +0100",
-         "title" : "Frederic's mates - Garry Kasparov PART II"
-      },
-      {
          "description" : "The 2022 FIDE World Team Chess Championship took place from 17-26 November in Jerusalem, Israel. China clinched gold medal after defeating Uzbekistan in the finals. The finals were played over the two matches and China scored narrow 2.5-1.5 victories in both to win the event without the need for tiebreaks. 2022 Olympiad Champions Uzbekistan won silver medal. Spain&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1808,22 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2090",
          "pubDate" : "Tue, 15 Nov 2022 21:32:55 +0000",
          "title" : "FIDE Commissions for 2022-26"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen It took me a while to get into the Ragozin defence of QGD. I played with success the Catalan for a number of years and forcing Nb8-c6 in front of <a href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Ragozin Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/\">Need sure points? QGD, Ragozin Variation Edition</a> appeared first on <a rel=",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qgd-ragozin-variation-edition/",
-         "pubDate" : "Tue, 15 Nov 2022 18:43:35 +0000",
-         "title" : "Need sure points? QGD, Ragozin Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2089",
-         "pubDate" : "Tue, 15 Nov 2022 17:02:06 +0000",
-         "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
       }
    ]
 }
