@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (63)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (63)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-63/",
+         "pubDate" : "Tue, 06 Dec 2022 12:19:10 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (63)"
+      },
+      {
          "description" : "After achieving her third Grandmaster norm in the Grand Swiss Tournament in Riga 2021 Germany's number one women player Elisabeth P&auml;htz (pictured) finally seemed to have secured the title, but when it turned out that her second norm might not have been valid, things got complicated. But in FIDE's decisions of the Council meeting on 25 November P&auml;htz's title was now confirmed. And Mexico was mentioned indirectly as possible host for the World Championship match between Ding Liren and Ian Nepomniachtchi in 2023. | Photo: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Women's Candidates - Pool B, Semifinal: Live"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with Aleksandra Goryachkina and Tan Zhongyi fighting in the four-game match for the spot in the Women's Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). &#xA0;Goryachkina advanced to the Pool B finals after defeating Alexandra Kosteniuk with a 2.5-1.5 result, while []",
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;reaches the Final stage with Aleksandra Goryachkina and Tan Zhongyi fighting in the four-game match for the spot in the Women's Candidates Finals against Lei Tingjie (who&#160;qualified from Pool A&#160;a month ago). &#160;Goryachkina advanced to the Pool B finals after defeating Alexandra Kosteniuk with a 2.5-1.5 result, while []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aleksandra-goryachkina-vs-tan-zhongyi-womens-candidates-pool-b-live/",
@@ -1816,30 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2089",
          "pubDate" : "Tue, 15 Nov 2022 17:02:06 +0000",
          "title" : "FIDE World Senior Championship 2022 kicks off in Assisi, Italy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2086",
-         "pubDate" : "Tue, 15 Nov 2022 14:09:20 +0000",
-         "title" : "European Youth Champions 2022 crowned in Antalya, Turkey"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2088",
-         "pubDate" : "Tue, 15 Nov 2022 13:47:41 +0000",
-         "title" : "64th World Congress of Chess Composition gets underway in Fujairah, UAE"
-      },
-      {
-         "description" : "Zoe Veselow has won a silver medal in the Euro Youth U8 Girls.&#160;Her coach for the event, GM Jonathan Hawkins, said Zoe worked very hard...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/zoe-veselow-silver-medal-in-the-euro-youth-u8-girls/",
-         "pubDate" : "Tue, 15 Nov 2022 13:14:22 +0000",
-         "title" : "Zoe Veselow - silver medal in the Euro Youth U8 Girls!"
       }
    ]
 }
