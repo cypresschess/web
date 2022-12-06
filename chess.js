@@ -10,7 +10,7 @@ news_feed (
          "title" : "Women's Candidates semifinal: Tan Zhongyi came close, but no cigar"
       },
       {
-         "description" : "In Germany, the 6 December is the day of \"Nikolaus\" - a day for small presents, and on the evening of 5 December children in Germany put out their shoes, hoping that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom ChessBase offers its customers the new \"60 Minutes\" \"A dangerous weapon against the Caro-Kann\" by Andrew Martin for free. Buy a new course (or something else) and get the \"60 Minutes\" course for free...",
+         "description" : "In Germany, the 6 December is the day of \"Nikolaus\" - a day for small presents, and on the evening of 5 December children in Germany put out their shoes, hoping that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom ChessBase offers its customers the new \"60 Minutes\" course \"A dangerous weapon against the Caro-Kann\" by Andrew Martin for free. Buy a new course (or something else) and get the \"60 Minutes\" course for free...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/presents-from-the-nikolaus",
