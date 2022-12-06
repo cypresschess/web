@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In queen endings attacks on the king occur quite often. How did White use the power of his king and queen to win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-battering-ram",
+         "pubDate" : "Tue, 06 Dec 2022 09:00:00 +0100",
+         "title" : "The battering ram"
+      },
+      {
+         "description" : "The finals took place at the Woodland Grange Hotel, Leamington Spa on Saturday 3rd December. Follow this link for the final standings in the Open...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-blitz-finals-2022/",
+         "pubDate" : "Tue, 06 Dec 2022 07:15:52 +0000",
+         "title" : "UK Blitz Finals 2022"
+      },
+      {
+         "description" : "The&#160;2022 National Chess Championship of Serbia&#160;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
+         "pubDate" : "Tue, 06 Dec 2022 02:15:00 +0000",
+         "title" : "Serbian Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
+         "pubDate" : "Tue, 06 Dec 2022 02:08:00 +0000",
+         "title" : "Serbian Chess Championship 2022"
+      },
+      {
          "description" : "Are you a member of the Chess.com Discord server? If not, now&#38;rsquo;s the time to join! We&#38;rsquo;ve just revamped our server, giving you lots of brand-new benefits and ways to be part of a community full of 35,000+ chess lovers. What&#38;rsquo;s new...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -224,22 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/arjun-erigaisi-wins-tata-steel-chess-india-blitz-2022/",
          "pubDate" : "Sun, 04 Dec 2022 16:02:35 +0000",
          "title" : "Arjun Erigaisi wins Tata Steel Chess India Blitz 2022"
-      },
-      {
-         "description" : "The Women's Candidates Pool B tournament is halfway through in Khiva, Uzbekistan. Aleksandra Goryachkina booked her seat for the semifinals after defeating Alexandra Kosteniuk with a 2.5-1.5 score, taking a two-day rest before the next game. Tan Zhongyi and Kateryna Lagno needed to play the tiebreak match as the regular part finished in a tie []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-advances-to-womens-candidates-semifinals/",
-         "pubDate" : "Sun, 04 Dec 2022 15:48:46 +0000",
-         "title" : "Tan Zhongyi advances to Women's Candidates semi-finals"
-      },
-      {
-         "description" : "The fourth edition of the&#160;Tata Steel Chess India Rapid &#38; Blitz, India&#x2019;s biggest chess tournament, took place from November 29 to December 4, 2022, featuring the Women&#x2019;s event for the first time this year. Anna Ushenina won the Rapid portion of the event, while Indian international master Vaishali R won the Blitz tournament. Vaishali scored []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vaishali-r-clinches-tata-steel-chess-india-womens-blitz-2022/",
-         "pubDate" : "Sun, 04 Dec 2022 15:45:00 +0000",
-         "title" : "Vaishali R clinches Tata Steel Chess India Women's Blitz 2022"
       },
       {
          "description" : "In 1968, the American magazine Chess Review introduced Michael Basman as \"another bright B\" in the tradition of famous British chess players represented by Bird, Blackburne and Burn. \"Basman would never be the brightest chess star in this constellation of Bs, but he became the most doggedly extra-terrestrial of all of them,\" writes Jonathan Manley in the December issue of CHESS Magazine. Here's his fine tribute.",
@@ -1298,14 +1314,6 @@ news_feed (
          "title" : "The FIDE President visits the Middle East"
       },
       {
-         "description" : "The new Chessbase 17 is out, and among the numerous new features is the completely revamped Search function. On the surface this might not sound terribly exciting, but the proof is in the pudding, and when you see it in action you will understand. Check out this article and video to see what the fuss is all about!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-the-amazing-new-search-function",
-         "pubDate" : "Fri, 25 Nov 2022 13:05:00 +0100",
-         "title" : "Chessbase 17: the amazing new Search function"
-      },
-      {
          "description" : "16-year-old Javokhir Sindarov scored a crucial win as Olympiad Champions Uzbekistan defeated India in the FIDE World Team Championship semi-finals. They now take on China, who escaped with a draw in the first match against Spain before overpowering them in the second, including a wonderful victory by Bai Jinshi over Alexei Shirov.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1824,22 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2087",
          "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
          "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
-      },
-      {
-         "description" : "The 2022 European Youth Chess Championship concluded yesterday in Antalya, Turkey with an impressive closing ceremony. ECU President Mr. Zurab Azmaiparashvili, FIDE President Arkady Dvorkovich, ECU Deputy President Ms. Dana Reizniece-Ozola, President of Turkish Chess Federation Ms. Gulkiz Tukay and the ECU Board members attended the Closing ceremony and joined the awarding. The Awards ceremony started with impressive&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-chess-champions-2022-crowned-in-antalya-turkey/",
-         "pubDate" : "Tue, 15 Nov 2022 06:44:42 +0000",
-         "title" : "European Youth Chess Champions 2022 crowned in Antalya, Turkey"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95525344.cms\" />While the 17-year old Praggnanandhaa went down 1.5-2.5 to Shakhriyar Mamedyarov of Azerbaijan, Erigasi lost to Poland's Jan-Krzysztof Duda 0.5-2.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-indian-gms-praggnanandhaa-arjun-erigaisi-lose-in-opening-round/articleshow/95525344.cms",
-         "pubDate" : "Tue, 15 Nov 2022 06:31:19 +0000",
-         "title" : "Meltwater Champions Tour: Indian GMs Praggnanandhaa, Erigaisi lose in opening round"
       }
    ]
 }
