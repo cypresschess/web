@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-semifinals-live-video-coverage/",
+         "pubDate" : "Tue, 06 Dec 2022 08:21:00 +0000",
+         "title" : "FIDE Women's Candidates Pool B - Semifinals live video coverage"
+      },
+      {
          "description" : "In queen endings attacks on the king occur quite often. How did White use the power of his king and queen to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2118",
          "pubDate" : "Sun, 04 Dec 2022 16:13:05 +0000",
          "title" : "Tan Zhongyi defeats Lagno in tiebreak and will face Goryachkina in semifinal"
-      },
-      {
-         "description" : "The Blitz portion of the&#xA0;Tata Steel Chess India Rapid &#38; Blitz 2022, kicked off yesterday in Kolkata. The event featured a very strong line-up with an interesting mixture of world-class grandmasters and Indian young chess stars. 19-year-old Indian grandmaster Arjun Erigaisi convincingly won the event with a round to spare. Erigaisi defeated Hikaru Nakamura in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arjun-erigaisi-wins-tata-steel-chess-india-blitz-2022/",
-         "pubDate" : "Sun, 04 Dec 2022 16:02:35 +0000",
-         "title" : "Arjun Erigaisi wins Tata Steel Chess India Blitz 2022"
       },
       {
          "description" : "In 1968, the American magazine Chess Review introduced Michael Basman as \"another bright B\" in the tradition of famous British chess players represented by Bird, Blackburne and Burn. \"Basman would never be the brightest chess star in this constellation of Bs, but he became the most doggedly extra-terrestrial of all of them,\" writes Jonathan Manley in the December issue of CHESS Magazine. Here's his fine tribute.",
