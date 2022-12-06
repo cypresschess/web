@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After achieving her third Grandmaster norm in the Grand Swiss Tournament in Riga 2021 Germany's number one women player Elisabeth P&auml;htz (pictured) finally seemed to have secured the title, but when it turned out that her second norm might not have been valid, things got complicated. But in FIDE's decisions of the Council meeting on 25 November P&auml;htz's title was now confirmed. And Mexico was mentioned indirectly as possible host for the World Championship match between Ding Liren and Ian Nepomniachtchi in 2023. | Photo: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-news-gm-title-for-elisabeth-paehtz-confirmed-world-championship-match-in-mexico",
+         "pubDate" : "Tue, 06 Dec 2022 13:10:43 +0100",
+         "title" : "FIDE news: GM title for Elisabeth P&auml;htz confirmed, World Championship match in Mexico?"
+      },
+      {
+         "description" : "The&#xA0;1st International Al-Beruniy Chess Tournament&#xA0;took place from November 29 to December 3 in Khiva, Uzbekistan, simultaneously with the&#xA0;FIDE Women&#x2019;s Candidates Pool B tournament. The event was played in 9 rounds, swiss system, with time control of 90 minutes for the whole game + 30 seconds increment for each move, starting from the move one, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-abdimalik-abdisalimov-wins-the-1st-international-al-beruniy-chess-tournament/",
+         "pubDate" : "Tue, 06 Dec 2022 11:45:59 +0000",
+         "title" : "IM Abdimalik Abdisalimov wins the 1st International Al-Beruniy Chess Tournament"
+      },
+      {
+         "description" : "The&#xA0;Serbian Women Chess Championship 2022&#xA0;will be held from 6-14 December in Bajina Basta, concurrently with the&#xA0;2022 Serbian Chess Championship. It is a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds per each move starting from the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-women-chess-championship-2022-live/",
+         "pubDate" : "Tue, 06 Dec 2022 11:31:04 +0000",
+         "title" : "Serbian Women Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Serbian Women Chess Championship 2022 will be held from 6-14 December in Bajina Basta, concurrently with the&#xA0;2022 Serbian Chess Championship. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds per each move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-women-chess-championship-2022/",
+         "pubDate" : "Tue, 06 Dec 2022 11:26:56 +0000",
+         "title" : "Serbian Women Chess Championship 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96029908.cms\" />Sixteen-year-old Aditya Mittal has become India's 77th chess Grandmaster during an ongoing tournament in Spain. The Mumbai player, who had secured three GM norms, crossed 2,500 ELO points mark during the sixth round of the ongoing Ellobregat Open tournament in Spain. He drew the game against Spain's No.1 Francisco Vallejo Pons to achieve the feat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-mittal-becomes-indias-77th-gm/articleshow/96029908.cms",
+         "pubDate" : "Tue, 06 Dec 2022 11:09:13 +0000",
+         "title" : "Aditya Mittal becomes India's 77th GM"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-653",
+         "pubDate" : "Tue, 06 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 6"
+      },
+      {
+         "description" : " <p class=\"lead\">On the 5th of December at the <a href=\"https://www.fide.com/news/2121\">4th FIDE Council Meeting</a>, FIDE decided to finally approve the GM title of Elisabeth Paehtz, which she had achieved since last November. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/elisabeth-paehtz-chess-fide-grandmaster-germany.jpeg\" width=\"960\" height=\"430\" alt=\"\" /> <div class=\"e2-text-caption\">Image: Jens Gyarmaty [FAZ-Recht:2]</div> </div> As described at the <a href=\"https://doc.fide.com/docs/DOC/2022%20GA%20in%20IND/Annex%2010.2%20Proposal%20GE%20Germany.pdf\">letter</a> of the German Chess Federation to the FIDE General Assembly on June 5th, 2022, \"In November 20",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-has-her-gm-title-finally-confirmed-by-fide/",
+         "pubDate" : "Tue, 06 Dec 2022 10:46:50 +0000",
+         "title" : "Elisabeth Paehtz has her GM title finally confirmed by FIDE"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Tue, 06 Dec 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B, Semifinal: Live"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with Aleksandra Goryachkina and Tan Zhongyi fighting in the four-game match for the spot in the Women's Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). &#xA0;Goryachkina advanced to the Pool B finals after defeating Alexandra Kosteniuk with a 2.5-1.5 result, while []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-vs-tan-zhongyi-womens-candidates-pool-b-live/",
+         "pubDate" : "Tue, 06 Dec 2022 09:35:32 +0000",
+         "title" : "Aleksandra Goryachkina vs Tan Zhongyi; Women's Candidates Pool B LIVE"
+      },
+      {
+         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
+         "pubDate" : "Tue, 06 Dec 2022 09:08:00 +0000",
+         "title" : "Serbian Chess Championship 2022"
+      },
+      {
          "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,20 +106,12 @@ news_feed (
          "title" : "UK Blitz Finals 2022"
       },
       {
-         "description" : "The&#160;2022 National Chess Championship of Serbia&#160;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
+         "description" : "The&#xA0;2022 National Chess Championship of Serbia&#xA0;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
          "pubDate" : "Tue, 06 Dec 2022 02:15:00 +0000",
          "title" : "Serbian Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
-         "pubDate" : "Tue, 06 Dec 2022 02:08:00 +0000",
-         "title" : "Serbian Chess Championship 2022"
       },
       {
          "description" : "Are you a member of the Chess.com Discord server? If not, now&#38;rsquo;s the time to join! We&#38;rsquo;ve just revamped our server, giving you lots of brand-new benefits and ways to be part of a community full of 35,000+ chess lovers. What&#38;rsquo;s new...",
@@ -82,6 +154,14 @@ news_feed (
          "title" : "Endgame Magic #217 - with Jana Schneider"
       },
       {
+         "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/tcec-article-pdfs.html",
+         "pubDate" : "Mon, 05 Dec 2022 16:48:00 +0000",
+         "title" : "TCEC Article PDFs"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,12 +170,12 @@ news_feed (
          "title" : "4th FIDE Council Meeting, Jerusalem, Israel: List of decisions"
       },
       {
-         "description" : "Among the numerous powerful new features in Chessbase 17, one of the most striking has to be the introduction of the Buddy Engine in the panoply of engine tools. This innocuous named tool is the lynchpin in the new engine data shared with users, effectively innovating on a standard that has changed very little in decades. Don't miss this overview and video!",
+         "description" : "Among the numerous powerful new features in ChessBase 17, one of the most striking has to be the introduction of the Buddy Engine in the panoply of engine tools. This innocuous named tool is the lynchpin in the new engine data shared with users, effectively innovating on a standard that has changed very little in decades. Don't miss this overview and video!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-17-the-buddy-engine",
          "pubDate" : "Mon, 05 Dec 2022 16:00:00 +0100",
-         "title" : "Chessbase 17: the Buddy Engine"
+         "title" : "ChessBase 17: the Buddy Engine"
       },
       {
          "description" : "",
@@ -216,38 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/hungarian-womens-championship-2022-live/",
          "pubDate" : "Sun, 04 Dec 2022 18:45:38 +0000",
          "title" : "Hungarian Women's Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Hungarian Championship is taking place from 5&#x2013;13 December 2022 in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with Ferenc Berkes, Peter Prohaszka, Gabor Papp, Sergey Grigoriants, Adam Kozak, Bence []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hungarian-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 18:39:03 +0000",
-         "title" : "Hungarian Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Israeli Women's Championship is taking place from 5&#x2013;13 December 2022 in Arad, Romania. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with Marsel Efroimski, Yuliya Shvayger, Dana Kochavi, Nadejda Reprun, Ronit Levitan, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israeli-womens-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 18:26:39 +0000",
-         "title" : "Israeli Women's Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Israeli Championship is taking place from 5&#x2013;13 December 2022 in Arad, Romania. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Tamir Nabaty, Evgeny Postny, Ori Kobo, Avital Boruchovsky, Victor Mikhalevski, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israeli-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 18:22:21 +0000",
-         "title" : "Israeli Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The&#160;3rd edition of the El Llobregat Open Chess Tournament 2022&#160;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur. Hans Niemann,m who has been in the limelight of the cheating drama []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-in-the-sole-lead-at-the-3rd-el-llobregat-open/",
-         "pubDate" : "Sun, 04 Dec 2022 16:31:19 +0000",
-         "title" : "Hans Niemann in the sole lead at the 3rd El Llobregat Open"
       },
       {
          "description" : "",
@@ -408,14 +456,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unnatural-acts-chess-paedophilia-and-brian-eley/",
          "pubDate" : "Sat, 03 Dec 2022 09:01:44 +0000",
          "title" : "Unnatural acts: chess, paedophilia and Brian Eley"
-      },
-      {
-         "description" : "The UK Open Blitz Finals will be taking place today (Saturday 3rd December) at the Woodland Grange Hotel in Leamington Spa. Round 1 is at...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-day/",
-         "pubDate" : "Sat, 03 Dec 2022 08:10:59 +0000",
-         "title" : "UK Open Blitz - finals day!"
       },
       {
          "description" : "In the diagram position, the fork 18...e4?? blundered the game for Black, but he did have a subtle way to get a clear advantage - enjoy the notes by Wesley So!",
@@ -1242,14 +1282,6 @@ news_feed (
          "title" : "China clinches FIDE World Team Chess Championship 2022"
       },
       {
-         "description" : "In the diagram position, White just played Rd1 to d4, threatening to take the black knight on b4 and to play Rh4 with a mating attack. But it's Black to move and win - if he keeps calm and calculates the lines! How should Black proceed?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/keeping-calm",
-         "pubDate" : "Sat, 26 Nov 2022 09:00:00 +0100",
-         "title" : "Keep calm!"
-      },
-      {
          "description" : " The 13th World Team Chess Championship took place in Jerusalem 20th to 25th November 2022. There was a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was potentially higher. This time there were a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not at all the best that could be put out by each country. In the end China beat Uzbekistan in the final with Spain beating India to take bronze.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1274,28 +1306,12 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Six"
       },
       {
-         "description" : "This week, Daniel King looks at a problem theme appearing in practical games, incredibly, twice within a week. Living legend Vasyl Ivanchuk and rising star Arjun Erigaisi both played the 'Novotny'! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-ivanchuk-brilliant-idea",
-         "pubDate" : "Fri, 25 Nov 2022 19:15:00 +0100",
-         "title" : "Daniel King's Power Play Show: Ivanchuk's brilliant idea"
-      },
-      {
          "description" : "In the final of the World Team Chess Championship in Jerusalem, the surprise winner was the Chinese team, after winning both matches against Uzbekistan, the champions from the Chennai Chess Olympiad. In the battle for the bronze medals, Spain an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
          "pubDate" : "Fri, 25 Nov 2022 09:23:00 -0800",
          "title" : "China Wins World Team Chess Championship"
-      },
-      {
-         "description" : "Few tournaments brought as much stake to its host nation as Moscow 1925 did to Russia. The event brought a Russian into world title contention, but, more importantly, it proved vital to Russia's rise as dominant force in chess. Eugene Manlapao takes a look at the tournament and its history. | Photo: Tournament winner Efim Bogoljubov (left) and Akiba Rubinstein during their game | Photo: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/moscow-1925-the-rise-of-soviet-chess-november-10-december-8-1925",
-         "pubDate" : "Fri, 25 Nov 2022 18:00:00 +0100",
-         "title" : "Moscow 1925: The Rise of Soviet Chess (November 10-December 8, 1925)"
       },
       {
          "description" : "Earlier this month on my 'World Chess Championship Blog', I posted <A HREF=\"http://worldchesschampionship.blogspot.com/2022/11/smartchess-interviews-karpov.html\">Smartchess Interviews Karpov</A>(November 2022). I noted, <BLOCKQUOTE>A footnote to the interview mentioned that it first appeared on Smartchess Online in September 1997. I tried to find the original interview via the Wayback Machine, but failed. Smartchess.com appears to have been built using techniques that are incompatible with Wayback assumptions. </BLOCKQUOTE> <P>It turned out that the Wayback obstacle is easily overcome. Don't try to open its links in new tabs, then everything works. Starting with the web.archive.org link give",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/zoe-veselow-silver-medal-in-the-euro-youth-u8-girls/",
          "pubDate" : "Tue, 15 Nov 2022 13:14:22 +0000",
          "title" : "Zoe Veselow - silver medal in the Euro Youth U8 Girls!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2087",
-         "pubDate" : "Tue, 15 Nov 2022 10:34:50 +0000",
-         "title" : "Meltwater Tour Finals 2022: Carlsen off to flying start"
       }
    ]
 }
