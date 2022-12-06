@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Are you a member of the Chess.com Discord server? If not, now&#38;rsquo;s the time to join! We&#38;rsquo;ve just revamped our server, giving you lots of brand-new benefits and ways to be part of a community full of 35,000+ chess lovers. What&#38;rsquo;s new...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-discord-updates",
+         "pubDate" : "Mon, 05 Dec 2022 16:45:46 -0800",
+         "title" : "Announcing Exclusive Events And Updates On The Chess.com Discord"
+      },
+      {
          "description" : "The 2022 Turkish Chess Championship took place from 25 November to 3 December in Keymer. It was a 10-player round-robin tournament with time control of 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#160; The rating favourite GM Mustafa Yilmaz won []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-team-championship.html",
          "pubDate" : "Tue, 22 Nov 2022 12:32:00 +0000",
          "title" : "2022 World Team Championship"
-      },
-      {
-         "description" : "GM Magnus Carlsen once again tops the field for the upcoming 2023 Tata Steel Chess Tournament. The 85th edition of the annual super-tournament in Wijk aan Zee will have five players from the world&#39;s top-10 and also five of the world&#39;s biggest tale...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-tournament-participants",
-         "pubDate" : "Tue, 22 Nov 2022 04:30:00 -0800",
-         "title" : "Carlsen Tops 'Strongest-Ever Field' At Tata Steel Chess 2023"
       },
       {
          "description" : "",
