@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wearing a face mask during a game of chess decreases the quality of chess players&#39; decisions, an effect that is relatively short and mostly hurts strong players. This is the conclusion of a study about the effect of masks on cognitive performance ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/smerdon-research-face-masks-cognitive-performance-chess",
+         "pubDate" : "Tue, 06 Dec 2022 07:05:31 -0800",
+         "title" : "Face Masks Decrease Quality Of Chess Moves But Mostly Among Grandmasters"
+      },
+      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (63)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (63)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "IM Abdimalik Abdisalimov wins the 1st International Al-Beruniy Chess Tournament"
       },
       {
-         "description" : "The&#xA0;Serbian Women Chess Championship 2022&#xA0;will be held from 6-14 December in Bajina Basta, concurrently with the&#xA0;2022 Serbian Chess Championship. It is a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds per each move starting from the []",
+         "description" : "The&#160;Serbian Women Chess Championship 2022&#160;will be held from 6-14 December in Bajina Basta, concurrently with the&#160;2022 Serbian Chess Championship. It is a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds per each move starting from the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/serbian-women-chess-championship-2022-live/",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "UK Blitz Finals 2022"
       },
       {
-         "description" : "The&#xA0;2022 National Chess Championship of Serbia&#xA0;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
+         "description" : "The&#160;2022 National Chess Championship of Serbia&#160;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-teams-usa-and-netherlands-crash-out",
          "pubDate" : "Wed, 23 Nov 2022 12:34:01 +0000",
          "title" : "World Teams: USA and Netherlands crash out"
-      },
-      {
-         "description" : "China finished in first place in Pool A of the World Team Championship with an undefeated nine points. There was a three-way tie for second between France, Spain, and Ukraine, all of which qualify for the knockout stage.&#38;nbsp; Uzbekistan topped ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-day-3",
-         "pubDate" : "Tue, 22 Nov 2022 14:19:00 -0800",
-         "title" : "China, Uzbekistan At The Top, Heading Into Knockout"
       },
       {
          "description" : "",
