@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/",
          "pubDate" : "Wed, 16 Nov 2022 17:46:32 +0000",
          "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
-      },
-      {
-         "description" : " While this may be of minor interest to the wider chess community, FIDE have announced the new Commissions for 2022-26. There has been quite a shakeup, with a number of new commission chairmen and secretaries. In some cases previous chairman have been moved to other commissions, while in others, new appointments have been made. In my own case I have moved from Rules Commission (where I was a member/councillor) to the Qualifications Commission, as Secretary. This commission is responsible for both Titles and Ratings, as well as Transfers. The full details of new commission members can be found at <a href=\"https://fide.com/news/2090\">https://fide.com/news/2090</a> , while what each FIDE Commis",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/new-fide-commissions.html",
-         "pubDate" : "Wed, 16 Nov 2022 13:05:00 +0000",
-         "title" : "New FIDE Commissions "
       }
    ]
 }
