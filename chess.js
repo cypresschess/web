@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown",
+         "pubDate" : "Wed, 07 Dec 2022 01:39:49 +0000",
+         "title" : "Survive Complex Chess Positions | Beginner Breakdown"
+      },
+      {
          "description" : "GM Magnus Carlsen defeated GM Gukesh D&#38;nbsp;in the 2022 Speed Chess Championship on Tuesday. Though Carlsen was off his usual form and overlooked a number of tactics, he defeated his prodigy opponent by such a wide margin that he had essentially w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Imperfect Carlsen Overpowers Gukesh"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022 (including a win over Magnus Carlsen at the Sinquefield Cup). 2022.12.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hZre8jBVrFg.",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022 (including a win over Magnus Carlsen at the Sinquefield Cup). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hZre8jBVrFg.jpg?itok=Kd",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
          "pubDate" : "Wed, 30 Nov 2022 00:10:07 +0000",
          "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-primer-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 29 Nov 2022 22:34:01 +0000",
-         "title" : "The Pawn Primer | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
