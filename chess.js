@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen defeated GM Gukesh D&#38;nbsp;in the 2022 Speed Chess Championship on Tuesday. Though Carlsen was off his usual form and overlooked a number of tactics, he defeated his prodigy opponent by such a wide margin that he had essentially w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-carlsen-gukesh",
+         "pubDate" : "Tue, 06 Dec 2022 15:49:00 -0800",
+         "title" : "Imperfect Carlsen Overpowers Gukesh"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022 (including a win over Magnus Carlsen at the Sinquefield Cup). 2022.12.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hZre8jBVrFg.",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
+         "title" : "The Hans Niemann Class! | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. 2022.12.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
+         "title" : "Survive Complex Chess Positions | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! Hans Niemann is one of the top seeds of the event and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-niemann-suffers-a-loss-in-the-7th-round-of-the-el-llobregat-open/",
+         "pubDate" : "Tue, 06 Dec 2022 21:56:27 +0000",
+         "title" : "Hans Niemann suffers a loss in the 7th Round of the El Llobregat Open"
+      },
+      {
+         "description" : "The first game of the FIDE Women's Candidates Pool B finals saw a great fight of 100 moves between Aleksandra Goryachkina and Tan Zhongyi. The Chinese grandmaster seemed to have great chances to score a full point, but Goyachkina was solid and held a draw. In the post-game interview, Goryachkina explained that she didn't have []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-i-didnt-think-that-my-position-was-that-challenging/",
+         "pubDate" : "Tue, 06 Dec 2022 21:39:53 +0000",
+         "title" : "Aleksandra Goryachkina: I didn't think that my position was that challenging"
+      },
+      {
+         "description" : "After nearly 100 hard-fought moves, GM&#160;Aleksandra Goryachkina&#160;and GM&#160;Tan Zhongyi&#160;agreed to a draw by move repetition in the first of their four scheduled games. The semi-final of the 2002 FIDE Women&#x2019;s Candidates (Pool B) is taking place in Khiva, Uzbekistan, and the winner will face Pool A winner, GM&#160;Lei Tingjie,&#160;in the final. Goryachkina arrived at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-first-game-of-the-womens-candidates-semifinals-ends-in-a-draw-after-100-moves/",
+         "pubDate" : "Tue, 06 Dec 2022 21:32:35 +0000",
+         "title" : "The first game of the Women's Candidates semifinals ends in a draw after 100 moves"
+      },
+      {
+         "description" : "The match to decide who will face Lei Tingjie in the final of the Women's Candidates Tournament kicked off on Tuesday in Khiva. Aleksandra Goryachkina had the white pieces, found herself in a slightly inferior position, and in the end managed to get a draw against Tan Zhongyi. | Photo: Timur Sattarov",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g1",
+         "pubDate" : "Tue, 06 Dec 2022 22:05:00 +0100",
+         "title" : "Women's Candidates: A 98-move draw"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -22,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/smerdon-research-face-masks-cognitive-performance-chess",
-         "pubDate" : "Tue, 06 Dec 2022 07:05:31 -0800",
+         "pubDate" : "Tue, 06 Dec 2022 07:05:00 -0800",
          "title" : "Face Masks Decrease Quality Of Chess Moves But Mostly Among Grandmasters"
       },
       {
@@ -90,14 +146,6 @@ news_feed (
          "title" : "Elisabeth Paehtz has her GM title finally confirmed by FIDE"
       },
       {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Tue, 06 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B, Semifinal: Live"
-      },
-      {
          "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;reaches the Final stage with Aleksandra Goryachkina and Tan Zhongyi fighting in the four-game match for the spot in the Women's Candidates Finals against Lei Tingjie (who&#160;qualified from Pool A&#160;a month ago). &#160;Goryachkina advanced to the Pool B finals after defeating Alexandra Kosteniuk with a 2.5-1.5 result, while []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -114,12 +162,12 @@ news_feed (
          "title" : "Serbian Chess Championship 2022"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-semifinals-live-video-coverage/",
          "pubDate" : "Tue, 06 Dec 2022 08:21:00 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Semifinals live video coverage"
+         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 1"
       },
       {
          "description" : "In queen endings attacks on the king occur quite often. How did White use the power of his king and queen to win the game?",
@@ -152,22 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-discord-updates",
          "pubDate" : "Mon, 05 Dec 2022 16:45:46 -0800",
          "title" : "Announcing Exclusive Events And Updates On The Chess.com Discord"
-      },
-      {
-         "description" : "The 2022 Turkish Chess Championship took place from 25 November to 3 December in Keymer. It was a 10-player round-robin tournament with time control of 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#160; The rating favourite GM Mustafa Yilmaz won []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mustafa-yilmaz-is-the-winner-of-the-turkish-chess-championship-2022/",
-         "pubDate" : "Mon, 05 Dec 2022 19:27:14 +0000",
-         "title" : "Mustafa Yilmaz is the Winner of the Turkish Chess Championship"
-      },
-      {
-         "description" : "FIDE Council approved the below-mentioned changes to the simplified procedure for performing under the FIDE flag for players representing Russia/Belarus: The right to play under the FIDE flag is granted until January 1 2024, unless decided otherwise. After this period, in the absence of other requests, the player will automatically be returned to the previous []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-council-approves-resolution-on-performing-under-fide-flag/",
-         "pubDate" : "Mon, 05 Dec 2022 19:10:00 +0000",
-         "title" : "FIDE Council approves resolution on performing under FIDE flag"
       },
       {
          "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. A lot of blunders can be avoided by a little discipline and a few simple tricks.",
@@ -328,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d5",
          "pubDate" : "Sun, 04 Dec 2022 20:00:00 +0100",
          "title" : "Tata Steel Blitz: Arjun and Vaishali make India proud"
-      },
-      {
-         "description" : "The Hungarian Women's Championship is taking place from 5&#x2013;13 December 2022 in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with Julianna Terbe, Barbara Mihok-Juhasz, Bianka Havanecz, Dorina Demeter, Hanna []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hungarian-womens-championship-2022-live/",
-         "pubDate" : "Sun, 04 Dec 2022 18:45:38 +0000",
-         "title" : "Hungarian Women's Championship 2022 - LIVE"
       },
       {
          "description" : "",
@@ -906,28 +930,12 @@ news_feed (
          "title" : "The Pawn Primer | Beginner Breakdown | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from a young grandmaster who performed well at the 2022 Chess Olympiad in August. 2022.11.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/young-stars-shine-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/young-stars-shine-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 29 Nov 2022 22:34:01 +0000",
-         "title" : "Young Stars Shine at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
          "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-tata-steel-india-rapid-day-1",
          "pubDate" : "Tue, 29 Nov 2022 11:55:00 -0800",
          "title" : "Mamedyarov, Dzagnidze In Full-Point Leads With Clean Scores"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on pawns.<br /> See the pawns' relationships with the rooks, bishops, and knights. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-primer-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7KiTmyaJFvQ.jpg?itok=ID68_jFa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-primer-beginner-breakdown",
-         "pubDate" : "Tue, 29 Nov 2022 19:34:09 +0000",
-         "title" : "The Pawn Primer | Beginner Breakdown"
       },
       {
          "description" : "",
@@ -1474,14 +1482,6 @@ news_feed (
          "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
       },
       {
-         "description" : "Chess.com is happy to announce that registrations are now open&#38;nbsp;for the Spring 2023 season of the Collegiate Chess League!&#38;nbsp;This season returns with the 4 vs. 4 team format most CCL players and fans are familiar with and a whopping $30,000...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-spring-2023-registration",
-         "pubDate" : "Wed, 23 Nov 2022 10:36:36 -0800",
-         "title" : "Register For The Collegiate Chess League Spring 2023 Season"
-      },
-      {
          "description" : " One of the more spectacular games from the 2022 Vikings Weekender was the round 2 match up between Fred Litchfield and Glenn Ingham. Litchfield demonstrated the adage that 'good moves come from good positions' by finding a winning queen sacrifice in a position that was already in his favour. But while most of the combination relied on checks and captures, there was still the necessity to find a quite move or two, which Litchfield did. <br /> <b>Litchfield,Fred - Ingham,Glenn [D30]</b><br />2022 Vikings Weekender Canberra, Australia (2.4), 19.11.2022 <script>new PgnViewer( { boardName: \"game1368\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Be7 6.Bd3 dxc4 7.Nx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1800,22 +1800,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-r-praggnanandhaa-arjun-erigaisi-lose-again/articleshow/95547768.cms",
          "pubDate" : "Wed, 16 Nov 2022 05:14:51 +0000",
          "title" : "Meltwater Champions Tour Finals: R Praggnanandhaa, Arjun Erigaisi lose again"
-      },
-      {
-         "description" : " This picture was the beginning of a journey for 8-year-old Tani Adewumi, who became a national sensation. He earned a 3rd International Master norm last Sunday. Photo by Christopher Lee (New York Times). In November 2021, Tanitoluwa &#8220;Tani&#8221; Adewumi earned his FIDE Master (FM) title. At the NYC Fall GM/IM Invitational this past weekend at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/\">Tani Adewumi earns another IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/15/tani-adewumi-gets-another-im-norm/",
-         "pubDate" : "Tue, 15 Nov 2022 23:55:58 +0000",
-         "title" : "Tani Adewumi earns another IM norm!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2090",
-         "pubDate" : "Tue, 15 Nov 2022 21:32:55 +0000",
-         "title" : "FIDE Commissions for 2022-26"
       }
    ]
 }
