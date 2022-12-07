@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The IV Festival Internacional DUCHAMP in RIO Master is taking place from 7-14 December 2022 in Rio de Janeiro, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament. Starting list of players No. Name RtgI sex 1 GM Fier Alexandr 2600 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/iv-festival-internacional-duchamp-in-rio-master-2022-participants/",
+         "pubDate" : "Wed, 07 Dec 2022 07:49:20 +0000",
+         "title" : "IV Festival Internacional DUCHAMP in RIO Master 2022 - Participants"
+      },
+      {
+         "description" : "The Palmanova Festival B is taking place from 8&#x2013;11 December 2022 in Strassoldo, Italy. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with Sergio Giuriato, Vito Bizzoco, Alisher Akhmedov, Luca &#xA0;Predan, Igor Azinovic, Armin Haselsberger, Asia De Bianchi, Giovanni Dallaglio, Alberto []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/palmanova-festival-b-2022-live/",
+         "pubDate" : "Wed, 07 Dec 2022 07:25:36 +0000",
+         "title" : "Palmanova Festival B 2022 - LIVE"
+      },
+      {
+         "description" : "The Palmanova Festival A is taking place from 8&#x2013;11 December 2022 in Strassoldo, Italy. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 6-round Swiss tournament with Gabriele Lumachi, Aleksandar Savanovic, Dusan Lekic, Alexander Gschiel, Siegfried Neuschmied, Leonardo Loiacono, Leo Titze, Ivano Ceschia, Oleg Iolis, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/palmanova-festival-a-2022-live/",
+         "pubDate" : "Wed, 07 Dec 2022 07:18:45 +0000",
+         "title" : "Palmanova Festival A 2022 - LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -162,22 +186,6 @@ news_feed (
          "title" : "Aleksandra Goryachkina vs Tan Zhongyi; Women's Candidates Pool B LIVE"
       },
       {
-         "description" : "The 2022 National Chess Championship of Serbia will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women's Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, with the increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022/",
-         "pubDate" : "Tue, 06 Dec 2022 09:08:00 +0000",
-         "title" : "Serbian Chess Championship 2022"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-semifinals-live-video-coverage/",
-         "pubDate" : "Tue, 06 Dec 2022 08:21:00 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 1"
-      },
-      {
          "description" : "In queen endings attacks on the king occur quite often. How did White use the power of his king and queen to win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-blitz-finals-2022/",
          "pubDate" : "Tue, 06 Dec 2022 07:15:52 +0000",
          "title" : "UK Blitz Finals 2022"
-      },
-      {
-         "description" : "The&#160;2022 National Chess Championship of Serbia&#160;will take place from 6-14 December in Bajina Basta, concurrently with the Serbian Women&#x2019;s Chess Championship 2022. It will be a 10-player round-robin tournament, with time control of 90 minutes for 40 moves + 30 minutes till the end of the game, and increment of 30 seconds per each move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serbian-chess-championship-2022-live/",
-         "pubDate" : "Tue, 06 Dec 2022 02:15:00 +0000",
-         "title" : "Serbian Chess Championship 2022 - LIVE"
       },
       {
          "description" : "Are you a member of the Chess.com Discord server? If not, now&#38;rsquo;s the time to join! We&#38;rsquo;ve just revamped our server, giving you lots of brand-new benefits and ways to be part of a community full of 35,000+ chess lovers. What&#38;rsquo;s new...",
@@ -1792,14 +1792,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/new-fide-commissions.html",
          "pubDate" : "Wed, 16 Nov 2022 13:05:00 +0000",
          "title" : "New FIDE Commissions "
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95547768.cms\" />Young Indian Grandmaster R Praggnanandhaa went down to Dutch GM Anish Giri 2.5-3.5 in the second round of the Meltwater Champions Tour Finals here on Wednesday. The other Indian in the fray -- Arjun Erigaisi was outclassed by world no.1 Magnus Carlsen 2.5-0.5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-r-praggnanandhaa-arjun-erigaisi-lose-again/articleshow/95547768.cms",
-         "pubDate" : "Wed, 16 Nov 2022 05:14:51 +0000",
-         "title" : "Meltwater Champions Tour Finals: R Praggnanandhaa, Arjun Erigaisi lose again"
       }
    ]
 }
