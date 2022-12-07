@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women&#39;s Candidates semifinal match between GM Aleksandra Goryachkina and&#38;nbsp;GM Tan Zhongyi started with two fighting draws. Especially the first game was a long battle, where Tan had some winning chances. The third game is scheduled for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-semifinal-b-day-2",
+         "pubDate" : "Wed, 07 Dec 2022 10:43:00 -0800",
+         "title" : "Women's Candidates: Goryachkina-Tan Semifinal Starts With Fighting Draws"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Issue #210 contains 7578 recent games, (45 annotated) 12 opening surveys, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Ajun Erigaisi, Gabriel Sargissian, Ivan Sokolov, Luke McShane, Pentala Harikrishna, Pragganandhaa, Maria Muzychuk and Wesley So among others. The icing on the cake is a feature on Ding Liren who will play the world championship match with Ian Nepomniachtchi now that Carlsen has announced that he will not defend the title. Prof. Nagesh Havanur took a closer look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-210-indo-uzbek-rivalry-and-a-chinese-star-in-waiting-a-review",
+         "pubDate" : "Wed, 07 Dec 2022 19:37:15 +0100",
+         "title" : "CBM 210: Indo-Uzbek Rivalry and a Chinese star in waiting - A Review"
+      },
+      {
+         "description" : "GMs Raunak Sadhwani and Jeffery Xiong won Titled Tuesday on December 6. Both scored 9.5 points and won on tiebreaks. It was Sadhwani&#39;s first Titled Tuesday win of 2022 and Xiong&#39;s fifth.&#38;nbsp; Early Tournament (Sadhwani) Late Tournament (Xion...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sadhwani-xiong-win-titled-tuesday-december-6-2022",
+         "pubDate" : "Wed, 07 Dec 2022 09:04:21 -0800",
+         "title" : "Two-Way Ties Atop The Standings Table In Tuesday Tournaments"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1362,14 +1386,6 @@ news_feed (
          "title" : "Women's Candidates Tournament Pool B: Introducing the players"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 101st instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-101-play-the-sicilian-3",
-         "pubDate" : "Sun, 27 Nov 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 101: Play the Sicilian! (3)"
-      },
-      {
          "description" : " The 2022 World Seniors has just finished with GM Zurab Sturua winning the Over 50, GM John Nunn winning the Over 65, WGM Elvira Berend winning the Over 50 Women's title, and GM Nona Gaprindashvili winning the Women's Over 65 title (her 8th Senior world championship!). Playing through some of the games I cam across this interesting brevity. It is almost a 'Greek Gift' sacrifice, but only if the soldiers charged first, and then the horse was dragged through the gates. By that I mean, after the sacrifice on h7 was played, the Queen checked first, before the cavalry arrived. In fact Black gave up after the queen check, which i think was a little premature. Certainly White is winning, but there ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1594,28 +1610,12 @@ news_feed (
          "title" : "Justus Williams notches first GM norm!"
       },
       {
-         "description" : "The World Team Chess Championship in Jerusalem saw Uzbekistan and China continue to perform exceptionally, knocking out Ukraine and Poland. Spain defeated the powerhouse Azerbaijan team. India pulled ahead of France in a riveting blitz playoff. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-quarterfinals",
-         "pubDate" : "Wed, 23 Nov 2022 16:13:00 -0800",
-         "title" : "India, Spain, Uzbekistan, China Advance to Semifinals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2102",
          "pubDate" : "Wed, 23 Nov 2022 23:11:53 +0000",
          "title" : "Italian Championship: Luca Moroni and Olga Zimina win titles"
-      },
-      {
-         "description" : "GM Fabiano Caruana was the first player to progress to the quarterfinals of the 2022 Speed Chess Championship on Wednesday after defeating GM Arjun Erigaisi in a nail-biting curtain-raiser for the main event. Erigaisi built a strong lead early; ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-caruana-erigaisi",
-         "pubDate" : "Wed, 23 Nov 2022 14:56:00 -0800",
-         "title" : "Caruana Survives Scare Against Erigaisi"
       },
       {
          "description" : "",
@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-praggnanandhaa-secures-first-win-another-loss-for-erigaisi/articleshow/95570778.cms",
          "pubDate" : "Thu, 17 Nov 2022 04:29:28 +0000",
          "title" : "Meltwater Champions Tour Finals: Praggnanandhaa secures first win; another loss for Erigaisi"
-      },
-      {
-         "description" : "The fourth quarterly meeting of the board of ECU was held on November 13-14 in Antalya, Turkey, during the 2022 European Youth Chess Championship. The Turkish Chess Federation hosted the event under excellent conditions and Mrs. Gulkiz Tulay, President of the Turkish Chess Federation, opened the meetings on Saturday, November 13. At the beginning, a minute of silence&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no-5-2022/",
-         "pubDate" : "Wed, 16 Nov 2022 17:46:32 +0000",
-         "title" : "Communique of the ECU Board Meeting - CL No.5/2022"
       }
    ]
 }
