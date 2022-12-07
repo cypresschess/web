@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2125",
+         "pubDate" : "Wed, 07 Dec 2022 15:47:30 +0000",
+         "title" : "FIDE Chessable Academy Camp gets underway in Sitges"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2124",
+         "pubDate" : "Wed, 07 Dec 2022 15:39:08 +0000",
+         "title" : "Tan Zhongyi and Goryachkina 1-1 with two games to go"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #545 Merijn van Delft presents one of his own games - an interesting loss he suffered against 13-year-old Sohum Lohia from England at the Benidorm Open. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-545-lohia-vs-van-delft",
+         "pubDate" : "Wed, 07 Dec 2022 16:00:00 +0100",
+         "title" : "Game of the Week #545: Lohia vs Van Delft"
+      },
+      {
+         "description" : "World Champion Magnus Carlsen destroyed Gukesh 23:7 to set up a Speed Chess Championship quarterfinal against Fabiano Caruana, only to complain afterwards, \"I felt like I was playing horribly from the start\". The event continues with Anish Giri taking on Nihal Sarin today at 11:00 ET/17:00 CET/21:30 IST.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-plays-horribly-beats-gukesh-23-7",
+         "pubDate" : "Wed, 07 Dec 2022 14:28:26 +0000",
+         "title" : "Carlsen plays \"horribly\", beats Gukesh 23:7"
+      },
+      {
+         "description" : "The&#xA0;61st Brazilian Women&#x2019;s Chess Championship&#xA0;will take place from 15-23 December 2022 in Boa Viagem, Recife, simultaneously with the&#xA0;88th edition of the Brazilian Chess Championship. The event will be played in 11 rounds, swiss system, with time control of 90 minutes with 30 seconds increment from move 1.&#xA0; Chessdom will follow the event with daily news []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/brazilian-womens-chess-championship-2022-live/",
+         "pubDate" : "Wed, 07 Dec 2022 13:46:44 +0000",
+         "title" : "Brazilian Women's Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 61st Brazilian Women's Chess Championship will take place from 15-23 December 2022 in Boa Viagem, Recife, simultaneously with the&#xA0;88th edition of the Brazilian Chess Championship. The event will be played in 11 rounds, swiss system, with time control of 90 minutes with 30 seconds increment from move 1. FM Juliana Sayumi Terao is the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/brazilian-womens-chess-championship-2022/",
+         "pubDate" : "Wed, 07 Dec 2022 13:42:37 +0000",
+         "title" : "Brazilian Women's Chess Championship 2022"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2123",
+         "pubDate" : "Wed, 07 Dec 2022 13:41:29 +0000",
+         "title" : "Chess for Social benefits and Women inclusion Conference held in Paris"
+      },
+      {
+         "description" : " The idea of targeting and occupying weak squares can be a strange concept when coaching younger players. Having been instructed to look for checks and captures, being asked to now look to 'capture squares' can be confusing. In some instances such advice will be ignored, but in other cases, it can lead to over thinking, where more substantial targets are ignored. In trying to locate a good example, I cam across this very fine game by Botvinnik against Donner. Occupying c6 with a knight is clearly the goal, but fortunately, it creates enough direct threats that the concept of 'good pieces lead to good tactics' is also easy to show. <br /> <b>Botvinnik,Mikhail - Donner,Jan Hein [A14]</b><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/capturing-thin-air.html",
+         "pubDate" : "Wed, 07 Dec 2022 13:27:00 +0000",
+         "title" : "Capturing thin air"
+      },
+      {
          "description" : "The&#xA0;88th edition of the Brazilian Chess Championship&#xA0;will be held from 15-23 December 2022 in Boa Viagem, Recife, concurrently with the Brazilian Women&#x2019;s Chess Championship 2022. The event will be played in 11 rounds, swiss system, with time control of 90 minutes for the whole game plus 30 seconds of increment per each move, starting from []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,14 +162,6 @@ news_feed (
          "title" : "Palmanova Festival B 2022 - LIVE"
       },
       {
-         "description" : "The Palmanova Festival A is taking place from 8&#x2013;11 December 2022 in Strassoldo, Italy. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 6-round Swiss tournament with Gabriele Lumachi, Aleksandar Savanovic, Dusan Lekic, Alexander Gschiel, Siegfried Neuschmied, Leonardo Loiacono, Leo Titze, Ivano Ceschia, Oleg Iolis, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/palmanova-festival-a-2022-live/",
-         "pubDate" : "Wed, 07 Dec 2022 07:18:45 +0000",
-         "title" : "Palmanova Festival A 2022 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -136,14 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
          "title" : "Survive Complex Chess Positions | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;takes place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain gathering 50 grandmasters, 44 international masters and a total of 172 players fighting for the prize fund of 29.500eur! Hans Niemann is one of the top seeds of the event and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-niemann-suffers-a-loss-in-the-7th-round-of-the-el-llobregat-open/",
-         "pubDate" : "Tue, 06 Dec 2022 21:56:27 +0000",
-         "title" : "Hans Niemann suffers a loss in the 7th Round of the El Llobregat Open"
       },
       {
          "description" : "The match to decide who will face Lei Tingjie in the final of the Women's Candidates Tournament kicked off on Tuesday in Khiva. Aleksandra Goryachkina had the white pieces, found herself in a slightly inferior position, and in the end managed to get a draw against Tan Zhongyi. | Photo: Timur Sattarov",
@@ -264,6 +312,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-217-with-jana-schneider",
          "pubDate" : "Mon, 05 Dec 2022 18:00:00 +0100",
          "title" : "Endgame Magic #217 - with Jana Schneider"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Mon, 05 Dec 2022 16:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
@@ -392,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-tiebreak",
          "pubDate" : "Sun, 04 Dec 2022 12:48:00 -0800",
          "title" : "Tan Zhongyi Knocks Out Kateryna Lagno In Women's Candidates Quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Sun, 04 Dec 2022 19:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration is open"
       },
       {
          "description" : "Two young rising stars claimed titles in the blitz section of the Tata Steel Chess India event. Arjun Erigaisi and Vaishali Rameshbabu made their country proud as they got clear victories in the 18-round tournaments organized in Kolkata. The Indians outscored top-notch opposition on their way to memorable triumphs at the imposing National Library of India. | Pictured: Nihal, Arjun, Ushenina and Vaishali | Photo: Lennart Ootes",
@@ -1346,14 +1394,6 @@ news_feed (
          "title" : "AICF bags Best National Sports Federation of the year award at TURF 2022 & India Sports Awards of FICCI; R B Ramesh adjudged Best Coach"
       },
       {
-         "description" : "Today, the Czech Grandmaster Vlastimil Jansa celebrates his 80th birthday. For many years, Jansa was one of the best Czechoslovak players, and he took part in ten chess Olympiads and was Czechoslovak national champion three times. In his youth, he was also part of the national junior team of Czechoslovakia - the football team. In 2018, he became senior world champion. Eduard Frey congratulates. | Photo: Jansa at the World Senior Championship 2022 in Assisi | Photo: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-vlastimil-jansa-turns-80",
-         "pubDate" : "Sun, 27 Nov 2022 09:15:00 +0100",
-         "title" : "Happy birthday - Vlastimil Jansa turns 80!"
-      },
-      {
          "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ and here to read...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1632,14 +1672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2098",
          "pubDate" : "Tue, 22 Nov 2022 13:52:33 +0000",
          "title" : "Bernard Lesbros wins Senegalese Championship 2022"
-      },
-      {
-         "description" : "That 17-year-old Praggnanandhaa is the lowest-rated player in the 14-player line-up for the 85th edition of the Tata Steel Masters tells you all you need to know about what Anish Giri describes as \"the strongest field I have ever seen in Wijk aan Zee\". World no. 2 Ding Liren will warm up for his World Championship match against Ian Nepomniachtchi by playing in a field that also features a 19th Wijk aan Zee appearance for current World Champion Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-masters-line-up-announced",
-         "pubDate" : "Tue, 22 Nov 2022 13:09:30 +0000",
-         "title" : "Tata Steel Masters line-up announced!"
       },
       {
          "description" : " The number of international events is on the increase, which is surely a good sign. One big event currently running is the World Team Championship. This years event sees a new (and faster) format, with 2 groups of 6 teams, qualifying for an 8 team KO final. The big change is with the time limit, as the games are now played at 45m+10s, with 2 rounds per day. I must confess I am not a fan of this change, in part because I worry that this may become a suggested new time control for the chess Olympiad. After 4 of the 5 preliminary rounds, most of the usual suspects are in the lead. China is leading one group, which they would fine satisfying, as they did not attend the Olympiad this year. The o",
