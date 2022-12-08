@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura filed a motion in the Eastern District of Missouri to dismiss GM Hans Niemann&#39;s lawsuit on December 7. This is the latest development in the defamation lawsuit that has received international attention, filed in late October. Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-files-motion-to-dismiss-niemann-lawsuit",
+         "pubDate" : "Thu, 08 Dec 2022 10:52:00 -0800",
+         "title" : "Hikaru Nakamura Files Motion To Dismiss Hans Niemann Lawsuit"
+      },
+      {
          "description" : "The IV Festival Internacional DUCHAMP in RIO Master is taking place from 7-14 December 2022 in Rio de Janeiro, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament with Alexandr Fier, Felipe de Cresce El Debs, Andre Diamant, Ulf Andersson, Salvador []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1370,14 +1378,6 @@ news_feed (
          "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       },
       {
-         "description" : "The 2022 Speed Chess Championship continued on Sunday with a round of 16 clash between world championship challenger GM Ding Liren and SCC qualifier GM Alexander Grischuk. The match, which ultimately ended in a 14-12 victory for the Chinese supers...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-ding-grischuk",
-         "pubDate" : "Sun, 27 Nov 2022 16:13:00 -0800",
-         "title" : "Ding Wins Blockbuster Match Against Grischuk"
-      },
-      {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-seniors.html",
          "pubDate" : "Thu, 17 Nov 2022 22:16:00 +0000",
          "title" : "2022 World Seniors"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2091",
-         "pubDate" : "Thu, 17 Nov 2022 19:01:25 +0000",
-         "title" : "WCSC 2022: Danila Pavlov wins title, Marjan Kovacevic elected as WFCC President"
       }
    ]
 }
