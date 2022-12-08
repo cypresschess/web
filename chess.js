@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 edition of the Speed Chess Championship is in its final stages. Magnus Carlsen returned to participate after losing at the 2020 semifinals, and will be looking to stop Hikaru Nakamura's reign, who has won every single edition since 2018. In the quarterfinals, Carlsen will face none other than 2018 World Championship challenger Fabiano Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-qf",
+         "pubDate" : "Thu, 08 Dec 2022 16:30:00 +0100",
+         "title" : "Carlsen and Caruana to face off in Speed Chess Championship QF"
+      },
+      {
+         "description" : "Magnus Carlsen turned up at the last minute to join Jan Gustafsson and Laurent Fressinet commentating on the Nihal Sarin vs. Anish Giri Speed Chess match. The players didn't disappoint as it became a thriller, with Giri surprising everyone by losing the slower blitz sections before dominating in bullet - at least until Nihal Sarin edged a wildly entertaining tiebreak.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nihal-sarin-beats-anish-giri-in-thriller",
+         "pubDate" : "Thu, 08 Dec 2022 14:44:52 +0000",
+         "title" : "Nihal Sarin beats Anish Giri in thriller"
+      },
+      {
+         "description" : "IM Elisabeth Paehtz is now GM Elisabeth Paehtz. Germany&#39;s number-one female player scored her third GM norm at the 2021 FIDE Chess.com Grand Swiss in Riga, but then an earlier norm was declared invalid. At a recent FIDE Council meeting she was awa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/elisabeth-paehtz-becomes-grandmaster",
+         "pubDate" : "Thu, 08 Dec 2022 05:35:00 -0800",
+         "title" : "Elisabeth Paehtz Becomes 40th Female GM In History"
+      },
+      {
          "description" : "The Chechen federation has nominated the 2016 World Championship challenger to run against incumbent Andrey Filatov. Karjakin was banned for six months by the FIDE Ethics Commission for advocating Russia's war of aggression against Ukraine and continues to be an ardent supporter of Putin. | Photo: Tass",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -562,7 +586,7 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 4"
       },
       {
-         "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <div class=\"e2-text-caption\">A person who looks lik Hans Niemann (Image by Dall-e)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moed.198608.44.0.pdf\">rude but legally convincing motion</a> states: After years of trying to curate a reputation as the bad boy of chess, Plaintiff Hans Niemann wants to cash in by blaming others for the fallout f",
+         "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1024\" data-ratio=\"1\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-08_17-37-34.jpg\" width=\"976\" height=\"549\" alt=\"\" /> </div> <div class=\"e2-text-caption\">A person who looks like Hans Niemann (Image by Dall-e)<br /> Hans Niemann (Getty Images)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-and-chess-com-hans-niemann-is-bad-in-both-chess-and-laws/",
@@ -1338,14 +1362,6 @@ news_feed (
          "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
       },
       {
-         "description" : "Half the field of the Women's Candidates Tournament will battle it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. Pool B will take place from November 29 to December 11 at the Hotel Farovon Khiva in the ancient city of Khiva, Uzbekistan. | Photos: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-preview",
-         "pubDate" : "Mon, 28 Nov 2022 09:00:00 +0100",
-         "title" : "Women's Candidates: Pool B players make their way to Khiva"
-      },
-      {
          "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1490,14 +1506,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Six"
       },
       {
-         "description" : "In the final of the World Team Chess Championship in Jerusalem, the surprise winner was the Chinese team, after winning both matches against Uzbekistan, the champions from the Chennai Chess Olympiad. In the battle for the bronze medals, Spain an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-finals",
-         "pubDate" : "Fri, 25 Nov 2022 09:23:00 -0800",
-         "title" : "China Wins World Team Chess Championship"
-      },
-      {
          "description" : "Earlier this month on my 'World Chess Championship Blog', I posted <A HREF=\"http://worldchesschampionship.blogspot.com/2022/11/smartchess-interviews-karpov.html\">Smartchess Interviews Karpov</A>(November 2022). I noted, <BLOCKQUOTE>A footnote to the interview mentioned that it first appeared on Smartchess Online in September 1997. I tried to find the original interview via the Wayback Machine, but failed. Smartchess.com appears to have been built using techniques that are incompatible with Wayback assumptions. </BLOCKQUOTE> <P>It turned out that the Wayback obstacle is easily overcome. Don't try to open its links in new tabs, then everything works. Starting with the web.archive.org link give",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1632,14 +1640,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/well-calculated.html",
          "pubDate" : "Wed, 23 Nov 2022 13:09:00 +0000",
          "title" : "Well calculated"
-      },
-      {
-         "description" : "It's China-Poland, Spain-Azerbaijan, Ukraine-Uzbekistan and France-India in the World Team Championship quarterfinals after the Netherlands, USA, Israel and South Africa were knocked out in the group stages. Anish Giri's planned flight to Jerusalem for the knockout stages had to be cancelled.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-teams-usa-and-netherlands-crash-out",
-         "pubDate" : "Wed, 23 Nov 2022 12:34:01 +0000",
-         "title" : "World Teams: USA and Netherlands crash out"
       },
       {
          "description" : "",
