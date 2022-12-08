@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Vienna Advent Open A is taking place from 5&#x2013;11 December 2022 in Vienna, Austria. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with Slaven Pastar, Johannes Steindl, Nikolaus Stanec, Jurij Khalakhan, Gerald Leitner, Matthieu Pourquet, Leopold Franziskus Wagner, Brian Zhang, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vienna-advent-open-a-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 07:36:07 +0000",
+         "title" : "Vienna Advent Open A 2022 - LIVE"
+      },
+      {
+         "description" : "The 3rd Almaty IM is taking place from 7&#x2013;14 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 10-player round-robin tournament with Mukhammadzokhid Suyarov, Ivan Mezentsev, Imangali Akhilbay, Danis Kuandykuly, Sergei Yudin, Arystan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-almaty-im-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 07:23:15 +0000",
+         "title" : "3rd Almaty IM 2022 - LIVE"
+      },
+      {
+         "description" : "The Almaty GM is taking place from 7&#x2013;14 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with Daniil Lintchevski, Zurab Sturua, Bakhtiyar Askarov, Mihail Nikitenko, Liya Kurmangaliyeva, Serkan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/almaty-gm-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 07:12:38 +0000",
+         "title" : "Almaty GM 2022 - LIVE"
+      },
+      {
          "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nihal-giri",
          "pubDate" : "Wed, 07 Dec 2022 15:06:00 -0800",
-         "title" : "Nihal Overcomes Giri's Bullet Comeback"
+         "title" : "Nihal Overcomes Giri's Bullet Comeback In SCC Thriller"
       },
       {
          "description" : "The UK Open and Women's Blitz Chess Championships 2022 were held on 3rd December in Royal Leamington Spa. The Open tournament was a 16-player round-robin event and the women's championship was played in the same system, with 15 participants. GM Jon Speelman and GM Eldar Gasanov tied for the top of the Open tournament scoring []",
@@ -160,30 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/brazilian-chess-championship-2022-live/",
          "pubDate" : "Wed, 07 Dec 2022 12:24:23 +0000",
          "title" : "Brazilian Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 88th edition of the Brazilian Chess Championship will be held from 15-23 December 2022 in Boa Viagem, Recife, concurrently with the Brazilian Women's Chess Championship 2022. The event will be played in 11 rounds, swiss system, with time control of 90 minutes for the whole game plus 30 seconds of increment per each move, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/brazilian-chess-championship-2022/",
-         "pubDate" : "Wed, 07 Dec 2022 12:19:28 +0000",
-         "title" : "Brazilian Chess Championship 2022"
-      },
-      {
-         "description" : "The&#160;2022 Chessable Sunway Sitges International Chess Festival&#160;takes place from 11-22 December in Sitges, Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The Open A will be played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 moves + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
-         "pubDate" : "Wed, 07 Dec 2022 12:07:08 +0000",
-         "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 Chessable Sunway Sitges International Chess Festival will be held from 11-22 December in Sitges Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The main Open A tournament will be played in 10 rounds, swiss system, with time control of 90 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yu-yangyi-is-top-seeded-at-the-chessable-sunway-sitges-international-chess-festival-2022/",
-         "pubDate" : "Wed, 07 Dec 2022 12:03:18 +0000",
-         "title" : "Yu Yangyi is top seeded at the Chessable Sunway Sitges International Chess Festival 2022"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -722,7 +722,7 @@ news_feed (
          "title" : "Women's Candidates: Goryachkina scores with black"
       },
       {
-         "description" : "Last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html\">Wayback to Smartchess</A>(November 2022), discussed a trailblazer among chess-on-the-web sites. I noted, 'The first issue of 'SmartChess Online' was dated August 1997 and the last was dated August/September 2003, a total of 45 issues.' <P>The first item in the August 1997 issue was titled 'Publisher's Message by International Grandmaster Ron Henley'. Largely editiorial, it was to become a regular column in future issues, appearing more often than not. In it GM Henley gave his thoughts on topical issues related to chess, to video publishing, and to the internet in general. The first such",
+         "description" : "Last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html\">Wayback to Smartchess</A>(November 2022), discussed a trailblazer among chess-on-the-web sites. I noted, 'The first issue of 'SmartChess Online' was dated August 1997 and the last was dated August/September 2003, a total of 45 issues.' <P>The first item in the August 1997 issue was titled 'Publisher's Message by International Grandmaster Ron Henley'. Largely editorial, it was to become a regular column in future issues, appearing more often than not. In it GM Henley gave his thoughts on topical issues related to chess, to video publishing, and to the internet in general. The first such ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/small-changes/",
          "pubDate" : "Thu, 17 Nov 2022 10:34:32 +0000",
          "title" : "Small Changes - Huge Results"
-      },
-      {
-         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will take place on Sunday, 29th January 2023, in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). The first edition of the new European Competition is supported by the FIDE Development fund. Each City or Town has the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
-         "pubDate" : "Thu, 17 Nov 2022 06:48:35 +0000",
-         "title" : "European Cities & Towns Chess Championship to take place in January 2023"
       }
    ]
 }
