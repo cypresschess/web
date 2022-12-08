@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nihal-giri",
+         "pubDate" : "Wed, 07 Dec 2022 15:06:00 -0800",
+         "title" : "Nihal Overcomes Giri's Bullet Comeback"
+      },
+      {
+         "description" : "The UK Open and Women's Blitz Chess Championships 2022 were held on 3rd December in Royal Leamington Spa. The Open tournament was a 16-player round-robin event and the women's championship was played in the same system, with 15 participants. GM Jon Speelman and GM Eldar Gasanov tied for the top of the Open tournament scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jon-speelman-and-elmira-mirzoeva-win-uk-blitz-chess-championships-2022/",
+         "pubDate" : "Wed, 07 Dec 2022 22:34:09 +0000",
+         "title" : "Jon Speelman and Elmira Mirzoeva win UK Blitz Chess Championships 2022"
+      },
+      {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;is taking place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain and gathers 175 players fighting for the prize fund of 29.500eur! After eight played rounds, GM Tin Jingyao and IM Aditya Mittal tie for the top scoring 6.5 points. They []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/one-round-to-go-at-el-llobregat-open-tin-jingyao-and-aditya-mittal-tie-for-the-top/",
+         "pubDate" : "Wed, 07 Dec 2022 22:17:09 +0000",
+         "title" : "One round to go at El Llobregat Open; Tin Jingyao and Aditya Mittal tie for the top"
+      },
+      {
+         "description" : "The second game of the Women's Candidates Semifinals between Tan Zongyi and Aleksandra Goryachkina finished in a draw and the result is now tied 1-1, with only two games to go. Tan Zhongyi had a slight advantage in the early middlegame an in the post-game interview explained that the opening was within the scope of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-goryachkina-didnt-give-me-any-chance-today/",
+         "pubDate" : "Wed, 07 Dec 2022 21:04:05 +0000",
+         "title" : "Tan Zhongyi: Goryachkina didn't give me any chance today"
+      },
+      {
+         "description" : "The second game of the 2022 FIDE Women's Candidates Tournament, Pool B, played this afternoon in the magnificent Farovon Hotel venue in Khiva, Uzbekistan, ended in a draw after forty moves. After a very equal encounter, GM&#xA0;Aleksandra Goryachkina&#xA0;and GM&#xA0;Tan Zhongyi&#xA0;are now tied 1-1 in the match: two classical games are left to decide the winner []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-and-goryachkina-in-a-tie-with-only-two-games-to-go/",
+         "pubDate" : "Wed, 07 Dec 2022 20:48:28 +0000",
+         "title" : "Tan Zhongyi and Goryachkina in a tie with only two games to go"
+      },
+      {
+         "description" : "The second game of the Candidates semi-final in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. As in game one, the Rejected Queen's Gambit was on the board, this time with Tan Zhongyi leading the white pieces. In the exchange, the Chinese player did not gain any advantage and the game ended in a draw on move 40. | Photo: Timur Sattarov/ FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g2",
+         "pubDate" : "Wed, 07 Dec 2022 21:40:00 +0100",
+         "title" : "Women's Candidates: Goryachkina safely keeps the balance"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/simplify-complicated-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/simplify-complicated-chess-positions-beginner-breakdown",
+         "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
+         "title" : "Simplify Complicated Chess Positions | Beginner Breakdown"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022.<br /> See Niemann's most complicated positions and how he overcame them, including from the ongoing El Llobregat Open. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
+         "title" : "Hans Niemann in Spain | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
          "description" : "The FIDE Women&#39;s Candidates semifinal match between GM Aleksandra Goryachkina and&#38;nbsp;GM Tan Zhongyi started with two fighting draws. Especially the first game was a long battle, where Tan had some winning chances. The third game is scheduled for...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,22 +194,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 7"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with&#xA0;Aleksandra Goryachkina&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in the four-game match for the spot in the Women&#x2019;s Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). The first game of the match finished in a draw and Tan Zhongyi today takes white pieces. Follow the game []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-2-live/",
-         "pubDate" : "Wed, 07 Dec 2022 10:07:36 +0000",
-         "title" : "Tan Zhongyi vs Aleksandra Goryachkina; Women's Candidates Pool B Game 2 LIVE"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Wed, 07 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B, Semifinal: Live"
-      },
-      {
          "description" : "The time of the year has come to launch the Call of Interest for 2023! If you have never participated before, the ECU Arbiters' Council appoints foreign arbiters (20% of all match arbiters) in all European events. Arbiters who wish to be considered, should fill in the&#160;application form, answer questions regarding their skills, experience and tournament preferences and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -154,36 +202,12 @@ news_feed (
          "title" : "Call of Interest 2023 for ECU Arbiters"
       },
       {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;is hosted in the ancient city of&#xA0;Khiva, in Uzbekistan. The event takes place from&#xA0;November 28&#xA0;to&#xA0;December 11&#xA0;at Hotel Farovon Khiva.&#xA0;This bracket saw the clash between the 2020 runner-up&#xA0;Aleksandra Goryachkina,&#xA0;Alexandra Kosteniuk&#xA0;and&#xA0;Tan Zhongyi&#xA0;as the top finishers at the FIDE World Cup 2021, and&#xA0;Kateryna Lagno&#xA0;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-goryachkina-vs-tan-zhongyi-live-video-coverage-day-2/",
-         "pubDate" : "Wed, 07 Dec 2022 09:10:47 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 2"
-      },
-      {
          "description" : "ECU E-Magazine November 2022 is out! In this edition of the ECU E-Magazine you may read about: Communique of the ECU Board Meeting held in Antalya, Turkey European Youth Chess Championship 2022 FIDE World Team Chess Championship 2022 Upcoming European Open and Women Rapid &#38; Blitz Chess Championships 2022 European Cities &#38; Towns Chess Championship European Individual Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2022/",
          "pubDate" : "Wed, 07 Dec 2022 08:38:08 +0000",
          "title" : "ECU E-Magazine November 2022"
-      },
-      {
-         "description" : "The IV Festival Internacional DUCHAMP in RIO Master is taking place from 7-14 December 2022 in Rio de Janeiro, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament. Starting list of players No. Name RtgI sex 1 GM Fier Alexandr 2600 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/iv-festival-internacional-duchamp-in-rio-master-2022-participants/",
-         "pubDate" : "Wed, 07 Dec 2022 07:49:20 +0000",
-         "title" : "IV Festival Internacional DUCHAMP in RIO Master 2022 - Participants"
-      },
-      {
-         "description" : "The Palmanova Festival B is taking place from 8&#x2013;11 December 2022 in Strassoldo, Italy. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with Sergio Giuriato, Vito Bizzoco, Alisher Akhmedov, Luca &#xA0;Predan, Igor Azinovic, Armin Haselsberger, Asia De Bianchi, Giovanni Dallaglio, Alberto []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/palmanova-festival-b-2022-live/",
-         "pubDate" : "Wed, 07 Dec 2022 07:25:36 +0000",
-         "title" : "Palmanova Festival B 2022 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Nihal And Dzagnidze Leaders After 6 Rounds"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Wed, 30 Nov 2022 19:34:54 +0000",
-         "title" : "Keymer Shines in 2022! | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
          "description" : "GMs Daniil Dubov and Magnus Carlsen won the November 29 editions of Titled Tuesday. Dubov scored 10.5/11 in the early tournament, winning by 1.5 points, while Carlsen scored 9.5 and outlasted GM Vladimir Fedoseev on tiebreaks. Also making an imp...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g1",
          "pubDate" : "Wed, 30 Nov 2022 07:15:00 +0100",
          "title" : "Women's Candidates: Two draws to start"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young German grandmaster Vincent Keymer, who performed well at the 2022 Chess Olympiad in August. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/keymer-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3ThOna9XX0I.jpg?itok=eqaCbJC9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/keymer-shines-2022-chess-olympiad-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Wed, 30 Nov 2022 01:34:09 +0000",
-         "title" : "Keymer Shines at the 2022 Chess Olympiad | Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
          "description" : "The Tata Steel Chess India event kicked off on Tuesday in Kolkata. Each of the two tournaments has a sole leader with 3 out of 3 after the first day of rapid chess. In the open, Shakhriyar Mamedyarov has taken the lead, while among the women, Nana Dzagnidze tops the standings with six rounds to go in the rapid section of the event. | Photo: Lennart Ootes",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-in-schools-and-communities-are-recruiting-new-tutors/",
          "pubDate" : "Fri, 25 Nov 2022 08:48:09 +0000",
          "title" : "Chess in Schools and Communities are recruiting new tutors"
-      },
-      {
-         "description" : "China and Uzbekistan reached the final of the World Team Chess Championship in Jerusalem. The two countries defeated Spain and India, respectively, in the second match on Thursday, after both first matches had ended in a 2-2 tie. The final and the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-team-chess-championship-semifinals",
-         "pubDate" : "Fri, 25 Nov 2022 00:35:00 -0800",
-         "title" : "China, Uzbekistan To Play World Team Chess Championship Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95759722.cms\" />India went down 1-3 to Uzbekistan in the semifinal of the FIDE World Team chess Championship on Friday. The two teams shared honours in the first round at 2-2 scoreline with S L Narayanan's superb win with black pieces over Shamsiddin Vokhidov being offset by SP Sethuraman's loss to Jakhongir Vokhidov.",
