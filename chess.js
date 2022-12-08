@@ -42,7 +42,7 @@ news_feed (
          "title" : "Tan Zhongyi and Goryachkina in a tie with only two games to go"
       },
       {
-         "description" : "The second game of the Candidates semi-final in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. As in game one, the Rejected Queen's Gambit was on the board, this time with Tan Zhongyi leading the white pieces. In the exchange, the Chinese player did not gain any advantage and the game ended in a draw on move 40. | Photo: Timur Sattarov/ FIDE",
+         "description" : "The second game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi ended in a draw. As in game one, the Queen's Gambit Declined appeared on the board, this time with Tan Zhongyi marshalling the white pieces. The Chinese player did not gain any advantage and the game ended in a draw on move 40. | Photo: Timur Sattarov/ FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g2",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-2022/",
          "pubDate" : "Thu, 17 Nov 2022 06:48:35 +0000",
          "title" : "European Cities & Towns Chess Championship to take place in January 2023"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95570778.cms\" />Indian Grandmaster R Praggnanandhaa posted his first win while compatriot Arjun Erigaisi suffered a third straight defeat in the Meltwater Champions Tour Finals on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-praggnanandhaa-secures-first-win-another-loss-for-erigaisi/articleshow/95570778.cms",
-         "pubDate" : "Thu, 17 Nov 2022 04:29:28 +0000",
-         "title" : "Meltwater Champions Tour Finals: Praggnanandhaa secures first win; another loss for Erigaisi"
       }
    ]
 }
