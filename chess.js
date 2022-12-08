@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chechen federation has nominated the 2016 World Championship challenger to run against incumbent Andrey Filatov. Karjakin was banned for six months by the FIDE Ethics Commission for advocating Russia's war of aggression against Ukraine and continues to be an ardent supporter of Putin. | Photo: Tass",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karjakin-wants-to-become-president-of-the-russian-chess-federation",
+         "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
+         "title" : "Karjakin wants to become President of the Russian Chess Federation"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-844",
+         "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 8"
+      },
+      {
          "description" : "The Vienna Advent Open A is taking place from 5&#x2013;11 December 2022 in Vienna, Austria. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with Slaven Pastar, Johannes Steindl, Nikolaus Stanec, Jurij Khalakhan, Gerald Leitner, Matthieu Pourquet, Leopold Franziskus Wagner, Brian Zhang, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1346,14 +1362,6 @@ news_feed (
          "title" : "Ding Wins Blockbuster Match Against Grischuk"
       },
       {
-         "description" : "Magnus Carlsen was in scintillating form in San Francisco, where he won the Champions Chess Tour Finals. In round 6 he played an excellent match against Praggnanandhaa. After the match ended, we were able to get Magnus on the livestream to discuss some of the critical moments from the match. It was a special interview that ended with Magnus praising the work that ChessBase India is doing and giving a big shout-out to the Indian talents and fans! | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-interview-sagar-2022",
-         "pubDate" : "Sun, 27 Nov 2022 23:30:00 +0100",
-         "title" : "Magnus Carlsen applauds Indian chess talents and fans"
-      },
-      {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1376,14 +1384,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/top-players-talk-top-chess.html",
          "pubDate" : "Sun, 27 Nov 2022 16:21:00 +0000",
          "title" : "Top Players Talk Top Chess"
-      },
-      {
-         "description" : "Top International Grandmasters, top Indian men and women Grandmasters, young Indian talents and Viswanathan Anand - as the ambassador and advisor of the tournament - will enrich the fourth edition of the Tata Steel Chess Tournament. For the first time, a women's tournament will be played with the same format and the same prize fund. The tournament will take place from November 29 to December 4 in Kolkata.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-preview",
-         "pubDate" : "Sun, 27 Nov 2022 16:30:00 +0100",
-         "title" : "Naka and Gukesh among star-studded field at Tata Steel Chess India"
       },
       {
          "description" : "",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/speculative-sponsor.html",
          "pubDate" : "Thu, 17 Nov 2022 16:47:00 +0000",
          "title" : "Speculative Sponsor"
-      },
-      {
-         "description" : " Small changes will make a huge difference in your life. Sounds too good to be true? Give me 5 Minutes and I'll convince you. Let's start with numbers. Imagine you improve yourself by 1% every single day for one year. Doesn't sound impossible, right? Not worth it either? Oh, you couldn't be more wrong! If [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/small-changes/\">Small Changes Huge Results</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/small-changes/",
-         "pubDate" : "Thu, 17 Nov 2022 10:34:32 +0000",
-         "title" : "Small Changes - Huge Results"
       }
    ]
 }
