@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The IV Festival Internacional DUCHAMP in RIO Master is taking place from 7-14 December 2022 in Rio de Janeiro, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament with Alexandr Fier, Felipe de Cresce El Debs, Andre Diamant, Ulf Andersson, Salvador []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/iv-festival-internacional-duchamp-in-rio-master-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 16:51:56 +0000",
+         "title" : "IV Festival Internacional DUCHAMP in RIO Master 2022 - LIVE"
+      },
+      {
          "description" : "The 2022 edition of the Speed Chess Championship is in its final stages. Magnus Carlsen returned to participate after losing at the 2020 semifinals, and will be looking to stop Hikaru Nakamura's reign, who has won every single edition since 2018. In the quarterfinals, Carlsen will face none other than 2018 World Championship challenger Fabiano Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/capturing-thin-air.html",
          "pubDate" : "Wed, 07 Dec 2022 13:27:00 +0000",
          "title" : "Capturing thin air"
-      },
-      {
-         "description" : "The&#xA0;88th edition of the Brazilian Chess Championship&#xA0;will be held from 15-23 December 2022 in Boa Viagem, Recife, concurrently with the Brazilian Women&#x2019;s Chess Championship 2022. The event will be played in 11 rounds, swiss system, with time control of 90 minutes for the whole game plus 30 seconds of increment per each move, starting from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/brazilian-chess-championship-2022-live/",
-         "pubDate" : "Wed, 07 Dec 2022 12:24:23 +0000",
-         "title" : "Brazilian Chess Championship 2022 - LIVE"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2091",
          "pubDate" : "Thu, 17 Nov 2022 19:01:25 +0000",
          "title" : "WCSC 2022: Danila Pavlov wins title, Marjan Kovacevic elected as WFCC President"
-      },
-      {
-         "description" : "FTX : Where have we heard that acronym before? If you've been following the financial news for the last couple of weeks, then you've undoubtedly seen a headline like <A HREF=\"https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html\">Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy</A>(cnbc.com). The article's summarizing bullets explained, <BLOCKQUOTE>Sam Bankman-Fried's cryptocurrency exchange FTX has filed for bankruptcy. Alameda Research and approximately 130 additional affiliated companies are part of the voluntary proceedings. </BLOCKQUOTE> <P>What's that got to do with chess? FTX figured in a couple of p",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/speculative-sponsor.html",
-         "pubDate" : "Thu, 17 Nov 2022 16:47:00 +0000",
-         "title" : "Speculative Sponsor"
       }
    ]
 }
