@@ -866,7 +866,7 @@ news_feed (
          "title" : "The Classical King's Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King&#039;s Indian Defense for the final time in this third part finale. 2022.12.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NzIcI4F3bpw.jpg?itok=SZt_SUn6\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King&#039;s Indian Defense for the final time in this third part finale. 2022.12.08<br /> Alex Yermolinsky vs. John Fedorowicz, 2000: ???<br /> <a href=\"https://www.365chess.com/game.php?gid=600211\">https://www.365chess.com/game.php?gid=600211</a> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1292711\">https://www.chessgames.com/perl/chessgame?gid=1292711</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/",
          "pubDate" : "Fri, 18 Nov 2022 07:06:11 +0000",
          "title" : "European Women's Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95593388.cms\" />Indian Grandmaster Arjun Erigaisi posted his first win while compatriot R Praggnanandhaa lost in the fourth round of the Meltwater Champions Tour Finals on Friday. While Erigaisi beat Azerbaijan's Shakhriyar Mamedyarov 3-1 for his first victory in the tournament, Praggnanandhaa went down 1-2 to American GM Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-posts-first-win-r-praggnanandhaa-loses/articleshow/95593388.cms",
-         "pubDate" : "Fri, 18 Nov 2022 03:58:29 +0000",
-         "title" : "Meltwater Champions Tour Finals: Erigaisi posts first win; Praggnanandhaa loses"
       }
    ]
 }
