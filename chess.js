@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Amos Burn was one of the world's leading players in the late 19th century. Competing mainly as an amateur in his long career, he was a highly successful player, theoretician, and journalist. Eugene Manlapao takes a look at the life, the career, and the games of this great English player. | Photo Source: www.liverpoolmuseum.org",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/amos-burn-the-tenacious-englishman-december-31-1848-november-25-1925",
+         "pubDate" : "Fri, 09 Dec 2022 20:00:00 +0100",
+         "title" : "Amos Burn: The Tenacious Englishman (December 31, 1848 - November 25, 1925)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2127",
+         "pubDate" : "Fri, 09 Dec 2022 17:25:09 +0000",
+         "title" : "Women's Candidates semifinal: Winless draught continues"
+      },
+      {
          "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
-         "pubDate" : "Fri, 09 Dec 2022 07:27:57 -0800",
+         "pubDate" : "Fri, 09 Dec 2022 07:27:00 -0800",
          "title" : "Nakamura, So Cruise Through To Quarterfinals"
       },
       {
@@ -122,7 +138,7 @@ news_feed (
          "title" : "Attention : National U-13 Chess Championship 2022 Rescheduled"
       },
       {
-         "description" : " Harrow schoolgirl lowers the age record for a national women's champion by more than four years after sharing the crown Bodhana Sivanandan earned a place in chess record books last Saturday when the Harrow schoolgirl, just seven years old, tied for second prize in the UK women's blitz championship at Leamington Spa. As joint winner of the English title, she broke the existing age record for a national women's champion by more than four years in a remarkable performance against opposition led by internationally seasoned rivals. The open winner was Elmira Mirzoeva, 41, a former Moscow women's champion now resident in London and playing under a neutral Fide flag. Sivanandan, a point behind, sh",
+         "description" : " Harrow schoolgirl lowers the age record for a national women's champion by more than four years after sharing the crown Bodhana Sivanandan earned a place in the record books last Saturday when the Harrow schoolgirl, just seven years old, tied for second prize in the UK women's blitz championship at Leamington Spa. As joint winner of the English title she broke the existing age record for a national women's champion by more than four years in a remarkable performance against opposition led by internationally seasoned rivals. The open winner was Elmira Mirzoeva, 41, a former Moscow women's champion now resident in London and playing under a neutral Fide flag. Sivanandan, a point behind, share",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
@@ -317,6 +333,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Wed, 07 Dec 2022 15:40:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2124",
          "pubDate" : "Wed, 07 Dec 2022 15:39:08 +0000",
          "title" : "Tan Zhongyi and Goryachkina 1-1 with two games to go"
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-plays-horribly-beats-gukesh-23-7",
          "pubDate" : "Wed, 07 Dec 2022 14:28:26 +0000",
          "title" : "Carlsen plays \"horribly\", beats Gukesh 23:7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Wed, 07 Dec 2022 13:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-starts-in-kolkata",
          "pubDate" : "Tue, 29 Nov 2022 08:28:54 +0000",
          "title" : "Tata Steel Chess India starts in Kolkata"
-      },
-      {
-         "description" : "It is a well-known but still slightly surprising fact that king, bishop and outside pawn cannot win against a bare king if the defending king is in front of the pawn and the bishop does not control the queening square of the pawn - a constellation Hans Kmoch called the \"impotent pair\". In the diagram position Black is close to such a draw but has to be precise to reach it. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wonderful-stalemates",
-         "pubDate" : "Tue, 29 Nov 2022 09:00:00 +0100",
-         "title" : "Wonderful stalemates"
       },
       {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Our Provincial Junior Championship returned to in-person play this year. The games were played during the Nov 19-20 weekend. A number of our past and current <a href=\"https://chessimprover.com/students-analysis-11/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (11)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-11/\">Students Analysis (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
