@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Τhe Chess Federation of Chechnya nominated Sergey Karjakin to run for President of the Russian Chess Federation against incumbent Andrey Filatov at the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Vladimir_Putin_and_Sergey_Karjakin-chess.jpeg\" width=\"1280\" height=\"790\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"http://www.kremlin.ru/events/president/news/54994/photos\">Kremlin.ru</a></div> </div> The 2016 World Championship challenger, born in Crimea and playing under the Ukrainian flag until 2009 when he switched to the Russian Federation, is aiming for the Federation's President chai",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/sergey-karjakin-is-one-of-the-candidates-for-president-of-the-ru/",
+         "pubDate" : "Fri, 09 Dec 2022 12:12:51 +0000",
+         "title" : "Sergey Karjakin is one of the Candidates for President of the Russian Chess Federation"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2126",
+         "pubDate" : "Fri, 09 Dec 2022 12:02:21 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Preliminary lists of participants "
+      },
+      {
+         "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/5-things-to-avoid/",
+         "pubDate" : "Fri, 09 Dec 2022 11:39:12 +0000",
+         "title" : "5 Things You Need To Avoid To Improve In Chess"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-912",
+         "pubDate" : "Fri, 09 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 9"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Fri, 09 Dec 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B, Semifinal: Live"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-goryachkina-vs-tan-zhongyi-live-video-coverage-day-3/",
+         "pubDate" : "Fri, 09 Dec 2022 09:20:00 +0000",
+         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 3"
+      },
+      {
          "description" : " <p class=\"lead\">The third tournaments in the Armageddon Online Cups were intense and exciting. Meet our winners. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #3:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-third-tournaments-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-table\"> <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> <tr> <td style=\"text-align: left\">1st place</td> <td style=\"text-align: left\">Bobir Sattarov</td> <td style=\"text-align: left\">€500</td> </tr> <tr> <td style=\"text-align: left\">2nd place</td> <td style=\"text-align: left\">Sereenen Gan-Od<",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -154,14 +202,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 8"
       },
       {
-         "description" : "The Vienna Advent Open A is taking place from 5&#x2013;11 December 2022 in Vienna, Austria. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with Slaven Pastar, Johannes Steindl, Nikolaus Stanec, Jurij Khalakhan, Gerald Leitner, Matthieu Pourquet, Leopold Franziskus Wagner, Brian Zhang, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vienna-advent-open-a-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 07:36:07 +0000",
-         "title" : "Vienna Advent Open A 2022 - LIVE"
-      },
-      {
          "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -280,6 +320,14 @@ news_feed (
          "link" : "https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/",
          "pubDate" : "Wed, 07 Dec 2022 09:37:57 +0000",
          "title" : "Call of Interest 2023 for ECU Arbiters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Wed, 07 Dec 2022 08:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "ECU E-Magazine November 2022 is out! In this edition of the ECU E-Magazine you may read about: Communique of the ECU Board Meeting held in Antalya, Turkey European Youth Chess Championship 2022 FIDE World Team Chess Championship 2022 Upcoming European Open and Women Rapid &#38; Blitz Chess Championships 2022 European Cities &#38; Towns Chess Championship European Individual Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2022/\">Read More &#187;</a></span>",
@@ -440,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-217-with-jana-schneider",
          "pubDate" : "Mon, 05 Dec 2022 18:00:00 +0100",
          "title" : "Endgame Magic #217 - with Jana Schneider"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Mon, 05 Dec 2022 16:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
@@ -1346,14 +1386,6 @@ news_feed (
          "title" : "Magnus scores 7:0 MrDodgy Invitational win"
       },
       {
-         "description" : "With Magnus Carlsen, chess has become incredibly popular in Norway and the Norwegian Junior and Children's Championships attracted a lot of young players. Maybe one of them is the next Magnus Carlsen? Holger Blauhut reports. | Photos: Holger Blauhut and the organisers",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-next-magnus-carlsen-in-molde",
-         "pubDate" : "Mon, 28 Nov 2022 15:23:56 +0100",
-         "title" : "The next Magnus Carlsen in Molde?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95832141.cms\" />Indian Grandmaster SL Narayanan felt \"humiliated\" as he was left to stand barefoot inside the playing hall for metal detector check during a Bundesliga chess league match in Germany on Monday. As there was a beep sound during the metal detector check, Narayanan was made to remove his shoes and subsequently his socks too. It was later found out that the beep sound emanated from the carpet on the floor.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1368,14 +1400,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/chess-platform-to-measure-calories-burned-by-playing-chess-onlin/",
          "pubDate" : "Mon, 28 Nov 2022 11:54:58 +0000",
          "title" : "Chess Platform to Measure Calories Burned by Playing Chess Online"
-      },
-      {
-         "description" : "Tireless in his quest for truth, Karsten Mueller brings up the rear with a selection of instructive and sometimes jawdropping endgames. Wesley So is both teacher and student as he overwhelms one opponent but stumbles in a simplified rook endgame against another. Be sure to see the notes to the last game with some amazing shots sure to leave you scratching your head.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mueller-on-meltwater",
-         "pubDate" : "Mon, 28 Nov 2022 12:00:00 +0100",
-         "title" : "Mueller on Meltwater"
       },
       {
          "description" : "Please find live link of MPL National Sub-Junior Chess Championship 2022 Open https://view.livechesscloud.com/#9fa1fbe3-7812-48b5-8705-2577f844213d Girls https://view.livechesscloud.com/#00733143-c9c7-49ab-a209-4a4c8a9d3023",
