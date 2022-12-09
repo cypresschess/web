@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Estonian Women's Championship is taking place from 10&#x2013;16 December 2022 in Tallinn, Estonia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-player round-robin tournament with participation of Anastassia Sinitsina,&#xA0;Sofia Blokhin, Margit Brokko, Grete Olde, Marina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/estonian-womens-championship-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:40:16 +0000",
+         "title" : "Estonian Women's Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Estonian Championship is taking place from 10&#x2013;18 December 2022 in Tallinn, Estonia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Kaido Kulaots, Aleksandr Volodin, Meelis Kanep,Tarvo Seeman, Ilja []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/estonian-championship-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:35:44 +0000",
+         "title" : "Estonian Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The U12 Grand Hotel Bali Cup is taking place from 8-11 December 2022 in Benidorm, Spain. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with Ivan Arjona Bereza, Xavier Mompel Ferruz, Roman Arjona Bereza, Hugo Uber Gracia, Laia Garcia Rodriguez, Hector []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-grand-hotel-bali-cup-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:29:30 +0000",
+         "title" : "U12 Grand Hotel Bali Cup 2022 - LIVE"
+      },
+      {
+         "description" : "The U18 Grand Hotel Bali Cup is taking place from 8-11 December 2022 in Benidorm, Spain. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Roger Bernado Lopez, Alonso Lara Mezcua, Jan Travesset Sagre, Pablo Garcia De la Duena, Ciro []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-grand-hotel-bali-cup-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:23:45 +0000",
+         "title" : "U18 Grand Hotel Bali Cup 2022 - LIVE"
+      },
+      {
+         "description" : "The Winter Bay Area IM Norm Invitational is taking place from 7-11 December 2022 in San Jose, California , USA. Players receive 90 minutes with 30 second increment starting from move 1. It is an 10-player round-robin tournament with participation of Mike Zaloznyy, Joshua Sheng, Erdene Baasansuren, Zoey Tang, Austin Mei, Kyron Griffith, Odondoo Ganbold, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/winter-bay-area-im-norm-invitational-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:15:57 +0000",
+         "title" : "Winter Bay Area IM Norm Invitational 2022 - LIVE"
+      },
+      {
+         "description" : "The Winter Bay Area GM Norm Invitational is taking place from 7-11 December 2022 in San Jose, California , USA. Players receive 90 minutes with 30 second increment starting from move 1. It is an 10-player round-robin tournament with participation of Max Gedajlovic, Vladimir Belous, Emilio Cordova, Titas Stremavicius, Mark Heimann, Samrug Narayanan, Aleksandr Ostrovskiy, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/winter-bay-area-gm-norm-invitational-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 23:08:00 +0000",
+         "title" : "Winter Bay Area GM Norm Invitational 2022 - LIVE"
+      },
+      {
+         "description" : "The RUDAR VI IM ROUND ROBIN is takins place from 4-11 December 2022 in Pozarevac, Serbia. Players receive 90 minutes for first 40 moves and 15 minutes for the rest of the game with 30 seconds increment. It is an 10-player round-robin tournament with participation of Shubh Jayesh Laddha, Nebojsa M Ristic, Kirill Shoshin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rudar-vi-im-round-robin-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 22:56:54 +0000",
+         "title" : "RUDAR VI - IM ROUND ROBIN 2022 - LIVE"
+      },
+      {
+         "description" : "The Cape Verde Championship is taking place from 7&#x2013;11 December 2022 in Praia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 8-player round-robin tournament with Mariano Ortega Amarelle, Celia M. Rodriguez Guevara, Antonio Monteiro, Carlos []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cape-verde-championship-2022-live/",
+         "pubDate" : "Thu, 08 Dec 2022 22:46:00 +0000",
+         "title" : "Cape Verde Championship 2022 - LIVE"
+      },
+      {
          "description" : "GM Hikaru Nakamura filed a motion in the Eastern District of Missouri to dismiss GM Hans Niemann&#39;s lawsuit on December 7. This is the latest development in the defamation lawsuit that has received international attention, filed in late October. Ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,60 +130,12 @@ news_feed (
          "title" : "Vienna Advent Open A 2022 - LIVE"
       },
       {
-         "description" : "The 3rd Almaty IM is taking place from 7&#x2013;14 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 10-player round-robin tournament with Mukhammadzokhid Suyarov, Ivan Mezentsev, Imangali Akhilbay, Danis Kuandykuly, Sergei Yudin, Arystan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-almaty-im-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 07:23:15 +0000",
-         "title" : "3rd Almaty IM 2022 - LIVE"
-      },
-      {
-         "description" : "The Almaty GM is taking place from 7&#x2013;14 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with Daniil Lintchevski, Zurab Sturua, Bakhtiyar Askarov, Mihail Nikitenko, Liya Kurmangaliyeva, Serkan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/almaty-gm-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 07:12:38 +0000",
-         "title" : "Almaty GM 2022 - LIVE"
-      },
-      {
          "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nihal-giri",
          "pubDate" : "Wed, 07 Dec 2022 15:06:00 -0800",
          "title" : "Nihal Overcomes Giri's Bullet Comeback In SCC Thriller"
-      },
-      {
-         "description" : "The UK Open and Women's Blitz Chess Championships 2022 were held on 3rd December in Royal Leamington Spa. The Open tournament was a 16-player round-robin event and the women's championship was played in the same system, with 15 participants. GM Jon Speelman and GM Eldar Gasanov tied for the top of the Open tournament scoring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jon-speelman-and-elmira-mirzoeva-win-uk-blitz-chess-championships-2022/",
-         "pubDate" : "Wed, 07 Dec 2022 22:34:09 +0000",
-         "title" : "Jon Speelman and Elmira Mirzoeva win UK Blitz Chess Championships 2022"
-      },
-      {
-         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;is taking place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain and gathers 175 players fighting for the prize fund of 29.500eur! After eight played rounds, GM Tin Jingyao and IM Aditya Mittal tie for the top scoring 6.5 points. They []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/one-round-to-go-at-el-llobregat-open-tin-jingyao-and-aditya-mittal-tie-for-the-top/",
-         "pubDate" : "Wed, 07 Dec 2022 22:17:09 +0000",
-         "title" : "One round to go at El Llobregat Open; Tin Jingyao and Aditya Mittal tie for the top"
-      },
-      {
-         "description" : "The second game of the Women's Candidates Semifinals between Tan Zongyi and Aleksandra Goryachkina finished in a draw and the result is now tied 1-1, with only two games to go. Tan Zhongyi had a slight advantage in the early middlegame an in the post-game interview explained that the opening was within the scope of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-goryachkina-didnt-give-me-any-chance-today/",
-         "pubDate" : "Wed, 07 Dec 2022 21:04:05 +0000",
-         "title" : "Tan Zhongyi: Goryachkina didn't give me any chance today"
-      },
-      {
-         "description" : "The second game of the 2022 FIDE Women's Candidates Tournament, Pool B, played this afternoon in the magnificent Farovon Hotel venue in Khiva, Uzbekistan, ended in a draw after forty moves. After a very equal encounter, GM&#xA0;Aleksandra Goryachkina&#xA0;and GM&#xA0;Tan Zhongyi&#xA0;are now tied 1-1 in the match: two classical games are left to decide the winner []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-and-goryachkina-in-a-tie-with-only-two-games-to-go/",
-         "pubDate" : "Wed, 07 Dec 2022 20:48:28 +0000",
-         "title" : "Tan Zhongyi and Goryachkina in a tie with only two games to go"
       },
       {
          "description" : "The second game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi ended in a draw. As in game one, the Queen's Gambit Declined appeared on the board, this time with Tan Zhongyi marshalling the white pieces. The Chinese player did not gain any advantage and the game ended in a draw on move 40. | Photo: Timur Sattarov/ FIDE",
@@ -200,22 +216,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-plays-horribly-beats-gukesh-23-7",
          "pubDate" : "Wed, 07 Dec 2022 14:28:26 +0000",
          "title" : "Carlsen plays \"horribly\", beats Gukesh 23:7"
-      },
-      {
-         "description" : "The&#xA0;61st Brazilian Women&#x2019;s Chess Championship&#xA0;will take place from 15-23 December 2022 in Boa Viagem, Recife, simultaneously with the&#xA0;88th edition of the Brazilian Chess Championship. The event will be played in 11 rounds, swiss system, with time control of 90 minutes with 30 seconds increment from move 1.&#xA0; Chessdom will follow the event with daily news []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/brazilian-womens-chess-championship-2022-live/",
-         "pubDate" : "Wed, 07 Dec 2022 13:46:44 +0000",
-         "title" : "Brazilian Women's Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 61st Brazilian Women's Chess Championship will take place from 15-23 December 2022 in Boa Viagem, Recife, simultaneously with the&#xA0;88th edition of the Brazilian Chess Championship. The event will be played in 11 rounds, swiss system, with time control of 90 minutes with 30 seconds increment from move 1. FM Juliana Sayumi Terao is the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/brazilian-womens-chess-championship-2022/",
-         "pubDate" : "Wed, 07 Dec 2022 13:42:37 +0000",
-         "title" : "Brazilian Women's Chess Championship 2022"
       },
       {
          "description" : "",
@@ -1864,14 +1864,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-posts-first-win-r-praggnanandhaa-loses/articleshow/95593388.cms",
          "pubDate" : "Fri, 18 Nov 2022 03:58:29 +0000",
          "title" : "Meltwater Champions Tour Finals: Erigaisi posts first win; Praggnanandhaa loses"
-      },
-      {
-         "description" : " The 2022 World Seniors has just begun in Italy, and as is normal, there are a mix of well known players and enthusiastic amateurs. It is being run in two section, 50+ and 65+, and somewhat surprisingly, there are more players in the 65+ section than the 50+ section. Top seed on the 65+ section is GM John Nunn, who started the event with a smooth, and somewhat instructive win over his first round opponent. <br /> <b>Nunn,John D M (2580) - Sursock,Sameer (1976) [B28]</b><br />30th World Senior Chess Championship 202 Assisi (ITA) (1.1), 15.11.2022 <script>new PgnViewer( { boardName: \"game1366\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 a6 3.c4 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 e5 7.Nf5 d5 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-seniors.html",
-         "pubDate" : "Thu, 17 Nov 2022 22:16:00 +0000",
-         "title" : "2022 World Seniors"
       }
    ]
 }
