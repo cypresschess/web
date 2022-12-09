@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " <p class=\"lead\">Τhe Chess Federation of Chechnya nominated Sergey Karjakin to run for President of the Russian Chess Federation against incumbent Andrey Filatov at the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Vladimir_Putin_and_Sergey_Karjakin-chess.jpeg\" width=\"1280\" height=\"790\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"http://www.kremlin.ru/events/president/news/54994/photos\">Kremlin.ru</a></div> </div> The 2016 World Championship challenger, born in Crimea and playing under the Ukrainian flag until 2009 when he switched to the Russian Federation, is aiming for the Federation's President chai",
+         "description" : "The 2022 Speed Chess Championship continued on Thursday with a high-octane double-header that saw GMs Hikaru Nakamura and Wesley So brush past their respective contenders, GMs David Paravyan and Nodirbek Abdusattorov. Nakamura was particularly i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
+         "pubDate" : "Fri, 09 Dec 2022 07:27:57 -0800",
+         "title" : "Nakamura, So Cruise Through To Quarterfinals"
+      },
+      {
+         "description" : "On 11 December, IM Lawrence Trent, chess player, author and commentator, will play the most combative chess match of his career at the Galen Center (10,200 seats) in Los Angeles. He will face Canadian GM Aman Hambleton in the main match of the Mogul Chess Boxing Championship. Organiser of the event is the well-known Youtube streamer Ludwig Ahgren.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mogul-schachbox-meisterschaft-in-los-angeles",
+         "pubDate" : "Fri, 09 Dec 2022 15:40:44 +0100",
+         "title" : "Mogul Chessboxing Championship in Los Angeles"
+      },
+      {
+         "description" : " <p class=\"lead\">Magnus Carlsen will be competing for the world championship titles in rapid and blitz chess, despite having recently relinquished his title as world champion in classical chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R03006.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Carlsen is the world's top-ranked chess player and has previously won the world championship in classical chess three times. He is also a three-time World Rapid Chess Champion and five-time World Blitz Chess Champion. In 2022 Carlsen announced his decision to relinquish his title. Despite this, he is determined to ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/magnus-carlsen-to-play-in-the-fide-world-rapid-blitz-championshi/",
+         "pubDate" : "Fri, 09 Dec 2022 13:18:59 +0000",
+         "title" : "Magnus Carlsen to play in the FIDE World Rapid & Blitz Championships"
+      },
+      {
+         "description" : " When I first started playing club chess, the local clubs always had around a 6 week break at Christmas time. Finish just before Christmas, and then restart in February. When I found this wasn't common in other Australian cities I was somewhat surprised. Fast forward 40 years and it isn't that common in Canberra either. Certainly Street Chess has always run non stop during the holidays (with the exception of Saturday being the 25th), and both eh Canberra Chess Club, and the Tuggeranong Chess Club stating in mid January. Only the Gungahlin Chess Club has stuck to the old traditions, with a late January restart on the calendar. But it seems there is going to be plenty of chess over the holiday",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/winding-down-for-christmas.html",
+         "pubDate" : "Fri, 09 Dec 2022 12:51:00 +0000",
+         "title" : "Winding down for Christmas?"
+      },
+      {
+         "description" : " <p class=\"lead\">Τhe Chess Federation of Chechnya nominated Sergey Karjakin, who supports the war in Ukraine, to run for President of the Russian Chess Federation against incumbent Andrey Filatov at the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/sergey-karjakin-lo.jpeg\" width=\"1000\" height=\"645\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> The 2016 World Championship challenger, born in Crimea and playing under the Ukrainian flag until 2009 when he switched to the Russian Federation, is aiming for the Federation's President chair. As an unremorseful Putin supporter, Karjakin supporte",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/sergey-karjakin-is-one-of-the-candidates-for-president-of-the-ru/",
@@ -186,20 +218,20 @@ news_feed (
          "title" : "Elisabeth Paehtz Becomes 40th Female GM In History"
       },
       {
-         "description" : "The Chechen federation has nominated the 2016 World Championship challenger to run against incumbent Andrey Filatov. Karjakin was banned for six months by the FIDE Ethics Commission for advocating Russia's war of aggression against Ukraine and continues to be an ardent supporter of Putin. | Photo: Tass",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karjakin-wants-to-become-president-of-the-russian-chess-federation",
-         "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
-         "title" : "Karjakin wants to become President of the Russian Chess Federation"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-844",
          "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 8"
+      },
+      {
+         "description" : "The Chechen federation has nominated the 2016 World Championship challenger to run against incumbent Andrey Filatov. Karjakin was banned for six months by the FIDE Ethics Commission for advocating Russia's war of aggression against Ukraine and continues to be an ardent supporter of Putin. | Photo: Tass",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karjakin-wants-to-become-president-of-the-russian-chess-federation",
+         "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
+         "title" : "Karjakin wants to become President of the Russian Chess Federation"
       },
       {
          "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
@@ -293,6 +325,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Wed, 07 Dec 2022 13:54:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2123",
          "pubDate" : "Wed, 07 Dec 2022 13:41:29 +0000",
          "title" : "Chess for Social benefits and Women inclusion Conference held in Paris"
@@ -320,14 +360,6 @@ news_feed (
          "link" : "https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/",
          "pubDate" : "Wed, 07 Dec 2022 09:37:57 +0000",
          "title" : "Call of Interest 2023 for ECU Arbiters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Wed, 07 Dec 2022 08:54:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "ECU E-Magazine November 2022 is out! In this edition of the ECU E-Magazine you may read about: Communique of the ECU Board Meeting held in Antalya, Turkey European Youth Chess Championship 2022 FIDE World Team Chess Championship 2022 Upcoming European Open and Women Rapid &#38; Blitz Chess Championships 2022 European Cities &#38; Towns Chess Championship European Individual Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2022/\">Read More &#187;</a></span>",
@@ -1346,28 +1378,12 @@ news_feed (
          "title" : "TCEC S23, CCC19 Rapid : Stockfish Wins Both"
       },
       {
-         "description" : "GM John Nunn won the gold medal in the 65+ section of the World Senior Chess Championships held in Assisi, Italy. Playing in the same group, GM Nona Gaprindashvili won the women&#39;s senior title for the eighth time. GM Zurab Sturua won the 50+ secti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-world-senior-chess-championships-nunn-gaprindashvili",
-         "pubDate" : "Mon, 28 Nov 2022 08:27:00 -0800",
-         "title" : "Gold For Nunn, Sturua, Gaprindashvili, Berend At World Senior Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/cambridge-international-open/",
          "pubDate" : "Mon, 28 Nov 2022 16:25:48 +0000",
          "title" : "Cambridge International Open"
-      },
-      {
-         "description" : "Cheating in chess has a long and storied history, none of these stories ever penetrated the public eye, having been relegated to books on history and anecdotes on the game of chess. This all changed when a cheating controversy in chess became known throughout the US and then the world, and at its center was a 19-year-old American.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/famous-chess-cheating-tales-part-1",
-         "pubDate" : "Mon, 28 Nov 2022 17:00:00 +0100",
-         "title" : "Famous chess cheating tales - Part 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95834416.cms\" />Indian chess legend Viswanathan Anand, who is now deputy president of world governing body FIDE, feels cheating in his sport is \"not rampant\" and limited to \"online\" tournaments only. Reigning world champion Magnus Carlsen kicked up a storm in September this year when he levelled cheating allegations against US teenager Hans Niemann, following his stunning defeat in round three of the Sinquefield Cup.",
@@ -1872,22 +1888,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/a-clock-without-hands.html",
          "pubDate" : "Fri, 18 Nov 2022 16:10:00 +0000",
          "title" : "'A Clock Without Hands'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2092",
-         "pubDate" : "Fri, 18 Nov 2022 15:17:31 +0000",
-         "title" : "Meltwater Tour Finals 2022: Carlsen takes the sole lead"
-      },
-      {
-         "description" : " The Vikings Weekender has always been a bit of a hidden gem on the Australian Weekend circuit. Run in 2 sections, it usually attracts between 50 to 70 players, has a fairly strong set of regular players (1 or 2 IM's, plus assorted 2000+ players), good prize money ($3000+) and an excellent venue. Unlike the more crowded events elsewhere, it always has a somewhat relaxed feel about it, even when players are striving for prizes and rating points. This year event has attracted 50 players, which might have been more if some of the players who had entered early had not pulled out. The top section is larger than the Under 1600 section (!), with IM Junta Ikeda and IM Stephen Solomon the headline ac",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekend-day-1.html",
-         "pubDate" : "Fri, 18 Nov 2022 13:14:00 +0000",
-         "title" : "2022 Vikings Weekend - Day 1"
       }
    ]
 }
