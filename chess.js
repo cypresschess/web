@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">The third tournaments in the Armageddon Online Cups were intense and exciting. Meet our winners. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #3:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-third-tournaments-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-table\"> <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> <tr> <td style=\"text-align: left\">1st place</td> <td style=\"text-align: left\">Bobir Sattarov</td> <td style=\"text-align: left\">€500</td> </tr> <tr> <td style=\"text-align: left\">2nd place</td> <td style=\"text-align: left\">Sereenen Gan-Od<",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-third-tournaments/",
+         "pubDate" : "Fri, 09 Dec 2022 09:08:56 +0000",
+         "title" : "Armageddon Online Cups: Results for the third tournaments"
+      },
+      {
+         "description" : "Entries are now open for the EPSCA National Primary Schools Championships 2023 in partnership with Kingswood Activity Centre. There will be three stages &#8212; Stage...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/epsca-primary-schools-championships-2023/",
+         "pubDate" : "Fri, 09 Dec 2022 09:00:36 +0000",
+         "title" : "EPSCA Primary Schools Championships 2023"
+      },
+      {
          "description" : "The National U-13 Dated on Dec 10-18 in Pondicherry is rescheduled due to the Cyclone Mandous. Now the championship will start from 11 Dec 22",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
