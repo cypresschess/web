@@ -2,10 +2,34 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g3",
+         "pubDate" : "Fri, 09 Dec 2022 17:05:00 +0100",
+         "title" : "Women's Candidates: All square"
+      },
+      {
+         "description" : "Sports fans, mark your calendars for December 13 at 10:30 a.m. PT/19:30 CET. It&#39;s the crossover event you won&#39;t want to miss: Gordon Hayward vs. Larry Fitzgerald... fans included! These two big-time chess fans and star athletes will be playing in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gordon-hayward-vs-larry-fitzgerald-chesscom",
+         "pubDate" : "Fri, 09 Dec 2022 08:00:00 -0800",
+         "title" : "Announcing Gordon vs. Larry, The Crossover You Won't Want To Miss"
+      },
+      {
+         "description" : "This week, Daniel King presents a mix of attractive themes: Novotnys, stalemates, and an endgame squeeze (by none other than Magnus Carlsen). What more could you want? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-novotnys-stalemates-squeezes",
+         "pubDate" : "Fri, 09 Dec 2022 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Novotnys, stalemates, Carlsen squeezes"
+      },
+      {
          "description" : "The 2022 Speed Chess Championship continued on Thursday with a high-octane double-header that saw GMs Hikaru Nakamura and Wesley So brush past their respective contenders, GMs David Paravyan and Nodirbek Abdusattorov. Nakamura was particularly i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
          "pubDate" : "Fri, 09 Dec 2022 07:27:57 -0800",
          "title" : "Nakamura, So Cruise Through To Quarterfinals"
       },
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-912",
          "pubDate" : "Fri, 09 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 9"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Fri, 09 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B, Semifinal: Live"
       },
       {
          "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
@@ -1338,14 +1354,6 @@ news_feed (
          "title" : "Vachier-Lagrave Stuns Nepomniachtchi In Bullet Blowout"
       },
       {
-         "description" : "The Tata Steel Chess India Rapid and Tata Steel Chess India Women&#39;s Rapid were inaugurated at a short evening ceremony in Kolkata, India. At its fourth edition, the iconic event with separate rapid and blitz sections and a total prize fund of $41,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-india-rapid-blitz-inaugurated-in-kolkata",
-         "pubDate" : "Mon, 28 Nov 2022 14:24:22 -0800",
-         "title" : "Tata Steel Chess India Rapid & Blitz Inaugurated In Kolkata"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/the-battle-of-next-generation-in-kolkata-chess-meet/articleshow/95836270.cms",
          "pubDate" : "Mon, 28 Nov 2022 17:18:54 +0000",
          "title" : "The battle of next generation in Kolkata chess meet"
-      },
-      {
-         "description" : "In the Endgame Magic Show #216 Karsten M&uuml;ller and German female top player Jana Schneider look at endgame highlights from the finals of the Meltwater Chess Champions Tour. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-216-with-jana-schneider",
-         "pubDate" : "Mon, 28 Nov 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #216 - with Jana Schneider"
       },
       {
          "description" : "The previous report on the globe's top engine vs. engine ongoing tournaments was <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html\">TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish</A>(November 2022). Here's a summary of that report. <BLOCKQUOTE>TCEC: After 83 games in the S23 Sufi ('Superfinal'), Stockfish leads LCZero +19-6=58. It needs only 2.5 more points to clinch its sixth straight Sufi. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon (1-2-3 in that order) -- are in the lead for the 'Challenger' (2-3) and 'Final' (1-?) matches. </BLOCKQUOTE> <P>Stockfish won both events by significant margins. The rest of this post ",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2093",
          "pubDate" : "Fri, 18 Nov 2022 21:20:20 +0000",
          "title" : "Winners crowned at 64th World Congress of Chess Composition"
-      },
-      {
-         "description" : "A week ago, in <A HREF=\"http://chessforallages.blogspot.com/2022/11/fischer-busted.html\">Fischer Busted</A>(November 2022), I promised, 'We're nearing the end of this blog's 'Fischer Friday' series'. I'll end the series with a post on <A HREF=\"https://www.mark-weeks.com/chess/7375$wix.htm\">1975 Fischer forfeits to Karpov</A>(m-w.com). The drawing below -- by artist Greg Spalenka -- is from the 29 July 1985 issue of <I>Sports Illustrated</I> (SI). See the post <A HREF=\"http://chessforallages.blogspot.com/2017/06/fischer-im-not-seeing-people.html\">Fischer: 'I'm not seeing people'</A>(June 2017; '1985-07-29: Bobby Fischer') for a link. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/c",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/a-clock-without-hands.html",
-         "pubDate" : "Fri, 18 Nov 2022 16:10:00 +0000",
-         "title" : "'A Clock Without Hands'"
       }
    ]
 }
