@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The National U-13 Dated on Dec 10-18 in Pondicherry is rescheduled due to the Cyclone Mandous. Now the championship will start from 11 Dec 22",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/attention-national-u-13-chess-championship-2022-rescheduled/",
+         "pubDate" : "Fri, 09 Dec 2022 07:39:30 +0000",
+         "title" : "Attention : National U-13 Chess Championship 2022 Rescheduled"
+      },
+      {
+         "description" : " Harrow schoolgirl lowers the age record for a national women's champion by more than four years after sharing the crown Bodhana Sivanandan earned a place in chess record books last Saturday when the Harrow schoolgirl, just seven years old, tied for second prize in the UK women's blitz championship at Leamington Spa. As joint winner of the English title, she broke the existing age record for a national women's champion by more than four years in a remarkable performance against opposition led by internationally seasoned rivals. The open winner was Elmira Mirzoeva, 41, a former Moscow women's champion now resident in London and playing under a neutral Fide flag. Sivanandan, a point behind, sh",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
+         "pubDate" : "Fri, 09 Dec 2022 07:30:17 +0000",
+         "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
+      },
+      {
          "description" : "The Estonian Women's Championship is taking place from 10&#x2013;16 December 2022 in Tallinn, Estonia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-player round-robin tournament with participation of Anastassia Sinitsina,&#xA0;Sofia Blokhin, Margit Brokko, Grete Olde, Marina []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1594,14 +1610,6 @@ news_feed (
          "title" : "Samar Dayal - Commonwealth Under 8 Champion"
       },
       {
-         "description" : "IM Harshavardhan beats Utsab in the sharp Najdorf 6.Bg5 variation to take the sole lead after round 7. IM Neelash Saha suffered a loss against the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-junior-2022-round-7/",
-         "pubDate" : "Thu, 24 Nov 2022 07:14:38 +0000",
-         "title" : "ASIAN JUNIOR 2022 : Round 7"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1840,22 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekend-day-1.html",
          "pubDate" : "Fri, 18 Nov 2022 13:14:00 +0000",
          "title" : "2022 Vikings Weekend - Day 1"
-      },
-      {
-         "description" : " The world No 1 is favourite to win the $210,000 event going into the weekend matches, but still has to meet Poland's Jan-Krzysztof Duda, who has twice defeated the Norwegian in prestige events Magnus Carlsen, the world No 1, is favourite for the $210,000 Meltwater Tour final going into the decisive weekend rounds but the Norwegian, 31, will meet his most difficult opponent in Sunday's best-of-four games mini-match, right at the end of the eight-player tournament. Carlsen faces Jan-Krzysztof Duda, Poland's No 1, the grandmaster who has been his nemesis on more than one big occasion. It was Duda who ended Carlsen's world record sequence of 125 games unbeaten in autumn 2020 and who the followi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/nov/18/chess-magnus-carlsen-faces-his-nemesis-in-final-round-of-meltwater-tour",
-         "pubDate" : "Fri, 18 Nov 2022 08:00:03 +0000",
-         "title" : "Chess: Magnus Carlsen faces his nemesis in final round of Meltwater tour"
-      },
-      {
-         "description" : "Montenegro Chess Federation (MCF) in cooperation with European Chess Union (ECU) have the honor to invite all National Chess Federations members of the European Chess Union and eligible players to the 23rd EUROPEAN WOMEN CHESS CHAMPIONSHIP organized in Petrovac, Montenegro from 17th March (arrival) to 30th March (departure). The event is open for all women players from National&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-official-invitation/",
-         "pubDate" : "Fri, 18 Nov 2022 07:06:11 +0000",
-         "title" : "European Women's Chess Championship 2023 - Official invitation"
       }
    ]
 }
