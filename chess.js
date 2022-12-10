@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1076",
+         "pubDate" : "Sat, 10 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 10"
+      },
+      {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Sat, 10 Dec 2022 10:55:00 +0100",
+         "title" : "Women's Candidates - Pool B, Semifinal: Live"
+      },
+      {
          "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with&#xA0;Aleksandra Goryachkina&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in the four-game match for the spot in the Women&#x2019;s Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). The first three games of the match finished in a draw and one classical game is left to decide the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,10 +42,10 @@ news_feed (
          "title" : "Amin Tabatabaei wins the 3rd El Llobregat Open"
       },
       {
-         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5C52B214-AE76-471A-96C4-547FC8881E40.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann knows how to smile</div> </div> Hans Niemann, the /enfant terrible/ of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off against the reigning world champion, Magnus Ca",
+         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: @hans_niemann/ Instagram</div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off against the reigning world champion, Magnus ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz-jus/",
+         "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz/",
          "pubDate" : "Sat, 10 Dec 2022 09:24:15 +0000",
          "title" : "Both Carlsen and Niemann to Play in the FIDE Rapid and Blitz. Just Not Against Each Other"
       },
@@ -1258,22 +1274,6 @@ news_feed (
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
       },
       {
-         "description" : "At 3 p.m. local time on Tuesday (11 a.m. CET) Pool B of the Women's Candidates tournament kicked off in Khiva, Uzbekistan. Aleksandra Goryachkina gained an advantage against Alexandra Kosteniuk, but gave it away in time trouble. The game between Tan Zhongyi and Kateryna Lagno also ended in a draw. | Photos: Xushnud Baltaev / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g1",
-         "pubDate" : "Wed, 30 Nov 2022 07:15:00 +0100",
-         "title" : "Women's Candidates: Two draws to start"
-      },
-      {
-         "description" : "The Tata Steel Chess India event kicked off on Tuesday in Kolkata. Each of the two tournaments has a sole leader with 3 out of 3 after the first day of rapid chess. In the open, Shakhriyar Mamedyarov has taken the lead, while among the women, Nana Dzagnidze tops the standings with six rounds to go in the rapid section of the event. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d1",
-         "pubDate" : "Wed, 30 Nov 2022 02:00:00 +0100",
-         "title" : "Tata Steel India: Shakh and Nana on 3 out of 3"
-      },
-      {
          "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
          "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
          "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
-      },
-      {
-         "description" : " At the end of the 2nd day of the 2022 Vikings Weekender, 3 players share the lead on 3.5/4. The top 2 seeds, IM Junta Ikeda and IM Stephen Solomon drew their round 4 game to reach 3.5, where they were joined by Oladoyin Fasakin, who also drew in the last round of the day. His opponent, Matt Radisich, is one of the surprise packets of the event, have reached 3/4, despite being seeded 11th at the start. Also on 3 points are CM Hui Li, Fred Litchfield and Queensland junior Harvey Zhu. In the Minor event James Minogue leads with 4/4. He reached this score with a careful win against top seed Kamal Jain, nursing home his final pawn while trying to avoid a K+N+B v K ending (Jain was trying to sacr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-day-2.html",
-         "pubDate" : "Sat, 19 Nov 2022 11:42:00 +0000",
-         "title" : "2022 Vikings Weekender - Day 2"
       }
    ]
 }
