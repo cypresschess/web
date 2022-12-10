@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with&#xA0;Aleksandra Goryachkina&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in the four-game match for the spot in the Women&#x2019;s Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). The first three games of the match finished in a draw and one classical game is left to decide the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-4-live/",
+         "pubDate" : "Sat, 10 Dec 2022 09:39:22 +0000",
+         "title" : "Tan Zhongyi vs Aleksandra Goryachkina; Women's Candidates Pool B Game 4 LIVE"
+      },
+      {
+         "description" : "The&#xA0;Croatian National Chess Championship 2022&#xA0;took place from November 28 &#x2013; December 9 at Hotel Pax, Split. It was a 12-player round-robin tournament with a total prize fund of 10.000 euros. GM Ivan Saric won the event scoring 7.5 points. After a loss in the first round, Saric left unbeaten and clinched his fourth national champion []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-ivan-saric-claims-croatian-chess-championship-2022/",
+         "pubDate" : "Sat, 10 Dec 2022 09:36:59 +0000",
+         "title" : "GM Ivan Saric claims Croatian Chess Championship 2022"
+      },
+      {
+         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;took place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain, gathering 50 grandmasters, 44 international masters and a total of 175 players fighting for the prize fund of 29.500eur! After nine played rounds, three players tied for the top scoring 7 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/amin-tabatabaei-wins-the-3rd-el-llobregat-open/",
+         "pubDate" : "Sat, 10 Dec 2022 09:28:52 +0000",
+         "title" : "Amin Tabatabaei wins the 3rd El Llobregat Open"
+      },
+      {
+         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/5C52B214-AE76-471A-96C4-547FC8881E40.jpeg\" width=\"1080\" height=\"1350\" alt=\"\" /> <div class=\"e2-text-caption\">Hans Niemann knows how to smile</div> </div> Hans Niemann, the /enfant terrible/ of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off against the reigning world champion, Magnus Ca",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz-jus/",
+         "pubDate" : "Sat, 10 Dec 2022 09:24:15 +0000",
+         "title" : "Both Carlsen and Niemann to Play in the FIDE Rapid and Blitz. Just Not Against Each Other"
+      },
+      {
+         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-goryachkina-vs-tan-zhongyi-live-video-coverage-day-4/",
+         "pubDate" : "Sat, 10 Dec 2022 09:17:17 +0000",
+         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 4"
+      },
+      {
+         "description" : "At least from the outside, it looks like each day that goes by brings the tiebreak forward. Both players seem to be in a &#x201C;no risk&#x201D; control mode: solid openings, symmetrical pawn structures, and, above all, the avoidance of mistakes. With only one classical game to go, it will be very difficult to recover from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-and-goryachkina-tied-with-one-round-to-go-womens-candidates-pool-b/",
+         "pubDate" : "Sat, 10 Dec 2022 09:14:48 +0000",
+         "title" : "Tan Zhongyi and Goryachkina tied with one round to go; Women's Candidates Pool B"
+      },
+      {
+         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE Women's World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-paricipants/",
+         "pubDate" : "Sat, 10 Dec 2022 08:39:43 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Paricipants"
+      },
+      {
          "description" : "The FIDE World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE Women's World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -122,7 +178,7 @@ news_feed (
          "title" : "Winding down for Christmas?"
       },
       {
-         "description" : " <p class=\"lead\">Τhe Chess Federation of Chechnya nominated Sergey Karjakin, who supports the war in Ukraine, to run for President of the Russian Chess Federation against incumbent Andrey Filatov at the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/sergey-karjakin-lo.jpeg\" width=\"1000\" height=\"645\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> The 2016 World Championship challenger, born in Crimea and playing under the Ukrainian flag until 2009 when he switched to the Russian Federation, is aiming for the Federation's President chair. As an unremorseful Putin supporter, Karjakin supporte",
+         "description" : " <p class=\"lead\">Chess politics appeared in the most unexpected environment: Russia. Chechnya Chess Federationn nominated Sergey Karjakin, an outspoken Putin supporter, to run for President of the Russian Chess Federation against incumbent Andrey Filatov (also an outspoken Putin supporter) in the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/sergey-karjakin-lo.jpeg\" width=\"1000\" height=\"645\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> In a cryptic world of Russian 'real politik', being endorsed by the Republic of Chechnya effectively means being supported by Ramzan Kadyrov, a highly inf",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/sergey-karjakin-is-one-of-the-candidates-for-president-of-the-ru/",
@@ -192,54 +248,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
          "pubDate" : "Fri, 09 Dec 2022 07:30:17 +0000",
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
-      },
-      {
-         "description" : "The Estonian Women's Championship is taking place from 10&#x2013;16 December 2022 in Tallinn, Estonia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-player round-robin tournament with participation of Anastassia Sinitsina,&#xA0;Sofia Blokhin, Margit Brokko, Grete Olde, Marina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/estonian-womens-championship-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:40:16 +0000",
-         "title" : "Estonian Women's Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Estonian Championship is taking place from 10&#x2013;18 December 2022 in Tallinn, Estonia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Kaido Kulaots, Aleksandr Volodin, Meelis Kanep,Tarvo Seeman, Ilja []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/estonian-championship-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:35:44 +0000",
-         "title" : "Estonian Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The U12 Grand Hotel Bali Cup is taking place from 8-11 December 2022 in Benidorm, Spain. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with Ivan Arjona Bereza, Xavier Mompel Ferruz, Roman Arjona Bereza, Hugo Uber Gracia, Laia Garcia Rodriguez, Hector []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-grand-hotel-bali-cup-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:29:30 +0000",
-         "title" : "U12 Grand Hotel Bali Cup 2022 - LIVE"
-      },
-      {
-         "description" : "The U18 Grand Hotel Bali Cup is taking place from 8-11 December 2022 in Benidorm, Spain. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 6-round Swiss tournament with participation of Roger Bernado Lopez, Alonso Lara Mezcua, Jan Travesset Sagre, Pablo Garcia De la Duena, Ciro []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-grand-hotel-bali-cup-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:23:45 +0000",
-         "title" : "U18 Grand Hotel Bali Cup 2022 - LIVE"
-      },
-      {
-         "description" : "The Winter Bay Area IM Norm Invitational is taking place from 7-11 December 2022 in San Jose, California , USA. Players receive 90 minutes with 30 second increment starting from move 1. It is an 10-player round-robin tournament with participation of Mike Zaloznyy, Joshua Sheng, Erdene Baasansuren, Zoey Tang, Austin Mei, Kyron Griffith, Odondoo Ganbold, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/winter-bay-area-im-norm-invitational-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:15:57 +0000",
-         "title" : "Winter Bay Area IM Norm Invitational 2022 - LIVE"
-      },
-      {
-         "description" : "The Winter Bay Area GM Norm Invitational is taking place from 7-11 December 2022 in San Jose, California , USA. Players receive 90 minutes with 30 second increment starting from move 1. It is an 10-player round-robin tournament with participation of Max Gedajlovic, Vladimir Belous, Emilio Cordova, Titas Stremavicius, Mark Heimann, Samrug Narayanan, Aleksandr Ostrovskiy, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/winter-bay-area-gm-norm-invitational-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 23:08:00 +0000",
-         "title" : "Winter Bay Area GM Norm Invitational 2022 - LIVE"
       },
       {
          "description" : "GM Grigoriy Oparin from Mizzou won the Collegiate Chess League&#39;s fifth season after defeating GM Mikhail Antipov, from the same university, in the Grand Finals. His clutch performance in a must-win game ultimately earned him the $1,600 first prize...",
