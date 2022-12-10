@@ -2,11 +2,51 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE Women's World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-blitz-chess-championship-2022-paricipants/",
+         "pubDate" : "Sat, 10 Dec 2022 08:24:50 +0000",
+         "title" : "FIDE World Blitz Chess Championship 2022 - Paricipants"
+      },
+      {
+         "description" : "The FIDE Women's World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-blitz-chess-championship-2022-paricipants/",
+         "pubDate" : "Sat, 10 Dec 2022 08:12:32 +0000",
+         "title" : "FIDE Women's World Blitz Chess Championship 2022 - Paricipants"
+      },
+      {
+         "description" : "The FIDE Women's World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-world-rapid-chess-championship-2022-paricipants/",
+         "pubDate" : "Sat, 10 Dec 2022 08:07:14 +0000",
+         "title" : "FIDE Women's World Rapid Chess Championship 2022 - Paricipants"
+      },
+      {
+         "description" : "In the diagram position Black finally wants to play ...0-0, but of course White still has something to say about that. 22.g4 or 22.Ra8+ - how would you start disruptive action?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/castling-in-the-middlegame",
+         "pubDate" : "Sat, 10 Dec 2022 09:00:00 +0100",
+         "title" : "Castling in the middlegame"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2128",
+         "pubDate" : "Sat, 10 Dec 2022 07:02:40 +0000",
+         "title" : "Croatian Championship: Ivan Åari&#263 clinches his fourth title"
+      },
+      {
          "description" : "GM Nihal Sarin emerged victorious from his intergenerational clash with world championship challenger GM Ding Liren in the 2022 Speed Chess Championship quarterfinals on Friday with a score of 17-9 after outpacing his opponent as the time control ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-ding-nihal",
-         "pubDate" : "Fri, 09 Dec 2022 14:34:47 -0800",
+         "pubDate" : "Fri, 09 Dec 2022 14:34:00 -0800",
          "title" : "Nihal Shines In Win Over Ding"
       },
       {
@@ -202,22 +242,6 @@ news_feed (
          "title" : "Winter Bay Area GM Norm Invitational 2022 - LIVE"
       },
       {
-         "description" : "The RUDAR VI IM ROUND ROBIN is takins place from 4-11 December 2022 in Pozarevac, Serbia. Players receive 90 minutes for first 40 moves and 15 minutes for the rest of the game with 30 seconds increment. It is an 10-player round-robin tournament with participation of Shubh Jayesh Laddha, Nebojsa M Ristic, Kirill Shoshin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rudar-vi-im-round-robin-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 22:56:54 +0000",
-         "title" : "RUDAR VI - IM ROUND ROBIN 2022 - LIVE"
-      },
-      {
-         "description" : "The Cape Verde Championship is taking place from 7&#x2013;11 December 2022 in Praia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 8-player round-robin tournament with Mariano Ortega Amarelle, Celia M. Rodriguez Guevara, Antonio Monteiro, Carlos []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cape-verde-championship-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 22:46:00 +0000",
-         "title" : "Cape Verde Championship 2022 - LIVE"
-      },
-      {
          "description" : "GM Grigoriy Oparin from Mizzou won the Collegiate Chess League&#39;s fifth season after defeating GM Mikhail Antipov, from the same university, in the Grand Finals. His clutch performance in a must-win game ultimately earned him the $1,600 first prize...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-files-motion-to-dismiss-niemann-lawsuit",
          "pubDate" : "Thu, 08 Dec 2022 10:52:00 -0800",
          "title" : "Hikaru Nakamura Files Motion To Dismiss Hans Niemann Lawsuit"
-      },
-      {
-         "description" : "The IV Festival Internacional DUCHAMP in RIO Master is taking place from 7-14 December 2022 in Rio de Janeiro, Brazil. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss system tournament with Alexandr Fier, Felipe de Cresce El Debs, Andre Diamant, Ulf Andersson, Salvador []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/iv-festival-internacional-duchamp-in-rio-master-2022-live/",
-         "pubDate" : "Thu, 08 Dec 2022 16:51:56 +0000",
-         "title" : "IV Festival Internacional DUCHAMP in RIO Master 2022 - LIVE"
       },
       {
          "description" : "The 2022 edition of the Speed Chess Championship is in its final stages. Magnus Carlsen returned to participate after losing at the 2020 semifinals, and will be looking to stop Hikaru Nakamura's reign, who has won every single edition since 2018. In the quarterfinals, Carlsen will face none other than 2018 World Championship challenger Fabiano Caruana.",
@@ -341,17 +357,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2125",
-         "pubDate" : "Wed, 07 Dec 2022 15:47:30 +0000",
-         "title" : "FIDE Chessable Academy Camp gets underway in Sitges"
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Wed, 07 Dec 2022 15:56:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Wed, 07 Dec 2022 15:40:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
+         "link" : "https://www.fide.com/news/2125",
+         "pubDate" : "Wed, 07 Dec 2022 15:47:30 +0000",
+         "title" : "FIDE Chessable Academy Camp gets underway in Sitges"
       },
       {
          "description" : "",
@@ -1330,14 +1346,6 @@ news_feed (
          "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
       },
       {
-         "description" : "The 30th edition of the FIDE World Senior Chess Championship in Assisi (Italy) ended on Saturday, November 26, after a hard fight until the last minute. In the 50+ group, the Georgian Grandmaster Zurab Sturua became the new World Champion. The Women's World Champion in this group was WGM Elvira Berend (Luxembourg). In the 65+ group the title went to English GM John Nunn (pictured), the women's title was won by GM Nona Gaprindashvili (Georgia). | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/winners-crowned-at-world-senior-championship-2022",
-         "pubDate" : "Tue, 29 Nov 2022 10:02:19 +0100",
-         "title" : "Winners crowned at World Senior Championship 2022"
-      },
-      {
          "description" : "Wesley So and Hikaru Nakamura top a line-up packed full of Indian prodigies as the Tata Steel Chess India Rapid & Blitz begins today in the National Library in Kolkata, with the first three rounds of the rapid tournament. For the first time there's also a parallel Women's tournament featuring Humpy Koneru, the Muzychuk sisters and more top players.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1864,22 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-day-2.html",
          "pubDate" : "Sat, 19 Nov 2022 11:42:00 +0000",
          "title" : "2022 Vikings Weekender - Day 2"
-      },
-      {
-         "description" : "The recent death of Michael Basman brought to my mind Shakespeare's stirring words from King Henry V's pre battle oration at Agincourt: And Crispin Crispian shall ne'er go by, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/basman-basmadjian-the-uncrowned-chess-champion/",
-         "pubDate" : "Sat, 19 Nov 2022 08:00:08 +0000",
-         "title" : "Basman Basmadjian, the uncrowned chess champion"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95618342.cms\" />Indian Grandmaster Arjun Erigaisi scored a 2.5-1.5 win over Dutch GM Anish Giri in the fifth round of the Meltwater Champions Tour Finals on Saturday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-beats-anish-giri/articleshow/95618342.cms",
-         "pubDate" : "Sat, 19 Nov 2022 05:41:19 +0000",
-         "title" : "Meltwater Champions Tour Finals: Erigaisi beats Giri"
       }
    ]
 }
