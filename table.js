@@ -1,4 +1,6 @@
 jtable([
+"SUGAR LAND","2022-12-09","4","<a href=http://www.uschess.org/msa/XtblMain.php?202212096952 target='_blank'>FBCC 2022 END OF SEMESTER OPEN</a>",
+"CYPRESS","2022-12-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212096902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-12-06","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212066002 target='_blank'>RCC QUADS  DECEMBER 6, 2022</a>",
 "HOUSTON","2022-12-03  - 12-04","37","<a href=http://www.uschess.org/msa/XtblMain.php?202212044792 target='_blank'>$2,500 HOUSTON CHESS STUDIO DECEMBE</a>",
 "HOUSTON","2022-12-03","341","<a href=http://www.uschess.org/msa/XtblMain.php?202212034072 target='_blank'>MANDARIN IMMERSION MAGNET SCHOOL</a>",
@@ -197,6 +199,4 @@ jtable([
 "CYPRESS","2022-04-22","14","<a href=http://www.uschess.org/msa/XtblMain.php?202204220262 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-04-16","5","<a href=http://www.uschess.org/msa/XtblMain.php?202204167772 target='_blank'>QUICKSWISS</a>",
 "SPRING","2022-04-16","16","<a href=http://www.uschess.org/msa/XtblMain.php?202204167412 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-04-15","18","<a href=http://www.uschess.org/msa/XtblMain.php?202204157342 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-04-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202204106212 target='_blank'>APRIL 10TH  SUNDAY SWISS</a>",
 ]);
