@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Italian game was probably one of the very first openings you learned. The reasons are clear: The center is dominated, the minor pieces are active, the king is safe. The Giouco Piano is played by almost every top player in the world. Svitlana is teaching us the \"slow\" variation, the so-called Giuoco Pianissimo Variation in this episode. The move d3 is giving White the choice to prepare their attack with a bit more time. In a game between Sven Magnus Carlsen, and Christopher Hikaru Nakamura, Svitlana presents us the White plans, and Black's counter ideas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-slow-giuoco-piano",
+         "pubDate" : "Sat, 10 Dec 2022 16:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Giuoco Pianissimo Variation"
+      },
+      {
+         "description" : "There are some weeks when I have to cudgel my brains to think of an appropriate topic for discussion. In other weeks, such as this, items crowd in thick and fast, and it becomes a struggle to fit everything in and stay multifariously topical. First, news of one of England's senior chess stars. In what []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-week-of-chess-drama/",
+         "pubDate" : "Sat, 10 Dec 2022 14:52:32 +0000",
+         "title" : "A week of chess drama"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Nihal Sarin crushed World No.2 and 2023 WC Challenger Ding Liren with a 17 to 9 score at the Speed Chess Championship quarterfinals, showing not only fierce bullet skills but also great sportsmanship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/nihal-sarin-chess-speed-championship-ding-liren.jpeg\" width=\"2000\" height=\"1334\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Maria Emelianova / chesscom</div> </div> The 18-year-old Indian GM has recently won Tata Steel India with a round to spare, and made sure to keep his momentum rolling at the Speed Chess Championship. <a href=\"https://twitter.com/adhibanchess/status/1598525140911857665\">https",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/nihal-sarin-achieved-a-17-9-score-against-ding-liren/",
+         "pubDate" : "Sat, 10 Dec 2022 13:09:01 +0000",
+         "title" : "Nihal Sarin achieved a 17-9 score against Ding Liren"
+      },
+      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2127",
          "pubDate" : "Fri, 09 Dec 2022 17:25:09 +0000",
          "title" : "Women's Candidates semifinal: Winless draught continues"
+      },
+      {
+         "description" : "In last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I wrote, <BLOCKQUOTE>Karpov's active involvement with the [SmartChess] site lasted about six months and was usually documented in an issue's 'Publisher's Message'. At the same time Karpov's participation was decreasing, that of another, younger link to Soviet chess was increasing. The February 1998 issue of SmartChess announced, \"Press Release - 26th February 1998: Superstar GM Alexei Shirov signs contract with WWW Chess Superstore to make a series of instructional chess videos!\" </BLOCKQUOTE> <P>I've already featured a couple of Karpov's SmartChess vide",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html",
+         "pubDate" : "Fri, 09 Dec 2022 16:33:00 +0000",
+         "title" : "Shirov's SmartChess Videos"
       },
       {
          "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
@@ -1232,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2112",
          "pubDate" : "Wed, 30 Nov 2022 17:31:10 +0000",
          "title" : "Women's Candidates Pool B: Missed opportunities in Khiva "
-      },
-      {
-         "description" : "Chess engines have been helping chess players for over 40 years, first as opponents, and later as analysts, but over that lengthy timeframe, very little has been added to the core landscape of chess engine analysis. ChessBase 17 aims to change that and seriously extend the analysis done, and the information it produces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-taking-engine-functions-to-the-next-level",
-         "pubDate" : "Wed, 30 Nov 2022 18:00:00 +0100",
-         "title" : "Chessbase 17: Taking engine functions to the next level"
       },
       {
          "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
