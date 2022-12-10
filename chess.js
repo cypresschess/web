@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an amazing turn of events, when everything seemed to be pointing towards a tiebreak, former Women&#x2019;s World Chess Champion&#xA0;GM Tan Zhongyi, from China, defeated&#xA0;GM Aleksandra Goryachkina, playing under the FIDE flag, in the fourth and final game of the 2022 Women&#x2019;s Candidates Pool B. Tan Zhongyi will face Pool A winner,&#xA0;GM Lei Tingjie, also []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tan-zhongyi-defeats-goryachkina-and-wins-her-spot-in-the-womens-candidates-finals/",
+         "pubDate" : "Sat, 10 Dec 2022 18:59:22 +0000",
+         "title" : "Tan Zhongyi defeats Goryachkina and wins her spot in the Women's Candidates Finals"
+      },
+      {
+         "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/the-next-womens-world-champion-is-from-china/",
+         "pubDate" : "Sat, 10 Dec 2022 17:56:47 +0000",
+         "title" : "The Next Women's World Champion is from China."
+      },
+      {
+         "description" : "GM Tan Zhongyi defeated GM Aleksandra Goryachkina on Saturday in the fourth game of their Women&#39;s Candidates semifinal in Khiva, Uzbekistan. In doing so, Tan qualified for an all-Chinese final vs. GM Lei Tingjie, which is scheduled for the first q...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-semifinal-tan-goryachkina",
+         "pubDate" : "Sat, 10 Dec 2022 09:35:00 -0800",
+         "title" : "Tan Beats Goryachkina, Qualifies For Women's Candidates Final"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2129",
+         "pubDate" : "Sat, 10 Dec 2022 16:24:52 +0000",
+         "title" : "Tan Zhongyi defeats Goryachkina and will now face Lei Tingjie"
+      },
+      {
          "description" : "The Italian game was probably one of the very first openings you learned. The reasons are clear: The center is dominated, the minor pieces are active, the king is safe. The Giouco Piano is played by almost every top player in the world. Svitlana is teaching us the \"slow\" variation, the so-called Giuoco Pianissimo Variation in this episode. The move d3 is giving White the choice to prepare their attack with a bit more time. In a game between Sven Magnus Carlsen, and Christopher Hikaru Nakamura, Svitlana presents us the White plans, and Black's counter ideas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +98,7 @@ news_feed (
          "title" : "Amin Tabatabaei wins the 3rd El Llobregat Open"
       },
       {
-         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: @hans_niemann/ Instagram</div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off against the reigning world champion, Magnus ",
+         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz/",
@@ -146,12 +178,28 @@ news_feed (
          "title" : "Nihal Shines In Win Over Ding"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2126",
+         "pubDate" : "Fri, 09 Dec 2022 19:02:21 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Preliminary lists of participants "
+      },
+      {
          "description" : "Amos Burn was one of the world's leading players in the late 19th century. Competing mainly as an amateur in his long career, he was a highly successful player, theoretician, and journalist. Eugene Manlapao takes a look at the life, the career, and the games of this great English player. | Photo Source: www.liverpoolmuseum.org",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/amos-burn-the-tenacious-englishman-december-31-1848-november-25-1925",
          "pubDate" : "Fri, 09 Dec 2022 20:00:00 +0100",
          "title" : "Amos Burn: The Tenacious Englishman (December 31, 1848 - November 25, 1925)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Fri, 09 Dec 2022 18:56:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "",
@@ -234,14 +282,6 @@ news_feed (
          "title" : "Sergey Karjakin is one of the Candidates for President of the Russian Chess Federation"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2126",
-         "pubDate" : "Fri, 09 Dec 2022 12:02:21 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Preliminary lists of participants "
-      },
-      {
          "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -256,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-912",
          "pubDate" : "Fri, 09 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 9"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-goryachkina-vs-tan-zhongyi-live-video-coverage-day-3/",
-         "pubDate" : "Fri, 09 Dec 2022 09:20:00 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 3"
       },
       {
          "description" : " <p class=\"lead\">The third tournaments in the Armageddon Online Cups were intense and exciting. Meet our winners. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #3:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-third-tournaments-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-table\"> <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> <tr> <td style=\"text-align: left\">1st place</td> <td style=\"text-align: left\">Bobir Sattarov</td> <td style=\"text-align: left\">€500</td> </tr> <tr> <td style=\"text-align: left\">2nd place</td> <td style=\"text-align: left\">Sereenen Gan-Od<",
@@ -408,14 +440,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sadhwani-xiong-win-titled-tuesday-december-6-2022",
          "pubDate" : "Wed, 07 Dec 2022 09:04:21 -0800",
          "title" : "Two-Way Ties Atop The Standings Table In Tuesday Tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Wed, 07 Dec 2022 15:56:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "",
@@ -946,14 +970,6 @@ news_feed (
          "title" : "Carlsen and Chess.com seek dismissal of lawsuit"
       },
       {
-         "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
-         "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
-         "title" : "Chess site files motion to dismiss $100m lawsuit"
-      },
-      {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1304,14 +1320,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
          "pubDate" : "Wed, 30 Nov 2022 00:10:07 +0000",
          "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
-      },
-      {
-         "description" : "GM Shakhriyar Mamedyarov of Azerbaijan and GM Nana Dzagnidze of Georgia won all three rounds to jump into the sole lead of the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid, respectively, by a full-point marg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-india-rapid-day-1",
-         "pubDate" : "Tue, 29 Nov 2022 11:55:00 -0800",
-         "title" : "Mamedyarov, Dzagnidze In Full-Point Leads With Clean Scores"
       },
       {
          "description" : "",
