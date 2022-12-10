@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nihal Sarin emerged victorious from his intergenerational clash with world championship challenger GM Ding Liren in the 2022 Speed Chess Championship quarterfinals on Friday with a score of 17-9 after outpacing his opponent as the time control ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-ding-nihal",
+         "pubDate" : "Fri, 09 Dec 2022 14:34:47 -0800",
+         "title" : "Nihal Shines In Win Over Ding"
+      },
+      {
          "description" : "Amos Burn was one of the world's leading players in the late 19th century. Competing mainly as an amateur in his long career, he was a highly successful player, theoretician, and journalist. Eugene Manlapao takes a look at the life, the career, and the games of this great English player. | Photo Source: www.liverpoolmuseum.org",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,6 +216,14 @@ news_feed (
          "link" : "https://www.chessdom.com/cape-verde-championship-2022-live/",
          "pubDate" : "Thu, 08 Dec 2022 22:46:00 +0000",
          "title" : "Cape Verde Championship 2022 - LIVE"
+      },
+      {
+         "description" : "GM Grigoriy Oparin from Mizzou won the Collegiate Chess League&#39;s fifth season after defeating GM Mikhail Antipov, from the same university, in the Grand Finals. His clutch performance in a must-win game ultimately earned him the $1,600 first prize...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-5-recap",
+         "pubDate" : "Thu, 08 Dec 2022 12:36:00 -0800",
+         "title" : "Collegiate Chess League Season 5 Recap"
       },
       {
          "description" : "GM Hikaru Nakamura filed a motion in the Eastern District of Missouri to dismiss GM Hans Niemann&#39;s lawsuit on December 7. This is the latest development in the defamation lawsuit that has received international attention, filed in late October. Ch...",
@@ -1258,14 +1274,6 @@ news_feed (
          "title" : "From Monaco to Khiva: the Women's Candidates continue on the Silk Road"
       },
       {
-         "description" : "Pool B, the second stage of the 2022-23 FIDE Women&#39;s Candidates Tournament held in Khiva, Uzbekistan, started with two draws. GM Aleksandra Goryachkina was close to a decisive advantage in her game with GM Alexandra Kosteniuk, while GM Tan Zhongyi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-1",
-         "pubDate" : "Tue, 29 Nov 2022 08:51:00 -0800",
-         "title" : "Goryachkina Misses Chance As Women's Candidates Tournament Resumes In Khiva"
-      },
-      {
          "description" : "Last month's Yahoos post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>(October 2022; see the footnote for an explanation of Yahoos), raised a number of questions of vital interest to the global chess community:- <BLOCKQUOTE>The Niemann lawsuit; the NYT puzzles; AICF pest control; will Google's 'Full Coverage' become a mainstay of chess news? There's plenty to look forward to in next month's Yahoos post. </BLOCKQUOTE> <P>First let's look at the numbers. Of the 100 chess stories returned by Google, 75 were for the current month, 25 for previous months. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk29.gif\" WIDTH=200 HEIGHT=140 ALIGN=LEFT VSPA",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
          "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
          "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave&#38;nbsp;convincingly won his round of 16 match against GM Ian Nepomniachtchi by the greatest margin yet in Chess.com&#39;s 2022 Speed Chess Championship on Monday after an exceptional run in the bullet portion. Vachier-Lagrave...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-2022-speed-chess-championship-r16-mvl-nepomniachtchi",
-         "pubDate" : "Mon, 28 Nov 2022 21:15:00 -0800",
-         "title" : "Vachier-Lagrave Stuns Nepomniachtchi In Bullet Blowout"
       },
       {
          "description" : "",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-champions-tour-finals-arjun-erigaisi-beats-anish-giri/articleshow/95618342.cms",
          "pubDate" : "Sat, 19 Nov 2022 05:41:19 +0000",
          "title" : "Meltwater Champions Tour Finals: Erigaisi beats Giri"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2093",
-         "pubDate" : "Fri, 18 Nov 2022 21:20:20 +0000",
-         "title" : "Winners crowned at 64th World Congress of Chess Composition"
       }
    ]
 }
