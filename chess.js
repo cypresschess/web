@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is set to take place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the paradisaic resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Yu Yangyi, Andrey Esipenko and Vasyl Ivanchuk looking to claim the 5.000 € first prize. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-preview",
+         "pubDate" : "Sun, 11 Dec 2022 09:00:00 +0100",
+         "title" : "Esipenko, Ivanchuk, Van Foreest to play at the Sunway Open in Sitges"
+      },
+      {
+         "description" : " LIVE game link for MPL 35th NATIONAL UNDER 13 CHESS CHAMPIONSHIPS - 2022 OPEN GIRLS",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-mpl-35th-national-under-13-chess-championships-2022/",
+         "pubDate" : "Sun, 11 Dec 2022 04:51:32 +0000",
+         "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
+      },
+      {
          "description" : "Tan Zhongyi won the fourth classical game of her semifinal match against Aleksandra Goryachkina on Saturday at the Women's Candidates Tournament in Khiva. It was also the last game of this competition. In view of the three draws previously signed, this victory qualified Tan to play the tournament's final, where she will face her compatriot Lei Tingjie. | Photo: Timur Sattarov / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1234,14 +1250,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 1"
       },
       {
-         "description" : "In his \"Game of the Week\" show #544 Merijn van Delft presents a game in which the well-known commentator and streamer Jan Gustafsson demonstrated his attacking and his tactical skills. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-544-j-gustafsson-vs-s-grigorian",
-         "pubDate" : "Thu, 01 Dec 2022 11:26:44 +0100",
-         "title" : "Game of the Week #544: J. Gustafsson vs S. Grigorian"
-      },
-      {
          "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1664,14 +1672,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-teams-uzbekistan-and-china-reach-final",
          "pubDate" : "Fri, 25 Nov 2022 11:07:55 +0000",
          "title" : "World Teams: Uzbekistan and China reach final"
-      },
-      {
-         "description" : "Title hope of India in the World Team Championship shattered in the semi final as Olympiad Gold medalist team Uzbekistan won the second duel in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-uzbekistan-beat-india-in-semi-final/",
-         "pubDate" : "Fri, 25 Nov 2022 10:30:11 +0000",
-         "title" : "World Team Chess Championship - Uzbekistan beat India in Semi Final"
       },
       {
          "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
