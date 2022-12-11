@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tan Zhongyi won the fourth classical game of her semifinal match against Aleksandra Goryachkina on Saturday at the Women's Candidates Tournament in Khiva. It was also the last game of this competition. In view of the three draws previously signed, this victory qualified Tan to play the tournament's final, where she will face her compatriot Lei Tingjie. | Photo: Timur Sattarov / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g4",
+         "pubDate" : "Sat, 10 Dec 2022 22:50:00 +0100",
+         "title" : "Tan Zhongyi advances to Women's Candidates final"
+      },
+      {
          "description" : "In an amazing turn of events, when everything seemed to be pointing towards a tiebreak, former Women&#x2019;s World Chess Champion&#xA0;GM Tan Zhongyi, from China, defeated&#xA0;GM Aleksandra Goryachkina, playing under the FIDE flag, in the fourth and final game of the 2022 Women&#x2019;s Candidates Pool B. Tan Zhongyi will face Pool A winner,&#xA0;GM Lei Tingjie, also []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1076",
          "pubDate" : "Sat, 10 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 10"
-      },
-      {
-         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
-         "pubDate" : "Sat, 10 Dec 2022 10:55:00 +0100",
-         "title" : "Women's Candidates - Pool B, Semifinal: Live"
       },
       {
          "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with&#xA0;Aleksandra Goryachkina&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in the four-game match for the spot in the Women&#x2019;s Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). The first three games of the match finished in a draw and one classical game is left to decide the []",
@@ -162,6 +162,14 @@ news_feed (
          "title" : "Castling in the middlegame"
       },
       {
+         "description" : "Half the field of the Women's Candidates Tournament is battling it out in a knockout event to decide who faces Lei Tingjie, winner of Pool A, in a final match next year. The tournament is taking place from November 29 to December 11 in Khiva, Uzbekistan. In the semifinal Aleksandra Goryachkina plays against Tan Zhongyi. | Follow all the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-live",
+         "pubDate" : "Sat, 10 Dec 2022 08:55:00 +0100",
+         "title" : "Women's Candidates - Pool B: Games and webcast"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -218,14 +226,6 @@ news_feed (
          "title" : "Shirov's SmartChess Videos"
       },
       {
-         "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g3",
-         "pubDate" : "Fri, 09 Dec 2022 17:05:00 +0100",
-         "title" : "Women's Candidates: All square"
-      },
-      {
          "description" : "Sports fans, mark your calendars for December 13 at 10:30 a.m. PT/19:30 CET. It&#39;s the crossover event you won&#39;t want to miss: Gordon Hayward vs. Larry Fitzgerald... fans included! These two big-time chess fans and star athletes will be playing in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,6 +248,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
          "pubDate" : "Fri, 09 Dec 2022 07:27:00 -0800",
          "title" : "Nakamura, So Cruise Through To Quarterfinals"
+      },
+      {
+         "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g3",
+         "pubDate" : "Fri, 09 Dec 2022 16:00:00 +0100",
+         "title" : "Women's Candidates: All square"
       },
       {
          "description" : "On 11 December, IM Lawrence Trent, chess player, author and commentator, will play the most combative chess match of his career at the Galen Center (10,200 seats) in Los Angeles. He will face Canadian GM Aman Hambleton in the main match of the Mogul Chess Boxing Championship. Organiser of the event is the well-known Youtube streamer Ludwig Ahgren.",
@@ -970,6 +978,14 @@ news_feed (
          "title" : "Carlsen and Chess.com seek dismissal of lawsuit"
       },
       {
+         "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
+         "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
+         "title" : "Chess site files motion to dismiss $100m lawsuit"
+      },
+      {
          "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1232,14 +1248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-aronian-andreikin",
          "pubDate" : "Wed, 30 Nov 2022 19:35:00 -0800",
          "title" : "Aronian Sparks Bullet Comeback vs. Andreikin"
-      },
-      {
-         "description" : "Day 2 of the Tata Steel India Chess event once again finished with sole leaders in both tournaments. In the open, Nihal Sarin climbed to sole first place after scoring 2&frac12; out of 3 points, while among the women, Nana Dzagnidze could have lost her last two games of the day, but instead drew both times and is still in sole first place with three rounds to go. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d2",
-         "pubDate" : "Thu, 01 Dec 2022 03:55:00 +0100",
-         "title" : "Tata Steel India: Nihal surges ahead"
       },
       {
          "description" : "",
