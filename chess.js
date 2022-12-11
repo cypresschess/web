@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2131",
+         "pubDate" : "Sun, 11 Dec 2022 16:31:21 +0000",
+         "title" : "Women's Candidates: Tan Zhongyi honored in Khiva"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 103rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2095",
          "pubDate" : "Sun, 20 Nov 2022 21:10:27 +0000",
          "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
-      },
-      {
-         "description" : "The short list for this month's featured Flickr photo had two items. One was a little too naughty (not 'For All Ages') and the other was a little too uninspiring. The last time something similar happened I came up with <A HREF=\"http://chessforallages.blogspot.com/2021/12/shallow-green-chess-photos.html\">Shallow, Green Chess Photos</A>(December 2021). What to do this time? <P>Fortunately I had an idea left over from <A HREF=\"http://chessforallages.blogspot.com/2021/10/the-hand-that-guides-blank.html\">'The Hand that Guides the [blank]'</A>(October 2021). The Flickr photo behind that post was included in 29 groups, all begging to be explored. <P>One of the groups had the title 'deviantART Devia",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/to-cc-or-not-to-cc.html",
-         "pubDate" : "Sun, 20 Nov 2022 16:48:00 +0000",
-         "title" : "To CC or Not to CC"
       }
    ]
 }
