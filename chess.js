@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you don't have Chessbase 17, and failed to take advantage of the Discount Day sale, wishing you had, then this is the post to read. In a last offer before Christmas, you can take advantage of the Christmas Sale to gift yourself something special. You know you deserve it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-sale",
+         "pubDate" : "Sun, 11 Dec 2022 12:00:00 +0100",
+         "title" : "Christmas Sale!"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1113",
+         "pubDate" : "Sun, 11 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 11"
+      },
+      {
+         "description" : " While searching newspaper archives for something else the other day I came across a rather amusing game with rather amusing annotations, considering the white bishops to be motor cars. It was published in the Reading Observer in 1916: they had in turn taken it from a &#8216;foreign periodical' published &#8216;about ten years ago'. Let's take <a href=\"https://chessimprover.com/the-motor-car-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Motor Car Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-motor-car-gambit/\">The Motor Car Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-motor-car-gambit/",
+         "pubDate" : "Sun, 11 Dec 2022 10:40:21 +0000",
+         "title" : "The Motor Car Gambit"
+      },
+      {
+         "description" : "All India Chess Federation wishes a very happy birthday to five time World Champion and FIDE Deputy President Grandmaster Viswanathan Anand!! PC : Alina L'ami",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-viswanathan-anand-2/",
+         "pubDate" : "Sun, 11 Dec 2022 09:29:23 +0000",
+         "title" : "Happy Birthday Viswanathan Anand!!"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is set to take place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the paradisaic resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Yu Yangyi, Andrey Esipenko and Vasyl Ivanchuk looking to claim the 5.000 € first prize. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1138,7 +1170,7 @@ news_feed (
          "title" : "The Classical King's Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King's Indian Defense for the final time in this third part finale. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NzIcI4F3bpw.jpg?itok=SZt_SUn6\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King's Indian Defense for the final time in this third part finale.<br /> See two of his games against John Fedorowicz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NzIcI4F3bpw.jpg?itok=SZt_SUn6\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
@@ -1232,22 +1264,6 @@ news_feed (
          "link" : "https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/",
          "pubDate" : "Thu, 01 Dec 2022 13:00:27 +0000",
          "title" : "Results of the Neurohm, Kanarkiewicz and Play Magnus Group study"
-      },
-      {
-         "description" : "Magnus Carlsen, Hikaru Nakamura and Vishy Anand are certainly among the most prominent players in the chess world. Samuel Reshevsky, Akiba Rubinstein and Vasja Pirc are the Sagittarius legends. Karsten M&uuml;ller, Rustam Kasimdzhanov and Victor Bologan are super popular FritzTrainers. Sagittarius is chivalrous, swift as an arrow, and fair. And apparently Sagittarians are also absolutely brilliant chess players. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sagittarius-and-their-strategy",
-         "pubDate" : "Thu, 01 Dec 2022 14:00:00 +0100",
-         "title" : "Sagittarius and their strategy"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door1",
-         "pubDate" : "Thu, 01 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 1"
       },
       {
          "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
@@ -1602,14 +1618,6 @@ news_feed (
          "title" : "China clinch 3rd World Team Championship title"
       },
       {
-         "description" : "India lost to Spain for the Small Finals (the match for the third place) The first match ended in a 2:2 draw with Nihal Sarin",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-team-chess-championship-2022final-day-report/",
-         "pubDate" : "Sat, 26 Nov 2022 11:26:40 +0000",
-         "title" : "World Team Chess Championship 2022:Final Day Report"
-      },
-      {
          "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2094",
          "pubDate" : "Sun, 20 Nov 2022 14:11:33 +0000",
          "title" : "Magnus Carlsen crowned 2022 Tour Finals champion with a round to spare"
-      },
-      {
-         "description" : " IM Junta Ikeda has won the 2022 Vikings Weekender, with an undefeated 5.5/6. He won his round 5 and 6 games today, to finish half a point ahead of IM Stephen Solomon. Solomon was tied with Ikeda going into the final round, but could only draw with Fred Litchfield, after getting a worse position out of the opening. Queensland junior Micah Young finished in 3rd placed, defeating Macau Olympiad player CM Hui Li in the final round. The Minor was won by James Minogue and Nick Beare, on 5/6. The two winners drew their round 5 game, leaving Minogue half a point in front going into the final round. However Beare was able to catch Minogue with a crushing win over Jerry Cheng, with Minogue only drawi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-vikings-weekender-im-junta-ikeda.html",
-         "pubDate" : "Sun, 20 Nov 2022 11:35:00 +0000",
-         "title" : "2022 Vikings Weekender - IM Junta Ikeda wins"
       }
    ]
 }
