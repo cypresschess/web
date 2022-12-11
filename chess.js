@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " ** This is a shameless commercial ** If you are looking for a fantastic XMAS present for your children, other peoples children, nephews, nieces or even for yourself, then I have a deal for you. I have a large collection of Gambit \"Chess ... for Kids\" books. The titles are <ul style=\"text-align: left;\"><li>Chess Openings for Kids</li><li>Chess Opening Traps for Kids</li><li>Chess Tactics for Kids</li><li>Chess Endgames for Kids</li><li>Chess Strategy for Kids</li><li>Chess Puzzles for Kids</li><li>Chess For Children</li></ul>I am letting them go for $20 each, but if you grab 3 it will be $50 and $80 for 5. At this stage this offer is just for the local Canberra chess community but I can post",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/i-have-books-for-xmas.html",
+         "pubDate" : "Sun, 11 Dec 2022 12:56:00 +0000",
+         "title" : "I have books (for Xmas)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2130",
+         "pubDate" : "Sun, 11 Dec 2022 12:55:45 +0000",
+         "title" : "Fernando Peralta wins 2022 Argentine Championship"
+      },
+      {
          "description" : "If you don't have Chessbase 17, and failed to take advantage of the Discount Day sale, wishing you had, then this is the post to read. In a last offer before Christmas, you can take advantage of the Christmas Sale to gift yourself something special. You know you deserve it!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -237,6 +253,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2099",
+         "pubDate" : "Fri, 09 Dec 2022 20:56:19 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2126",
          "pubDate" : "Fri, 09 Dec 2022 19:02:21 +0000",
          "title" : "FIDE World Rapid & Blitz Championships 2022: Preliminary lists of participants "
@@ -248,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/amos-burn-the-tenacious-englishman-december-31-1848-november-25-1925",
          "pubDate" : "Fri, 09 Dec 2022 20:00:00 +0100",
          "title" : "Amos Burn: The Tenacious Englishman (December 31, 1848 - November 25, 1925)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Fri, 09 Dec 2022 18:56:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       },
       {
          "description" : "",
