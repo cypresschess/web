@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 103rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-103-play-the-sicilian-5",
+         "pubDate" : "Sun, 11 Dec 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 103: Play the Sicilian! (5)"
+      },
+      {
          "description" : " ** This is a shameless commercial ** If you are looking for a fantastic XMAS present for your children, other peoples children, nephews, nieces or even for yourself, then I have a deal for you. I have a large collection of Gambit \"Chess ... for Kids\" books. The titles are <ul style=\"text-align: left;\"><li>Chess Openings for Kids</li><li>Chess Opening Traps for Kids</li><li>Chess Tactics for Kids</li><li>Chess Endgames for Kids</li><li>Chess Strategy for Kids</li><li>Chess Puzzles for Kids</li><li>Chess For Children</li></ul>I am letting them go for $20 each, but if you grab 3 it will be $50 and $80 for 5. At this stage this offer is just for the local Canberra chess community but I can post",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1258,14 +1266,6 @@ news_feed (
          "title" : "Women's Candidates: Missed opportunities"
       },
       {
-         "description" : "The ChessBase Magazine Extra is the perfect addition to the ChessBase Magazine and keeps you informed about everything that happens in tournament chess. The current issue - CBM Extra #210 - contains training videos with Robert Ris and Mihail Marin (total playing time: just under 1 hour) and 38 deep and comprehensive analyses by Anish Giri, Romain Edouard, Lubomir Ftacnik, Michal Krasenkow, and many others.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-extra-210",
-         "pubDate" : "Thu, 01 Dec 2022 15:00:00 +0100",
-         "title" : "New: ChessBase Magazine Extra #210"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/to-cc-or-not-to-cc.html",
          "pubDate" : "Sun, 20 Nov 2022 16:48:00 +0000",
          "title" : "To CC or Not to CC"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2094",
-         "pubDate" : "Sun, 20 Nov 2022 14:11:33 +0000",
-         "title" : "Magnus Carlsen crowned 2022 Tour Finals champion with a round to spare"
       }
    ]
 }
