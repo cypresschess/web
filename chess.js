@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by Twitch&#39;s streamer of the year and Po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mogul-chessboxing-championship-hambleton-trent",
+         "pubDate" : "Mon, 12 Dec 2022 03:31:14 -0800",
+         "title" : "Hambleton Scores TKO Over Trent In Record-Breaking Chessboxing Event"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-129",
+         "pubDate" : "Mon, 12 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 12"
+      },
+      {
          "description" : "Since a couple of weeks Elisabeth P&auml;htz is a full chess grandmaster. She has been among the strongest German female chess players since early youth. In 2002, she became the World Youth Champion of the girls' under-18 age group, and in 2005, the World Junior Girls Champion. She won the 2018 European Women's Championship in rapid chess. Now Elli has published her autobiography. Interview by Lilli Hahn in the ECU Magazine.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -13,9 +29,33 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2132",
+         "pubDate" : "Mon, 12 Dec 2022 03:48:33 +0000",
+         "title" : "Kazakh Championship: Zhalmakhanov and Kamalidenova win titles"
+      },
+      {
+         "description" : "The&#160;2022 Chessable Sunway Sitges International Chess Festival&#160;takes place from 11-22 December in Sitges, Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The Open A will be played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 moves + []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
+         "pubDate" : "Mon, 12 Dec 2022 00:07:00 +0000",
+         "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2131",
          "pubDate" : "Sun, 11 Dec 2022 16:31:21 +0000",
          "title" : "Women's Candidates: Tan Zhongyi honored in Khiva"
+      },
+      {
+         "description" : "Here's a type of chess video you don't see every day. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/tiKYceqV_r0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Vintage chess clock restoration</B> (11:21) &#149; '[Published on] Dec 10, 2022' <P>The description (right click the embedded video for a link) started, <BLOCKQUOTE>This chess clock was made in 1950`s in Russia. My client wanted me to make it nicer, because it was meant to be birthday present for young and talented chess player. This kind of works are not about the money, but the joy, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/chess-clock-restoration.html",
+         "pubDate" : "Sun, 11 Dec 2022 16:30:00 +0000",
+         "title" : "Chess Clock Restoration"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 103rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -151,7 +191,7 @@ news_feed (
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/nihal-sarin-achieved-a-17-9-score-against-ding-liren/",
          "pubDate" : "Sat, 10 Dec 2022 13:09:01 +0000",
-         "title" : "Nihal Sarin achieved a 17-9 score against Ding Liren"
+         "title" : "Nihal Sarin Crashes Ding Liren Months Before the World Championship Match"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -232,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-womens-world-blitz-chess-championship-2022-paricipants/",
          "pubDate" : "Sat, 10 Dec 2022 08:12:32 +0000",
          "title" : "FIDE Women's World Blitz Chess Championship 2022 - Paricipants"
-      },
-      {
-         "description" : "The FIDE Women's World Rapid and Blitz Chess Championship 2022 will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with FIDE World Rapid and Blitz Chess Championship 2022. The rapid competition will be played in 11 rounds, swiss system, with a time control of 15 minutes + 10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-world-rapid-chess-championship-2022-paricipants/",
-         "pubDate" : "Sat, 10 Dec 2022 08:07:14 +0000",
-         "title" : "FIDE Women's World Rapid Chess Championship 2022 - Paricipants"
       },
       {
          "description" : "In the diagram position Black finally wants to play ...0-0, but of course White still has something to say about that. 22.g4 or 22.Ra8+ - how would you start disruptive action?",
@@ -1242,14 +1274,6 @@ news_feed (
          "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
-         "description" : "This week Robert Ris takes a look at the Van Geet Opening: 1.Nc3!?, a move that helped Arjun Erigaisi to achieve a miniature victory against his compatriot Praggnanandhaa at the finals of the Meltwater Champions Chess Tour. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-surprising-and-often-surprisingly-effective-1-nc3",
-         "pubDate" : "Thu, 01 Dec 2022 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Surprising and often surprisingly effective: 1.Nc3!?"
-      },
-      {
          "description" : "Is it already the end of the year again? The Holiday season approaches, and on Chess.com this can only mean one thing: Your favorite Holiday Bots are back! Put on your best holiday-themed sweater, grab some cookies, pour some eggnog, and head to o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1344,14 +1368,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-sevian-in-the-mrdodgy-invitational-semis",
          "pubDate" : "Wed, 30 Nov 2022 15:25:13 +0000",
          "title" : "Carlsen-Sevian in MrDodgy Invitational Semis"
-      },
-      {
-         "description" : "Chess.com is happy to announce that we&#39;ve released 50 lessons on the most popular chess openings. Developed by our team of master players, these lessons will teach you everything you need to know to take your opening play to the next level. Many...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-50-opening-lessons",
-         "pubDate" : "Wed, 30 Nov 2022 06:00:00 -0800",
-         "title" : "Chess.com Releases 50 Opening Lessons"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95889479.cms\" />Chess prodigy R Praggnanandhaa believes becoming a world champion is a realistic possibility and has given himself three to four years to achieve the feat.",
@@ -1864,38 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2096",
          "pubDate" : "Mon, 21 Nov 2022 12:53:28 +0000",
          "title" : "World Senior Chess Championship 2022: It's halftime!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/world-senior-individual-chess-championship-report/#new_tab",
-         "pubDate" : "Mon, 21 Nov 2022 11:06:26 +0000",
-         "title" : "World Senior Individual Chess Championship - report"
-      },
-      {
-         "description" : " Like most chess teachers, I encourage my students to look for forcing moves: checks, captures and threats. Some time ago I thought it a good idea to teach them to use a CCTV to look at the board, so I told them about Checks, Captures, Threats and Violent moves. The Violent moves serves as a <a href=\"https://chessimprover.com/cctv/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"CCTV\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/cctv/\">CCTV</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/cctv/",
-         "pubDate" : "Mon, 21 Nov 2022 09:07:30 +0000",
-         "title" : "CCTV"
-      },
-      {
-         "description" : " <p class=\"lead\">Lionel Messi and Cristiano Ronaldo, two of the most iconic football players of all time, are staring in Louis Vuitton's latest campaign, and they appear to play a real position of chess! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/messi-ronaldo-chess-louis-vuitton.jpeg\" width=\"810\" height=\"417\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://twitter.com/annieleibovitz\">Annie Leibovitz</a></div> </div> \"Victory is a State of Mind,\" writes Louis Vuitton alongside the photo by the legendary celebrity portrait photographer Annie Leibovitz, in which Messi and Ronaldo are playing chess on a checkered Louis Vuitton suitcase. The photo",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/messi-and-ronaldo-break-the-internet-by-playing-chess-for-louis/",
-         "pubDate" : "Mon, 21 Nov 2022 08:49:18 +0000",
-         "title" : "Messi and Ronaldo break the internet by playing chess for Louis Vuitton"
-      },
-      {
-         "description" : " The Meltwater Champions Chess Tour Finals took place 14th to 20th November 2022. The event was played on the Chess24 platform but half the players will be based at the Ferry Building in San Francisco, the city where Meltwater is based. Carlsen had already won the whole tour but there was still $210,000 to play for. The event was a mini-match round robin. Four rapid games each day against the same opponent, the result of the mini-match, win draw or loss going into the table. Players: Magnus Carlsen, Jan-Krzysztof Duda, Arjun Erigaisi, Anish Giri, Quang Liem Le, Shakhriyar Mamedyarov, R Praggnanandhaa and Wesley So. Carlsen dominated throughout with only Duda keeping pace in the early rounds ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-finals-2022",
-         "pubDate" : "Mon, 21 Nov 2022 12:45:00 +0400",
-         "title" : "Meltwater Champions Chess Tour Finals 2022 - Games and Results"
       }
    ]
 }
