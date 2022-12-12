@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Mon, 12 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, takes on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match is split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-challenger-2022-live",
+         "pubDate" : "Mon, 12 Dec 2022 16:00:00 +0100",
+         "title" : "Julius Baer Challenger Championship - Live"
+      },
+      {
          "description" : "At the end of the year, the FIDE World Rapid & Blitz Championships will be played in Almaty (Kazakhstan). The first day of play is 26 December. Top seeds in the rapid open are Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Maxime-Vachier Lagrave, Ian Nepomniachtchi and Alexander Grischuk.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "A chess highlight at the end of the year: the FIDE World Rapid & Blitz World Championships 2022"
       },
       {
-         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by Twitch&#39;s streamer of the year and Po...",
+         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by Twitch&#39;s streamer of the year and P...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mogul-chessboxing-championship-hambleton-trent",
-         "pubDate" : "Mon, 12 Dec 2022 03:31:14 -0800",
-         "title" : "Hambleton Scores TKO Over Trent In Record-Breaking Chessboxing Event"
+         "pubDate" : "Mon, 12 Dec 2022 03:31:00 -0800",
+         "title" : "Hambleton Scores TKO Over Trent, Belenkaya Checkmates Botez In Record-Breaking Chessboxing Event"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -24,6 +40,30 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-129",
          "pubDate" : "Mon, 12 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 12"
+      },
+      {
+         "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-challenger-championship-2022",
+         "pubDate" : "Mon, 12 Dec 2022 14:45:00 +0400",
+         "title" : "Julius Baer Challenger Championship 2022 - Games and Results"
+      },
+      {
+         "description" : " The 9th Sunway Sitges Open sponsored by Chessable takes place 12th to 23rd December 2022. One of the strongest opens of the year. Leading players: Yu Yangyi, Hans Moke Niemann, Jorden Van Foreest, Ivan Cheparinov, Jules Moussard, Andrey Esipenko, Vasyl Ivanchuk, Kiril Alekseenko, Anton Korobov, Amin Tabatabaei, Anton Demchenko, Gawain Jones, Manuel Petrosyan etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-sunway-sitges-open-2022",
+         "pubDate" : "Mon, 12 Dec 2022 14:30:00 +0400",
+         "title" : "9th Sunway Sitges Open 2022 - Games and Results"
+      },
+      {
+         "description" : " The 13th Hainan Danzhou GM tournament takes place Mon 12th Dec to Wed 14th Dec 2022. The event takes place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-hainan-danzhou-gm-2022",
+         "pubDate" : "Mon, 12 Dec 2022 14:22:00 +0400",
+         "title" : "13th Hainan Danzhou GM 2022 - Games and Results"
       },
       {
          "description" : "Since a couple of weeks Elisabeth P&auml;htz is a full chess grandmaster. She has been among the strongest German female chess players since early youth. In 2002, she became the World Youth Champion of the girls' under-18 age group, and in 2005, the World Junior Girls Champion. She won the 2018 European Women's Championship in rapid chess. Now Elli has published her autobiography. Interview by Lilli Hahn in the ECU Magazine.",
@@ -280,6 +320,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-womens-world-blitz-chess-championship-2022-paricipants/",
          "pubDate" : "Sat, 10 Dec 2022 08:12:32 +0000",
          "title" : "FIDE Women's World Blitz Chess Championship 2022 - Paricipants"
+      },
+      {
+         "description" : " The FIDE Women Candidates Pool B took place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi. Tan Zhongyi won the final against Goryachkina winning the final game.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
+         "pubDate" : "Sat, 10 Dec 2022 12:05:00 +0400",
+         "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
       },
       {
          "description" : "In the diagram position Black finally wants to play ...0-0, but of course White still has something to say about that. 22.g4 or 22.Ra8+ - how would you start disruptive action?",
@@ -962,6 +1010,14 @@ news_feed (
          "title" : "Understanding before Moving 102: Play the Sicilian! (4)"
       },
       {
+         "description" : " The Tata Steel India Rapid & Blitz took place 29th November to 4th December 2022. Arjun Erigaisi won the event by coming second in the Rapid behind Nihal Sarin and first in the blitz. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2022",
+         "pubDate" : "Sun, 4 Dec 2022 16:26:00 +0400",
+         "title" : "Tata Steel India Rapid & Blitz 2022 - Games and Results"
+      },
+      {
          "description" : " Here's a tactical idea which comes up from time to time. Your opponent has a king in the centre. You move a unit to a square controlled by two enemy pawns. Either pawn capture opens a diagonal for a check by a bishop or queen with fatal results. I could have reached this position in <a href=\"https://chessimprover.com/opening-diagonals/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Diagonals\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-diagonals/\">Opening Diagonals</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1178,14 +1234,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Seven"
       },
       {
-         "description" : "There has been little change at the top of the FIDE world rankings. Magnus Carlsen leads ahead of Ding Liren and Ian Nepomniachtchi. The best woman player is Hou Yifan and the best juniors are Alireza Firouzja and Zhu Jiner.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-december-2022",
-         "pubDate" : "Fri, 02 Dec 2022 15:00:00 +0100",
-         "title" : "FIDE ratings December 2022"
-      },
-      {
          "description" : " I've hit a bit of a dry spell with this blog lately. I suspect the main reason is that the effects of covid on OTB chess are still being felt. This has resulted in more online events (which I don't really follow), and faster/shorter events, which I don't take that seriously. The other reason is that paradoxically, having more free time (due to retirement) has resulted in me having less free time. I've ended up doing a lot more coaching than ever before, which makes it harder for me to organise the time for other (important) tasks. The knock-on effect is that instead of chess being an alternative to work, it is just part of my work. On the bright side, I finally knocked off all the possible ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1200,14 +1248,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-the-mrdodgy-invitational",
          "pubDate" : "Fri, 02 Dec 2022 11:56:26 +0000",
          "title" : "Magnus Carlsen wins the MrDodgy Invitational"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-2663",
-         "pubDate" : "Fri, 02 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 2"
       },
       {
          "description" : "The European School Chess Championship 2023 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -1442,14 +1482,6 @@ news_feed (
          "title" : "Eight Indians are members of FIDE commissions from 2022-26"
       },
       {
-         "description" : " The Tata Steel India Rapid & Blitz takes place Tue 29th Nov to Sun 4th Dec 2022. Nakamura, So, Mamedyarov, Abdusattorov, Vidit etc. There are men's and women's sections for rapid followed by blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2022",
-         "pubDate" : "Tue, 29 Nov 2022 16:26:00 +0400",
-         "title" : "Tata Steel India Rapid & Blitz 2022 - Games and Results"
-      },
-      {
          "description" : "MPL 47th National Sub Junior &#38; 38th National Sub Junior Girls Chess Championship-2022 kick starts at IGI stadium Delhi with a bang . A number",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1560,14 +1592,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kamila-hryshchenko-world-congress-of-chess-composition/",
          "pubDate" : "Mon, 28 Nov 2022 09:10:07 +0000",
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
-      },
-      {
-         "description" : " The FIDE Women Candidates Pool B takes place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
-         "pubDate" : "Mon, 28 Nov 2022 12:05:00 +0400",
-         "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
       },
       {
          "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
