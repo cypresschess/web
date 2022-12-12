@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-chess-praggnanandhaa-beats-arjun-erigaisi-in-final-round-finishes-5th/articleshow/95651531.cms",
          "pubDate" : "Mon, 21 Nov 2022 05:04:27 +0000",
          "title" : "Meltwater Chess: Praggnanandhaa beats Erigaisi to finish 5th"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2095",
-         "pubDate" : "Sun, 20 Nov 2022 21:10:27 +0000",
-         "title" : "FIDE World Team Championship 2022: Rounds 1 and 2 recap"
       }
    ]
 }
