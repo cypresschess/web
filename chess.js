@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since a couple of weeks Elisabeth P&auml;htz is a full chess grandmaster. She has been among the strongest German female chess players since early youth. In 2002, she became the World Youth Champion of the girls' under-18 age group, and in 2005, the World Junior Girls Champion. She won the 2018 European Women's Championship in rapid chess. Now Elli has published her autobiography. Interview by Lilli Hahn in the ECU Magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-chess-the-penultimate-mistake-wins",
+         "pubDate" : "Mon, 12 Dec 2022 09:19:12 +0100",
+         "title" : "In chess the penultimate mistake wins!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Esipenko, Ivanchuk, Van Foreest to play at the Sunway Open in Sitges"
       },
       {
-         "description" : " LIVE game link for MPL 35th NATIONAL UNDER 13 CHESS CHAMPIONSHIPS - 2022 OPEN GIRLS",
+         "description" : "&#160;LIVE&#160;game link for&#160;MPL 35th NATIONAL UNDER 13 CHESS CHAMPIONSHIPS - 2022 OPEN GIRLS",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-game-link-for-mpl-35th-national-under-13-chess-championships-2022/",
@@ -1266,14 +1274,6 @@ news_feed (
          "title" : "Carlsen's 7:1 birthday win sets up Dubov final"
       },
       {
-         "description" : "Much like on the first day of the Women's Candidates (Pool B) in Khiva, two tense draws were signed by the contenders looking to get a spot in the final against Lei Tingjie. After a rest day on Thursday, two more games will be played in this phase, with tiebreaks scheduled for Sunday in case of a 2-2 result in the classical portion. | Photo: Xushnud Baltaev",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-pool-b-2022-r1g2",
-         "pubDate" : "Thu, 01 Dec 2022 15:30:00 +0100",
-         "title" : "Women's Candidates: Missed opportunities"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,22 +1896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/meltwater-champions-chess-tour-finals-2022",
          "pubDate" : "Mon, 21 Nov 2022 12:45:00 +0400",
          "title" : "Meltwater Champions Chess Tour Finals 2022 - Games and Results"
-      },
-      {
-         "description" : " <p class=\"lead\">The qualifying phase of the €460,000 Armageddon Championship Series continues on the FIDE Online Arena with more than 700 people already participating. As before, the top 20 players of the second tournament in each region advance to the online final with a prize pool of €10,000. We already know the names of 99 finalists. There may already be six winners among them, who will get a ticket to the OTB Berlin event and face the world's best grandmasters. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #2:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9437.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-second-tournaments/",
-         "pubDate" : "Mon, 21 Nov 2022 07:41:16 +0000",
-         "title" : "Armageddon Online Cups: Results for the second tournaments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95651531.cms\" />Teenaged Indian Grandmaster R Praggnanandhaa defeated compatriot Arjun Erigaisi 2.5-0.5 in the seventh and final round to finish fifth in the Meltwater Champions Tour Finals on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/meltwater-chess-praggnanandhaa-beats-arjun-erigaisi-in-final-round-finishes-5th/articleshow/95651531.cms",
-         "pubDate" : "Mon, 21 Nov 2022 05:04:27 +0000",
-         "title" : "Meltwater Chess: Praggnanandhaa beats Erigaisi to finish 5th"
       }
    ]
 }
