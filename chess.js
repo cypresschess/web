@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the end of the year, the FIDE World Rapid & Blitz Championships will be played in Almaty (Kazakhstan). The first day of play is 26 December. Top seeds in the rapid open are Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Maxime-Vachier Lagrave, Ian Nepomniachtchi and Alexander Grischuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-chess-highlight-at-the-end-of-the-year-the-fide-world-rapid-blitz-world-championships-2022",
+         "pubDate" : "Mon, 12 Dec 2022 14:18:54 +0100",
+         "title" : "A chess highlight at the end of the year: the FIDE World Rapid & Blitz World Championships 2022"
+      },
+      {
          "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by Twitch&#39;s streamer of the year and Po...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
          "title" : "The Classical King's Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "The 9-round rapid tournaments - open and women's - at the Tata Steel India Chess event came to an end on Thursday. Nihal Sarin had a dominating performance in the open, securing first place with a round to spare after collecting back-to-back wins over Shakhriyar Mamedyarov and Parham Maghsoodloo. Earlier in the day, Anna Ushenina had defeated Nana Dzagnidze in blitz tiebreaks to claim the women's title. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d3",
-         "pubDate" : "Fri, 02 Dec 2022 01:25:00 +0100",
-         "title" : "Nihal and Ushenina win Tata Steel India Rapid tournaments"
       },
       {
          "description" : "GM Nihal Sarin won the 2022 Tata Steel Chess India Open Rapid with a round to spare, while GM Anna Ushenina tied for first and won the tiebreak match to win the 2022 Tata Steel Chess India Women&#39;s Rapid. In the Open section, while Nihal scored 6...",
