@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/stockfish-vs-chessbase-settlement.html",
          "pubDate" : "Mon, 21 Nov 2022 16:44:00 +0000",
          "title" : "Stockfish vs. ChessBase Settlement"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2096",
-         "pubDate" : "Mon, 21 Nov 2022 12:53:28 +0000",
-         "title" : "World Senior Chess Championship 2022: It's halftime!"
       }
    ]
 }
