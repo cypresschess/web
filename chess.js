@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest stars in chess, will be among the participants at the FIDE World Rapid &#38;amp; Blitz Championships in Almaty, Kazakhstan. As always, the tournament will be held during the last week of the ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-participants",
+         "pubDate" : "Mon, 12 Dec 2022 09:31:00 -0800",
+         "title" : "Carlsen, Nakamura Among Participants At World Rapid & Blitz"
+      },
+      {
+         "description" : "In the Endgame Magic Show #218 Karsten M&uuml;ller and Dutch IM and popular author Herman Grooten talk about the endgame in general and Herman's new book \"Chess Endgames for Club Players\" in particular. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-218-with-herman-grooten",
+         "pubDate" : "Mon, 12 Dec 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #218 - with Herman Grooten"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2133",
+         "pubDate" : "Mon, 12 Dec 2022 16:35:50 +0000",
+         "title" : "Greek Championship: Georgios Mitsis and Marina Makropoulou come out on top"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "A chess highlight at the end of the year: the FIDE World Rapid & Blitz World Championships 2022"
       },
       {
-         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by Twitch&#39;s streamer of the year and P...",
+         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by the 2022 Game Awards Creator of the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mogul-chessboxing-championship-hambleton-trent",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-129",
          "pubDate" : "Mon, 12 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 12"
+      },
+      {
+         "description" : "We&#39;re about to see the final games of one of the most exciting World Cups unfold. Whether you&#39;re rooting for the soccer giants France and Argentina, waiting to see Croatian veteran Modric take the cup home, or hoping Morocco makes history as the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-world-cup-chess-bots",
+         "pubDate" : "Mon, 12 Dec 2022 02:52:00 -0800",
+         "title" : "Play The World Cup Country Bots"
       },
       {
          "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
@@ -1218,14 +1250,6 @@ news_feed (
          "title" : "The SmartChess Saga"
       },
       {
-         "description" : "This week, Daniel King continues to explore the 'Novotny interference', a beautiful theme that recently resurfaced in competitive play. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-a-novotny-classic",
-         "pubDate" : "Fri, 02 Dec 2022 17:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: A Novotny classic"
-      },
-      {
          "description" : " I was asked a question during the Thanksgiving holiday that led to an interesting conversation, one worth interrupting this series of articles to present. It not only has to do with chess but with nearly everything else we do in life. The question was simple enough, why bother learning how to play chess? The answer, <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\">A Foundation for Beginners Seventy Seven</a> appeared first on <a rel=\"nofollow",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1376,22 +1400,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/01/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
          "pubDate" : "Thu, 01 Dec 2022 00:10:12 +0000",
          "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
-      },
-      {
-         "description" : "GM Nihal Sarin and GM Nana Dzagnidze are in the sole leads of their respective groups with an identical 4.5 points from six games in the 2022 Tata Steel Chess India Open Rapid and 2022 Tata Steel Chess India Women&#39;s Rapid. Overnight leader GM Sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-rapid-day-2",
-         "pubDate" : "Wed, 30 Nov 2022 13:21:00 -0800",
-         "title" : "Nihal And Dzagnidze Leaders After 6 Rounds"
-      },
-      {
-         "description" : "GMs Daniil Dubov and Magnus Carlsen won the November 29 editions of Titled Tuesday. Dubov scored 10.5/11 in the early tournament, winning by 1.5 points, while Carlsen scored 9.5 and outlasted GM Vladimir Fedoseev on tiebreaks. Also making an imp...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-carlsen-win-titled-tuesday-november-29-2022",
-         "pubDate" : "Wed, 30 Nov 2022 09:34:16 -0800",
-         "title" : "Carlsen Returns And Wins After Dubov Dominance"
       },
       {
          "description" : "",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2097",
          "pubDate" : "Mon, 21 Nov 2022 21:30:43 +0000",
          "title" : "World Team Championship 2022: Sunny days for China and Uzbekistan"
-      },
-      {
-         "description" : "I've been following the 'Fat Fritz' story on this blog for over three years -- four years if you count the 'Deus X [DeusX]' posts linked in the first post listed here:- <UL><LI>2019-11-18: <A HREF=\"https://chessforallages.blogspot.com/2019/11/fat-fritz-by-albert-silver.html\">'Fat Fritz' by Albert Silver</A> <LI>2020-06-15: <A HREF=\"https://chessforallages.blogspot.com/2020/06/fat-fritz-followup.html\">Fat Fritz Followup</A> <LI>2021-02-22: <A HREF=\"https://chessforallages.blogspot.com/2021/02/the-transformation-of-fat-fritz.html\">The Transformation of Fat Fritz</A> <LI>2021-03-08: <A HREF=\"https://chessforallages.blogspot.com/2021/03/the-condemnation-of-fat-fritz.html\">The Condemnation of Fat",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/stockfish-vs-chessbase-settlement.html",
-         "pubDate" : "Mon, 21 Nov 2022 16:44:00 +0000",
-         "title" : "Stockfish vs. ChessBase Settlement"
       }
    ]
 }
