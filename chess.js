@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Opposite colored bishop endings often have drawish tendencies and fortresses are often the main topic. But sometimes creating passed pawns makes the fortresses crumble. In the diagram position it is Black to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-breakthrough-3",
+         "pubDate" : "Tue, 13 Dec 2022 09:00:00 +0100",
+         "title" : "The breakthrough"
+      },
+      {
+         "description" : "No major upsets were seen in round 1 of the Sunway Main Tournament, as 16 out of the top 20 seeds won their games in Sitges. Amin Tabatabaei, the tenth seed, lost by forfeit, while two former winners of the event (plus Jules Moussard) were held to draws by lower-rated opponents - i.e. Ivan Cheparinov and Anton Korobov. | Pictured: A beautiful sunset from the 2021 edition. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r1",
+         "pubDate" : "Tue, 13 Dec 2022 06:20:00 +0100",
+         "title" : "Sunway Sitges: Former winners held to draws"
+      },
+      {
          "description" : "The 2022 Speed Chess Championship continued on Monday with an electric quarterfinal performance from GM Hikaru Nakamura as he overcame GM Levon Aronian with a 15.5-8.5 score. Nakamura gained a two-point lead early, which he never let go, and was...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-nakamura-aronian",
-         "pubDate" : "Mon, 12 Dec 2022 19:25:03 -0800",
+         "pubDate" : "Mon, 12 Dec 2022 19:25:00 -0800",
          "title" : "Nakamura Runs Over Aronian In Quarterfinals"
       },
       {
@@ -48,22 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2133",
          "pubDate" : "Mon, 12 Dec 2022 16:35:50 +0000",
          "title" : "Greek Championship: Georgios Mitsis and Marina Makropoulou come out on top"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Mon, 12 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
-      },
-      {
-         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, takes on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match is split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-challenger-2022-live",
-         "pubDate" : "Mon, 12 Dec 2022 16:00:00 +0100",
-         "title" : "Julius Baer Challenger Championship - Live"
       },
       {
          "description" : "At the end of the year, the FIDE World Rapid & Blitz Championships will be played in Almaty (Kazakhstan). The first day of play is 26 December. Top seeds in the rapid open are Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Maxime-Vachier Lagrave, Ian Nepomniachtchi and Alexander Grischuk.",
@@ -186,20 +186,20 @@ news_feed (
          "title" : "Fernando Peralta wins 2022 Argentine Championship"
       },
       {
-         "description" : "If you don't have Chessbase 17, and failed to take advantage of the Discount Day sale, wishing you had, then this is the post to read. In a last offer before Christmas, you can take advantage of the Christmas Sale to gift yourself something special. You know you deserve it!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-sale",
-         "pubDate" : "Sun, 11 Dec 2022 12:00:00 +0100",
-         "title" : "Christmas Sale!"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1113",
          "pubDate" : "Sun, 11 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 11"
+      },
+      {
+         "description" : "If you don't have Chessbase 17, and failed to take advantage of the Discount Day sale, wishing you had, then this is the post to read. In a last offer before Christmas, you can take advantage of the Christmas Sale to gift yourself something special. You know you deserve it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-sale",
+         "pubDate" : "Sun, 11 Dec 2022 12:00:00 +0100",
+         "title" : "Christmas Sale!"
       },
       {
          "description" : " While searching newspaper archives for something else the other day I came across a rather amusing game with rather amusing annotations, considering the white bishops to be motor cars. It was published in the Reading Observer in 1916: they had in turn taken it from a &#8216;foreign periodical' published &#8216;about ten years ago'. Let's take <a href=\"https://chessimprover.com/the-motor-car-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Motor Car Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-motor-car-gambit/\">The Motor Car Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
