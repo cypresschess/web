@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We&#39;re about to see the final games of one of the most exciting World Cups unfold. Whether you&#39;re rooting for the soccer giants France and Argentina, waiting to see Croatian veteran Modric take the cup home, or hoping Morocco makes history as the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-world-cup-chess-bots",
+         "pubDate" : "Mon, 12 Dec 2022 13:45:00 -0800",
+         "title" : "Play The World Cup Country Bots"
+      },
+      {
+         "description" : " The 2022 ACT Rapidplay Championship is being held on the 17th December 2022 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 17 December 2022 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($350 in prizes were awarded in 2021)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF Rated </li><li>ACTCA/ACTJCL Membership reqd - 2023 membership can be paid here <a href=\"https://www.trybooking.com/CEFJY\">https://www.trybooking.com/CEFJY</a></li></ul>(* I am a paid official f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-17.html",
+         "pubDate" : "Mon, 12 Dec 2022 21:36:00 +0000",
+         "title" : "2022 ACT Rapidplay Championship - 17 December 2022"
+      },
+      {
          "description" : "GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest stars in chess, will be among the participants at the FIDE World Rapid &#38;amp; Blitz Championships in Almaty, Kazakhstan. As always, the tournament will be held during the last week of the ye...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 12"
       },
       {
-         "description" : "We&#39;re about to see the final games of one of the most exciting World Cups unfold. Whether you&#39;re rooting for the soccer giants France and Argentina, waiting to see Croatian veteran Modric take the cup home, or hoping Morocco makes history as the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-world-cup-chess-bots",
-         "pubDate" : "Mon, 12 Dec 2022 02:52:00 -0800",
-         "title" : "Play The World Cup Country Bots"
-      },
-      {
          "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -120,6 +128,14 @@ news_feed (
          "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
          "pubDate" : "Mon, 12 Dec 2022 00:07:00 +0000",
          "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 ChessKid All-Star Finals will take place on December 17, with more than 20 talented young chess players from around the world competing against each other in the culmination of a year-long series of qualification tournaments.&#38;nbsp; Foll...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesskid-all-star-finals",
+         "pubDate" : "Sun, 11 Dec 2022 13:46:00 -0800",
+         "title" : "2022 ChessKid All-Star Finals Announced"
       },
       {
          "description" : "",
@@ -1378,14 +1394,6 @@ news_feed (
          "title" : "Results of the Neurohm, Kanarkiewicz and Play Magnus Group study"
       },
       {
-         "description" : "GM Levon Aronian defeated GM Dmitry Andreikin&#38;nbsp;in the 2022 Speed Chess Championship in an electrifying duel on Wednesday. The match between these two exceptional grandmasters was loaded with imaginative play and rivalrous chess to culminate in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-aronian-andreikin",
-         "pubDate" : "Wed, 30 Nov 2022 19:35:00 -0800",
-         "title" : "Aronian Sparks Bullet Comeback vs. Andreikin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-team-championship.html",
          "pubDate" : "Tue, 22 Nov 2022 12:32:00 +0000",
          "title" : "2022 World Team Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2097",
-         "pubDate" : "Mon, 21 Nov 2022 21:30:43 +0000",
-         "title" : "World Team Championship 2022: Sunny days for China and Uzbekistan"
       }
    ]
 }
