@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following a controversial ruling at the Mogul Chessboxing Championship, which took place on Sunday, the organizer&#39;s Twitter account &#34;Mogul Moves&#34; announced an updated result on Tuesday regarding the match between WGM Dina Belenkaya and Andrea Bote...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/botez-awarded-tko-mogul-chessboxing",
+         "pubDate" : "Tue, 13 Dec 2022 11:06:00 -0800",
+         "title" : "Andrea Botez Awarded TKO In Mogul Chessboxing Championship, 2 Winners"
+      },
+      {
          "description" : "GM Arjun Erigaisi has signed a five-year sponsorship deal with Singapore-based quantitative trading firm Quantbox. This marked Erigaisi&#39;s first-ever sponsorship deal in his chess career as a professional player of the sport.&#38;nbsp; GM Arjun ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-signs-huge-sponsorship-deal-with-quantbox",
          "pubDate" : "Tue, 13 Dec 2022 09:07:29 -0800",
-         "title" : "Arjun Erigaisi Signs Huge Sponsorship Deal With Quantbox"
+         "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
       },
       {
          "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1884 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an excerpt to enjoy!",
@@ -386,7 +394,7 @@ news_feed (
          "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
       },
       {
-         "description" : "From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</a> appeared ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
@@ -682,7 +690,7 @@ news_feed (
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
       },
       {
-         "description" : "From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\">Improve Your Chess Calculation: The Ramesh Chess Co",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
@@ -1314,14 +1322,6 @@ news_feed (
          "title" : "Chess site files motion to dismiss $100m lawsuit"
       },
       {
-         "description" : "GM Aleksandra Goryachkina defeated GM Alexandra Kosteniuk on Friday in what was the third game of their quarterfinal match in Pool B of the 2022-23 FIDE Women&#39;s Candidates Tournament. Kosteniuk now needs to win on demand to force a tiebreak on Sat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-2",
-         "pubDate" : "Fri, 02 Dec 2022 12:00:00 -0800",
-         "title" : "Women's Candidates: Goryachkina Leads Against Kosteniuk"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,22 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/11/well-calculated.html",
          "pubDate" : "Wed, 23 Nov 2022 13:09:00 +0000",
          "title" : "Well calculated"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2100",
-         "pubDate" : "Tue, 22 Nov 2022 19:48:45 +0000",
-         "title" : "World Team Championship 2022: Four Teams Depart the Gathering"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (62)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-62/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (62)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-62/",
-         "pubDate" : "Tue, 22 Nov 2022 17:49:22 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
       }
    ]
 }
