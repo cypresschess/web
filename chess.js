@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What a year this has been for chess! We have not one, but two world championship challengers as the World Champion Magnus Carlsen&#38;nbsp;stepped away from the competition. A new wave of talent from Uzbekistan, India, and other countries took the wor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-vote",
+         "pubDate" : "Tue, 13 Dec 2022 07:55:10 -0800",
+         "title" : "Vote For The 2022 Chess.com Awards"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1384,14 +1392,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
          "title" : "The Classical King's Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "GM Nihal Sarin won the 2022 Tata Steel Chess India Open Rapid with a round to spare, while GM Anna Ushenina tied for first and won the tiebreak match to win the 2022 Tata Steel Chess India Women&#39;s Rapid. In the Open section, while Nihal scored 6...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-rapid-day-3",
-         "pubDate" : "Thu, 01 Dec 2022 15:03:00 -0800",
-         "title" : "Nihal, Ushenina Winners In Contrasting Styles"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King's Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
