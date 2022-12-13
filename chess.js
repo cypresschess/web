@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Arjun Erigaisi has signed a five-year sponsorship deal with Singapore-based quantitative trading firm Quantbox. This marked Erigaisi&#39;s first-ever sponsorship deal in his chess career as a professional player of the sport.&#38;nbsp; GM Arjun ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/arjun-erigaisi-signs-huge-sponsorship-deal-with-quantbox",
+         "pubDate" : "Tue, 13 Dec 2022 09:07:29 -0800",
+         "title" : "Arjun Erigaisi Signs Huge Sponsorship Deal With Quantbox"
+      },
+      {
+         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1884 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an excerpt to enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-mystery-of-zukertort-s-breakdown",
+         "pubDate" : "Tue, 13 Dec 2022 18:00:00 +0100",
+         "title" : "Willy Hendriks' \"The Ink War\" - The Mystery of Zukertort's Breakdown"
+      },
+      {
          "description" : "What a year this has been for chess! We have not one, but two world championship challengers as the World Champion Magnus Carlsen&#38;nbsp;stepped away from the competition. A new wave of talent from Uzbekistan, India, and other countries took the wor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -370,6 +386,14 @@ news_feed (
          "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
       },
       {
+         "description" : "From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
+         "pubDate" : "Sun, 11 Dec 2022 00:10:07 +0000",
+         "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
+      },
+      {
          "description" : "Tan Zhongyi won the fourth classical game of her semifinal match against Aleksandra Goryachkina on Saturday at the Women's Candidates Tournament in Khiva. It was also the last game of this competition. In view of the three draws previously signed, this victory qualified Tan to play the tournament's final, where she will face her compatriot Lei Tingjie. | Photo: Timur Sattarov / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -656,6 +680,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
          "pubDate" : "Fri, 09 Dec 2022 07:30:17 +0000",
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
+      },
+      {
+         "description" : "From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
+         "pubDate" : "Fri, 09 Dec 2022 00:10:12 +0000",
+         "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
       },
       {
          "description" : "GM Grigoriy Oparin from Mizzou won the Collegiate Chess League&#39;s fifth season after defeating GM Mikhail Antipov, from the same university, in the Grand Finals. His clutch performance in a must-win game ultimately earned him the $1,600 first prize...",
@@ -1242,14 +1274,6 @@ news_feed (
          "title" : "Mustafa Yilmaz wins 2022 Turkish Championship"
       },
       {
-         "description" : "After Nihal Sarin and Anna Ushenina claimed titles in the rapid tournaments of the Tata Steel Chess India event, the 2-day blitz section kicked off on Saturday. The women's tournament saw Mariya Muzychuk having a blasting start, as she scored 8/9 points to grab a commanding lead. In the open, meanwhile, Arjun Erigaisi tops the standings with 6&frac12;/9 points; Shakhriyar Mamedyarov stands close behind, a half point back. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d4",
-         "pubDate" : "Sat, 03 Dec 2022 19:05:00 +0100",
-         "title" : "Tata Steel India: Mariya Muzychuk starts strong in the blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-2",
          "pubDate" : "Fri, 02 Dec 2022 12:00:00 -0800",
          "title" : "Women's Candidates: Goryachkina Leads Against Kosteniuk"
-      },
-      {
-         "description" : "Chess.com has formally requested the Eastern Missouri District Court to dismiss GM Hans Niemann&#39;s defamation lawsuit. The motion to dismiss, filed on December 2, 2022, asserts that the lawsuit &#34;could have been brought only as a public relations st...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-files-motion-to-dismiss-niemann-lawsuit",
-         "pubDate" : "Fri, 02 Dec 2022 11:51:00 -0800",
-         "title" : "Chess.com Files Motion To Dismiss Hans Niemann Lawsuit"
       },
       {
          "description" : "",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "FIDE Events Commission: Call for Bids"
       },
       {
-         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/01/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://briti",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/12/01/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
-         "pubDate" : "Thu, 01 Dec 2022 00:10:12 +0000",
-         "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-1-mamedyarov-on-fire",
          "pubDate" : "Wed, 30 Nov 2022 08:50:51 +0000",
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
-      },
-      {
-         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/11/30/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
-         "pubDate" : "Wed, 30 Nov 2022 00:10:07 +0000",
-         "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
       },
       {
          "description" : "",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-62/",
          "pubDate" : "Tue, 22 Nov 2022 17:49:22 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (62)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95695340.cms\" />Riding on wins from Vidit Gujrathi and SL Narayanan, India defeated USA 3-1 in a fifth round Pool B match to qualify for the quarterfinals of the FIDE World Team chess championship on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
-         "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
-         "title" : "World Team Chess: India qualify for quarterfinals"
       }
    ]
 }
