@@ -2,20 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Tue, 13 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, takes on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match is split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/julius-baer-challenger-2022-live",
+         "pubDate" : "Tue, 13 Dec 2022 16:00:00 +0100",
+         "title" : "Julius Baer Challenger Championship - Live"
+      },
+      {
+         "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/andrea-botez-could-have-won-in-boxing-but-dina-belenkaya-actuall/",
+         "pubDate" : "Tue, 13 Dec 2022 14:50:33 +0000",
+         "title" : "Andrea Botez could have won in boxing but Dina Belenkaya actually won in chess!"
+      },
+      {
+         "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessable-sunway-chess-festival-begins-in-sitges",
+         "pubDate" : "Tue, 13 Dec 2022 13:58:40 +0000",
+         "title" : "Chessable Sunway Chess Festival begins in Sitges"
+      },
+      {
+         "description" : "The&#xA0;97th edition of the Argentine Absolute Chess Championship&#xA0;was held from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players competed in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). The time control was 90 minutes for 40 moves, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fernando-peralta-is-the-winner-of-the-97th-argentine-chess-championship/",
+         "pubDate" : "Tue, 13 Dec 2022 13:45:04 +0000",
+         "title" : "Fernando Peralta is the Winner of the 97th Argentine Chess Championship"
+      },
+      {
+         "description" : "Manuel G&ouml;ttsching is a pioneer of techno music, and in 1984 he released his groundbreaking classic \"E2-E4\". The title of the album alludes to chess and the cover of the album also shows a chessboard - G&ouml;ttsching liked to play. On 4 December the German musician died in Berlin at the age of 70. | Photo: Yoho",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-pioneer-of-techno-music-manuel-goettsching-died",
+         "pubDate" : "Tue, 13 Dec 2022 14:27:11 +0100",
+         "title" : "Manuel G&ouml;ttsching, German pioneer of techno music, died on 4 December"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-2-live-video-coverage/",
+         "pubDate" : "Tue, 13 Dec 2022 13:23:56 +0000",
+         "title" : "Chessable Sunway Sitges - Day 2 live video coverage"
+      },
+      {
+         "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-rapid-and-blitz-chess-championships-2022-start-in-katowice/",
+         "pubDate" : "Tue, 13 Dec 2022 12:42:14 +0000",
+         "title" : "European Rapid and Blitz Chess Championships 2022 start in Katowice"
+      },
+      {
          "description" : "The two winners of the Julius Baer Challenger Tour 2021 and 2022, the young Indian grandmasters Praggnanandhaa and Pranav Venkatesh, currently play a three-day rapid and blitz match in Tel Aviv. After two best-of-three rapid matches follow two best-of-four blitz matches. Praggnanandhaa won both rapid matches and has very good chances to win the event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/julius-baer-challenge-praggnanandhaa-ueberlegen",
          "pubDate" : "Tue, 13 Dec 2022 13:26:46 +0100",
          "title" : "Julius Baer Challenge: Praggnanandhaa dominates"
-      },
-      {
-         "description" : "We sent a copy of the new Chessbase 17 to the noted Russian journalist WGM Elmira Mirzoeva, and she wrote back quite excited how impressed she was, and that it was just such software and their new functions that allow young players to rise as quickly as they do. Read what she thinks in this review!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-even-more-of-a-substitute-for-a-human-trainer",
-         "pubDate" : "Tue, 13 Dec 2022 12:00:00 +0100",
-         "title" : "Chessbase 17 review: \"Even more of a substitute for a human trainer\""
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -26,20 +82,28 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 13"
       },
       {
-         "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/",
-         "pubDate" : "Tue, 13 Dec 2022 10:11:05 +0000",
-         "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
+         "description" : "We sent a copy of the new Chessbase 17 to the noted Russian journalist WGM Elmira Mirzoeva, and she wrote back quite excited how impressed she was, and that it was just such software and their new functions that allow young players to rise as quickly as they do. Read what she thinks in this review!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-even-more-of-a-substitute-for-a-human-trainer",
+         "pubDate" : "Tue, 13 Dec 2022 12:00:00 +0100",
+         "title" : "Chessbase 17 review: \"Even more of a substitute for a human trainer\""
       },
       {
          "description" : "The 2022 Greek Chess Championships&#xA0;took place in Athens from 3-11 December. The Open event was played as a 10-player round-robin tournament and the Women's event was an 11-player round-robin, with a time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/georgios-mitsis-and-marina-makropoulou-win-greek-chess-championships-2022/",
-         "pubDate" : "Tue, 13 Dec 2022 10:09:41 +0000",
+         "pubDate" : "Tue, 13 Dec 2022 10:29:41 +0000",
          "title" : "Georgios Mitsis and Marina Makropoulou win Greek Chess Championships 2022"
+      },
+      {
+         "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/",
+         "pubDate" : "Tue, 13 Dec 2022 10:11:05 +0000",
+         "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
       },
       {
          "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The first round saw a few upsets, and the event kicked off with strict anti-cheating controls. Chessable Sunway Sitges International []",
@@ -386,36 +450,12 @@ news_feed (
          "title" : "GM Ivan Saric claims Croatian Chess Championship 2022"
       },
       {
-         "description" : "The&#xA0;3rd edition of the El Llobregat Open Chess Tournament 2022&#xA0;took place from November 30 to December 8 in Sant Boi de Llobregat, Barcelona, Spain, gathering 50 grandmasters, 44 international masters and a total of 175 players fighting for the prize fund of 29.500eur! After nine played rounds, three players tied for the top scoring 7 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/amin-tabatabaei-wins-the-3rd-el-llobregat-open/",
-         "pubDate" : "Sat, 10 Dec 2022 09:28:52 +0000",
-         "title" : "Amin Tabatabaei wins the 3rd El Llobregat Open"
-      },
-      {
          "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz/",
          "pubDate" : "Sat, 10 Dec 2022 09:24:15 +0000",
          "title" : "Both Carlsen and Niemann to Play in the FIDE Rapid and Blitz. Just Not Against Each Other"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#160;is hosted in the ancient city of&#160;Khiva, in Uzbekistan. The event takes place from&#160;November 28&#160;to&#160;December 11&#160;at Hotel Farovon Khiva.&#160;This bracket saw the clash between the 2020 runner-up&#160;Aleksandra Goryachkina,&#160;Alexandra Kosteniuk&#160;and&#160;Tan Zhongyi&#160;as the top finishers at the FIDE World Cup 2021, and&#160;Kateryna Lagno&#160;as one of the top-three finishers at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-candidates-pool-b-goryachkina-vs-tan-zhongyi-live-video-coverage-day-4/",
-         "pubDate" : "Sat, 10 Dec 2022 09:17:17 +0000",
-         "title" : "FIDE Women's Candidates Pool B - Goryachkina vs Tan Zhongyi live video coverage - Day 4"
-      },
-      {
-         "description" : "At least from the outside, it looks like each day that goes by brings the tiebreak forward. Both players seem to be in a &#x201C;no risk&#x201D; control mode: solid openings, symmetrical pawn structures, and, above all, the avoidance of mistakes. With only one classical game to go, it will be very difficult to recover from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-and-goryachkina-tied-with-one-round-to-go-womens-candidates-pool-b/",
-         "pubDate" : "Sat, 10 Dec 2022 09:14:48 +0000",
-         "title" : "Tan Zhongyi and Goryachkina tied with one round to go; Women's Candidates Pool B"
       },
       {
          "description" : " The FIDE Women Candidates Pool B took place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi. Tan Zhongyi won the final against Goryachkina winning the final game.",
@@ -1218,14 +1258,6 @@ news_feed (
          "title" : "Goryachkina Forces Draw, Eliminates Kosteniuk"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-3678",
-         "pubDate" : "Sat, 03 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 3"
-      },
-      {
          "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1240,14 +1272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unnatural-acts-chess-paedophilia-and-brian-eley/",
          "pubDate" : "Sat, 03 Dec 2022 09:01:44 +0000",
          "title" : "Unnatural acts: chess, paedophilia and Brian Eley"
-      },
-      {
-         "description" : "In the diagram position, the fork 18...e4?? blundered the game for Black, but he did have a subtle way to get a clear advantage - enjoy the notes by Wesley So!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/olympic-spotlight",
-         "pubDate" : "Sat, 03 Dec 2022 09:00:00 +0100",
-         "title" : "Olympic spotlight"
       },
       {
          "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
@@ -1818,14 +1842,6 @@ news_feed (
          "title" : "Steamin' Niemann"
       },
       {
-         "description" : "It's India-Uzbekistan and China-Spain in the FIDE World Team Championship semi-finals after India survived a comeback to beat top seeds France in a blitz playoff, with Vishy Anand calling Indian hero Nihal Sarin \"a blitz genius\". The other shock was Spain taking down Azerbaijan, with David Anton defeating Teimour Radjabov in the crucial game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-teams-india-take-down-top-seeds-france",
-         "pubDate" : "Thu, 24 Nov 2022 12:51:16 +0000",
-         "title" : "World Teams: India take down top seeds France"
-      },
-      {
          "description" : "Congratulations to Samar Dayal who has won the Gold medal in the Under 8 section of the Commonwealth Chess Championships. His mother writes &#8212; &#8216;Samar...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1896,22 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-team-chess-championship-india-beat-usa-qualify-for-quarterfinals/articleshow/95695340.cms",
          "pubDate" : "Tue, 22 Nov 2022 16:42:15 +0000",
          "title" : "World Team Chess: India qualify for quarterfinals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2098",
-         "pubDate" : "Tue, 22 Nov 2022 13:52:33 +0000",
-         "title" : "Bernard Lesbros wins Senegalese Championship 2022"
-      },
-      {
-         "description" : " The number of international events is on the increase, which is surely a good sign. One big event currently running is the World Team Championship. This years event sees a new (and faster) format, with 2 groups of 6 teams, qualifying for an 8 team KO final. The big change is with the time limit, as the games are now played at 45m+10s, with 2 rounds per day. I must confess I am not a fan of this change, in part because I worry that this may become a suggested new time control for the chess Olympiad. After 4 of the 5 preliminary rounds, most of the usual suspects are in the lead. China is leading one group, which they would fine satisfying, as they did not attend the Olympiad this year. The o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/2022-world-team-championship.html",
-         "pubDate" : "Tue, 22 Nov 2022 12:32:00 +0000",
-         "title" : "2022 World Team Championship"
       }
    ]
 }
