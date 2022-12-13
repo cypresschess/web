@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2022 Speed Chess Championship continued on Monday with an electric quarterfinal performance from GM Hikaru Nakamura as he overcame GM Levon Aronian with a 15.5-8.5 score. Nakamura gained a two-point lead early, which he never let go, and was...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-nakamura-aronian",
+         "pubDate" : "Mon, 12 Dec 2022 19:25:03 -0800",
+         "title" : "Nakamura Runs Over Aronian In Quarterfinals"
+      },
+      {
          "description" : "We&#39;re about to see the final games of one of the most exciting World Cups unfold. Whether you&#39;re rooting for the soccer giants France and Argentina, waiting to see Croatian veteran Modric take the cup home, or hoping Morocco makes history as the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Thu, 01 Dec 2022 22:36:33 +0000",
          "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "Is it already the end of the year again? The Holiday season approaches, and on Chess.com this can only mean one thing: Your favorite Holiday Bots are back! Put on your best holiday-themed sweater, grab some cookies, pour some eggnog, and head to o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/holiday-bots-2022",
-         "pubDate" : "Thu, 01 Dec 2022 08:31:00 -0800",
-         "title" : "Have A Jolly Time With The Holiday Bots"
       },
       {
          "description" : "For the last time this year, here's our monthly look at American chess magazines from 50 and 25 years ago. For the previous post, see <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Another Title for Arthur Bisguier' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>U.S. Armed Forces Champion Lt. (j.g.) Zacarias S. Chavez (right) with one of his prizes. At left is Cmdr. L. Randall Rogers, who directed the tournament. Story [inside]. (ALNS Photo.) </BLOCKQ",
