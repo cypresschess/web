@@ -1,4 +1,5 @@
 jtable([
+"PEARLAND","2022-12-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202212139182 target='_blank'>RCC QUADS DECEMBER 13, 2022</a>",
 "HOUSTON","2022-12-10","25","<a href=http://www.uschess.org/msa/XtblMain.php?202212108512 target='_blank'>DEC. 10 SATURDAY SWISS/ SATURNIGHT</a>",
 "HOUSTON","2022-12-10","112","<a href=http://www.uschess.org/msa/XtblMain.php?202212107192 target='_blank'>HOT CHESS TOURNAMENT</a>",
 "SPRING","2022-12-09","15","<a href=http://www.uschess.org/msa/XtblMain.php?202212096962 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-04-23  - 04-24","58","<a href=http://www.uschess.org/msa/XtblMain.php?202204241572 target='_blank'>$3,200 HOUSTON CHESS STUDIO SPRING</a>",
 "HOUSTON","2022-04-23","410","<a href=http://www.uschess.org/msa/XtblMain.php?202204231042 target='_blank'>T H ROGERS TOURNAMENT</a>",
 "SPRING","2022-04-22","18","<a href=http://www.uschess.org/msa/XtblMain.php?202204220372 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-04-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202204220342 target='_blank'>FBCC04222022</a>",
 ]);
