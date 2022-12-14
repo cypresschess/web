@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off in Sitges, Barcelona and takes place from 11-22 December. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The main Open A tournament is played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-2-results/",
+         "pubDate" : "Wed, 14 Dec 2022 12:27:41 +0000",
+         "title" : "Chessable Sunway Sitges - Round 2 results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2134",
+         "pubDate" : "Wed, 14 Dec 2022 11:52:54 +0000",
+         "title" : "Gorshtein and Shvayger win 2022 Israeli Championship"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-141",
+         "pubDate" : "Wed, 14 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 14"
+      },
+      {
+         "description" : "In the Julius Baer Challenge Championship match between Pranav Venkatesh and Rameshbabu Praggnanandhaa the favourite Praggnanandhaa clearly dominated. After winning the two best-of-three rapid matches 2,5-0,5 and 2-0 Pragg lost the first game of the first blitz match but then won the next two blitz games and with that the entire match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/praggnanandhaa-wins-julius-baer-challenge-championship",
+         "pubDate" : "Wed, 14 Dec 2022 11:55:21 +0100",
+         "title" : "Praggnanandhaa wins Julius Baer Challenge Championship"
+      },
+      {
+         "description" : "The history of the U.S. Women's Chess Championships contains a wealth of information about chess in America and countless fascinating stories about champions from all walks of life. A groundbreaking work about the U.S. Women's Chess Championships and the 29 women who won the title between 1937 and 2020 has been published by McFarland. Johannes Fischer wanted to know more and interviewed Alexey Root, the author of the book.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/united-states-women-s-chess-champions-1937-2020-an-interview-with-alexey-root",
+         "pubDate" : "Wed, 14 Dec 2022 11:00:00 +0100",
+         "title" : "United States Women's Chess Champions, 1937-2020 - An interview with Alexey Root"
+      },
+      {
+         "description" : "It was a good day for GOATs! Lionel Messi orchestrated the performance as Argentina cruised into the World Cup final, while on the chessboard Magnus Carlsen didn't lose a game in four hours as he crushed Fabiano Caruana 22:4. \"It certainly hasn't been done against somebody as strong as Fabi\", noted Magnus, who at one point won 11 games in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-unbeaten-in-caruana-speed-chess-demolition",
+         "pubDate" : "Wed, 14 Dec 2022 08:56:12 +0000",
+         "title" : "Carlsen unbeaten in Caruana Speed Chess demolition"
+      },
+      {
          "description" : "The annual Chess.com Daily Chess Championship is back for 2023. Over 12,000 players have already signed up for the event, and that number continues to climb! Do you want to join the largest tournament of the year? Then the Chess.com Daily Chess ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-daily-chess-championship-announcement",
-         "pubDate" : "Tue, 13 Dec 2022 17:04:29 -0800",
+         "pubDate" : "Tue, 13 Dec 2022 17:04:00 -0800",
          "title" : "2023 Daily Chess Championship Registration Now Open"
       },
       {
@@ -504,14 +552,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tan-zhongyi-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-4-live/",
          "pubDate" : "Sat, 10 Dec 2022 09:39:22 +0000",
          "title" : "Tan Zhongyi vs Aleksandra Goryachkina; Women's Candidates Pool B Game 4 LIVE"
-      },
-      {
-         "description" : "The&#xA0;Croatian National Chess Championship 2022&#xA0;took place from November 28 &#x2013; December 9 at Hotel Pax, Split. It was a 12-player round-robin tournament with a total prize fund of 10.000 euros. GM Ivan Saric won the event scoring 7.5 points. After a loss in the first round, Saric left unbeaten and clinched his fourth national champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-ivan-saric-claims-croatian-chess-championship-2022/",
-         "pubDate" : "Sat, 10 Dec 2022 09:36:59 +0000",
-         "title" : "GM Ivan Saric claims Croatian Chess Championship 2022"
       },
       {
          "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
@@ -1234,36 +1274,12 @@ news_feed (
          "title" : "Opening Diagonals"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-483322",
-         "pubDate" : "Sun, 04 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 4"
-      },
-      {
          "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1024\" data-ratio=\"1\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-08_17-37-34.jpg\" width=\"976\" height=\"549\" alt=\"\" /> </div> <div class=\"e2-text-caption\">A person who looks like Hans Niemann (Image by Dall-e)<br /> Hans Niemann (Getty Images)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moe",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/carlsen-and-chess-com-hans-niemann-is-bad-in-both-chess-and-laws/",
          "pubDate" : "Sun, 04 Dec 2022 07:25:53 +0000",
          "title" : "Carlsen: Niemann is Bad in Both Chess and Lawsuits. Dismiss the Case."
-      },
-      {
-         "description" : "The Tata Steel Chess India event took place from November 29 to December 4 at the National Library of India in Kolkata. An open tournament and a women's event were played concurrently, with the same format and the same prize fund. A rapid and a blitz section took place, with ten players per tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-live",
-         "pubDate" : "Sun, 04 Dec 2022 07:25:00 +0100",
-         "title" : "Tata Steel Chess India - Games and standings"
-      },
-      {
-         "description" : "At the Women's Candidates Tournament in Uzbekistan, the fourth classical games of the quarterfinals both ended in draws on Saturday. Thus, Aleksandra Goryachkina beat Alexandra Kosteniuk 2&frac12;-1&frac12; and qualified for the semifinals, while Kateryna Lagno and Tan Zhongyi will decide their match in tiebreaks. | Photos: Timur Sattarov and Xushnud Baltaev",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r1g4",
-         "pubDate" : "Sun, 04 Dec 2022 07:10:00 +0100",
-         "title" : "Women's Candidates: Goryachkina advances to the semifinals"
       },
       {
          "description" : "<div class=\"body text-secondary\"> AUCTION: <a href=\"https://e.givesmart.com/events/tym/\">https://e.givesmart.com/events/tym/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 6th Annual Strategy Across the Board gala on Saturday, December 3, 2022 at The Chase Park Plaza Hotel for an evening of celebrating chess in Saint Louis and around the world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/d",
@@ -1800,14 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2104",
          "pubDate" : "Fri, 25 Nov 2022 13:37:31 +0000",
          "title" : "The FIDE President visits the Middle East"
-      },
-      {
-         "description" : "16-year-old Javokhir Sindarov scored a crucial win as Olympiad Champions Uzbekistan defeated India in the FIDE World Team Championship semi-finals. They now take on China, who escaped with a draw in the first match against Spain before overpowering them in the second, including a wonderful victory by Bai Jinshi over Alexei Shirov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-teams-uzbekistan-and-china-reach-final",
-         "pubDate" : "Fri, 25 Nov 2022 11:07:55 +0000",
-         "title" : "World Teams: Uzbekistan and China reach final"
       },
       {
          "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
