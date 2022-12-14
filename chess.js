@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura, Nihal Sarin and Magnus Carlsen already qualified for the semi-finals of the chess.com Speedchess Championship. Today Wesley So and Maxime Vachier-Lagrave will play in the last quarter-final. Here live from 19:00 CET (10:00 am PT) with video commentary from chess24 and chess.com. | Graphics: chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speedchess-so-vs-vachier-lagrave",
+         "pubDate" : "Wed, 14 Dec 2022 18:55:38 +0100",
+         "title" : "Speedchess Championship: So vs Vachier-Lagrave"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2136",
+         "pubDate" : "Wed, 14 Dec 2022 17:22:07 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022 Press Conference: All set in Almaty"
+      },
+      {
+         "description" : "The December 13 edition of Titled Tuesday ended with two familiar winners, GMs Daniil Dubov and Hikaru Nakamura. Both won their tournaments outright. Early Tournament (Dubov) Late Tournament (Nakamura) Early Tournament Dubov outlasted t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-december-13-2022",
+         "pubDate" : "Wed, 14 Dec 2022 09:03:35 -0800",
+         "title" : "Nakamura Back Atop Titled Tuesday"
+      },
+      {
          "description" : "GM Rameshbabu Praggnanandhaa was crowned the winner of the 2022 Julius Baer Challenger Championship on Tuesday after overcoming rising star GM Pranav Venkatesh, requiring only three of their four scheduled mini-matches to do so. Praggnanandhaa w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1250,28 +1274,12 @@ news_feed (
          "title" : "FIDE Council approves resolution on performing under the FIDE flag"
       },
       {
-         "description" : "Following Daniel King's recap of 'Novotny' patterns, Jon Speelman could not deny himself the pleasure of analysing the game played by Vasyl Ivanchuk which motivated the theme's resurgence. Speelman writes of Ivanchuk: \"Of all the players that I've ever faced over the board, I've always considered Ivanchuk the most talented, with no exceptions\". | Photo: Amruta Mokal / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-183",
-         "pubDate" : "Sun, 04 Dec 2022 23:55:00 +0100",
-         "title" : "Patterns of interference"
-      },
-      {
          "description" : "After so many years of posts inspired by <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), various themes eventually repeat. The item pictured below was titled 'Austrian cold painted cats playing chess by Bergman', and sold for GBP 625.00 ('approximately US $763.50'), 'Best offer accepted'. Ranked between two items of similar value, the real final price was probably around $740. <P>We've seen cats, as in <A HREF=\"http://chessforallages.blogspot.com/2019/03/cats-attacking-royalty.html\">Cats Attacking Royalty</A>(March 2019), and we've seen bronzes, as in <A HREF=\"http://chessforallages.blogspot.com/2022/07/f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/12/cold-painted-cats.html",
          "pubDate" : "Sun, 04 Dec 2022 22:32:00 +0000",
          "title" : "Cold Painted Cats"
-      },
-      {
-         "description" : "GM Arjun Erigaisi captured the 2022 Tata Steel Chess India Open Blitz with a round to spare, while IM Vaishali Rameshbabu caught up with the overnight leader, GM Mariya Muzychuk, and outpaced her in the final rounds to win the 2022 Tata Steel Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-2",
-         "pubDate" : "Sun, 04 Dec 2022 13:16:00 -0800",
-         "title" : "Erigaisi, Vaishali Win Blitz Titles"
       },
       {
          "description" : "",
