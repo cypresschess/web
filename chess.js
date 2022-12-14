@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Time scramble is the cause of many blunders. Your instinct suggests a combination getting you all excited. Simultaneously the lack of time pressures you to bypass the proper calculation, while your desire to see the combination succeed <a href=\"https://chessimprover.com/blunder-in-1-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1-2/\">Blunder in 1 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/blunder-in-1-2/",
+         "pubDate" : "Tue, 13 Dec 2022 22:43:28 +0000",
+         "title" : "Blunder in 1 (2)"
+      },
+      {
          "description" : "Following a controversial ruling at the Mogul Chessboxing Championship, which took place on Sunday, the organizer&#39;s Twitter account &#34;Mogul Moves&#34; announced an updated result on Tuesday regarding the match between WGM Dina Belenkaya and Andrea Bote...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
