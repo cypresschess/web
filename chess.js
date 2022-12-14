@@ -42,7 +42,7 @@ news_feed (
          "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
       },
       {
-         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1884 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an excerpt to enjoy!",
+         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an excerpt to enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-mystery-of-zukertort-s-breakdown",
