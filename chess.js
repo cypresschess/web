@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The annual Chess.com Daily Chess Championship is back for 2023. Over 12,000 players have already signed up for the event, and that number continues to climb! Do you want to join the largest tournament of the year? Then the Chess.com Daily Chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-daily-chess-championship-announcement",
+         "pubDate" : "Tue, 13 Dec 2022 17:04:29 -0800",
+         "title" : "2023 Daily Chess Championship Registration Now Open"
+      },
+      {
+         "description" : "GM Magnus Carlsen bested GM Fabiano Caruana with an undefeated 18-point lead in the 2022 Speed Chess Championship on Tuesday. Carlsen achieved this unprecedented feat by excelling at every facet of the game, including his trademark skill of capita...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-carlsen-caruana",
+         "pubDate" : "Tue, 13 Dec 2022 16:27:00 -0800",
+         "title" : "Carlsen Goes Undefeated Vs. Caruana in Historic Victory"
+      },
+      {
          "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Time scramble is the cause of many blunders. Your instinct suggests a combination getting you all excited. Simultaneously the lack of time pressures you to bypass the proper calculation, while your desire to see the combination succeed <a href=\"https://chessimprover.com/blunder-in-1-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1-2/\">Blunder in 1 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Tata Steel India Blitz Day 1: Arjun and Mariya lead"
       },
       {
-         "description" : "GM Arjun Erigaisi shot into the lead with 6.5 points from nine rounds after the first day of the 2022 Tata Steel Chess India Open Blitz, while GM Mariya Muzychuk scored an impressive eight points from nine rounds to lead the 2022 Tata Steel Chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-1",
-         "pubDate" : "Sat, 03 Dec 2022 13:07:00 -0800",
-         "title" : "Erigaisi, Mariya Muzychuk Lead Tata Steel India Blitz"
-      },
-      {
          "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2116",
          "pubDate" : "Sat, 03 Dec 2022 16:47:28 +0000",
          "title" : "Goryachkina qualifies for semifinals Lagno and Tan Zhongyi go to tiebreak"
-      },
-      {
-         "description" : "GM Aleksandra Goryachkina eliminated GM Alexandra Kosteniuk from the 2022-23 FIDE Women&#39;s Candidates Tournament by securing a draw in the fourth game from a better position. After four draws, the match between GM Tan Zhongyi and GM Kateryna Lagno ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-day-4",
-         "pubDate" : "Sat, 03 Dec 2022 06:38:00 -0800",
-         "title" : "Goryachkina Forces Draw, Eliminates Kosteniuk"
       },
       {
          "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
