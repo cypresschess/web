@@ -2,12 +2,148 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off in Sitges, Barcelona and takes place from 11-22 December. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The main Open A tournament is played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 []",
+         "description" : "GM Rameshbabu Praggnanandhaa was crowned the winner of the 2022 Julius Baer Challenger Championship on Tuesday after overcoming rising star GM Pranav Venkatesh, requiring only three of their four scheduled mini-matches to do so. Praggnanandhaa w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-julius-baer-challenger-championship-praggnanandhaa-wins",
+         "pubDate" : "Wed, 14 Dec 2022 08:29:55 -0800",
+         "title" : "Praggnanandhaa Triumphs In Julius Baer Challenger Championship"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96232499.cms\" />Telangana chess prodigy Arjun Erigaisi's career got a shot in the arm on Wednesday as the Grand Master signed a lucrative Rs 12.4 crore long term sponsorship deal.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-build-a-team-around-me-arjun-erigaisi/articleshow/96232499.cms",
+         "pubDate" : "Wed, 14 Dec 2022 16:05:18 +0000",
+         "title" : "I need to build a team around me: Arjun Erigaisi"
+      },
+      {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Wed, 14 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "The result of the eagerly awaited rematch of the 2018 World Championship match between Magnus Carlsen and Fabiano Caruana in the quarterfinals of the chess.com Speedchess Championship was one-sided. Caruana didn't take his chances, Carlsen took them all and demonstrated world championship level chess in 5+1 blitz, in 3+1 blitz and in bullet. He even managed to satisfy his harshest critic. | Graphics: Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speedchess-championship-carlsen-vs-caruana-22-4",
+         "pubDate" : "Wed, 14 Dec 2022 16:26:33 +0100",
+         "title" : "Speedchess Championship: Carlsen vs Caruana 22:4"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2135",
+         "pubDate" : "Wed, 14 Dec 2022 15:19:51 +0000",
+         "title" : "Hungarian Championship: P&eacute;ter Proh&aacute;szka and Zsuzsanna Terbe win titles"
+      },
+      {
+         "description" : "No fewer than 54 players have won both their first encounters at the main event of the Sunway Festival in Sitges. However, round 2 saw five 2600+ rated players draw against much lower-rated opponents. Russian rising star Andrey Esipenko was held to a draw by French FM Mathieu Phileas, who in fact could have won the game had he made the most of his chances in a queen and rook endgame. | Pictured: The first blitz tournament of the festival took place on Tuesday night",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r2",
+         "pubDate" : "Wed, 14 Dec 2022 16:00:00 +0100",
+         "title" : "Sunway Sitges: Esipenko escapes with a draw"
+      },
+      {
+         "description" : "The&#xA0;Vugar Gashimov memorial 2022&#xA0;will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings will be determined according to the sum of points of Rapid and Blitz events. The Rapid portion will be played in 9 rounds, round-robin system, with time []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-2-results/",
-         "pubDate" : "Wed, 14 Dec 2022 12:27:41 +0000",
-         "title" : "Chessable Sunway Sitges - Round 2 results"
+         "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022-live-games/",
+         "pubDate" : "Wed, 14 Dec 2022 13:58:18 +0000",
+         "title" : "Vugar Gashimov Memorial 2022 - LIVE games"
+      },
+      {
+         "description" : "The recently released ChessBase 17 offers a wealth of new and interesting functions. In the last weeks IM Sagar Shah from ChessBase India took a closer look at the program to understand the features deeper. To share his insights he made a video that covers most of the new features of ChessBase 17 and explains how these features can be used. He concludes: \"I think ChessBase 17 is amazing.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-all-the-new-features-explained",
+         "pubDate" : "Wed, 14 Dec 2022 14:45:35 +0100",
+         "title" : "ChessBase 17 - All the new features explained"
+      },
+      {
+         "description" : "The Vugar Gashimov memorial 2022 will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages. The Rapid portion will be played in 9 rounds, round-robin system, with time control 15 min + 10 sec, and the Blitz tournament will be played in 18 rounds, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022/",
+         "pubDate" : "Wed, 14 Dec 2022 13:43:35 +0000",
+         "title" : "Vugar Gashimov Memorial 2022"
+      },
+      {
+         "description" : "Ukrainian Parliament has sanctioned 55 Russian athletes and one Ukrainian for showing support towards ongoing Russia Ukraine war, writes Neil Shefferd for insidethegames.biz. The list of sanctioned athletes includes GM Sergey Karjakin (who was earlier this year banned from playing FIDE events for 6 months as he was found guilty of breach of article []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ukrainian-parliament-sanctions-55-russian-athletes-including-sergey-karjakin-anatoly-karpov-and-sergei-shipov/",
+         "pubDate" : "Wed, 14 Dec 2022 13:05:39 +0000",
+         "title" : "Ukrainian Parliament sanctions 55 Russian athletes including Sergey Karjakin, Anatoly Karpov and Sergei Shipov"
+      },
+      {
+         "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/getting-adopted.html",
+         "pubDate" : "Wed, 14 Dec 2022 13:03:00 +0000",
+         "title" : "Getting adopted"
+      },
+      {
+         "description" : "The 12th Sharjah Women's Cup is taking place from 9&#x2013;16 December 2022 in Sharjah, United Arab Emirates. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Jemal Ovezdurdyyeva, Ana Berke, Laman Hajiyeva, Sabina Ibrahimova, Ema Obada, Armine Babayan, Suzana Maksimovic, Ana []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/12th-sharjah-womens-cup-2022-live/",
+         "pubDate" : "Wed, 14 Dec 2022 13:01:15 +0000",
+         "title" : "12th Sharjah Women's Cup 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 Lorca Open&#xA0;will be held from 26-30 December 2022 in Hotel Spa Amaltea Lorca, Spain. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes + 30 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lorca-chess-open-2022-live/",
+         "pubDate" : "Wed, 14 Dec 2022 12:59:08 +0000",
+         "title" : "Lorca Chess Open 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 Lorca Open will be held from 26-30 December 2022 in Hotel Spa Amaltea Lorca, Spain. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vassily-ivanchuk-tops-the-field-of-the-2022-lorca-open/",
+         "pubDate" : "Wed, 14 Dec 2022 12:49:21 +0000",
+         "title" : "Vassily Ivanchuk tops the field of the 2022 Lorca Open"
+      },
+      {
+         "description" : "The 2022 Liberia National Individual Chess Championship Women is taking place from 10-20 December 2022 in Monrovia, Liberia. Players receive 90 minutes for first 40 moves and 30 minutes for the rest of the game with 30 seconds increment starting from move one. It is 11-round Swiss system tournament with Abigail Karyah, Windor Dorko Tarplah, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-liberia-national-individual-chess-championship-women-live/",
+         "pubDate" : "Wed, 14 Dec 2022 12:46:01 +0000",
+         "title" : "2022 Liberia National Individual Chess Championship Women - LIVE"
+      },
+      {
+         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-3-live-video-coverage/",
+         "pubDate" : "Wed, 14 Dec 2022 12:37:02 +0000",
+         "title" : "Chessable Sunway Sitges - Day 3 live video coverage"
+      },
+      {
+         "description" : "The 2022 Liberia National Individual Chess Championship is taking place from 10-20 December 2022 in Monrovia, Liberia. Players receive 90 minutes for first 40 moves and 30 minutes for the rest of the game with 30 seconds increment starting from move one. It is 11-round Swiss system tournament with Harmon Barcon, Anthony Waylea Jr, Arnold []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2022-liberia-national-individual-chess-championship-live/",
+         "pubDate" : "Wed, 14 Dec 2022 12:32:33 +0000",
+         "title" : "2022 Liberia National Individual Chess Championship - LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off in Sitges, Barcelona and takes place from 11-22 December. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. After two played rounds and several upsets, as many as 54 players emerged with the perfect 2/2 score. The third round will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-3-pairings/",
+         "pubDate" : "Wed, 14 Dec 2022 12:31:51 +0000",
+         "title" : "Chessable Sunway Sitges - Round 3 pairings"
       },
       {
          "description" : "",
@@ -40,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/united-states-women-s-chess-champions-1937-2020-an-interview-with-alexey-root",
          "pubDate" : "Wed, 14 Dec 2022 11:00:00 +0100",
          "title" : "United States Women's Chess Champions, 1937-2020 - An interview with Alexey Root"
+      },
+      {
+         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will now take place on Sunday, 29th January 2023, in hybrid cities...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-cities-towns-chess-championship/",
+         "pubDate" : "Wed, 14 Dec 2022 09:00:40 +0000",
+         "title" : "European Cities & Towns Chess Championship - update"
       },
       {
          "description" : "It was a good day for GOATs! Lionel Messi orchestrated the performance as Argentina cruised into the World Cup final, while on the chessboard Magnus Carlsen didn't lose a game in four hours as he crushed Fabiano Caruana 22:4. \"It certainly hasn't been done against somebody as strong as Fabi\", noted Magnus, who at one point won 11 games in a row.",
@@ -106,14 +250,6 @@ news_feed (
          "title" : "Vote For The 2022 Chess.com Awards"
       },
       {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Tue, 13 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
-      },
-      {
          "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, takes on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match is split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,36 +274,12 @@ news_feed (
          "title" : "Chessable Sunway Chess Festival begins in Sitges"
       },
       {
-         "description" : "The&#xA0;97th edition of the Argentine Absolute Chess Championship&#xA0;was held from 1st-10th December 2022 in Hotel Monte Claro, San Carlos de Bariloche, Rio Negro. 12 players competed in 11 rounds (round-robin system) for the title of National Chess Champion and the prize fund of 1.000.000 ARS (~5.760eur). The time control was 90 minutes for 40 moves, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fernando-peralta-is-the-winner-of-the-97th-argentine-chess-championship/",
-         "pubDate" : "Tue, 13 Dec 2022 13:45:04 +0000",
-         "title" : "Fernando Peralta is the Winner of the 97th Argentine Chess Championship"
-      },
-      {
          "description" : "Manuel G&ouml;ttsching is a pioneer of techno music, and in 1984 he released his groundbreaking classic \"E2-E4\". The title of the album alludes to chess and the cover of the album also shows a chessboard - G&ouml;ttsching liked to play. On 4 December the German musician died in Berlin at the age of 70. | Photo: Yoho",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/german-pioneer-of-techno-music-manuel-goettsching-died",
          "pubDate" : "Tue, 13 Dec 2022 14:27:11 +0100",
          "title" : "Manuel G&ouml;ttsching, German pioneer of techno music, died on 4 December"
-      },
-      {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-2-live-video-coverage/",
-         "pubDate" : "Tue, 13 Dec 2022 13:23:56 +0000",
-         "title" : "Chessable Sunway Sitges - Day 2 live video coverage"
-      },
-      {
-         "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-rapid-and-blitz-chess-championships-2022-start-in-katowice/",
-         "pubDate" : "Tue, 13 Dec 2022 12:42:14 +0000",
-         "title" : "European Rapid and Blitz Chess Championships 2022 start in Katowice"
       },
       {
          "description" : "The two winners of the Julius Baer Challenger Tour 2021 and 2022, the young Indian grandmasters Praggnanandhaa and Pranav Venkatesh, currently play a three-day rapid and blitz match in Tel Aviv. After two best-of-three rapid matches follow two best-of-four blitz matches. Praggnanandhaa won both rapid matches and has very good chances to win the event.",
@@ -194,36 +306,12 @@ news_feed (
          "title" : "Chessbase 17 review: \"Even more of a substitute for a human trainer\""
       },
       {
-         "description" : "The 2022 Greek Chess Championships&#xA0;took place in Athens from 3-11 December. The Open event was played as a 10-player round-robin tournament and the Women's event was an 11-player round-robin, with a time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/georgios-mitsis-and-marina-makropoulou-win-greek-chess-championships-2022/",
-         "pubDate" : "Tue, 13 Dec 2022 10:29:41 +0000",
-         "title" : "Georgios Mitsis and Marina Makropoulou win Greek Chess Championships 2022"
-      },
-      {
          "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/",
          "pubDate" : "Tue, 13 Dec 2022 10:11:05 +0000",
          "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
-      },
-      {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The first round saw a few upsets, and the event kicked off with strict anti-cheating controls. Chessable Sunway Sitges International []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-2-pairings/",
-         "pubDate" : "Tue, 13 Dec 2022 09:58:27 +0000",
-         "title" : "Chessable Sunway Sitges - Round 2 pairings"
-      },
-      {
-         "description" : "The 2022 Chessable Sunway Sitges Chess Festival kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. Sitges' Tourism Councilor, Luis M. Garc&#xED;a, and the tournament director officially inaugurated the 9th edition of the Sunway []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-kicks-off-in-spain/",
-         "pubDate" : "Tue, 13 Dec 2022 09:54:13 +0000",
-         "title" : "Chessable Sunway Sitges kicks off in Spain"
       },
       {
          "description" : "Opposite colored bishop endings often have drawish tendencies and fortresses are often the main topic. But sometimes creating passed pawns makes the fortresses crumble. In the diagram position it is Black to move and win. What should he do?",
@@ -362,14 +450,6 @@ news_feed (
          "title" : "Kazakh Championship: Zhalmakhanov and Kamalidenova win titles"
       },
       {
-         "description" : "The&#160;2022 Chessable Sunway Sitges International Chess Festival&#160;takes place from 11-22 December in Sitges, Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The Open A will be played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 moves + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
-         "pubDate" : "Mon, 12 Dec 2022 00:07:00 +0000",
-         "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
-      },
-      {
          "description" : "The 2022 ChessKid All-Star Finals will take place on December 17, with more than 20 talented young chess players from around the world competing against each other in the culmination of a year-long series of qualification tournaments.&#38;nbsp; Foll...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -482,14 +562,6 @@ news_feed (
          "title" : "Tan Zhongyi advances to Women's Candidates final"
       },
       {
-         "description" : "In an amazing turn of events, when everything seemed to be pointing towards a tiebreak, former Women&#x2019;s World Chess Champion&#xA0;GM Tan Zhongyi, from China, defeated&#xA0;GM Aleksandra Goryachkina, playing under the FIDE flag, in the fourth and final game of the 2022 Women&#x2019;s Candidates Pool B. Tan Zhongyi will face Pool A winner,&#xA0;GM Lei Tingjie, also []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-defeats-goryachkina-and-wins-her-spot-in-the-womens-candidates-finals/",
-         "pubDate" : "Sat, 10 Dec 2022 18:59:22 +0000",
-         "title" : "Tan Zhongyi defeats Goryachkina and wins her spot in the Women's Candidates Finals"
-      },
-      {
          "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -544,14 +616,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1076",
          "pubDate" : "Sat, 10 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 10"
-      },
-      {
-         "description" : "Pool B of the FIDE Women&#x2019;s Candidates Tournament&#xA0;reaches the Final stage with&#xA0;Aleksandra Goryachkina&#xA0;and&#xA0;Tan Zhongyi&#xA0;fighting in the four-game match for the spot in the Women&#x2019;s Candidates Finals against Lei Tingjie (who&#xA0;qualified from Pool A&#xA0;a month ago). The first three games of the match finished in a draw and one classical game is left to decide the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tan-zhongyi-vs-aleksandra-goryachkina-womens-candidates-pool-b-game-4-live/",
-         "pubDate" : "Sat, 10 Dec 2022 09:39:22 +0000",
-         "title" : "Tan Zhongyi vs Aleksandra Goryachkina; Women's Candidates Pool B Game 4 LIVE"
       },
       {
          "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
@@ -1202,36 +1266,12 @@ news_feed (
          "title" : "Cold Painted Cats"
       },
       {
-         "description" : "At the Women's Candidates Tournament in Khiva, Tan Zhongyi and her opponent Kateryna Lagno played the tiebreak of their quarterfinal match on Sunday. Tan won the first 15+10 game and drew the next three encounters to make it to the semifinals, where she will face Aleksandra Goryachkina in a similar 4-game match starting Tuesday. | Photos: FIDE / Timur Sattarov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r1g5",
-         "pubDate" : "Sun, 04 Dec 2022 23:10:00 +0100",
-         "title" : "Women's Candidates: Tan knocks out Lagno, reaches semis"
-      },
-      {
          "description" : "GM Arjun Erigaisi captured the 2022 Tata Steel Chess India Open Blitz with a round to spare, while IM Vaishali Rameshbabu caught up with the overnight leader, GM Mariya Muzychuk, and outpaced her in the final rounds to win the 2022 Tata Steel Ches...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-tata-steel-chess-india-blitz-day-2",
          "pubDate" : "Sun, 04 Dec 2022 13:16:00 -0800",
          "title" : "Erigaisi, Vaishali Win Blitz Titles"
-      },
-      {
-         "description" : "GM Tan Zhongyi defeated GM Kateryna Lagno in Sunday&#39;s tiebreak of their FIDE Women&#39;s Candidates Tournament quarterfinal. Tan won the first of four rapid games. Then the remaining three ended in draws. The 31-year-old Chinese GM will now face GM Al...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-quarterfinals-b-tiebreak",
-         "pubDate" : "Sun, 04 Dec 2022 12:48:00 -0800",
-         "title" : "Tan Zhongyi Knocks Out Kateryna Lagno In Women's Candidates Quarterfinals"
-      },
-      {
-         "description" : "Two young rising stars claimed titles in the blitz section of the Tata Steel Chess India event. Arjun Erigaisi and Vaishali Rameshbabu made their country proud as they got clear victories in the 18-round tournaments organized in Kolkata. The Indians outscored top-notch opposition on their way to memorable triumphs at the imposing National Library of India. | Pictured: Nihal, Arjun, Ushenina and Vaishali | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-india-2022-d5",
-         "pubDate" : "Sun, 04 Dec 2022 20:00:00 +0100",
-         "title" : "Tata Steel Blitz: Arjun and Vaishali make India proud"
       },
       {
          "description" : "",
@@ -1248,14 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/b-is-for-basman",
          "pubDate" : "Sun, 04 Dec 2022 15:05:00 +0100",
          "title" : "B is for Basman"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 102nd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-102-play-the-sicilian-4",
-         "pubDate" : "Sun, 04 Dec 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 102: Play the Sicilian! (4)"
       },
       {
          "description" : " The Tata Steel India Rapid & Blitz took place 29th November to 4th December 2022. Arjun Erigaisi won the event by coming second in the Rapid behind Nihal Sarin and first in the blitz. ",
@@ -1896,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2101",
          "pubDate" : "Wed, 23 Nov 2022 21:47:46 +0000",
          "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
-      },
-      {
-         "description" : " One of the more spectacular games from the 2022 Vikings Weekender was the round 2 match up between Fred Litchfield and Glenn Ingham. Litchfield demonstrated the adage that 'good moves come from good positions' by finding a winning queen sacrifice in a position that was already in his favour. But while most of the combination relied on checks and captures, there was still the necessity to find a quite move or two, which Litchfield did. <br /> <b>Litchfield,Fred - Ingham,Glenn [D30]</b><br />2022 Vikings Weekender Canberra, Australia (2.4), 19.11.2022 <script>new PgnViewer( { boardName: \"game1368\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nbd2 Be7 6.Bd3 dxc4 7.Nx",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/11/well-calculated.html",
-         "pubDate" : "Wed, 23 Nov 2022 13:09:00 +0000",
-         "title" : "Well calculated"
       }
    ]
 }
