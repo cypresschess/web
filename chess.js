@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Council has approved today a major reform of the qualification paths to the Candidates Tournament &#x2013; the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-reforms-the-qualification-system-for-the-candidates-tournament/",
+         "pubDate" : "Thu, 15 Dec 2022 20:25:22 +0000",
+         "title" : "FIDE reforms the Qualification system for the Candidates Tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/getting-adopted.html",
          "pubDate" : "Wed, 14 Dec 2022 13:03:00 +0000",
          "title" : "Getting adopted"
-      },
-      {
-         "description" : "The 12th Sharjah Women's Cup is taking place from 9&#x2013;16 December 2022 in Sharjah, United Arab Emirates. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Jemal Ovezdurdyyeva, Ana Berke, Laman Hajiyeva, Sabina Ibrahimova, Ema Obada, Armine Babayan, Suzana Maksimovic, Ana []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/12th-sharjah-womens-cup-2022-live/",
-         "pubDate" : "Wed, 14 Dec 2022 13:01:15 +0000",
-         "title" : "12th Sharjah Women's Cup 2022 - LIVE"
       },
       {
          "description" : "",
