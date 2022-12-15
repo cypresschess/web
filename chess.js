@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Thu, 15 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
          "description" : "The&#xA0;European Open and Women Rapid &#38; Blitz Chess Championships 2022&#xA0;will kick off tomorrow in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre and everything is set for the start of one of the biggest European events in the 2022 Calendar! More than 1000 players from 40 countries []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1218,14 +1226,6 @@ news_feed (
          "title" : "The Winning Academy 16: How to Avoid Blunders (2)"
       },
       {
-         "description" : "In the Endgame Magic Show #217 Karsten M&uuml;ller and German female top player Jana Schneider look at endgame highlights from Jana's games. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-217-with-jana-schneider",
-         "pubDate" : "Mon, 05 Dec 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #217 - with Jana Schneider"
-      },
-      {
          "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2103",
          "pubDate" : "Thu, 24 Nov 2022 21:10:39 +0000",
          "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
-      },
-      {
-         "description" : "It's been over two and a half months since I posted <A HREF=\"http://chessforallages.blogspot.com/2022/09/chess-players-behaving-very-very-badly.html\">Chess Players Behaving Very, Very Badly</A>(September 2022), aka the Niemann affair. In that time it's been the focus of two Yahoos posts ('mainstream news stories about chess'):- <UL><LI>2022-09-29: <A HREF=\"http://chessforallages.blogspot.com/2022/09/cheating-mania.html\">Cheating Mania</A> <LI>2022-10-27: <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>&#149; 'In last month's <I>Cheating Mania</I>, I observed, \"Of the [78] Google News stories, 17 were about cheating.\" The cheating story continued bi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/steamin-niemann.html",
-         "pubDate" : "Thu, 24 Nov 2022 16:09:00 +0000",
-         "title" : "Steamin' Niemann"
       }
    ]
 }
