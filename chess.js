@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #546 Merijn van Delft presents another one of his own games - an interesting Najdorf he played with Black against the young talented Indian K Priyanka. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-546-k-priyanka-vs-van-delft",
+         "pubDate" : "Thu, 15 Dec 2022 11:00:00 +0100",
+         "title" : "Game of the Week #546: K Priyanka vs Van Delft"
+      },
+      {
+         "description" : "The third round of the Chessable Sunway Sitges International Chess Festival 2022 was played yesterday afternoon and the rating gap between the opponents gets smaller and smaller. A few upsets marked the Round 3 as GM Anton Demchenko drew against GM Rithvik Raja, GM Chopra Aryan made a draw to IM Ortik Nigmatov, IM Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-3-results/",
+         "pubDate" : "Thu, 15 Dec 2022 09:24:23 +0000",
+         "title" : "Chessable Sunway Sitges - Round 3 results"
+      },
+      {
+         "description" : "Press release by FIDE The FIDE World Rapid &#38; Blitz Championship is due to start on December 25th in Almaty, Kazakhstan. Eleven days before the opening ceremony, apress conference has been held in the host city. Speakers at the press conference were FIDE President&#160;Arkady Dvorkovich&#160;(via video link),&#160;Vice Minister of Culture and Sports of the Republic []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-rapid-blitz-championships-2022-press-conference-300-worlds-leading-grandmasters-registered-for-the-event/",
+         "pubDate" : "Thu, 15 Dec 2022 09:06:50 +0000",
+         "title" : "World Rapid & Blitz Championships 2022 Press Conference: 300 world's leading GMs registered for the event"
+      },
+      {
          "description" : "Nineteen players are sharing first place on 3 out of 3 points in the main event of the Sunway Sitges Festival. Kushal O, a 17-year-old Indian player with an 1801 Elo rating, is among the leaders, as he stunned players in the 2250-2500 rating bracket on the first three days of competition. Big guns Yu Yangyi, Hans Niemann and Jorden van Foreest (pictured) are also sharing the lead. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,22 +186,6 @@ news_feed (
          "title" : "Chessable Sunway Sitges - Day 3 live video coverage"
       },
       {
-         "description" : "The 2022 Liberia National Individual Chess Championship is taking place from 10-20 December 2022 in Monrovia, Liberia. Players receive 90 minutes for first 40 moves and 30 minutes for the rest of the game with 30 seconds increment starting from move one. It is 11-round Swiss system tournament with Harmon Barcon, Anthony Waylea Jr, Arnold []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-liberia-national-individual-chess-championship-live/",
-         "pubDate" : "Wed, 14 Dec 2022 12:32:33 +0000",
-         "title" : "2022 Liberia National Individual Chess Championship - LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;kicked off in Sitges, Barcelona and takes place from 11-22 December. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. After two played rounds and several upsets, as many as 54 players emerged with the perfect 2/2 score. The third round will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-3-pairings/",
-         "pubDate" : "Wed, 14 Dec 2022 12:31:51 +0000",
-         "title" : "Chessable Sunway Sitges - Round 3 pairings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -266,7 +274,7 @@ news_feed (
          "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
       },
       {
-         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an excerpt to enjoy!",
+         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an appetizer to enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-mystery-of-zukertort-s-breakdown",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/the-ironman.html",
          "pubDate" : "Mon, 05 Dec 2022 10:57:00 +0000",
          "title" : "The Ironman"
-      },
-      {
-         "description" : "Mustafa Yilmaz emerged as the winner of the 2022 Turkish Championship. The native of Mamak claimed his third national title, repeating his triumphs of 2009 and 2017. The 2022 Turkish Championship, a 10-player round-robin tournament with classical time control, took place in Kemer, a seaside resort in the province of Antalya, from 25 November to 3 December. | Photos: Turkish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mustafa-yilmaz-wins-turkish-championship-2022",
-         "pubDate" : "Mon, 05 Dec 2022 11:00:22 +0100",
-         "title" : "Mustafa Yilmaz wins 2022 Turkish Championship"
       },
       {
          "description" : "The ECF is committed to developing our junior talent. We want to encourage as many young people as we can to play given the educational...",
