@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">Chess prodigy Arjun Erigaisi is making history as he signs a groundbreaking sponsorship deal with Singapore-based Quantbox. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1013127.381eb6a8.668x375o.d68a4a88093c@2x.png\" width=\"668\" height=\"375\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Tata Steel Chess India</div> </div> This five-year contract, worth over $1.5 million, marks the first-ever sponsorship of the Grandmaster from Telangana, and could be a major boost to his professional career. For Erigaisi, 2022 has been a breakthrough year as he has consistently improved his game, earning him a strong rank of 26th in the world by c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5mn/",
+         "pubDate" : "Thu, 15 Dec 2022 11:35:05 +0000",
+         "title" : "Indian Chess Prodigy Arjun Erigaisi Breaks Big Record with $1.5 Million Sponsorship Deal"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1500",
+         "pubDate" : "Thu, 15 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 15"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #546 Merijn van Delft presents another one of his own games - an interesting Najdorf he played with Black against the young talented Indian K Priyanka. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1242,14 +1258,6 @@ news_feed (
          "title" : "Arjun Erigaisi and Vaishali win Tata Steel Blitz"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-5223",
-         "pubDate" : "Mon, 05 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 5"
-      },
-      {
          "description" : " I have just updated the Street Chess tournament statistics (<a href=\"http://streetchess.net/archive/\">http://streetchess.net/archive/</a>) Although the tournament has now been running for 30 years, the stats only cover the time when pairings were done by computer (2009). Looking through them I realised I missed one significant milestone last Saturday. Oscar Hellman (who has been playing almost every Saturday since Street Chess started) racked up his 3000 tournament game. Noting that this is only based on games since 2009, I suspect the real total is closer to 7000 games! Close behind him is Miles Patterson (2800 games), although Patterson's pre-2009 career is shorter than Hellman's ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/steamin-niemann.html",
          "pubDate" : "Thu, 24 Nov 2022 16:09:00 +0000",
          "title" : "Steamin' Niemann"
-      },
-      {
-         "description" : "Congratulations to Samar Dayal who has won the Gold medal in the Under 8 section of the Commonwealth Chess Championships. His mother writes &#8212; &#8216;Samar...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/samar-dayal-commonwealth-under-8-champion/",
-         "pubDate" : "Thu, 24 Nov 2022 12:13:54 +0000",
-         "title" : "Samar Dayal - Commonwealth Under 8 Champion"
       }
    ]
 }
