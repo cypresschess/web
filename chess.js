@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nineteen players are sharing first place on 3 out of 3 points in the main event of the Sunway Sitges Festival. Kushal O, a 17-year-old Indian player with an 1801 Elo rating, is among the leaders, as he stunned players in the 2250-2500 rating bracket on the first three days of competition. Big guns Yu Yangyi, Hans Niemann and Jorden van Foreest (pictured) are also sharing the lead. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r3",
+         "pubDate" : "Thu, 15 Dec 2022 07:40:00 +0100",
+         "title" : "Sunway Sitges: Van Foreest's Greek gift"
+      },
+      {
          "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
-         "pubDate" : "Wed, 14 Dec 2022 18:27:17 -0800",
+         "pubDate" : "Wed, 14 Dec 2022 18:27:00 -0800",
          "title" : "Vachier-Lagrave Surmounts Tenacious So"
       },
       {
@@ -50,12 +58,12 @@ news_feed (
          "title" : "I need to build a team around me: Arjun Erigaisi"
       },
       {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "description" : "The recently released ChessBase 17 offers a wealth of new and interesting functions. In the last weeks IM Sagar Shah from ChessBase India took a closer look at the program to understand the features deeper. To share his insights he made a video that covers most of the new features of ChessBase 17 and explains how these features can be used. He concludes: \"I think ChessBase 17 is amazing.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Wed, 14 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
+         "link" : "https://en.chessbase.com/post/chessbase-17-all-the-new-features-explained",
+         "pubDate" : "Wed, 14 Dec 2022 16:45:35 +0100",
+         "title" : "ChessBase 17 - All the new features explained"
       },
       {
          "description" : "The result of the eagerly awaited rematch of the 2018 World Championship match between Magnus Carlsen and Fabiano Caruana in the quarterfinals of the chess.com Speedchess Championship was one-sided. Caruana didn't take his chances, Carlsen took them all and demonstrated world championship level chess in 5+1 blitz, in 3+1 blitz and in bullet. He even managed to satisfy his harshest critic. | Graphics: Chess.com",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022-live-games/",
          "pubDate" : "Wed, 14 Dec 2022 13:58:18 +0000",
          "title" : "Vugar Gashimov Memorial 2022 - LIVE games"
-      },
-      {
-         "description" : "The recently released ChessBase 17 offers a wealth of new and interesting functions. In the last weeks IM Sagar Shah from ChessBase India took a closer look at the program to understand the features deeper. To share his insights he made a video that covers most of the new features of ChessBase 17 and explains how these features can be used. He concludes: \"I think ChessBase 17 is amazing.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-all-the-new-features-explained",
-         "pubDate" : "Wed, 14 Dec 2022 14:45:35 +0100",
-         "title" : "ChessBase 17 - All the new features explained"
       },
       {
          "description" : "The Vugar Gashimov memorial 2022 will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages. The Rapid portion will be played in 9 rounds, round-robin system, with time control 15 min + 10 sec, and the Blitz tournament will be played in 18 rounds, []",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/samar-dayal-commonwealth-under-8-champion/",
          "pubDate" : "Thu, 24 Nov 2022 12:13:54 +0000",
          "title" : "Samar Dayal - Commonwealth Under 8 Champion"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95731259.cms\" />India defeated France in a thrilling tie-breaker to enter the semifinals of the FIDE World Team Chess Championship here. After the two sets of matches were shared by the teams by a 3-1 margin, the Indians won the blitz tie-break 2.5-.1.5. Nihal Sarin and S L Narayanan did the star turn with victories over Jules Moussard and Laurent Fressinet respectively early on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-team-chess-india-edges-out-france-reaches-last-four/articleshow/95731259.cms",
-         "pubDate" : "Thu, 24 Nov 2022 05:33:03 +0000",
-         "title" : "FIDE World Team Chess: India edges out France, reaches last four"
       }
    ]
 }
