@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
+         "pubDate" : "Wed, 14 Dec 2022 18:27:17 -0800",
+         "title" : "Vachier-Lagrave Surmounts Tenacious So"
+      },
+      {
          "description" : "Hikaru Nakamura, Nihal Sarin and Magnus Carlsen already qualified for the semi-finals of the chess.com Speedchess Championship. Today Wesley So and Maxime Vachier-Lagrave will play in the last quarter-final. Here live from 19:00 CET (10:00 am PT) with video commentary from chess24 and chess.com. | Graphics: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,12 +282,12 @@ news_feed (
          "title" : "Vote For The 2022 Chess.com Awards"
       },
       {
-         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, takes on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match is split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
+         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, took on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match was split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/julius-baer-challenger-2022-live",
          "pubDate" : "Tue, 13 Dec 2022 16:00:00 +0100",
-         "title" : "Julius Baer Challenger Championship - Live"
+         "title" : "Julius Baer Challenger Championship - All games"
       },
       {
          "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
@@ -1162,14 +1170,6 @@ news_feed (
          "title" : "UK Blitz Finals 2022"
       },
       {
-         "description" : "Are you a member of the Chess.com Discord server? If not, now&#38;rsquo;s the time to join! We&#38;rsquo;ve just revamped our server, giving you lots of brand-new benefits and ways to be part of a community full of 35,000+ chess lovers. What&#38;rsquo;s new...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-discord-updates",
-         "pubDate" : "Mon, 05 Dec 2022 16:45:46 -0800",
-         "title" : "Announcing Exclusive Events And Updates On The Chess.com Discord"
-      },
-      {
          "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. A lot of blunders can be avoided by a little discipline and a few simple tricks.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-team-chess-india-edges-out-france-reaches-last-four/articleshow/95731259.cms",
          "pubDate" : "Thu, 24 Nov 2022 05:33:03 +0000",
          "title" : "FIDE World Team Chess: India edges out France, reaches last four"
-      },
-      {
-         "description" : " International Master Justus Williams took a big step toward his goal of becoming an International Grandmaster by earning his first GM norm. Just over one year ago, he clinched his IM title, won a couple of tournaments, and wrote a nice article in Chess Life titled, &#8220;Getting My Reps In.&#8221; Those reps are certainly paying The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/\">Justus Williams notches first GM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/",
-         "pubDate" : "Thu, 24 Nov 2022 00:39:36 +0000",
-         "title" : "Justus Williams notches first GM norm!"
       }
    ]
 }
