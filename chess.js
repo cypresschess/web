@@ -1920,22 +1920,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/11/23/justus-williams-notches-first-gm-norm/",
          "pubDate" : "Thu, 24 Nov 2022 00:39:36 +0000",
          "title" : "Justus Williams notches first GM norm!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2102",
-         "pubDate" : "Wed, 23 Nov 2022 23:11:53 +0000",
-         "title" : "Italian Championship: Luca Moroni and Olga Zimina win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2101",
-         "pubDate" : "Wed, 23 Nov 2022 21:47:46 +0000",
-         "title" : "World Team Championship 2022: China, India, Spain, and Uzbekistan advance"
       }
    ]
 }
