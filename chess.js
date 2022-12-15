@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;European Open and Women Rapid &#38; Blitz Chess Championships 2022&#xA0;will kick off tomorrow in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre and everything is set for the start of one of the biggest European events in the 2022 Calendar! More than 1000 players from 40 countries []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/everything-set-for-the-start-of-european-rapid-and-blitz-championship-in-katowice/",
+         "pubDate" : "Thu, 15 Dec 2022 14:48:21 +0000",
+         "title" : "Everything set for the start of European Rapid and Blitz Championship in Katowice"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;will take place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-on-tour-is-back/",
+         "pubDate" : "Thu, 15 Dec 2022 14:40:39 +0000",
+         "title" : "Tata Steel Chess On Tour is back!"
+      },
+      {
+         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-4-live-video-coverage/",
+         "pubDate" : "Thu, 15 Dec 2022 14:31:54 +0000",
+         "title" : "Chessable Sunway Sitges - Day 4 live video coverage"
+      },
+      {
+         "description" : "The third round of the&#xA0;Chessable Sunway Sitges International Chess Festival 2022&#xA0;was played yesterday afternoon and the rating gap between the opponents gets smaller and smaller.&#xA0;19 players emerged on the top with the perfect score of 3/3 points, among whom are the top-seeded&#xA0;GM Yu Yangyi,&#xA0;GM Hans Niemann&#xA0;and&#xA0;GM Jorden van Foreest. The fourth round starts today at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-4-pairings/",
+         "pubDate" : "Thu, 15 Dec 2022 14:27:39 +0000",
+         "title" : "Chessable Sunway Sitges - Round 4 pairings"
+      },
+      {
+         "description" : "In the first semi-final of the Speedchess Championship on chess.com, defending champion and blitz specialist Hikaru Nakamura will meet the young Indian grandmaster Nihal Sarin, who is also considered to be a blitz chess specialist. The eagerly awaited match starts today, 15.12., at 15.00. The winner of this encounter will meet Magnus Carlsen or Maxime Vachier-Lagrave who will play the second semi-final tomorrow, 16.12.. Watch Nakamuara vs Sarin live with commentary. | Graphics: chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speedchess-championship-hikaru-nakamura-vs-nihal-sarin",
+         "pubDate" : "Thu, 15 Dec 2022 15:04:21 +0100",
+         "title" : "Speedchess Championship: Hikaru Nakamura vs Nihal Sarin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2137",
+         "pubDate" : "Thu, 15 Dec 2022 12:29:58 +0000",
+         "title" : "Serbian Championship: Velimir Ivi&#263 and Irina Chelushkina clinch titles"
+      },
+      {
          "description" : " <p class=\"lead\">Chess prodigy Arjun Erigaisi is making history as he signs a groundbreaking sponsorship deal with Singapore-based Quantbox. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1013127.381eb6a8.668x375o.d68a4a88093c@2x.png\" width=\"668\" height=\"375\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Tata Steel Chess India</div> </div> This five-year contract, worth over $1.5 million, marks the first-ever sponsorship of the Grandmaster from Telangana, and could be a major boost to his professional career. For Erigaisi, 2022 has been a breakthrough year as he has consistently improved his game, earning him a strong rank of 26th in the world by c",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -55,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
          "pubDate" : "Wed, 14 Dec 2022 18:27:00 -0800",
-         "title" : "Vachier-Lagrave Surmounts Tenacious So"
+         "title" : "Vachier-Lagrave Subdues Tenacious So"
       },
       {
          "description" : "Hikaru Nakamura, Nihal Sarin and Magnus Carlsen already qualified for the semi-finals of the chess.com Speedchess Championship. Today Wesley So and Maxime Vachier-Lagrave will play in the last quarter-final. Here live from 19:00 CET (10:00 am PT) with video commentary from chess24 and chess.com. | Graphics: chess.com",
@@ -170,38 +218,6 @@ news_feed (
          "title" : "12th Sharjah Women's Cup 2022 - LIVE"
       },
       {
-         "description" : "The&#xA0;2022 Lorca Open&#xA0;will be held from 26-30 December 2022 in Hotel Spa Amaltea Lorca, Spain. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes + 30 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lorca-chess-open-2022-live/",
-         "pubDate" : "Wed, 14 Dec 2022 12:59:08 +0000",
-         "title" : "Lorca Chess Open 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 Lorca Open will be held from 26-30 December 2022 in Hotel Spa Amaltea Lorca, Spain. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vassily-ivanchuk-tops-the-field-of-the-2022-lorca-open/",
-         "pubDate" : "Wed, 14 Dec 2022 12:49:21 +0000",
-         "title" : "Vassily Ivanchuk tops the field of the 2022 Lorca Open"
-      },
-      {
-         "description" : "The 2022 Liberia National Individual Chess Championship Women is taking place from 10-20 December 2022 in Monrovia, Liberia. Players receive 90 minutes for first 40 moves and 30 minutes for the rest of the game with 30 seconds increment starting from move one. It is 11-round Swiss system tournament with Abigail Karyah, Windor Dorko Tarplah, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2022-liberia-national-individual-chess-championship-women-live/",
-         "pubDate" : "Wed, 14 Dec 2022 12:46:01 +0000",
-         "title" : "2022 Liberia National Individual Chess Championship Women - LIVE"
-      },
-      {
-         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-3-live-video-coverage/",
-         "pubDate" : "Wed, 14 Dec 2022 12:37:02 +0000",
-         "title" : "Chessable Sunway Sitges - Day 3 live video coverage"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -314,12 +330,12 @@ news_feed (
          "title" : "Julius Baer Challenger Championship - All games"
       },
       {
-         "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
+         "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andrea-botez-could-have-won-in-boxing-but-dina-belenkaya-actuall/",
-         "pubDate" : "Tue, 13 Dec 2022 14:50:33 +0000",
-         "title" : "Andrea Botez could have won in boxing but Dina Belenkaya actually won in chess!"
+         "link" : "https://worldchess.com/news/all/the-next-womens-world-champion-is-from-china/",
+         "pubDate" : "Tue, 13 Dec 2022 14:56:00 +0000",
+         "title" : "The Next Women's World Champion is from China."
       },
       {
          "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
@@ -448,6 +464,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-chess-highlight-at-the-end-of-the-year-the-fide-world-rapid-blitz-world-championships-2022",
          "pubDate" : "Mon, 12 Dec 2022 14:18:54 +0100",
          "title" : "A chess highlight at the end of the year: the FIDE World Rapid & Blitz World Championships 2022"
+      },
+      {
+         "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/andrea-botez-could-have-won-in-boxing-but-dina-belenkaya-actuall/",
+         "pubDate" : "Mon, 12 Dec 2022 12:50:00 +0000",
+         "title" : "Andrea Botez could have won in boxing but Dina Belenkaya actually won in chess!"
       },
       {
          "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by the 2022 Game Awards Creator of the...",
@@ -616,14 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g4",
          "pubDate" : "Sat, 10 Dec 2022 22:50:00 +0100",
          "title" : "Tan Zhongyi advances to Women's Candidates final"
-      },
-      {
-         "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-next-womens-world-champion-is-from-china/",
-         "pubDate" : "Sat, 10 Dec 2022 17:56:47 +0000",
-         "title" : "The Next Women's World Champion is from China."
       },
       {
          "description" : "GM Tan Zhongyi defeated GM Aleksandra Goryachkina on Saturday in the fourth game of their Women&#39;s Candidates semifinal in Khiva, Uzbekistan. In doing so, Tan qualified for an all-Chinese final vs. GM Lei Tingjie, which is scheduled for the first q...",
@@ -1224,14 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2121",
          "pubDate" : "Mon, 05 Dec 2022 15:56:20 +0000",
          "title" : "4th FIDE Council Meeting, Jerusalem, Israel: List of decisions"
-      },
-      {
-         "description" : "Among the numerous powerful new features in ChessBase 17, one of the most striking has to be the introduction of the Buddy Engine in the panoply of engine tools. This innocuous named tool is the lynchpin in the new engine data shared with users, effectively innovating on a standard that has changed very little in decades. Don't miss this overview and video!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-the-buddy-engine",
-         "pubDate" : "Mon, 05 Dec 2022 16:00:00 +0100",
-         "title" : "ChessBase 17: the Buddy Engine"
       },
       {
          "description" : "",
