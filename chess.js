@@ -326,7 +326,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-chesscom-awards-vote",
-         "pubDate" : "Tue, 13 Dec 2022 07:55:10 -0800",
+         "pubDate" : "Tue, 13 Dec 2022 07:55:00 -0800",
          "title" : "Vote For The 2022 Chess.com Awards"
       },
       {
