@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The week's schedule of online events is now available including Regular ECF online rated members club tournaments on Chess.com and Lichess.org The reformatted ECF...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-online-news/",
+         "pubDate" : "Fri, 16 Dec 2022 14:04:49 +0000",
+         "title" : "ECF Online news"
+      },
+      {
+         "description" : "Viktor Korchnoi ( 1931 - 2016 ) was undoubtedly one of the most fascinating personalities in the chess world. The two-time World Championship finalist played successful and attractive chess, even into old age. We have a great Korchnoi bundle for you in our ChessBase Shop. The Fritztrainer - My life for chess, and the Masterclass Vol. 15 - Viktor Korchnoi. The complete package is available for only €49.90 and is now also available as a streaming version.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/korchnoi-special-2",
+         "pubDate" : "Fri, 16 Dec 2022 13:51:14 +0100",
+         "title" : "Korchnoi Special"
+      },
+      {
          "description" : " One of the difficulties in playing a GM is that almost every move they play is exact. Even in positions where there seems to be a choice of moves, the move chosen seems to be the move required by the position. In this recent game, White looks to win without much effort, albeit due to Black missing White's real intentions at a number of points. But playing through the game, I was struck by how important 10.e5 was in the overall scheme of things. White's whole game revolved around the squares the pawn controlled, forcing Black to make a number of concessions to deal with it's surprising power. Given that it was only the 4th or 5th best choice for Deep Fritz, I do wonder if Safarli was already",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Aditya Mittal becomes India's 77th GM"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-653",
-         "pubDate" : "Tue, 06 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 6"
-      },
-      {
          "description" : " <p class=\"lead\">On the 5th of December at the <a href=\"https://www.fide.com/news/2121\">4th FIDE Council Meeting</a>, FIDE decided to finally approve the GM title of Elisabeth Paehtz, which she had achieved since last November. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/elisabeth-paehtz-chess-fide-grandmaster-germany.jpeg\" width=\"960\" height=\"430\" alt=\"\" /> <div class=\"e2-text-caption\">Image: Jens Gyarmaty [FAZ-Recht:2]</div> </div> As described at the <a href=\"https://doc.fide.com/docs/DOC/2022%20GA%20in%20IND/Annex%2010.2%20Proposal%20GE%20Germany.pdf\">letter</a> of the German Chess Federation to the FIDE General Assembly on June 5th, 2022, \"In November 20",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html",
          "pubDate" : "Fri, 25 Nov 2022 16:04:00 +0000",
          "title" : "Wayback to Smartchess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2104",
-         "pubDate" : "Fri, 25 Nov 2022 13:37:31 +0000",
-         "title" : "The FIDE President visits the Middle East"
       }
    ]
 }
