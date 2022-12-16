@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura defeated Nihal Sarin by a 14&frac12;-10&frac12; score in the first semifinal of the Speed Chess Championship. Naka, who won every edition of the online event since 2018, will face either Magnus Carlsen or Maxime Vachier-Lagrave in the final match, which is set to take place on December 20.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-nakamura-nihal",
+         "pubDate" : "Fri, 16 Dec 2022 17:00:00 +0100",
+         "title" : "Speed Chess: \"Burned out\" Nakamura reaches final"
+      },
+      {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Fri, 16 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
          "description" : "The week's schedule of online events is now available including Regular ECF online rated members club tournaments on Chess.com and Lichess.org The reformatted ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -754,7 +770,7 @@ news_feed (
          "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
       },
       {
-         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</a> appeared ",
+         "description" : "From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a>",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
@@ -1018,7 +1034,7 @@ news_feed (
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
       },
       {
-         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\">Improve Your Chess Calculation: The Ramesh Chess Co",
+         "description" : "From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a>",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
@@ -1242,14 +1258,6 @@ news_feed (
          "title" : "Women's Candidates semifinal: Tan Zhongyi came close, but no cigar"
       },
       {
-         "description" : "In Germany, the 6 December is the day of \"Nikolaus\" - a day for small presents, and on the evening of 5 December children in Germany put out their shoes, hoping that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom ChessBase offers its customers the new \"60 Minutes\" course \"A dangerous weapon against the Caro-Kann\" by Andrew Martin for free. Buy a new course (or something else) and get the \"60 Minutes\" course for free...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/presents-from-the-nikolaus",
-         "pubDate" : "Tue, 06 Dec 2022 18:10:57 +0100",
-         "title" : "Presents from the \"Nikolaus\""
-      },
-      {
          "description" : "For the second time in less than two months we have a REAL YAHOO, reported by Yahoo.com in person. The previous sighting was <A HREF=\"http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html\">Really Big Stereotypes</A>(October 2022; 'real Yahoo -- a mainstream news source reporting on a chess story'). <P>Unfortunately, I bungled the screen capture and lost the top portion of the Yahoo headlines. You'll have to believe me that the top headline said, 'Nobody thought case against Fox would get this far'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml06.gif\" WIDTH=400 HEIGHT=215> <P>The five bottom headlines said, <BLOCKQUOTE>- Christie's niece injured 6 cops dur",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-63/",
          "pubDate" : "Tue, 06 Dec 2022 12:19:10 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (63)"
-      },
-      {
-         "description" : "After achieving her third Grandmaster norm in the Grand Swiss Tournament in Riga 2021 Germany's number one women player Elisabeth P&auml;htz (pictured) finally seemed to have secured the title, but when it turned out that her second norm might not have been valid, things got complicated. But in FIDE's decisions of the Council meeting on 25 November P&auml;htz's title was now confirmed. And Mexico was mentioned indirectly as possible host for the World Championship match between Ding Liren and Ian Nepomniachtchi in 2023. | Photo: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-news-gm-title-for-elisabeth-paehtz-confirmed-world-championship-match-in-mexico",
-         "pubDate" : "Tue, 06 Dec 2022 13:10:43 +0100",
-         "title" : "FIDE news: GM title for Elisabeth P&auml;htz confirmed, World Championship match in Mexico?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96029908.cms\" />Sixteen-year-old Aditya Mittal has become India's 77th chess Grandmaster during an ongoing tournament in Spain. The Mumbai player, who had secured three GM norms, crossed 2,500 ELO points mark during the sixth round of the ongoing Ellobregat Open tournament in Spain. He drew the game against Spain's No.1 Francisco Vallejo Pons to achieve the feat.",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-six/",
          "pubDate" : "Fri, 25 Nov 2022 19:41:43 +0000",
          "title" : "A Foundation for Beginners Seventy Six"
-      },
-      {
-         "description" : "Earlier this month on my 'World Chess Championship Blog', I posted <A HREF=\"http://worldchesschampionship.blogspot.com/2022/11/smartchess-interviews-karpov.html\">Smartchess Interviews Karpov</A>(November 2022). I noted, <BLOCKQUOTE>A footnote to the interview mentioned that it first appeared on Smartchess Online in September 1997. I tried to find the original interview via the Wayback Machine, but failed. Smartchess.com appears to have been built using techniques that are incompatible with Wayback assumptions. </BLOCKQUOTE> <P>It turned out that the Wayback obstacle is easily overcome. Don't try to open its links in new tabs, then everything works. Starting with the web.archive.org link give",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html",
-         "pubDate" : "Fri, 25 Nov 2022 16:04:00 +0000",
-         "title" : "Wayback to Smartchess"
       }
    ]
 }
