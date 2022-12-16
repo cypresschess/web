@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second semi-final of the Speedchess Championship on chess.com Magnus Carlsen meets Maxime Vachier-Lagrave, and that gives the World Champion the opportunity for a little revenge. After all, in the semi-finals of the Speedchess Championship 2020 Carlsen had lost to \"MVL\", who then lost to Hikaru Nakamura in the final. This time Carlsen wants to do better, but of course \"MVL\" has other plans. Action starts at 19:00 CET (10:00 PT). With live commentary by Laurent Fressinet and Peter Heine Nielsen. | Graphics: chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speedchess-so-vs-vachier-lagrave-3",
+         "pubDate" : "Fri, 16 Dec 2022 18:45:00 +0100",
+         "title" : "Speedchess Championship: Magnus Carlsen vs Maxime Vachier-Lagrave"
+      },
+      {
          "description" : "Hikaru Nakamura defeated Nihal Sarin by a 14&frac12;-10&frac12; score in the first semifinal of the Speed Chess Championship. Naka, who won every edition of the online event since 2018, will face either Magnus Carlsen or Maxime Vachier-Lagrave in the final match, which is set to take place on December 20.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -770,7 +778,7 @@ news_feed (
          "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
       },
       {
-         "description" : "From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat against 1.e4, and enjoy dynamic winning chances game after game. Top-10 player Anish Giri is the best tutor to bring this complicated opening across to <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</a> appeared ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
@@ -1034,7 +1042,7 @@ news_feed (
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
       },
       {
-         "description" : "From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You cannot rely on feeling or intuition &#8212; you will have to turn on your brainpower. The good news: you can improve your calculation skills by <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\">Improve Your Chess Calculation: The Ramesh Chess Co",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
          "title" : "Survive Complex Chess Positions | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "The match to decide who will face Lei Tingjie in the final of the Women's Candidates Tournament kicked off on Tuesday in Khiva. Aleksandra Goryachkina had the white pieces, found herself in a slightly inferior position, and in the end managed to get a draw against Tan Zhongyi. | Photo: Timur Sattarov",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g1",
-         "pubDate" : "Tue, 06 Dec 2022 22:05:00 +0100",
-         "title" : "Women's Candidates: A 98-move draw"
       },
       {
          "description" : "",
