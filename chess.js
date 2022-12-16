@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Council approved yesterday a major reform of the qualification paths to the Candidates Tournament&#xA0;&#x2013; the event that decides the challenger for the World Championship match. According to the new system, 1 player will qualify from the FIDE World Championship Match 2023 (runner-up), 3 players will qualify from the FIDE World Cup, 2 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/emil-sutovsky-there-was-a-tentative-agreement-with-grand-chess-tour-but-things-did-not-work/",
+         "pubDate" : "Fri, 16 Dec 2022 22:58:56 +0000",
+         "title" : "Emil Sutovsky: There was a tentative agreement with Grand Chess Tour, but things did not work"
+      },
+      {
+         "description" : "The 2022 European Blitz Chess Championship was played today in Katowice, Poland, with more than 800 players in the field. GM David Navara won the event after a thrilling final round. Navara needed to win the last game to run for the gold, but it was a completely drawish rooks endgame. It was a miracle []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/david-navara-and-alexandra-kosteniuk-are-2022-european-blitz-champions/",
+         "pubDate" : "Fri, 16 Dec 2022 22:24:47 +0000",
+         "title" : "David Navara and Alexandra Kosteniuk are 2022 European Blitz Champions"
+      },
+      {
+         "description" : "The Malm&#xF6; Open &#124; Swedish Grand Prix is taking place from 16-18 December. The tournament is part of the Swedish Gran Prix. The first four rounds are played with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining rounds are played with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/malmo-open-2022-live/",
+         "pubDate" : "Fri, 16 Dec 2022 22:23:59 +0000",
+         "title" : "Malmo Open 2022 - LIVE"
+      },
+      {
+         "description" : "The 4th Chess Academy Almaty IM is taking place from 16&#x2013;23 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Nikolay Averin, Muhammad Khusenkhojaev, Sanzhar Ashirov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/4th-chess-academy-almaty-im-2022-live/",
+         "pubDate" : "Fri, 16 Dec 2022 22:14:32 +0000",
+         "title" : "4th Chess Academy Almaty IM 2022 - LIVE"
+      },
+      {
          "description" : "In the second semi-final of the Speedchess Championship on chess.com Magnus Carlsen meets Maxime Vachier-Lagrave, and that gives the World Champion the opportunity for a little revenge. After all, in the semi-finals of the Speedchess Championship 2020 Carlsen had lost to \"MVL\", who then lost to Hikaru Nakamura in the final. This time Carlsen wants to do better, but of course \"MVL\" has other plans. Action starts at 19:00 CET (10:00 PT). With live commentary by Laurent Fressinet and Peter Heine Nielsen. | Graphics: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +114,7 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 16"
       },
       {
-         "description" : "European Blitz Chess Championship 2022&#xA0;is taking place in Katowice, Poland. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 double rounds, swiss system, with the time control: 3 minutes + 2 seconds increment. More than 800 players participate in the event. Live video []",
+         "description" : "European Blitz Chess Championship 2022&#160;is taking place in Katowice, Poland. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 double rounds, swiss system, with the time control: 3 minutes + 2 seconds increment. More than 800 players participate in the event. Live video []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-blitz-chess-championship-2022-live-video-coverage/",
@@ -202,30 +234,6 @@ news_feed (
          "title" : "Everything set for the start of European Rapid and Blitz Championship in Katowice"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;will take place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-on-tour-is-back/",
-         "pubDate" : "Thu, 15 Dec 2022 14:40:39 +0000",
-         "title" : "Tata Steel Chess On Tour is back!"
-      },
-      {
-         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;kicked off yesterday in Sitges, Barcelona. The event will be held from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-4-live-video-coverage/",
-         "pubDate" : "Thu, 15 Dec 2022 14:31:54 +0000",
-         "title" : "Chessable Sunway Sitges - Day 4 live video coverage"
-      },
-      {
-         "description" : "The third round of the&#xA0;Chessable Sunway Sitges International Chess Festival 2022&#xA0;was played yesterday afternoon and the rating gap between the opponents gets smaller and smaller.&#xA0;19 players emerged on the top with the perfect score of 3/3 points, among whom are the top-seeded&#xA0;GM Yu Yangyi,&#xA0;GM Hans Niemann&#xA0;and&#xA0;GM Jorden van Foreest. The fourth round starts today at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-4-pairings/",
-         "pubDate" : "Thu, 15 Dec 2022 14:07:39 +0000",
-         "title" : "Chessable Sunway Sitges - Round 4 pairings"
-      },
-      {
          "description" : "In the first semi-final of the Speedchess Championship on chess.com, defending champion and blitz specialist Hikaru Nakamura will meet the young Indian grandmaster Nihal Sarin, who is also considered to be a blitz chess specialist. The eagerly awaited match starts today, 15.12., at 15.00. The winner of this encounter will meet Magnus Carlsen or Maxime Vachier-Lagrave who will play the second semi-final tomorrow, 16.12.. Watch Nakamuara vs Sarin live with commentary. | Graphics: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-546-k-priyanka-vs-van-delft",
          "pubDate" : "Thu, 15 Dec 2022 11:00:00 +0100",
          "title" : "Game of the Week #546: K Priyanka vs Van Delft"
-      },
-      {
-         "description" : "The third round of the Chessable Sunway Sitges International Chess Festival 2022 was played yesterday afternoon and the rating gap between the opponents gets smaller and smaller. A few upsets marked the Round 3 as GM Anton Demchenko drew against GM Rithvik Raja, GM Chopra Aryan made a draw to IM Ortik Nigmatov, IM Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-3-results/",
-         "pubDate" : "Thu, 15 Dec 2022 09:24:23 +0000",
-         "title" : "Chessable Sunway Sitges - Round 3 results"
       },
       {
          "description" : "Nineteen players are sharing first place on 3 out of 3 points in the main event of the Sunway Sitges Festival. Kushal O, a 17-year-old Indian player with an 1801 Elo rating, is among the leaders, as he stunned players in the 2250-2500 rating bracket on the first three days of competition. Big guns Yu Yangyi, Hans Niemann and Jorden van Foreest (pictured) are also sharing the lead. | Photo: Amruta Mokal",
@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
          "pubDate" : "Sat, 26 Nov 2022 11:58:00 +0400",
          "title" : "13th World Teams 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2105",
-         "pubDate" : "Fri, 25 Nov 2022 20:52:32 +0000",
-         "title" : "China is World Team Champion 2022"
       }
    ]
 }
