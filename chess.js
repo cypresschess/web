@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Federation FIDE today announced a new qualification system for the 2024 Candidates Tournament. The Grand Prix is gone and there's no wildcard, with an extra 3rd spot for the World Cup and a new \"FIDE Circuit\" place for the best results in eligible tournaments in 2023. The biggest surprise is that the two announced spots for the Grand Chess Tour are gone.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-announce-new-candidates-qualification",
+         "pubDate" : "Thu, 15 Dec 2022 22:34:01 +0000",
+         "title" : "FIDE revamp Candidates qualification system"
+      },
+      {
+         "description" : "The showdown between two of Chess.com&#39;s pre-eminent blitz and bullet chess players in the 2022 Speed Chess Championship was comfortably won by GM Hikaru Nakamura on Thursday. The defending champion took an early lead over GM Nihal Sarin and neve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-nakamura-nihal",
+         "pubDate" : "Thu, 15 Dec 2022 13:36:46 -0800",
+         "title" : "Nakamura Confirms Spot In Final, Nears 5th SCC Title"
+      },
+      {
+         "description" : "On December 15, 2022, FIDE announced the paths of qualification for the next Candidates Tournament, which will be held in 2024 and will determine the challenger in the 2024 World Championship. The paths are: Runner-up at the 2023 World Champio...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths",
+         "pubDate" : "Thu, 15 Dec 2022 13:04:00 -0800",
+         "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
+      },
+      {
+         "description" : "The FIDE Council has approved today&#xA0;a major reform of the qualification paths to the Candidates Tournament&#xA0;&#x2013; the event that decides the challenger for the World Championship match. According to the new system, 1 player will qualify from the FIDE World Championship Match 2023 (runner-up), 3 players will qualify from the FIDE World Cup, 2 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-a-player-who-understands-all-qualification-paths-to-candidates-should-get-1-spot-too-tweetoftheday/",
+         "pubDate" : "Thu, 15 Dec 2022 20:45:41 +0000",
+         "title" : "Anish Giri: A player who understands all qualification paths to Candidates should get 1 spot too #TweetOftheDay"
+      },
+      {
          "description" : "The FIDE Council has approved today a major reform of the qualification paths to the Candidates Tournament &#x2013; the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -30,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/everything-set-for-the-start-of-european-rapid-and-blitz-championship-in-katowice/",
-         "pubDate" : "Thu, 15 Dec 2022 14:48:21 +0000",
+         "pubDate" : "Thu, 15 Dec 2022 14:58:21 +0000",
          "title" : "Everything set for the start of European Rapid and Blitz Championship in Katowice"
       },
       {
@@ -54,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-4-pairings/",
-         "pubDate" : "Thu, 15 Dec 2022 14:27:39 +0000",
+         "pubDate" : "Thu, 15 Dec 2022 14:07:39 +0000",
          "title" : "Chessable Sunway Sitges - Round 4 pairings"
       },
       {
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022/",
          "pubDate" : "Wed, 14 Dec 2022 13:43:35 +0000",
          "title" : "Vugar Gashimov Memorial 2022"
-      },
-      {
-         "description" : "Ukrainian Parliament has sanctioned 55 Russian athletes and one Ukrainian for showing support towards ongoing Russia Ukraine war, writes Neil Shefferd for insidethegames.biz. The list of sanctioned athletes includes GM Sergey Karjakin (who was earlier this year banned from playing FIDE events for 6 months as he was found guilty of breach of article []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ukrainian-parliament-sanctions-55-russian-athletes-including-sergey-karjakin-anatoly-karpov-and-sergei-shipov/",
-         "pubDate" : "Wed, 14 Dec 2022 13:05:39 +0000",
-         "title" : "Ukrainian Parliament sanctions 55 Russian athletes including Sergey Karjakin, Anatoly Karpov and Sergei Shipov"
       },
       {
          "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
@@ -1106,14 +1130,6 @@ news_feed (
          "title" : "Survive Complex Chess Positions | Beginner Breakdown"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Gukesh D&#38;nbsp;in the 2022 Speed Chess Championship on Tuesday. Though Carlsen was off his usual form and overlooked a number of tactics, he defeated his prodigy opponent by such a wide margin that he had essentially w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-carlsen-gukesh",
-         "pubDate" : "Tue, 06 Dec 2022 15:49:00 -0800",
-         "title" : "Imperfect Carlsen Overpowers Gukesh"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022 (including a win over Magnus Carlsen at the Sinquefield Cup). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hZre8jBVrFg.jpg?itok=Kd",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html",
          "pubDate" : "Tue, 06 Dec 2022 16:13:00 +0000",
          "title" : "How Many for Carlsen? For Niemann?"
-      },
-      {
-         "description" : "Wearing a face mask during a game of chess decreases the quality of chess players&#39; decisions, an effect that is relatively short and mostly hurts strong players. This is the conclusion of a study about the effect of masks on cognitive performance ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/smerdon-research-face-masks-cognitive-performance-chess",
-         "pubDate" : "Tue, 06 Dec 2022 07:05:00 -0800",
-         "title" : "Face Masks Decrease Quality Of Chess Moves But Mostly Among Grandmasters"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (63)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (63)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1818,14 +1826,6 @@ news_feed (
          "title" : "Winners crowned at 30th World Senior Championship 2022"
       },
       {
-         "description" : "China defeated Uzbekistan in both mini-matches to add to the gold medals they won in the 2015 and 2017 FIDE World Team Championships. They finished unbeaten, which was a remarkable performance for the 3rd or 4th best team China could have fielded. Spain took their first ever World Team medals as they inflicted more heartbreak on India to snatch bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/china-clinch-3rd-world-team-championship-title",
-         "pubDate" : "Sat, 26 Nov 2022 15:15:00 +0000",
-         "title" : "China clinch 3rd World Team Championship title"
-      },
-      {
          "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/nov/25/chess-magnus-carlsen-wins-online-and-will-face-the-new-generation-at-wijk",
          "pubDate" : "Fri, 25 Nov 2022 07:30:00 +0000",
          "title" : "Chess: Magnus Carlsen wins online and will face the new generation at Wijk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2103",
-         "pubDate" : "Thu, 24 Nov 2022 21:10:39 +0000",
-         "title" : "World Team Championship 2022: China and Uzbekistan face off in the final"
       }
    ]
 }
