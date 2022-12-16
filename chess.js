@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of the difficulties in playing a GM is that almost every move they play is exact. Even in positions where there seems to be a choice of moves, the move chosen seems to be the move required by the position. In this recent game, White looks to win without much effort, albeit due to Black missing White's real intentions at a number of points. But playing through the game, I was struck by how important 10.e5 was in the overall scheme of things. White's whole game revolved around the squares the pawn controlled, forcing Black to make a number of concessions to deal with it's surprising power. Given that it was only the 4th or 5th best choice for Deep Fritz, I do wonder if Safarli was already",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/a-far-sighted-move.html",
+         "pubDate" : "Fri, 16 Dec 2022 12:19:00 +0000",
+         "title" : "A far sighted move"
+      },
+      {
+         "description" : "Hikaru Nakamura defeated Nihal Sarin 14.5:10.5 to reach his 7th final in 7 Speed Chess Championships after what he admitted had been \"a very tough match\". The big games went Hikaru's way, and he'll now play the winner of today's Magnus Carlsen vs. Maxime Vachier-Lagrave semi-final as he attempts to win a 5th title in a row.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-reaches-7th-speed-chess-final",
+         "pubDate" : "Fri, 16 Dec 2022 11:26:32 +0000",
+         "title" : "Hikaru Nakamura reaches 7th Speed Chess final"
+      },
+      {
+         "description" : "11th &#38; 12th December, Salem, Tamil Nadu Report Salem District Chess Association, on behalf of Tamil Nadu State Chess Association and All India Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-11th-12th-december-salem-tamil-nadu/",
+         "pubDate" : "Fri, 16 Dec 2022 11:13:56 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination ,11th & 12th December 2022, Salem, Tamil Nadu"
+      },
+      {
+         "description" : " I've briefly touched on the use of tactics over this series of articles. However, I want to dig in and dedicate a fair number of future articles, starting with this one, to the art of tactics. We'll go through the primary tactics the beginner should know as well as a few advanced tactics to be <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\">A Foundation for Beginners Seventy Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessim",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-eight/",
+         "pubDate" : "Fri, 16 Dec 2022 11:00:32 +0000",
+         "title" : "A Foundation for Beginners Seventy Eight"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1677",
+         "pubDate" : "Fri, 16 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 16"
+      },
+      {
+         "description" : "European Blitz Chess Championship 2022&#xA0;is taking place in Katowice, Poland. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 double rounds, swiss system, with the time control: 3 minutes + 2 seconds increment. More than 800 players participate in the event. Live video []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-blitz-chess-championship-2022-live-video-coverage/",
+         "pubDate" : "Fri, 16 Dec 2022 09:33:47 +0000",
+         "title" : "European Blitz Chess Championship 2022 - LIVE video coverage"
+      },
+      {
          "description" : "The 14th Greek Youth Team Championship takes place in Rio, Greece, from 15-18 December. The time control is 90 minutes for the whole game, with an increment of 30 seconds per move from move 1.&#xA0;The event is a 6-round team Swiss for players under 16 years old, with matches played over 6 boards, with participation []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -40,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r4",
          "pubDate" : "Fri, 16 Dec 2022 07:10:00 +0100",
          "title" : "Sunway Sitges: Six players on 4/4"
+      },
+      {
+         "description" : "The&#160;2022 European Open and Women Rapid &#38; Blitz Chess Championships&#160;will take place from 16th-18th December in Katowice, Poland. The first tournament on the schedule will be the&#160;European Blitz Chess Championship&#160;which will be played on December 16th. Open and Women&#x2019;s sections will be merged, with separate prizes for the best ranked female players. The event will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022-live/",
+         "pubDate" : "Fri, 16 Dec 2022 02:54:00 +0000",
+         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022 - LIVE"
       },
       {
          "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
@@ -178,14 +234,6 @@ news_feed (
          "title" : "Chessable Sunway Sitges - Round 3 results"
       },
       {
-         "description" : "Press release by FIDE The FIDE World Rapid &#38; Blitz Championship is due to start on December 25th in Almaty, Kazakhstan. Eleven days before the opening ceremony, apress conference has been held in the host city. Speakers at the press conference were FIDE President&#160;Arkady Dvorkovich&#160;(via video link),&#160;Vice Minister of Culture and Sports of the Republic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-rapid-blitz-championships-2022-press-conference-300-worlds-leading-grandmasters-registered-for-the-event/",
-         "pubDate" : "Thu, 15 Dec 2022 09:06:50 +0000",
-         "title" : "World Rapid & Blitz Championships 2022 Press Conference: 300 world's leading GMs registered for the event"
-      },
-      {
          "description" : "Nineteen players are sharing first place on 3 out of 3 points in the main event of the Sunway Sitges Festival. Kushal O, a 17-year-old Indian player with an 1801 Elo rating, is among the leaders, as he stunned players in the 2250-2500 rating bracket on the first three days of competition. Big guns Yu Yangyi, Hans Niemann and Jorden van Foreest (pictured) are also sharing the lead. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r2",
          "pubDate" : "Wed, 14 Dec 2022 16:00:00 +0100",
          "title" : "Sunway Sitges: Esipenko escapes with a draw"
-      },
-      {
-         "description" : "The&#xA0;Vugar Gashimov memorial 2022&#xA0;will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings will be determined according to the sum of points of Rapid and Blitz events. The Rapid portion will be played in 9 rounds, round-robin system, with time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022-live-games/",
-         "pubDate" : "Wed, 14 Dec 2022 13:58:18 +0000",
-         "title" : "Vugar Gashimov Memorial 2022 - LIVE games"
       },
       {
          "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
@@ -1242,14 +1282,6 @@ news_feed (
          "title" : "Elisabeth Paehtz has her GM title finally confirmed by FIDE"
       },
       {
-         "description" : "In queen endings attacks on the king occur quite often. How did White use the power of his king and queen to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-battering-ram",
-         "pubDate" : "Tue, 06 Dec 2022 09:00:00 +0100",
-         "title" : "The battering ram"
-      },
-      {
          "description" : "The finals took place at the Woodland Grange Hotel, Leamington Spa on Saturday 3rd December. Follow this link for the final standings in the Open...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1778,14 +1810,6 @@ news_feed (
          "title" : "MrDodgy Invitational 3.0 2022 - Games and Results"
       },
       {
-         "description" : "Magnus Carlsen only appeared in the line-up for the 1st 16-player qualifier of the prestigious MrDodgy Invitational 3 when David Howell dropped out with an hour to spare. Magnus went on to dominate, though he did lose to Kamil Plichta, Gawain Jones and Alan Pichot. Magnus now plays Salem Saleh in the knockout stages.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/plichta-beats-magnus-as-mr-dodgy-invitational-begins",
-         "pubDate" : "Sun, 27 Nov 2022 16:48:52 +0000",
-         "title" : "Plichta beats Magnus as MrDodgy Invitational begins"
-      },
-      {
          "description" : "Podcasts have become an important component in understanding <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). Earlier this year in the series we had <A HREF=\"http://chessforallages.blogspot.com/2022/04/women-in-chess-podcasts.html\">Women in Chess Podcasts</A>(April 2022) and here we have top players talking about top-level chess. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ZGuUkfW_E_Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>C-Squared Podcast #10 | Global Che",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1816,14 +1840,6 @@ news_feed (
          "link" : "https://chessimprover.com/four-questions/",
          "pubDate" : "Sun, 27 Nov 2022 12:37:45 +0000",
          "title" : "Four Questions"
-      },
-      {
-         "description" : "All India Chess Federation bagged the Award for the Best National Sports Federation of the year at the TURF 2022 &#38; India Sports Awards by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-bags-best-national-sports-federation-of-the-year-award-at-turf-2022-r-b-ramesh-adjudged-best-coach/",
-         "pubDate" : "Sun, 27 Nov 2022 12:07:45 +0000",
-         "title" : "AICF bags Best National Sports Federation of the year award at TURF 2022 & India Sports Awards of FICCI; R B Ramesh adjudged Best Coach"
       },
       {
          "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ and here to read...",
@@ -1896,14 +1912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2104",
          "pubDate" : "Fri, 25 Nov 2022 13:37:31 +0000",
          "title" : "The FIDE President visits the Middle East"
-      },
-      {
-         "description" : "Passionate about chess? Chess in Schools and Communities are recruiting new tutors nationwide to teach in schools, libraries and prisons. We have particular need in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-in-schools-and-communities-are-recruiting-new-tutors/",
-         "pubDate" : "Fri, 25 Nov 2022 08:48:09 +0000",
-         "title" : "Chess in Schools and Communities are recruiting new tutors"
       }
    ]
 }
