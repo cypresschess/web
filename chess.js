@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 14th Greek Youth Team Championship takes place in Rio, Greece, from 15-18 December. The time control is 90 minutes for the whole game, with an increment of 30 seconds per move from move 1.&#xA0;The event is a 6-round team Swiss for players under 16 years old, with matches played over 6 boards, with participation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/14th-greek-youth-team-championship-2022-live/",
+         "pubDate" : "Fri, 16 Dec 2022 08:01:53 +0000",
+         "title" : "14th Greek Youth Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : " Norway's world No 1 did not lose a single game in his 22-4 victory, and achieved the rare feat of 10 successive wins, which in online speed chess jargon qualifies as adopting your opponent Magnus Carlsen's achievements are so many that it is hard for the Norwegian to surprise fans any more, but the No 1's crushing online blitz victory against Fabiano Caruana on Tuesday was remarkable. Caruana is the reigning US champion, and had scored an even 6-6 in his classical games against Carlsen in their 2018 world title match in London. This week, they were paired in a quarter-final of the annual $100,000 Chess.com speed championship, whose format of 90 minutes play at 5/1 (five minutes per player p",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/16/chess-carlsen-adopts-us-champion-fabiano-caruana-in-online-blitz-rout",
+         "pubDate" : "Fri, 16 Dec 2022 07:30:45 +0000",
+         "title" : "Chess: Carlsen 'adopts' US champion, Fabiano Caruana, in online blitz rout"
+      },
+      {
+         "description" : " <p class=\"lead\">The International Chess Federation recently released the requirements for the 2024 Candidates' Tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-16_11-28-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess (Candidates Tournament 2018 in Berlin)</div> </div> \"The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised by International Arbiters, and where Fair Play measures are applied (among other criteria listed below in detail), will grant points t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-has-changed-the-selection-criteria-for-the-candidates-tourn/",
+         "pubDate" : "Fri, 16 Dec 2022 07:29:47 +0000",
+         "title" : "FIDE has changed the selection criteria for the candidates' tournament"
+      },
+      {
+         "description" : "The FIDE Council has approved a major reform of the qualification paths to the Candidates Tournament, the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria will grant points towards the \"FIDE Circuit\". | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-reforms-qualification-to-candidates",
+         "pubDate" : "Fri, 16 Dec 2022 07:30:00 +0100",
+         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
+      },
+      {
+         "description" : "After four rounds, six players still have perfect scores in Group A of the Sunway Chess Festival. Among the co-leaders is Samant Aditya, rated 2470, who defeated Adhiban (2611) in round 4. Two players from the top ten in the starting rank list are also among those with perfect scores - i.e. Hans Niemann and Kirill Alekseenko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r4",
+         "pubDate" : "Fri, 16 Dec 2022 07:10:00 +0100",
+         "title" : "Sunway Sitges: Six players on 4/4"
+      },
+      {
          "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2138",
          "pubDate" : "Thu, 15 Dec 2022 18:40:03 +0000",
          "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Thu, 15 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
       },
       {
          "description" : "The&#xA0;European Open and Women Rapid &#38; Blitz Chess Championships 2022&#xA0;will kick off tomorrow in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre and everything is set for the start of one of the biggest European events in the 2022 Calendar! More than 1000 players from 40 countries []",
@@ -248,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022-live-games/",
          "pubDate" : "Wed, 14 Dec 2022 13:58:18 +0000",
          "title" : "Vugar Gashimov Memorial 2022 - LIVE games"
-      },
-      {
-         "description" : "The Vugar Gashimov memorial 2022 will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages. The Rapid portion will be played in 9 rounds, round-robin system, with time control 15 min + 10 sec, and the Blitz tournament will be played in 18 rounds, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022/",
-         "pubDate" : "Wed, 14 Dec 2022 13:43:35 +0000",
-         "title" : "Vugar Gashimov Memorial 2022"
       },
       {
          "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
@@ -1234,14 +1258,6 @@ news_feed (
          "title" : "UK Blitz Finals 2022"
       },
       {
-         "description" : "Every chess player blunders. Even the brains of the very best in the world sometime take a day off. We are humans, and errors are an inherent part of human nature. And yet, few things in chess are as discouraging as losing a good game after a silly mistake. Sometimes, one blunder spoils an entire tournament: a week's amount of work is gone in a minute or two. But Jan Markos has good news for you. A lot of blunders can be avoided by a little discipline and a few simple tricks.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-16-how-to-avoid-blunders-2",
-         "pubDate" : "Mon, 05 Dec 2022 20:00:00 +0100",
-         "title" : "The Winning Academy 16: How to Avoid Blunders (2)"
-      },
-      {
          "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1888,22 +1904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-in-schools-and-communities-are-recruiting-new-tutors/",
          "pubDate" : "Fri, 25 Nov 2022 08:48:09 +0000",
          "title" : "Chess in Schools and Communities are recruiting new tutors"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95759722.cms\" />India went down 1-3 to Uzbekistan in the semifinal of the FIDE World Team chess Championship on Friday. The two teams shared honours in the first round at 2-2 scoreline with S L Narayanan's superb win with black pieces over Shamsiddin Vokhidov being offset by SP Sethuraman's loss to Jakhongir Vokhidov.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-world-team-chess-championship-india-loses-to-uzbekistan-in-semifinals/articleshow/95759722.cms",
-         "pubDate" : "Fri, 25 Nov 2022 07:50:15 +0000",
-         "title" : "World Team Chess: India loses to Uzbekistan in semifinals"
-      },
-      {
-         "description" : " Norway's world champion made a clean sweep of his seven matches in the $210,000 Meltwater Tour final and will take on five of the world's best teenagers at Tata Steel Wijk aan Zee in January Magnus Carlsen won all his seven matches at last week's $210,000 Meltwater Tour online final in San Francisco, as the world champion continues to dominate internet events. Fast time limits suit his powerful and resourceful all-round game, his alertness to fleeting opportunities and his ability to grind out endgame wins. If online tournaments were rated like classical chess, his San Francisco performance would rank above or close to the record 2900 level he has twice narrowly missed over-the-board. Disco",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/nov/25/chess-magnus-carlsen-wins-online-and-will-face-the-new-generation-at-wijk",
-         "pubDate" : "Fri, 25 Nov 2022 07:30:00 +0000",
-         "title" : "Chess: Magnus Carlsen wins online and will face the new generation at Wijk"
       }
    ]
 }
