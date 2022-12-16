@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tani-adewumi-granted-asylum-in-us",
+         "pubDate" : "Thu, 15 Dec 2022 16:26:17 -0800",
+         "title" : "12-Year-Old Master Tani Adewumi Granted Asylum in U.S."
+      },
+      {
          "description" : "The World Chess Federation FIDE today announced a new qualification system for the 2024 Candidates Tournament. The Grand Prix is gone and there's no wildcard, with an extra 3rd spot for the World Cup and a new \"FIDE Circuit\" place for the best results in eligible tournaments in 2023. The biggest surprise is that the two announced spots for the Grand Chess Tour are gone.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-nakamura-nihal",
-         "pubDate" : "Thu, 15 Dec 2022 13:36:46 -0800",
+         "pubDate" : "Thu, 15 Dec 2022 13:36:00 -0800",
          "title" : "Nakamura Confirms Spot In Final, Nears 5th SCC Title"
       },
       {
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-210-indo-uzbek-rivalry-and-a-chinese-star-in-waiting-a-review",
          "pubDate" : "Wed, 07 Dec 2022 19:37:15 +0100",
          "title" : "CBM 210: Indo-Uzbek Rivalry and a Chinese star in waiting - A Review"
-      },
-      {
-         "description" : "GMs Raunak Sadhwani and Jeffery Xiong won Titled Tuesday on December 6. Both scored 9.5 points and won on tiebreaks. It was Sadhwani&#39;s first Titled Tuesday win of 2022 and Xiong&#39;s fifth.&#38;nbsp; Early Tournament (Sadhwani) Late Tournament (Xion...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sadhwani-xiong-win-titled-tuesday-december-6-2022",
-         "pubDate" : "Wed, 07 Dec 2022 09:04:21 -0800",
-         "title" : "Two-Way Ties Atop The Standings Table In Tuesday Tournaments"
       },
       {
          "description" : "",
