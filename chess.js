@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2105",
          "pubDate" : "Fri, 25 Nov 2022 20:52:32 +0000",
          "title" : "China is World Team Champion 2022"
-      },
-      {
-         "description" : " I realized that I'd been suggesting that readers practice what they've learned in this series of articles playing against chess apps or software. I thought this to be good advice, since you can always stop a game and try again with no penalty. While there is no substitute for siting down and playing against another <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-six/\">A Foundation for Beginners Seventy Six</a> appeared first on <a rel=\"nofollow\" href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-six/",
-         "pubDate" : "Fri, 25 Nov 2022 19:41:43 +0000",
-         "title" : "A Foundation for Beginners Seventy Six"
       }
    ]
 }
