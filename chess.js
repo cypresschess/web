@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#xA0;GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM Jules Moussard,&#xA0;GM Andrey Esipenko&#xA0;and a total of 43 grandmasters. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-6-live-video-coverage/",
+         "pubDate" : "Sat, 17 Dec 2022 12:21:09 +0000",
+         "title" : "Chessable Sunway Sitges - Day 6 live video coverage"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December in Sitges, Barcelona, and features two tournaments: Open A and Open B, with a total prize fund of 27.155eur.&#xA0;After six played rounds, GM Kirill Alekseenko and GM Murali Karthikeyan co-lead the event with perfect score 5/5 points. The 6th round starts at 16:30 (local []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-2022-round-6-pairings/",
+         "pubDate" : "Sat, 17 Dec 2022 12:09:37 +0000",
+         "title" : "Chessable Sunway Sitges 2022 - Round 6 pairings"
+      },
+      {
+         "description" : "The Dragon grandmaster is back with an interesting game for all you Sicilian lovers. Two U16 talents battled it out in the last European Youth Chess Championship 2022. But before this game is thoroughly presented by Chris Ward, first, we take a closer look at a recent game between Arjun Erigaisi and Fabiano Caruana. Nonetheless, in the second game, the Topalov Variation is on the board, and the British GM shows us some very interesting lines, plans, and ideas with this system. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-topalov-variation",
+         "pubDate" : "Sat, 17 Dec 2022 13:00:00 +0100",
+         "title" : "The Monthly Dragon - The Topalov Variation"
+      },
+      {
+         "description" : " Harry Press is the 2022 ACT Rapidplay Champion, winning the 56 player event with 6.5/7. He started with 6 wins before agreeing to a short final round draw with Jonah Gear. Tied for 2nd were Fred Litchfield and FM Michael Kethro on 6/7. Gear won the Under 1800 prize with 5.5/7, while there was a 5 way tie for the Under 1200 prize, including Street Chess veteran, Sunny Yoon. The turn out was the largest ever for this event, and the largest group of players for a Street Chess run event. Thanks to the assistance of a number of players in helping set up and pack away, the event did very well to only run 30 minutes over time! If you are interested in seeing the final crosstable, it is available a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-results.html",
+         "pubDate" : "Sat, 17 Dec 2022 11:53:00 +0000",
+         "title" : "2022 ACT Rapidplay Championship - Results"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival is taking place from 11-22 December in Sitges, Barcelona, and features two tournaments: Open A and Open B, with a total prize fund of 27.155eur.&#xA0; After five played rounds, Kirill Alekseenko and Murali Karthikeyan grabbed the lead with the perfect 5/5 score. Hans Niemann, Eltaj Safarli, Anton Demchenko, Karen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kirill-alekseenko-and-murali-karthikeyan-in-joint-lead-at-the-chessable-sunway-sitges/",
+         "pubDate" : "Sat, 17 Dec 2022 11:41:41 +0000",
+         "title" : "Kirill Alekseenko and Murali Karthikeyan in joint lead at the Chessable Sunway Sitges"
+      },
+      {
+         "description" : " <p class=\"lead\">David Navara and Alexandra Kosteniuk are the 2022 European Blitz Champions for the Open and Women Championships respectively, with David winning due to the tiebreaks criteria. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/david-navara-alexandra-kosteniuk-european-blitz-rapid-championship-katowice.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: European Blitz and Rapid Chess Championship <a href=\"https://katowice2022.eu/en/home/\">Official Page</a></div> </div> The European Open and Women Rapid & Blitz Chess Championships 2022 started yesterday in \"Spodek\" Sport and Entertainment Centre in Katowice, Poland with more ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/david-navara-and-alexandra-kosteniuk-won-the-2022-european-blitz/",
+         "pubDate" : "Sat, 17 Dec 2022 11:34:21 +0000",
+         "title" : "David Navara and Alexandra Kosteniuk won the 2022 European Blitz Championship"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1789",
+         "pubDate" : "Sat, 17 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 17"
+      },
+      {
+         "description" : "European Rapid Chess Championship 2022&#xA0;is taking place in Katowice, Poland, from 17-18 December 2022. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 rounds, swiss system, with the time control: 15 minutes + 10 seconds increment. More than 900 players participate in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-rapid-chess-championship-2022-day-1-live-video-coverage/",
+         "pubDate" : "Sat, 17 Dec 2022 10:06:45 +0000",
+         "title" : "European Rapid Chess Championship 2022 - Day 1 LIVE video coverage"
+      },
+      {
          "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@mdsaif",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -90,6 +154,14 @@ news_feed (
          "title" : "Speedchess Championship: Magnus Carlsen vs Maxime Vachier-Lagrave"
       },
       {
+         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html\">Shirov's SmartChess Videos</A>(December 2022), I finished saying, <BLOCKQUOTE>We also learn from the page [on ichess.net] that the videos were 'Originally Produced by Paul Azzurro'. That might be worth additional investigation but I've run out of time for this post. </BLOCKQUOTE> <P>Let's pick up this week where I left off last week. First stop:- <UL><LI><A HREF=\"https://www.youtube.com/@Chessdvds\">Paul Azzurro</A>(youtube.com/@Chessdvds; a few other Youtube URLs point to the same page) &#149; 'Chessondvd.com worlds largest producer of chess on dvd over 300 to choose from.' </UL>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/paul-azzurro-chess-video-producer.html",
+         "pubDate" : "Fri, 16 Dec 2022 16:22:00 +0000",
+         "title" : "Paul Azzurro, Chess Video Producer"
+      },
+      {
          "description" : "Hikaru Nakamura defeated Nihal Sarin by a 14&frac12;-10&frac12; score in the first semifinal of the Speed Chess Championship. Naka, who won every edition of the online event since 2018, will face either Magnus Carlsen or Maxime Vachier-Lagrave in the final match, which is set to take place on December 20.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,14 +234,6 @@ news_feed (
          "title" : "European Blitz Chess Championship 2022 - LIVE video coverage"
       },
       {
-         "description" : "The 14th Greek Youth Team Championship takes place in Rio, Greece, from 15-18 December. The time control is 90 minutes for the whole game, with an increment of 30 seconds per move from move 1.&#xA0;The event is a 6-round team Swiss for players under 16 years old, with matches played over 6 boards, with participation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/14th-greek-youth-team-championship-2022-live/",
-         "pubDate" : "Fri, 16 Dec 2022 08:01:53 +0000",
-         "title" : "14th Greek Youth Team Championship 2022 - LIVE"
-      },
-      {
          "description" : " Norway's world No 1 did not lose a single game in his 22-4 victory, and achieved the rare feat of 10 successive wins, which in online speed chess jargon qualifies as adopting your opponent Magnus Carlsen's achievements are so many that it is hard for the Norwegian to surprise fans any more, but the No 1's crushing online blitz victory against Fabiano Caruana on Tuesday was remarkable. Caruana is the reigning US champion, and had scored an even 6-6 in his classical games against Carlsen in their 2018 world title match in London. This week, they were paired in a quarter-final of the annual $100,000 Chess.com speed championship, whose format of 90 minutes play at 5/1 (five minutes per player p",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -200,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r4",
          "pubDate" : "Fri, 16 Dec 2022 07:10:00 +0100",
          "title" : "Sunway Sitges: Six players on 4/4"
-      },
-      {
-         "description" : "The&#160;2022 European Open and Women Rapid &#38; Blitz Chess Championships&#160;will take place from 16th-18th December in Katowice, Poland. The first tournament on the schedule will be the&#160;European Blitz Chess Championship&#160;which will be played on December 16th. Open and Women&#x2019;s sections will be merged, with separate prizes for the best ranked female players. The event will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-open-and-women-rapid-and-blitz-chess-championships-2022-live/",
-         "pubDate" : "Fri, 16 Dec 2022 02:54:00 +0000",
-         "title" : "European Open and Women Rapid and Blitz Chess Championships 2022 - LIVE"
       },
       {
          "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
@@ -242,36 +298,12 @@ news_feed (
          "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
       },
       {
-         "description" : "The FIDE Council has approved today&#xA0;a major reform of the qualification paths to the Candidates Tournament&#xA0;&#x2013; the event that decides the challenger for the World Championship match. According to the new system, 1 player will qualify from the FIDE World Championship Match 2023 (runner-up), 3 players will qualify from the FIDE World Cup, 2 players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-a-player-who-understands-all-qualification-paths-to-candidates-should-get-1-spot-too-tweetoftheday/",
-         "pubDate" : "Thu, 15 Dec 2022 20:45:41 +0000",
-         "title" : "Anish Giri: A player who understands all qualification paths to Candidates should get 1 spot too #TweetOftheDay"
-      },
-      {
-         "description" : "The FIDE Council has approved today a major reform of the qualification paths to the Candidates Tournament &#x2013; the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-reforms-the-qualification-system-for-the-candidates-tournament/",
-         "pubDate" : "Thu, 15 Dec 2022 20:25:22 +0000",
-         "title" : "FIDE reforms the Qualification system for the Candidates Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2138",
          "pubDate" : "Thu, 15 Dec 2022 18:40:03 +0000",
          "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "The&#xA0;European Open and Women Rapid &#38; Blitz Chess Championships 2022&#xA0;will kick off tomorrow in Katowice, Poland. The events will be played from 16th-19th December in &#x201C;Spodek&#x201D; Sport and Entertainment Centre and everything is set for the start of one of the biggest European events in the 2022 Calendar! More than 1000 players from 40 countries []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/everything-set-for-the-start-of-european-rapid-and-blitz-championship-in-katowice/",
-         "pubDate" : "Thu, 15 Dec 2022 14:58:21 +0000",
-         "title" : "Everything set for the start of European Rapid and Blitz Championship in Katowice"
       },
       {
          "description" : "In the first semi-final of the Speedchess Championship on chess.com, defending champion and blitz specialist Hikaru Nakamura will meet the young Indian grandmaster Nihal Sarin, who is also considered to be a blitz chess specialist. The eagerly awaited match starts today, 15.12., at 15.00. The winner of this encounter will meet Magnus Carlsen or Maxime Vachier-Lagrave who will play the second semi-final tomorrow, 16.12.. Watch Nakamuara vs Sarin live with commentary. | Graphics: chess.com",
@@ -1154,14 +1186,6 @@ news_feed (
          "title" : "Nihal Overcomes Giri's Bullet Comeback In SCC Thriller"
       },
       {
-         "description" : "The second game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi ended in a draw. As in game one, the Queen's Gambit Declined appeared on the board, this time with Tan Zhongyi marshalling the white pieces. The Chinese player did not gain any advantage and the game ended in a draw on move 40. | Photo: Timur Sattarov/ FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g2",
-         "pubDate" : "Wed, 07 Dec 2022 21:40:00 +0100",
-         "title" : "Women's Candidates: Goryachkina safely keeps the balance"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/simplify-complicated-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1176,14 +1200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
          "title" : "Hans Niemann in Spain | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Issue #210 contains 7578 recent games, (45 annotated) 12 opening surveys, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Ajun Erigaisi, Gabriel Sargissian, Ivan Sokolov, Luke McShane, Pentala Harikrishna, Pragganandhaa, Maria Muzychuk and Wesley So among others. The icing on the cake is a feature on Ding Liren who will play the world championship match with Ian Nepomniachtchi now that Carlsen has announced that he will not defend the title. Prof. Nagesh Havanur took a closer look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-210-indo-uzbek-rivalry-and-a-chinese-star-in-waiting-a-review",
-         "pubDate" : "Wed, 07 Dec 2022 19:37:15 +0100",
-         "title" : "CBM 210: Indo-Uzbek Rivalry and a Chinese star in waiting - A Review"
       },
       {
          "description" : "",
@@ -1872,14 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2106",
          "pubDate" : "Sat, 26 Nov 2022 22:43:08 +0000",
          "title" : "Winners crowned at 30th World Senior Championship 2022"
-      },
-      {
-         "description" : "Chess is known as the royal game, and not just because of its association with rulers. Such include Charlemagne, Emperor of the West and Alexius Comnenus, Emperor of the East, not to mention Elizabeth 1, Mary Queen of Scots, Charles 1 and Peter the Great. The game's equally valid credential is the presence of Kings, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/royal-game/",
-         "pubDate" : "Sat, 26 Nov 2022 10:19:36 +0000",
-         "title" : "Royal Game"
       }
    ]
 }
