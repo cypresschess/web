@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#38;nbsp;GM Magnus Carlsen defeated GM Maxime Vachier-Lagrave in the 2022 Speed Chess Championship second semifinal match on Friday.&#38;nbsp; The world champion steamrolled through yet another match in what has become a series of dominant wins over th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-carlsen-vachier-lagrave",
+         "pubDate" : "Fri, 16 Dec 2022 16:00:27 -0800",
+         "title" : "Carlsen Dismantles Reigning World Blitz Champion In Dominant Flight To Final"
+      },
+      {
          "description" : "The FIDE Council approved yesterday a major reform of the qualification paths to the Candidates Tournament&#xA0;&#x2013; the event that decides the challenger for the World Championship match. According to the new system, 1 player will qualify from the FIDE World Championship Match 2023 (runner-up), 3 players will qualify from the FIDE World Cup, 2 players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky",
          "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
          "title" : "Hans Niemann in Spain | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "The FIDE Women&#39;s Candidates semifinal match between GM Aleksandra Goryachkina and&#38;nbsp;GM Tan Zhongyi started with two fighting draws. Especially the first game was a long battle, where Tan had some winning chances. The third game is scheduled for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-semifinal-b-day-2",
-         "pubDate" : "Wed, 07 Dec 2022 10:43:00 -0800",
-         "title" : "Women's Candidates: Goryachkina-Tan Semifinal Starts With Fighting Draws"
       },
       {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Issue #210 contains 7578 recent games, (45 annotated) 12 opening surveys, 9 demo lectures and several exercises for training. Annotators include Anish Giri, Ajun Erigaisi, Gabriel Sargissian, Ivan Sokolov, Luke McShane, Pentala Harikrishna, Pragganandhaa, Maria Muzychuk and Wesley So among others. The icing on the cake is a feature on Ding Liren who will play the world championship match with Ian Nepomniachtchi now that Carlsen has announced that he will not defend the title. Prof. Nagesh Havanur took a closer look.",
