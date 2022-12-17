@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-carlsen-vachier-lagrave",
-         "pubDate" : "Fri, 16 Dec 2022 16:00:27 -0800",
+         "pubDate" : "Fri, 16 Dec 2022 16:00:00 -0800",
          "title" : "Carlsen Dismantles Reigning World Blitz Champion In Dominant Flight To Final"
       },
       {
