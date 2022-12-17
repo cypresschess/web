@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Sat, 17 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen will face Hikaru Nakamura in the Speed Chess Championship final after beating Maxime Vachier-Lagrave 17:9. Magnus complained of \"constantly missing tactics\" but restricted his opponent to just one win in the first 17 games, with MVL finally throwing in the towel with 10 minutes to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-to-play-nakamura-for-the-2022-speed-chess-title",
+         "pubDate" : "Sat, 17 Dec 2022 13:22:50 +0000",
+         "title" : "Carlsen to play Nakamura for the 2022 Speed Chess title"
+      },
+      {
+         "description" : "The Opening ceremony of the European Rapid Chess Championship 2022 took place this morning in Katowice, with attendance of Dana Reizniece-Ozola ECU Vice President, Waldemar Bojarun Vice President of Katowice, Radoslaw Jedynak President of the Polish Chess Federation, Andrzej Matusiak President of the Silesian Chess Federation and Lukasz Turlej FIDE []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-rapid-chess-championship-2022-opening-ceremony/",
+         "pubDate" : "Sat, 17 Dec 2022 12:32:46 +0000",
+         "title" : "European Rapid Chess Championship 2022 - Opening ceremony"
+      },
+      {
          "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#xA0;GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM Jules Moussard,&#xA0;GM Andrey Esipenko&#xA0;and a total of 43 grandmasters. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-rapid-chess-championship-2022-day-1-live-video-coverage/",
          "pubDate" : "Sat, 17 Dec 2022 10:06:45 +0000",
          "title" : "European Rapid Chess Championship 2022 - Day 1 LIVE video coverage"
-      },
-      {
-         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@mdsaif",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-sub-junior-u-15-chess-championship-2022-certificates/",
-         "pubDate" : "Sat, 17 Dec 2022 08:14:49 +0000",
-         "title" : "National Sub Junior U-15 Chess Championship 2022 Certificates"
       },
       {
          "description" : "Clear activity advantages for White in the diagram position - please find White's best continuation!",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1677",
          "pubDate" : "Fri, 16 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 16"
-      },
-      {
-         "description" : "European Blitz Chess Championship 2022&#160;is taking place in Katowice, Poland. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 double rounds, swiss system, with the time control: 3 minutes + 2 seconds increment. More than 800 players participate in the event. Live video []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-blitz-chess-championship-2022-live-video-coverage/",
-         "pubDate" : "Fri, 16 Dec 2022 09:33:47 +0000",
-         "title" : "European Blitz Chess Championship 2022 - LIVE video coverage"
       },
       {
          "description" : " Norway's world No 1 did not lose a single game in his 22-4 victory, and achieved the rare feat of 10 successive wins, which in online speed chess jargon qualifies as adopting your opponent Magnus Carlsen's achievements are so many that it is hard for the Norwegian to surprise fans any more, but the No 1's crushing online blitz victory against Fabiano Caruana on Tuesday was remarkable. Caruana is the reigning US champion, and had scored an even 6-6 in his classical games against Carlsen in their 2018 world title match in London. This week, they were paired in a quarter-final of the annual $100,000 Chess.com speed championship, whose format of 90 minutes play at 5/1 (five minutes per player p",
@@ -1170,14 +1178,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 8"
       },
       {
-         "description" : "The Chechen federation has nominated the 2016 World Championship challenger to run against incumbent Andrey Filatov. Karjakin was banned for six months by the FIDE Ethics Commission for advocating Russia's war of aggression against Ukraine and continues to be an ardent supporter of Putin. | Photo: Tass",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karjakin-wants-to-become-president-of-the-russian-chess-federation",
-         "pubDate" : "Thu, 08 Dec 2022 12:00:00 +0100",
-         "title" : "Karjakin wants to become President of the Russian Chess Federation"
-      },
-      {
          "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1794,14 +1794,6 @@ news_feed (
          "title" : "Cheating in chess is not rampant: Viswanathan Anand"
       },
       {
-         "description" : "\"I don't feel bad about beating him at all!\" said Magnus Carlsen after defeating Salem Saleh 7:0 in the Last 16 of the MrDodgy Invitational, revealing he'd recently lost some online games to the UAE grandmaster. There were also wins for Daniil Dubov and Rauf Mamedov as the knockout stage began.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-scores-7-0-mrdodgy-invitational-win",
-         "pubDate" : "Mon, 28 Nov 2022 15:17:00 +0000",
-         "title" : "Magnus scores 7:0 MrDodgy Invitational win"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95832141.cms\" />Indian Grandmaster SL Narayanan felt \"humiliated\" as he was left to stand barefoot inside the playing hall for metal detector check during a Bundesliga chess league match in Germany on Monday. As there was a beep sound during the metal detector check, Narayanan was made to remove his shoes and subsequently his socks too. It was later found out that the beep sound emanated from the carpet on the floor.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1832,6 +1824,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kamila-hryshchenko-world-congress-of-chess-composition/",
          "pubDate" : "Mon, 28 Nov 2022 09:10:07 +0000",
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
+      },
+      {
+         "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-juniors-2022-final-report/",
+         "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
+         "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       },
       {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
