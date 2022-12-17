@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@mdsaif",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-sub-junior-u-15-chess-championship-2022-certificates/",
+         "pubDate" : "Sat, 17 Dec 2022 08:14:49 +0000",
+         "title" : "National Sub Junior U-15 Chess Championship 2022 Certificates"
+      },
+      {
+         "description" : "Clear activity advantages for White in the diagram position - please find White's best continuation!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-seventh-heaven",
+         "pubDate" : "Sat, 17 Dec 2022 09:00:00 +0100",
+         "title" : "In seventh heaven"
+      },
+      {
+         "description" : "This week, Daniel King examines games from the Sitges Open, featuring some nice tactics. Then, in more detail, two games that feature the Rossolimo. For the unwary, this is a dangerous opening! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-sitges",
+         "pubDate" : "Sat, 17 Dec 2022 08:30:00 +0100",
+         "title" : "Daniel King's Power Play Show: The raging Rossolimo"
+      },
+      {
+         "description" : "Halfway through the 10-round main tournament in Sitges, Kirill Alekseenko and Karthikeyan Murali still have a perfect score, after beating Abhimanyu Puranik and Aditya Samant respectively. Five players stand a half point back, including second seed Hans Niemann, who on Friday drew Karen Grigoryan with the black pieces. | Pictured: The great-looking analysis room in Sitges",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r5",
+         "pubDate" : "Sat, 17 Dec 2022 08:00:00 +0100",
+         "title" : "Sunway Sitges: Alekseenko and Karthikeyan co-leaders"
+      },
+      {
+         "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/forget-qatar-we-still-have-the-waterloo-of-chess/",
+         "pubDate" : "Sat, 17 Dec 2022 05:56:27 +0000",
+         "title" : "Forget Qatar - we still have the Waterloo of chess"
+      },
+      {
          "description" : "&#38;nbsp;GM Magnus Carlsen defeated GM Maxime Vachier-Lagrave in the 2022 Speed Chess Championship second semifinal match on Friday.&#38;nbsp; The world champion steamrolled through yet another match in what has become a series of dominant wins over th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-nakamura-nihal",
          "pubDate" : "Fri, 16 Dec 2022 17:00:00 +0100",
          "title" : "Speed Chess: \"Burned out\" Nakamura reaches final"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Fri, 16 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
       },
       {
          "description" : "The week's schedule of online events is now available including Regular ECF online rated members club tournaments on Chess.com and Lichess.org The reformatted ECF...",
@@ -1170,14 +1202,6 @@ news_feed (
          "title" : "Tan Zhongyi and Goryachkina 1-1 with two games to go"
       },
       {
-         "description" : "In his \"Game of the Week\" show #545 Merijn van Delft presents one of his own games - an interesting loss he suffered against 13-year-old Sohum Lohia from England at the Benidorm Open. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-545-lohia-vs-van-delft",
-         "pubDate" : "Wed, 07 Dec 2022 16:00:00 +0100",
-         "title" : "Game of the Week #545: Lohia vs Van Delft"
-      },
-      {
          "description" : "World Champion Magnus Carlsen destroyed Gukesh 23:7 to set up a Speed Chess Championship quarterfinal against Fabiano Caruana, only to complain afterwards, \"I felt like I was playing horribly from the start\". The event continues with Anish Giri taking on Nihal Sarin today at 11:00 ET/17:00 CET/21:30 IST.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1200,14 +1224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/capturing-thin-air.html",
          "pubDate" : "Wed, 07 Dec 2022 13:27:00 +0000",
          "title" : "Capturing thin air"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-72",
-         "pubDate" : "Wed, 07 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 7"
       },
       {
          "description" : "The time of the year has come to launch the Call of Interest for 2023! If you have never participated before, the ECU Arbiters' Council appoints foreign arbiters (20% of all match arbiters) in all European events. Arbiters who wish to be considered, should fill in the&#160;application form, answer questions regarding their skills, experience and tournament preferences and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/\">Read More &#187;</a></span>",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
       },
       {
-         "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-2022-final-report/",
-         "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
-         "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
-      },
-      {
          "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1872,22 +1880,6 @@ news_feed (
          "link" : "https://www.thearticle.com/royal-game/",
          "pubDate" : "Sat, 26 Nov 2022 10:19:36 +0000",
          "title" : "Royal Game"
-      },
-      {
-         "description" : "The 2022 FIDE World Team Chess Championship took place from 17-26 November in Jerusalem, Israel. China clinched gold medal after defeating Uzbekistan in the finals. The finals were played over the two matches and China scored narrow 2.5-1.5 victories in both to win the event without the need for tiebreaks. 2022 Olympiad Champions Uzbekistan won silver medal. Spain&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/china-clinches-fide-world-team-chess-championship-2022/",
-         "pubDate" : "Sat, 26 Nov 2022 08:06:46 +0000",
-         "title" : "China clinches FIDE World Team Chess Championship 2022"
-      },
-      {
-         "description" : " The 13th World Team Chess Championship took place in Jerusalem 20th to 25th November 2022. There was a radical change in format with groups and then a knockout final stage along with the accelerated time control of 45 minutes + 10 seconds per move. It's importance never really matched that of the Olympiad even though the quality of the field was potentially higher. This time there were a number of strong players, MVL, Giri, Van Foreest, Mamedyarov, Radjabov, Onischuk and Vidit but the generally teams not at all the best that could be put out by each country. In the end China beat Uzbekistan in the final with Spain beating India to take bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-world-teams-2022",
-         "pubDate" : "Sat, 26 Nov 2022 11:58:00 +0400",
-         "title" : "13th World Teams 2022 - Games and Results"
       }
    ]
 }
