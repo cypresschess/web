@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/mrdodgy-invitational-3.0-2022",
          "pubDate" : "Sun, 27 Nov 2022 22:11:00 +0400",
          "title" : "MrDodgy Invitational 3.0 2022 - Games and Results"
-      },
-      {
-         "description" : "Podcasts have become an important component in understanding <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). Earlier this year in the series we had <A HREF=\"http://chessforallages.blogspot.com/2022/04/women-in-chess-podcasts.html\">Women in Chess Podcasts</A>(April 2022) and here we have top players talking about top-level chess. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ZGuUkfW_E_Y\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>C-Squared Podcast #10 | Global Che",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/top-players-talk-top-chess.html",
-         "pubDate" : "Sun, 27 Nov 2022 16:21:00 +0000",
-         "title" : "Top Players Talk Top Chess"
       }
    ]
 }
