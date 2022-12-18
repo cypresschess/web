@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After knocking out Nihal Sarin and Maxime Vachier-Lagrave respectively, Hikaru Nakamura and Magnus Carlsen reached the final of the Speed Chess Championship. Since Carlsen won the inaugural 2017 edition, Nakamura has claimed the last four. A clash of titans! | Follow the action live with expert commentary from 20.00 CET (14.00 ET, 11.00 PT)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-final-live",
+         "pubDate" : "Sun, 18 Dec 2022 19:50:00 +0100",
+         "title" : "Speed Chess Championship Final: Carlsen vs. Nakamura"
+      },
+      {
          "description" : " On December 16, 2022 Tallahassee held its first tournament since COVID-19 virtually. The rapid tournament attracted 20 players with no player going unscathed. Four players ended with 3/4. Top-seed Dr. Steve Lenhert (2096) won the tournament over Richard Kennedy in a 3-minute blitz tiebreak. Organizer Jacob Sperber handed Lenhert his only defeat. Sperber, a young The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/18/2022-capital-city-chess-open-tallahassee-fl/\">2022 Capital City Chess Open (Tallahassee, FL)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/12/18/2022-capital-city-chess-open-tallahassee-fl/",
          "pubDate" : "Sun, 18 Dec 2022 15:17:33 +0000",
          "title" : "2022 Capital City Chess Open (Tallahassee, FL)"
+      },
+      {
+         "description" : " The European Rapid and Blitz Chess took place Thu 15th Dec to Sun 18th Dec 2022 in Katowice, Poland. David Navara won the blitz on tie-break from Maciej Klekowski and Shant Sargsyan after all scored 17.5/22, five players were just half a point further behind. In the Rapid Jaime Santos Latasa took clear first place with 9.5/11 half a point clear of David Navara, Daniel Fridman, there were 11 players tied on 9 points altogether. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-chess-2022",
+         "pubDate" : "Sun, 18 Dec 2022 18:11:00 +0400",
+         "title" : "European Rapid and Blitz Chess 2022 - Games and Results"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 104th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -538,6 +554,14 @@ news_feed (
          "title" : "Praggnanandhaa wins Julius Baer Challenge Championship"
       },
       {
+         "description" : " The 13th Hainan Danzhou GM tournament took place Mon 12th Dec to Wed 14th Dec 2022. The event TOOK place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. Anish Giri won on tie-break from MVL and Bu after all scored 4.5/7.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-hainan-danzhou-gm-2022",
+         "pubDate" : "Wed, 14 Dec 2022 14:22:00 +0400",
+         "title" : "13th Hainan Danzhou GM 2022 - Games and Results"
+      },
+      {
          "description" : "The history of the U.S. Women's Chess Championships contains a wealth of information about chess in America and countless fascinating stories about champions from all walks of life. A groundbreaking work about the U.S. Women's Chess Championships and the 29 women who won the title between 1937 and 2020 has been published by McFarland. Johannes Fischer wanted to know more and interviewed Alexey Root, the author of the book.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-sunway-sitges-open-2022",
          "pubDate" : "Mon, 12 Dec 2022 14:30:00 +0400",
          "title" : "9th Sunway Sitges Open 2022 - Games and Results"
-      },
-      {
-         "description" : " The 13th Hainan Danzhou GM tournament takes place Mon 12th Dec to Wed 14th Dec 2022. The event takes place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-hainan-danzhou-gm-2022",
-         "pubDate" : "Mon, 12 Dec 2022 14:22:00 +0400",
-         "title" : "13th Hainan Danzhou GM 2022 - Games and Results"
       },
       {
          "description" : "Since a couple of weeks Elisabeth P&auml;htz is a full chess grandmaster. She has been among the strongest German female chess players since early youth. In 2002, she became the World Youth Champion of the girls' under-18 age group, and in 2005, the World Junior Girls Champion. She won the 2018 European Women's Championship in rapid chess. Now Elli has published her autobiography. Interview by Lilli Hahn in the ECU Magazine.",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
          "pubDate" : "Fri, 09 Dec 2022 07:27:00 -0800",
          "title" : "Nakamura, So Cruise Through To Quarterfinals"
-      },
-      {
-         "description" : "The third game of the Women's Candidates semifinal in Khiva between Aleksandra Goryachkina and Tan Zhongyi also ended in a draw. Playing white, Goryachkina could not get anything against Tan's Bogoljubov Defence. A balanced position was quickly reached and the game ended in a draw on move 45. | Photo: Timur Sattarov / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g3",
-         "pubDate" : "Fri, 09 Dec 2022 16:00:00 +0100",
-         "title" : "Women's Candidates: All square"
       },
       {
          "description" : " <p class=\"lead\">Magnus Carlsen will be competing for the world championship titles in rapid and blitz chess, despite having recently relinquished his title as world champion in classical chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R03006.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Carlsen is the world's top-ranked chess player and has previously won the world championship in classical chess three times. He is also a three-time World Rapid Chess Champion and five-time World Blitz Chess Champion. In 2022 Carlsen announced his decision to relinquish his title. Despite this, he is determined to ",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://aicf.in/asian-juniors-2022-final-report/",
          "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
          "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
-      },
-      {
-         "description" : " The MrDodgy Invitational 3.0 takes place on Chess24 25th November to 1st December. MrDodgy well known on Twitter and Chess24's social media channels has invited his favourite players to an online 5 minute blitz event and for the most part they turned up. At the last minute David Howell was replaced by Magnus Carlsen. 32 players started, they have now reached the 16 player KO stage. Play at 4pm UK time each day. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/mrdodgy-invitational-3.0-2022",
-         "pubDate" : "Sun, 27 Nov 2022 22:11:00 +0400",
-         "title" : "MrDodgy Invitational 3.0 2022 - Games and Results"
       }
    ]
 }
