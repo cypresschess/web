@@ -1,6 +1,8 @@
 jtable([
+"HOUSTON","2022-12-17","21","<a href=http://www.uschess.org/msa/XtblMain.php?202212170202 target='_blank'>DEC 2022 SCHOLASTIC</a>",
 "SUGAR LAND","2022-12-16","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212169892 target='_blank'>FBCC HOLIDAY EXTRAVAGANZA</a>",
 "CYPRESS","2022-12-16","26","<a href=http://www.uschess.org/msa/XtblMain.php?202212169862 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2022-12-16","9","<a href=http://www.uschess.org/msa/XtblMain.php?202212160052 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "PEARLAND","2022-12-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202212139182 target='_blank'>RCC QUADS DECEMBER 13, 2022</a>",
 "HOUSTON","2022-12-10","25","<a href=http://www.uschess.org/msa/XtblMain.php?202212108512 target='_blank'>DEC. 10 SATURDAY SWISS/ SATURNIGHT</a>",
 "HOUSTON","2022-12-10","112","<a href=http://www.uschess.org/msa/XtblMain.php?202212107192 target='_blank'>HOT CHESS TOURNAMENT</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293922 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-04-29","15","<a href=http://www.uschess.org/msa/XtblMain.php?202204293912 target='_blank'>FBCC04292022</a>",
 "CYPRESS","2022-04-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202204293852 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-04-05  - 04-26","14","<a href=http://www.uschess.org/msa/XtblMain.php?202204262862 target='_blank'>APRIL TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2022-04-23  - 04-24","58","<a href=http://www.uschess.org/msa/XtblMain.php?202204241572 target='_blank'>$3,200 HOUSTON CHESS STUDIO SPRING</a>",
 ]);
