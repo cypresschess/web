@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Bangabandhu 47th Bengali Champonship is taking place from 14&#x2013;28 December 2022 in Dhaka, Bangladesh. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 14-player round-robin tournament with Ziaur Rahman, Enamul Hossain, Tahsin Tajwar Zia, Niaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bangabandhu-47th-bengali-champonship-2022-live/",
+         "pubDate" : "Sun, 18 Dec 2022 08:17:52 +0000",
+         "title" : "Bangabandhu 47th Bengali Champonship 2022 - LIVE"
+      },
+      {
+         "description" : "The 32nd Carlos Torre Memorial is taking place from 17&#x2013;21 December 2022 in Merida, Yucatan, Mexico. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jose Eduardo Martinez Alcantara, Sergio E Barrientos, Ermes Espinosa Veloz, Yasser Quesada Perez, Omar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/32nd-carlos-torre-memorial-2022-live/",
+         "pubDate" : "Sun, 18 Dec 2022 08:07:22 +0000",
+         "title" : "32nd Carlos Torre Memorial 2022 - LIVE"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/david-navara-and-alexandra-kosteniuk-are-2022-european-blitz-champions/",
          "pubDate" : "Fri, 16 Dec 2022 22:24:47 +0000",
          "title" : "David Navara and Alexandra Kosteniuk are 2022 European Blitz Champions"
-      },
-      {
-         "description" : "The Malm&#xF6; Open &#124; Swedish Grand Prix is taking place from 16-18 December. The tournament is part of the Swedish Gran Prix. The first four rounds are played with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining rounds are played with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/malmo-open-2022-live/",
-         "pubDate" : "Fri, 16 Dec 2022 22:23:59 +0000",
-         "title" : "Malmo Open 2022 - LIVE"
-      },
-      {
-         "description" : "The 4th Chess Academy Almaty IM is taking place from 16&#x2013;23 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Nikolay Averin, Muhammad Khusenkhojaev, Sanzhar Ashirov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/4th-chess-academy-almaty-im-2022-live/",
-         "pubDate" : "Fri, 16 Dec 2022 22:14:32 +0000",
-         "title" : "4th Chess Academy Almaty IM 2022 - LIVE"
       },
       {
          "description" : "In the second semi-final of the Speedchess Championship on chess.com Magnus Carlsen meets Maxime Vachier-Lagrave, and that gives the World Champion the opportunity for a little revenge. After all, in the semi-finals of the Speedchess Championship 2020 Carlsen had lost to \"MVL\", who then lost to Hikaru Nakamura in the final. This time Carlsen wants to do better, but of course \"MVL\" has other plans. Action starts at 19:00 CET (10:00 PT). With live commentary by Laurent Fressinet and Peter Heine Nielsen. | Graphics: chess.com",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/four-questions/",
          "pubDate" : "Sun, 27 Nov 2022 12:37:45 +0000",
          "title" : "Four Questions"
-      },
-      {
-         "description" : "Hearty congratulations to the new World 65+ Senior Chess Champion, John Nunn! Click here for a fuller report https://www.englishchess.org.uk/Seniors/john-nunn-is-world-senior-65-champion/ and here to read...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
-         "pubDate" : "Sun, 27 Nov 2022 07:50:10 +0000",
-         "title" : "John Nunn takes Gold!"
       }
    ]
 }
