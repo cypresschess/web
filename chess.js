@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/john-nunn-takes-gold/",
          "pubDate" : "Sun, 27 Nov 2022 07:50:10 +0000",
          "title" : "John Nunn takes Gold!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2106",
-         "pubDate" : "Sat, 26 Nov 2022 22:43:08 +0000",
-         "title" : "Winners crowned at 30th World Senior Championship 2022"
       }
    ]
 }
