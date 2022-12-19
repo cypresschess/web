@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2nd Chess Academy Almaty GM is taking place from 16&#x2013;23 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Mihail Nikitenko, Zurab Sturua, Daniil Lintchevski, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-chess-academy-almaty-gm-2022-live/",
+         "pubDate" : "Mon, 19 Dec 2022 16:20:25 +0000",
+         "title" : "2nd Chess Academy Almaty GM 2022 - LIVE"
+      },
+      {
+         "description" : "The Chessable Sunway Sitges Blitz 2022 took place during the free day of the Chessable Sunway Sitges International Chess Festival. The event was played in 9 rounds, swiss system, with 18-year-old Rithvik Raja emerging as the winner of the event. GM Raja Rithvik scored impressive 8.5/9 points to be point and a half ahead of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gm-rithvik-raja-wins-chessable-sunway-sitges-blitz-2022/",
+         "pubDate" : "Mon, 19 Dec 2022 16:04:31 +0000",
+         "title" : "GM Rithvik Raja wins Chessable Sunway Sitges Blitz 2022"
+      },
+      {
+         "description" : "The 2022 Cape Verde Chess Championship took place from 7-11 December in Praia. The event was played as an 8-player round-robin tournament with time control of 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top seeded IM Mariano Ortega []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mariano-ortega-wins-cape-verde-chess-championship-2022/",
+         "pubDate" : "Mon, 19 Dec 2022 15:39:52 +0000",
+         "title" : "Mariano Ortega wins Cape Verde Chess Championship 2022"
+      },
+      {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Mon, 19 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules Moussard,&#160;GM Andrey Esipenko&#160;and a total of 43 grandmasters. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-7-live-video-coverage/",
+         "pubDate" : "Mon, 19 Dec 2022 15:13:00 +0000",
+         "title" : "Chessable Sunway Sitges - Day 7 live video coverage"
+      },
+      {
+         "description" : "In the Endgame Magic Show #219 Karsten M&uuml;ller shows highlights from the last rounds of the German Bundesliga. Highly instructive material! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-219-highlights-bundesliga",
+         "pubDate" : "Mon, 19 Dec 2022 16:00:00 +0100",
+         "title" : "Endgame Magic #219: Highlights from the Bundesliga"
+      },
+      {
+         "description" : "The 2022 European Rapid & Blitz Championships took place on December 16-18 in Katowice, Poland. All 22 rounds of blitz were played on Friday, while the 11 rounds of rapid took place over the weekend. Jaime Santos (open) and Aleksandra Maltsevskaya (women's) won in the rapid section, while David Navara (open) and Alexandra Kosteniuk (women's) got first place in the blitz section. | Photos: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-2022-final-report",
+         "pubDate" : "Mon, 19 Dec 2022 15:30:00 +0100",
+         "title" : "Santos, Navara, Maltsevskaya and Kosteniuk winners in Katowice"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2141",
+         "pubDate" : "Mon, 19 Dec 2022 14:17:21 +0000",
+         "title" : "Mariano Ortega wins 2022 Cape Verde Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2140",
+         "pubDate" : "Mon, 19 Dec 2022 12:21:28 +0000",
+         "title" : "Winners crowned at European Rapid & Blitz Championship"
+      },
+      {
          "description" : " <p class=\"lead\">Andrey Filatov has been re-elected President of the Chess Federation of Russia (CFR) following a victory over grandmaster Sergey Karjakin in the election. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/248174173_0-0-3072-1613_1280x0_80_0_0_d296cb57bec3c5b0536ee67273023a88.jpg\" width=\"1280\" height=\"672\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Ria Novosti / Ramil Sitdikov</div> </div> Filatov, who has served as head of the CFR since 2014, will remain in office until 2026. The vote saw a total of 58 delegates support Filatov and seven back Karjakin. Karjakin, who was suspended by the International Chess Federation (FIDE) for six months for an",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/andrey-filatov-has-been-re-elected-president-of-the-chess-federa/",
          "pubDate" : "Mon, 19 Dec 2022 12:08:38 +0000",
-         "title" : "Andrey Filatov has been re-elected President of the Chess Federation of Russia (CFR)"
+         "title" : "Andrey Filatov beat Sergey Karjakin"
       },
       {
          "description" : " Two very close finishes occurred in sport today. The slightly more well known one was the win by Argentina against France in the World Cup (3-3 followed by 4-2 on penalties). The other was Nakamura beating Carlsen 14.5-13.5 on the 2002 Speed Chess Championship (on chess.com). This is Nakamura's 5th win in this event, showing he is quite good at this format. I suspect both matches were very exciting for those who were able to watch the games (I confess I missed both due to the early morning starts). However the best take away for me was a comment I saw on Facebook (which probably came from somewhere else). \"What will English fans do when England win the World Cup? Switch off the Playstation ",
@@ -18,7 +90,7 @@ news_feed (
          "title" : "A close finish"
       },
       {
-         "description" : " GM Hikaru Nakamura has won fifth 2022 Speed Chess Championship, besting GM Magnus Carlsen in a thrilling match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-19_15-42-42.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> This victory earned Nakamura a prize of $15,178.57, while Carlsen took home $4821.43 as the runner-up. ",
+         "description" : " <p class=\"lead\">GM Hikaru Nakamura has won fifth 2022 Speed Chess Championship, besting GM Magnus Carlsen in a thrilling match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-19_15-42-42.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> This victory earned Nakamura a prize of $15,178.57, while Carlsen took home $4821.43 as the runner-up. ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-wins-5th-speed-chess-championship/",
@@ -66,20 +138,20 @@ news_feed (
          "title" : "European Open & Women's Rapid and Blitz Chess Champions 2022 crowned in Katowice, Poland"
       },
       {
-         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
-         "pubDate" : "Mon, 19 Dec 2022 10:55:00 +0100",
-         "title" : "Gashimov Memorial Rapid & Blitz - Live"
-      },
-      {
          "description" : "Arjun Erigaisi has had an amazing year 2022 for his chess! In spite of his powerpacked recent performances, one question that always lingered around was, why does Arjun not have a permanent sponsor yet? Now he has landed a long term deal with Quantbox research. It might well be the biggest ever sponsorship deal in the history of Indian chess! In our report there is quite a bit of interesting video to watch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-signs-1-5-million-deal",
          "pubDate" : "Mon, 19 Dec 2022 10:45:00 +0100",
          "title" : "Arjun Erigaisi signs $1.5 million deal"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
+         "pubDate" : "Mon, 19 Dec 2022 10:40:00 +0100",
+         "title" : "Gashimov Memorial Rapid & Blitz - Live"
       },
       {
          "description" : "The&#xA0;2022 European Rapid &#38; Blitz Chess Championships&#xA0;took place in Katowice, Poland, from 16-18 December. More than 1000 players participate in the event. David Navara and Alexandra Kosteniuk clinched the Blitz Championship, while Jaime Santos Latasa and Aleksandra Maltsevskaya won the Rapid event. Jaime Santos Latasa (ESP) won his last-round game to emerge as the sole []",
@@ -106,7 +178,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A piece sacrifice in the Panov-Variation of the Caro-Kann"
       },
       {
-         "description" : "Hikaru Nakamura has now won five Speed Chess titles in a row, but more than that, he's finally defeated the one player to have beaten him in the format - Magnus Carlsen. Hikaru got off to a stunning 6.5:2.5 start in the 5-minute section, and although Magnus , who said, \"I can't believe how much I enjoyed the match,\" took the contest right down to the wire, he ultimately lost 14.5:13.5.",
+         "description" : "Hikaru Nakamura has now won five Speed Chess titles in a row, but more than that, he's finally defeated the one player to have beaten him in the format - Magnus Carlsen. Hikaru got off to a stunning 6.5:2.5 start in the 5-minute section, and although Magnus, who said, \"I can't believe how much I enjoyed the match,\" took the contest right down to the wire, he ultimately lost 14.5:13.5.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/nakamura-beats-carlsen-for-5th-consecutive-speed-chess-title",
@@ -114,7 +186,7 @@ news_feed (
          "title" : "Nakamura beats Carlsen for 5th consecutive Speed Chess title"
       },
       {
-         "description" : "GM Hikaru Nakamura won his fifth 2022 Speed Chess Championship, defeating GM Magnus Carlsen in an immensely close final on Sunday. Nakamura dominated the 5+1 segment, capitalizing on his own winning chances while disrupting Carlsen&#39;sâ€•finishing und...",
+         "description" : "GM Hikaru Nakamura won his fifth title match at the 2022 Speed Chess Championship, defeating GM Magnus Carlsen in an immensely close final on Sunday. Nakamura dominated the 5+1 segment, capitalizing on his own winning chances while disrupting Carl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
@@ -186,28 +258,12 @@ news_feed (
          "title" : "Chessable Sunway Sitges 2022 - Round 7 pairings"
       },
       {
-         "description" : "The&#160;Vugar Gashimov memorial 2022&#160;will take place from 18-23 December in Baku, Azerbaijan. It will be a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings will be determined according to the sum of points of Rapid and Blitz events. The Rapid portion will be played in 9 rounds, round-robin system, with time []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vugar-gashimov-memorial-2022-live-games/",
-         "pubDate" : "Sun, 18 Dec 2022 12:58:00 +0000",
-         "title" : "Vugar Gashimov Memorial 2022 - LIVE games"
-      },
-      {
          "description" : "By beating former co-leader Karthikeyan Murali, Kirill Alekseenko became the first sole leader at the main event of the Sunway Chess Festival in Sitges. After six rounds, the Russian grandmaster still has a perfect score. Standing in sole second place is Karen Grigoryan, who defeated Anton Demchenko on Saturday. Nine players stand a half point further back, including top seeds Yu Yangyi and Hans Niemann. | Photo: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r6",
          "pubDate" : "Sun, 18 Dec 2022 13:00:00 +0100",
          "title" : "Sunway Sitges: Alekseenko grabs the lead"
-      },
-      {
-         "description" : "Yasmine Hammamet Tunisia will host the World Francophone's major annual chess meeting from 16-25 December 2022. The 2022 Individual Francophone Championships will award the following titles for 2022: Francophone Champion, Woman Francophone Champion, Senior Francophone Champion, Veteran Francophone Champion and Blitz Francophone Champion. GM Ahmed Adly will be the top seed of the classical event. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/9-rencontres-internationales-des-echecs-francophones-ridef-starts-in-tunisia/",
-         "pubDate" : "Sun, 18 Dec 2022 11:26:31 +0000",
-         "title" : "9 ° Rencontres Internationales des Echecs Francophones (RIDEF) starts in Tunisia"
       },
       {
          "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -232,14 +288,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
          "pubDate" : "Sun, 18 Dec 2022 13:49:00 +0400",
          "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
-      },
-      {
-         "description" : "European Rapid Chess Championship 2022&#160;is taking place in Katowice, Poland, from 17-18 December 2022. Open and Women&#x2019;s sections are merged, with separate prizes for the best ranked female players. The event is played in 11 rounds, swiss system, with the time control: 15 minutes + 10 seconds increment. More than 900 players participate in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-rapid-chess-championship-2022-day-2-live-video-coverage/",
-         "pubDate" : "Sun, 18 Dec 2022 09:06:17 +0000",
-         "title" : "European Rapid Chess Championship 2022 - Day 2 LIVE video coverage"
       },
       {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Speed Chess Championship final after beating Maxime Vachier-Lagrave 17:9. Magnus complained of \"constantly missing tactics\" but restricted his opponent to just one win in the first 17 games, with MVL finally throwing in the towel with 10 minutes to spare.",
@@ -1058,14 +1106,6 @@ news_feed (
          "title" : "Tan Zhongyi defeats Goryachkina and will now face Lei Tingjie"
       },
       {
-         "description" : "The Italian game was probably one of the very first openings you learned. The reasons are clear: The center is dominated, the minor pieces are active, the king is safe. The Giouco Piano is played by almost every top player in the world. Svitlana is teaching us the \"slow\" variation, the so-called Giuoco Pianissimo Variation in this episode. The move d3 is giving White the choice to prepare their attack with a bit more time. In a game between Sven Magnus Carlsen, and Christopher Hikaru Nakamura, Svitlana presents us the White plans, and Black's counter ideas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-slow-giuoco-piano",
-         "pubDate" : "Sat, 10 Dec 2022 16:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The Giuoco Pianissimo Variation"
-      },
-      {
          "description" : "There are some weeks when I have to cudgel my brains to think of an appropriate topic for discussion. In other weeks, such as this, items crowd in thick and fast, and it becomes a struggle to fit everything in and stay multifariously topical. First, news of one of England's senior chess stars. In what []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1082,14 +1122,6 @@ news_feed (
          "title" : "Nihal Sarin Crashes Ding Liren Months Before the World Championship Match"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1076",
-         "pubDate" : "Sat, 10 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 10"
-      },
-      {
          "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1104,14 +1136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
          "pubDate" : "Sat, 10 Dec 2022 12:05:00 +0400",
          "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
-      },
-      {
-         "description" : "In the diagram position Black finally wants to play ...0-0, but of course White still has something to say about that. 22.g4 or 22.Ra8+ - how would you start disruptive action?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/castling-in-the-middlegame",
-         "pubDate" : "Sat, 10 Dec 2022 09:00:00 +0100",
-         "title" : "Castling in the middlegame"
       },
       {
          "description" : "",
@@ -1864,30 +1888,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-ccc19-rapid-stockfish-wins-both.html",
          "pubDate" : "Mon, 28 Nov 2022 16:44:00 +0000",
          "title" : "TCEC S23, CCC19 Rapid : Stockfish Wins Both"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/cambridge-international-open/",
-         "pubDate" : "Mon, 28 Nov 2022 16:25:48 +0000",
-         "title" : "Cambridge International Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95834416.cms\" />Indian chess legend Viswanathan Anand, who is now deputy president of world governing body FIDE, feels cheating in his sport is \"not rampant\" and limited to \"online\" tournaments only. Reigning world champion Magnus Carlsen kicked up a storm in September this year when he levelled cheating allegations against US teenager Hans Niemann, following his stunning defeat in round three of the Sinquefield Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/cheating-in-chess-is-not-rampant-viswanathan-anand/articleshow/95834416.cms",
-         "pubDate" : "Mon, 28 Nov 2022 15:24:40 +0000",
-         "title" : "Cheating in chess is not rampant: Viswanathan Anand"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95832141.cms\" />Indian Grandmaster SL Narayanan felt \"humiliated\" as he was left to stand barefoot inside the playing hall for metal detector check during a Bundesliga chess league match in Germany on Monday. As there was a beep sound during the metal detector check, Narayanan was made to remove his shoes and subsequently his socks too. It was later found out that the beep sound emanated from the carpet on the floor.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-gm-narayanan-left-to-stand-barefoot-for-metal-detector-check-during-match-in-germany/articleshow/95832141.cms",
-         "pubDate" : "Mon, 28 Nov 2022 13:09:27 +0000",
-         "title" : "GM Narayanan left to stand barefoot for metal detector check in Germany"
       }
    ]
 }
