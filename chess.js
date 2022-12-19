@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a flash report. The full report is coming soon. GM Hikaru Nakamura won the 2022 Speed Chess Championship, his fifth, by defeating GM Magnus Carlsen in an incredibly close final on Sunday.&#38;nbsp; How to watch?You can watch the 2022 Spee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
+         "pubDate" : "Sun, 18 Dec 2022 17:04:00 -0800",
+         "title" : "Flash Report: Nakamura Wins 5th Speed Chess Championship"
+      },
+      {
          "description" : "After knocking out Nihal Sarin and Maxime Vachier-Lagrave respectively, Hikaru Nakamura and Magnus Carlsen reached the final of the Speed Chess Championship. Since Carlsen won the inaugural 2017 edition, Nakamura has claimed the last four. A clash of titans! | Follow the action live with expert commentary from 20.00 CET (14.00 ET, 11.00 PT)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/elisabeth-paehtz-becomes-grandmaster",
          "pubDate" : "Thu, 08 Dec 2022 05:35:00 -0800",
          "title" : "Elisabeth Paehtz Becomes 40th Female GM In History"
-      },
-      {
-         "description" : "GM Nihal Sarin edged out GM Anish Giri in a tiebreak playoff in the 2022 Speed Chess Championship on Wednesday. The two tenacious grandmasters created one brilliancy after another as they grappled for a spot in the quarterfinals. GMs Wesley So a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nihal-giri",
-         "pubDate" : "Wed, 07 Dec 2022 15:06:00 -0800",
-         "title" : "Nihal Overcomes Giri's Bullet Comeback In SCC Thriller"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/simplify-complicated-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
