@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "This is a flash report. The full report is coming soon. GM Hikaru Nakamura won the 2022 Speed Chess Championship, his fifth, by defeating GM Magnus Carlsen in an incredibly close final on Sunday.&#38;nbsp; How to watch?You can watch the 2022 Spee...",
+         "description" : "Hikaru Nakamura has now won five Speed Chess titles in a row, but more than that, he's finally defeated the one player to have beaten him in the format - Magnus Carlsen. Hikaru got off to a stunning 6.5:2.5 start in the 5-minute section, and although Magnus , who said, \"I can't believe how much I enjoyed the match,\" took the contest right down to the wire, he ultimately lost 14.5:13.5.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-beats-carlsen-for-5th-consecutive-speed-chess-title",
+         "pubDate" : "Mon, 19 Dec 2022 08:17:04 +0000",
+         "title" : "Nakamura beats Carlsen for 5th consecutive Speed Chess title"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won his fifth 2022 Speed Chess Championship, defeating GM Magnus Carlsen in an immensely close final on Sunday. Nakamura dominated the 5+1 segment, capitalizing on his own winning chances while disrupting Carlsen&#39;s―finishing und...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Sun, 18 Dec 2022 17:04:00 -0800",
-         "title" : "Flash Report: Nakamura Wins 5th Speed Chess Championship"
+         "title" : "Nakamura Wins 5th Speed Chess Championship: 'He's Just A Beast In This Format'"
       },
       {
          "description" : "After knocking out Nihal Sarin and Maxime Vachier-Lagrave respectively, Hikaru Nakamura and Magnus Carlsen reached the final of the Speed Chess Championship. Since Carlsen won the inaugural 2017 edition, Nakamura has claimed the last four. A clash of titans! | Follow the action live with expert commentary from 20.00 CET (14.00 ET, 11.00 PT)",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-final-live",
          "pubDate" : "Sun, 18 Dec 2022 19:50:00 +0100",
          "title" : "Speed Chess Championship Final: Carlsen vs. Nakamura"
+      },
+      {
+         "description" : "We've seen the <I>StarryKnight</I> once before in <A HREF=\"http://chessforallages.blogspot.com/2014/01/chess-nebula.html\">Chess Nebula</A>(January 2014; <I>Europe-Echecs</I> '55th Anniversary'). In that post I neglected to take the idea further, so let's rectify that. The chess connection has been observed frequently, as in <A HREF=\"http://www.caelumobservatory.com/obs/horse.html\">Best of AOP: The Horsehead Nebula</A>(caelumobservatory.com; Mt. Lemmon SkyCenter, University of Arizona; AOP: 'Advanced Observing Program', Kitt Peak):- <BLOCKQUOTE>Chess, anyone? This is the most famous example of a dark nebula, that is, an opaque cloud of dust that obscures a bright nebula behind it. The Horsehe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html",
+         "pubDate" : "Sun, 18 Dec 2022 16:22:00 +0000",
+         "title" : "Chess on Orion's Belt"
       },
       {
          "description" : " On December 16, 2022 Tallahassee held its first tournament since COVID-19 virtually. The rapid tournament attracted 20 players with no player going unscathed. Four players ended with 3/4. Top-seed Dr. Steve Lenhert (2096) won the tournament over Richard Kennedy in a 3-minute blitz tiebreak. Organizer Jacob Sperber handed Lenhert his only defeat. Sperber, a young The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/18/2022-capital-city-chess-open-tallahassee-fl/\">2022 Capital City Chess Open (Tallahassee, FL)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -216,6 +232,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1789",
          "pubDate" : "Sat, 17 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 17"
+      },
+      {
+         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@mdsaif",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-sub-junior-u-15-chess-championship-2022-certificates/",
+         "pubDate" : "Sat, 17 Dec 2022 08:14:49 +0000",
+         "title" : "National Sub Junior U-15 Chess Championship 2022 Certificates"
       },
       {
          "description" : "This week, Daniel King examines games from the Sitges Open, featuring some nice tactics. Then, in more detail, two games that feature the Rossolimo. For the unwary, this is a dangerous opening! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1770,14 +1794,6 @@ news_feed (
          "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
       },
       {
-         "description" : "Wesley So and Hikaru Nakamura top a line-up packed full of Indian prodigies as the Tata Steel Chess India Rapid & Blitz begins today in the National Library in Kolkata, with the first three rounds of the rapid tournament. For the first time there's also a parallel Women's tournament featuring Humpy Koneru, the Muzychuk sisters and more top players.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-starts-in-kolkata",
-         "pubDate" : "Tue, 29 Nov 2022 08:28:54 +0000",
-         "title" : "Tata Steel Chess India starts in Kolkata"
-      },
-      {
          "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Our Provincial Junior Championship returned to in-person play this year. The games were played during the Nov 19-20 weekend. A number of our past and current <a href=\"https://chessimprover.com/students-analysis-11/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (11)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-11/\">Students Analysis (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1864,14 +1880,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/kamila-hryshchenko-world-congress-of-chess-composition/",
          "pubDate" : "Mon, 28 Nov 2022 09:10:07 +0000",
          "title" : "Kamila Hryshchenko - World Congress of Chess Composition"
-      },
-      {
-         "description" : "In the Asian Junior Championship 2022 classical section, Harshavardhan G B clinches Gold and secures his first GM Norm and Rakshitta bags Silver. Utsab and Femil misses the bronze medal by",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-juniors-2022-final-report/",
-         "pubDate" : "Mon, 28 Nov 2022 07:18:10 +0000",
-         "title" : "ASIAN JUNIORS 2022: FINAL REPORT"
       }
    ]
 }
