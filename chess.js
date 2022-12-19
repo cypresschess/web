@@ -1864,30 +1864,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
          "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
          "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2108",
-         "pubDate" : "Mon, 28 Nov 2022 20:11:09 +0000",
-         "title" : "Women's Candidates Tournament Pool B kicks off in ancient Khiva"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95836270.cms\" />The fourth edition of the Tata Steel Chess India is likely to see a battle of the next generation with some of the world's best rising talent crossing swords over the next six days at the Bhasha Bhawan in the National Library of India campus.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-battle-of-next-generation-in-kolkata-chess-meet/articleshow/95836270.cms",
-         "pubDate" : "Mon, 28 Nov 2022 17:18:54 +0000",
-         "title" : "The battle of next generation in Kolkata chess meet"
-      },
-      {
-         "description" : "The previous report on the globe's top engine vs. engine ongoing tournaments was <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-sufi-ccc19-rapid-nearing-finish.html\">TCEC S23 Sufi, CCC19 Rapid : Nearing the Finish</A>(November 2022). Here's a summary of that report. <BLOCKQUOTE>TCEC: After 83 games in the S23 Sufi ('Superfinal'), Stockfish leads LCZero +19-6=58. It needs only 2.5 more points to clinch its sixth straight Sufi. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon (1-2-3 in that order) -- are in the lead for the 'Challenger' (2-3) and 'Final' (1-?) matches. </BLOCKQUOTE> <P>Stockfish won both events by significant margins. The rest of this post ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/tcec-s23-ccc19-rapid-stockfish-wins-both.html",
-         "pubDate" : "Mon, 28 Nov 2022 16:44:00 +0000",
-         "title" : "TCEC S23, CCC19 Rapid : Stockfish Wins Both"
       }
    ]
 }
