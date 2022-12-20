@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Tue, 20 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "FIDE Fair Play Commission today published the statement on the Carlsen Niemann investigation. &#8220;The investigation is not yet completed () &#38; The final report will be published as soon as technically possible&#8221;, reads the statement. While the Carlsen-Niemann Investigatory Panel has been working very hard in the past few weeks, the investigation is not []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-fair-play-commission-publishes-the-statement-on-the-carlsen-niemann-investigation/",
+         "pubDate" : "Tue, 20 Dec 2022 13:02:48 +0000",
+         "title" : "FIDE Fair Play Commission publishes the statement on the Carlsen-Niemann investigation"
+      },
+      {
          "description" : "A seventh win in a row left Kirill Alekseenko in the sole lead of the massive main tournament at the Sunway Chess Festival in Sitges. The Russian grandmaster defeated Karen Grigoryan with white to widen the gap atop the standings - the leader has a full point lead over Amin Tabatabaei, who got the better of Daniel Dardha with black on Monday. | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,14 +170,6 @@ news_feed (
          "title" : "Mariano Ortega wins Cape Verde Chess Championship 2022"
       },
       {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Mon, 19 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
-      },
-      {
          "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules Moussard,&#160;GM Andrey Esipenko&#160;and a total of 43 grandmasters. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/hikaru-nakamura-wins-5th-speed-chess-championship/",
          "pubDate" : "Mon, 19 Dec 2022 11:43:19 +0000",
          "title" : "Hikaru Nakamura Wins 5th Speed Chess Championship"
-      },
-      {
-         "description" : "The 2022 European Rapid &#38; Blitz Chess Championship 2022 concluded yesterday in Katowice, Poland. The event gathered 1000 players coming from 40 European federations who fought for the European throne. The winners are:GM David Navara European Blitz Champion 2022GM Alexandra Kosteniuk European Women's Blitz Champion 2022GM Jaime Santos Latasa European Rapid Champion []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-rapid-blitz-chess-championship-2022-video-recap/",
-         "pubDate" : "Mon, 19 Dec 2022 11:32:34 +0000",
-         "title" : "European Rapid & Blitz Chess Championship 2022 - Video recap"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -1848,38 +1848,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/11/disappearing-yahoos.html",
          "pubDate" : "Tue, 29 Nov 2022 16:46:00 +0000",
          "title" : "Disappearing Yahoos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2109",
-         "pubDate" : "Tue, 29 Nov 2022 16:19:44 +0000",
-         "title" : "FIDE Aid Package to Open Tournaments 2023"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2023 is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd 14th March 2023 in Vrnjacka Banja, Serbia. The event is open to all players representing Chess Federations that are members of the European Chess Union regardless of their title or rating. There is&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-official-regulations/",
-         "pubDate" : "Tue, 29 Nov 2022 14:50:24 +0000",
-         "title" : "European Individual Chess Championship 2023 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2111",
-         "pubDate" : "Tue, 29 Nov 2022 13:41:08 +0000",
-         "title" : "African Amateur Championship 2022 gets underway in Kenya"
-      },
-      {
-         "description" : "FIDE functions on the basis of its different commissions. For the rules related to arbiters, we have the arbiters commission, for the rules related to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/eight-indians-are-members-of-fide-commissions-from-2022-26/",
-         "pubDate" : "Tue, 29 Nov 2022 13:17:44 +0000",
-         "title" : "Eight Indians are members of FIDE commissions from 2022-26"
       }
    ]
 }
