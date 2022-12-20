@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the second day of the rapid tournament at the Gashimov Memorial, Uzbek grandmaster Nodirbek Abdusattorov kept the lead he had gained by winning all three of his games on Sunday. In the rapid, points count double, so Abdusattorov now has a 10/12 score after six rounds. Rauf Mamedov is in second place (9 points), while Wang Hao (8 points) is third, a point behind the Azerbaijani. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d2",
+         "pubDate" : "Mon, 19 Dec 2022 23:05:00 +0100",
+         "title" : "Gashimov Memorial: Abdusattorov tops the standings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2142",
+         "pubDate" : "Mon, 19 Dec 2022 21:18:25 +0000",
+         "title" : "Estonian Championship: Volodin and Sinitsina clinch titles"
+      },
+      {
          "description" : "The 2nd Chess Academy Almaty GM is taking place from 16&#x2013;23 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Mihail Nikitenko, Zurab Sturua, Daniil Lintchevski, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -378,6 +394,14 @@ news_feed (
          "title" : "Carlsen Dismantles Reigning World Blitz Champion In Dominant Flight To Final"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2138",
+         "pubDate" : "Fri, 16 Dec 2022 18:40:03 +0000",
+         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
+      },
+      {
          "description" : "In the second semi-final of the Speedchess Championship on chess.com Magnus Carlsen meets Maxime Vachier-Lagrave, and that gives the World Champion the opportunity for a little revenge. After all, in the semi-finals of the Speedchess Championship 2020 Carlsen had lost to \"MVL\", who then lost to Hikaru Nakamura in the final. This time Carlsen wants to do better, but of course \"MVL\" has other plans. Action starts at 19:00 CET (10:00 PT). With live commentary by Laurent Fressinet and Peter Heine Nielsen. | Graphics: chess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -520,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths",
          "pubDate" : "Thu, 15 Dec 2022 13:04:00 -0800",
          "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2138",
-         "pubDate" : "Thu, 15 Dec 2022 18:40:03 +0000",
-         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
       },
       {
          "description" : "In the first semi-final of the Speedchess Championship on chess.com, defending champion and blitz specialist Hikaru Nakamura will meet the young Indian grandmaster Nihal Sarin, who is also considered to be a blitz chess specialist. The eagerly awaited match starts today, 15.12., at 15.00. The winner of this encounter will meet Magnus Carlsen or Maxime Vachier-Lagrave who will play the second semi-final tomorrow, 16.12.. Watch Nakamuara vs Sarin live with commentary. | Graphics: chess.com",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
          "pubDate" : "Sun, 11 Dec 2022 00:10:07 +0000",
          "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
-      },
-      {
-         "description" : "Tan Zhongyi won the fourth classical game of her semifinal match against Aleksandra Goryachkina on Saturday at the Women's Candidates Tournament in Khiva. It was also the last game of this competition. In view of the three draws previously signed, this victory qualified Tan to play the tournament's final, where she will face her compatriot Lei Tingjie. | Photo: Timur Sattarov / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-2022-pool-b-r2g4",
-         "pubDate" : "Sat, 10 Dec 2022 22:50:00 +0100",
-         "title" : "Tan Zhongyi advances to Women's Candidates final"
       },
       {
          "description" : "GM Tan Zhongyi defeated GM Aleksandra Goryachkina on Saturday in the fourth game of their Women&#39;s Candidates semifinal in Khiva, Uzbekistan. In doing so, Tan qualified for an all-Chinese final vs. GM Lei Tingjie, which is scheduled for the first q...",
