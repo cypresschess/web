@@ -1832,22 +1832,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-1-mamedyarov-on-fire",
          "pubDate" : "Wed, 30 Nov 2022 08:50:51 +0000",
          "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2110",
-         "pubDate" : "Tue, 29 Nov 2022 17:43:04 +0000",
-         "title" : "From Monaco to Khiva: the Women's Candidates continue on the Silk Road"
-      },
-      {
-         "description" : "Last month's Yahoos post, <A HREF=\"http://chessforallages.blogspot.com/2022/10/chess960-mania.html\">Chess960 Mania</A>(October 2022; see the footnote for an explanation of Yahoos), raised a number of questions of vital interest to the global chess community:- <BLOCKQUOTE>The Niemann lawsuit; the NYT puzzles; AICF pest control; will Google's 'Full Coverage' become a mainstay of chess news? There's plenty to look forward to in next month's Yahoos post. </BLOCKQUOTE> <P>First let's look at the numbers. Of the 100 chess stories returned by Google, 75 were for the current month, 25 for previous months. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-mk29.gif\" WIDTH=200 HEIGHT=140 ALIGN=LEFT VSPA",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/11/disappearing-yahoos.html",
-         "pubDate" : "Tue, 29 Nov 2022 16:46:00 +0000",
-         "title" : "Disappearing Yahoos"
       }
    ]
 }
