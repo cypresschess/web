@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "35th MPL National Under13 Open Chess Championship and 35th National under 13 Girls &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Chess Championship held at &#160;Pondicherry from&#160; 10th to 18th December 2022 for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/35th-mpl-national-under-13-chess-championship-2022daakshin-arun-and-sneha-halder-win-title/",
+         "pubDate" : "Tue, 20 Dec 2022 08:09:28 +0000",
+         "title" : "35th MPL National Under 13 Chess Championship 2022:Daakshin Arun and Sneha Halder win title"
+      },
+      {
          "description" : "On the second day of the rapid tournament at the Gashimov Memorial, Uzbek grandmaster Nodirbek Abdusattorov kept the lead he had gained by winning all three of his games on Sunday. In the rapid, points count double, so Abdusattorov now has a 10/12 score after six rounds. Rauf Mamedov is in second place (9 points), while Wang Hao (8 points) is third, a point behind the Azerbaijani. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1856,22 +1864,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-47th-national-sub-junior-38th-national-sub-junior-girls-chess-championship-2022-report/",
          "pubDate" : "Tue, 29 Nov 2022 11:57:10 +0000",
          "title" : "MPL 47th National Sub Junior & 38th National Sub Junior Girls Chess Championship-2022 ,Report"
-      },
-      {
-         "description" : " \"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.\" Roy T. Bennett, The Light in the Heart Our Provincial Junior Championship returned to in-person play this year. The games were played during the Nov 19-20 weekend. A number of our past and current <a href=\"https://chessimprover.com/students-analysis-11/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Students Analysis (11)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/students-analysis-11/\">Students Analysis (11)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/students-analysis-11/",
-         "pubDate" : "Tue, 29 Nov 2022 07:48:39 +0000",
-         "title" : "Students Analysis (11)"
-      },
-      {
-         "description" : "LIVE GAMES : OPEN LIVES GAMES : WOMEN",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-tata-steel-chess-india-rapid-blitz/",
-         "pubDate" : "Tue, 29 Nov 2022 07:06:30 +0000",
-         "title" : "LIVE GAMES : TATA STEEL CHESS INDIA RAPID & BLITZ"
       }
    ]
 }
