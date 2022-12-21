@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce that the Meltwater Champions Chess Tour and the Chess.com Global Championship are coming together in 2023 to form one unified chess series. This huge event kicks off on February 6 and spans the entire year. With si...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cgc-champions-chess-tour-are-coming-together-2023",
+         "pubDate" : "Wed, 21 Dec 2022 10:42:49 -0800",
+         "title" : "Chess.com Global Championship and Meltwater Champions Chess Tour Coming Together In 2023"
+      },
+      {
          "description" : "Chess.com, the world's largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 24, 2022 and was unanimously recommended by Play Magnus Group's board. After receiving regulatory and shareholder approval, the acquisition officially closed on December 16, 2022. By sheer coincidence, on the same day, Chess.com reached 100,000,000 members, another major milestone in the site's history.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
       },
       {
-         "description" : "Chess.com, the world&#38;rsquo;s largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 23, 2022&#38;nbsp;and was unanimously recommended by Pl...",
+         "description" : "Chess.com, the world&#38;rsquo;s largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 24, 2022&#38;nbsp;and was unanimously recommended by Pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-acquires-pmg",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gordon-hayward-vs-larry-fitzgerald-chesscom",
          "pubDate" : "Fri, 09 Dec 2022 08:00:00 -0800",
          "title" : "Announcing Gordon vs. Larry, The Crossover You Won't Want To Miss"
-      },
-      {
-         "description" : "The 2022 Speed Chess Championship continued on Thursday with a high-octane double-header that saw GMs Hikaru Nakamura and Wesley So brush past their respective contenders, GMs David Paravyan and Nodirbek Abdusattorov. Nakamura was particularly i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-r16-nakamura-paravyan-so-abdusattorov",
-         "pubDate" : "Fri, 09 Dec 2022 07:27:00 -0800",
-         "title" : "Nakamura, So Cruise Through To Quarterfinals"
       },
       {
          "description" : " <p class=\"lead\">Magnus Carlsen will be competing for the world championship titles in rapid and blitz chess, despite having recently relinquished his title as world champion in classical chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R03006.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Carlsen is the world's top-ranked chess player and has previously won the world championship in classical chess three times. He is also a three-time World Rapid Chess Champion and five-time World Blitz Chess Champion. In 2022 Carlsen announced his decision to relinquish his title. Despite this, he is determined to ",
