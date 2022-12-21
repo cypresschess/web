@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Chess Champion Magnus Carlsen talked to Chess.com CCO Danny Rensch for 25 minutes during a landmark State of Chess.com broadcast. Magnus, the figurehead of the Play Magnus Group, talked about joining Chess.com, but also many other topics, including the future of the game, his ambitions and why Alireza Firouzja stands out from the crowd.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/magnus-i-love-playing-that-s-all-the-ambition-i-really-need",
+         "pubDate" : "Wed, 21 Dec 2022 22:16:46 +0000",
+         "title" : "Magnus: \"I love playing, that's all the ambition I really need!\""
+      },
+      {
          "description" : "Chess.com is excited to announce that the Meltwater Champions Chess Tour and the Chess.com Global Championship are coming together in 2023 to form one unified chess series. This huge event kicks off on February 6 and spans the entire year. With si...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
