@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kzL8e_7r1SM.jpg?itok=uPR5pRum\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi",
+         "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
+         "title" : "Ali Marandi's Nice Chess Tactics | Grandmaster's Choice - GM JJ Ali Marandi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ffNJO0x7zvM.jpg?itok=eV_kzpel\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
+         "title" : "Alex at the Staff Tournament | Beginner Breakdown | lichess.org"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1744,22 +1760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-2-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
          "title" : "The Classical King's Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the King's Indian Defense for the final time in this third part finale.<br /> See two of his games against John Fedorowicz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NzIcI4F3bpw.jpg?itok=SZt_SUn6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-3-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
-         "title" : "The Classical King's Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King's Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Thu, 01 Dec 2022 22:36:33 +0000",
-         "title" : "The Classical King's Indian | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
          "description" : "For the last time this year, here's our monthly look at American chess magazines from 50 and 25 years ago. For the previous post, see <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Another Title for Arthur Bisguier' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>U.S. Armed Forces Champion Lt. (j.g.) Zacarias S. Chavez (right) with one of his prizes. At left is Cmdr. L. Randall Rogers, who directed the tournament. Story [inside]. (ALNS Photo.) </BLOCKQ",
