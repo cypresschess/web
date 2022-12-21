@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Coming off winning his fifth consecutive Speed Chess Championship, GM Hikaru Nakamura&#39;s online blitz dominance may be at an all-time high. On December 20, he won both the early and late Titled Tuesday tournaments. He has now won three in a row a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-december-20-2022",
+         "pubDate" : "Wed, 21 Dec 2022 09:29:26 -0800",
+         "title" : "Nakamura Bests Carlsen, Firouzja To Sweep Another Titled Tuesday"
+      },
+      {
+         "description" : "We're pleased to be able to confirm that after a break of nearly four years the ECF are supporting the 4NCL in organising the 2023...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship/",
+         "pubDate" : "Wed, 21 Dec 2022 16:31:04 +0000",
+         "title" : "British Rapidplay Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2145",
+         "pubDate" : "Wed, 21 Dec 2022 16:27:07 +0000",
+         "title" : "Taione Sikivou wins 2022 Vodafone Fiji Chess Championship"
+      },
+      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,6 +376,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Sun, 18 Dec 2022 17:04:00 -0800",
          "title" : "Nakamura Wins 5th Speed Chess Championship: 'He's Just A Beast In This Format'"
+      },
+      {
+         "description" : "(Original was posted on chess.com) It has been a spectacular year for Montreal's Shawn Rodrigue-Lemieux. He steamrolled his competition in an international tournament with a 3037 performance rating, then in September he won the World Youth Chess Championship in Romania. In this question-and-answer session, the International Master shares his thoughts on his career, his ambition to become a grandmaster, and his approach to chess studies - from the intriguing a-pawn thrust on the first move to his games with Grandmaster Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2022/12/19/im-shawn-rodrigue-lemieux/",
+         "pubDate" : "Mon, 19 Dec 2022 00:00:00 +0000",
+         "title" : "IM Shawn Rodrigue-Lemieux On His Prep, His Talismans, and Keys to Success"
       },
       {
          "description" : "We've seen the <I>StarryKnight</I> once before in <A HREF=\"http://chessforallages.blogspot.com/2014/01/chess-nebula.html\">Chess Nebula</A>(January 2014; <I>Europe-Echecs</I> '55th Anniversary'). In that post I neglected to take the idea further, so let's rectify that. The chess connection has been observed frequently, as in <A HREF=\"http://www.caelumobservatory.com/obs/horse.html\">Best of AOP: The Horsehead Nebula</A>(caelumobservatory.com; Mt. Lemmon SkyCenter, University of Arizona; AOP: 'Advanced Observing Program', Kitt Peak):- <BLOCKQUOTE>Chess, anyone? This is the most famous example of a dark nebula, that is, an opaque cloud of dust that obscures a bright nebula behind it. The Horsehe",
@@ -1378,14 +1410,6 @@ news_feed (
          "title" : "Collegiate Chess League Season 5 Recap"
       },
       {
-         "description" : "GM Hikaru Nakamura filed a motion in the Eastern District of Missouri to dismiss GM Hans Niemann&#39;s lawsuit on December 7. This is the latest development in the defamation lawsuit that has received international attention, filed in late October. Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-files-motion-to-dismiss-niemann-lawsuit",
-         "pubDate" : "Thu, 08 Dec 2022 10:52:00 -0800",
-         "title" : "Hikaru Nakamura Files Motion To Dismiss Hans Niemann Lawsuit"
-      },
-      {
          "description" : "Magnus Carlsen turned up at the last minute to join Jan Gustafsson and Laurent Fressinet commentating on the Nihal Sarin vs. Anish Giri Speed Chess match. The players didn't disappoint as it became a thriller, with Giri surprising everyone by losing the slower blitz sections before dominating in bullet - at least until Nihal Sarin edged a wildly entertaining tiebreak.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1824,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2113",
          "pubDate" : "Thu, 01 Dec 2022 00:26:06 +0000",
          "title" : "FIDE Events Commission: Call for Bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2112",
-         "pubDate" : "Wed, 30 Nov 2022 17:31:10 +0000",
-         "title" : "Women's Candidates Pool B: Missed opportunities in Khiva "
       }
    ]
 }
