@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kzL8e_7r1SM.jpg?itok=uPR5pRum\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20<br /> Richard Pointer vs. Alex Moellering, 2022: A20 English opening<br /> Caleb Denny vs. Moellering, 2022: E60 King&#039;s Indian defence<br /> Moellering vs. Nathaniel Powell, 2022: B03 Alekhine&#039;s defence, Balogh variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown\"><img src=\"https://saintlo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown",
+         "pubDate" : "Wed, 21 Dec 2022 01:51:41 +0000",
+         "title" : "Alex at the Staff Tournament | Beginner Breakdown"
+      },
+      {
+         "description" : "On Tuesday, the ten participants of the Gashimov Memorial played the last three rounds of 15+10 rapid chess in Baku. Nodirbek Abdusattorov, who had grabbed the lead early on, scored a win and two draws to remain atop the standings. Paco Vallejo and Rauf Mamedov shared second place, two points behind the youngster (points count double in the rapid). Following the rest day, 18 rounds of blitz will take place on Thursday and Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d3",
+         "pubDate" : "Wed, 21 Dec 2022 01:30:00 +0100",
+         "title" : "Gashimov Memorial: Abdusattorov wins the rapid section"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20<br /> JJ Ali Marandi vs. Nikhil Kumar, 2017<br /> Jordan Ivanov vs. Ali Marandi, 2011<br /> Cemil Can Ali Marandi vs Jinshi Bai, World Junior Championship (2015)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1800995\">https://www.chessgames.com/perl/chessgame?gid=1800995</a><br /> Ali Marandi vs. Dmitry Gurevich, 2018 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-rapid-and-blitz-championships-2022-all-you-need-to-know/",
          "pubDate" : "Tue, 20 Dec 2022 10:02:04 +0000",
          "title" : "World Rapid and Blitz Championships 2022: all you need to know"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
-         "pubDate" : "Tue, 20 Dec 2022 10:55:00 +0100",
-         "title" : "Gashimov Memorial Rapid & Blitz - Live"
       },
       {
          "description" : "The&#xA0;20th edition of the Delhi International Open Grandmasters Tournament&#xA0;will take place from 17-24 January in New Delhi. The event will be played in 10 rounds, swiss system, with time control of 90 Minutes plus 30 second increment from move 1 for entire game, featuring the total prize fund of ~140.000eur. Chessdom will follow the event []",
@@ -1752,14 +1760,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-1-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
          "title" : "The Classical King's Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky examines the Classical Variation of the King's Indian Defense. The Classical Variation is 3.Nc3 Bg7 4.e4 d6 5.Nf3 0-0 6.Be2 e5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/classical-kings-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rwZGAprxGt4.jpg?itok=JcX1QUm6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-2-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
-         "title" : "The Classical King's Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
          "description" : "For the last time this year, here's our monthly look at American chess magazines from 50 and 25 years ago. For the previous post, see <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Another Title for Arthur Bisguier' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>U.S. Armed Forces Champion Lt. (j.g.) Zacarias S. Chavez (right) with one of his prizes. At left is Cmdr. L. Randall Rogers, who directed the tournament. Story [inside]. (ALNS Photo.) </BLOCKQ",
