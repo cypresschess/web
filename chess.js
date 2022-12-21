@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com, the world's largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 24, 2022 and was unanimously recommended by Play Magnus Group's board. After receiving regulatory and shareholder approval, the acquisition officially closed on December 16, 2022. By sheer coincidence, on the same day, Chess.com reached 100,000,000 members, another major milestone in the site's history.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chess-com-officially-acquires-play-magnus-carlsen-signs-as-ambassador",
+         "pubDate" : "Wed, 21 Dec 2022 18:02:57 +0000",
+         "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
+      },
+      {
+         "description" : "Chess.com, the world&#38;rsquo;s largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 23, 2022&#38;nbsp;and was unanimously recommended by Pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-acquires-pmg",
+         "pubDate" : "Wed, 21 Dec 2022 09:59:00 -0800",
+         "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
+      },
+      {
+         "description" : "The Groningen Chess Festival is taking place at Groningen University in the Netherlands from 21-30 December 2022. The time control is 90 minutes for 40 moves then 30 minutes until the end of the game, with a 30-second increment from move 1. The A Group is a 9-round Swiss Open with participation of Pranav Anand, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/groningen-chess-festival-a-2022-live/",
+         "pubDate" : "Wed, 21 Dec 2022 17:52:56 +0000",
+         "title" : "Groningen Chess Festival A 2022 - LIVE"
+      },
+      {
          "description" : "Coming off winning his fifth consecutive Speed Chess Championship, GM Hikaru Nakamura&#39;s online blitz dominance may be at an all-time high. On December 20, he won both the early and late Titled Tuesday tournaments. He has now won three in a row a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/20th-delhi-international-open-grandmasters-tournament-live/",
          "pubDate" : "Tue, 20 Dec 2022 09:48:20 +0000",
          "title" : "20th Delhi International Open Grandmasters Tournament LIVE"
-      },
-      {
-         "description" : "The 20th edition of the Delhi International Open Grandmasters Tournament will take place from 17-24 January in New Delhi. The event will be played in 10 rounds, swiss system, with time control of 90 Minutes plus 30 second increment from move 1 for entire game, featuring the total prize fund of ~140.000eur. More than 100 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/20th-delhi-international-open-grandmasters-tournament/",
-         "pubDate" : "Tue, 20 Dec 2022 09:37:22 +0000",
-         "title" : "20th Delhi International Open Grandmasters Tournament"
       },
       {
          "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
          "pubDate" : "Fri, 09 Dec 2022 00:10:12 +0000",
          "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
-      },
-      {
-         "description" : "GM Grigoriy Oparin from Mizzou won the Collegiate Chess League&#39;s fifth season after defeating GM Mikhail Antipov, from the same university, in the Grand Finals. His clutch performance in a must-win game ultimately earned him the $1,600 first prize...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-season-5-recap",
-         "pubDate" : "Thu, 08 Dec 2022 12:36:00 -0800",
-         "title" : "Collegiate Chess League Season 5 Recap"
       },
       {
          "description" : "Magnus Carlsen turned up at the last minute to join Jan Gustafsson and Laurent Fressinet commentating on the Nihal Sarin vs. Anish Giri Speed Chess match. The players didn't disappoint as it became a thriller, with Giri surprising everyone by losing the slower blitz sections before dominating in bullet - at least until Nihal Sarin edged a wildly entertaining tiebreak.",
