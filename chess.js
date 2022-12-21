@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cgc-champions-chess-tour-are-coming-together-2023",
-         "pubDate" : "Wed, 21 Dec 2022 10:42:49 -0800",
+         "pubDate" : "Wed, 21 Dec 2022 10:42:00 -0800",
          "title" : "Chess.com Global Championship and Meltwater Champions Chess Tour Coming Together In 2023"
       },
       {
