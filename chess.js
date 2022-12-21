@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com announced the big news coming today. Chess.com's Chief Chess Officer Daniel Rensch and Magnus Carlsen will reveal the news during the live broadcast which will start at 19:00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/state-of-chess-com-daniel-rensch-magnus-carlsen-live/",
+         "pubDate" : "Wed, 21 Dec 2022 12:24:07 +0000",
+         "title" : "State of Chess.com | Daniel Rensch & Magnus Carlsen LIVE"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December in Sitges, Barcelona, and features two tournaments: Open A and Open B, with a total prize fund of 27.155eur.&#xA0;After eight played rounds, GM Kirill Alekseenko has the sole lead with impressive 7.5/8 points. He is followed by GM Yu Yangyi,&#xA0;GM Hans Niemann,&#xA0;GM Manuel Petrosyan,&#xA0;GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-2022-round-9-pairings/",
+         "pubDate" : "Wed, 21 Dec 2022 12:15:05 +0000",
+         "title" : "Chessable Sunway Sitges 2022 - Round 9 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2144",
+         "pubDate" : "Wed, 21 Dec 2022 12:02:47 +0000",
+         "title" : "Ivan Farago (1946-2022)"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-212",
+         "pubDate" : "Wed, 21 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 21"
+      },
+      {
+         "description" : "The Chessable Sunway Sitges International Chess Festival is underway in Sitges and only two rounds left to be played before the announcement of the Winners. GM Kirill Alekseenko maintained a full-point lead though he is no longer perfect. After the 8th-round draw to GM Amin Tabatabaei, Alekseenko scores 7.5 points. GM Yu Yangyi, GM Hans []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kirill-alekseenko-continues-to-lead-at-chessable-sunway-sitges-2022/",
+         "pubDate" : "Wed, 21 Dec 2022 10:50:58 +0000",
+         "title" : "Kirill Alekseenko continues to lead at Chessable Sunway Sitges 2022"
+      },
+      {
+         "description" : "The&#xA0;2022 Dutch Chess Championship&#xA0;is taking place from 21-30 December as a 16-player knockout tournament. GM Max Warmerdam,&#xA0;GM Erwin L&#x2019;Ami, and&#xA0;GM Erik van den Doel&#xA0;are the top-seeded players, and the complete starting list of participants can be seen below. Time control will be 90 minutes for 40 moves plus 30 minutes for the rest of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-chess-championship-2022-live/",
+         "pubDate" : "Wed, 21 Dec 2022 10:07:18 +0000",
+         "title" : "Dutch Chess Championship 2022 LIVE"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women's sections. The Championships will be played in 9 rounds of the Swiss System. The time control will be 90 minutes for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/",
+         "pubDate" : "Wed, 21 Dec 2022 10:03:21 +0000",
+         "title" : "European Senior Chess Championship 2023 - Official invitation"
+      },
+      {
+         "description" : "The 2022 Dutch Chess Championship is taking place from 21-30 December as a 16-player knockout tournament. Time control will be 90 minutes for 40 moves plus 30 minutes for the rest of the game, with 30-second increment for each move, starting from the move one. GM Max Warmerdam, GM Erwin L'Ami, and GM Erik van []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-chess-championship-2022/",
+         "pubDate" : "Wed, 21 Dec 2022 09:45:11 +0000",
+         "title" : "Dutch Chess Championship 2022"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20<br /> Richard Pointer vs. Alex Moellering, 2022: A20 English opening<br /> Caleb Denny vs. Moellering, 2022: E60 King&#039;s Indian defence<br /> Moellering vs. Nathaniel Powell, 2022: B03 Alekhine&#039;s defence, Balogh variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown\"><img src=\"https://saintlo",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,14 +178,6 @@ news_feed (
          "title" : "20th Delhi International Open Grandmasters Tournament"
       },
       {
-         "description" : "The Chessable Sunway Sitges International Chess Festival is underway in Sitges and seven rounds were already played. GM Kirill Alekseenko remains perfect and leads the Open A tournament with 7/7 points, while GM Chithambaram Aravindh and GM Amin Tabatabaei tie for second with 6 points each. It is interesting that GM Amin Tabatabaei won all []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kirill-alekseenko-remains-perfect-at-chessable-sunway-sitges-festival/",
-         "pubDate" : "Tue, 20 Dec 2022 09:08:25 +0000",
-         "title" : "Kirill Alekseenko remains perfect at Chessable Sunway Sitges Festival"
-      },
-      {
          "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,44 +218,12 @@ news_feed (
          "title" : "Estonian Championship: Volodin and Sinitsina clinch titles"
       },
       {
-         "description" : "The 2nd Chess Academy Almaty GM is taking place from 16&#x2013;23 December 2022 in Almaty. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Mihail Nikitenko, Zurab Sturua, Daniil Lintchevski, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-chess-academy-almaty-gm-2022-live/",
-         "pubDate" : "Mon, 19 Dec 2022 16:20:25 +0000",
-         "title" : "2nd Chess Academy Almaty GM 2022 - LIVE"
-      },
-      {
-         "description" : "The Chessable Sunway Sitges Blitz 2022 took place during the free day of the Chessable Sunway Sitges International Chess Festival. The event was played in 9 rounds, swiss system, with 18-year-old Rithvik Raja emerging as the winner of the event. GM Raja Rithvik scored impressive 8.5/9 points to be point and a half ahead of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gm-rithvik-raja-wins-chessable-sunway-sitges-blitz-2022/",
-         "pubDate" : "Mon, 19 Dec 2022 16:04:31 +0000",
-         "title" : "GM Rithvik Raja wins Chessable Sunway Sitges Blitz 2022"
-      },
-      {
          "description" : "Every once in a while I wake up from my habitual sleepwalking and try to grasp the basics of current trends in chess engines. At the end of this post is a summary of those efforts over the past few years. <P>With this post I set out to bring myself up to date once again, but quickly decided that I needed to look at chess engines in the so-called cloud. My first stop was Chessify: <A HREF=\"https://chessify.me/\">Powerful Cloud Engines for Chess Analysis</A>(chessify.me; 'Powerful Cloud Platform for Chess Training'). The site's home page promises a great deal:- <BLOCKQUOTE><B>Top Engines:</B>The latest versions of Stockfish (NNUE and traditional), Leela Chess Zero, and other engines available f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/12/chessify-setup.html",
          "pubDate" : "Mon, 19 Dec 2022 16:03:00 +0000",
          "title" : "Chessify Setup"
-      },
-      {
-         "description" : "The 2022 Cape Verde Chess Championship took place from 7-11 December in Praia. The event was played as an 8-player round-robin tournament with time control of 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; The top seeded IM Mariano Ortega []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mariano-ortega-wins-cape-verde-chess-championship-2022/",
-         "pubDate" : "Mon, 19 Dec 2022 15:39:52 +0000",
-         "title" : "Mariano Ortega wins Cape Verde Chess Championship 2022"
-      },
-      {
-         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules Moussard,&#160;GM Andrey Esipenko&#160;and a total of 43 grandmasters. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-day-7-live-video-coverage/",
-         "pubDate" : "Mon, 19 Dec 2022 15:13:00 +0000",
-         "title" : "Chessable Sunway Sitges - Day 7 live video coverage"
       },
       {
          "description" : "In the Endgame Magic Show #219 Karsten M&uuml;ller shows highlights from the last rounds of the German Bundesliga. Highly instructive material! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1106,14 +1130,6 @@ news_feed (
          "title" : "Chess Clock Restoration"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 103rd instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-103-play-the-sicilian-5",
-         "pubDate" : "Sun, 11 Dec 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 103: Play the Sicilian! (5)"
-      },
-      {
          "description" : " ** This is a shameless commercial ** If you are looking for a fantastic XMAS present for your children, other peoples children, nephews, nieces or even for yourself, then I have a deal for you. I have a large collection of Gambit \"Chess ... for Kids\" books. The titles are <ul style=\"text-align: left;\"><li>Chess Openings for Kids</li><li>Chess Opening Traps for Kids</li><li>Chess Tactics for Kids</li><li>Chess Endgames for Kids</li><li>Chess Strategy for Kids</li><li>Chess Puzzles for Kids</li><li>Chess For Children</li></ul>I am letting them go for $20 each, but if you grab 3 it will be $50 and $80 for 5. At this stage this offer is just for the local Canberra chess community but I can post",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aiming-to-become-world-champion-in-3-4-years-says-r-praggnanandhaa/articleshow/95889479.cms",
          "pubDate" : "Wed, 30 Nov 2022 13:47:31 +0000",
          "title" : "Aiming to become world champion in 3-4 years: Praggnanandhaa"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov won a brilliant game against Wesley So as he scored 3/3 on Day 1 of the Tata Steel Chess India Rapid and Blitz in Kolkata. It was all the more impressive after Wesley had scored a fine win over Hikaru Nakamura in the previous round. No-one else has won more than a single game, which was a pattern followed in the Women's section, where only Nana Dzagnidze made it 3/3.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-india-1-mamedyarov-on-fire",
-         "pubDate" : "Wed, 30 Nov 2022 08:50:51 +0000",
-         "title" : "Tata Steel Chess India 1: Mamedyarov on fire"
       }
    ]
 }
