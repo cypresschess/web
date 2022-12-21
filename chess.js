@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Wed, 21 Dec 2022 16:30:00 +0100",
+         "title" : "Sunway Sitges Open - Live!"
+      },
+      {
+         "description" : "Kirill Alekseenko's winning streak in Sitges came to an end in round 8, as Amin Tabatabaei held the Russian to a draw on Tuesday. Nonetheless, Alekseenko still has a full-point lead over a five-player chasing pack. Top seeds Yu Yangyi and Hans Niemann are among the chasers, after both winning their round-8 encounters. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r8",
+         "pubDate" : "Wed, 21 Dec 2022 14:10:00 +0100",
+         "title" : "Sunway Sitges: Tabatabaei holds Alekseenko to a draw"
+      },
+      {
+         "description" : " After another periodic update of my chess book collection, I decided to look at which authors were well represented in my collection. It may not come as a surprise that Fred Reinfeld is at the top of list, although this probably reflects the quantity, rather than quality of his work. Second place is GM Raymond Keene, again another prolific author. However the next two authors on my list are both prolific, but at least in my case, regularly read. GM John Nunn comes in third place with 19 books, and I usually have one or two of his books at hand (including one I was working with today). Close behind is Andrew Soltis (17), which reflects his recent publication record (it seems like a new book ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/who-am-i-reading.html",
+         "pubDate" : "Wed, 21 Dec 2022 13:00:00 +0000",
+         "title" : "Who am I reading?"
+      },
+      {
          "description" : "Chess.com announced the big news coming today. Chess.com's Chief Chess Officer Daniel Rensch and Magnus Carlsen will reveal the news during the live broadcast which will start at 19:00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "Alex at the Staff Tournament | Beginner Breakdown"
       },
       {
-         "description" : "On Tuesday, the ten participants of the Gashimov Memorial played the last three rounds of 15+10 rapid chess in Baku. Nodirbek Abdusattorov, who had grabbed the lead early on, scored a win and two draws to remain atop the standings. Paco Vallejo and Rauf Mamedov shared second place, two points behind the youngster (points count double in the rapid). Following the rest day, 18 rounds of blitz will take place on Thursday and Friday.",
+         "description" : "On Tuesday, the ten participants of the Gashimov Memorial played the last three rounds of 15+10 rapid chess in Baku. Nodirbek Abdusattorov, who had grabbed the lead early on, scored a win and two draws to remain atop the standings. Paco Vallejo and Rauf Mamedov shared second place, two points behind the youngster (points count double in the rapid). Following the rest day, 18 rounds of blitz will take place on Thursday and Friday. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d3",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
          "title" : "Alex at the Staff Tournament | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Tue, 20 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
       },
       {
          "description" : "FIDE Fair Play Commission today published the statement on the Carlsen Niemann investigation. &#8220;The investigation is not yet completed () &#38; The final report will be published as soon as technically possible&#8221;, reads the statement. While the Carlsen-Niemann Investigatory Panel has been working very hard in the past few weeks, the investigation is not []",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "9th Sunway Sitges Open 2022 - Games and Results"
       },
       {
-         "description" : "Since a couple of weeks Elisabeth P&auml;htz is a full chess grandmaster. She has been among the strongest German female chess players since early youth. In 2002, she became the World Youth Champion of the girls' under-18 age group, and in 2005, the World Junior Girls Champion. She won the 2018 European Women's Championship in rapid chess. Now Elli has published her autobiography. Interview by Lilli Hahn in the ECU Magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-chess-the-penultimate-mistake-wins",
-         "pubDate" : "Mon, 12 Dec 2022 09:19:12 +0100",
-         "title" : "In chess the penultimate mistake wins!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,22 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2112",
          "pubDate" : "Wed, 30 Nov 2022 17:31:10 +0000",
          "title" : "Women's Candidates Pool B: Missed opportunities in Khiva "
-      },
-      {
-         "description" : "Magnus Carlsen will today celebrate his 32nd birthday by playing a MrDodgy Invitational semi-final against Sam Sevian at 17:00 CET. Magnus survived an impressive fightback by Kirill Shevchenko, while Sam overcame Jorden van Foreest. In the other match-up it's Alexander Grischuk vs. Daniil Dubov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-sevian-in-the-mrdodgy-invitational-semis",
-         "pubDate" : "Wed, 30 Nov 2022 15:25:13 +0000",
-         "title" : "Carlsen-Sevian in MrDodgy Invitational Semis"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/95889479.cms\" />Chess prodigy R Praggnanandhaa believes becoming a world champion is a realistic possibility and has given himself three to four years to achieve the feat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aiming-to-become-world-champion-in-3-4-years-says-r-praggnanandhaa/articleshow/95889479.cms",
-         "pubDate" : "Wed, 30 Nov 2022 13:47:31 +0000",
-         "title" : "Aiming to become world champion in 3-4 years: Praggnanandhaa"
       }
    ]
 }
