@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #547 Merijn van Delft analyses one of Kirill Alekseenko's victory from the Sitges tournament. Alekseenko combined positional play with good old attacking chess, making chess look easy in the process! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-547-",
+         "pubDate" : "Thu, 22 Dec 2022 17:00:00 +0100",
+         "title" : "Game of the Week #547: Alekseenko vs. Grigoryan"
+      },
+      {
          "description" : "On 12 December the Hungarian Grandmaster Ivan Farago died at the age of 76. He was born on 1 April 1946 in Budapest, and in 1974 he became an International Master. The Grandmaster title followed two years later, in 1976. In 1986 he became Hungarian Champion and in July 1993 he reached a peak rating of 2540. In a short obituary FIDE pays tribute to this passionate player. | Photo: Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1098,14 +1106,6 @@ news_feed (
          "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
       },
       {
-         "description" : "Opposite colored bishop endings often have drawish tendencies and fortresses are often the main topic. But sometimes creating passed pawns makes the fortresses crumble. In the diagram position it is Black to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-breakthrough-3",
-         "pubDate" : "Tue, 13 Dec 2022 09:00:00 +0100",
-         "title" : "The breakthrough"
-      },
-      {
          "description" : "The 2022 Speed Chess Championship continued on Monday with an electric quarterfinal performance from GM Hikaru Nakamura as he overcame GM Levon Aronian with a 15.5-8.5 score. Nakamura gained a two-point lead early, which he never let go, and was...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1840,38 +1840,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-1-prepare-pro-gm-alex-yermolinsky",
          "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
          "title" : "The Classical King's Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "For the last time this year, here's our monthly look at American chess magazines from 50 and 25 years ago. For the previous post, see <A HREF=\"http://chessforallages.blogspot.com/2022/11/november-1972-1997-on-cover.html\">November 1972 & 1997 'On the Cover'</A>(November 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml01.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Another Title for Arthur Bisguier' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>U.S. Armed Forces Champion Lt. (j.g.) Zacarias S. Chavez (right) with one of his prizes. At left is Cmdr. L. Randall Rogers, who directed the tournament. Story [inside]. (ALNS Photo.) </BLOCKQ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html",
-         "pubDate" : "Thu, 01 Dec 2022 16:26:00 +0000",
-         "title" : "December 1972 & 1997 'On the Cover'"
-      },
-      {
-         "description" : "Magnus Carlsen celebrated his 32nd birthday with a crushing 7:1 victory over Sam Sevian in the MrDodgy Invitational semi-finals. At first that looked set to earn a final against Alexander Grischuk, who stormed to a 3:0 lead, but Daniil Dubov hit back to win five games and clinch a 7:5 victory. The Carlsen-Dubov final starts at 17:00 CET on Thursday December 1st.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-s-7-1-birthday-win-sets-up-dubov-final",
-         "pubDate" : "Thu, 01 Dec 2022 15:00:48 +0000",
-         "title" : "Carlsen's 7:1 birthday win sets up Dubov final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2114",
-         "pubDate" : "Thu, 01 Dec 2022 13:04:11 +0000",
-         "title" : "FIDE December 2022 rating list published"
-      },
-      {
-         "description" : "On July 10th August 10th 2022, NEUROHM, Michal Kanarkiewicz and PLAY MAGNUS GROUP conducted a chess survey, aimed at promoting the royal game and expanding knowledge about the group of people who play chess, both professionally and on amateur level. The respondents were in different age groups, with different ELO Rating, from different countries and with different&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/",
-         "pubDate" : "Thu, 01 Dec 2022 13:00:27 +0000",
-         "title" : "Results of the Neurohm, Kanarkiewicz and Play Magnus Group study"
       }
    ]
 }
