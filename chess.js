@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "https://www.europechess.org/results-of-the-neurohm-kanarkiewicz-and-play-magnus-group-study/",
          "pubDate" : "Thu, 01 Dec 2022 13:00:27 +0000",
          "title" : "Results of the Neurohm, Kanarkiewicz and Play Magnus Group study"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2113",
-         "pubDate" : "Thu, 01 Dec 2022 00:26:06 +0000",
-         "title" : "FIDE Events Commission: Call for Bids"
       }
    ]
 }
