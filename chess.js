@@ -170,6 +170,14 @@ news_feed (
          "title" : "Gashimov Memorial: Abdusattorov wins the rapid section"
       },
       {
+         "description" : "The&#160;2022 Chessable Sunway Sitges International Chess Festival&#160;takes place from 11-22 December in Sitges, Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The Open A will be played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 moves + []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
+         "pubDate" : "Wed, 21 Dec 2022 00:07:00 +0000",
+         "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20<br /> JJ Ali Marandi vs. Nikhil Kumar, 2017<br /> Jordan Ivanov vs. Ali Marandi, 2011<br /> Cemil Can Ali Marandi vs Jinshi Bai, World Junior Championship (2015)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1800995\">https://www.chessgames.com/perl/chessgame?gid=1800995</a><br /> Ali Marandi vs. Dmitry Gurevich, 2018 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -240,14 +248,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-rapid-and-blitz-championships-2022-all-you-need-to-know/",
          "pubDate" : "Tue, 20 Dec 2022 10:02:04 +0000",
          "title" : "World Rapid and Blitz Championships 2022: all you need to know"
-      },
-      {
-         "description" : "The&#xA0;20th edition of the Delhi International Open Grandmasters Tournament&#xA0;will take place from 17-24 January in New Delhi. The event will be played in 10 rounds, swiss system, with time control of 90 Minutes plus 30 second increment from move 1 for entire game, featuring the total prize fund of ~140.000eur. Chessdom will follow the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/20th-delhi-international-open-grandmasters-tournament-live/",
-         "pubDate" : "Tue, 20 Dec 2022 09:48:20 +0000",
-         "title" : "20th Delhi International Open Grandmasters Tournament LIVE"
       },
       {
          "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
