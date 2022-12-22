@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 12 December the Hungarian Grandmaster Ivan Farago died at the age of 76. He was born on 1 April 1946 in Budapest, and in 1974 he became an International Master. The Grandmaster title followed two years later, in 1976. In 1986 he became Hungarian Champion and in July 1993 he reached a peak rating of 2540. In a short obituary FIDE pays tribute to this passionate player. | Photo: Gerhard Hund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memoriam-ivan-farago-1-april-1946-12-december-2022",
+         "pubDate" : "Thu, 22 Dec 2022 12:46:13 +0100",
+         "title" : "In Memoriam: Ivan Farago (1 April 1946 - 12 December 2022)"
+      },
+      {
+         "description" : "The ECF office will close at 5.00pm tomorrow (Friday 23rd December). Emails will be dealt with from Wednesday 28th onwards, and telephones will re-open on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-office-hours-next-week/",
+         "pubDate" : "Thu, 22 Dec 2022 11:28:50 +0000",
+         "title" : "ECF office hours next week"
+      },
+      {
+         "description" : "The Israeli Championships took place on December 5-13 in the southern city of Arad, with a prize fund of 110 thousands NIS. The surprising winner was 20-year-old IM Ido Gorshtein, while IM Yuliya Shvayger defended her title in the women's competition. | Pictured: FIDE Arbiter Ilana Glaz, Yuliya Shvayger, Avital Boruchovsky, Gil Boruchovsky (General Director of ICF), Ido Gorshtein, Ori Kochavi, Flory Sterling, Deputy Mayor of Arad. | Photos: Dr. Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/israel-championship-2022-report",
+         "pubDate" : "Thu, 22 Dec 2022 12:15:00 +0100",
+         "title" : "Gorshtein and Shvayger are the 2022 Israeli champions"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
+         "pubDate" : "Thu, 22 Dec 2022 12:05:00 +0100",
+         "title" : "Gashimov Memorial Rapid & Blitz - Live"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-229",
+         "pubDate" : "Thu, 22 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 22"
+      },
+      {
+         "description" : "The Dutch Women's Championship is taking place from 22-28 December 2022 in Groningen. It is a 6-player round-robin tournament with time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. Dutch Women's Chess Championship 2022 LIVE games:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-womens-chess-championship-2022-live/",
+         "pubDate" : "Thu, 22 Dec 2022 10:31:52 +0000",
+         "title" : "Dutch Women's Chess Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The Dutch Women's Chess Championship 2022 takes place from 22-28 December 2022 in Groningen. The event is simultaneously held with the Dutch Open Chess Championship 2022. It is a 6-player round-robin tournament with time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. The participants are: IM Eline []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dutch-womens-chess-championship-2022/",
+         "pubDate" : "Thu, 22 Dec 2022 10:28:06 +0000",
+         "title" : "Dutch Women's Chess Championship 2022"
+      },
+      {
          "description" : "&#xA0;Report by Yochanan Afek The Israeli 41st Chess Championship and the 34th Women national championship were held on December 5-13 in the southern city of Arad with a prize fund of 110 thousands NIS. Arad (not to confuse with the Romanian city Arad) is located on the border of the Negev&#xA0;and the&#xA0;Judean Deserts, 25 kilometers []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,14 +74,6 @@ news_feed (
          "title" : "Live link for MPL 59th Senior National chess Championship 2022"
       },
       {
-         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
-         "pubDate" : "Thu, 22 Dec 2022 10:55:00 +0100",
-         "title" : "Gashimov Memorial Rapid & Blitz - Live"
-      },
-      {
          "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#xA0;GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM Jules Moussard,&#xA0;GM Andrey Esipenko&#xA0;and a total of 43 grandmasters. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +82,7 @@ news_feed (
          "title" : "Chessable Sunway Sitges - Round 10 live video coverage"
       },
       {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
@@ -202,14 +250,6 @@ news_feed (
          "title" : "Gashimov Memorial: Abdusattorov wins the rapid section"
       },
       {
-         "description" : "The&#160;2022 Chessable Sunway Sitges International Chess Festival&#160;takes place from 11-22 December in Sitges, Barcelona, Spain. The Festival features two tournaments: Open A and Open B, with the total prize fund of 27.155eur. The Open A will be played in 10 rounds, swiss system, with time control of 90 minutes for the first 40 moves + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-international-chess-festival-2022-live/",
-         "pubDate" : "Wed, 21 Dec 2022 00:07:00 +0000",
-         "title" : "Chessable Sunway Sitges International Chess Festival 2022 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20<br /> JJ Ali Marandi vs. Nikhil Kumar, 2017<br /> Jordan Ivanov vs. Ali Marandi, 2011<br /> Cemil Can Ali Marandi vs Jinshi Bai, World Junior Championship (2015)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1800995\">https://www.chessgames.com/perl/chessgame?gid=1800995</a><br /> Ali Marandi vs. Dmitry Gurevich, 2018 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a h",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
          "title" : "Alex at the Staff Tournament | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "FIDE Fair Play Commission today published the statement on the Carlsen Niemann investigation. &#8220;The investigation is not yet completed () &#38; The final report will be published as soon as technically possible&#8221;, reads the statement. While the Carlsen-Niemann Investigatory Panel has been working very hard in the past few weeks, the investigation is not []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-fair-play-commission-publishes-the-statement-on-the-carlsen-niemann-investigation/",
-         "pubDate" : "Tue, 20 Dec 2022 13:02:48 +0000",
-         "title" : "FIDE Fair Play Commission publishes the statement on the Carlsen-Niemann investigation"
       },
       {
          "description" : "A seventh win in a row left Kirill Alekseenko in the sole lead of the massive main tournament at the Sunway Chess Festival in Sitges. The Russian grandmaster defeated Karen Grigoryan with white to widen the gap atop the standings - the leader has a full point lead over Amin Tabatabaei, who got the better of Daniel Dardha with black on Monday. | Photo: Eteri Kublashvili",
@@ -1074,14 +1106,6 @@ news_feed (
          "title" : "The breakthrough"
       },
       {
-         "description" : "No major upsets were seen in round 1 of the Sunway Main Tournament, as 16 out of the top 20 seeds won their games in Sitges. Amin Tabatabaei, the tenth seed, lost by forfeit, while two former winners of the event (plus Jules Moussard) were held to draws by lower-rated opponents - i.e. Ivan Cheparinov and Anton Korobov. | Pictured: A beautiful sunset from the 2021 edition. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r1",
-         "pubDate" : "Tue, 13 Dec 2022 06:20:00 +0100",
-         "title" : "Sunway Sitges: Former winners held to draws"
-      },
-      {
          "description" : "The 2022 Speed Chess Championship continued on Monday with an electric quarterfinal performance from GM Hikaru Nakamura as he overcame GM Levon Aronian with a 15.5-8.5 score. Nakamura gained a two-point lead early, which he never let go, and was...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1114,14 +1138,6 @@ news_feed (
          "title" : "Carlsen, Nakamura Among Participants At World Rapid & Blitz"
       },
       {
-         "description" : "In the Endgame Magic Show #218 Karsten M&uuml;ller and Dutch IM and popular author Herman Grooten talk about the endgame in general and Herman's new book \"Chess Endgames for Club Players\" in particular. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-218-with-herman-grooten",
-         "pubDate" : "Mon, 12 Dec 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #218 - with Herman Grooten"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
          "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
          "title" : "TCEC/CCC Interludes"
-      },
-      {
-         "description" : "At the end of the year, the FIDE World Rapid & Blitz Championships will be played in Almaty (Kazakhstan). The first day of play is 26 December. Top seeds in the rapid open are Magnus Carlsen, Hikaru Nakamura, Jan-Krzysztof Duda, Maxime-Vachier Lagrave, Ian Nepomniachtchi and Alexander Grischuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-chess-highlight-at-the-end-of-the-year-the-fide-world-rapid-blitz-world-championships-2022",
-         "pubDate" : "Mon, 12 Dec 2022 14:18:54 +0100",
-         "title" : "A chess highlight at the end of the year: the FIDE World Rapid & Blitz World Championships 2022"
       },
       {
          "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
