@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#xA0;Report by Yochanan Afek The Israeli 41st Chess Championship and the 34th Women national championship were held on December 5-13 in the southern city of Arad with a prize fund of 110 thousands NIS. Arad (not to confuse with the Romanian city Arad) is located on the border of the Negev&#xA0;and the&#xA0;Judean Deserts, 25 kilometers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israeli-chess-championship-2022-the-time-of-the-young-ones/",
+         "pubDate" : "Thu, 22 Dec 2022 10:16:30 +0000",
+         "title" : "Israeli Chess Championship 2022: The time of the Young Ones"
+      },
+      {
+         "description" : "Please find Live Games Link for MPL 59th Senior National chess Championship 2022 https://delhichess.com/live/mplsenior/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-mpl-59th-senior-national-chess-championship-2022/",
+         "pubDate" : "Thu, 22 Dec 2022 09:56:54 +0000",
+         "title" : "Live link for MPL 59th Senior National chess Championship 2022"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
+         "pubDate" : "Thu, 22 Dec 2022 10:55:00 +0100",
+         "title" : "Gashimov Memorial Rapid & Blitz - Live"
+      },
+      {
+         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#xA0;GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM Jules Moussard,&#xA0;GM Andrey Esipenko&#xA0;and a total of 43 grandmasters. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-10-live-video-coverage/",
+         "pubDate" : "Thu, 22 Dec 2022 08:48:25 +0000",
+         "title" : "Chessable Sunway Sitges - Round 10 live video coverage"
+      },
+      {
+         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
+         "pubDate" : "Thu, 22 Dec 2022 09:30:00 +0100",
+         "title" : "Sunway Sitges Open: Final round - Live!"
+      },
+      {
          "description" : "World Chess Champion Magnus Carlsen talked to Chess.com CCO Danny Rensch for 25 minutes during a landmark State of Chess.com broadcast. Magnus, the figurehead of the Play Magnus Group, talked about joining Chess.com, but also many other topics, including the future of the game, his ambitions and why Alireza Firouzja stands out from the crowd.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2145",
          "pubDate" : "Wed, 21 Dec 2022 16:27:07 +0000",
          "title" : "Taione Sikivou wins 2022 Vodafone Fiji Chess Championship"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary starting at 16.30 CET (10.30 ET, 21.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Wed, 21 Dec 2022 16:30:00 +0100",
-         "title" : "Sunway Sitges Open - Live!"
       },
       {
          "description" : "Kirill Alekseenko's winning streak in Sitges came to an end in round 8, as Amin Tabatabaei held the Russian to a draw on Tuesday. Nonetheless, Alekseenko still has a full-point lead over a five-player chasing pack. Top seeds Yu Yangyi and Hans Niemann are among the chasers, after both winning their round-8 encounters. | Photo: Amruta Mokal",
@@ -218,28 +250,12 @@ news_feed (
          "title" : "Statement by the Fair Play Chair on the Carlsen-Niemann investigation"
       },
       {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December in Sitges, Barcelona, and features two tournaments: Open A and Open B, with a total prize fund of 27.155eur.&#xA0;After seven played rounds,&#xA0;GM Kirill Alekseenko has the sole lead&#xA0;with perfect score of 7/7 points. The 8th round starts today at 16:30 (local time) and features []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-2022-round-8-pairings/",
-         "pubDate" : "Tue, 20 Dec 2022 11:16:35 +0000",
-         "title" : "Chessable Sunway Sitges 2022 - Round 8 pairings"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-2001",
          "pubDate" : "Tue, 20 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 20"
-      },
-      {
-         "description" : "The Estonian Chess Championship 2022 took place from 10-18 December in Tallinn. The Open tournament was played as a 10-player round-robin, and the Women's Championship was played as a 5-player round-robin event. GM Aleksandr Volodin clinched the Estonian Open Chess Championship 2022 scoring unbeaten 7/9 points. Andrei Timoshin and GM Kaido Kulaots trailed by half []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandr-volodin-and-anastassia-sinitsina-win-estonian-chess-championship-2022/",
-         "pubDate" : "Tue, 20 Dec 2022 10:59:06 +0000",
-         "title" : "Aleksandr Volodin and Anastassia Sinitsina win Estonian Chess Championship 2022"
       },
       {
          "description" : " <p class=\"lead\">On December 25th, the World Rapid and Blitz Championships will kick off in Almaty, Kazakhstan, with over 300 elite chess players from 50 countries gathering to compete from December 25th to 31st. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20211228_warsaw_michal_walusza_0003-scaled.jpg\" width=\"2560\" height=\"1703\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Michael Walusza, FIDE</div> </div> <h2>Tournament schedule:</h2> December 25 - Opening Ceremony,<br /> December 26-28 - Rapid competition,<br /> December 29-30 - Blitz competitions and Closing Ceremony. <h2>Format:</h2> In rapid chess, each player begins the game with 15 minutes, and 10 s",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mogul-chessboxing-championship-hambleton-trent",
          "pubDate" : "Mon, 12 Dec 2022 03:31:00 -0800",
          "title" : "Hambleton Scores TKO Over Trent, Belenkaya Checkmates Botez In Record-Breaking Chessboxing Event"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-129",
-         "pubDate" : "Mon, 12 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 12"
       },
       {
          "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
