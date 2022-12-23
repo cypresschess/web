@@ -1816,14 +1816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2115",
          "pubDate" : "Fri, 02 Dec 2022 18:48:09 +0000",
          "title" : "Khiva Women's Candidates: Goryachkina draws first blood"
-      },
-      {
-         "description" : "Last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/11/wayback-to-smartchess.html\">Wayback to Smartchess</A>(November 2022), discussed a trailblazer among chess-on-the-web sites. I noted, 'The first issue of 'SmartChess Online' was dated August 1997 and the last was dated August/September 2003, a total of 45 issues.' <P>The first item in the August 1997 issue was titled 'Publisher's Message by International Grandmaster Ron Henley'. Largely editorial, it was to become a regular column in future issues, appearing more often than not. In it GM Henley gave his thoughts on topical issues related to chess, to video publishing, and to the internet in general. The first such ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html",
-         "pubDate" : "Fri, 02 Dec 2022 16:17:00 +0000",
-         "title" : "The SmartChess Saga"
       }
    ]
 }
