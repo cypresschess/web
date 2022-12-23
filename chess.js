@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world No 1 lost by a minimal margin, 14.5-13.5, to the former US champion and popular streamer before the pair headed for the World Rapid and Blitz in Kazakhstan starting this weekend The long standing and evenly matched online rivalry between Magnus Carlsen and Hikaru Nakamura took another twist on Sunday when the five-time US champion and popular streamer edged out Norway's world No 1 14.5-13.5 in the $100,000 <a href=\"https://www.chess.com/\">chess.com</a> speed championship final. The event, a four-hour mix of 5/1 and 3/1 blitz and 1/1 bullet, is a marathon test of fast reactions, creativity, and resourcefulness under extreme and constant time pressure, and this pair have monopolised",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/23/chess-carlsen-edged-out-by-hikaru-nakamura-in-online-speed-final-epic",
+         "pubDate" : "Fri, 23 Dec 2022 08:00:03 +0000",
+         "title" : "Chess: Carlsen edged out by Hikaru Nakamura in online speed final epic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2146",
+         "pubDate" : "Fri, 23 Dec 2022 07:24:52 +0000",
+         "title" : "FIDE Executive Director visits the Maldives"
+      },
+      {
+         "description" : "Chess is fun but it can also be difficult. Being a chess parent is also often fun but sometimes it can also be difficult. Daniel Sokol, chess enthusiast and father of two kids who love to play chess and to compete in tournaments, shares some of his adventures and insights as a chess parent. And concludes: \"The chess tournament, with its wealth of emotions and experiences, is an excellent training ground for the challenges of life for the children, and of parenthood for the adults.\" | Photo: Sebastian Siebrecht",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-life-and-parenting",
+         "pubDate" : "Fri, 23 Dec 2022 08:06:01 +0100",
+         "title" : "Chess, Life, and Parenting"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #547 Merijn van Delft analyses one of Kirill Alekseenko's victory from the Sitges tournament. Alekseenko combined positional play with good old attacking chess, making chess look easy in the process! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -602,7 +626,7 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 17"
       },
       {
-         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@mdsaif",
+         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-sub-junior-u-15-chess-championship-2022-certificates/",
@@ -1088,14 +1112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1342",
          "pubDate" : "Tue, 13 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 13"
-      },
-      {
-         "description" : "We sent a copy of the new Chessbase 17 to the noted Russian journalist WGM Elmira Mirzoeva, and she wrote back quite excited how impressed she was, and that it was just such software and their new functions that allow young players to rise as quickly as they do. Read what she thinks in this review!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-even-more-of-a-substitute-for-a-human-trainer",
-         "pubDate" : "Tue, 13 Dec 2022 12:00:00 +0100",
-         "title" : "Chessbase 17 review: \"Even more of a substitute for a human trainer\""
       },
       {
          "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://aicf.in/commemorative-postal-stamp-was-released-in-respect-of-44th-chess-olympiad-2022/",
          "pubDate" : "Fri, 02 Dec 2022 08:39:22 +0000",
          "title" : "Commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022"
-      },
-      {
-         "description" : " The former world top-10 grandmaster edged out his rivals by half a point after a tense final round at Assisi, concluding a year where England 50+ and 65+ players also won two world and one European team championships John Nunn, the former top-10 player and author of several instructional books, recovered the form of his best years at age 67 last week when the grandmaster from Bude in Conrwall won the world 65+ senior championship in Assisi, Italy. Nunn scored nine out of 11, and won all his six games with White, including a vital win in what had seemed a drawn final round queen and knight v queen and bishop ending. The championship was a competitive event of 192 players, where Nunn's only d",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/02/chess-john-nunn-wins-world-65-title-in-vintage-year-for-england-seniors",
-         "pubDate" : "Fri, 02 Dec 2022 07:30:09 +0000",
-         "title" : "Chess: John Nunn wins world 65+ title in vintage year for England seniors"
       }
    ]
 }
