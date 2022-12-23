@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-234",
+         "pubDate" : "Fri, 23 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 23"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
+         "pubDate" : "Fri, 23 Dec 2022 11:55:00 +0100",
+         "title" : "Gashimov Memorial Rapid & Blitz - Live"
+      },
+      {
+         "description" : "Kirill Alekseenko secured first place at the main event of the Sunway Chess Festival by drawing Hans Niemann with white in Thursday's final round. Meanwhile, Amin Tabatabaei caught up with Niemann by beating Adhiban Baskaran - thus, a playoff match for second place between Niemann and Tabatabaei followed, with the US grandmaster winning in Armageddon after trading victories in two 5-minute games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r10",
+         "pubDate" : "Fri, 23 Dec 2022 09:30:00 +0100",
+         "title" : "Sunway Sitges: Alekseenko takes the title"
+      },
+      {
          "description" : " The world No 1 lost by a minimal margin, 14.5-13.5, to the former US champion and popular streamer before the pair headed for the World Rapid and Blitz in Kazakhstan starting this weekend The long standing and evenly matched online rivalry between Magnus Carlsen and Hikaru Nakamura took another twist on Sunday when the five-time US champion and popular streamer edged out Norway's world No 1 14.5-13.5 in the $100,000 <a href=\"https://www.chess.com/\">chess.com</a> speed championship final. The event, a four-hour mix of 5/1 and 3/1 blitz and 1/1 bullet, is a marathon test of fast reactions, creativity, and resourcefulness under extreme and constant time pressure, and this pair have monopolised",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Game of the Week #547: Alekseenko vs. Grigoryan"
       },
       {
-         "description" : "On 12 December the Hungarian Grandmaster Ivan Farago died at the age of 76. He was born on 1 April 1946 in Budapest, and in 1974 he became an International Master. The Grandmaster title followed two years later, in 1976. In 1986 he became Hungarian Champion and in July 1993 he reached a peak rating of 2540. In a short obituary FIDE pays tribute to this passionate player. | Photo: Gerhard Hund",
+         "description" : "On 12 December the Hungarian Grandmaster Ivan Farago died at the age of 76. He was born on 1 April 1946 in Budapest, and in 1974 he became an International Master. The Grandmaster title followed two years later, in 1976. In 1986 he became Hungarian Champion and in July 1993 he reached a peak rating of 2540. In a short obituary FIDE pays tribute to this passionate player. | Photo: LGA",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/in-memoriam-ivan-farago-1-april-1946-12-december-2022",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/israel-championship-2022-report",
          "pubDate" : "Thu, 22 Dec 2022 12:15:00 +0100",
          "title" : "Gorshtein and Shvayger are the 2022 Israeli champions"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
-         "pubDate" : "Thu, 22 Dec 2022 12:05:00 +0100",
-         "title" : "Gashimov Memorial Rapid & Blitz - Live"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -1098,22 +1114,6 @@ news_feed (
          "title" : "Manuel G&ouml;ttsching, German pioneer of techno music, died on 4 December"
       },
       {
-         "description" : "The two winners of the Julius Baer Challenger Tour 2021 and 2022, the young Indian grandmasters Praggnanandhaa and Pranav Venkatesh, currently play a three-day rapid and blitz match in Tel Aviv. After two best-of-three rapid matches follow two best-of-four blitz matches. Praggnanandhaa won both rapid matches and has very good chances to win the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-challenge-praggnanandhaa-ueberlegen",
-         "pubDate" : "Tue, 13 Dec 2022 13:26:46 +0100",
-         "title" : "Julius Baer Challenge: Praggnanandhaa dominates"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1342",
-         "pubDate" : "Tue, 13 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 13"
-      },
-      {
          "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1816,30 +1816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/more-things-that-are-not-chess.html",
          "pubDate" : "Fri, 02 Dec 2022 13:20:00 +0000",
          "title" : "More things that are not chess"
-      },
-      {
-         "description" : "Magnus Carlsen has won the 3rd edition of the MrDodgy Invitational after cruising to a 6.5:1.5 victory in the final against Daniil Dubov. The games were closer than the scoreline suggests, but Daniil explained that when playing Magnus it's a case of \"you can choose the way you lose\". He chose to try and match the World Champion on the board, but not on the clock.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-wins-the-mrdodgy-invitational",
-         "pubDate" : "Fri, 02 Dec 2022 11:56:26 +0000",
-         "title" : "Magnus Carlsen wins the MrDodgy Invitational"
-      },
-      {
-         "description" : "The European School Chess Championship 2023 will be held from 12th-22nd May in Durres, Albania. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately, in the 5-star Blue FAFA Resort Durres, which is the official hotel and venue of the tournament. Each ECU member federation can&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-school-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2023-official-invitation/",
-         "pubDate" : "Fri, 02 Dec 2022 09:48:30 +0000",
-         "title" : "European School Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "A commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022. Any interested CHESS lover may contact Indianchessfed@gmail.com. The value of per stamp",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commemorative-postal-stamp-was-released-in-respect-of-44th-chess-olympiad-2022/",
-         "pubDate" : "Fri, 02 Dec 2022 08:39:22 +0000",
-         "title" : "Commemorative postal stamp was released in respect of 44th CHESS OLYMPIAD 2022"
       }
    ]
 }
