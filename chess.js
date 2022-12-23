@@ -1832,14 +1832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/02/chess-john-nunn-wins-world-65-title-in-vintage-year-for-england-seniors",
          "pubDate" : "Fri, 02 Dec 2022 07:30:09 +0000",
          "title" : "Chess: John Nunn wins world 65+ title in vintage year for England seniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky shares his greatest chess preparation (up to that point) from the early 1980s with games against Alexsander Shashin. 2022.11.17<br /> Alex Yermolinsky vs. Alexsander Shashin, 1980: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=2305444\">https://www.365chess.com/game.php?back=1&amp;gid=2305444</a><br /> Yermolinsky vs. Shashin, 1981: E98 King&#039;s Indian, orthodox, Aronin-Taimanov, 9.Ne1 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/classical-kings-indian-part-1-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 02 Dec 2022 04:36:44 +0000",
-         "title" : "The Classical King's Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
       }
    ]
 }
