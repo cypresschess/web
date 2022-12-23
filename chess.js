@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With nine chess playing members, the Peglau family from Dippoldiswalde, a small town in Germany, is probably the world's largest chess family. But it definitely is one of the strongest. As the successes of the Peglaus at the recently finished European Blitz and Rapid Championships show. | Photos: Henrik Teske",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-remarkable-team-the-chess-family-peglau-from-germany",
+         "pubDate" : "Fri, 23 Dec 2022 17:00:00 +0100",
+         "title" : "A remarkable team: The \"Chess Family\" Peglau from Germany"
+      },
+      {
          "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-sunway-chess-festival-begins-in-sitges",
          "pubDate" : "Tue, 13 Dec 2022 13:58:40 +0000",
          "title" : "Chessable Sunway Chess Festival begins in Sitges"
-      },
-      {
-         "description" : "Manuel G&ouml;ttsching is a pioneer of techno music, and in 1984 he released his groundbreaking classic \"E2-E4\". The title of the album alludes to chess and the cover of the album also shows a chessboard - G&ouml;ttsching liked to play. On 4 December the German musician died in Berlin at the age of 70. | Photo: Yoho",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-pioneer-of-techno-music-manuel-goettsching-died",
-         "pubDate" : "Tue, 13 Dec 2022 14:27:11 +0100",
-         "title" : "Manuel G&ouml;ttsching, German pioneer of techno music, died on 4 December"
       },
       {
          "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
