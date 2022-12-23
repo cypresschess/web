@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kirill Alekseenko won the first 7 games and the drew the final 3 to claim clear first place in the Chessable Sunway Sitges Open with 8.5/10. It came down to the wire as Hans Niemann had winning chances against Kirill in the final round, but his 8/10 means he'll now officially be a 2700 player on January 1st. Amin Tabatabaei lost out to Hans in a tiebreak for 3rd, but still stormed back after forfeiting the 1st game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/alekseenko-wins-sitges-niemann-over-2700",
+         "pubDate" : "Fri, 23 Dec 2022 20:01:17 +0000",
+         "title" : "Alekseenko wins Sitges, Niemann over 2700"
+      },
+      {
+         "description" : "This week Robert Ris presents a fine attacking game by Kirill Alekseenko, the winner of the Sitges Open, who showed the potential of the Steinitz Variation of the Ruy Lopez. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-alekseenko-attacks",
+         "pubDate" : "Fri, 23 Dec 2022 17:48:03 +0100",
+         "title" : "Robert Ris' Fast and Furious: Alekseenko attacks"
+      },
+      {
          "description" : "With nine chess playing members, the Peglau family from Dippoldiswalde, a small town in Germany, is probably the world's largest chess family. But it definitely is one of the strongest. As the successes of the Peglaus at the recently finished European Blitz and Rapid Championships show. | Photos: Henrik Teske",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-remarkable-team-the-chess-family-peglau-from-germany",
          "pubDate" : "Fri, 23 Dec 2022 17:00:00 +0100",
          "title" : "A remarkable team: The \"Chess Family\" Peglau from Germany"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships take place in Almaty, Kazakhstan 26th to 30th December 2022. World Champion Magnus Carlsen and World Number 1 Rapid player and Hikaru Nakamura, World Number 1 Blitz player, head a strong field including Richard Rapport, Jan-Krzysztof Duda, MVL Ian Nepomniachtchi, Alexander Grishuk, Fabiano Caruana, Shakhriyar Mamedyarov, the field goes deep. To add spice Hans Moke Niemann plays and it will surely be inevitable he'll be paired with Carlsen at some point.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2022",
+         "pubDate" : "Fri, 23 Dec 2022 17:56:00 +0400",
+         "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
       },
       {
          "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
          "pubDate" : "Fri, 23 Dec 2022 11:55:00 +0100",
          "title" : "Gashimov Memorial Rapid & Blitz - Live"
+      },
+      {
+         "description" : " The 8th Vugar Gashimov Memorial took place Sun 18th Dec to Sat 24th Dec 2022. The event was a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh. Nodirbek Abdusattorov ran away with it scoring 25.5/36 a full five points clear of Rauf Mamedov and Shakhriyar Mamedyarov.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
+         "pubDate" : "Fri, 23 Dec 2022 13:49:00 +0400",
+         "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
       },
       {
          "description" : "Kirill Alekseenko secured first place at the main event of the Sunway Chess Festival by drawing Hans Niemann with white in Thursday's final round. Meanwhile, Amin Tabatabaei caught up with Niemann by beating Adhiban Baskaran - thus, a playoff match for second place between Niemann and Tabatabaei followed, with the US grandmaster winning in Armageddon after trading victories in two 5-minute games.",
@@ -618,14 +650,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 18"
       },
       {
-         "description" : " The 8th Vugar Gashimov Memorial takes place Sun 18th Dec to Sat 24th Dec 2022. The event is a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
-         "pubDate" : "Sun, 18 Dec 2022 13:49:00 +0400",
-         "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
-      },
-      {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Speed Chess Championship final after beating Maxime Vachier-Lagrave 17:9. Magnus complained of \"constantly missing tactics\" but restricted his opponent to just one win in the first 17 games, with MVL finally throwing in the towel with 10 minutes to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-awards-vote",
          "pubDate" : "Tue, 13 Dec 2022 07:55:00 -0800",
          "title" : "Vote For The 2022 Chess.com Awards"
-      },
-      {
-         "description" : "The 2021 Challengers Chess Tour Champion, Praggnanandhaa R, took on the 2022 Champion, Pranav V, in a $10,000 match held in the Tel Aviv offices of Julius Baer on December 11-13. The match was split into 4 mini-matches, 2 in rapid chess and 2 in blitz.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/julius-baer-challenger-2022-live",
-         "pubDate" : "Tue, 13 Dec 2022 16:00:00 +0100",
-         "title" : "Julius Baer Challenger Championship - All games"
       },
       {
          "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
@@ -1808,14 +1824,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
          "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
          "title" : "Chess site files motion to dismiss $100m lawsuit"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2115",
-         "pubDate" : "Fri, 02 Dec 2022 18:48:09 +0000",
-         "title" : "Khiva Women's Candidates: Goryachkina draws first blood"
       }
    ]
 }
