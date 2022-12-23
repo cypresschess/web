@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/",
+         "pubDate" : "Fri, 23 Dec 2022 13:42:58 +0000",
+         "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Kazakhstan"
+      },
+      {
+         "description" : " I saw a suggestion from Magnus Carlsen that the future of chess is fast time limits and online events. Call me old fashioned but I hope this is not going to be the case. My main objection is obviously aesthetic, in that higher quality games are played at slower time limits, but the other is more practical. If the events are played online, new players will struggle to get a look in, Why? Because without an existing OTB track record, there will be an assumption that they are cheating. And if there is a decline in OTB events, where will they get this track record? Combine this with the fact that fast chess leads to more superficial styles of play, then even if they start with OTB blitz and rap",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/call-me-old-fashioned.html",
+         "pubDate" : "Fri, 23 Dec 2022 13:14:00 +0000",
+         "title" : "Call me old fashioned"
+      },
+      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/23/chess-carlsen-edged-out-by-hikaru-nakamura-in-online-speed-final-epic",
          "pubDate" : "Fri, 23 Dec 2022 08:00:03 +0000",
          "title" : "Chess: Carlsen edged out by Hikaru Nakamura in online speed final epic"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2147",
+         "pubDate" : "Fri, 23 Dec 2022 07:55:36 +0000",
+         "title" : "Rilton Cup announces cooperation with FIDE's Fair Play Commission"
       },
       {
          "description" : "",
@@ -1800,22 +1824,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html",
          "pubDate" : "Fri, 02 Dec 2022 16:17:00 +0000",
          "title" : "The SmartChess Saga"
-      },
-      {
-         "description" : " I was asked a question during the Thanksgiving holiday that led to an interesting conversation, one worth interrupting this series of articles to present. It not only has to do with chess but with nearly everything else we do in life. The question was simple enough, why bother learning how to play chess? The answer, <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-seven/\">A Foundation for Beginners Seventy Seven</a> appeared first on <a rel=\"nofollow",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-seven/",
-         "pubDate" : "Fri, 02 Dec 2022 14:00:02 +0000",
-         "title" : "A Foundation for Beginners Seventy Seven"
-      },
-      {
-         "description" : " I've hit a bit of a dry spell with this blog lately. I suspect the main reason is that the effects of covid on OTB chess are still being felt. This has resulted in more online events (which I don't really follow), and faster/shorter events, which I don't take that seriously. The other reason is that paradoxically, having more free time (due to retirement) has resulted in me having less free time. I've ended up doing a lot more coaching than ever before, which makes it harder for me to organise the time for other (important) tasks. The knock-on effect is that instead of chess being an alternative to work, it is just part of my work. On the bright side, I finally knocked off all the possible ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/more-things-that-are-not-chess.html",
-         "pubDate" : "Fri, 02 Dec 2022 13:20:00 +0000",
-         "title" : "More things that are not chess"
       }
    ]
 }
