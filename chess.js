@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE's Fair Play Commission (FPL) is helping the Stockholm Chess Federation with implementing fair play measures before and during the 50th edition of the Rilton Cup, Sweden's biggest open chess tournament. The Secretary of the Fair Play Commission,&#xA0;Bojana Bejatovic, and&#xA0;Ana Srebrni&#x10D;&#xA0;were appointed as the Fair Play Officers of the tournament. FIDE's newly elected Fair Play []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/rilton-cup-announces-cooperation-with-fides-fair-play-commission/",
+         "pubDate" : "Sat, 24 Dec 2022 12:29:10 +0000",
+         "title" : "Rilton Cup announces cooperation with FIDE's Fair Play Commission"
+      },
+      {
+         "description" : "The 50th edition of the Rilton Cup, Sweden's biggest open tournament, will take place from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the following []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-rilton-cup/",
+         "pubDate" : "Sat, 24 Dec 2022 12:26:44 +0000",
+         "title" : "50th Rilton Cup"
+      },
+      {
+         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Women&#x2019;s World Rapid and Blitz Chess Championship 2022. The events gather world top grandmasters, including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, 2766),&#xA0;Ian Nepomniachtchi&#xA0;(FIDE, 2793),&#xA0;Anish Giri&#xA0;(NED, 2764),&#xA0;Alexander Grischuk&#xA0;(FIDE, 2745),&#xA0;Shakhriyar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-champion-magnus-carlsen-arrives-in-almaty-for-fide-world-rapid-and-blitz-2022/",
+         "pubDate" : "Sat, 24 Dec 2022 12:14:08 +0000",
+         "title" : "World Champion Magnus Carlsen arrives in Almaty for FIDE World Rapid and Blitz 2022"
+      },
+      {
+         "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-review-of-the-year/",
+         "pubDate" : "Sat, 24 Dec 2022 12:08:14 +0000",
+         "title" : "Chess Review of the Year"
+      },
+      {
+         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December Traditionally, this time of year, the chess world comes together to loosen up and decide who the best world players are when facing time pressure. After ten []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-rapid-and-blitz-2022-winter-wonderland-its-about-to-get-hot-in-almaty/",
+         "pubDate" : "Sat, 24 Dec 2022 12:07:21 +0000",
+         "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
+      },
+      {
+         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-241",
+         "pubDate" : "Sat, 24 Dec 2022 12:00:00 +0100",
+         "title" : "The World Championship 1972 calendar - Door 24"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2149",
+         "pubDate" : "Sat, 24 Dec 2022 08:46:00 +0000",
+         "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
+      },
+      {
          "description" : "In the diagram position Black threatens ...Rh8, but he doesn't have the sole right to use the h-file. White to play and win!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-alekseenko-attacks",
          "pubDate" : "Fri, 23 Dec 2022 17:48:03 +0100",
          "title" : "Robert Ris' Fast and Furious: Alekseenko attacks"
+      },
+      {
+         "description" : "In the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I highlighted a SmartChess.com press release:- <BLOCKQUOTE>An earlier press release, titled 'A Press Release by Anatoly Karpov' and dated 18 December 1996, had stated, \"<B>Statement by Anatoly Karpov:</B> In the opening paragraphs of my January 1997 \"Grandmasters Musings\" column (in Chess Life), I briefly mentioned one of my recent involvements in chess on the Internet in which I appeared as a guest of Chess.net, a company of which I recently became a shareholder. [...] I would also like to mention that I am a frequent guest lecturer at the superb Interne",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html",
+         "pubDate" : "Fri, 23 Dec 2022 16:01:00 +0000",
+         "title" : "Wayback to Chess.net"
       },
       {
          "description" : "With nine chess playing members, the Peglau family from Dippoldiswalde, a small town in Germany, is probably the world's largest chess family. But it definitely is one of the strongest. As the successes of the Peglaus at the recently finished European Blitz and Rapid Championships show. | Photos: Henrik Teske",
@@ -314,22 +378,6 @@ news_feed (
          "title" : "Who am I reading?"
       },
       {
-         "description" : "Chess.com announced the big news coming today. Chess.com's Chief Chess Officer Daniel Rensch and Magnus Carlsen will reveal the news during the live broadcast which will start at 19:00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/state-of-chess-com-daniel-rensch-magnus-carlsen-live/",
-         "pubDate" : "Wed, 21 Dec 2022 12:24:07 +0000",
-         "title" : "State of Chess.com | Daniel Rensch & Magnus Carlsen LIVE"
-      },
-      {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December in Sitges, Barcelona, and features two tournaments: Open A and Open B, with a total prize fund of 27.155eur.&#xA0;After eight played rounds, GM Kirill Alekseenko has the sole lead with impressive 7.5/8 points. He is followed by GM Yu Yangyi,&#xA0;GM Hans Niemann,&#xA0;GM Manuel Petrosyan,&#xA0;GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-2022-round-9-pairings/",
-         "pubDate" : "Wed, 21 Dec 2022 12:15:05 +0000",
-         "title" : "Chessable Sunway Sitges 2022 - Round 9 pairings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -344,22 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-212",
          "pubDate" : "Wed, 21 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 21"
-      },
-      {
-         "description" : "The Chessable Sunway Sitges International Chess Festival is underway in Sitges and only two rounds left to be played before the announcement of the Winners. GM Kirill Alekseenko maintained a full-point lead though he is no longer perfect. After the 8th-round draw to GM Amin Tabatabaei, Alekseenko scores 7.5 points. GM Yu Yangyi, GM Hans []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kirill-alekseenko-continues-to-lead-at-chessable-sunway-sitges-2022/",
-         "pubDate" : "Wed, 21 Dec 2022 10:50:58 +0000",
-         "title" : "Kirill Alekseenko continues to lead at Chessable Sunway Sitges 2022"
-      },
-      {
-         "description" : "The&#xA0;2022 Dutch Chess Championship&#xA0;is taking place from 21-30 December as a 16-player knockout tournament. GM Max Warmerdam,&#xA0;GM Erwin L&#x2019;Ami, and&#xA0;GM Erik van den Doel&#xA0;are the top-seeded players, and the complete starting list of participants can be seen below. Time control will be 90 minutes for 40 moves plus 30 minutes for the rest of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-chess-championship-2022-live/",
-         "pubDate" : "Wed, 21 Dec 2022 10:07:18 +0000",
-         "title" : "Dutch Chess Championship 2022 LIVE"
       },
       {
          "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women's sections. The Championships will be played in 9 rounds of the Swiss System. The time control will be 90 minutes for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -1064,14 +1096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-141",
          "pubDate" : "Wed, 14 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 14"
-      },
-      {
-         "description" : "In the Julius Baer Challenge Championship match between Pranav Venkatesh and Rameshbabu Praggnanandhaa the favourite Praggnanandhaa clearly dominated. After winning the two best-of-three rapid matches 2,5-0,5 and 2-0 Pragg lost the first game of the first blitz match but then won the next two blitz games and with that the entire match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/praggnanandhaa-wins-julius-baer-challenge-championship",
-         "pubDate" : "Wed, 14 Dec 2022 11:55:21 +0100",
-         "title" : "Praggnanandhaa wins Julius Baer Challenge Championship"
       },
       {
          "description" : " The 13th Hainan Danzhou GM tournament took place Mon 12th Dec to Wed 14th Dec 2022. The event TOOK place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. Anish Giri won on tie-break from MVL and Bu after all scored 4.5/7.",
@@ -1808,22 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2116",
          "pubDate" : "Sat, 03 Dec 2022 16:47:28 +0000",
          "title" : "Goryachkina qualifies for semifinals Lagno and Tan Zhongyi go to tiebreak"
-      },
-      {
-         "description" : "18-year-old Indian prodigy Nihal Sarin has won the Tata Steel Chess India Rapid with a round to spare. Arjun Erigaisi beat Nihal in the final round to finish just half a point behind, but no-one else came close. The first ever Women's Tata Steel Chess India Rapid was won by Ukraine's Anna Ushenina, who overcame Nana Dzagnidze in a blitz playoff.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nihal-sarin-dominates-tata-steel-chess-india-rapid",
-         "pubDate" : "Sat, 03 Dec 2022 09:21:35 +0000",
-         "title" : "Nihal Sarin dominates Tata Steel Chess India Rapid"
-      },
-      {
-         "description" : "The summary expos&eacute; in TheArticle by that ethereal poetess, Fiona Pitt Kethley, of the Jimmy Savile of the chess world, the late Brian Eley, deserves a response from the chess community. Fiona is obviously an expert in the case. She is also married to Grandmaster James Plaskett: once, if only briefly, a target of Eley's []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/unnatural-acts-chess-paedophilia-and-brian-eley/",
-         "pubDate" : "Sat, 03 Dec 2022 09:01:44 +0000",
-         "title" : "Unnatural acts: chess, paedophilia and Brian Eley"
       }
    ]
 }
