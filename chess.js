@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, will be held from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#xA0;new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-rilton-cup-live/",
+         "pubDate" : "Sat, 24 Dec 2022 13:02:33 +0000",
+         "title" : "50th Rilton Cup - LIVE"
+      },
+      {
+         "description" : "The FIDE World Rapid &#38; Blitz Championships 2022 will take place in Almaty, Kazakhstan, from December 25 to 30. World Champion Magnus Carlsen, World Blitz Champion Maxime Vachier-Lagrave, World Fischer Random Champion Hikaru Nakamura, Women's World Rapid Champion Alexandra Kosteniuk and Women's World Blitz Champion Bibisara Assaubayeva are just some of the chess stars playing! []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-blitz-championships-2022-promo-video/",
+         "pubDate" : "Sat, 24 Dec 2022 12:50:05 +0000",
+         "title" : "FIDE World Rapid & Blitz Championships 2022 - Promo video"
+      },
+      {
          "description" : "FIDE's Fair Play Commission (FPL) is helping the Stockholm Chess Federation with implementing fair play measures before and during the 50th edition of the Rilton Cup, Sweden's biggest open chess tournament. The Secretary of the Fair Play Commission,&#xA0;Bojana Bejatovic, and&#xA0;Ana Srebrni&#x10D;&#xA0;were appointed as the Fair Play Officers of the tournament. FIDE's newly elected Fair Play []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/rilton-cup-announces-cooperation-with-fides-fair-play-commission/",
-         "pubDate" : "Sat, 24 Dec 2022 12:29:10 +0000",
+         "pubDate" : "Sat, 24 Dec 2022 12:33:10 +0000",
          "title" : "Rilton Cup announces cooperation with FIDE's Fair Play Commission"
       },
       {
@@ -18,14 +34,6 @@ news_feed (
          "title" : "50th Rilton Cup"
       },
       {
-         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Women&#x2019;s World Rapid and Blitz Chess Championship 2022. The events gather world top grandmasters, including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, 2766),&#xA0;Ian Nepomniachtchi&#xA0;(FIDE, 2793),&#xA0;Anish Giri&#xA0;(NED, 2764),&#xA0;Alexander Grischuk&#xA0;(FIDE, 2745),&#xA0;Shakhriyar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-champion-magnus-carlsen-arrives-in-almaty-for-fide-world-rapid-and-blitz-2022/",
-         "pubDate" : "Sat, 24 Dec 2022 12:14:08 +0000",
-         "title" : "World Champion Magnus Carlsen arrives in Almaty for FIDE World Rapid and Blitz 2022"
-      },
-      {
          "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -34,11 +42,19 @@ news_feed (
          "title" : "Chess Review of the Year"
       },
       {
+         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Women&#x2019;s World Rapid and Blitz Chess Championship 2022. The events gather world top grandmasters, including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, 2766),&#xA0;Ian Nepomniachtchi&#xA0;(FIDE, 2793),&#xA0;Anish Giri&#xA0;(NED, 2764),&#xA0;Alexander Grischuk&#xA0;(FIDE, 2745),&#xA0;Shakhriyar []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-champion-magnus-carlsen-arrives-in-almaty-for-fide-world-rapid-and-blitz-2022/",
+         "pubDate" : "Sat, 24 Dec 2022 12:01:08 +0000",
+         "title" : "World Champion Magnus Carlsen arrives in Almaty for FIDE World Rapid and Blitz 2022"
+      },
+      {
          "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December Traditionally, this time of year, the chess world comes together to loosen up and decide who the best world players are when facing time pressure. After ten []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/world-rapid-and-blitz-2022-winter-wonderland-its-about-to-get-hot-in-almaty/",
-         "pubDate" : "Sat, 24 Dec 2022 12:07:21 +0000",
+         "pubDate" : "Sat, 24 Dec 2022 11:27:21 +0000",
          "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
       },
       {
@@ -282,14 +298,6 @@ news_feed (
          "title" : "Live link for MPL 59th Senior National chess Championship 2022"
       },
       {
-         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules Moussard,&#160;GM Andrey Esipenko&#160;and a total of 43 grandmasters. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-10-live-video-coverage/",
-         "pubDate" : "Thu, 22 Dec 2022 08:48:25 +0000",
-         "title" : "Chessable Sunway Sitges - Round 10 live video coverage"
-      },
-      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-acquires-pmg",
          "pubDate" : "Wed, 21 Dec 2022 09:59:00 -0800",
          "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
-      },
-      {
-         "description" : "The Groningen Chess Festival is taking place at Groningen University in the Netherlands from 21-30 December 2022. The time control is 90 minutes for 40 moves then 30 minutes until the end of the game, with a 30-second increment from move 1. The A Group is a 9-round Swiss Open with participation of Pranav Anand, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/groningen-chess-festival-a-2022-live/",
-         "pubDate" : "Wed, 21 Dec 2022 17:52:56 +0000",
-         "title" : "Groningen Chess Festival A 2022 - LIVE"
       },
       {
          "description" : "Coming off winning his fifth consecutive Speed Chess Championship, GM Hikaru Nakamura&#39;s online blitz dominance may be at an all-time high. On December 20, he won both the early and late Titled Tuesday tournaments. He has now won three in a row a...",
