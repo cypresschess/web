@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position Black threatens ...Rh8, but he doesn't have the sole right to use the h-file. White to play and win!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/first-league-tactics",
+         "pubDate" : "Sat, 24 Dec 2022 09:00:00 +0100",
+         "title" : "First league tactics"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov dominated the field at the Gashimov Memorial in Baku. The 18-year-old from Tashkent was the top scorer in the rapid and finished the blitz in third place. Since none of the players who had ended the rapid near the top of the standings performed strongly in the blitz, Abdusattorov managed to clinch first place with five rounds to spare! | Pictured: The players visited the grave of Vugar Gashimov on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d5",
+         "pubDate" : "Sat, 24 Dec 2022 06:15:00 +0100",
+         "title" : "Abdusattorov wins Gashimov Memorial with five rounds to spare"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,6 +82,14 @@ news_feed (
          "title" : "Call me old fashioned"
       },
       {
+         "description" : "Kirill Alekseenko secured first place at the main event of the Sunway Chess Festival by drawing Hans Niemann with white in Thursday's final round. Meanwhile, Amin Tabatabaei caught up with Niemann by beating Adhiban Baskaran - thus, a playoff match for second place between Niemann and Tabatabaei followed, with the US grandmaster winning in Armageddon after trading victories in two 5-minute games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r10",
+         "pubDate" : "Fri, 23 Dec 2022 12:30:00 +0100",
+         "title" : "Sunway Sitges: Alekseenko takes the title"
+      },
+      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
          "pubDate" : "Fri, 23 Dec 2022 13:49:00 +0400",
          "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
-      },
-      {
-         "description" : "Kirill Alekseenko secured first place at the main event of the Sunway Chess Festival by drawing Hans Niemann with white in Thursday's final round. Meanwhile, Amin Tabatabaei caught up with Niemann by beating Adhiban Baskaran - thus, a playoff match for second place between Niemann and Tabatabaei followed, with the US grandmaster winning in Armageddon after trading victories in two 5-minute games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r10",
-         "pubDate" : "Fri, 23 Dec 2022 09:30:00 +0100",
-         "title" : "Sunway Sitges: Alekseenko takes the title"
       },
       {
          "description" : " The world No 1 lost by a minimal margin, 14.5-13.5, to the former US champion and popular streamer before the pair headed for the World Rapid and Blitz in Kazakhstan starting this weekend The long standing and evenly matched online rivalry between Magnus Carlsen and Hikaru Nakamura took another twist on Sunday when the five-time US champion and popular streamer edged out Norway's world No 1 14.5-13.5 in the $100,000 <a href=\"https://www.chess.com/\">chess.com</a> speed championship final. The event, a four-hour mix of 5/1 and 3/1 blitz and 1/1 bullet, is a marathon test of fast reactions, creativity, and resourcefulness under extreme and constant time pressure, and this pair have monopolised",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "13th Hainan Danzhou GM 2022 - Games and Results"
       },
       {
-         "description" : "The history of the U.S. Women's Chess Championships contains a wealth of information about chess in America and countless fascinating stories about champions from all walks of life. A groundbreaking work about the U.S. Women's Chess Championships and the 29 women who won the title between 1937 and 2020 has been published by McFarland. Johannes Fischer wanted to know more and interviewed Alexey Root, the author of the book.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/united-states-women-s-chess-champions-1937-2020-an-interview-with-alexey-root",
-         "pubDate" : "Wed, 14 Dec 2022 11:00:00 +0100",
-         "title" : "United States Women's Chess Champions, 1937-2020 - An interview with Alexey Root"
-      },
-      {
          "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will now take place on Sunday, 29th January 2023, in hybrid cities...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-signs-huge-sponsorship-deal-with-quantbox",
          "pubDate" : "Tue, 13 Dec 2022 09:07:29 -0800",
          "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
-      },
-      {
-         "description" : "\"The Ink War: Romanticism versus Modernity in Chess\", the new book by Dutch author Willy Hendriks, is definitely one of the most exciting and interesting chess books of 2022. Hendriks first of all looks at the bitter rivalry between William Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also analyses how chess understanding developed and takes a critical look at chess history and the way chess history is written. Thoroughly researched, well-written, entertaining, witty, and thought-provoking. Here's an appetizer to enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-mystery-of-zukertort-s-breakdown",
-         "pubDate" : "Tue, 13 Dec 2022 18:00:00 +0100",
-         "title" : "Willy Hendriks' \"The Ink War\" - The Mystery of Zukertort's Breakdown"
       },
       {
          "description" : "What a year this has been for chess! We have not one, but two world championship challengers as the World Champion Magnus Carlsen&#38;nbsp;stepped away from the competition. A new wave of talent from Uzbekistan, India, and other countries took the wor...",
