@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Sunway Sitges Chess Festival 2022 was won by GM Kirill Alekseenko. He scored 8.5/10 in the ninth edition of the Spanish tournament, taking home the first-place trophy and &#38;euro;5,000. Coming in second was GM Hans Niemann, who beat GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alekseenko-wins-2022-chessable-sunway-sitges-chess-festival",
+         "pubDate" : "Sat, 24 Dec 2022 09:27:00 -0800",
+         "title" : "Undefeated Alekseenko Wins Sitges With 2837 Performance Rating"
+      },
+      {
          "description" : "The&#xA0;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, will be held from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#xA0;new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the time control of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1450,14 +1458,6 @@ news_feed (
          "title" : "Shirov's SmartChess Videos"
       },
       {
-         "description" : "Sports fans, mark your calendars for December 13 at 10:30 a.m. PT/19:30 CET. It&#39;s the crossover event you won&#39;t want to miss: Gordon Hayward vs. Larry Fitzgerald... fans included! These two big-time chess fans and star athletes will be playing in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gordon-hayward-vs-larry-fitzgerald-chesscom",
-         "pubDate" : "Fri, 09 Dec 2022 08:00:00 -0800",
-         "title" : "Announcing Gordon vs. Larry, The Crossover You Won't Want To Miss"
-      },
-      {
          "description" : " <p class=\"lead\">Magnus Carlsen will be competing for the world championship titles in rapid and blitz chess, despite having recently relinquished his title as world champion in classical chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R03006.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Carlsen is the world's top-ranked chess player and has previously won the world championship in classical chess three times. He is also a three-time World Rapid Chess Champion and five-time World Blitz Chess Champion. In 2022 Carlsen announced his decision to relinquish his title. Despite this, he is determined to ",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1808,30 +1808,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-india-blitz-day-1-arjun-and-mariya-lead",
          "pubDate" : "Sat, 03 Dec 2022 23:20:22 +0000",
          "title" : "Tata Steel India Blitz Day 1: Arjun and Mariya lead"
-      },
-      {
-         "description" : " <p class=\"Lead\">The 2022 FIFA World Cup, taking place in Qatar, has brought out some of the world's most talented soccer players. But did you know that many of these same stars are also avid chess fans? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/08109460-307B-46E2-ADEE-5AB06F152CEA.jpg\" width=\"512\" height=\"512\" alt=\"\" /> <div class=\"e2-text-caption\">Image by Dall-e</div> </div> It turns out that a number of top-level footballers have an affinity for the game of chess. From Lionel Messi and Cristiano Ronaldo to Neymar Jr., many of today's leading players have embraced the game as a way to sharpen their minds off the pitch. The connection between soccer and c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/yes-these-soccer-stars-play-chess-between-games-in-qatar/",
-         "pubDate" : "Sat, 03 Dec 2022 19:39:51 +0000",
-         "title" : "Yes, These Soccer Stars Play Chess Between Games in Qatar"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2117",
-         "pubDate" : "Sat, 03 Dec 2022 18:38:13 +0000",
-         "title" : "Mustafa Yilmaz wins 2022 Turkish Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2116",
-         "pubDate" : "Sat, 03 Dec 2022 16:47:28 +0000",
-         "title" : "Goryachkina qualifies for semifinals Lagno and Tan Zhongyi go to tiebreak"
       }
    ]
 }
