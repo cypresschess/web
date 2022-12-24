@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2022-12-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212234692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-12-23","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212234642 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-12-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212203482 target='_blank'>RCC QUADS DECEMBER 20, 2022</a>",
 "HOUSTON","2022-12-18","27","<a href=http://www.uschess.org/msa/XtblMain.php?202212183252 target='_blank'>DEC 18  SUNDAY SWISS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2022-05-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202205067042 target='_blank'>FBCC 2022 SEIS DE MAYO OPEN</a>",
 "CYPRESS","2022-05-06","26","<a href=http://www.uschess.org/msa/XtblMain.php?202205067012 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-05-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202205015032 target='_blank'>MAY 1ST SUNDAY SWISS</a>",
-"HOUSTON","2022-04-30","31","<a href=http://www.uschess.org/msa/XtblMain.php?202204304272 target='_blank'>F7 CHESS CLUB SPRING SCHOLASTIC</a>",
 ]);
