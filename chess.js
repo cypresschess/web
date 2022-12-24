@@ -114,6 +114,14 @@ news_feed (
          "title" : "Kirill Alekseenko wins Chessable Sunway Sitges 2022"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2150",
+         "pubDate" : "Fri, 23 Dec 2022 21:55:07 +0000",
+         "title" : "Brazilian Championship: Fier and Terao win titles"
+      },
+      {
          "description" : "Kirill Alekseenko won the first 7 games and the drew the final 3 to claim clear first place in the Chessable Sunway Sitges Open with 8.5/10. It came down to the wire as Hans Niemann had winning chances against Kirill in the final round, but his 8/10 means he'll now officially be a 2700 player on January 1st. Amin Tabatabaei lost out to Hans in a tiebreak for 3rd, but still stormed back after forfeiting the 1st game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
