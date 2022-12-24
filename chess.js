@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2148",
+         "pubDate" : "Fri, 23 Dec 2022 23:55:57 +0000",
+         "title" : "Season's Greetings from FIDE President"
+      },
+      {
+         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;took place from 11-22 December and featured two tournaments: Open A and Open B, with the total prize fund of 27.155eur. GM Kirill Alekseenko scored 8.5 points to be the sole Winner of the event after the exciting last round when he played against GM Hans Niemann for the first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kirill-alekseenko-wins-chessable-sunway-sitges-2022/",
+         "pubDate" : "Fri, 23 Dec 2022 23:18:44 +0000",
+         "title" : "Kirill Alekseenko wins Chessable Sunway Sitges 2022"
+      },
+      {
          "description" : "Kirill Alekseenko won the first 7 games and the drew the final 3 to claim clear first place in the Chessable Sunway Sitges Open with 8.5/10. It came down to the wire as Hans Niemann had winning chances against Kirill in the final round, but his 8/10 means he'll now officially be a 2700 player on January 1st. Amin Tabatabaei lost out to Hans in a tiebreak for 3rd, but still stormed back after forfeiting the 1st game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "Live link for MPL 59th Senior National chess Championship 2022"
       },
       {
-         "description" : "The&#xA0;2022 Chessable Sunway Sitges Chess Festival&#xA0;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#xA0;GM Yu Yangyi&#xA0;is top-seeded at the A tournament, and the field includes&#xA0;GM Hans Niemann, GM Jorden van Foreest,&#xA0;GM Ivan Cheparinov,&#xA0;GM Jules Moussard,&#xA0;GM Andrey Esipenko&#xA0;and a total of 43 grandmasters. []",
+         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;is taking place from 11-22 December and features two tournaments: Open A and Open B, with the total prize fund of 27.155eur.&#160;GM Yu Yangyi&#160;is top-seeded at the A tournament, and the field includes&#160;GM Hans Niemann, GM Jorden van Foreest,&#160;GM Ivan Cheparinov,&#160;GM Jules Moussard,&#160;GM Andrey Esipenko&#160;and a total of 43 grandmasters. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/chessable-sunway-sitges-round-10-live-video-coverage/",
@@ -336,14 +352,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/",
          "pubDate" : "Wed, 21 Dec 2022 10:03:21 +0000",
          "title" : "European Senior Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "The 2022 Dutch Chess Championship is taking place from 21-30 December as a 16-player knockout tournament. Time control will be 90 minutes for 40 moves plus 30 minutes for the rest of the game, with 30-second increment for each move, starting from the move one. GM Max Warmerdam, GM Erwin L'Ami, and GM Erik van []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-chess-championship-2022/",
-         "pubDate" : "Wed, 21 Dec 2022 09:45:11 +0000",
-         "title" : "Dutch Chess Championship 2022"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20<br /> Richard Pointer vs. Alex Moellering, 2022: A20 English opening<br /> Caleb Denny vs. Moellering, 2022: E60 King&#039;s Indian defence<br /> Moellering vs. Nathaniel Powell, 2022: B03 Alekhine&#039;s defence, Balogh variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown\"><img src=\"https://saintlo",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unnatural-acts-chess-paedophilia-and-brian-eley/",
          "pubDate" : "Sat, 03 Dec 2022 09:01:44 +0000",
          "title" : "Unnatural acts: chess, paedophilia and Brian Eley"
-      },
-      {
-         "description" : "Chess.com has filed a motion to dismiss American grandmaster Hans Niemann's $100 million defamation lawsuit.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/35166005/chesscom-files-motion-dismiss-hans-niemann-100m-lawsuit?device=featurephone",
-         "pubDate" : "Fri, 2 Dec 2022 17:45:40 -0500",
-         "title" : "Chess site files motion to dismiss $100m lawsuit"
       }
    ]
 }
