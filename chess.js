@@ -1808,14 +1808,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2022-strategy-across-board-gala",
          "pubDate" : "Sun, 04 Dec 2022 01:38:29 +0000",
          "title" : "2022 Strategy Across the Board: The Gala"
-      },
-      {
-         "description" : "Shakhriyar Mamedyarov started the Tata Steel Chess India Blitz with a stunning 6/7, but defeats in the last two rounds allowed Arjun Erigaisi to overtake him before the final day. At least five players are in contention in the Open section, while in the Women's Mariya Muzychuk scored a brilliant 8/9, leaving only Vaishali within touching distance.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-india-blitz-day-1-arjun-and-mariya-lead",
-         "pubDate" : "Sat, 03 Dec 2022 23:20:22 +0000",
-         "title" : "Tata Steel India Blitz Day 1: Arjun and Mariya lead"
       }
    ]
 }
