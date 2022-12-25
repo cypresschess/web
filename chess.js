@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To help you enjoy your seasonal feast, we have a turkey, a tree and a turbulent priest; a circus trip, a corkscrew and a silent (k)night - and lots more for your festive chess delight! Graham Phythian presents some fun and challenging positions to help you while away the festive period. They all appear in the Christmas section of CHESS Magazine, which has a special gift ready for you. You can download the entire magazine to read, free of charge! In any case we all wish you a Merry Christmas - CHESS and ChessBase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-chess-quiz",
+         "pubDate" : "Sun, 25 Dec 2022 08:00:00 +0100",
+         "title" : "Christmas CHESS Quiz"
+      },
+      {
          "description" : " 2022 New York/Georgetown Blitz Invitational New York City recently held a blitz championship culminating in a classic battle between Josh Colas and Nigeria's Adegboyega Joel Adebayo. The New York/Georgetown Blitz Invitational tournament was the beginning of what is to come in 2023 according to Aggrey Duncan, What we are trying to do here in New The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/\">Blitz tourney heats up NYC Colas wins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1114,14 +1122,6 @@ news_feed (
          "title" : "Gorshtein and Shvayger win 2022 Israeli Championship"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-141",
-         "pubDate" : "Wed, 14 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 14"
-      },
-      {
          "description" : " The 13th Hainan Danzhou GM tournament took place Mon 12th Dec to Wed 14th Dec 2022. The event TOOK place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. Anish Giri won on tie-break from MVL and Bu after all scored 4.5/7.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1800,14 +1800,6 @@ news_feed (
          "link" : "https://chessimprover.com/opening-diagonals/",
          "pubDate" : "Sun, 04 Dec 2022 11:45:28 +0000",
          "title" : "Opening Diagonals"
-      },
-      {
-         "description" : " Citing 3 pages of precedents, Carlsen legal team said that Hans Niemann is a money-hungry failure who is trying to cash out on his misbehavior. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1024\" data-ratio=\"1\"> <img src=\"https://worldchess.com/news/pictures/0D3B9BAC-199B-430C-9E35-C7B84CBA87B9.png\" width=\"1024\" height=\"1024\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-08_17-37-34.jpg\" width=\"976\" height=\"549\" alt=\"\" /> </div> <div class=\"e2-text-caption\">A person who looks like Hans Niemann (Image by Dall-e)<br /> Hans Niemann (Getty Images)</div> </div> A <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.moed.198608/gov.uscourts.moe",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-and-chess-com-hans-niemann-is-bad-in-both-chess-and-laws/",
-         "pubDate" : "Sun, 04 Dec 2022 07:25:53 +0000",
-         "title" : "Carlsen: Niemann is Bad in Both Chess and Lawsuits. Dismiss the Case."
       }
    ]
 }
