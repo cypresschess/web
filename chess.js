@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 105th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-105-play-the-sicilian-7",
+         "pubDate" : "Sun, 25 Dec 2022 15:00:00 +0100",
+         "title" : "Understanding before Moving 105: Play the Sicilian! (7)"
+      },
+      {
+         "description" : " Over Xmas lunch today, I was alerted to yet another online chess variant. FPS Chess combines the strategy of chess with the madness of First Person Shooters (FPS). Instead of straight forward captures, it looks as though you have to fight mini-battles to determine who gets removed from the board. It is PvP (no computer bots), so the only downside is waiting around for an opponent. It can be found at <a href=\"https://store.steampowered.com/app/2021910/FPS_Chess/\">https://store.steampowered.com/app/2021910/FPS_Chess/</a> and at this stage, looks like it is free to play ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/maybe-i-should-have-got-this.html",
+         "pubDate" : "Sun, 25 Dec 2022 12:51:00 +0000",
+         "title" : "Maybe I should have got this"
+      },
+      {
          "description" : "ChessBase wishes all chess friends a Merry Christmas and happy holidays! Stay healthy and enjoy chess! | Picture PublicDomainPictures by Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-blitz-begins-as-carlsen-faces-dilemma",
          "pubDate" : "Sun, 25 Dec 2022 08:10:52 +0000",
          "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
+      },
+      {
+         "description" : "The&#160;88th edition of the Brazilian Chess Championship&#160;took place from15-23 December 2022 in Boa Viagem, Recife, concurrently with the&#160;Brazilian Women&#x2019;s Chess Championship 2022. The Open Championship was played in 11 rounds swiss system, and Women's event was played in 9 rounds swiss system. The time control was 90 minutes for the whole game plus 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandr-fier-and-juliana-sayumi-terao-win-brazilian-championship-2022/",
+         "pubDate" : "Sun, 25 Dec 2022 07:26:00 +0000",
+         "title" : "Alexandr Fier and Juliana Sayumi Terao win Brazilian Championship 2022"
       },
       {
          "description" : "To help you enjoy your seasonal feast, we have a turkey, a tree and a turbulent priest; a circus trip, a corkscrew and a silent (k)night - and lots more for your festive chess delight! Graham Phythian presents some fun and challenging positions to help you while away the festive period. They all appear in the Christmas section of CHESS Magazine, which has a special gift ready for you. You can download the entire magazine to read, free of charge! In any case we all wish you a Merry Christmas - CHESS and ChessBase.",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-229",
          "pubDate" : "Thu, 22 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 22"
-      },
-      {
-         "description" : "The Dutch Women's Championship is taking place from 22-28 December 2022 in Groningen. It is a 6-player round-robin tournament with time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. Dutch Women's Chess Championship 2022 LIVE games:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-womens-chess-championship-2022-live/",
-         "pubDate" : "Thu, 22 Dec 2022 10:31:52 +0000",
-         "title" : "Dutch Women's Chess Championship 2022 - LIVE"
       },
       {
          "description" : "Please find Live Games Link for MPL 59th Senior National chess Championship 2022 https://delhichess.com/live/mplsenior/index.html",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "ChessBase 17 - All the new features explained"
       },
       {
-         "description" : "The result of the eagerly awaited rematch of the 2018 World Championship match between Magnus Carlsen and Fabiano Caruana in the quarterfinals of the chess.com Speedchess Championship was one-sided. Caruana didn't take his chances, Carlsen took them all and demonstrated world championship level chess in 5+1 blitz, in 3+1 blitz and in bullet. He even managed to satisfy his harshest critic. | Graphics: Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speedchess-championship-carlsen-vs-caruana-22-4",
-         "pubDate" : "Wed, 14 Dec 2022 16:26:33 +0100",
-         "title" : "Speedchess Championship: Carlsen vs Caruana 22:4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,22 +1792,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/cold-painted-cats.html",
          "pubDate" : "Sun, 04 Dec 2022 22:32:00 +0000",
          "title" : "Cold Painted Cats"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2118",
-         "pubDate" : "Sun, 04 Dec 2022 16:13:05 +0000",
-         "title" : "Tan Zhongyi defeats Lagno in tiebreak and will face Goryachkina in semifinal"
-      },
-      {
-         "description" : "In 1968, the American magazine Chess Review introduced Michael Basman as \"another bright B\" in the tradition of famous British chess players represented by Bird, Blackburne and Burn. \"Basman would never be the brightest chess star in this constellation of Bs, but he became the most doggedly extra-terrestrial of all of them,\" writes Jonathan Manley in the December issue of CHESS Magazine. Here's his fine tribute.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/b-is-for-basman",
-         "pubDate" : "Sun, 04 Dec 2022 15:05:00 +0100",
-         "title" : "B is for Basman"
       }
    ]
 }
