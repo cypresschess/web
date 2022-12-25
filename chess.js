@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase wishes all chess friends a Merry Christmas and happy holidays! Stay healthy and enjoy chess! | Picture PublicDomainPictures by Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/merry-christmas-3",
+         "pubDate" : "Sun, 25 Dec 2022 12:00:00 +0100",
+         "title" : "Merry Christmas!"
+      },
+      {
+         "description" : " As it's probably Christmas Day when you read this, just a short announcement. I'm now working on publication of my coaching materials in physical format on Amazon. I'm starting with a new introductory book for novices, their teachers and parents: Chess for Heroes. You can find out more here: purchases and five star reviews will <a href=\"https://chessimprover.com/chess-for-heroes-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Heroes Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-publication/\">Chess for Heroes Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-for-heroes-publication/",
+         "pubDate" : "Sun, 25 Dec 2022 10:58:57 +0000",
+         "title" : "Chess for Heroes Publication"
+      },
+      {
+         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-1-live/",
+         "pubDate" : "Sun, 25 Dec 2022 08:58:30 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Day 1 live"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2022 took place from 18-23 December in Baku. It was a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings were determined according to the sum of points of Rapid and Blitz events. Defending FIDE World Rapid Chess Champion Nodirbek Abdusattorov won the tournament just a few days []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-wins-vugar-gashimov-memorial-2022/",
+         "pubDate" : "Sun, 25 Dec 2022 08:36:46 +0000",
+         "title" : "Nodirbek Abdusattorov wins Vugar Gashimov Memorial 2022"
+      },
+      {
          "description" : "World Champion Magnus Carlsen and US teenager Hans Moke Niemann will be in the same venue for the first time since the scandal that rocked the chess world in Saint Louis three months ago. The Norwegian faces a dilemma if he is paired against the teenager, who launched a $100 million lawsuit over cheating allegations.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -312,22 +344,6 @@ news_feed (
          "link" : "https://www.chessdom.com/dutch-womens-chess-championship-2022-live/",
          "pubDate" : "Thu, 22 Dec 2022 10:31:52 +0000",
          "title" : "Dutch Women's Chess Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The Dutch Women's Chess Championship 2022 takes place from 22-28 December 2022 in Groningen. The event is simultaneously held with the Dutch Open Chess Championship 2022. It is a 6-player round-robin tournament with time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. The participants are: IM Eline []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dutch-womens-chess-championship-2022/",
-         "pubDate" : "Thu, 22 Dec 2022 10:28:06 +0000",
-         "title" : "Dutch Women's Chess Championship 2022"
-      },
-      {
-         "description" : "&#xA0;Report by Yochanan Afek The Israeli 41st Chess Championship and the 34th Women national championship were held on December 5-13 in the southern city of Arad with a prize fund of 110 thousands NIS. Arad (not to confuse with the Romanian city Arad) is located on the border of the Negev&#xA0;and the&#xA0;Judean Deserts, 25 kilometers []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israeli-chess-championship-2022-the-time-of-the-young-ones/",
-         "pubDate" : "Thu, 22 Dec 2022 10:16:30 +0000",
-         "title" : "Israeli Chess Championship 2022: The time of the Young Ones"
       },
       {
          "description" : "Please find Live Games Link for MPL 59th Senior National chess Championship 2022 https://delhichess.com/live/mplsenior/index.html",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "Hungarian Championship: P&eacute;ter Proh&aacute;szka and Zsuzsanna Terbe win titles"
       },
       {
-         "description" : "No fewer than 54 players have won both their first encounters at the main event of the Sunway Festival in Sitges. However, round 2 saw five 2600+ rated players draw against much lower-rated opponents. Russian rising star Andrey Esipenko was held to a draw by French FM Mathieu Phileas, who in fact could have won the game had he made the most of his chances in a queen and rook endgame. | Pictured: The first blitz tournament of the festival took place on Tuesday night",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r2",
-         "pubDate" : "Wed, 14 Dec 2022 16:00:00 +0100",
-         "title" : "Sunway Sitges: Esipenko escapes with a draw"
-      },
-      {
          "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1792,22 +1800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/b-is-for-basman",
          "pubDate" : "Sun, 04 Dec 2022 15:05:00 +0100",
          "title" : "B is for Basman"
-      },
-      {
-         "description" : " The Tata Steel India Rapid & Blitz took place 29th November to 4th December 2022. Arjun Erigaisi won the event by coming second in the Rapid behind Nihal Sarin and first in the blitz. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tata-steel-india-rapid-blitz-2022",
-         "pubDate" : "Sun, 4 Dec 2022 16:26:00 +0400",
-         "title" : "Tata Steel India Rapid & Blitz 2022 - Games and Results"
-      },
-      {
-         "description" : " Here's a tactical idea which comes up from time to time. Your opponent has a king in the centre. You move a unit to a square controlled by two enemy pawns. Either pawn capture opens a diagonal for a check by a bishop or queen with fatal results. I could have reached this position in <a href=\"https://chessimprover.com/opening-diagonals/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Opening Diagonals\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/opening-diagonals/\">Opening Diagonals</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/opening-diagonals/",
-         "pubDate" : "Sun, 04 Dec 2022 11:45:28 +0000",
-         "title" : "Opening Diagonals"
       }
    ]
 }
