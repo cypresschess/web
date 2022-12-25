@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World Champion Magnus Carlsen and US teenager Hans Moke Niemann will be in the same venue for the first time since the scandal that rocked the chess world in Saint Louis three months ago. The Norwegian faces a dilemma if he is paired against the teenager, who launched a $100 million lawsuit over cheating allegations.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-begins-as-carlsen-faces-dilemma",
+         "pubDate" : "Sun, 25 Dec 2022 08:10:52 +0000",
+         "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
+      },
+      {
          "description" : "To help you enjoy your seasonal feast, we have a turkey, a tree and a turbulent priest; a circus trip, a corkscrew and a silent (k)night - and lots more for your festive chess delight! Graham Phythian presents some fun and challenging positions to help you while away the festive period. They all appear in the Christmas section of CHESS Magazine, which has a special gift ready for you. You can download the entire magazine to read, free of charge! In any case we all wish you a Merry Christmas - CHESS and ChessBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
