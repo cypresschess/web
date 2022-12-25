@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2151",
+         "pubDate" : "Sun, 25 Dec 2022 19:20:24 +0000",
+         "title" : "\"Welcome to Kazakhstan\": The World Rapid and Blitz Championships officially opened in Almaty"
+      },
+      {
+         "description" : "The&#xA0;2022 World Rapid and Blitz Chess Championships&#xA0;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-plays-the-2022-fide-world-rapid-and-blitz-live-stream/",
+         "pubDate" : "Sun, 25 Dec 2022 17:02:38 +0000",
+         "title" : "Hikaru Nakamura plays the 2022 FIDE World Rapid and Blitz - LIVE stream"
+      },
+      {
+         "description" : "MPL 59th National Chess Championship of India takes place from 22nd December 2022 to 3rd January 2023 with 200 participants competing over 13 rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes + 30 seconds increment from move one. MPL 59th Indian Chess Championship LIVE games:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-59th-indian-chess-championship-live/",
+         "pubDate" : "Sun, 25 Dec 2022 16:47:20 +0000",
+         "title" : "MPL 59th Indian Chess Championship - LIVE"
+      },
+      {
+         "description" : "MPL 59th National Chess Championship of India commenced on Thursday in New Delhi. The event takes place from 22nd December 2022 to 3rd January 2023 with 200 participants competing over 13 rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes + 30 seconds increment from move one. After four played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mpl-59th-indian-chess-championship-started-in-new-delhi/",
+         "pubDate" : "Sun, 25 Dec 2022 16:14:12 +0000",
+         "title" : "MPL 59th Indian Chess Championship started in New Delhi"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 105th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,22 +162,6 @@ news_feed (
          "title" : "Chess Review of the Year"
       },
       {
-         "description" : "The FIDE World Rapid and Blitz Chess Championship 2022&#xA0;will take place in Almaty, Kazakhstan, from December 25-31 at the Baluan Sholak Sports Palace, concurrently with&#xA0;FIDE Women&#x2019;s World Rapid and Blitz Chess Championship 2022. The events gather world top grandmasters, including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, 2766),&#xA0;Ian Nepomniachtchi&#xA0;(FIDE, 2793),&#xA0;Anish Giri&#xA0;(NED, 2764),&#xA0;Alexander Grischuk&#xA0;(FIDE, 2745),&#xA0;Shakhriyar []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-champion-magnus-carlsen-arrives-in-almaty-for-fide-world-rapid-and-blitz-2022/",
-         "pubDate" : "Sat, 24 Dec 2022 12:01:08 +0000",
-         "title" : "World Champion Magnus Carlsen arrives in Almaty for FIDE World Rapid and Blitz 2022"
-      },
-      {
-         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December Traditionally, this time of year, the chess world comes together to loosen up and decide who the best world players are when facing time pressure. After ten []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-rapid-and-blitz-2022-winter-wonderland-its-about-to-get-hot-in-almaty/",
-         "pubDate" : "Sat, 24 Dec 2022 11:27:21 +0000",
-         "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2148",
          "pubDate" : "Fri, 23 Dec 2022 23:55:57 +0000",
          "title" : "Season's Greetings from FIDE President"
-      },
-      {
-         "description" : "The&#160;2022 Chessable Sunway Sitges Chess Festival&#160;took place from 11-22 December and featured two tournaments: Open A and Open B, with the total prize fund of 27.155eur. GM Kirill Alekseenko scored 8.5 points to be the sole Winner of the event after the exciting last round when he played against GM Hans Niemann for the first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kirill-alekseenko-wins-chessable-sunway-sitges-2022/",
-         "pubDate" : "Fri, 23 Dec 2022 23:18:44 +0000",
-         "title" : "Kirill Alekseenko wins Chessable Sunway Sitges 2022"
       },
       {
          "description" : "",
