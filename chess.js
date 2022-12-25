@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2022 New York/Georgetown Blitz Invitational New York City recently held a blitz championship culminating in a classic battle between Josh Colas and Nigeria's Adegboyega Joel Adebayo. The New York/Georgetown Blitz Invitational tournament was the beginning of what is to come in 2023 according to Aggrey Duncan, What we are trying to do here in New The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/\">Blitz tourney heats up NYC Colas wins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/",
+         "pubDate" : "Sun, 25 Dec 2022 03:13:53 +0000",
+         "title" : "Blitz tourney heats up NYC&hellip; Colas wins!"
+      },
+      {
          "description" : "The Chessable Sunway Sitges Chess Festival 2022 was won by GM Kirill Alekseenko. He scored 8.5/10 in the ninth edition of the Spanish tournament, taking home the first-place trophy and &#38;euro;5,000. Coming in second was GM Hans Niemann, who beat GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/carlsen-and-chess-com-hans-niemann-is-bad-in-both-chess-and-laws/",
          "pubDate" : "Sun, 04 Dec 2022 07:25:53 +0000",
          "title" : "Carlsen: Niemann is Bad in Both Chess and Lawsuits. Dismiss the Case."
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> AUCTION: <a href=\"https://e.givesmart.com/events/tym/\">https://e.givesmart.com/events/tym/</a> Join the Saint Louis Chess Club and World Chess Hall of Fame for the 6th Annual Strategy Across the Board gala on Saturday, December 3, 2022 at The Chase Park Plaza Hotel for an evening of celebrating chess in Saint Louis and around the world. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2022-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2022-strategy-across-board-gala",
-         "pubDate" : "Sun, 04 Dec 2022 01:38:29 +0000",
-         "title" : "2022 Strategy Across the Board: The Gala"
       }
    ]
 }
