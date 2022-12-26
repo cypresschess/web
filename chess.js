@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;FIDE World Rapid and Blitz Championships&#xA0;kicked off today in Almaty, Kazakhstan with the World Open and Women&#x2019;s Rapid Championships. The event was officially opened yesterday in a&#xA0;90-minute long ceremony, and the first day of the event started with the Opening press conference. The first round of the FIDE World Rapid Chess Championship 2022 commenced with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-2022-starts-with-ceremonial-moves/",
+         "pubDate" : "Mon, 26 Dec 2022 11:09:49 +0000",
+         "title" : "FIDE World Rapid Chess 2022 starts with ceremonial moves"
+      },
+      {
+         "description" : "The World Rapid Championships are taking place on December 26-28 in Almaty, Kazakhstan. Magnus Carlsen, Richard Rapport and Hikaru Nakamura are the top seeds in the open section. Alexandra Kosteniuk, Kateryna Lagno and Tan Zhongyi are the highest-rated players among the women. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
+         "pubDate" : "Mon, 26 Dec 2022 09:55:00 +0100",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
+         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-1-live/",
+         "pubDate" : "Mon, 26 Dec 2022 08:50:00 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Day 1 live"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships 2022 kick off in Almaty, Kazakhstan on the 26th of December 2022. On 25th of December, one day before the start of the event, there was an opening ceremony held at the venue. The first thing you notice when you enter the premises of the Baluan Sholak Sports Palace is how massive it is and how spacious it is going to be for the players. Next you get to see the Kazakh culture in the opening ceremony and the love for chess that the country possesses. Sagar Shah and Amruta Mokal have filed a large pictorial report from Almaty.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/glorious-opening-ceremony-at-world-rapid-and-blitz-2022",
+         "pubDate" : "Mon, 26 Dec 2022 09:28:31 +0100",
+         "title" : "Glorious opening ceremony at World Rapid and Blitz 2022"
+      },
+      {
          "description" : "The FIDE World Rapid and Blitz Championships kick off today in Almaty, Kazakhstan with the World Open and Women's Rapid Championships. The event was officially opened yesterday in a 90-minute long ceremony, and the first day of the event started with the Opening press conference. FIDE World Rapid and Blitz 2022 Opening press conference []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -130,14 +162,6 @@ news_feed (
          "title" : "Chess for Heroes Publication"
       },
       {
-         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-1-live/",
-         "pubDate" : "Sun, 25 Dec 2022 08:58:30 +0000",
-         "title" : "FIDE World Rapid Chess Championship 2022 - Day 1 live"
-      },
-      {
          "description" : "The Vugar Gashimov Memorial 2022 took place from 18-23 December in Baku. It was a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings were determined according to the sum of points of Rapid and Blitz events. Defending FIDE World Rapid Chess Champion Nodirbek Abdusattorov won the tournament just a few days []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -192,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/50th-rilton-cup-live/",
          "pubDate" : "Sat, 24 Dec 2022 13:02:33 +0000",
          "title" : "50th Rilton Cup - LIVE"
-      },
-      {
-         "description" : "The FIDE World Rapid &#38; Blitz Championships 2022 will take place in Almaty, Kazakhstan, from December 25 to 30. World Champion Magnus Carlsen, World Blitz Champion Maxime Vachier-Lagrave, World Fischer Random Champion Hikaru Nakamura, Women's World Rapid Champion Alexandra Kosteniuk and Women's World Blitz Champion Bibisara Assaubayeva are just some of the chess stars playing! []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-blitz-championships-2022-promo-video/",
-         "pubDate" : "Sat, 24 Dec 2022 12:50:05 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022 - Promo video"
       },
       {
          "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
@@ -1114,28 +1130,12 @@ news_feed (
          "title" : "Game of the Week #546: K Priyanka vs Van Delft"
       },
       {
-         "description" : "Nineteen players are sharing first place on 3 out of 3 points in the main event of the Sunway Sitges Festival. Kushal O, a 17-year-old Indian player with an 1801 Elo rating, is among the leaders, as he stunned players in the 2250-2500 rating bracket on the first three days of competition. Big guns Yu Yangyi, Hans Niemann and Jorden van Foreest (pictured) are also sharing the lead. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r3",
-         "pubDate" : "Thu, 15 Dec 2022 07:40:00 +0100",
-         "title" : "Sunway Sitges: Van Foreest's Greek gift"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
          "pubDate" : "Wed, 14 Dec 2022 18:27:00 -0800",
          "title" : "Vachier-Lagrave Subdues Tenacious So"
-      },
-      {
-         "description" : "Hikaru Nakamura, Nihal Sarin and Magnus Carlsen already qualified for the semi-finals of the chess.com Speedchess Championship. Today Wesley So and Maxime Vachier-Lagrave will play in the last quarter-final. Here live from 19:00 CET (10:00 am PT) with video commentary from chess24 and chess.com. | Graphics: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speedchess-so-vs-vachier-lagrave",
-         "pubDate" : "Wed, 14 Dec 2022 18:55:38 +0100",
-         "title" : "Speedchess Championship: So vs Vachier-Lagrave"
       },
       {
          "description" : "",
@@ -1792,30 +1792,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-focuses-on-producing-the-next-champion/articleshow/96004771.cms",
          "pubDate" : "Mon, 05 Dec 2022 12:28:20 +0000",
          "title" : "Viswanathan Anand focuses on producing the next champion"
-      },
-      {
-         "description" : "Arjun Erigaisi defeated Hikaru Nakamura in the penultimate round to clinch victory in the Tata Steel India Chess Blitz with a round to spare, meaning that for two years in a row he's never finished below 2nd place in either the Blitz or Rapid in Kolkata. There was more Indian success in the Women's event, as Vaishali finished 1.5 points clear of Mariya Muzychuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/arjun-erigaisi-and-vaishali-win-tata-steel-blitz",
-         "pubDate" : "Mon, 05 Dec 2022 11:36:06 +0000",
-         "title" : "Arjun Erigaisi and Vaishali win Tata Steel Blitz"
-      },
-      {
-         "description" : " I have just updated the Street Chess tournament statistics (<a href=\"http://streetchess.net/archive/\">http://streetchess.net/archive/</a>) Although the tournament has now been running for 30 years, the stats only cover the time when pairings were done by computer (2009). Looking through them I realised I missed one significant milestone last Saturday. Oscar Hellman (who has been playing almost every Saturday since Street Chess started) racked up his 3000 tournament game. Noting that this is only based on games since 2009, I suspect the real total is closer to 7000 games! Close behind him is Miles Patterson (2800 games), although Patterson's pre-2009 career is shorter than Hellman's ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/the-ironman.html",
-         "pubDate" : "Mon, 05 Dec 2022 10:57:00 +0000",
-         "title" : "The Ironman"
-      },
-      {
-         "description" : "The ECF is committed to developing our junior talent. We want to encourage as many young people as we can to play given the educational...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
-         "pubDate" : "Mon, 05 Dec 2022 09:32:55 +0000",
-         "title" : "ECF Safeguarding Officer"
       }
    ]
 }
