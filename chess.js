@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Uzbek boys, Kazakh girls, Azeri youth, Chinese, Indian and Iranian young phenoms ever more frequently lit the chess sky. What do their countries have in common? They all once lined the Silk Road.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars",
+         "pubDate" : "Sun, 25 Dec 2022 23:00:00 +0100",
+         "title" : "A new wave of chess stars"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1122,14 +1130,6 @@ news_feed (
          "title" : "I need to build a team around me: Arjun Erigaisi"
       },
       {
-         "description" : "The recently released ChessBase 17 offers a wealth of new and interesting functions. In the last weeks IM Sagar Shah from ChessBase India took a closer look at the program to understand the features deeper. To share his insights he made a video that covers most of the new features of ChessBase 17 and explains how these features can be used. He concludes: \"I think ChessBase 17 is amazing.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-all-the-new-features-explained",
-         "pubDate" : "Wed, 14 Dec 2022 16:45:35 +0100",
-         "title" : "ChessBase 17 - All the new features explained"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,22 +1784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
          "pubDate" : "Mon, 05 Dec 2022 09:32:55 +0000",
          "title" : "ECF Safeguarding Officer"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2119",
-         "pubDate" : "Sun, 04 Dec 2022 23:13:37 +0000",
-         "title" : "FIDE Council approves resolution on performing under the FIDE flag"
-      },
-      {
-         "description" : "After so many years of posts inspired by <A HREF=\"http://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), various themes eventually repeat. The item pictured below was titled 'Austrian cold painted cats playing chess by Bergman', and sold for GBP 625.00 ('approximately US $763.50'), 'Best offer accepted'. Ranked between two items of similar value, the real final price was probably around $740. <P>We've seen cats, as in <A HREF=\"http://chessforallages.blogspot.com/2019/03/cats-attacking-royalty.html\">Cats Attacking Royalty</A>(March 2019), and we've seen bronzes, as in <A HREF=\"http://chessforallages.blogspot.com/2022/07/f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/cold-painted-cats.html",
-         "pubDate" : "Sun, 04 Dec 2022 22:32:00 +0000",
-         "title" : "Cold Painted Cats"
       }
    ]
 }
