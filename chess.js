@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Rapid and Blitz Championships kick off today in Almaty, Kazakhstan with the World Open and Women's Rapid Championships. The event was officially opened yesterday in a 90-minute long ceremony, and the first day of the event started with the Opening press conference. FIDE World Rapid and Blitz 2022 Opening press conference []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-and-blitz-2022-opening-press-conference-live/",
+         "pubDate" : "Mon, 26 Dec 2022 08:17:40 +0000",
+         "title" : "FIDE World Rapid and Blitz 2022 - Opening press conference LIVE"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships were officially opened in Almaty on the 25th&#xA0;December. In a 90-minute long ceremony, the hosts put on a spectacle which celebrated chess and promoted the culture and distinctiveness of Kazakhstan The Baluan Sholak Sports Palace was packed with spectators &#x2013; teenagers from chess schools, local and government officials, special []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-rapid-and-blitz-championships-officially-opened-in-almaty/",
+         "pubDate" : "Mon, 26 Dec 2022 07:54:42 +0000",
+         "title" : "World Rapid and Blitz Championships officially opened in Almaty"
+      },
+      {
+         "description" : "NHPC is inviting applications from eligible applicants for scholarship under \"NHPC Sports Scholarship scheme for upcoming sports persons\" for 16 games Football, Kabaddi, Hockey,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/nhpc-press-release-concerning-sports-scholarship/",
+         "pubDate" : "Mon, 26 Dec 2022 07:28:21 +0000",
+         "title" : "NHPC Press Release Concerning Sports Scholarship"
+      },
+      {
+         "description" : "Please find Live link for the MPL 48th National Women Chess Championships 2022 http://fritzserver.org/LocalUser/live/India/mplw/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-the-mpl-48th-national-women-chess-championships-2022/",
+         "pubDate" : "Mon, 26 Dec 2022 06:50:43 +0000",
+         "title" : "Live link for the MPL 48th National Women Chess Championships 2022"
+      },
+      {
          "description" : "The 59TH MPL Senior National Chess Championship 2022 is being held at K.D Jadhav Indoor Sports Hall, IG Stadium, New Delhi organized by Delhi Chess",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://www.chessdom.com/mpl-59th-indian-chess-championship-live/",
          "pubDate" : "Sun, 25 Dec 2022 16:47:20 +0000",
          "title" : "MPL 59th Indian Chess Championship - LIVE"
+      },
+      {
+         "description" : "<B>Q:</B>What happens when the monthly post about <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016) falls on Christmas Day? <B>A:</B>We use whatever we can find. <P>The Santa character, played by a White Rook, looks like Homer Simpson. The devil character, played by a Black Pawn, looks like a cute bug. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/NwPGdATM4bE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>A Chess Story: The game between Santa and the Devil</B> (6:24) &",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
+         "pubDate" : "Sun, 25 Dec 2022 16:15:00 +0000",
+         "title" : "Not the Dickens Christmas Story"
       },
       {
          "description" : "MPL 59th National Chess Championship of India commenced on Thursday in New Delhi. The event takes place from 22nd December 2022 to 3rd January 2023 with 200 participants competing over 13 rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes + 30 seconds increment from move one. After four played []",
@@ -160,22 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-rapid-blitz-championships-2022-promo-video/",
          "pubDate" : "Sat, 24 Dec 2022 12:50:05 +0000",
          "title" : "FIDE World Rapid & Blitz Championships 2022 - Promo video"
-      },
-      {
-         "description" : "FIDE's Fair Play Commission (FPL) is helping the Stockholm Chess Federation with implementing fair play measures before and during the 50th edition of the Rilton Cup, Sweden's biggest open chess tournament. The Secretary of the Fair Play Commission,&#xA0;Bojana Bejatovic, and&#xA0;Ana Srebrni&#x10D;&#xA0;were appointed as the Fair Play Officers of the tournament. FIDE's newly elected Fair Play []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/rilton-cup-announces-cooperation-with-fides-fair-play-commission/",
-         "pubDate" : "Sat, 24 Dec 2022 12:33:10 +0000",
-         "title" : "Rilton Cup announces cooperation with FIDE's Fair Play Commission"
-      },
-      {
-         "description" : "The 50th edition of the Rilton Cup, Sweden's biggest open tournament, will take place from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the following []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50th-rilton-cup/",
-         "pubDate" : "Sat, 24 Dec 2022 12:26:44 +0000",
-         "title" : "50th Rilton Cup"
       },
       {
          "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
@@ -1568,14 +1592,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/epsca-primary-schools-championships-2023/",
          "pubDate" : "Fri, 09 Dec 2022 09:00:36 +0000",
          "title" : "EPSCA Primary Schools Championships 2023"
-      },
-      {
-         "description" : "The National U-13 Dated on Dec 10-18 in Pondicherry is rescheduled due to the Cyclone Mandous. Now the championship will start from 11 Dec 22",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/attention-national-u-13-chess-championship-2022-rescheduled/",
-         "pubDate" : "Fri, 09 Dec 2022 07:39:30 +0000",
-         "title" : "Attention : National U-13 Chess Championship 2022 Rescheduled"
       },
       {
          "description" : " Harrow schoolgirl lowers the age record for a national women's champion by more than four years after sharing the crown Bodhana Sivanandan earned a place in the record books last Saturday when the Harrow schoolgirl, just seven years old, tied for second prize in the UK women's blitz championship at Leamington Spa. As joint winner of the English title she broke the existing age record for a national women's champion by more than four years in a remarkable performance against opposition led by internationally seasoned rivals. The open winner was Elmira Mirzoeva, 41, a former Moscow women's champion now resident in London and playing under a neutral Fide flag. Sivanandan, a point behind, share",
