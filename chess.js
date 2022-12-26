@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexandr Fier and FM Juliana Sayumi Terao obtained outright victories at the Brazilian Championships (open and women's, respectively). The events took place on December 15-23 at the Hotel Jangadeiro in Recife, the capital of Pernambuco. Fier grabbed his fourth national title by scoring 9&frac12;/11 points, while Terao dominated the women's field and obtained a perfect 9/9 to claim her sixth national title. | Photo: Albert Silver (2018)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brazilian-championships-2022-report",
+         "pubDate" : "Mon, 26 Dec 2022 20:40:00 +0100",
+         "title" : "Fier and Terao are the 2022 Brazilian champions"
+      },
+      {
+         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Lionel Messi and Argentina have won the World Cup 2022. They showed mental toughness, determination and brilliance. There are a lot of lessons to be learned from their quest. In celebration of this historic win, after a unique final we may never see again, I <a href=\"https://chessimprover.com/the-great-ones-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-7/\">The Great Ones (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-great-ones-7/",
+         "pubDate" : "Mon, 26 Dec 2022 19:31:31 +0000",
+         "title" : "The Great Ones (7)"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Vladimir Fedoseev, Jorden van Foreest, and Arjun Erigaisi share the lead after an action-packed first day of the 2022 FIDE World Rapid Chess Championship. After five rounds the leaders dropped only half a point each having fe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-1",
+         "pubDate" : "Mon, 26 Dec 2022 11:04:00 -0800",
+         "title" : "Carlsen Beats World Rapid Chess Champion, Leads With Fedoseev, Van Foreest, Erigaisi"
+      },
+      {
+         "description" : "The first day of the FIDE World Rapid and Blitz Chess Championship kicked off today with a press conference joined by FIDE President Arkady Dvorkovich and World Champion Magnus Carlsen. Magnus Carlsen was asked whether the fact that this is the last time he is appearing in the World Rapid and Blitz as the world []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-i-dont-have-an-answer-on-what-would-happen-if-i-play-against-hans-niemann/",
+         "pubDate" : "Mon, 26 Dec 2022 17:46:31 +0000",
+         "title" : "Magnus Carlsen: I don't have an answer on what would happen if I play against Hans Niemann"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2152",
+         "pubDate" : "Mon, 26 Dec 2022 16:46:19 +0000",
+         "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96524898.cms\" />India's star player Koneru Humpy won three games in four rounds to share the joint second place with four others in the women's event of the FIDE World Rapid Chess Championships which kicked off here on Monday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,28 +50,12 @@ news_feed (
          "title" : "Erigaisi in joint lead with Carlsen, Fedoseev; Humpy in joint second spot"
       },
       {
-         "description" : " <p class=\"lead\">After Arjun Erigaisi signed a <a href=\"https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5mn/\">$1.5 Million Sponsorship Deal with Quantbox</a>, another Indian prodigy, GM Rameshbabu Praggnanandhaa signs with Baseline Ventures for Commercial Representation. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52272029678_687c008b1b_c.jpg\" width=\"800\" height=\"563\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> The past years, India has seen a great rise of young talents in chess including Arjun Erigaisi, Rameshbabu Praggnanandhaa, Nihal Sarin, and Dommaraju Gukesh. Indeed, a bit more t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/17-year-old-indian-gm-rameshbabu-praggnanandhaa-signs-with-basel/",
-         "pubDate" : "Mon, 26 Dec 2022 14:11:11 +0000",
-         "title" : "17-year-old Indian GM Rameshbabu Praggnanandhaa Signs With Baseline Ventures"
-      },
-      {
          "description" : "The 2022 Lorca Open commences today in Spain and will be taking place from 26-30 December. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes + []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/lorca-open-2022-starts-in-spain/",
          "pubDate" : "Mon, 26 Dec 2022 13:32:20 +0000",
          "title" : "Lorca Open 2022 starts in Spain"
-      },
-      {
-         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts\">World Rapid and Blitz Championships 2022</a> kicked off today in Almaty, Kazakhstan with the opening ceremony taking place on Christmas day at the Baluan Sholak Sports Palace. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-26-14.48.31.jpeg\" width=\"1280\" height=\"974\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen is wearing the chapan or shapan, a long, loose, not gender-specific robe | Photo: Amruta Mokal</div> </div> The opening ceremony of the World Rapid and Blitz Championships 2022 was filled with music, kids performances, culture, and speeches. Top four seeds in each categ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/carlsen-and-kosteniuk-start-the-world-rapid-2022-with-the-black/",
-         "pubDate" : "Mon, 26 Dec 2022 13:17:06 +0000",
-         "title" : "Carlsen and Kosteniuk start the World Rapid 2022 with the black pieces"
       },
       {
          "description" : " The 2022 World Rapid and Blitz has just started. As it is being held in Kazakhstan, the time zone difference isn't that bad, with play starting in the evening (Canberra time). As I type this it is up to the third round of the Rapid, with Carlsen in some trouble against Tomashevsky. The tournament is exceptionally strong, with 178 players in the Open, and 98 in the Women's Championship. Bobby Cheng is the sole Australian representative, seeded 111th at the start. Given the importance of th event, it is being covered at most online sites. I'm currently watching it via chess24 (Peter Leko commentating), but I may sample a few other sites over the next few days. ",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "FIDE World Rapid Chess 2022 starts with ceremonial moves"
       },
       {
-         "description" : "The World Rapid Championships are taking place on December 26-28 in Almaty, Kazakhstan. Magnus Carlsen, Richard Rapport and Hikaru Nakamura are the top seeds in the open section. Alexandra Kosteniuk, Kateryna Lagno and Tan Zhongyi are the highest-rated players among the women. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "Day 1 of the World Rapid Championships was played on Monday in Almaty. A sole leader emerged after four rounds in the women's section, as Valentina Gunina won all her games to go into the second day of action with a perfect score. In the open, four players are sharing first place on 4&frac12;/5, including perennial favourite Magnus Carlsen. | Find all available games and standings in this article. A full report directly from the playing hall will be published later. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
          "pubDate" : "Mon, 26 Dec 2022 09:55:00 +0100",
-         "title" : "World Rapid Championships - Live!"
+         "title" : "World Rapid: Gunina on 4 out of 4"
       },
       {
          "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, []",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-blitz-begins-as-carlsen-faces-dilemma",
          "pubDate" : "Sun, 25 Dec 2022 08:10:52 +0000",
          "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
-      },
-      {
-         "description" : "The&#160;88th edition of the Brazilian Chess Championship&#160;took place from15-23 December 2022 in Boa Viagem, Recife, concurrently with the&#160;Brazilian Women&#x2019;s Chess Championship 2022. The Open Championship was played in 11 rounds swiss system, and Women's event was played in 9 rounds swiss system. The time control was 90 minutes for the whole game plus 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandr-fier-and-juliana-sayumi-terao-win-brazilian-championship-2022/",
-         "pubDate" : "Sun, 25 Dec 2022 07:26:00 +0000",
-         "title" : "Alexandr Fier and Juliana Sayumi Terao win Brazilian Championship 2022"
       },
       {
          "description" : "To help you enjoy your seasonal feast, we have a turkey, a tree and a turbulent priest; a circus trip, a corkscrew and a silent (k)night - and lots more for your festive chess delight! Graham Phythian presents some fun and challenging positions to help you while away the festive period. They all appear in the Christmas section of CHESS Magazine, which has a special gift ready for you. You can download the entire magazine to read, free of charge! In any case we all wish you a Merry Christmas - CHESS and ChessBase.",
@@ -634,14 +650,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 20"
       },
       {
-         "description" : " <p class=\"lead\">On December 25th, the World Rapid and Blitz Championships will kick off in Almaty, Kazakhstan, with over 300 elite chess players from 50 countries gathering to compete from December 25th to 31st. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/20211228_warsaw_michal_walusza_0003-scaled.jpg\" width=\"2560\" height=\"1703\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Michael Walusza, FIDE</div> </div> <h2>Tournament schedule:</h2> December 25 - Opening Ceremony,<br /> December 26-28 - Rapid competition,<br /> December 29-30 - Blitz competitions and Closing Ceremony. <h2>Format:</h2> In rapid chess, each player begins the game with 15 minutes, and 10 s",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-rapid-and-blitz-championships-2022-all-you-need-to-know/",
-         "pubDate" : "Tue, 20 Dec 2022 10:02:04 +0000",
-         "title" : "World Rapid and Blitz Championships 2022: all you need to know"
-      },
-      {
          "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -722,28 +730,12 @@ news_feed (
          "title" : "Winners crowned at European Rapid & Blitz Championship"
       },
       {
-         "description" : " <p class=\"lead\">Andrey Filatov has been re-elected President of the Chess Federation of Russia (CFR) following a victory over grandmaster Sergey Karjakin in the election. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/248174173_0-0-3072-1613_1280x0_80_0_0_d296cb57bec3c5b0536ee67273023a88.jpg\" width=\"1280\" height=\"672\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Ria Novosti / Ramil Sitdikov</div> </div> Filatov, who has served as head of the CFR since 2014, will remain in office until 2026. The vote saw a total of 58 delegates support Filatov and seven back Karjakin. Karjakin, who was suspended by the International Chess Federation (FIDE) for six months for an",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andrey-filatov-has-been-re-elected-president-of-the-chess-federa/",
-         "pubDate" : "Mon, 19 Dec 2022 12:08:38 +0000",
-         "title" : "Andrey Filatov beat Sergey Karjakin"
-      },
-      {
          "description" : " Two very close finishes occurred in sport today. The slightly more well known one was the win by Argentina against France in the World Cup (3-3 followed by 4-2 on penalties). The other was Nakamura beating Carlsen 14.5-13.5 on the 2002 Speed Chess Championship (on chess.com). This is Nakamura's 5th win in this event, showing he is quite good at this format. I suspect both matches were very exciting for those who were able to watch the games (I confess I missed both due to the early morning starts). However the best take away for me was a comment I saw on Facebook (which probably came from somewhere else). \"What will English fans do when England win the World Cup? Switch off the Playstation ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/12/a-close-finish.html",
          "pubDate" : "Mon, 19 Dec 2022 11:56:00 +0000",
          "title" : "A close finish"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Hikaru Nakamura has won fifth 2022 Speed Chess Championship, besting GM Magnus Carlsen in a thrilling match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-19_15-42-42.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> This victory earned Nakamura a prize of $15,178.57, while Carlsen took home $4821.43 as the runner-up. ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/hikaru-nakamura-wins-5th-speed-chess-championship/",
-         "pubDate" : "Mon, 19 Dec 2022 11:43:19 +0000",
-         "title" : "Hikaru Nakamura Wins 5th Speed Chess Championship"
       },
       {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
@@ -792,6 +784,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-beats-carlsen-for-5th-consecutive-speed-chess-title",
          "pubDate" : "Mon, 19 Dec 2022 08:17:04 +0000",
          "title" : "Nakamura beats Carlsen for 5th consecutive Speed Chess title"
+      },
+      {
+         "description" : " test post <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Shahmatnaya_doska-1.jpg\" width=\"2560\" height=\"1358\" alt=\"\" /> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/test-name/",
+         "pubDate" : "Mon, 19 Dec 2022 07:58:37 +0000",
+         "title" : "test name"
       },
       {
          "description" : "GM Hikaru Nakamura won his fifth title match at the 2022 Speed Chess Championship, defeating GM Magnus Carlsen in an immensely close final on Sunday. Nakamura dominated the 5+1 segment, capitalizing on his own winning chances while disrupting Carl...",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-results.html",
          "pubDate" : "Sat, 17 Dec 2022 11:53:00 +0000",
          "title" : "2022 ACT Rapidplay Championship - Results"
-      },
-      {
-         "description" : " <p class=\"lead\">David Navara and Alexandra Kosteniuk are the 2022 European Blitz Champions for the Open and Women Championships respectively, with David winning due to the tiebreaks criteria. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/david-navara-alexandra-kosteniuk-european-blitz-rapid-championship-katowice.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: European Blitz and Rapid Chess Championship <a href=\"https://katowice2022.eu/en/home/\">Official Page</a></div> </div> The European Open and Women Rapid & Blitz Chess Championships 2022 started yesterday in \"Spodek\" Sport and Entertainment Centre in Katowice, Poland with more ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/david-navara-and-alexandra-kosteniuk-won-the-2022-european-blitz/",
-         "pubDate" : "Sat, 17 Dec 2022 11:34:21 +0000",
-         "title" : "David Navara and Alexandra Kosteniuk won the 2022 European Blitz Championship"
       },
       {
          "description" : "Clear activity advantages for White in the diagram position - please find White's best continuation!",
@@ -1066,14 +1058,6 @@ news_feed (
          "title" : "Chess: Carlsen 'adopts' US champion, Fabiano Caruana, in online blitz rout"
       },
       {
-         "description" : " <p class=\"lead\">The International Chess Federation recently released the requirements for the 2024 Candidates' Tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-16_11-28-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess (Candidates Tournament 2018 in Berlin)</div> </div> \"The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised by International Arbiters, and where Fair Play measures are applied (among other criteria listed below in detail), will grant points t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-has-changed-the-selection-criteria-for-the-candidates-tourn/",
-         "pubDate" : "Fri, 16 Dec 2022 07:29:47 +0000",
-         "title" : "FIDE has changed the selection criteria for the candidates' tournament"
-      },
-      {
          "description" : "The FIDE Council has approved a major reform of the qualification paths to the Candidates Tournament, the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria will grant points towards the \"FIDE Circuit\". | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1138,28 +1122,12 @@ news_feed (
          "title" : "Serbian Championship: Velimir Ivi&#263 and Irina Chelushkina clinch titles"
       },
       {
-         "description" : " <p class=\"lead\">Chess prodigy Arjun Erigaisi is making history as he signs a groundbreaking sponsorship deal with Singapore-based Quantbox. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1013127.381eb6a8.668x375o.d68a4a88093c@2x.png\" width=\"668\" height=\"375\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Tata Steel Chess India</div> </div> This five-year contract, worth over $1.5 million, marks the first-ever sponsorship of the Grandmaster from Telangana, and could be a major boost to his professional career. For Erigaisi, 2022 has been a breakthrough year as he has consistently improved his game, earning him a strong rank of 26th in the world by c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5mn/",
-         "pubDate" : "Thu, 15 Dec 2022 11:35:05 +0000",
-         "title" : "Indian Chess Prodigy Arjun Erigaisi Breaks Big Record with $1.5 Million Sponsorship Deal"
-      },
-      {
          "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1500",
          "pubDate" : "Thu, 15 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 15"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #546 Merijn van Delft presents another one of his own games - an interesting Najdorf he played with Black against the young talented Indian K Priyanka. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-546-k-priyanka-vs-van-delft",
-         "pubDate" : "Thu, 15 Dec 2022 11:00:00 +0100",
-         "title" : "Game of the Week #546: K Priyanka vs Van Delft"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
@@ -1298,14 +1266,6 @@ news_feed (
          "title" : "Vote For The 2022 Chess.com Awards"
       },
       {
-         "description" : " China's Tan Zhongyi has claimed victory in the <a href=\"https://fide.com/news/2129\">final game of the Women's Candidates Pool B</a>, defeating Russia's Aleksandra Goryachkina in a closely-fought match. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/A870ECBF-432A-4498-914E-063FA53E79A2.jpeg\" width=\"2048\" height=\"1365\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: FIDE</div> </div> The win means that Tan Zhongyi will face Pool A winner, China's Lei Tingjie, in the first quarter of 2023. The winner of that match will go on to challenge current Women's World Chess Champion Ju Wenjun, also from China, for the title. The fourth and final game of the second leg of the",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-next-womens-world-champion-is-from-china/",
-         "pubDate" : "Tue, 13 Dec 2022 14:56:00 +0000",
-         "title" : "The Next Women's World Champion is from China."
-      },
-      {
          "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1368,14 +1328,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
          "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
          "title" : "TCEC/CCC Interludes"
-      },
-      {
-         "description" : " <p class=\"lead\">The Content Creator of the Year, <a href=\"https://twitter.com/LudwigAhgren\">Ludwig</a>, created the show of his life, bringing influencers, content creators and professional chess players together for an epic chessboxing event in the Galen Center in Los Angeles. <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/tg9CH4KlKMc?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> The Mogul Chessboxing Championship was one of the most anticipated events of the year with big names invited like the professional Smash players Fiction and KJH, chess professionals GM Aman Hambleton and WGM Dina Belenkaya, chess influencer Andrea Botez an",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/andrea-botez-could-have-won-in-boxing-but-dina-belenkaya-actuall/",
-         "pubDate" : "Mon, 12 Dec 2022 12:50:00 +0000",
-         "title" : "Andrea Botez could have won in boxing but Dina Belenkaya actually won in chess!"
       },
       {
          "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by the 2022 Game Awards Creator of the...",
@@ -1506,22 +1458,6 @@ news_feed (
          "title" : "A week of chess drama"
       },
       {
-         "description" : " <p class=\"lead\">GM Nihal Sarin crushed World No.2 and 2023 WC Challenger Ding Liren with a 17 to 9 score at the Speed Chess Championship quarterfinals, showing not only fierce bullet skills but also great sportsmanship. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/nihal-sarin-chess-speed-championship-ding-liren.jpeg\" width=\"2000\" height=\"1334\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Maria Emelianova / chesscom</div> </div> The 18-year-old Indian GM has recently won Tata Steel India with a round to spare, and made sure to keep his momentum rolling at the Speed Chess Championship. <a href=\"https://twitter.com/adhibanchess/status/1598525140911857665\">https",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/nihal-sarin-achieved-a-17-9-score-against-ding-liren/",
-         "pubDate" : "Sat, 10 Dec 2022 13:09:01 +0000",
-         "title" : "Nihal Sarin Crashes Ding Liren Months Before the World Championship Match"
-      },
-      {
-         "description" : " <p class=\"lead\">Both Carlsen and Niemann are <a href=\"https://chess-results.com/tnr706381.aspx\">to play in the FIDE Rapid and Blitz Championship</a>, creating yet another possible high-stakes clash. But boy, will Niemann be checked for anti-cheating devices! <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Screenshot-2022-12-10-at-12.23.31-PM.png\" width=\"918\" height=\"604\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: <a href=\"https://www.instagram.com/davidllada/?hl=en\">David Llada</a></div> </div> Hans Niemann, the <i>enfant terrible</i> of chess circa 2022, has registered for the FIDE Rapid and Blitz in Kazakhstan. There he will have the opportunity to face off",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/both-carlsen-and-niemann-to-play-in-the-fide-rapid-and-blitz/",
-         "pubDate" : "Sat, 10 Dec 2022 09:24:15 +0000",
-         "title" : "Both Carlsen and Niemann to Play in the FIDE Rapid and Blitz. Just Not Against Each Other"
-      },
-      {
          "description" : " The FIDE Women Candidates Pool B took place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi. Tan Zhongyi won the final against Goryachkina winning the final game.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1536,14 +1472,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2128",
          "pubDate" : "Sat, 10 Dec 2022 07:02:40 +0000",
          "title" : "Croatian Championship: Ivan �ari&#263 clinches his fourth title"
-      },
-      {
-         "description" : "GM Nihal Sarin emerged victorious from his intergenerational clash with world championship challenger GM Ding Liren in the 2022 Speed Chess Championship quarterfinals on Friday with a score of 17-9 after outpacing his opponent as the time control ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-ding-nihal",
-         "pubDate" : "Fri, 09 Dec 2022 14:34:00 -0800",
-         "title" : "Nihal Shines In Win Over Ding"
       },
       {
          "description" : "",
@@ -1578,14 +1506,6 @@ news_feed (
          "title" : "Shirov's SmartChess Videos"
       },
       {
-         "description" : " <p class=\"lead\">Magnus Carlsen will be competing for the world championship titles in rapid and blitz chess, despite having recently relinquished his title as world champion in classical chess. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/N_R03006.jpg\" width=\"2560\" height=\"1707\" alt=\"\" /> <div class=\"e2-text-caption\">photo: World Chess</div> </div> Carlsen is the world's top-ranked chess player and has previously won the world championship in classical chess three times. He is also a three-time World Rapid Chess Champion and five-time World Blitz Chess Champion. In 2022 Carlsen announced his decision to relinquish his title. Despite this, he is determined to ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/magnus-carlsen-to-play-in-the-fide-world-rapid-blitz-championshi/",
-         "pubDate" : "Fri, 09 Dec 2022 13:18:59 +0000",
-         "title" : "Magnus Carlsen to play in the FIDE World Rapid & Blitz Championships"
-      },
-      {
          "description" : " When I first started playing club chess, the local clubs always had around a 6 week break at Christmas time. Finish just before Christmas, and then restart in February. When I found this wasn't common in other Australian cities I was somewhat surprised. Fast forward 40 years and it isn't that common in Canberra either. Certainly Street Chess has always run non stop during the holidays (with the exception of Saturday being the 25th), and both eh Canberra Chess Club, and the Tuggeranong Chess Club stating in mid January. Only the Gungahlin Chess Club has stuck to the old traditions, with a late January restart on the calendar. But it seems there is going to be plenty of chess over the holiday",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1594,28 +1514,12 @@ news_feed (
          "title" : "Winding down for Christmas?"
       },
       {
-         "description" : " <p class=\"lead\">Chess politics appeared in the most unexpected environment: Russia. Chechnya Chess Federationn nominated Sergey Karjakin, an outspoken Putin supporter, to run for President of the Russian Chess Federation against incumbent Andrey Filatov (also an outspoken Putin supporter) in the upcoming elections on December 17th in Moscow. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/sergey-karjakin-lo.jpeg\" width=\"1000\" height=\"645\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> In a cryptic world of Russian 'real politik', being endorsed by the Republic of Chechnya effectively means being supported by Ramzan Kadyrov, a highly inf",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/sergey-karjakin-is-one-of-the-candidates-for-president-of-the-ru/",
-         "pubDate" : "Fri, 09 Dec 2022 12:12:51 +0000",
-         "title" : "Sergey Karjakin is one of the Candidates for President of the Russian Chess Federation"
-      },
-      {
          "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/5-things-to-avoid/",
          "pubDate" : "Fri, 09 Dec 2022 11:39:12 +0000",
          "title" : "5 Things You Need To Avoid To Improve In Chess"
-      },
-      {
-         "description" : " <p class=\"lead\">The third tournaments in the Armageddon Online Cups were intense and exciting. Meet our winners. <h2>Best players of the Armageddon Online Cups: Asia & Oceania. Tournament #3:</h2> <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/armageddon-online-cups-results-for-the-third-tournaments-2.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <div class=\"e2-text-table\"> <table cellpadding=\"0\" cellspacing=\"0\" border=\"0\"> <tr> <td style=\"text-align: left\">1st place</td> <td style=\"text-align: left\">Bobir Sattarov</td> <td style=\"text-align: left\">€500</td> </tr> <tr> <td style=\"text-align: left\">2nd place</td> <td style=\"text-align: left\">Sereenen Gan-Od<",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/armageddon-online-cups-results-for-the-third-tournaments/",
-         "pubDate" : "Fri, 09 Dec 2022 09:08:56 +0000",
-         "title" : "Armageddon Online Cups: Results for the third tournaments"
       },
       {
          "description" : "Entries are now open for the EPSCA National Primary Schools Championships 2023 in partnership with Kingswood Activity Centre. There will be three stages &#8212; Stage...",
@@ -1778,28 +1682,12 @@ news_feed (
          "title" : "Aditya Mittal becomes India's 77th GM"
       },
       {
-         "description" : " <p class=\"lead\">On the 5th of December at the <a href=\"https://www.fide.com/news/2121\">4th FIDE Council Meeting</a>, FIDE decided to finally approve the GM title of Elisabeth Paehtz, which she had achieved since last November. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/elisabeth-paehtz-chess-fide-grandmaster-germany.jpeg\" width=\"960\" height=\"430\" alt=\"\" /> <div class=\"e2-text-caption\">Image: Jens Gyarmaty [FAZ-Recht:2]</div> </div> As described at the <a href=\"https://doc.fide.com/docs/DOC/2022%20GA%20in%20IND/Annex%2010.2%20Proposal%20GE%20Germany.pdf\">letter</a> of the German Chess Federation to the FIDE General Assembly on June 5th, 2022, \"In November 20",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/elisabeth-paehtz-has-her-gm-title-finally-confirmed-by-fide/",
-         "pubDate" : "Tue, 06 Dec 2022 10:46:50 +0000",
-         "title" : "Elisabeth Paehtz has her GM title finally confirmed by FIDE"
-      },
-      {
          "description" : "The finals took place at the Woodland Grange Hotel, Leamington Spa on Saturday 3rd December. Follow this link for the final standings in the Open...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-blitz-finals-2022/",
          "pubDate" : "Tue, 06 Dec 2022 07:15:52 +0000",
          "title" : "UK Blitz Finals 2022"
-      },
-      {
-         "description" : "Commenting on games between chess engines requires three skills: 1) Knowledge of chess, 2) Knowledge of computing, and 3) Ability to write. GM Matthew Sadler has all three. Add to that an insider's knowledge of the TCEC and it's hard to imagine anyone doing a better job of reporting on TCEC events. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml05.gif\" WIDTH=200 HEIGHT=415 ALIGN=LEFT VSPACE=5 HSPACE=5> Without much fanfare, GM Sadler has documented the TCEC Superfinal (aka Sufi) for the last ten seasons. The links to his efforts can be found on the menu bar for the TCEC 'Live Broadcast' page (see the 'TCEC / CCC Links' tab at the top of this page). <P>The image on the left has a list of ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/tcec-article-pdfs.html",
-         "pubDate" : "Mon, 05 Dec 2022 16:48:00 +0000",
-         "title" : "TCEC Article PDFs"
       }
    ]
 }
