@@ -1784,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2120",
          "pubDate" : "Mon, 05 Dec 2022 14:12:38 +0000",
          "title" : "Kenya tops medal standings in 2022 Africa Amateur Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96004771.cms\" />An idea floated quite casually has led to the foundation of an academy that is showing promise of making India the world's next chess superpower. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/viswanathan-anand-focuses-on-producing-the-next-champion/articleshow/96004771.cms",
-         "pubDate" : "Mon, 05 Dec 2022 12:28:20 +0000",
-         "title" : "Viswanathan Anand focuses on producing the next champion"
       }
    ]
 }
