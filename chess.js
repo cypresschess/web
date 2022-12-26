@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 59TH MPL Senior National Chess Championship 2022 is being held at K.D Jadhav Indoor Sports Hall, IG Stadium, New Delhi organized by Delhi Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/59th-mpl-senior-national-chess-championship-2022inauguration-report/",
+         "pubDate" : "Mon, 26 Dec 2022 06:25:40 +0000",
+         "title" : "59TH MPL SENIOR NATIONAL CHESS CHAMPIONSHIP 2022:INAGURATION REPORT"
+      },
+      {
+         "description" : "Click the link given below to go through the live game.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-mpl-35th-national-under-9-open-girls-chess-championship-2022/",
+         "pubDate" : "Mon, 26 Dec 2022 05:44:31 +0000",
+         "title" : "Live : MPL 35th NATIONAL UNDER-9 OPEN & GIRLS CHESS CHAMPIONSHIP 2022"
+      },
+      {
          "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Uzbek boys, Kazakh girls, Azeri youth, Chinese, Indian and Iranian young phenoms ever more frequently lit the chess sky. What do their countries have in common? They all once lined the Silk Road.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
