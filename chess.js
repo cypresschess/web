@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96524898.cms\" />India's star player Koneru Humpy won three games in four rounds to share the joint second place with four others in the women's event of the FIDE World Rapid Chess Championships which kicked off here on Monday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-joint-lead-with-magnus-carlsen-vladimir-fedoseev-koneru-humpy-in-joint-second-spot/articleshow/96524898.cms",
+         "pubDate" : "Mon, 26 Dec 2022 16:21:28 +0000",
+         "title" : "Erigaisi in joint lead with Carlsen, Fedoseev; Humpy in joint second spot"
+      },
+      {
+         "description" : " <p class=\"lead\">After Arjun Erigaisi signed a <a href=\"https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5mn/\">$1.5 Million Sponsorship Deal with Quantbox</a>, another Indian prodigy, GM Rameshbabu Praggnanandhaa signs with Baseline Ventures for Commercial Representation. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52272029678_687c008b1b_c.jpg\" width=\"800\" height=\"563\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> The past years, India has seen a great rise of young talents in chess including Arjun Erigaisi, Rameshbabu Praggnanandhaa, Nihal Sarin, and Dommaraju Gukesh. Indeed, a bit more t",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/17-year-old-indian-gm-rameshbabu-praggnanandhaa-signs-with-basel/",
+         "pubDate" : "Mon, 26 Dec 2022 14:11:11 +0000",
+         "title" : "17-year-old Indian GM Rameshbabu Praggnanandhaa Signs With Baseline Ventures"
+      },
+      {
+         "description" : "The 2022 Lorca Open commences today in Spain and will be taking place from 26-30 December. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes + []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lorca-open-2022-starts-in-spain/",
+         "pubDate" : "Mon, 26 Dec 2022 13:32:20 +0000",
+         "title" : "Lorca Open 2022 starts in Spain"
+      },
+      {
+         "description" : " <p class=\"lead\">The <a href=\"https://chessarena.com/broadcasts\">World Rapid and Blitz Championships 2022</a> kicked off today in Almaty, Kazakhstan with the opening ceremony taking place on Christmas day at the Baluan Sholak Sports Palace. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-26-14.48.31.jpeg\" width=\"1280\" height=\"974\" alt=\"\" /> <div class=\"e2-text-caption\">Magnus Carlsen is wearing the chapan or shapan, a long, loose, not gender-specific robe | Photo: Amruta Mokal</div> </div> The opening ceremony of the World Rapid and Blitz Championships 2022 was filled with music, kids performances, culture, and speeches. Top four seeds in each categ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/carlsen-and-kosteniuk-start-the-world-rapid-2022-with-the-black/",
+         "pubDate" : "Mon, 26 Dec 2022 13:17:06 +0000",
+         "title" : "Carlsen and Kosteniuk start the World Rapid 2022 with the black pieces"
+      },
+      {
+         "description" : " The 2022 World Rapid and Blitz has just started. As it is being held in Kazakhstan, the time zone difference isn't that bad, with play starting in the evening (Canberra time). As I type this it is up to the third round of the Rapid, with Carlsen in some trouble against Tomashevsky. The tournament is exceptionally strong, with 178 players in the Open, and 98 in the Women's Championship. Bobby Cheng is the sole Australian representative, seeded 111th at the start. Given the importance of th event, it is being covered at most online sites. I'm currently watching it via chess24 (Peter Leko commentating), but I may sample a few other sites over the next few days. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/world-rapid-and-blitz.html",
+         "pubDate" : "Mon, 26 Dec 2022 12:42:00 +0000",
+         "title" : "World Rapid and Blitz"
+      },
+      {
          "description" : "The&#xA0;FIDE World Rapid and Blitz Championships&#xA0;kicked off today in Almaty, Kazakhstan with the World Open and Women&#x2019;s Rapid Championships. The event was officially opened yesterday in a&#xA0;90-minute long ceremony, and the first day of the event started with the Opening press conference. The first round of the FIDE World Rapid Chess Championship 2022 commenced with []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alekseenko-wins-2022-chessable-sunway-sitges-chess-festival",
          "pubDate" : "Sat, 24 Dec 2022 09:27:00 -0800",
          "title" : "Undefeated Alekseenko Wins Sitges With 2837 Performance Rating"
-      },
-      {
-         "description" : "The&#xA0;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, will be held from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#xA0;new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the time control of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50th-rilton-cup-live/",
-         "pubDate" : "Sat, 24 Dec 2022 13:02:33 +0000",
-         "title" : "50th Rilton Cup - LIVE"
       },
       {
          "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
@@ -1768,22 +1800,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/tcec-article-pdfs.html",
          "pubDate" : "Mon, 05 Dec 2022 16:48:00 +0000",
          "title" : "TCEC Article PDFs"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2121",
-         "pubDate" : "Mon, 05 Dec 2022 15:56:20 +0000",
-         "title" : "4th FIDE Council Meeting, Jerusalem, Israel: List of decisions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2120",
-         "pubDate" : "Mon, 05 Dec 2022 14:12:38 +0000",
-         "title" : "Kenya tops medal standings in 2022 Africa Amateur Championship"
       }
    ]
 }
