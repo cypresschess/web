@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-2-live/",
+         "pubDate" : "Tue, 27 Dec 2022 07:59:08 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Day 2 live"
+      },
+      {
+         "description" : "The World Rapid Championships 2022 kicked off on the 26th of December 2022 in Almaty, Kazakhstan. Five rounds were played in the open section and four rounds in women. We have four leaders in the open with 4.5/5 and they are Magnus Carlsen, Arjun Erigaisi, Vladimir Fedoseev and Jorden van Foreest. Meanwhile in the women's section we have a sole leader after four rounds on 100% score - Valentina Gunina. We bring you the full day one report along with pictures, analysis, videos and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-day-1-magnus-carlsen-channels-the-spirit-of-bobby-fischer",
+         "pubDate" : "Tue, 27 Dec 2022 08:19:02 +0100",
+         "title" : "World Rapid Day 1: Magnus Carlsen channels the spirit of Bobby Fischer"
+      },
+      {
+         "description" : "National U-13 Open &#38; Girls Chess Championship 2022, Pondicherry Certificates are out to download Download using the link given below: Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-13-certificates-pondicherry/",
+         "pubDate" : "Tue, 27 Dec 2022 06:53:55 +0000",
+         "title" : "National U-13 Certificates, Pondicherry."
+      },
+      {
+         "description" : "Considering the advisory of Indian Medical Association as well as suggestion from local administration for having social distancing and avoid gathering due to present circumstances",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/postponement-of-delhi-indore-open-gm-chess-tournament-2023/",
+         "pubDate" : "Tue, 27 Dec 2022 06:13:59 +0000",
+         "title" : "Postponement of Delhi & Indore Open GM Chess Tournament 2023"
+      },
+      {
          "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/world-rapid-and-blitz.html",
          "pubDate" : "Mon, 26 Dec 2022 12:42:00 +0000",
          "title" : "World Rapid and Blitz"
-      },
-      {
-         "description" : "The&#xA0;FIDE World Rapid and Blitz Championships&#xA0;kicked off today in Almaty, Kazakhstan with the World Open and Women&#x2019;s Rapid Championships. The event was officially opened yesterday in a&#xA0;90-minute long ceremony, and the first day of the event started with the Opening press conference. The first round of the FIDE World Rapid Chess Championship 2022 commenced with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-2022-starts-with-ceremonial-moves/",
-         "pubDate" : "Mon, 26 Dec 2022 11:09:49 +0000",
-         "title" : "FIDE World Rapid Chess 2022 starts with ceremonial moves"
       },
       {
          "description" : "Day 1 of the World Rapid Championships was played on Monday in Almaty. A sole leader emerged after four rounds in the women's section, as Valentina Gunina won all her games to go into the second day of action with a perfect score. In the open, four players are sharing first place on 4&frac12;/5, including perennial favourite Magnus Carlsen. | Find all available games and standings in this article. A full report directly from the playing hall will be published later. | Photo: FIDE / Anna Shtourman",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "Serbian Championship: Velimir Ivi&#263 and Irina Chelushkina clinch titles"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1500",
-         "pubDate" : "Thu, 15 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 15"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1442,22 +1458,6 @@ news_feed (
          "title" : "The Motor Car Gambit"
       },
       {
-         "description" : "All India Chess Federation wishes a very happy birthday to five time World Champion and FIDE Deputy President Grandmaster Viswanathan Anand!! PC : Alina L'ami",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-viswanathan-anand-2/",
-         "pubDate" : "Sun, 11 Dec 2022 09:29:23 +0000",
-         "title" : "Happy Birthday Viswanathan Anand!!"
-      },
-      {
-         "description" : "&#160;LIVE&#160;game link for&#160;MPL 35th NATIONAL UNDER 13 CHESS CHAMPIONSHIPS - 2022 OPEN GIRLS",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-mpl-35th-national-under-13-chess-championships-2022/",
-         "pubDate" : "Sun, 11 Dec 2022 04:51:32 +0000",
-         "title" : "Live game link for MPL 35th NATIONAL UNDER - 13 CHESS CHAMPIONSHIPS - 2022"
-      },
-      {
          "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</a> appeared ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-mittal-becomes-indias-77th-gm/articleshow/96029908.cms",
          "pubDate" : "Tue, 06 Dec 2022 11:09:13 +0000",
          "title" : "Aditya Mittal becomes India's 77th GM"
-      },
-      {
-         "description" : "The finals took place at the Woodland Grange Hotel, Leamington Spa on Saturday 3rd December. Follow this link for the final standings in the Open...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-blitz-finals-2022/",
-         "pubDate" : "Tue, 06 Dec 2022 07:15:52 +0000",
-         "title" : "UK Blitz Finals 2022"
       }
    ]
 }
