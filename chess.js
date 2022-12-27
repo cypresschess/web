@@ -5,6 +5,126 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2155",
+         "pubDate" : "Tue, 27 Dec 2022 20:10:01 +0000",
+         "title" : "Carlsen and Tan Zhongyi in the lead ahead of final day of World Rapid"
+      },
+      {
+         "description" : "The Cracovia International Chess Festival 2022 kicks off today in Krakow, Poland. The event will be played in 9 rounds, swiss system with the time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. 68 players registered for the event, and the top seeds are Tomasz Warkomski, Evgeny []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cracovia-international-chess-festival-2022/",
+         "pubDate" : "Tue, 27 Dec 2022 19:19:14 +0000",
+         "title" : "Cracovia International Chess Festival 2022"
+      },
+      {
+         "description" : "The&#160;Cracovia International Chess Festival 2022&#160;is taking place in Krakow, Poland from 27 December to 4 January. The event will be played in 9 rounds, swiss system with the time control of 90 minutes for the entire game, plus a 30-second increment starting from move one.&#160; Cracovia International Chess Festival 2022 LIVE games:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cracovia-international-chess-festival-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 19:13:46 +0000",
+         "title" : "Cracovia International Chess Festival 2022 - LIVE"
+      },
+      {
+         "description" : "The&#xA0;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, takes place from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#xA0;new qualification path to the Candidates Tournament. FIDE&#x2019;s Fair Play Commission (FPL) is helping the Stockholm Chess Federation with implementing fair play measures before and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-rilton-cup-starts-in-stockholm/",
+         "pubDate" : "Tue, 27 Dec 2022 19:10:37 +0000",
+         "title" : "50th Rilton Cup starts in Stockholm"
+      },
+      {
+         "description" : "In the post-game interview of the FIDE World Rapid Chess Championship 2022 Round 7, Polish grandmaster GM Jan-Krzysztof Duda said that he is doing okay so far in the event. He explained that he had a tense game against Abdusattorov at the start of the second Rapid day adding that he enjoys shorter time controls. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-classical-chess-is-the-type-i-like-least/",
+         "pubDate" : "Tue, 27 Dec 2022 18:45:28 +0000",
+         "title" : "Jan-Krzysztof Duda: Classical chess is the type I like least"
+      },
+      {
+         "description" : "GM Eric Hansen announced today on his official twitter account that he decided to withdraw from the FIDE World Rapid Chess Championship 2022 for medical reasons. Hansen explained that he developed aggressive flu-like symptoms overnight and that he will decide in 2 days if he will compete in the Blitz Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/eric-hansen-withdrew-from-fide-world-rapid-championship-2022/",
+         "pubDate" : "Tue, 27 Dec 2022 18:22:31 +0000",
+         "title" : "Eric Hansen withdrew from FIDE World Rapid Championship 2022"
+      },
+      {
+         "description" : "In the first press conference of the World Rapid and Blitz Championships, Magnus Carlsen and FIDE President Arkady Dvorkovich answered a broad set of questions from the media. Among other topics, Carlsen discussed his ambitions in Almaty, chess and mental health, and whether he will play Hans Niemann if they happen to be paired up against each other. | Photos: Sergey Alekseenok and Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-on-ambitions-in-almaty",
+         "pubDate" : "Tue, 27 Dec 2022 19:15:00 +0100",
+         "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
+      },
+      {
+         "description" : "41st edition of Ludwik Zamenhof Memorial B is taking place from 27 31 December 2022 in Bialystok, Poland. It is an 9-round Swiss&#xA0;tournament with participation of Aliaksei Hryharovich, Zakhar Bogdanov, Marcin Pilzak, Jakub Suliborski, Wojciech Smieszek, Pawel Stankiewicz, Ignat Bogdanov, Maciej Adamczewski, Ryszard Kasperek, Maciej Podgorski, Pawel Kozlowski, etc. You can also see 41st []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/41st-ludwik-zamenhof-memorial-b-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 18:07:35 +0000",
+         "title" : "41st Ludwik Zamenhof Memorial B 2022 - LIVE"
+      },
+      {
+         "description" : "41st edition of Ludwik Zamenhof Memorial A is taking place from 27 31 December 2022 in Bialystok, Poland. It is an 9-round Swiss&#xA0;tournament with participation of Vitaliy Bernadskiy, Vidmantas Malisauskas, Bartlomiej Heberla, Szymon Gumularz, Pawel Teclaf, Igor Janik, Danyyil Dvirnyy, Tomasz Markowski, Jakub Kosakowski, Jan Klimkowski, etc. You can also see 41st Ludwik Zamenhof []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/41st-ludwik-zamenhof-memorial-a-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 18:01:37 +0000",
+         "title" : "41st Ludwik Zamenhof Memorial A 2022 - LIVE"
+      },
+      {
+         "description" : "The Bremen Silvester Open B is taking place from 27&#x2013;30 December 2022 in Bremen, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Mohamad Alhamid, Hauke Lutz, Joern Glueck, Max Storm, Samuel Pfeffer, Gerald Jung, Oliver Meschke, Petra Grabowski, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bremen-silvester-open-b-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 17:39:19 +0000",
+         "title" : "Bremen Silvester Open B 2022 - LIVE"
+      },
+      {
+         "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2020 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/",
+         "pubDate" : "Tue, 27 Dec 2022 17:32:59 +0000",
+         "title" : "2022 Liberian Chess Championship"
+      },
+      {
+         "description" : "The Bremen Silvester Open A is taking place from 27&#x2013;30 December 2022 in Bremen, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Frank Bracker, Veaceslav Cofmann, Martin Breutigam, David Hoeffer, Moritz Gressmann, Martin Villwock, Nils-Lennart Heldt, Nikolas Wachinger, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bremen-silvester-open-a-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 17:32:39 +0000",
+         "title" : "Bremen Silvester Open A 2022 - LIVE"
+      },
+      {
+         "description" : "GM Magnus Carlsen assumed the pole position heading into the third and final day of the 2022 FIDE World Rapid Chess Championship having scored key wins over GMs Jorden van Foreest and Giga Quparadze on Tuesday. The classical world champion&#39;s 7.5...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-2",
+         "pubDate" : "Tue, 27 Dec 2022 09:05:00 -0800",
+         "title" : "Carlsen Captures Sole Lead In Penultimate Day Of Rapid Chess"
+      },
+      {
+         "description" : "In the Endgame Magic Show #220 - the last one before the end of the year - Karsten shows endgame highlights from 2022. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-220-endgame-highlights-of-2022",
+         "pubDate" : "Tue, 27 Dec 2022 18:00:00 +0100",
+         "title" : "Endgame Magic #220: Endgame Highlights of 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96551162.cms\" />Teenaged Indian player B Savitha Shri came up with a fine performance to jump into the joint lead with Zhongyi Tan (China) and Aleksandra Goryachkina with 6.5 points after the eighth round in the women's event of the FIDE World Rapid Chess Championships here on Tuesday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-savitha-shri-storms-into-joint-lead-in-womens-event/articleshow/96551162.cms",
+         "pubDate" : "Tue, 27 Dec 2022 16:47:17 +0000",
+         "title" : "World Rapid Chess: Savitha Shri storms into joint lead in women's event"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2154",
          "pubDate" : "Tue, 27 Dec 2022 13:06:00 +0000",
          "title" : "Ni Hua and Zhu Jiner win 2022 Yinzhou Cup"
@@ -26,12 +146,12 @@ news_feed (
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
       },
       {
-         "description" : "The World Rapid Championships are taking place on December 26-28 in Almaty, Kazakhstan. On day 2, rounds 6 to 9 of the open section and rounds 5 to 8 of the women's event are taking place. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST). | Photo: FIDE / Anna Shtourman",
+         "description" : "A well-known name climbed to the top of the standings in the open section of the World Rapid Championships. Going into the final day of action, Magnus Carlsen is the sole leader on 7&frac12;/9 points. Among the women, three players are sharing first place on 6&frac12;/8 scores - Tan Zhongyi, Aleksandra Goryachkina and Indian youngster Savitha Shri (b. 2007). | Find the standings and all available games in this article. A pictorial report from Almaty will be published later today. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
          "pubDate" : "Tue, 27 Dec 2022 09:45:00 +0100",
-         "title" : "World Rapid Championships - Live!"
+         "title" : "World Rapid: Carlsen leads, Savitha shines"
       },
       {
          "description" : "Endings with opposite coloured bishop have drawish tendencies but they are often also full of surprising tactics. In the diagram position it is Black to move and win. How would you proceed with Black?",
@@ -90,62 +210,6 @@ news_feed (
          "title" : "World Rapid Day 1: Carlsen's Abdusattorov revenge"
       },
       {
-         "description" : "The Vezerkepzo Christmas IM taking place in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is an 10-player round-robin tournament with participation of Valeriy Neverov, Nhat Minh To, Gabor Farkas, Adam Kormos, Adam Szeberenyi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-christmas-im-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 00:41:01 +0000",
-         "title" : "Vezerkepzo Christmas IM 2022 - LIVE"
-      },
-      {
-         "description" : "The Vezerkepzo Christmas GM is taking place in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Milan Pacher, Panda Sambit, Krishnater Kushager, Zoltan Varga, Umut Ata Akbas, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-christmas-gm-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 00:35:33 +0000",
-         "title" : "Vezerkepzo Christmas GM 2022 - LIVE"
-      },
-      {
-         "description" : "The G18 UAE Team Championship is taking place from 26&#x2013;29 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 3-team round-robin tournament with participation of Abu Dhabi Chess Club ( Alserkal Rouda Essa, Darmaki Latifah, Maryam Hussein Al-Hammadi and Husain []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/g18-uae-team-championship-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 00:29:32 +0000",
-         "title" : "G18 UAE Team Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The U18 UAE Team Championship is taking place from 26&#x2013;30 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 5-team round-robin tournament with participation of Fujairah Chess Club ( Yousif Eltayeb El Mahadi Bakheet, Sedrani Ammar and Mohamed Saeed Laily) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-uae-team-championship-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 00:21:02 +0000",
-         "title" : "U18 UAE Team Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The U14 UAE Team Championship is taking place from 26&#x2013;30 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 4-team round-robin tournament with participation of Al Ain Chess Club ( Abdl Alrahman Alajati,Abdulla Younes Alkhemeiri and Ali Rashed Alqemzi) , []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-uae-team-championship-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 00:10:41 +0000",
-         "title" : "U14 UAE Team Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The G14 UAE Team Championship is taking place from 26&#x2013;29 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 3-team round-robin tournament with participation of Dubai Chess Club ( Hala Gamal Amin, Dheepika Nair, Zainab Muhammed Khalid and Haneen Gamal []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/g14-uae-team-championship-2022-live/",
-         "pubDate" : "Mon, 26 Dec 2022 23:49:56 +0000",
-         "title" : "G14 UAE Team Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The first day of the World Rapid chess championship ended with four leaders in the Open section and Valentina Gunina leading alone in the Women's tournament The World Rapid Chess Championship kicked off in Almaty today at 3 PM local time. As in other significant events, the first moves in Round One were ceremonially made []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-rapid-blitz-gunina-leads-among-women-as-four-players-share-first-place-in-the-open/",
-         "pubDate" : "Mon, 26 Dec 2022 21:04:43 +0000",
-         "title" : "World Rapid & Blitz: Gunina leads among Women as four players share first place in the Open"
-      },
-      {
          "description" : " Defending world rapid champion Nordibek Abdusattarov of Uzbekistan represents the new generation of elite chess players. After leading his young team to Olympiad gold, will he be able to unseat blitz titans from around the world? Photo Maria Elmiranova The 2022 World Rapid &#38; Blitz Chess Championship has begun in Almaty, Kazakhstan with so many The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/26/2022-world-rapid-blitz-almaty-kazakhstan/\">2022 World Rapid &#038; Blitz (Almaty, Kazakhstan)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -186,14 +250,6 @@ news_feed (
          "title" : "Carlsen Beats World Rapid Chess Champion, Leads With Fedoseev, Van Foreest, Erigaisi"
       },
       {
-         "description" : "The first day of the FIDE World Rapid and Blitz Chess Championship kicked off today with a press conference joined by FIDE President Arkady Dvorkovich and World Champion Magnus Carlsen. Magnus Carlsen was asked whether the fact that this is the last time he is appearing in the World Rapid and Blitz as the world []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-i-dont-have-an-answer-on-what-would-happen-if-i-play-against-hans-niemann/",
-         "pubDate" : "Mon, 26 Dec 2022 17:46:31 +0000",
-         "title" : "Magnus Carlsen: I don't have an answer on what would happen if I play against Hans Niemann"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +264,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-joint-lead-with-magnus-carlsen-vladimir-fedoseev-koneru-humpy-in-joint-second-spot/articleshow/96524898.cms",
          "pubDate" : "Mon, 26 Dec 2022 16:21:28 +0000",
          "title" : "Erigaisi in joint lead with Carlsen, Fedoseev; Humpy in joint second spot"
-      },
-      {
-         "description" : "The 2022 Lorca Open commences today in Spain and will be taking place from 26-30 December. The event features two tournaments: Open A and Open B (for players rated U2150) with a prize fund of 8.000 EUR. The Open A will be played in 9 rounds, swiss system, with time control of 90 minutes + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lorca-open-2022-starts-in-spain/",
-         "pubDate" : "Mon, 26 Dec 2022 13:32:20 +0000",
-         "title" : "Lorca Open 2022 starts in Spain"
       },
       {
          "description" : " The 2022 World Rapid and Blitz has just started. As it is being held in Kazakhstan, the time zone difference isn't that bad, with play starting in the evening (Canberra time). As I type this it is up to the third round of the Rapid, with Carlsen in some trouble against Tomashevsky. The tournament is exceptionally strong, with 178 players in the Open, and 98 in the Women's Championship. Bobby Cheng is the sole Australian representative, seeded 111th at the start. Given the importance of th event, it is being covered at most online sites. I'm currently watching it via chess24 (Peter Leko commentating), but I may sample a few other sites over the next few days. ",
@@ -1138,22 +1186,6 @@ news_feed (
          "title" : "Chess: Carlsen 'adopts' US champion, Fabiano Caruana, in online blitz rout"
       },
       {
-         "description" : "The FIDE Council has approved a major reform of the qualification paths to the Candidates Tournament, the event that decides the challenger for the World Championship match. The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria will grant points towards the \"FIDE Circuit\". | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-reforms-qualification-to-candidates",
-         "pubDate" : "Fri, 16 Dec 2022 07:30:00 +0100",
-         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "After four rounds, six players still have perfect scores in Group A of the Sunway Chess Festival. Among the co-leaders is Samant Aditya, rated 2470, who defeated Adhiban (2611) in round 4. Two players from the top ten in the starting rank list are also among those with perfect scores - i.e. Hans Niemann and Kirill Alekseenko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r4",
-         "pubDate" : "Fri, 16 Dec 2022 07:10:00 +0100",
-         "title" : "Sunway Sitges: Six players on 4/4"
-      },
-      {
          "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1426,14 +1458,6 @@ news_feed (
          "title" : "Kazakh Championship: Zhalmakhanov and Kamalidenova win titles"
       },
       {
-         "description" : "The 2022 ChessKid All-Star Finals will take place on December 17, with more than 20 talented young chess players from around the world competing against each other in the culmination of a year-long series of qualification tournaments.&#38;nbsp; Foll...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesskid-all-star-finals",
-         "pubDate" : "Sun, 11 Dec 2022 13:46:00 -0800",
-         "title" : "2022 ChessKid All-Star Finals Announced"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,14 +1712,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
          "title" : "Survive Complex Chess Positions | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2122",
-         "pubDate" : "Tue, 06 Dec 2022 18:01:40 +0000",
-         "title" : "Women's Candidates semifinal: Tan Zhongyi came close, but no cigar"
       }
    ]
 }
