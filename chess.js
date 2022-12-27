@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-gashimov-memorial-abdusattorov-wins",
+         "pubDate" : "Mon, 26 Dec 2022 20:18:38 -0800",
+         "title" : "Abdusattorov Convincing at Gashimov Memorial"
+      },
+      {
+         "description" : "Magnus Carlsen beat reigning World Rapid Champion Nodirbek Abdusattorov in brilliant style as he scored 4.5/5 on Day 1 of the World Rapid Championship in Almaty, Kazakhstan. He was held to a draw only by Arjun Erigaisi, with Vladimir Fedoseev and Jorden van Foreest the other co-leaders in the Open section. Valentina Gunina leads the Women's section on a perfect 4/4.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-day-1-carlsen-s-abdusattorov-revenge",
+         "pubDate" : "Tue, 27 Dec 2022 01:19:53 +0000",
+         "title" : "World Rapid Day 1: Carlsen's Abdusattorov revenge"
+      },
+      {
+         "description" : "The Vezerkepzo Christmas IM taking place in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is is an 10-player round-robin tournament with participation of Valeriy Neverov, Nhat Minh To, Gabor Farkas, Adam Kormos, Adam Szeberenyi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-christmas-im-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 00:41:01 +0000",
+         "title" : "Vezerkepzo Christmas IM 2022 - LIVE"
+      },
+      {
+         "description" : "The Vezerkepzo Christmas GM is taking place in Budapest, Hungary. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Milan Pacher, Panda Sambit, Krishnater Kushager, Zoltan Varga, Umut Ata Akbas, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-christmas-gm-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 00:35:33 +0000",
+         "title" : "Vezerkepzo Christmas GM 2022 - LIVE"
+      },
+      {
          "description" : "The G18 UAE Team Championship is taking place from 26&#x2013;29 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 3-team round-robin tournament with participation of Abu Dhabi Chess Club ( Alserkal Rouda Essa, Darmaki Latifah, Maryam Hussein Al-Hammadi and Husain []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,28 +170,12 @@ news_feed (
          "title" : "World Rapid: Gunina on 4 out of 4"
       },
       {
-         "description" : "The 2022 World Rapid and Blitz Chess Championships take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-1-live/",
-         "pubDate" : "Mon, 26 Dec 2022 08:50:00 +0000",
-         "title" : "FIDE World Rapid Chess Championship 2022 - Day 1 live"
-      },
-      {
          "description" : "The World Rapid and Blitz Championships 2022 kick off in Almaty, Kazakhstan on the 26th of December 2022. On 25th of December, one day before the start of the event, there was an opening ceremony held at the venue. The first thing you notice when you enter the premises of the Baluan Sholak Sports Palace is how massive it is and how spacious it is going to be for the players. Next you get to see the Kazakh culture in the opening ceremony and the love for chess that the country possesses. Sagar Shah and Amruta Mokal have filed a large pictorial report from Almaty.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/glorious-opening-ceremony-at-world-rapid-and-blitz-2022",
          "pubDate" : "Mon, 26 Dec 2022 09:28:31 +0100",
          "title" : "Glorious opening ceremony at World Rapid and Blitz 2022"
-      },
-      {
-         "description" : "The FIDE World Rapid and Blitz Championships kick off today in Almaty, Kazakhstan with the World Open and Women's Rapid Championships. The event was officially opened yesterday in a 90-minute long ceremony, and the first day of the event started with the Opening press conference. FIDE World Rapid and Blitz 2022 Opening press conference []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-and-blitz-2022-opening-press-conference-live/",
-         "pubDate" : "Mon, 26 Dec 2022 08:17:40 +0000",
-         "title" : "FIDE World Rapid and Blitz 2022 - Opening press conference LIVE"
       },
       {
          "description" : "NHPC is inviting applications from eligible applicants for scholarship under \"NHPC Sports Scholarship scheme for upcoming sports persons\" for 16 games Football, Kabaddi, Hockey,",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
          "pubDate" : "Sun, 11 Dec 2022 00:10:07 +0000",
          "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
-      },
-      {
-         "description" : "GM Tan Zhongyi defeated GM Aleksandra Goryachkina on Saturday in the fourth game of their Women&#39;s Candidates semifinal in Khiva, Uzbekistan. In doing so, Tan qualified for an all-Chinese final vs. GM Lei Tingjie, which is scheduled for the first q...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-semifinal-tan-goryachkina",
-         "pubDate" : "Sat, 10 Dec 2022 09:35:00 -0800",
-         "title" : "Tan Beats Goryachkina, Qualifies For Women's Candidates Final"
       },
       {
          "description" : "",
