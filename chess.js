@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a break of a few years, the historic Hastings event has returned. While no longer attracting the huge numbers it did in the past, the Masters section has 13 GM's in its 101 player field. It will also attract plenty of players for the supporting events, which include AM swisses, weekend tournaments, and evening blitz. This is the 96th edition of the tournament, and barring any world shattering disasters, the 100th edition should be in 2026. When I visited the event (as an arbiter) in 2016, I promised to return for the 100th, a promise I do plan to keep. Tournament homepage is <a href=\"https://hastingschess.com/\">here. </a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/hastings-2022-23.html",
+         "pubDate" : "Tue, 27 Dec 2022 11:58:00 +0000",
+         "title" : "Hastings 2022-23"
+      },
+      {
+         "description" : "2nd seed Grandmaster Abhijeet Gupta of PSPB in sole lead after defeating International Master Koustav Chatterjee of West Bengal, Top seed Grandmaster Sethuraman SP of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022report-round-5/",
+         "pubDate" : "Tue, 27 Dec 2022 10:29:46 +0000",
+         "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
+      },
+      {
+         "description" : "The World Rapid Championships are taking place on December 26-28 in Almaty, Kazakhstan. On day 2, rounds 6 to 9 of the open section and rounds 5 to 8 of the women's event are taking place. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
+         "pubDate" : "Tue, 27 Dec 2022 09:45:00 +0100",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
+         "description" : "Endings with opposite coloured bishop have drawish tendencies but they are often also full of surprising tactics. In the diagram position it is Black to move and win. How would you proceed with Black?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-right-exchange-2",
+         "pubDate" : "Tue, 27 Dec 2022 09:00:00 +0100",
+         "title" : "The right exchange"
+      },
+      {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/world-rapid-and-blitz.html",
          "pubDate" : "Mon, 26 Dec 2022 12:42:00 +0000",
          "title" : "World Rapid and Blitz"
-      },
-      {
-         "description" : "Day 1 of the World Rapid Championships was played on Monday in Almaty. A sole leader emerged after four rounds in the women's section, as Valentina Gunina won all her games to go into the second day of action with a perfect score. In the open, four players are sharing first place on 4&frac12;/5, including perennial favourite Magnus Carlsen. | Find all available games and standings in this article. A full report directly from the playing hall will be published later. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
-         "pubDate" : "Mon, 26 Dec 2022 09:55:00 +0100",
-         "title" : "World Rapid: Gunina on 4 out of 4"
       },
       {
          "description" : "The World Rapid and Blitz Championships 2022 kick off in Almaty, Kazakhstan on the 26th of December 2022. On 25th of December, one day before the start of the event, there was an opening ceremony held at the venue. The first thing you notice when you enter the premises of the Baluan Sholak Sports Palace is how massive it is and how spacious it is going to be for the players. Next you get to see the Kazakh culture in the opening ceremony and the love for chess that the country possesses. Sagar Shah and Amruta Mokal have filed a large pictorial report from Almaty.",
@@ -1082,14 +1106,6 @@ news_feed (
          "title" : "Hikaru Nakamura reaches 7th Speed Chess final"
       },
       {
-         "description" : "11th &#38; 12th December, Salem, Tamil Nadu Report Salem District Chess Association, on behalf of Tamil Nadu State Chess Association and All India Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-11th-12th-december-salem-tamil-nadu/",
-         "pubDate" : "Fri, 16 Dec 2022 11:13:56 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination ,11th & 12th December 2022, Salem, Tamil Nadu"
-      },
-      {
          "description" : " I've briefly touched on the use of tactics over this series of articles. However, I want to dig in and dedicate a fair number of future articles, starting with this one, to the art of tactics. We'll go through the primary tactics the beginner should know as well as a few advanced tactics to be <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\">A Foundation for Beginners Seventy Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessim",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths",
          "pubDate" : "Thu, 15 Dec 2022 13:04:00 -0800",
          "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
-      },
-      {
-         "description" : "In the first semi-final of the Speedchess Championship on chess.com, defending champion and blitz specialist Hikaru Nakamura will meet the young Indian grandmaster Nihal Sarin, who is also considered to be a blitz chess specialist. The eagerly awaited match starts today, 15.12., at 15.00. The winner of this encounter will meet Magnus Carlsen or Maxime Vachier-Lagrave who will play the second semi-final tomorrow, 16.12.. Watch Nakamuara vs Sarin live with commentary. | Graphics: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speedchess-championship-hikaru-nakamura-vs-nihal-sarin",
-         "pubDate" : "Thu, 15 Dec 2022 15:04:21 +0100",
-         "title" : "Speedchess Championship: Hikaru Nakamura vs Nihal Sarin"
       },
       {
          "description" : "",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "http://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html",
          "pubDate" : "Tue, 06 Dec 2022 16:13:00 +0000",
          "title" : "How Many for Carlsen? For Niemann?"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (63)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-63/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (63)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-63/",
-         "pubDate" : "Tue, 06 Dec 2022 12:19:10 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (63)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96029908.cms\" />Sixteen-year-old Aditya Mittal has become India's 77th chess Grandmaster during an ongoing tournament in Spain. The Mumbai player, who had secured three GM norms, crossed 2,500 ELO points mark during the sixth round of the ongoing Ellobregat Open tournament in Spain. He drew the game against Spain's No.1 Francisco Vallejo Pons to achieve the feat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/aditya-mittal-becomes-indias-77th-gm/articleshow/96029908.cms",
-         "pubDate" : "Tue, 06 Dec 2022 11:09:13 +0000",
-         "title" : "Aditya Mittal becomes India's 77th GM"
       }
    ]
 }
