@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2154",
+         "pubDate" : "Tue, 27 Dec 2022 13:06:00 +0000",
+         "title" : "Ni Hua and Zhu Jiner win 2022 Yinzhou Cup"
+      },
+      {
          "description" : " After a break of a few years, the historic Hastings event has returned. While no longer attracting the huge numbers it did in the past, the Masters section has 13 GM's in its 101 player field. It will also attract plenty of players for the supporting events, which include AM swisses, weekend tournaments, and evening blitz. This is the 96th edition of the tournament, and barring any world shattering disasters, the 100th edition should be in 2026. When I visited the event (as an arbiter) in 2016, I promised to return for the 100th, a promise I do plan to keep. Tournament homepage is <a href=\"https://hastingschess.com/\">here. </a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -70,8 +78,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-gashimov-memorial-abdusattorov-wins",
-         "pubDate" : "Mon, 26 Dec 2022 20:18:38 -0800",
-         "title" : "Abdusattorov Convincing at Gashimov Memorial"
+         "pubDate" : "Mon, 26 Dec 2022 20:18:00 -0800",
+         "title" : "Abdusattorov Convincing At Gashimov Memorial"
       },
       {
          "description" : "Magnus Carlsen beat reigning World Rapid Champion Nodirbek Abdusattorov in brilliant style as he scored 4.5/5 on Day 1 of the World Rapid Championship in Almaty, Kazakhstan. He was held to a draw only by Arjun Erigaisi, with Vladimir Fedoseev and Jorden van Foreest the other co-leaders in the Open section. Valentina Gunina leads the Women's section on a perfect 4/4.",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2122",
          "pubDate" : "Tue, 06 Dec 2022 18:01:40 +0000",
          "title" : "Women's Candidates semifinal: Tan Zhongyi came close, but no cigar"
-      },
-      {
-         "description" : "For the second time in less than two months we have a REAL YAHOO, reported by Yahoo.com in person. The previous sighting was <A HREF=\"http://chessforallages.blogspot.com/2022/10/really-big-stereotypes.html\">Really Big Stereotypes</A>(October 2022; 'real Yahoo -- a mainstream news source reporting on a chess story'). <P>Unfortunately, I bungled the screen capture and lost the top portion of the Yahoo headlines. You'll have to believe me that the top headline said, 'Nobody thought case against Fox would get this far'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml06.gif\" WIDTH=400 HEIGHT=215> <P>The five bottom headlines said, <BLOCKQUOTE>- Christie's niece injured 6 cops dur",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html",
-         "pubDate" : "Tue, 06 Dec 2022 16:13:00 +0000",
-         "title" : "How Many for Carlsen? For Niemann?"
       }
    ]
 }
