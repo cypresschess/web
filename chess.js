@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The G18 UAE Team Championship is taking place from 26&#x2013;29 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 3-team round-robin tournament with participation of Abu Dhabi Chess Club ( Alserkal Rouda Essa, Darmaki Latifah, Maryam Hussein Al-Hammadi and Husain []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/g18-uae-team-championship-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 00:29:32 +0000",
+         "title" : "G18 UAE Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The U18 UAE Team Championship is taking place from 26&#x2013;30 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 5-team round-robin tournament with participation of Fujairah Chess Club ( Yousif Eltayeb El Mahadi Bakheet, Sedrani Ammar and Mohamed Saeed Laily) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-uae-team-championship-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 00:21:02 +0000",
+         "title" : "U18 UAE Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The U14 UAE Team Championship is taking place from 26&#x2013;30 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 4-team round-robin tournament with participation of Al Ain Chess Club ( Abdl Alrahman Alajati,Abdulla Younes Alkhemeiri and Ali Rashed Alqemzi) , []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-uae-team-championship-2022-live/",
+         "pubDate" : "Tue, 27 Dec 2022 00:10:41 +0000",
+         "title" : "U14 UAE Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The G14 UAE Team Championship is taking place from 26&#x2013;29 December 2022 in Dubai, UAE. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 3-team round-robin tournament with participation of Dubai Chess Club ( Hala Gamal Amin, Dheepika Nair, Zainab Muhammed Khalid and Haneen Gamal []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/g14-uae-team-championship-2022-live/",
+         "pubDate" : "Mon, 26 Dec 2022 23:49:56 +0000",
+         "title" : "G14 UAE Team Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The first day of the World Rapid chess championship ended with four leaders in the Open section and Valentina Gunina leading alone in the Women's tournament The World Rapid Chess Championship kicked off in Almaty today at 3 PM local time. As in other significant events, the first moves in Round One were ceremonially made []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-rapid-blitz-gunina-leads-among-women-as-four-players-share-first-place-in-the-open/",
+         "pubDate" : "Mon, 26 Dec 2022 21:04:43 +0000",
+         "title" : "World Rapid & Blitz: Gunina leads among Women as four players share first place in the Open"
+      },
+      {
+         "description" : " Defending world rapid champion Nordibek Abdusattarov of Uzbekistan represents the new generation of elite chess players. After leading his young team to Olympiad gold, will he be able to unseat blitz titans from around the world? Photo Maria Elmiranova The 2022 World Rapid &#38; Blitz Chess Championship has begun in Almaty, Kazakhstan with so many The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/26/2022-world-rapid-blitz-almaty-kazakhstan/\">2022 World Rapid &#038; Blitz (Almaty, Kazakhstan)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/12/26/2022-world-rapid-blitz-almaty-kazakhstan/",
+         "pubDate" : "Mon, 26 Dec 2022 20:57:16 +0000",
+         "title" : "2022 World Rapid & Blitz (Almaty, Kazakhstan)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2153",
+         "pubDate" : "Mon, 26 Dec 2022 20:12:23 +0000",
+         "title" : "World Rapid & Blitz: Gunina leads among Women as four players share first place in the Open"
+      },
+      {
          "description" : "GM Alexandr Fier and FM Juliana Sayumi Terao obtained outright victories at the Brazilian Championships (open and women's, respectively). The events took place on December 15-23 at the Hotel Jangadeiro in Recife, the capital of Pernambuco. Fier grabbed his fourth national title by scoring 9&frac12;/11 points, while Terao dominated the women's field and obtained a perfect 9/9 to claim her sixth national title. | Photo: Albert Silver (2018)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,14 +162,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz 2022 - Opening press conference LIVE"
       },
       {
-         "description" : "The World Rapid and Blitz Championships were officially opened in Almaty on the 25th&#xA0;December. In a 90-minute long ceremony, the hosts put on a spectacle which celebrated chess and promoted the culture and distinctiveness of Kazakhstan The Baluan Sholak Sports Palace was packed with spectators &#x2013; teenagers from chess schools, local and government officials, special []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-rapid-and-blitz-championships-officially-opened-in-almaty/",
-         "pubDate" : "Mon, 26 Dec 2022 07:54:42 +0000",
-         "title" : "World Rapid and Blitz Championships officially opened in Almaty"
-      },
-      {
          "description" : "NHPC is inviting applications from eligible applicants for scholarship under \"NHPC Sports Scholarship scheme for upcoming sports persons\" for 16 games Football, Kabaddi, Hockey,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -162,36 +210,12 @@ news_feed (
          "title" : "\"Welcome to Kazakhstan\": The World Rapid and Blitz Championships officially opened in Almaty"
       },
       {
-         "description" : "The&#xA0;2022 World Rapid and Blitz Chess Championships&#xA0;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#xA0;Magnus Carlsen&#xA0;(NOR, 2859),&#xA0;Hikaru Nakamura&#xA0;(USA, 2768),&#xA0;Fabiano Caruana&#xA0;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-plays-the-2022-fide-world-rapid-and-blitz-live-stream/",
-         "pubDate" : "Sun, 25 Dec 2022 17:02:38 +0000",
-         "title" : "Hikaru Nakamura plays the 2022 FIDE World Rapid and Blitz - LIVE stream"
-      },
-      {
-         "description" : "MPL 59th National Chess Championship of India takes place from 22nd December 2022 to 3rd January 2023 with 200 participants competing over 13 rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes + 30 seconds increment from move one. MPL 59th Indian Chess Championship LIVE games:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-59th-indian-chess-championship-live/",
-         "pubDate" : "Sun, 25 Dec 2022 16:47:20 +0000",
-         "title" : "MPL 59th Indian Chess Championship - LIVE"
-      },
-      {
          "description" : "<B>Q:</B>What happens when the monthly post about <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016) falls on Christmas Day? <B>A:</B>We use whatever we can find. <P>The Santa character, played by a White Rook, looks like Homer Simpson. The devil character, played by a Black Pawn, looks like a cute bug. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/NwPGdATM4bE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>A Chess Story: The game between Santa and the Devil</B> (6:24) &",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "http://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
          "pubDate" : "Sun, 25 Dec 2022 16:15:00 +0000",
          "title" : "Not the Dickens Christmas Story"
-      },
-      {
-         "description" : "MPL 59th National Chess Championship of India commenced on Thursday in New Delhi. The event takes place from 22nd December 2022 to 3rd January 2023 with 200 participants competing over 13 rounds. The time control is 90 minutes for 40 moves, followed by 30 minutes + 30 seconds increment from move one. After four played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mpl-59th-indian-chess-championship-started-in-new-delhi/",
-         "pubDate" : "Sun, 25 Dec 2022 16:14:12 +0000",
-         "title" : "MPL 59th Indian Chess Championship started in New Delhi"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 105th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-heroes-publication/",
          "pubDate" : "Sun, 25 Dec 2022 10:58:57 +0000",
          "title" : "Chess for Heroes Publication"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2022 took place from 18-23 December in Baku. It was a 10-player super-tournament consisting of Rapid and Blitz stages and the final standings were determined according to the sum of points of Rapid and Blitz events. Defending FIDE World Rapid Chess Champion Nodirbek Abdusattorov won the tournament just a few days []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-wins-vugar-gashimov-memorial-2022/",
-         "pubDate" : "Sun, 25 Dec 2022 08:36:46 +0000",
-         "title" : "Nodirbek Abdusattorov wins Vugar Gashimov Memorial 2022"
       },
       {
          "description" : "World Champion Magnus Carlsen and US teenager Hans Moke Niemann will be in the same venue for the first time since the scandal that rocked the chess world in Saint Louis three months ago. The Norwegian faces a dilemma if he is paired against the teenager, who launched a $100 million lawsuit over cheating allegations.",
