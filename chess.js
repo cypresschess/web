@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Sports have a lot of 'unwritten rules'. They exist to make sure everyone stays within what is considered acceptable behaviour, even if the the actions are not technically illegal. In baseball for example, showing up a pitcher after hitting a home run is likely to get yourself drilled by a pitch at some point in the future. South Africa seemed to not be aware of this during today's Test match against Australia. Bowling short pitched deliveries to tail end batsmen was for a long time considered 'out of bounds', in part because the players your were trying to hit had the ability to return fire when you batted. So hitting Mitchell Starc on the helmet in failing light might have seemed like a go",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/a-tactical-blunder.html",
+         "pubDate" : "Wed, 28 Dec 2022 12:27:00 +0000",
+         "title" : "A tactical blunder"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-64/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (64)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-64/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (64)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-64/",
+         "pubDate" : "Wed, 28 Dec 2022 10:00:54 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
+      },
+      {
+         "description" : "ChessBase India published an interesting video of a situation that appeared yesterday during the 7th round of the World Rapid Chess Championship 2022 in Almaty. It was the game between Vladislav Kovalev and 12-year-old Artem Uskov. The young Russian was in a time trouble and made an illegal move as he wanted to take the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kovalev-vs-uskov-world-rapid-2022-r7-arbiters-intervention-video/",
+         "pubDate" : "Wed, 28 Dec 2022 09:14:17 +0000",
+         "title" : "Kovalev vs Uskov World Rapid 2022 R7 & Arbiters' intervention (VIDEO)"
+      },
+      {
+         "description" : "Magnus Carlsen became the triple champion in 2019 - in classical, rapid and blitz. However, in 2021, he lost both his rapid and blitz titles to Abdusattorov and MVL respectively. This year, the Norwegian has come with great willpower in order to reclaim his dominance on the world of chess. And he is doing it in style at the World Rapid Championships 2022 in Almaty, Kazakhstan. After 9 rounds, he is in sole lead with 7.5/9. In the women's section we have three leaders - Tan Zhongyi, Goryachkina and the surprise Savitha Shri. All three of them on 6.5/8. A detailed day 2 report.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-well-set-to-become-world-rapid-champion-2022",
+         "pubDate" : "Wed, 28 Dec 2022 10:11:10 +0100",
+         "title" : "Magnus Carlsen well set to become World Rapid Champion 2022"
+      },
+      {
+         "description" : "The final day of the World Rapid Championships is being played in Almaty, with four rounds in the open and three rounds in the women's section set to decide who will become the 2022 world rapid chess champions. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST). | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
+         "pubDate" : "Wed, 28 Dec 2022 09:45:00 +0100",
+         "title" : "World Rapid Championships - Live!"
+      },
+      {
+         "description" : "The 21st edition of the Prague Chess Open will take place from 6-13 January 2023 at the Olympik Hotel Prague, Czech Republic. The festival features three tournaments: Open A, Open B and Open C, with a prize fund of 50.000 CZK ~ 2.000eur for the main Open A tournament. The event will be played in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-open-2023/",
+         "pubDate" : "Wed, 28 Dec 2022 08:44:44 +0000",
+         "title" : "Prague Chess Open 2023"
+      },
+      {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-3-live-2/",
          "pubDate" : "Wed, 28 Dec 2022 08:24:26 +0000",
          "title" : "FIDE World Rapid Chess Championship 2022 - Day 3 live"
+      },
+      {
+         "description" : "The&#xA0;21st edition of the Prague Chess Open&#xA0;will take place from 6-13 January 2023 at the Olympik Hotel Prague, Czech Republic.&#xA0;The event will be played in 9 rounds, swiss system, with time control of 90 minutes for 30 moves, followed by 30 minutes for the end of the game and 30 seconds increment starting from move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/prague-chess-open-2023-live/",
+         "pubDate" : "Wed, 28 Dec 2022 08:12:53 +0000",
+         "title" : "Prague Chess Open 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
@@ -106,30 +162,6 @@ news_feed (
          "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
       },
       {
-         "description" : "41st edition of Ludwik Zamenhof Memorial B is taking place from 27 31 December 2022 in Bialystok, Poland. It is an 9-round Swiss&#xA0;tournament with participation of Aliaksei Hryharovich, Zakhar Bogdanov, Marcin Pilzak, Jakub Suliborski, Wojciech Smieszek, Pawel Stankiewicz, Ignat Bogdanov, Maciej Adamczewski, Ryszard Kasperek, Maciej Podgorski, Pawel Kozlowski, etc. You can also see 41st []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/41st-ludwik-zamenhof-memorial-b-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 18:07:35 +0000",
-         "title" : "41st Ludwik Zamenhof Memorial B 2022 - LIVE"
-      },
-      {
-         "description" : "41st edition of Ludwik Zamenhof Memorial A is taking place from 27 31 December 2022 in Bialystok, Poland. It is an 9-round Swiss&#xA0;tournament with participation of Vitaliy Bernadskiy, Vidmantas Malisauskas, Bartlomiej Heberla, Szymon Gumularz, Pawel Teclaf, Igor Janik, Danyyil Dvirnyy, Tomasz Markowski, Jakub Kosakowski, Jan Klimkowski, etc. You can also see 41st Ludwik Zamenhof []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/41st-ludwik-zamenhof-memorial-a-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 18:01:37 +0000",
-         "title" : "41st Ludwik Zamenhof Memorial A 2022 - LIVE"
-      },
-      {
-         "description" : "The Bremen Silvester Open B is taking place from 27&#x2013;30 December 2022 in Bremen, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Mohamad Alhamid, Hauke Lutz, Joern Glueck, Max Storm, Samuel Pfeffer, Gerald Jung, Oliver Meschke, Petra Grabowski, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bremen-silvester-open-b-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 17:39:19 +0000",
-         "title" : "Bremen Silvester Open B 2022 - LIVE"
-      },
-      {
          "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2019 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022report-round-5/",
          "pubDate" : "Tue, 27 Dec 2022 10:29:46 +0000",
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
-      },
-      {
-         "description" : "A well-known name climbed to the top of the standings in the open section of the World Rapid Championships. Going into the final day of action, Magnus Carlsen is the sole leader on 7&frac12;/9 points. Among the women, three players are sharing first place on 6&frac12;/8 scores - Tan Zhongyi, Aleksandra Goryachkina and Indian youngster Savitha Shri (b. 2007). | Find the standings and all available games in this article. A pictorial report from Almaty will be published later today. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
-         "pubDate" : "Tue, 27 Dec 2022 09:45:00 +0100",
-         "title" : "World Rapid: Carlsen leads, Savitha shines"
       },
       {
          "description" : "Endings with opposite coloured bishop have drawish tendencies but they are often also full of surprising tactics. In the diagram position it is Black to move and win. How would you proceed with Black?",
@@ -293,7 +317,7 @@ news_feed (
          "description" : "In the previous post on the world's foremost engine vs. engine competitions, <A HREF=\"http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html\">TCEC/CCC Interludes</A>(December 2022), I could have incorporated an explanation of 'Why interludes?', but I doubt it would have been news to many chess engine fans. Following is a summary of that post. <BLOCKQUOTE>TCEC: LCZero beat KomodoDragon +24-13=63 in the 'S23 Subfinal' for the S23 runnerup position. The site then organized another VVLTC event, the third time that VVLTC has followed a Sufi. The S23 VVLTC was followed by an SVVLTC, which was followed by 'Noomen Extra 2'; see the 'Interludes' post for an explanation of its 3+11 engine",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html",
          "pubDate" : "Mon, 26 Dec 2022 16:42:00 +0000",
          "title" : "TCEC More Interludes; CCC19 Bullet Underway"
       },
@@ -373,7 +397,7 @@ news_feed (
          "description" : "<B>Q:</B>What happens when the monthly post about <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016) falls on Christmas Day? <B>A:</B>We use whatever we can find. <P>The Santa character, played by a White Rook, looks like Homer Simpson. The devil character, played by a Black Pawn, looks like a cute bug. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/NwPGdATM4bE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>A Chess Story: The game between Santa and the Devil</B> (6:24) &",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
          "pubDate" : "Sun, 25 Dec 2022 16:15:00 +0000",
          "title" : "Not the Dickens Christmas Story"
       },
@@ -517,7 +541,7 @@ news_feed (
          "description" : "In the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I highlighted a SmartChess.com press release:- <BLOCKQUOTE>An earlier press release, titled 'A Press Release by Anatoly Karpov' and dated 18 December 1996, had stated, \"<B>Statement by Anatoly Karpov:</B> In the opening paragraphs of my January 1997 \"Grandmasters Musings\" column (in Chess Life), I briefly mentioned one of my recent involvements in chess on the Internet in which I appeared as a guest of Chess.net, a company of which I recently became a shareholder. [...] I would also like to mention that I am a frequent guest lecturer at the superb Interne",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html",
          "pubDate" : "Fri, 23 Dec 2022 16:01:00 +0000",
          "title" : "Wayback to Chess.net"
       },
@@ -869,7 +893,7 @@ news_feed (
          "description" : "Every once in a while I wake up from my habitual sleepwalking and try to grasp the basics of current trends in chess engines. At the end of this post is a summary of those efforts over the past few years. <P>With this post I set out to bring myself up to date once again, but quickly decided that I needed to look at chess engines in the so-called cloud. My first stop was Chessify: <A HREF=\"https://chessify.me/\">Powerful Cloud Engines for Chess Analysis</A>(chessify.me; 'Powerful Cloud Platform for Chess Training'). The site's home page promises a great deal:- <BLOCKQUOTE><B>Top Engines:</B>The latest versions of Stockfish (NNUE and traditional), Leela Chess Zero, and other engines available f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/chessify-setup.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/chessify-setup.html",
          "pubDate" : "Mon, 19 Dec 2022 16:03:00 +0000",
          "title" : "Chessify Setup"
       },
@@ -989,7 +1013,7 @@ news_feed (
          "description" : "We've seen the <I>StarryKnight</I> once before in <A HREF=\"http://chessforallages.blogspot.com/2014/01/chess-nebula.html\">Chess Nebula</A>(January 2014; <I>Europe-Echecs</I> '55th Anniversary'). In that post I neglected to take the idea further, so let's rectify that. The chess connection has been observed frequently, as in <A HREF=\"http://www.caelumobservatory.com/obs/horse.html\">Best of AOP: The Horsehead Nebula</A>(caelumobservatory.com; Mt. Lemmon SkyCenter, University of Arizona; AOP: 'Advanced Observing Program', Kitt Peak):- <BLOCKQUOTE>Chess, anyone? This is the most famous example of a dark nebula, that is, an opaque cloud of dust that obscures a bright nebula behind it. The Horsehe",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html",
          "pubDate" : "Sun, 18 Dec 2022 16:22:00 +0000",
          "title" : "Chess on Orion's Belt"
       },
@@ -1157,7 +1181,7 @@ news_feed (
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html\">Shirov's SmartChess Videos</A>(December 2022), I finished saying, <BLOCKQUOTE>We also learn from the page [on ichess.net] that the videos were 'Originally Produced by Paul Azzurro'. That might be worth additional investigation but I've run out of time for this post. </BLOCKQUOTE> <P>Let's pick up this week where I left off last week. First stop:- <UL><LI><A HREF=\"https://www.youtube.com/@Chessdvds\">Paul Azzurro</A>(youtube.com/@Chessdvds; a few other Youtube URLs point to the same page) &#149; 'Chessondvd.com worlds largest producer of chess on dvd over 300 to choose from.' </UL>",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/paul-azzurro-chess-video-producer.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/paul-azzurro-chess-video-producer.html",
          "pubDate" : "Fri, 16 Dec 2022 16:22:00 +0000",
          "title" : "Paul Azzurro, Chess Video Producer"
       },
@@ -1208,14 +1232,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-eight/",
          "pubDate" : "Fri, 16 Dec 2022 11:00:32 +0000",
          "title" : "A Foundation for Beginners Seventy Eight"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1677",
-         "pubDate" : "Fri, 16 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 16"
       },
       {
          "description" : " Norway's world No 1 did not lose a single game in his 22-4 victory, and achieved the rare feat of 10 successive wins, which in online speed chess jargon qualifies as adopting your opponent Magnus Carlsen's achievements are so many that it is hard for the Norwegian to surprise fans any more, but the No 1's crushing online blitz victory against Fabiano Caruana on Tuesday was remarkable. Caruana is the reigning US champion, and had scored an even 6-6 in his classical games against Carlsen in their 2018 world title match in London. This week, they were paired in a quarter-final of the annual $100,000 Chess.com speed championship, whose format of 90 minutes play at 5/1 (five minutes per player p",
@@ -1461,7 +1477,7 @@ news_feed (
          "description" : "In my previous fortnightly post on the two most important engine vs. engine tournaments, <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-ccc19-rapid-stockfish-wins-both.html\">TCEC S23, CCC19 Rapid : Stockfish Wins Both</A>(November 2022), I was premature in calling Stockfish the CCC winner. Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish beat LCZero +27-10=63 to win its sixth straight 'Superfinal'. The site is currently conducting a 100-game 'Subfinal', where LCzero has already clinched victory over KomodoDragon. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon finished 1-2-3, with the other three engines as distant also-rans. LC0 beat Dragon b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
          "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
          "title" : "TCEC/CCC Interludes"
       },
@@ -1509,7 +1525,7 @@ news_feed (
          "description" : "Here's a type of chess video you don't see every day. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/tiKYceqV_r0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Vintage chess clock restoration</B> (11:21) &#149; '[Published on] Dec 10, 2022' <P>The description (right click the embedded video for a link) started, <BLOCKQUOTE>This chess clock was made in 1950`s in Russia. My client wanted me to make it nicer, because it was meant to be birthday present for young and talented chess player. This kind of works are not about the money, but the joy, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/chess-clock-restoration.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/chess-clock-restoration.html",
          "pubDate" : "Sun, 11 Dec 2022 16:30:00 +0000",
          "title" : "Chess Clock Restoration"
       },
@@ -1605,7 +1621,7 @@ news_feed (
          "description" : "In last week's post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I wrote, <BLOCKQUOTE>Karpov's active involvement with the [SmartChess] site lasted about six months and was usually documented in an issue's 'Publisher's Message'. At the same time Karpov's participation was decreasing, that of another, younger link to Soviet chess was increasing. The February 1998 issue of SmartChess announced, \"Press Release - 26th February 1998: Superstar GM Alexei Shirov signs contract with WWW Chess Superstore to make a series of instructional chess videos!\" </BLOCKQUOTE> <P>I've already featured a couple of Karpov's SmartChess vide",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
-         "link" : "http://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html",
+         "link" : "https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html",
          "pubDate" : "Fri, 09 Dec 2022 16:33:00 +0000",
          "title" : "Shirov's SmartChess Videos"
       },
@@ -1712,22 +1728,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/capturing-thin-air.html",
          "pubDate" : "Wed, 07 Dec 2022 13:27:00 +0000",
          "title" : "Capturing thin air"
-      },
-      {
-         "description" : "The time of the year has come to launch the Call of Interest for 2023! If you have never participated before, the ECU Arbiters' Council appoints foreign arbiters (20% of all match arbiters) in all European events. Arbiters who wish to be considered, should fill in the&#160;application form, answer questions regarding their skills, experience and tournament preferences and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/call-of-interest-2023-for-ecu-arbiters/",
-         "pubDate" : "Wed, 07 Dec 2022 09:37:57 +0000",
-         "title" : "Call of Interest 2023 for ECU Arbiters"
-      },
-      {
-         "description" : "ECU E-Magazine November 2022 is out! In this edition of the ECU E-Magazine you may read about: Communique of the ECU Board Meeting held in Antalya, Turkey European Youth Chess Championship 2022 FIDE World Team Chess Championship 2022 Upcoming European Open and Women Rapid &#38; Blitz Chess Championships 2022 European Cities &#38; Towns Chess Championship European Individual Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-november-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-november-2022/",
-         "pubDate" : "Wed, 07 Dec 2022 08:38:08 +0000",
-         "title" : "ECU E-Magazine November 2022"
       }
    ]
 }
