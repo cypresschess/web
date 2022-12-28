@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-3-live-2/",
+         "pubDate" : "Wed, 28 Dec 2022 08:24:26 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Day 3 live"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/",
          "pubDate" : "Tue, 27 Dec 2022 17:32:59 +0000",
          "title" : "2022 Liberian Chess Championship"
-      },
-      {
-         "description" : "The Bremen Silvester Open A is taking place from 27&#x2013;30 December 2022 in Bremen, Germany. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Frank Bracker, Veaceslav Cofmann, Martin Breutigam, David Hoeffer, Moritz Gressmann, Martin Villwock, Nils-Lennart Heldt, Nikolas Wachinger, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bremen-silvester-open-a-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 17:32:39 +0000",
-         "title" : "Bremen Silvester Open A 2022 - LIVE"
       },
       {
          "description" : "GM Magnus Carlsen assumed the pole position heading into the third and final day of the 2022 FIDE World Rapid Chess Championship having scored key wins over GMs Jorden van Foreest and Giga Quparadze on Tuesday. The classical world champion&#39;s 7.5...",
@@ -288,6 +288,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2152",
          "pubDate" : "Mon, 26 Dec 2022 16:46:19 +0000",
          "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
+      },
+      {
+         "description" : "In the previous post on the world's foremost engine vs. engine competitions, <A HREF=\"http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html\">TCEC/CCC Interludes</A>(December 2022), I could have incorporated an explanation of 'Why interludes?', but I doubt it would have been news to many chess engine fans. Following is a summary of that post. <BLOCKQUOTE>TCEC: LCZero beat KomodoDragon +24-13=63 in the 'S23 Subfinal' for the S23 runnerup position. The site then organized another VVLTC event, the third time that VVLTC has followed a Sufi. The S23 VVLTC was followed by an SVVLTC, which was followed by 'Noomen Extra 2'; see the 'Interludes' post for an explanation of its 3+11 engine",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "http://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html",
+         "pubDate" : "Mon, 26 Dec 2022 16:42:00 +0000",
+         "title" : "TCEC More Interludes; CCC19 Bullet Underway"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96524898.cms\" />India's star player Koneru Humpy won three games in four rounds to share the joint second place with four others in the women's event of the FIDE World Rapid Chess Championships which kicked off here on Monday.",
