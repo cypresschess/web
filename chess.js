@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won his first and last games on Day 2 of the World Rapid Championship to take the sole lead on 7.5/9, but a powerful chasing pack is waiting for any slip-up. That includes 18-year-old Vincent Keymer, who beat Fabiano Caruana, Yu Yangyi and Arjun Erigaisi in successive rounds to move within half a point. In the Women's section Tan Zhongyi and Aleksandra Goryachkina are joined in the lead by 15-year-old Savitha Shri.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-rapid-day-2-keymer-chases-carlsen",
+         "pubDate" : "Wed, 28 Dec 2022 00:01:43 +0000",
+         "title" : "World Rapid Day 2: Keymer chases Carlsen"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his favorite games in the London System (or the Mason Variation) that he played with the white pieces. 2022.12.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-grandmasters-choice-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EgNI3jGvduQ.jpg?itok=muKhn1NP\" alt=\"\" /></a></di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-grandmasters-choice-gm-jj-ali-marandi-lichessorg",
+         "pubDate" : "Tue, 27 Dec 2022 22:56:13 +0000",
+         "title" : "JJ's Best White London System Games | Grandmaster's Choice - GM JJ Ali Marandi | lichess.org"
+      },
+      {
+         "description" : "Reigning World Champion in classical chess Magnus Carlsen is on track for another crown, as Tan Zhonyi comes on top of a three-way tie for first place in the Women's Rapid The second day of the World Rapid and Blitz championships saw four rounds played in both the Open and the Women's section. The Open []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-takes-the-sole-lead-ahead-of-the-world-rapid-2022-final-day/",
+         "pubDate" : "Tue, 27 Dec 2022 22:29:22 +0000",
+         "title" : "Carlsen takes the sole lead ahead of the World Rapid 2022 Final day"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Bremen Silvester Open B 2022 - LIVE"
       },
       {
-         "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2020 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2019 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-right-exchange-2",
          "pubDate" : "Tue, 27 Dec 2022 09:00:00 +0100",
          "title" : "The right exchange"
-      },
-      {
-         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-2-live/",
-         "pubDate" : "Tue, 27 Dec 2022 07:59:08 +0000",
-         "title" : "FIDE World Rapid Chess Championship 2022 - Day 2 live"
       },
       {
          "description" : "The World Rapid Championships 2022 kicked off on the 26th of December 2022 in Almaty, Kazakhstan. Five rounds were played in the open section and four rounds in women. We have four leaders in the open with 4.5/5 and they are Magnus Carlsen, Arjun Erigaisi, Vladimir Fedoseev and Jorden van Foreest. Meanwhile in the women's section we have a sole leader after four rounds on 100% score - Valentina Gunina. We bring you the full day one report along with pictures, analysis, videos and much more.",
@@ -1696,22 +1712,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown",
          "pubDate" : "Wed, 07 Dec 2022 01:39:49 +0000",
          "title" : "Survive Complex Chess Positions | Beginner Breakdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022 (including a win over Magnus Carlsen at the Sinquefield Cup). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hZre8jBVrFg.jpg?itok=Kd",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-niemann-class-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
-         "title" : "The Hans Niemann Class! | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. 2022.12.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 06 Dec 2022 22:39:57 +0000",
-         "title" : "Survive Complex Chess Positions | Beginner Breakdown | lichess.org"
       }
    ]
 }
