@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg",
+         "pubDate" : "Wed, 28 Dec 2022 01:56:24 +0000",
+         "title" : "The Final Chess Lecture of 2022 | Prepare Like A Pro - GM JJ Ali Marandi | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his favorite games in the London System (or the Mason Variation) that he played with the white pieces. 2022.12.27<br /> JJ Ali Marandi vs. Ernesto Inarkiev, 2018: A45 Queen&#039;s pawn game<br /> <a href=\"https://chess24.com/en/watch/live-tournaments/turkish-super-league-2018/2/1/1\">https://chess24.com/en/watch/live-tournaments/turkish-super-league-2018/...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-lo",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-1-grandmasters-choice-gm-jj-ali-marandi",
+         "pubDate" : "Wed, 28 Dec 2022 01:56:24 +0000",
+         "title" : "JJ's Best White London System Games #1 | Grandmaster's Choice - GM JJ Ali Marandi"
+      },
+      {
          "description" : "Magnus Carlsen won his first and last games on Day 2 of the World Rapid Championship to take the sole lead on 7.5/9, but a powerful chasing pack is waiting for any slip-up. That includes 18-year-old Vincent Keymer, who beat Fabiano Caruana, Yu Yangyi and Arjun Erigaisi in successive rounds to move within half a point. In the Women's section Tan Zhongyi and Aleksandra Goryachkina are joined in the lead by 15-year-old Savitha Shri.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1704,14 +1720,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2022/",
          "pubDate" : "Wed, 07 Dec 2022 08:38:08 +0000",
          "title" : "ECU E-Magazine November 2022"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-complex-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/survive-complex-chess-positions-beginner-breakdown",
-         "pubDate" : "Wed, 07 Dec 2022 01:39:49 +0000",
-         "title" : "Survive Complex Chess Positions | Beginner Breakdown"
       }
    ]
 }
