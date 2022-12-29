@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-blitz-chess-championship-day-1",
+         "pubDate" : "Thu, 29 Dec 2022 11:01:00 -0800",
+         "title" : "Commanding Lead For Nakamura At World Blitz Chess Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2157",
+         "pubDate" : "Thu, 29 Dec 2022 18:24:03 +0000",
+         "title" : "World Blitz Championship, Day 1: Nakamura's moment"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96603262.cms\" />Teenaged Indian Grandmaster Raunak Sadhwani was in the ninth spot in the Open event with 8.5 points after 12 rounds in the FIDE World Blitz Championship here on Thursday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1512,14 +1528,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-nakamura-aronian",
          "pubDate" : "Mon, 12 Dec 2022 19:25:00 -0800",
          "title" : "Nakamura Runs Over Aronian In Quarterfinals"
-      },
-      {
-         "description" : "We&#39;re about to see the final games of one of the most exciting World Cups unfold. Whether you&#39;re rooting for the soccer giants France and Argentina, waiting to see Croatian veteran Modric take the cup home, or hoping Morocco makes history as the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-world-cup-chess-bots",
-         "pubDate" : "Mon, 12 Dec 2022 13:45:00 -0800",
-         "title" : "Play The World Cup Country Bots"
       },
       {
          "description" : " The 2022 ACT Rapidplay Championship is being held on the 17th December 2022 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 17 December 2022 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($350 in prizes were awarded in 2021)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF Rated </li><li>ACTCA/ACTJCL Membership reqd - 2023 membership can be paid here <a href=\"https://www.trybooking.com/CEFJY\">https://www.trybooking.com/CEFJY</a></li></ul>(* I am a paid official f",
