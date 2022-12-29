@@ -2,6 +2,166 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Other Central Asian countries are also looking to become more relevant in the elite chess scene, including Kyrgyzstan, a land that was once part of the Timurid Empire - its leader, Timur The Great, was an avid chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars-part-2",
+         "pubDate" : "Thu, 29 Dec 2022 00:15:00 +0100",
+         "title" : "A new wave of chess stars (II)"
+      },
+      {
+         "description" : "The German Team Club Championship U12 is taking place from 27-30 December 2022 in Munich. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 6-round Swiss team tournament with participation of TV Tegernsee ( Tingrui Shen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-german-youth-club-championship-2022-live/",
+         "pubDate" : "Wed, 28 Dec 2022 23:06:49 +0000",
+         "title" : "U12 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The 2022 FIDE World Rapid Chess Championship concluded today in Almaty, Kazakhstan after three days of fights over 13 rounds. Magnus Carlsen emerged as the sole Winner of the event, clinching his 4th World Rapid Champion title. At the final press conference of the rapid event, he sent a strong message: &#8220;I will stop [winning []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-final-rankings/",
+         "pubDate" : "Wed, 28 Dec 2022 22:57:47 +0000",
+         "title" : "FIDE World Rapid Chess Championship 2022 - Final rankings"
+      },
+      {
+         "description" : "The 2022 FIDE Women's World Rapid Chess Championship concluded today in Almaty, Kazakhstan after three days of fights over 11 rounds. It was a spectacular finish of with the playoff determining the gold medalist in the event as Dinara Saduakassova and Tan Zhongyi tied for the top with 8.5 points, each. Tan Zhongyi won the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-womens-rapid-chess-championship-2022-final-rankings/",
+         "pubDate" : "Wed, 28 Dec 2022 22:53:31 +0000",
+         "title" : "FIDE World Women's Rapid Chess Championship 2022 - Final rankings"
+      },
+      {
+         "description" : "The German Team Club Championship U14 is taking place from 27-30 December 2022 in Kelheim. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss team tournament with participation of USV TU Dresden ( David []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-german-youth-club-championship-2022-live/",
+         "pubDate" : "Wed, 28 Dec 2022 22:29:32 +0000",
+         "title" : "U14 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The World Rapid Chess Championships concluded with another world title for Carlsen. Tan Zhongyi is first among women after winning a tiebreaker. After three days of play, the World Rapid Chess Championships ended in Almaty. Following 13 rounds in the Open section,&#160;Magnus Carlsen&#160;came out on top, with 10/13. It is his fourth chess crown in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-and-tan-zhongyi-are-2022-world-rapid-chess-champions/",
+         "pubDate" : "Wed, 28 Dec 2022 22:27:29 +0000",
+         "title" : "Magnus Carlsen and Tan Zhongyi are 2022 World Rapid Chess Champions"
+      },
+      {
+         "description" : "The German Team Club Championship Girls U16 is taking place from 27-30 December 2022 in Neum&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss team tournament with participation of Hamburger SK von 1830 eV []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-german-youth-club-championship-2022-live/",
+         "pubDate" : "Wed, 28 Dec 2022 22:12:07 +0000",
+         "title" : "Girls U16 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen clinched his fourth World Rapid Champion title today in Kazakhstan. Being asked &#8220;when will he stop winning world titles&#8221; at the press conference after the games, Carlsen responded: &#8220;I'll stop when somebody stops me&#8220;. Commenting on the event, Carlsen noted that this was &#x201C;a really tough tournament&#x201D; and that it&#x2019;s &#x201C;really hard to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-i-will-stop-when-somebody-stops-me/",
+         "pubDate" : "Wed, 28 Dec 2022 21:45:00 +0000",
+         "title" : "Magnus Carlsen: I will stop when somebody stops me"
+      },
+      {
+         "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-and-tan-zhongyi-win-world-rapid-championship-gold",
+         "pubDate" : "Wed, 28 Dec 2022 21:18:45 +0000",
+         "title" : "Carlsen and Tan Zhongyi win World Rapid Championship gold"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2156",
+         "pubDate" : "Wed, 28 Dec 2022 20:16:20 +0000",
+         "title" : "Magnus Carlsen and Tan Zhongyi are the World Champions in Rapid"
+      },
+      {
+         "description" : "The German Team Club Championship U16 is taking place from 27-30 December 2022 in Darmstadt. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss team tournament with participation of SC Borussia Lichtenberg ( Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-german-youth-club-championship-2022-live/",
+         "pubDate" : "Wed, 28 Dec 2022 18:03:28 +0000",
+         "title" : "U16 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #548 Merijn van Delft looks at a game from the Dutch Championship and analyses a fine straightforward win which Erwin L'Ami scored against Sergey Tiviakov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-547--2",
+         "pubDate" : "Wed, 28 Dec 2022 19:00:00 +0100",
+         "title" : "Game of the Week #548: Erwin L'Ami vs S. Tiviakov"
+      },
+      {
+         "description" : "The German Team Club Championship Girls U20 is taking place from 27-30 December 2022 in M&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss team tournament with participation of USV Halle ( Kristin Dietz, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u20-german-youth-club-championship-2022-ilona-bykovlive/",
+         "pubDate" : "Wed, 28 Dec 2022 17:45:53 +0000",
+         "title" : "Girls U20 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "The German Team Club Championship U20 is taking place from 27-30 December 2022 in M&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss team tournament with participation of Hamburger SK von 1830 eV []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-german-youth-club-championship-2022-live/",
+         "pubDate" : "Wed, 28 Dec 2022 17:38:05 +0000",
+         "title" : "U20 German Youth Club Championship 2022 - LIVE"
+      },
+      {
+         "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-martinez-win-titled-tuesday-december-27-2022",
+         "pubDate" : "Wed, 28 Dec 2022 09:05:38 -0800",
+         "title" : "Firouzja Wraps Up Year With Titled Tuesday Win"
+      },
+      {
+         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3/",
+         "pubDate" : "Wed, 28 Dec 2022 16:09:44 +0000",
+         "title" : "2023 ECF Online Grand Prix (Series 3)"
+      },
+      {
+         "description" : "The ECF match against Team France will start at 5.00 pm on Sunday 1st January over three legs as follows &#8212; 5.00pm England vs France...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-vs-france-new-years-day-online-challenge/",
+         "pubDate" : "Wed, 28 Dec 2022 16:02:38 +0000",
+         "title" : "England vs France - New Years Day Online Challenge"
+      },
+      {
+         "description" : "GM Magnus Carlsen claimed his fourth world rapid chess crown on Wednesday and finished with a commanding score of 10/13 in the 2022 FIDE World Rapid Chess Championship.&#38;nbsp; A round-11 hiccup against GM Vladislav Artemiev pulled Carlsen&#39;s tourn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-3",
+         "pubDate" : "Wed, 28 Dec 2022 07:15:00 -0800",
+         "title" : "Carlsen Wins 4th Rapid World Championship, Tan Takes Women's Title"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96576036.cms\" />Fifteen-year-old Indian WIM B Savitha Shri on Wednesday won a bronze medal in the women's event of FIDE World Rapid Championship here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-savitha-shri-bags-bronze-in-world-rapid-chess/articleshow/96576036.cms",
+         "pubDate" : "Wed, 28 Dec 2022 14:50:34 +0000",
+         "title" : "India's Savitha Shri bags bronze in World Rapid Chess"
+      },
+      {
+         "description" : "15 year old B Savitha Shri secured Bronze Medal in the World Women Rapid Chess Championship at Almaty, Kazakhstan ahead of many fancied players. She",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-savitha-shri/",
+         "pubDate" : "Wed, 28 Dec 2022 14:12:33 +0000",
+         "title" : "Congratulations Savitha Shri"
+      },
+      {
          "description" : " Sports have a lot of 'unwritten rules'. They exist to make sure everyone stays within what is considered acceptable behaviour, even if the the actions are not technically illegal. In baseball for example, showing up a pitcher after hitting a home run is likely to get yourself drilled by a pitch at some point in the future. South Africa seemed to not be aware of this during today's Test match against Australia. Bowling short pitched deliveries to tail end batsmen was for a long time considered 'out of bounds', in part because the players your were trying to hit had the ability to return fire when you batted. So hitting Mitchell Starc on the helmet in failing light might have seemed like a go",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -18,52 +178,20 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
       },
       {
-         "description" : "ChessBase India published an interesting video of a situation that appeared yesterday during the 7th round of the World Rapid Chess Championship 2022 in Almaty. It was the game between Vladislav Kovalev and 12-year-old Artem Uskov. The young Russian was in a time trouble and made an illegal move as he wanted to take the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kovalev-vs-uskov-world-rapid-2022-r7-arbiters-intervention-video/",
-         "pubDate" : "Wed, 28 Dec 2022 09:14:17 +0000",
-         "title" : "Kovalev vs Uskov World Rapid 2022 R7 & Arbiters' intervention (VIDEO)"
+         "description" : "Magnus Carlsen won his fourth World Rapid Championship title by scoring 10 points in 13 rounds at the open tournament in Almaty. Vincent Keymer and Fabiano Caruana completed the podium. Meanwhile, Tan Zhongyi grabbed the gold medal among the women, with Dinara Saduakassova and Savitha Shri finishing second and third respectively. | Find the final standings and all available games here. A full pictorial report will be published later today. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
+         "pubDate" : "Wed, 28 Dec 2022 09:45:00 +0100",
+         "title" : "World Rapid: Carlsen and Tan take gold"
       },
       {
          "description" : "Magnus Carlsen became the triple champion in 2019 - in classical, rapid and blitz. However, in 2021, he lost both his rapid and blitz titles to Abdusattorov and MVL respectively. This year, the Norwegian has come with great willpower in order to reclaim his dominance on the world of chess. And he is doing it in style at the World Rapid Championships 2022 in Almaty, Kazakhstan. After 9 rounds, he is in sole lead with 7.5/9. In the women's section we have three leaders - Tan Zhongyi, Goryachkina and the surprise Savitha Shri. All three of them on 6.5/8. A detailed day 2 report.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magnus-carlsen-well-set-to-become-world-rapid-champion-2022",
-         "pubDate" : "Wed, 28 Dec 2022 10:11:10 +0100",
+         "pubDate" : "Wed, 28 Dec 2022 09:00:10 +0100",
          "title" : "Magnus Carlsen well set to become World Rapid Champion 2022"
-      },
-      {
-         "description" : "The final day of the World Rapid Championships is being played in Almaty, with four rounds in the open and three rounds in the women's section set to decide who will become the 2022 world rapid chess champions. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST). | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
-         "pubDate" : "Wed, 28 Dec 2022 09:45:00 +0100",
-         "title" : "World Rapid Championships - Live!"
-      },
-      {
-         "description" : "The 21st edition of the Prague Chess Open will take place from 6-13 January 2023 at the Olympik Hotel Prague, Czech Republic. The festival features three tournaments: Open A, Open B and Open C, with a prize fund of 50.000 CZK ~ 2.000eur for the main Open A tournament. The event will be played in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-open-2023/",
-         "pubDate" : "Wed, 28 Dec 2022 08:44:44 +0000",
-         "title" : "Prague Chess Open 2023"
-      },
-      {
-         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-day-3-live-2/",
-         "pubDate" : "Wed, 28 Dec 2022 08:24:26 +0000",
-         "title" : "FIDE World Rapid Chess Championship 2022 - Day 3 live"
-      },
-      {
-         "description" : "The&#xA0;21st edition of the Prague Chess Open&#xA0;will take place from 6-13 January 2023 at the Olympik Hotel Prague, Czech Republic.&#xA0;The event will be played in 9 rounds, swiss system, with time control of 90 minutes for 30 moves, followed by 30 minutes for the end of the game and 30 seconds increment starting from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/prague-chess-open-2023-live/",
-         "pubDate" : "Wed, 28 Dec 2022 08:12:53 +0000",
-         "title" : "Prague Chess Open 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
@@ -98,60 +226,12 @@ news_feed (
          "title" : "JJ's Best White London System Games | Grandmaster's Choice - GM JJ Ali Marandi | lichess.org"
       },
       {
-         "description" : "Reigning World Champion in classical chess Magnus Carlsen is on track for another crown, as Tan Zhonyi comes on top of a three-way tie for first place in the Women's Rapid The second day of the World Rapid and Blitz championships saw four rounds played in both the Open and the Women's section. The Open []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-takes-the-sole-lead-ahead-of-the-world-rapid-2022-final-day/",
-         "pubDate" : "Tue, 27 Dec 2022 22:29:22 +0000",
-         "title" : "Carlsen takes the sole lead ahead of the World Rapid 2022 Final day"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2155",
          "pubDate" : "Tue, 27 Dec 2022 20:10:01 +0000",
          "title" : "Carlsen and Tan Zhongyi in the lead ahead of final day of World Rapid"
-      },
-      {
-         "description" : "The Cracovia International Chess Festival 2022 kicks off today in Krakow, Poland. The event will be played in 9 rounds, swiss system with the time control of 90 minutes for the entire game, plus a 30-second increment starting from move one. 68 players registered for the event, and the top seeds are Tomasz Warkomski, Evgeny []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cracovia-international-chess-festival-2022/",
-         "pubDate" : "Tue, 27 Dec 2022 19:19:14 +0000",
-         "title" : "Cracovia International Chess Festival 2022"
-      },
-      {
-         "description" : "The&#160;Cracovia International Chess Festival 2022&#160;is taking place in Krakow, Poland from 27 December to 4 January. The event will be played in 9 rounds, swiss system with the time control of 90 minutes for the entire game, plus a 30-second increment starting from move one.&#160; Cracovia International Chess Festival 2022 LIVE games:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cracovia-international-chess-festival-2022-live/",
-         "pubDate" : "Tue, 27 Dec 2022 19:13:46 +0000",
-         "title" : "Cracovia International Chess Festival 2022 - LIVE"
-      },
-      {
-         "description" : "The&#xA0;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, takes place from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#xA0;new qualification path to the Candidates Tournament. FIDE&#x2019;s Fair Play Commission (FPL) is helping the Stockholm Chess Federation with implementing fair play measures before and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50th-rilton-cup-starts-in-stockholm/",
-         "pubDate" : "Tue, 27 Dec 2022 19:10:37 +0000",
-         "title" : "50th Rilton Cup starts in Stockholm"
-      },
-      {
-         "description" : "In the post-game interview of the FIDE World Rapid Chess Championship 2022 Round 7, Polish grandmaster GM Jan-Krzysztof Duda said that he is doing okay so far in the event. He explained that he had a tense game against Abdusattorov at the start of the second Rapid day adding that he enjoys shorter time controls. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-classical-chess-is-the-type-i-like-least/",
-         "pubDate" : "Tue, 27 Dec 2022 18:45:28 +0000",
-         "title" : "Jan-Krzysztof Duda: Classical chess is the type I like least"
-      },
-      {
-         "description" : "GM Eric Hansen announced today on his official twitter account that he decided to withdraw from the FIDE World Rapid Chess Championship 2022 for medical reasons. Hansen explained that he developed aggressive flu-like symptoms overnight and that he will decide in 2 days if he will compete in the Blitz Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/eric-hansen-withdrew-from-fide-world-rapid-championship-2022/",
-         "pubDate" : "Tue, 27 Dec 2022 18:22:31 +0000",
-         "title" : "Eric Hansen withdrew from FIDE World Rapid Championship 2022"
       },
       {
          "description" : "In the first press conference of the World Rapid and Blitz Championships, Magnus Carlsen and FIDE President Arkady Dvorkovich answered a broad set of questions from the media. Among other topics, Carlsen discussed his ambitions in Almaty, chess and mental health, and whether he will play Hans Niemann if they happen to be paired up against each other. | Photos: Sergey Alekseenok and Lennart Ootes",
@@ -1122,14 +1202,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 17"
       },
       {
-         "description" : "National Sub Junior U-15 Chess Championship 2022 Certificates are out to download Download using the link given below Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-sub-junior-u-15-chess-championship-2022-certificates/",
-         "pubDate" : "Sat, 17 Dec 2022 08:14:49 +0000",
-         "title" : "National Sub Junior U-15 Chess Championship 2022 Certificates"
-      },
-      {
          "description" : "This week, Daniel King examines games from the Sitges Open, featuring some nice tactics. Then, in more detail, two games that feature the Rossolimo. For the unwary, this is a dangerous opening! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1186,28 +1258,12 @@ news_feed (
          "title" : "Paul Azzurro, Chess Video Producer"
       },
       {
-         "description" : "Hikaru Nakamura defeated Nihal Sarin by a 14&frac12;-10&frac12; score in the first semifinal of the Speed Chess Championship. Naka, who won every edition of the online event since 2018, will face either Magnus Carlsen or Maxime Vachier-Lagrave in the final match, which is set to take place on December 20.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-nakamura-nihal",
-         "pubDate" : "Fri, 16 Dec 2022 17:00:00 +0100",
-         "title" : "Speed Chess: \"Burned out\" Nakamura reaches final"
-      },
-      {
          "description" : "The week's schedule of online events is now available including Regular ECF online rated members club tournaments on Chess.com and Lichess.org The reformatted ECF...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-online-news/",
          "pubDate" : "Fri, 16 Dec 2022 14:04:49 +0000",
          "title" : "ECF Online news"
-      },
-      {
-         "description" : "Viktor Korchnoi ( 1931 - 2016 ) was undoubtedly one of the most fascinating personalities in the chess world. The two-time World Championship finalist played successful and attractive chess, even into old age. We have a great Korchnoi bundle for you in our ChessBase Shop. The Fritztrainer - My life for chess, and the Masterclass Vol. 15 - Viktor Korchnoi. The complete package is available for only €49.90 and is now also available as a streaming version.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/korchnoi-special-2",
-         "pubDate" : "Fri, 16 Dec 2022 13:51:14 +0100",
-         "title" : "Korchnoi Special"
       },
       {
          "description" : " One of the difficulties in playing a GM is that almost every move they play is exact. Even in positions where there seems to be a choice of moves, the move chosen seems to be the move required by the position. In this recent game, White looks to win without much effort, albeit due to Black missing White's real intentions at a number of points. But playing through the game, I was struck by how important 10.e5 was in the overall scheme of things. White's whole game revolved around the squares the pawn controlled, forcing Black to make a number of concessions to deal with it's surprising power. Given that it was only the 4th or 5th best choice for Deep Fritz, I do wonder if Safarli was already",
@@ -1458,14 +1514,6 @@ news_feed (
          "title" : "2022 ACT Rapidplay Championship - 17 December 2022"
       },
       {
-         "description" : "GM Magnus Carlsen and GM Hikaru Nakamura, the two biggest stars in chess, will be among the participants at the FIDE World Rapid &#38;amp; Blitz Championships in Almaty, Kazakhstan. As always, the tournament will be held during the last week of the ye...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-blitz-participants",
-         "pubDate" : "Mon, 12 Dec 2022 09:31:00 -0800",
-         "title" : "Carlsen, Nakamura Among Participants At World Rapid & Blitz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1480,14 +1528,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
          "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
          "title" : "TCEC/CCC Interludes"
-      },
-      {
-         "description" : "GM Aman &#34;Chessbrah&#34; Hambleton was able to confirm a resounding, albeit controversial, win over IM Lawrence Trent via technical knockout (TKO) during Sunday&#39;s landmark Mogul Chessboxing Championship, organized by the 2022 Game Awards Creator of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mogul-chessboxing-championship-hambleton-trent",
-         "pubDate" : "Mon, 12 Dec 2022 03:31:00 -0800",
-         "title" : "Hambleton Scores TKO Over Trent, Belenkaya Checkmates Botez In Record-Breaking Chessboxing Event"
       },
       {
          "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
@@ -1634,14 +1674,6 @@ news_feed (
          "title" : "Winding down for Christmas?"
       },
       {
-         "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/5-things-to-avoid/",
-         "pubDate" : "Fri, 09 Dec 2022 11:39:12 +0000",
-         "title" : "5 Things You Need To Avoid To Improve In Chess"
-      },
-      {
          "description" : "Entries are now open for the EPSCA National Primary Schools Championships 2023 in partnership with Kingswood Activity Centre. There will be three stages &#8212; Stage...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1672,62 +1704,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nihal-sarin-beats-anish-giri-in-thriller",
          "pubDate" : "Thu, 08 Dec 2022 14:44:52 +0000",
          "title" : "Nihal Sarin beats Anish Giri in thriller"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on how to survive complex positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/simplify-complicated-chess-positions-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EA1XHkfXqmk.jpg?itok=Cw73UWju\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/simplify-complicated-chess-positions-beginner-breakdown",
-         "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
-         "title" : "Simplify Complicated Chess Positions | Beginner Breakdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky looks at games from young American grandmaster Hans Niemann, who performed well and reached superstardom in 2022.<br /> See Niemann's most complicated positions and how he overcame them, including from the ongoing El Llobregat Open. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hans-niemann-spain-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Wed, 07 Dec 2022 19:40:17 +0000",
-         "title" : "Hans Niemann in Spain | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2125",
-         "pubDate" : "Wed, 07 Dec 2022 15:47:30 +0000",
-         "title" : "FIDE Chessable Academy Camp gets underway in Sitges"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2124",
-         "pubDate" : "Wed, 07 Dec 2022 15:39:08 +0000",
-         "title" : "Tan Zhongyi and Goryachkina 1-1 with two games to go"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen destroyed Gukesh 23:7 to set up a Speed Chess Championship quarterfinal against Fabiano Caruana, only to complain afterwards, \"I felt like I was playing horribly from the start\". The event continues with Anish Giri taking on Nihal Sarin today at 11:00 ET/17:00 CET/21:30 IST.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-plays-horribly-beats-gukesh-23-7",
-         "pubDate" : "Wed, 07 Dec 2022 14:28:26 +0000",
-         "title" : "Carlsen plays \"horribly\", beats Gukesh 23:7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2123",
-         "pubDate" : "Wed, 07 Dec 2022 13:41:29 +0000",
-         "title" : "Chess for Social benefits and Women inclusion Conference held in Paris"
-      },
-      {
-         "description" : " The idea of targeting and occupying weak squares can be a strange concept when coaching younger players. Having been instructed to look for checks and captures, being asked to now look to 'capture squares' can be confusing. In some instances such advice will be ignored, but in other cases, it can lead to over thinking, where more substantial targets are ignored. In trying to locate a good example, I cam across this very fine game by Botvinnik against Donner. Occupying c6 with a knight is clearly the goal, but fortunately, it creates enough direct threats that the concept of 'good pieces lead to good tactics' is also easy to show. <br /> <b>Botvinnik,Mikhail - Donner,Jan Hein [A14]</b><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/capturing-thin-air.html",
-         "pubDate" : "Wed, 07 Dec 2022 13:27:00 +0000",
-         "title" : "Capturing thin air"
       }
    ]
 }
