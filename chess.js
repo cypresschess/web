@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-blitz-chess-championship-2022-day-1-live/",
+         "pubDate" : "Thu, 29 Dec 2022 08:28:46 +0000",
+         "title" : "World Blitz Chess Championship 2022 - Day 1 live"
+      },
+      {
          "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Other Central Asian countries are also looking to become more relevant in the elite chess scene, including Kyrgyzstan, a land that was once part of the Timurid Empire - its leader, Timur The Great, was an avid chess player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.chessdom.com/girls-u20-german-youth-club-championship-2022-ilona-bykovlive/",
          "pubDate" : "Wed, 28 Dec 2022 17:45:53 +0000",
          "title" : "Girls U20 German Youth Club Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The German Team Club Championship U20 is taking place from 27-30 December 2022 in M&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss team tournament with participation of Hamburger SK von 1830 eV []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-german-youth-club-championship-2022-live/",
-         "pubDate" : "Wed, 28 Dec 2022 17:38:05 +0000",
-         "title" : "U20 German Youth Club Championship 2022 - LIVE"
       },
       {
          "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
