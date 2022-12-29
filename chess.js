@@ -10,6 +10,14 @@ news_feed (
          "title" : "World Blitz championship: Indian GM Sadhwani in 9th spot"
       },
       {
+         "description" : " &#160;\"New year, new me\" you might say. But didn't you say the exact same thing one year ago? If 2022 then proceeded to be an amazing chess year for you, just do more of the same in 2023! It seems that you figured it out. For many of you, I expect this is more a [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/new-year-2023/\">New Year's Resolutions: Make Them Work In 2023</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/new-year-2023/",
+         "pubDate" : "Thu, 29 Dec 2022 15:33:36 +0000",
+         "title" : "New Year's Resolutions: Make Them Work In 2023"
+      },
+      {
          "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1680,6 +1688,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/winding-down-for-christmas.html",
          "pubDate" : "Fri, 09 Dec 2022 12:51:00 +0000",
          "title" : "Winding down for Christmas?"
+      },
+      {
+         "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/5-things-to-avoid/",
+         "pubDate" : "Fri, 09 Dec 2022 11:39:12 +0000",
+         "title" : "5 Things You Need To Avoid To Improve In Chess"
       },
       {
          "description" : "Entries are now open for the EPSCA National Primary Schools Championships 2023 in partnership with Kingswood Activity Centre. There will be three stages &#8212; Stage...",
