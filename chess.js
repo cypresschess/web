@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96603262.cms\" />Teenaged Indian Grandmaster Raunak Sadhwani was in the ninth spot in the Open event with 8.5 points after 12 rounds in the FIDE World Blitz Championship here on Thursday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-indian-gm-sadhwani-in-9th-spot/articleshow/96603262.cms",
+         "pubDate" : "Thu, 29 Dec 2022 15:56:06 +0000",
+         "title" : "World Blitz championship: Indian GM Sadhwani in 9th spot"
+      },
+      {
          "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
       },
       {
-         "description" : "The World Blitz Championships are taking place on December 29-30 in Almaty, Kazakhstan. The open section sees players competing in a 21-round Swiss, while the women's tournament is a 17-rounder. Magnus Carlsen and Tan Zhongyi will be eyeing to claim a second world title in the Kazakh city, as they come from winning the World Rapid on Wednesday. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "description" : "Hikaru Nakamura had a magnificent first day at the World Blitz Championship in Almaty, as he won eight games and drew four to go into the final nine rounds a full point ahead of a five-player chasing pack. In the women's tournament, Valentina Gunina and Polina Shuvalova are sharing first place on 7&frac12;/9 points. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz",
          "pubDate" : "Thu, 29 Dec 2022 09:45:00 +0100",
-         "title" : "World Blitz Championships - Live!"
+         "title" : "World Blitz: Nakamura a full point ahead!"
       },
       {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
          "pubDate" : "Fri, 09 Dec 2022 00:10:12 +0000",
          "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
-      },
-      {
-         "description" : "Magnus Carlsen turned up at the last minute to join Jan Gustafsson and Laurent Fressinet commentating on the Nihal Sarin vs. Anish Giri Speed Chess match. The players didn't disappoint as it became a thriller, with Giri surprising everyone by losing the slower blitz sections before dominating in bullet - at least until Nihal Sarin edged a wildly entertaining tiebreak.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nihal-sarin-beats-anish-giri-in-thriller",
-         "pubDate" : "Thu, 08 Dec 2022 14:44:52 +0000",
-         "title" : "Nihal Sarin beats Anish Giri in thriller"
       }
    ]
 }
