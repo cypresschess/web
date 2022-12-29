@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now that Argentina has won the FIFA World Cup in memorable fashion, it is a great time to reminisce on the legacy of Miguel Najdorf. 'Don Miguel' was born in Warsaw, but was among the many European players who found themselves in Buenos Aires when the Second World War broke out in 1939. Najdorf stayed in Argentina and spent most of his life in the South American country. Najdorf was one of the fifteen players who participated in the legendary 1953 Candidates Tournament in Zurich.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-najdorf-zurich-candidates",
+         "pubDate" : "Fri, 30 Dec 2022 00:45:00 +0100",
+         "title" : "Throwback Thursday: Miguel Najdorf at the Zurich Candidates"
+      },
+      {
+         "description" : "Hikaru Nakamura is a point ahead of everyone else after the first day of the blitz in the Open tournament. In the Women's event, Polina Shuvalova and Valentina Gunina are tied for first place. The World Blitz Chess Championship got underway today in Almaty, Kazakhstan, with the sound of chess clocks ticking quickly throughout the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-shines-at-the-world-blitz-championship-2022/",
+         "pubDate" : "Thu, 29 Dec 2022 22:50:24 +0000",
+         "title" : "Hikaru Nakamura shines at the World Blitz Championship 2022"
+      },
+      {
          "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,20 +50,20 @@ news_feed (
          "title" : "New Year's Resolutions: Make Them Work In 2023"
       },
       {
-         "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-tan-zhongyi-are-world-rapid-2022-champions",
-         "pubDate" : "Thu, 29 Dec 2022 10:22:04 +0100",
-         "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
-      },
-      {
          "description" : "Hikaru Nakamura had a magnificent first day at the World Blitz Championship in Almaty, as he won eight games and drew four to go into the final nine rounds a full point ahead of a five-player chasing pack. In the women's tournament, Valentina Gunina and Polina Shuvalova are sharing first place on 7&frac12;/9 points. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz",
          "pubDate" : "Thu, 29 Dec 2022 09:45:00 +0100",
          "title" : "World Blitz: Nakamura a full point ahead!"
+      },
+      {
+         "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-tan-zhongyi-are-world-rapid-2022-champions",
+         "pubDate" : "Thu, 29 Dec 2022 09:30:00 +0100",
+         "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
       },
       {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-547--2",
          "pubDate" : "Wed, 28 Dec 2022 19:00:00 +0100",
          "title" : "Game of the Week #548: Erwin L'Ami vs S. Tiviakov"
-      },
-      {
-         "description" : "The German Team Club Championship Girls U20 is taking place from 27-30 December 2022 in M&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss team tournament with participation of USV Halle ( Kristin Dietz, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u20-german-youth-club-championship-2022-ilona-bykovlive/",
-         "pubDate" : "Wed, 28 Dec 2022 17:45:53 +0000",
-         "title" : "Girls U20 German Youth Club Championship 2022 - LIVE"
       },
       {
          "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
@@ -328,6 +336,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2154",
          "pubDate" : "Tue, 27 Dec 2022 13:06:00 +0000",
          "title" : "Ni Hua and Zhu Jiner win 2022 Yinzhou Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2148",
+         "pubDate" : "Tue, 27 Dec 2022 12:55:57 +0000",
+         "title" : "Season's Greetings from FIDE President"
       },
       {
          "description" : " After a break of a few years, the historic Hastings event has returned. While no longer attracting the huge numbers it did in the past, the Masters section has 13 GM's in its 101 player field. It will also attract plenty of players for the supporting events, which include AM swisses, weekend tournaments, and evening blitz. This is the 96th edition of the tournament, and barring any world shattering disasters, the 100th edition should be in 2026. When I visited the event (as an arbiter) in 2016, I promised to return for the 100th, a promise I do plan to keep. Tournament homepage is <a href=\"https://hastingschess.com/\">here. </a> ",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d5",
          "pubDate" : "Sat, 24 Dec 2022 06:15:00 +0100",
          "title" : "Abdusattorov wins Gashimov Memorial with five rounds to spare"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2148",
-         "pubDate" : "Fri, 23 Dec 2022 23:55:57 +0000",
-         "title" : "Season's Greetings from FIDE President"
       },
       {
          "description" : "",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1789",
          "pubDate" : "Sat, 17 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 17"
-      },
-      {
-         "description" : "This week, Daniel King examines games from the Sitges Open, featuring some nice tactics. Then, in more detail, two games that feature the Rossolimo. For the unwary, this is a dangerous opening! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-sitges",
-         "pubDate" : "Sat, 17 Dec 2022 08:30:00 +0100",
-         "title" : "Daniel King's Power Play Show: The raging Rossolimo"
       },
       {
          "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
