@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-tan-zhongyi-are-world-rapid-2022-champions",
+         "pubDate" : "Thu, 29 Dec 2022 10:22:04 +0100",
+         "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
+      },
+      {
+         "description" : "The World Blitz Championships are taking place on December 29-30 in Almaty, Kazakhstan. The open section sees players competing in a 21-round Swiss, while the women's tournament is a 17-rounder. Magnus Carlsen and Tan Zhongyi will be eyeing to claim a second world title in the Kazakh city, as they come from winning the World Rapid on Wednesday. | Follow the games live with expert commentary, starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz",
+         "pubDate" : "Thu, 29 Dec 2022 09:45:00 +0100",
+         "title" : "World Blitz Championships - Live!"
+      },
+      {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1210,14 +1226,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The raging Rossolimo"
       },
       {
-         "description" : "Halfway through the 10-round main tournament in Sitges, Kirill Alekseenko and Karthikeyan Murali still have a perfect score, after beating Abhimanyu Puranik and Aditya Samant respectively. Five players stand a half point back, including second seed Hans Niemann, who on Friday drew Karen Grigoryan with the black pieces. | Pictured: The great-looking analysis room in Sitges",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r5",
-         "pubDate" : "Sat, 17 Dec 2022 08:00:00 +0100",
-         "title" : "Sunway Sitges: Alekseenko and Karthikeyan co-leaders"
-      },
-      {
          "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2138",
          "pubDate" : "Fri, 16 Dec 2022 18:40:03 +0000",
          "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "In the second semi-final of the Speedchess Championship on chess.com Magnus Carlsen meets Maxime Vachier-Lagrave, and that gives the World Champion the opportunity for a little revenge. After all, in the semi-finals of the Speedchess Championship 2020 Carlsen had lost to \"MVL\", who then lost to Hikaru Nakamura in the final. This time Carlsen wants to do better, but of course \"MVL\" has other plans. Action starts at 19:00 CET (10:00 PT). With live commentary by Laurent Fressinet and Peter Heine Nielsen. | Graphics: chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speedchess-so-vs-vachier-lagrave-3",
-         "pubDate" : "Fri, 16 Dec 2022 18:45:00 +0100",
-         "title" : "Speedchess Championship: Magnus Carlsen vs Maxime Vachier-Lagrave"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html\">Shirov's SmartChess Videos</A>(December 2022), I finished saying, <BLOCKQUOTE>We also learn from the page [on ichess.net] that the videos were 'Originally Produced by Paul Azzurro'. That might be worth additional investigation but I've run out of time for this post. </BLOCKQUOTE> <P>Let's pick up this week where I left off last week. First stop:- <UL><LI><A HREF=\"https://www.youtube.com/@Chessdvds\">Paul Azzurro</A>(youtube.com/@Chessdvds; a few other Youtube URLs point to the same page) &#149; 'Chessondvd.com worlds largest producer of chess on dvd over 300 to choose from.' </UL>",
