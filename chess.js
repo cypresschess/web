@@ -2,20 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen emerged as the Winner of the FIDE World Blitz Chess Championship 2022 leaving Almaty with the triple crown as World Champion in Classical, Rapid, and Blitz chess! Magnus Carlsen scored 16/21 in the Open section and finished clear first, a full point ahead of&#xA0;Hikaru Nakamura&#xA0;and&#xA0;Haik Martirosyan who tied for silver. Tiebreak criteria favored []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-world-blitz-chess-championship-2022/",
+         "pubDate" : "Fri, 30 Dec 2022 15:52:08 +0000",
+         "title" : "Magnus Carlsen wins World Blitz Chess Championship 2022"
+      },
+      {
+         "description" : "Bibisara Assaubayeva emerged as the Winner of the 2022 FIDE World Women's Blitz Chess Championship in her homeland, Kazakhstan. Assaubayeva defended her 2021 Blitz Champion title. &#8220;I am very happy to win and defend my title. And I am especially happy to do it in Kazahstan, my homeland&#8220;, said Assaubayeva at the press conference. With []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bibisara-assaubayeva-retains-her-world-blitz-champion-title/",
+         "pubDate" : "Fri, 30 Dec 2022 15:22:00 +0000",
+         "title" : "Bibisara Assaubayeva retains her World Blitz Champion title"
+      },
+      {
+         "description" : "Magnus Carlsen not only won the Rapid Championship 2022, but also the Blitz Championship. The GOAT of chess, played some remarkable games, and Svitlana takes a closer look at two of them. Funnily enough, in one of the games, Bobby Fischer had a very similar position against Ulf Andersson. Perhaps Carlsen remembered the particular attacking move, and used it for his own victory. But this episode begins with the masterful tactic of Daniil Dubov against Nihal Sarin. What a stunner!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-fantastic-games-of-the-rapid-championship",
+         "pubDate" : "Fri, 30 Dec 2022 16:19:38 +0100",
+         "title" : "Svitlana's Smart Moves - Fantastic games of the Rapid Championship 2022"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96627464.cms\" />Indian ace Koneru Humpy came up with a superb performance after a modest run in the initial phase to claim the silver medal in the women's section of the FIDE World Blitz Chess Championship on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-indias-koneru-humpy-wins-silver-in-womens-section/articleshow/96627464.cms",
+         "pubDate" : "Fri, 30 Dec 2022 14:29:49 +0000",
+         "title" : "World Blitz Chess Championship: Koneru Humpy wins silver"
+      },
+      {
+         "description" : "2022 has been an outstanding year for English seniors chess. WIM Natasha Regan has put together a retrospective look at English seniors chess during the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-chess-a-retrospective-for-2022/",
+         "pubDate" : "Fri, 30 Dec 2022 14:07:47 +0000",
+         "title" : "English seniors chess - a retrospective for 2022"
+      },
+      {
+         "description" : " The world No 1 led all the way in the 15-minute Rapid, scoring 10/13 with some classic wins, but the incident-packed Blitz, where he totalled 16/21, was much closer Magnus Carlsen scored another triumph this week when the 32-year-old No 1 won the World Rapid and World Blitz titles ahead of more than 170 rivals in Almaty, Kazakhstan. The Norwegian's 10/13 Rapid total was half a point ahead of Germany's Vincent Keymer in second place and the US champion, Fabiano Caruana, in third, while in Blitz he totalled 16/21, a full point ahead of Hikaru Nakamura of the US, who took silver on tie-break from Armenia's Haik Martirosyan. Carlsen has now been the dominant player in World Rapids for more than",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/30/chess-carlsen-triumphs-in-world-rapid-then-sprints-to-avoid-blitz-time-forfeit",
+         "pubDate" : "Fri, 30 Dec 2022 14:04:47 +0000",
+         "title" : "Chess: Magnus Carlsen captures double world crown in Rapid and Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2158",
+         "pubDate" : "Fri, 30 Dec 2022 13:35:46 +0000",
+         "title" : "Magnus Carlsen and Bibisara Assaubayeva win the World Blitz Chess Championships"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added shortly. GM Magnus Carlsen clinched the 2022 FIDE World Blitz Championship title on Friday with a score of 16/21, one point ahead of silver medalist GM Hikaru Nakamura and bronze medalist on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2022-fide-world-blitz-chess-championship-day-2",
+         "pubDate" : "Fri, 30 Dec 2022 05:24:00 -0800",
+         "title" : "Flash Report: Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
+      },
+      {
+         "description" : "Our time travel journey is over, and we return from 1972 to the present. This year we reached a new world record, with almost 7200 (!) answers. Were the questions too easy, or was the topic particularly interesting? But there was something else, wasn't there? Yes, we solve the tricky last question, which of course the majority answered correctly. Thank you for the lively participation, and the mostly positive comments. Have a great new year 2023!| Photos: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-champion-1972-christmas-calendar-winners",
+         "pubDate" : "Fri, 30 Dec 2022 14:08:38 +0100",
+         "title" : "The World Champion 1972 Christmas Calendar Winners"
+      },
+      {
+         "description" : "Bundesliga season 22/23: Stars up close - Eljanov, Van Wely, McShane, Jones, Kasimdzhanov, Cheparinov, Meier and many others comment on games from the first rounds - \"Special\" on Mikhail Tal: exclusive collection of 21 commented games + contributions on strategy and endgame - \"The Scotch Gambit\": Daniel King presents another gambit idea: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5. 0-0 (video) - \"How to deal with opening surprises\": Jan Markos continues his training series for tournament players (video + collection of exercises) - \"Jumping across the centre line\":over 50 tactics exercises + three selected combinations in video format with Oliver Reeh - Endgame good, all good: Karsten Mueller's n",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-211",
+         "pubDate" : "Fri, 30 Dec 2022 14:00:00 +0100",
+         "title" : "NEW: ChessBase Magazine #211"
+      },
+      {
          "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/12/people-are-worst-well-subset-of-them.html",
          "pubDate" : "Fri, 30 Dec 2022 12:12:00 +0000",
          "title" : "People are the worst (well a subset of them)"
-      },
-      {
-         "description" : "64 squares. For some they mean the world. In the past month, the World Congress for Chess Composition was held, as I quickly reported. Among the new books there was also the FIDE Album 2016-2018 (for a history of the FIDE Albums see our September 2019 article) | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-best-of-fide-album-2016-2018",
-         "pubDate" : "Fri, 30 Dec 2022 13:00:00 +0100",
-         "title" : "Study of the Month - Best of... FIDE Album 2016-2018"
       },
       {
          "description" : "This week Robert Ris presents a fine attacking game by Daniil Dubov who defeated Anish Giri in the World Rapid Championship with Black. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -34,20 +106,12 @@ news_feed (
          "title" : "World Blitz Chess Championship 2022 - Day 2 live"
       },
       {
-         "description" : " The world No 1 led all the way in the Rapid, scoring 10/13 with some classic wins, before arriving late for round one of the Blitz and playing the whole 59 moves with only 30 seconds on his clock Magnus Carlsen scored another triumph on Wednesday when the 32-year-old No 1 won the World Rapid title in Almaty, Kazakhstan. The Norwegian's 10/13 total was half a point ahead of Germany's Vincent Keymer in second place and the US champion, Fabiano Caruana, in third. Carlsen has been the dominant player in World Rapids for more than a decade, showing an impressively high quality of play at a fast time limit. Rapid is 15 minutes per player for the entire game, plus a 10 seconds per move increment. ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/30/chess-carlsen-triumphs-in-world-rapid-then-sprints-to-avoid-blitz-time-forfeit",
-         "pubDate" : "Fri, 30 Dec 2022 08:00:44 +0000",
-         "title" : "Chess: Carlsen triumphs in World Rapid, then sprints to avoid Blitz time forfeit"
-      },
-      {
-         "description" : "The World Blitz Championships are taking place on 28-29. Going into the final day of action, Hikaru Nakamura has a full-point lead over a five-player chasing pack. In the women's section, Valentina Gunina and Polina Shuvalova are sharing the lead on 7&frac12;/9 points. | Follow the games live with expert commentary, starting at 09.00 CET (3.00 ET, 13.30 IST) | Photo: FIDE / David Llada",
+         "description" : "Magnus Carlsen and Bibisara Assaubayeva won the World Blitz Championships in Almaty. Carlsen thus grabbed the triple crown, as he is currently the classical, rapid and blitz world champion. The 18-year-old Assaubayeva, on her part, defended the title she had won in 2021. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz-2",
          "pubDate" : "Fri, 30 Dec 2022 08:50:00 +0100",
-         "title" : "World Blitz Championships - Live!"
+         "title" : "World Blitz: Carlsen clinches triple crown, Assaubayeva defends her title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
@@ -192,22 +256,6 @@ news_feed (
          "link" : "https://www.chessdom.com/magnus-carlsen-and-tan-zhongyi-are-2022-world-rapid-chess-champions/",
          "pubDate" : "Wed, 28 Dec 2022 22:27:29 +0000",
          "title" : "Magnus Carlsen and Tan Zhongyi are 2022 World Rapid Chess Champions"
-      },
-      {
-         "description" : "The German Team Club Championship Girls U16 is taking place from 27-30 December 2022 in Neum&#xFC;nster. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss team tournament with participation of Hamburger SK von 1830 eV []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-german-youth-club-championship-2022-live/",
-         "pubDate" : "Wed, 28 Dec 2022 22:12:07 +0000",
-         "title" : "Girls U16 German Youth Club Championship 2022 - LIVE"
-      },
-      {
-         "description" : "Magnus Carlsen clinched his fourth World Rapid Champion title today in Kazakhstan. Being asked &#8220;when will he stop winning world titles&#8221; at the press conference after the games, Carlsen responded: &#8220;I'll stop when somebody stops me&#8220;. Commenting on the event, Carlsen noted that this was &#x201C;a really tough tournament&#x201D; and that it&#x2019;s &#x201C;really hard to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-i-will-stop-when-somebody-stops-me/",
-         "pubDate" : "Wed, 28 Dec 2022 21:45:00 +0000",
-         "title" : "Magnus Carlsen: I will stop when somebody stops me"
       },
       {
          "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
@@ -1258,28 +1306,12 @@ news_feed (
          "title" : "Speed Chess Championship Final: Carlsen vs. Nakamura"
       },
       {
-         "description" : "By beating former co-leader Karthikeyan Murali, Kirill Alekseenko became the first sole leader at the main event of the Sunway Chess Festival in Sitges. After six rounds, the Russian grandmaster still has a perfect score. Standing in sole second place is Karen Grigoryan, who defeated Anton Demchenko on Saturday. Nine players stand a half point further back, including top seeds Yu Yangyi and Hans Niemann. | Photo: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r6",
-         "pubDate" : "Sun, 18 Dec 2022 13:00:00 +0100",
-         "title" : "Sunway Sitges: Alekseenko grabs the lead"
-      },
-      {
          "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/comeback-kid-2/",
          "pubDate" : "Sun, 18 Dec 2022 11:00:36 +0000",
          "title" : "Comeback Kid"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1888",
-         "pubDate" : "Sun, 18 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 18"
       },
       {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Speed Chess Championship final after beating Maxime Vachier-Lagrave 17:9. Magnus complained of \"constantly missing tactics\" but restricted his opponent to just one win in the first 17 games, with MVL finally throwing in the towel with 10 minutes to spare.",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
       },
       {
-         "description" : "The 2022 Speed Chess Championship continued on Monday with an electric quarterfinal performance from GM Hikaru Nakamura as he overcame GM Levon Aronian with a 15.5-8.5 score. Nakamura gained a two-point lead early, which he never let go, and was...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-nakamura-aronian",
-         "pubDate" : "Mon, 12 Dec 2022 19:25:00 -0800",
-         "title" : "Nakamura Runs Over Aronian In Quarterfinals"
-      },
-      {
          "description" : " The 2022 ACT Rapidplay Championship is being held on the 17th December 2022 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 17 December 2022 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($350 in prizes were awarded in 2021)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF Rated </li><li>ACTCA/ACTJCL Membership reqd - 2023 membership can be paid here <a href=\"https://www.trybooking.com/CEFJY\">https://www.trybooking.com/CEFJY</a></li></ul>(* I am a paid official f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1728,14 +1752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html",
          "pubDate" : "Fri, 09 Dec 2022 16:33:00 +0000",
          "title" : "Shirov's SmartChess Videos"
-      },
-      {
-         "description" : " When I first started playing club chess, the local clubs always had around a 6 week break at Christmas time. Finish just before Christmas, and then restart in February. When I found this wasn't common in other Australian cities I was somewhat surprised. Fast forward 40 years and it isn't that common in Canberra either. Certainly Street Chess has always run non stop during the holidays (with the exception of Saturday being the 25th), and both eh Canberra Chess Club, and the Tuggeranong Chess Club stating in mid January. Only the Gungahlin Chess Club has stuck to the old traditions, with a late January restart on the calendar. But it seems there is going to be plenty of chess over the holiday",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/winding-down-for-christmas.html",
-         "pubDate" : "Fri, 09 Dec 2022 12:51:00 +0000",
-         "title" : "Winding down for Christmas?"
       }
    ]
 }
