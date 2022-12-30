@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2022/12/people-are-worst-well-subset-of-them.html",
+         "pubDate" : "Fri, 30 Dec 2022 12:12:00 +0000",
+         "title" : "People are the worst (well a subset of them)"
+      },
+      {
+         "description" : "64 squares. For some they mean the world. In the past month, the World Congress for Chess Composition was held, as I quickly reported. Among the new books there was also the FIDE Album 2016-2018 (for a history of the FIDE Albums see our September 2019 article) | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-best-of-fide-album-2016-2018",
+         "pubDate" : "Fri, 30 Dec 2022 13:00:00 +0100",
+         "title" : "Study of the Month - Best of... FIDE Album 2016-2018"
+      },
+      {
+         "description" : "This week Robert Ris presents a fine attacking game by Daniil Dubov who defeated Anish Giri in the World Rapid Championship with Black. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-dubov-attacks",
+         "pubDate" : "Fri, 30 Dec 2022 11:05:38 +0100",
+         "title" : "Robert Ris' Fast and Furious: Dubov attacks"
+      },
+      {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2157",
          "pubDate" : "Thu, 29 Dec 2022 18:24:03 +0000",
          "title" : "World Blitz Championship, Day 1: Nakamura's moment"
+      },
+      {
+         "description" : "This last Yahoos post for 2022 (see the footnote for an explanation of Yahoos) had a number of surprises. The first surprise was a lead section that I had never seen before titled, 'News about chess tournament, hijab', with nine stories. This was followed by the usual collection of stories under the title 'Also in the news'. <P>The second surprise was that none of the nine news sources was a chess site. The nine stories were from nine different mainstream news organizations like CNN, Fox News, Reuters, and The Telegraph. But I'm getting ahead of myself. Let's first insert the usual analysis of news sources. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml29.gif\" WIDTH=190 HEIGHT=160 ALIGN",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2022/12/deja-vu-yahoos.html",
+         "pubDate" : "Thu, 29 Dec 2022 16:27:00 +0000",
+         "title" : "Deja Vu Yahoos"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96603262.cms\" />Teenaged Indian Grandmaster Raunak Sadhwani was in the ninth spot in the Open event with 8.5 points after 12 rounds in the FIDE World Blitz Championship here on Thursday.",
@@ -1258,28 +1290,12 @@ news_feed (
          "title" : "Carlsen to play Nakamura for the 2022 Speed Chess title"
       },
       {
-         "description" : "The Dragon grandmaster is back with an interesting game for all you Sicilian lovers. Two U16 talents battled it out in the last European Youth Chess Championship 2022. But before this game is thoroughly presented by Chris Ward, first, we take a closer look at a recent game between Arjun Erigaisi and Fabiano Caruana. Nonetheless, in the second game, the Topalov Variation is on the board, and the British GM shows us some very interesting lines, plans, and ideas with this system. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-topalov-variation",
-         "pubDate" : "Sat, 17 Dec 2022 13:00:00 +0100",
-         "title" : "The Monthly Dragon - The Topalov Variation"
-      },
-      {
          "description" : " Harry Press is the 2022 ACT Rapidplay Champion, winning the 56 player event with 6.5/7. He started with 6 wins before agreeing to a short final round draw with Jonah Gear. Tied for 2nd were Fred Litchfield and FM Michael Kethro on 6/7. Gear won the Under 1800 prize with 5.5/7, while there was a 5 way tie for the Under 1200 prize, including Street Chess veteran, Sunny Yoon. The turn out was the largest ever for this event, and the largest group of players for a Street Chess run event. Thanks to the assistance of a number of players in helping set up and pack away, the event did very well to only run 30 minutes over time! If you are interested in seeing the final crosstable, it is available a",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-results.html",
          "pubDate" : "Sat, 17 Dec 2022 11:53:00 +0000",
          "title" : "2022 ACT Rapidplay Championship - Results"
-      },
-      {
-         "description" : "Clear activity advantages for White in the diagram position - please find White's best continuation!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-seventh-heaven",
-         "pubDate" : "Sat, 17 Dec 2022 12:05:00 +0100",
-         "title" : "In seventh heaven"
       },
       {
          "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
@@ -1720,22 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/winding-down-for-christmas.html",
          "pubDate" : "Fri, 09 Dec 2022 12:51:00 +0000",
          "title" : "Winding down for Christmas?"
-      },
-      {
-         "description" : " There is a lot of talk about what you need to do in order to improve in chess. But what is even more important, but less talked about, is what you need to AVOID in order to improve your chess. Let me explain. We live in a time with basically unlimited study resources. Thousands of [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/5-things-to-avoid/\">5 Things You Need To Avoid To Improve In Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/5-things-to-avoid/",
-         "pubDate" : "Fri, 09 Dec 2022 11:39:12 +0000",
-         "title" : "5 Things You Need To Avoid To Improve In Chess"
-      },
-      {
-         "description" : "Entries are now open for the EPSCA National Primary Schools Championships 2023 in partnership with Kingswood Activity Centre. There will be three stages &#8212; Stage...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/epsca-primary-schools-championships-2023/",
-         "pubDate" : "Fri, 09 Dec 2022 09:00:36 +0000",
-         "title" : "EPSCA Primary Schools Championships 2023"
       }
    ]
 }
