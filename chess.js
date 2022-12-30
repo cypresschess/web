@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi",
+         "pubDate" : "Fri, 30 Dec 2022 01:57:31 +0000",
+         "title" : "JJ's Best White London System Games #2 | Prepare Like A Pro - GM JJ Ali Marandi"
+      },
+      {
          "description" : "Hikaru Nakamura won just 2 games in the World Rapid Championship in Almaty, but on Day 1 of the World Blitz he won 8 to take a 1-point lead and give himself every chance of winning his first ever World Rapid or Blitz title. Magnus Carlsen is among the 5-player chasing pack after making a dramatic late arrival midway through Round 1, still dressed in casual gear. Ian Nepomniachtchi would also fall foul of the dress code.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
