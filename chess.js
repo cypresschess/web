@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura won just 2 games in the World Rapid Championship in Almaty, but on Day 1 of the World Blitz he won 8 to take a 1-point lead and give himself every chance of winning his first ever World Rapid or Blitz title. Magnus Carlsen is among the 5-player chasing pack after making a dramatic late arrival midway through Round 1, still dressed in casual gear. Ian Nepomniachtchi would also fall foul of the dress code.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/world-blitz-day-1-magnus-cuts-it-close-hikaru-hunts-1st-title",
+         "pubDate" : "Fri, 30 Dec 2022 00:20:19 +0000",
+         "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
+      },
+      {
          "description" : "Now that Argentina has won the FIFA World Cup in memorable fashion, it is a great time to reminisce on the legacy of Miguel Najdorf. 'Don Miguel' was born in Warsaw, but was among the many European players who found themselves in Buenos Aires when the Second World War broke out in 1939. Najdorf stayed in Argentina and spent most of his life in the South American country. Najdorf was one of the fifteen players who participated in the legendary 1953 Candidates Tournament in Zurich.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
          "pubDate" : "Fri, 09 Dec 2022 07:30:17 +0000",
          "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
-      },
-      {
-         "description" : " From the publisher: &#8220;Calculation is key to winning chess games. Converting your chess knowledge into concrete moves requires calculation and precise visualisation. The bad news: calculation is hard work. You <a href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Improve Your Chess Calculation: The Ramesh Chess Course Volume 1</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/\">Improve Your Chess Calculation: The Ramesh Chess Co",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/12/09/improve-your-chess-calculation-the-ramesh-chess-course-volume-1/",
-         "pubDate" : "Fri, 09 Dec 2022 00:10:12 +0000",
-         "title" : "Improve Your Chess Calculation: The Ramesh Chess Course - Volume 1"
       }
    ]
 }
