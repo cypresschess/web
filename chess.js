@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-blitz-chess-championship-2022-day-2-live/",
+         "pubDate" : "Fri, 30 Dec 2022 08:14:05 +0000",
+         "title" : "World Blitz Chess Championship 2022 - Day 2 live"
+      },
+      {
+         "description" : " The world No 1 led all the way in the Rapid, scoring 10/13 with some classic wins, before arriving late for round one of the Blitz and playing the whole 59 moves with only 30 seconds on his clock Magnus Carlsen scored another triumph on Wednesday when the 32-year-old No 1 won the World Rapid title in Almaty, Kazakhstan. The Norwegian's 10/13 total was half a point ahead of Germany's Vincent Keymer in second place and the US champion, Fabiano Caruana, in third. Carlsen has been the dominant player in World Rapids for more than a decade, showing an impressively high quality of play at a fast time limit. Rapid is 15 minutes per player for the entire game, plus a 10 seconds per move increment. ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2022/dec/30/chess-carlsen-triumphs-in-world-rapid-then-sprints-to-avoid-blitz-time-forfeit",
+         "pubDate" : "Fri, 30 Dec 2022 08:00:44 +0000",
+         "title" : "Chess: Carlsen triumphs in World Rapid, then sprints to avoid Blitz time forfeit"
+      },
+      {
+         "description" : "The World Blitz Championships are taking place on 28-29. Going into the final day of action, Hikaru Nakamura has a full-point lead over a five-player chasing pack. In the women's section, Valentina Gunina and Polina Shuvalova are sharing the lead on 7&frac12;/9 points. | Follow the games live with expert commentary, starting at 09.00 CET (3.00 ET, 13.30 IST) | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz-2",
+         "pubDate" : "Fri, 30 Dec 2022 08:50:00 +0100",
+         "title" : "World Blitz Championships - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2156",
          "pubDate" : "Wed, 28 Dec 2022 20:16:20 +0000",
          "title" : "Magnus Carlsen and Tan Zhongyi are the World Champions in Rapid"
-      },
-      {
-         "description" : "The German Team Club Championship U16 is taking place from 27-30 December 2022 in Darmstadt. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss team tournament with participation of SC Borussia Lichtenberg ( Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-german-youth-club-championship-2022-live/",
-         "pubDate" : "Wed, 28 Dec 2022 18:03:28 +0000",
-         "title" : "U16 German Youth Club Championship 2022 - LIVE"
       },
       {
          "description" : "In his \"Game of the Week\" show #548 Merijn van Delft looks at a game from the Dutch Championship and analyses a fine straightforward win which Erwin L'Ami scored against Sergey Tiviakov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "In seventh heaven"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1789",
-         "pubDate" : "Sat, 17 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 17"
-      },
-      {
          "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/epsca-primary-schools-championships-2023/",
          "pubDate" : "Fri, 09 Dec 2022 09:00:36 +0000",
          "title" : "EPSCA Primary Schools Championships 2023"
-      },
-      {
-         "description" : " Harrow schoolgirl lowers the age record for a national women's champion by more than four years after sharing the crown Bodhana Sivanandan earned a place in the record books last Saturday when the Harrow schoolgirl, just seven years old, tied for second prize in the UK women's blitz championship at Leamington Spa. As joint winner of the English title she broke the existing age record for a national women's champion by more than four years in a remarkable performance against opposition led by internationally seasoned rivals. The open winner was Elmira Mirzoeva, 41, a former Moscow women's champion now resident in London and playing under a neutral Fide flag. Sivanandan, a point behind, share",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/09/seven-year-old-bodhana-sivanandan-breaks-record-to-share-english-womens-blitz-chess-title",
-         "pubDate" : "Fri, 09 Dec 2022 07:30:17 +0000",
-         "title" : "Chess: seven-year-old breaks record to share English women's blitz title"
       }
    ]
 }
