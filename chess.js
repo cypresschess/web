@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Black has a weak king and a weak back rank - but White's forced win from the diagram is also based on the a7 rook. You'll get it, I'm sure!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/long-distance-goal",
+         "pubDate" : "Sat, 31 Dec 2022 09:00:00 +0100",
+         "title" : "Long-distance goal"
+      },
+      {
          "description" : "Magnus Carlsen goes into 2023 as the Classical, Rapid and now Blitz World Champion for the 3rd time in his career, after finishing a point clear of Hikaru Nakamura (silver) and Haik Martirosyan (bronze). Bibisara Assaubayev delighted local fans by defending her Women's World Blitz title with a stunning last day comeback, bettered only by Humpy Koneru, who scored 7.5/8 to finish ahead of Polina Shuvalova (bronze).",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1314,14 +1322,6 @@ news_feed (
          "title" : "Understanding before Moving 104: Play the Sicilian! (6)"
       },
       {
-         "description" : "After knocking out Nihal Sarin and Maxime Vachier-Lagrave respectively, Hikaru Nakamura and Magnus Carlsen reached the final of the Speed Chess Championship. Since Carlsen won the inaugural 2017 edition, Nakamura has claimed the last four. A clash of titans! | Follow the action live with expert commentary from 20.00 CET (14.00 ET, 11.00 PT)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2022-final-live",
-         "pubDate" : "Sun, 18 Dec 2022 14:50:00 +0100",
-         "title" : "Speed Chess Championship Final: Carlsen vs. Nakamura"
-      },
-      {
          "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1720,22 +1720,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-week-of-chess-drama/",
          "pubDate" : "Sat, 10 Dec 2022 14:52:32 +0000",
          "title" : "A week of chess drama"
-      },
-      {
-         "description" : " The FIDE Women Candidates Pool B took place 29th November to 11th December. The winner will play Pool A Lei Tingjie in a final match to decide who plays Ju Wenjun for the title. Players: Aleksandra Goryachkina, Kateryna Lagno, Alexandra Kosteniuk and Tan Zhongyi. Tan Zhongyi won the final against Goryachkina winning the final game.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-women-candidates-pool-b-2022",
-         "pubDate" : "Sat, 10 Dec 2022 12:05:00 +0400",
-         "title" : "FIDE Women Candidates Pool B 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2128",
-         "pubDate" : "Sat, 10 Dec 2022 07:02:40 +0000",
-         "title" : "Croatian Championship: Ivan Åari&#263 clinches his fourth title"
       }
    ]
 }
