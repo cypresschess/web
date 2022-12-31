@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The clock has just moved past midnight here in Canberra, so welcome to 2023. I suspect this year will continue to see chess getting back to a more normal state, although there may be a few hic-ups along the way. For me, the first chess activity of 2023 starts tomorrow (2nd January). I am off to the <a href=\"https://sites.google.com/view/2023ausopen/home\">2023 Australian Open</a> in Perth. This is the first proper Australian Championship/Open since Sydney 2020, and the organisers have done very well in attracting a strong international field. After the the 2023 Oceania Zonal in Melbourne is likely to be my next port of call, before spending a couple of months busy with the organisation of th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/welcome-to-2023.html",
+         "pubDate" : "Sat, 31 Dec 2022 13:17:00 +0000",
+         "title" : "Welcome to 2023"
+      },
+      {
          "description" : "Magnus Carlsen has become World Blitz champion for the sixth time in his career. He won it in 2009, 2014, 2017, 2018, 2019 and now 2022. The Norwegian also became World Triple Crown champion for the third time in his career (2014, 2019 and 2022). Unlike 2019, this time Carlsen became a clear champion by scoring 16/21, a full point ahead of Hikaru Nakamura (USA) 15/21. Haik Martirosyan (ARM) scored the same and finished third on tie-breaks. The defending champion, IM Bibisara Assaubayaeva (KAZ) won her last five games to clinch the Gold 13/17. Koneru Humpy scored a magnificent 8.5/9 in her last nine games to secure Silver 12.5/17. IM Polina Shuvalova won the Bronze 12/17. Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2129",
          "pubDate" : "Sat, 10 Dec 2022 16:24:52 +0000",
          "title" : "Tan Zhongyi defeats Goryachkina and will now face Lei Tingjie"
-      },
-      {
-         "description" : "There are some weeks when I have to cudgel my brains to think of an appropriate topic for discussion. In other weeks, such as this, items crowd in thick and fast, and it becomes a struggle to fit everything in and stay multifariously topical. First, news of one of England's senior chess stars. In what []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-week-of-chess-drama/",
-         "pubDate" : "Sat, 10 Dec 2022 14:52:32 +0000",
-         "title" : "A week of chess drama"
       }
    ]
 }
