@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen goes into 2023 as the Classical, Rapid and now Blitz World Champion for the 3rd time in his career, after finishing a point clear of Hikaru Nakamura (silver) and Haik Martirosyan (bronze). Bibisara Assaubayev delighted local fans by defending her Women's World Blitz title with a stunning last day comeback, bettered only by Humpy Koneru, who scored 7.5/8 to finish ahead of Polina Shuvalova (bronze).",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-s-triple-triple-crown-11-world-blitz-conclusions",
+         "pubDate" : "Sat, 31 Dec 2022 00:42:10 +0000",
+         "title" : "Carlsen's triple triple crown! 11 World Blitz Conclusions"
+      },
+      {
          "description" : "Grandmaster Koneru Humpy made in India proud again by securing silver medal at World Women Blitz Chess Championship at Almaty on Friday. This is the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
