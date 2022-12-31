@@ -138,6 +138,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Dubov attacks"
       },
       {
+         "description" : "The&#160;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, will be held from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#160;new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the time control of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/50th-rilton-cup-live/",
+         "pubDate" : "Fri, 30 Dec 2022 09:02:00 +0000",
+         "title" : "50th Rilton Cup - LIVE"
+      },
+      {
          "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -264,14 +272,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-final-rankings/",
          "pubDate" : "Wed, 28 Dec 2022 22:57:47 +0000",
          "title" : "FIDE World Rapid Chess Championship 2022 - Final rankings"
-      },
-      {
-         "description" : "The 2022 FIDE Women's World Rapid Chess Championship concluded today in Almaty, Kazakhstan after three days of fights over 11 rounds. It was a spectacular finish of with the playoff determining the gold medalist in the event as Dinara Saduakassova and Tan Zhongyi tied for the top with 8.5 points, each. Tan Zhongyi won the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-womens-rapid-chess-championship-2022-final-rankings/",
-         "pubDate" : "Wed, 28 Dec 2022 22:53:31 +0000",
-         "title" : "FIDE World Women's Rapid Chess Championship 2022 - Final rankings"
       },
       {
          "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2128",
          "pubDate" : "Sat, 10 Dec 2022 07:02:40 +0000",
          "title" : "Croatian Championship: Ivan Åari&#263 clinches his fourth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2099",
-         "pubDate" : "Fri, 09 Dec 2022 20:56:19 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022: Registration deadline extended"
       }
    ]
 }
