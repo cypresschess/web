@@ -1,4 +1,6 @@
 jtable([
+"CYPRESS","2022-12-30","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212306562 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2022-12-06  - 12-27","15","<a href=http://www.uschess.org/msa/XtblMain.php?202212276532 target='_blank'>DEC 2022 TUESDAY NIGHT SWISS</a>",
 "SPRING","2022-12-23","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212234692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-12-23","18","<a href=http://www.uschess.org/msa/XtblMain.php?202212234642 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-12-20","6","<a href=http://www.uschess.org/msa/XtblMain.php?202212203482 target='_blank'>RCC QUADS DECEMBER 20, 2022</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2022-05-07","158","<a href=http://www.uschess.org/msa/XtblMain.php?202205077872 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
 "SPRING","2022-05-06","21","<a href=http://www.uschess.org/msa/XtblMain.php?202205067772 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-05-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202205067042 target='_blank'>FBCC 2022 SEIS DE MAYO OPEN</a>",
-"CYPRESS","2022-05-06","26","<a href=http://www.uschess.org/msa/XtblMain.php?202205067012 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-05-01","4","<a href=http://www.uschess.org/msa/XtblMain.php?202205015032 target='_blank'>MAY 1ST SUNDAY SWISS</a>",
 ]);
