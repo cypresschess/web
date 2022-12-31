@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen has become World Blitz champion for the sixth time in his career. He won it in 2009, 2014, 2017, 2018, 2019 and now 2022. The Norwegian also became World Triple Crown champion for the third time in his career (2014, 2019 and 2022). Unlike 2019, this time Carlsen became a clear champion by scoring 16/21, a full point ahead of Hikaru Nakamura (USA) 15/21. Haik Martirosyan (ARM) scored the same and finished third on tie-breaks. The defending champion, IM Bibisara Assaubayaeva (KAZ) won her last five games to clinch the Gold 13/17. Koneru Humpy scored a magnificent 8.5/9 in her last nine games to secure Silver 12.5/17. IM Polina Shuvalova won the Bronze 12/17. Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-bibisara-assaubayeva-are-the-world-blitz-2022-champions-2",
+         "pubDate" : "Sat, 31 Dec 2022 10:35:00 +0100",
+         "title" : "Magnus Carlsen and Bibisara Assaubayeva are the World Blitz 2022 champions"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2159",
          "pubDate" : "Sat, 31 Dec 2022 08:28:29 +0000",
          "title" : "Kenya Championship 2022: Mehul Gohil and Joyce Nyaruai win titles"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships took place in Almaty, Kazakhstan 26th to 30th December 2022. World Champion Magnus Carlsen and World Number 1 Rapid player and Hikaru Nakamura, World Number 1 Blitz player, headed a strong field including Richard Rapport, Jan-Krzysztof Duda, MVL Ian Nepomniachtchi, Alexander Grishuk, Fabiano Caruana, Shakhriyar Mamedyarov, the field went deep. Magnus Carlsen won both the World Rapid and Blitz titles and along with the World Championship title he is about to give up holds all three titles for the third time (2014 and 2019 being the other years). Carlsen has made these titles a career target in a way his predecessors did not and has definitely lifted th",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2022",
+         "pubDate" : "Sat, 31 Dec 2022 12:26:00 +0400",
+         "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
       },
       {
          "description" : "Black has a weak king and a weak back rank - but White's forced win from the diagram is also based on the a7 rook. You'll get it, I'm sure!",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-world-blitz-chess-championship-2022-final-rankings/",
          "pubDate" : "Fri, 30 Dec 2022 16:39:20 +0000",
          "title" : "FIDE World Blitz Chess Championship 2022 - Final rankings"
+      },
+      {
+         "description" : "Back in the mid-1990s, both Garry Kasparov and Anatoly Karpov -- bitter rivals at the time -- wrote separate columns for the USCF's <I>Chess Life</I> (CL). I mentioned Karpov's column in last week's post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022). <P>I've never studied these columns, even though they might contain interesting material for my <I>World Chess Championship</I> site (WCC; see link on the right). Following is a table overviewing the content of both columns. <P><TABLE BORDER CELLPADDING=\"1\" CELLSPACING=\"0\"> <TR> <TH>CL</TH> <TH>p.</TH> <TH>Title</TH> <TH>Notes</TH> </TR> <TR> <TD></TD> <TD></TD> <TD></TD>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2022/12/world-championship-columnists.html",
+         "pubDate" : "Fri, 30 Dec 2022 16:15:00 +0000",
+         "title" : "World Championship Columnists"
       },
       {
          "description" : "Magnus Carlsen emerged as the Winner of the FIDE World Blitz Chess Championship 2022 leaving Almaty with the triple crown as World Champion in Classical, Rapid, and Blitz chess! Magnus Carlsen scored 16/21 in the Open section and finished clear first, a full point ahead of&#xA0;Hikaru Nakamura&#xA0;and&#xA0;Haik Martirosyan who tied for silver. Tiebreak criteria favored []",
@@ -842,14 +866,6 @@ news_feed (
          "title" : "A remarkable team: The \"Chess Family\" Peglau from Germany"
       },
       {
-         "description" : " The World Rapid and Blitz Championships take place in Almaty, Kazakhstan 26th to 30th December 2022. World Champion Magnus Carlsen and World Number 1 Rapid player and Hikaru Nakamura, World Number 1 Blitz player, head a strong field including Richard Rapport, Jan-Krzysztof Duda, MVL Ian Nepomniachtchi, Alexander Grishuk, Fabiano Caruana, Shakhriyar Mamedyarov, the field goes deep. To add spice Hans Moke Niemann plays and it will surely be inevitable he'll be paired with Carlsen at some point.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2022",
-         "pubDate" : "Fri, 23 Dec 2022 17:56:00 +0400",
-         "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
-      },
-      {
          "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-184",
          "pubDate" : "Sun, 18 Dec 2022 15:05:00 +0100",
          "title" : "A multiplicity of Monarchs"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 104th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-104-play-the-sicilian-6",
-         "pubDate" : "Sun, 18 Dec 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 104: Play the Sicilian! (6)"
       },
       {
          "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
