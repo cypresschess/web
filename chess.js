@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2159",
+         "pubDate" : "Sat, 31 Dec 2022 08:28:29 +0000",
+         "title" : "Kenya Championship 2022: Mehul Gohil and Joyce Nyaruai win titles"
+      },
+      {
          "description" : "Black has a weak king and a weak back rank - but White's forced win from the diagram is also based on the a7 rook. You'll get it, I'm sure!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
