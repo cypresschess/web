@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As a tumultuous year is about to end, let us highlight three tournaments that were particularly impactful in the world of chess. Granted, this list does not intend to be all-encompassing, but it features three events that are sure to be remembered for many years to come: the Candidates Tournament in Madrid, the Chess Olympiad in Chennai and the Sinquefield Cup in Saint Louis.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/year-in-review-elite-circuit-2022",
+         "pubDate" : "Sat, 31 Dec 2022 17:00:00 +0100",
+         "title" : "Three tournaments that marked the 2022 elite chess circuit"
+      },
+      {
          "description" : " The clock has just moved past midnight here in Canberra, so welcome to 2023. I suspect this year will continue to see chess getting back to a more normal state, although there may be a few hic-ups along the way. For me, the first chess activity of 2023 starts tomorrow (2nd January). I am off to the <a href=\"https://sites.google.com/view/2023ausopen/home\">2023 Australian Open</a> in Perth. This is the first proper Australian Championship/Open since Sydney 2020, and the organisers have done very well in attracting a strong international field. After the the 2023 Oceania Zonal in Melbourne is likely to be my next port of call, before spending a couple of months busy with the organisation of th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "Magnus Carlsen wins World Blitz Chess Championship 2022"
       },
       {
-         "description" : "Magnus Carlsen and Bibisara Assaubayeva won the World Blitz Championships in Almaty. Carlsen thus grabbed the triple crown, as he is currently the classical, rapid and blitz world champion. The 18-year-old Assaubayeva, on her part, defended the title she had won in 2021. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz-2",
-         "pubDate" : "Fri, 30 Dec 2022 16:30:00 +0100",
-         "title" : "World Blitz: Carlsen clinches triple crown, Assaubayeva defends her title"
-      },
-      {
          "description" : "Bibisara Assaubayeva emerged as the Winner of the 2022 FIDE World Women's Blitz Chess Championship in her homeland, Kazakhstan. Assaubayeva defended her 2021 Blitz Champion title. &#8220;I am very happy to win and defend my title. And I am especially happy to do it in Kazahstan, my homeland&#8220;, said Assaubayeva at the press conference. With []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -120,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-fantastic-games-of-the-rapid-championship",
          "pubDate" : "Fri, 30 Dec 2022 16:19:38 +0100",
          "title" : "Svitlana's Smart Moves - Fantastic games of the Rapid Championship 2022"
+      },
+      {
+         "description" : "Magnus Carlsen and Bibisara Assaubayeva won the World Blitz Championships in Almaty. Carlsen thus grabbed the triple crown, as he is currently the classical, rapid and blitz world champion. The 18-year-old Assaubayeva, on her part, defended the title she had won in 2021. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz-2",
+         "pubDate" : "Fri, 30 Dec 2022 16:00:00 +0100",
+         "title" : "World Blitz: Carlsen clinches triple crown, Assaubayeva defends her title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96627464.cms\" />Indian ace Koneru Humpy came up with a superb performance after a modest run in the initial phase to claim the silver medal in the women's section of the FIDE World Blitz Chess Championship on Friday.",
@@ -1338,14 +1346,6 @@ news_feed (
          "title" : "European Rapid and Blitz Chess 2022 - Games and Results"
       },
       {
-         "description" : "At a time often known for excess - and at the end of a year when we've had two different monarchs and three different prime ministers in the United Kingdom - Jon Speelman considered it fitting to explore chess positions with more than two queens on the board. Remarkably, these positions arise rather frequently (relative to how rare this situation is) in games involving the ever-creative Maxime Vachier-Lagrave. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-184",
-         "pubDate" : "Sun, 18 Dec 2022 15:05:00 +0100",
-         "title" : "A multiplicity of Monarchs"
-      },
-      {
          "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
          "pubDate" : "Sun, 11 Dec 2022 00:10:07 +0000",
          "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2129",
-         "pubDate" : "Sat, 10 Dec 2022 16:24:52 +0000",
-         "title" : "Tan Zhongyi defeats Goryachkina and will now face Lei Tingjie"
       }
    ]
 }
