@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Cape Verde held its national championship December 7th-11th in the capital of Praia with their top player IM Manuel Ortega defending his title. Federação Cabo-Verdiana de Xadrez (FCX) is a relatively new FIDE member having joined the community of chess nations in 2016. Ortega has been their top player for many years and has collected The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/\">Cape Verde's Ortega is 2022 Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/",
+         "pubDate" : "Sat, 31 Dec 2022 19:46:56 +0000",
+         "title" : "Cape Verde's Ortega is 2022 Champion"
+      },
+      {
+         "description" : "64 squares. For some they mean the world. In the past month, the World Congress for Chess Composition was held, as I quickly reported. Among the new books there was also the FIDE Album 2016-2018 (for a history of the FIDE Albums see our September 2019 article) | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-best-of-fide-album-2016-2018",
+         "pubDate" : "Sat, 31 Dec 2022 20:00:00 +0100",
+         "title" : "Study of the Month - Best of... FIDE Album 2016-2018"
+      },
+      {
          "description" : "As a tumultuous year is about to end, let us highlight three tournaments that were particularly impactful in the world of chess. Granted, this list does not intend to be all-encompassing, but it features three events that are sure to be remembered for many years to come: the Candidates Tournament in Madrid, the Chess Olympiad in Chennai and the Sinquefield Cup in Saint Louis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2022",
          "pubDate" : "Mon, 19 Dec 2022 13:07:00 +0400",
          "title" : "chess.com Speed Chess 2022 - Games and Results"
-      },
-      {
-         "description" : "This week Robert Ris presents an interesting piece sacrifice in a well-known line of the Panov Variation in the Caro-Kann. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-piece-sacrifice-in-the-panov-variation-of-the-caro-kann",
-         "pubDate" : "Mon, 19 Dec 2022 10:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A piece sacrifice in the Panov-Variation of the Caro-Kann"
       },
       {
          "description" : "Hikaru Nakamura has now won five Speed Chess titles in a row, but more than that, he's finally defeated the one player to have beaten him in the format - Magnus Carlsen. Hikaru got off to a stunning 6.5:2.5 start in the 5-minute section, and although Magnus, who said, \"I can't believe how much I enjoyed the match,\" took the contest right down to the wire, he ultimately lost 14.5:13.5.",
