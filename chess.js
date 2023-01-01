@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2131",
          "pubDate" : "Sun, 11 Dec 2022 16:31:21 +0000",
          "title" : "Women's Candidates: Tan Zhongyi honored in Khiva"
-      },
-      {
-         "description" : "Here's a type of chess video you don't see every day. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/tiKYceqV_r0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>Vintage chess clock restoration</B> (11:21) &#149; '[Published on] Dec 10, 2022' <P>The description (right click the embedded video for a link) started, <BLOCKQUOTE>This chess clock was made in 1950`s in Russia. My client wanted me to make it nicer, because it was meant to be birthday present for young and talented chess player. This kind of works are not about the money, but the joy, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/chess-clock-restoration.html",
-         "pubDate" : "Sun, 11 Dec 2022 16:30:00 +0000",
-         "title" : "Chess Clock Restoration"
       }
    ]
 }
