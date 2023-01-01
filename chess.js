@@ -10,14 +10,6 @@ news_feed (
          "title" : "Understanding before Moving 106: A remarkable plan in the hedgehog"
       },
       {
-         "description" : "<P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na01.png\" WIDTH=390 HEIGHT=126><BR><A HREF=\"https://cooltext.com/\">https://cooltext.com/</A>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/2023-9lx-style.html",
-         "pubDate" : "Sun, 01 Jan 2023 13:07:00 +0000",
-         "title" : "2023 (9LX style)"
-      },
-      {
          "description" : "We have been trying to keep track of incredible playing strength and title wins at a very early age. It started with Capablanca and Reshevsky, and today we are seeing full grandmasters aged thirteen - and in two cases even just twelve! Most recently it was Abhimanyu Mishra who achieved the title at twelve years and just under five months. It is time to update our prodigy page, with better graphics and a few telling graphs. We also invite our readers to contribute.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
