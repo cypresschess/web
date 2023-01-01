@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I'm not a particular devotee of Westerns, but I've seen enough to know that at the end there's normally a shoot-out in which the protagonists have to be at their best to avoid losing their lives. Games of chess are thankfully not fatal, but in many of them there is a final tactical shoot-out, and however well you've played beforehand, you have to be able to handle this at least passably to get the win or draw that you deserve. | Pictured: Benny Watts, a main character in Netflix's 'The Queen's Gambit' played by Thomas Brodie-Sangster",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-185",
+         "pubDate" : "Sun, 01 Jan 2023 21:00:00 +0100",
+         "title" : "Shoot-outs, a stand-off and the traditional round-up"
+      },
+      {
+         "description" : " Mehul Gohil won the Kenyan Chess Champion and thus, drove away the grand prize of a Mazda Demio car! It is his second car in three years. In 2019, he won the title after Ben Nguku was unable to catch him. This year he had to win an Armageddon battle against Hugh Misiko to get The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/\">Mehul Gohil (Kenyan Champ) wins another car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/",
+         "pubDate" : "Sun, 01 Jan 2023 19:56:50 +0000",
+         "title" : "Mehul Gohil (Kenyan Champ) wins another car!"
+      },
+      {
+         "description" : "IM Sarasadat Khademalsharieh (Sara Khadem), who defied the Iranian dress code for women by refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships, will not be returning home after her last tournament of the year. With he...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
+         "pubDate" : "Sun, 01 Jan 2023 09:12:19 -0800",
+         "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 106th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game that every chess player should know and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1250,14 +1274,6 @@ news_feed (
          "title" : "The sting of the scorpion"
       },
       {
-         "description" : "On the second day of the rapid tournament at the Gashimov Memorial, Uzbek grandmaster Nodirbek Abdusattorov kept the lead he had gained by winning all three of his games on Sunday. In the rapid, points count double, so Abdusattorov now has a 10/12 score after six rounds. Rauf Mamedov is in second place (9 points), while Wang Hao (8 points) is third, a point behind the Azerbaijani. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d2",
-         "pubDate" : "Mon, 19 Dec 2022 23:05:00 +0100",
-         "title" : "Gashimov Memorial: Abdusattorov tops the standings"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1626,14 +1642,6 @@ news_feed (
          "title" : "Andrea Botez Awarded TKO In Mogul Chessboxing Championship, 2 Winners"
       },
       {
-         "description" : "GM Arjun Erigaisi has signed a five-year sponsorship deal with Singapore-based quantitative trading firm Quantbox. This marked Erigaisi&#39;s first-ever sponsorship deal in his chess career as a professional player of the sport.&#38;nbsp; GM Arjun ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-signs-huge-sponsorship-deal-with-quantbox",
-         "pubDate" : "Tue, 13 Dec 2022 09:07:29 -0800",
-         "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
-      },
-      {
          "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2132",
          "pubDate" : "Mon, 12 Dec 2022 03:48:33 +0000",
          "title" : "Kazakh Championship: Zhalmakhanov and Kamalidenova win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2131",
-         "pubDate" : "Sun, 11 Dec 2022 16:31:21 +0000",
-         "title" : "Women's Candidates: Tan Zhongyi honored in Khiva"
       }
    ]
 }
