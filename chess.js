@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-cat-bots",
+         "pubDate" : "Sat, 31 Dec 2022 23:24:00 -0800",
+         "title" : "Cat Bots: The Purrfect Way To Start The Year"
+      },
+      {
+         "description" : "Turko-Mongol ruler Timur was appreciative of the arts and culture. The emperor was as fierce, cruel and ambitious as his predecessor, Genghis Khan. However, apart from his soft spot for the arts, he had one more peculiar weakness: chess. It is said that he even invented a chess variant called 'Tamerlane Chess'. Diana Mihajlova tells us more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars-part-3",
+         "pubDate" : "Sun, 01 Jan 2023 07:00:00 +0100",
+         "title" : "A new wave of chess stars (III)"
+      },
+      {
+         "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/",
+         "pubDate" : "Sun, 01 Jan 2023 04:44:48 +0000",
+         "title" : "The Chess Drum's Highlights of 2022!"
+      },
+      {
          "description" : " Cape Verde held its national championship December 7th-11th in the capital of Praia with their top player IM Manuel Ortega defending his title. Federação Cabo-Verdiana de Xadrez (FCX) is a relatively new FIDE member having joined the community of chess nations in 2016. Ortega has been their top player for many years and has collected The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/\">Ortega is Cape Verde's 2022 Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1282,14 +1306,6 @@ news_feed (
          "title" : "European Open & Women's Rapid and Blitz Chess Champions 2022 crowned in Katowice, Poland"
       },
       {
-         "description" : "Arjun Erigaisi has had an amazing year 2022 for his chess! In spite of his powerpacked recent performances, one question that always lingered around was, why does Arjun not have a permanent sponsor yet? Now he has landed a long term deal with Quantbox research. It might well be the biggest ever sponsorship deal in the history of Indian chess! In our report there is quite a bit of interesting video to watch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-signs-1-5-million-deal",
-         "pubDate" : "Mon, 19 Dec 2022 10:45:00 +0100",
-         "title" : "Arjun Erigaisi signs $1.5 million deal"
-      },
-      {
          "description" : " The chess.com Speed Chess took place Thu 10th Nov to Sun 18th Dec 2022. Starting with two qualifying events in mid November the knockout phase of 16 players started 23rd November. Players such as Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Levon Aronian, Nihal, Sarin and Anish Giri played, Nihal Sarin reached the semifinals. In the end the favourites and only previous winners of the event, Magnus Carlsen (2016-17 where he defeated Nakamura both times, in addition in 2020 Carlsen lost to MVL in the semifinals) and Hikaru Nakamura (2018-21), contested the final. Nakamura won his fifth title by beating Carlsen 14.5-13.5 in the final. The win was set up by a +4 =5 -0 start in the 5 minute s",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-signs-huge-sponsorship-deal-with-quantbox",
          "pubDate" : "Tue, 13 Dec 2022 09:07:29 -0800",
          "title" : "Arjun Erigaisi Signs $1.5 Million Sponsorship Deal With Quantbox"
-      },
-      {
-         "description" : "What a year this has been for chess! We have not one, but two world championship challengers as the World Champion Magnus Carlsen&#38;nbsp;stepped away from the competition. A new wave of talent from Uzbekistan, India, and other countries took the wor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-vote",
-         "pubDate" : "Tue, 13 Dec 2022 07:55:00 -0800",
-         "title" : "Vote For The 2022 Chess.com Awards"
       },
       {
          "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
