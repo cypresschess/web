@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have been trying to keep track of incredible playing strength and title wins at a very early age. It started with Capablanca and Reshevsky, and today we are seeing full grandmasters aged thirteen - and in two cases even just twelve! Most recently it was Abhimanyu Mishra who achieved the title at twelve years and just under five months. It is time to update our prodigy page, with better graphics and a few telling graphs. We also invite our readers to contribute.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-prodigies-and-mini-gms-update-2",
+         "pubDate" : "Sun, 01 Jan 2023 13:00:00 +0100",
+         "title" : "Chess prodigies and mini-GMs update"
+      },
+      {
+         "description" : "There are currently 40 female chess players worldwide who have been awarded the grandmaster title. Nine of them are Capricorn! Then there were the two legendary elite players Paul Keres, and world champion Emanuel Lasker. Capricorn doesn't mess around, works hard and never gives up. That's why his strategy seems easy to see through, but there's a lot more to it than that. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/capricorn-and-their-strategy",
+         "pubDate" : "Sun, 01 Jan 2023 12:00:00 +0100",
+         "title" : "Capricorn and their Strategy"
+      },
+      {
          "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1258,14 +1274,6 @@ news_feed (
          "title" : "Endgame Magic #219: Highlights from the Bundesliga"
       },
       {
-         "description" : "The 2022 European Rapid & Blitz Championships took place on December 16-18 in Katowice, Poland. All 22 rounds of blitz were played on Friday, while the 11 rounds of rapid took place over the weekend. Jaime Santos (open) and Aleksandra Maltsevskaya (women's) won in the rapid section, while David Navara (open) and Alexandra Kosteniuk (women's) got first place in the blitz section. | Photos: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-2022-final-report",
-         "pubDate" : "Mon, 19 Dec 2022 15:30:00 +0100",
-         "title" : "Santos, Navara, Maltsevskaya and Kosteniuk winners in Katowice"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/a-close-finish.html",
          "pubDate" : "Mon, 19 Dec 2022 11:56:00 +0000",
          "title" : "A close finish"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-1972",
-         "pubDate" : "Mon, 19 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 19"
       },
       {
          "description" : "The 2022 European Open and Women's Rapid and Blitz Chess Championships took place from 16-18 December in Katowice, Poland. The event gathered 1000 players coming from more than 40 European federations, with more than 800 participants in Blitz, and more than 900 participants in Rapid championship. The first event on the schedule was the 2022 European Blitz Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-rapid-and-blitz-chess-champions-2022-crowned-in-katowice-poland/\">Read More &#187;</a></span>",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2130",
          "pubDate" : "Sun, 11 Dec 2022 12:55:45 +0000",
          "title" : "Fernando Peralta wins 2022 Argentine Championship"
-      },
-      {
-         "description" : " While searching newspaper archives for something else the other day I came across a rather amusing game with rather amusing annotations, considering the white bishops to be motor cars. It was published in the Reading Observer in 1916: they had in turn taken it from a &#8216;foreign periodical' published &#8216;about ten years ago'. Let's take <a href=\"https://chessimprover.com/the-motor-car-gambit/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Motor Car Gambit\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-motor-car-gambit/\">The Motor Car Gambit</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-motor-car-gambit/",
-         "pubDate" : "Sun, 11 Dec 2022 10:40:21 +0000",
-         "title" : "The Motor Car Gambit"
       }
    ]
 }
