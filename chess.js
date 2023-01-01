@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 106th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game that every chess player should know and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-106-a-remarkable-plan-in-the-hedgehog",
+         "pubDate" : "Sun, 01 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 106: A remarkable plan in the hedgehog"
+      },
+      {
+         "description" : "<P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na01.png\" WIDTH=390 HEIGHT=126><BR><A HREF=\"https://cooltext.com/\">https://cooltext.com/</A>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/2023-9lx-style.html",
+         "pubDate" : "Sun, 01 Jan 2023 13:07:00 +0000",
+         "title" : "2023 (9LX style)"
+      },
+      {
          "description" : "We have been trying to keep track of incredible playing strength and title wins at a very early age. It started with Capablanca and Reshevsky, and today we are seeing full grandmasters aged thirteen - and in two cases even just twelve! Most recently it was Abhimanyu Mishra who achieved the title at twelve years and just under five months. It is time to update our prodigy page, with better graphics and a few telling graphs. We also invite our readers to contribute.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Chessify Setup"
       },
       {
-         "description" : "In the Endgame Magic Show #219 Karsten M&uuml;ller shows highlights from the last rounds of the German Bundesliga. Highly instructive material! | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-219-highlights-bundesliga",
-         "pubDate" : "Mon, 19 Dec 2022 16:00:00 +0100",
-         "title" : "Endgame Magic #219: Highlights from the Bundesliga"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1712,22 +1720,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/chess-clock-restoration.html",
          "pubDate" : "Sun, 11 Dec 2022 16:30:00 +0000",
          "title" : "Chess Clock Restoration"
-      },
-      {
-         "description" : " ** This is a shameless commercial ** If you are looking for a fantastic XMAS present for your children, other peoples children, nephews, nieces or even for yourself, then I have a deal for you. I have a large collection of Gambit \"Chess ... for Kids\" books. The titles are <ul style=\"text-align: left;\"><li>Chess Openings for Kids</li><li>Chess Opening Traps for Kids</li><li>Chess Tactics for Kids</li><li>Chess Endgames for Kids</li><li>Chess Strategy for Kids</li><li>Chess Puzzles for Kids</li><li>Chess For Children</li></ul>I am letting them go for $20 each, but if you grab 3 it will be $50 and $80 for 5. At this stage this offer is just for the local Canberra chess community but I can post",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/i-have-books-for-xmas.html",
-         "pubDate" : "Sun, 11 Dec 2022 12:56:00 +0000",
-         "title" : "I have books (for Xmas)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2130",
-         "pubDate" : "Sun, 11 Dec 2022 12:55:45 +0000",
-         "title" : "Fernando Peralta wins 2022 Argentine Championship"
       }
    ]
 }
