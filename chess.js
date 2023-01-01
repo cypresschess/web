@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Cape Verde held its national championship December 7th-11th in the capital of Praia with their top player IM Manuel Ortega defending his title. Federação Cabo-Verdiana de Xadrez (FCX) is a relatively new FIDE member having joined the community of chess nations in 2016. Ortega has been their top player for many years and has collected The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/\">Cape Verde's Ortega is 2022 Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Cape Verde held its national championship December 7th-11th in the capital of Praia with their top player IM Manuel Ortega defending his title. Federação Cabo-Verdiana de Xadrez (FCX) is a relatively new FIDE member having joined the community of chess nations in 2016. Ortega has been their top player for many years and has collected The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/\">Ortega is Cape Verde's 2022 Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/",
          "pubDate" : "Sat, 31 Dec 2022 19:46:56 +0000",
-         "title" : "Cape Verde's Ortega is 2022 Champion"
+         "title" : "Ortega is Cape Verde's 2022 Chess Champion"
       },
       {
          "description" : "64 squares. For some they mean the world. In the past month, the World Congress for Chess Composition was held, as I quickly reported. Among the new books there was also the FIDE Album 2016-2018 (for a history of the FIDE Albums see our September 2019 article) | Photo: Pixabay",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-motor-car-gambit/",
          "pubDate" : "Sun, 11 Dec 2022 10:40:21 +0000",
          "title" : "The Motor Car Gambit"
-      },
-      {
-         "description" : " From the publisher: &#8220;The Dragon Sicilian is the perfect choice for club players searching for chaotic and imbalanced positions. This opening manual shows how Black can turn up the heat <a href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/\">The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4</a> appeared ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/12/11/the-dragon-sicilian-a-take-no-prisoners-repertoire-versus-1-e4/",
-         "pubDate" : "Sun, 11 Dec 2022 00:10:07 +0000",
-         "title" : "The Dragon Sicilian: A Take-No-Prisoners Repertoire Versus 1.e4"
       }
    ]
 }
