@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022/",
+         "pubDate" : "Mon, 02 Jan 2023 08:09:57 +0000",
+         "title" : "MPL 59th Senior National Chess Championship - 2022"
+      },
+      {
+         "description" : " The (not so) live broadcast for the 2023 Australian Open is at <a href=\"http://cawa.org.au/livegames\">cawa.org.au/livegames</a> You may notice that the broadcast is a little disjointed, but this is due to the 30 minute delay for broadcasting games, and the fact that I am testing some new software to manage this. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-live-games.html",
+         "pubDate" : "Mon, 02 Jan 2023 08:06:00 +0000",
+         "title" : "2023 Australian Open - Live Games"
+      },
+      {
          "description" : "The 2nd International Open SKG &#8220;White Tower&#8221; Group B tournament takes place from 2-8 January at the Porto Palace hotel in Thessaloniki, Greece. The tournament is played in 3 rating groups, with a total prize fund of 3600&#x20AC;. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-229",
          "pubDate" : "Thu, 22 Dec 2022 12:00:00 +0100",
          "title" : "The World Championship 1972 calendar - Door 22"
-      },
-      {
-         "description" : "Please find Live Games Link for MPL 59th Senior National chess Championship 2022 https://delhichess.com/live/mplsenior/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-mpl-59th-senior-national-chess-championship-2022/",
-         "pubDate" : "Thu, 22 Dec 2022 09:56:54 +0000",
-         "title" : "Live link for MPL 59th Senior National chess Championship 2022"
       },
       {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
