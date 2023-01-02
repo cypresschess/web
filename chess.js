@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-sunway-sitges-open-2022",
          "pubDate" : "Mon, 12 Dec 2022 14:30:00 +0400",
          "title" : "9th Sunway Sitges Open 2022 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2132",
-         "pubDate" : "Mon, 12 Dec 2022 03:48:33 +0000",
-         "title" : "Kazakh Championship: Zhalmakhanov and Kamalidenova win titles"
       }
    ]
 }
