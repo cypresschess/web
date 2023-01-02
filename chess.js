@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2nd International Open SKG &#8220;White Tower&#8221; Group B tournament takes place from 2-8 January at the Porto Palace hotel in Thessaloniki, Greece. The tournament is played in 3 rating groups, with a total prize fund of 3600&#x20AC;. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-international-open-skg-white-tower-2023-group-b-live/",
+         "pubDate" : "Sun, 01 Jan 2023 23:10:44 +0000",
+         "title" : "2nd International Open SKG \"White Tower\" 2023 - Group B - LIVE"
+      },
+      {
+         "description" : "The 2nd International Open SKG &#8220;White Tower&#8221; tournament takes place from 2-8 January at the Porto Palace hotel in Thessaloniki, Greece. The tournament is played in 3 rating groups, with a total prize fund of 3600&#x20AC;. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-international-open-skg-white-tower-2023/",
+         "pubDate" : "Sun, 01 Jan 2023 23:04:07 +0000",
+         "title" : "2nd International Open SKG \"White Tower\" 2023"
+      },
+      {
+         "description" : "The Roquetas Open 2023 is taking place from 3-8 January 2023 in Roquetas, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier, Jose Fernando Cuenca Jimenez, Pier Luigi Basso, Yuri Solodovnichenko, Rodrigo Vasquez Schroeder, G.A. Stany, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/roquetas-open-2022-live/",
+         "pubDate" : "Sun, 01 Jan 2023 22:56:51 +0000",
+         "title" : "Roquetas Open 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2160",
+         "pubDate" : "Sun, 01 Jan 2023 22:14:28 +0000",
+         "title" : "FIDE January 2023 rating list is out"
+      },
+      {
          "description" : "I'm not a particular devotee of Westerns, but I've seen enough to know that at the end there's normally a shoot-out in which the protagonists have to be at their best to avoid losing their lives. Games of chess are thankfully not fatal, but in many of them there is a final tactical shoot-out, and however well you've played beforehand, you have to be able to handle this at least passably to get the win or draw that you deserve. | Pictured: Benny Watts, a main character in Netflix's 'The Queen's Gambit' played by Thomas Brodie-Sangster",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,22 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/",
          "pubDate" : "Sun, 01 Jan 2023 19:56:50 +0000",
          "title" : "Mehul Gohil (Kenyan Champ) wins another car!"
+      },
+      {
+         "description" : " The 96th Caplin Hastings Congress takes place 28th December 2022 to 8th January 2023. The event makes a welcome return after a late cancelation last year. Romain Edouard, Martin Petrov and Bence Korpa are the top seeds.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/96th-caplin-hastings-congress-2022-23",
+         "pubDate" : "Sun, 1 Jan 2023 22:32:00 +0400",
+         "title" : "96th Caplin Hastings Congress 2022-23 - Games and Results"
+      },
+      {
+         "description" : " The 50th Rilton Cup takes place 27th December 2022 to 5th January 2023. Bassem Amin won the Swedish Blitz Championships held on the rest day on January 1st, he plays a 6 game match against Nils Grandelius at a 45 minutes and what I think is 10 seconds a move - two games a day over 3rd-5th Jan.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/50th-rilton-cup-2022-23",
+         "pubDate" : "Sun, 1 Jan 2023 22:19:00 +0400",
+         "title" : "50th Rilton Cup 2022-23 - Games and Results"
       },
       {
          "description" : "IM Sarasadat Khademalsharieh (Sara Khadem), who defied the Iranian dress code for women by refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships, will not be returning home after her last tournament of the year. With he...",
@@ -394,36 +442,12 @@ news_feed (
          "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
       },
       {
-         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-blitz-chess-championship-2022-day-1-live/",
-         "pubDate" : "Thu, 29 Dec 2022 08:28:46 +0000",
-         "title" : "World Blitz Chess Championship 2022 - Day 1 live"
-      },
-      {
          "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Other Central Asian countries are also looking to become more relevant in the elite chess scene, including Kyrgyzstan, a land that was once part of the Timurid Empire - its leader, Timur The Great, was an avid chess player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars-part-2",
          "pubDate" : "Thu, 29 Dec 2022 00:15:00 +0100",
          "title" : "A new wave of chess stars (II)"
-      },
-      {
-         "description" : "The German Team Club Championship U12 is taking place from 27-30 December 2022 in Munich. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 6-round Swiss team tournament with participation of TV Tegernsee ( Tingrui Shen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-german-youth-club-championship-2022-live/",
-         "pubDate" : "Wed, 28 Dec 2022 23:06:49 +0000",
-         "title" : "U12 German Youth Club Championship 2022 - LIVE"
-      },
-      {
-         "description" : "The 2022 FIDE World Rapid Chess Championship concluded today in Almaty, Kazakhstan after three days of fights over 13 rounds. Magnus Carlsen emerged as the sole Winner of the event, clinching his 4th World Rapid Champion title. At the final press conference of the rapid event, he sent a strong message: &#8220;I will stop [winning []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-rapid-chess-championship-2022-final-rankings/",
-         "pubDate" : "Wed, 28 Dec 2022 22:57:47 +0000",
-         "title" : "FIDE World Rapid Chess Championship 2022 - Final rankings"
       },
       {
          "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
