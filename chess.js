@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the beginning of 2023 FIDE published its new ranking list. With a rating of 2859 Magnus Carlsen continues to be clear number one, and apart from Ding Liren he is the only player with a rating of 2800+. 40 players have a rating of 2700+. Hou Yifan remains number one the the women's list, Alireza Firouzja is the best junior and Bibisara Assaubayeva is the new number one on the list of female junior players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-january-2022",
+         "pubDate" : "Mon, 02 Jan 2023 13:00:00 +0100",
+         "title" : "FIDE ratings January 2022"
+      },
+      {
+         "description" : "For Magnus Carlsen, 2022 ended well: in the last week of the year he first won the World Rapid and then the World Blitz Championship. In an interview with Sagar Shah Carlsen spoke about the pleasure of winning both titles, explained interesting moments from the games he played in the two tournaments and talked about his plans for 2023. | Photo: Screenshot from the interview",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-world-championship-titles-in-five-days-an-interview-with-magnus-carlsen",
+         "pubDate" : "Mon, 02 Jan 2023 10:27:10 +0100",
+         "title" : "Two World Championship titles in five days - an interview with Magnus Carlsen"
+      },
+      {
+         "description" : "Online chess with its short time controls has also led to a renaissance of romantic openings like the King's Gambit. After the moves 1.e4 e5 2.f4 gxf4 3.Nf3 Black is faced with a fundamental decision. Should one try to hold the extra pawn on f4 with g7-g5 at all costs? With little time on the clock and against a potential theory expert, this involves some risks. So should one instead focus less on the material but on development and good piece play? With 3...Ne7!? Sergey Grigoriants recommends the second approach in his article for CBM #211 The \"Bacrot Variation\" is of course no refutation of the King's Gambit, \"but it is an excellent practical choice for Black\". Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/king-s-gambit-take-it-easy",
+         "pubDate" : "Mon, 02 Jan 2023 10:00:00 +0100",
+         "title" : "King's Gambit - Take it easy!"
+      },
+      {
          "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -86,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
-         "pubDate" : "Sun, 01 Jan 2023 09:12:19 -0800",
+         "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
          "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
       },
       {
@@ -1266,14 +1290,6 @@ news_feed (
          "title" : "Alex at the Staff Tournament | Beginner Breakdown | lichess.org"
       },
       {
-         "description" : "A seventh win in a row left Kirill Alekseenko in the sole lead of the massive main tournament at the Sunway Chess Festival in Sitges. The Russian grandmaster defeated Karen Grigoryan with white to widen the gap atop the standings - the leader has a full point lead over Amin Tabatabaei, who got the better of Daniel Dardha with black on Monday. | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r7",
-         "pubDate" : "Tue, 20 Dec 2022 13:00:00 +0100",
-         "title" : "Sunway Sitges: Alekseenko still perfect"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1282,28 +1298,12 @@ news_feed (
          "title" : "Statement by the Fair Play Chair on the Carlsen-Niemann investigation"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-2001",
-         "pubDate" : "Tue, 20 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 20"
-      },
-      {
          "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/stefan-docx-expelled-from-benidorm-open",
          "pubDate" : "Tue, 20 Dec 2022 00:56:00 -0800",
          "title" : "Belgian IM Expelled From Chess Tournament After Refusing Body Scan"
-      },
-      {
-         "description" : "In the endgame a rook is usually much stronger than a minor piece. But when only a few pawns are left on the board the attacker must be careful. In the diagram position it is Black to move. What did he do to win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-sting-of-the-scorpion-2",
-         "pubDate" : "Tue, 20 Dec 2022 09:00:00 +0100",
-         "title" : "The sting of the scorpion"
       },
       {
          "description" : "",
@@ -1712,22 +1712,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
          "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
          "title" : "TCEC/CCC Interludes"
-      },
-      {
-         "description" : " The final of the Julius Baer Challenger Championship takes place 11th-13th 2022. 4 sets of chess two rapid and two blitz between the top two players on the tour R Praggnanandhaa and V Pranav played in the offices of Julius Baer in Tel Aviv. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/julius-baer-challenger-championship-2022",
-         "pubDate" : "Mon, 12 Dec 2022 14:45:00 +0400",
-         "title" : "Julius Baer Challenger Championship 2022 - Games and Results"
-      },
-      {
-         "description" : " The 9th Sunway Sitges Open sponsored by Chessable takes place 12th to 23rd December 2022. One of the strongest opens of the year. Leading players: Yu Yangyi, Hans Moke Niemann, Jorden Van Foreest, Ivan Cheparinov, Jules Moussard, Andrey Esipenko, Vasyl Ivanchuk, Kiril Alekseenko, Anton Korobov, Amin Tabatabaei, Anton Demchenko, Gawain Jones, Manuel Petrosyan etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-sunway-sitges-open-2022",
-         "pubDate" : "Mon, 12 Dec 2022 14:30:00 +0400",
-         "title" : "9th Sunway Sitges Open 2022 - Games and Results"
       }
    ]
 }
