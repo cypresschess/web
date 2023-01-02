@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The exodus of Russian chess players continues. In 2024 Alexandra Kosteniuk will play for Switzerland. The top Russian player and Women's World Champion from 2008 has both Russian and Swiss citizenship, and in 2013 Kosteniuk won the Swiss Championship (in the open tournament). | Photo: Eteri Kublashvili",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexandra-kosteniuk-switches-to-swiss-chess-federation",
+         "pubDate" : "Mon, 02 Jan 2023 17:18:58 +0100",
+         "title" : "Alexandra Kosteniuk switches to Swiss Chess Federation"
+      },
+      {
+         "description" : "Today, ChessBase India CEO Sagar Shah wants to touch on a subject that has been playing around on his mind, and to which he has no concrete answers. Is chess levitating towards shorter time formats. Are sponsors driving this trend? And will classical chess be abandoned? \"I just want to put the question out there, maybe our readers can see why I feel a bit confused as a chess fan,\" Sagar says.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/where-is-chess-going",
+         "pubDate" : "Mon, 02 Jan 2023 16:00:00 +0100",
+         "title" : "Where is chess going?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96687029.cms\" />The new year brought happy news for Bengal chess as Koustav Chatterjee became the country's 78th Grandmaster late on Saturday night. The Kolkata boy took the state's GM count to double digits by drawing with statemate GM Mirtabha Guha, who incidentally was Bengal's last and ninth GM, in Round 10 of the National chess championship in New Delhi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gets-10th-gm-india-78th-in-koustav-chatterjee/articleshow/96687029.cms",
+         "pubDate" : "Mon, 02 Jan 2023 13:02:21 +0000",
+         "title" : "Bengal gets 10th GM, India 78th in Koustav Chatterjee"
+      },
+      {
          "description" : "At the beginning of 2023 FIDE published its new ranking list. With a rating of 2859 Magnus Carlsen continues to be clear number one, and apart from Ding Liren he is the only player with a rating of 2800+. 40 players have a rating of 2700+. Hou Yifan remains number one the the women's list, Alireza Firouzja is the best junior and Bibisara Assaubayeva is the new number one on the list of female junior players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-january-2022",
+         "link" : "https://en.chessbase.com/post/fide-ratings-january-2023",
          "pubDate" : "Mon, 02 Jan 2023 13:00:00 +0100",
-         "title" : "FIDE ratings January 2022"
+         "title" : "FIDE ratings January 2023"
       },
       {
          "description" : "For Magnus Carlsen, 2022 ended well: in the last week of the year he first won the World Rapid and then the World Blitz Championship. In an interview with Sagar Shah Carlsen spoke about the pleasure of winning both titles, explained interesting moments from the games he played in the two tournaments and talked about his plans for 2023. | Photo: Screenshot from the interview",
@@ -1242,14 +1266,6 @@ news_feed (
          "title" : "Ivan Farago (1946-2022)"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-212",
-         "pubDate" : "Wed, 21 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 21"
-      },
-      {
          "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women's sections. The Championships will be played in 9 rounds of the Swiss System. The time control will be 90 minutes for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown",
          "pubDate" : "Wed, 21 Dec 2022 01:51:41 +0000",
          "title" : "Alex at the Staff Tournament | Beginner Breakdown"
-      },
-      {
-         "description" : "On Tuesday, the ten participants of the Gashimov Memorial played the last three rounds of 15+10 rapid chess in Baku. Nodirbek Abdusattorov, who had grabbed the lead early on, scored a win and two draws to remain atop the standings. Paco Vallejo and Rauf Mamedov shared second place, two points behind the youngster (points count double in the rapid). Following the rest day, 18 rounds of blitz will take place on Thursday and Friday. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d3",
-         "pubDate" : "Wed, 21 Dec 2022 01:30:00 +0100",
-         "title" : "Gashimov Memorial: Abdusattorov wins the rapid section"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20<br /> JJ Ali Marandi vs. Nikhil Kumar, 2017<br /> Jordan Ivanov vs. Ali Marandi, 2011<br /> Cemil Can Ali Marandi vs Jinshi Bai, World Junior Championship (2015)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1800995\">https://www.chessgames.com/perl/chessgame?gid=1800995</a><br /> Ali Marandi vs. Dmitry Gurevich, 2018 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a h",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2133",
          "pubDate" : "Mon, 12 Dec 2022 16:35:50 +0000",
          "title" : "Greek Championship: Georgios Mitsis and Marina Makropoulou come out on top"
-      },
-      {
-         "description" : "In my previous fortnightly post on the two most important engine vs. engine tournaments, <A HREF=\"http://chessforallages.blogspot.com/2022/11/tcec-s23-ccc19-rapid-stockfish-wins-both.html\">TCEC S23, CCC19 Rapid : Stockfish Wins Both</A>(November 2022), I was premature in calling Stockfish the CCC winner. Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish beat LCZero +27-10=63 to win its sixth straight 'Superfinal'. The site is currently conducting a 100-game 'Subfinal', where LCzero has already clinched victory over KomodoDragon. &#149; CCC: In the 'CCC19 Rapid Semifinal', Stockfish, Lc0, and Dragon finished 1-2-3, with the other three engines as distant also-rans. LC0 beat Dragon b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html",
-         "pubDate" : "Mon, 12 Dec 2022 16:18:00 +0000",
-         "title" : "TCEC/CCC Interludes"
       }
    ]
 }
