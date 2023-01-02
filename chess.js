@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2161",
+         "pubDate" : "Mon, 02 Jan 2023 18:14:38 +0000",
+         "title" : "January 2023 Chess Solvers rating list published"
+      },
+      {
+         "description" : "The Rilton Cup in Stockholm celebrates its 50th anniversary. The tournament is now one of the top international tournaments through which players can qualify for the 2024 Candidates Tournament. After five rounds, 18-year-old Indian Grandmaster Raja Rithvik is sole leader with 4.5/5. | Photo: Dana Reizniece starts the round (Photos: Rilton Cup)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rilton-cup-indian-grandmaster-raja-rithvik-leads-after-five-rounds",
+         "pubDate" : "Mon, 02 Jan 2023 18:11:25 +0100",
+         "title" : "Rilton Cup: Indian Grandmaster Raja Rithvik leads after five rounds"
+      },
+      {
+         "description" : "In the Endgame Magic Show #221 - the first in 2023 - Karsten shows entertaining endgame highlights from the Tata Steel India Tournament 2023. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-221-highlights-of-the-tata-steel-india-tournament",
+         "pubDate" : "Mon, 02 Jan 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #221: Highlights of the Tata Steel India Tournament"
+      },
+      {
          "description" : "The exodus of Russian chess players continues. In 2024 Alexandra Kosteniuk will play for Switzerland. The top Russian player and Women's World Champion from 2008 has both Russian and Swiss citizenship, and in 2013 Kosteniuk won the Swiss Championship (in the open tournament). | Photo: Eteri Kublashvili",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Gorshtein and Shvayger are the 2022 Israeli champions"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-229",
-         "pubDate" : "Thu, 22 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 22"
-      },
-      {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2145",
          "pubDate" : "Wed, 21 Dec 2022 16:27:07 +0000",
          "title" : "Taione Sikivou wins 2022 Vodafone Fiji Chess Championship"
-      },
-      {
-         "description" : "Kirill Alekseenko's winning streak in Sitges came to an end in round 8, as Amin Tabatabaei held the Russian to a draw on Tuesday. Nonetheless, Alekseenko still has a full-point lead over a five-player chasing pack. Top seeds Yu Yangyi and Hans Niemann are among the chasers, after both winning their round-8 encounters. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r8",
-         "pubDate" : "Wed, 21 Dec 2022 14:10:00 +0100",
-         "title" : "Sunway Sitges: Tabatabaei holds Alekseenko to a draw"
       },
       {
          "description" : " After another periodic update of my chess book collection, I decided to look at which authors were well represented in my collection. It may not come as a surprise that Fred Reinfeld is at the top of list, although this probably reflects the quantity, rather than quality of his work. Second place is GM Raymond Keene, again another prolific author. However the next two authors on my list are both prolific, but at least in my case, regularly read. GM John Nunn comes in third place with 19 books, and I usually have one or two of his books at hand (including one I was working with today). Close behind is Andrew Soltis (17), which reflects his recent publication record (it seems like a new book ",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-17.html",
          "pubDate" : "Mon, 12 Dec 2022 21:36:00 +0000",
          "title" : "2022 ACT Rapidplay Championship - 17 December 2022"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2133",
-         "pubDate" : "Mon, 12 Dec 2022 16:35:50 +0000",
-         "title" : "Greek Championship: Georgios Mitsis and Marina Makropoulou come out on top"
       }
    ]
 }
