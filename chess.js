@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/",
          "pubDate" : "Tue, 13 Dec 2022 10:11:05 +0000",
          "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
-      },
-      {
-         "description" : " The 2022 ACT Rapidplay Championship is being held on the 17th December 2022 at 11am at King O'Malley's, City Walk, Canberra. Details are: <ul><li>Venue - King O'Malley's, City Walk, Canberra ACT (inside City Walk Arcade if it is raining)</li><li>Date - 17 December 2022 11:00am (Entries from 10:30am to 10:55 am)</li><li>Entry Fee - $10 adults, $5 juniors (under 18)</li><li>Prizes - $150 1st + other prizes ($350 in prizes were awarded in 2021)</li><li>Rounds - 7</li><li>Time control - G/15m</li><li>ACF Rated </li><li>ACTCA/ACTJCL Membership reqd - 2023 membership can be paid here <a href=\"https://www.trybooking.com/CEFJY\">https://www.trybooking.com/CEFJY</a></li></ul>(* I am a paid official f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-17.html",
-         "pubDate" : "Mon, 12 Dec 2022 21:36:00 +0000",
-         "title" : "2022 ACT Rapidplay Championship - 17 December 2022"
       }
    ]
 }
