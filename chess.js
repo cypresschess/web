@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Of all traditional chess tournaments that still take place, the Chess Congress in Hastings has the longest tradition. This year, it sees its 96th edition. To celebrate the event, James Bacon, the mayor of Hastings, opened the tournament in his official attire. After the first six rounds Sarunas Sulskis from Lithuania leads with 6.0/6.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tradition-the-96th-caplin-hastings-international-chess-congress",
+         "pubDate" : "Tue, 03 Jan 2023 17:06:08 +0100",
+         "title" : "Tradition! - The 96th Caplin Hastings International Chess Congress"
+      },
+      {
+         "description" : "When we see a child playing chess, it is easy for us to associate such activity with the development of important cognitive skills. Chess is perceived as a way to improve logical reasoning and the ability to solve complex problems. However, what level of scientific verification have we obtained so far on this issue? Peruvian psychologist Percy Guzman carried out an experimental study to elucidate these questions. | Photo: Nadja Wittmann",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/benefits-of-chess-in-the-school-population",
+         "pubDate" : "Tue, 03 Jan 2023 16:00:02 +0100",
+         "title" : "Benefits of chess in the school population"
+      },
+      {
          "description" : "The Kasparov Chess Foundation (KCF) celebrated its 20th anniversary this year with a gala on November 16th. However, the gala event was not the last event of the year as there was one more work session left. In the week before Christmas, from December 16-18, Garry Kasparov trained six talented youngsters, who had an average age of 13 and an average Elo rating of 2490. | Photos: Kasparov Chess Foundation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -954,6 +970,14 @@ news_feed (
          "title" : "Live : MPL 35th NATIONAL UNDER-9 OPEN & GIRLS CHESS CHAMPIONSHIP 2022"
       },
       {
+         "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/",
+         "pubDate" : "Mon, 26 Dec 2022 00:10:41 +0000",
+         "title" : "The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik"
+      },
+      {
          "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Uzbek boys, Kazakh girls, Azeri youth, Chinese, Indian and Iranian young phenoms ever more frequently lit the chess sky. What do their countries have in common? They all once lined the Silk Road.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1202,28 +1226,12 @@ news_feed (
          "title" : "Chess, Life, and Parenting"
       },
       {
-         "description" : "In his \"Game of the Week\" show #547 Merijn van Delft analyses one of Kirill Alekseenko's victory from the Sitges tournament. Alekseenko combined positional play with good old attacking chess, making chess look easy in the process! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-547-",
-         "pubDate" : "Thu, 22 Dec 2022 17:00:00 +0100",
-         "title" : "Game of the Week #547: Alekseenko vs. Grigoryan"
-      },
-      {
-         "description" : "The ECF office will close at 5.00pm tomorrow (Friday 23rd December). Emails will be dealt with from Wednesday 28th onwards, and telephones will re-open on...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-office-hours-next-week/",
-         "pubDate" : "Thu, 22 Dec 2022 11:28:50 +0000",
-         "title" : "ECF office hours next week"
-      },
-      {
-         "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-live",
-         "pubDate" : "Thu, 22 Dec 2022 09:30:00 +0100",
-         "title" : "Sunway Sitges Open: Final round - Live!"
+         "description" : " From the rear cover : &#8220;Tigran Petrosian, the ninth world chess champion, was one of the deepest thinkers the chess world has ever seen. His handling of complex positions was <a href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange Sacrifice according to Tigran Petrosian</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\">The Exchange Sacrifice according to Tigran Petrosian</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/",
+         "pubDate" : "Fri, 23 Dec 2022 00:10:45 +0000",
+         "title" : "The Exchange Sacrifice according to Tigran Petrosian"
       },
       {
          "description" : "World Chess Champion Magnus Carlsen talked to Chess.com CCO Danny Rensch for 25 minutes during a landmark State of Chess.com broadcast. Magnus, the figurehead of the Play Magnus Group, talked about joining Chess.com, but also many other topics, including the future of the game, his ambitions and why Alireza Firouzja stands out from the crowd.",
