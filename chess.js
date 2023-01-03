@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 Australian Open began yesterday (2nd January), with 114 players in the Open event, and 54 players in the Minor. There were a couple of no-shows (due to visa and travel issues), but the event got off to a very smooth start. The Open saw very few upsets, with the top 17 seeds all recording victories. There were four draws on lower boards, while lower rated players scored wins in four of the games. Round 2 sees some closer matchups on the top boards, although the rating gap is still around 500 points. In the Minor there were 6 upsets results, involving 5 wins and a draw. However a couple of these can be attributed to the variability in rating accuracy of new and lower rated players. J",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-1.html",
+         "pubDate" : "Tue, 03 Jan 2023 01:59:00 +0000",
+         "title" : "2023 Australian Open - Day 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
