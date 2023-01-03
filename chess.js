@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation (KCF) celebrated its 20th anniversary this year with a gala on November 16th. However, the gala event was not the last event of the year as there was one more work session left. In the week before Christmas, from December 16-18, Garry Kasparov trained six talented youngsters, who had an average age of 13 and an average Elo rating of 2490. | Photos: Kasparov Chess Foundation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/studying-chess-with-a-legend-kasparov-trains-young-talents",
+         "pubDate" : "Tue, 03 Jan 2023 12:00:00 +0100",
+         "title" : "Studying chess with a legend: Kasparov trains young talents"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2162",
+         "pubDate" : "Tue, 03 Jan 2023 10:34:28 +0000",
+         "title" : "The 1st Chess Workshop for Women set for January 05"
+      },
+      {
          "description" : "In the diagram position White is a piece up but if Black plays correctly White cannot win - after an exchange of queens White often lands in a position in which he has the h-pawn and the \"wrong\" bishop. But how should Black proceed in the diagram position?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1194,14 +1210,6 @@ news_feed (
          "title" : "Game of the Week #547: Alekseenko vs. Grigoryan"
       },
       {
-         "description" : "On 12 December the Hungarian Grandmaster Ivan Farago died at the age of 76. He was born on 1 April 1946 in Budapest, and in 1974 he became an International Master. The Grandmaster title followed two years later, in 1976. In 1986 he became Hungarian Champion and in July 1993 he reached a peak rating of 2540. In a short obituary FIDE pays tribute to this passionate player. | Photo: LGA",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memoriam-ivan-farago-1-april-1946-12-december-2022",
-         "pubDate" : "Thu, 22 Dec 2022 12:46:13 +0100",
-         "title" : "In Memoriam: Ivan Farago (1 April 1946 - 12 December 2022)"
-      },
-      {
          "description" : "The ECF office will close at 5.00pm tomorrow (Friday 23rd December). Emails will be dealt with from Wednesday 28th onwards, and telephones will re-open on...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessable-sunway-chess-festival-begins-in-sitges",
          "pubDate" : "Tue, 13 Dec 2022 13:58:40 +0000",
          "title" : "Chessable Sunway Chess Festival begins in Sitges"
-      },
-      {
-         "description" : "The European Open and Women Rapid &#38; Blitz Chess Championships 2022 will commence on Friday in Katowice, Poland. The events will be played from 16th-19th December in \"Spodek\" Sport and Entertainment Centre. The first tournament on the schedule will be the European Open and Women Blitz Chess Championship 2022 which will be played on December 16th. The event&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-blitz-chess-championships-2022-start-in-katowice/",
-         "pubDate" : "Tue, 13 Dec 2022 10:11:05 +0000",
-         "title" : "European Rapid & Blitz Chess Championships 2022 start in Katowice"
       }
    ]
 }
