@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/botez-awarded-tko-mogul-chessboxing",
          "pubDate" : "Tue, 13 Dec 2022 11:06:00 -0800",
          "title" : "Andrea Botez Awarded TKO In Mogul Chessboxing Championship, 2 Winners"
-      },
-      {
-         "description" : "Yu Yangyi, Hans Niemann and Jorden van Foreest were among the winners in Round 1 of the Sunway Chess Festival, while Ivan Cheparinov and Jules Moussard were held to draws, with Jules a move or two away from disaster. The shock result, on paper, was 2179-rated Netanel Levi beating Amin Tabatabaei after playing 1.g4, but this was the latest episode of Iranian chess players boycotting Israelis.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessable-sunway-chess-festival-begins-in-sitges",
-         "pubDate" : "Tue, 13 Dec 2022 13:58:40 +0000",
-         "title" : "Chessable Sunway Chess Festival begins in Sitges"
       }
    ]
 }
