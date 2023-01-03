@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to the entire suite of Chess.com puzzle products&#38;mdash;Puzzles, Puzzle Rush, an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
+         "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
+         "title" : "Puzzle Week! Unlimited Puzzles, Puzzles World Championship, And More"
+      },
+      {
          "description" : "Of all traditional chess tournaments that still take place, the Chess Congress in Hastings has the longest tradition. This year, it sees its 96th edition. To celebrate the event, James Bacon, the mayor of Hastings, opened the tournament in his official attire. After the first six rounds Sarunas Sulskis from Lithuania leads with 6.0/6.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://chessimprover.com/blunder-in-1-2/",
          "pubDate" : "Tue, 13 Dec 2022 22:43:28 +0000",
          "title" : "Blunder in 1 (2)"
-      },
-      {
-         "description" : "Following a controversial ruling at the Mogul Chessboxing Championship, which took place on Sunday, the organizer&#39;s Twitter account &#34;Mogul Moves&#34; announced an updated result on Tuesday regarding the match between WGM Dina Belenkaya and Andrea Bote...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/botez-awarded-tko-mogul-chessboxing",
-         "pubDate" : "Tue, 13 Dec 2022 11:06:00 -0800",
-         "title" : "Andrea Botez Awarded TKO In Mogul Chessboxing Championship, 2 Winners"
       }
    ]
 }
