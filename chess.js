@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White is a piece up but if Black plays correctly White cannot win - after an exchange of queens White often lands in a position in which he has the h-pawn and the \"wrong\" bishop. But how should Black proceed in the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-surprisingly-solid-fortress",
+         "pubDate" : "Tue, 03 Jan 2023 09:00:00 +0100",
+         "title" : "A surprisingly solid fortress"
+      },
+      {
          "description" : " The 2023 Australian Open began yesterday (2nd January), with 114 players in the Open event, and 54 players in the Minor. There were a couple of no-shows (due to visa and travel issues), but the event got off to a very smooth start. The Open saw very few upsets, with the top 17 seeds all recording victories. There were four draws on lower boards, while lower rated players scored wins in four of the games. Round 2 sees some closer matchups on the top boards, although the rating gap is still around 500 points. In the Minor there were 6 upsets results, involving 5 wins and a draw. However a couple of these can be attributed to the variability in rating accuracy of new and lower rated players. J",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-221-highlights-of-the-tata-steel-india-tournament",
          "pubDate" : "Mon, 02 Jan 2023 18:00:00 +0100",
          "title" : "Endgame Magic #221: Highlights of the Tata Steel India Tournament"
+      },
+      {
+         "description" : "The previous six month summary, <A HREF=\"https://chessforallages.blogspot.com/2022/06/tcecccc-2022-h1-summary.html\">TCEC/CCC 2022-H1 Summary</A>(June 2022), asked, <BLOCKQUOTE>'Dragon, LCZero - Who's Better?'. One week it's Dragon; next week it's LCZero. What answers will the next six months bring? </BLOCKQUOTE> <P>Here's a summary of the second half of 2022. <P ALIGN=CENTER><TABLE BORDER=1 CELLSPACING=0> <TR><TH WIDTH=50%>TCEC/CCC</TH><TH WIDTH=50%>Off-week</TH></TR> <TR><TD VALIGN=TOP>2022-07-18:<BR><A HREF=\"https://chessforallages.blogspot.com/2022/07/stockfish-wins-tcec-swiss-3-and-ccc17.html\">Stockfish Wins TCEC Swiss 3 and CCC17 Blitz</A></TD><TD VALIGN=TOP>2022-07-25:<BR><A HREF=\"http",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/tcecccc-2022-h2-summary.html",
+         "pubDate" : "Mon, 02 Jan 2023 16:58:00 +0000",
+         "title" : "TCEC/CCC 2022-H2 Summary"
       },
       {
          "description" : "The exodus of Russian chess players continues. In 2024 Alexandra Kosteniuk will play for Switzerland. The top Russian player and Women's World Champion from 2008 has both Russian and Swiss citizenship, and in 2013 Kosteniuk won the Swiss Championship (in the open tournament). | Photo: Eteri Kublashvili",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-office-hours-next-week/",
          "pubDate" : "Thu, 22 Dec 2022 11:28:50 +0000",
          "title" : "ECF office hours next week"
-      },
-      {
-         "description" : "The Israeli Championships took place on December 5-13 in the southern city of Arad, with a prize fund of 110 thousands NIS. The surprising winner was 20-year-old IM Ido Gorshtein, while IM Yuliya Shvayger defended her title in the women's competition. | Pictured: FIDE Arbiter Ilana Glaz, Yuliya Shvayger, Avital Boruchovsky, Gil Boruchovsky (General Director of ICF), Ido Gorshtein, Ori Kochavi, Flory Sterling, Deputy Mayor of Arad. | Photos: Dr. Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/israel-championship-2022-report",
-         "pubDate" : "Thu, 22 Dec 2022 12:15:00 +0100",
-         "title" : "Gorshtein and Shvayger are the 2022 Israeli champions"
       },
       {
          "description" : "The Sunway Chess Festival, sponsored by Chessable, is taking place on December 12-22 at the Playa Golf Hotel in Sitges, Catalonia. Two massive open tournaments will be played at the resort southwest of Barcelona. Over 300 players have registered to participate in the main group, with the likes of Andrey Esipenko and Vasyl Ivanchuk in the mix. | Follow the games live with expert commentary. The final round starts at 9.30 CET (4.30 ET, 15.00 IST)",
