@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2nd day of the 2023 Australian Open saw rounds 2 and 3 take place, with the tournament top seeds emerging unscathed. Both rounds saw a number of promising juniors take on the top seeds, but experience prevailed over enthusiasm. However, included in the group on 3/3 is one surprise packet, Anna Rozuwiecka from Victoria. She upset FM Patrick Gong in round 2 and then beat Rob Maris in the third round. The Minor has 6 players on 3/3. There are 2 unrated players in this group (Tharanga Gunasekara and Leo Ross) along with the usual group of improving junior players. Today is a single round day, with play commencing at 1400 Perth time. <br /> <b>Salasan,Haran (2002) - Johansen,Darryl K (2360) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-2.html",
+         "pubDate" : "Wed, 04 Jan 2023 03:19:00 +0000",
+         "title" : "2023 Australian Open - Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on forcing moves.<br /> A forcing move is not always a check. See zugzwangs, waiting moves, and more! 2023.01.03<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> C03 French, Tarrasch<br /> A45 Paleface attack<br /> Alex Moellering vs. N. N., ???: B22 Sicilian, Alapin&#039;s variation (2.c3) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown",
+         "pubDate" : "Wed, 04 Jan 2023 02:01:21 +0000",
+         "title" : "Forcing Moves Revisited | Beginner Breakdown"
+      },
+      {
          "description" : "GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. The news was published on the website of the Swiss Chess Federation. Kosteniuk stopped playing for h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi",
          "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
          "title" : "Ali Marandi's Nice Chess Tactics | Grandmaster's Choice - GM JJ Ali Marandi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ffNJO0x7zvM.jpg?itok=eV_kzpel\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
-         "title" : "Alex at the Staff Tournament | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "",
