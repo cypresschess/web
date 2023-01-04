@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The cosmopolitan city of Almaty saw Magnus Carlsen adding two world titles to his collection, while Tan Zhongyi and Bibisara Assaubayeva took home gold medals in the women's events. With so much chess being played in a span of five days, Karsten M&uuml;ller had no trouble finding remarkable endgames to share with us. Find here six instructive positions to learn and enjoy! | Pictured: Vincent Keymer trying to make the most of his good knight against Maxime Vachier-Lagrave's bad bishop. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-endgames",
+         "pubDate" : "Wed, 04 Jan 2023 09:17:22 +0100",
+         "title" : "Endgames from Almaty"
+      },
+      {
          "description" : " The 2nd day of the 2023 Australian Open saw rounds 2 and 3 take place, with the tournament top seeds emerging unscathed. Both rounds saw a number of promising juniors take on the top seeds, but experience prevailed over enthusiasm. However, included in the group on 3/3 is one surprise packet, Anna Rozuwiecka from Victoria. She upset FM Patrick Gong in round 2 and then beat Rob Maris in the third round. The Minor has 6 players on 3/3. There are 2 unrated players in this group (Tharanga Gunasekara and Leo Ross) along with the usual group of improving junior players. Today is a single round day, with play commencing at 1400 Perth time. <br /> <b>Salasan,Haran (2002) - Johansen,Darryl K (2360) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2146",
          "pubDate" : "Fri, 23 Dec 2022 07:24:52 +0000",
          "title" : "FIDE Executive Director visits the Maldives"
-      },
-      {
-         "description" : "Chess is fun but it can also be difficult. Being a chess parent is also often fun but sometimes it can also be difficult. Daniel Sokol, chess enthusiast and father of two kids who love to play chess and to compete in tournaments, shares some of his adventures and insights as a chess parent. And concludes: \"The chess tournament, with its wealth of emotions and experiences, is an excellent training ground for the challenges of life for the children, and of parenthood for the adults.\" | Photo: Sebastian Siebrecht",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-life-and-parenting",
-         "pubDate" : "Fri, 23 Dec 2022 08:06:01 +0100",
-         "title" : "Chess, Life, and Parenting"
       },
       {
          "description" : " From the rear cover : &#8220;Tigran Petrosian, the ninth world chess champion, was one of the deepest thinkers the chess world has ever seen. His handling of complex positions was <a href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange Sacrifice according to Tigran Petrosian</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\">The Exchange Sacrifice according to Tigran Petrosian</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
