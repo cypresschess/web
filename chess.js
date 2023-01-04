@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "October saw the start of the new Bundesliga season. In ChessBase Magazine #211 participants from various teams comment on their games from the first rounds, including the stars from the cover - Pavel Eljanov, Loek van Wely and Luke McShane - as well as Nils Grandelius, Rustam Kasimdzhanov, Ivan Saric, Ivan Cheparinov, Gawain Jones, Nikita Vitiugov, Erwin L'Ami, Dennis Wagner, Daniil Yuffa, Georg Meier, Jan-Christian Schr&ouml;der, Thai Dai Van Nguyen and Michael Prusikin. In addition, David Navara presents his game against Luke McShane in a detailed video analysis and Rustam Kasimdhzanov reviews his Black victory against Julian Kramer, also in the video. \"The Analysis\" of the issue comes fro",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-analysis-from-erwin-l-ami",
+         "pubDate" : "Wed, 04 Jan 2023 12:00:00 +0100",
+         "title" : "\"The Analysis\" from Erwin l'Ami"
+      },
+      {
+         "description" : " Let me tell you about two of our relatively new club members, both in their 30s. Let's call them Tom and Jerry. I've changed their names and some details for the purposes of this article. Jerry has been a member for a couple of years now. He plays enthusiastically for several of our teams as <a href=\"https://chessimprover.com/tom-and-jerry/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tom and Jerry\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tom-and-jerry/\">Tom and Jerry</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tom-and-jerry/",
+         "pubDate" : "Wed, 04 Jan 2023 09:48:24 +0000",
+         "title" : "Tom and Jerry"
+      },
+      {
          "description" : "The cosmopolitan city of Almaty saw Magnus Carlsen adding two world titles to his collection, while Tan Zhongyi and Bibisara Assaubayeva took home gold medals in the women's events. With so much chess being played in a span of five days, Karsten M&uuml;ller had no trouble finding remarkable endgames to share with us. Find here six instructive positions to learn and enjoy! | Pictured: Vincent Keymer trying to make the most of his good knight against Maxime Vachier-Lagrave's bad bishop. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Forcing Moves Revisited | Beginner Breakdown"
       },
       {
-         "description" : "GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. The news was published on the website of the Swiss Chess Federation. Kosteniuk stopped playing for h...",
+         "description" : "On the website of the Swiss Chess Federation the news was published that GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. Kosteniuk herself hasn&#39;t conf...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alexandra-kosteniuk-to-play-for-switzerland",
          "pubDate" : "Tue, 03 Jan 2023 15:05:00 -0800",
-         "title" : "Alexandra Kosteniuk To Play For Switzerland"
+         "title" : "'Alexandra Kosteniuk To Play For Switzerland'"
       },
       {
          "description" : "Over 10,000 members chimed in with their votes this year, and Chess.com is happy to announce the winners of the 2022 Chess.com Awards! These awards are an opportunity to celebrate the fantastic year 2022 has been for chess. They are also a way for...",
@@ -64,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
          "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
          "title" : "Puzzle Week! Unlimited Puzzles, Puzzles World Championship, And More"
+      },
+      {
+         "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/january-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 03 Jan 2023 16:22:00 +0000",
+         "title" : "January 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "Of all traditional chess tournaments that still take place, the Chess Congress in Hastings has the longest tradition. This year, it sees its 96th edition. To celebrate the event, James Bacon, the mayor of Hastings, opened the tournament in his official attire. After the first six rounds Sarunas Sulskis from Lithuania leads with 6.0/6.",
@@ -1242,14 +1266,6 @@ news_feed (
          "title" : "The World Championship 1972 calendar - Door 23"
       },
       {
-         "description" : "The Vugar Gashimov Memorial 2022, organized once again as a rapid and blitz tournament, is taking place on December 18-23 in Baku, Azerbaijan. On Sunday, the ten participants are playing the first three rounds of the 15+10 rapid event - four Azerbaijanis, led by superstar Shakhriyar Mamedyarov, are competing with six guests from around the world. | Follow the games live, starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-live",
-         "pubDate" : "Fri, 23 Dec 2022 11:55:00 +0100",
-         "title" : "Gashimov Memorial Rapid & Blitz - Live"
-      },
-      {
          "description" : " The 8th Vugar Gashimov Memorial took place Sun 18th Dec to Sat 24th Dec 2022. The event was a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh. Nodirbek Abdusattorov ran away with it scoring 25.5/36 a full five points clear of Rauf Mamedov and Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1704,38 +1720,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/getting-adopted.html",
          "pubDate" : "Wed, 14 Dec 2022 13:03:00 +0000",
          "title" : "Getting adopted"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2134",
-         "pubDate" : "Wed, 14 Dec 2022 11:52:54 +0000",
-         "title" : "Gorshtein and Shvayger win 2022 Israeli Championship"
-      },
-      {
-         "description" : " The 13th Hainan Danzhou GM tournament took place Mon 12th Dec to Wed 14th Dec 2022. The event TOOK place online on Chess.com for the foreign players and in person in Danzhou. Players: Ding, Giri, Rapport, MVL, Andreikin, Erigaisi, Bu and Ju Wenjun. Rapid over 7 rounds. Anish Giri won on tie-break from MVL and Bu after all scored 4.5/7.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-hainan-danzhou-gm-2022",
-         "pubDate" : "Wed, 14 Dec 2022 14:22:00 +0400",
-         "title" : "13th Hainan Danzhou GM 2022 - Games and Results"
-      },
-      {
-         "description" : "European Chess Union announces the 1st European Cities &#38; Towns Chess Championship which will now take place on Sunday, 29th January 2023, in hybrid cities...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-cities-towns-chess-championship/",
-         "pubDate" : "Wed, 14 Dec 2022 09:00:40 +0000",
-         "title" : "European Cities & Towns Chess Championship - update"
-      },
-      {
-         "description" : "It was a good day for GOATs! Lionel Messi orchestrated the performance as Argentina cruised into the World Cup final, while on the chessboard Magnus Carlsen didn't lose a game in four hours as he crushed Fabiano Caruana 22:4. \"It certainly hasn't been done against somebody as strong as Fabi\", noted Magnus, who at one point won 11 games in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-unbeaten-in-caruana-speed-chess-demolition",
-         "pubDate" : "Wed, 14 Dec 2022 08:56:12 +0000",
-         "title" : "Carlsen unbeaten in Caruana Speed Chess demolition"
       }
    ]
 }
