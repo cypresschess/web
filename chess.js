@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The theme of \"decision-making\" is an essential part of every chess game. At every moment of the game, you must make a decision that is not only tactical; as psychology, structural preferences, positional basics and good variation calculation are all part of the process of making the right decision.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-making-the-right-decisions-in-chess-fundamentals",
+         "pubDate" : "Wed, 04 Jan 2023 15:00:00 +0100",
+         "title" : "New: Making the right decisions in chess - Fundamentals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2164",
+         "pubDate" : "Wed, 04 Jan 2023 12:42:24 +0000",
+         "title" : "2023 Laws of Chess published"
+      },
+      {
          "description" : "October saw the start of the new Bundesliga season. In ChessBase Magazine #211 participants from various teams comment on their games from the first rounds, including the stars from the cover - Pavel Eljanov, Loek van Wely and Luke McShane - as well as Nils Grandelius, Rustam Kasimdzhanov, Ivan Saric, Ivan Cheparinov, Gawain Jones, Nikita Vitiugov, Erwin L'Ami, Dennis Wagner, Daniil Yuffa, Georg Meier, Jan-Christian Schr&ouml;der, Thai Dai Van Nguyen and Michael Prusikin. In addition, David Navara presents his game against Luke McShane in a detailed video analysis and Rustam Kasimdhzanov reviews his Black victory against Julian Kramer, also in the video. \"The Analysis\" of the issue comes fro",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1258,14 +1274,6 @@ news_feed (
          "title" : "Sunway Sitges: Alekseenko takes the title"
       },
       {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-234",
-         "pubDate" : "Fri, 23 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 23"
-      },
-      {
          "description" : " The 8th Vugar Gashimov Memorial took place Sun 18th Dec to Sat 24th Dec 2022. The event was a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh. Nodirbek Abdusattorov ran away with it scoring 25.5/36 a full five points clear of Rauf Mamedov and Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2135",
          "pubDate" : "Wed, 14 Dec 2022 15:19:51 +0000",
          "title" : "Hungarian Championship: P&eacute;ter Proh&aacute;szka and Zsuzsanna Terbe win titles"
-      },
-      {
-         "description" : " As I am not as young as I used to be, I'm not up with the lingo that young people use. But one phrase I did pick up over the last few years is 'Getting adopted'. Apparently this refers to losing 10 games in a row against a particular opponent, although it is mainly used in online chess. It has popped up recently because GM Fabiano Caruana was 'adopted' by GM Magnus Carlsen during the 2022 Speed Chess Championship on chess.com. In their Quarter Final match, Carlsen won 22-4, including 11 wins in a row during the 3m+1s and 1m+1s portions of the match. The other amazing thing about this match was that Carlsen did not lose a game, with Caruana drawing 8 games and losing the other 18. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/getting-adopted.html",
-         "pubDate" : "Wed, 14 Dec 2022 13:03:00 +0000",
-         "title" : "Getting adopted"
       }
    ]
 }
