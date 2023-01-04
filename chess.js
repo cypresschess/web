@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 82nd Georgian Championship is taking place from 4&#x2013;13 January 2023 in Tbilisi, Georgia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Merab Gagunashvili, Mikheil Mchedlishvili, Nikolozi Kacharava, Luka Paichadze, Giga Quparadze, Tornike Sanikidze, Gaioz Nigalidze, Davit Maghalashvili, Noe []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/82nd-georgian-championship-2023-live/",
+         "pubDate" : "Wed, 04 Jan 2023 20:05:33 +0000",
+         "title" : "82nd Georgian Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Australian Open 2023 is taking place from 2-10 January 2023 in Rendezvous Hotel Perth Scarborough, Australia. It is an 11-rounds Swiss system tournament with participation of Jingyao Tin, Temur Kuybokarov, James Morris, Darryl K Johansen, Christopher Wallis, Thi Kim Phung Vo, Yi Liu, Patric Gong, Dusan Stojic, William Jordan, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/australian-open-2023-live/",
+         "pubDate" : "Wed, 04 Jan 2023 20:00:46 +0000",
+         "title" : "Australian Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Cape Town Masters Challenge IM is taking place from 4&#x2013;8 January 2023 in Cape Town, South Africa. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with Adham Fawzy, Watu Kobese, Daniel Cawdery, Providence Oatlhotse, Andrew Kayonde, Mohamed Bhawoodien, Reuben Salimu, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cape-town-masters-challenge-im-2023-live/",
+         "pubDate" : "Wed, 04 Jan 2023 19:48:26 +0000",
+         "title" : "Cape Town Masters Challenge IM 2023 - LIVE"
+      },
+      {
+         "description" : "The 5th tournament in memoriam &#8220;Nikolaos Giamarellos&#8221; is organized by Evoiki Enosis Skakiston at Lucy Hotel in Chalkida, Greece, from 5-8 January. The total prize fund is 2500&#x20AC;. The event is a 7-round Swiss tournament in two rating groups, played with a time-control of 60&#8242; for 40 moves followed by 15&#8242; for the rest of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/5th-evoiki-open-nikolaos-giamarellos-2023-live/",
+         "pubDate" : "Wed, 04 Jan 2023 19:43:42 +0000",
+         "title" : "5th Evoiki Open \"Nikolaos Giamarellos\" 2023 - LIVE"
+      },
+      {
+         "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-kollars-win-titled-tuesday-january-3-2023",
+         "pubDate" : "Wed, 04 Jan 2023 10:18:00 -0800",
+         "title" : "Duda Rings In New Year With Tournament Victory"
+      },
+      {
          "description" : "The 3rd World Chess Championship between Wilhelm Steinitz and Isidor Gunsberg that ran from December 9, 1890 to January 22, 1891 was a closely fought match. At the end of 19 games, Steinitz emerged victorious, 6-4, to retain his title. Gunsberg's good result in this match was no coincidence. Gunsberg was one of the strongest players of his time though today he is almost forgotten. Eugene Manlapao takes a look at the life and career of this relatively unknown World Championship challenger. | Photo source: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -498,14 +538,6 @@ news_feed (
          "title" : "Magnus Carlsen wins World Blitz Chess Championship 2022"
       },
       {
-         "description" : "Bibisara Assaubayeva emerged as the Winner of the 2022 FIDE World Women's Blitz Chess Championship in her homeland, Kazakhstan. Assaubayeva defended her 2021 Blitz Champion title. &#8220;I am very happy to win and defend my title. And I am especially happy to do it in Kazahstan, my homeland&#8220;, said Assaubayeva at the press conference. With []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bibisara-assaubayeva-retains-her-world-blitz-champion-title/",
-         "pubDate" : "Fri, 30 Dec 2022 15:22:00 +0000",
-         "title" : "Bibisara Assaubayeva retains her World Blitz Champion title"
-      },
-      {
          "description" : "Magnus Carlsen not only won the Rapid Championship 2022, but also the Blitz Championship. The GOAT of chess, played some remarkable games, and Svitlana takes a closer look at two of them. Funnily enough, in one of the games, Bobby Fischer had a very similar position against Ulf Andersson. Perhaps Carlsen remembered the particular attacking move, and used it for his own victory. But this episode begins with the masterful tactic of Daniil Dubov against Nihal Sarin. What a stunner!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -594,22 +626,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Dubov attacks"
       },
       {
-         "description" : "The&#160;50th edition of the Rilton Cup, Sweden&#x2019;s biggest open tournament, will be held from December 27 to January 5 in Stockholm, Sweden. The event will be part of the FIDE Circuit, a&#160;new qualification path to the Candidates Tournament. The Rilton Cup 2022/2023 will be played in 9 rounds, swiss system, with the time control of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/50th-rilton-cup-live/",
-         "pubDate" : "Fri, 30 Dec 2022 09:02:00 +0000",
-         "title" : "50th Rilton Cup - LIVE"
-      },
-      {
-         "description" : "The&#160;2022 World Rapid and Blitz Chess Championships&#160;take place in Almaty (Kazakhstan) between Sunday, the 25th of December and run through until Friday, the 30th of December. The event will boast a 1 million USD prize fund and gathers some of the best players in the world including World Chess Champion&#160;Magnus Carlsen&#160;(NOR, 2859),&#160;Hikaru Nakamura&#160;(USA, 2768),&#160;Fabiano Caruana&#160;(USA, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-blitz-chess-championship-2022-day-2-live/",
-         "pubDate" : "Fri, 30 Dec 2022 08:14:05 +0000",
-         "title" : "World Blitz Chess Championship 2022 - Day 2 live"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/throwback-thursday-najdorf-zurich-candidates",
          "pubDate" : "Fri, 30 Dec 2022 00:45:00 +0100",
          "title" : "Throwback Thursday: Miguel Najdorf at the Zurich Candidates"
-      },
-      {
-         "description" : "Hikaru Nakamura is a point ahead of everyone else after the first day of the blitz in the Open tournament. In the Women's event, Polina Shuvalova and Valentina Gunina are tied for first place. The World Blitz Chess Championship got underway today in Almaty, Kazakhstan, with the sound of chess clocks ticking quickly throughout the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-shines-at-the-world-blitz-championship-2022/",
-         "pubDate" : "Thu, 29 Dec 2022 22:50:24 +0000",
-         "title" : "Hikaru Nakamura shines at the World Blitz Championship 2022"
       },
       {
          "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
@@ -1680,22 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
          "pubDate" : "Wed, 14 Dec 2022 18:27:00 -0800",
          "title" : "Vachier-Lagrave Subdues Tenacious So"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2136",
-         "pubDate" : "Wed, 14 Dec 2022 17:22:07 +0000",
-         "title" : "FIDE World Rapid & Blitz Championships 2022 Press Conference: All set in Almaty"
-      },
-      {
-         "description" : "The December 13 edition of Titled Tuesday ended with two familiar winners, GMs Daniil Dubov and Hikaru Nakamura. Both won their tournaments outright. Early Tournament (Dubov) Late Tournament (Nakamura) Early Tournament Dubov outlasted t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-december-13-2022",
-         "pubDate" : "Wed, 14 Dec 2022 09:03:35 -0800",
-         "title" : "Nakamura Back Atop Titled Tuesday"
       }
    ]
 }
