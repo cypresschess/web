@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 3rd World Chess Championship between Wilhelm Steinitz and Isidor Gunsberg that ran from December 9, 1890 to January 22, 1891 was a closely fought match. At the end of 19 games, Steinitz emerged victorious, 6-4, to retain his title. Gunsberg's good result in this match was no coincidence. Gunsberg was one of the strongest players of his time though today he is almost forgotten. Eugene Manlapao takes a look at the life and career of this relatively unknown World Championship challenger. | Photo source: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/isidor-gunsberg-and-the-1890-world-championship-match-2",
+         "pubDate" : "Wed, 04 Jan 2023 17:00:00 +0100",
+         "title" : "Isidor Gunsberg and the 1890 World Championship Match"
+      },
+      {
          "description" : "The theme of \"decision-making\" is an essential part of every chess game. At every moment of the game, you must make a decision that is not only tactical; as psychology, structural preferences, positional basics and good variation calculation are all part of the process of making the right decision.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1266,14 +1274,6 @@ news_feed (
          "title" : "Call me old fashioned"
       },
       {
-         "description" : "Kirill Alekseenko secured first place at the main event of the Sunway Chess Festival by drawing Hans Niemann with white in Thursday's final round. Meanwhile, Amin Tabatabaei caught up with Niemann by beating Adhiban Baskaran - thus, a playoff match for second place between Niemann and Tabatabaei followed, with the US grandmaster winning in Armageddon after trading victories in two 5-minute games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2022-r10",
-         "pubDate" : "Fri, 23 Dec 2022 12:30:00 +0100",
-         "title" : "Sunway Sitges: Alekseenko takes the title"
-      },
-      {
          "description" : " The 8th Vugar Gashimov Memorial took place Sun 18th Dec to Sat 24th Dec 2022. The event was a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh. Nodirbek Abdusattorov ran away with it scoring 25.5/36 a full five points clear of Rauf Mamedov and Shakhriyar Mamedyarov.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1696,30 +1696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-december-13-2022",
          "pubDate" : "Wed, 14 Dec 2022 09:03:35 -0800",
          "title" : "Nakamura Back Atop Titled Tuesday"
-      },
-      {
-         "description" : "GM Rameshbabu Praggnanandhaa was crowned the winner of the 2022 Julius Baer Challenger Championship on Tuesday after overcoming rising star GM Pranav Venkatesh, requiring only three of their four scheduled mini-matches to do so. Praggnanandhaa w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-julius-baer-challenger-championship-praggnanandhaa-wins",
-         "pubDate" : "Wed, 14 Dec 2022 08:29:55 -0800",
-         "title" : "Praggnanandhaa Triumphs In Julius Baer Challenger Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96232499.cms\" />Telangana chess prodigy Arjun Erigaisi's career got a shot in the arm on Wednesday as the Grand Master signed a lucrative Rs 12.4 crore long term sponsorship deal.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-need-to-build-a-team-around-me-arjun-erigaisi/articleshow/96232499.cms",
-         "pubDate" : "Wed, 14 Dec 2022 16:05:18 +0000",
-         "title" : "I need to build a team around me: Arjun Erigaisi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2135",
-         "pubDate" : "Wed, 14 Dec 2022 15:19:51 +0000",
-         "title" : "Hungarian Championship: P&eacute;ter Proh&aacute;szka and Zsuzsanna Terbe win titles"
       }
    ]
 }
