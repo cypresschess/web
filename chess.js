@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. The news was published on the website of the Swiss Chess Federation. Kosteniuk stopped playing for h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexandra-kosteniuk-to-play-for-switzerland",
+         "pubDate" : "Tue, 03 Jan 2023 15:05:00 -0800",
+         "title" : "Alexandra Kosteniuk To Play For Switzerland"
+      },
+      {
+         "description" : "Over 10,000 members chimed in with their votes this year, and Chess.com is happy to announce the winners of the 2022 Chess.com Awards! These awards are an opportunity to celebrate the fantastic year 2022 has been for chess. They are also a way for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
+         "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
+         "title" : "2022 Chess.com Awards Winners"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on forcing moves. 2023.01.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/forcing-moves-revisited-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5pWk1JZR19s.jpg?itok=KeqfskTW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 03 Jan 2023 20:00:59 +0000",
+         "title" : "Forcing Moves Revisited | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov shows his longest analysis ever, beginning from the opening tabia and lasting until the end of the game. 2023.01.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-analysis-pre-computer-times-grandmasters-choice-gm-igor-novikov-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yquXNVOaR8U.jpg?itok=NLsTy-IC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-analysis-pre-computer-times-grandmasters-choice-gm-igor-novikov-lichessorg",
+         "pubDate" : "Tue, 03 Jan 2023 20:00:59 +0000",
+         "title" : "Chess Analysis in Pre-Computer Times | Grandmaster's Choice - GM Igor Novikov | lichess.org"
+      },
+      {
          "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to the entire suite of Chess.com puzzle products&#38;mdash;Puzzles, Puzzle Rush, an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1696,30 +1728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-unbeaten-in-caruana-speed-chess-demolition",
          "pubDate" : "Wed, 14 Dec 2022 08:56:12 +0000",
          "title" : "Carlsen unbeaten in Caruana Speed Chess demolition"
-      },
-      {
-         "description" : "The annual Chess.com Daily Chess Championship is back for 2023. Over 12,000 players have already signed up for the event, and that number continues to climb! Do you want to join the largest tournament of the year? Then the Chess.com Daily Chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-daily-chess-championship-announcement",
-         "pubDate" : "Tue, 13 Dec 2022 17:04:00 -0800",
-         "title" : "2023 Daily Chess Championship Registration Now Open"
-      },
-      {
-         "description" : "GM Magnus Carlsen bested GM Fabiano Caruana with an undefeated 18-point lead in the 2022 Speed Chess Championship on Tuesday. Carlsen achieved this unprecedented feat by excelling at every facet of the game, including his trademark skill of capita...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-carlsen-caruana",
-         "pubDate" : "Tue, 13 Dec 2022 16:27:00 -0800",
-         "title" : "Carlsen Goes Undefeated Vs. Caruana in Historic Victory"
-      },
-      {
-         "description" : " &#8220;The beauty of a move lies not in its appearance but in the thought behind it&#8221; A. Nimzovich Time scramble is the cause of many blunders. Your instinct suggests a combination getting you all excited. Simultaneously the lack of time pressures you to bypass the proper calculation, while your desire to see the combination succeed <a href=\"https://chessimprover.com/blunder-in-1-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Blunder in 1 (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/blunder-in-1-2/\">Blunder in 1 (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/blunder-in-1-2/",
-         "pubDate" : "Tue, 13 Dec 2022 22:43:28 +0000",
-         "title" : "Blunder in 1 (2)"
       }
    ]
 }
