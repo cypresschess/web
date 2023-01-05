@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-preparation-specific-variation-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_TCMAq7JsRA.jpg?itok=c8i1b1Qc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-preparation-specific-variation-prepare-pro-gm-igor-novikov",
+         "pubDate" : "Thu, 05 Jan 2023 20:02:56 +0000",
+         "title" : "Chess Preparation for a Specific Variation | Prepare Like A Pro - GM Igor Novikov"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Let us start with the clear leader of the pack, Alireza Firouzja. | Find here analysis of a remarkable victory by Firouzja, annotated by Romain Edouard. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1418,14 +1426,6 @@ news_feed (
          "title" : "Alex at the Staff Tournament | Beginner Breakdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi analyzes his own games featuring nice chess tactics. 2022.12.20<br /> JJ Ali Marandi vs. Nikhil Kumar, 2017<br /> Jordan Ivanov vs. Ali Marandi, 2011<br /> Cemil Can Ali Marandi vs Jinshi Bai, World Junior Championship (2015)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1800995\">https://www.chessgames.com/perl/chessgame?gid=1800995</a><br /> Ali Marandi vs. Dmitry Gurevich, 2018 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ali-marandis-nice-chess-tactics-grandmasters-choice-gm-jj-ali-marandi",
-         "pubDate" : "Tue, 20 Dec 2022 22:51:38 +0000",
-         "title" : "Ali Marandi's Nice Chess Tactics | Grandmaster's Choice - GM JJ Ali Marandi"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1664,22 +1664,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/fide-announce-new-candidates-qualification",
          "pubDate" : "Thu, 15 Dec 2022 22:34:01 +0000",
          "title" : "FIDE revamp Candidates qualification system"
-      },
-      {
-         "description" : "The showdown between two of Chess.com&#39;s pre-eminent blitz and bullet chess players in the 2022 Speed Chess Championship was comfortably won by GM Hikaru Nakamura on Thursday. The defending champion took an early lead over GM Nihal Sarin and neve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-nakamura-nihal",
-         "pubDate" : "Thu, 15 Dec 2022 13:36:00 -0800",
-         "title" : "Nakamura Confirms Spot In Final, Nears 5th SCC Title"
-      },
-      {
-         "description" : "On December 15, 2022, FIDE announced the paths of qualification for the next Candidates Tournament, which will be held in 2024 and will determine the challenger in the 2024 World Championship. The paths are: Runner-up at the 2023 World Champio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths",
-         "pubDate" : "Thu, 15 Dec 2022 13:04:00 -0800",
-         "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
       }
    ]
 }
