@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-announces-2024-candidates-tournament-qualification-paths",
          "pubDate" : "Thu, 15 Dec 2022 13:04:00 -0800",
          "title" : "FIDE Announces 2024 Candidates Tournament Qualification Paths"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2137",
-         "pubDate" : "Thu, 15 Dec 2022 12:29:58 +0000",
-         "title" : "Serbian Championship: Velimir Ivi&#263 and Irina Chelushkina clinch titles"
       }
    ]
 }
