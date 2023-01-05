@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Over the turn of the year, the Indian Chess Federation organised its 59th National Championship, an open event that attracted almost 200 players. After a very exciting tournament the 23-year old Karthik Venkataraman won with 10.0/13. | Photos: All Indian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karthik-venkataraman-wins-59-indian-championship",
+         "pubDate" : "Thu, 05 Jan 2023 13:56:22 +0100",
+         "title" : "Karthik Venkataraman wins 59. Indian Championship"
+      },
+      {
          "description" : "As a chess player, you probably know this problem: The openings for the next chess tournament are all perfectly prepared, but then shortly before the tournament starts you start to wonder: what should I wear? ChessBase presents the new spring fashion, with prints that will impress your opponent. Also for the children and the dear four-legged friends. Now in the New Year's Sale!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,12 +186,12 @@ news_feed (
          "title" : "Chess Analysis in Pre-Computer Times | Grandmaster's Choice - GM Igor Novikov | lichess.org"
       },
       {
-         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to the entire suite of Chess.com puzzle products&#38;mdash;Puzzles, Puzzle Rush, an...",
+         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle&#38;mdash;for the entire week! If one of your goals in the ne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
          "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
-         "title" : "Puzzle Week! Unlimited Puzzles, Puzzles World Championship, And More"
+         "title" : "Puzzle Week! Unlimited Puzzle Battles, Puzzles World Championship, And More"
       },
       {
          "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2149",
          "pubDate" : "Sat, 24 Dec 2022 08:46:00 +0000",
          "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
-      },
-      {
-         "description" : "In the diagram position Black threatens ...Rh8, but he doesn't have the sole right to use the h-file. White to play and win!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/first-league-tactics",
-         "pubDate" : "Sat, 24 Dec 2022 09:00:00 +0100",
-         "title" : "First league tactics"
       },
       {
          "description" : "",
