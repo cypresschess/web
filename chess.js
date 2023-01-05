@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As a chess player, you probably know this problem: The openings for the next chess tournament are all perfectly prepared, but then shortly before the tournament starts you start to wonder: what should I wear? ChessBase presents the new spring fashion, with prints that will impress your opponent. Also for the children and the dear four-legged friends. Now in the New Year's Sale!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-fashion-collection-2023",
+         "pubDate" : "Thu, 05 Jan 2023 12:00:00 +0100",
+         "title" : "ChessBase Fashion Collection 2023"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #549 Merijn van Delft looks at a recent but historically important game: Magnus Carlsen's win against Parham Maghsoodloo in the last round of the Rapid World Championship 2022. Carlsen had to win and he outplayed Maghsoodloo in a fine mix of attack and defense. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-549-magnus-carlsen-vs-parham-maghsoodloo",
+         "pubDate" : "Thu, 05 Jan 2023 09:48:11 +0100",
+         "title" : "Game of the Week #549: Magnus Carlsen vs Parham Maghsoodloo"
+      },
+      {
          "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1234,14 +1250,6 @@ news_feed (
          "title" : "First league tactics"
       },
       {
-         "description" : "Nodirbek Abdusattorov dominated the field at the Gashimov Memorial in Baku. The 18-year-old from Tashkent was the top scorer in the rapid and finished the blitz in third place. Since none of the players who had ended the rapid near the top of the standings performed strongly in the blitz, Abdusattorov managed to clinch first place with five rounds to spare! | Pictured: The players visited the grave of Vugar Gashimov on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2022-d5",
-         "pubDate" : "Sat, 24 Dec 2022 06:15:00 +0100",
-         "title" : "Abdusattorov wins Gashimov Memorial with five rounds to spare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/alekseenko-wins-sitges-niemann-over-2700",
          "pubDate" : "Fri, 23 Dec 2022 20:01:17 +0000",
          "title" : "Alekseenko wins Sitges, Niemann over 2700"
-      },
-      {
-         "description" : "This week Robert Ris presents a fine attacking game by Kirill Alekseenko, the winner of the Sitges Open, who showed the potential of the Steinitz Variation of the Ruy Lopez. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-alekseenko-attacks",
-         "pubDate" : "Fri, 23 Dec 2022 17:48:03 +0100",
-         "title" : "Robert Ris' Fast and Furious: Alekseenko attacks"
       },
       {
          "description" : "In the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I highlighted a SmartChess.com press release:- <BLOCKQUOTE>An earlier press release, titled 'A Press Release by Anatoly Karpov' and dated 18 December 1996, had stated, \"<B>Statement by Anatoly Karpov:</B> In the opening paragraphs of my January 1997 \"Grandmasters Musings\" column (in Chess Life), I briefly mentioned one of my recent involvements in chess on the Internet in which I appeared as a guest of Chess.net, a company of which I recently became a shareholder. [...] I would also like to mention that I am a frequent guest lecturer at the superb Interne",
