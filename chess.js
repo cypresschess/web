@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Let us start with the clear leader of the pack, Alireza Firouzja. | Find here analysis of a remarkable victory by Firouzja, annotated by Romain Edouard. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-alireza-firouzja",
+         "pubDate" : "Thu, 05 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Alireza Firouzja"
+      },
+      {
+         "description" : "The Lower Saxony Championship C is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Philipp Golke, Lev Nechytailo, Dirk Bischop, Finja []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lower-saxony-championship-c-2023-live/",
+         "pubDate" : "Thu, 05 Jan 2023 19:49:28 +0000",
+         "title" : "Lower Saxony Championship C 2023 - LIVE"
+      },
+      {
+         "description" : "The Lower Saxony Championship B is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Maik Maul, Ruben Korb, Hannes Dralle, Christian Axt, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lower-saxony-championship-b-2023-live/",
+         "pubDate" : "Thu, 05 Jan 2023 19:44:01 +0000",
+         "title" : "Lower Saxony Championship B 2023 - LIVE"
+      },
+      {
+         "description" : "The Lower Saxony Championship A is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Siegfried Loecken, Juergen Hesse, Steffen Schumann, Oliver []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lower-saxony-championship-a-2023-live/",
+         "pubDate" : "Thu, 05 Jan 2023 19:38:36 +0000",
+         "title" : "Lower Saxony Championship A 2023 - LIVE"
+      },
+      {
+         "description" : "The Lower Saxony Championship Masters is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of David Riemay, Torben Knuedel, Moritz Gentemann, Philip Reimer, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lower-saxony-championship-masters-2023-live/",
+         "pubDate" : "Thu, 05 Jan 2023 19:33:16 +0000",
+         "title" : "Lower Saxony Championship Masters 2023 - LIVE"
+      },
+      {
+         "description" : "The 32nd Keres Memorial is taking place from 7&#x2013;8 January 2023 in Tallinn, Estonia. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It is an 11-round Swiss tournament with participation of Daniel Fridman, Yuriy Kuzubov, Tomi Nyback, Nikita Meshkovs, Paulius Pultinevicius, Vitaliy Bernadskiy, Sergey Grigoriants, Jaan Ehlvest, Kaido []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/32nd-keres-memorial-2023-live/",
+         "pubDate" : "Thu, 05 Jan 2023 19:26:52 +0000",
+         "title" : "32nd Keres Memorial 2023 - LIVE"
+      },
+      {
          "description" : "Over the turn of the year, the Indian Chess Federation organised its 59th National Championship, an open event that attracted almost 200 players. After a very exciting tournament the 23-year old Karthik Venkataraman won with 10.0/13. | Photos: All Indian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,22 +402,6 @@ news_feed (
          "title" : "2nd International Open SKG \"White Tower\" 2023 - Group B - LIVE"
       },
       {
-         "description" : "The 2nd International Open SKG &#8220;White Tower&#8221; tournament takes place from 2-8 January at the Porto Palace hotel in Thessaloniki, Greece. The tournament is played in 3 rating groups, with a total prize fund of 3600&#x20AC;. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-international-open-skg-white-tower-2023/",
-         "pubDate" : "Sun, 01 Jan 2023 23:04:07 +0000",
-         "title" : "2nd International Open SKG \"White Tower\" 2023"
-      },
-      {
-         "description" : "The Roquetas Open 2023 is taking place from 3-8 January 2023 in Roquetas, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Alexandr Fier, Jose Fernando Cuenca Jimenez, Pier Luigi Basso, Yuri Solodovnichenko, Rodrigo Vasquez Schroeder, G.A. Stany, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/roquetas-open-2022-live/",
-         "pubDate" : "Sun, 01 Jan 2023 22:56:51 +0000",
-         "title" : "Roquetas Open 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -554,36 +586,12 @@ news_feed (
          "title" : "Spassky vs. Fischer '72: Critical Moments | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
-         "description" : "FIDE Women's World Blitz Chess Championship 2022 concluded today in Almaty, Kazakhstan, after two days of fights and 17 played rounds.&#xA0;IM Bibisara Assaubayeva emerged as the winner of the event, retaining her 2021 title. Final rankings FIDE World Women's Chess Championship 2022: Rk. &#160; Name FED Rtg Pts.&#160; TB1 TB2 1 IM Assaubayeva Bibisara&#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-womens-chess-championship-2022-final-rankings/",
-         "pubDate" : "Fri, 30 Dec 2022 16:43:11 +0000",
-         "title" : "FIDE World Women's Chess Championship 2022 - Final rankings"
-      },
-      {
-         "description" : "FIDE World Blitz Chess Championship 2022 concluded today in Almaty, Kazakhstan, after two days of fights and 21 played rounds. Magnus Carlsen emerged as the Winner of the event leaving Almaty with triple crown as World Classical, Rapid and Blitz Chess Champion 2022. FIDE World Blitz Chess Championship 2022 Final rankings: Rk. &#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-world-blitz-chess-championship-2022-final-rankings/",
-         "pubDate" : "Fri, 30 Dec 2022 16:39:20 +0000",
-         "title" : "FIDE World Blitz Chess Championship 2022 - Final rankings"
-      },
-      {
          "description" : "Back in the mid-1990s, both Garry Kasparov and Anatoly Karpov -- bitter rivals at the time -- wrote separate columns for the USCF's <I>Chess Life</I> (CL). I mentioned Karpov's column in last week's post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022). <P>I've never studied these columns, even though they might contain interesting material for my <I>World Chess Championship</I> site (WCC; see link on the right). Following is a table overviewing the content of both columns. <P><TABLE BORDER CELLPADDING=\"1\" CELLSPACING=\"0\"> <TR> <TH>CL</TH> <TH>p.</TH> <TH>Title</TH> <TH>Notes</TH> </TR> <TR> <TD></TD> <TD></TD> <TD></TD>",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2022/12/world-championship-columnists.html",
          "pubDate" : "Fri, 30 Dec 2022 16:15:00 +0000",
          "title" : "World Championship Columnists"
-      },
-      {
-         "description" : "Magnus Carlsen emerged as the Winner of the FIDE World Blitz Chess Championship 2022 leaving Almaty with the triple crown as World Champion in Classical, Rapid, and Blitz chess! Magnus Carlsen scored 16/21 in the Open section and finished clear first, a full point ahead of&#xA0;Hikaru Nakamura&#xA0;and&#xA0;Haik Martirosyan who tied for silver. Tiebreak criteria favored []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-world-blitz-chess-championship-2022/",
-         "pubDate" : "Fri, 30 Dec 2022 15:52:08 +0000",
-         "title" : "Magnus Carlsen wins World Blitz Chess Championship 2022"
       },
       {
          "description" : "Magnus Carlsen not only won the Rapid Championship 2022, but also the Blitz Championship. The GOAT of chess, played some remarkable games, and Svitlana takes a closer look at two of them. Funnily enough, in one of the games, Bobby Fischer had a very similar position against Ulf Andersson. Perhaps Carlsen remembered the particular attacking move, and used it for his own victory. But this episode begins with the masterful tactic of Daniil Dubov against Nihal Sarin. What a stunner!",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-review-of-the-year/",
          "pubDate" : "Sat, 24 Dec 2022 12:08:14 +0000",
          "title" : "Chess Review of the Year"
-      },
-      {
-         "description" : "The 1972 World Championship match between Bobby Fischer and Boris Spasski is regarded as one of the most critical moments in the history of chess, occurring 50 years ago. To present you with this year's Christmas calendar in the proper setting, Arne swiftly constructed a time machine, and went back 50 years. Of course, the 1972 World Cup is the main calendar focus this time! You have the opportunity to guess, count, and conduct research every day for a chance to win one of 90 ChessBase prizes. Your chances of winning one of the major prizes increases, the more questions you can correctly guess. | Photo: Original by World Chess Hall of Fame",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-championship-1972-calendar-door-241",
-         "pubDate" : "Sat, 24 Dec 2022 12:00:00 +0100",
-         "title" : "The World Championship 1972 calendar - Door 24"
       },
       {
          "description" : "",
