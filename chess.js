@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Although 4 rounds have now been completed in the 2023 Australian Open, the leading pack of players has only been thinned a little. GM's Temur Kuybokarov (AUS) and Jingyao Tin (SGP) are on 4/4, as is WGM Thi Kim Phung Vo (VIE). They are closely followed by GM Darryl Johansen, IM James Morris, WIM Hong Anh Nguyen, Yihe Fu and Tony Weller, all on 3.5. Of all the players in this group, 54th seed Weller is the most surprising (and possibly the most surprised!). An upset win over Mark Vliestra in the 4th round moved him show ring, where he faces IM James Morris in the 5th round. The Minor also sees three players on 4/4, Benny Chan, Lucas Lee and Jayden Arav. Today (5th Jan) is another double roun",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-3.html",
+         "pubDate" : "Thu, 05 Jan 2023 02:36:00 +0000",
+         "title" : "2023 Australian Open - Day 3"
+      },
+      {
          "description" : "The 82nd Georgian Championship is taking place from 4&#x2013;13 January 2023 in Tbilisi, Georgia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Merab Gagunashvili, Mikheil Mchedlishvili, Nikolozi Kacharava, Luka Paichadze, Giga Quparadze, Tornike Sanikidze, Gaioz Nigalidze, Davit Maghalashvili, Noe []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2137",
          "pubDate" : "Thu, 15 Dec 2022 12:29:58 +0000",
          "title" : "Serbian Championship: Velimir Ivi&#263 and Irina Chelushkina clinch titles"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave overcame GM Wesley So&#38;nbsp;in the 2022 Speed Chess Championship on Wednesday. Early in the match, Vachier-Lagrave gained as high as a four-point lead, but So fought back to even the score in the bullet segment. With just ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-quarterfinals-so-vachier-lagrave",
-         "pubDate" : "Wed, 14 Dec 2022 18:27:00 -0800",
-         "title" : "Vachier-Lagrave Subdues Tenacious So"
       }
    ]
 }
