@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-chess-championship-2022-certificates/",
+         "pubDate" : "Thu, 05 Jan 2023 08:19:32 +0000",
+         "title" : "Senior National Chess Championship 2022 Certificates"
+      },
+      {
+         "description" : "Can a unit of our army be a friend or foe depending on the circumstances? From experience, we know that the answer is a resounding yes! GM Sundararajan Kidambi explains the beautiful concept of using your opponent's piece to your advantage instead of always being bent on automatically going for the recapture.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/you-are-your-own-enemy-kidambi",
+         "pubDate" : "Thu, 05 Jan 2023 09:00:00 +0100",
+         "title" : "You are your own enemy"
+      },
+      {
          "description" : " Although 4 rounds have now been completed in the 2023 Australian Open, the leading pack of players has only been thinned a little. GM's Temur Kuybokarov (AUS) and Jingyao Tin (SGP) are on 4/4, as is WGM Thi Kim Phung Vo (VIE). They are closely followed by GM Darryl Johansen, IM James Morris, WIM Hong Anh Nguyen, Yihe Fu and Tony Weller, all on 3.5. Of all the players in this group, 54th seed Weller is the most surprising (and possibly the most surprised!). An upset win over Mark Vliestra in the 4th round moved him show ring, where he faces IM James Morris in the 5th round. The Minor also sees three players on 4/4, Benny Chan, Lucas Lee and Jayden Arav. Today (5th Jan) is another double roun",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "59TH MPL SENIOR NATIONAL CHESS CHAMPIONSHIP 2022:INAGURATION REPORT"
       },
       {
-         "description" : "Click the link given below to go through the live game.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-mpl-35th-national-under-9-open-girls-chess-championship-2022/",
-         "pubDate" : "Mon, 26 Dec 2022 05:44:31 +0000",
-         "title" : "Live : MPL 35th NATIONAL UNDER-9 OPEN & GIRLS CHESS CHAMPIONSHIP 2022"
-      },
-      {
          "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html",
          "pubDate" : "Fri, 23 Dec 2022 16:01:00 +0000",
          "title" : "Wayback to Chess.net"
-      },
-      {
-         "description" : "With nine chess playing members, the Peglau family from Dippoldiswalde, a small town in Germany, is probably the world's largest chess family. But it definitely is one of the strongest. As the successes of the Peglaus at the recently finished European Blitz and Rapid Championships show. | Photos: Henrik Teske",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-remarkable-team-the-chess-family-peglau-from-germany",
-         "pubDate" : "Fri, 23 Dec 2022 17:00:00 +0100",
-         "title" : "A remarkable team: The \"Chess Family\" Peglau from Germany"
       },
       {
          "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
