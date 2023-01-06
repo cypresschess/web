@@ -58,7 +58,15 @@ news_feed (
          "title" : "Call for submissions: FIDE Veterans Support Program 2023"
       },
       {
-         "description" : " The New Year event has been staged since the 1920s, and the 2023 iteration reaches its final round on Friday with five English players still in contention for first prize Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's final round (2.15pm start, free and live coverag",
+         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3/",
+         "pubDate" : "Fri, 06 Jan 2023 09:00:44 +0000",
+         "title" : "2023 ECF Online Grand (Prix Series 3) - First Blitz Event on Sunday 8th January"
+      },
+      {
+         "description" : " The new year event has been staged since the 1920s, and the 2023 iteration reaches its final round on Friday with five English players still in contention for first prize Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's final round (2.15pm start, free and live coverag",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jan/06/chess-hastings-tradition-inspires-home-contingent-at-oldest-annual-tournament",
@@ -938,14 +946,6 @@ news_feed (
          "title" : "Firouzja Wraps Up Year With Titled Tuesday Win"
       },
       {
-         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3/",
-         "pubDate" : "Wed, 28 Dec 2022 16:09:44 +0000",
-         "title" : "2023 ECF Online Grand Prix (Series 3)"
-      },
-      {
          "description" : "The ECF match against Team France will start at 5.00 pm on Sunday 1st January over three legs as follows &#8212; 5.00pm England vs France...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1688,14 +1688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/paul-azzurro-chess-video-producer.html",
          "pubDate" : "Fri, 16 Dec 2022 16:22:00 +0000",
          "title" : "Paul Azzurro, Chess Video Producer"
-      },
-      {
-         "description" : "The week's schedule of online events is now available including Regular ECF online rated members club tournaments on Chess.com and Lichess.org The reformatted ECF...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-online-news/",
-         "pubDate" : "Fri, 16 Dec 2022 14:04:49 +0000",
-         "title" : "ECF Online news"
       }
    ]
 }
