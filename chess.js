@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The future of classical chess has been discussed for decades. The question has been how to make it more marketable. will classical chess be phased out? After the 2022 World Rapid &#38; Blitz in Altamy, Kazakhstan ended with outstanding performances by Magnus Carlsen, we can reflect on his earlier statements that most of the top-level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/\">Is Classical Chess Dead?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/",
+         "pubDate" : "Thu, 05 Jan 2023 22:25:58 +0000",
+         "title" : "Is Classical Chess Dead?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2165",
+         "pubDate" : "Thu, 05 Jan 2023 22:22:14 +0000",
+         "title" : "Pranesh M wins 2022/2023 Rilton Cup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-preparation-specific-variation-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_TCMAq7JsRA.jpg?itok=c8i1b1Qc\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1648,22 +1664,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2022/dec/16/chess-carlsen-adopts-us-champion-fabiano-caruana-in-online-blitz-rout",
          "pubDate" : "Fri, 16 Dec 2022 07:30:45 +0000",
          "title" : "Chess: Carlsen 'adopts' US champion, Fabiano Caruana, in online blitz rout"
-      },
-      {
-         "description" : "After years of uncertainty, 12-year-old FM Tanitoluwa Adewumi and his family have been officially granted political asylum in the United States. The family fled from Nigeria to the U.S. in 2017 after Adewumi&#39;s father became a target of a religious...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tani-adewumi-granted-asylum-in-us",
-         "pubDate" : "Thu, 15 Dec 2022 16:26:17 -0800",
-         "title" : "12-Year-Old Master Tani Adewumi Granted Asylum in U.S."
-      },
-      {
-         "description" : "The World Chess Federation FIDE today announced a new qualification system for the 2024 Candidates Tournament. The Grand Prix is gone and there's no wildcard, with an extra 3rd spot for the World Cup and a new \"FIDE Circuit\" place for the best results in eligible tournaments in 2023. The biggest surprise is that the two announced spots for the Grand Chess Tour are gone.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-announce-new-candidates-qualification",
-         "pubDate" : "Thu, 15 Dec 2022 22:34:01 +0000",
-         "title" : "FIDE revamp Candidates qualification system"
       }
    ]
 }
