@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The future of classical chess has been discussed for decades. The question has been how to make it more marketable. will classical chess be phased out? After the 2022 World Rapid &#38; Blitz in Altamy, Kazakhstan ended with outstanding performances by Magnus Carlsen, we can reflect on his earlier statements that most of the top-level The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/\">Is Classical Chess Dead?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Congratulations to Pranesh M for winning the Rilton Cup at Stockholm, the first tournament of the FIDE Circuit and also becoming the 79th Grandmaster of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-to-pranesh-m-79th-grandmaster-of-india/",
+         "pubDate" : "Fri, 06 Jan 2023 02:16:47 +0000",
+         "title" : "Congratulations to Pranesh M..79th Grandmaster of India"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation, using his win over Max Dlugy from the first U.S. Senior Championship. 2023.01.05<br /> Maxim Dlugy vs Igor Novikov, U.S. Senior Championships (2019): D00 Queen&#039;s pawn, Mason variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2411441\">https://www.chessgames.com/perl/chessgame?gid=2411441</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-preparation-dlugy-prepare-p",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-preparation-dlugy-prepare-pro-gm-igor-novikov",
+         "pubDate" : "Fri, 06 Jan 2023 02:03:13 +0000",
+         "title" : "Chess Preparation for Dlugy | Prepare Like A Pro - GM Igor Novikov"
+      },
+      {
+         "description" : " The future of classical chess has been discussed for decades, and the topic has come up once again. The question has been how to make it more marketable for wider public appeal and to eliminate the dreaded &#8220;draw death.&#8221; Quickplay via online platforms has exploded. Will classical chess be phased out? After the 2022 World The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/\">Is Classical Chess Dead?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Live link for the MPL 48th National Women Chess Championships 2022"
       },
       {
-         "description" : "The 59TH MPL Senior National Chess Championship 2022 is being held at K.D Jadhav Indoor Sports Hall, IG Stadium, New Delhi organized by Delhi Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/59th-mpl-senior-national-chess-championship-2022inauguration-report/",
-         "pubDate" : "Mon, 26 Dec 2022 06:25:40 +0000",
-         "title" : "59TH MPL SENIOR NATIONAL CHESS CHAMPIONSHIP 2022:INAGURATION REPORT"
-      },
-      {
          "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/",
          "pubDate" : "Wed, 21 Dec 2022 10:03:21 +0000",
          "title" : "European Senior Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering shows his games from the tough Saint Louis Chess Club Staff Tournament, held the evening prior. 2022.12.20<br /> Richard Pointer vs. Alex Moellering, 2022: A20 English opening<br /> Caleb Denny vs. Moellering, 2022: E60 King&#039;s Indian defence<br /> Moellering vs. Nathaniel Powell, 2022: B03 Alekhine&#039;s defence, Balogh variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alex-staff-tournament-beginner-breakdown\"><img src=\"https://saintlo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alex-staff-tournament-beginner-breakdown",
-         "pubDate" : "Wed, 21 Dec 2022 01:51:41 +0000",
-         "title" : "Alex at the Staff Tournament | Beginner Breakdown"
       },
       {
          "description" : "",
