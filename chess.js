@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Second in line is Dommaraju Gukesh, who has yet to turn 17 years old. For him, 2022 was a breakthrough year, as he became the third-youngest player in history to cross the 2700-rating mark, only to outdo himself a month later by winning eight games in a row at the Olympiad! | Photo: J. Suresh / The Week",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-gukesh",
+         "pubDate" : "Fri, 06 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Gukesh"
+      },
+      {
+         "description" : "The Power Play Show rolls into 2023 with some games from the World Rapid and Blitz Championships. When playing with a fast time limit, the ability to spot a checkmate quickly is vital! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-highlights-sitges-2",
+         "pubDate" : "Fri, 06 Jan 2023 17:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Spot the checkmate!"
+      },
+      {
+         "description" : "With a score of 8.0/9 (+8, -1, =0) the 16-year-old Indian M Pranesh finished clear first at the 50th Rilton Cup in Sweden, a success that made him India's 79th Grandmaster. Kaan Kucusari and Nikita Meshkovs shared second and third place with 7.0/9. The well-known Swedish streamer Anna Cramling played in the B-tournament and entertained her 250,000 YouTube followers with daily streams. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/16-year-old-m-pranesh-wins-rilton-cup-to-become-india-s-79th-grandmaster",
+         "pubDate" : "Fri, 06 Jan 2023 16:23:34 +0100",
+         "title" : "16-year old M Pranesh wins Rilton Cup to become India's 79th Grandmaster"
+      },
+      {
          "description" : "December was typically a busy month for chess all over the world. While the world watched in awe at the world's top, top exponents battle it out in the final month of the year 2022 to try and stop Carlsen's dominance in the World Rapid and Blitz championships, there was no less excitement over the chess board in the classical format in other parts of the world. One was the return of over-the-board version of the Penang Heritage City International Chess Open, after the Covid-imposed hiatus in the past three years. Report by By Edwin Lam Choong Wai.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1242,28 +1266,12 @@ news_feed (
          "title" : "World Rapid and Blitz"
       },
       {
-         "description" : "The World Rapid and Blitz Championships 2022 kick off in Almaty, Kazakhstan on the 26th of December 2022. On 25th of December, one day before the start of the event, there was an opening ceremony held at the venue. The first thing you notice when you enter the premises of the Baluan Sholak Sports Palace is how massive it is and how spacious it is going to be for the players. Next you get to see the Kazakh culture in the opening ceremony and the love for chess that the country possesses. Sagar Shah and Amruta Mokal have filed a large pictorial report from Almaty.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/glorious-opening-ceremony-at-world-rapid-and-blitz-2022",
-         "pubDate" : "Mon, 26 Dec 2022 09:28:31 +0100",
-         "title" : "Glorious opening ceremony at World Rapid and Blitz 2022"
-      },
-      {
          "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/",
          "pubDate" : "Mon, 26 Dec 2022 00:10:41 +0000",
          "title" : "The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik"
-      },
-      {
-         "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Uzbek boys, Kazakh girls, Azeri youth, Chinese, Indian and Iranian young phenoms ever more frequently lit the chess sky. What do their countries have in common? They all once lined the Silk Road.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars",
-         "pubDate" : "Sun, 25 Dec 2022 23:00:00 +0100",
-         "title" : "A new wave of chess stars"
       },
       {
          "description" : "",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
          "pubDate" : "Sun, 25 Dec 2022 16:15:00 +0000",
          "title" : "Not the Dickens Christmas Story"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 105th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-105-play-the-sicilian-7",
-         "pubDate" : "Sun, 25 Dec 2022 15:00:00 +0100",
-         "title" : "Understanding before Moving 105: Play the Sicilian! (7)"
       },
       {
          "description" : " Over Xmas lunch today, I was alerted to yet another online chess variant. FPS Chess combines the strategy of chess with the madness of First Person Shooters (FPS). Instead of straight forward captures, it looks as though you have to fight mini-battles to determine who gets removed from the board. It is PvP (no computer bots), so the only downside is waiting around for an opponent. It can be found at <a href=\"https://store.steampowered.com/app/2021910/FPS_Chess/\">https://store.steampowered.com/app/2021910/FPS_Chess/</a> and at this stage, looks like it is free to play ",
@@ -1672,22 +1672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-carlsen-vachier-lagrave",
          "pubDate" : "Fri, 16 Dec 2022 16:00:00 -0800",
          "title" : "Carlsen Dismantles Reigning World Blitz Champion In Dominant Flight To Final"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2138",
-         "pubDate" : "Fri, 16 Dec 2022 18:40:03 +0000",
-         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/shirovs-smartchess-videos.html\">Shirov's SmartChess Videos</A>(December 2022), I finished saying, <BLOCKQUOTE>We also learn from the page [on ichess.net] that the videos were 'Originally Produced by Paul Azzurro'. That might be worth additional investigation but I've run out of time for this post. </BLOCKQUOTE> <P>Let's pick up this week where I left off last week. First stop:- <UL><LI><A HREF=\"https://www.youtube.com/@Chessdvds\">Paul Azzurro</A>(youtube.com/@Chessdvds; a few other Youtube URLs point to the same page) &#149; 'Chessondvd.com worlds largest producer of chess on dvd over 300 to choose from.' </UL>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/paul-azzurro-chess-video-producer.html",
-         "pubDate" : "Fri, 16 Dec 2022 16:22:00 +0000",
-         "title" : "Paul Azzurro, Chess Video Producer"
       }
    ]
 }
