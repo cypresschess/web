@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2167",
+         "pubDate" : "Fri, 06 Jan 2023 10:28:24 +0000",
+         "title" : "Women in Chess: FIDE WOM Workshop held in Stockholm"
+      },
+      {
+         "description" : "In the first \"Fast & Furious\" show of 2023 Robert Ris discusses the ins and outs of a well-known tabiya of the Sicilian Alapin, in which Black's strategy is based on exploiting a long term pawn weakness on c3. However, in practice he rarely gets the chance to do so as was confirmed by the recent games Abdrlauf-Smirin (Rilton Cup) and Ganguly-Makarian (World Rapid). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-dubov-attacks-2",
+         "pubDate" : "Fri, 06 Jan 2023 10:52:52 +0100",
+         "title" : "Robert Ris' Fast and Furious: Exploring the Sicilian Alapin"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2166",
+         "pubDate" : "Fri, 06 Jan 2023 09:37:56 +0000",
+         "title" : "Call for submissions: FIDE Veterans Support Program 2023"
+      },
+      {
          "description" : " The New Year event has been staged since the 1920s, and the 2023 iteration reaches its final round on Friday with five English players still in contention for first prize Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's final round (2.15pm start, free and live coverag",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://www.chessdom.com/32nd-keres-memorial-2023-live/",
          "pubDate" : "Thu, 05 Jan 2023 19:26:52 +0000",
          "title" : "32nd Keres Memorial 2023 - LIVE"
+      },
+      {
+         "description" : "While I was researching the latest post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/01/1994-sanghi-nagar.html\">1994 Sanghi-Nagar</A>(January 2023), I rediscovered a photo published in <I>Chess Life</I>, September 1994. The photo was one of several ('Photographs by Bill Hook and Kevin Dyke') that illustrated the tournament report by GM Patrick Wolff titled, 'Kamsky Crushes Kramnik, Advances to Semi Final in Spain'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na05.jpg\" WIDTH=400 HEIGHT=330> <P>The Wolff article started, <BLOCKQUOTE>The Intel World Chess Championship Quarterfinal Matches, organized under the auspices of the Professi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/chess-at-trump-tower.html",
+         "pubDate" : "Thu, 05 Jan 2023 16:03:00 +0000",
+         "title" : "Chess at Trump Tower"
       },
       {
          "description" : "Over the turn of the year, the Indian Chess Federation organised its 59th National Championship, an open event that attracted almost 200 players. After a very exciting tournament the 23-year old Karthik Venkataraman won with 10.0/13. | Photos: All Indian Chess Federation",
@@ -1258,14 +1290,6 @@ news_feed (
          "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
       },
       {
-         "description" : "To help you enjoy your seasonal feast, we have a turkey, a tree and a turbulent priest; a circus trip, a corkscrew and a silent (k)night - and lots more for your festive chess delight! Graham Phythian presents some fun and challenging positions to help you while away the festive period. They all appear in the Christmas section of CHESS Magazine, which has a special gift ready for you. You can download the entire magazine to read, free of charge! In any case we all wish you a Merry Christmas - CHESS and ChessBase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-chess-quiz",
-         "pubDate" : "Sun, 25 Dec 2022 08:00:00 +0100",
-         "title" : "Christmas CHESS Quiz"
-      },
-      {
          "description" : " 2022 New York/Georgetown Blitz Invitational New York City recently held a blitz championship culminating in a classic battle between Josh Colas and Nigeria's Adegboyega Joel Adebayo. The New York/Georgetown Blitz Invitational tournament was the beginning of what is to come in 2023 according to Aggrey Duncan, What we are trying to do here in New The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/\">Blitz tourney heats up NYC Colas wins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1664,14 +1688,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-reaches-7th-speed-chess-final",
          "pubDate" : "Fri, 16 Dec 2022 11:26:32 +0000",
          "title" : "Hikaru Nakamura reaches 7th Speed Chess final"
-      },
-      {
-         "description" : " I've briefly touched on the use of tactics over this series of articles. However, I want to dig in and dedicate a fair number of future articles, starting with this one, to the art of tactics. We'll go through the primary tactics the beginner should know as well as a few advanced tactics to be <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-eight/\">A Foundation for Beginners Seventy Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://chessim",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-eight/",
-         "pubDate" : "Fri, 16 Dec 2022 11:00:32 +0000",
-         "title" : "A Foundation for Beginners Seventy Eight"
       }
    ]
 }
