@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "December was typically a busy month for chess all over the world. While the world watched in awe at the world's top, top exponents battle it out in the final month of the year 2022 to try and stop Carlsen's dominance in the World Rapid and Blitz championships, there was no less excitement over the chess board in the classical format in other parts of the world. One was the return of over-the-board version of the Penang Heritage City International Chess Open, after the Covid-imposed hiatus in the past three years. Report by By Edwin Lam Choong Wai.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/penang-heritage-city-open",
+         "pubDate" : "Fri, 06 Jan 2023 13:00:00 +0100",
+         "title" : "Penang Heritage City Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2168",
+         "pubDate" : "Fri, 06 Jan 2023 11:36:27 +0000",
+         "title" : "Belgrade to host Chess Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "2023 sees a new classical World Chess Champion crowned for the first time in a decade, as Ian Nepomniachtchi takes on Ding Liren for the title vacated by Magnus Carlsen. There's a new $2 million Chess.com Championship, combining the best of the Meltwater Champions Chess Tour and Chess.com Global Championship, while we've also got the World Cup, Grand Swiss, Women's World Championship match, European Team Championship and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chess-calendar-2023",
+         "pubDate" : "Fri, 06 Jan 2023 11:25:30 +0000",
+         "title" : "Chess Calendar 2023"
+      },
+      {
+         "description" : "The 48th Edition of Indian Women National Championship concluded today at Sanjay Ghodawat University Kolhapur. WGM Divya Deshmukh (MAH) repeated history by successfully defending her",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/divya-deshmukh-clinches-mpl-48th-national-women-chess-championship/",
+         "pubDate" : "Fri, 06 Jan 2023 11:13:59 +0000",
+         "title" : "Divya Deshmukh clinches MPL 48th National Women Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -778,6 +810,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Dubov attacks"
       },
       {
+         "description" : " Last week, we started exploring the world of tactics in more detail. While I mentioned the importance of tactics, I also mentioned that you can't solely count on their use to win games. Over the next few months, we'll learn a small collection of tactical tools that will aid your playing. However, I decided to <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\">A Foundation for Beginners Seventy Nine</a> appeared first on <a rel=\"nofollow\" href=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-nine/",
+         "pubDate" : "Fri, 30 Dec 2022 10:00:52 +0000",
+         "title" : "A Foundation for Beginners Seventy Nine"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1210,14 +1250,6 @@ news_feed (
          "title" : "Glorious opening ceremony at World Rapid and Blitz 2022"
       },
       {
-         "description" : "NHPC is inviting applications from eligible applicants for scholarship under \"NHPC Sports Scholarship scheme for upcoming sports persons\" for 16 games Football, Kabaddi, Hockey,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/nhpc-press-release-concerning-sports-scholarship/",
-         "pubDate" : "Mon, 26 Dec 2022 07:28:21 +0000",
-         "title" : "NHPC Press Release Concerning Sports Scholarship"
-      },
-      {
          "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1264,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/maybe-i-should-have-got-this.html",
          "pubDate" : "Sun, 25 Dec 2022 12:51:00 +0000",
          "title" : "Maybe I should have got this"
-      },
-      {
-         "description" : "ChessBase wishes all chess friends a Merry Christmas and happy holidays! Stay healthy and enjoy chess! | Picture PublicDomainPictures by Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/merry-christmas-3",
-         "pubDate" : "Sun, 25 Dec 2022 12:00:00 +0100",
-         "title" : "Merry Christmas!"
       },
       {
          "description" : " As it's probably Christmas Day when you read this, just a short announcement. I'm now working on publication of my coaching materials in physical format on Amazon. I'm starting with a new introductory book for novices, their teachers and parents: Chess for Heroes. You can find out more here: purchases and five star reviews will <a href=\"https://chessimprover.com/chess-for-heroes-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Heroes Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-publication/\">Chess for Heroes Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
@@ -1672,22 +1696,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-news/",
          "pubDate" : "Fri, 16 Dec 2022 14:04:49 +0000",
          "title" : "ECF Online news"
-      },
-      {
-         "description" : " One of the difficulties in playing a GM is that almost every move they play is exact. Even in positions where there seems to be a choice of moves, the move chosen seems to be the move required by the position. In this recent game, White looks to win without much effort, albeit due to Black missing White's real intentions at a number of points. But playing through the game, I was struck by how important 10.e5 was in the overall scheme of things. White's whole game revolved around the squares the pawn controlled, forcing Black to make a number of concessions to deal with it's surprising power. Given that it was only the 4th or 5th best choice for Deep Fritz, I do wonder if Safarli was already",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/a-far-sighted-move.html",
-         "pubDate" : "Fri, 16 Dec 2022 12:19:00 +0000",
-         "title" : "A far sighted move"
-      },
-      {
-         "description" : "Hikaru Nakamura defeated Nihal Sarin 14.5:10.5 to reach his 7th final in 7 Speed Chess Championships after what he admitted had been \"a very tough match\". The big games went Hikaru's way, and he'll now play the winner of today's Magnus Carlsen vs. Maxime Vachier-Lagrave semi-final as he attempts to win a 5th title in a row.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-reaches-7th-speed-chess-final",
-         "pubDate" : "Fri, 16 Dec 2022 11:26:32 +0000",
-         "title" : "Hikaru Nakamura reaches 7th Speed Chess final"
       }
    ]
 }
