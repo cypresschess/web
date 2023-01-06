@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The New Year event has been staged since the 1920s, and the 2023 iteration reaches its final round on Friday with five English players still in contention for first prize Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's final round (2.15pm start, free and live coverag",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jan/06/chess-hastings-tradition-inspires-home-contingent-at-oldest-annual-tournament",
+         "pubDate" : "Fri, 06 Jan 2023 08:00:44 +0000",
+         "title" : "Chess: Hastings tradition inspires home contingent at oldest annual tournament"
+      },
+      {
+         "description" : " Antother double round day saw the 2023 Australian Open reach the halfway mark. The big result of the day was the win by IM James Morris over tournament top seed GM Jingyao Tin. Tin was better for a lot of the game, but blundered on move 35, losing material, and then the game. The win moves Morris into a tie for 1st with GM Temur Kuybokarov, who had drawn with Tin in Round 5. GM Darryl Johansen and WIM Hong Anh Nguyen are tied for 3rd, on 5/6. Johansen won an interesting game against longtime opponent FM Bill Jordan, while Nguyen was not able to find a win in the ending against the always resourceful CM Hui Li. Today's round 7 sees a clash between Kuybokarov and Morris, with Tin v Johansen o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-4.html",
+         "pubDate" : "Fri, 06 Jan 2023 06:55:00 +0000",
+         "title" : "2023 Australian Open - Day 4"
+      },
+      {
+         "description" : "The MPL 59th Senior National Chess Championship 2022, was organized by Delhi Chess Association at Indira Gandhi Sports Complex, Near ITO, New Delhi from 22nd",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-karthik-venkataraman-clinches-mpl-59th-senior-national-chess-championship-2022/",
+         "pubDate" : "Fri, 06 Jan 2023 06:07:12 +0000",
+         "title" : "GM Karthik Venkataraman clinches MPL 59th Senior National Chess Championship 2022."
+      },
+      {
          "description" : "Congratulations to Pranesh M for winning the Rilton Cup at Stockholm, the first tournament of the FIDE Circuit and also becoming the 79th Grandmaster of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "NHPC Press Release Concerning Sports Scholarship"
       },
       {
-         "description" : "Please find Live link for the MPL 48th National Women Chess Championships 2022 http://fritzserver.org/LocalUser/live/India/mplw/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-the-mpl-48th-national-women-chess-championships-2022/",
-         "pubDate" : "Mon, 26 Dec 2022 06:50:43 +0000",
-         "title" : "Live link for the MPL 48th National Women Chess Championships 2022"
-      },
-      {
          "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-eight/",
          "pubDate" : "Fri, 16 Dec 2022 11:00:32 +0000",
          "title" : "A Foundation for Beginners Seventy Eight"
-      },
-      {
-         "description" : " Norway's world No 1 did not lose a single game in his 22-4 victory, and achieved the rare feat of 10 successive wins, which in online speed chess jargon qualifies as adopting your opponent Magnus Carlsen's achievements are so many that it is hard for the Norwegian to surprise fans any more, but the No 1's crushing online blitz victory against Fabiano Caruana on Tuesday was remarkable. Caruana is the reigning US champion, and had scored an even 6-6 in his classical games against Carlsen in their 2018 world title match in London. This week, they were paired in a quarter-final of the annual $100,000 Chess.com speed championship, whose format of 90 minutes play at 5/1 (five minutes per player p",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/16/chess-carlsen-adopts-us-champion-fabiano-caruana-in-online-blitz-rout",
-         "pubDate" : "Fri, 16 Dec 2022 07:30:45 +0000",
-         "title" : "Chess: Carlsen 'adopts' US champion, Fabiano Caruana, in online blitz rout"
       }
    ]
 }
