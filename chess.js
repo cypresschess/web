@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just played 26.Rb1+. How would you parry the check spontaneously, with 26...Nb6 or with 26...Ka8? But you can also think a bit longer, because one of these moves leads straight to a loss...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fatal-decision",
+         "pubDate" : "Sat, 07 Jan 2023 09:00:00 +0100",
+         "title" : "Fatal decision"
+      },
+      {
+         "description" : " Seven rounds have now been played in the 2023 Australian Open, and GM Temur Kuybokarov has opened up a 1 point lead over the rest of the field. He defeated IM James Morris in Round 7 after a very sharp opening. However the real trouble started for Morris around move 40 when the endgame got away from him. There are 5 players tied for second place on 5.5, including top seed GM Jingyao Tin who beat GM Darryl Johansen. In the Minor tournament Oscar Ho and Benny Chan share the lead on 6/7. Having already played each other, it may be a question of who makes the least mistakes in the race to the finish. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-5.html",
+         "pubDate" : "Sat, 07 Jan 2023 03:18:00 +0000",
+         "title" : "2023 Australian Open - Day 5"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Second in line is Dommaraju Gukesh, who has yet to turn 17 years old. For him, 2022 was a breakthrough year, as he became the third-youngest player in history to cross the 2700-rating mark, only to outdo himself a month later by winning eight games in a row at the Olympiad! | Photo: J. Suresh / The Week",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1210,14 +1226,6 @@ news_feed (
          "title" : "World Rapid & Blitz: Gunina leads among Women as four players share first place in the Open"
       },
       {
-         "description" : "GM Alexandr Fier and FM Juliana Sayumi Terao obtained outright victories at the Brazilian Championships (open and women's, respectively). The events took place on December 15-23 at the Hotel Jangadeiro in Recife, the capital of Pernambuco. Fier grabbed his fourth national title by scoring 9&frac12;/11 points, while Terao dominated the women's field and obtained a perfect 9/9 to claim her sixth national title. | Photo: Albert Silver (2018)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brazilian-championships-2022-report",
-         "pubDate" : "Mon, 26 Dec 2022 20:40:00 +0100",
-         "title" : "Fier and Terao are the 2022 Brazilian champions"
-      },
-      {
          "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Lionel Messi and Argentina have won the World Cup 2022. They showed mental toughness, determination and brilliance. There are a lot of lessons to be learned from their quest. In celebration of this historic win, after a unique final we may never see again, I <a href=\"https://chessimprover.com/the-great-ones-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-7/\">The Great Ones (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1648,22 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-to-play-nakamura-for-the-2022-speed-chess-title",
          "pubDate" : "Sat, 17 Dec 2022 13:22:50 +0000",
          "title" : "Carlsen to play Nakamura for the 2022 Speed Chess title"
-      },
-      {
-         "description" : " Harry Press is the 2022 ACT Rapidplay Champion, winning the 56 player event with 6.5/7. He started with 6 wins before agreeing to a short final round draw with Jonah Gear. Tied for 2nd were Fred Litchfield and FM Michael Kethro on 6/7. Gear won the Under 1800 prize with 5.5/7, while there was a 5 way tie for the Under 1200 prize, including Street Chess veteran, Sunny Yoon. The turn out was the largest ever for this event, and the largest group of players for a Street Chess run event. Thanks to the assistance of a number of players in helping set up and pack away, the event did very well to only run 30 minutes over time! If you are interested in seeing the final crosstable, it is available a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/2022-act-rapidplay-championship-results.html",
-         "pubDate" : "Sat, 17 Dec 2022 11:53:00 +0000",
-         "title" : "2022 ACT Rapidplay Championship - Results"
-      },
-      {
-         "description" : "While lamenting the English loss to France in the World Cup at Qatar last week, we may still derive consolation from our great victory at the Second Battle of Waterloo. I of course refer to the chessboard version of Wellington's victory, the Grand Match between Howard Staunton and Pierre Charles Fournier de St Amant, at []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/forget-qatar-we-still-have-the-waterloo-of-chess/",
-         "pubDate" : "Sat, 17 Dec 2022 05:56:27 +0000",
-         "title" : "Forget Qatar - we still have the Waterloo of chess"
       }
    ]
 }
