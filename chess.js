@@ -90,7 +90,7 @@ news_feed (
          "title" : "2023 ECF Online Grand (Prix Series 3) - First Blitz Event on Sunday 8th January"
       },
       {
-         "description" : " The new year event has been staged since the 1920s, and the 2023 iteration reaches its final round on Friday with five English players still in contention for first prize Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's final round (2.15pm start, free and live coverag",
+         "description" : " The event has been staged since the 1920s and the 2023 iteration ended with England's Mark Hebden tied in second, after missing a win against Lithuania's Sarunas Sulskis, who finished first Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's 10th and final round. <a href",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jan/06/chess-hastings-tradition-inspires-home-contingent-at-oldest-annual-tournament",
@@ -1664,14 +1664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/forget-qatar-we-still-have-the-waterloo-of-chess/",
          "pubDate" : "Sat, 17 Dec 2022 05:56:27 +0000",
          "title" : "Forget Qatar - we still have the Waterloo of chess"
-      },
-      {
-         "description" : "&#38;nbsp;GM Magnus Carlsen defeated GM Maxime Vachier-Lagrave in the 2022 Speed Chess Championship second semifinal match on Friday.&#38;nbsp; The world champion steamrolled through yet another match in what has become a series of dominant wins over th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-semifinals-carlsen-vachier-lagrave",
-         "pubDate" : "Fri, 16 Dec 2022 16:00:00 -0800",
-         "title" : "Carlsen Dismantles Reigning World Blitz Champion In Dominant Flight To Final"
       }
    ]
 }
