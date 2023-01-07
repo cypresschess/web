@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lithuanian grandmaster Sarunas Sulskis was the only player, out of the 95 participants, to achieve an 8/10 score at the 96th edition of the traditional Hastings Masters. In second to fourth place finished Bence Korpa (Hungary), Oleg Korneev (Spain) and Mark Hebden (England), each with 7&frac12;/10. Rating favourite Romain Edouard (France) finished fifth on 7/10. | Photo: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sarunas-sulskis-wins-hastings-masters",
+         "pubDate" : "Sat, 07 Jan 2023 17:15:00 +0100",
+         "title" : "Sarunas Sulskis wins 96th edition of the Hastings Masters"
+      },
+      {
+         "description" : "With ChessBase Magazine #211 Karsten Mueller starts a new training series, which is not about endgame finesse on grandmaster level, but about basic techniques, which are worth learning for every ambitious chess player. And without them you won't get far at a higher level. The topic of the first article is the endgame rook vs. pawn. As clear as the balance of power is in this endgame, you have to know a few rules of thumb and techniques in order to always be able to treat the position correctly. You can watch Karsten Mueller's video introduction to his new series here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-series-fundamental-endgame-knowledge-part-1-rook-vs-pawn",
+         "pubDate" : "Sat, 07 Jan 2023 16:00:00 +0100",
+         "title" : "New series \"Fundamental Endgame Knowledge\" - Part 1: Rook vs. pawn"
+      },
+      {
+         "description" : "The Faouzi Abdellatif Memorial is taking place from 7&#x2013;8 January 2023 in Casablanca, Morocco. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jean-Pierre Le Roux, Mokliss El Adnani, Ilyass Msellek, Yasser Hadj Kholti, Chafik Idrissi, Nicolas Dubreuil, Abdessadek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faouzi-abdellatif-memorial-2023-live/",
+         "pubDate" : "Sat, 07 Jan 2023 13:43:33 +0000",
+         "title" : "Faouzi Abdellatif Memorial 2023 - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/carlsen-contra-mundum/",
+         "pubDate" : "Sat, 07 Jan 2023 12:58:16 +0000",
+         "title" : "Carlsen contra mundum"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2138",
+         "pubDate" : "Sat, 07 Jan 2023 09:40:03 +0000",
+         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
+      },
+      {
          "description" : "In the diagram position White just played 26.Rb1+. How would you parry the check spontaneously, with 26...Nb6 or with 26...Ka8? But you can also think a bit longer, because one of these moves leads straight to a loss...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +608,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-live-games.html",
          "pubDate" : "Mon, 02 Jan 2023 08:06:00 +0000",
          "title" : "2023 Australian Open - Live Games"
-      },
-      {
-         "description" : "The 2nd International Open SKG &#8220;White Tower&#8221; Group B tournament takes place from 2-8 January at the Porto Palace hotel in Thessaloniki, Greece. The tournament is played in 3 rating groups, with a total prize fund of 3600&#x20AC;. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-international-open-skg-white-tower-2023-group-b-live/",
-         "pubDate" : "Sun, 01 Jan 2023 23:10:44 +0000",
-         "title" : "2nd International Open SKG \"White Tower\" 2023 - Group B - LIVE"
       },
       {
          "description" : "",
@@ -1162,22 +1194,6 @@ news_feed (
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
       },
       {
-         "description" : "Endings with opposite coloured bishop have drawish tendencies but they are often also full of surprising tactics. In the diagram position it is Black to move and win. How would you proceed with Black?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-right-exchange-2",
-         "pubDate" : "Tue, 27 Dec 2022 09:00:00 +0100",
-         "title" : "The right exchange"
-      },
-      {
-         "description" : "The World Rapid Championships 2022 kicked off on the 26th of December 2022 in Almaty, Kazakhstan. Five rounds were played in the open section and four rounds in women. We have four leaders in the open with 4.5/5 and they are Magnus Carlsen, Arjun Erigaisi, Vladimir Fedoseev and Jorden van Foreest. Meanwhile in the women's section we have a sole leader after four rounds on 100% score - Valentina Gunina. We bring you the full day one report along with pictures, analysis, videos and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-day-1-magnus-carlsen-channels-the-spirit-of-bobby-fischer",
-         "pubDate" : "Tue, 27 Dec 2022 08:19:02 +0100",
-         "title" : "World Rapid Day 1: Magnus Carlsen channels the spirit of Bobby Fischer"
-      },
-      {
          "description" : "National U-13 Open &#38; Girls Chess Championship 2022, Pondicherry Certificates are out to download Download using the link given below: Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://chessimprover.com/comeback-kid-2/",
          "pubDate" : "Sun, 18 Dec 2022 11:00:36 +0000",
          "title" : "Comeback Kid"
-      },
-      {
-         "description" : "Magnus Carlsen will face Hikaru Nakamura in the Speed Chess Championship final after beating Maxime Vachier-Lagrave 17:9. Magnus complained of \"constantly missing tactics\" but restricted his opponent to just one win in the first 17 games, with MVL finally throwing in the towel with 10 minutes to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-to-play-nakamura-for-the-2022-speed-chess-title",
-         "pubDate" : "Sat, 17 Dec 2022 13:22:50 +0000",
-         "title" : "Carlsen to play Nakamura for the 2022 Speed Chess title"
       }
    ]
 }
