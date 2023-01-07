@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. We now move on to the third spot in the junior ranking, where Arjun Erigaisi stands serenely, though certainly looking upwards. In 2022, Arjun dominated the Tata Steel Challengers' tournament and had a marvellous showing at the Olympiad. | Photo: Lennart Ootes / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-arjun-erigaisi",
+         "pubDate" : "Sat, 07 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Arjun Erigaisi"
+      },
+      {
          "description" : "Lithuanian grandmaster Sarunas Sulskis was the only player, out of the 95 participants, to achieve an 8/10 score at the 96th edition of the traditional Hastings Masters. In second to fourth place finished Bence Korpa (Hungary), Oleg Korneev (Spain) and Mark Hebden (England), each with 7&frac12;/10. Rating favourite Romain Edouard (France) finished fifth on 7/10. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-2",
          "pubDate" : "Tue, 27 Dec 2022 09:05:00 -0800",
          "title" : "Carlsen Captures Sole Lead In Penultimate Day Of Rapid Chess"
-      },
-      {
-         "description" : "In the Endgame Magic Show #220 - the last one before the end of the year - Karsten shows endgame highlights from 2022. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-220-endgame-highlights-of-2022",
-         "pubDate" : "Tue, 27 Dec 2022 18:00:00 +0100",
-         "title" : "Endgame Magic #220: Endgame Highlights of 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96551162.cms\" />Teenaged Indian player B Savitha Shri came up with a fine performance to jump into the joint lead with Zhongyi Tan (China) and Aleksandra Goryachkina with 6.5 points after the eighth round in the women's event of the FIDE World Rapid Chess Championships here on Tuesday.",
