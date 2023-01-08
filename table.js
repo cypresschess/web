@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2023-01-07","98","<a href=http://www.uschess.org/msa/XtblMain.php?202301079102 target='_blank'>TCR: HOUSTON WINTER SCHOLASTIC 2023</a>",
+"SPRING","2023-01-06","26","<a href=http://www.uschess.org/msa/XtblMain.php?202301068792 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2023-01-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202301068772 target='_blank'>FBCC 2023 HOWDY 2023</a>",
+"CYPRESS","2023-01-06","28","<a href=http://www.uschess.org/msa/XtblMain.php?202301068742 target='_blank'>KOC01062023</a>",
 "SPRING","2022-12-30","29","<a href=http://www.uschess.org/msa/XtblMain.php?202212306612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-12-30","12","<a href=http://www.uschess.org/msa/XtblMain.php?202212306562 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-12-06  - 12-27","15","<a href=http://www.uschess.org/msa/XtblMain.php?202212276532 target='_blank'>DEC 2022 TUESDAY NIGHT SWISS</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2022-05-15","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205151372 target='_blank'>MAY 15 SUNDAY SWISS</a>",
 "KATY","2022-05-14","86","<a href=http://www.uschess.org/msa/XtblMain.php?202205141052 target='_blank'>2022 SPRING ARISTOI CHESS TOURNAMEN</a>",
 "SPRING","2022-05-13","14","<a href=http://www.uschess.org/msa/XtblMain.php?202205130272 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2022-05-13","28","<a href=http://www.uschess.org/msa/XtblMain.php?202205130242 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-05-07  - 05-08","98","<a href=http://www.uschess.org/msa/XtblMain.php?202205088212 target='_blank'>TCR: HOUSTON SPRING CHAMPIONSHIP 2022</a>",
-"SPRING","2022-05-07","158","<a href=http://www.uschess.org/msa/XtblMain.php?202205077872 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
-"SPRING","2022-05-06","21","<a href=http://www.uschess.org/msa/XtblMain.php?202205067772 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
