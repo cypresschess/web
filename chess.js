@@ -74,6 +74,14 @@ news_feed (
          "title" : "Top juniors in 2022: Gukesh"
       },
       {
+         "description" : "A couple of recent posts on this blog have mentioned the 1990s web site Yourmove.com:- <UL><LI>2022-12-02: <A HREF=\"https://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A> <LI>2022-12-23: <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A></UL> <P>Both citations quoted the same source:- <BLOCKQUOTE>Statement by Anatoly Karpov: [...] I would also like to mention that I am a frequent guest lecturer at the superb Internet Chess Academy (www.yourmove.com) created by the talented young GM Gabriel Schwartzman. </BLOCKQUOTE> <P>The site is partially available via Archive.org, shown in the following screen ca",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/wayback-to-yourmovecom.html",
+         "pubDate" : "Fri, 06 Jan 2023 16:08:00 +0000",
+         "title" : "Wayback to Yourmove.com"
+      },
+      {
          "description" : "The Power Play Show rolls into 2023 with some games from the World Rapid and Blitz Championships. When playing with a fast time limit, the ability to spot a checkmate quickly is vital! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-chess-2022",
          "pubDate" : "Sun, 18 Dec 2022 18:11:00 +0400",
          "title" : "European Rapid and Blitz Chess 2022 - Games and Results"
-      },
-      {
-         "description" : " Regular readers of my posts may recall that I'd decided to retire from competitive chess during lockdown. Well, I was reluctantly persuaded to make a comeback the other day. Let me explain. My club has teams in three leagues. Our Thames Valley League teams cater for players of all levels. We have a team in <a href=\"https://chessimprover.com/comeback-kid-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Comeback Kid\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/comeback-kid-2/\">Comeback Kid</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/comeback-kid-2/",
-         "pubDate" : "Sun, 18 Dec 2022 11:00:36 +0000",
-         "title" : "Comeback Kid"
       }
    ]
 }
