@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2022/12/19/im-shawn-rodrigue-lemieux/",
          "pubDate" : "Mon, 19 Dec 2022 00:00:00 +0000",
          "title" : "IM Shawn Rodrigue-Lemieux On His Prep, His Talismans, and Keys to Success"
-      },
-      {
-         "description" : "We've seen the <I>StarryKnight</I> once before in <A HREF=\"http://chessforallages.blogspot.com/2014/01/chess-nebula.html\">Chess Nebula</A>(January 2014; <I>Europe-Echecs</I> '55th Anniversary'). In that post I neglected to take the idea further, so let's rectify that. The chess connection has been observed frequently, as in <A HREF=\"http://www.caelumobservatory.com/obs/horse.html\">Best of AOP: The Horsehead Nebula</A>(caelumobservatory.com; Mt. Lemmon SkyCenter, University of Arizona; AOP: 'Advanced Observing Program', Kitt Peak):- <BLOCKQUOTE>Chess, anyone? This is the most famous example of a dark nebula, that is, an opaque cloud of dust that obscures a bright nebula behind it. The Horsehe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html",
-         "pubDate" : "Sun, 18 Dec 2022 16:22:00 +0000",
-         "title" : "Chess on Orion's Belt"
       }
    ]
 }
