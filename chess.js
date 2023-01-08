@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Former world rapid champion Nodirbek Abdusattorov is fourth in the list. At 18, he has proven his mettle as a leader, playing top board for Uzbekistan in an astounding run to Olympic gold in Chennai. | Find here analysis of a remarkable victory by Abdusattorov, annotated by Ivan Sokolov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-nodirbek-abdusattorov",
+         "pubDate" : "Sun, 08 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Nodirbek Abdusattorov"
+      },
+      {
+         "description" : "The 13th Margaryan Memorial IM is taking place from 8&#x2013;15 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-player round-robin tournament with participation of Nikolay Averin, Nikita Matinian, Robert Piliposyan, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/13th-margaryan-memorial-im-2023-live/",
+         "pubDate" : "Sun, 08 Jan 2023 19:49:07 +0000",
+         "title" : "13th Margaryan Memorial IM 2023 - LIVE"
+      },
+      {
+         "description" : "The 13th Margaryan Memorial GM is taking place from 8&#x2013;15 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Amirreza Pour Agha Bala, Sergei Lobanov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/13th-margaryan-memorial-gm-2023-live/",
+         "pubDate" : "Sun, 08 Jan 2023 19:44:04 +0000",
+         "title" : "13th Margaryan Memorial GM 2023 - LIVE"
+      },
+      {
+         "description" : " You might recall that my comeback game resulted in a rook ending which was completely drawn in spite of my opponent's extra pawn. I thought it might be useful to look in more detail at this sort of position. Here's a typical situation. Black's rook is behind White's passed pawn. The computer tells me the <a href=\"https://chessimprover.com/the-extra-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Extra Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-extra-pawn/\">The Extra Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-extra-pawn/",
+         "pubDate" : "Sun, 08 Jan 2023 19:31:38 +0000",
+         "title" : "The Extra Pawn"
+      },
+      {
          "description" : " The 6th day of the 2023 Australian Open was the last of the double round days. Despite a scare in the morning round, GM Temur Kuybokarov maintained his full point lead, scoring 1.5/2. He drew against FM Yi Liu from a worse position before beating GM Darryl Johansen in the afternoon round. Tied for second are WGM Thi Kim Phung Ho and IM James Morris, on 7/9. While it looks like Kybokarov has the tournament wrapped up, he faces FM Chris Wallis in round 10. Wallis defeated him in the 2020 Australian Championship, a result that the chasing pack hopes could be repeated. Today was a rest day for the tournament, although the Australian Lightning Championship was held. James Morris scored a perfect",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,20 +58,20 @@ news_feed (
          "title" : "Women in Chess: FIDE workshop held in Stockholm"
       },
       {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. We now move on to the third spot in the junior ranking, where Arjun Erigaisi stands serenely, though certainly looking upwards. In 2022, Arjun dominated the Tata Steel Challengers' tournament and had a marvellous showing at the Olympiad. | Photo: Lennart Ootes / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-arjun-erigaisi",
-         "pubDate" : "Sat, 07 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Arjun Erigaisi"
-      },
-      {
          "description" : "Lithuanian grandmaster Sarunas Sulskis was the only player, out of the 95 participants, to achieve an 8/10 score at the 96th edition of the traditional Hastings Masters. In second to fourth place finished Bence Korpa (Hungary), Oleg Korneev (Spain) and Mark Hebden (England), each with 7&frac12;/10. Rating favourite Romain Edouard (France) finished fifth on 7/10. | Photo: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sarunas-sulskis-wins-hastings-masters",
          "pubDate" : "Sat, 07 Jan 2023 17:15:00 +0100",
          "title" : "Sarunas Sulskis wins 96th edition of the Hastings Masters"
+      },
+      {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. We now move on to the third spot in the junior ranking, where Arjun Erigaisi stands serenely, though certainly looking upwards. In 2022, Arjun dominated the Tata Steel Challengers' tournament and had a marvellous showing at the Olympiad. | Photo: Lennart Ootes / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-arjun-erigaisi",
+         "pubDate" : "Sat, 07 Jan 2023 17:00:00 +0100",
+         "title" : "Top juniors in 2022: Arjun Erigaisi"
       },
       {
          "description" : "With ChessBase Magazine #211 Karsten Mueller starts a new training series, which is not about endgame finesse on grandmaster level, but about basic techniques, which are worth learning for every ambitious chess player. And without them you won't get far at a higher level. The topic of the first article is the endgame rook vs. pawn. As clear as the balance of power is in this endgame, you have to know a few rules of thumb and techniques in order to always be able to treat the position correctly. You can watch Karsten Mueller's video introduction to his new series here!",
@@ -368,22 +400,6 @@ news_feed (
          "link" : "https://www.chessdom.com/australian-open-2023-live/",
          "pubDate" : "Wed, 04 Jan 2023 20:00:46 +0000",
          "title" : "Australian Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Cape Town Masters Challenge IM is taking place from 4&#x2013;8 January 2023 in Cape Town, South Africa. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with Adham Fawzy, Watu Kobese, Daniel Cawdery, Providence Oatlhotse, Andrew Kayonde, Mohamed Bhawoodien, Reuben Salimu, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cape-town-masters-challenge-im-2023-live/",
-         "pubDate" : "Wed, 04 Jan 2023 19:48:26 +0000",
-         "title" : "Cape Town Masters Challenge IM 2023 - LIVE"
-      },
-      {
-         "description" : "The 5th tournament in memoriam &#8220;Nikolaos Giamarellos&#8221; is organized by Evoiki Enosis Skakiston at Lucy Hotel in Chalkida, Greece, from 5-8 January. The total prize fund is 2500&#x20AC;. The event is a 7-round Swiss tournament in two rating groups, played with a time-control of 60&#8242; for 40 moves followed by 15&#8242; for the rest of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/5th-evoiki-open-nikolaos-giamarellos-2023-live/",
-         "pubDate" : "Wed, 04 Jan 2023 19:43:42 +0000",
-         "title" : "5th Evoiki Open \"Nikolaos Giamarellos\" 2023 - LIVE"
       },
       {
          "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-64/",
          "pubDate" : "Wed, 28 Dec 2022 10:00:54 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
-      },
-      {
-         "description" : "Magnus Carlsen won his fourth World Rapid Championship title by scoring 10 points in 13 rounds at the open tournament in Almaty. Vincent Keymer and Fabiano Caruana completed the podium. Meanwhile, Tan Zhongyi grabbed the gold medal among the women, with Dinara Saduakassova and Savitha Shri finishing second and third respectively. | Find the final standings and all available games here. A full pictorial report will be published later today. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live",
-         "pubDate" : "Wed, 28 Dec 2022 09:45:00 +0100",
-         "title" : "World Rapid: Carlsen and Tan take gold"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
