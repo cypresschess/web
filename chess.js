@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 6th day of the 2023 Australian Open was the last of the double round days. Despite a scare in the morning round, GM Temur Kuybokarov maintained his full point lead, scoring 1.5/2. He drew against FM Yi Liu from a worse position before beating GM Darryl Johansen in the afternoon round. Tied for second are WGM Thi Kim Phung Ho and IM James Morris, on 7/9. While it looks like Kybokarov has the tournament wrapped up, he faces FM Chris Wallis in round 10. Wallis defeated him in the 2020 Australian Championship, a result that the chasing pack hopes could be repeated. Today was a rest day for the tournament, although the Australian Lightning Championship was held. James Morris scored a perfect",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-6.html",
+         "pubDate" : "Sun, 08 Jan 2023 14:03:00 +0000",
+         "title" : "2023 Australian Open - Day 6"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 107th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-9",
+         "pubDate" : "Sun, 08 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 107: Play the Sicilian (9)"
+      },
+      {
+         "description" : "The first FIDE workshop organized by the FIDE Commission for Women's Chess in 2023 took place on January 5 in Stockholm, Sweden, during the Rilton Cup. Swedish living legend Pia Cramling was among the speakers, and emphasized how chess takes away any prejudicial social boundaries based on age or gender. | Photos: Anastasiya Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-workshop-women-stockholm",
+         "pubDate" : "Sun, 08 Jan 2023 14:45:00 +0100",
+         "title" : "Women in Chess: FIDE workshop held in Stockholm"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. We now move on to the third spot in the junior ranking, where Arjun Erigaisi stands serenely, though certainly looking upwards. In 2022, Arjun dominated the Tata Steel Challengers' tournament and had a marvellous showing at the Olympiad. | Photo: Lennart Ootes / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "World Rapid: Carlsen and Tan take gold"
       },
       {
-         "description" : "Magnus Carlsen became the triple champion in 2019 - in classical, rapid and blitz. However, in 2021, he lost both his rapid and blitz titles to Abdusattorov and MVL respectively. This year, the Norwegian has come with great willpower in order to reclaim his dominance on the world of chess. And he is doing it in style at the World Rapid Championships 2022 in Almaty, Kazakhstan. After 9 rounds, he is in sole lead with 7.5/9. In the women's section we have three leaders - Tan Zhongyi, Goryachkina and the surprise Savitha Shri. All three of them on 6.5/8. A detailed day 2 report.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-well-set-to-become-world-rapid-champion-2022",
-         "pubDate" : "Wed, 28 Dec 2022 09:00:10 +0100",
-         "title" : "Magnus Carlsen well set to become World Rapid Champion 2022"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2155",
          "pubDate" : "Tue, 27 Dec 2022 20:10:01 +0000",
          "title" : "Carlsen and Tan Zhongyi in the lead ahead of final day of World Rapid"
-      },
-      {
-         "description" : "In the first press conference of the World Rapid and Blitz Championships, Magnus Carlsen and FIDE President Arkady Dvorkovich answered a broad set of questions from the media. Among other topics, Carlsen discussed his ambitions in Almaty, chess and mental health, and whether he will play Hans Niemann if they happen to be paired up against each other. | Photos: Sergey Alekseenok and Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-on-ambitions-in-almaty",
-         "pubDate" : "Tue, 27 Dec 2022 19:15:00 +0100",
-         "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
       },
       {
          "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2019 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1648,22 +1656,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/chess-on-orions-belt.html",
          "pubDate" : "Sun, 18 Dec 2022 16:22:00 +0000",
          "title" : "Chess on Orion's Belt"
-      },
-      {
-         "description" : " On December 16, 2022 Tallahassee held its first tournament since COVID-19 virtually. The rapid tournament attracted 20 players with no player going unscathed. Five players ended with 3/4. Top-seed Dr. Steve Lenhert (2096) won the tournament over Richard Kennedy in a 3-minute blitz tiebreak. Organizer Jacob Sperber handed Lenhert his only defeat. Sperber, a young The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/18/2022-capital-city-chess-open-tallahassee-fl/\">2022 Capital City Chess Open (Tallahassee, FL)</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/12/18/2022-capital-city-chess-open-tallahassee-fl/",
-         "pubDate" : "Sun, 18 Dec 2022 15:17:33 +0000",
-         "title" : "2022 Capital City Chess Open (Tallahassee, FL)"
-      },
-      {
-         "description" : " The European Rapid and Blitz Chess took place Thu 15th Dec to Sun 18th Dec 2022 in Katowice, Poland. David Navara won the blitz on tie-break from Maciej Klekowski and Shant Sargsyan after all scored 17.5/22, five players were just half a point further behind. In the Rapid Jaime Santos Latasa took clear first place with 9.5/11 half a point clear of David Navara, Daniel Fridman, there were 11 players tied on 9 points altogether. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/european-rapid-and-blitz-chess-2022",
-         "pubDate" : "Sun, 18 Dec 2022 18:11:00 +0400",
-         "title" : "European Rapid and Blitz Chess 2022 - Games and Results"
       }
    ]
 }
