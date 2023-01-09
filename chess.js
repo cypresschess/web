@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/tournament-techincal-techniques.html",
+         "pubDate" : "Mon, 09 Jan 2023 06:58:00 +0000",
+         "title" : "Tournament techincal techniques"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Former world rapid champion Nodirbek Abdusattorov is fourth in the list. At 18, he has proven his mettle as a leader, playing top board for Uzbekistan in an astounding run to Olympic gold in Chennai. | Find here analysis of a remarkable victory by Abdusattorov, annotated by Ivan Sokolov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1632,22 +1640,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2022",
          "pubDate" : "Mon, 19 Dec 2022 13:07:00 +0400",
          "title" : "chess.com Speed Chess 2022 - Games and Results"
-      },
-      {
-         "description" : "Hikaru Nakamura has now won five Speed Chess titles in a row, but more than that, he's finally defeated the one player to have beaten him in the format - Magnus Carlsen. Hikaru got off to a stunning 6.5:2.5 start in the 5-minute section, and although Magnus, who said, \"I can't believe how much I enjoyed the match,\" took the contest right down to the wire, he ultimately lost 14.5:13.5.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-beats-carlsen-for-5th-consecutive-speed-chess-title",
-         "pubDate" : "Mon, 19 Dec 2022 08:17:04 +0000",
-         "title" : "Nakamura beats Carlsen for 5th consecutive Speed Chess title"
-      },
-      {
-         "description" : " test post <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Shahmatnaya_doska-1.jpg\" width=\"2560\" height=\"1358\" alt=\"\" /> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/test-name/",
-         "pubDate" : "Mon, 19 Dec 2022 07:58:37 +0000",
-         "title" : "test name"
       }
    ]
 }
