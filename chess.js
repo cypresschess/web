@@ -514,12 +514,12 @@ news_feed (
          "title" : "Chess Analysis in Pre-Computer Times | Grandmaster's Choice - GM Igor Novikov | lichess.org"
       },
       {
-         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle&#38;mdash;for the entire week! If one of your goals in the ne...",
+         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
          "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
-         "title" : "Puzzle Week! Unlimited Puzzle Battles, Puzzles World Championship, And More"
+         "title" : "Puzzle Week! Free Features Every Day, Puzzles World Championship, And More!"
       },
       {
          "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/test-name/",
          "pubDate" : "Mon, 19 Dec 2022 07:58:37 +0000",
          "title" : "test name"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won his fifth title match at the 2022 Speed Chess Championship, defeating GM Magnus Carlsen in an immensely close final on Sunday. Nakamura dominated the 5+1 segment, capitalizing on his own winning chances while disrupting Carl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
-         "pubDate" : "Sun, 18 Dec 2022 17:04:00 -0800",
-         "title" : "Nakamura Wins 5th Speed Chess Championship: 'He's Just A Beast In This Format'"
       }
    ]
 }
