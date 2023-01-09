@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : 48th National Women Certificates Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/48th-national-women-certificates/",
+         "pubDate" : "Mon, 09 Jan 2023 11:10:41 +0000",
+         "title" : "48th National Women Certificates"
+      },
+      {
+         "description" : "From Friday, 6 January, to Sunday, 8 January, the 32nd Keres Memorial was held in the Estonian capital Tallinn and featured a blitz and a rapid tournament. GM Vitaliy Bernadskiy from Ukraine won the blitz, GM Yuriy Kuzubov (also from Ukraine) won the rapid event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bernadskiy-and-kuzubov-win-keres-memorial-in-tallinn",
+         "pubDate" : "Mon, 09 Jan 2023 12:07:02 +0100",
+         "title" : "Bernadskiy and Kuzubov win Keres Memorial in Tallinn"
+      },
+      {
+         "description" : "The Covid pandemic in the last two years have led to a chess boom online, and the young guns have benefited the most from having 'extra time' on hand due to being at home a lot throughout the years 2020 and 2021. They seem to have done well to widen their learnings of the game, making large gains on the rating scale. Edwin Lam Choong Wai, chess enthusiast and coach, has a suggestion how FIDE should handle this. We would be interested to hear you opinion on the subject.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/suggestion-for-fide-k-factor-holiday",
+         "pubDate" : "Mon, 09 Jan 2023 12:00:00 +0100",
+         "title" : "Suggestion for FIDE: K-factor 'holiday'"
+      },
+      {
          "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://chessimprover.com/the-extra-pawn/",
          "pubDate" : "Sun, 08 Jan 2023 19:31:38 +0000",
          "title" : "The Extra Pawn"
+      },
+      {
+         "description" : "On this blog's long-running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), it's inevitable that themes repeat. A few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html\">'To Sam, With Thanks'</A>(October 2022), where one of the items was:- <BLOCKQUOTE>A first edition of 'My 60 Memorable Games' signed by Bobby Fischer to his friend Saemi Rock, a.k.a. Saemundur Palsson, friend and bodyguard in 1972. </BLOCKQUOTE> <P>For this post we have a pair of related items, shown below. Both had the same title: 'World Chess Championship 1972 - original print signed b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/signed-by-fischer-spassky-and-petursson.html",
+         "pubDate" : "Sun, 08 Jan 2023 16:13:00 +0000",
+         "title" : "Signed by Fischer, Spassky, and Petursson"
       },
       {
          "description" : " The 6th day of the 2023 Australian Open was the last of the double round days. Despite a scare in the morning round, GM Temur Kuybokarov maintained his full point lead, scoring 1.5/2. He drew against FM Yi Liu from a worse position before beating GM Darryl Johansen in the afternoon round. Tied for second are WGM Thi Kim Phung Ho and IM James Morris, on 7/9. While it looks like Kybokarov has the tournament wrapped up, he faces FM Chris Wallis in round 10. Wallis defeated him in the 2020 Australian Championship, a result that the chasing pack hopes could be repeated. Today was a rest day for the tournament, although the Australian Lightning Championship was held. James Morris scored a perfect",
@@ -1050,14 +1082,6 @@ news_feed (
          "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
       },
       {
-         "description" : "The young Uzbek team winning this year's Olympiad came as a pleasant surprise, but it is not an isolated example in the recent shift of world chess power. Other Central Asian countries are also looking to become more relevant in the elite chess scene, including Kyrgyzstan, a land that was once part of the Timurid Empire - its leader, Timur The Great, was an avid chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars-part-2",
-         "pubDate" : "Thu, 29 Dec 2022 00:15:00 +0100",
-         "title" : "A new wave of chess stars (II)"
-      },
-      {
          "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1072,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2156",
          "pubDate" : "Wed, 28 Dec 2022 20:16:20 +0000",
          "title" : "Magnus Carlsen and Tan Zhongyi are the World Champions in Rapid"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #548 Merijn van Delft looks at a game from the Dutch Championship and analyses a fine straightforward win which Erwin L'Ami scored against Sergey Tiviakov. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-547--2",
-         "pubDate" : "Wed, 28 Dec 2022 19:00:00 +0100",
-         "title" : "Game of the Week #548: Erwin L'Ami vs S. Tiviakov"
       },
       {
          "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://aicf.in/national-u-13-certificates-pondicherry/",
          "pubDate" : "Tue, 27 Dec 2022 06:53:55 +0000",
          "title" : "National U-13 Certificates, Pondicherry."
-      },
-      {
-         "description" : "Considering the advisory of Indian Medical Association as well as suggestion from local administration for having social distancing and avoid gathering due to present circumstances",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/postponement-of-delhi-indore-open-gm-chess-tournament-2023/",
-         "pubDate" : "Tue, 27 Dec 2022 06:13:59 +0000",
-         "title" : "Postponement of Delhi & Indore Open GM Chess Tournament 2023"
       },
       {
          "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
@@ -1608,38 +1616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2141",
          "pubDate" : "Mon, 19 Dec 2022 14:17:21 +0000",
          "title" : "Mariano Ortega wins 2022 Cape Verde Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2140",
-         "pubDate" : "Mon, 19 Dec 2022 12:21:28 +0000",
-         "title" : "Winners crowned at European Rapid & Blitz Championship"
-      },
-      {
-         "description" : " Two very close finishes occurred in sport today. The slightly more well known one was the win by Argentina against France in the World Cup (3-3 followed by 4-2 on penalties). The other was Nakamura beating Carlsen 14.5-13.5 on the 2002 Speed Chess Championship (on chess.com). This is Nakamura's 5th win in this event, showing he is quite good at this format. I suspect both matches were very exciting for those who were able to watch the games (I confess I missed both due to the early morning starts). However the best take away for me was a comment I saw on Facebook (which probably came from somewhere else). \"What will English fans do when England win the World Cup? Switch off the Playstation ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/a-close-finish.html",
-         "pubDate" : "Mon, 19 Dec 2022 11:56:00 +0000",
-         "title" : "A close finish"
-      },
-      {
-         "description" : "The 2022 European Open and Women's Rapid and Blitz Chess Championships took place from 16-18 December in Katowice, Poland. The event gathered 1000 players coming from more than 40 European federations, with more than 800 participants in Blitz, and more than 900 participants in Rapid championship. The first event on the schedule was the 2022 European Blitz Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-rapid-and-blitz-chess-champions-2022-crowned-in-katowice-poland/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-womens-rapid-and-blitz-chess-champions-2022-crowned-in-katowice-poland/",
-         "pubDate" : "Mon, 19 Dec 2022 10:12:52 +0000",
-         "title" : "European Open & Women's Rapid and Blitz Chess Champions 2022 crowned in Katowice, Poland"
-      },
-      {
-         "description" : " The chess.com Speed Chess took place Thu 10th Nov to Sun 18th Dec 2022. Starting with two qualifying events in mid November the knockout phase of 16 players started 23rd November. Players such as Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Levon Aronian, Nihal, Sarin and Anish Giri played, Nihal Sarin reached the semifinals. In the end the favourites and only previous winners of the event, Magnus Carlsen (2016-17 where he defeated Nakamura both times, in addition in 2020 Carlsen lost to MVL in the semifinals) and Hikaru Nakamura (2018-21), contested the final. Nakamura won his fifth title by beating Carlsen 14.5-13.5 in the final. The win was set up by a +4 =5 -0 start in the 5 minute s",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-speed-chess-2022",
-         "pubDate" : "Mon, 19 Dec 2022 13:07:00 +0400",
-         "title" : "chess.com Speed Chess 2022 - Games and Results"
       }
    ]
 }
