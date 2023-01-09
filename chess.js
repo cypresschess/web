@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. In fifth place is US grandmaster Hans Niemann. Chess blew up in mainstream media after Magnus Carlsen implicitly accused Niemann of cheating. But that did not prevent the Californian from continuing his rapid ascent in classical chess, as he broke the 2700-barrier for the first time (in an official FIDE ratings list) just this month! | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-hans-niemann",
+         "pubDate" : "Mon, 09 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Hans Niemann"
+      },
+      {
+         "description" : "The Iranian international arbiter Shohreh Bayat was reprimanded by the International Chess Federation (FIDE) for wearing pro-human rights clothing at the 2022 Fischer Random World Chess Championship in Reykjavik. While FIDE considered it &#34;unprofes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/iranian-chess-arbiter-shohreh-bayat-fide-t-shirt",
+         "pubDate" : "Mon, 09 Jan 2023 10:03:00 -0800",
+         "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Monday, January 9, 2023) -</strong> <a href=\"http://grandchesstour.org\">The Grand Chess Tour (GCT)</a>, a circuit of international events, each demonstrating the highest level of organization for the world's best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical tournaments will be $350,000 and $175,000 per event for rapid and blitz. In addition, a bonus prize fund totalling $175,000 will be awarded to the top three overall tour finishers. </div><div class=\"field field-name-field-author field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grand-chess-tour-returns-2023",
+         "pubDate" : "Mon, 09 Jan 2023 17:55:38 +0000",
+         "title" : "The Grand Chess Tour Returns In 2023"
+      },
+      {
+         "description" : "In his Endgame Magic Show #222 Karsten shows endgame highlights from the FIDE World Team Championship in Jerusalem. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-222-endgame-highlights-of-the-fide-world-team-championship",
+         "pubDate" : "Mon, 09 Jan 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #222: Endgame highlights of the FIDE World Team Championship"
+      },
+      {
          "description" : "Viktor Kortschnoi was one of the greats in chess. He played twice for the World Championship and only narrowly failed to win the title. His fighting spirit and his passion for chess is legendary. On the new Masterclass Fritztrainer \"Viktor Kortschnoi\" you can follow his long career game by game and in the remastered Fritztrainer \"Kortschnoi: My Life for Chess\" you can watch how the master presents his best games himself. Christian H&ouml;the has taken a look at the two Fritztrainers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "The \"Special\": Mikhail Tal"
       },
       {
-         "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : 48th National Women Certificates Any Correction mail at aicfwebmaster2021@gmail.com",
+         "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/48th-national-women-certificates/",
@@ -1002,14 +1034,6 @@ news_feed (
          "title" : "People are the worst (well a subset of them)"
       },
       {
-         "description" : "This week Robert Ris presents a fine attacking game by Daniil Dubov who defeated Anish Giri in the World Rapid Championship with Black. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-dubov-attacks",
-         "pubDate" : "Fri, 30 Dec 2022 11:05:38 +0100",
-         "title" : "Robert Ris' Fast and Furious: Dubov attacks"
-      },
-      {
          "description" : " Last week, we started exploring the world of tactics in more detail. While I mentioned the importance of tactics, I also mentioned that you can't solely count on their use to win games. Over the next few months, we'll learn a small collection of tactical tools that will aid your playing. However, I decided to <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\">A Foundation for Beginners Seventy Nine</a> appeared first on <a rel=\"nofollow\" href=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1032,14 +1056,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-blitz-day-1-magnus-cuts-it-close-hikaru-hunts-1st-title",
          "pubDate" : "Fri, 30 Dec 2022 00:20:19 +0000",
          "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
-      },
-      {
-         "description" : "Now that Argentina has won the FIFA World Cup in memorable fashion, it is a great time to reminisce on the legacy of Miguel Najdorf. 'Don Miguel' was born in Warsaw, but was among the many European players who found themselves in Buenos Aires when the Second World War broke out in 1939. Najdorf stayed in Argentina and spent most of his life in the South American country. Najdorf was one of the fifteen players who participated in the legendary 1953 Candidates Tournament in Zurich.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-najdorf-zurich-candidates",
-         "pubDate" : "Fri, 30 Dec 2022 00:45:00 +0100",
-         "title" : "Throwback Thursday: Miguel Najdorf at the Zurich Candidates"
       },
       {
          "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-day-2-keymer-chases-carlsen",
          "pubDate" : "Wed, 28 Dec 2022 00:01:43 +0000",
          "title" : "World Rapid Day 2: Keymer chases Carlsen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his favorite games in the London System (or the Mason Variation) that he played with the white pieces. 2022.12.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-grandmasters-choice-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EgNI3jGvduQ.jpg?itok=muKhn1NP\" alt=\"\" /></a></di",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-grandmasters-choice-gm-jj-ali-marandi-lichessorg",
-         "pubDate" : "Tue, 27 Dec 2022 22:56:13 +0000",
-         "title" : "JJ's Best White London System Games | Grandmaster's Choice - GM JJ Ali Marandi | lichess.org"
       },
       {
          "description" : "",
