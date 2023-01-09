@@ -1600,14 +1600,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/stefan-docx-expelled-from-benidorm-open",
          "pubDate" : "Tue, 20 Dec 2022 00:56:00 -0800",
          "title" : "Belgian IM Expelled From Chess Tournament After Refusing Body Scan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2142",
-         "pubDate" : "Mon, 19 Dec 2022 21:18:25 +0000",
-         "title" : "Estonian Championship: Volodin and Sinitsina clinch titles"
       }
    ]
 }
