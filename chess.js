@@ -189,6 +189,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2169",
+         "pubDate" : "Fri, 06 Jan 2023 10:40:36 +0000",
+         "title" : "India Championships: Karthik Venkataraman and Divya Deshmukh win titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2167",
          "pubDate" : "Fri, 06 Jan 2023 10:28:24 +0000",
          "title" : "Women in Chess: FIDE WOM Workshop held in Stockholm"
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-speed-chess-championship-final-nakamura-carlsen",
          "pubDate" : "Sun, 18 Dec 2022 17:04:00 -0800",
          "title" : "Nakamura Wins 5th Speed Chess Championship: 'He's Just A Beast In This Format'"
-      },
-      {
-         "description" : "(Original was posted on chess.com) It has been a spectacular year for Montreal's Shawn Rodrigue-Lemieux. He steamrolled his competition in an international tournament with a 3037 performance rating, then in September he won the World Youth Chess Championship in Romania. In this question-and-answer session, the International Master shares his thoughts on his career, his ambition to become a grandmaster, and his approach to chess studies - from the intriguing a-pawn thrust on the first move to his games with Grandmaster Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2022/12/19/im-shawn-rodrigue-lemieux/",
-         "pubDate" : "Mon, 19 Dec 2022 00:00:00 +0000",
-         "title" : "IM Shawn Rodrigue-Lemieux On His Prep, His Talismans, and Keys to Success"
       }
    ]
 }
