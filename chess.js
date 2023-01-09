@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Viktor Kortschnoi was one of the greats in chess. He played twice for the World Championship and only narrowly failed to win the title. His fighting spirit and his passion for chess is legendary. On the new Masterclass Fritztrainer \"Viktor Kortschnoi\" you can follow his long career game by game and in the remastered Fritztrainer \"Kortschnoi: My Life for Chess\" you can watch how the master presents his best games himself. Christian H&ouml;the has taken a look at the two Fritztrainers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rview-masterclass-vol-15-viktor-kortschnoi-and-kortschnoi-my-life-for-chess",
+         "pubDate" : "Mon, 09 Jan 2023 16:00:00 +0100",
+         "title" : "Review: \"Masterclass, Vol. 15: Viktor Kortschnoi\" and \"Kortschnoi: My Life for Chess\""
+      },
+      {
+         "description" : "Mikhail Tal's meteoric rise shook the chess world in the late 1950s, taking him straight to the very top. His victory over Botvinnik in the 1960 match won him the world title. In the process, the 'Wizard from Riga' thrilled fans with his unprecedented combination style - \"There are two kinds of sacrifices - correct ones and mine!\" For CBM 211 we invited our authors to comment on their favourite Mikhail Tal games. The total of 21 encounters, the last played in 1991, show the eighth World Champion above all, in his element - as a brilliant tactician. A little-known game from the National Open in Chicago 1988 is presented by Yannick Pelletier in CBM 211 - you can watch his analysis in abridged ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-special-mikhail-tal",
+         "pubDate" : "Mon, 09 Jan 2023 15:00:00 +0100",
+         "title" : "The \"Special\": Mikhail Tal"
+      },
+      {
          "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : 48th National Women Certificates Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1066,22 +1082,6 @@ news_feed (
          "title" : "New Year's Resolutions: Make Them Work In 2023"
       },
       {
-         "description" : "Hikaru Nakamura had a magnificent first day at the World Blitz Championship in Almaty, as he won eight games and drew four to go into the final nine rounds a full point ahead of a five-player chasing pack. In the women's tournament, Valentina Gunina and Polina Shuvalova are sharing first place on 7&frac12;/9 points. | Find here the standings and all available games. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz",
-         "pubDate" : "Thu, 29 Dec 2022 09:45:00 +0100",
-         "title" : "World Blitz: Nakamura a full point ahead!"
-      },
-      {
-         "description" : "The World Rapid Championships 2022 came to an end with some thrilling action. The Gold medal in the open section went to Magnus Carlsen for the 4th time in his career, but it was not without drama. The silver medal went to the young talent Vincent Keymer who played an exquisite event and the bronze medal went to Fabiano Caruana. In the women's section Tan Zhongyi continued her good run by winning the gold. She beat Dinara Saduakassova in the tiebreaks. The local girl had to settle for silver and the bronze went to India's 15-year-old Savitha Shri.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-tan-zhongyi-are-world-rapid-2022-champions",
-         "pubDate" : "Thu, 29 Dec 2022 09:30:00 +0100",
-         "title" : "Magnus Carlsen and Tan Zhongyi are World Rapid 2022 Champions"
-      },
-      {
          "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1600,22 +1600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2142",
          "pubDate" : "Mon, 19 Dec 2022 21:18:25 +0000",
          "title" : "Estonian Championship: Volodin and Sinitsina clinch titles"
-      },
-      {
-         "description" : "Every once in a while I wake up from my habitual sleepwalking and try to grasp the basics of current trends in chess engines. At the end of this post is a summary of those efforts over the past few years. <P>With this post I set out to bring myself up to date once again, but quickly decided that I needed to look at chess engines in the so-called cloud. My first stop was Chessify: <A HREF=\"https://chessify.me/\">Powerful Cloud Engines for Chess Analysis</A>(chessify.me; 'Powerful Cloud Platform for Chess Training'). The site's home page promises a great deal:- <BLOCKQUOTE><B>Top Engines:</B>The latest versions of Stockfish (NNUE and traditional), Leela Chess Zero, and other engines available f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/chessify-setup.html",
-         "pubDate" : "Mon, 19 Dec 2022 16:03:00 +0000",
-         "title" : "Chessify Setup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2141",
-         "pubDate" : "Mon, 19 Dec 2022 14:17:21 +0000",
-         "title" : "Mariano Ortega wins 2022 Cape Verde Championship"
       }
    ]
 }
