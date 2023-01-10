@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1988 Vishy Anand became India's first grandmaster, but in recent years the number of Indian grandmasters has exploded. Next in line is 16-year-old Pranesh M, who dominated the traditional Rilton Cup in Stockholm, Sweden. That was enough to become the country's 79th grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/16-year-old-pranesh-is-india-s-79th-grandmaster",
+         "pubDate" : "Tue, 10 Jan 2023 15:22:15 +0000",
+         "title" : "16-year-old Pranesh is India's 79th Grandmaster"
+      },
+      {
+         "description" : "The Novoborsky SK, led by David Navara (photo), has dominated the Czech Extraliga for more than ten years. The team also leads in the season 2022/2023. Last weekend rounds five and six of the current season were played and with two wins Novy Bor managed to increase their score to 18:0 team points. | Photo: Chess Society Prague",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/czech-extraliga-novy-bor-dominates",
+         "pubDate" : "Tue, 10 Jan 2023 14:30:00 +0100",
+         "title" : "Czech Extraliga: Novy Bor dominates"
+      },
+      {
+         "description" : "Shohreh Bayat, who was forced to leave Iran in early 2020 after a scandal over wearing the hijab, has revealed she was personally asked by FIDE President Arkady Dvorkovich to stop wearing a T-shirt with the message \"Women Life Freedom\" at the Fischer Random World Championship in Iceland. She did, but only to wear the Ukrainian colours instead, and since appears to have fallen out of favour with FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/top-arbiter-sidelined-over-women-life-freedom-t-shirt",
+         "pubDate" : "Tue, 10 Jan 2023 13:03:00 +0000",
+         "title" : "Top arbiter sidelined over \"Women, Life, Freedom\" T-shirt"
+      },
+      {
          "description" : "The 2023 Grand Chess Tour&#39;s format is identical to the 2022 one, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the scheduli...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1000,14 +1024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-fantastic-games-of-the-rapid-championship",
          "pubDate" : "Fri, 30 Dec 2022 16:19:38 +0100",
          "title" : "Svitlana's Smart Moves - Fantastic games of the Rapid Championship 2022"
-      },
-      {
-         "description" : "Magnus Carlsen and Bibisara Assaubayeva won the World Blitz Championships in Almaty. Carlsen thus grabbed the triple crown, as he is currently the classical, rapid and blitz world champion. The 18-year-old Assaubayeva, on her part, defended the title she had won in 2021. | Find here the standings and all available games. A full pictorial report will be published shortly. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-live-blitz-2",
-         "pubDate" : "Fri, 30 Dec 2022 16:00:00 +0100",
-         "title" : "World Blitz: Carlsen clinches triple crown, Assaubayeva defends her title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96627464.cms\" />Indian ace Koneru Humpy came up with a superb performance after a modest run in the initial phase to claim the silver medal in the women's section of the FIDE World Blitz Chess Championship on Friday.",
