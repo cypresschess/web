@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The creation of a passed pawn is a typical endgame topic. In the diagram position it is Black to move and win.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-breakthrough-4",
+         "pubDate" : "Tue, 10 Jan 2023 09:00:00 +0100",
+         "title" : "The breakthrough"
+      },
+      {
          "description" : " Round 10 of the 2023 Australian Open saw GM Temur Kuybokarov maintain his 1 point lead over the rest of the field. Up against FM Chris Wallis, he played a fairly quick draw, to move to 8.5/10. Closest rival IM James Morris also drew, to reach 7.5, where he was joined by GM Jingyao Tin, FM Yi Liu, FM Dusan Stojic, and Mars Qi, who all won their round 10 games. Today's round sees Kuybokarov up against tournament sensation, Leah Rice (SGP). Rice was seeded 90th in the event, but has scored 7/10 and is now playing on the top board in the tournaments final round. The Minor is also set for a close finish, with Benny Chan leading by half a point over Chintushig Chinbat, Jayden Arav, and Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-world-champion-1972-christmas-calendar-winners",
          "pubDate" : "Fri, 30 Dec 2022 14:08:38 +0100",
          "title" : "The World Champion 1972 Christmas Calendar Winners"
-      },
-      {
-         "description" : "Bundesliga season 22/23: Stars up close - Eljanov, Van Wely, McShane, Jones, Kasimdzhanov, Cheparinov, Meier and many others comment on games from the first rounds - \"Special\" on Mikhail Tal: exclusive collection of 21 commented games + contributions on strategy and endgame - \"The Scotch Gambit\": Daniel King presents another gambit idea: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5. 0-0 (video) - \"How to deal with opening surprises\": Jan Markos continues his training series for tournament players (video + collection of exercises) - \"Jumping across the centre line\":over 50 tactics exercises + three selected combinations in video format with Oliver Reeh - Endgame good, all good: Karsten Mueller's n",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-211",
-         "pubDate" : "Fri, 30 Dec 2022 14:00:00 +0100",
-         "title" : "NEW: ChessBase Magazine #211"
       },
       {
          "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
