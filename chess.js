@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to the 2022 one, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the scheduli...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-grand-chess-tour-tournaments-dates",
+         "pubDate" : "Tue, 10 Jan 2023 02:44:00 -0800",
+         "title" : "2023 Grand Chess Tour: St. Louis Events Moved To November-December"
+      },
+      {
+         "description" : "The Grand Chess Tour has announced its dates for the 2023 series. The tour will again consist of five tournaments, which will take place in Bucharest, Warsaw, Zagreb and Saint Louis with dates in May, July and November/December 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-grand-chess-tour-returns-in-2023",
+         "pubDate" : "Tue, 10 Jan 2023 11:30:00 +0100",
+         "title" : "The Grand Chess Tour Returns In 2023"
+      },
+      {
          "description" : "The creation of a passed pawn is a typical endgame topic. In the diagram position it is Black to move and win.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-222-endgame-highlights-of-the-fide-world-team-championship",
          "pubDate" : "Mon, 09 Jan 2023 18:00:00 +0100",
          "title" : "Endgame Magic #222: Endgame highlights of the FIDE World Team Championship"
+      },
+      {
+         "description" : "In this blog's ongoing series covering the world's top-two ongoing engine vs. engine tournaments, the last post of 2022 was <A HREF=\"https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html\">TCEC More Interludes; CCC19 Bullet Underway</A>(December 2022). Following is a summary of that post. <BLOCKQUOTE>TCEC: Stockfish won the VVLTC, then drew the two-game SVVLTC with LCZero. KomodoDragon placed first in the top-3 section of 'Noomen Extra 2'; Ethereal placed first in the next-11 section. LCZero then won the second chess324 tournament, a half point ahead of Stockfish. The site is currently conducting '4k Testing'. &#149; CCC: After the 'CCC19 Rapid Final', there were",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html",
+         "pubDate" : "Mon, 09 Jan 2023 16:05:00 +0000",
+         "title" : "TCEC Cup 11 Underway; CCC19 Bullet in Semifinals"
       },
       {
          "description" : "Viktor Kortschnoi was one of the greats in chess. He played twice for the World Championship and only narrowly failed to win the title. His fighting spirit and his passion for chess is legendary. On the new Masterclass Fritztrainer \"Viktor Kortschnoi\" you can follow his long career game by game and in the remastered Fritztrainer \"Kortschnoi: My Life for Chess\" you can watch how the master presents his best games himself. Christian H&ouml;the has taken a look at the two Fritztrainers.",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
       },
       {
-         "description" : "Our time travel journey is over, and we return from 1972 to the present. This year we reached a new world record, with almost 7200 (!) answers. Were the questions too easy, or was the topic particularly interesting? But there was something else, wasn't there? Yes, we solve the tricky last question, which of course the majority answered correctly. Thank you for the lively participation, and the mostly positive comments. Have a great new year 2023!| Photos: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-world-champion-1972-christmas-calendar-winners",
-         "pubDate" : "Fri, 30 Dec 2022 14:08:38 +0100",
-         "title" : "The World Champion 1972 Christmas Calendar Winners"
-      },
-      {
          "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1592,22 +1608,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/",
          "pubDate" : "Wed, 21 Dec 2022 10:03:21 +0000",
          "title" : "European Senior Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2143",
-         "pubDate" : "Tue, 20 Dec 2022 11:37:19 +0000",
-         "title" : "Statement by the Fair Play Chair on the Carlsen-Niemann investigation"
-      },
-      {
-         "description" : "IM Stefan Docx was expelled from the Benidorm Open in Spain, after refusing a metal detector body scan. The chief arbiter of the tournament is preparing a report for the FIDE Fair Play Commission. Docx, a 48-year-old international master from Be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stefan-docx-expelled-from-benidorm-open",
-         "pubDate" : "Tue, 20 Dec 2022 00:56:00 -0800",
-         "title" : "Belgian IM Expelled From Chess Tournament After Refusing Body Scan"
       }
    ]
 }
