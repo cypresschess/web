@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Penultimate in line is 18-year-old Vincent Keymer. In September last year, the unassuming boy from Mainz crossed the 2700 rating barrier for the first time in his career. And just a couple of weeks ago, he proudly took home the silver medal from the World Rapid Championship in Almaty! | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-vincent-keymer",
+         "pubDate" : "Tue, 10 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Vincent Keymer"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/",
+         "pubDate" : "Tue, 10 Jan 2023 17:38:26 +0000",
+         "title" : "Need sure points? QGD, Vienna Variation Edition"
+      },
+      {
          "description" : "In 1988 Vishy Anand became India's first grandmaster, but in recent years the number of Indian grandmasters has exploded. Next in line is 16-year-old Pranesh M, who dominated the traditional Rilton Cup in Stockholm, Sweden. That was enough to become the country's 79th grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Top arbiter sidelined over \"Women, Life, Freedom\" T-shirt"
       },
       {
-         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to the 2022 one, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the scheduli...",
+         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-grand-chess-tour-tournaments-dates",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/world-championship-columnists.html",
          "pubDate" : "Fri, 30 Dec 2022 16:15:00 +0000",
          "title" : "World Championship Columnists"
-      },
-      {
-         "description" : "Magnus Carlsen not only won the Rapid Championship 2022, but also the Blitz Championship. The GOAT of chess, played some remarkable games, and Svitlana takes a closer look at two of them. Funnily enough, in one of the games, Bobby Fischer had a very similar position against Ulf Andersson. Perhaps Carlsen remembered the particular attacking move, and used it for his own victory. But this episode begins with the masterful tactic of Daniil Dubov against Nihal Sarin. What a stunner!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-fantastic-games-of-the-rapid-championship",
-         "pubDate" : "Fri, 30 Dec 2022 16:19:38 +0100",
-         "title" : "Svitlana's Smart Moves - Fantastic games of the Rapid Championship 2022"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96627464.cms\" />Indian ace Koneru Humpy came up with a superb performance after a modest run in the initial phase to claim the silver medal in the women's section of the FIDE World Blitz Chess Championship on Friday.",
