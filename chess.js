@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Round 10 of the 2023 Australian Open saw GM Temur Kuybokarov maintain his 1 point lead over the rest of the field. Up against FM Chris Wallis, he played a fairly quick draw, to move to 8.5/10. Closest rival IM James Morris also drew, to reach 7.5, where he was joined by GM Jingyao Tin, FM Yi Liu, FM Dusan Stojic, and Mars Qi, who all won their round 10 games. Today's round sees Kuybokarov up against tournament sensation, Leah Rice (SGP). Rice was seeded 90th in the event, but has scored 7/10 and is now playing on the top board in the tournaments final round. The Minor is also set for a close finish, with Benny Chan leading by half a point over Chintushig Chinbat, Jayden Arav, and Alexander ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
+         "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
+         "title" : "2023 Australian Open - Day 8"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. In fifth place is US grandmaster Hans Niemann. Chess blew up in mainstream media after Magnus Carlsen implicitly accused Niemann of cheating. But that did not prevent the Californian from continuing his rapid ascent in classical chess, as he broke the 2700-barrier for the first time (in an official FIDE ratings list) just this month! | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
