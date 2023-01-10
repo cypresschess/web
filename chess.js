@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions. 2023.01.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-jWbuf0ZWMw.jpg?itok=-0pMgztl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov",
+         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
+         "title" : "Make Decisions in Complex Positions | Grandmaster's Choice - GM Igor Novikov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection. 2023.01.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Nf6Nhce5Cyk.jpg?itok=dEwnxNuy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
+         "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1b6vPZfcEME.jpg?itok=XSnT8QBf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-igor-novikov",
+         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
+         "title" : "Prepare Like A Pro - GM Igor Novikov"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Penultimate in line is 18-year-old Vincent Keymer. In September last year, the unassuming boy from Mainz crossed the 2700 rating barrier for the first time in his career. And just a couple of weeks ago, he proudly took home the silver medal from the World Rapid Championship in Almaty! | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "A Foundation for Beginners Seventy Nine"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zvKabPF6TS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-2-prepare-pro-gm-jj-ali-marandi",
-         "pubDate" : "Fri, 30 Dec 2022 01:57:31 +0000",
-         "title" : "JJ's Best White London System Games #2 | Prepare Like A Pro - GM JJ Ali Marandi"
-      },
-      {
          "description" : "Hikaru Nakamura won just 2 games in the World Rapid Championship in Almaty, but on Day 1 of the World Blitz he won 8 to take a 1-point lead and give himself every chance of winning his first ever World Rapid or Blitz title. Magnus Carlsen is among the 5-player chasing pack after making a dramatic late arrival midway through Round 1, still dressed in casual gear. Ian Nepomniachtchi would also fall foul of the dress code.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1216,22 +1232,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-64/",
          "pubDate" : "Wed, 28 Dec 2022 10:00:54 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi looks at even more of his favorite London System games that JJ himself played as White. Watch Part 1: <a href=\"https://youtu.be/EgNI3jGvduQ\">https://youtu.be/EgNI3jGvduQ</a>. 2022.12.29 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/final-chess-lecture-2022-prepare-pro-gm-jj-ali-marandi-lichessorg",
-         "pubDate" : "Wed, 28 Dec 2022 01:56:24 +0000",
-         "title" : "The Final Chess Lecture of 2022 | Prepare Like A Pro - GM JJ Ali Marandi | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cemil Can Ali Marandi shows his favorite games in the London System (or the Mason Variation) that he played with the white pieces. 2022.12.27<br /> JJ Ali Marandi vs. Ernesto Inarkiev, 2018: A45 Queen&#039;s pawn game<br /> <a href=\"https://chess24.com/en/watch/live-tournaments/turkish-super-league-2018/2/1/1\">https://chess24.com/en/watch/live-tournaments/turkish-super-league-2018/...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jjs-best-white-lo",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jjs-best-white-london-system-games-1-grandmasters-choice-gm-jj-ali-marandi",
-         "pubDate" : "Wed, 28 Dec 2022 01:56:24 +0000",
-         "title" : "JJ's Best White London System Games #1 | Grandmaster's Choice - GM JJ Ali Marandi"
       },
       {
          "description" : "Magnus Carlsen won his first and last games on Day 2 of the World Rapid Championship to take the sole lead on 7.5/9, but a powerful chasing pack is waiting for any slip-up. That includes 18-year-old Vincent Keymer, who beat Fabiano Caruana, Yu Yangyi and Arjun Erigaisi in successive rounds to move within half a point. In the Women's section Tan Zhongyi and Aleksandra Goryachkina are joined in the lead by 15-year-old Savitha Shri.",
