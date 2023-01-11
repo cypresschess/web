@@ -1624,14 +1624,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-championship/",
          "pubDate" : "Wed, 21 Dec 2022 16:31:04 +0000",
          "title" : "British Rapidplay Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2145",
-         "pubDate" : "Wed, 21 Dec 2022 16:27:07 +0000",
-         "title" : "Taione Sikivou wins 2022 Vodafone Fiji Chess Championship"
       }
    ]
 }
