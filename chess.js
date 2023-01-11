@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. The second-youngest in the list - only older than Gukesh - is Praggnanandhaa. In 2022, the 17-year-old faced both ambitious rising stars (in open events) and the very best in the world (mostly online). And he excelled in both types of tournaments! | Photo: Alina l'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-juniors-2022-praggnanandhaa",
+         "pubDate" : "Wed, 11 Jan 2023 21:00:00 +0100",
+         "title" : "Top juniors in 2022: Praggnanandhaa"
+      },
+      {
+         "description" : "Less than three months before the start of the World Championship match, FIDE is yet to announce a venue. One of the world's biggest chess YouTubers, Levy \"GothamChess\" Rozman, slams FIDE, calling it a catastrophe.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/fide-without-a-venue-for-nepo-vs-ding-less-than-90-days-before-start",
+         "pubDate" : "Wed, 11 Jan 2023 19:58:05 +0000",
+         "title" : "FIDE without a venue for Nepo vs Ding less than 90 days before start"
+      },
+      {
+         "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
+         "pubDate" : "Wed, 11 Jan 2023 09:08:07 -0800",
+         "title" : "Multiple Decisive Tournament Victories Tuesday"
+      },
+      {
          "description" : "Chess.com&#39;s Clock app just got updated on iOS and Android. With more functionality, tons of useful presets, and an overall better design, the most popular chess clock app in the world got even better.&#38;nbsp; If you&#39;re on the go and have a chess s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov\"><img",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "Welcome to 2023"
       },
       {
-         "description" : "Magnus Carlsen has become World Blitz champion for the sixth time in his career. He won it in 2009, 2014, 2017, 2018, 2019 and now 2022. The Norwegian also became World Triple Crown champion for the third time in his career (2014, 2019 and 2022). Unlike 2019, this time Carlsen became a clear champion by scoring 16/21, a full point ahead of Hikaru Nakamura (USA) 15/21. Haik Martirosyan (ARM) scored the same and finished third on tie-breaks. The defending champion, IM Bibisara Assaubayaeva (KAZ) won her last five games to clinch the Gold 13/17. Koneru Humpy scored a magnificent 8.5/9 in her last nine games to secure Silver 12.5/17. IM Polina Shuvalova won the Bronze 12/17. Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-bibisara-assaubayeva-are-the-world-blitz-2022-champions-2",
-         "pubDate" : "Sat, 31 Dec 2022 10:35:00 +0100",
-         "title" : "Magnus Carlsen and Bibisara Assaubayeva are the World Blitz 2022 champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1584,46 +1600,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/magnus-i-love-playing-that-s-all-the-ambition-i-really-need",
          "pubDate" : "Wed, 21 Dec 2022 22:16:46 +0000",
          "title" : "Magnus: \"I love playing, that's all the ambition I really need!\""
-      },
-      {
-         "description" : "Chess.com is excited to announce that the Meltwater Champions Chess Tour and the Chess.com Global Championship are coming together in 2023 to form one unified chess series. This huge event kicks off on February 6 and spans the entire year. With si...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cgc-champions-chess-tour-are-coming-together-2023",
-         "pubDate" : "Wed, 21 Dec 2022 10:42:00 -0800",
-         "title" : "Chess.com Global Championship and Meltwater Champions Chess Tour Coming Together In 2023"
-      },
-      {
-         "description" : "Chess.com, the world's largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 24, 2022 and was unanimously recommended by Play Magnus Group's board. After receiving regulatory and shareholder approval, the acquisition officially closed on December 16, 2022. By sheer coincidence, on the same day, Chess.com reached 100,000,000 members, another major milestone in the site's history.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-com-officially-acquires-play-magnus-carlsen-signs-as-ambassador",
-         "pubDate" : "Wed, 21 Dec 2022 18:02:57 +0000",
-         "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
-      },
-      {
-         "description" : "Chess.com, the world&#38;rsquo;s largest chess website, has acquired Play Magnus Group, a leading chess entertainment and education company. The proposed acquisition was initially announced on August 24, 2022&#38;nbsp;and was unanimously recommended by Pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-acquires-pmg",
-         "pubDate" : "Wed, 21 Dec 2022 09:59:00 -0800",
-         "title" : "Chess.com Officially Acquires Play Magnus, Carlsen Signs As Ambassador"
-      },
-      {
-         "description" : "Coming off winning his fifth consecutive Speed Chess Championship, GM Hikaru Nakamura&#39;s online blitz dominance may be at an all-time high. On December 20, he won both the early and late Titled Tuesday tournaments. He has now won three in a row a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-december-20-2022",
-         "pubDate" : "Wed, 21 Dec 2022 09:29:26 -0800",
-         "title" : "Nakamura Bests Carlsen, Firouzja To Sweep Another Titled Tuesday"
-      },
-      {
-         "description" : "We're pleased to be able to confirm that after a break of nearly four years the ECF are supporting the 4NCL in organising the 2023...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-championship/",
-         "pubDate" : "Wed, 21 Dec 2022 16:31:04 +0000",
-         "title" : "British Rapidplay Championship"
       }
    ]
 }
