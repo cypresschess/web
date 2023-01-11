@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions. 2023.01.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-jWbuf0ZWMw.jpg?itok=-0pMgztl\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection.<br /> Identify threats, look at candidate moves, avoid blunders, plan the &quot;big picture,&quot; and more. 2023.01.10<br /> C42 Petrov, Nimzovich attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown",
+         "pubDate" : "Wed, 11 Jan 2023 02:07:00 +0000",
+         "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov\"><img",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-koneru-humpy/",
          "pubDate" : "Fri, 30 Dec 2022 17:11:17 +0000",
          "title" : "Congratulations Koneru Humpy"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi looks back at the most important moments from the 1972 World Chess Championship match between Soviet champion Boris Spassky and American challenger Bobby Fischer. See what made Fischer's win so special, as a part of the World Chess Hall of Fame's \"1972 Fischer/Spassky: The Match, Its Origin, and Influence,\" on exhibit until April 30, 2023. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spassky-vs-fischer-72-critical-moments-grandmast",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/spassky-vs-fischer-72-critical-moments-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Fri, 30 Dec 2022 16:57:57 +0000",
-         "title" : "Spassky vs. Fischer '72: Critical Moments | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
          "description" : "Back in the mid-1990s, both Garry Kasparov and Anatoly Karpov -- bitter rivals at the time -- wrote separate columns for the USCF's <I>Chess Life</I> (CL). I mentioned Karpov's column in last week's post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022). <P>I've never studied these columns, even though they might contain interesting material for my <I>World Chess Championship</I> site (WCC; see link on the right). Following is a table overviewing the content of both columns. <P><TABLE BORDER CELLPADDING=\"1\" CELLSPACING=\"0\"> <TR> <TH>CL</TH> <TH>p.</TH> <TH>Title</TH> <TH>Notes</TH> </TR> <TR> <TD></TD> <TD></TD> <TD></TD>",
