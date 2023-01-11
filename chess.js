@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#39;s Clock app just got updated on iOS and Android. With more functionality, tons of useful presets, and an overall better design, the most popular chess clock app in the world got even better.&#38;nbsp; If you&#39;re on the go and have a chess s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-clock-app-update",
+         "pubDate" : "Wed, 11 Jan 2023 06:00:00 -0800",
+         "title" : "Chess.com's Clock App Just Got Updated With More Features And Better Design"
+      },
+      {
+         "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-final-day.html",
+         "pubDate" : "Wed, 11 Jan 2023 13:37:00 +0000",
+         "title" : "2023 Australian Open - Final Day"
+      },
+      {
          "description" : "On Saturday the first round of the Masters and Challengers will be played in the traditional Tata Steel Tournament in Wijk aan Zee. The 85th Wijk aan Zee tournament promises to be exciting: In the Masters young talents such as Gukesh, Erigaisi, Abdusattorov, Keymer and Praggnanandhaa meet experienced top players such as Carlsen, Ding, Caruana, Aronian and So, and the Challengers also offers an interesting line-up. | Photos: Website of Wijk aan Zee",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1616,14 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2145",
          "pubDate" : "Wed, 21 Dec 2022 16:27:07 +0000",
          "title" : "Taione Sikivou wins 2022 Vodafone Fiji Chess Championship"
-      },
-      {
-         "description" : " After another periodic update of my chess book collection, I decided to look at which authors were well represented in my collection. It may not come as a surprise that Fred Reinfeld is at the top of list, although this probably reflects the quantity, rather than quality of his work. Second place is GM Raymond Keene, again another prolific author. However the next two authors on my list are both prolific, but at least in my case, regularly read. GM John Nunn comes in third place with 19 books, and I usually have one or two of his books at hand (including one I was working with today). Close behind is Andrew Soltis (17), which reflects his recent publication record (it seems like a new book ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/who-am-i-reading.html",
-         "pubDate" : "Wed, 21 Dec 2022 13:00:00 +0000",
-         "title" : "Who am I reading?"
       }
    ]
 }
