@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Saturday the first round of the Masters and Challengers will be played in the traditional Tata Steel Tournament in Wijk aan Zee. The 85th Wijk aan Zee tournament promises to be exciting: In the Masters young talents such as Gukesh, Erigaisi, Abdusattorov, Keymer and Praggnanandhaa meet experienced top players such as Carlsen, Ding, Caruana, Aronian and So, and the Challengers also offers an interesting line-up. | Photos: Website of Wijk aan Zee",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-2023-the-youngest-wijk-tournament-of-all-time",
+         "pubDate" : "Wed, 11 Jan 2023 12:00:00 +0100",
+         "title" : "Tata Steel 2023: The \"youngest\" Wijk tournament of all time"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection.<br /> Identify threats, look at candidate moves, avoid blunders, plan the &quot;big picture,&quot; and more. 2023.01.10<br /> C42 Petrov, Nimzovich attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/",
          "pubDate" : "Tue, 10 Jan 2023 17:38:26 +0000",
          "title" : "Need sure points? QGD, Vienna Variation Edition"
+      },
+      {
+         "description" : "A new year means a look at the first FIDE rating list of the year. Let's follow the same cookbook instructions used last year. <P>1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2022/01/fide-rating-list-january-2022.html\">FIDE Rating List - January 2022</A>(13 January 2022) <P>2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A>(ratings.fide.com). <BLOCKQUOTE>STANDARD<BR>TXT format (06 Jan 2023, Sz: 8.98 MB) </BLOCKQUOTE> <P>3) Compare some basic counts over the past few years. <BLOCKQUOTE>2023: >405K players; >253K marked inactive<BR>2022: >377K players; >228K marked inactive<BR>2021: >362K pla",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html",
+         "pubDate" : "Tue, 10 Jan 2023 16:58:00 +0000",
+         "title" : "FIDE Rating List - January 2023"
       },
       {
          "description" : "In 1988 Vishy Anand became India's first grandmaster, but in recent years the number of Indian grandmasters has exploded. Next in line is 16-year-old Pranesh M, who dominated the traditional Rilton Cup in Stockholm, Sweden. That was enough to become the country's 79th grandmaster.",
@@ -1026,14 +1042,6 @@ news_feed (
          "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
       },
       {
-         "description" : "Black has a weak king and a weak back rank - but White's forced win from the diagram is also based on the a7 rook. You'll get it, I'm sure!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/long-distance-goal",
-         "pubDate" : "Sat, 31 Dec 2022 09:00:00 +0100",
-         "title" : "Long-distance goal"
-      },
-      {
          "description" : "Magnus Carlsen goes into 2023 as the Classical, Rapid and now Blitz World Champion for the 3rd time in his career, after finishing a point clear of Hikaru Nakamura (silver) and Haik Martirosyan (bronze). Bibisara Assaubayev delighted local fans by defending her Women's World Blitz title with a stunning last day comeback, bettered only by Humpy Koneru, who scored 7.5/8 to finish ahead of Polina Shuvalova (bronze).",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1616,22 +1624,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/who-am-i-reading.html",
          "pubDate" : "Wed, 21 Dec 2022 13:00:00 +0000",
          "title" : "Who am I reading?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2144",
-         "pubDate" : "Wed, 21 Dec 2022 12:02:47 +0000",
-         "title" : "Ivan Farago (1946-2022)"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women's sections. The Championships will be played in 9 rounds of the Swiss System. The time control will be 90 minutes for 40&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2023-official-invitation/",
-         "pubDate" : "Wed, 21 Dec 2022 10:03:21 +0000",
-         "title" : "European Senior Chess Championship 2023 - Official invitation"
       }
    ]
 }
