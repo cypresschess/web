@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Dorian Rogozenco had concluded his \"Classics\" series in ChessBase Magazine in summer last year, he started his new column \"Modern Classics\" in CBM #210 with a game Fischer-Petrosian from the 1971 Candidates Match. In CBM #211 he takes up the \"Special\" of the new issue and presents a brilliant game by Mikhail Tal. On the programme is the sixth game of the World Championship match from 1960 against Mikhail Botvinnik. You can watch an excerpt from Rogozenco's video analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/modern-classics-02-botvinnik-tal-1960",
+         "pubDate" : "Thu, 12 Jan 2023 15:00:00 +0100",
+         "title" : "Modern Classics #02: Botvinnik - Tal (1960)"
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/a-philosophical-question.html",
+         "pubDate" : "Thu, 12 Jan 2023 13:12:00 +0000",
+         "title" : "A Philosophical Question"
+      },
+      {
          "description" : "In Maxime Vachier-Lagrave's round-up of recent events a curiosity is noted at the end - he realised midway through his 1st game on the final day of the World Blitz that he'd forgotten to remove his watch. If spotted by an arbiter that would have meant an instant forfeit, of the game and potentially the tournament, but a \"highly unfocused\" Maxime went unpunished and ultimately made a draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-prodigies-and-mini-gms-update-2",
          "pubDate" : "Sun, 01 Jan 2023 13:00:00 +0100",
          "title" : "Chess prodigies and mini-GMs update"
-      },
-      {
-         "description" : "There are currently 40 female chess players worldwide who have been awarded the grandmaster title. Nine of them are Capricorn! Then there were the two legendary elite players Paul Keres, and world champion Emanuel Lasker. Capricorn doesn't mess around, works hard and never gives up. That's why his strategy seems easy to see through, but there's a lot more to it than that. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/capricorn-and-their-strategy",
-         "pubDate" : "Sun, 01 Jan 2023 12:00:00 +0100",
-         "title" : "Capricorn and their Strategy"
       },
       {
          "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
