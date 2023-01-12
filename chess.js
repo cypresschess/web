@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1b6vPZfcEME.jpg?itok=XSnT8QBf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opening-prep-game-prepare-pro-gm-igor-novikov",
+         "pubDate" : "Thu, 12 Jan 2023 20:09:02 +0000",
+         "title" : "Opening Prep Before the Game | Prepare Like A Pro - GM Igor Novikov"
+      },
+      {
+         "description" : "In his \"Fast & Furious\" show Robert Ris presents a relatively new idea in the Queen's Gambit Declined. The provocative move Robert discusses has brought a number of successes. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-idea-in-the-queen-s-gambit-declined",
+         "pubDate" : "Thu, 12 Jan 2023 20:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A new idea in the Queen's Gambit Declined"
+      },
+      {
+         "description" : "The 85th jubilee edition of the Tata Steel Chess will be held from 13-29 January in Wijk aan Zee. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is headlined by World Chess Champion Magnus Carlsen. The participants are: Magnus Carlsen&#160;(NOR, 2859) Ding Liren&#160;(CHN, 2811) Fabiano Caruana&#160;(USA, 2766) Anish Giri&#160;(NED, 2764) Wesley&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tata-steel-chess-2023/",
+         "pubDate" : "Thu, 12 Jan 2023 17:26:11 +0000",
+         "title" : "Tata Steel Chess 2023"
+      },
+      {
+         "description" : "Luckily, we will probably never run out of good games played! With the new ChessBase 17 function to find beautiful games, it is even easier than ever, to find some tremendous tactics. Svitlana reviews a couple of games, and lets us guess the right move. If you remember the games, you will have an easier time finding them. Wesley So's game, was surely the most spectacular game, against Hrant Melkumyan. But also the often overseen game between Can and Maghsoodloo was quite phenomenal.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2022",
+         "pubDate" : "Thu, 12 Jan 2023 18:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Smartest moves of 2022"
+      },
+      {
+         "description" : "The 20th edition of the Delhi International Open has been postponed due to the spread of Covid19 virus in India. The event will likely be conducted in March 2023 instead of the initially announced dates in January 2023. &#8220;Considering the advisory of Indian Medical Association as well as suggestion from local administration for having social []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/20th-delhi-international-open-postponed/",
+         "pubDate" : "Thu, 12 Jan 2023 16:59:17 +0000",
+         "title" : "20th Delhi International Open postponed"
+      },
+      {
          "description" : "After Dorian Rogozenco had concluded his \"Classics\" series in ChessBase Magazine in summer last year, he started his new column \"Modern Classics\" in CBM #210 with a game Fischer-Petrosian from the 1971 Candidates Match. In CBM #211 he takes up the \"Special\" of the new issue and presents a brilliant game by Mikhail Tal. On the programme is the sixth game of the World Championship match from 1960 against Mikhail Botvinnik. You can watch an excerpt from Rogozenco's video analysis here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,6 +312,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
          "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
          "title" : "2023 Australian Open - Day 8"
+      },
+      {
+         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/",
+         "pubDate" : "Tue, 10 Jan 2023 00:00:17 +0000",
+         "title" : "300 Most Important Chess Exercises"
       },
       {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. In fifth place is US grandmaster Hans Niemann. Chess blew up in mainstream media after Magnus Carlsen implicitly accused Niemann of cheating. But that did not prevent the Californian from continuing his rapid ascent in classical chess, as he broke the 2700-barrier for the first time (in an official FIDE ratings list) just this month! | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -666,14 +714,6 @@ news_feed (
          "title" : "Top juniors in 2022: Alireza Firouzja"
       },
       {
-         "description" : "The Lower Saxony Championship C is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Philipp Golke, Lev Nechytailo, Dirk Bischop, Finja []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lower-saxony-championship-c-2023-live/",
-         "pubDate" : "Thu, 05 Jan 2023 19:49:28 +0000",
-         "title" : "Lower Saxony Championship C 2023 - LIVE"
-      },
-      {
          "description" : "While I was researching the latest post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/01/1994-sanghi-nagar.html\">1994 Sanghi-Nagar</A>(January 2023), I rediscovered a photo published in <I>Chess Life</I>, September 1994. The photo was one of several ('Photographs by Bill Hook and Kevin Dyke') that illustrated the tournament report by GM Patrick Wolff titled, 'Kamsky Crushes Kramnik, Advances to Semi Final in Spain'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na05.jpg\" WIDTH=400 HEIGHT=330> <P>The Wolff article started, <BLOCKQUOTE>The Intel World Chess Championship Quarterfinal Matches, organized under the auspices of the Professi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -824,14 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown-lichessorg",
          "pubDate" : "Tue, 03 Jan 2023 20:00:59 +0000",
          "title" : "Forcing Moves Revisited | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov shows his longest analysis ever, beginning from the opening tabia and lasting until the end of the game. 2023.01.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-analysis-pre-computer-times-grandmasters-choice-gm-igor-novikov-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yquXNVOaR8U.jpg?itok=NLsTy-IC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-analysis-pre-computer-times-grandmasters-choice-gm-igor-novikov-lichessorg",
-         "pubDate" : "Tue, 03 Jan 2023 20:00:59 +0000",
-         "title" : "Chess Analysis in Pre-Computer Times | Grandmaster's Choice - GM Igor Novikov | lichess.org"
       },
       {
          "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
@@ -1040,22 +1072,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
          "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
          "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 106th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game that every chess player should know and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-106-a-remarkable-plan-in-the-hedgehog",
-         "pubDate" : "Sun, 01 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 106: A remarkable plan in the hedgehog"
-      },
-      {
-         "description" : "We have been trying to keep track of incredible playing strength and title wins at a very early age. It started with Capablanca and Reshevsky, and today we are seeing full grandmasters aged thirteen - and in two cases even just twelve! Most recently it was Abhimanyu Mishra who achieved the title at twelve years and just under five months. It is time to update our prodigy page, with better graphics and a few telling graphs. We also invite our readers to contribute.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-prodigies-and-mini-gms-update-2",
-         "pubDate" : "Sun, 01 Jan 2023 13:00:00 +0100",
-         "title" : "Chess prodigies and mini-GMs update"
       },
       {
          "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
