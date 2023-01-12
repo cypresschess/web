@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In Maxime Vachier-Lagrave's round-up of recent events a curiosity is noted at the end - he realised midway through his 1st game on the final day of the World Blitz that he'd forgotten to remove his watch. If spotted by an arbiter that would have meant an instant forfeit, of the game and potentially the tournament, but a \"highly unfocused\" Maxime went unpunished and ultimately made a draw.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/mvl-narrowly-avoided-forfeit-at-world-blitz-championship",
+         "pubDate" : "Thu, 12 Jan 2023 12:03:53 +0000",
+         "title" : "MVL narrowly avoided forfeit at World Blitz Championship"
+      },
+      {
+         "description" : "On January 8, the FIDE Online Arena played host to the latest round of the Armageddon Online Final: Europe & Africa, a competitive online chess tournament that saw top grandmasters as well as amateurs players from across the continent compete for an unprecedented prize fund of €10,000.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/matthias-bluebaum-and-alexander-donchenko-win-armageddon-online-final-europe-africa",
+         "pubDate" : "Thu, 12 Jan 2023 13:00:00 +0100",
+         "title" : "Matthias Bluebaum and Alexander Donchenko win Armageddon Online Final: Europe & Africa"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #550 Merijn van Delft looks at a crucial game of the young Indian player Pranesh M, who just won the Rilton Cup, a success which earned him the grandmaster title. In the last round of the Rilton Cup Pranesh came to a fine win with Black against Frode Urkedal. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-550-f-urkedal-vs-pranesh-m",
+         "pubDate" : "Thu, 12 Jan 2023 11:25:32 +0100",
+         "title" : "Game of the Week #550: F. Urkedal vs Pranesh M"
+      },
+      {
+         "description" : "The 2023 European Amateur Chess Championship will be held from 16th-26th April 2023 in ClubEsse Posada Beach Resort 4*, Palau - Sardinia, Italy. The event will be played in three rating categories: U1700, U2000 and U2300. In each rating section, a separate championship for women shall be organized only if there are at least 10 women entries otherwise&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/",
+         "pubDate" : "Thu, 12 Jan 2023 09:27:43 +0000",
+         "title" : "European Amateur Chess Championship 2023 - Official regulations"
+      },
+      {
+         "description" : "Belgrade, Serbia will host the Chess Olympiad for People with Disabilities, which will take from January 29 to February 5, 2023. The tournament will be played with a maximum of 30 teams and is a 7-round Swiss tournament. So far, 21 teams have registered. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/belgrade-to-host-chess-olympiad-for-people-with-disabilities",
+         "pubDate" : "Thu, 12 Jan 2023 09:49:07 +0100",
+         "title" : "Belgrade to host Chess Olympiad for People with Disabilities"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1018,14 +1058,6 @@ news_feed (
          "title" : "Cat Bots: The Purrfect Way To Start The Year"
       },
       {
-         "description" : "Turko-Mongol ruler Timur was appreciative of the arts and culture. The emperor was as fierce, cruel and ambitious as his predecessor, Genghis Khan. However, apart from his soft spot for the arts, he had one more peculiar weakness: chess. It is said that he even invented a chess variant called 'Tamerlane Chess'. Diana Mihajlova tells us more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-new-wave-of-chess-stars-part-3",
-         "pubDate" : "Sun, 01 Jan 2023 07:00:00 +0100",
-         "title" : "A new wave of chess stars (III)"
-      },
-      {
          "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1040,22 +1072,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/",
          "pubDate" : "Sat, 31 Dec 2022 19:46:56 +0000",
          "title" : "Ortega is Cape Verde's 2022 Chess Champion"
-      },
-      {
-         "description" : "64 squares. For some they mean the world. In the past month, the World Congress for Chess Composition was held, as I quickly reported. Among the new books there was also the FIDE Album 2016-2018 (for a history of the FIDE Albums see our September 2019 article) | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-best-of-fide-album-2016-2018",
-         "pubDate" : "Sat, 31 Dec 2022 20:00:00 +0100",
-         "title" : "Study of the Month - Best of... FIDE Album 2016-2018"
-      },
-      {
-         "description" : "As a tumultuous year is about to end, let us highlight three tournaments that were particularly impactful in the world of chess. Granted, this list does not intend to be all-encompassing, but it features three events that are sure to be remembered for many years to come: the Candidates Tournament in Madrid, the Chess Olympiad in Chennai and the Sinquefield Cup in Saint Louis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/year-in-review-elite-circuit-2022",
-         "pubDate" : "Sat, 31 Dec 2022 17:00:00 +0100",
-         "title" : "Three tournaments that marked the 2022 elite chess circuit"
       },
       {
          "description" : " The clock has just moved past midnight here in Canberra, so welcome to 2023. I suspect this year will continue to see chess getting back to a more normal state, although there may be a few hic-ups along the way. For me, the first chess activity of 2023 starts tomorrow (2nd January). I am off to the <a href=\"https://sites.google.com/view/2023ausopen/home\">2023 Australian Open</a> in Perth. This is the first proper Australian Championship/Open since Sydney 2020, and the organisers have done very well in attracting a strong international field. After the the 2023 Oceania Zonal in Melbourne is likely to be my next port of call, before spending a couple of months busy with the organisation of th",
