@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2170",
+         "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
+         "title" : "Pranesh M leads FIDE Circuit race"
+      },
+      {
+         "description" : "Are You Ready for #TataSteelChess? Tata Steel Chess Tournament 2023 is about to take off! Who will be crowned as the 85th Tata Steel Chess Tournament Champion? The 85th edition of the Tata Steel Chess Masters&#xA0;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-official-teaser/",
+         "pubDate" : "Wed, 11 Jan 2023 21:44:09 +0000",
+         "title" : "Tata Steel Chess 2023 - Official Teaser"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-starts-on-saturday/",
+         "pubDate" : "Wed, 11 Jan 2023 21:34:07 +0000",
+         "title" : "Tata Steel Chess 2023 starts on Saturday"
+      },
+      {
+         "description" : "The World&#x2019;s Elite Grandmasters Will Compete for a $1.4M Pursein Five Over The Board Events During the 2023 Season Saint Louis, MO (Monday, January 9, 2023) &#x2013; The Grand Chess Tour (GCT), a circuit of international events, each demonstrating the highest level of organization for the world's best players, will return again in 2023. Tour []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-grand-chess-tour-returns-in-2023/",
+         "pubDate" : "Wed, 11 Jan 2023 21:04:36 +0000",
+         "title" : "The Grand Chess Tour returns in 2023"
+      },
+      {
+         "description" : "The International Chess Federation announced the continuation of its support to chess veterans. A number of grants will be awarded next month&#xA0;to distinguished players, coaches and organizers aged 65+. Anyone over this age who has contributed to the development of chess and who is in an unstable financial situation is eligible to submit an application. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-veterans-support-program/",
+         "pubDate" : "Wed, 11 Jan 2023 20:21:00 +0000",
+         "title" : "FIDE Veterans Support Program"
+      },
+      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. The second-youngest in the list - only older than Gukesh - is Praggnanandhaa. In 2022, the 17-year-old faced both ambitious rising stars (in open events) and the very best in the world (mostly online). And he excelled in both types of tournaments! | Photo: Alina l'Ami",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +96,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown",
          "pubDate" : "Wed, 11 Jan 2023 02:07:00 +0000",
          "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
+      },
+      {
+         "description" : "Due to personal reasons, Jan-Krzysztof Duda has withdrawn from Tata Steel Masters 2023. Duda will be replaced by 2719 rated Parham Maghsoodloo (22) from Iran. Maghsoodloo is the current number-29 on the world ranking list. Maghsoodloo is the 2018 Junior&#xA0;World&#xA0;Champion and played earlier in the Tata Steel Challengers in 2019. He will now make his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jan-krzysztof-duda-withdraws-from-tata-steel-chess-masters-2023/",
+         "pubDate" : "Tue, 10 Jan 2023 21:40:00 +0000",
+         "title" : "Jan-Krzysztof Duda withdraws from Tata Steel Chess Masters 2023"
+      },
+      {
+         "description" : "Belgrade, Serbia will host the Chess Olympiad for People with Disabilities, which will take from January 29 to February 5, 2023.&#xA0; This is a team competition, played over four boards, and limited to a maximum of 30 participant teams: 27 teams are selected by rating, and four are&#xA0;nominated by the FIDE President. If there is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-olympiad-for-people-with-disabilities-to-take-place-in-belgrade-serbia/",
+         "pubDate" : "Tue, 10 Jan 2023 21:20:00 +0000",
+         "title" : "Chess Olympiad for People with Disabilities to take place in Belgrade, Serbia"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
@@ -562,38 +618,6 @@ news_feed (
          "title" : "Lower Saxony Championship C 2023 - LIVE"
       },
       {
-         "description" : "The Lower Saxony Championship B is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of Maik Maul, Ruben Korb, Hannes Dralle, Christian Axt, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lower-saxony-championship-b-2023-live/",
-         "pubDate" : "Thu, 05 Jan 2023 19:44:01 +0000",
-         "title" : "Lower Saxony Championship B 2023 - LIVE"
-      },
-      {
-         "description" : "The Lower Saxony Championship A is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Siegfried Loecken, Juergen Hesse, Steffen Schumann, Oliver []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lower-saxony-championship-a-2023-live/",
-         "pubDate" : "Thu, 05 Jan 2023 19:38:36 +0000",
-         "title" : "Lower Saxony Championship A 2023 - LIVE"
-      },
-      {
-         "description" : "The Lower Saxony Championship Masters is taking place from 5&#x2013;8 January 2023 in Verden. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 7-round Swiss tournament with participation of David Riemay, Torben Knuedel, Moritz Gentemann, Philip Reimer, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lower-saxony-championship-masters-2023-live/",
-         "pubDate" : "Thu, 05 Jan 2023 19:33:16 +0000",
-         "title" : "Lower Saxony Championship Masters 2023 - LIVE"
-      },
-      {
-         "description" : "The 32nd Keres Memorial is taking place from 7&#x2013;8 January 2023 in Tallinn, Estonia. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one.&#xA0;It is an 11-round Swiss tournament with participation of Daniel Fridman, Yuriy Kuzubov, Tomi Nyback, Nikita Meshkovs, Paulius Pultinevicius, Vitaliy Bernadskiy, Sergey Grigoriants, Jaan Ehlvest, Kaido []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/32nd-keres-memorial-2023-live/",
-         "pubDate" : "Thu, 05 Jan 2023 19:26:52 +0000",
-         "title" : "32nd Keres Memorial 2023 - LIVE"
-      },
-      {
          "description" : "While I was researching the latest post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/01/1994-sanghi-nagar.html\">1994 Sanghi-Nagar</A>(January 2023), I rediscovered a photo published in <I>Chess Life</I>, September 1994. The photo was one of several ('Photographs by Bill Hook and Kevin Dyke') that illustrated the tournament report by GM Patrick Wolff titled, 'Kamsky Crushes Kramnik, Advances to Semi Final in Spain'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na05.jpg\" WIDTH=400 HEIGHT=330> <P>The Wolff article started, <BLOCKQUOTE>The Intel World Chess Championship Quarterfinal Matches, organized under the auspices of the Professi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -648,22 +672,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-3.html",
          "pubDate" : "Thu, 05 Jan 2023 02:36:00 +0000",
          "title" : "2023 Australian Open - Day 3"
-      },
-      {
-         "description" : "The 82nd Georgian Championship is taking place from 4&#x2013;13 January 2023 in Tbilisi, Georgia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Merab Gagunashvili, Mikheil Mchedlishvili, Nikolozi Kacharava, Luka Paichadze, Giga Quparadze, Tornike Sanikidze, Gaioz Nigalidze, Davit Maghalashvili, Noe []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/82nd-georgian-championship-2023-live/",
-         "pubDate" : "Wed, 04 Jan 2023 20:05:33 +0000",
-         "title" : "82nd Georgian Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Australian Open 2023 is taking place from 2-10 January 2023 in Rendezvous Hotel Perth Scarborough, Australia. It is an 11-rounds Swiss system tournament with participation of Jingyao Tin, Temur Kuybokarov, James Morris, Darryl K Johansen, Christopher Wallis, Thi Kim Phung Vo, Yi Liu, Patric Gong, Dusan Stojic, William Jordan, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/australian-open-2023-live/",
-         "pubDate" : "Wed, 04 Jan 2023 20:00:46 +0000",
-         "title" : "Australian Open 2023 - LIVE"
       },
       {
          "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/",
          "pubDate" : "Fri, 23 Dec 2022 00:10:45 +0000",
          "title" : "The Exchange Sacrifice according to Tigran Petrosian"
-      },
-      {
-         "description" : "World Chess Champion Magnus Carlsen talked to Chess.com CCO Danny Rensch for 25 minutes during a landmark State of Chess.com broadcast. Magnus, the figurehead of the Play Magnus Group, talked about joining Chess.com, but also many other topics, including the future of the game, his ambitions and why Alireza Firouzja stands out from the crowd.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-i-love-playing-that-s-all-the-ambition-i-really-need",
-         "pubDate" : "Wed, 21 Dec 2022 22:16:46 +0000",
-         "title" : "Magnus: \"I love playing, that's all the ambition I really need!\""
       }
    ]
 }
