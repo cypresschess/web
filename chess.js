@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
-         "pubDate" : "Wed, 11 Jan 2023 09:08:07 -0800",
+         "pubDate" : "Wed, 11 Jan 2023 09:08:00 -0800",
          "title" : "Multiple Decisive Tournament Victories Tuesday"
       },
       {
