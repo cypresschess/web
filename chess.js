@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3-first-rapid-event-on-sunday-15th-january/",
+         "pubDate" : "Fri, 13 Jan 2023 15:18:45 +0000",
+         "title" : "2023 ECF Online Grand (Prix Series 3) - First Rapid Event on Sunday 15th January"
+      },
+      {
+         "description" : "The traditional Tata Steel international invitation tournament series, annually ongoing since the year 1938, held in Wijk aan Zee and earlier in Beverwijk, is a highlight in the calendar of classical chess. Eduard Frey presents funny Trivia from the rich history of this remarkable tournament. | Photo: Playing Hall, Organiser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-tata-steel-tournament-series-the-wimbledon-of-chess",
+         "pubDate" : "Fri, 13 Jan 2023 16:00:00 +0100",
+         "title" : "Ten Trivia about the Tata Steel Tournament series, the Wimbledon of Chess"
+      },
+      {
+         "description" : " The U.S. Chess Federation continues bolstering its staff with the addition of Danielle Little as Program Director for Women and At-Risk Youth. After hiring Howard alumnus Emmanuel London and Chicago resident J.J. Lang last fall, they added Little, which adds another element to outreach initiatives for U.S. Chess. According to an article featuring her work The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/13/u-s-chess-hires-danielle-little/\">U.S. Chess hires Danielle Little!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/13/u-s-chess-hires-danielle-little/",
+         "pubDate" : "Fri, 13 Jan 2023 14:36:31 +0000",
+         "title" : "U.S. Chess hires Danielle Little!"
+      },
+      {
+         "description" : " Just an interesting game from the 1950's that I cam across. I don't have any details for it, but it does end a curious perpetual check, where each side is putting the other side in check. BTW If you play this line for Black, note that White wins with 8.Nc3! <br /> <b>White - Black [C41]</b><br />1955 <script>new PgnViewer( { boardName: \"game1375\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 h6 5.dxe5 dxe5 6.Bxf7+ Kxf7 7.Nxe5+ Kf6 8.Qf3+ Kxe5 9.Qf7 Ngf6 10.Nd2 Qe8 11.Nc4+ Kxe4 12.f3+ Kf5+ 13.Ne3+ Ke5 14.Nc4+ Kf5+ 1/2-1/2', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1375-container\"></div><div id=\"game1375-moves\"></div><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/perpetually-checked.html",
+         "pubDate" : "Fri, 13 Jan 2023 13:08:00 +0000",
+         "title" : "Perpetually Checked"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1026,14 +1058,6 @@ news_feed (
          "title" : "FIDE ratings January 2023"
       },
       {
-         "description" : "For Magnus Carlsen, 2022 ended well: in the last week of the year he first won the World Rapid and then the World Blitz Championship. In an interview with Sagar Shah Carlsen spoke about the pleasure of winning both titles, explained interesting moments from the games he played in the two tournaments and talked about his plans for 2023. | Photo: Screenshot from the interview",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-world-championship-titles-in-five-days-an-interview-with-magnus-carlsen",
-         "pubDate" : "Mon, 02 Jan 2023 10:27:10 +0100",
-         "title" : "Two World Championship titles in five days - an interview with Magnus Carlsen"
-      },
-      {
          "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1592,30 +1616,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/alekseenko-wins-sitges-niemann-over-2700",
          "pubDate" : "Fri, 23 Dec 2022 20:01:17 +0000",
          "title" : "Alekseenko wins Sitges, Niemann over 2700"
-      },
-      {
-         "description" : "In the recent post, <A HREF=\"http://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A>(December 2022), I highlighted a SmartChess.com press release:- <BLOCKQUOTE>An earlier press release, titled 'A Press Release by Anatoly Karpov' and dated 18 December 1996, had stated, \"<B>Statement by Anatoly Karpov:</B> In the opening paragraphs of my January 1997 \"Grandmasters Musings\" column (in Chess Life), I briefly mentioned one of my recent involvements in chess on the Internet in which I appeared as a guest of Chess.net, a company of which I recently became a shareholder. [...] I would also like to mention that I am a frequent guest lecturer at the superb Interne",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html",
-         "pubDate" : "Fri, 23 Dec 2022 16:01:00 +0000",
-         "title" : "Wayback to Chess.net"
-      },
-      {
-         "description" : "The FIDE World Rapid and Blitz Chess Championship 2023 opens on Friday, December 25th in Almaty, Kazakhtstan. The event will be held from 25-30 December at the Baluan Sholak Palace of culture and sports. The Open and Women's competitions are held separately, with around 180 players in the Open events and 100 players in the Women's events. The&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-kazakhstan/",
-         "pubDate" : "Fri, 23 Dec 2022 13:42:58 +0000",
-         "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Kazakhstan"
-      },
-      {
-         "description" : " I saw a suggestion from Magnus Carlsen that the future of chess is fast time limits and online events. Call me old fashioned but I hope this is not going to be the case. My main objection is obviously aesthetic, in that higher quality games are played at slower time limits, but the other is more practical. If the events are played online, new players will struggle to get a look in, Why? Because without an existing OTB track record, there will be an assumption that they are cheating. And if there is a decline in OTB events, where will they get this track record? Combine this with the fact that fast chess leads to more superficial styles of play, then even if they start with OTB blitz and rap",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/call-me-old-fashioned.html",
-         "pubDate" : "Fri, 23 Dec 2022 13:14:00 +0000",
-         "title" : "Call me old fashioned"
       }
    ]
 }
