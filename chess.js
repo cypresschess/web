@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A ninth success at the 'chess Wimbledon' could kickstart a new attempt by the No 1 to reach a landmark 2900 rating Magnus Carlsen versus the young guns at Wijk starts on Saturday, when the opening round (of 13) of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee gets under way at the windswept Dutch village. Carlsen, 32, the triple world champion at classical, rapid and blitz, takes on a grandmaster field which includes five teenagers - three from India, one each from Germany and Uzbekistan - all with dreams of dethroning the Norwegian. Carlsen's own top priorities are to win Wijk for a record ninth time, see off the challenge from Generation Z, and hopefully to kickstart another attempt to",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jan/13/chess-carlsen-takes-on-young-guns-at-wijk-as-world-champion-eyes-record",
+         "pubDate" : "Fri, 13 Jan 2023 08:00:10 +0000",
+         "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
+      },
+      {
          "description" : "The 78th Armenian Women's Championship Highest League is taking place from 13&#x2013;21 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Maria Gevorgyan, Susanna Gaboyan, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1608,30 +1616,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
          "pubDate" : "Fri, 23 Dec 2022 13:49:00 +0400",
          "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
-      },
-      {
-         "description" : " The world No 1 lost by a minimal margin, 14.5-13.5, to the former US champion and popular streamer before the pair headed for the World Rapid and Blitz in Kazakhstan starting this weekend The long standing and evenly matched online rivalry between Magnus Carlsen and Hikaru Nakamura took another twist on Sunday when the five-time US champion and popular streamer edged out Norway's world No 1 14.5-13.5 in the $100,000 <a href=\"https://www.chess.com/\">chess.com</a> speed championship final. The event, a four-hour mix of 5/1 and 3/1 blitz and 1/1 bullet, is a marathon test of fast reactions, creativity, and resourcefulness under extreme and constant time pressure, and this pair have monopolised",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/23/chess-carlsen-edged-out-by-hikaru-nakamura-in-online-speed-final-epic",
-         "pubDate" : "Fri, 23 Dec 2022 08:00:03 +0000",
-         "title" : "Chess: Carlsen edged out by Hikaru Nakamura in online speed final epic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2147",
-         "pubDate" : "Fri, 23 Dec 2022 07:55:36 +0000",
-         "title" : "Rilton Cup announces cooperation with FIDE's Fair Play Commission"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2146",
-         "pubDate" : "Fri, 23 Dec 2022 07:24:52 +0000",
-         "title" : "FIDE Executive Director visits the Maldives"
       }
    ]
 }
