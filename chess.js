@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "8-time Wijk aan Zee Champion Magnus Carlsen will play 4-time Champion Levon Aronian as the Tata Steel Masters begins on Saturday, January 14th. We've also got Caruana-Giri, Gukesh-Ding and Praggnanandhaa-Erigaisi in Round 1 as the year 2023 in chess really begins. Laurent Fressinet and Peter Svidler will be commentating here on chess24, with David Howell replacing Laurent for Round 3 onwards.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-aronian-in-tata-steel-masters-round-1",
+         "pubDate" : "Fri, 13 Jan 2023 22:13:27 +0000",
+         "title" : "Carlsen-Aronian in Tata Steel Masters Round 1"
+      },
+      {
+         "description" : "The PRO Chess League (PCL) returns on February 1 with a $110,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
+         "pubDate" : "Fri, 13 Jan 2023 13:44:56 -0800",
+         "title" : "2023 PRO Chess League Begins With February 1 Qualifier, Main Event February 14"
+      },
+      {
+         "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty/",
+         "pubDate" : "Fri, 13 Jan 2023 18:50:07 +0000",
+         "title" : "A Foundation for Beginners Eighty"
+      },
+      {
+         "description" : " The 85th Tata Steel chess tournament starts on 14th January and runs until Sun 29th. Magnus Carlsen will be there, Ding Liren, Fabiano Caruana, Anish Giri, Wesley So, Richard Rapport and Lvon Aronian will be there as will Jorden van Foreest the surprise winner in 2021. D Gukesh, Arjun Erigaisi, Parham Maghsoodloo, Nodirbek Abdusattorov, Vincent Keymer and R Praggnanandhaa make up the rest of the field, young and ambitious players most of who play a lot of strong online blitz chess too. The Challengers event has been artfully constructed too, this should be a tremendous event.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023",
+         "pubDate" : "Fri, 13 Jan 2023 19:49:00 +0400",
+         "title" : "85th Tata Steel 2023 - Games and Results"
+      },
+      {
          "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1600,22 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2149",
          "pubDate" : "Sat, 24 Dec 2022 08:46:00 +0000",
          "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2150",
-         "pubDate" : "Fri, 23 Dec 2022 21:55:07 +0000",
-         "title" : "Brazilian Championship: Fier and Terao win titles"
-      },
-      {
-         "description" : "Kirill Alekseenko won the first 7 games and the drew the final 3 to claim clear first place in the Chessable Sunway Sitges Open with 8.5/10. It came down to the wire as Hans Niemann had winning chances against Kirill in the final round, but his 8/10 means he'll now officially be a 2700 player on January 1st. Amin Tabatabaei lost out to Hans in a tiebreak for 3rd, but still stormed back after forfeiting the 1st game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/alekseenko-wins-sitges-niemann-over-2700",
-         "pubDate" : "Fri, 23 Dec 2022 20:01:17 +0000",
-         "title" : "Alekseenko wins Sitges, Niemann over 2700"
       }
    ]
 }
