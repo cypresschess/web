@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Azerbaijan Championship will be held in Baku from 13 to 26 January 2022. Players receive 90 minutes for the first 40 moves and then 30 minutes until the end of the game, plus a 30-second increment starting from move one. The championship will be held in two stages. At the first stage, participants compete []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-championship-2023-live/",
+         "pubDate" : "Thu, 12 Jan 2023 22:44:00 +0000",
+         "title" : "Azerbaijan Championship 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Thursday, January 12, 2023) - </strong>The Saint Louis Chess Club has announced their 2023 tournament calendar that will include national, international, and local tournament opportunities for spectators and chess players alike. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-announces-2023-tournament-calendar",
+         "pubDate" : "Thu, 12 Jan 2023 21:44:38 +0000",
+         "title" : "Saint Louis Chess Club Announces 2023 Tournament Calendar"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1b6vPZfcEME.jpg?itok=XSnT8QBf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -498,14 +514,6 @@ news_feed (
          "title" : "New series \"Fundamental Endgame Knowledge\" - Part 1: Rook vs. pawn"
       },
       {
-         "description" : "The Faouzi Abdellatif Memorial is taking place from 7&#x2013;8 January 2023 in Casablanca, Morocco. Players receive 15 minutes for the entire game, plus a 5-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jean-Pierre Le Roux, Mokliss El Adnani, Ilyass Msellek, Yasser Hadj Kholti, Chafik Idrissi, Nicolas Dubreuil, Abdessadek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faouzi-abdellatif-memorial-2023-live/",
-         "pubDate" : "Sat, 07 Jan 2023 13:43:33 +0000",
-         "title" : "Faouzi Abdellatif Memorial 2023 - LIVE"
-      },
-      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
          "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
          "title" : "2022 Chess.com Awards Winners"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on forcing moves. 2023.01.03 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/forcing-moves-revisited-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5pWk1JZR19s.jpg?itok=KeqfskTW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 03 Jan 2023 20:00:59 +0000",
-         "title" : "Forcing Moves Revisited | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
@@ -1632,14 +1632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2146",
          "pubDate" : "Fri, 23 Dec 2022 07:24:52 +0000",
          "title" : "FIDE Executive Director visits the Maldives"
-      },
-      {
-         "description" : " From the rear cover : &#8220;Tigran Petrosian, the ninth world chess champion, was one of the deepest thinkers the chess world has ever seen. His handling of complex positions was <a href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Exchange Sacrifice according to Tigran Petrosian</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/\">The Exchange Sacrifice according to Tigran Petrosian</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessn",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/12/23/the-exchange-sacrifice-according-to-tigran-petrosian/",
-         "pubDate" : "Fri, 23 Dec 2022 00:10:45 +0000",
-         "title" : "The Exchange Sacrifice according to Tigran Petrosian"
       }
    ]
 }
