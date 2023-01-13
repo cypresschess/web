@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 78th Armenian Women's Championship Highest League is taking place from 13&#x2013;21 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Maria Gevorgyan, Susanna Gaboyan, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/78th-armenian-womens-championship-highest-league-2023-live/",
+         "pubDate" : "Fri, 13 Jan 2023 04:13:54 +0000",
+         "title" : "78th Armenian Women's Championship Highest League 2023 - LIVE"
+      },
+      {
+         "description" : "The 83rd Armenian Championship Highest League is taking place from 13&#x2013;21 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Manuel Petrosyan, Aram Hakobyan, Samvel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/83rd-armenian-championship-highest-league-2023-live/",
+         "pubDate" : "Fri, 13 Jan 2023 04:09:21 +0000",
+         "title" : "83rd Armenian Championship Highest League 2023 - LIVE"
+      },
+      {
+         "description" : "The 2022-23 edition of the German Bundesliga kicked off on October 22 last year and is set to finish on April 30. All 16 teams have played at least four rounds, but 10 of them have brought forward their round-7 matches. Three squads won all their confrontations: SG Solingen, OSG Baden-Baden and SC Viernheim. The next three rounds are scheduled for February 2-4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2023-r4",
+         "pubDate" : "Fri, 13 Jan 2023 03:40:00 +0100",
+         "title" : "Three teams still perfect in the German Bundesliga"
+      },
+      {
          "description" : "The Azerbaijan Championship will be held in Baku from 13 to 26 January 2022. Players receive 90 minutes for the first 40 moves and then 30 minutes until the end of the game, plus a 30-second increment starting from move one. The championship will be held in two stages. At the first stage, participants compete []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Saint Louis Chess Club Announces 2023 Tournament Calendar"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1b6vPZfcEME.jpg?itok=XSnT8QBf\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12<br /> Shelby D Getz vs Igor Novikov, US Senior Championship (2020): A00 Anderssen&#039;s opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2011429\">https://www.chessgames.com/perl/chessgame?gid=2011429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-prep-game-prepare-pro-gm-igor-novikov",
@@ -42,6 +66,14 @@ news_feed (
          "title" : "Tata Steel Chess 2023"
       },
       {
+         "description" : "After Dorian Rogozenco had concluded his \"Classics\" series in ChessBase Magazine in summer last year, he started his new column \"Modern Classics\" in CBM #210 with a game Fischer-Petrosian from the 1971 Candidates Match. In CBM #211 he takes up the \"Special\" of the new issue and presents a brilliant game by Mikhail Tal. On the programme is the sixth game of the World Championship match from 1960 against Mikhail Botvinnik. You can watch an excerpt from Rogozenco's video analysis here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/modern-classics-02-botvinnik-tal-1960",
+         "pubDate" : "Thu, 12 Jan 2023 18:05:00 +0100",
+         "title" : "Modern Classics #02: Botvinnik - Tal (1960)"
+      },
+      {
          "description" : "Luckily, we will probably never run out of good games played! With the new ChessBase 17 function to find beautiful games, it is even easier than ever, to find some tremendous tactics. Svitlana reviews a couple of games, and lets us guess the right move. If you remember the games, you will have an easier time finding them. Wesley So's game, was surely the most spectacular game, against Hrant Melkumyan. But also the often overseen game between Can and Maghsoodloo was quite phenomenal.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://www.chessdom.com/20th-delhi-international-open-postponed/",
          "pubDate" : "Thu, 12 Jan 2023 16:59:17 +0000",
          "title" : "20th Delhi International Open postponed"
-      },
-      {
-         "description" : "After Dorian Rogozenco had concluded his \"Classics\" series in ChessBase Magazine in summer last year, he started his new column \"Modern Classics\" in CBM #210 with a game Fischer-Petrosian from the 1971 Candidates Match. In CBM #211 he takes up the \"Special\" of the new issue and presents a brilliant game by Mikhail Tal. On the programme is the sixth game of the World Championship match from 1960 against Mikhail Botvinnik. You can watch an excerpt from Rogozenco's video analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/modern-classics-02-botvinnik-tal-1960",
-         "pubDate" : "Thu, 12 Jan 2023 15:00:00 +0100",
-         "title" : "Modern Classics #02: Botvinnik - Tal (1960)"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
@@ -432,22 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-juniors-2022-nodirbek-abdusattorov",
          "pubDate" : "Sun, 08 Jan 2023 21:00:00 +0100",
          "title" : "Top juniors in 2022: Nodirbek Abdusattorov"
-      },
-      {
-         "description" : "The 13th Margaryan Memorial IM is taking place from 8&#x2013;15 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-player round-robin tournament with participation of Nikolay Averin, Nikita Matinian, Robert Piliposyan, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/13th-margaryan-memorial-im-2023-live/",
-         "pubDate" : "Sun, 08 Jan 2023 19:49:07 +0000",
-         "title" : "13th Margaryan Memorial IM 2023 - LIVE"
-      },
-      {
-         "description" : "The 13th Margaryan Memorial GM is taking place from 8&#x2013;15 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Amirreza Pour Agha Bala, Sergei Lobanov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/13th-margaryan-memorial-gm-2023-live/",
-         "pubDate" : "Sun, 08 Jan 2023 19:44:04 +0000",
-         "title" : "13th Margaryan Memorial GM 2023 - LIVE"
       },
       {
          "description" : " You might recall that my comeback game resulted in a rook ending which was completely drawn in spite of my opponent's extra pawn. I thought it might be useful to look in more detail at this sort of position. Here's a typical situation. Black's rook is behind White's passed pawn. The computer tells me the <a href=\"https://chessimprover.com/the-extra-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Extra Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-extra-pawn/\">The Extra Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2160",
          "pubDate" : "Sun, 01 Jan 2023 22:14:28 +0000",
          "title" : "FIDE January 2023 rating list is out"
-      },
-      {
-         "description" : "I'm not a particular devotee of Westerns, but I've seen enough to know that at the end there's normally a shoot-out in which the protagonists have to be at their best to avoid losing their lives. Games of chess are thankfully not fatal, but in many of them there is a final tactical shoot-out, and however well you've played beforehand, you have to be able to handle this at least passably to get the win or draw that you deserve. | Pictured: Benny Watts, a main character in Netflix's 'The Queen's Gambit' played by Thomas Brodie-Sangster",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-185",
-         "pubDate" : "Sun, 01 Jan 2023 21:00:00 +0100",
-         "title" : "Shoot-outs, a stand-off and the traditional round-up"
       },
       {
          "description" : " Mehul Gohil won the Kenyan Chess Champion and thus, drove away the grand prize of a Mazda Demio car! It is his second car in three years. In 2019, he won the title after Ben Nguku was unable to catch him. This year he had to win an Armageddon battle against Hugh Misiko to get The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/\">Mehul Gohil (Kenyan Champ) wins another car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
