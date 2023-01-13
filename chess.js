@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
+         "pubDate" : "Fri, 13 Jan 2023 11:50:00 +0000",
+         "title" : "Tata Steel Chess 2023 - LIVE"
+      },
+      {
+         "description" : "The Tata Steel Challengers 2023 will be held simultaneously with Tata Steel Chess Masters 2023 in Wijk aan Zee, Netherlands. The event will take place from 13-29 February and it will be played in 13 round-robin rounds.&#xA0;The field consists of a mix of established players and promising young talents and the winner of the event []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-live/",
+         "pubDate" : "Fri, 13 Jan 2023 11:49:39 +0000",
+         "title" : "Tata Steel Challengers 2023 - LIVE"
+      },
+      {
+         "description" : "IM&#xA0;Pranesh M&#xA0;is the early leader of the FIDE Circuit. The 16-year old from India emerged as the winner of the 2022/2023 Rilton Cup and picked up 6.8 circuit points to grab the top position in the leaderboard. IM&#xA0;Kaan Kucuksari&#xA0;(Sweden) and GM&#xA0;Nikita Meshkovs&#xA0;(Latvia) finished a full point behind the winner with the former taking second place []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pranesh-m-leads-the-fide-circuit-race/",
+         "pubDate" : "Fri, 13 Jan 2023 11:46:29 +0000",
+         "title" : "Pranesh M leads the FIDE Circuit race"
+      },
+      {
+         "description" : "The&#xA0;European Individual Chess Championship 2023&#xA0;is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd &#x2013; 14th March 2023 in Vrnjacka Banja, Serbia. The championship will be played in 11 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/more-than-190-players-already-registered-for-european-individual-chess-championship-2023/",
+         "pubDate" : "Fri, 13 Jan 2023 11:42:09 +0000",
+         "title" : "More than 190 players already registered for European Individual Chess Championship 2023"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-starts-on-saturday/",
+         "pubDate" : "Fri, 13 Jan 2023 11:35:00 +0000",
+         "title" : "Tata Steel Chess 2023 starts on Saturday"
+      },
+      {
+         "description" : "Simultaneously with the Tata Steel Chess Masters 2023, Wijk aan Zee will host the Tata Steel Chess Challengers tournament. The event will take place from 13-29 February and it will be played in 13 round-robin rounds.&#160;The field consists of a mix of established players and promising young talents and the winner of the event will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023/",
+         "pubDate" : "Fri, 13 Jan 2023 10:35:00 +0000",
+         "title" : "Tata Steel Challengers 2023"
+      },
+      {
+         "description" : "While Eugene Manlapao was doing research on Amos Burn (pictured on the right) and Isidor Gunsberg (left), the subjects of his last two articles, he came upon an interesting episode in their careers. Burn and Gunsberg were two of the leading British players in the late 19th century, and they naturally became fierce rivals. This rivalry, however, triggered a controversy that spilled to the press. Burn, Gunsberg, and another master dragged into the issue, all turned contentious. Public opinion was divided.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/high-drama-in-england-the-burn-vs-gunsberg-controversy-of-1886",
+         "pubDate" : "Fri, 13 Jan 2023 11:00:00 +0100",
+         "title" : "High Drama in England: The Burn vs. Gunsberg Controversy of 1886"
+      },
+      {
+         "description" : "ECU E-Magazine December 2022 is out! In this edition of the ECU Magazine you can read about: European Rapid &#38; Blitz Chess Championships 2022 FIDE World Rapid &#38; Blitz Chess Championships 2022 Upcoming Tata Steel Chess 2023 Upcoming European Cities &#38; Towns Chess Championship European Individual Open &#38; Women's Chess Championships 2023 European Senior Chess Championship 2023 European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2022/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-december-2022/",
+         "pubDate" : "Fri, 13 Jan 2023 09:06:53 +0000",
+         "title" : "ECU E-Magazine December 2022"
+      },
+      {
          "description" : " A ninth success at the 'chess Wimbledon' could kickstart a new attempt by the No 1 to reach a landmark 2900 rating Magnus Carlsen versus the young guns at Wijk starts on Saturday, when the opening round (of 13) of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee gets under way at the windswept Dutch village. Carlsen, 32, the triple world champion at classical, rapid and blitz, takes on a grandmaster field which includes five teenagers - three from India, one each from Germany and Uzbekistan - all with dreams of dethroning the Norwegian. Carlsen's own top priorities are to win Wijk for a record ninth time, see off the challenge from Generation Z, and hopefully to kickstart another attempt to",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -154,38 +218,6 @@ news_feed (
          "title" : "Pranesh M leads FIDE Circuit race"
       },
       {
-         "description" : "Are You Ready for #TataSteelChess? Tata Steel Chess Tournament 2023 is about to take off! Who will be crowned as the 85th Tata Steel Chess Tournament Champion? The 85th edition of the Tata Steel Chess Masters&#xA0;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-official-teaser/",
-         "pubDate" : "Wed, 11 Jan 2023 21:44:09 +0000",
-         "title" : "Tata Steel Chess 2023 - Official Teaser"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-starts-on-saturday/",
-         "pubDate" : "Wed, 11 Jan 2023 21:34:07 +0000",
-         "title" : "Tata Steel Chess 2023 starts on Saturday"
-      },
-      {
-         "description" : "The World&#x2019;s Elite Grandmasters Will Compete for a $1.4M Pursein Five Over The Board Events During the 2023 Season Saint Louis, MO (Monday, January 9, 2023) &#x2013; The Grand Chess Tour (GCT), a circuit of international events, each demonstrating the highest level of organization for the world's best players, will return again in 2023. Tour []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-grand-chess-tour-returns-in-2023/",
-         "pubDate" : "Wed, 11 Jan 2023 21:04:36 +0000",
-         "title" : "The Grand Chess Tour returns in 2023"
-      },
-      {
-         "description" : "The International Chess Federation announced the continuation of its support to chess veterans. A number of grants will be awarded next month&#xA0;to distinguished players, coaches and organizers aged 65+. Anyone over this age who has contributed to the development of chess and who is in an unstable financial situation is eligible to submit an application. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-veterans-support-program/",
-         "pubDate" : "Wed, 11 Jan 2023 20:21:00 +0000",
-         "title" : "FIDE Veterans Support Program"
-      },
-      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. The second-youngest in the list - only older than Gukesh - is Praggnanandhaa. In 2022, the 17-year-old faced both ambitious rising stars (in open events) and the very best in the world (mostly online). And he excelled in both types of tournaments! | Photo: Alina l'Ami",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,22 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown",
          "pubDate" : "Wed, 11 Jan 2023 02:07:00 +0000",
          "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
-      },
-      {
-         "description" : "Due to personal reasons, Jan-Krzysztof Duda has withdrawn from Tata Steel Masters 2023. Duda will be replaced by 2719 rated Parham Maghsoodloo (22) from Iran. Maghsoodloo is the current number-29 on the world ranking list. Maghsoodloo is the 2018 Junior&#xA0;World&#xA0;Champion and played earlier in the Tata Steel Challengers in 2019. He will now make his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jan-krzysztof-duda-withdraws-from-tata-steel-chess-masters-2023/",
-         "pubDate" : "Tue, 10 Jan 2023 21:40:00 +0000",
-         "title" : "Jan-Krzysztof Duda withdraws from Tata Steel Chess Masters 2023"
-      },
-      {
-         "description" : "Belgrade, Serbia will host the Chess Olympiad for People with Disabilities, which will take from January 29 to February 5, 2023.&#xA0; This is a team competition, played over four boards, and limited to a maximum of 30 participant teams: 27 teams are selected by rating, and four are&#xA0;nominated by the FIDE President. If there is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-olympiad-for-people-with-disabilities-to-take-place-in-belgrade-serbia/",
-         "pubDate" : "Tue, 10 Jan 2023 21:20:00 +0000",
-         "title" : "Chess Olympiad for People with Disabilities to take place in Belgrade, Serbia"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
@@ -495,7 +511,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-9",
          "pubDate" : "Sun, 08 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 107: Play the Sicilian (9)"
+         "title" : "Understanding before Moving 107: Play the Sicilian (8)"
       },
       {
          "description" : "The first FIDE workshop organized by the FIDE Commission for Women's Chess in 2023 took place on January 5 in Stockholm, Sweden, during the Rilton Cup. Swedish living legend Pia Cramling was among the speakers, and emphasized how chess takes away any prejudicial social boundaries based on age or gender. | Photos: Anastasiya Karlovich",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/two-world-championship-titles-in-five-days-an-interview-with-magnus-carlsen",
          "pubDate" : "Mon, 02 Jan 2023 10:27:10 +0100",
          "title" : "Two World Championship titles in five days - an interview with Magnus Carlsen"
-      },
-      {
-         "description" : "Online chess with its short time controls has also led to a renaissance of romantic openings like the King's Gambit. After the moves 1.e4 e5 2.f4 gxf4 3.Nf3 Black is faced with a fundamental decision. Should one try to hold the extra pawn on f4 with g7-g5 at all costs? With little time on the clock and against a potential theory expert, this involves some risks. So should one instead focus less on the material but on development and good piece play? With 3...Ne7!? Sergey Grigoriants recommends the second approach in his article for CBM #211 The \"Bacrot Variation\" is of course no refutation of the King's Gambit, \"but it is an excellent practical choice for Black\". Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/king-s-gambit-take-it-easy",
-         "pubDate" : "Mon, 02 Jan 2023 10:00:00 +0100",
-         "title" : "King's Gambit - Take it easy!"
       },
       {
          "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
@@ -1608,14 +1616,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/call-me-old-fashioned.html",
          "pubDate" : "Fri, 23 Dec 2022 13:14:00 +0000",
          "title" : "Call me old fashioned"
-      },
-      {
-         "description" : " The 8th Vugar Gashimov Memorial took place Sun 18th Dec to Sat 24th Dec 2022. The event was a mixture of rapid and blitz with the rapid games being worth double the blitz. Players: Rapport, Shankland, Vallejo Pons, Wang Hao, Mamedyarov, Mamedov, Gadimbayli, Suleymanli, Abdusattorov and Gukesh. Nodirbek Abdusattorov ran away with it scoring 25.5/36 a full five points clear of Rauf Mamedov and Shakhriyar Mamedyarov.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/8th-vugar-gashimov-memorial-2022",
-         "pubDate" : "Fri, 23 Dec 2022 13:49:00 +0400",
-         "title" : "8th Vugar Gashimov Memorial 2022 - Games and Results"
       }
    ]
 }
