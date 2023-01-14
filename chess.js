@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/ding-and-abdusattorov-win-in-the-first-round-of-the-tata-steel-masters-2023",
+         "pubDate" : "Sat, 14 Jan 2023 19:26:00 +0400",
+         "title" : "Ding and Abdusattorov win in the first round of the Tata Steel Masters 2023 - 1"
+      },
+      {
          "description" : "Magnus Carlsen is chasing his 9th victory in Wijk aan Zee, but does not take anything for granted and considers this year's event a fun, exciting challenge. The unlikely target of breaking the 2900 barrier has been put on hold, the world champion says.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "Saint Louis Chess Club Announces 2023 Tournament Calendar"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12<br /> Shelby D Getz vs Igor Novikov, US Senior Championship (2020): A00 Anderssen&#039;s opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2011429\">https://www.chessgames.com/perl/chessgame?gid=2011429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation., using his game against Shelby Getz from the online 2020 U.S. Senior Championship. 2023.01.12<br /> Shelby D Getz vs Igor Novikov, US Senior Championship (2020): A00 Anderssen&#039;s opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2011429\">https://www.chessgames.com/perl/chessgame?gid=2011429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-g",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-prep-game-prepare-pro-gm-igor-novikov",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/",
          "pubDate" : "Sun, 25 Dec 2022 03:13:53 +0000",
          "title" : "Blitz tourney heats up NYC&hellip; Colas wins!"
-      },
-      {
-         "description" : "The Chessable Sunway Sitges Chess Festival 2022 was won by GM Kirill Alekseenko. He scored 8.5/10 in the ninth edition of the Spanish tournament, taking home the first-place trophy and &#38;euro;5,000. Coming in second was GM Hans Niemann, who beat GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alekseenko-wins-2022-chessable-sunway-sitges-chess-festival",
-         "pubDate" : "Sat, 24 Dec 2022 09:27:00 -0800",
-         "title" : "Undefeated Alekseenko Wins Sitges With 2837 Performance Rating"
       }
    ]
 }
