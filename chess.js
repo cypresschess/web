@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is chasing his 9th victory in Wijk aan Zee, but does not take anything for granted and considers this year's event a fun, exciting challenge. The unlikely target of breaking the 2900 barrier has been put on hold, the world champion says.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-on-2900-target-i-ve-put-that-goal-on-hold-a-bit",
+         "pubDate" : "Sat, 14 Jan 2023 13:47:00 +0000",
+         "title" : "Carlsen on 2900 target: \"I've put that goal on hold a bit\""
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sat, 14 Jan 2023 14:00:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 2023 edition of the London Chess Conference will take place on 18/19 March on the theme of Chess and STEM (Science, Technology, Engineering, Mathematics). The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -78,8 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
-         "pubDate" : "Sat, 14 Jan 2023 00:32:18 -0800",
-         "title" : "'Robson Is the Mittens of Puzzle Rush'"
+         "pubDate" : "Sat, 14 Jan 2023 00:32:00 -0800",
+         "title" : "'Robson Is The Mittens Of Puzzle Rush'"
       },
       {
          "description" : "In the diagram position it is White to move. Black just played 48...Qe2??, a move that looks strong but allows White a surprising win. What should White do?",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/tcecccc-2022-h2-summary.html",
          "pubDate" : "Mon, 02 Jan 2023 16:58:00 +0000",
          "title" : "TCEC/CCC 2022-H2 Summary"
-      },
-      {
-         "description" : "The exodus of Russian chess players continues. In 2024 Alexandra Kosteniuk will play for Switzerland. The top Russian player and Women's World Champion from 2008 has both Russian and Swiss citizenship, and in 2013 Kosteniuk won the Swiss Championship (in the open tournament). | Photo: Eteri Kublashvili",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexandra-kosteniuk-switches-to-swiss-chess-federation",
-         "pubDate" : "Mon, 02 Jan 2023 17:18:58 +0100",
-         "title" : "Alexandra Kosteniuk switches to Swiss Chess Federation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96687029.cms\" />The new year brought happy news for Bengal chess as Koustav Chatterjee became the country's 78th Grandmaster late on Saturday night. The Kolkata boy took the state's GM count to double digits by drawing with statemate GM Mirtabha Guha, who incidentally was Bengal's last and ninth GM, in Round 10 of the National chess championship in New Delhi.",
