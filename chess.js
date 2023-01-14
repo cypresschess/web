@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
-         "pubDate" : "Fri, 13 Jan 2023 13:44:56 -0800",
+         "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
          "title" : "2023 PRO Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
