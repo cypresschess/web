@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2171",
+         "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
+         "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
+      },
+      {
          "description" : "8-time Wijk aan Zee Champion Magnus Carlsen will play 4-time Champion Levon Aronian as the Tata Steel Masters begins on Saturday, January 14th. We've also got Caruana-Giri, Gukesh-Ding and Praggnanandhaa-Erigaisi in Round 1 as the year 2023 in chess really begins. Laurent Fressinet and Peter Svidler will be commentating here on chess24, with David Howell replacing Laurent for Round 3 onwards.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
