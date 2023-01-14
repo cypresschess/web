@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/puzzles-world-championship-title",
+         "pubDate" : "Sat, 14 Jan 2023 00:27:29 -0800",
+         "title" : "'Robson Is the Mittens of Puzzle Rush'"
+      },
+      {
+         "description" : "In the diagram position it is White to move. Black just played 48...Qe2??, a move that looks strong but allows White a surprising win. What should White do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surprise",
+         "pubDate" : "Sat, 14 Jan 2023 09:00:00 +0100",
+         "title" : "Surprise"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1088,14 +1104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gets-10th-gm-india-78th-in-koustav-chatterjee/articleshow/96687029.cms",
          "pubDate" : "Mon, 02 Jan 2023 13:02:21 +0000",
          "title" : "Bengal gets 10th GM, India 78th in Koustav Chatterjee"
-      },
-      {
-         "description" : "At the beginning of 2023 FIDE published its new ranking list. With a rating of 2859 Magnus Carlsen continues to be clear number one, and apart from Ding Liren he is the only player with a rating of 2800+. 40 players have a rating of 2700+. Hou Yifan remains number one the the women's list, Alireza Firouzja is the best junior and Bibisara Assaubayeva is the new number one on the list of female junior players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-january-2023",
-         "pubDate" : "Mon, 02 Jan 2023 13:00:00 +0100",
-         "title" : "FIDE ratings January 2023"
       },
       {
          "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
