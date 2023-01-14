@@ -2,11 +2,83 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 edition of the London Chess Conference will take place on 18/19 March on the theme of Chess and STEM (Science, Technology, Engineering, Mathematics). The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/london-chess-conference-2023-announced/",
+         "pubDate" : "Sat, 14 Jan 2023 12:27:00 +0000",
+         "title" : "London Chess Conference 2023 announced"
+      },
+      {
+         "description" : "Close observers of the Spare saga will have observed Prince Harry's claim to have terminated twenty-five Taliban fighters during his tour of duty in Afghanistan. Furthermore, his controversial justification that he saw his victims as hostile chess pieces to be swept from the board, rather than genuine human beings. The reaction to the Princely assertion []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/can-harry-count/",
+         "pubDate" : "Sat, 14 Jan 2023 12:15:08 +0000",
+         "title" : "Can Harry count?"
+      },
+      {
+         "description" : "The 85th edition of the&#xA0;Tata Steel Masters 2023&#xA0;kicks off today in Wijk aan Zee with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. Round 1 pairings / LIVE games Chess24 live video broadcast with commentaries []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-1-live/",
+         "pubDate" : "Sat, 14 Jan 2023 12:07:50 +0000",
+         "title" : "Tata Steel Chess 2023 - Day 1 live"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament will have a completely new look with the brand new playing venue. The venue will simultaneously host Tata Steel Masters 2023 and Tata Steel Challenger 2023 tournaments from 13-29 January 2023. Playing venue (VIDEO):",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-playing-venue-video/",
+         "pubDate" : "Sat, 14 Jan 2023 11:59:40 +0000",
+         "title" : "Tata Steel Chess 2023 - Playing venue (VIDEO)"
+      },
+      {
+         "description" : "The 2023 Tata Steel Challengers kicks off today in Wijk aan Zee, simultaneously with the Tata Steel Masters 2023, with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. The first round brings seven interesting clashes. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-1-pairings/",
+         "pubDate" : "Sat, 14 Jan 2023 11:50:16 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 1 pairings"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 11:50:00 +0000",
+         "title" : "Tata Steel Chess 2023 - LIVE"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Masters 2023 kicks off today in Wijk aan Zee with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. The first round of the Masters group will see interesting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-1-pairings/",
+         "pubDate" : "Sat, 14 Jan 2023 11:18:37 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 1 pairings"
+      },
+      {
+         "description" : "After the gong strike by the King&#x2019;s Commissioner of the Province of North Holland Arthur van Dijk, the 85th edition of the TataSteel Chess Tournament has officially begun yesterday event. Until Sunday, January 29, Wijk aan Zee will again be the worldwide center of chess. The opening ceremony took place in the conference center of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-officially-opened/",
+         "pubDate" : "Sat, 14 Jan 2023 09:11:00 +0000",
+         "title" : "Tata Steel Chess 2023 officially opened"
+      },
+      {
+         "description" : "According to the calendar put forth by the International Chess Federation (FIDE), the World Championship match between Ian Nepomniachtchi and Ding Liren is set to begin on April 7. However, FIDE has yet to announce a host or a location for the event. The pandemic, Russia's attack on Ukraine, and the withdrawal of reigning champion Magnus Carlsen have caused many complications for the organization.| Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-organization-problems",
+         "pubDate" : "Sat, 14 Jan 2023 10:00:00 +0100",
+         "title" : "Where will the World Championship match take place?"
+      },
+      {
          "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/puzzles-world-championship-title",
-         "pubDate" : "Sat, 14 Jan 2023 00:27:29 -0800",
+         "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
+         "pubDate" : "Sat, 14 Jan 2023 00:32:18 -0800",
          "title" : "'Robson Is the Mittens of Puzzle Rush'"
       },
       {
@@ -90,14 +162,6 @@ news_feed (
          "title" : "Perpetually Checked"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
-         "pubDate" : "Fri, 13 Jan 2023 11:50:00 +0000",
-         "title" : "Tata Steel Chess 2023 - LIVE"
-      },
-      {
          "description" : "The Tata Steel Challengers 2023 will be held simultaneously with Tata Steel Chess Masters 2023 in Wijk aan Zee, Netherlands. The event will take place from 13-29 February and it will be played in 13 round-robin rounds.&#xA0;The field consists of a mix of established players and promising young talents and the winner of the event []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -120,22 +184,6 @@ news_feed (
          "link" : "https://www.chessdom.com/more-than-190-players-already-registered-for-european-individual-chess-championship-2023/",
          "pubDate" : "Fri, 13 Jan 2023 11:42:09 +0000",
          "title" : "More than 190 players already registered for European Individual Chess Championship 2023"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-starts-on-saturday/",
-         "pubDate" : "Fri, 13 Jan 2023 11:35:00 +0000",
-         "title" : "Tata Steel Chess 2023 starts on Saturday"
-      },
-      {
-         "description" : "Simultaneously with the Tata Steel Chess Masters 2023, Wijk aan Zee will host the Tata Steel Chess Challengers tournament. The event will take place from 13-29 February and it will be played in 13 round-robin rounds.&#160;The field consists of a mix of established players and promising young talents and the winner of the event will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023/",
-         "pubDate" : "Fri, 13 Jan 2023 10:35:00 +0000",
-         "title" : "Tata Steel Challengers 2023"
       },
       {
          "description" : "While Eugene Manlapao was doing research on Amos Burn (pictured on the right) and Isidor Gunsberg (left), the subjects of his last two articles, he came upon an interesting episode in their careers. Burn and Gunsberg were two of the leading British players in the late 19th century, and they naturally became fierce rivals. This rivalry, however, triggered a controversy that spilled to the press. Burn, Gunsberg, and another master dragged into the issue, all turned contentious. Public opinion was divided.",
@@ -162,36 +210,12 @@ news_feed (
          "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
       },
       {
-         "description" : "The 78th Armenian Women's Championship Highest League is taking place from 13&#x2013;21 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Maria Gevorgyan, Susanna Gaboyan, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/78th-armenian-womens-championship-highest-league-2023-live/",
-         "pubDate" : "Fri, 13 Jan 2023 04:13:54 +0000",
-         "title" : "78th Armenian Women's Championship Highest League 2023 - LIVE"
-      },
-      {
-         "description" : "The 83rd Armenian Championship Highest League is taking place from 13&#x2013;21 January 2023 in Yerevan, Armenia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Manuel Petrosyan, Aram Hakobyan, Samvel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/83rd-armenian-championship-highest-league-2023-live/",
-         "pubDate" : "Fri, 13 Jan 2023 04:09:21 +0000",
-         "title" : "83rd Armenian Championship Highest League 2023 - LIVE"
-      },
-      {
          "description" : "The 2022-23 edition of the German Bundesliga kicked off on October 22 last year and is set to finish on April 30. All 16 teams have played at least four rounds, but 10 of them have brought forward their round-7 matches. Three squads won all their confrontations: SG Solingen, OSG Baden-Baden and SC Viernheim. The next three rounds are scheduled for February 2-4.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bundesliga-2023-r4",
          "pubDate" : "Fri, 13 Jan 2023 03:40:00 +0100",
          "title" : "Three teams still perfect in the German Bundesliga"
-      },
-      {
-         "description" : "The Azerbaijan Championship will be held in Baku from 13 to 26 January 2022. Players receive 90 minutes for the first 40 moves and then 30 minutes until the end of the game, plus a 30-second increment starting from move one. The championship will be held in two stages. At the first stage, participants compete []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-championship-2023-live/",
-         "pubDate" : "Thu, 12 Jan 2023 22:44:00 +0000",
-         "title" : "Azerbaijan Championship 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Thursday, January 12, 2023) - </strong>The Saint Louis Chess Club has announced their 2023 tournament calendar that will include national, international, and local tournament opportunities for spectators and chess players alike. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2022",
          "pubDate" : "Thu, 12 Jan 2023 18:00:00 +0100",
          "title" : "Svitlana's Smart Moves - Smartest moves of 2022"
-      },
-      {
-         "description" : "The 20th edition of the Delhi International Open has been postponed due to the spread of Covid19 virus in India. The event will likely be conducted in March 2023 instead of the initially announced dates in January 2023. &#8220;Considering the advisory of Indian Medical Association as well as suggestion from local administration for having social []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/20th-delhi-international-open-postponed/",
-         "pubDate" : "Thu, 12 Jan 2023 16:59:17 +0000",
-         "title" : "20th Delhi International Open postponed"
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "Alexandra Kosteniuk switches to Swiss Chess Federation"
       },
       {
-         "description" : "Today, ChessBase India CEO Sagar Shah wants to touch on a subject that has been playing around on his mind, and to which he has no concrete answers. Is chess levitating towards shorter time formats. Are sponsors driving this trend? And will classical chess be abandoned? \"I just want to put the question out there, maybe our readers can see why I feel a bit confused as a chess fan,\" Sagar says.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/where-is-chess-going",
-         "pubDate" : "Mon, 02 Jan 2023 16:00:00 +0100",
-         "title" : "Where is chess going?"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96687029.cms\" />The new year brought happy news for Bengal chess as Koustav Chatterjee became the country's 78th Grandmaster late on Saturday night. The Kolkata boy took the state's GM count to double digits by drawing with statemate GM Mirtabha Guha, who incidentally was Bengal's last and ninth GM, in Round 10 of the National chess championship in New Delhi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1632,22 +1640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alekseenko-wins-2022-chessable-sunway-sitges-chess-festival",
          "pubDate" : "Sat, 24 Dec 2022 09:27:00 -0800",
          "title" : "Undefeated Alekseenko Wins Sitges With 2837 Performance Rating"
-      },
-      {
-         "description" : "The past year in chess has, ab ovo, been an unexpectedly turbulent one, due primarily to the increasing eccentricity of the World Champion, Magnus Carlsen. Having defended his title for the fourth time, seeing off such giants as Anand, Karjakin, Caruana and Nepomniachtchi, Carlsen promptly announced his retirement as champion, but, crucially, not his retirement from competitive []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-review-of-the-year/",
-         "pubDate" : "Sat, 24 Dec 2022 12:08:14 +0000",
-         "title" : "Chess Review of the Year"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2149",
-         "pubDate" : "Sat, 24 Dec 2022 08:46:00 +0000",
-         "title" : "World Rapid and Blitz 2022 winter wonderland: It's about to get hot in Almaty"
       }
    ]
 }
