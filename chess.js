@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-2-live/",
+         "pubDate" : "Sun, 15 Jan 2023 12:03:11 +0000",
+         "title" : "Tata Steel Chess 2023 - Day 2 live"
+      },
+      {
+         "description" : "The Tata Steel Masters 2023 and the Tata Steel Challengers 2023 kicked off yesterday in Wijk aan Zee. Two players emerged as the early leaders of the challengers group: Abhimanyu Mishra and Max Warmerdam, as Ding Liren and Nodirbek Abdusattorov took early co-lead in Masters tournament. The second round starts today at 14:00 CEST, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-2-pairings/",
+         "pubDate" : "Sun, 15 Jan 2023 11:57:53 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 2 pairings"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Masters 2023 kicked off yesterday in Wijk aan Zee. Only two games of the first round finished in a decisive result, with Ding Liren and Nodirbek Abdusattorov taking the early lead in the event. The second round starts at 14:00 CEST with the top seeded Magnus Carlsen taking []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-2-pairings/",
+         "pubDate" : "Sun, 15 Jan 2023 11:51:36 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 2 pairings"
+      },
+      {
+         "description" : " You may be aware that I co-founded Richmond Junior Chess Club with my good friend Mike Fox in 1975, and, after he moved to Birmingham a few years later, ran it myself, with the help of parents and friends, until 2005/6. During that period, we had several members, including Luke McShane and Jonathan Rowson, who <a href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Richmond Junior Club 1975-2006 Part 3\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\">Richmond Junior Club 1975-2006 Part 3</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/richmond-junior-club-1975-2006-part-3/",
+         "pubDate" : "Sun, 15 Jan 2023 09:00:33 +0000",
+         "title" : "Richmond Junior Club 1975-2006 Part 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-ding-abdusattorov-lead",
          "pubDate" : "Sun, 15 Jan 2023 00:24:39 +0000",
          "title" : "Tata Steel Chess 1: Ding & Abdusattorov lead"
+      },
+      {
+         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/",
+         "pubDate" : "Sun, 15 Jan 2023 00:10:17 +0000",
+         "title" : "300 Most Important Chess Exercises"
       },
       {
          "description" : "Ding Liren and Nodirbek Abdusattorov were the first winners at the Masters section of the 2023 Tata Steel Chess Tournament. Both players scored with the black pieces, as Ding got the better of Dommaraju Gukesh and Abdusattorov defeated Richard Rapport. In the Challengers, Max Warmerdam and Abhimanyu Mishra collected full points on opening day. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
@@ -106,14 +146,6 @@ news_feed (
          "title" : "Abdusattorov and Ding Liren in early lead at Tata Steel Masters 2023"
       },
       {
-         "description" : "The&#xA0;2023 Tata Steel Chess Challengers&#xA0;kicked off today in Wijk aan Zee, simultaneously with the Tata Steel Chess Masters. 14 players compete in the event which is played in 13 round-robin rounds and the Winner of the tournament will earn a starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Max Warmerdam []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/max-warmerdam-and-abhimanyu-mishra-co-leading-tata-steel-challengers-2023/",
-         "pubDate" : "Sat, 14 Jan 2023 21:36:00 +0000",
-         "title" : "Max Warmerdam and Abhimanyu Mishra co-leading Tata Steel Challengers 2023"
-      },
-      {
          "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -130,28 +162,12 @@ news_feed (
          "title" : "Carlsen on 2900 target: \"I've put that goal on hold a bit\""
       },
       {
-         "description" : "The 2023 edition of the London Chess Conference will take place on 18/19 March on the theme of Chess and STEM (Science, Technology, Engineering, Mathematics). The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/london-chess-conference-2023-announced/",
-         "pubDate" : "Sat, 14 Jan 2023 12:27:00 +0000",
-         "title" : "London Chess Conference 2023 announced"
-      },
-      {
          "description" : "Close observers of the Spare saga will have observed Prince Harry's claim to have terminated twenty-five Taliban fighters during his tour of duty in Afghanistan. Furthermore, his controversial justification that he saw his victims as hostile chess pieces to be swept from the board, rather than genuine human beings. The reaction to the Princely assertion []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/can-harry-count/",
          "pubDate" : "Sat, 14 Jan 2023 12:15:08 +0000",
          "title" : "Can Harry count?"
-      },
-      {
-         "description" : "The 85th edition of the&#xA0;Tata Steel Masters 2023&#xA0;kicks off today in Wijk aan Zee with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. Round 1 pairings / LIVE games Chess24 live video broadcast with commentaries []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-1-live/",
-         "pubDate" : "Sat, 14 Jan 2023 12:07:50 +0000",
-         "title" : "Tata Steel Chess 2023 - Day 1 live"
       },
       {
          "description" : "According to the calendar put forth by the International Chess Federation (FIDE), the World Championship match between Ian Nepomniachtchi and Ding Liren is set to begin on April 7. However, FIDE has yet to announce a host or a location for the event. The pandemic, Russia's attack on Ukraine, and the withdrawal of reigning champion Magnus Carlsen have caused many complications for the organization.| Photo: FIDE",
@@ -208,6 +224,14 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty/",
          "pubDate" : "Fri, 13 Jan 2023 18:50:07 +0000",
          "title" : "A Foundation for Beginners Eighty"
+      },
+      {
+         "description" : "A few weeks ago, in <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022), I ended with a question about the site Chess.net:- <BLOCKQUOTE>Does 'chess trainer Roman' have anything to do with the 'ROboMAN' mentioned by Karpov? I'll try to find out in a follow-up post. </BLOCKQUOTE> <P>The following image shows a series of screen captures that track the evolution of the site from 1996 through 2022. The first six images show the landing page and home page at three points in time. The last six images show only the home page, the landing page having disappeared. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na13.gif\"",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html",
+         "pubDate" : "Fri, 13 Jan 2023 16:44:00 +0000",
+         "title" : "The Evolution of Chess.net"
       },
       {
          "description" : " The 85th Tata Steel chess tournament starts on 14th January and runs until Sun 29th. Magnus Carlsen will be there, Ding Liren, Fabiano Caruana, Anish Giri, Wesley So, Richard Rapport and Lvon Aronian will be there as will Jorden van Foreest the surprise winner in 2021. D Gukesh, Arjun Erigaisi, Parham Maghsoodloo, Nodirbek Abdusattorov, Vincent Keymer and R Praggnanandhaa make up the rest of the field, young and ambitious players most of who play a lot of strong online blitz chess too. The Challengers event has been artfully constructed too, this should be a tremendous event.",
@@ -544,14 +568,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
          "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
          "title" : "2023 Australian Open - Day 8"
-      },
-      {
-         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/01/10/300-most-important-chess-exercises/",
-         "pubDate" : "Tue, 10 Jan 2023 00:00:17 +0000",
-         "title" : "300 Most Important Chess Exercises"
       },
       {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. In fifth place is US grandmaster Hans Niemann. Chess blew up in mainstream media after Magnus Carlsen implicitly accused Niemann of cheating. But that did not prevent the Californian from continuing his rapid ascent in classical chess, as he broke the 2700-barrier for the first time (in an official FIDE ratings list) just this month! | Photo: Lennart Ootes / Saint Louis Chess Club",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/maybe-i-should-have-got-this.html",
          "pubDate" : "Sun, 25 Dec 2022 12:51:00 +0000",
          "title" : "Maybe I should have got this"
-      },
-      {
-         "description" : " As it's probably Christmas Day when you read this, just a short announcement. I'm now working on publication of my coaching materials in physical format on Amazon. I'm starting with a new introductory book for novices, their teachers and parents: Chess for Heroes. You can find out more here: purchases and five star reviews will <a href=\"https://chessimprover.com/chess-for-heroes-publication/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess for Heroes Publication\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-for-heroes-publication/\">Chess for Heroes Publication</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">T",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-for-heroes-publication/",
-         "pubDate" : "Sun, 25 Dec 2022 10:58:57 +0000",
-         "title" : "Chess for Heroes Publication"
       }
    ]
 }
