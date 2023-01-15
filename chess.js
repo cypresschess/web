@@ -1656,14 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-blitz-begins-as-carlsen-faces-dilemma",
          "pubDate" : "Sun, 25 Dec 2022 08:10:52 +0000",
          "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
-      },
-      {
-         "description" : " 2022 New York/Georgetown Blitz Invitational New York City recently held a blitz championship culminating in a classic battle between Josh Colas and Nigeria's Adegboyega Joel Adebayo. The New York/Georgetown Blitz Invitational tournament was the beginning of what is to come in 2023 according to Aggrey Duncan, What we are trying to do here in New The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/\">Blitz tourney heats up NYC Colas wins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/12/24/blitz-tourney-heats-up-nyc-colas-wins/",
-         "pubDate" : "Sun, 25 Dec 2022 03:13:53 +0000",
-         "title" : "Blitz tourney heats up NYC&hellip; Colas wins!"
       }
    ]
 }
