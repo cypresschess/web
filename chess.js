@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 108th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-2",
+         "pubDate" : "Sun, 15 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 108: Play the Sicilian (9)"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sun, 15 Jan 2023 14:00:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "The 1st Chess Workshop for Women set for January 05"
       },
       {
-         "description" : "In the diagram position White is a piece up but if Black plays correctly White cannot win - after an exchange of queens White often lands in a position in which he has the h-pawn and the \"wrong\" bishop. But how should Black proceed in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-surprisingly-solid-fortress",
-         "pubDate" : "Tue, 03 Jan 2023 09:00:00 +0100",
-         "title" : "A surprisingly solid fortress"
-      },
-      {
          "description" : " The 2023 Australian Open began yesterday (2nd January), with 114 players in the Open event, and 54 players in the Minor. There were a couple of no-shows (due to visa and travel issues), but the event got off to a very smooth start. The Open saw very few upsets, with the top 17 seeds all recording victories. There were four draws on lower boards, while lower rated players scored wins in four of the games. Round 2 sees some closer matchups on the top boards, although the rating gap is still around 500 points. In the Minor there were 6 upsets results, involving 5 wins and a draw. However a couple of these can be attributed to the variability in rating accuracy of new and lower rated players. J",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2161",
          "pubDate" : "Mon, 02 Jan 2023 18:14:38 +0000",
          "title" : "January 2023 Chess Solvers rating list published"
-      },
-      {
-         "description" : "The Rilton Cup in Stockholm celebrates its 50th anniversary. The tournament is now one of the top international tournaments through which players can qualify for the 2024 Candidates Tournament. After five rounds, 18-year-old Indian Grandmaster Raja Rithvik is sole leader with 4.5/5. | Photo: Dana Reizniece starts the round (Photos: Rilton Cup)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rilton-cup-indian-grandmaster-raja-rithvik-leads-after-five-rounds",
-         "pubDate" : "Mon, 02 Jan 2023 18:11:25 +0100",
-         "title" : "Rilton Cup: Indian Grandmaster Raja Rithvik leads after five rounds"
       },
       {
          "description" : "The previous six month summary, <A HREF=\"https://chessforallages.blogspot.com/2022/06/tcecccc-2022-h1-summary.html\">TCEC/CCC 2022-H1 Summary</A>(June 2022), asked, <BLOCKQUOTE>'Dragon, LCZero - Who's Better?'. One week it's Dragon; next week it's LCZero. What answers will the next six months bring? </BLOCKQUOTE> <P>Here's a summary of the second half of 2022. <P ALIGN=CENTER><TABLE BORDER=1 CELLSPACING=0> <TR><TH WIDTH=50%>TCEC/CCC</TH><TH WIDTH=50%>Off-week</TH></TR> <TR><TD VALIGN=TOP>2022-07-18:<BR><A HREF=\"https://chessforallages.blogspot.com/2022/07/stockfish-wins-tcec-swiss-3-and-ccc17.html\">Stockfish Wins TCEC Swiss 3 and CCC17 Blitz</A></TD><TD VALIGN=TOP>2022-07-25:<BR><A HREF=\"http",
@@ -1656,22 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2151",
          "pubDate" : "Sun, 25 Dec 2022 19:20:24 +0000",
          "title" : "\"Welcome to Kazakhstan\": The World Rapid and Blitz Championships officially opened in Almaty"
-      },
-      {
-         "description" : "<B>Q:</B>What happens when the monthly post about <A HREF=\"http://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016) falls on Christmas Day? <B>A:</B>We use whatever we can find. <P>The Santa character, played by a White Rook, looks like Homer Simpson. The devil character, played by a Black Pawn, looks like a cute bug. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/NwPGdATM4bE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe><BR><B>A Chess Story: The game between Santa and the Devil</B> (6:24) &",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html",
-         "pubDate" : "Sun, 25 Dec 2022 16:15:00 +0000",
-         "title" : "Not the Dickens Christmas Story"
-      },
-      {
-         "description" : " Over Xmas lunch today, I was alerted to yet another online chess variant. FPS Chess combines the strategy of chess with the madness of First Person Shooters (FPS). Instead of straight forward captures, it looks as though you have to fight mini-battles to determine who gets removed from the board. It is PvP (no computer bots), so the only downside is waiting around for an opponent. It can be found at <a href=\"https://store.steampowered.com/app/2021910/FPS_Chess/\">https://store.steampowered.com/app/2021910/FPS_Chess/</a> and at this stage, looks like it is free to play ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/maybe-i-should-have-got-this.html",
-         "pubDate" : "Sun, 25 Dec 2022 12:51:00 +0000",
-         "title" : "Maybe I should have got this"
       }
    ]
 }
