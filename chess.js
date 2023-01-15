@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World no. 2 Ding Liren was at his terrifying best as he beat Gukesh in Round 1 of the Tata Steel Masters. 18-year-old Nodirbek Abdusattorov scored the only other win, against Richard Rapport, while Magnus Carlsen, Anish Giri and Vincent Keymer missed chances. That was nothing, however, compared to the misses in the Challengers, where Abhimanyu Mishra and Max Warmerdam took the early lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-ding-abdusattorov-lead",
+         "pubDate" : "Sun, 15 Jan 2023 00:24:39 +0000",
+         "title" : "Tata Steel Chess 1: Ding & Abdusattorov lead"
+      },
+      {
+         "description" : "Ding Liren and Nodirbek Abdusattorov were the first winners at the Masters section of the 2023 Tata Steel Chess Tournament. Both players scored with the black pieces, as Ding got the better of Dommaraju Gukesh and Abdusattorov defeated Richard Rapport. In the Challengers, Max Warmerdam and Abhimanyu Mishra collected full points on opening day. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r1",
+         "pubDate" : "Sun, 15 Jan 2023 01:05:00 +0100",
+         "title" : "Tata Steel Chess R1: Ding and Abdusattorov score with black"
+      },
+      {
+         "description" : "The 2023 Bob Wade Masters is currently running in Auckland, New Zealand. Organised by Paul Spiller, this event commemorates the great New Zealand Master, IM Bob Wade. <div>The top section for this years tournament has attracted a strong field, with 2 GM's (Samy Shoker and Elshan Moradiabadi) and 2 IM's (Gary Lane and Herman Van Riemsdijk). There is also two Challenger tournaments, with Miles Patterson (from Canberra) playing in Challengers 1. Each of these events is a 10 player round robin, and will be running until the 20th of January. The Masters is being broadcast live in a couple of places, including on lichess at <a href=\"https://lichess.org/broadcast/2023-bob-wade-masters/round-2/fJTfK",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-bob-wade-masters.html",
+         "pubDate" : "Sat, 14 Jan 2023 22:41:00 +0000",
+         "title" : " 2023 Bob Wade Masters"
+      },
+      {
+         "description" : "The New York Winter Invitational IM (D) istaking place from 13&#x2013;16 January 2023 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Grant Xu, Alice Lee, Shawn Rodrigue-Lemieux, Jiangwei Yu, Martin Del Campo, Kyron []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-winter-invitational-im-d-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 22:25:51 +0000",
+         "title" : "New York Winter Invitational IM (D) 2023 - LIVE"
+      },
+      {
+         "description" : "The New York Winter Invitational IM (C) is taking place from 13&#x2013;16 January 2023 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Akira Nakada, Gus Huston, Eigen Wang, Samrug Narayanan, Leonid Yudasin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-winter-invitational-im-c-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 22:18:24 +0000",
+         "title" : "New York Winter Invitational IM (C) 2023 - LIVE"
+      },
+      {
+         "description" : "The New York Winter Invitational GM (B) is taking place from 13&#x2013;16 January 2022 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Vincent Tsay, Gabor Nagy, Josiah Stearman, Oliver Barbosa, Aarav Dengla, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-winter-invitational-gm-b-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 22:11:05 +0000",
+         "title" : "New York Winter Invitational GM (B) 2023 - LIVE"
+      },
+      {
+         "description" : "The New York Winter Invitational GM (A) is taking place from 13&#x2013;16 January 2022 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Gergely Kantor, Justus Williams, Aleksandr Ostrovskiy, Robert Shlyakhtenko, Joseph Levine, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-york-winter-invitational-gm-a-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 22:05:02 +0000",
+         "title" : "New York Winter Invitational GM (A) 2023 - LIVE"
+      },
+      {
+         "description" : "The Charlotte Open is taking place from 14-16 January 2023 in Charlotte, NC, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with participation of Daniel Naroditsky, Olexandr Bortnyk, Brandon Jacobson, Andrew Tang, David Brodsky, Levan Bregadze, James Canty, Aiden Reiss, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-open-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 21:43:48 +0000",
+         "title" : "Charlotte Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Sevilla Open is taking place from 13&#x2013;21 January 2023 in Seville, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Titas Stremavicius, G.A. Stany, Rodrigo Vasquez Schroeder, Vignesh N R, Nikola Sedlak, Cristhian Camilo Rios, Vitor Morais, Ernesto []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sevilla-open-2023-live/",
+         "pubDate" : "Sat, 14 Jan 2023 21:37:37 +0000",
+         "title" : "Sevilla Open 2023 - LIVE"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess kicked off today in Wijk aan Zee, featuring 14 grandmasters who will compete in a 13-round round-robin tournament from 13-29 January 2023. Only two games of the first round finished with a decisive result. 18-year-old Nodirbek Abdusattorov prevailed against Richard Rapport in a very interesting and creative []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-and-ding-liren-in-early-lead-at-tata-steel-masters-2023/",
+         "pubDate" : "Sat, 14 Jan 2023 21:37:31 +0000",
+         "title" : "Abdusattorov and Ding Liren in early lead at Tata Steel Masters 2023"
+      },
+      {
+         "description" : "The&#xA0;2023 Tata Steel Chess Challengers&#xA0;kicked off today in Wijk aan Zee, simultaneously with the Tata Steel Chess Masters. 14 players compete in the event which is played in 13 round-robin rounds and the Winner of the tournament will earn a starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Max Warmerdam []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/max-warmerdam-and-abhimanyu-mishra-co-leading-tata-steel-challengers-2023/",
+         "pubDate" : "Sat, 14 Jan 2023 21:36:00 +0000",
+         "title" : "Max Warmerdam and Abhimanyu Mishra co-leading Tata Steel Challengers 2023"
+      },
+      {
          "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +104,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-on-2900-target-i-ve-put-that-goal-on-hold-a-bit",
          "pubDate" : "Sat, 14 Jan 2023 13:47:00 +0000",
          "title" : "Carlsen on 2900 target: \"I've put that goal on hold a bit\""
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sat, 14 Jan 2023 14:00:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The 2023 edition of the London Chess Conference will take place on 18/19 March on the theme of Chess and STEM (Science, Technology, Engineering, Mathematics). The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU []",
@@ -48,46 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-1-live/",
          "pubDate" : "Sat, 14 Jan 2023 12:07:50 +0000",
          "title" : "Tata Steel Chess 2023 - Day 1 live"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament will have a completely new look with the brand new playing venue. The venue will simultaneously host Tata Steel Masters 2023 and Tata Steel Challenger 2023 tournaments from 13-29 January 2023. Playing venue (VIDEO):",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-playing-venue-video/",
-         "pubDate" : "Sat, 14 Jan 2023 11:59:40 +0000",
-         "title" : "Tata Steel Chess 2023 - Playing venue (VIDEO)"
-      },
-      {
-         "description" : "The 2023 Tata Steel Challengers kicks off today in Wijk aan Zee, simultaneously with the Tata Steel Masters 2023, with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. The first round brings seven interesting clashes. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-1-pairings/",
-         "pubDate" : "Sat, 14 Jan 2023 11:50:16 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 1 pairings"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;will be held from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-live/",
-         "pubDate" : "Sat, 14 Jan 2023 11:50:00 +0000",
-         "title" : "Tata Steel Chess 2023 - LIVE"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Masters 2023 kicks off today in Wijk aan Zee with the first round starting at 14:00 CET. The live broadcast of the games will start with 15 minutes delay, in accordance with anti-cheating measures taken by the organizers. The first round of the Masters group will see interesting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-1-pairings/",
-         "pubDate" : "Sat, 14 Jan 2023 11:18:37 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 1 pairings"
-      },
-      {
-         "description" : "After the gong strike by the King&#x2019;s Commissioner of the Province of North Holland Arthur van Dijk, the 85th edition of the TataSteel Chess Tournament has officially begun yesterday event. Until Sunday, January 29, Wijk aan Zee will again be the worldwide center of chess. The opening ceremony took place in the conference center of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-officially-opened/",
-         "pubDate" : "Sat, 14 Jan 2023 09:11:00 +0000",
-         "title" : "Tata Steel Chess 2023 officially opened"
       },
       {
          "description" : "According to the calendar put forth by the International Chess Federation (FIDE), the World Championship match between Ian Nepomniachtchi and Ding Liren is set to begin on April 7. However, FIDE has yet to announce a host or a location for the event. The pandemic, Russia's attack on Ukraine, and the withdrawal of reigning champion Magnus Carlsen have caused many complications for the organization.| Photo: FIDE",
@@ -184,30 +224,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/perpetually-checked.html",
          "pubDate" : "Fri, 13 Jan 2023 13:08:00 +0000",
          "title" : "Perpetually Checked"
-      },
-      {
-         "description" : "The Tata Steel Challengers 2023 will be held simultaneously with Tata Steel Chess Masters 2023 in Wijk aan Zee, Netherlands. The event will take place from 13-29 February and it will be played in 13 round-robin rounds.&#xA0;The field consists of a mix of established players and promising young talents and the winner of the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-live/",
-         "pubDate" : "Fri, 13 Jan 2023 11:49:39 +0000",
-         "title" : "Tata Steel Challengers 2023 - LIVE"
-      },
-      {
-         "description" : "IM&#xA0;Pranesh M&#xA0;is the early leader of the FIDE Circuit. The 16-year old from India emerged as the winner of the 2022/2023 Rilton Cup and picked up 6.8 circuit points to grab the top position in the leaderboard. IM&#xA0;Kaan Kucuksari&#xA0;(Sweden) and GM&#xA0;Nikita Meshkovs&#xA0;(Latvia) finished a full point behind the winner with the former taking second place []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pranesh-m-leads-the-fide-circuit-race/",
-         "pubDate" : "Fri, 13 Jan 2023 11:46:29 +0000",
-         "title" : "Pranesh M leads the FIDE Circuit race"
-      },
-      {
-         "description" : "The&#xA0;European Individual Chess Championship 2023&#xA0;is organised by Serbian Chess Federation under the auspices of European Chess Union will take place from 2nd &#x2013; 14th March 2023 in Vrnjacka Banja, Serbia. The championship will be played in 11 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/more-than-190-players-already-registered-for-european-individual-chess-championship-2023/",
-         "pubDate" : "Fri, 13 Jan 2023 11:42:09 +0000",
-         "title" : "More than 190 players already registered for European Individual Chess Championship 2023"
       },
       {
          "description" : "While Eugene Manlapao was doing research on Amos Burn (pictured on the right) and Isidor Gunsberg (left), the subjects of his last two articles, he came upon an interesting episode in their careers. Burn and Gunsberg were two of the leading British players in the late 19th century, and they naturally became fierce rivals. This rivalry, however, triggered a controversy that spilled to the press. Burn, Gunsberg, and another master dragged into the issue, all turned contentious. Public opinion was divided.",
