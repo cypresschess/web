@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2172",
+         "pubDate" : "Sun, 15 Jan 2023 08:00:21 +0000",
+         "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
+      },
+      {
+         "description" : "As Wijk aan Zee gets underway this weekend, we can look forward to a magnificent battle of the generations. In my time this would have been utterly impossible - surely the young guns used to play in the B group? Find here analyses of three formidable wins by the Indian prodigies that are playing in Wijk aan Zee. | Photos: Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-186",
+         "pubDate" : "Sun, 15 Jan 2023 09:00:00 +0100",
+         "title" : "Young guns by the sea"
+      },
+      {
+         "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
+         "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
+         "title" : "Ding, Abdusattorov Score First Victories"
+      },
+      {
          "description" : "World no. 2 Ding Liren was at his terrifying best as he beat Gukesh in Round 1 of the Tata Steel Masters. 18-year-old Nodirbek Abdusattorov scored the only other win, against Richard Rapport, while Magnus Carlsen, Anish Giri and Vincent Keymer missed chances. That was nothing, however, compared to the misses in the Challengers, where Abhimanyu Mishra and Max Warmerdam took the early lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Rilton Cup: Indian Grandmaster Raja Rithvik leads after five rounds"
       },
       {
-         "description" : "In the Endgame Magic Show #221 - the first in 2023 - Karsten shows entertaining endgame highlights from the Tata Steel India Tournament 2023. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-221-highlights-of-the-tata-steel-india-tournament",
-         "pubDate" : "Mon, 02 Jan 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #221: Highlights of the Tata Steel India Tournament"
-      },
-      {
          "description" : "The previous six month summary, <A HREF=\"https://chessforallages.blogspot.com/2022/06/tcecccc-2022-h1-summary.html\">TCEC/CCC 2022-H1 Summary</A>(June 2022), asked, <BLOCKQUOTE>'Dragon, LCZero - Who's Better?'. One week it's Dragon; next week it's LCZero. What answers will the next six months bring? </BLOCKQUOTE> <P>Here's a summary of the second half of 2022. <P ALIGN=CENTER><TABLE BORDER=1 CELLSPACING=0> <TR><TH WIDTH=50%>TCEC/CCC</TH><TH WIDTH=50%>Off-week</TH></TR> <TR><TD VALIGN=TOP>2022-07-18:<BR><A HREF=\"https://chessforallages.blogspot.com/2022/07/stockfish-wins-tcec-swiss-3-and-ccc17.html\">Stockfish Wins TCEC Swiss 3 and CCC17 Blitz</A></TD><TD VALIGN=TOP>2022-07-25:<BR><A HREF=\"http",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-for-heroes-publication/",
          "pubDate" : "Sun, 25 Dec 2022 10:58:57 +0000",
          "title" : "Chess for Heroes Publication"
-      },
-      {
-         "description" : "World Champion Magnus Carlsen and US teenager Hans Moke Niemann will be in the same venue for the first time since the scandal that rocked the chess world in Saint Louis three months ago. The Norwegian faces a dilemma if he is paired against the teenager, who launched a $100 million lawsuit over cheating allegations.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-blitz-begins-as-carlsen-faces-dilemma",
-         "pubDate" : "Sun, 25 Dec 2022 08:10:52 +0000",
-         "title" : "World Rapid & Blitz begins on 26th as Carlsen faces dilemma"
       }
    ]
 }
