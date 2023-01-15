@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/",
+         "pubDate" : "Sun, 15 Jan 2023 20:10:53 +0000",
+         "title" : "Howard University Chess @ 2023 Pan-Ams"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 108th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/",
          "pubDate" : "Mon, 26 Dec 2022 00:10:41 +0000",
          "title" : "The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2151",
-         "pubDate" : "Sun, 25 Dec 2022 19:20:24 +0000",
-         "title" : "\"Welcome to Kazakhstan\": The World Rapid and Blitz Championships officially opened in Almaty"
       }
    ]
 }
