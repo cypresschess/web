@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Endgame Magic Show #223 Karsten shows endgame highlights from the FIDE World Rapid Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-223-endgame-highlights-of-the-fide-world-rapid-championship",
+         "pubDate" : "Mon, 16 Jan 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #223: Endgame Highlights of the FIDE World Rapid Championship"
+      },
+      {
          "description" : "In the past, Fritztrainers were only available on DVD - you had to wait for the post, and installation on hard disk and online activation were unavoidable. Nowadays, downloading is the standard - so the training courses can be installed and started directly after purchase. However, only on Windows or Mac OS. It is now even more convenient and faster with the stream function on the ChessBase video page - also usable on mobile devices such as iPad, tablet or smartphone. You don't even have to enter a serial number here. This is how it works!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,28 +98,12 @@ news_feed (
          "title" : "Tata Steel Chess 2: Carlsen and Giri strike"
       },
       {
-         "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 15 Jan 2023 16:06:00 -0800",
-         "title" : "Giri's Double Sacrifice Stuns Gukesh, Carlsen Grinds Down Keymer"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2173",
          "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
          "title" : "Tata Steel Masters: Four in the lead after Round 2"
-      },
-      {
-         "description" : "The ongoing controversy involving 19-year-old GM Hans Niemann gained a peculiar twist on Tuesday. Niemann amended his lawsuit with an additional 13 pages, notably accusing world champion GM Magnus Carlsen of paying fellow Norwegian grandmaster, Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-amends-complaint",
-         "pubDate" : "Sun, 15 Jan 2023 15:09:22 -0800",
-         "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
       },
       {
          "description" : "The second round of the Tata Steel Masters 2023 kicked off today with a famous gong sound. It was a sensational day with two decisive results, while five games finished in a draw. Anish Giri's brilliant victory over Indian teen chess star Gukesh D certainly marked the round. Giri was in the attacking mood, performing []",
@@ -210,14 +202,6 @@ news_feed (
          "title" : "Young guns by the sea"
       },
       {
-         "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
-         "title" : "Ding, Abdusattorov Score First Victories"
-      },
-      {
          "description" : "World no. 2 Ding Liren was at his terrifying best as he beat Gukesh in Round 1 of the Tata Steel Masters. 18-year-old Nodirbek Abdusattorov scored the only other win, against Richard Rapport, while Magnus Carlsen, Anish Giri and Vincent Keymer missed chances. That was nothing, however, compared to the misses in the Challengers, where Abhimanyu Mishra and Max Warmerdam took the early lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -298,14 +282,6 @@ news_feed (
          "title" : "Where will the World Championship match take place?"
       },
       {
-         "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
-         "pubDate" : "Sat, 14 Jan 2023 00:32:00 -0800",
-         "title" : "'Robson Is The Mittens Of Puzzle Rush'"
-      },
-      {
          "description" : "In the diagram position it is White to move. Black just played 48...Qe2??, a move that looks strong but allows White a surprising win. What should White do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +304,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-aronian-in-tata-steel-masters-round-1",
          "pubDate" : "Fri, 13 Jan 2023 22:13:27 +0000",
          "title" : "Carlsen-Aronian in Tata Steel Masters Round 1"
-      },
-      {
-         "description" : "The PRO Chess League (PCL) returns on February 1 with a $110,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
-         "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
-         "title" : "2023 PRO Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
          "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
@@ -546,22 +514,6 @@ news_feed (
          "title" : "FIDE without a venue for Nepo vs Ding less than 90 days before start"
       },
       {
-         "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
-         "pubDate" : "Wed, 11 Jan 2023 09:08:00 -0800",
-         "title" : "Multiple Decisive Tournament Victories Tuesday"
-      },
-      {
-         "description" : "Chess.com&#39;s Clock app just got updated on iOS and Android. With more functionality, tons of useful presets, and an overall better design, the most popular chess clock app in the world got even better.&#38;nbsp; If you&#39;re on the go and have a chess s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-clock-app-update",
-         "pubDate" : "Wed, 11 Jan 2023 06:00:00 -0800",
-         "title" : "Chess.com's Clock App Just Got Updated With More Features And Better Design"
-      },
-      {
          "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -658,14 +610,6 @@ news_feed (
          "title" : "Top arbiter sidelined over \"Women, Life, Freedom\" T-shirt"
       },
       {
-         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-grand-chess-tour-tournaments-dates",
-         "pubDate" : "Tue, 10 Jan 2023 02:44:00 -0800",
-         "title" : "2023 Grand Chess Tour: St. Louis Events Moved To November-December"
-      },
-      {
          "description" : "The Grand Chess Tour has announced its dates for the 2023 series. The tour will again consist of five tournaments, which will take place in Bucharest, Warsaw, Zagreb and Saint Louis with dates in May, July and November/December 2023.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +640,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-juniors-2022-hans-niemann",
          "pubDate" : "Mon, 09 Jan 2023 21:00:00 +0100",
          "title" : "Top juniors in 2022: Hans Niemann"
-      },
-      {
-         "description" : "The Iranian international arbiter Shohreh Bayat was reprimanded by the International Chess Federation (FIDE) for wearing pro-human rights clothing at the 2022 Fischer Random World Chess Championship in Reykjavik. While FIDE considered it &#34;unprofes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/iranian-chess-arbiter-shohreh-bayat-fide-t-shirt",
-         "pubDate" : "Mon, 09 Jan 2023 10:03:00 -0800",
-         "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Monday, January 9, 2023) -</strong> <a href=\"http://grandchesstour.org\">The Grand Chess Tour (GCT)</a>, a circuit of international events, each demonstrating the highest level of organization for the world's best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical tournaments will be $350,000 and $175,000 per event for rapid and blitz. In addition, a bonus prize fund totalling $175,000 will be awarded to the top three overall tour finishers. </div><div class=\"field field-name-field-author field-type-",
@@ -1114,28 +1050,12 @@ news_feed (
          "title" : "2023 Australian Open - Day 3"
       },
       {
-         "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-kollars-win-titled-tuesday-january-3-2023",
-         "pubDate" : "Wed, 04 Jan 2023 10:18:00 -0800",
-         "title" : "Duda Rings In New Year With Tournament Victory"
-      },
-      {
          "description" : "The 3rd World Chess Championship between Wilhelm Steinitz and Isidor Gunsberg that ran from December 9, 1890 to January 22, 1891 was a closely fought match. At the end of 19 games, Steinitz emerged victorious, 6-4, to retain his title. Gunsberg's good result in this match was no coincidence. Gunsberg was one of the strongest players of his time though today he is almost forgotten. Eugene Manlapao takes a look at the life and career of this relatively unknown World Championship challenger. | Photo source: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/isidor-gunsberg-and-the-1890-world-championship-match-2",
          "pubDate" : "Wed, 04 Jan 2023 17:00:00 +0100",
          "title" : "Isidor Gunsberg and the 1890 World Championship Match"
-      },
-      {
-         "description" : "The theme of \"decision-making\" is an essential part of every chess game. At every moment of the game, you must make a decision that is not only tactical; as psychology, structural preferences, positional basics and good variation calculation are all part of the process of making the right decision.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-making-the-right-decisions-in-chess-fundamentals",
-         "pubDate" : "Wed, 04 Jan 2023 15:00:00 +0100",
-         "title" : "New: Making the right decisions in chess - Fundamentals"
       },
       {
          "description" : "",
@@ -1176,30 +1096,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown",
          "pubDate" : "Wed, 04 Jan 2023 02:01:21 +0000",
          "title" : "Forcing Moves Revisited | Beginner Breakdown"
-      },
-      {
-         "description" : "On the website of the Swiss Chess Federation the news was published that GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. Kosteniuk herself hasn&#39;t conf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexandra-kosteniuk-to-play-for-switzerland",
-         "pubDate" : "Tue, 03 Jan 2023 15:05:00 -0800",
-         "title" : "'Alexandra Kosteniuk To Play For Switzerland'"
-      },
-      {
-         "description" : "Over 10,000 members chimed in with their votes this year, and Chess.com is happy to announce the winners of the 2022 Chess.com Awards! These awards are an opportunity to celebrate the fantastic year 2022 has been for chess. They are also a way for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
-         "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
-         "title" : "2022 Chess.com Awards Winners"
-      },
-      {
-         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
-         "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
-         "title" : "Puzzle Week! Free Features Every Day, Puzzles World Championship, And More!"
       },
       {
          "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
@@ -1298,22 +1194,6 @@ news_feed (
          "title" : "50th Rilton Cup 2022-23 - Games and Results"
       },
       {
-         "description" : "IM Sarasadat Khademalsharieh (Sara Khadem), who defied the Iranian dress code for women by refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships, will not be returning home after her last tournament of the year. With he...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
-         "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
-         "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
-      },
-      {
-         "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-cat-bots",
-         "pubDate" : "Sat, 31 Dec 2022 23:24:00 -0800",
-         "title" : "Cat Bots: The Purrfect Way To Start The Year"
-      },
-      {
          "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1410,14 +1290,6 @@ news_feed (
          "title" : "Magnus Carlsen and Bibisara Assaubayeva win the World Blitz Chess Championships"
       },
       {
-         "description" : "GM Magnus Carlsen earned the 2022 FIDE World Blitz Championship title on Friday with a score of 16/21, one point ahead of silver medalist GM Hikaru Nakamura and bronze medalist on tiebreak, GM Haik Martirosyan. Carlsen&#39;s victory, which was confi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2022-fide-world-blitz-chess-championship-day-2",
-         "pubDate" : "Fri, 30 Dec 2022 05:24:00 -0800",
-         "title" : "Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
-      },
-      {
          "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1440,14 +1312,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-blitz-day-1-magnus-cuts-it-close-hikaru-hunts-1st-title",
          "pubDate" : "Fri, 30 Dec 2022 00:20:19 +0000",
          "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
-      },
-      {
-         "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Thu, 29 Dec 2022 11:01:00 -0800",
-         "title" : "Commanding Lead For Nakamura At World Blitz Chess Championship"
       },
       {
          "description" : "",
@@ -1498,28 +1362,12 @@ news_feed (
          "title" : "Magnus Carlsen and Tan Zhongyi are the World Champions in Rapid"
       },
       {
-         "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-martinez-win-titled-tuesday-december-27-2022",
-         "pubDate" : "Wed, 28 Dec 2022 09:05:38 -0800",
-         "title" : "Firouzja Wraps Up Year With Titled Tuesday Win"
-      },
-      {
          "description" : "The ECF match against Team France will start at 5.00 pm on Sunday 1st January over three legs as follows &#8212; 5.00pm England vs France...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/england-vs-france-new-years-day-online-challenge/",
          "pubDate" : "Wed, 28 Dec 2022 16:02:38 +0000",
          "title" : "England vs France - New Years Day Online Challenge"
-      },
-      {
-         "description" : "GM Magnus Carlsen claimed his fourth world rapid chess crown on Wednesday and finished with a commanding score of 10/13 in the 2022 FIDE World Rapid Chess Championship.&#38;nbsp; A round-11 hiccup against GM Vladislav Artemiev pulled Carlsen&#39;s tourn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-3",
-         "pubDate" : "Wed, 28 Dec 2022 07:15:00 -0800",
-         "title" : "Carlsen Wins 4th Rapid World Championship, Tan Takes Women's Title"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96576036.cms\" />Fifteen-year-old Indian WIM B Savitha Shri on Wednesday won a bronze medal in the women's event of FIDE World Rapid Championship here.",
@@ -1578,14 +1426,6 @@ news_feed (
          "title" : "2022 Liberian Chess Championship"
       },
       {
-         "description" : "GM Magnus Carlsen assumed the pole position heading into the third and final day of the 2022 FIDE World Rapid Chess Championship having scored key wins over GMs Jorden van Foreest and Giga Quparadze on Tuesday. The classical world champion&#39;s 7.5...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Tue, 27 Dec 2022 09:05:00 -0800",
-         "title" : "Carlsen Captures Sole Lead In Penultimate Day Of Rapid Chess"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96551162.cms\" />Teenaged Indian player B Savitha Shri came up with a fine performance to jump into the joint lead with Zhongyi Tan (China) and Aleksandra Goryachkina with 6.5 points after the eighth round in the women's event of the FIDE World Rapid Chess Championships here on Tuesday.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1626,14 +1466,6 @@ news_feed (
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-gashimov-memorial-abdusattorov-wins",
-         "pubDate" : "Mon, 26 Dec 2022 20:18:00 -0800",
-         "title" : "Abdusattorov Convincing At Gashimov Memorial"
-      },
-      {
          "description" : "Magnus Carlsen beat reigning World Rapid Champion Nodirbek Abdusattorov in brilliant style as he scored 4.5/5 on Day 1 of the World Rapid Championship in Almaty, Kazakhstan. He was held to a draw only by Arjun Erigaisi, with Vladimir Fedoseev and Jorden van Foreest the other co-leaders in the Open section. Valentina Gunina leads the Women's section on a perfect 4/4.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1648,46 +1480,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/26/2022-world-rapid-blitz-almaty-kazakhstan/",
          "pubDate" : "Mon, 26 Dec 2022 20:57:16 +0000",
          "title" : "2022 World Rapid & Blitz (Almaty, Kazakhstan)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2153",
-         "pubDate" : "Mon, 26 Dec 2022 20:12:23 +0000",
-         "title" : "World Rapid & Blitz: Gunina leads among Women as four players share first place in the Open"
-      },
-      {
-         "description" : " &#8220;You always admire what you really don't understand&#8221; Blaise Pascal Lionel Messi and Argentina have won the World Cup 2022. They showed mental toughness, determination and brilliance. There are a lot of lessons to be learned from their quest. In celebration of this historic win, after a unique final we may never see again, I <a href=\"https://chessimprover.com/the-great-ones-7/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Great Ones (7)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-great-ones-7/\">The Great Ones (7)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-great-ones-7/",
-         "pubDate" : "Mon, 26 Dec 2022 19:31:31 +0000",
-         "title" : "The Great Ones (7)"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Vladimir Fedoseev, Jorden van Foreest, and Arjun Erigaisi share the lead after an action-packed first day of the 2022 FIDE World Rapid Chess Championship. After five rounds the leaders dropped only half a point each having fe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Mon, 26 Dec 2022 11:04:00 -0800",
-         "title" : "Carlsen Beats World Rapid Chess Champion, Leads With Fedoseev, Van Foreest, Erigaisi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2152",
-         "pubDate" : "Mon, 26 Dec 2022 16:46:19 +0000",
-         "title" : "Carlsen on ambitions in Almaty and the greatest lesson learnt from chess"
-      },
-      {
-         "description" : "In the previous post on the world's foremost engine vs. engine competitions, <A HREF=\"http://chessforallages.blogspot.com/2022/12/tcecccc-interludes.html\">TCEC/CCC Interludes</A>(December 2022), I could have incorporated an explanation of 'Why interludes?', but I doubt it would have been news to many chess engine fans. Following is a summary of that post. <BLOCKQUOTE>TCEC: LCZero beat KomodoDragon +24-13=63 in the 'S23 Subfinal' for the S23 runnerup position. The site then organized another VVLTC event, the third time that VVLTC has followed a Sufi. The S23 VVLTC was followed by an SVVLTC, which was followed by 'Noomen Extra 2'; see the 'Interludes' post for an explanation of its 3+11 engine",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html",
-         "pubDate" : "Mon, 26 Dec 2022 16:42:00 +0000",
-         "title" : "TCEC More Interludes; CCC19 Bullet Underway"
       }
    ]
 }
