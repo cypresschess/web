@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the past, Fritztrainers were only available on DVD - you had to wait for the post, and installation on hard disk and online activation were unavoidable. Nowadays, downloading is the standard - so the training courses can be installed and started directly after purchase. However, only on Windows or Mac OS. It is now even more convenient and faster with the stream function on the ChessBase video page - also usable on mobile devices such as iPad, tablet or smartphone. You don't even have to enter a serial number here. This is how it works!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/streaming-what-the-heart-desires",
+         "pubDate" : "Mon, 16 Jan 2023 15:00:00 +0100",
+         "title" : "Streaming what the heart desires"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Mon, 16 Jan 2023 14:00:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "After two played rounds at the Tata Steel Chess Challengers 2023, four players are tying for the top with 1.5 points each: Abhimanyu Mishra,&#xA0;Amin Tabatabaei,&#xA0;Alexander Donchenko&#xA0;and&#xA0;Max Warmerdam. Tata Steel Challengers 2023 Round 2 recap / LIVE games The third round starts at 14:00 CEST, with 15-minute delay of the broadcast. Round 3 pairings are: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-3-pairings/",
+         "pubDate" : "Mon, 16 Jan 2023 12:37:54 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 3 pairings"
+      },
+      {
+         "description" : "Am Freitag endete die 82. Georgische Landesmeisterschaft in Tiflis mit einem Sieg von Mikheil Mchedlishvili (Foto). Das Turnier wurde mit zehn Spielern im Modus jeder gegen jeden gespielt. Mchedlishvili kam als einziger Spieler auf 7 Punkte. Giga Quparadze wurde Zweiter vor Tornike Sanikidze. | Fotos: Georgischer Schachverband",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mikheil-mchedlishvili-wins-2023-georgian-championship",
+         "pubDate" : "Mon, 16 Jan 2023 13:31:52 +0100",
+         "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
+      },
+      {
+         "description" : "After two played rounds of the 2023 Tata Steel Masters four players tie for the first place: Magnus Carlsen, Ding Liren, Nodirbek Abdusattorov and Anish Giri. The third round starts today at 14:00 CEST with the live broadcast starting with 15 minutes delay. Tata Steel Masters Round 2 recap / LIVE games The pairings are: []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-3-pairings/",
+         "pubDate" : "Mon, 16 Jan 2023 12:31:27 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 3 pairings"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -224,22 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/new-york-winter-invitational-im-c-2023-live/",
          "pubDate" : "Sat, 14 Jan 2023 22:18:24 +0000",
          "title" : "New York Winter Invitational IM (C) 2023 - LIVE"
-      },
-      {
-         "description" : "The New York Winter Invitational GM (B) is taking place from 13&#x2013;16 January 2022 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Vincent Tsay, Gabor Nagy, Josiah Stearman, Oliver Barbosa, Aarav Dengla, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-winter-invitational-gm-b-2023-live/",
-         "pubDate" : "Sat, 14 Jan 2023 22:11:05 +0000",
-         "title" : "New York Winter Invitational GM (B) 2023 - LIVE"
-      },
-      {
-         "description" : "The New York Winter Invitational GM (A) is taking place from 13&#x2013;16 January 2022 in New York, New York, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Gergely Kantor, Justus Williams, Aleksandr Ostrovskiy, Robert Shlyakhtenko, Joseph Levine, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-york-winter-invitational-gm-a-2023-live/",
-         "pubDate" : "Sat, 14 Jan 2023 22:05:02 +0000",
-         "title" : "New York Winter Invitational GM (A) 2023 - LIVE"
       },
       {
          "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
@@ -1138,14 +1162,6 @@ news_feed (
          "title" : "Tom and Jerry"
       },
       {
-         "description" : "The cosmopolitan city of Almaty saw Magnus Carlsen adding two world titles to his collection, while Tan Zhongyi and Bibisara Assaubayeva took home gold medals in the women's events. With so much chess being played in a span of five days, Karsten M&uuml;ller had no trouble finding remarkable endgames to share with us. Find here six instructive positions to learn and enjoy! | Pictured: Vincent Keymer trying to make the most of his good knight against Maxime Vachier-Lagrave's bad bishop. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-ch-2022-endgames",
-         "pubDate" : "Wed, 04 Jan 2023 09:17:22 +0100",
-         "title" : "Endgames from Almaty"
-      },
-      {
          "description" : " The 2nd day of the 2023 Australian Open saw rounds 2 and 3 take place, with the tournament top seeds emerging unscathed. Both rounds saw a number of promising juniors take on the top seeds, but experience prevailed over enthusiasm. However, included in the group on 3/3 is one surprise packet, Anna Rozuwiecka from Victoria. She upset FM Patrick Gong in round 2 and then beat Rob Maris in the third round. The Minor has 6 players on 3/3. There are 2 unrated players in this group (Tharanga Gunasekara and Leo Ross) along with the usual group of improving junior players. Today is a single round day, with play commencing at 1400 Perth time. <br /> <b>Salasan,Haran (2002) - Johansen,Darryl K (2360) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1192,22 +1208,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/january-1973-1998-on-cover.html",
          "pubDate" : "Tue, 03 Jan 2023 16:22:00 +0000",
          "title" : "January 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "Of all traditional chess tournaments that still take place, the Chess Congress in Hastings has the longest tradition. This year, it sees its 96th edition. To celebrate the event, James Bacon, the mayor of Hastings, opened the tournament in his official attire. After the first six rounds Sarunas Sulskis from Lithuania leads with 6.0/6.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tradition-the-96th-caplin-hastings-international-chess-congress",
-         "pubDate" : "Tue, 03 Jan 2023 17:06:08 +0100",
-         "title" : "Tradition! - The 96th Caplin Hastings International Chess Congress"
-      },
-      {
-         "description" : "When we see a child playing chess, it is easy for us to associate such activity with the development of important cognitive skills. Chess is perceived as a way to improve logical reasoning and the ability to solve complex problems. However, what level of scientific verification have we obtained so far on this issue? Peruvian psychologist Percy Guzman carried out an experimental study to elucidate these questions. | Photo: Nadja Wittmann",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/benefits-of-chess-in-the-school-population",
-         "pubDate" : "Tue, 03 Jan 2023 16:00:02 +0100",
-         "title" : "Benefits of chess in the school population"
       },
       {
          "description" : "",
@@ -1688,22 +1688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html",
          "pubDate" : "Mon, 26 Dec 2022 16:42:00 +0000",
          "title" : "TCEC More Interludes; CCC19 Bullet Underway"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96524898.cms\" />India's star player Koneru Humpy won three games in four rounds to share the joint second place with four others in the women's event of the FIDE World Rapid Chess Championships which kicked off here on Monday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/arjun-erigaisi-in-joint-lead-with-magnus-carlsen-vladimir-fedoseev-koneru-humpy-in-joint-second-spot/articleshow/96524898.cms",
-         "pubDate" : "Mon, 26 Dec 2022 16:21:28 +0000",
-         "title" : "Erigaisi in joint lead with Carlsen, Fedoseev; Humpy in joint second spot"
-      },
-      {
-         "description" : " The 2022 World Rapid and Blitz has just started. As it is being held in Kazakhstan, the time zone difference isn't that bad, with play starting in the evening (Canberra time). As I type this it is up to the third round of the Rapid, with Carlsen in some trouble against Tomashevsky. The tournament is exceptionally strong, with 178 players in the Open, and 98 in the Women's Championship. Bobby Cheng is the sole Australian representative, seeded 111th at the start. Given the importance of th event, it is being covered at most online sites. I'm currently watching it via chess24 (Peter Leko commentating), but I may sample a few other sites over the next few days. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/world-rapid-and-blitz.html",
-         "pubDate" : "Mon, 26 Dec 2022 12:42:00 +0000",
-         "title" : "World Rapid and Blitz"
       }
    ]
 }
