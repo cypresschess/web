@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Anish Giri joined Nodirbek Abdusattorov and Ding Liren in the lead of the Tata Steel Masters tournament after winning their second-round games. Giri sacrificed material to get a remarkable victory over Gukesh, while Carlsen showed great technique to take down Vincent Keymer. In the Challengers, Eline Roebers, Alexander Donchenko and Amin Tabatabaei grabbed full points in round 2. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r2",
+         "pubDate" : "Mon, 16 Jan 2023 11:30:00 +0100",
+         "title" : "Tata Steel Chess R2: Carlsen and Giri catch up"
+      },
+      {
+         "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/ Rs. 6250/ as the case",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-national-team-national-team-for-women-chess-championship-2023/",
+         "pubDate" : "Mon, 16 Jan 2023 10:28:54 +0000",
+         "title" : "Notice : National Team & National Team for Women Chess Championship 2023"
+      },
+      {
+         "description" : "Anish Giri went for a stunning sacrificial attack to beat Gukesh while Magnus Carlsen ground out victory over Vincent Keymer to join Ding Liren and Nodirbek Abdusattorov in the lead after Round 2 of the Tata Steel Masters in Wijk aan Zee. In the Challengers, Amin Tabatabaei blundered a piece on move 6 of a King's Gambit but somehow went on to win, while 16-year-old Eline Roebers stunned Dutch Champion Erwin l'Ami.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-2-carlsen-and-giri-strike",
+         "pubDate" : "Mon, 16 Jan 2023 09:46:25 +0000",
+         "title" : "Tata Steel Chess 2: Carlsen and Giri strike"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-2",
+         "pubDate" : "Sun, 15 Jan 2023 16:06:00 -0800",
+         "title" : "Giri's Double Sacrifice Stuns Gukesh, Carlsen Grinds Down Keymer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2173",
+         "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
+         "title" : "Tata Steel Masters: Four in the lead after Round 2"
+      },
+      {
+         "description" : "The ongoing controversy involving 19-year-old GM Hans Niemann gained a peculiar twist on Tuesday. Niemann amended his lawsuit with an additional 13 pages, notably accusing world champion GM Magnus Carlsen of paying fellow Norwegian grandmaster, Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-amends-complaint",
+         "pubDate" : "Sun, 15 Jan 2023 15:09:22 -0800",
+         "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
+      },
+      {
+         "description" : "The second round of the Tata Steel Masters 2023 kicked off today with a famous gong sound. It was a sensational day with two decisive results, while five games finished in a draw. Anish Giri's brilliant victory over Indian teen chess star Gukesh D certainly marked the round. Giri was in the attacking mood, performing []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-day-2-giris-sensational-victory-over-gukesh/",
+         "pubDate" : "Sun, 15 Jan 2023 21:16:37 +0000",
+         "title" : "Tata Steel Masters 2023 - Day 2 & Giri's sensational victory over Gukesh!"
+      },
+      {
+         "description" : "The Tata Steel Challengers 2023 is ongoing in Wijk aan Zee with 14 players fighting for the starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Three games finished today with decisive results, with 17-year-old IM Eline Roebers stealing the show as she defeated the reigning Dutch Chess Champion GM Erwin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/four-way-tie-for-the-top-of-the-tata-steel-challengers-2023-round-2-recap/",
+         "pubDate" : "Sun, 15 Jan 2023 21:00:04 +0000",
+         "title" : "Four-way tie for the top of the Tata Steel Challengers 2023 - Round 2 recap"
+      },
+      {
          "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,20 +74,28 @@ news_feed (
          "title" : "Howard University Chess @ 2023 Pan-Ams"
       },
       {
+         "description" : " The second round of Wijk aan Zee was another exciting one watched by more than a 1000 spectators on site. Game of the day was played by Anish Giri in defeating D Gukesh with some new ideas in the Ragozin. Magnus Carlsen won after making it slightly difficult for himself, Ding Liren looked like he was headed for 2/2 but failed to convert what seemed to be at one stage a winning position. After two rounds we have four leaders, Carlsen, Giri, Ding and Nodirbek Abdusattorov and one person having a difficult time: Gukesh. Read Michiel Abeln's on the spot report in the main text. In the Challengers Group Eline Roebers scored a fine win against Erwin L'Ami, Alexander Donchenko defeated Rameshbabu ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-joins-the-leaders-after-beating-keymer-in-round-2-of-tata-steel-chess",
+         "pubDate" : "Sun, 15 Jan 2023 21:30:00 +0400",
+         "title" : "Carlsen joins the leaders after beating Keymer in round 2 of Tata Steel Chess - 2"
+      },
+      {
+         "description" : "I never had a farm in Africa, but I once wrote a page titled <A HREF=\"https://www.mark-weeks.com/aboutcom/aa07e19.htm\">The Rise of Internet Chess</A>(m-w.com), subtitled 'The Internet -- meaning technologies that link networks together -- has been very good to chess', dated May 2007. A few years after I wrote the page, another chess fan asked if I could update it. <P>I thought about the request a little bit -- which is as much as I think about anything -- and realized that a follow-up to the page would necessarily be titled 'The Rise of Chess.com'. Why necessarily? Partly because the site started around the same time as my 'Internet Chess' page ended and partly because the site has defined o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html",
+         "pubDate" : "Sun, 15 Jan 2023 16:08:00 +0000",
+         "title" : "The Rise of Chess.com"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 108th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-2",
          "pubDate" : "Sun, 15 Jan 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 108: Play the Sicilian (9)"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sun, 15 Jan 2023 14:00:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
@@ -152,22 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/charlotte-open-2023-live/",
          "pubDate" : "Sat, 14 Jan 2023 21:43:48 +0000",
          "title" : "Charlotte Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Sevilla Open is taking place from 13&#x2013;21 January 2023 in Seville, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 9-round Swiss tournament with participation of Titas Stremavicius, G.A. Stany, Rodrigo Vasquez Schroeder, Vignesh N R, Nikola Sedlak, Cristhian Camilo Rios, Vitor Morais, Ernesto []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sevilla-open-2023-live/",
-         "pubDate" : "Sat, 14 Jan 2023 21:37:37 +0000",
-         "title" : "Sevilla Open 2023 - LIVE"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess kicked off today in Wijk aan Zee, featuring 14 grandmasters who will compete in a 13-round round-robin tournament from 13-29 January 2023. Only two games of the first round finished with a decisive result. 18-year-old Nodirbek Abdusattorov prevailed against Richard Rapport in a very interesting and creative []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-and-ding-liren-in-early-lead-at-tata-steel-masters-2023/",
-         "pubDate" : "Sat, 14 Jan 2023 21:37:31 +0000",
-         "title" : "Abdusattorov and Ding Liren in early lead at Tata Steel Masters 2023"
       },
       {
          "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
@@ -1562,14 +1618,6 @@ news_feed (
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
       },
       {
-         "description" : "National U-13 Open &#38; Girls Chess Championship 2022, Pondicherry Certificates are out to download Download using the link given below: Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-13-certificates-pondicherry/",
-         "pubDate" : "Tue, 27 Dec 2022 06:53:55 +0000",
-         "title" : "National U-13 Certificates, Pondicherry."
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1648,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/world-rapid-and-blitz.html",
          "pubDate" : "Mon, 26 Dec 2022 12:42:00 +0000",
          "title" : "World Rapid and Blitz"
-      },
-      {
-         "description" : " From the publisher: &#8220;When the Icelandic Chess Federation made a bid to host the 1972 world title match between Soviet icon Boris Spassky and American challenger Bobby Fischer, many Icelanders <a href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-insid",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2022/12/26/the-match-of-all-time-the-inside-story-of-the-legendary-1972-fischer-spassky-world-chess-championship-in-reykjavik/",
-         "pubDate" : "Mon, 26 Dec 2022 00:10:41 +0000",
-         "title" : "The Match of All Time: The Inside Story of the legendary 1972 Fischer-Spassky World Chess Championship in Reykjavik"
       }
    ]
 }
