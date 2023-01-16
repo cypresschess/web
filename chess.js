@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-3-live/",
+         "pubDate" : "Mon, 16 Jan 2023 12:24:50 +0000",
+         "title" : "Tata Steel Chess 2023 - Day 3 live"
+      },
+      {
+         "description" : "In football, the area around the center line is usually a hazard-free space. But in chess, when a knight crosses the centre line - i.e. if it jumps from his own half of the playing field to that of the opponent - then it \"usually sends a clear attack signal\", writes Oliver Reeh in his tactics section in ChessBase Magazin #211. His collection of tasks in the new edition includes 38 games, which are peppered with many training questions. Attacking knights play an important role in almost all cases. We would like to present the first three tasks from the collection as well as an excerpt from his first interactive video here. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jumping-across-the-centre-line",
+         "pubDate" : "Mon, 16 Jan 2023 13:00:00 +0100",
+         "title" : "\"Jumping across the centre line\""
+      },
+      {
+         "description" : " The first big OTB event of the year is underway in The Netherlands. The Tata Steel tournament has attracted the usual strong collection of GM's, including the soon no-to-be World Champion Magnus Carlsen, He has had a pretty good start with 1.5/2, but the game of the tournament so far is Anish Giri's win over Gukesh. A piece sac followed by rook sac did not immediately lead to a forced mate, with the Queen and Bishop controlled enough squares around the exposed King to end the game quickly. <br /> <br /> <b>Giri,Anish (2764) - Gukesh D (2725) [D38]</b><br />Tata Steel Masters chess24.com (2.6), 15.01.2023 <script>new PgnViewer( { boardName: \"game1376\", movesFormat: \"default\", pgnString:'1.d4",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/tata-steel.html",
+         "pubDate" : "Mon, 16 Jan 2023 11:59:00 +0000",
+         "title" : "Tata Steel"
+      },
+      {
          "description" : "Magnus Carlsen and Anish Giri joined Nodirbek Abdusattorov and Ding Liren in the lead of the Tata Steel Masters tournament after winning their second-round games. Giri sacrificed material to get a remarkable victory over Gukesh, while Carlsen showed great technique to take down Vincent Keymer. In the Challengers, Eline Roebers, Alexander Donchenko and Amin Tabatabaei grabbed full points in round 2. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "Understanding before Moving 108: Play the Sicilian (9)"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-2-live/",
@@ -216,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/new-york-winter-invitational-gm-a-2023-live/",
          "pubDate" : "Sat, 14 Jan 2023 22:05:02 +0000",
          "title" : "New York Winter Invitational GM (A) 2023 - LIVE"
-      },
-      {
-         "description" : "The Charlotte Open is taking place from 14-16 January 2023 in Charlotte, NC, USA. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 6-round Swiss tournament with participation of Daniel Naroditsky, Olexandr Bortnyk, Brandon Jacobson, Andrew Tang, David Brodsky, Levan Bregadze, James Canty, Aiden Reiss, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-open-2023-live/",
-         "pubDate" : "Sat, 14 Jan 2023 21:43:48 +0000",
-         "title" : "Charlotte Open 2023 - LIVE"
       },
       {
          "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/benefits-of-chess-in-the-school-population",
          "pubDate" : "Tue, 03 Jan 2023 16:00:02 +0100",
          "title" : "Benefits of chess in the school population"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation (KCF) celebrated its 20th anniversary this year with a gala on November 16th. However, the gala event was not the last event of the year as there was one more work session left. In the week before Christmas, from December 16-18, Garry Kasparov trained six talented youngsters, who had an average age of 13 and an average Elo rating of 2490. | Photos: Kasparov Chess Foundation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/studying-chess-with-a-legend-kasparov-trains-young-talents",
-         "pubDate" : "Tue, 03 Jan 2023 12:00:00 +0100",
-         "title" : "Studying chess with a legend: Kasparov trains young talents"
       },
       {
          "description" : "",
