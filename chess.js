@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on trading pieces and counting their worth. When is it a good time to trade and when is it best to leave the material on the board? 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trading-and-counting-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M08I2eq04eg.jpg?itok=1v1xRsnP\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/trading-and-counting-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 17 Jan 2023 20:13:15 +0000",
+         "title" : "Trading and Counting | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov continues his chess class on decision-making in complicated positions. 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yjo5shT118I.jpg?itok=Tr_yZPgn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov",
+         "pubDate" : "Tue, 17 Jan 2023 20:13:15 +0000",
+         "title" : "Make Decisions in Complex Positions: Part 2 | Grandmaster's Choice - GM Igor Novikov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2176",
+         "pubDate" : "Tue, 17 Jan 2023 17:44:25 +0000",
+         "title" : "Chess for Freedom Conference scheduled for May 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "Pranesh M wins 2022/2023 Rilton Cup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-preparation-specific-variation-prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_TCMAq7JsRA.jpg?itok=c8i1b1Qc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-preparation-specific-variation-prepare-pro-gm-igor-novikov",
-         "pubDate" : "Thu, 05 Jan 2023 20:02:56 +0000",
-         "title" : "Chess Preparation for a Specific Variation | Prepare Like A Pro - GM Igor Novikov"
-      },
-      {
          "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Let us start with the clear leader of the pack, Alireza Firouzja. | Find here analysis of a remarkable victory by Firouzja, annotated by Romain Edouard. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-2.html",
          "pubDate" : "Wed, 04 Jan 2023 03:19:00 +0000",
          "title" : "2023 Australian Open - Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on forcing moves.<br /> A forcing move is not always a check. See zugzwangs, waiting moves, and more! 2023.01.03<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> C03 French, Tarrasch<br /> A45 Paleface attack<br /> Alex Moellering vs. N. N., ???: B22 Sicilian, Alapin&#039;s variation (2.c3) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/forcing-moves-revisited-beginner-breakdown",
-         "pubDate" : "Wed, 04 Jan 2023 02:01:21 +0000",
-         "title" : "Forcing Moves Revisited | Beginner Breakdown"
       },
       {
          "description" : "On the website of the Swiss Chess Federation the news was published that GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. Kosteniuk herself hasn&#39;t conf...",
@@ -1640,38 +1648,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-rapid-day-2-keymer-chases-carlsen",
          "pubDate" : "Wed, 28 Dec 2022 00:01:43 +0000",
          "title" : "World Rapid Day 2: Keymer chases Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2155",
-         "pubDate" : "Tue, 27 Dec 2022 20:10:01 +0000",
-         "title" : "Carlsen and Tan Zhongyi in the lead ahead of final day of World Rapid"
-      },
-      {
-         "description" : " The Liberian Chess Federation (LCF) hosted its national championship with Bobby Ballah winning in dominating fashion with 9.5/11. The champion eclipsed the field by a full point and two points over the 2019 champion, Thomas Saah. Ballah was in good form in the tournament and came in as the 5th seed. He only lost one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/\">2022 Liberian Chess Championship</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/12/27/2022-liberian-chess-championship/",
-         "pubDate" : "Tue, 27 Dec 2022 17:32:59 +0000",
-         "title" : "2022 Liberian Chess Championship"
-      },
-      {
-         "description" : "GM Magnus Carlsen assumed the pole position heading into the third and final day of the 2022 FIDE World Rapid Chess Championship having scored key wins over GMs Jorden van Foreest and Giga Quparadze on Tuesday. The classical world champion&#39;s 7.5...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Tue, 27 Dec 2022 09:05:00 -0800",
-         "title" : "Carlsen Captures Sole Lead In Penultimate Day Of Rapid Chess"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96551162.cms\" />Teenaged Indian player B Savitha Shri came up with a fine performance to jump into the joint lead with Zhongyi Tan (China) and Aleksandra Goryachkina with 6.5 points after the eighth round in the women's event of the FIDE World Rapid Chess Championships here on Tuesday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-savitha-shri-storms-into-joint-lead-in-womens-event/articleshow/96551162.cms",
-         "pubDate" : "Tue, 27 Dec 2022 16:47:17 +0000",
-         "title" : "World Rapid Chess: Savitha Shri storms into joint lead in women's event"
       }
    ]
 }
