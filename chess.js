@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move - and he can win by making the most of his passed pawns. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-3",
+         "pubDate" : "Tue, 17 Jan 2023 09:00:00 +0100",
+         "title" : "The power of passed pawns"
+      },
+      {
+         "description" : "35th MPL National U-09 Certificates are out to download. Download using the link given. Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-09-certificates/",
+         "pubDate" : "Tue, 17 Jan 2023 06:37:33 +0000",
+         "title" : "National U-09 Certificates"
+      },
+      {
          "description" : " &#8220;Chess is not just a game, facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "Duda Rings In New Year With Tournament Victory"
       },
       {
-         "description" : "The 3rd World Chess Championship between Wilhelm Steinitz and Isidor Gunsberg that ran from December 9, 1890 to January 22, 1891 was a closely fought match. At the end of 19 games, Steinitz emerged victorious, 6-4, to retain his title. Gunsberg's good result in this match was no coincidence. Gunsberg was one of the strongest players of his time though today he is almost forgotten. Eugene Manlapao takes a look at the life and career of this relatively unknown World Championship challenger. | Photo source: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/isidor-gunsberg-and-the-1890-world-championship-match-2",
-         "pubDate" : "Wed, 04 Jan 2023 17:00:00 +0100",
-         "title" : "Isidor Gunsberg and the 1890 World Championship Match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2022/12/hastings-2022-23.html",
          "pubDate" : "Tue, 27 Dec 2022 11:58:00 +0000",
          "title" : "Hastings 2022-23"
-      },
-      {
-         "description" : "2nd seed Grandmaster Abhijeet Gupta of PSPB in sole lead after defeating International Master Koustav Chatterjee of West Bengal, Top seed Grandmaster Sethuraman SP of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022report-round-5/",
-         "pubDate" : "Tue, 27 Dec 2022 10:29:46 +0000",
-         "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
       }
    ]
 }
