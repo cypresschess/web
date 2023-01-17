@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2175",
+         "pubDate" : "Tue, 17 Jan 2023 15:26:26 +0000",
+         "title" : "Costa Rican Championship: Jim&eacute;nez and D&iacute;az clinch titles"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Tue, 17 Jan 2023 14:00:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " &#8220;Truth is always hiding in plan sight which means it's not hidden at all&#8221; Kyle Hoobin I have seen below position at different times floating around the internet. Until now I did not pay more attention to it beyond the solution. This time I took the time to read the comments added by readers to <a href=\"https://chessimprover.com/hardest-checkmate-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hardest Checkmate in 1?\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hardest-checkmate-in-1/\">Hardest Checkmate in 1?</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -159,7 +175,7 @@ news_feed (
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-joins-a-five-way-tie-for-the-lead-after-three-round-of-tata-steel-chess",
          "pubDate" : "Mon, 16 Jan 2023 20:33:00 +0400",
-         "title" : "Caruana joins a five way tie for the lead after three round of Tata Steel Chess - 3"
+         "title" : "Caruana joins a five way tie for the lead after three rounds of Tata Steel Chess - 3"
       },
       {
          "description" : "In the past, Fritztrainers were only available on DVD - you had to wait for the post, and installation on hard disk and online activation were unavoidable. Nowadays, downloading is the standard - so the training courses can be installed and started directly after purchase. However, only on Windows or Mac OS. It is now even more convenient and faster with the stream function on the ChessBase video page - also usable on mobile devices such as iPad, tablet or smartphone. You don't even have to enter a serial number here. This is how it works!",
@@ -1170,14 +1186,6 @@ news_feed (
          "title" : "Karthik Venkataraman wins 59. Indian Championship"
       },
       {
-         "description" : "As a chess player, you probably know this problem: The openings for the next chess tournament are all perfectly prepared, but then shortly before the tournament starts you start to wonder: what should I wear? ChessBase presents the new spring fashion, with prints that will impress your opponent. Also for the children and the dear four-legged friends. Now in the New Year's Sale!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-fashion-collection-2023",
-         "pubDate" : "Thu, 05 Jan 2023 12:00:00 +0100",
-         "title" : "ChessBase Fashion Collection 2023"
-      },
-      {
          "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1664,22 +1672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/world-rapid-chess-savitha-shri-storms-into-joint-lead-in-womens-event/articleshow/96551162.cms",
          "pubDate" : "Tue, 27 Dec 2022 16:47:17 +0000",
          "title" : "World Rapid Chess: Savitha Shri storms into joint lead in women's event"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2154",
-         "pubDate" : "Tue, 27 Dec 2022 13:06:00 +0000",
-         "title" : "Ni Hua and Zhu Jiner win 2022 Yinzhou Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2148",
-         "pubDate" : "Tue, 27 Dec 2022 12:55:57 +0000",
-         "title" : "Season's Greetings from FIDE President"
       }
    ]
 }
