@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Fabiano Caruana scored the sole victory of round three vs. GM Jorden van Foreest at the 2023 Tata Steel Chess Tournament. The young Dutch grandmaster threw the game into thrilling, swashbuckling waters out of the opening but Caruana countered b...",
+         "description" : " &#8220;Chess is not just a game, facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/",
+         "pubDate" : "Tue, 17 Jan 2023 01:53:41 +0000",
+         "title" : "Kenya's Bernice Wambui gives \"Gift of Chess\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2174",
+         "pubDate" : "Tue, 17 Jan 2023 01:01:44 +0000",
+         "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
+      },
+      {
+         "description" : "GM Fabiano Caruana scored the sole victory of round three vs. GM Jorden van Foreest at the 2023 Tata Steel Chess Tournament. The young Dutch grandmaster threw the game into thrilling, swashbuckling waters out of the opening, but Caruana countered ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-3",
@@ -1648,22 +1664,6 @@ news_feed (
          "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022report-round-5/",
          "pubDate" : "Tue, 27 Dec 2022 10:29:46 +0000",
          "title" : "MPL 59th Senior National Chess Championship - 2022:Report Round 5"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov won the 2022 Vugar Gashimov Memorial on Thursday with such a commanding lead that he clinched the tournament victory with five rounds to spare. GM Shakhriyar Mamedyarov finished second with the top score in the blitz segme...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-gashimov-memorial-abdusattorov-wins",
-         "pubDate" : "Mon, 26 Dec 2022 20:18:00 -0800",
-         "title" : "Abdusattorov Convincing At Gashimov Memorial"
-      },
-      {
-         "description" : "Magnus Carlsen beat reigning World Rapid Champion Nodirbek Abdusattorov in brilliant style as he scored 4.5/5 on Day 1 of the World Rapid Championship in Almaty, Kazakhstan. He was held to a draw only by Arjun Erigaisi, with Vladimir Fedoseev and Jorden van Foreest the other co-leaders in the Open section. Valentina Gunina leads the Women's section on a perfect 4/4.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-day-1-carlsen-s-abdusattorov-revenge",
-         "pubDate" : "Tue, 27 Dec 2022 01:19:53 +0000",
-         "title" : "World Rapid Day 1: Carlsen's Abdusattorov revenge"
       }
    ]
 }
