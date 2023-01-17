@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;Truth is always hiding in plan sight which means it's not hidden at all&#8221; Kyle Hoobin I have seen below position at different times floating around the internet. Until now I did not pay more attention to it beyond the solution. This time I took the time to read the comments added by readers to <a href=\"https://chessimprover.com/hardest-checkmate-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hardest Checkmate in 1?\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hardest-checkmate-in-1/\">Hardest Checkmate in 1?</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/hardest-checkmate-in-1/",
+         "pubDate" : "Tue, 17 Jan 2023 11:12:57 +0000",
+         "title" : "Hardest Checkmate in 1?"
+      },
+      {
+         "description" : "After three played rounds at the&#xA0;Tata Steel Challengers 2023, six players co-lead in the event scoring 2 points, each: Velimir Ivic, Mustafa Yilmaz, Javokhir Sindarov, Alexander Donchenko, Amin Tabatabaei and Max Warmerdam. The 4th round starts at 14:00 CEST with live broadcast starting 15 minutes later. Tata Steel Challengers 2023 Round 3 recap / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-4-pairings/",
+         "pubDate" : "Tue, 17 Jan 2023 11:07:57 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 4 pairings"
+      },
+      {
+         "description" : "After three played rounds at the Tata Steel Masters 2023, five players tie for the top scoring 2 points, each: Magnus Carlsen, Anish Giri, Ding Liren, Fabiano Caruana, and Nodirbek Abdusattorov. The fourth round starts today at 14:00 CEST, and the live broadcast of the games starts with 15 minutes delay. Tata Steel Challengers 2023 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-4-pairings/",
+         "pubDate" : "Tue, 17 Jan 2023 11:01:28 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 4 pairings"
+      },
+      {
+         "description" : "Last month World Chess, the company that ran the World Chess Championships, announced its plans to float on the main London Stock Exchange in November, inviting institutional and retail investors to subscribe for eight million Euro shares. This comes at the heels of planned 483 million takeover of PlayMagnus by the giant Chess.com. What this all means is discussed by Peter O'Brien in the latest issue of The British Chess Magazine.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fresh-moves-in-the-board-room",
+         "pubDate" : "Tue, 17 Jan 2023 12:00:00 +0100",
+         "title" : "Fresh moves in the board room"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-4-live/",
+         "pubDate" : "Tue, 17 Jan 2023 10:53:17 +0000",
+         "title" : "Tata Steel Chess 2023 - Day 4 live"
+      },
+      {
+         "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
+         "pubDate" : "Tue, 17 Jan 2023 10:00:40 +0000",
+         "title" : "International Junior tournaments"
+      },
+      {
+         "description" : "FIDE World Chess Championship Match 2023 will be held from 7 April to 30 April 2023, determining new World Chess Champion in classical chess. Ian Nepomniachtchi the Winner of the Candidates Tournament 2022 and Ding Liren the runner-up of the Candidates Tournament 2022 will face each-other, as Magnus Carlsen withdrew from the World []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-world-chess-championship-match-venue-to-be-announced-this-week/",
+         "pubDate" : "Tue, 17 Jan 2023 09:11:00 +0000",
+         "title" : "FIDE World Chess Championship Match venue to be announced this week"
+      },
+      {
+         "description" : "Fabiano Caruana was hit by a Jorden van Foreest novelty in Round 3 of the Tata Steel Masters, but he survived the opening unscathed and later picked up a free pawn to score the day's only win and join a 5-man leading group. That includes Magnus Carlsen and Ding Liren, whose head-to-head clash soon fizzled out. 6 players lead the Challengers, including Round 3 winners Velimir Ivic, Mustafa Yilmaz and Javokhir Sindarov.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-3-fabi-joins-leaders-as-ding-holds-magnus",
+         "pubDate" : "Tue, 17 Jan 2023 09:06:19 +0000",
+         "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
+      },
+      {
          "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move - and he can win by making the most of his passed pawns. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +82,7 @@ news_feed (
          "title" : "National U-09 Certificates"
       },
       {
-         "description" : " &#8220;Chess is not just a game, facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/",
@@ -202,22 +266,6 @@ news_feed (
          "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
       },
       {
-         "description" : "The second round of the Tata Steel Masters 2023 kicked off today with a famous gong sound. It was a sensational day with two decisive results, while five games finished in a draw. Anish Giri's brilliant victory over Indian teen chess star Gukesh D certainly marked the round. Giri was in the attacking mood, performing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-day-2-giris-sensational-victory-over-gukesh/",
-         "pubDate" : "Sun, 15 Jan 2023 21:16:37 +0000",
-         "title" : "Tata Steel Masters 2023 - Day 2 & Giri's sensational victory over Gukesh!"
-      },
-      {
-         "description" : "The Tata Steel Challengers 2023 is ongoing in Wijk aan Zee with 14 players fighting for the starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Three games finished today with decisive results, with 17-year-old IM Eline Roebers stealing the show as she defeated the reigning Dutch Chess Champion GM Erwin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/four-way-tie-for-the-top-of-the-tata-steel-challengers-2023-round-2-recap/",
-         "pubDate" : "Sun, 15 Jan 2023 21:00:04 +0000",
-         "title" : "Four-way tie for the top of the Tata Steel Challengers 2023 - Round 2 recap"
-      },
-      {
          "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -248,22 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-2",
          "pubDate" : "Sun, 15 Jan 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 108: Play the Sicilian (9)"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-2-live/",
-         "pubDate" : "Sun, 15 Jan 2023 12:03:11 +0000",
-         "title" : "Tata Steel Chess 2023 - Day 2 live"
-      },
-      {
-         "description" : "The Tata Steel Masters 2023 and the Tata Steel Challengers 2023 kicked off yesterday in Wijk aan Zee. Two players emerged as the early leaders of the challengers group: Abhimanyu Mishra and Max Warmerdam, as Ding Liren and Nodirbek Abdusattorov took early co-lead in Masters tournament. The second round starts today at 14:00 CEST, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-2-pairings/",
-         "pubDate" : "Sun, 15 Jan 2023 11:57:53 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 2 pairings"
       },
       {
          "description" : " You may be aware that I co-founded Richmond Junior Chess Club with my good friend Mike Fox in 1975, and, after he moved to Birmingham a few years later, ran it myself, with the help of parents and friends, until 2005/6. During that period, we had several members, including Luke McShane and Jonathan Rowson, who <a href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Richmond Junior Club 1975-2006 Part 3\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\">Richmond Junior Club 1975-2006 Part 3</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "ChessBase Fashion Collection 2023"
       },
       {
-         "description" : "In his \"Game of the Week\" show #549 Merijn van Delft looks at a recent but historically important game: Magnus Carlsen's win against Parham Maghsoodloo in the last round of the Rapid World Championship 2022. Carlsen had to win and he outplayed Maghsoodloo in a fine mix of attack and defense. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-549-magnus-carlsen-vs-parham-maghsoodloo",
-         "pubDate" : "Thu, 05 Jan 2023 09:48:11 +0100",
-         "title" : "Game of the Week #549: Magnus Carlsen vs Parham Maghsoodloo"
-      },
-      {
          "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1656,14 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2148",
          "pubDate" : "Tue, 27 Dec 2022 12:55:57 +0000",
          "title" : "Season's Greetings from FIDE President"
-      },
-      {
-         "description" : " After a break of a few years, the historic Hastings event has returned. While no longer attracting the huge numbers it did in the past, the Masters section has 13 GM's in its 101 player field. It will also attract plenty of players for the supporting events, which include AM swisses, weekend tournaments, and evening blitz. This is the 96th edition of the tournament, and barring any world shattering disasters, the 100th edition should be in 2026. When I visited the event (as an arbiter) in 2016, I promised to return for the 100th, a promise I do plan to keep. Tournament homepage is <a href=\"https://hastingschess.com/\">here. </a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/hastings-2022-23.html",
-         "pubDate" : "Tue, 27 Dec 2022 11:58:00 +0000",
-         "title" : "Hastings 2022-23"
       }
    ]
 }
