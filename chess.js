@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 4 of the Tata Steel Masters saw the two highest-rated players in the world losing on adjacent boards, as Anish Giri and Praggnanandhaa defeated Magnus Carlsen and Ding Liren respectively. Giri is now sharing the lead with Nodirbek Abdusattorov, who got the better of Parham Maghsoodloo. In the Challengers, four decisive results left three players sharing the lead on 3/4 points. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r4",
+         "pubDate" : "Wed, 18 Jan 2023 05:20:00 +0100",
+         "title" : "Tata Steel Chess R4: Giri beats Carlsen, Pragg stuns Ding"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 17 Jan 2023 17:33:28 -0800",
+         "pubDate" : "Tue, 17 Jan 2023 17:33:00 -0800",
          "title" : "A Day of Masterpieces: Giri Claims 1st Victory vs. Carlsen in 12 Years"
       },
       {
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-beats-carlsen-in-round-4-of-the-tata-steel-masters",
          "pubDate" : "Tue, 17 Jan 2023 18:06:00 +0400",
          "title" : "Giri beats Carlsen in Round 4 of the Tata Steel Masters - 4"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Tue, 17 Jan 2023 14:00:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " &#8220;Truth is always hiding in plan sight which means it's not hidden at all&#8221; Kyle Hoobin I have seen below position at different times floating around the internet. Until now I did not pay more attention to it beyond the solution. This time I took the time to read the comments added by readers to <a href=\"https://chessimprover.com/hardest-checkmate-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hardest Checkmate in 1?\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hardest-checkmate-in-1/\">Hardest Checkmate in 1?</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
