@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/its-not-11-oclock-news.html",
+         "pubDate" : "Wed, 18 Jan 2023 12:27:00 +0000",
+         "title" : "It's not the 11 O'clock News"
+      },
+      {
+         "description" : "Can a massive volume of lengthy chess interviews, some dating back to over two decades, attract chess enthusiasts today, can it be of interest to a heavily satiated chess audience? You bet it can. Frederic Friedel started reading the 476-page book - and was immediately hooked. He describes the reason for his fascination and tells us what is unique about this work.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gert-devreese-memorable-interviews",
+         "pubDate" : "Wed, 18 Jan 2023 13:00:00 +0100",
+         "title" : "Gert Devreese: Memorable Interviews"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2178",
+         "pubDate" : "Wed, 18 Jan 2023 11:22:46 +0000",
+         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
+      },
+      {
          "description" : "Round 4 of the Tata Steel Masters saw the two highest-rated players in the world losing on adjacent boards, as Anish Giri and Praggnanandhaa defeated Magnus Carlsen and Ding Liren respectively. Giri is now sharing the lead with Nodirbek Abdusattorov, who got the better of Parham Maghsoodloo. In the Challengers, four decisive results left three players sharing the lead on 3/4 points. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,6 +304,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-joins-a-five-way-tie-for-the-lead-after-three-round-of-tata-steel-chess",
          "pubDate" : "Mon, 16 Jan 2023 20:33:00 +0400",
          "title" : "Caruana joins a five way tie for the lead after three rounds of Tata Steel Chess - 3"
+      },
+      {
+         "description" : "A month ago, in <A HREF=\"https://chessforallages.blogspot.com/2022/12/chessify-setup.html\">Chessify Setup</A>(December 2022), I wrote, <BLOCKQUOTE>I set up a Chessify account, received some free time on their service, and started a new game on the LSS server, where engine use is generally allowed. I'll report on my progress in a future post. </BLOCKQUOTE> <P>This post is that report. I had White in the first LSS game, and after <B>1.e4 c6 2.d4 d5</B>, decided to play a move that I have always wanted to try: <B>3.f3</B>, known for some obscure reason as the 'Fantasy Variation'. After six moves, my opponent disappeared, apparently having quit LSS. I started a new game, chose the highest rated ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html",
+         "pubDate" : "Mon, 16 Jan 2023 16:15:00 +0000",
+         "title" : "Chessify Progress Report"
       },
       {
          "description" : "In the past, Fritztrainers were only available on DVD - you had to wait for the post, and installation on hard disk and online activation were unavoidable. Nowadays, downloading is the standard - so the training courses can be installed and started directly after purchase. However, only on Windows or Mac OS. It is now even more convenient and faster with the stream function on the ChessBase video page - also usable on mobile devices such as iPad, tablet or smartphone. You don't even have to enter a serial number here. This is how it works!",
@@ -1234,14 +1266,6 @@ news_feed (
          "title" : "Chess at Trump Tower"
       },
       {
-         "description" : "Over the turn of the year, the Indian Chess Federation organised its 59th National Championship, an open event that attracted almost 200 players. After a very exciting tournament the 23-year old Karthik Venkataraman won with 10.0/13. | Photos: All Indian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karthik-venkataraman-wins-59-indian-championship",
-         "pubDate" : "Thu, 05 Jan 2023 13:56:22 +0100",
-         "title" : "Karthik Venkataraman wins 59. Indian Championship"
-      },
-      {
          "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1664,22 +1688,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-savitha-shri/",
          "pubDate" : "Wed, 28 Dec 2022 14:12:33 +0000",
          "title" : "Congratulations Savitha Shri"
-      },
-      {
-         "description" : " Sports have a lot of 'unwritten rules'. They exist to make sure everyone stays within what is considered acceptable behaviour, even if the the actions are not technically illegal. In baseball for example, showing up a pitcher after hitting a home run is likely to get yourself drilled by a pitch at some point in the future. South Africa seemed to not be aware of this during today's Test match against Australia. Bowling short pitched deliveries to tail end batsmen was for a long time considered 'out of bounds', in part because the players your were trying to hit had the ability to return fire when you batted. So hitting Mitchell Starc on the helmet in failing light might have seemed like a go",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/a-tactical-blunder.html",
-         "pubDate" : "Wed, 28 Dec 2022 12:27:00 +0000",
-         "title" : "A tactical blunder"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-64/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (64)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-64/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (64)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-64/",
-         "pubDate" : "Wed, 28 Dec 2022 10:00:54 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
       }
    ]
 }
