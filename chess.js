@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-part-1-grandmasters-choice-gm-igor-novikov",
+         "pubDate" : "Wed, 18 Jan 2023 02:13:29 +0000",
+         "title" : "Make Decisions in Complex Positions: Part 1 | Grandmaster's Choice - GM Igor Novikov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on trading pieces and counting their worth. When is it a good time to trade and when is it best to leave the material on the board? 2023.01.17<br /> AlphaZero (Computer) vs Stockfish (Computer), AlphaZero - Stockfish Match (2018)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1937930\">https://www.chessgames.com/perl/chessgame?gid=1937930</a><br /> C50 Giuoco Piano<br /> C50 Giuoco Pianissimo<br /> Alex Moellering vs. Anna Sharevich, 2012 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/trading-and-counting-beginner-breakdown",
+         "pubDate" : "Wed, 18 Jan 2023 02:13:29 +0000",
+         "title" : "Trading and Counting | Beginner Breakdown"
+      },
+      {
+         "description" : "On Tuesday, GM Anish Giri overcame GM Magnus Carlsen in classical chess for the first time in over a decade in round four of the 2023 Tata Steel Chess Tournament. GM Nodirbek Abdusattorov displayed unstoppable precision to defeat GM Parham Maghsoo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-4",
+         "pubDate" : "Tue, 17 Jan 2023 17:33:28 -0800",
+         "title" : "A Day of Masterpieces: Giri Claims 1st Victory vs. Carlsen in 12 Years"
+      },
+      {
          "description" : "Anish Giri called it a \"historic moment\" as he beat Magnus Carlsen in Wijk aan Zee 12 years to the day after he last won a classical game against Magnus. The day would get even more dramatic as 17-year-old Praggnanandhaa played a stunning endgame to defeat world no. 2 Ding Liren, while Nodirbek Abdusattorov joined Giri in the lead by taking down Parham Maghsoodloo.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Trading and Counting | Beginner Breakdown | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov continues his chess class on decision-making in complicated positions. 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yjo5shT118I.jpg?itok=Tr_yZPgn\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov continues his chess class on decision-making in complicated positions. Watch Part 1: <a href=\"https://youtu.be/-jWbuf0ZWMw\">https://youtu.be/-jWbuf0ZWMw</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yjo5shT118I.jpg?itok=Tr_yZP",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Monday, January 9, 2023) -</strong> <a href=\"http://grandchesstour.org\">The Grand Chess Tour (GCT)</a>, a circuit of international events, each demonstrating the highest level of organization for the world's best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical tournaments will be $350,000 and $175,000 per event for rapid and blitz. In addition, a bonus prize fund totalling $175,000 will be awarded to the top three overall tour finishers. </div><div class=\"field field-name-field-author field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grand-chess-tour-returns-2023",
-         "pubDate" : "Mon, 09 Jan 2023 17:55:38 +0000",
-         "title" : "The Grand Chess Tour Returns In 2023"
-      },
-      {
          "description" : "In his Endgame Magic Show #222 Karsten shows endgame highlights from the FIDE World Team Championship in Jerusalem. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-to-pranesh-m-79th-grandmaster-of-india/",
          "pubDate" : "Fri, 06 Jan 2023 02:16:47 +0000",
          "title" : "Congratulations to Pranesh M..79th Grandmaster of India"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation, using his win over Max Dlugy from the first U.S. Senior Championship. 2023.01.05<br /> Maxim Dlugy vs Igor Novikov, U.S. Senior Championships (2019): D00 Queen&#039;s pawn, Mason variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2411441\">https://www.chessgames.com/perl/chessgame?gid=2411441</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-preparation-dlugy-prepare-p",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-preparation-dlugy-prepare-pro-gm-igor-novikov",
-         "pubDate" : "Fri, 06 Jan 2023 02:03:13 +0000",
-         "title" : "Chess Preparation for Dlugy | Prepare Like A Pro - GM Igor Novikov"
       },
       {
          "description" : " The future of classical chess has been discussed for decades, and the topic has come up once again. The question has been how to make it more marketable for wider public appeal and to eliminate the dreaded &#8220;draw death.&#8221; Quickplay via online platforms has exploded. Will classical chess be phased out? After the 2022 World The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/\">Is Classical Chess Dead?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
