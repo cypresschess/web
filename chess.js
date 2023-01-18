@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gaining the initiative in chess is one of the most effective tools to decide a game in your favour. It always depends on what kind of player you are of course, and for some it seems easier, others struggle a lot more to make initiative moves. Anish Giri is momentarily storming towards the Tata Steel chess title, with his spectacular playing style. Svitlana presents us his victory against Gukesh D., where he took over the game with a few moves for the win. The same applies to Max Wamerdam's game against Jergus Pechac, and it contains a valuable lesson.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2",
+         "pubDate" : "Wed, 18 Jan 2023 17:06:23 +0100",
+         "title" : "Svitlana's Smart Moves - How to use the initiative like Anish Giri"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Wed, 18 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess Challengers - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2179",
+         "pubDate" : "Wed, 18 Jan 2023 12:27:52 +0000",
+         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
+      },
+      {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1178,14 +1202,6 @@ news_feed (
          "title" : "Women in Chess: FIDE WOM Workshop held in Stockholm"
       },
       {
-         "description" : "In the first \"Fast & Furious\" show of 2023 Robert Ris discusses the ins and outs of a well-known tabiya of the Sicilian Alapin, in which Black's strategy is based on exploiting a long term pawn weakness on c3. However, in practice he rarely gets the chance to do so as was confirmed by the recent games Abdrlauf-Smirin (Rilton Cup) and Ganguly-Makarian (World Rapid). | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-dubov-attacks-2",
-         "pubDate" : "Fri, 06 Jan 2023 10:52:52 +0100",
-         "title" : "Robert Ris' Fast and Furious: Exploring the Sicilian Alapin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2165",
          "pubDate" : "Thu, 05 Jan 2023 22:22:14 +0000",
          "title" : "Pranesh M wins 2022/2023 Rilton Cup"
-      },
-      {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Let us start with the clear leader of the pack, Alireza Firouzja. | Find here analysis of a remarkable victory by Firouzja, annotated by Romain Edouard. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-alireza-firouzja",
-         "pubDate" : "Thu, 05 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Alireza Firouzja"
       },
       {
          "description" : "While I was researching the latest post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/01/1994-sanghi-nagar.html\">1994 Sanghi-Nagar</A>(January 2023), I rediscovered a photo published in <I>Chess Life</I>, September 1994. The photo was one of several ('Photographs by Bill Hook and Kevin Dyke') that illustrated the tournament report by GM Patrick Wolff titled, 'Kamsky Crushes Kramnik, Advances to Semi Final in Spain'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na05.jpg\" WIDTH=400 HEIGHT=330> <P>The Wolff article started, <BLOCKQUOTE>The Intel World Chess Championship Quarterfinal Matches, organized under the auspices of the Professi",
@@ -1656,38 +1664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/firouzja-martinez-win-titled-tuesday-december-27-2022",
          "pubDate" : "Wed, 28 Dec 2022 09:05:38 -0800",
          "title" : "Firouzja Wraps Up Year With Titled Tuesday Win"
-      },
-      {
-         "description" : "The ECF match against Team France will start at 5.00 pm on Sunday 1st January over three legs as follows &#8212; 5.00pm England vs France...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-vs-france-new-years-day-online-challenge/",
-         "pubDate" : "Wed, 28 Dec 2022 16:02:38 +0000",
-         "title" : "England vs France - New Years Day Online Challenge"
-      },
-      {
-         "description" : "GM Magnus Carlsen claimed his fourth world rapid chess crown on Wednesday and finished with a commanding score of 10/13 in the 2022 FIDE World Rapid Chess Championship.&#38;nbsp; A round-11 hiccup against GM Vladislav Artemiev pulled Carlsen&#39;s tourn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-rapid-chess-championship-day-3",
-         "pubDate" : "Wed, 28 Dec 2022 07:15:00 -0800",
-         "title" : "Carlsen Wins 4th Rapid World Championship, Tan Takes Women's Title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96576036.cms\" />Fifteen-year-old Indian WIM B Savitha Shri on Wednesday won a bronze medal in the women's event of FIDE World Rapid Championship here.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-savitha-shri-bags-bronze-in-world-rapid-chess/articleshow/96576036.cms",
-         "pubDate" : "Wed, 28 Dec 2022 14:50:34 +0000",
-         "title" : "India's Savitha Shri bags bronze in World Rapid Chess"
-      },
-      {
-         "description" : "15 year old B Savitha Shri secured Bronze Medal in the World Women Rapid Chess Championship at Almaty, Kazakhstan ahead of many fancied players. She",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-savitha-shri/",
-         "pubDate" : "Wed, 28 Dec 2022 14:12:33 +0000",
-         "title" : "Congratulations Savitha Shri"
       }
    ]
 }
