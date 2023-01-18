@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #551 Merijn van Delft takes a look how Anish Giri won against Magnus Carlsen in round 4 of the Masters at the Tata Steel Tournament in Wijk aan Zee. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-551-a-giri-vs-m-carlsen",
+         "pubDate" : "Wed, 18 Jan 2023 19:00:00 +0100",
+         "title" : "Game of the Week #551: A. Giri vs M. Carlsen"
+      },
+      {
+         "description" : "For much of its storied existence, Howard University in Washington D.C. - a historically Black university located in America's capital city - has been known as \"The Mecca of Black Education,\" or just \"The Mecca\". This year, at the Pan-American Intercollegiate Team Championship the Howard University Chess Club achieved the best result it has ever achieved in the Team Championship. A success that is partly due to hard training and the help of Jerald Times, an award-winning chess educator from New York City, and Tani Adewumi, the 12-year old chess talent from Nigeria, who helped the team to prepare. | Photo: (from left to right: Goodness Atanda, Lawrence D. Custis, Samir Acharya, Malcolm Wooten",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/known-as-the-mecca-of-black-education-howard-university-seeks-to-make-its-mark-in-the-world-of-college-chess",
+         "pubDate" : "Wed, 18 Jan 2023 18:00:00 +0100",
+         "title" : "Howard University, \"The Mecca of Black Education,\" seeks to make its mark in the world of college chess"
+      },
+      {
+         "description" : "GM Daniil Dubov became the first two-time Titled Tuesday winner of 2023 on January 17 and was followed by GM Hikaru Nakamura entering the winner&#39;s circle for the first time this year. Both scored 9.5/11, Dubov winning on tiebreaks over GM Denis La...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-january-17-2023",
+         "pubDate" : "Wed, 18 Jan 2023 08:27:00 -0800",
+         "title" : "Nakamura Arrives, Dubov Repeats"
+      },
+      {
          "description" : "Gaining the initiative in chess is one of the most effective tools to decide a game in your favour. It always depends on what kind of player you are of course, and for some it seems easier, others struggle a lot more to make initiative moves. Anish Giri is momentarily storming towards the Tata Steel chess title, with his spectacular playing style. Svitlana presents us his victory against Gukesh D., where he took over the game with a few moves for the win. The same applies to Max Wamerdam's game against Jergus Pechac, and it contains a valuable lesson.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "It's not the 11 O'clock News"
       },
       {
-         "description" : "Can a massive volume of lengthy chess interviews, some dating back to over two decades, attract chess enthusiasts today, can it be of interest to a heavily satiated chess audience? You bet it can. Frederic Friedel started reading the 476-page book - and was immediately hooked. He describes the reason for his fascination and tells us what is unique about this work.",
+         "description" : "Can a massive volume of lengthy chess interviews, some dating back to over two decades, attract chess enthusiasts today. Can they be of interest to a heavily satiated chess audience? You bet they can. Frederic Friedel started reading the 476-page book - and was immediately hooked. He describes the reason for his fascination and tells us what is unique about this work.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gert-devreese-memorable-interviews",
@@ -1146,22 +1170,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Spot the checkmate!"
       },
       {
-         "description" : "With a score of 8.0/9 (+8, -1, =0) the 16-year-old Indian M Pranesh finished clear first at the 50th Rilton Cup in Sweden, a success that made him India's 79th Grandmaster. Kaan Kucusari and Nikita Meshkovs shared second and third place with 7.0/9. The well-known Swedish streamer Anna Cramling played in the B-tournament and entertained her 250,000 YouTube followers with daily streams. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/16-year-old-m-pranesh-wins-rilton-cup-to-become-india-s-79th-grandmaster",
-         "pubDate" : "Fri, 06 Jan 2023 16:23:34 +0100",
-         "title" : "16-year old M Pranesh wins Rilton Cup to become India's 79th Grandmaster"
-      },
-      {
-         "description" : "December was typically a busy month for chess all over the world. While the world watched in awe at the world's top, top exponents battle it out in the final month of the year 2022 to try and stop Carlsen's dominance in the World Rapid and Blitz championships, there was no less excitement over the chess board in the classical format in other parts of the world. One was the return of over-the-board version of the Penang Heritage City International Chess Open, after the Covid-imposed hiatus in the past three years. Report by By Edwin Lam Choong Wai.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/penang-heritage-city-open",
-         "pubDate" : "Fri, 06 Jan 2023 13:00:00 +0100",
-         "title" : "Penang Heritage City Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1648,22 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-and-tan-zhongyi-win-world-rapid-championship-gold",
          "pubDate" : "Wed, 28 Dec 2022 21:18:45 +0000",
          "title" : "Carlsen and Tan Zhongyi win World Rapid Championship gold"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2156",
-         "pubDate" : "Wed, 28 Dec 2022 20:16:20 +0000",
-         "title" : "Magnus Carlsen and Tan Zhongyi are the World Champions in Rapid"
-      },
-      {
-         "description" : "GMs Alireza Firouzja and Jose Martinez won the last Titled Tuesday tournaments of 2022 on December 27. Both did so with undefeated performances of eight wins and three draws, although Firouzja needed tiebreaks over GM Aleksandr Lenderman. Marti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-martinez-win-titled-tuesday-december-27-2022",
-         "pubDate" : "Wed, 28 Dec 2022 09:05:38 -0800",
-         "title" : "Firouzja Wraps Up Year With Titled Tuesday Win"
       }
    ]
 }
