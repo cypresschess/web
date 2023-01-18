@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri called it a \"historic moment\" as he beat Magnus Carlsen in Wijk aan Zee 12 years to the day after he last won a classical game against Magnus. The day would get even more dramatic as 17-year-old Praggnanandhaa played a stunning endgame to defeat world no. 2 Ding Liren, while Nodirbek Abdusattorov joined Giri in the lead by taking down Parham Maghsoodloo.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-4-both-carlsen-and-ding-defeated",
+         "pubDate" : "Wed, 18 Jan 2023 00:20:00 +0000",
+         "title" : "Tata Steel Chess 4: Both Carlsen and Ding defeated"
+      },
+      {
+         "description" : "The Marienbad IM (B2) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Jakub Ocelak, Hussain Besou, Marek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marienbad-im-b2-czech-tour-2023-live/",
+         "pubDate" : "Tue, 17 Jan 2023 23:40:25 +0000",
+         "title" : "Marienbad IM (B2) Czech Tour 2023 - LIVE"
+      },
+      {
+         "description" : "The Marienbad IM (B1) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Stanislav Jasny, Maksym Goroshkov, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marienbad-im-b1-czech-tour-2023-live/",
+         "pubDate" : "Tue, 17 Jan 2023 23:35:08 +0000",
+         "title" : "Marienbad IM (B1) Czech Tour 2023 - LIVE"
+      },
+      {
+         "description" : "The Marienbad GM (A2) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Jan Krejci, Isik Can, Vaclav []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marienbad-gm-a2-czech-tour-2023-live/",
+         "pubDate" : "Tue, 17 Jan 2023 23:28:42 +0000",
+         "title" : "Marienbad GM (A2) Czech Tour 2023 - LIVE"
+      },
+      {
+         "description" : "The Marienbad GM (A1) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Richard Stalmach, Qi b Chen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/marienbad-gm-a1-czech-tour-2023-live/",
+         "pubDate" : "Tue, 17 Jan 2023 23:23:04 +0000",
+         "title" : "Marienbad GM (A1) Czech Tour 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2177",
+         "pubDate" : "Tue, 17 Jan 2023 23:22:57 +0000",
+         "title" : "Tata Steel Masters 2023: Giri and Abdusattorov pull ahead"
+      },
+      {
+         "description" : "The fourth round of the Tata Steel Masters 2023 was played today in Wijk aan Zee and the players will tomorrow have a free day. The fifth round will be played On Tour in Amsterdam, with the sixth round coming back to the Wijk aan Zee venue. All eyes today were on the game between []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/giri-and-abdusattorov-in-the-co-lead-at-tata-steel-masters-2023/",
+         "pubDate" : "Tue, 17 Jan 2023 21:13:06 +0000",
+         "title" : "Giri and Abdusattorov in the co-lead at Tata Steel Masters 2023"
+      },
+      {
+         "description" : " Both Magnus Carlsen and Ding Liren (currently the only 2 players rated above 2800) suffered losses in round 4 of the 2023 Tata Steel tournament. More on this when I get back from walking the dog! ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/losses-for-top-2-more-at-11.html",
+         "pubDate" : "Tue, 17 Jan 2023 20:49:00 +0000",
+         "title" : "Losses for the top 2 - More at 11"
+      },
+      {
+         "description" : "After four played rounds at the Tata Steel Challengers 2023, three players score 3 points to be on the top: Velimir Ivic, Mustafa Yilmaz and Alexander Donchenko. And while the Masters' players tomorrow have the free day, Tata Steel Challengers will tomorrow see the 5th round starting at 14:00 CEST. Mustafa Yilmaz was today victorious []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/three-way-tie-at-tata-steel-challengers-2023-round-4-recap/",
+         "pubDate" : "Tue, 17 Jan 2023 20:14:00 +0000",
+         "title" : "Three way tie at Tata Steel Challengers 2023 - Round 4 recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on trading pieces and counting their worth. When is it a good time to trade and when is it best to leave the material on the board? 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trading-and-counting-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M08I2eq04eg.jpg?itok=1v1xRsnP\" alt=\"\" /></a><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +104,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2175",
          "pubDate" : "Tue, 17 Jan 2023 15:26:26 +0000",
          "title" : "Costa Rican Championship: Jim&eacute;nez and D&iacute;az clinch titles"
+      },
+      {
+         "description" : " A quite amazing day of play with Anish Giri scoring only his second ever win against Magnus Carlsen, then late in the day Nodirbek Abdusattorov beat Parham Maghsoodloo to join Giri in the lead on 3/4. Finally Praggnanandhaa beat World number 2 Ding Liren in a long endgame. Read FM Michiel Abeln's report below. The Masters Group takes a break before going on an away day to Ajax football ground on Thursday. The Challengers Group play again tomorrow as they won't go to Ajax, Yilmaz, Ivic and Donchenko lead on 3/4. Masters Round 4 Standings: 1st= Giri, Abdusattorov 3pts, 3rd= Caruana, Praggnanandhaa 2.5pts 5th= Aronian, Erigaisi, Carlsen, So, Ding Liren 2pts, 10th= Maghsoodloo, Rapport, Keymer,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-beats-carlsen-in-round-4-of-the-tata-steel-masters",
+         "pubDate" : "Tue, 17 Jan 2023 18:06:00 +0400",
+         "title" : "Giri beats Carlsen in Round 4 of the Tata Steel Masters - 4"
       },
       {
          "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
@@ -162,30 +242,6 @@ news_feed (
          "title" : "Introducing Bullet Brawls And New Arena Options"
       },
       {
-         "description" : "The third round of the Tata Steel Masters 2023 was played today in Wijk aan Zee. It was a peaceful day, with six games finishing in a draw, and only one decisive result. Fabiano Caruana scored his first victory in the Tata Steel Masters 2023 in today's game against Jorden van Foreest. The American grandmaster []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caruana-scores-his-first-victory-at-tata-steel-masters-2023-day-3-recap/",
-         "pubDate" : "Mon, 16 Jan 2023 21:43:36 +0000",
-         "title" : "Caruana scores his first victory at Tata Steel Masters 2023 - Day 3 recap"
-      },
-      {
-         "description" : "After three played rounds at the Tata Steel Challengers 2023, six players co-lead in the event scoring 2 points, each: Velimir Ivic, Mustafa Yilmaz, Javokhir Sindarov, Alexander Donchenko, Amin Tabatabaei and Max Warmerdam.. The third round was played today, with four games finishing in a draw and three games concluded with decisive results. Velimir Ivic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/six-players-in-the-co-lead-at-the-tata-steel-challengers-2023-round-3-recap/",
-         "pubDate" : "Mon, 16 Jan 2023 21:00:00 +0000",
-         "title" : "Six players in the co-lead at the Tata Steel Challengers 2023 - Round 3 recap"
-      },
-      {
-         "description" : "On Wednesday afternoon, January 18, Telstar&#x2019;s BUKO stadium will traditionally host another special soccer match. A number of chess masters from the Tata Steel Masters will enter the field to play a friendly soccer match with players from the Telstar selection. After a warm-up, the match will begin at 3 p.m. Interested parties can sit []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/masters-tata-steel-chess-play-soccer-at-telstar/",
-         "pubDate" : "Mon, 16 Jan 2023 20:28:13 +0000",
-         "title" : "Masters Tata Steel Chess play soccer at Telstar"
-      },
-      {
          "description" : "In his Endgame Magic Show #223 Karsten shows endgame highlights from the FIDE World Rapid Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,36 +266,12 @@ news_feed (
          "title" : "Streaming what the heart desires"
       },
       {
-         "description" : "After two played rounds at the Tata Steel Chess Challengers 2023, four players are tying for the top with 1.5 points each: Abhimanyu Mishra,&#xA0;Amin Tabatabaei,&#xA0;Alexander Donchenko&#xA0;and&#xA0;Max Warmerdam. Tata Steel Challengers 2023 Round 2 recap / LIVE games The third round starts at 14:00 CEST, with 15-minute delay of the broadcast. Round 3 pairings are: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-3-pairings/",
-         "pubDate" : "Mon, 16 Jan 2023 12:37:54 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 3 pairings"
-      },
-      {
          "description" : "Am Freitag endete die 82. Georgische Landesmeisterschaft in Tiflis mit einem Sieg von Mikheil Mchedlishvili (Foto). Das Turnier wurde mit zehn Spielern im Modus jeder gegen jeden gespielt. Mchedlishvili kam als einziger Spieler auf 7 Punkte. Giga Quparadze wurde Zweiter vor Tornike Sanikidze. | Fotos: Georgischer Schachverband",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mikheil-mchedlishvili-wins-2023-georgian-championship",
          "pubDate" : "Mon, 16 Jan 2023 13:31:52 +0100",
          "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : "After two played rounds of the 2023 Tata Steel Masters four players tie for the first place: Magnus Carlsen, Ding Liren, Nodirbek Abdusattorov and Anish Giri. The third round starts today at 14:00 CEST with the live broadcast starting with 15 minutes delay. Tata Steel Masters Round 2 recap / LIVE games The pairings are: []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-3-pairings/",
-         "pubDate" : "Mon, 16 Jan 2023 12:31:27 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 3 pairings"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-3-live/",
-         "pubDate" : "Mon, 16 Jan 2023 12:24:50 +0000",
-         "title" : "Tata Steel Chess 2023 - Day 3 live"
       },
       {
          "description" : "In football, the area around the center line is usually a hazard-free space. But in chess, when a knight crosses the centre line - i.e. if it jumps from his own half of the playing field to that of the opponent - then it \"usually sends a clear attack signal\", writes Oliver Reeh in his tactics section in ChessBase Magazin #211. His collection of tasks in the new edition includes 38 games, which are peppered with many training questions. Attacking knights play an important role in almost all cases. We would like to present the first three tasks from the collection as well as an excerpt from his first interactive video here. Have fun!",
@@ -1640,14 +1672,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-64/",
          "pubDate" : "Wed, 28 Dec 2022 10:00:54 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (64)"
-      },
-      {
-         "description" : "Magnus Carlsen won his first and last games on Day 2 of the World Rapid Championship to take the sole lead on 7.5/9, but a powerful chasing pack is waiting for any slip-up. That includes 18-year-old Vincent Keymer, who beat Fabiano Caruana, Yu Yangyi and Arjun Erigaisi in successive rounds to move within half a point. In the Women's section Tan Zhongyi and Aleksandra Goryachkina are joined in the lead by 15-year-old Savitha Shri.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-rapid-day-2-keymer-chases-carlsen",
-         "pubDate" : "Wed, 28 Dec 2022 00:01:43 +0000",
-         "title" : "World Rapid Day 2: Keymer chases Carlsen"
       }
    ]
 }
