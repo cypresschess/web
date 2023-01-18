@@ -1648,14 +1648,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/new-year-2023/",
          "pubDate" : "Thu, 29 Dec 2022 15:33:36 +0000",
          "title" : "New Year's Resolutions: Make Them Work In 2023"
-      },
-      {
-         "description" : "Magnus Carlsen is the 2022 World Rapid Champion after finishing half a point clear of Vincent Keymer and Fabiano Caruana. He looked to be cruising until he blundered and lost to Vladislav Artemiev, but Keymer, who took silver, missed a win that would have forced a playoff. The Women's title was decided in a playoff, where Tan Zhongyi beat Dinara Saduakassova. 15-year-old Indian prodigy Savitha Shri snatched bronze.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-and-tan-zhongyi-win-world-rapid-championship-gold",
-         "pubDate" : "Wed, 28 Dec 2022 21:18:45 +0000",
-         "title" : "Carlsen and Tan Zhongyi win World Rapid Championship gold"
       }
    ]
 }
