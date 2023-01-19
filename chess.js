@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 5 of the Tata Steel Challengers tournament took place on Wednesday, while the participants of the Masters had their first rest day. Three decisive results left Mustafa Yilmaz as the sole leader in the standings. The Turkish champion defeated top seed Amin Tabatabaei with the black pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r5-a",
+         "pubDate" : "Thu, 19 Jan 2023 01:00:00 +0100",
+         "title" : "Tata Steel Challengers: Yilmaz grabs the lead"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #551 Merijn van Delft takes a look how Anish Giri won against Magnus Carlsen in round 4 of the Masters at the Tata Steel Tournament in Wijk aan Zee. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2",
          "pubDate" : "Wed, 18 Jan 2023 17:06:23 +0100",
          "title" : "Svitlana's Smart Moves - How to use the initiative like Anish Giri"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Wed, 18 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess Challengers - Live!"
       },
       {
          "description" : "",
