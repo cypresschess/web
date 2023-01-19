@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship match between Ian Nepomniachtchi and Ding Liren will take place in the capital of Kazakhstan, Astana, from April 7 till May 1. After Magnus Carlsen's abdication, the match to decide the next, 17th World Chess Champion, will once again be played over 14 games, with a €2 million prize fund.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/astana-to-host-nepo-ding-world-championship-match",
+         "pubDate" : "Thu, 19 Jan 2023 14:32:35 +0000",
+         "title" : "Astana chosen as Nepo-Ding World Championship venue"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Thu, 19 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-5-live/",
+         "pubDate" : "Thu, 19 Jan 2023 12:31:05 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 5 live"
+      },
+      {
          "description" : " Many chess improvers spend a lot of time thinking about the 'ideal' chess study plan. \"Should I train openings, tactics, or endgames? And how much of each is appropriate?\" you might frequently ask yourself. In this article, I want to present a very simple method to guide you through these questions. I call it \"the [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/the-one-third-rule/\">Use The One-Third Rule To Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -10,12 +34,20 @@ news_feed (
          "title" : "Use The One-Third Rule To Improve Your Chess"
       },
       {
-         "description" : "The 37th edition of the Reykjavik Open will be held from March 29th until April 4th, 2023 in Harpa, the 28.000 sq. m. concert and conference hall in downtown Reykjavik. The tournament has been the flagship of Icelandic chess for many years and one of the most prestigious and well-liked open tournaments on the calendar every year. | Image: the Harpa playing hall!",
+         "description" : "The 37th edition of the Reykjavik Open will be held from March 29th until April 4th, 2023 in Harpa, the 28.000 sq. m. concert and conference hall in downtown Reykjavik. The tournament has been the flagship of Icelandic chess for many years and one of the most prestigious and well-liked open tournaments on the calendar every year. | Press release, Icelandic Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/reykjavik-open-2023",
          "pubDate" : "Thu, 19 Jan 2023 12:44:52 +0100",
          "title" : "Reykjavik Open 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2180",
+         "pubDate" : "Thu, 19 Jan 2023 11:08:13 +0000",
+         "title" : "Astana to host the FIDE World Chess Championship match 2023"
       },
       {
          "description" : "The full pairings for every round of the upcoming&#xA0;Women's Grand Prix Munich 2023&#xA0;has been announced. The second leg of Women&#x2019;s Grand Prix 2022-23 will take place in Munich from February 1-14, 2022. Twelve players will compete in a round-robin tournament. Read more: Kateryna Lagno wins FIDE Women&#x2019;s Grand Prix Astana 2022 In each WGP tournament, []",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/known-as-the-mecca-of-black-education-howard-university-seeks-to-make-its-mark-in-the-world-of-college-chess",
          "pubDate" : "Wed, 18 Jan 2023 18:00:00 +0100",
          "title" : "Howard University, \"The Mecca of Black Education,\" seeks to make its mark in the world of college chess"
+      },
+      {
+         "description" : "GM Daniil Dubov became the first two-time Titled Tuesday winner of 2023 on January 17 and was followed by GM Hikaru Nakamura entering the winner&#39;s circle for the first time this year. Both scored 9.5/11, Dubov winning on tiebreaks over GM Denis La...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-january-17-2023",
+         "pubDate" : "Wed, 18 Jan 2023 08:27:00 -0800",
+         "title" : "Nakamura Arrives, Dubov Repeats"
       },
       {
          "description" : "Gaining the initiative in chess is one of the most effective tools to decide a game in your favour. It always depends on what kind of player you are of course, and for some it seems easier, others struggle a lot more to make initiative moves. Anish Giri is momentarily storming towards the Tata Steel chess title, with his spectacular playing style. Svitlana presents us his victory against Gukesh D., where he took over the game with a few moves for the win. The same applies to Max Wamerdam's game against Jergus Pechac, and it contains a valuable lesson.",
@@ -120,6 +160,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/trading-and-counting-beginner-breakdown",
          "pubDate" : "Wed, 18 Jan 2023 02:13:29 +0000",
          "title" : "Trading and Counting | Beginner Breakdown"
+      },
+      {
+         "description" : "On Tuesday, GM Anish Giri overcame GM Magnus Carlsen in classical chess for the first time in over a decade in round four of the 2023 Tata Steel Chess Tournament. GM Nodirbek Abdusattorov displayed unstoppable precision to defeat GM Parham Maghsoo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-4",
+         "pubDate" : "Tue, 17 Jan 2023 17:33:00 -0800",
+         "title" : "A Day of Masterpieces: Giri Claims 1st Victory vs. Carlsen in 12 Years"
       },
       {
          "description" : "Anish Giri called it a \"historic moment\" as he beat Magnus Carlsen in Wijk aan Zee 12 years to the day after he last won a classical game against Magnus. The day would get even more dramatic as 17-year-old Praggnanandhaa played a stunning endgame to defeat world no. 2 Ding Liren, while Nodirbek Abdusattorov joined Giri in the lead by taking down Parham Maghsoodloo.",
@@ -274,14 +322,6 @@ news_feed (
          "title" : "Fresh moves in the board room"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-day-4-live/",
-         "pubDate" : "Tue, 17 Jan 2023 10:53:17 +0000",
-         "title" : "Tata Steel Chess 2023 - Day 4 live"
-      },
-      {
          "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -330,12 +370,28 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
       },
       {
+         "description" : "GM Fabiano Caruana scored the sole victory of round three vs. GM Jorden van Foreest at the 2023 Tata Steel Chess Tournament. The young Dutch grandmaster threw the game into thrilling, swashbuckling waters out of the opening, but Caruana countered ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-3",
+         "pubDate" : "Mon, 16 Jan 2023 15:02:00 -0800",
+         "title" : "Caruana Defeats Swashbuckling Van Foreest to Join Leaders"
+      },
+      {
          "description" : "Fabiano Caruana scored the one decisive game in round 3 of the Tata Steel Masters, as he beat Jorden van Foreest with the white pieces to join the leading pack, now comprising five players. The longest games of the day in this section saw Vincent Keymer and Arjun Erigaisi successfully defending tough positions against Praggnanandhaa and Levon Aronian, respectively. Meanwhile, six players are sharing first place in the Challengers. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r3",
          "pubDate" : "Mon, 16 Jan 2023 23:30:00 +0100",
          "title" : "Tata Steel Chess R3: Caruana joins the leading pack"
+      },
+      {
+         "description" : "As a fan or as a player of top-level chess, whether you need a weekend chess fix or are looking for pure bullet competition, Chess.com has the event for you! We&#39;re bringing another regularly scheduled tournament for titled players to Chess.com on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-introduces-bullet-brawls-new-arena-options",
+         "pubDate" : "Mon, 16 Jan 2023 14:25:00 -0800",
+         "title" : "Introducing Bullet Brawls And New Arena Options"
       },
       {
          "description" : "In his Endgame Magic Show #223 Karsten shows endgame highlights from the FIDE World Rapid Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -418,12 +474,28 @@ news_feed (
          "title" : "Tata Steel Chess 2: Carlsen and Giri strike"
       },
       {
+         "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-2",
+         "pubDate" : "Sun, 15 Jan 2023 16:06:00 -0800",
+         "title" : "Giri's Double Sacrifice Stuns Gukesh, Carlsen Grinds Down Keymer"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2173",
          "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
          "title" : "Tata Steel Masters: Four in the lead after Round 2"
+      },
+      {
+         "description" : "The ongoing controversy involving 19-year-old GM Hans Niemann gained a peculiar twist on Tuesday. Niemann amended his lawsuit with an additional 13 pages, notably accusing world champion GM Magnus Carlsen of paying fellow Norwegian grandmaster, Ar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hans-niemann-amends-complaint",
+         "pubDate" : "Sun, 15 Jan 2023 15:09:00 -0800",
+         "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
       },
       {
          "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -480,6 +552,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-186",
          "pubDate" : "Sun, 15 Jan 2023 09:00:00 +0100",
          "title" : "Young guns by the sea"
+      },
+      {
+         "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
+         "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
+         "title" : "Ding, Abdusattorov Score First Victories"
       },
       {
          "description" : "World no. 2 Ding Liren was at his terrifying best as he beat Gukesh in Round 1 of the Tata Steel Masters. 18-year-old Nodirbek Abdusattorov scored the only other win, against Richard Rapport, while Magnus Carlsen, Anish Giri and Vincent Keymer missed chances. That was nothing, however, compared to the misses in the Challengers, where Abhimanyu Mishra and Max Warmerdam took the early lead.",
@@ -546,6 +626,14 @@ news_feed (
          "title" : "Where will the World Championship match take place?"
       },
       {
+         "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
+         "pubDate" : "Sat, 14 Jan 2023 00:32:00 -0800",
+         "title" : "'Robson Is The Mittens Of Puzzle Rush'"
+      },
+      {
          "description" : "In the diagram position it is White to move. Black just played 48...Qe2??, a move that looks strong but allows White a surprising win. What should White do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,6 +656,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-aronian-in-tata-steel-masters-round-1",
          "pubDate" : "Fri, 13 Jan 2023 22:13:27 +0000",
          "title" : "Carlsen-Aronian in Tata Steel Masters Round 1"
+      },
+      {
+         "description" : "The PRO Chess League (PCL) returns on February 1 with a $110,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
+         "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
+         "title" : "2023 PRO Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
          "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
@@ -778,6 +874,22 @@ news_feed (
          "title" : "FIDE without a venue for Nepo vs Ding less than 90 days before start"
       },
       {
+         "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
+         "pubDate" : "Wed, 11 Jan 2023 09:08:00 -0800",
+         "title" : "Multiple Decisive Tournament Victories Tuesday"
+      },
+      {
+         "description" : "Chess.com&#39;s Clock app just got updated on iOS and Android. With more functionality, tons of useful presets, and an overall better design, the most popular chess clock app in the world got even better.&#38;nbsp; If you&#39;re on the go and have a chess s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-clock-app-update",
+         "pubDate" : "Wed, 11 Jan 2023 06:00:00 -0800",
+         "title" : "Chess.com's Clock App Just Got Updated With More Features And Better Design"
+      },
+      {
          "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -874,6 +986,14 @@ news_feed (
          "title" : "Top arbiter sidelined over \"Women, Life, Freedom\" T-shirt"
       },
       {
+         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-grand-chess-tour-tournaments-dates",
+         "pubDate" : "Tue, 10 Jan 2023 02:44:00 -0800",
+         "title" : "2023 Grand Chess Tour: St. Louis Events Moved To November-December"
+      },
+      {
          "description" : "The Grand Chess Tour has announced its dates for the 2023 series. The tour will again consist of five tournaments, which will take place in Bucharest, Warsaw, Zagreb and Saint Louis with dates in May, July and November/December 2023.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,6 +1024,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-juniors-2022-hans-niemann",
          "pubDate" : "Mon, 09 Jan 2023 21:00:00 +0100",
          "title" : "Top juniors in 2022: Hans Niemann"
+      },
+      {
+         "description" : "The Iranian international arbiter Shohreh Bayat was reprimanded by the International Chess Federation (FIDE) for wearing pro-human rights clothing at the 2022 Fischer Random World Chess Championship in Reykjavik. While FIDE considered it &#34;unprofes...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/iranian-chess-arbiter-shohreh-bayat-fide-t-shirt",
+         "pubDate" : "Mon, 09 Jan 2023 10:03:00 -0800",
+         "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
       },
       {
          "description" : "In his Endgame Magic Show #222 Karsten shows endgame highlights from the FIDE World Team Championship in Jerusalem. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1074,14 +1202,6 @@ news_feed (
          "title" : "2023 Australian Open - Day 5"
       },
       {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Second in line is Dommaraju Gukesh, who has yet to turn 17 years old. For him, 2022 was a breakthrough year, as he became the third-youngest player in history to cross the 2700-rating mark, only to outdo himself a month later by winning eight games in a row at the Olympiad! | Photo: J. Suresh / The Week",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-gukesh",
-         "pubDate" : "Fri, 06 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Gukesh"
-      },
-      {
          "description" : "A couple of recent posts on this blog have mentioned the 1990s web site Yourmove.com:- <UL><LI>2022-12-02: <A HREF=\"https://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A> <LI>2022-12-23: <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A></UL> <P>Both citations quoted the same source:- <BLOCKQUOTE>Statement by Anatoly Karpov: [...] I would also like to mention that I am a frequent guest lecturer at the superb Internet Chess Academy (www.yourmove.com) created by the talented young GM Gabriel Schwartzman. </BLOCKQUOTE> <P>The site is partially available via Archive.org, shown in the following screen ca",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1226,6 +1346,14 @@ news_feed (
          "title" : "2023 Australian Open - Day 3"
       },
       {
+         "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-kollars-win-titled-tuesday-january-3-2023",
+         "pubDate" : "Wed, 04 Jan 2023 10:18:00 -0800",
+         "title" : "Duda Rings In New Year With Tournament Victory"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,6 +1384,30 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-2.html",
          "pubDate" : "Wed, 04 Jan 2023 03:19:00 +0000",
          "title" : "2023 Australian Open - Day 2"
+      },
+      {
+         "description" : "On the website of the Swiss Chess Federation the news was published that GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. Kosteniuk herself hasn&#39;t conf...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexandra-kosteniuk-to-play-for-switzerland",
+         "pubDate" : "Tue, 03 Jan 2023 15:05:00 -0800",
+         "title" : "'Alexandra Kosteniuk To Play For Switzerland'"
+      },
+      {
+         "description" : "Over 10,000 members chimed in with their votes this year, and Chess.com is happy to announce the winners of the 2022 Chess.com Awards! These awards are an opportunity to celebrate the fantastic year 2022 has been for chess. They are also a way for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
+         "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
+         "title" : "2022 Chess.com Awards Winners"
+      },
+      {
+         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
+         "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
+         "title" : "Puzzle Week! Free Features Every Day, Puzzles World Championship, And More!"
       },
       {
          "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
@@ -1354,6 +1506,22 @@ news_feed (
          "title" : "50th Rilton Cup 2022-23 - Games and Results"
       },
       {
+         "description" : "IM Sarasadat Khademalsharieh (Sara Khadem), who defied the Iranian dress code for women by refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships, will not be returning home after her last tournament of the year. With he...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
+         "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
+         "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
+      },
+      {
+         "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-cat-bots",
+         "pubDate" : "Sat, 31 Dec 2022 23:24:00 -0800",
+         "title" : "Cat Bots: The Purrfect Way To Start The Year"
+      },
+      {
          "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1450,6 +1618,14 @@ news_feed (
          "title" : "Magnus Carlsen and Bibisara Assaubayeva win the World Blitz Chess Championships"
       },
       {
+         "description" : "GM Magnus Carlsen earned the 2022 FIDE World Blitz Championship title on Friday with a score of 16/21, one point ahead of silver medalist GM Hikaru Nakamura and bronze medalist on tiebreak, GM Haik Martirosyan. Carlsen&#39;s victory, which was confi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2022-fide-world-blitz-chess-championship-day-2",
+         "pubDate" : "Fri, 30 Dec 2022 05:24:00 -0800",
+         "title" : "Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
+      },
+      {
          "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1474,36 +1650,20 @@ news_feed (
          "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
       },
       {
+         "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-fide-world-blitz-chess-championship-day-1",
+         "pubDate" : "Thu, 29 Dec 2022 11:01:00 -0800",
+         "title" : "Commanding Lead For Nakamura At World Blitz Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2157",
          "pubDate" : "Thu, 29 Dec 2022 18:24:03 +0000",
          "title" : "World Blitz Championship, Day 1: Nakamura's moment"
-      },
-      {
-         "description" : "This last Yahoos post for 2022 (see the footnote for an explanation of Yahoos) had a number of surprises. The first surprise was a lead section that I had never seen before titled, 'News about chess tournament, hijab', with nine stories. This was followed by the usual collection of stories under the title 'Also in the news'. <P>The second surprise was that none of the nine news sources was a chess site. The nine stories were from nine different mainstream news organizations like CNN, Fox News, Reuters, and The Telegraph. But I'm getting ahead of myself. Let's first insert the usual analysis of news sources. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ml29.gif\" WIDTH=190 HEIGHT=160 ALIGN",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/deja-vu-yahoos.html",
-         "pubDate" : "Thu, 29 Dec 2022 16:27:00 +0000",
-         "title" : "Deja Vu Yahoos"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96603262.cms\" />Teenaged Indian Grandmaster Raunak Sadhwani was in the ninth spot in the Open event with 8.5 points after 12 rounds in the FIDE World Blitz Championship here on Thursday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-championship-indian-gm-sadhwani-in-9th-spot/articleshow/96603262.cms",
-         "pubDate" : "Thu, 29 Dec 2022 15:56:06 +0000",
-         "title" : "World Blitz championship: Indian GM Sadhwani in 9th spot"
-      },
-      {
-         "description" : " &#160;\"New year, new me\" you might say. But didn't you say the exact same thing one year ago? If 2022 then proceeded to be an amazing chess year for you, just do more of the same in 2023! It seems that you figured it out. For many of you, I expect this is more a [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/new-year-2023/\">New Year's Resolutions: Make Them Work In 2023</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/new-year-2023/",
-         "pubDate" : "Thu, 29 Dec 2022 15:33:36 +0000",
-         "title" : "New Year's Resolutions: Make Them Work In 2023"
       }
    ]
 }
