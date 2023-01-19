@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-world-championship-match-to-be.html",
+         "pubDate" : "Thu, 19 Jan 2023 20:00:00 +0000",
+         "title" : "2023 World Championship Match to be held in Astana"
+      },
+      {
          "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen&#x2019;s withdrawal. The General Partner of the event, which boasts a sensational prize []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A new concept in the Ragozin"
       },
       {
-         "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
+         "description" : "khaThe 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
