@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen&#x2019;s withdrawal. The General Partner of the event, which boasts a sensational prize []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/astana-will-host-the-fide-world-chess-championship-match-2023/",
+         "pubDate" : "Thu, 19 Jan 2023 19:10:15 +0000",
+         "title" : "Astana will host the FIDE World Chess Championship match 2023"
+      },
+      {
+         "description" : "In his \"Fast & Furious\" show Robert Ris presents a new concept for White in the Ragozin. It was prepared by Anish Giri who used it to beat Gukesh at the Tata Steel Tournament in Wijk aan Zee in great style. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-concept-in-the-ragozin",
+         "pubDate" : "Thu, 19 Jan 2023 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A new concept in the Ragozin"
+      },
+      {
+         "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
+         "pubDate" : "Thu, 19 Jan 2023 09:32:00 -0800",
+         "title" : "Astana To Host Ding-Nepomniachtchi FIDE World Chess Championship Match"
+      },
+      {
+         "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen's withdrawal. The General Partner of the event, which boasts a sensational prize fund of 2 million euros, will be Freedom Holding Corp, a US-based corporation with Kazakh roots.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-announces-2023-world-championship",
+         "pubDate" : "Thu, 19 Jan 2023 18:05:40 +0100",
+         "title" : "FIDE announces 2023 World Championship"
+      },
+      {
          "description" : "The 2023 World Chess Championship match between Ian Nepomniachtchi and Ding Liren will take place in the capital of Kazakhstan, Astana, from April 7 till May 1. After Magnus Carlsen's abdication, the match to decide the next, 17th World Chess Champion, will once again be played over 14 games, with a €2 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -304,14 +336,6 @@ news_feed (
          "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-4-pairings/",
          "pubDate" : "Tue, 17 Jan 2023 11:07:57 +0000",
          "title" : "Tata Steel Challengers 2023 - Round 4 pairings"
-      },
-      {
-         "description" : "After three played rounds at the Tata Steel Masters 2023, five players tie for the top scoring 2 points, each: Magnus Carlsen, Anish Giri, Ding Liren, Fabiano Caruana, and Nodirbek Abdusattorov. The fourth round starts today at 14:00 CEST, and the live broadcast of the games starts with 15 minutes delay. Tata Steel Challengers 2023 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-4-pairings/",
-         "pubDate" : "Tue, 17 Jan 2023 11:01:28 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 4 pairings"
       },
       {
          "description" : "Last month World Chess, the company that ran the World Chess Championships, announced its plans to float on the main London Stock Exchange in November, inviting institutional and retail investors to subscribe for eight million Euro shares. This comes at the heels of planned 483 million takeover of PlayMagnus by the giant Chess.com. What this all means is discussed by Peter O'Brien in the latest issue of The British Chess Magazine.",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "Top juniors in 2022: Arjun Erigaisi"
       },
       {
-         "description" : "With ChessBase Magazine #211 Karsten Mueller starts a new training series, which is not about endgame finesse on grandmaster level, but about basic techniques, which are worth learning for every ambitious chess player. And without them you won't get far at a higher level. The topic of the first article is the endgame rook vs. pawn. As clear as the balance of power is in this endgame, you have to know a few rules of thumb and techniques in order to always be able to treat the position correctly. You can watch Karsten Mueller's video introduction to his new series here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-series-fundamental-endgame-knowledge-part-1-rook-vs-pawn",
-         "pubDate" : "Sat, 07 Jan 2023 16:00:00 +0100",
-         "title" : "New series \"Fundamental Endgame Knowledge\" - Part 1: Rook vs. pawn"
-      },
-      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2138",
          "pubDate" : "Sat, 07 Jan 2023 09:40:03 +0000",
          "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : "In the diagram position White just played 26.Rb1+. How would you parry the check spontaneously, with 26...Nb6 or with 26...Ka8? But you can also think a bit longer, because one of these moves leads straight to a loss...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fatal-decision",
-         "pubDate" : "Sat, 07 Jan 2023 09:00:00 +0100",
-         "title" : "Fatal decision"
       },
       {
          "description" : " Seven rounds have now been played in the 2023 Australian Open, and GM Temur Kuybokarov has opened up a 1 point lead over the rest of the field. He defeated IM James Morris in Round 7 after a very sharp opening. However the real trouble started for Morris around move 40 when the endgame got away from him. There are 5 players tied for second place on 5.5, including top seed GM Jingyao Tin who beat GM Darryl Johansen. In the Minor tournament Oscar Ho and Benny Chan share the lead on 6/7. Having already played each other, it may be a question of who makes the least mistakes in the race to the finish. <br /> ",
@@ -1648,22 +1656,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/world-blitz-day-1-magnus-cuts-it-close-hikaru-hunts-1st-title",
          "pubDate" : "Fri, 30 Dec 2022 00:20:19 +0000",
          "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
-      },
-      {
-         "description" : "GM Hikaru Nakamura attained a commanding lead after scoring 10/12 on the first day of the 2022 FIDE World Blitz Chess Championship on Thursday. He defeated eight grandmasters en route to his imperious score, conceding only four draws against GMs M...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Thu, 29 Dec 2022 11:01:00 -0800",
-         "title" : "Commanding Lead For Nakamura At World Blitz Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2157",
-         "pubDate" : "Thu, 29 Dec 2022 18:24:03 +0000",
-         "title" : "World Blitz Championship, Day 1: Nakamura's moment"
       }
    ]
 }
