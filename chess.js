@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Seniors Championships will take place between Thursday 4th May and Bank Holiday Monday 8th May 2023 at the Woodland Grange, Old Milverton Lane,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-chess-championships-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 15:16:11 +0000",
+         "title" : "English Seniors Chess Championships 2023"
+      },
+      {
+         "description" : "The English and English Women's Championships will take place between Friday 26th May and Bank Holiday Monday 29th May 2023 at the Holiday Inn Kenilworth-Warwick,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 15:15:07 +0000",
+         "title" : "English and English Women's Chess Championships 2023"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Fri, 20 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "We are pleased to announce that this year's British Chess Championships will be held at The Venue, De Montfort University in Leicester, with events running...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 12:33:55 +0000",
+         "title" : "British Chess Championships 2023"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Abdusattorov beats Carlsen to take sole lead in Tata Steel Masters 2023"
       },
       {
-         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nordirbek Abdusattorov. It was the first time for m",
+         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nodirbek Abdusattorov. It was the first time for mo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jan/20/chess-carlsen-loses-two-classical-games-in-a-row-for-the-first-time-since-2015",
@@ -1234,14 +1266,6 @@ news_feed (
          "title" : "Women in Chess: FIDE workshop held in Stockholm"
       },
       {
-         "description" : "Lithuanian grandmaster Sarunas Sulskis was the only player, out of the 95 participants, to achieve an 8/10 score at the 96th edition of the traditional Hastings Masters. In second to fourth place finished Bence Korpa (Hungary), Oleg Korneev (Spain) and Mark Hebden (England), each with 7&frac12;/10. Rating favourite Romain Edouard (France) finished fifth on 7/10. | Photo: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sarunas-sulskis-wins-hastings-masters",
-         "pubDate" : "Sat, 07 Jan 2023 17:15:00 +0100",
-         "title" : "Sarunas Sulskis wins 96th edition of the Hastings Masters"
-      },
-      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1640,54 +1664,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-koneru-humpy/",
          "pubDate" : "Fri, 30 Dec 2022 17:11:17 +0000",
          "title" : "Congratulations Koneru Humpy"
-      },
-      {
-         "description" : "Back in the mid-1990s, both Garry Kasparov and Anatoly Karpov -- bitter rivals at the time -- wrote separate columns for the USCF's <I>Chess Life</I> (CL). I mentioned Karpov's column in last week's post, <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022). <P>I've never studied these columns, even though they might contain interesting material for my <I>World Chess Championship</I> site (WCC; see link on the right). Following is a table overviewing the content of both columns. <P><TABLE BORDER CELLPADDING=\"1\" CELLSPACING=\"0\"> <TR> <TH>CL</TH> <TH>p.</TH> <TH>Title</TH> <TH>Notes</TH> </TR> <TR> <TD></TD> <TD></TD> <TD></TD>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2022/12/world-championship-columnists.html",
-         "pubDate" : "Fri, 30 Dec 2022 16:15:00 +0000",
-         "title" : "World Championship Columnists"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96627464.cms\" />Indian ace Koneru Humpy came up with a superb performance after a modest run in the initial phase to claim the silver medal in the women's section of the FIDE World Blitz Chess Championship on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/world-blitz-chess-championship-indias-koneru-humpy-wins-silver-in-womens-section/articleshow/96627464.cms",
-         "pubDate" : "Fri, 30 Dec 2022 14:29:49 +0000",
-         "title" : "World Blitz Chess Championship: Koneru Humpy wins silver"
-      },
-      {
-         "description" : "2022 has been an outstanding year for English seniors chess. WIM Natasha Regan has put together a retrospective look at English seniors chess during the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-chess-a-retrospective-for-2022/",
-         "pubDate" : "Fri, 30 Dec 2022 14:07:47 +0000",
-         "title" : "English seniors chess - a retrospective for 2022"
-      },
-      {
-         "description" : " The world No 1 led all the way in the 15-minute Rapid, scoring 10/13 with some classic wins, but the incident-packed Blitz, where he totalled 16/21, was much closer Magnus Carlsen scored another triumph this week when the 32-year-old No 1 won the World Rapid and World Blitz titles ahead of more than 170 rivals in Almaty, Kazakhstan. The Norwegian's 10/13 Rapid total was half a point ahead of Germany's Vincent Keymer in second place and the US champion, Fabiano Caruana, in third, while in Blitz he totalled 16/21, a full point ahead of Hikaru Nakamura of the US, who took silver on tie-break from Armenia's Haik Martirosyan. Carlsen has now been the dominant player in World Rapids for more than",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2022/dec/30/chess-carlsen-triumphs-in-world-rapid-then-sprints-to-avoid-blitz-time-forfeit",
-         "pubDate" : "Fri, 30 Dec 2022 14:04:47 +0000",
-         "title" : "Chess: Magnus Carlsen captures double world crown in Rapid and Blitz"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2158",
-         "pubDate" : "Fri, 30 Dec 2022 13:35:46 +0000",
-         "title" : "Magnus Carlsen and Bibisara Assaubayeva win the World Blitz Chess Championships"
-      },
-      {
-         "description" : "GM Magnus Carlsen earned the 2022 FIDE World Blitz Championship title on Friday with a score of 16/21, one point ahead of silver medalist GM Hikaru Nakamura and bronze medalist on tiebreak, GM Haik Martirosyan. Carlsen&#39;s victory, which was confi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2022-fide-world-blitz-chess-championship-day-2",
-         "pubDate" : "Fri, 30 Dec 2022 05:24:00 -0800",
-         "title" : "Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
       }
    ]
 }
