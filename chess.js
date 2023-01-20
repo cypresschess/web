@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nordirbek Abdusattorov. It was the first time for",
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-6-live/",
+         "pubDate" : "Fri, 20 Jan 2023 12:06:38 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 6 live"
+      },
+      {
+         "description" : "18-year-old Nodirbek Abdusattorov took the sole lead in the Tata Steel Masters after outplaying Magnus Carlsen in Round 5, with the World Champion losing two classical games in a row for the first time since 2015. There were also wins for Levon Aronian, who tricked Vincent Keymer in an endgame, and Parham Maghsoodloo, who scored a bounce-back win over Jorden van Foreest.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-5-abdusattorov-hands-carlsen-2nd-loss-in-a-row",
+         "pubDate" : "Fri, 20 Jan 2023 10:37:51 +0000",
+         "title" : "Tata Steel 5: Abdusattorov hands Carlsen 2nd loss in a row"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov is the sole leader of the Tata Steel Masters 2023 after five played rounds. Abdusattorov defeated World champion Magnus Carlsen to score 4 points, being half a point ahead of the runner-up Anish Giri. After the free day and yesterday's Tata Steel Chess On Tour game, the event continues with the 6th round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-6-pairings/",
+         "pubDate" : "Fri, 20 Jan 2023 10:23:45 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 6 pairings"
+      },
+      {
+         "description" : "After five played rounds at the Tata Steel Challengers 2023, Turkish Champion Mustafa Yilmaz emerged as the sole leader of the event with 4/5 points. Three players are trailing by half a point: Javokhir Sindarov, Velimir Ivic and Alexander Donchenko. After yesterday's free days for the Challengers, the players are coming back to the Wijk []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-6-pairings/",
+         "pubDate" : "Fri, 20 Jan 2023 09:23:33 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 6 pairings"
+      },
+      {
+         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. Grandmaster Karsten M&uuml;ller, our in-house endgame expert, finds instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-1",
+         "pubDate" : "Fri, 20 Jan 2023 10:00:00 +0100",
+         "title" : "Endgames from Wijk aan Zee (1)"
+      },
+      {
+         "description" : "Five rounds are played at the Tata Steel Chess Masters 2023 and 18-year-old Nodirbek Abdusattorov emerged as the sole leader of the event after defeating World Champion Magnus Carlsen yesterday. Carlsen suffered two losses in a row, which happened in 2015 for the last time. The Uzbekistani teen prevailed in the exciting Queens endgame holding []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-beats-carlsen-to-take-sole-lead-in-tata-steel-masters-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 08:36:22 +0000",
+         "title" : "Abdusattorov beats Carlsen to take sole lead in Tata Steel Masters 2023"
+      },
+      {
+         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nordirbek Abdusattorov. It was the first time for m",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jan/20/chess-carlsen-loses-two-classical-games-in-a-row-for-the-first-time-since-2015",
@@ -40,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r5-b",
          "pubDate" : "Thu, 19 Jan 2023 22:45:00 +0100",
          "title" : "Tata Steel Chess R5: Abdusattorov defeats Carlsen, takes the lead"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-5-live/",
+         "pubDate" : "Thu, 19 Jan 2023 21:31:00 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 5 live"
       },
       {
          "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
@@ -82,7 +138,7 @@ news_feed (
          "title" : "FIDE announces 2023 World Championship"
       },
       {
-         "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since the Gashimov Memorial of 2014. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report from Amsterdam below. Masters Round 5 Standings: 1st Abdusattorov 4pts",
+         "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since 3rd Norway Chess tournament of 2015 where he started with two losses, a draw and then another loss. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report f",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-beats-carlsen-to-lead-tata-steel-masters-alone-on-45",
@@ -98,20 +154,12 @@ news_feed (
          "title" : "Astana chosen as Nepo-Ding World Championship venue"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-5-live/",
-         "pubDate" : "Thu, 19 Jan 2023 12:31:05 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 5 live"
-      },
-      {
-         "description" : " Many chess improvers spend a lot of time thinking about the 'ideal' chess study plan. \"Should I train openings, tactics, or endgames? And how much of each is appropriate?\" you might frequently ask yourself. In this article, I want to present a very simple method to guide you through these questions. I call it \"the [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/the-one-third-rule/\">Use The One-Third Rule To Improve Your Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Many chess improvers spend a lot of time thinking about the 'ideal' chess study plan. \"Should I train openings, tactics, or endgames? And how much of each is appropriate?\" you might frequently ask yourself. In this article, I want to present a very simple method to guide you through these questions. I call it \"the [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/the-one-third-rule/\">The One-Third-Rule: How To Take Control Of Your Chess Training</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/the-one-third-rule/",
          "pubDate" : "Thu, 19 Jan 2023 12:12:49 +0000",
-         "title" : "Use The One-Third Rule To Improve Your Chess"
+         "title" : "The One-Third-Rule: How To Take Control Of Your Chess Training"
       },
       {
          "description" : "The 37th edition of the Reykjavik Open will be held from March 29th until April 4th, 2023 in Harpa, the 28.000 sq. m. concert and conference hall in downtown Reykjavik. The tournament has been the flagship of Icelandic chess for many years and one of the most prestigious and well-liked open tournaments on the calendar every year. | Press release, Icelandic Chess Federation.",
@@ -282,14 +330,6 @@ news_feed (
          "title" : "Marienbad GM (A2) Czech Tour 2023 - LIVE"
       },
       {
-         "description" : "The Marienbad GM (A1) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Richard Stalmach, Qi b Chen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marienbad-gm-a1-czech-tour-2023-live/",
-         "pubDate" : "Tue, 17 Jan 2023 23:23:04 +0000",
-         "title" : "Marienbad GM (A1) Czech Tour 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -298,28 +338,12 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Giri and Abdusattorov pull ahead"
       },
       {
-         "description" : "The fourth round of the Tata Steel Masters 2023 was played today in Wijk aan Zee and the players will tomorrow have a free day. The fifth round will be played On Tour in Amsterdam, with the sixth round coming back to the Wijk aan Zee venue. All eyes today were on the game between []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/giri-and-abdusattorov-in-the-co-lead-at-tata-steel-masters-2023/",
-         "pubDate" : "Tue, 17 Jan 2023 21:13:06 +0000",
-         "title" : "Giri and Abdusattorov in the co-lead at Tata Steel Masters 2023"
-      },
-      {
          "description" : " Both Magnus Carlsen and Ding Liren (currently the only 2 players rated above 2800) suffered losses in round 4 of the 2023 Tata Steel tournament. More on this when I get back from walking the dog! ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/01/losses-for-top-2-more-at-11.html",
          "pubDate" : "Tue, 17 Jan 2023 20:49:00 +0000",
          "title" : "Losses for the top 2 - More at 11"
-      },
-      {
-         "description" : "After four played rounds at the Tata Steel Challengers 2023, three players score 3 points to be on the top: Velimir Ivic, Mustafa Yilmaz and Alexander Donchenko. And while the Masters' players tomorrow have the free day, Tata Steel Challengers will tomorrow see the 5th round starting at 14:00 CEST. Mustafa Yilmaz was today victorious []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/three-way-tie-at-tata-steel-challengers-2023-round-4-recap/",
-         "pubDate" : "Tue, 17 Jan 2023 20:14:00 +0000",
-         "title" : "Three way tie at Tata Steel Challengers 2023 - Round 4 recap"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on trading pieces and counting their worth. When is it a good time to trade and when is it best to leave the material on the board? 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trading-and-counting-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M08I2eq04eg.jpg?itok=1v1xRsnP\" alt=\"\" /></a><",
@@ -376,14 +400,6 @@ news_feed (
          "link" : "https://chessimprover.com/hardest-checkmate-in-1/",
          "pubDate" : "Tue, 17 Jan 2023 11:12:57 +0000",
          "title" : "Hardest Checkmate in 1?"
-      },
-      {
-         "description" : "After three played rounds at the&#xA0;Tata Steel Challengers 2023, six players co-lead in the event scoring 2 points, each: Velimir Ivic, Mustafa Yilmaz, Javokhir Sindarov, Alexander Donchenko, Amin Tabatabaei and Max Warmerdam. The 4th round starts at 14:00 CEST with live broadcast starting 15 minutes later. Tata Steel Challengers 2023 Round 3 recap / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-4-pairings/",
-         "pubDate" : "Tue, 17 Jan 2023 11:07:57 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 4 pairings"
       },
       {
          "description" : "Last month World Chess, the company that ran the World Chess Championships, announced its plans to float on the main London Stock Exchange in November, inviting institutional and retail investors to subscribe for eight million Euro shares. This comes at the heels of planned 483 million takeover of PlayMagnus by the giant Chess.com. What this all means is discussed by Peter O'Brien in the latest issue of The British Chess Magazine.",
@@ -1226,14 +1242,6 @@ news_feed (
          "title" : "Sarunas Sulskis wins 96th edition of the Hastings Masters"
       },
       {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. We now move on to the third spot in the junior ranking, where Arjun Erigaisi stands serenely, though certainly looking upwards. In 2022, Arjun dominated the Tata Steel Challengers' tournament and had a marvellous showing at the Olympiad. | Photo: Lennart Ootes / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-arjun-erigaisi",
-         "pubDate" : "Sat, 07 Jan 2023 17:00:00 +0100",
-         "title" : "Top juniors in 2022: Arjun Erigaisi"
-      },
-      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1680,22 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-assaubayeva-win-2022-fide-world-blitz-chess-championship-day-2",
          "pubDate" : "Fri, 30 Dec 2022 05:24:00 -0800",
          "title" : "Carlsen Wins World Blitz Championship, Assaubayeva Defends Women's Title"
-      },
-      {
-         "description" : " I was just watching the live stream from the 2022 World Blitz Championship. It was the final round of the Women's event, and so the commentators thought it was important to cover that, rather than the 2nd last round of the Open event. A sensible decision, especially as this was apparently the only round from the Women's event that was covered in full.<br />But the whinging in the comments section. It was full on. All the misogynistic stereotypes about women's chess were on full display, along with the smokescreen about wanting to see 'higher quality' chess. Given the level of comments by most of the people in this feed, the only criteria being used was 'men = higher quality' rather than any",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2022/12/people-are-worst-well-subset-of-them.html",
-         "pubDate" : "Fri, 30 Dec 2022 12:12:00 +0000",
-         "title" : "People are the worst (well a subset of them)"
-      },
-      {
-         "description" : " Last week, we started exploring the world of tactics in more detail. While I mentioned the importance of tactics, I also mentioned that you can't solely count on their use to win games. Over the next few months, we'll learn a small collection of tactical tools that will aid your playing. However, I decided to <a href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Seventy Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-seventy-nine/\">A Foundation for Beginners Seventy Nine</a> appeared first on <a rel=\"nofollow\" href=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-nine/",
-         "pubDate" : "Fri, 30 Dec 2022 10:00:52 +0000",
-         "title" : "A Foundation for Beginners Seventy Nine"
       }
    ]
 }
