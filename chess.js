@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ukrainian GM Kirill Shevchenko has changed federations to Romania, the Romanian Chess Federation announced on Thursday. GM Richard Rapport, the world number-17, also switched federations from Hungary last year. Rated 2662, Shevchenko is now th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukranian-gm-shevchenko-to-play-for-romania",
+         "pubDate" : "Fri, 20 Jan 2023 12:15:09 -0800",
+         "title" : "Ukranian GM Shevchenko To Play For Romania"
+      },
+      {
+         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the first episode, Jeroen van den Belt explains the new lightning-fast search function!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/videotutorials-chessbase17-spielersuche-januar-2023",
+         "pubDate" : "Fri, 20 Jan 2023 21:00:00 +0100",
+         "title" : "ChessBase 17 explained by the engineers! - The fast search function"
+      },
+      {
+         "description" : "In his new Power Play Show Daniel King takes a look at the King's Gambit, which was tried in an interesting game in the Wijk aan Zee Challengers tournament. King, who authored two ChessBase courses about the King's Gambit, was fascinated and astonished. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautifull-blunders-with-the-king-s-gambit",
+         "pubDate" : "Fri, 20 Jan 2023 19:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Beautifull blunders with the King's Gambit"
+      },
+      {
+         "description" : " The Tata Steel Masters returned to Wijk aan Zee and saw two decisive games. Fabiano Caruana beat a really struggling D Gukesh who clearly messed something up in the opening. Wesley So was the other winner beating Vincent Keymer after the German looked like he had fought his way back into the game. Leader Nodirbek Abdusattorov didn't get much against Praggnanandhaa. Second place Anish Giri had a promising position against Arjun Erigaisi but had to settle for a draw, in commentary they talked about how Giri is being seconded by Jan Gustafsson. Magnus Carlsen pressed a little against Jorden Van Foreest but he even had to be careful not to lose near the end. In the B-Group Alexander Donchenko j",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-and-so-win-in-round-6-of-the-tata-steel-masters",
+         "pubDate" : "Fri, 20 Jan 2023 20:06:00 +0400",
+         "title" : "Caruana and So win in Round 6 of the Tata Steel Masters - 6"
+      },
+      {
          "description" : "The English Seniors Championships will take place between Thursday 4th May and Bank Holiday Monday 8th May 2023 at the Woodland Grange, Old Milverton Lane,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1250,22 +1282,6 @@ news_feed (
          "title" : "2023 Australian Open - Day 6"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 107th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-9",
-         "pubDate" : "Sun, 08 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 107: Play the Sicilian (8)"
-      },
-      {
-         "description" : "The first FIDE workshop organized by the FIDE Commission for Women's Chess in 2023 took place on January 5 in Stockholm, Sweden, during the Rilton Cup. Swedish living legend Pia Cramling was among the speakers, and emphasized how chess takes away any prejudicial social boundaries based on age or gender. | Photos: Anastasiya Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-workshop-women-stockholm",
-         "pubDate" : "Sun, 08 Jan 2023 14:45:00 +0100",
-         "title" : "Women in Chess: FIDE workshop held in Stockholm"
-      },
-      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1656,14 +1672,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-s-triple-triple-crown-11-world-blitz-conclusions",
          "pubDate" : "Sat, 31 Dec 2022 00:42:10 +0000",
          "title" : "Carlsen's triple triple crown! 11 World Blitz Conclusions"
-      },
-      {
-         "description" : "Grandmaster Koneru Humpy made in India proud again by securing silver medal at World Women Blitz Chess Championship at Almaty on Friday. This is the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-koneru-humpy/",
-         "pubDate" : "Fri, 30 Dec 2022 17:11:17 +0000",
-         "title" : "Congratulations Koneru Humpy"
       }
    ]
 }
