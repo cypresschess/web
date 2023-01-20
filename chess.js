@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2181",
+         "pubDate" : "Thu, 19 Jan 2023 23:48:10 +0000",
+         "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
+      },
+      {
+         "description" : "In their first-ever classical encounter, 18-year-old GM Nodirbek Abdusattorov defeated GM Magnus Carlsen with the black pieces in round five of the 2023 Tata Steel Chess Tournament. With his previous round&#39;s victory vs. GM Parham Maghsoodloo, Abdu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-5",
+         "pubDate" : "Thu, 19 Jan 2023 15:16:00 -0800",
+         "title" : "Abdusattorov Gives Carlsen His 1st 2-Game Losing Streak in 8 Years"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters after inflicting Magnus Carlsen's second consecutive loss. A memorable round, played at the Johan Cruyff Arena in Amsterdam, also saw Arjun Erigaisi finding a tactical recourse to all but force a draw from an inferior position against Ding Liren, while Levon Aronian and Parham Maghsoodloo both scored full points with the white pieces. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r5-b",
+         "pubDate" : "Thu, 19 Jan 2023 22:45:00 +0100",
+         "title" : "Tata Steel Chess R5: Abdusattorov defeats Carlsen, takes the lead"
+      },
+      {
          "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A new concept in the Ragozin"
       },
       {
-         "description" : "khaThe 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which w...",
+         "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
@@ -42,20 +66,20 @@ news_feed (
          "title" : "FIDE announces 2023 World Championship"
       },
       {
+         "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since the Gashimov Memorial of 2014. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report from Amsterdam below. Masters Round 5 Standings: 1st Abdusattorov 4pts",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-beats-carlsen-to-lead-tata-steel-masters-alone-on-45",
+         "pubDate" : "Thu, 19 Jan 2023 21:03:00 +0400",
+         "title" : "Abdusattorov beats Carlsen to lead Tata Steel Masters alone on 4/5 - 5"
+      },
+      {
          "description" : "The 2023 World Chess Championship match between Ian Nepomniachtchi and Ding Liren will take place in the capital of Kazakhstan, Astana, from April 7 till May 1. After Magnus Carlsen's abdication, the match to decide the next, 17th World Chess Champion, will once again be played over 14 games, with a €2 million prize fund.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/astana-to-host-nepo-ding-world-championship-match",
          "pubDate" : "Thu, 19 Jan 2023 14:32:35 +0000",
          "title" : "Astana chosen as Nepo-Ding World Championship venue"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Thu, 19 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
@@ -1656,14 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-seventy-nine/",
          "pubDate" : "Fri, 30 Dec 2022 10:00:52 +0000",
          "title" : "A Foundation for Beginners Seventy Nine"
-      },
-      {
-         "description" : "Hikaru Nakamura won just 2 games in the World Rapid Championship in Almaty, but on Day 1 of the World Blitz he won 8 to take a 1-point lead and give himself every chance of winning his first ever World Rapid or Blitz title. Magnus Carlsen is among the 5-player chasing pack after making a dramatic late arrival midway through Round 1, still dressed in casual gear. Ian Nepomniachtchi would also fall foul of the dress code.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/world-blitz-day-1-magnus-cuts-it-close-hikaru-hunts-1st-title",
-         "pubDate" : "Fri, 30 Dec 2022 00:20:19 +0000",
-         "title" : "World Blitz Day 1: Magnus cuts it close, Hikaru hunts 1st title"
       }
    ]
 }
