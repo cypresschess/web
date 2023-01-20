@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Brewington Hardaway is pictured here at the National K8 tournament of Champions which he won. Photo by Alexey Root Brewington Hardaway has earned his first International Master norm at the NY City Winter IM Norm Invitational with 6/9. After barely missing his first norm last month, he posted to Twitter about his last-round loss to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/\">Brewington Hardaway gets 1st IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/",
+         "pubDate" : "Fri, 20 Jan 2023 02:06:05 +0000",
+         "title" : "Brewington Hardaway gets 1st IM norm!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
       },
       {
-         "description" : "In their first-ever classical encounter, 18-year-old GM Nodirbek Abdusattorov defeated GM Magnus Carlsen with the black pieces in round five of the 2023 Tata Steel Chess Tournament. With his previous round&#39;s victory vs. GM Parham Maghsoodloo, Abdu...",
+         "description" : "In their first-ever classical encounter, 18-year-old GM Nodirbek Abdusattorov with the black pieces defeated GM Magnus Carlsen in round five of the 2023 Tata Steel Chess Tournament. With his previous round&#39;s victory vs. GM Parham Maghsoodloo, Abdu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-5",
