@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nordirbek Abdusattorov. It was the first time for",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jan/20/chess-carlsen-loses-two-classical-games-in-a-row-for-the-first-time-since-2015",
+         "pubDate" : "Fri, 20 Jan 2023 08:00:32 +0000",
+         "title" : "Chess: Carlsen loses two classical games in a row for the first time since 2015"
+      },
+      {
          "description" : " Brewington Hardaway is pictured here at the National K8 tournament of Champions which he won. Photo by Alexey Root Brewington Hardaway has earned his first International Master norm at the NY City Winter IM Norm Invitational with 6/9. After barely missing his first norm last month, he posted to Twitter about his last-round loss to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/\">Brewington Hardaway gets 1st IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
