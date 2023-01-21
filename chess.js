@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 Oceania Zonal starts on Monday 22nd January in Melbourne. In what may well be the largest Zonal ever held anywhere, there are over 250 players in the Open, and another 42 in the Women's event. While there is a chance to qualify for the next FIDE World Cup (1 spot only!), the real attraction is the chance to receive a direct title. A score of 50% is required for a CM title, while a score of 66% is need for an FM title. Players earning this title must also have a FIDE rating over 2000 for the CM title, and 2100 for the FM title, at some point in their career. For online coverage just visit the tournament website at <a href=\"https://sites.google.com/view/2023oceaniazonals/home\">https:",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal.html",
+         "pubDate" : "Sat, 21 Jan 2023 13:36:00 +0000",
+         "title" : "2023 Oceania Zonal"
+      },
+      {
+         "description" : "Shohreh Bayat, the world's most celebrated chess arbiter, is once again in the global chess headlines. Shohreh, it will be recalled, attracted the wrath of the Iranian Ayatollahs when she was photographed during her arbiting work, wearing her hijab in a slightly unorthodox position. Justifiably fearing reprisals if she returned to Iran, Shohreh successfully sought and was []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/fide-russia-and-iran-an-interview-with-shohreh-bayat/",
+         "pubDate" : "Sat, 21 Jan 2023 13:15:33 +0000",
+         "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sat, 21 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Tata Steel Chess R6: So and Caruana score"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. GM Fabiano Caruana climbed the scoreboard with an attacking victory vs. Gukesh D., joining GM Anish...",
+         "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-6",
@@ -1274,14 +1298,6 @@ news_feed (
          "title" : "Bernadskiy and Kuzubov win Keres Memorial in Tallinn"
       },
       {
-         "description" : "The Covid pandemic in the last two years have led to a chess boom online, and the young guns have benefited the most from having 'extra time' on hand due to being at home a lot throughout the years 2020 and 2021. They seem to have done well to widen their learnings of the game, making large gains on the rating scale. Edwin Lam Choong Wai, chess enthusiast and coach, has a suggestion how FIDE should handle this. We would be interested to hear you opinion on the subject.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/suggestion-for-fide-k-factor-holiday",
-         "pubDate" : "Mon, 09 Jan 2023 12:00:00 +0100",
-         "title" : "Suggestion for FIDE: K-factor 'holiday'"
-      },
-      {
          "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/",
          "pubDate" : "Sat, 31 Dec 2022 19:46:56 +0000",
          "title" : "Ortega is Cape Verde's 2022 Chess Champion"
-      },
-      {
-         "description" : " The clock has just moved past midnight here in Canberra, so welcome to 2023. I suspect this year will continue to see chess getting back to a more normal state, although there may be a few hic-ups along the way. For me, the first chess activity of 2023 starts tomorrow (2nd January). I am off to the <a href=\"https://sites.google.com/view/2023ausopen/home\">2023 Australian Open</a> in Perth. This is the first proper Australian Championship/Open since Sydney 2020, and the organisers have done very well in attracting a strong international field. After the the 2023 Oceania Zonal in Melbourne is likely to be my next port of call, before spending a couple of months busy with the organisation of th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/welcome-to-2023.html",
-         "pubDate" : "Sat, 31 Dec 2022 13:17:00 +0000",
-         "title" : "Welcome to 2023"
       }
    ]
 }
