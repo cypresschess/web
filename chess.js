@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White had just calmly covered his knight g4 with 25.h3! and then after 25...exd4 powerfully set off for the final attack. Can you follow in his footsteps?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/giri-s-grenades",
+         "pubDate" : "Sat, 21 Jan 2023 09:00:00 +0100",
+         "title" : "Giri's grenades"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov is still the sole leader after six rounds at the Tata Steel Masters in Wijk aan Zee. The Uzbek GM drew his game with white, as did Anish Giri, who entered the round a half point behind in sole second place. The winners of the day were Fabiano Caruana and Wesley So, who got the better of Dommaraju Gukesh and Vincent Keymer respectively. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r6",
+         "pubDate" : "Sat, 21 Jan 2023 08:30:00 +0100",
+         "title" : "Tata Steel Chess R6: So and Caruana score"
+      },
+      {
          "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. GM Fabiano Caruana climbed the scoreboard with an attacking victory vs. Gukesh D., joining GM Anish...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 20 Jan 2023 19:06:54 -0800",
+         "pubDate" : "Fri, 20 Jan 2023 19:06:00 -0800",
          "title" : "So Scores First Win, Caruana Joins Chase After Abdusattorov"
       },
       {
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "Tournament techincal techniques"
       },
       {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Former world rapid champion Nodirbek Abdusattorov is fourth in the list. At 18, he has proven his mettle as a leader, playing top board for Uzbekistan in an astounding run to Olympic gold in Chennai. | Find here analysis of a remarkable victory by Abdusattorov, annotated by Ivan Sokolov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-nodirbek-abdusattorov",
-         "pubDate" : "Sun, 08 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Nodirbek Abdusattorov"
-      },
-      {
          "description" : " You might recall that my comeback game resulted in a rook ending which was completely drawn in spite of my opponent's extra pawn. I thought it might be useful to look in more detail at this sort of position. Here's a typical situation. Black's rook is behind White's passed pawn. The computer tells me the <a href=\"https://chessimprover.com/the-extra-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Extra Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-extra-pawn/\">The Extra Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-6.html",
          "pubDate" : "Sun, 08 Jan 2023 14:03:00 +0000",
          "title" : "2023 Australian Open - Day 6"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 107th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-9",
-         "pubDate" : "Sun, 08 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 107: Play the Sicilian (8)"
       },
       {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
@@ -1672,22 +1672,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/welcome-to-2023.html",
          "pubDate" : "Sat, 31 Dec 2022 13:17:00 +0000",
          "title" : "Welcome to 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2159",
-         "pubDate" : "Sat, 31 Dec 2022 08:28:29 +0000",
-         "title" : "Kenya Championship 2022: Mehul Gohil and Joyce Nyaruai win titles"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships took place in Almaty, Kazakhstan 26th to 30th December 2022. World Champion Magnus Carlsen and World Number 1 Rapid player and Hikaru Nakamura, World Number 1 Blitz player, headed a strong field including Richard Rapport, Jan-Krzysztof Duda, MVL Ian Nepomniachtchi, Alexander Grishuk, Fabiano Caruana, Shakhriyar Mamedyarov, the field went deep. Magnus Carlsen won both the World Rapid and Blitz titles and along with the World Championship title he is about to give up holds all three titles for the third time (2014 and 2019 being the other years). Carlsen has made these titles a career target in a way his predecessors did not and has definitely lifted th",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2022",
-         "pubDate" : "Sat, 31 Dec 2022 12:26:00 +0400",
-         "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
       }
    ]
 }
