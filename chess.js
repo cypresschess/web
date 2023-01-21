@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. GM Fabiano Caruana climbed the scoreboard with an attacking victory vs. Gukesh D., joining GM Anish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-6",
+         "pubDate" : "Fri, 20 Jan 2023 19:06:54 -0800",
+         "title" : "So Scores First Win, Caruana Joins Chase After Abdusattorov"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2023/",
          "pubDate" : "Fri, 20 Jan 2023 15:15:07 +0000",
          "title" : "English and English Women's Chess Championships 2023"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Fri, 20 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "We are pleased to announce that this year's British Chess Championships will be held at The Venue, De Montfort University in Leicester, with events running...",
@@ -1298,6 +1298,14 @@ news_feed (
          "title" : "2023 Australian Open - Day 6"
       },
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 107th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-9",
+         "pubDate" : "Sun, 08 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 107: Play the Sicilian (8)"
+      },
+      {
          "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2022",
          "pubDate" : "Sat, 31 Dec 2022 12:26:00 +0400",
          "title" : "World Rapid and Blitz Championships 2022 - Games and Results"
-      },
-      {
-         "description" : "Magnus Carlsen goes into 2023 as the Classical, Rapid and now Blitz World Champion for the 3rd time in his career, after finishing a point clear of Hikaru Nakamura (silver) and Haik Martirosyan (bronze). Bibisara Assaubayev delighted local fans by defending her Women's World Blitz title with a stunning last day comeback, bettered only by Humpy Koneru, who scored 7.5/8 to finish ahead of Polina Shuvalova (bronze).",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-s-triple-triple-crown-11-world-blitz-conclusions",
-         "pubDate" : "Sat, 31 Dec 2022 00:42:10 +0000",
-         "title" : "Carlsen's triple triple crown! 11 World Blitz Conclusions"
       }
    ]
 }
