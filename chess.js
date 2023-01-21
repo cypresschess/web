@@ -2,11 +2,43 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2182",
+         "pubDate" : "Fri, 20 Jan 2023 23:00:57 +0000",
+         "title" : "Tata Steel Masters: Abdusattorov stays in front"
+      },
+      {
+         "description" : "He&#39;s the 15th world chess champion, five-time world champion, and one of the greatest chess players of all time. India&#39;s first grandmaster, his career as a chess star has spanned five decades and lasted from his teenage years into his 50s. He has ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/viswanathan-anand-chesscom-course",
+         "pubDate" : "Fri, 20 Jan 2023 14:09:35 -0800",
+         "title" : "Take Vishy Anand's Chess.com Course Today!"
+      },
+      {
+         "description" : "18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov remains the sole leader of the 2023 Tata Steel Masters after six played rounds. Abdusattorov today drew his game against Praggnanandhaa having White pieces. The only two decisive games of today's round were played between Wesley So and Vincent Keymer, and Fabiano Caruana and Gukesh D. Wesley So was victorious []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-remains-the-sole-leader-of-tata-steel-masters-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 21:14:15 +0000",
+         "title" : "Abdusattorov remains the sole leader of Tata Steel Masters 2023"
+      },
+      {
+         "description" : "The sixth round of the Tata Steel Challengers 2023 was played today in Wijk aan Zee. Three games finished with the decisive results, with Alexander Donchenko defeating Eline Roebers to join Turkish Champion Mustafa Yilmaz in the lead of the event. Vaishali R scored her first victory in the tournament after beating Jergus Pechac. It []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexander-donchenko-joins-mustafa-yilmaz-in-the-lead-of-tata-steel-challengers-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 20:15:00 +0000",
+         "title" : "Alexander Donchenko joins Mustafa Yilmaz in the lead of Tata Steel Challengers 2023"
+      },
+      {
          "description" : "The Ukrainian GM Kirill Shevchenko has changed federations to Romania, the Romanian Chess Federation announced on Thursday. GM Richard Rapport, the world number-17, also switched federations from Hungary last year. Rated 2662, Shevchenko is now th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ukranian-gm-shevchenko-to-play-for-romania",
-         "pubDate" : "Fri, 20 Jan 2023 12:15:09 -0800",
+         "pubDate" : "Fri, 20 Jan 2023 12:15:00 -0800",
          "title" : "Ukranian GM Shevchenko To Play For Romania"
       },
       {
@@ -66,7 +98,7 @@ news_feed (
          "title" : "British Chess Championships 2023"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#xA0;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#xA0;and&#xA0;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-6-live/",
@@ -88,6 +120,14 @@ news_feed (
          "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-6-pairings/",
          "pubDate" : "Fri, 20 Jan 2023 10:23:45 +0000",
          "title" : "Tata Steel Masters 2023 - Round 6 pairings"
+      },
+      {
+         "description" : "Following a successful implementation of the FIDE aid package for Opens in 2022, the program was extended for the year 2023. The total amount of Aid Package Program 2023 reached &#x20AC;200,000. This impressive amount will be distributed among 50 open tournaments in as many countries/federations selected by FIDE (a national federation can receive no more []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/list-of-open-tournaments-to-receive-fide-aid-packages-2023/",
+         "pubDate" : "Fri, 20 Jan 2023 09:27:00 +0000",
+         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
       },
       {
          "description" : "After five played rounds at the Tata Steel Challengers 2023, Turkish Champion Mustafa Yilmaz emerged as the sole leader of the event with 4/5 points. Three players are trailing by half a point: Javokhir Sindarov, Velimir Ivic and Alexander Donchenko. After yesterday's free days for the Challengers, the players are coming back to the Wijk []",
@@ -368,30 +408,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-4-both-carlsen-and-ding-defeated",
          "pubDate" : "Wed, 18 Jan 2023 00:20:00 +0000",
          "title" : "Tata Steel Chess 4: Both Carlsen and Ding defeated"
-      },
-      {
-         "description" : "The Marienbad IM (B2) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Jakub Ocelak, Hussain Besou, Marek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marienbad-im-b2-czech-tour-2023-live/",
-         "pubDate" : "Tue, 17 Jan 2023 23:40:25 +0000",
-         "title" : "Marienbad IM (B2) Czech Tour 2023 - LIVE"
-      },
-      {
-         "description" : "The Marienbad IM (B1) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Stanislav Jasny, Maksym Goroshkov, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marienbad-im-b1-czech-tour-2023-live/",
-         "pubDate" : "Tue, 17 Jan 2023 23:35:08 +0000",
-         "title" : "Marienbad IM (B1) Czech Tour 2023 - LIVE"
-      },
-      {
-         "description" : "The Marienbad GM (A2) Czech Tour is taking place from 14&#x2013;21 January 2023 in Marianske Lazne, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Jan Krejci, Isik Can, Vaclav []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/marienbad-gm-a2-czech-tour-2023-live/",
-         "pubDate" : "Tue, 17 Jan 2023 23:28:42 +0000",
-         "title" : "Marienbad GM (A2) Czech Tour 2023 - LIVE"
       },
       {
          "description" : "",
