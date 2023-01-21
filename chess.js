@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was the first IM of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wijk-aan-zee-back-to-1963",
+         "pubDate" : "Sat, 21 Jan 2023 21:00:00 +0100",
+         "title" : "Wijk aan Zee: Back to 1963"
+      },
+      {
          "description" : " The 2023 Oceania Zonal starts on Monday 22nd January in Melbourne. In what may well be the largest Zonal ever held anywhere, there are over 250 players in the Open, and another 42 in the Women's event. While there is a chance to qualify for the next FIDE World Cup (1 spot only!), the real attraction is the chance to receive a direct title. A score of 50% is required for a CM title, while a score of 66% is need for an FM title. Players earning this title must also have a FIDE rating over 2000 for the CM title, and 2100 for the FM title, at some point in their career. For online coverage just visit the tournament website at <a href=\"https://sites.google.com/view/2023oceaniazonals/home\">https:",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1290,14 +1298,6 @@ news_feed (
          "title" : "48th National Women Certificates"
       },
       {
-         "description" : "From Friday, 6 January, to Sunday, 8 January, the 32nd Keres Memorial was held in the Estonian capital Tallinn and featured a blitz and a rapid tournament. GM Vitaliy Bernadskiy from Ukraine won the blitz, GM Yuriy Kuzubov (also from Ukraine) won the rapid event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bernadskiy-and-kuzubov-win-keres-memorial-in-tallinn",
-         "pubDate" : "Mon, 09 Jan 2023 12:07:02 +0100",
-         "title" : "Bernadskiy and Kuzubov win Keres Memorial in Tallinn"
-      },
-      {
          "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/",
          "pubDate" : "Sun, 01 Jan 2023 04:44:48 +0000",
          "title" : "The Chess Drum's Highlights of 2022!"
-      },
-      {
-         "description" : " Cape Verde held its national championship December 7th-11th in the capital of Praia with their top player IM Manuel Ortega defending his title. Federação Cabo-Verdiana de Xadrez (FCX) is a relatively new FIDE member having joined the community of chess nations in 2016. Ortega has been their top player for many years and has collected The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/\">Ortega is Cape Verde's 2022 Chess Champion</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/12/31/cape-verdes-ortega-is-2022-champion/",
-         "pubDate" : "Sat, 31 Dec 2022 19:46:56 +0000",
-         "title" : "Ortega is Cape Verde's 2022 Chess Champion"
       }
    ]
 }
