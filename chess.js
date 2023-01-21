@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-7-live/",
+         "pubDate" : "Sat, 21 Jan 2023 11:51:27 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 7 live"
+      },
+      {
+         "description" : "Fabiano Caruana joined Anish Giri in 2nd place in the Tata Steel Masters after getting revenge for losing to 16-year-old Gukesh at the Chennai Olympiad. Wesley So picked up his first win of 2023 after Vincent Keymer again crumbled in the endgame, while Magnus Carlsen stopped the bleeding with a draw against Jorden van Foreest.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-6-caruana-gets-gukesh-revenge",
+         "pubDate" : "Sat, 21 Jan 2023 09:55:20 +0000",
+         "title" : "Tata Steel Chess 6: Caruana gets Gukesh revenge"
+      },
+      {
          "description" : "In the diagram position White had just calmly covered his knight g4 with 25.h3! and then after 25...exd4 powerfully set off for the final attack. Can you follow in his footsteps?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2180",
          "pubDate" : "Thu, 19 Jan 2023 11:08:13 +0000",
          "title" : "Astana to host the FIDE World Chess Championship match 2023"
-      },
-      {
-         "description" : "The full pairings for every round of the upcoming&#xA0;Women's Grand Prix Munich 2023&#xA0;has been announced. The second leg of Women&#x2019;s Grand Prix 2022-23 will take place in Munich from February 1-14, 2022. Twelve players will compete in a round-robin tournament. Read more: Kateryna Lagno wins FIDE Women&#x2019;s Grand Prix Astana 2022 In each WGP tournament, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-pairings-schedule/",
-         "pubDate" : "Thu, 19 Jan 2023 10:45:09 +0000",
-         "title" : "Women's Grand Prix Munich 2023 - Pairings & Schedule"
       },
       {
          "description" : "The Qatar Masters will be back on the calendar in 2023 after a break of eight years. With a $110,000 prize fund, it will likely be one of the strongest open tournaments of the year, especially as Magnus Carlsen himself has confirmed his participation.",
