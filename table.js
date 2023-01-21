@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-01-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202301205922 target='_blank'>RCC QUADS JANUARY 20, 2023</a>",
 "HOUSTON","2023-01-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202301153292 target='_blank'>JAN  15  SUNDAY SWISS</a>",
 "HOUSTON","2023-01-14","121","<a href=http://www.uschess.org/msa/XtblMain.php?202301142592 target='_blank'>WHARTON DUAL LANGUAGE ACADEMY TOURN</a>",
 "SPRING","2023-01-13","18","<a href=http://www.uschess.org/msa/XtblMain.php?202301131972 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-05-27","16","<a href=http://www.uschess.org/msa/XtblMain.php?202205277322 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2022-05-27","18","<a href=http://www.uschess.org/msa/XtblMain.php?202205277252 target='_blank'>KINGHTS OF CYPRESS</a>",
 "HOUSTON","2022-05-03  - 05-24","20","<a href=http://www.uschess.org/msa/XtblMain.php?202205246312 target='_blank'>MAY TUESDAY NIGHT SWISS</a>",
-"LEAGUE CITY","2022-05-02  - 05-23","11","<a href=http://www.uschess.org/msa/XtblMain.php?202205235742 target='_blank'>CLCC MARCH MONDAYS</a>",
 ]);
