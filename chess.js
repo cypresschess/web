@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the most eventful round of the 2023 Tata Steel Masters so far, Nodirbek Abdusattorov extended his lead to a full point after obtaining a remarkable win over Arjun Erigaisi. Sharing second place are now four players, as Wesley So and Praggnanandhaa Rameshbabu both scored full points to join Anish Giri and Fabiano Caruana in the chasing pack. In the Challengers, Alexander Donchenko is in clear first place after beating former co-leader Mustafa Yilmaz with the white pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r7",
+         "pubDate" : "Sun, 22 Jan 2023 08:30:00 +0100",
+         "title" : "Tata Steel Chess R7: Abdusattorov extends his lead"
+      },
+      {
          "description" : "GM Nodirbek Abdusattorov was one of four winners in the seventh round of the 2023 Tata Steel Chess Tournament and moved to 5.5/7 after scoring his fourth win of the event over GM Arjun Erigaisi on Saturday. The 18-year-old was joined in the winn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1314,14 +1322,6 @@ news_feed (
          "title" : "48th National Women Certificates"
       },
       {
-         "description" : "From Friday, 6 January, to Sunday, 8 January, the 32nd Keres Memorial was held in the Estonian capital Tallinn and featured a blitz and a rapid tournament. GM Vitaliy Bernadskiy from Ukraine won the blitz, GM Yuriy Kuzubov (also from Ukraine) won the rapid event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bernadskiy-and-kuzubov-win-keres-memorial-in-tallinn",
-         "pubDate" : "Mon, 09 Jan 2023 12:07:02 +0100",
-         "title" : "Bernadskiy and Kuzubov win Keres Memorial in Tallinn"
-      },
-      {
          "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1688,14 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
          "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
          "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
-      },
-      {
-         "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/",
-         "pubDate" : "Sun, 01 Jan 2023 04:44:48 +0000",
-         "title" : "The Chess Drum's Highlights of 2022!"
       }
    ]
 }
