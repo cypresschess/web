@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the Floripa Ches Open will be held from 23-29 January in Florianopolis, Brasil. The event will be played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players will participate in the festival which features several events: Open tournament, Team tournament, Blitz, School events for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/floripa-chess-open-2023/",
+         "pubDate" : "Sun, 22 Jan 2023 11:50:20 +0000",
+         "title" : "Floripa Chess Open 2023"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov remained in the sole lead at the Tata Steel Masters 2023 after seven played rounds. He is a full point ahead of Anish Giri, Fabiano Caruana, Praggnanandhaa and Wesley So. The 8th round starts today at 14:00 CEST, with the live broadcast starting with 15-min delay and brings interesting encounters. Nodirbek Abdusattorov will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-8-pairings/",
+         "pubDate" : "Sun, 22 Jan 2023 11:38:01 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 8 pairings"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2184",
+         "pubDate" : "Sun, 22 Jan 2023 11:37:12 +0000",
+         "title" : "Ter-Sahakyan and Gevorgyan win Armenian championship"
+      },
+      {
+         "description" : "After 7 played rounds at the Tata Steel Challengers 2023, Alexander Donchenko emerged as the sole leader of the event with 5.5 points. Javokhir Sindarov follows with 5 points, while three players tie for third with 4.5 points, each: Mustafa Yilmaz, Velimir Ivic, and Thomas Beerdse. The 8th round starts today at 14:00 CEST, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-8-pairings/",
+         "pubDate" : "Sun, 22 Jan 2023 11:19:32 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 8 pairings"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-8-live/",
+         "pubDate" : "Sun, 22 Jan 2023 11:05:36 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 8 live"
+      },
+      {
+         "description" : "18-year-old Nodirbek Abdusattorov kept the sole lead at the Tata Steel Masters 2023 after seven played rounds. He defeated Arjun Erigaisi yesterday to be a full point ahead of four runner-ups: Anish Giri, Fabiano Caruana, Praggnanandhaa and Wesley So. It was a tense and very sharp game between the two youngsters, but Arjun Erigaisi made []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-keeps-the-sole-lead-at-tata-steel-masters-2023/",
+         "pubDate" : "Sun, 22 Jan 2023 10:50:04 +0000",
+         "title" : "Abdusattorov keeps the sole lead at Tata Steel Masters 2023"
+      },
+      {
+         "description" : "18-year-old Nodirbek Abdusattorov's reign of terror continued in the Tata Steel Masters as he counterattacked against Arjun Erigaisi to pick up a 4th win in just seven rounds. Magnus Carlsen won a sharp battle against Richard Rapport to get back on track, while Wesley So and Praggnanandhaa also won to join a 4-way tie for 2nd place. Fabiano Caruana missed a win in a 7-hour marathon against Parham Maghsoodloo.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-7-abdusattorov-extends-his-lead",
+         "pubDate" : "Sun, 22 Jan 2023 10:47:25 +0000",
+         "title" : "Tata Steel Chess 7: Abdusattorov extends his lead"
+      },
+      {
+         "description" : "Alexander Donchenko emerged as the sole leader of the Tata Steel Challengers 2023 after defeating Mustafa Yilmaz, his co-leader from the previous round. It was a round with lots of victories, and only one game finished in a draw. Donchenko had a better position from the opening but the Turkish Champion made a huge mistake []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexander-donchenko-emerges-on-the-top-of-the-tata-steel-challengers-2023/",
+         "pubDate" : "Sun, 22 Jan 2023 09:31:00 +0000",
+         "title" : "Alexander Donchenko emerges on the top of the Tata Steel Challengers 2023"
+      },
+      {
+         "description" : " Some of you will be aware that I write regular book reviews for British Chess News. Three of the books I've reviewed recently might be of interest to Chess Improvers like you. They all cover, at least in part, tactics and calculation. They're three very different books written by very different authors, and with very <a href=\"https://chessimprover.com/some-recent-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Some Recent Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/some-recent-books/\">Some Recent Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/some-recent-books/",
+         "pubDate" : "Sun, 22 Jan 2023 09:00:24 +0000",
+         "title" : "Some Recent Books"
+      },
+      {
          "description" : "In the most eventful round of the 2023 Tata Steel Masters so far, Nodirbek Abdusattorov extended his lead to a full point after obtaining a remarkable win over Arjun Erigaisi. Sharing second place are now four players, as Wesley So and Praggnanandhaa Rameshbabu both scored full points to join Anish Giri and Fabiano Caruana in the chasing pack. In the Challengers, Alexander Donchenko is in clear first place after beating former co-leader Mustafa Yilmaz with the white pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,6 +226,14 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Beautifull blunders with the King's Gambit"
       },
       {
+         "description" : "Last week in <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html\">The Evolution of Chess.net</A>(January 2023), I used Archive.org to outline the evolution of the online play site Chess.net. I assume that most chess sites from the late 1990s and early 2000s can be tracked in the same way. How can we identify those sites? <P>One excellent resource is Mark Crowther's 'Chess on the Net', published in 2002. The following image shows the front and back covers of the book. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na20.gif\" WIDTH=400 HEIGHT=300> <P>White letters on a yellow background don't allow easy reading, so here's the blurb from the back c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/crowthers-chess-on-net.html",
+         "pubDate" : "Fri, 20 Jan 2023 16:31:00 +0000",
+         "title" : "Crowther's 'Chess on the Net'"
+      },
+      {
          "description" : " The Tata Steel Masters returned to Wijk aan Zee and saw two decisive games. Fabiano Caruana beat a really struggling D Gukesh who clearly messed something up in the opening. Wesley So was the other winner beating Vincent Keymer after the German looked like he had fought his way back into the game. Leader Nodirbek Abdusattorov didn't get much against Praggnanandhaa. Second place Anish Giri had a promising position against Arjun Erigaisi but had to settle for a draw, in commentary they talked about how Giri is being seconded by Jan Gustafsson. Magnus Carlsen pressed a little against Jorden Van Foreest but he even had to be careful not to lose near the end. In the B-Group Alexander Donchenko j",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -202,44 +282,12 @@ news_feed (
          "title" : "Tata Steel 5: Abdusattorov hands Carlsen 2nd loss in a row"
       },
       {
-         "description" : "Nodirbek Abdusattorov is the sole leader of the Tata Steel Masters 2023 after five played rounds. Abdusattorov defeated World champion Magnus Carlsen to score 4 points, being half a point ahead of the runner-up Anish Giri. After the free day and yesterday's Tata Steel Chess On Tour game, the event continues with the 6th round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-6-pairings/",
-         "pubDate" : "Fri, 20 Jan 2023 10:23:45 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 6 pairings"
-      },
-      {
-         "description" : "Following a successful implementation of the FIDE aid package for Opens in 2022, the program was extended for the year 2023. The total amount of Aid Package Program 2023 reached &#x20AC;200,000. This impressive amount will be distributed among 50 open tournaments in as many countries/federations selected by FIDE (a national federation can receive no more []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/list-of-open-tournaments-to-receive-fide-aid-packages-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 09:27:00 +0000",
-         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
-      },
-      {
-         "description" : "After five played rounds at the Tata Steel Challengers 2023, Turkish Champion Mustafa Yilmaz emerged as the sole leader of the event with 4/5 points. Three players are trailing by half a point: Javokhir Sindarov, Velimir Ivic and Alexander Donchenko. After yesterday's free days for the Challengers, the players are coming back to the Wijk []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-6-pairings/",
-         "pubDate" : "Fri, 20 Jan 2023 09:23:33 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 6 pairings"
-      },
-      {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. Grandmaster Karsten M&uuml;ller, our in-house endgame expert, finds instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-1",
          "pubDate" : "Fri, 20 Jan 2023 10:00:00 +0100",
          "title" : "Endgames from Wijk aan Zee (1)"
-      },
-      {
-         "description" : "Five rounds are played at the Tata Steel Chess Masters 2023 and 18-year-old Nodirbek Abdusattorov emerged as the sole leader of the event after defeating World Champion Magnus Carlsen yesterday. Carlsen suffered two losses in a row, which happened in 2015 for the last time. The Uzbekistani teen prevailed in the exciting Queens endgame holding []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-beats-carlsen-to-take-sole-lead-in-tata-steel-masters-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 08:36:22 +0000",
-         "title" : "Abdusattorov beats Carlsen to take sole lead in Tata Steel Masters 2023"
       },
       {
          "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nodirbek Abdusattorov. It was the first time for mo",
@@ -282,28 +330,12 @@ news_feed (
          "title" : "Tata Steel Chess R5: Abdusattorov defeats Carlsen, takes the lead"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-5-live/",
-         "pubDate" : "Thu, 19 Jan 2023 21:31:00 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 5 live"
-      },
-      {
          "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-world-championship-match-to-be.html",
          "pubDate" : "Thu, 19 Jan 2023 20:00:00 +0000",
          "title" : "2023 World Championship Match to be held in Astana"
-      },
-      {
-         "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen&#x2019;s withdrawal. The General Partner of the event, which boasts a sensational prize []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/astana-will-host-the-fide-world-chess-championship-match-2023/",
-         "pubDate" : "Thu, 19 Jan 2023 19:10:15 +0000",
-         "title" : "Astana will host the FIDE World Chess Championship match 2023"
       },
       {
          "description" : "In his \"Fast & Furious\" show Robert Ris presents a new concept for White in the Ragozin. It was prepared by Anish Giri who used it to beat Gukesh at the Tata Steel Tournament in Wijk aan Zee in great style. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1392,14 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2168",
          "pubDate" : "Fri, 06 Jan 2023 11:36:27 +0000",
          "title" : "Belgrade to host Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "2023 sees a new classical World Chess Champion crowned for the first time in a decade, as Ian Nepomniachtchi takes on Ding Liren for the title vacated by Magnus Carlsen. There's a new $2 million Chess.com Championship, combining the best of the Meltwater Champions Chess Tour and Chess.com Global Championship, while we've also got the World Cup, Grand Swiss, Women's World Championship match, European Team Championship and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chess-calendar-2023",
-         "pubDate" : "Fri, 06 Jan 2023 11:25:30 +0000",
-         "title" : "Chess Calendar 2023"
       },
       {
          "description" : "The 48th Edition of Indian Women National Championship concluded today at Sanjay Ghodawat University Kolhapur. WGM Divya Deshmukh (MAH) repeated history by successfully defending her",
