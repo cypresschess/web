@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nodirbek Abdusattorov was one of four winners in the seventh round of the 2023 Tata Steel Chess Tournament and moved to 5.5/7 after scoring his fourth win of the event over GM Arjun Erigaisi on Saturday. The 18-year-old was joined in the winn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-7",
+         "pubDate" : "Sat, 21 Jan 2023 18:53:00 -0800",
+         "title" : "Abdusattorov Extends Lead In Round Of Decisive Games"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sat, 21 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -72,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/giri-s-grenades",
          "pubDate" : "Sat, 21 Jan 2023 09:00:00 +0100",
          "title" : "Giri's grenades"
+      },
+      {
+         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the first episode, Jeroen van den Belt explains the new lightning-fast search function!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/videotutorials-chessbase17-spielersuche-januar-2023",
+         "pubDate" : "Sat, 21 Jan 2023 08:40:00 +0100",
+         "title" : "ChessBase 17 explained by the engineers! - The fast search function"
       },
       {
          "description" : "Nodirbek Abdusattorov is still the sole leader after six rounds at the Tata Steel Masters in Wijk aan Zee. The Uzbek GM drew his game with white, as did Anish Giri, who entered the round a half point behind in sole second place. The winners of the day were Fabiano Caruana and Wesley So, who got the better of Dommaraju Gukesh and Vincent Keymer respectively. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ukranian-gm-shevchenko-to-play-for-romania",
          "pubDate" : "Fri, 20 Jan 2023 12:15:00 -0800",
          "title" : "Ukranian GM Shevchenko To Play For Romania"
-      },
-      {
-         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the first episode, Jeroen van den Belt explains the new lightning-fast search function!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/videotutorials-chessbase17-spielersuche-januar-2023",
-         "pubDate" : "Fri, 20 Jan 2023 21:00:00 +0100",
-         "title" : "ChessBase 17 explained by the engineers! - The fast search function"
       },
       {
          "description" : "In his new Power Play Show Daniel King takes a look at the King's Gambit, which was tried in an interesting game in the Wijk aan Zee Challengers tournament. King, who authored two ChessBase courses about the King's Gambit, was fascinated and astonished. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1314,6 +1314,14 @@ news_feed (
          "title" : "48th National Women Certificates"
       },
       {
+         "description" : "From Friday, 6 January, to Sunday, 8 January, the 32nd Keres Memorial was held in the Estonian capital Tallinn and featured a blitz and a rapid tournament. GM Vitaliy Bernadskiy from Ukraine won the blitz, GM Yuriy Kuzubov (also from Ukraine) won the rapid event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bernadskiy-and-kuzubov-win-keres-memorial-in-tallinn",
+         "pubDate" : "Mon, 09 Jan 2023 12:07:02 +0100",
+         "title" : "Bernadskiy and Kuzubov win Keres Memorial in Tallinn"
+      },
+      {
          "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
          "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
          "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
-      },
-      {
-         "description" : "Since the dawn of the internet, cats have thrived: With every cat meme shared, these powerful felines slowly but surely took over the internet. And now, they have come over to Chess.com. The new Cat Bots are ready for a chess game agains...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-cat-bots",
-         "pubDate" : "Sat, 31 Dec 2022 23:24:00 -0800",
-         "title" : "Cat Bots: The Purrfect Way To Start The Year"
       },
       {
          "description" : " The year 2022 was an exciting one and seemed to zip by quickly. We had a big announcement from current World Champion Magnus Carlsen, arguably the best Chess Olympiad in history and perhaps the biggest controversy in decades. There were also heartwarming stories such as National Master Tyrone Davis traveling to Nigeria to help with The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2022/12/31/the-chess-drums-highlights-of-2022/\">The Chess Drum's Highlights of 2022!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
