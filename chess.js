@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Thanks to dedicated individuals who follow their own heart's pursuits, ancient chess variants are still alive today. An overwhelming number of enthusiasts and associations throughout the world cultivate old variants and other board games. Among them is Greg Myers, founder of the 'Tamerlane Chess Club' in Jamestown, New York.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tamerlane-chess-revived",
+         "pubDate" : "Sun, 22 Jan 2023 20:00:00 +0100",
+         "title" : "Tamerlane Chess revived!"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov kept a one point lead after drawing his eighth round game against Levon Aronian. There was some tired looking play today and Fabiano Caruana and Parham Maghsoodloo seemed to pay the price for their marathon effort in round 7. Both lost, Caruana blundering against Magnus Carlsen and Maghsoodloo lost to tail ender D Gukesh. This was Gukesh's first win, and surprisingly two other players, Richard Rapport and Jorden Van Foreest also scored their first victories. Carlsen said that his win certainly improved his chances of a decent result, perhaps it's a bit late for first. Abdusattorov, Giri and So have yet to face each other so the tournament is far from decided. Masters R",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-the-tata-steel-masters-with-68-going-into-the-second-rest-day",
+         "pubDate" : "Sun, 22 Jan 2023 19:09:00 +0400",
+         "title" : "Abdusattorov leads the Tata Steel Masters with 6/8 going into the second rest day - 8"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 109th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1330,14 +1346,6 @@ news_feed (
          "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
       },
       {
-         "description" : "In his Endgame Magic Show #222 Karsten shows endgame highlights from the FIDE World Team Championship in Jerusalem. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-222-endgame-highlights-of-the-fide-world-team-championship",
-         "pubDate" : "Mon, 09 Jan 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #222: Endgame highlights of the FIDE World Team Championship"
-      },
-      {
          "description" : "In this blog's ongoing series covering the world's top-two ongoing engine vs. engine tournaments, the last post of 2022 was <A HREF=\"https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html\">TCEC More Interludes; CCC19 Bullet Underway</A>(December 2022). Following is a summary of that post. <BLOCKQUOTE>TCEC: Stockfish won the VVLTC, then drew the two-game SVVLTC with LCZero. KomodoDragon placed first in the top-3 section of 'Noomen Extra 2'; Ethereal placed first in the next-11 section. LCZero then won the second chess324 tournament, a half point ahead of Stockfish. The site is currently conducting '4k Testing'. &#149; CCC: After the 'CCC19 Rapid Final', there were",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1680,38 +1688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2160",
          "pubDate" : "Sun, 01 Jan 2023 22:14:28 +0000",
          "title" : "FIDE January 2023 rating list is out"
-      },
-      {
-         "description" : " Mehul Gohil won the Kenyan Chess Champion and thus, drove away the grand prize of a Mazda Demio car! It is his second car in three years. In 2019, he won the title after Ben Nguku was unable to catch him. This year he had to win an Armageddon battle against Hugh Misiko to get The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/\">Mehul Gohil (Kenyan Champ) wins another car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/01/mehul-gohil-kenyan-champ-wins-another-car/",
-         "pubDate" : "Sun, 01 Jan 2023 19:56:50 +0000",
-         "title" : "Mehul Gohil (Kenyan Champ) wins another car!"
-      },
-      {
-         "description" : " The 96th Caplin Hastings Congress takes place 28th December 2022 to 8th January 2023. The event makes a welcome return after a late cancelation last year. Romain Edouard, Martin Petrov and Bence Korpa are the top seeds.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/96th-caplin-hastings-congress-2022-23",
-         "pubDate" : "Sun, 1 Jan 2023 22:32:00 +0400",
-         "title" : "96th Caplin Hastings Congress 2022-23 - Games and Results"
-      },
-      {
-         "description" : " The 50th Rilton Cup takes place 27th December 2022 to 5th January 2023. Bassem Amin won the Swedish Blitz Championships held on the rest day on January 1st, he plays a 6 game match against Nils Grandelius at a 45 minutes and what I think is 10 seconds a move - two games a day over 3rd-5th Jan.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/50th-rilton-cup-2022-23",
-         "pubDate" : "Sun, 1 Jan 2023 22:19:00 +0400",
-         "title" : "50th Rilton Cup 2022-23 - Games and Results"
-      },
-      {
-         "description" : "IM Sarasadat Khademalsharieh (Sara Khadem), who defied the Iranian dress code for women by refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships, will not be returning home after her last tournament of the year. With he...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/khademalsharieh-plays-without-hijab-defects-to-spain",
-         "pubDate" : "Sun, 01 Jan 2023 09:12:00 -0800",
-         "title" : "Iranian IM Plays Without Hijab At World Championships, Defects To Spain"
       }
    ]
 }
