@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 109th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-109-play-the-sicilian-10",
+         "pubDate" : "Sun, 22 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 109: Play the Sicilian (10)"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sun, 22 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 9th edition of the Floripa Ches Open will be held from 23-29 January in Florianopolis, Brasil. The event will be played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players will participate in the festival which features several events: Open tournament, Team tournament, Blitz, School events for []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -190,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/viswanathan-anand-chesscom-course",
-         "pubDate" : "Fri, 20 Jan 2023 14:09:35 -0800",
+         "pubDate" : "Fri, 20 Jan 2023 14:09:00 -0800",
          "title" : "Take Vishy Anand's Chess.com Course Today!"
       },
       {
@@ -1328,22 +1344,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html",
          "pubDate" : "Mon, 09 Jan 2023 16:05:00 +0000",
          "title" : "TCEC Cup 11 Underway; CCC19 Bullet in Semifinals"
-      },
-      {
-         "description" : "Viktor Kortschnoi was one of the greats in chess. He played twice for the World Championship and only narrowly failed to win the title. His fighting spirit and his passion for chess is legendary. On the new Masterclass Fritztrainer \"Viktor Kortschnoi\" you can follow his long career game by game and in the remastered Fritztrainer \"Kortschnoi: My Life for Chess\" you can watch how the master presents his best games himself. Christian H&ouml;the has taken a look at the two Fritztrainers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rview-masterclass-vol-15-viktor-kortschnoi-and-kortschnoi-my-life-for-chess",
-         "pubDate" : "Mon, 09 Jan 2023 16:00:00 +0100",
-         "title" : "Review: \"Masterclass, Vol. 15: Viktor Kortschnoi\" and \"Kortschnoi: My Life for Chess\""
-      },
-      {
-         "description" : "Mikhail Tal's meteoric rise shook the chess world in the late 1950s, taking him straight to the very top. His victory over Botvinnik in the 1960 match won him the world title. In the process, the 'Wizard from Riga' thrilled fans with his unprecedented combination style - \"There are two kinds of sacrifices - correct ones and mine!\" For CBM 211 we invited our authors to comment on their favourite Mikhail Tal games. The total of 21 encounters, the last played in 1991, show the eighth World Champion above all, in his element - as a brilliant tactician. A little-known game from the National Open in Chicago 1988 is presented by Yannick Pelletier in CBM 211 - you can watch his analysis in abridged ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-special-mikhail-tal",
-         "pubDate" : "Mon, 09 Jan 2023 15:00:00 +0100",
-         "title" : "The \"Special\": Mikhail Tal"
       },
       {
          "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
