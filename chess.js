@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was the first IM of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2183",
+         "pubDate" : "Sat, 21 Jan 2023 23:23:12 +0000",
+         "title" : "Tata Steel Masters: Abdusattorov pulls away after Round 7"
+      },
+      {
+         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was one of the first IMs of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wijk-aan-zee-back-to-1963",
          "pubDate" : "Sat, 21 Jan 2023 21:00:00 +0100",
          "title" : "Wijk aan Zee: Back to 1963"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov won another impressive game today beating Arjun Erigaisi. This means the 18 year old Uzbek extended his lead to a full point on 5.5/7 after his closest rivals Anish Giri and Fabiano Caruana both drew. Caruana was on the defensive for the early part of the game before Parham Maghsoodloo overpressed and was lost. Caruana could not find a way to convert in a long and tiring game of 106 moves. R Praggnanandhaa moved into joint second with a very good win against Jorden Van Foreest, he has been very solid so far. Wesley So also moved into joint second with a win against D Gukesh who is having a very tough time. The other winner was Magnus Carlsen who returned to a 50% score",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-by-a-point-after-7-rounds-of-the-tata-steel-masters",
+         "pubDate" : "Sat, 21 Jan 2023 21:17:00 +0400",
+         "title" : "Abdusattorov leads by a point after 7 rounds of the Tata Steel Masters - 7"
       },
       {
          "description" : " The 2023 Oceania Zonal starts on Monday 22nd January in Melbourne. In what may well be the largest Zonal ever held anywhere, there are over 250 players in the Open, and another 42 in the Women's event. While there is a chance to qualify for the next FIDE World Cup (1 spot only!), the real attraction is the chance to receive a direct title. A score of 50% is required for a CM title, while a score of 66% is need for an FM title. Players earning this title must also have a FIDE rating over 2000 for the CM title, and 2100 for the FM title, at some point in their career. For online coverage just visit the tournament website at <a href=\"https://sites.google.com/view/2023oceaniazonals/home\">https:",
