@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/does-chess-history-have-to-be-rewritten-an-interview-with-willy-hendriks",
+         "pubDate" : "Mon, 23 Jan 2023 19:00:00 +0100",
+         "title" : "\"Does chess history have to be rewritten?\" - An interview with Willy Hendriks"
+      },
+      {
+         "description" : "In his Endgame Magic Show #224 Karsten shows endgame highlights of the Sunway Sitges Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-223-endgame-highlights-of-the-sunway-sitges-open",
+         "pubDate" : "Mon, 23 Jan 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #223: Endgame Highlights of the Sunway Sitges Open"
+      },
+      {
          "description" : " The 2023 Oceania Zonal has started today, with big numbers in both events. So large in fact that to discuss standings and likely winners won't make sense until much later in the tournament. Instead I'd thought I'd pick one of the games from the top boards. Current Asian Seniors Champion IM Gary Lane plays both sides of the Ruy Lopez equally well (as I recently discovered). In this game he takes the Black pieces, and manages to destroy his opponents king side position before launching a winning attack. I suspect if the colours had been reversed, he probably would have won the same way, with the White pieces. <br /> <b>Ni,Lucas (1641) - Lane,Gary W (2343) [C60]</b><br />Oceania Zonal Open 202",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1346,22 +1362,6 @@ news_feed (
          "title" : "2023 Grand Chess Tour: St. Louis Events Moved To November-December"
       },
       {
-         "description" : "The Grand Chess Tour has announced its dates for the 2023 series. The tour will again consist of five tournaments, which will take place in Bucharest, Warsaw, Zagreb and Saint Louis with dates in May, July and November/December 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-grand-chess-tour-returns-in-2023",
-         "pubDate" : "Tue, 10 Jan 2023 11:30:00 +0100",
-         "title" : "The Grand Chess Tour Returns In 2023"
-      },
-      {
-         "description" : "The creation of a passed pawn is a typical endgame topic. In the diagram position it is Black to move and win.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-breakthrough-4",
-         "pubDate" : "Tue, 10 Jan 2023 09:00:00 +0100",
-         "title" : "The breakthrough"
-      },
-      {
          "description" : " Round 10 of the 2023 Australian Open saw GM Temur Kuybokarov maintain his 1 point lead over the rest of the field. Up against FM Chris Wallis, he played a fairly quick draw, to move to 8.5/10. Closest rival IM James Morris also drew, to reach 7.5, where he was joined by GM Jingyao Tin, FM Yi Liu, FM Dusan Stojic, and Mars Qi, who all won their round 10 games. Today's round sees Kuybokarov up against tournament sensation, Leah Rice (SGP). Rice was seeded 90th in the event, but has scored 7/10 and is now playing on the top board in the tournaments final round. The Minor is also set for a close finish, with Benny Chan leading by half a point over Chintushig Chinbat, Jayden Arav, and Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,22 +1672,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-1.html",
          "pubDate" : "Tue, 03 Jan 2023 01:59:00 +0000",
          "title" : "2023 Australian Open - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2161",
-         "pubDate" : "Mon, 02 Jan 2023 18:14:38 +0000",
-         "title" : "January 2023 Chess Solvers rating list published"
-      },
-      {
-         "description" : "The previous six month summary, <A HREF=\"https://chessforallages.blogspot.com/2022/06/tcecccc-2022-h1-summary.html\">TCEC/CCC 2022-H1 Summary</A>(June 2022), asked, <BLOCKQUOTE>'Dragon, LCZero - Who's Better?'. One week it's Dragon; next week it's LCZero. What answers will the next six months bring? </BLOCKQUOTE> <P>Here's a summary of the second half of 2022. <P ALIGN=CENTER><TABLE BORDER=1 CELLSPACING=0> <TR><TH WIDTH=50%>TCEC/CCC</TH><TH WIDTH=50%>Off-week</TH></TR> <TR><TD VALIGN=TOP>2022-07-18:<BR><A HREF=\"https://chessforallages.blogspot.com/2022/07/stockfish-wins-tcec-swiss-3-and-ccc17.html\">Stockfish Wins TCEC Swiss 3 and CCC17 Blitz</A></TD><TD VALIGN=TOP>2022-07-25:<BR><A HREF=\"http",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/tcecccc-2022-h2-summary.html",
-         "pubDate" : "Mon, 02 Jan 2023 16:58:00 +0000",
-         "title" : "TCEC/CCC 2022-H2 Summary"
       }
    ]
 }
