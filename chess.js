@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase India turned 7 years old on 18th of January 2023. The little baby is growing up pretty quickly. In this article, the CEO and co-founder of ChessBase India, IM Sagar Shah writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell that we are splitting Sagar's report into two parts.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-india-is-seven-years-old",
+         "pubDate" : "Mon, 23 Jan 2023 13:00:00 +0100",
+         "title" : "ChessBase India is seven years old!"
+      },
+      {
+         "description" : "Magnus Carlsen is suddenly right back in contention for the Tata Steel Masters title after defeating his great rival Fabiano Caruana in a game that was all but decided by move 22. Nodirbek Abdusattorov kept his 1-point lead with a draw, as the other wins were for players who had been struggling. Richard Rapport, Jorden van Foreest and Gukesh all picked up their first full points.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-8-carlsen-beats-caruana",
+         "pubDate" : "Mon, 23 Jan 2023 11:46:33 +0000",
+         "title" : "Tata Steel Chess 8: Carlsen beats Caruana"
+      },
+      {
+         "description" : "Eight rounds are played at the Tata Steel Masters 2023 in Wijk aan Zee, with only five rounds to go. Nodirbek Abdusattorov remained the sole leader of the event with 6/8 points, being a full point ahead of Anish Giri and Wesley So who tie for second. Abdusattorov yesterday played a draw against Levon Aronian. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-remains-the-sole-leader-of-tata-steel-masters-2023/",
+         "pubDate" : "Mon, 23 Jan 2023 09:19:45 +0000",
+         "title" : "Nodirbek Abdusattorov remains the sole leader of Tata Steel Masters 2023"
+      },
+      {
+         "description" : "After eight played rounds at the Tata Steel Challengers 2023, Alexander Donchenko maintains the sole leadership in the event with a score of 6/8 points, and Velimir Ivic and Mustafa Yilmaz follow with 5.5 points. Alexander Donchenko yesterday played a draw against Abhimanyu Mishra. It was a quick uneventful game which eventually finished in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexander-donchenko-keeps-the-sole-lead-at-tata-steel-challengers-2023/",
+         "pubDate" : "Mon, 23 Jan 2023 08:24:00 +0000",
+         "title" : "Alexander Donchenko keeps the sole lead at Tata Steel Challengers 2023"
+      },
+      {
          "description" : "Nodirbek Abdusattorov continues to lead the Tata Steel Masters going into the second rest day of the event. The number of players chasing him a point back has been reduced from four to two, though, as Praggnanandhaa and Fabiano Caruana lost their games on Sunday. Notably, Caruana was defeated by Magnus Carlsen, who recovered from his losses in rounds 4 and 5 by scoring back-to-back wins over the weekend. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tamerlane-chess-revived",
          "pubDate" : "Sun, 22 Jan 2023 20:00:00 +0100",
          "title" : "Tamerlane Chess revived!"
+      },
+      {
+         "description" : "Hmmm. I'm starting to detect a trend here. Just a few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html\">Donald Trump, Chess Master</A>(October 2022; 'In the world of AI, Trump plays chess'). Now we have this. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na22.gif\" WIDTH=400 HEIGHT=265><BR><B>Upper left corner:</B><A HREF=\"https://www.flickr.com/photos/marc-frant/52642486166/\">DALL-E : An oil painting by Vinci of a humanoid robot playing chess</A>&#169; Flickr user <I>Marc Frant</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>. <P>The image had no additional description, but this i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html",
+         "pubDate" : "Sun, 22 Jan 2023 16:35:00 +0000",
+         "title" : "DALL-E Chess Revisited"
       },
       {
          "description" : " Nodirbek Abdusattorov kept a one point lead after drawing his eighth round game against Levon Aronian. There was some tired looking play today and Fabiano Caruana and Parham Maghsoodloo seemed to pay the price for their marathon effort in round 7. Both lost, Caruana blundering against Magnus Carlsen and Maghsoodloo lost to tail ender D Gukesh. This was Gukesh's first win, and surprisingly two other players, Richard Rapport and Jorden Van Foreest also scored their first victories. Carlsen said that his win certainly improved his chances of a decent result, perhaps it's a bit late for first. Abdusattorov, Giri and So have yet to face each other so the tournament is far from decided. Masters R",
@@ -248,22 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/viswanathan-anand-chesscom-course",
          "pubDate" : "Fri, 20 Jan 2023 14:09:00 -0800",
          "title" : "Take Vishy Anand's Chess.com Course Today!"
-      },
-      {
-         "description" : "18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov remains the sole leader of the 2023 Tata Steel Masters after six played rounds. Abdusattorov today drew his game against Praggnanandhaa having White pieces. The only two decisive games of today's round were played between Wesley So and Vincent Keymer, and Fabiano Caruana and Gukesh D. Wesley So was victorious []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-remains-the-sole-leader-of-tata-steel-masters-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 21:14:15 +0000",
-         "title" : "Abdusattorov remains the sole leader of Tata Steel Masters 2023"
-      },
-      {
-         "description" : "The sixth round of the Tata Steel Challengers 2023 was played today in Wijk aan Zee. Three games finished with the decisive results, with Alexander Donchenko defeating Eline Roebers to join Turkish Champion Mustafa Yilmaz in the lead of the event. Vaishali R scored her first victory in the tournament after beating Jergus Pechac. It []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexander-donchenko-joins-mustafa-yilmaz-in-the-lead-of-tata-steel-challengers-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 20:15:00 +0000",
-         "title" : "Alexander Donchenko joins Mustafa Yilmaz in the lead of Tata Steel Challengers 2023"
       },
       {
          "description" : "The Ukrainian GM Kirill Shevchenko has changed federations to Romania, the Romanian Chess Federation announced on Thursday. GM Richard Rapport, the world number-17, also switched federations from Hungary last year. Rated 2662, Shevchenko is now th...",
@@ -1306,14 +1330,6 @@ news_feed (
          "title" : "Czech Extraliga: Novy Bor dominates"
       },
       {
-         "description" : "Shohreh Bayat, who was forced to leave Iran in early 2020 after a scandal over wearing the hijab, has revealed she was personally asked by FIDE President Arkady Dvorkovich to stop wearing a T-shirt with the message \"Women Life Freedom\" at the Fischer Random World Championship in Iceland. She did, but only to wear the Ukrainian colours instead, and since appears to have fallen out of favour with FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/top-arbiter-sidelined-over-women-life-freedom-t-shirt",
-         "pubDate" : "Tue, 10 Jan 2023 13:03:00 +0000",
-         "title" : "Top arbiter sidelined over \"Women, Life, Freedom\" T-shirt"
-      },
-      {
          "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1344,14 +1360,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
          "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
          "title" : "2023 Australian Open - Day 8"
-      },
-      {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. In fifth place is US grandmaster Hans Niemann. Chess blew up in mainstream media after Magnus Carlsen implicitly accused Niemann of cheating. But that did not prevent the Californian from continuing his rapid ascent in classical chess, as he broke the 2700-barrier for the first time (in an official FIDE ratings list) just this month! | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-hans-niemann",
-         "pubDate" : "Mon, 09 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Hans Niemann"
       },
       {
          "description" : "The Iranian international arbiter Shohreh Bayat was reprimanded by the International Chess Federation (FIDE) for wearing pro-human rights clothing at the 2022 Fischer Random World Chess Championship in Reykjavik. While FIDE considered it &#34;unprofes...",
