@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov continues to lead the Tata Steel Masters going into the second rest day of the event. The number of players chasing him a point back has been reduced from four to two, though, as Praggnanandhaa and Fabiano Caruana lost their games on Sunday. Notably, Caruana was defeated by Magnus Carlsen, who recovered from his losses in rounds 4 and 5 by scoring back-to-back wins over the weekend. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r8",
+         "pubDate" : "Mon, 23 Jan 2023 06:50:00 +0100",
+         "title" : "Tata Steel Chess R8: Carlsen beats Caruana"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-109-play-the-sicilian-10",
          "pubDate" : "Sun, 22 Jan 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 109: Play the Sicilian (10)"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sun, 22 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "The 9th edition of the Floripa Ches Open will be held from 23-29 January in Florianopolis, Brasil. The event will be played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players will participate in the festival which features several events: Open tournament, Team tournament, Blitz, School events for []",
@@ -130,6 +130,14 @@ news_feed (
          "title" : "Some Recent Books"
       },
       {
+         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was one of the first IMs of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wijk-aan-zee-back-to-1963",
+         "pubDate" : "Sun, 22 Jan 2023 09:00:00 +0100",
+         "title" : "Wijk aan Zee: Back to 1963"
+      },
+      {
          "description" : "In the most eventful round of the 2023 Tata Steel Masters so far, Nodirbek Abdusattorov extended his lead to a full point after obtaining a remarkable win over Arjun Erigaisi. Sharing second place are now four players, as Wesley So and Praggnanandhaa Rameshbabu both scored full points to join Anish Giri and Fabiano Caruana in the chasing pack. In the Challengers, Alexander Donchenko is in clear first place after beating former co-leader Mustafa Yilmaz with the white pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2183",
          "pubDate" : "Sat, 21 Jan 2023 23:23:12 +0000",
          "title" : "Tata Steel Masters: Abdusattorov pulls away after Round 7"
-      },
-      {
-         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was one of the first IMs of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wijk-aan-zee-back-to-1963",
-         "pubDate" : "Sat, 21 Jan 2023 21:00:00 +0100",
-         "title" : "Wijk aan Zee: Back to 1963"
       },
       {
          "description" : " Nodirbek Abdusattorov won another impressive game today beating Arjun Erigaisi. This means the 18 year old Uzbek extended his lead to a full point on 5.5/7 after his closest rivals Anish Giri and Fabiano Caruana both drew. Caruana was on the defensive for the early part of the game before Parham Maghsoodloo overpressed and was lost. Caruana could not find a way to convert in a long and tiring game of 106 moves. R Praggnanandhaa moved into joint second with a very good win against Jorden Van Foreest, he has been very solid so far. Wesley So also moved into joint second with a win against D Gukesh who is having a very tough time. The other winner was Magnus Carlsen who returned to a 50% score",
@@ -1680,22 +1680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gets-10th-gm-india-78th-in-koustav-chatterjee/articleshow/96687029.cms",
          "pubDate" : "Mon, 02 Jan 2023 13:02:21 +0000",
          "title" : "Bengal gets 10th GM, India 78th in Koustav Chatterjee"
-      },
-      {
-         "description" : "Rank &#160; Name Pts 1 IM Aronyak Ghosh 8&frac12; 2 IM Koustav Chatterjee 8&frac12; 3 GM Karthik Venkataraman 8&frac12; 4 &#160; Hari Madhavan N B",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-59th-senior-national-chess-championship-2022/",
-         "pubDate" : "Mon, 02 Jan 2023 08:09:57 +0000",
-         "title" : "MPL 59th Senior National Chess Championship - 2022"
-      },
-      {
-         "description" : " The (not so) live broadcast for the 2023 Australian Open is at <a href=\"http://cawa.org.au/livegames\">cawa.org.au/livegames</a> You may notice that the broadcast is a little disjointed, but this is due to the 30 minute delay for broadcasting games, and the fact that I am testing some new software to manage this. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-live-games.html",
-         "pubDate" : "Mon, 02 Jan 2023 08:06:00 +0000",
-         "title" : "2023 Australian Open - Live Games"
       }
    ]
 }
