@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2185",
+         "pubDate" : "Sun, 22 Jan 2023 23:37:41 +0000",
+         "title" : "Tata Steel Masters: Abdusattorov is in front going into second rest day"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#38;nbsp;defeated his longtime rival GM Fabiano Caruana in round eight of the 2023 Tata Steel Chess Tournament, inching up the scoreboard, back on plus-one with his third victory. GM Nodirbek Abdusattorov maintained his full-point le...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-8",
+         "pubDate" : "Sun, 22 Jan 2023 15:12:00 -0800",
+         "title" : "Carlsen Overcomes Caruana, Spearheads Day of Four Victories"
+      },
+      {
+         "description" : "The 9th edition of the Floripa Ches Open is taking place from 23-29 January in Florianopolis, Brasil. The event is played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players participate in the festival and the Open tournament is a part of the FIDE Circuit &#x2013;&#xA0;the new Qualification []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/floripa-chess-open-2023-live/",
+         "pubDate" : "Sun, 22 Jan 2023 20:53:31 +0000",
+         "title" : "Floripa Chess Open 2023 - LIVE"
+      },
+      {
          "description" : "Thanks to dedicated individuals who follow their own heart's pursuits, ancient chess variants are still alive today. An overwhelming number of enthusiasts and associations throughout the world cultivate old variants and other board games. Among them is Greg Myers, founder of the 'Tamerlane Chess Club' in Jamestown, New York.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -255,7 +279,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautifull-blunders-with-the-king-s-gambit",
          "pubDate" : "Fri, 20 Jan 2023 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Beautifull blunders with the King's Gambit"
+         "title" : "Daniel King's Power Play Show: Beautiful blunders with the King's Gambit"
       },
       {
          "description" : "Last week in <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html\">The Evolution of Chess.net</A>(January 2023), I used Archive.org to outline the evolution of the online play site Chess.net. I assume that most chess sites from the late 1990s and early 2000s can be tracked in the same way. How can we identify those sites? <P>One excellent resource is Mark Crowther's 'Chess on the Net', published in 2002. The following image shows the front and back covers of the book. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na20.gif\" WIDTH=400 HEIGHT=300> <P>White letters on a yellow background don't allow easy reading, so here's the blurb from the back c",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-2023/",
          "pubDate" : "Fri, 20 Jan 2023 12:33:55 +0000",
          "title" : "British Chess Championships 2023"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-6-live/",
-         "pubDate" : "Fri, 20 Jan 2023 12:06:38 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 6 live"
       },
       {
          "description" : "18-year-old Nodirbek Abdusattorov took the sole lead in the Tata Steel Masters after outplaying Magnus Carlsen in Round 5, with the World Champion losing two classical games in a row for the first time since 2015. There were also wins for Levon Aronian, who tricked Vincent Keymer in an endgame, and Parham Maghsoodloo, who scored a bounce-back win over Jorden van Foreest.",
@@ -1680,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-live-games.html",
          "pubDate" : "Mon, 02 Jan 2023 08:06:00 +0000",
          "title" : "2023 Australian Open - Live Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2160",
-         "pubDate" : "Sun, 01 Jan 2023 22:14:28 +0000",
-         "title" : "FIDE January 2023 rating list is out"
       }
    ]
 }
