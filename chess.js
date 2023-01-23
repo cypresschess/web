@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 Oceania Zonal has started today, with big numbers in both events. So large in fact that to discuss standings and likely winners won't make sense until much later in the tournament. Instead I'd thought I'd pick one of the games from the top boards. Current Asian Seniors Champion IM Gary Lane plays both sides of the Ruy Lopez equally well (as I recently discovered). In this game he takes the Black pieces, and manages to destroy his opponents king side position before launching a winning attack. I suspect if the colours had been reversed, he probably would have won the same way, with the White pieces. <br /> <b>Ni,Lucas (1641) - Lane,Gary W (2343) [C60]</b><br />Oceania Zonal Open 202",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-day-1.html",
+         "pubDate" : "Mon, 23 Jan 2023 12:53:00 +0000",
+         "title" : "2023 Oceania Zonal - Day 1"
+      },
+      {
          "description" : "ChessBase India turned 7 years old on 18th of January 2023. The little baby is growing up pretty quickly. In this article, the CEO and co-founder of ChessBase India, IM Sagar Shah writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell that we are splitting Sagar's report into two parts.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1680,14 +1688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/tcecccc-2022-h2-summary.html",
          "pubDate" : "Mon, 02 Jan 2023 16:58:00 +0000",
          "title" : "TCEC/CCC 2022-H2 Summary"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/96687029.cms\" />The new year brought happy news for Bengal chess as Koustav Chatterjee became the country's 78th Grandmaster late on Saturday night. The Kolkata boy took the state's GM count to double digits by drawing with statemate GM Mirtabha Guha, who incidentally was Bengal's last and ninth GM, in Round 10 of the National chess championship in New Delhi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bengal-gets-10th-gm-india-78th-in-koustav-chatterjee/articleshow/96687029.cms",
-         "pubDate" : "Mon, 02 Jan 2023 13:02:21 +0000",
-         "title" : "Bengal gets 10th GM, India 78th in Koustav Chatterjee"
       }
    ]
 }
