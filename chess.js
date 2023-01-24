@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The SixDays Budapest January IM (B) is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Levente Papp, Yovann Gatineau, Nhat Minh To, Gabor Farkas, Attila Jakab, Marton Urhegyi, Luitjen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sixdays-budapest-january-im-b-2023-live/",
+         "pubDate" : "Mon, 23 Jan 2023 23:08:50 +0000",
+         "title" : "SixDays Budapest January IM (B) 2023 - LIVE"
+      },
+      {
+         "description" : "The SixDays Budapest January IM (A) is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Adam Szeberenyi, Hilmir Freyr Heimisson, Tamas Gunes Ongut, Peter Polyik, Bence Leszko, Miklos Orso, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sixdays-budapest-january-im-a-2023-live/",
+         "pubDate" : "Mon, 23 Jan 2023 23:03:15 +0000",
+         "title" : "SixDays Budapest January IM (A) 2023 - LIVE"
+      },
+      {
+         "description" : "The SixDays Budapest January GM is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Qi b Chen, Kirk Ghazarian, Adam Kozak, Gabor Nagy, Jonas Hacker, Filip Boe Olsen, David []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sixdays-budapest-january-gm-2023-live/",
+         "pubDate" : "Mon, 23 Jan 2023 22:58:25 +0000",
+         "title" : "SixDays Budapest January GM 2023 - LIVE"
+      },
+      {
+         "description" : "The Perez Chess Open 2023 will be held from 26&#x2013;29 January 2023 in P&#xE9;rez, Argentina. The event will be played in 7 rounds, swiss system, with a total prize fund of 600.000 Argentine pesos which is about 3.000 eur. The time control will be 90 minutes for the entire game, plus a 30-second increment starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/perez-chess-open-2023/",
+         "pubDate" : "Mon, 23 Jan 2023 21:03:39 +0000",
+         "title" : "Perez Chess Open 2023"
+      },
+      {
+         "description" : "The 83rd Armenian Championship Highest League and the 78th Armenian Women&#x2019;s Championship Highest League&#xA0;took place from 13&#x2013;21 January 2023 in Yerevan, Armenia.&#xA0;The events were played as 10-player round-robin tournaments, determining the 2023 Armenian national chess champions. GM Samvel Ter-Sahakyan emerged as the sole Winner of the Open Championship. Ter-Sahakyan started the event with a loss, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/samvel-ter-sahakyan-and-maria-gevorgyan-win-the-armenian-chess-championship-2023/",
+         "pubDate" : "Mon, 23 Jan 2023 20:46:28 +0000",
+         "title" : "Samvel Ter-Sahakyan and Maria Gevorgyan win the Armenian Chess Championship 2023"
+      },
+      {
          "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,44 +186,12 @@ news_feed (
          "title" : "Ter-Sahakyan and Gevorgyan win Armenian championship"
       },
       {
-         "description" : "After 7 played rounds at the Tata Steel Challengers 2023, Alexander Donchenko emerged as the sole leader of the event with 5.5 points. Javokhir Sindarov follows with 5 points, while three players tie for third with 4.5 points, each: Mustafa Yilmaz, Velimir Ivic, and Thomas Beerdse. The 8th round starts today at 14:00 CEST, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-8-pairings/",
-         "pubDate" : "Sun, 22 Jan 2023 11:19:32 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 8 pairings"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-8-live/",
-         "pubDate" : "Sun, 22 Jan 2023 11:05:36 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 8 live"
-      },
-      {
-         "description" : "18-year-old Nodirbek Abdusattorov kept the sole lead at the Tata Steel Masters 2023 after seven played rounds. He defeated Arjun Erigaisi yesterday to be a full point ahead of four runner-ups: Anish Giri, Fabiano Caruana, Praggnanandhaa and Wesley So. It was a tense and very sharp game between the two youngsters, but Arjun Erigaisi made []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-keeps-the-sole-lead-at-tata-steel-masters-2023/",
-         "pubDate" : "Sun, 22 Jan 2023 10:50:04 +0000",
-         "title" : "Abdusattorov keeps the sole lead at Tata Steel Masters 2023"
-      },
-      {
          "description" : "18-year-old Nodirbek Abdusattorov's reign of terror continued in the Tata Steel Masters as he counterattacked against Arjun Erigaisi to pick up a 4th win in just seven rounds. Magnus Carlsen won a sharp battle against Richard Rapport to get back on track, while Wesley So and Praggnanandhaa also won to join a 4-way tie for 2nd place. Fabiano Caruana missed a win in a 7-hour marathon against Parham Maghsoodloo.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-7-abdusattorov-extends-his-lead",
          "pubDate" : "Sun, 22 Jan 2023 10:47:25 +0000",
          "title" : "Tata Steel Chess 7: Abdusattorov extends his lead"
-      },
-      {
-         "description" : "Alexander Donchenko emerged as the sole leader of the Tata Steel Challengers 2023 after defeating Mustafa Yilmaz, his co-leader from the previous round. It was a round with lots of victories, and only one game finished in a draw. Donchenko had a better position from the opening but the Turkish Champion made a huge mistake []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexander-donchenko-emerges-on-the-top-of-the-tata-steel-challengers-2023/",
-         "pubDate" : "Sun, 22 Jan 2023 09:31:00 +0000",
-         "title" : "Alexander Donchenko emerges on the top of the Tata Steel Challengers 2023"
       },
       {
          "description" : " Some of you will be aware that I write regular book reviews for British Chess News. Three of the books I've reviewed recently might be of interest to Chess Improvers like you. They all cover, at least in part, tactics and calculation. They're three very different books written by very different authors, and with very <a href=\"https://chessimprover.com/some-recent-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Some Recent Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/some-recent-books/\">Some Recent Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.thearticle.com/fide-russia-and-iran-an-interview-with-shohreh-bayat/",
          "pubDate" : "Sat, 21 Jan 2023 13:15:33 +0000",
          "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-7-live/",
-         "pubDate" : "Sat, 21 Jan 2023 11:51:27 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 7 live"
       },
       {
          "description" : "Fabiano Caruana joined Anish Giri in 2nd place in the Tata Steel Masters after getting revenge for losing to 16-year-old Gukesh at the Chennai Olympiad. Wesley So picked up his first win of 2023 after Vincent Keymer again crumbled in the endgame, while Magnus Carlsen stopped the bleeding with a draw against Jorden van Foreest.",
