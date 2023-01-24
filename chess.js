@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pestering the enemy king with checks is an important defensive technique in rook endings. But while giving checks the defending side should not forget that it is often more important to prevent the enemy king from finding a safe escape. In the diagram position it is White to move and draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/running-for-cover",
+         "pubDate" : "Tue, 24 Jan 2023 09:00:00 +0100",
+         "title" : "Running for cover"
+      },
+      {
          "description" : "The SixDays Budapest January IM (B) is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Levente Papp, Yovann Gatineau, Nhat Minh To, Gabor Farkas, Attila Jakab, Marton Urhegyi, Luitjen []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/16-year-old-pranesh-is-india-s-79th-grandmaster",
          "pubDate" : "Tue, 10 Jan 2023 15:22:15 +0000",
          "title" : "16-year-old Pranesh is India's 79th Grandmaster"
-      },
-      {
-         "description" : "The Novoborsky SK, led by David Navara (photo), has dominated the Czech Extraliga for more than ten years. The team also leads in the season 2022/2023. Last weekend rounds five and six of the current season were played and with two wins Novy Bor managed to increase their score to 18:0 team points. | Photo: Chess Society Prague",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/czech-extraliga-novy-bor-dominates",
-         "pubDate" : "Tue, 10 Jan 2023 14:30:00 +0100",
-         "title" : "Czech Extraliga: Novy Bor dominates"
       },
       {
          "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
