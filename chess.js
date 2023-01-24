@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-video-adjusting-visual-settings-dark-mode",
+         "pubDate" : "Tue, 24 Jan 2023 12:48:28 +0100",
+         "title" : "ChessBase 17 video: Adjusting visual settings (Dark Mode)"
+      },
+      {
+         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-2",
+         "pubDate" : "Tue, 24 Jan 2023 12:00:00 +0100",
+         "title" : "Endgames from Wijk aan Zee (2)"
+      },
+      {
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (65)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (65)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-65/",
+         "pubDate" : "Tue, 24 Jan 2023 10:47:36 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (65)"
+      },
+      {
+         "description" : "The&#xA0;Perez Chess Open 2023&#xA0;is taking place from 26&#x2013;29 January 2023 in P&#xE9;rez, Argentina. The event is played in 7 rounds, swiss system, with a total prize fund of 600.000 Argentine pesos (about 3.000 eur). The time control will be 90 minutes for the entire game, plus a 30-second increment starting from move one. Perez Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/perez-chess-open-2023-live/",
+         "pubDate" : "Tue, 24 Jan 2023 09:20:24 +0000",
+         "title" : "Perez Chess Open 2023 - LIVE"
+      },
+      {
+         "description" : "After 8 played rounds at Tata Steel Masters 2023, the 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov maintained the sole lead in the event. Abdusattorov scores 6/8 points to be full point ahead of Anish Giri and Wesley So who tie for second with 5/8. After yesterday&#x2019;s free day, the games will continue today from 14:00 CEST, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-9-pairings/",
+         "pubDate" : "Tue, 24 Jan 2023 09:14:21 +0000",
+         "title" : "Tata Steel Masters 2023 - Round 9 pairings"
+      },
+      {
+         "description" : "After 8 played rounds at the Tata Steel Challengers 2023 in Wijk aan Zee, Alexander Donchenko scores 6/8 points to be the sole leader of the event. Velimir Ivic and Mustafa Yilmaz trail by half a point, tying for second place. After yesterday's free day, the games will continue today from 14:00 CEST, and the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-9-pairings/",
+         "pubDate" : "Tue, 24 Jan 2023 09:07:46 +0000",
+         "title" : "Tata Steel Challengers 2023 - Round 9 pairings"
+      },
+      {
+         "description" : "The full pairings for every round of the upcoming Women's Grand Prix Munich 2023 have been announced. The second leg of Women's Grand Prix 2022-23 will take place in Munich from February 1-14, 2022. Twelve players will compete in a round-robin tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-munich-2023-pairings-announced",
+         "pubDate" : "Tue, 24 Jan 2023 10:00:00 +0100",
+         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-9-live/",
+         "pubDate" : "Tue, 24 Jan 2023 08:41:48 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 9 live"
+      },
+      {
          "description" : "Pestering the enemy king with checks is an important defensive technique in rook endings. But while giving checks the defending side should not forget that it is often more important to prevent the enemy king from finding a safe escape. In the diagram position it is White to move and draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +162,6 @@ news_feed (
          "title" : "Nodirbek Abdusattorov remains the sole leader of Tata Steel Masters 2023"
       },
       {
-         "description" : "After eight played rounds at the Tata Steel Challengers 2023, Alexander Donchenko maintains the sole leadership in the event with a score of 6/8 points, and Velimir Ivic and Mustafa Yilmaz follow with 5.5 points. Alexander Donchenko yesterday played a draw against Abhimanyu Mishra. It was a quick uneventful game which eventually finished in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexander-donchenko-keeps-the-sole-lead-at-tata-steel-challengers-2023/",
-         "pubDate" : "Mon, 23 Jan 2023 08:24:00 +0000",
-         "title" : "Alexander Donchenko keeps the sole lead at Tata Steel Challengers 2023"
-      },
-      {
          "description" : "Nodirbek Abdusattorov continues to lead the Tata Steel Masters going into the second rest day of the event. The number of players chasing him a point back has been reduced from four to two, though, as Praggnanandhaa and Fabiano Caruana lost their games on Sunday. Notably, Caruana was defeated by Magnus Carlsen, who recovered from his losses in rounds 4 and 5 by scoring back-to-back wins over the weekend. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-8",
          "pubDate" : "Sun, 22 Jan 2023 15:12:00 -0800",
          "title" : "Carlsen Overcomes Caruana, Spearheads Day of Four Victories"
-      },
-      {
-         "description" : "The 9th edition of the Floripa Ches Open is taking place from 23-29 January in Florianopolis, Brasil. The event is played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players participate in the festival and the Open tournament is a part of the FIDE Circuit &#x2013;&#xA0;the new Qualification []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/floripa-chess-open-2023-live/",
-         "pubDate" : "Sun, 22 Jan 2023 20:53:31 +0000",
-         "title" : "Floripa Chess Open 2023 - LIVE"
       },
       {
          "description" : "Thanks to dedicated individuals who follow their own heart's pursuits, ancient chess variants are still alive today. An overwhelming number of enthusiasts and associations throughout the world cultivate old variants and other board games. Among them is Greg Myers, founder of the 'Tamerlane Chess Club' in Jamestown, New York.",
@@ -168,22 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-109-play-the-sicilian-10",
          "pubDate" : "Sun, 22 Jan 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 109: Play the Sicilian (10)"
-      },
-      {
-         "description" : "The 9th edition of the Floripa Ches Open will be held from 23-29 January in Florianopolis, Brasil. The event will be played in 10 rounds, swiss system, with a total prize fund of 40.000R$. More than 550 players will participate in the festival which features several events: Open tournament, Team tournament, Blitz, School events for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/floripa-chess-open-2023/",
-         "pubDate" : "Sun, 22 Jan 2023 11:50:20 +0000",
-         "title" : "Floripa Chess Open 2023"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov remained in the sole lead at the Tata Steel Masters 2023 after seven played rounds. He is a full point ahead of Anish Giri, Fabiano Caruana, Praggnanandhaa and Wesley So. The 8th round starts today at 14:00 CEST, with the live broadcast starting with 15-min delay and brings interesting encounters. Nodirbek Abdusattorov will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-8-pairings/",
-         "pubDate" : "Sun, 22 Jan 2023 11:38:01 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 8 pairings"
       },
       {
          "description" : "",
@@ -285,7 +317,7 @@ news_feed (
          "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the first episode, Jeroen van den Belt explains the new lightning-fast search function!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/videotutorials-chessbase17-spielersuche-januar-2023",
+         "link" : "https://en.chessbase.com/post/chessbase-17-explained-by-the-engineers-the-fast-search-function",
          "pubDate" : "Sat, 21 Jan 2023 08:40:00 +0100",
          "title" : "ChessBase 17 explained by the engineers! - The fast search function"
       },
@@ -1242,14 +1274,6 @@ news_feed (
          "title" : "Pranesh M leads FIDE Circuit race"
       },
       {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. The second-youngest in the list - only older than Gukesh - is Praggnanandhaa. In 2022, the 17-year-old faced both ambitious rising stars (in open events) and the very best in the world (mostly online). And he excelled in both types of tournaments! | Photo: Alina l'Ami",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-praggnanandhaa",
-         "pubDate" : "Wed, 11 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Praggnanandhaa"
-      },
-      {
          "description" : "Less than three months before the start of the World Championship match, FIDE is yet to announce a venue. One of the world's biggest chess YouTubers, Levy \"GothamChess\" Rozman, slams FIDE, calling it a catastrophe.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1282,14 +1306,6 @@ news_feed (
          "title" : "2023 Australian Open - Final Day"
       },
       {
-         "description" : "On Saturday the first round of the Masters and Challengers will be played in the traditional Tata Steel Tournament in Wijk aan Zee. The 85th Wijk aan Zee tournament promises to be exciting: In the Masters young talents such as Gukesh, Erigaisi, Abdusattorov, Keymer and Praggnanandhaa meet experienced top players such as Carlsen, Ding, Caruana, Aronian and So, and the Challengers also offers an interesting line-up. | Photos: Website of Wijk aan Zee",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-2023-the-youngest-wijk-tournament-of-all-time",
-         "pubDate" : "Wed, 11 Jan 2023 12:00:00 +0100",
-         "title" : "Tata Steel 2023: The \"youngest\" Wijk tournament of all time"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection.<br /> Identify threats, look at candidate moves, avoid blunders, plan the &quot;big picture,&quot; and more. 2023.01.10<br /> C42 Petrov, Nimzovich attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1320,14 +1336,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-igor-novikov",
          "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
          "title" : "Prepare Like A Pro - GM Igor Novikov"
-      },
-      {
-         "description" : "The new generation of chess stars is here, with no fewer than nine players aged 19 or younger rated above 2650 at the time. In a 7-part series, we will look at the performances of the top juniors in 2022. Penultimate in line is 18-year-old Vincent Keymer. In September last year, the unassuming boy from Mainz crossed the 2700 rating barrier for the first time in his career. And just a couple of weeks ago, he proudly took home the silver medal from the World Rapid Championship in Almaty! | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-juniors-2022-vincent-keymer",
-         "pubDate" : "Tue, 10 Jan 2023 21:00:00 +0100",
-         "title" : "Top juniors in 2022: Vincent Keymer"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/january-1973-1998-on-cover.html",
          "pubDate" : "Tue, 03 Jan 2023 16:22:00 +0000",
          "title" : "January 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2162",
-         "pubDate" : "Tue, 03 Jan 2023 10:34:28 +0000",
-         "title" : "The 1st Chess Workshop for Women set for January 05"
       }
    ]
 }
