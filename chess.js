@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour&#38;mdash;making it the richest and most prestigious annual circuit in chess history. The new season kicks off February 3 with the Airthings Masters; the f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-launches-2023-champions-chess-tour",
+         "pubDate" : "Tue, 24 Jan 2023 07:46:00 -0800",
+         "title" : "A New Beginning: Chess.com Launches $2m Champions Chess Tour"
+      },
+      {
+         "description" : "Magnus Carlsen and Wesley So play the Airthings Masters from February 6 till 10, as the all-new $2 million Champions Chess Tour begins. The remaining six places in the top group are open to any grandmaster, with the players battling it out on Chess.com on February 3. The Tour season will culminate in December with 8-player Playoffs and a 4-player Finals to decide who takes the online crown and a $200,000 top prize.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-2-million-champions-chess-tour",
+         "pubDate" : "Tue, 24 Jan 2023 15:43:51 +0000",
+         "title" : "Airthings Masters kicks off $2 million Champions Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2186",
+         "pubDate" : "Tue, 24 Jan 2023 15:39:37 +0000",
+         "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Tue, 24 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1258,14 +1290,6 @@ news_feed (
          "title" : "European Amateur Chess Championship 2023 - Official regulations"
       },
       {
-         "description" : "Belgrade, Serbia will host the Chess Olympiad for People with Disabilities, which will take from January 29 to February 5, 2023. The tournament will be played with a maximum of 30 teams and is a 7-round Swiss tournament. So far, 21 teams have registered. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/belgrade-to-host-chess-olympiad-for-people-with-disabilities",
-         "pubDate" : "Thu, 12 Jan 2023 09:49:07 +0100",
-         "title" : "Belgrade to host Chess Olympiad for People with Disabilities"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1352,14 +1376,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html",
          "pubDate" : "Tue, 10 Jan 2023 16:58:00 +0000",
          "title" : "FIDE Rating List - January 2023"
-      },
-      {
-         "description" : "In 1988 Vishy Anand became India's first grandmaster, but in recent years the number of Indian grandmasters has exploded. Next in line is 16-year-old Pranesh M, who dominated the traditional Rilton Cup in Stockholm, Sweden. That was enough to become the country's 79th grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/16-year-old-pranesh-is-india-s-79th-grandmaster",
-         "pubDate" : "Tue, 10 Jan 2023 15:22:15 +0000",
-         "title" : "16-year-old Pranesh is India's 79th Grandmaster"
       },
       {
          "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
@@ -1648,22 +1664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
          "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
          "title" : "2022 Chess.com Awards Winners"
-      },
-      {
-         "description" : "It&#39;s time to get your tactics on, as Puzzle Week returns for 2023, beginning on January 9. To celebrate, all of our 100 million-plus members will have unlimited access to&#38;nbsp;Puzzle Battle and other puzzle features for the entire week: Monday...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2023",
-         "pubDate" : "Tue, 03 Jan 2023 10:05:00 -0800",
-         "title" : "Puzzle Week! Free Features Every Day, Puzzles World Championship, And More!"
-      },
-      {
-         "description" : "Once again, we change the calendar for the monthly post on American chess from 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2022/12/december-1972-1997-on-cover.html\">December 1972 & 1997 'On the Cover'</A>(December 2022). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na03.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> 'Churchie &#149; Karpov, Portisch, Petrosian'<BR><B>Right:</B> 'World Team Championship; U.S. Snags Silver in Lucerne 1997' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>The three winners of Church's Fried Chicken International Tournament, San Antonio 1972: Anatoly Karpov (left), Tigran Petrosian, (r",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/january-1973-1998-on-cover.html",
-         "pubDate" : "Tue, 03 Jan 2023 16:22:00 +0000",
-         "title" : "January 1973 & 1998 'On the Cover'"
       }
    ]
 }
