@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Today is a travel day for me. Heading down to Melbourne in a couple of hours to catch the end of the 2023 Oceania Zonal (and to hold at least one important meeting). By the time I touch down, four and a bit rounds should be completed, and a clearer picture of the eventual results should emerge. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/travel-day-for-me.html",
+         "pubDate" : "Tue, 24 Jan 2023 22:59:00 +0000",
+         "title" : "Travel day for me"
+      },
+      {
+         "description" : "The first Monthly Dragon in 2023 is ready, and our Dragon aficionado GM Chris Ward found some interesting games in the Yugoslav attack for us. This month we take a look at 9. 0-0-0 d5 where White ignores the central pawn tension and instead immediately swaps knights on c6 and then seeks to trade off the Dragon bishop via Bh6. This ultra-direct approach with a swift h-file assault in mind has been around for decades but has recently come back into fashion. Needless to say it's far from one-way traffic though as Black certainly has his own attacking aspirations in another no-holds-barred encounter of thrills and spills! | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-modern-line",
+         "pubDate" : "Tue, 24 Jan 2023 22:00:00 +0100",
+         "title" : "The Monthly Dragon - The Modern Line 9.0-0-0 d5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay. 2023.01.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng",
+         "pubDate" : "Tue, 24 Jan 2023 20:17:18 +0000",
+         "title" : "Counterplay | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on opposition and outflanking your opponent. 2023.01.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposition-and-outflanking-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/68Td9byV1ro.jpg?itok=TvvHSdEK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opposition-and-outflanking-beginner-breakdown",
+         "pubDate" : "Tue, 24 Jan 2023 20:17:18 +0000",
+         "title" : "Opposition and Outflanking | Beginner Breakdown"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov managed to save an extremely bad position against Vincent Keymer in Round 9 of the Tata Steel Masters, this allowed him to keep his lead. Anish Giri moved within half a point after beating Ding Liren with the black pieces. Richard Rapport was the other winner beating Arjun Erigaisi. Wesley So had to settle for a draw against Parham Maghsoodloo and he plays Giri tomorrow. Full report by FM Michiel Abeln below. Masters Round 9 Standings: 1st Abdusattorov 6.5pts/9, 2nd Giri 6pts, 3rd So 5.5pts, 4th= Caruana, Aronian, Praggnanandhaa, Carlsen 5 pts, 8th Rapport 4.5pts, 9th= Maghsoodloo, Ding Liren 4pts. 11th Van Foreest 3.5pts, 12th= Erigaisi, Keymer, Gukesh 3pts. Masters R",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-continues-to-lead-the-tata-steel-masters-after-surviving-lost-position-against-keymer-in-round-9",
+         "pubDate" : "Tue, 24 Jan 2023 22:54:00 +0400",
+         "title" : "Abdusattorov continues to lead the Tata Steel Masters after surviving lost position against Keymer in Round 9 - 9"
+      },
+      {
          "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour&#38;mdash;making it the richest and most prestigious annual circuit in chess history. The new season kicks off February 3 with the Airthings Masters; the f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1274,14 +1314,6 @@ news_feed (
          "title" : "Matthias Bluebaum and Alexander Donchenko win Armageddon Online Final: Europe & Africa"
       },
       {
-         "description" : "In his \"Game of the Week\" show #550 Merijn van Delft looks at a crucial game of the young Indian player Pranesh M, who just won the Rilton Cup, a success which earned him the grandmaster title. In the last round of the Rilton Cup Pranesh came to a fine win with Black against Frode Urkedal. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-550-f-urkedal-vs-pranesh-m",
-         "pubDate" : "Thu, 12 Jan 2023 11:25:32 +0100",
-         "title" : "Game of the Week #550: F. Urkedal vs Pranesh M"
-      },
-      {
          "description" : "The 2023 European Amateur Chess Championship will be held from 16th-26th April 2023 in ClubEsse Posada Beach Resort 4*, Palau - Sardinia, Italy. The event will be played in three rating categories: U1700, U2000 and U2300. In each rating section, a separate championship for women shall be organized only if there are at least 10 women entries otherwise&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1344,22 +1376,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov",
          "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
          "title" : "Make Decisions in Complex Positions | Grandmaster's Choice - GM Igor Novikov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection. 2023.01.10 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Nf6Nhce5Cyk.jpg?itok=dEwnxNuy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
-         "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation. 2023.01.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1b6vPZfcEME.jpg?itok=XSnT8QBf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-igor-novikov",
-         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
-         "title" : "Prepare Like A Pro - GM Igor Novikov"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
@@ -1648,22 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-2.html",
          "pubDate" : "Wed, 04 Jan 2023 03:19:00 +0000",
          "title" : "2023 Australian Open - Day 2"
-      },
-      {
-         "description" : "On the website of the Swiss Chess Federation the news was published that GM Alexandra Kosteniuk plans to represent Switzerland for future chess events, a federation transfer that is likely to start on January 1, 2024. Kosteniuk herself hasn&#39;t conf...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexandra-kosteniuk-to-play-for-switzerland",
-         "pubDate" : "Tue, 03 Jan 2023 15:05:00 -0800",
-         "title" : "'Alexandra Kosteniuk To Play For Switzerland'"
-      },
-      {
-         "description" : "Over 10,000 members chimed in with their votes this year, and Chess.com is happy to announce the winners of the 2022 Chess.com Awards! These awards are an opportunity to celebrate the fantastic year 2022 has been for chess. They are also a way for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-chesscom-awards-winners",
-         "pubDate" : "Tue, 03 Jan 2023 13:59:00 -0800",
-         "title" : "2022 Chess.com Awards Winners"
       }
    ]
 }
