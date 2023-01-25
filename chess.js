@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nine rounds are played at the Tata Steel Masters 2023 in Wijk aan Zee and Nodirbek Abdusattorov holds his lead in the event with 6.5 points. Anish Giri defeated Ding Liren to close the gap, and trails by half a point. It was a thrilling game between Vincent Keymer and Nodirbek Abdusattorov. Keymer was slightly []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/giri-closes-the-gap-abdusattorov-holds-his-lead-tata-steel-masters-r9-recap/",
+         "pubDate" : "Wed, 25 Jan 2023 08:24:34 +0000",
+         "title" : "Giri closes the gap, Abdusattorov holds his lead - Tata Steel Masters R9 recap"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters in round 5, and has topped the standings ever since. In Tuesday's round 9, however, he could have been caught by Anish Giri, who got the better of Ding Liren in a sharp encounter. The Dutchman would be now in the shared lead had Vincent Keymer made the most of his advantage against Abdusattorov - the Uzbek defended resourcefully, though, and the game ended in an 89-move draw. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r9",
+         "pubDate" : "Wed, 25 Jan 2023 06:15:00 +0100",
+         "title" : "Tata Steel Chess R9: Giri beats Ding, Abdusattorov escapes with a draw"
+      },
+      {
          "description" : "All India Chess Federation congratulate Kolagatla Alana Meenakshi, who conferred with Pradhan Mantri Rashtriya Bal Puraskar! We are proud of you!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2186",
          "pubDate" : "Tue, 24 Jan 2023 15:39:37 +0000",
          "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Tue, 24 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
@@ -234,6 +242,14 @@ news_feed (
          "title" : "Endgame Magic #223: Endgame Highlights of the Sunway Sitges Open"
       },
       {
+         "description" : "Yes, you read that title correctly. For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. For the previous fortnightly report on the continuous competitions conducted by the world's leading engine vs. engine operators, see <A HREF=\"https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html\">TCEC Cup 11 Underway; CCC19 Bullet in Semifinals</A>(January 2023). Here's a summary:- <BLOCKQUOTE>TCEC: Engine ice4 won the S23 4k tournament ahead of 4ku and three other engines. The site then launched into 'Cup 11', which is currently in the Round-of-16 stage &#149; CCC: Four engines promoted from 'CCC19 Bullet Qualifier #2', and joined ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html",
+         "pubDate" : "Mon, 23 Jan 2023 16:50:00 +0000",
+         "title" : "LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet"
+      },
+      {
          "description" : " The 2023 Oceania Zonal has started today, with big numbers in both events. So large in fact that to discuss standings and likely winners won't make sense until much later in the tournament. Instead I'd thought I'd pick one of the games from the top boards. Current Asian Seniors Champion IM Gary Lane plays both sides of the Ruy Lopez equally well (as I recently discovered). In this game he takes the Black pieces, and manages to destroy his opponents king side position before launching a winning attack. I suspect if the colours had been reversed, he probably would have won the same way, with the White pieces. <br /> <b>Ni,Lucas (1641) - Lane,Gary W (2343) [C60]</b><br />Oceania Zonal Open 202",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-8-carlsen-beats-caruana",
          "pubDate" : "Mon, 23 Jan 2023 11:46:33 +0000",
          "title" : "Tata Steel Chess 8: Carlsen beats Caruana"
-      },
-      {
-         "description" : "Eight rounds are played at the Tata Steel Masters 2023 in Wijk aan Zee, with only five rounds to go. Nodirbek Abdusattorov remained the sole leader of the event with 6/8 points, being a full point ahead of Anish Giri and Wesley So who tie for second. Abdusattorov yesterday played a draw against Levon Aronian. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-remains-the-sole-leader-of-tata-steel-masters-2023/",
-         "pubDate" : "Mon, 23 Jan 2023 09:19:45 +0000",
-         "title" : "Nodirbek Abdusattorov remains the sole leader of Tata Steel Masters 2023"
       },
       {
          "description" : "Nodirbek Abdusattorov continues to lead the Tata Steel Masters going into the second rest day of the event. The number of players chasing him a point back has been reduced from four to two, though, as Praggnanandhaa and Fabiano Caruana lost their games on Sunday. Notably, Caruana was defeated by Magnus Carlsen, who recovered from his losses in rounds 4 and 5 by scoring back-to-back wins over the weekend. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
