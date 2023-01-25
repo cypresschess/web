@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-9-giri-beats-ding-as-abdusattorov-escapes",
+         "pubDate" : "Wed, 25 Jan 2023 11:44:06 +0000",
+         "title" : "Tata Steel Chess 9: Giri beats Ding as Abdusattorov escapes"
+      },
+      {
+         "description" : " I dropped in towards the end of the third day of the 2023 Oceania Zonal to get a quick overview of the event. Most of the games were completed by the time I arrived, so I am yet to get a sense of how large the event actually is. The venue is quite nice, although the tournament is spread out across 4 rooms. All games being broadcast live are in one room, while the rest of the games are spread out. There is no specific analysis room, but players seem to be happy meeting in the foyer area. With so many players/rooms, the tournament has 5 or 6 arbiters who each have a room to supervise. There are alos a large number of volunteers, who handle things like bags and mobile phones. As for the chess ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-quick-impressions.html",
+         "pubDate" : "Wed, 25 Jan 2023 11:24:00 +0000",
+         "title" : "2023 Oceania Zonal - quick impressions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2188",
+         "pubDate" : "Wed, 25 Jan 2023 11:22:30 +0000",
+         "title" : "FIDE Candidates Tournaments 2024: Call for bids"
+      },
+      {
+         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Indian super talent Savitha Shri recently bagged the Bronze medal in the World Rapid Chess 2022, and reached the fabulous rating of over 2400. Also, today is her birthday, and she turns 16! Congratulations, and well played. | Photo: Instagram Savitha Shri",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-interview-savitha-shri-b",
+         "pubDate" : "Wed, 25 Jan 2023 11:00:00 +0100",
+         "title" : "Rapid Interview - Savitha Shri Baskar"
+      },
+      {
+         "description" : "The ECF wishes to thank Samantha Ali for her work as Safeguarding Officer but is also pleased to announce the appointment of Paul Sharratt and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
+         "pubDate" : "Wed, 25 Jan 2023 09:00:55 +0000",
+         "title" : "ECF Safeguarding Officer appointment"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-10-live/",
+         "pubDate" : "Wed, 25 Jan 2023 08:44:30 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 10 live"
+      },
+      {
          "description" : "Nine rounds are played at the Tata Steel Masters 2023 in Wijk aan Zee and Nodirbek Abdusattorov holds his lead in the event with 6.5 points. Anish Giri defeated Ding Liren to close the gap, and trails by half a point. It was a thrilling game between Vincent Keymer and Nodirbek Abdusattorov. Keymer was slightly []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/giri-closes-the-gap-abdusattorov-holds-his-lead-tata-steel-masters-r9-recap/",
          "pubDate" : "Wed, 25 Jan 2023 08:24:34 +0000",
          "title" : "Giri closes the gap, Abdusattorov holds his lead - Tata Steel Masters R9 recap"
+      },
+      {
+         "description" : "Nine rounds are played at the Tata Steel Challengers 2023 in Wijk aan Zee and fight for the first place and qualification spot for the next Tata Steel Masters is going wild. Mustafa Yilmaz scored against Vaishali R to grab the sole lead in the event as Alexander Donchenko lost with White against Erwin L'Ami. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mustafa-yilmaz-grabs-the-lead-in-tata-steel-challengers-2023/",
+         "pubDate" : "Wed, 25 Jan 2023 07:31:00 +0000",
+         "title" : "Mustafa Yilmaz grabs the lead in Tata Steel Challengers 2023"
       },
       {
          "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters in round 5, and has topped the standings ever since. In Tuesday's round 9, however, he could have been caught by Anish Giri, who got the better of Ding Liren in a sharp encounter. The Dutchman would be now in the shared lead had Vincent Keymer made the most of his advantage against Abdusattorov - the Uzbek defended resourcefully, though, and the game ended in an 89-move draw. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
@@ -210,22 +266,6 @@ news_feed (
          "title" : "SixDays Budapest January GM 2023 - LIVE"
       },
       {
-         "description" : "The Perez Chess Open 2023 will be held from 26&#x2013;29 January 2023 in P&#xE9;rez, Argentina. The event will be played in 7 rounds, swiss system, with a total prize fund of 600.000 Argentine pesos which is about 3.000 eur. The time control will be 90 minutes for the entire game, plus a 30-second increment starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/perez-chess-open-2023/",
-         "pubDate" : "Mon, 23 Jan 2023 21:03:39 +0000",
-         "title" : "Perez Chess Open 2023"
-      },
-      {
-         "description" : "The 83rd Armenian Championship Highest League and the 78th Armenian Women&#x2019;s Championship Highest League&#xA0;took place from 13&#x2013;21 January 2023 in Yerevan, Armenia.&#xA0;The events were played as 10-player round-robin tournaments, determining the 2023 Armenian national chess champions. GM Samvel Ter-Sahakyan emerged as the sole Winner of the Open Championship. Ter-Sahakyan started the event with a loss, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/samvel-ter-sahakyan-and-maria-gevorgyan-win-the-armenian-chess-championship-2023/",
-         "pubDate" : "Mon, 23 Jan 2023 20:46:28 +0000",
-         "title" : "Samvel Ter-Sahakyan and Maria Gevorgyan win the Armenian Chess Championship 2023"
-      },
-      {
          "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,6 +368,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-109-play-the-sicilian-10",
          "pubDate" : "Sun, 22 Jan 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 109: Play the Sicilian (10)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2179",
+         "pubDate" : "Sun, 22 Jan 2023 12:27:52 +0000",
+         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
       },
       {
          "description" : "",
@@ -696,14 +744,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2",
          "pubDate" : "Wed, 18 Jan 2023 17:06:23 +0100",
          "title" : "Svitlana's Smart Moves - How to use the initiative like Anish Giri"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2179",
-         "pubDate" : "Wed, 18 Jan 2023 12:27:52 +0000",
-         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
       },
       {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
@@ -1346,14 +1386,6 @@ news_feed (
          "title" : "MVL narrowly avoided forfeit at World Blitz Championship"
       },
       {
-         "description" : "On January 8, the FIDE Online Arena played host to the latest round of the Armageddon Online Final: Europe & Africa, a competitive online chess tournament that saw top grandmasters as well as amateurs players from across the continent compete for an unprecedented prize fund of €10,000.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/matthias-bluebaum-and-alexander-donchenko-win-armageddon-online-final-europe-africa",
-         "pubDate" : "Thu, 12 Jan 2023 13:00:00 +0100",
-         "title" : "Matthias Bluebaum and Alexander Donchenko win Armageddon Online Final: Europe & Africa"
-      },
-      {
          "description" : "The 2023 European Amateur Chess Championship will be held from 16th-26th April 2023 in ClubEsse Posada Beach Resort 4*, Palau - Sardinia, Italy. The event will be played in three rating categories: U1700, U2000 and U2300. In each rating section, a separate championship for women shall be organized only if there are at least 10 women entries otherwise&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1368,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2170",
          "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
          "title" : "Pranesh M leads FIDE Circuit race"
-      },
-      {
-         "description" : "Less than three months before the start of the World Championship match, FIDE is yet to announce a venue. One of the world's biggest chess YouTubers, Levy \"GothamChess\" Rozman, slams FIDE, calling it a catastrophe.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/fide-without-a-venue-for-nepo-vs-ding-less-than-90-days-before-start",
-         "pubDate" : "Wed, 11 Jan 2023 19:58:05 +0000",
-         "title" : "FIDE without a venue for Nepo vs Ding less than 90 days before start"
       },
       {
          "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
@@ -1672,22 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2164",
          "pubDate" : "Wed, 04 Jan 2023 12:42:24 +0000",
          "title" : "2023 Laws of Chess published"
-      },
-      {
-         "description" : "October saw the start of the new Bundesliga season. In ChessBase Magazine #211 participants from various teams comment on their games from the first rounds, including the stars from the cover - Pavel Eljanov, Loek van Wely and Luke McShane - as well as Nils Grandelius, Rustam Kasimdzhanov, Ivan Saric, Ivan Cheparinov, Gawain Jones, Nikita Vitiugov, Erwin L'Ami, Dennis Wagner, Daniil Yuffa, Georg Meier, Jan-Christian Schr&ouml;der, Thai Dai Van Nguyen and Michael Prusikin. In addition, David Navara presents his game against Luke McShane in a detailed video analysis and Rustam Kasimdhzanov reviews his Black victory against Julian Kramer, also in the video. \"The Analysis\" of the issue comes fro",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-analysis-from-erwin-l-ami",
-         "pubDate" : "Wed, 04 Jan 2023 12:00:00 +0100",
-         "title" : "\"The Analysis\" from Erwin l'Ami"
-      },
-      {
-         "description" : " Let me tell you about two of our relatively new club members, both in their 30s. Let's call them Tom and Jerry. I've changed their names and some details for the purposes of this article. Jerry has been a member for a couple of years now. He plays enthusiastically for several of our teams as <a href=\"https://chessimprover.com/tom-and-jerry/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tom and Jerry\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tom-and-jerry/\">Tom and Jerry</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tom-and-jerry/",
-         "pubDate" : "Wed, 04 Jan 2023 09:48:24 +0000",
-         "title" : "Tom and Jerry"
       }
    ]
 }
