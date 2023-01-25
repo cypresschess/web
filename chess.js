@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation congratulate Kolagatla Alana Meenakshi, who conferred with Pradhan Mantri Rashtriya Bal Puraskar! We are proud of you!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-alana-meenakshi/",
+         "pubDate" : "Wed, 25 Jan 2023 04:04:16 +0000",
+         "title" : "Congratulations Alana Meenakshi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng-0",
+         "pubDate" : "Wed, 25 Jan 2023 02:17:39 +0000",
+         "title" : "Counterplay! | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2187",
+         "pubDate" : "Wed, 25 Jan 2023 02:13:03 +0000",
+         "title" : "Tata Steel Masters: Abdusattorov survives scare, Giri moves up to second place"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov maintained his lead with a nearly seven-hour display of exceptional defensive technique vs. GM Vincent Keymer in round nine of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Anish Giri is now in a close second, narrowing th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-9",
+         "pubDate" : "Tue, 24 Jan 2023 16:26:00 -0800",
+         "title" : "Giri Defeats Ding, Narrows Abdusattorov's Lead"
+      },
+      {
          "description" : " Today is a travel day for me. Heading down to Melbourne in a couple of hours to catch the end of the 2023 Oceania Zonal (and to hold at least one important meeting). By the time I touch down, four and a bit rounds should be completed, and a clearer picture of the eventual results should emerge. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +58,7 @@ news_feed (
          "title" : "Counterplay | Grandmaster's Choice - GM Josh Sheng"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on opposition and outflanking your opponent. 2023.01.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposition-and-outflanking-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/68Td9byV1ro.jpg?itok=TvvHSdEK\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on opposition and outflanking your opponent.<br /> &quot;Opposition&quot; refers to the position of kings, relative to one another, in the endgame. See the correct way to promote a pawn in King vs. King. 2023.01.24<br /> Frank Marshall vs Mikhail Chigorin, Barmen Meisterturnier A (1905)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1003081\">https://www.chessgames.com/perl/chessgame?gid=1003081</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opposition-and-outflanking-beginner-breakdown",
@@ -1370,14 +1402,6 @@ news_feed (
          "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-grandmasters-choice-gm-igor-novikov",
-         "pubDate" : "Tue, 10 Jan 2023 20:06:50 +0000",
-         "title" : "Make Decisions in Complex Positions | Grandmaster's Choice - GM Igor Novikov"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1656,14 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/tom-and-jerry/",
          "pubDate" : "Wed, 04 Jan 2023 09:48:24 +0000",
          "title" : "Tom and Jerry"
-      },
-      {
-         "description" : " The 2nd day of the 2023 Australian Open saw rounds 2 and 3 take place, with the tournament top seeds emerging unscathed. Both rounds saw a number of promising juniors take on the top seeds, but experience prevailed over enthusiasm. However, included in the group on 3/3 is one surprise packet, Anna Rozuwiecka from Victoria. She upset FM Patrick Gong in round 2 and then beat Rob Maris in the third round. The Minor has 6 players on 3/3. There are 2 unrated players in this group (Tharanga Gunasekara and Leo Ross) along with the usual group of improving junior players. Today is a single round day, with play commencing at 1400 Perth time. <br /> <b>Salasan,Haran (2002) - Johansen,Darryl K (2360) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-2.html",
-         "pubDate" : "Wed, 04 Jan 2023 03:19:00 +0000",
-         "title" : "2023 Australian Open - Day 2"
       }
    ]
 }
