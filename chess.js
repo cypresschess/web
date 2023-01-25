@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour. The new season kicks off February 3 with the Airthings Masters, the first of six star-studded tournaments before an eight-player final event in December. The launch of the 2023 Champions Chess Tour follows Chess.com's acquisition of Play Magnus Group.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-2023-preview",
+         "pubDate" : "Wed, 25 Jan 2023 20:15:00 +0100",
+         "title" : "Revamped Champions Chess Tour to kick off in February"
+      },
+      {
          "description" : "The&#xA0;1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +106,14 @@ news_feed (
          "title" : "Mustafa Yilmaz grabs the lead in Tata Steel Challengers 2023"
       },
       {
+         "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-video-adjusting-visual-settings-dark-mode",
+         "pubDate" : "Wed, 25 Jan 2023 07:15:00 +0100",
+         "title" : "ChessBase 17 video: Adjusting visual settings (Dark Mode)"
+      },
+      {
          "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters in round 5, and has topped the standings ever since. In Tuesday's round 9, however, he could have been caught by Anish Giri, who got the better of Ding Liren in a sharp encounter. The Dutchman would be now in the shared lead had Vincent Keymer made the most of his advantage against Abdusattorov - the Uzbek defended resourcefully, though, and the game ended in an 89-move draw. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,6 +186,14 @@ news_feed (
          "title" : "Opposition and Outflanking | Beginner Breakdown"
       },
       {
+         "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/does-chess-history-have-to-be-rewritten-an-interview-with-willy-hendriks",
+         "pubDate" : "Tue, 24 Jan 2023 21:00:00 +0100",
+         "title" : "\"Does chess history have to be rewritten?\" - An interview with Willy Hendriks"
+      },
+      {
          "description" : " Nodirbek Abdusattorov managed to save an extremely bad position against Vincent Keymer in Round 9 of the Tata Steel Masters, this allowed him to keep his lead. Anish Giri moved within half a point after beating Ding Liren with the black pieces. Richard Rapport was the other winner beating Arjun Erigaisi. Wesley So had to settle for a draw against Parham Maghsoodloo and he plays Giri tomorrow. Full report by FM Michiel Abeln below. Masters Round 9 Standings: 1st Abdusattorov 6.5pts/9, 2nd Giri 6pts, 3rd So 5.5pts, 4th= Caruana, Aronian, Praggnanandhaa, Carlsen 5 pts, 8th Rapport 4.5pts, 9th= Maghsoodloo, Ding Liren 4pts. 11th Van Foreest 3.5pts, 12th= Erigaisi, Keymer, Gukesh 3pts. Masters R",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -200,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2186",
          "pubDate" : "Tue, 24 Jan 2023 15:39:37 +0000",
          "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
-      },
-      {
-         "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-video-adjusting-visual-settings-dark-mode",
-         "pubDate" : "Tue, 24 Jan 2023 12:48:28 +0100",
-         "title" : "ChessBase 17 video: Adjusting visual settings (Dark Mode)"
       },
       {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sixdays-budapest-january-im-a-2023-live/",
          "pubDate" : "Mon, 23 Jan 2023 23:03:15 +0000",
          "title" : "SixDays Budapest January IM (A) 2023 - LIVE"
-      },
-      {
-         "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/does-chess-history-have-to-be-rewritten-an-interview-with-willy-hendriks",
-         "pubDate" : "Mon, 23 Jan 2023 19:00:00 +0100",
-         "title" : "\"Does chess history have to be rewritten?\" - An interview with Willy Hendriks"
       },
       {
          "description" : "In his Endgame Magic Show #224 Karsten shows endgame highlights of the Sunway Sitges Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1378,14 +1386,6 @@ news_feed (
          "title" : "Tata Steel Chess 2023"
       },
       {
-         "description" : "After Dorian Rogozenco had concluded his \"Classics\" series in ChessBase Magazine in summer last year, he started his new column \"Modern Classics\" in CBM #210 with a game Fischer-Petrosian from the 1971 Candidates Match. In CBM #211 he takes up the \"Special\" of the new issue and presents a brilliant game by Mikhail Tal. On the programme is the sixth game of the World Championship match from 1960 against Mikhail Botvinnik. You can watch an excerpt from Rogozenco's video analysis here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/modern-classics-02-botvinnik-tal-1960",
-         "pubDate" : "Thu, 12 Jan 2023 18:05:00 +0100",
-         "title" : "Modern Classics #02: Botvinnik - Tal (1960)"
-      },
-      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-3.html",
          "pubDate" : "Thu, 05 Jan 2023 02:36:00 +0000",
          "title" : "2023 Australian Open - Day 3"
-      },
-      {
-         "description" : "The first Titled Tuesday tournaments of 2023 were won by GMs Jan-Krzysztof Duda and Dmitrij Kollars on January 3. Duda won the first event of the year outright with a score of 10/11. Kollars followed with a 9.5/11 performance and won on tiebreaks....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-kollars-win-titled-tuesday-january-3-2023",
-         "pubDate" : "Wed, 04 Jan 2023 10:18:00 -0800",
-         "title" : "Duda Rings In New Year With Tournament Victory"
       }
    ]
 }
