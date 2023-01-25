@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-starts-on-sunday/",
+         "pubDate" : "Wed, 25 Jan 2023 16:16:39 +0000",
+         "title" : "European Cities & Towns Chess Championship starts on Sunday"
+      },
+      {
+         "description" : "GM Hikaru Nakamura was victorious in another Titled Tuesday on January 24, his second in a row. Nakamura started 6/6, went undefeated, and scored 9.5/11 to defeat GMs Baadur Jobava and Matthias Bluebaum on tiebreaks. There was only one tournamen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-january-24-2023",
+         "pubDate" : "Wed, 25 Jan 2023 08:00:19 -0800",
+         "title" : "Nakamura Wins Another Tuesday"
+      },
+      {
+         "description" : "The 1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#160;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds are Prague&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
+         "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
+         "title" : "European Cities & Towns Chess Championship starts on Sunday"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Wed, 25 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sixdays-budapest-january-im-a-2023-live/",
          "pubDate" : "Mon, 23 Jan 2023 23:03:15 +0000",
          "title" : "SixDays Budapest January IM (A) 2023 - LIVE"
-      },
-      {
-         "description" : "The SixDays Budapest January GM is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Qi b Chen, Kirk Ghazarian, Adam Kozak, Gabor Nagy, Jonas Hacker, Filip Boe Olsen, David []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sixdays-budapest-january-gm-2023-live/",
-         "pubDate" : "Mon, 23 Jan 2023 22:58:25 +0000",
-         "title" : "SixDays Budapest January GM 2023 - LIVE"
       },
       {
          "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
@@ -1362,14 +1386,6 @@ news_feed (
          "title" : "Modern Classics #02: Botvinnik - Tal (1960)"
       },
       {
-         "description" : "Luckily, we will probably never run out of good games played! With the new ChessBase 17 function to find beautiful games, it is even easier than ever, to find some tremendous tactics. Svitlana reviews a couple of games, and lets us guess the right move. If you remember the games, you will have an easier time finding them. Wesley So's game, was surely the most spectacular game, against Hrant Melkumyan. But also the often overseen game between Can and Maghsoodloo was quite phenomenal.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2022",
-         "pubDate" : "Thu, 12 Jan 2023 18:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Smartest moves of 2022"
-      },
-      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-kollars-win-titled-tuesday-january-3-2023",
          "pubDate" : "Wed, 04 Jan 2023 10:18:00 -0800",
          "title" : "Duda Rings In New Year With Tournament Victory"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2164",
-         "pubDate" : "Wed, 04 Jan 2023 12:42:24 +0000",
-         "title" : "2023 Laws of Chess published"
       }
    ]
 }
