@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-10",
+         "pubDate" : "Wed, 25 Jan 2023 20:49:00 -0800",
+         "title" : "Carlsen Rises"
+      },
+      {
+         "description" : "Magnus Carlsen and Dommaraju Gukesh continued their good runs of results in round 10 of the Tata Steel Masters, as they scored full points in the only two decisive games of the day. Carlsen has won three games in the last four rounds and is now sharing third place with Wesley So, while Gukesh won two out of his last three encounters to recover from a subpar start in Wijk aan Zee. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r10",
+         "pubDate" : "Thu, 26 Jan 2023 05:25:00 +0100",
+         "title" : "Tata Steel Chess R10: Gukesh beats Pragg in wild struggle"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
          "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
          "title" : "European Cities & Towns Chess Championship starts on Sunday"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Wed, 25 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
@@ -146,7 +154,7 @@ news_feed (
          "title" : "Congratulations Alana Meenakshi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay., using examples from his own games and Averbakh-Spassky. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng-0",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/chess-at-trump-tower.html",
          "pubDate" : "Thu, 05 Jan 2023 16:03:00 +0000",
          "title" : "Chess at Trump Tower"
-      },
-      {
-         "description" : "59th Senior National Chess Championship 2022 Certificates are out to download Link : https://aicf.online/Senior-National.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-chess-championship-2022-certificates/",
-         "pubDate" : "Thu, 05 Jan 2023 08:19:32 +0000",
-         "title" : "Senior National Chess Championship 2022 Certificates"
-      },
-      {
-         "description" : "Can a unit of our army be a friend or foe depending on the circumstances? From experience, we know that the answer is a resounding yes! GM Sundararajan Kidambi explains the beautiful concept of using your opponent's piece to your advantage instead of always being bent on automatically going for the recapture.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/you-are-your-own-enemy-kidambi",
-         "pubDate" : "Thu, 05 Jan 2023 09:00:00 +0100",
-         "title" : "You are your own enemy"
       }
    ]
 }
