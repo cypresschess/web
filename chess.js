@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2189",
+         "pubDate" : "Thu, 26 Jan 2023 02:40:45 +0000",
+         "title" : "Tata Steel Masters: Carlsen keeps climbing the standings"
+      },
+      {
          "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour. The new season kicks off February 3 with the Airthings Masters, the first of six star-studded tournaments before an eight-player final event in December. The launch of the 2023 Champions Chess Tour follows Chess.com's acquisition of Play Magnus Group.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1266,12 +1274,12 @@ news_feed (
          "title" : "Carlsen-Aronian in Tata Steel Masters Round 1"
       },
       {
-         "description" : "The PRO Chess League (PCL) returns on February 1 with a $110,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
+         "description" : "The Pro Chess League (PCL) returns on February 1 with a $150,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
          "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
-         "title" : "2023 PRO Chess League Begins With February 1 Qualifier, Main Event February 14"
+         "title" : "2023 Pro Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
          "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/you-are-your-own-enemy-kidambi",
          "pubDate" : "Thu, 05 Jan 2023 09:00:00 +0100",
          "title" : "You are your own enemy"
-      },
-      {
-         "description" : " Although 4 rounds have now been completed in the 2023 Australian Open, the leading pack of players has only been thinned a little. GM's Temur Kuybokarov (AUS) and Jingyao Tin (SGP) are on 4/4, as is WGM Thi Kim Phung Vo (VIE). They are closely followed by GM Darryl Johansen, IM James Morris, WIM Hong Anh Nguyen, Yihe Fu and Tony Weller, all on 3.5. Of all the players in this group, 54th seed Weller is the most surprising (and possibly the most surprised!). An upset win over Mark Vliestra in the 4th round moved him show ring, where he faces IM James Morris in the 5th round. The Minor also sees three players on 4/4, Benny Chan, Lucas Lee and Jayden Arav. Today (5th Jan) is another double roun",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-3.html",
-         "pubDate" : "Thu, 05 Jan 2023 02:36:00 +0000",
-         "title" : "2023 Australian Open - Day 3"
       }
    ]
 }
