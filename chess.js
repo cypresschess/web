@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It calls for a celebration: ChessBase India turned seven years old on 18th of January 2023. In the second part of his article, the CEO and co-founder of ChessBase India, IM Sagar Shah, writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell - it is a wonderful success story.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/seven-years-chessbase-india-2",
+         "pubDate" : "Thu, 26 Jan 2023 20:30:00 +0100",
+         "title" : "Seven years: ChessBase India (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2191",
+         "pubDate" : "Thu, 26 Jan 2023 19:29:19 +0000",
+         "title" : "The first Chess Olympiad for People with Disabilities: A milestone for chess"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #552, Merijn van Delft analyses the all-important victory that Nodirbek Abdusattorov obtained (with black) over Magnus Carlsen at the Tata Steel Masters in Wijk aan Zee. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-552-carlsen-abdusattorov",
+         "pubDate" : "Thu, 26 Jan 2023 19:00:00 +0100",
+         "title" : "Game of the Week #552: M. Carlsen vs N. Abdusattorov"
+      },
+      {
+         "description" : "As the traditional introduction to a new solving season, the 19th International Solving Contest (ISC) will be held this Sunday, January 29. A set of chess problems will be simultaneously offered to more than 500 solvers around the world at 11 AM CET. The ISC hybrid solving competition is becoming increasingly popular since it allows enthusiasts from many countries to participate without extra costs. In 2023, the ISC will reach 42 locations in 26 different countries.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/international-solving-championships-2023-announcement",
+         "pubDate" : "Thu, 26 Jan 2023 18:15:00 +0100",
+         "title" : "First International Solving Championships of 2023 announced"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,6 +258,14 @@ news_feed (
          "title" : "Tata Steel Chess R9: Giri beats Ding, Abdusattorov escapes with a draw"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2186",
+         "pubDate" : "Wed, 25 Jan 2023 04:39:37 +0000",
+         "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
+      },
+      {
          "description" : "All India Chess Federation congratulate Kolagatla Alana Meenakshi, who conferred with Pradhan Mantri Rashtriya Bal Puraskar! We are proud of you!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -320,14 +360,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-2-million-champions-chess-tour",
          "pubDate" : "Tue, 24 Jan 2023 15:43:51 +0000",
          "title" : "Airthings Masters kicks off $2 million Champions Chess Tour"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2186",
-         "pubDate" : "Tue, 24 Jan 2023 15:39:37 +0000",
-         "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
       },
       {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
@@ -1354,14 +1386,6 @@ news_feed (
          "title" : "2023 ECF Online Grand (Prix Series 3) - First Rapid Event on Sunday 15th January"
       },
       {
-         "description" : "The traditional Tata Steel international invitation tournament series, annually ongoing since the year 1938, held in Wijk aan Zee and earlier in Beverwijk, is a highlight in the calendar of classical chess. Eduard Frey presents funny Trivia from the rich history of this remarkable tournament. | Photo: Playing Hall, Organiser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ten-trivia-about-the-tata-steel-tournament-series-the-wimbledon-of-chess",
-         "pubDate" : "Fri, 13 Jan 2023 16:00:00 +0100",
-         "title" : "Ten Trivia about the Tata Steel Tournament series, the Wimbledon of Chess"
-      },
-      {
          "description" : " The U.S. Chess Federation continues bolstering its staff with the addition of Danielle Little as Program Director for Women and At-Risk Youth. After hiring Howard alumnus Emmanuel London and Chicago resident J.J. Lang last fall, they added Little, which adds another element to outreach initiatives for U.S. Chess. According to an article featuring her work The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/13/u-s-chess-hires-danielle-little/\">U.S. Chess hires Danielle Little!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1378,14 +1402,6 @@ news_feed (
          "title" : "Perpetually Checked"
       },
       {
-         "description" : "While Eugene Manlapao was doing research on Amos Burn (pictured on the right) and Isidor Gunsberg (left), the subjects of his last two articles, he came upon an interesting episode in their careers. Burn and Gunsberg were two of the leading British players in the late 19th century, and they naturally became fierce rivals. This rivalry, however, triggered a controversy that spilled to the press. Burn, Gunsberg, and another master dragged into the issue, all turned contentious. Public opinion was divided.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/high-drama-in-england-the-burn-vs-gunsberg-controversy-of-1886",
-         "pubDate" : "Fri, 13 Jan 2023 11:00:00 +0100",
-         "title" : "High Drama in England: The Burn vs. Gunsberg Controversy of 1886"
-      },
-      {
          "description" : "ECU E-Magazine December 2022 is out! In this edition of the ECU Magazine you can read about: European Rapid &#38; Blitz Chess Championships 2022 FIDE World Rapid &#38; Blitz Chess Championships 2022 Upcoming Tata Steel Chess 2023 Upcoming European Cities &#38; Towns Chess Championship European Individual Open &#38; Women's Chess Championships 2023 European Senior Chess Championship 2023 European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2022/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jan/13/chess-carlsen-takes-on-young-guns-at-wijk-as-world-champion-eyes-record",
          "pubDate" : "Fri, 13 Jan 2023 08:00:10 +0000",
          "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
-      },
-      {
-         "description" : "The 2022-23 edition of the German Bundesliga kicked off on October 22 last year and is set to finish on April 30. All 16 teams have played at least four rounds, but 10 of them have brought forward their round-7 matches. Three squads won all their confrontations: SG Solingen, OSG Baden-Baden and SC Viernheim. The next three rounds are scheduled for February 2-4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2023-r4",
-         "pubDate" : "Fri, 13 Jan 2023 03:40:00 +0100",
-         "title" : "Three teams still perfect in the German Bundesliga"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Thursday, January 12, 2023) - </strong>The Saint Louis Chess Club has announced their 2023 tournament calendar that will include national, international, and local tournament opportunities for spectators and chess players alike. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
