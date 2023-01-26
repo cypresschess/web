@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2190",
+         "pubDate" : "Thu, 26 Jan 2023 13:03:03 +0000",
+         "title" : "First International Solving Championships of 2023 announced"
+      },
+      {
          "description" : "Samvel Ter-Sahakyan emerged as the new leader of the FIDE Circuit race following his victory in the 83rd Armenian Championship. The champion picked up 7.4 points and edged out the winner of the Rilton Cup, IM&#160;Pranesh M, to the second position. The runner-up of the Armenian Championship,&#160;Manuel Petrosyan,&#160;closes out the top three. FIDE Circuit Race []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -79,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-10",
          "pubDate" : "Wed, 25 Jan 2023 20:49:00 -0800",
-         "title" : "Carlsen Rises"
+         "title" : "Carlsen Rises With 3 Rounds Left"
       },
       {
          "description" : "Magnus Carlsen and Dommaraju Gukesh continued their good runs of results in round 10 of the Tata Steel Masters, as they scored full points in the only two decisive games of the day. Carlsen has won three games in the last four rounds and is now sharing third place with Wesley So, while Gukesh won two out of his last three encounters to recover from a subpar start in Wijk aan Zee. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2165",
          "pubDate" : "Thu, 05 Jan 2023 22:22:14 +0000",
          "title" : "Pranesh M wins 2022/2023 Rilton Cup"
-      },
-      {
-         "description" : "While I was researching the latest post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/01/1994-sanghi-nagar.html\">1994 Sanghi-Nagar</A>(January 2023), I rediscovered a photo published in <I>Chess Life</I>, September 1994. The photo was one of several ('Photographs by Bill Hook and Kevin Dyke') that illustrated the tournament report by GM Patrick Wolff titled, 'Kamsky Crushes Kramnik, Advances to Semi Final in Spain'. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na05.jpg\" WIDTH=400 HEIGHT=330> <P>The Wolff article started, <BLOCKQUOTE>The Intel World Chess Championship Quarterfinal Matches, organized under the auspices of the Professi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/chess-at-trump-tower.html",
-         "pubDate" : "Thu, 05 Jan 2023 16:03:00 +0000",
-         "title" : "Chess at Trump Tower"
       }
    ]
 }
