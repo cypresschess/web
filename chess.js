@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Samvel Ter-Sahakyan emerged as the new leader of the FIDE Circuit race following his victory in the 83rd Armenian Championship. The champion picked up 7.4 points and edged out the winner of the Rilton Cup, IM&#160;Pranesh M, to the second position. The runner-up of the Armenian Championship,&#160;Manuel Petrosyan,&#160;closes out the top three. FIDE Circuit Race []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/samvel-ter-sahakyan-takes-lead-in-the-fide-circuit-race/",
+         "pubDate" : "Thu, 26 Jan 2023 12:08:28 +0000",
+         "title" : "Samvel Ter-Sahakyan takes lead in the FIDE Circuit race"
+      },
+      {
+         "description" : " GM Zong Yuan Zhao is is outright first after round 6 of the 2023 Oceania Zonal, with 6 wins from 6 games. In today's only round he beat Rebo Fu, while GM Temur Kuybokarov and FM Patrick Gong drew. Kuybokarov and Gong share 2nd place on 5.5, while there is a large pack of players on 5/6. In the Women's event WGM Julia Ryjanova has also scored 6/6 and leads by 1.5 points. Sharing 2nd place are WGM Jilin Zhang, Luna Xu, and Om O'Carroll. Again there is a large group of players on 4 points hoping to catch Ryjanova. Tomorrow there will be 2 rounds, starting at 10am. Board 1 sees Kuybokarov v Zhao, while FM Patrick Gong is up against IM Igor Bjelobrk. Gong is not only hoping for a win in this gam",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-after-round-6.html",
+         "pubDate" : "Thu, 26 Jan 2023 12:03:00 +0000",
+         "title" : "2023 Oceania Zonal - After round 6"
+      },
+      {
+         "description" : "1.1 The International Chess Federation (FIDE) will hold the Candidates and Women&#x2019;s Candidates Tournaments together in April 2024. The Regulations for both events shall be approved by 1 July 2023. 1.2 The basic provisions are the following:&#160; a) Number of participants in each event &#x2013; 8b) Total duration &#x2013; up to 22 daysc) Recommended combined []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-opens-a-bidding-procedure-for-fide-candidates-tournaments-2024/",
+         "pubDate" : "Thu, 26 Jan 2023 12:00:57 +0000",
+         "title" : "FIDE opens a bidding procedure for FIDE Candidates Tournaments 2024"
+      },
+      {
+         "description" : "The&#xA0;Georgian Open &#38; Women Rapid Chess Championships 2023&#xA0;are taking place from 26-28 January 2023 in Tbilisi. The events are played separately, in 9 rounds, swiss system, with time control of 15 minutes + 10 seconds increment. Live games:",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/georgian-open-women-rapid-chess-championships-2023-live/",
+         "pubDate" : "Thu, 26 Jan 2023 11:57:09 +0000",
+         "title" : "Georgian Open & Women Rapid Chess Championships 2023 - LIVE"
+      },
+      {
+         "description" : "The Georgian Open &#38; Women Rapid Chess Championships 2023 kicked off today in Tbilisi and will be played from 26-28 January 2023. The events are played separately, in 9 rounds, swiss system, with time control of 15 minutes + 10 seconds increment. The top seeded players of the Open event are GM Giga Quparadze, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/georgian-open-women-rapid-chess-championships-2023/",
+         "pubDate" : "Thu, 26 Jan 2023 11:54:25 +0000",
+         "title" : "Georgian Open & Women Rapid Chess Championships 2023"
+      },
+      {
+         "description" : "Magnus Carlsen beat Parham Maghsoodloo in Round 10 of the Tata Steel Masters to pick up a 3rd win in four games and move within a point of 18-year-old leader Nodirbek Abdusattorov with three rounds to go. Gukesh made it two wins in a row after a wild clash with Praggnanandhaa, while Vincent Keymer let another winning rook endgame slip, this time against Jorden van Foreest.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-10-magnus-within-striking-distance",
+         "pubDate" : "Thu, 26 Jan 2023 11:44:02 +0000",
+         "title" : "Tata Steel Chess 10: Magnus within striking distance"
+      },
+      {
+         "description" : "This little problem will leave you gawping and sleepless, says Ian Watson in his review of a delightful collection of helpmates by Christopher Jones. Don't be daunted by this problem genre - it is more entertaining than you might expect. Especially when the problems come from a virtuoso composer like Jones. Can you imagine how White, with Black's full assistance, actually execute a mate in eight moves? Think Phoenix (a queen dies and is reborn).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christopher-jones-selected-helpmates",
+         "pubDate" : "Thu, 26 Jan 2023 12:00:00 +0100",
+         "title" : "Christopher Jones: Selected Helpmates"
+      },
+      {
+         "description" : "The 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov kept the sole lead in the Tata Steel Masters 2023 after 10 played rounds. Abdusattorov yesterday drew against Ding Liren and scores 7/10 points to be half a point ahead of Anish Giri who holds clear second place. Magnus Carlsen yesterday defeated Parham Maghsoodloo, scoring his third victory in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/abdusattorov-keeps-his-lead-tata-steel-masters-r10-recap/",
+         "pubDate" : "Thu, 26 Jan 2023 10:51:44 +0000",
+         "title" : "Abdusattorov keeps his lead - Tata Steel Masters R10 recap"
+      },
+      {
+         "description" : "After 10 played rounds at the Tata Steel Challengers 2023, Mustafa Yilmaz and Alexander Donchenko co-lead with a score of 7/10 points. The German grandmaster yesterday defeated Max Warmerdam with black pieces to join Yilmaz on the top. Donchenko had a slightly better endgame which ended in his favor after Warmerdam's bad 30.Re1?? mistake. Mustafa []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mustafa-yilmaz-and-alexander-donchenko-leading-at-tata-steel-challengers-2023/",
+         "pubDate" : "Thu, 26 Jan 2023 10:41:45 +0000",
+         "title" : "Mustafa Yilmaz and Alexander Donchenko leading at Tata Steel Challengers 2023"
+      },
+      {
          "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -266,30 +338,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (65)"
       },
       {
-         "description" : "The&#xA0;Perez Chess Open 2023&#xA0;is taking place from 26&#x2013;29 January 2023 in P&#xE9;rez, Argentina. The event is played in 7 rounds, swiss system, with a total prize fund of 600.000 Argentine pesos (about 3.000 eur). The time control will be 90 minutes for the entire game, plus a 30-second increment starting from move one. Perez Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/perez-chess-open-2023-live/",
-         "pubDate" : "Tue, 24 Jan 2023 09:20:24 +0000",
-         "title" : "Perez Chess Open 2023 - LIVE"
-      },
-      {
-         "description" : "After 8 played rounds at Tata Steel Masters 2023, the 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov maintained the sole lead in the event. Abdusattorov scores 6/8 points to be full point ahead of Anish Giri and Wesley So who tie for second with 5/8. After yesterday&#x2019;s free day, the games will continue today from 14:00 CEST, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-masters-2023-round-9-pairings/",
-         "pubDate" : "Tue, 24 Jan 2023 09:14:21 +0000",
-         "title" : "Tata Steel Masters 2023 - Round 9 pairings"
-      },
-      {
-         "description" : "After 8 played rounds at the Tata Steel Challengers 2023 in Wijk aan Zee, Alexander Donchenko scores 6/8 points to be the sole leader of the event. Velimir Ivic and Mustafa Yilmaz trail by half a point, tying for second place. After yesterday's free day, the games will continue today from 14:00 CEST, and the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-challengers-2023-round-9-pairings/",
-         "pubDate" : "Tue, 24 Jan 2023 09:07:46 +0000",
-         "title" : "Tata Steel Challengers 2023 - Round 9 pairings"
-      },
-      {
          "description" : "The full pairings for every round of the upcoming Women's Grand Prix Munich 2023 have been announced. The second leg of Women's Grand Prix 2022-23 will take place in Munich from February 1-14, 2022. Twelve players will compete in a round-robin tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,36 +346,12 @@ news_feed (
          "title" : "Women's Grand Prix Munich 2023: Pairings announced"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-9-live/",
-         "pubDate" : "Tue, 24 Jan 2023 08:41:48 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 9 live"
-      },
-      {
          "description" : "Pestering the enemy king with checks is an important defensive technique in rook endings. But while giving checks the defending side should not forget that it is often more important to prevent the enemy king from finding a safe escape. In the diagram position it is White to move and draw. How?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/running-for-cover",
          "pubDate" : "Tue, 24 Jan 2023 09:00:00 +0100",
          "title" : "Running for cover"
-      },
-      {
-         "description" : "The SixDays Budapest January IM (B) is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Levente Papp, Yovann Gatineau, Nhat Minh To, Gabor Farkas, Attila Jakab, Marton Urhegyi, Luitjen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sixdays-budapest-january-im-b-2023-live/",
-         "pubDate" : "Mon, 23 Jan 2023 23:08:50 +0000",
-         "title" : "SixDays Budapest January IM (B) 2023 - LIVE"
-      },
-      {
-         "description" : "The SixDays Budapest January IM (A) is taking place from 23&#x2013;28 January 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Adam Szeberenyi, Hilmir Freyr Heimisson, Tamas Gunes Ongut, Peter Polyik, Bence Leszko, Miklos Orso, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sixdays-budapest-january-im-a-2023-live/",
-         "pubDate" : "Mon, 23 Jan 2023 23:03:15 +0000",
-         "title" : "SixDays Budapest January IM (A) 2023 - LIVE"
       },
       {
          "description" : "In his Endgame Magic Show #224 Karsten shows endgame highlights of the Sunway Sitges Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1394,14 +1418,6 @@ news_feed (
          "title" : "Opening Prep Before the Game | Prepare Like A Pro - GM Igor Novikov"
       },
       {
-         "description" : "In his \"Fast & Furious\" show Robert Ris presents a relatively new idea in the Queen's Gambit Declined. The provocative move Robert discusses has brought a number of successes. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-idea-in-the-queen-s-gambit-declined",
-         "pubDate" : "Thu, 12 Jan 2023 20:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A new idea in the Queen's Gambit Declined"
-      },
-      {
          "description" : "The 85th jubilee edition of the Tata Steel Chess will be held from 13-29 January in Wijk aan Zee. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is headlined by World Chess Champion Magnus Carlsen. The participants are: Magnus Carlsen&#160;(NOR, 2859) Ding Liren&#160;(CHN, 2811) Fabiano Caruana&#160;(USA, 2766) Anish Giri&#160;(NED, 2764) Wesley&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/a-philosophical-question.html",
          "pubDate" : "Thu, 12 Jan 2023 13:12:00 +0000",
          "title" : "A Philosophical Question"
-      },
-      {
-         "description" : "In Maxime Vachier-Lagrave's round-up of recent events a curiosity is noted at the end - he realised midway through his 1st game on the final day of the World Blitz that he'd forgotten to remove his watch. If spotted by an arbiter that would have meant an instant forfeit, of the game and potentially the tournament, but a \"highly unfocused\" Maxime went unpunished and ultimately made a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/mvl-narrowly-avoided-forfeit-at-world-blitz-championship",
-         "pubDate" : "Thu, 12 Jan 2023 12:03:53 +0000",
-         "title" : "MVL narrowly avoided forfeit at World Blitz Championship"
       },
       {
          "description" : "The 2023 European Amateur Chess Championship will be held from 16th-26th April 2023 in ClubEsse Posada Beach Resort 4*, Palau - Sardinia, Italy. The event will be played in three rating categories: U1700, U2000 and U2300. In each rating section, a separate championship for women shall be organized only if there are at least 10 women entries otherwise&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
