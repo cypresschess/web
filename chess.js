@@ -10,6 +10,14 @@ news_feed (
          "title" : "Revamped Champions Chess Tour to kick off in February"
       },
       {
+         "description" : " Magnus Carlsen was the main mover at the top of the standings in Round 10 of the Tata Steel Masters. In spite of playing the late Titled Tuesday (and losing three games) he managed an impressive win. Today he found a very smart way to cause Parham Maghsoodloo problems and eventually outplayed his opponent. Afterwards Carlsen said he was happy to give himself a decent chance of a good tournament result, but pointed out that to win the tournament he is going to have to rely on others. Definitely back in contention though. The leading fixture of the day Wesley So against Anish Giri never really caught fire and was drawn in 34 moves. Nodirbek Abdusattorov played it very safe today against Ding ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-moves-closer-to-the-leader-after-10-rounds-of-the-tata-steel-masters",
+         "pubDate" : "Wed, 25 Jan 2023 21:20:00 +0400",
+         "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
+      },
+      {
          "description" : "The&#xA0;1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
