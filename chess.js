@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng",
+         "pubDate" : "Fri, 27 Jan 2023 02:19:35 +0000",
+         "title" : "Learn the Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. 2023.01.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1434,14 +1442,6 @@ news_feed (
          "title" : "Saint Louis Chess Club Announces 2023 Tournament Calendar"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on opening preparation., using his game against Shelby Getz from the online 2020 U.S. Senior Championship. 2023.01.12<br /> Shelby D Getz vs Igor Novikov, US Senior Championship (2020): A00 Anderssen&#039;s opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2011429\">https://www.chessgames.com/perl/chessgame?gid=2011429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-prep-game-prepare-pro-g",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-prep-game-prepare-pro-gm-igor-novikov",
-         "pubDate" : "Thu, 12 Jan 2023 20:09:02 +0000",
-         "title" : "Opening Prep Before the Game | Prepare Like A Pro - GM Igor Novikov"
-      },
-      {
          "description" : "The 85th jubilee edition of the Tata Steel Chess will be held from 13-29 January in Wijk aan Zee. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is headlined by World Chess Champion Magnus Carlsen. The participants are: Magnus Carlsen&#160;(NOR, 2859) Ding Liren&#160;(CHN, 2811) Fabiano Caruana&#160;(USA, 2766) Anish Giri&#160;(NED, 2764) Wesley&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1688,14 +1688,6 @@ news_feed (
          "link" : "https://aicf.in/gm-karthik-venkataraman-clinches-mpl-59th-senior-national-chess-championship-2022/",
          "pubDate" : "Fri, 06 Jan 2023 06:07:12 +0000",
          "title" : "GM Karthik Venkataraman clinches MPL 59th Senior National Chess Championship 2022."
-      },
-      {
-         "description" : "Congratulations to Pranesh M for winning the Rilton Cup at Stockholm, the first tournament of the FIDE Circuit and also becoming the 79th Grandmaster of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-to-pranesh-m-79th-grandmaster-of-india/",
-         "pubDate" : "Fri, 06 Jan 2023 02:16:47 +0000",
-         "title" : "Congratulations to Pranesh M..79th Grandmaster of India"
       }
    ]
 }
