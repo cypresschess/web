@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find five such mini-lessons here. Enjoy! | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-3",
+         "pubDate" : "Fri, 27 Jan 2023 20:40:00 +0100",
+         "title" : "Endgames from Wijk aan Zee (3)"
+      },
+      {
+         "description" : " Last week, we played through a game in which a tactic called the fork played a decisive role. We briefly talked about the creation of combinations, a sequence of moves that sets up the tactic. Were going to go into greater detail regarding the process of creating combinations because that is the heart of all <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\">A Foundation for Beginners Eighty One</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-one/",
+         "pubDate" : "Fri, 27 Jan 2023 19:08:28 +0000",
+         "title" : "A Foundation for Beginners Eighty One"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King examines a wonderfully creative game of Richard Rapport's from the Tata Steel Masters. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-genius-of-richard-rapport",
+         "pubDate" : "Fri, 27 Jan 2023 19:15:00 +0100",
+         "title" : "Daniel King's Power Play Show: The genius of Richard Rapport"
+      },
+      {
          "description" : "Videos: Caro-Kann (1.e4 c6 2.Nf3 d5 3.d3) by Christian Bauer and Saemisch-Benoni by David Navara. \"Lucky bag\": 45 annotated games - analyses by Anish Giri, Alexander Motylev, Nijat Abasov and many more. \"The brilliancy\" by GM Yago Santiago - an uncompromising attacking game against the Gruenfeld with 4.h4 and 10.Rh4!?. Plus Update service with over 40,000 new games! ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available as download or on DVD.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "The 1st Chess Olympiad for People with Disabilities starts in Belgrade"
       },
       {
-         "description" : " The world champion has recovered from his two early losses and is one point behind the leader as the 'chess Wimbledon' nears climax Magnus Carlsen has fought back strongly from his two early losses, and the world champion will enter this weekend's final three rounds at Tata Steel Wijk aan Zee only a single point behind the leader, Nodirbek Abdusattorov. The 18-year-old from Uzbekistan has led most of the way, and is unbeaten. Leaders after 10 of the 13 rounds were Abdusattorov (Uzb) 7, Anish Giri (Neth) 6.5, Carlsen (Nor) and Wesley So (US) 6, Levon Aronian and Fabiano Caruana (both US) 5.5. <a href=\"https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contenti",
+         "description" : " The world champion has recovered from his two early losses and is one point behind the leader as the 'chess Wimbledon' nears climax Magnus Carlsen has fought back strongly from his two early losses, and the world champion will enter this weekend's final two rounds at Tata Steel Wijk aan Zee only a single point behind the leader, Nodirbek Abdusattorov. The 18-year-old from Uzbekistan has led most of the way, and is unbeaten. Leaders after 11 of the 13 rounds were Abdusattorov (Uzb) 7.5, Anish Giri (Neth) 7, Carlsen (Nor) and Wesley So (US) 6.5, Levon Aronian and Fabiano Caruana (both US) 6. <a href=\"https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention-as-final-rounds-loom-at-wijk",
@@ -1274,14 +1298,6 @@ news_feed (
          "title" : "The Rise of Chess.com"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 108th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-107-play-the-sicilian-2",
-         "pubDate" : "Sun, 15 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 108: Play the Sicilian (9)"
-      },
-      {
          "description" : " You may be aware that I co-founded Richmond Junior Chess Club with my good friend Mike Fox in 1975, and, after he moved to Birmingham a few years later, ran it myself, with the help of parents and friends, until 2005/6. During that period, we had several members, including Luke McShane and Jonathan Rowson, who <a href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Richmond Junior Club 1975-2006 Part 3\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\">Richmond Junior Club 1975-2006 Part 3</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1296,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2172",
          "pubDate" : "Sun, 15 Jan 2023 08:00:21 +0000",
          "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
-      },
-      {
-         "description" : "As Wijk aan Zee gets underway this weekend, we can look forward to a magnificent battle of the generations. In my time this would have been utterly impossible - surely the young guns used to play in the B group? Find here analyses of three formidable wins by the Indian prodigies that are playing in Wijk aan Zee. | Photos: Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-186",
-         "pubDate" : "Sun, 15 Jan 2023 09:00:00 +0100",
-         "title" : "Young guns by the sea"
       },
       {
          "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
