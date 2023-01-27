@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion has recovered from his two early losses and is one point behind the leader as the 'chess Wimbledon' nears climax Magnus Carlsen has fought back strongly from his two early losses, and the world champion will enter this weekend's final three rounds at Tata Steel Wijk aan Zee only a single point behind the leader, Nodirbek Abdusattorov. The 18-year-old from Uzbekistan has led most of the way, and is unbeaten. Leaders after 10 of the 13 rounds were Abdusattorov (Uzb) 7, Anish Giri (Neth) 6.5, Carlsen (Nor) and Wesley So (US) 6, Levon Aronian and Fabiano Caruana (both US) 5.5. <a href=\"https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contenti",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention-as-final-rounds-loom-at-wijk",
+         "pubDate" : "Fri, 27 Jan 2023 08:00:45 +0000",
+         "title" : "Chess: Magnus Carlsen jumps back into contention as final rounds loom at Wijk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1664,30 +1672,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3/",
          "pubDate" : "Fri, 06 Jan 2023 09:00:44 +0000",
          "title" : "2023 ECF Online Grand (Prix Series 3) - First Blitz Event on Sunday 8th January"
-      },
-      {
-         "description" : " The event has been staged since the 1920s and the 2023 iteration ended with England's Mark Hebden tied in second, after missing a win against Lithuania's Sarunas Sulskis, who finished first Hastings is the grandpa of international chess tournaments, first staged in 1895 and annually since 1920, with brief war and pandemic breaks. Its vintage years were the 1930s, 50s and 70s, when world champions were eager to compete, while England's Sir George Thomas and Hugh Alexander scored stunning upsets. The home contingent started slowly at the Caplin Hastings Masters 2022-23, before a surge in the second half put five English players in the mix at the start of Friday's 10th and final round. <a href",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jan/06/chess-hastings-tradition-inspires-home-contingent-at-oldest-annual-tournament",
-         "pubDate" : "Fri, 06 Jan 2023 08:00:44 +0000",
-         "title" : "Chess: Hastings tradition inspires home contingent at oldest annual tournament"
-      },
-      {
-         "description" : " Antother double round day saw the 2023 Australian Open reach the halfway mark. The big result of the day was the win by IM James Morris over tournament top seed GM Jingyao Tin. Tin was better for a lot of the game, but blundered on move 35, losing material, and then the game. The win moves Morris into a tie for 1st with GM Temur Kuybokarov, who had drawn with Tin in Round 5. GM Darryl Johansen and WIM Hong Anh Nguyen are tied for 3rd, on 5/6. Johansen won an interesting game against longtime opponent FM Bill Jordan, while Nguyen was not able to find a win in the ending against the always resourceful CM Hui Li. Today's round 7 sees a clash between Kuybokarov and Morris, with Tin v Johansen o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-4.html",
-         "pubDate" : "Fri, 06 Jan 2023 06:55:00 +0000",
-         "title" : "2023 Australian Open - Day 4"
-      },
-      {
-         "description" : "The MPL 59th Senior National Chess Championship 2022, was organized by Delhi Chess Association at Indira Gandhi Sports Complex, Near ITO, New Delhi from 22nd",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-karthik-venkataraman-clinches-mpl-59th-senior-national-chess-championship-2022/",
-         "pubDate" : "Fri, 06 Jan 2023 06:07:12 +0000",
-         "title" : "GM Karthik Venkataraman clinches MPL 59th Senior National Chess Championship 2022."
       }
    ]
 }
