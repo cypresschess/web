@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Videos: Caro-Kann (1.e4 c6 2.Nf3 d5 3.d3) by Christian Bauer and Saemisch-Benoni by David Navara. \"Lucky bag\": 45 annotated games - analyses by Anish Giri, Alexander Motylev, Nijat Abasov and many more. \"The brilliancy\" by GM Yago Santiago - an uncompromising attacking game against the Gruenfeld with 4.h4 and 10.Rh4!?. Plus Update service with over 40,000 new games! ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available as download or on DVD.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-2",
+         "pubDate" : "Fri, 27 Jan 2023 15:00:00 +0100",
+         "title" : "New: CBM Extra #211"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Fri, 27 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Losing in Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "300 Most Important Chess Exercises"
       },
       {
-         "description" : "Ding Liren and Nodirbek Abdusattorov were the first winners at the Masters section of the 2023 Tata Steel Chess Tournament. Both players scored with the black pieces, as Ding got the better of Dommaraju Gukesh and Abdusattorov defeated Richard Rapport. In the Challengers, Max Warmerdam and Abhimanyu Mishra collected full points on opening day. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r1",
-         "pubDate" : "Sun, 15 Jan 2023 01:05:00 +0100",
-         "title" : "Tata Steel Chess R1: Ding and Abdusattorov score with black"
-      },
-      {
          "description" : "The 2023 Bob Wade Masters is currently running in Auckland, New Zealand. Organised by Paul Spiller, this event commemorates the great New Zealand Master, IM Bob Wade. <div>The top section for this years tournament has attracted a strong field, with 2 GM's (Samy Shoker and Elshan Moradiabadi) and 2 IM's (Gary Lane and Herman Van Riemsdijk). There is also two Challenger tournaments, with Miles Patterson (from Canberra) playing in Challengers 1. Each of these events is a 10 player round robin, and will be running until the 20th of January. The Masters is being broadcast live in a couple of places, including on lichess at <a href=\"https://lichess.org/broadcast/2023-bob-wade-masters/round-2/fJTfK",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://www.thearticle.com/can-harry-count/",
          "pubDate" : "Sat, 14 Jan 2023 12:15:08 +0000",
          "title" : "Can Harry count?"
-      },
-      {
-         "description" : "According to the calendar put forth by the International Chess Federation (FIDE), the World Championship match between Ian Nepomniachtchi and Ding Liren is set to begin on April 7. However, FIDE has yet to announce a host or a location for the event. The pandemic, Russia's attack on Ukraine, and the withdrawal of reigning champion Magnus Carlsen have caused many complications for the organization.| Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-organization-problems",
-         "pubDate" : "Sat, 14 Jan 2023 10:00:00 +0100",
-         "title" : "Where will the World Championship match take place?"
       },
       {
          "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
@@ -1632,14 +1632,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-5.html",
          "pubDate" : "Sat, 07 Jan 2023 03:18:00 +0000",
          "title" : "2023 Australian Open - Day 5"
-      },
-      {
-         "description" : "A couple of recent posts on this blog have mentioned the 1990s web site Yourmove.com:- <UL><LI>2022-12-02: <A HREF=\"https://chessforallages.blogspot.com/2022/12/the-smartchess-saga.html\">The SmartChess Saga</A> <LI>2022-12-23: <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A></UL> <P>Both citations quoted the same source:- <BLOCKQUOTE>Statement by Anatoly Karpov: [...] I would also like to mention that I am a frequent guest lecturer at the superb Internet Chess Academy (www.yourmove.com) created by the talented young GM Gabriel Schwartzman. </BLOCKQUOTE> <P>The site is partially available via Archive.org, shown in the following screen ca",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/wayback-to-yourmovecom.html",
-         "pubDate" : "Fri, 06 Jan 2023 16:08:00 +0000",
-         "title" : "Wayback to Yourmove.com"
       }
    ]
 }
