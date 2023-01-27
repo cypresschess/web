@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. 2023.01.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-sheng",
+         "pubDate" : "Thu, 26 Jan 2023 23:19:30 +0000",
+         "title" : "Prepare Like A Pro - GM Josh Sheng"
+      },
+      {
          "description" : "It calls for a celebration: ChessBase India turned seven years old on 18th of January 2023. In the second part of his article, the CEO and co-founder of ChessBase India, IM Sagar Shah, writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell - it is a wonderful success story.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1490,14 +1498,6 @@ news_feed (
          "title" : "2023 Australian Open - Final Day"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on calculation and move selection.<br /> Identify threats, look at candidate moves, avoid blunders, plan the &quot;big picture,&quot; and more. 2023.01.10<br /> C42 Petrov, Nimzovich attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_th",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beginners-guide-calculation-and-move-selection-beginner-breakdown",
-         "pubDate" : "Wed, 11 Jan 2023 02:07:00 +0000",
-         "title" : "Beginner's Guide to Calculation and Move Selection | Beginner Breakdown"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1696,22 +1696,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-to-pranesh-m-79th-grandmaster-of-india/",
          "pubDate" : "Fri, 06 Jan 2023 02:16:47 +0000",
          "title" : "Congratulations to Pranesh M..79th Grandmaster of India"
-      },
-      {
-         "description" : " The future of classical chess has been discussed for decades, and the topic has come up once again. The question has been how to make it more marketable for wider public appeal and to eliminate the dreaded &#8220;draw death.&#8221; Quickplay via online platforms has exploded. Will classical chess be phased out? After the 2022 World The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/\">Is Classical Chess Dead?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/05/is-classical-chess-dead/",
-         "pubDate" : "Thu, 05 Jan 2023 22:25:58 +0000",
-         "title" : "Is Classical Chess Dead?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2165",
-         "pubDate" : "Thu, 05 Jan 2023 22:22:14 +0000",
-         "title" : "Pranesh M wins 2022/2023 Rilton Cup"
       }
    ]
 }
