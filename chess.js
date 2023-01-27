@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Losing in Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/overcome-loss/",
+         "pubDate" : "Fri, 27 Jan 2023 12:14:49 +0000",
+         "title" : "Losing in Chess: How to Get Back After A Tough Loss"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-11-live/",
+         "pubDate" : "Fri, 27 Jan 2023 09:30:00 +0000",
+         "title" : "Tata Steel Chess 2023 - Round 11 live"
+      },
+      {
+         "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-karsten-mueller-how-to-attack-principles-of-training",
+         "pubDate" : "Fri, 27 Jan 2023 10:27:00 +0100",
+         "title" : "New - Karsten M&uuml;ller: How to attack - principles of training"
+      },
+      {
+         "description" : "The 1st Chess Olympiad for People with Disabilities starts on Sunday in Belgrade, Serbia, and will take place from 29th of January to the 5th of February in Hotel Crowne Plaza Belgrade. More than 100 players from 33 countries will take part in the event which will be played under the Swiss System, with six rounds. The time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/",
+         "pubDate" : "Fri, 27 Jan 2023 09:13:02 +0000",
+         "title" : "The 1st Chess Olympiad for People with Disabilities starts in Belgrade"
+      },
+      {
          "description" : " The world champion has recovered from his two early losses and is one point behind the leader as the 'chess Wimbledon' nears climax Magnus Carlsen has fought back strongly from his two early losses, and the world champion will enter this weekend's final three rounds at Tata Steel Wijk aan Zee only a single point behind the leader, Nodirbek Abdusattorov. The 18-year-old from Uzbekistan has led most of the way, and is unbeaten. Leaders after 10 of the 13 rounds were Abdusattorov (Uzb) 7, Anish Giri (Neth) 6.5, Carlsen (Nor) and Wesley So (US) 6, Levon Aronian and Fabiano Caruana (both US) 5.5. <a href=\"https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contenti",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -256,14 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/giri-closes-the-gap-abdusattorov-holds-his-lead-tata-steel-masters-r9-recap/",
          "pubDate" : "Wed, 25 Jan 2023 08:24:34 +0000",
          "title" : "Giri closes the gap, Abdusattorov holds his lead - Tata Steel Masters R9 recap"
-      },
-      {
-         "description" : "Nine rounds are played at the Tata Steel Challengers 2023 in Wijk aan Zee and fight for the first place and qualification spot for the next Tata Steel Masters is going wild. Mustafa Yilmaz scored against Vaishali R to grab the sole lead in the event as Alexander Donchenko lost with White against Erwin L'Ami. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mustafa-yilmaz-grabs-the-lead-in-tata-steel-challengers-2023/",
-         "pubDate" : "Wed, 25 Jan 2023 07:31:00 +0000",
-         "title" : "Mustafa Yilmaz grabs the lead in Tata Steel Challengers 2023"
       },
       {
          "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
@@ -1346,14 +1370,6 @@ news_feed (
          "title" : "'Robson Is The Mittens Of Puzzle Rush'"
       },
       {
-         "description" : "In the diagram position it is White to move. Black just played 48...Qe2??, a move that looks strong but allows White a surprising win. What should White do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surprise",
-         "pubDate" : "Sat, 14 Jan 2023 09:00:00 +0100",
-         "title" : "Surprise"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1624,54 +1640,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/wayback-to-yourmovecom.html",
          "pubDate" : "Fri, 06 Jan 2023 16:08:00 +0000",
          "title" : "Wayback to Yourmove.com"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2168",
-         "pubDate" : "Fri, 06 Jan 2023 11:36:27 +0000",
-         "title" : "Belgrade to host Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "The 48th Edition of Indian Women National Championship concluded today at Sanjay Ghodawat University Kolhapur. WGM Divya Deshmukh (MAH) repeated history by successfully defending her",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/divya-deshmukh-clinches-mpl-48th-national-women-chess-championship/",
-         "pubDate" : "Fri, 06 Jan 2023 11:13:59 +0000",
-         "title" : "Divya Deshmukh clinches MPL 48th National Women Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2169",
-         "pubDate" : "Fri, 06 Jan 2023 10:40:36 +0000",
-         "title" : "India Championships: Karthik Venkataraman and Divya Deshmukh win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2167",
-         "pubDate" : "Fri, 06 Jan 2023 10:28:24 +0000",
-         "title" : "Women in Chess: FIDE WOM Workshop held in Stockholm"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2166",
-         "pubDate" : "Fri, 06 Jan 2023 09:37:56 +0000",
-         "title" : "Call for submissions: FIDE Veterans Support Program 2023"
-      },
-      {
-         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3/",
-         "pubDate" : "Fri, 06 Jan 2023 09:00:44 +0000",
-         "title" : "2023 ECF Online Grand (Prix Series 3) - First Blitz Event on Sunday 8th January"
       }
    ]
 }
