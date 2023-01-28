@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-masters-11-maghsoodloo-beats-pragg",
+         "pubDate" : "Fri, 27 Jan 2023 23:48:00 +0000",
+         "title" : "Tata Steel Masters 11: Maghsoodloo beats Pragg"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2192",
+         "pubDate" : "Fri, 27 Jan 2023 23:37:08 +0000",
+         "title" : "Tata Steel Masters: The leaders maintain status quo"
+      },
+      {
+         "description" : "Nothing changed atop the standings of the Tata Steel Masters, as Nodirbek Abdusattorov held Anish Giri to a draw with black, and Magnus Carlsen could not get much with white against Wesley So. Thus, Abdusattorov still has a half point lead over Giri ahead of the tournament's final weekend. Meanwhile, in the Challengers, Alexander Donchenko beat top seed Amin Tabatabaei to go into the final two days of action in sole first place. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r11",
+         "pubDate" : "Sat, 28 Jan 2023 00:30:00 +0100",
+         "title" : "Tata Steel Chess R11: Donchenko sole leader in the Challengers"
+      },
+      {
+         "description" : "The Head of the Sakha Republic Cup is taking place from 24 January to 1 February 2023 in Yakutsk. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Mikhail Kobalia, Anton Shomoev, Boris Grachev, Volodar Murzin, Oleg Rychkov, Dmitry []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/head-of-the-sakha-republic-cup-2023-live/",
+         "pubDate" : "Fri, 27 Jan 2023 21:41:09 +0000",
+         "title" : "Head of the Sakha Republic Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM St. Louis IM 2023 is taking place 25-29 January 2023 in St. Louis, USA. Players receive 90 minutes for the entire game + 30 seconds increment starting from move one. It is 9-round Schiller system tournament with participation of Alice Lee, Olivier-Kenta Chiku-Ratte, Stavroula Tsolakidou, Dalton Perrine, Julian Proleiko, Pedro Espinosa, Tamas Petenyi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-st-louis-im-2023-live/",
+         "pubDate" : "Fri, 27 Jan 2023 21:34:33 +0000",
+         "title" : "1000GM St. Louis IM 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM St. Louis GM 2023 is taking place 25-29 January 2023 in St. Louis, USA. Players receive 90 minutes for the entire game + 30 seconds increment starting from move one. It is 9-round Schiller system tournament with participation of Raja Harshit, Luka Budisavljevic, Denes Boros, Ezra Paul Chambers, Konstantin Kavutskiy,&#xA0;Aarav Dengla, Tianqi Wang, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-st-louis-gm-2023-live/",
+         "pubDate" : "Fri, 27 Jan 2023 21:29:27 +0000",
+         "title" : "1000GM St. Louis GM 2023 - LIVE"
+      },
+      {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find five such mini-lessons here. Enjoy! | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +74,20 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The genius of Richard Rapport"
       },
       {
+         "description" : " Today was a quiet day even after a day of rest. A win for second placed Anish Giri against Nodirbek Abdusattorov would have allowed him to replace the leader at the top of the standings but after mixing up his lines he didn't get anything and the game was drawn in 29 moves. Magnus Carlsen tried for 58 moves against Wesley So but never seemed to generate realistic winning chances. R Praggnanandhaa's tournament continues to go bad after losing a third game, this time to Parham Maghsoodloo. Praggnanandhaa had a promising position but after choosing the wrong plan he was instead lost. This was the only decisive game of the day. FM Michiel Abeln's report is below. Alexander Donchenko is the sole",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-and-giri-draw-in-the-battle-of-the-leaders-in-round-11-of-the-tata-steel-masters",
+         "pubDate" : "Fri, 27 Jan 2023 20:30:00 +0400",
+         "title" : "Abdusattorov and Giri draw in the battle of the leaders in Round 11 of the Tata Steel Masters - 11"
+      },
+      {
          "description" : "Videos: Caro-Kann (1.e4 c6 2.Nf3 d5 3.d3) by Christian Bauer and Saemisch-Benoni by David Navara. \"Lucky bag\": 45 annotated games - analyses by Anish Giri, Alexander Motylev, Nijat Abasov and many more. \"The brilliancy\" by GM Yago Santiago - an uncompromising attacking game against the Gruenfeld with 4.h4 and 10.Rh4!?. Plus Update service with over 40,000 new games! ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available as download or on DVD.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-cbm-extra-2",
          "pubDate" : "Fri, 27 Jan 2023 15:00:00 +0100",
          "title" : "New: CBM Extra #211"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Fri, 27 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Losing in Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -250,14 +298,6 @@ news_feed (
          "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
       },
       {
-         "description" : "The&#xA0;1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#xA0;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-cities-towns-chess-championship-starts-on-sunday/",
-         "pubDate" : "Wed, 25 Jan 2023 16:16:39 +0000",
-         "title" : "European Cities & Towns Chess Championship starts on Sunday"
-      },
-      {
          "description" : "GM Hikaru Nakamura was victorious in another Titled Tuesday on January 24, his second in a row. Nakamura started 6/6, went undefeated, and scored 9.5/11 to defeat GMs Baadur Jobava and Matthias Bluebaum on tiebreaks. There was only one tournamen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,22 +352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
          "pubDate" : "Wed, 25 Jan 2023 09:00:55 +0000",
          "title" : "ECF Safeguarding Officer appointment"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-10-live/",
-         "pubDate" : "Wed, 25 Jan 2023 08:44:30 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 10 live"
-      },
-      {
-         "description" : "Nine rounds are played at the Tata Steel Masters 2023 in Wijk aan Zee and Nodirbek Abdusattorov holds his lead in the event with 6.5 points. Anish Giri defeated Ding Liren to close the gap, and trails by half a point. It was a thrilling game between Vincent Keymer and Nodirbek Abdusattorov. Keymer was slightly []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/giri-closes-the-gap-abdusattorov-holds-his-lead-tata-steel-masters-r9-recap/",
-         "pubDate" : "Wed, 25 Jan 2023 08:24:34 +0000",
-         "title" : "Giri closes the gap, Abdusattorov holds his lead - Tata Steel Masters R9 recap"
       },
       {
          "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2171",
          "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
          "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : "8-time Wijk aan Zee Champion Magnus Carlsen will play 4-time Champion Levon Aronian as the Tata Steel Masters begins on Saturday, January 14th. We've also got Caruana-Giri, Gukesh-Ding and Praggnanandhaa-Erigaisi in Round 1 as the year 2023 in chess really begins. Laurent Fressinet and Peter Svidler will be commentating here on chess24, with David Howell replacing Laurent for Round 3 onwards.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-aronian-in-tata-steel-masters-round-1",
-         "pubDate" : "Fri, 13 Jan 2023 22:13:27 +0000",
-         "title" : "Carlsen-Aronian in Tata Steel Masters Round 1"
       },
       {
          "description" : "The Pro Chess League (PCL) returns on February 1 with a $150,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
