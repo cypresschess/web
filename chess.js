@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 27 Jan 2023 20:02:05 -0800",
+         "title" : "Top Boards Face Off Peacefully, Maghsoodloo Sole Victor"
+      },
+      {
          "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1648,14 +1656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2138",
          "pubDate" : "Sat, 07 Jan 2023 09:40:03 +0000",
          "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
-      },
-      {
-         "description" : " Seven rounds have now been played in the 2023 Australian Open, and GM Temur Kuybokarov has opened up a 1 point lead over the rest of the field. He defeated IM James Morris in Round 7 after a very sharp opening. However the real trouble started for Morris around move 40 when the endgame got away from him. There are 5 players tied for second place on 5.5, including top seed GM Jingyao Tin who beat GM Darryl Johansen. In the Minor tournament Oscar Ho and Benny Chan share the lead on 6/7. Having already played each other, it may be a question of who makes the least mistakes in the race to the finish. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-5.html",
-         "pubDate" : "Sat, 07 Jan 2023 03:18:00 +0000",
-         "title" : "2023 Australian Open - Day 5"
       }
    ]
 }
