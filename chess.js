@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Temur Kuybokarov and WGM Julia Ryjanova have won the Open and Womens Zone 3.6 Championship. While Ryjanova won her event outright (8/9), Kuybokarov had to win a playoff against IM Gary Lane to claim the title. Going into the final round GM Zong Yuan Zhao held a half point lead over the field, but IM Stephen Solomon threw the tournament wide open after beating Zhao. One the other results had come in, there was a 6 way tie for first, involving Kuybokarov, Lane, FM Patrick Gong, FM Yi Liu, Solomon, and IM James Morris (all on 7.5). The playoff was between the top 2 finishers on count back (Kuybokarov and Lane), which Kuybokarov won 2-0. FM Patrick Gong finished 3rd on tie-break, but as it w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/kuybokarov-and-ryjanove-win-36-zonal.html",
+         "pubDate" : "Sat, 28 Jan 2023 12:26:00 +0000",
+         "title" : "Kuybokarov and Ryjanove win 3.6 Zonal events"
+      },
+      {
+         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the third episode, Jeroen van den Belt explains the newly visualized material search function!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-explained-by-the-engineers-the-new-material-search",
+         "pubDate" : "Sat, 28 Jan 2023 12:00:00 +0100",
+         "title" : "ChessBase 17 explained by the engineers! - The new material search"
+      },
+      {
+         "description" : "In an earlier episode, Svitlana taught us the King's Indian Defence. Today, we will learn all the basics about the King's Indian Attack, which is a universal setup, similar to the London System. This also means that the attack can be easily played against standard openings, like the Sicilian, the French, or the Caro-Kann. Svitlana explains, using a Bobby Fischer game, how to win against the French Defence with this interesting opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-attack-vs-sicilian-french-caro-kann",
+         "pubDate" : "Sat, 28 Jan 2023 10:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - King's Indian Attack vs. Sicilian, French & Caro-Kann"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class on the 6.Bg5 variation of the Najdorf. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng",
+         "pubDate" : "Sat, 28 Jan 2023 08:21:05 +0000",
+         "title" : "Learn the 6.Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
+      },
+      {
          "description" : "In the diagram position White can win a piece after 18.Nxc6! Bxc6. Can you calculate the lines in your head?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,6 +128,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-and-giri-draw-in-the-battle-of-the-leaders-in-round-11-of-the-tata-steel-masters",
          "pubDate" : "Fri, 27 Jan 2023 20:30:00 +0400",
          "title" : "Abdusattorov and Giri draw in the battle of the leaders in Round 11 of the Tata Steel Masters - 11"
+      },
+      {
+         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/crowthers-chess-on-net.html\">Crowther's 'Chess on the Net'</A>(January 2023), I originally intended to write about Mark Crowther's 'Chess on the Web', then realized that I had mixed two different works. The first book in the genre was Sarah Hurst's 'Chess on the Web'. This was followed a few years later by Crowther's 'Chess on the Net', which was followed by Hurst's second edition of 'Chess on the Web'. <P>The covers of both editions of Hurst's book are shown below. Co-authors listed on the second edition are Richard Palliser and Graham Brown. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na27.gif\" WID",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/hursts-chess-on-web.html",
+         "pubDate" : "Fri, 27 Jan 2023 16:20:00 +0000",
+         "title" : "Hurst's 'Chess on the Web'"
       },
       {
          "description" : "Videos: Caro-Kann (1.e4 c6 2.Nf3 d5 3.d3) by Christian Bauer and Saemisch-Benoni by David Navara. \"Lucky bag\": 45 annotated games - analyses by Anish Giri, Alexander Motylev, Nijat Abasov and many more. \"The brilliancy\" by GM Yago Santiago - an uncompromising attacking game against the Gruenfeld with 4.h4 and 10.Rh4!?. Plus Update service with over 40,000 new games! ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available as download or on DVD.",
@@ -1242,22 +1282,6 @@ news_feed (
          "title" : "Streaming what the heart desires"
       },
       {
-         "description" : "Am Freitag endete die 82. Georgische Landesmeisterschaft in Tiflis mit einem Sieg von Mikheil Mchedlishvili (Foto). Das Turnier wurde mit zehn Spielern im Modus jeder gegen jeden gespielt. Mchedlishvili kam als einziger Spieler auf 7 Punkte. Giga Quparadze wurde Zweiter vor Tornike Sanikidze. | Fotos: Georgischer Schachverband",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mikheil-mchedlishvili-wins-2023-georgian-championship",
-         "pubDate" : "Mon, 16 Jan 2023 13:31:52 +0100",
-         "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : "In football, the area around the center line is usually a hazard-free space. But in chess, when a knight crosses the centre line - i.e. if it jumps from his own half of the playing field to that of the opponent - then it \"usually sends a clear attack signal\", writes Oliver Reeh in his tactics section in ChessBase Magazin #211. His collection of tasks in the new edition includes 38 games, which are peppered with many training questions. Attacking knights play an important role in almost all cases. We would like to present the first three tasks from the collection as well as an excerpt from his first interactive video here. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jumping-across-the-centre-line",
-         "pubDate" : "Mon, 16 Jan 2023 13:00:00 +0100",
-         "title" : "\"Jumping across the centre line\""
-      },
-      {
          "description" : " The first big OTB event of the year is underway in The Netherlands. The Tata Steel tournament has attracted the usual strong collection of GM's, including the soon no-to-be World Champion Magnus Carlsen, He has had a pretty good start with 1.5/2, but the game of the tournament so far is Anish Giri's win over Gukesh. A piece sac followed by rook sac did not immediately lead to a forced mate, with the Queen and Bishop controlled enough squares around the exposed King to end the game quickly. <br /> <br /> <b>Giri,Anish (2764) - Gukesh D (2725) [D38]</b><br />Tata Steel Masters chess24.com (2.6), 15.01.2023 <script>new PgnViewer( { boardName: \"game1376\", movesFormat: \"default\", pgnString:'1.d4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1490,14 +1514,6 @@ news_feed (
          "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis, MO (Thursday, January 12, 2023) - </strong>The Saint Louis Chess Club has announced their 2023 tournament calendar that will include national, international, and local tournament opportunities for spectators and chess players alike. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-announces-2023-tournament-calendar",
-         "pubDate" : "Thu, 12 Jan 2023 21:44:38 +0000",
-         "title" : "Saint Louis Chess Club Announces 2023 Tournament Calendar"
-      },
-      {
          "description" : "The 85th jubilee edition of the Tata Steel Chess will be held from 13-29 January in Wijk aan Zee. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is headlined by World Chess Champion Magnus Carlsen. The participants are: Magnus Carlsen&#160;(NOR, 2859) Ding Liren&#160;(CHN, 2811) Fabiano Caruana&#160;(USA, 2766) Anish Giri&#160;(NED, 2764) Wesley&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://www.thearticle.com/carlsen-contra-mundum/",
          "pubDate" : "Sat, 07 Jan 2023 12:58:16 +0000",
          "title" : "Carlsen contra mundum"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2138",
-         "pubDate" : "Sat, 07 Jan 2023 09:40:03 +0000",
-         "title" : "FIDE reforms the qualifications paths to the Candidates Tournament"
       }
    ]
 }
