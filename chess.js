@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Well do we? There have been interregnal precedents, in the days of the proto-champions; after Philidor, for example, in the late 18th century, there was no obvious successor, until the advent of Labourdonnais in 1834 (obit. 1840). Staunton became the preeminent champion in 1843, followed by Anderssen, 1851, Morphy, 1858 and Steinitz, 1866. Thereafter, the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/does-chess-have-a-world-champion/",
+         "pubDate" : "Sat, 28 Jan 2023 15:41:02 +0000",
+         "title" : "Does chess have a world champion?"
+      },
+      {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sat, 28 Jan 2023 13:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " GM Temur Kuybokarov and WGM Julia Ryjanova have won the Open and Womens Zone 3.6 Championship. While Ryjanova won her event outright (8/9), Kuybokarov had to win a playoff against IM Gary Lane to claim the title. Going into the final round GM Zong Yuan Zhao held a half point lead over the field, but IM Stephen Solomon threw the tournament wide open after beating Zhao. One the other results had come in, there was a 6 way tie for first, involving Kuybokarov, Lane, FM Patrick Gong, FM Yi Liu, Solomon, and IM James Morris (all on 7.5). The playoff was between the top 2 finishers on count back (Kuybokarov and Lane), which Kuybokarov won 2-0. FM Patrick Gong finished 3rd on tie-break, but as it w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1274,14 +1290,6 @@ news_feed (
          "title" : "Chessify Progress Report"
       },
       {
-         "description" : "In the past, Fritztrainers were only available on DVD - you had to wait for the post, and installation on hard disk and online activation were unavoidable. Nowadays, downloading is the standard - so the training courses can be installed and started directly after purchase. However, only on Windows or Mac OS. It is now even more convenient and faster with the stream function on the ChessBase video page - also usable on mobile devices such as iPad, tablet or smartphone. You don't even have to enter a serial number here. This is how it works!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/streaming-what-the-heart-desires",
-         "pubDate" : "Mon, 16 Jan 2023 15:00:00 +0100",
-         "title" : "Streaming what the heart desires"
-      },
-      {
          "description" : " The first big OTB event of the year is underway in The Netherlands. The Tata Steel tournament has attracted the usual strong collection of GM's, including the soon no-to-be World Champion Magnus Carlsen, He has had a pretty good start with 1.5/2, but the game of the tournament so far is Anish Giri's win over Gukesh. A piece sac followed by rook sac did not immediately lead to a forced mate, with the Queen and Bishop controlled enough squares around the exposed King to end the game quickly. <br /> <br /> <b>Giri,Anish (2764) - Gukesh D (2725) [D38]</b><br />Tata Steel Masters chess24.com (2.6), 15.01.2023 <script>new PgnViewer( { boardName: \"game1376\", movesFormat: \"default\", pgnString:'1.d4",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1386,7 +1394,7 @@ news_feed (
          "title" : "Tata Steel Chess 1: Ding & Abdusattorov lead"
       },
       {
-         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "description" : "From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions and 300 Most Important Tactical Chess Positions. Filled with 300 engaging chess exercises and complete solutions in the end of the book, this book will <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a>",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/",
@@ -1656,14 +1664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-6.html",
          "pubDate" : "Sun, 08 Jan 2023 14:03:00 +0000",
          "title" : "2023 Australian Open - Day 6"
-      },
-      {
-         "description" : "Magnus Carlsen, who has famously resigned his Classical world championship, has compensated by capturing the titles recently at stake at the close of December in the world Rapid and Blitz championships, held in Almaty, Kazakhstan. In these columns I have frequently maintained that chess mirrors general cultural and social trends. Such changes are indeed afoot, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/carlsen-contra-mundum/",
-         "pubDate" : "Sat, 07 Jan 2023 12:58:16 +0000",
-         "title" : "Carlsen contra mundum"
       }
    ]
 }
