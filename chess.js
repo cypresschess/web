@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The City of Świdnica, the Polish Chess Federation, the Adolf Anderssen Foundation, and the European Chess Union (ECU) have the great honour to invite all senior players throughout Europe to participate in the European Senior Team Chess Championship 2023 which will take place from 11th to 21st July 2023 in Swidnica, Poland. The event will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/",
+         "pubDate" : "Sat, 28 Jan 2023 19:23:28 +0000",
+         "title" : "European Senior Team Chess Championship 2023 - Official invitation"
+      },
+      {
+         "description" : "In his \"Fast & Furious\" show, Robert Ris goes over the exciting tactical battle played by Indian prodigies Gukesh and Praggnanandhaa at the Tata Steel Masters! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-tactical-battle",
+         "pubDate" : "Sat, 28 Jan 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A fascinating tactical battle"
+      },
+      {
          "description" : "Well do we? There have been interregnal precedents, in the days of the proto-champions; after Philidor, for example, in the late 18th century, there was no obvious successor, until the advent of Labourdonnais in 1834 (obit. 1840). Staunton became the preeminent champion in 1843, followed by Anderssen, 1851, Morphy, 1858 and Steinitz, 1866. Thereafter, the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "ChessBase 17 explained by the engineers! - The new material search"
       },
       {
-         "description" : "In an earlier episode, Svitlana taught us the King's Indian Defence. Today, we will learn all the basics about the King's Indian Attack, which is a universal setup, similar to the London System. This also means that the attack can be easily played against standard openings, like the Sicilian, the French, or the Caro-Kann. Svitlana explains, using a Bobby Fischer game, how to win against the French Defence with this interesting opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-attack-vs-sicilian-french-caro-kann",
-         "pubDate" : "Sat, 28 Jan 2023 10:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - King's Indian Attack vs. Sicilian, French & Caro-Kann"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class on the 6.Bg5 variation of the Najdorf. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/loose-bishops-drop-off",
          "pubDate" : "Sat, 28 Jan 2023 09:00:00 +0100",
          "title" : "Loose bishops drop off"
+      },
+      {
+         "description" : "In an earlier episode, Svitlana taught us the King's Indian Defence. Today, we will learn all the basics about the King's Indian Attack, which is a universal setup, similar to the London System. This also means that the attack can be easily played against standard openings, like the Sicilian, the French, or the Caro-Kann. Svitlana explains, using a Bobby Fischer game, how to win against the French Defence with this interesting opening.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-attack-vs-sicilian-french-caro-kann",
+         "pubDate" : "Sat, 28 Jan 2023 08:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - King's Indian Attack vs. Sicilian, French & Caro-Kann"
       },
       {
          "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-introduces-bullet-brawls-new-arena-options",
          "pubDate" : "Mon, 16 Jan 2023 14:25:00 -0800",
          "title" : "Introducing Bullet Brawls And New Arena Options"
-      },
-      {
-         "description" : "In his Endgame Magic Show #223 Karsten shows endgame highlights from the FIDE World Rapid Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-223-endgame-highlights-of-the-fide-world-rapid-championship",
-         "pubDate" : "Mon, 16 Jan 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #223: Endgame Highlights of the FIDE World Rapid Championship"
       },
       {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Tata Steel Masters. Jorden Van Foreest chose a highly unusual if not shocking variation of the Petroff Defence, Caruana had to work hard but eventually exposed the strategic risks he took to win the game. Magnus Carlsen's choice of the London System set only a few problems for Ding Liren before the game was drawn. FM Michiel Abeln comments on all the games below. In the Challengers Group Jergus Pechac looked to be headed for a third loss in a row but mounted a very spirited defence to score his first half point. Erwin L'Ami was too passive yesterday and perhaps a bit too active today and lost to Mustafa Yilmaz when his initiative ran out",
