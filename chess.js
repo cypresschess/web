@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White can win a piece after 18.Nxc6! Bxc6. Can you calculate the lines in your head?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/loose-bishops-drop-off",
+         "pubDate" : "Sat, 28 Jan 2023 09:00:00 +0100",
+         "title" : "Loose bishops drop off"
+      },
+      {
          "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 27 Jan 2023 20:02:05 -0800",
+         "pubDate" : "Fri, 27 Jan 2023 20:02:00 -0800",
          "title" : "Top Boards Face Off Peacefully, Maghsoodloo Sole Victor"
       },
       {
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/tata-steel.html",
          "pubDate" : "Mon, 16 Jan 2023 11:59:00 +0000",
          "title" : "Tata Steel"
-      },
-      {
-         "description" : "Magnus Carlsen and Anish Giri joined Nodirbek Abdusattorov and Ding Liren in the lead of the Tata Steel Masters tournament after winning their second-round games. Giri sacrificed material to get a remarkable victory over Gukesh, while Carlsen showed great technique to take down Vincent Keymer. In the Challengers, Eline Roebers, Alexander Donchenko and Amin Tabatabaei grabbed full points in round 2. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r2",
-         "pubDate" : "Mon, 16 Jan 2023 11:30:00 +0100",
-         "title" : "Tata Steel Chess R2: Carlsen and Giri catch up"
       },
       {
          "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/ Rs. 6250/ as the case",
