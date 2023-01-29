@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 110th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-110-play-the-sicilian-11",
+         "pubDate" : "Sun, 29 Jan 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 110: Play the Sicilian (11)"
+      },
+      {
          "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "75th Adygea Region Championship 2023 - LIVE"
       },
       {
-         "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov will enter the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and h...",
+         "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov enters the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and held ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-12",
          "pubDate" : "Sat, 28 Jan 2023 21:19:00 -0800",
-         "title" : "The Clock Ticks Down on Abdusattorov's Rivals"
+         "title" : "Clock Ticks Down on Abdusattorov's Rivals"
       },
       {
          "description" : "",
@@ -1306,14 +1314,6 @@ news_feed (
          "title" : "Caruana Defeats Swashbuckling Van Foreest to Join Leaders"
       },
       {
-         "description" : "Fabiano Caruana scored the one decisive game in round 3 of the Tata Steel Masters, as he beat Jorden van Foreest with the white pieces to join the leading pack, now comprising five players. The longest games of the day in this section saw Vincent Keymer and Arjun Erigaisi successfully defending tough positions against Praggnanandhaa and Levon Aronian, respectively. Meanwhile, six players are sharing first place in the Challengers. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r3",
-         "pubDate" : "Mon, 16 Jan 2023 23:30:00 +0100",
-         "title" : "Tata Steel Chess R3: Caruana joins the leading pack"
-      },
-      {
          "description" : "As a fan or as a player of top-level chess, whether you need a weekend chess fix or are looking for pure bullet competition, Chess.com has the event for you! We&#39;re bringing another regularly scheduled tournament for titled players to Chess.com on ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1680,22 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-extra-pawn/",
          "pubDate" : "Sun, 08 Jan 2023 19:31:38 +0000",
          "title" : "The Extra Pawn"
-      },
-      {
-         "description" : "On this blog's long-running series <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), it's inevitable that themes repeat. A few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/to-sam-with-thanks.html\">'To Sam, With Thanks'</A>(October 2022), where one of the items was:- <BLOCKQUOTE>A first edition of 'My 60 Memorable Games' signed by Bobby Fischer to his friend Saemi Rock, a.k.a. Saemundur Palsson, friend and bodyguard in 1972. </BLOCKQUOTE> <P>For this post we have a pair of related items, shown below. Both had the same title: 'World Chess Championship 1972 - original print signed b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/signed-by-fischer-spassky-and-petursson.html",
-         "pubDate" : "Sun, 08 Jan 2023 16:13:00 +0000",
-         "title" : "Signed by Fischer, Spassky, and Petursson"
-      },
-      {
-         "description" : " The 6th day of the 2023 Australian Open was the last of the double round days. Despite a scare in the morning round, GM Temur Kuybokarov maintained his full point lead, scoring 1.5/2. He drew against FM Yi Liu from a worse position before beating GM Darryl Johansen in the afternoon round. Tied for second are WGM Thi Kim Phung Ho and IM James Morris, on 7/9. While it looks like Kybokarov has the tournament wrapped up, he faces FM Chris Wallis in round 10. Wallis defeated him in the 2020 Australian Championship, a result that the chasing pack hopes could be repeated. Today was a rest day for the tournament, although the Australian Lightning Championship was held. James Morris scored a perfect",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-6.html",
-         "pubDate" : "Sun, 08 Jan 2023 14:03:00 +0000",
-         "title" : "2023 Australian Open - Day 6"
       }
    ]
 }
