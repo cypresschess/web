@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I was looking through some of the games played in last weekend's 4NCL congress when I came across this rook ending. It was played in Round 2 between Julian Cast (2015) and Arjun Pyda (1780). We'll pick up the game after White's 56th move. With his active king, Black has what should be a winning <a href=\"https://chessimprover.com/lucky-lucena/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lucky Lucena\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lucky-lucena/\">Lucky Lucena</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/lucky-lucena/",
+         "pubDate" : "Sun, 29 Jan 2023 20:00:24 +0000",
+         "title" : "Lucky Lucena"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added here soon. In a suspenseful final day, GM Anish Giri won the 2023 Tata Steel Chess Tournament with his win over GM Richard Rapport, his first victory in the super-tournament after finishing a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-13",
+         "pubDate" : "Sun, 29 Jan 2023 09:25:00 -0800",
+         "title" : "Flash Report: Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
+      },
+      {
+         "description" : " Anish Giri won the Tata Steel Masters for the first time in the best result of the Dutchman's career. Giri started the round half a point behind Abdusattorov and afterwards was grateful to his countryman Jorden Van Foreest for going for a fighting game against the leader. Giri found a way to cause his opponent Richard Rapport problems, may have missed a chance but then his opponent played 34...Kg6 which turned out to be very bad indeed and he soon brought home the full point. Abdusattorov by this time was completely lost and he couldn't find any way to resist. Magnus Carlsen caught Abdusattorov but finished third on tie-break. Giri's consistency in this event has been remarkable and was in ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-overtakes-abdusattorov-in-a-dramatic-final-round-of-the-tata-steel-masters-to-grab-his-first-title",
+         "pubDate" : "Sun, 29 Jan 2023 20:01:00 +0400",
+         "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 110th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1634,14 +1658,6 @@ news_feed (
          "title" : "FIDE Rating List - January 2023"
       },
       {
-         "description" : "The 2023 Grand Chess Tour&#39;s format is identical to last year&#39;s, with two classical events and three rapid and blitz events. The Saint Louis Rapid &#38;amp; Blitz and the Sinquefield Cup will take place in November-December, likely due to the schedulin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-grand-chess-tour-tournaments-dates",
-         "pubDate" : "Tue, 10 Jan 2023 02:44:00 -0800",
-         "title" : "2023 Grand Chess Tour: St. Louis Events Moved To November-December"
-      },
-      {
          "description" : " Round 10 of the 2023 Australian Open saw GM Temur Kuybokarov maintain his 1 point lead over the rest of the field. Up against FM Chris Wallis, he played a fairly quick draw, to move to 8.5/10. Closest rival IM James Morris also drew, to reach 7.5, where he was joined by GM Jingyao Tin, FM Yi Liu, FM Dusan Stojic, and Mars Qi, who all won their round 10 games. Today's round sees Kuybokarov up against tournament sensation, Leah Rice (SGP). Rice was seeded 90th in the event, but has scored 7/10 and is now playing on the top board in the tournaments final round. The Minor is also set for a close finish, with Benny Chan leading by half a point over Chintushig Chinbat, Jayden Arav, and Alexander ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/tournament-techincal-techniques.html",
          "pubDate" : "Mon, 09 Jan 2023 06:58:00 +0000",
          "title" : "Tournament techincal techniques"
-      },
-      {
-         "description" : " You might recall that my comeback game resulted in a rook ending which was completely drawn in spite of my opponent's extra pawn. I thought it might be useful to look in more detail at this sort of position. Here's a typical situation. Black's rook is behind White's passed pawn. The computer tells me the <a href=\"https://chessimprover.com/the-extra-pawn/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Extra Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-extra-pawn/\">The Extra Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/the-extra-pawn/",
-         "pubDate" : "Sun, 08 Jan 2023 19:31:38 +0000",
-         "title" : "The Extra Pawn"
       }
    ]
 }
