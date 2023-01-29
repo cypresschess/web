@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2194",
+         "pubDate" : "Sun, 29 Jan 2023 02:59:07 +0000",
+         "title" : "Top female chess in Munich "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2193",
+         "pubDate" : "Sun, 29 Jan 2023 02:36:21 +0000",
+         "title" : "Tata Steel Chess Masters: Abdusattorov leads going into the final round"
+      },
+      {
          "description" : "The City of Świdnica, the Polish Chess Federation, the Adolf Anderssen Foundation, and the European Chess Union (ECU) have the great honour to invite all senior players throughout Europe to participate in the European Senior Team Chess Championship 2023 which will take place from 11th to 21st July 2023 in Swidnica, Poland. The event will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
