@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;74th Open and Women National Championships 2023 Dr Wong Yip Chong Cup&#xA0;is Singapore's National Chess Championship. The tournament will take place from 27 January to 12 February 2023. Time control is 90 minutes with 30 seconds increment from move 1, and 1 round will be played per day at 11am UTC each day. There []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/74th-open-and-women-national-championships-2023-dr-wong-yip-chong-cup-live/",
+         "pubDate" : "Sun, 29 Jan 2023 08:12:13 +0000",
+         "title" : "74th Open and Women National Championships 2023 - Dr Wong Yip Chong Cup - LIVE"
+      },
+      {
+         "description" : "The Chess Mind is taking place from 28&#x2013;29 January 2023 in Rabat, Morocco. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Saad Rian, Yasser Hadj Kholti, Halim Alami, Anass Ouazri, Said Nasih, Hamza Harasse, Mohamed Lameti, Roaa Laamim, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-mind-2023-live/",
+         "pubDate" : "Sun, 29 Jan 2023 07:56:31 +0000",
+         "title" : "Chess Mind 2023 - LIVE"
+      },
+      {
+         "description" : "The 75th Adygea Region Championship is taking place from 28 January to 5 February 2023 in Maykop, Russia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolay Udovichenko, Vadim Arefyev, Sergey Sifunda, Adam Khatkhakumov, Ruslan Tleptsok, Yuri Y. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/75th-adygea-region-championship-2023-live/",
+         "pubDate" : "Sun, 29 Jan 2023 07:51:18 +0000",
+         "title" : "75th Adygea Region Championship 2023 - LIVE"
+      },
+      {
+         "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov will enter the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-12",
+         "pubDate" : "Sat, 28 Jan 2023 21:19:00 -0800",
+         "title" : "The Clock Ticks Down on Abdusattorov's Rivals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -330,14 +362,6 @@ news_feed (
          "title" : "Georgian Open & Women Rapid Chess Championships 2023 - LIVE"
       },
       {
-         "description" : "The Georgian Open &#38; Women Rapid Chess Championships 2023 kicked off today in Tbilisi and will be played from 26-28 January 2023. The events are played separately, in 9 rounds, swiss system, with time control of 15 minutes + 10 seconds increment. The top seeded players of the Open event are GM Giga Quparadze, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/georgian-open-women-rapid-chess-championships-2023/",
-         "pubDate" : "Thu, 26 Jan 2023 11:54:25 +0000",
-         "title" : "Georgian Open & Women Rapid Chess Championships 2023"
-      },
-      {
          "description" : "Magnus Carlsen beat Parham Maghsoodloo in Round 10 of the Tata Steel Masters to pick up a 3rd win in four games and move within a point of 18-year-old leader Nodirbek Abdusattorov with three rounds to go. Gukesh made it two wins in a row after a wild clash with Praggnanandhaa, while Vincent Keymer let another winning rook endgame slip, this time against Jorden van Foreest.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -352,22 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christopher-jones-selected-helpmates",
          "pubDate" : "Thu, 26 Jan 2023 12:00:00 +0100",
          "title" : "Christopher Jones: Selected Helpmates"
-      },
-      {
-         "description" : "The 18-year-old Uzbekistani grandmaster Nodirbek Abdusattorov kept the sole lead in the Tata Steel Masters 2023 after 10 played rounds. Abdusattorov yesterday drew against Ding Liren and scores 7/10 points to be half a point ahead of Anish Giri who holds clear second place. Magnus Carlsen yesterday defeated Parham Maghsoodloo, scoring his third victory in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/abdusattorov-keeps-his-lead-tata-steel-masters-r10-recap/",
-         "pubDate" : "Thu, 26 Jan 2023 10:51:44 +0000",
-         "title" : "Abdusattorov keeps his lead - Tata Steel Masters R10 recap"
-      },
-      {
-         "description" : "After 10 played rounds at the Tata Steel Challengers 2023, Mustafa Yilmaz and Alexander Donchenko co-lead with a score of 7/10 points. The German grandmaster yesterday defeated Max Warmerdam with black pieces to join Yilmaz on the top. Donchenko had a slightly better endgame which ended in his favor after Warmerdam's bad 30.Re1?? mistake. Mustafa []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mustafa-yilmaz-and-alexander-donchenko-leading-at-tata-steel-challengers-2023/",
-         "pubDate" : "Thu, 26 Jan 2023 10:41:45 +0000",
-         "title" : "Mustafa Yilmaz and Alexander Donchenko leading at Tata Steel Challengers 2023"
       },
       {
          "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
          "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
          "title" : "2023 Australian Open - Day 8"
-      },
-      {
-         "description" : "The Iranian international arbiter Shohreh Bayat was reprimanded by the International Chess Federation (FIDE) for wearing pro-human rights clothing at the 2022 Fischer Random World Chess Championship in Reykjavik. While FIDE considered it &#34;unprofes...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/iranian-chess-arbiter-shohreh-bayat-fide-t-shirt",
-         "pubDate" : "Mon, 09 Jan 2023 10:03:00 -0800",
-         "title" : "Iranian Chess Arbiter Clashes With FIDE Over Human Rights Attire"
       },
       {
          "description" : "In this blog's ongoing series covering the world's top-two ongoing engine vs. engine tournaments, the last post of 2022 was <A HREF=\"https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html\">TCEC More Interludes; CCC19 Bullet Underway</A>(December 2022). Following is a summary of that post. <BLOCKQUOTE>TCEC: Stockfish won the VVLTC, then drew the two-game SVVLTC with LCZero. KomodoDragon placed first in the top-3 section of 'Noomen Extra 2'; Ethereal placed first in the next-11 section. LCZero then won the second chess324 tournament, a half point ahead of Stockfish. The site is currently conducting '4k Testing'. &#149; CCC: After the 'CCC19 Rapid Final', there were",
