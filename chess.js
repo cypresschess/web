@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sun, 29 Jan 2023 11:50:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov is a draw against Jorden van Foreest away from at least a playoff for the Tata Steel Masters title after he drew against Wesley So in Round 12. Anish Giri, who could have caught him, survived by the skin of his teeth against Jorden, while Magnus Carlsen called his missed win against Praggnanandhaa a \"backbreaker\". Alexander Donchenko will play next year's Masters after winning the Challengers with a round to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tata-steel-chess-12-abdusattorov-on-brink-as-carlsen-misses-win",
+         "pubDate" : "Sun, 29 Jan 2023 08:36:17 +0000",
+         "title" : "Tata Steel 12: Abdusattorov on brink as Carlsen misses win"
+      },
+      {
          "description" : "The&#xA0;74th Open and Women National Championships 2023 Dr Wong Yip Chong Cup&#xA0;is Singapore's National Chess Championship. The tournament will take place from 27 January to 12 February 2023. Time control is 90 minutes with 30 seconds increment from move 1, and 1 round will be played per day at 11am UTC each day. There []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.thearticle.com/does-chess-have-a-world-champion/",
          "pubDate" : "Sat, 28 Jan 2023 15:41:02 +0000",
          "title" : "Does chess have a world champion?"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sat, 28 Jan 2023 13:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " GM Temur Kuybokarov and WGM Julia Ryjanova have won the Open and Womens Zone 3.6 Championship. While Ryjanova won her event outright (8/9), Kuybokarov had to win a playoff against IM Gary Lane to claim the title. Going into the final round GM Zong Yuan Zhao held a half point lead over the field, but IM Stephen Solomon threw the tournament wide open after beating Zhao. One the other results had come in, there was a 6 way tie for first, involving Kuybokarov, Lane, FM Patrick Gong, FM Yi Liu, Solomon, and IM James Morris (all on 7.5). The playoff was between the top 2 finishers on count back (Kuybokarov and Lane), which Kuybokarov won 2-0. FM Patrick Gong finished 3rd on tie-break, but as it w",
@@ -1456,14 +1464,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/ding-and-abdusattorov-win-in-the-first-round-of-the-tata-steel-masters-2023",
          "pubDate" : "Sat, 14 Jan 2023 19:26:00 +0400",
          "title" : "Ding and Abdusattorov win in the first round of the Tata Steel Masters 2023 - 1"
-      },
-      {
-         "description" : "Magnus Carlsen is chasing his 9th victory in Wijk aan Zee, but does not take anything for granted and considers this year's event a fun, exciting challenge. The unlikely target of breaking the 2900 barrier has been put on hold, the world champion says.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-on-2900-target-i-ve-put-that-goal-on-hold-a-bit",
-         "pubDate" : "Sat, 14 Jan 2023 13:47:00 +0000",
-         "title" : "Carlsen on 2900 target: \"I've put that goal on hold a bit\""
       },
       {
          "description" : "Close observers of the Spare saga will have observed Prince Harry's claim to have terminated twenty-five Taliban fighters during his tour of duty in Afghanistan. Furthermore, his controversial justification that he saw his victims as hostile chess pieces to be swept from the board, rather than genuine human beings. The reaction to the Princely assertion []",
