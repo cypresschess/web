@@ -18,6 +18,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A fascinating tactical battle"
       },
       {
+         "description" : " Nodirbek Abdusattorov takes a half point lead into the final round of the Tata Steel Masters over Anish Giri. There was no change at the top of the standings with wins for Richard Rapport over Ding Liren and Parham Maghsoodloo over Arjun Erigaisi having no impact on who will win the event. Abdusattorov had few problems holding a draw with black against Wesley So today, this wasn't the case for Anish Giri who was lost at one stage against Jorden Van Foreest who came armed with a fabulous opening idea but kept himself in with a chance by eventually holding the draw in the final game to finish. Magnus Carlsen was very disappointed not to get himself into the mix with a win over R Praggnanandha",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-keeps-his-lead-going-into-the-final-round-of-the-tata-steel-masters",
+         "pubDate" : "Sat, 28 Jan 2023 20:38:00 +0400",
+         "title" : "Abdusattorov keeps his lead going into the final round of the Tata Steel Masters - 12"
+      },
+      {
          "description" : "Well do we? There have been interregnal precedents, in the days of the proto-champions; after Philidor, for example, in the late 18th century, there was no obvious successor, until the advent of Labourdonnais in 1834 (obit. 1840). Staunton became the preeminent champion in 1843, followed by Anderssen, 1851, Morphy, 1858 and Steinitz, 1866. Thereafter, the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1402,7 +1410,7 @@ news_feed (
          "title" : "Tata Steel Chess 1: Ding & Abdusattorov lead"
       },
       {
-         "description" : "From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions and 300 Most Important Tactical Chess Positions. Filled with 300 engaging chess exercises and complete solutions in the end of the book, this book will <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a>",
+         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
          "link" : "http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/",
