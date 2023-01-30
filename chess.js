@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2196",
+         "pubDate" : "Sun, 29 Jan 2023 23:45:17 +0000",
+         "title" : "Breaking barriers: The inaugural Chess Olympiad for people with disabilities opened in Belgrade"
+      },
+      {
+         "description" : "Anish Giri, five times the runner-up in Wijk aan Zee, has won the 85th edition of Tata Steel Chess after pouncing on a blunder by Richard Rapport while Jorden van Foreest took down long-term leader Nodirbek Abdusattorov. Magnus Carlsen beat Arjun Erigaisi on demand to catch Nodirbek in a tie for 2nd place, while Wesley So finished 4th.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anish-giri-wins-his-1st-tata-steel-masters",
+         "pubDate" : "Sun, 29 Jan 2023 23:34:20 +0000",
+         "title" : "Anish Giri wins his 1st Tata Steel Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2195",
+         "pubDate" : "Sun, 29 Jan 2023 23:20:55 +0000",
+         "title" : "Anish Giri wins Tata Steel Masters 2023"
+      },
+      {
+         "description" : "The first-ever Chess Olympiad for People with Disabilities represents a historic event for FIDE and the chess world. From the 29th of January to the 5th of February, the Serbian capital will host the event. Thirty-three countries and three international squads have registered to take part in this team competition. They are led by Poland, the winner of the 2020 Online Olympiad for people with disabilities, and Hungary, the two highest-rated teams.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/olympiad-people-with-disabilities-announcement",
+         "pubDate" : "Sun, 29 Jan 2023 23:15:00 +0100",
+         "title" : "The first Olympiad for People with Disabilities: A milestone for chess"
+      },
+      {
          "description" : " I was looking through some of the games played in last weekend's 4NCL congress when I came across this rook ending. It was played in Round 2 between Julian Cast (2015) and Arjun Pyda (1780). We'll pick up the game after White's 56th move. With his active king, Black has what should be a winning <a href=\"https://chessimprover.com/lucky-lucena/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lucky Lucena\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lucky-lucena/\">Lucky Lucena</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Lucky Lucena"
       },
       {
-         "description" : "This is a flash report. The full report will be added here soon. In a suspenseful final day, GM Anish Giri won the 2023 Tata Steel Chess Tournament with his win over GM Richard Rapport, his first victory in the super-tournament after finishing a...",
+         "description" : "On a suspenseful final day, GM Anish Giri won the 2023 Tata Steel Chess Tournament with his triumph over GM Richard Rapport, his first victory in the super-tournament after finishing as the runner-up five times. This tournament victory was made po...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-13",
          "pubDate" : "Sun, 29 Jan 2023 09:25:00 -0800",
-         "title" : "Flash Report: Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
+         "title" : "Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
       },
       {
          "description" : " Anish Giri won the Tata Steel Masters for the first time in the best result of the Dutchman's career. Giri started the round half a point behind Abdusattorov and afterwards was grateful to his countryman Jorden Van Foreest for going for a fighting game against the leader. Giri found a way to cause his opponent Richard Rapport problems, may have missed a chance but then his opponent played 34...Kg6 which turned out to be very bad indeed and he soon brought home the full point. Abdusattorov by this time was completely lost and he couldn't find any way to resist. Magnus Carlsen caught Abdusattorov but finished third on tie-break. Giri's consistency in this event has been remarkable and was in ",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
       },
       {
+         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
+         "pubDate" : "Sun, 29 Jan 2023 15:15:00 +0100",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 110th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +74,12 @@ news_feed (
          "title" : "Understanding before Moving 110: Play the Sicilian (11)"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "Nodirbek Abdusattorov continues to lead the standings with one round to go at the Tata Steel Masters. Anish Giri, who is in sole second place a half point back, escaped with a draw from an exciting game against Jorden van Foreest. Magnus Carlsen, on his part, failed to convert his advantage into a full point against Praggnanandhaa. Meanwhile, in the Challengers, Alexander Donchenko scored a third consecutive win and secured first place with a round to spare. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sun, 29 Jan 2023 11:50:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r12",
+         "pubDate" : "Sun, 29 Jan 2023 14:30:00 +0100",
+         "title" : "Tata Steel Chess R12: Riveting draws, Donchenko wins Challengers"
       },
       {
          "description" : "Nodirbek Abdusattorov is a draw against Jorden van Foreest away from at least a playoff for the Tata Steel Masters title after he drew against Wesley So in Round 12. Anish Giri, who could have caught him, survived by the skin of his teeth against Jorden, while Magnus Carlsen called his missed win against Praggnanandhaa a \"backbreaker\". Alexander Donchenko will play next year's Masters after winning the Challengers with a round to spare.",
@@ -1162,14 +1202,6 @@ news_feed (
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
       },
       {
-         "description" : "Round 4 of the Tata Steel Masters saw the two highest-rated players in the world losing on adjacent boards, as Anish Giri and Praggnanandhaa defeated Magnus Carlsen and Ding Liren respectively. Giri is now sharing the lead with Nodirbek Abdusattorov, who got the better of Parham Maghsoodloo. In the Challengers, four decisive results left three players sharing the lead on 3/4 points. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r4",
-         "pubDate" : "Wed, 18 Jan 2023 05:20:00 +0100",
-         "title" : "Tata Steel Chess R4: Giri beats Carlsen, Pragg stuns Ding"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1296,14 +1328,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-3-fabi-joins-leaders-as-ding-holds-magnus",
          "pubDate" : "Tue, 17 Jan 2023 09:06:19 +0000",
          "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
-      },
-      {
-         "description" : "In the diagram position both sides have dangerous passed pawns. But it is Black to move - and he can win by making the most of his passed pawns. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-3",
-         "pubDate" : "Tue, 17 Jan 2023 09:00:00 +0100",
-         "title" : "The power of passed pawns"
       },
       {
          "description" : "35th MPL National U-09 Certificates are out to download. Download using the link given. Any Correction mail at aicfwebmaster2021@gmail.com",
@@ -1456,14 +1480,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
          "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
          "title" : "Ding, Abdusattorov Score First Victories"
-      },
-      {
-         "description" : "World no. 2 Ding Liren was at his terrifying best as he beat Gukesh in Round 1 of the Tata Steel Masters. 18-year-old Nodirbek Abdusattorov scored the only other win, against Richard Rapport, while Magnus Carlsen, Anish Giri and Vincent Keymer missed chances. That was nothing, however, compared to the misses in the Challengers, where Abhimanyu Mishra and Max Warmerdam took the early lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-1-ding-abdusattorov-lead",
-         "pubDate" : "Sun, 15 Jan 2023 00:24:39 +0000",
-         "title" : "Tata Steel Chess 1: Ding & Abdusattorov lead"
       },
       {
          "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
