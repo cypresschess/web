@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By IM Michael Rahal (Barcelona, Spain)&#160; &#160;&#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; The second event of the 2022-2023 Women's Grand Prix Series will kick off []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/top-female-chess-in-munich/",
+         "pubDate" : "Mon, 30 Jan 2023 16:25:06 +0000",
+         "title" : "Top female chess in Munich"
+      },
+      {
+         "description" : "European Chess Union today published the official statement on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF). The complete statement can be found below: &#8220;The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-publishes-the-official-statement-on-the-possible-transfer-of-the-russian-chess-federation-to-the-asian-chess-federation/",
+         "pubDate" : "Mon, 30 Jan 2023 16:16:06 +0000",
+         "title" : "ECU publishes the official statement on the possible transfer of the Russian Chess Federation to the Asian Chess Federation"
+      },
+      {
+         "description" : "In the historic building of the National Assembly of Serbia, players from all continents, FIDE officials, members of the Serbian government, chess celebrities and guests gathered to inaugurate the first-ever Chess Olympiad for people with disabilities. The Serbian National Assembly building is a majestic and breathtaking structure. It has been the epicentre of many historic []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-1st-chess-olympiad-for-people-with-disabilities-opened-in-belgrade/",
+         "pubDate" : "Mon, 30 Jan 2023 16:12:26 +0000",
+         "title" : "The 1st Chess Olympiad for People with Disabilities opened in Belgrade"
+      },
+      {
+         "description" : "With Sara Khadem Iran has lost another top chess player. The 2018 rapid and blitz vice world champion has moved to Spain with her family, but plans to continue playing under the Iranian flag. The well-known Spanish journalist Leontxo Garcia met with her and published a portrait of the young Iranian woman in the Spanish newspaper \"El Pais\". | Photo: El Pais",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sarah-khadem-a-portrait",
+         "pubDate" : "Mon, 30 Jan 2023 17:00:00 +0100",
+         "title" : "Sarah Khadem - a portrait"
+      },
+      {
+         "description" : "Anish Giri, five times the runner-up in Wijk aan Zee, has won the 85th edition of&#xA0;Tata Steel Chess&#xA0;after pouncing on a blunder by&#xA0;Richard Rapport&#xA0;while&#xA0;Jorden van Foreest&#xA0;took down long-term leader&#xA0;Nodirbek Abdusattorov. Magnus Carlsen&#xA0;beat Arjun Erigaisi on demand to catch Nodirbek in a tie for 2nd place, while&#xA0;Wesley So&#xA0;finished 4th. Nodirbek Abdusattorov&#xA0;led the 2023&#xA0;Tata Steel Masters&#xA0;after every []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-is-the-winner-of-the-tata-steel-masters-2023/",
+         "pubDate" : "Mon, 30 Jan 2023 15:42:38 +0000",
+         "title" : "Anish Giri is the Winner of the Tata Steel Masters 2023"
+      },
+      {
+         "description" : "The 85th jubilee edition of the Tata Steel Chess took place from 14th-29th January 2023 in Wijk aan Zee, the Netherlands. The &#8220;Wimbledon of Chess&#8221; featured Masters, Challengers, and Amateur events simultaneously played in the same venue. GM Anish Giri (NED, 2764) won the Masters event after a thrilling final round. Giri defeated Richard Rapport (ROU, 2740) to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/",
+         "pubDate" : "Mon, 30 Jan 2023 14:50:07 +0000",
+         "title" : "Anish Giri wins Tata Steel Masters 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2197",
+         "pubDate" : "Mon, 30 Jan 2023 14:48:36 +0000",
+         "title" : "Tolerance Games, Asian Chess Women's Contest, set for February 06"
+      },
+      {
+         "description" : "The second event of the 2022-2023 Women's Grand Prix Series will kick off on Thursday in Munich, the capital of the state of Bavaria. Twelve of the world's top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct qualification to the 2023-2024 FIDE Women's Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-female-chess-in-munich",
+         "pubDate" : "Mon, 30 Jan 2023 15:00:00 +0100",
+         "title" : "Top female chess in Munich"
+      },
+      {
+         "description" : "The Tata Steel Challengers 2023 concluded yesterday in Wijk aan Zee with Alexander Donchenko lifting the Winner trophy and earning a starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Alexander Donchenko won the Challengers event with a round to spare. With a last-round victory over Velimir Ivic, Donchenko kept the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexander-donchenko-wins-tata-steel-challengers-2023/",
+         "pubDate" : "Mon, 30 Jan 2023 13:45:00 +0000",
+         "title" : "Alexander Donchenko wins Tata Steel Challengers 2023"
+      },
+      {
+         "description" : " Last round games can do strange things to chess players. The final round of the 2023 Tata Steel tournament saw a dramatic change in the final standings, as did the last round of the 2023 Oceania Zonal. Often it is the player with the least to lose starts with the upper hand, and simply has to wait for the mistake. For the players in the 2023 Zonal, this is in fact what happened, resulting in not only a 6 way tie for 1st, but an IM title for FM Patrick Gong. <br /> <b>Solomon,Stephen - Zhao,Zong Yuan [C90]</b><br />2023 Oceania Zonal, 29.01.2023 <script>new PgnViewer( { boardName: \"game1379\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/last-round-dramas.html",
+         "pubDate" : "Mon, 30 Jan 2023 13:14:00 +0000",
+         "title" : "Last round dramas"
+      },
+      {
          "description" : "The Russian Chess Federation has advised the European Chess Union that they have applied for membership of the Asian Chess Federation, and that they intend to withdraw from the ECU as soon as they have been admitted. The ECU acknowledges that the invasion and war in Ukraine, has obliged the IOC and international sports federations to take difficult decisions and firm positions, and that the intention of sanctions is not to punish individual athletes, especially those players who have not acted against the peace mission of sports. ECU press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,14 +386,6 @@ news_feed (
          "title" : "1000GM St. Louis IM 2023 - LIVE"
       },
       {
-         "description" : "The 1000GM St. Louis GM 2023 is taking place 25-29 January 2023 in St. Louis, USA. Players receive 90 minutes for the entire game + 30 seconds increment starting from move one. It is 9-round Schiller system tournament with participation of Raja Harshit, Luka Budisavljevic, Denes Boros, Ezra Paul Chambers, Konstantin Kavutskiy,&#xA0;Aarav Dengla, Tianqi Wang, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-st-louis-gm-2023-live/",
-         "pubDate" : "Fri, 27 Jan 2023 21:29:27 +0000",
-         "title" : "1000GM St. Louis GM 2023 - LIVE"
-      },
-      {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find five such mini-lessons here. Enjoy! | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +448,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
          "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
          "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
-      },
-      {
-         "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tata-steel-chess-2023-round-11-live/",
-         "pubDate" : "Fri, 27 Jan 2023 09:30:00 +0000",
-         "title" : "Tata Steel Chess 2023 - Round 11 live"
       },
       {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
@@ -466,36 +530,12 @@ news_feed (
          "title" : "First International Solving Championships of 2023 announced"
       },
       {
-         "description" : "Samvel Ter-Sahakyan emerged as the new leader of the FIDE Circuit race following his victory in the 83rd Armenian Championship. The champion picked up 7.4 points and edged out the winner of the Rilton Cup, IM&#160;Pranesh M, to the second position. The runner-up of the Armenian Championship,&#160;Manuel Petrosyan,&#160;closes out the top three. FIDE Circuit Race []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/samvel-ter-sahakyan-takes-lead-in-the-fide-circuit-race/",
-         "pubDate" : "Thu, 26 Jan 2023 12:08:28 +0000",
-         "title" : "Samvel Ter-Sahakyan takes lead in the FIDE Circuit race"
-      },
-      {
          "description" : " GM Zong Yuan Zhao is is outright first after round 6 of the 2023 Oceania Zonal, with 6 wins from 6 games. In today's only round he beat Rebo Fu, while GM Temur Kuybokarov and FM Patrick Gong drew. Kuybokarov and Gong share 2nd place on 5.5, while there is a large pack of players on 5/6. In the Women's event WGM Julia Ryjanova has also scored 6/6 and leads by 1.5 points. Sharing 2nd place are WGM Jilin Zhang, Luna Xu, and Om O'Carroll. Again there is a large group of players on 4 points hoping to catch Ryjanova. Tomorrow there will be 2 rounds, starting at 10am. Board 1 sees Kuybokarov v Zhao, while FM Patrick Gong is up against IM Igor Bjelobrk. Gong is not only hoping for a win in this gam",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-after-round-6.html",
          "pubDate" : "Thu, 26 Jan 2023 12:03:00 +0000",
          "title" : "2023 Oceania Zonal - After round 6"
-      },
-      {
-         "description" : "1.1 The International Chess Federation (FIDE) will hold the Candidates and Women&#x2019;s Candidates Tournaments together in April 2024. The Regulations for both events shall be approved by 1 July 2023. 1.2 The basic provisions are the following:&#160; a) Number of participants in each event &#x2013; 8b) Total duration &#x2013; up to 22 daysc) Recommended combined []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-opens-a-bidding-procedure-for-fide-candidates-tournaments-2024/",
-         "pubDate" : "Thu, 26 Jan 2023 12:00:57 +0000",
-         "title" : "FIDE opens a bidding procedure for FIDE Candidates Tournaments 2024"
-      },
-      {
-         "description" : "The&#xA0;Georgian Open &#38; Women Rapid Chess Championships 2023&#xA0;are taking place from 26-28 January 2023 in Tbilisi. The events are played separately, in 9 rounds, swiss system, with time control of 15 minutes + 10 seconds increment. Live games:",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/georgian-open-women-rapid-chess-championships-2023-live/",
-         "pubDate" : "Thu, 26 Jan 2023 11:57:09 +0000",
-         "title" : "Georgian Open & Women Rapid Chess Championships 2023 - LIVE"
       },
       {
          "description" : "Magnus Carlsen beat Parham Maghsoodloo in Round 10 of the Tata Steel Masters to pick up a 3rd win in four games and move within a point of 18-year-old leader Nodirbek Abdusattorov with three rounds to go. Gukesh made it two wins in a row after a wild clash with Praggnanandhaa, while Vincent Keymer let another winning rook endgame slip, this time against Jorden van Foreest.",
@@ -1194,22 +1234,6 @@ news_feed (
          "title" : "Tata Steel Challengers: Yilmaz grabs the lead"
       },
       {
-         "description" : "In his \"Game of the Week\" show #551 Merijn van Delft takes a look how Anish Giri won against Magnus Carlsen in round 4 of the Masters at the Tata Steel Tournament in Wijk aan Zee. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-551-a-giri-vs-m-carlsen",
-         "pubDate" : "Wed, 18 Jan 2023 19:00:00 +0100",
-         "title" : "Game of the Week #551: A. Giri vs M. Carlsen"
-      },
-      {
-         "description" : "For much of its storied existence, Howard University in Washington D.C. - a historically Black university located in America's capital city - has been known as \"The Mecca of Black Education,\" or just \"The Mecca\". This year, at the Pan-American Intercollegiate Team Championship the Howard University Chess Club achieved the best result it has ever achieved in the Team Championship. A success that is partly due to hard training and the help of Jerald Times, an award-winning chess educator from New York City, and Tani Adewumi, the 12-year old chess talent from Nigeria, who helped the team to prepare. | Photo: (from left to right: Goodness Atanda, Lawrence D. Custis, Samir Acharya, Malcolm Wooten",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/known-as-the-mecca-of-black-education-howard-university-seeks-to-make-its-mark-in-the-world-of-college-chess",
-         "pubDate" : "Wed, 18 Jan 2023 18:00:00 +0100",
-         "title" : "Howard University, \"The Mecca of Black Education,\" seeks to make its mark in the world of college chess"
-      },
-      {
          "description" : "GM Daniil Dubov became the first two-time Titled Tuesday winner of 2023 on January 17 and was followed by GM Hikaru Nakamura entering the winner&#39;s circle for the first time this year. Both scored 9.5/11, Dubov winning on tiebreaks over GM Denis La...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
          "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
          "title" : "2023 Australian Open - Day 8"
-      },
-      {
-         "description" : "In this blog's ongoing series covering the world's top-two ongoing engine vs. engine tournaments, the last post of 2022 was <A HREF=\"https://chessforallages.blogspot.com/2022/12/tcec-more-interludes-ccc19-bullet.html\">TCEC More Interludes; CCC19 Bullet Underway</A>(December 2022). Following is a summary of that post. <BLOCKQUOTE>TCEC: Stockfish won the VVLTC, then drew the two-game SVVLTC with LCZero. KomodoDragon placed first in the top-3 section of 'Noomen Extra 2'; Ethereal placed first in the next-11 section. LCZero then won the second chess324 tournament, a half point ahead of Stockfish. The site is currently conducting '4k Testing'. &#149; CCC: After the 'CCC19 Rapid Final', there were",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html",
-         "pubDate" : "Mon, 09 Jan 2023 16:05:00 +0000",
-         "title" : "TCEC Cup 11 Underway; CCC19 Bullet in Semifinals"
       }
    ]
 }
