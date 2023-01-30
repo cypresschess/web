@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Endgame Magic Show #225 Karsten shows endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-225-endgame-highlights-of-the-tata-steel-tournament-2023",
+         "pubDate" : "Mon, 30 Jan 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #225: Endgame Highlights of the Tata Steel Tournament 2023"
+      },
+      {
          "description" : "By IM Michael Rahal (Barcelona, Spain)&#160; &#160;&#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; The second event of the 2022-2023 Women's Grand Prix Series will kick off []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -162,14 +170,6 @@ news_feed (
          "title" : "Lucky Lucena"
       },
       {
-         "description" : "On a suspenseful final day, GM Anish Giri won the 2023 Tata Steel Chess Tournament with his triumph over GM Richard Rapport, his first victory in the super-tournament after finishing as the runner-up five times. This tournament victory was made po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-13",
-         "pubDate" : "Sun, 29 Jan 2023 09:25:00 -0800",
-         "title" : "Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
-      },
-      {
          "description" : "While it's true that in the mechanical world the squeaking wheel gets the oil and in the online world the loudest 'influencers' get the most views, it's often their softer-spoken brethren who end up making the biggest difference. That's this month's thought to introduce the latest post in this blog's long-running series about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/cVEbsXRW9Tw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfull",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -240,14 +240,6 @@ news_feed (
          "link" : "https://www.chessdom.com/75th-adygea-region-championship-2023-live/",
          "pubDate" : "Sun, 29 Jan 2023 07:51:18 +0000",
          "title" : "75th Adygea Region Championship 2023 - LIVE"
-      },
-      {
-         "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov enters the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and held ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 28 Jan 2023 21:19:00 -0800",
-         "title" : "Clock Ticks Down on Abdusattorov's Rivals"
       },
       {
          "description" : "",
@@ -336,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-attack-vs-sicilian-french-caro-kann",
          "pubDate" : "Sat, 28 Jan 2023 08:00:00 +0100",
          "title" : "Svitlana's Smart Moves - King's Indian Attack vs. Sicilian, French & Caro-Kann"
-      },
-      {
-         "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 27 Jan 2023 20:02:00 -0800",
-         "title" : "Top Boards Face Off Peacefully, Maghsoodloo Sole Victor"
       },
       {
          "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
@@ -554,14 +538,6 @@ news_feed (
          "title" : "Christopher Jones: Selected Helpmates"
       },
       {
-         "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 25 Jan 2023 20:49:00 -0800",
-         "title" : "Carlsen Rises With 3 Rounds Left"
-      },
-      {
          "description" : "Magnus Carlsen and Dommaraju Gukesh continued their good runs of results in round 10 of the Tata Steel Masters, as they scored full points in the only two decisive games of the day. Carlsen has won three games in the last four rounds and is now sharing third place with Wesley So, while Gukesh won two out of his last three encounters to recover from a subpar start in Wijk aan Zee. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +568,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-moves-closer-to-the-leader-after-10-rounds-of-the-tata-steel-masters",
          "pubDate" : "Wed, 25 Jan 2023 21:20:00 +0400",
          "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
-      },
-      {
-         "description" : "GM Hikaru Nakamura was victorious in another Titled Tuesday on January 24, his second in a row. Nakamura started 6/6, went undefeated, and scored 9.5/11 to defeat GMs Baadur Jobava and Matthias Bluebaum on tiebreaks. There was only one tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-january-24-2023",
-         "pubDate" : "Wed, 25 Jan 2023 08:00:19 -0800",
-         "title" : "Nakamura Wins Another Tuesday"
       },
       {
          "description" : "The 1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#160;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds are Prague&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/\">Read More &#187;</a></span>",
@@ -698,14 +666,6 @@ news_feed (
          "title" : "Tata Steel Masters: Abdusattorov survives scare, Giri moves up to second place"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov maintained his lead with a nearly seven-hour display of exceptional defensive technique vs. GM Vincent Keymer in round nine of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Anish Giri is now in a close second, narrowing th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 24 Jan 2023 16:26:00 -0800",
-         "title" : "Giri Defeats Ding, Narrows Abdusattorov's Lead"
-      },
-      {
          "description" : " Today is a travel day for me. Heading down to Melbourne in a couple of hours to catch the end of the 2023 Oceania Zonal (and to hold at least one important meeting). By the time I touch down, four and a bit rounds should be completed, and a clearer picture of the eventual results should emerge. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -752,14 +712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-continues-to-lead-the-tata-steel-masters-after-surviving-lost-position-against-keymer-in-round-9",
          "pubDate" : "Tue, 24 Jan 2023 22:54:00 +0400",
          "title" : "Abdusattorov continues to lead the Tata Steel Masters after surviving lost position against Keymer in Round 9 - 9"
-      },
-      {
-         "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour&#38;mdash;making it the richest and most prestigious annual circuit in chess history. The new season kicks off February 3 with the Airthings Masters; the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-launches-2023-champions-chess-tour",
-         "pubDate" : "Tue, 24 Jan 2023 07:46:00 -0800",
-         "title" : "A New Beginning: Chess.com Launches $2m Champions Chess Tour"
       },
       {
          "description" : "Magnus Carlsen and Wesley So play the Airthings Masters from February 6 till 10, as the all-new $2 million Champions Chess Tour begins. The remaining six places in the top group are open to any grandmaster, with the players battling it out on Chess.com on February 3. The Tour season will culminate in December with 8-player Playoffs and a 4-player Finals to decide who takes the online crown and a $200,000 top prize.",
@@ -858,14 +810,6 @@ news_feed (
          "title" : "Tata Steel Masters: Abdusattorov is in front going into second rest day"
       },
       {
-         "description" : "GM Magnus Carlsen&#38;nbsp;defeated his longtime rival GM Fabiano Caruana in round eight of the 2023 Tata Steel Chess Tournament, inching up the scoreboard, back on plus-one with his third victory. GM Nodirbek Abdusattorov maintained his full-point le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 22 Jan 2023 15:12:00 -0800",
-         "title" : "Carlsen Overcomes Caruana, Spearheads Day of Four Victories"
-      },
-      {
          "description" : "Thanks to dedicated individuals who follow their own heart's pursuits, ancient chess variants are still alive today. An overwhelming number of enthusiasts and associations throughout the world cultivate old variants and other board games. Among them is Greg Myers, founder of the 'Tamerlane Chess Club' in Jamestown, New York.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -946,14 +890,6 @@ news_feed (
          "title" : "Tata Steel Chess R7: Abdusattorov extends his lead"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov was one of four winners in the seventh round of the 2023 Tata Steel Chess Tournament and moved to 5.5/7 after scoring his fourth win of the event over GM Arjun Erigaisi on Saturday. The 18-year-old was joined in the winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 21 Jan 2023 18:53:00 -0800",
-         "title" : "Abdusattorov Extends Lead In Round Of Decisive Games"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1018,36 +954,12 @@ news_feed (
          "title" : "Tata Steel Chess R6: So and Caruana score"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 20 Jan 2023 19:06:00 -0800",
-         "title" : "So Scores First Win, Caruana Joins Chase After Abdusattorov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2182",
          "pubDate" : "Fri, 20 Jan 2023 23:00:57 +0000",
          "title" : "Tata Steel Masters: Abdusattorov stays in front"
-      },
-      {
-         "description" : "He&#39;s the 15th world chess champion, five-time world champion, and one of the greatest chess players of all time. India&#39;s first grandmaster, his career as a chess star has spanned five decades and lasted from his teenage years into his 50s. He has ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/viswanathan-anand-chesscom-course",
-         "pubDate" : "Fri, 20 Jan 2023 14:09:00 -0800",
-         "title" : "Take Vishy Anand's Chess.com Course Today!"
-      },
-      {
-         "description" : "The Ukrainian GM Kirill Shevchenko has changed federations to Romania, the Romanian Chess Federation announced on Thursday. GM Richard Rapport, the world number-17, also switched federations from Hungary last year. Rated 2662, Shevchenko is now th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukranian-gm-shevchenko-to-play-for-romania",
-         "pubDate" : "Fri, 20 Jan 2023 12:15:00 -0800",
-         "title" : "Ukranian GM Shevchenko To Play For Romania"
       },
       {
          "description" : "In his new Power Play Show Daniel King takes a look at the King's Gambit, which was tried in an interesting game in the Wijk aan Zee Challengers tournament. King, who authored two ChessBase courses about the King's Gambit, was fascinated and astonished. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1130,14 +1042,6 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
       },
       {
-         "description" : "In their first-ever classical encounter, 18-year-old GM Nodirbek Abdusattorov with the black pieces defeated GM Magnus Carlsen in round five of the 2023 Tata Steel Chess Tournament. With his previous round&#39;s victory vs. GM Parham Maghsoodloo, Abdu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-5",
-         "pubDate" : "Thu, 19 Jan 2023 15:16:00 -0800",
-         "title" : "Abdusattorov Gives Carlsen His 1st 2-Game Losing Streak in 8 Years"
-      },
-      {
          "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters after inflicting Magnus Carlsen's second consecutive loss. A memorable round, played at the Johan Cruyff Arena in Amsterdam, also saw Arjun Erigaisi finding a tactical recourse to all but force a draw from an inferior position against Ding Liren, while Levon Aronian and Parham Maghsoodloo both scored full points with the white pieces. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-concept-in-the-ragozin",
          "pubDate" : "Thu, 19 Jan 2023 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A new concept in the Ragozin"
-      },
-      {
-         "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
-         "pubDate" : "Thu, 19 Jan 2023 09:32:00 -0800",
-         "title" : "Astana To Host Ding-Nepomniachtchi FIDE World Chess Championship Match"
       },
       {
          "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen's withdrawal. The General Partner of the event, which boasts a sensational prize fund of 2 million euros, will be Freedom Holding Corp, a US-based corporation with Kazakh roots.",
@@ -1226,22 +1122,6 @@ news_feed (
          "title" : "Magnus Carlsen plays this year's revived Qatar Masters"
       },
       {
-         "description" : "Round 5 of the Tata Steel Challengers tournament took place on Wednesday, while the participants of the Masters had their first rest day. Three decisive results left Mustafa Yilmaz as the sole leader in the standings. The Turkish champion defeated top seed Amin Tabatabaei with the black pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r5-a",
-         "pubDate" : "Thu, 19 Jan 2023 01:00:00 +0100",
-         "title" : "Tata Steel Challengers: Yilmaz grabs the lead"
-      },
-      {
-         "description" : "GM Daniil Dubov became the first two-time Titled Tuesday winner of 2023 on January 17 and was followed by GM Hikaru Nakamura entering the winner&#39;s circle for the first time this year. Both scored 9.5/11, Dubov winning on tiebreaks over GM Denis La...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-january-17-2023",
-         "pubDate" : "Wed, 18 Jan 2023 08:27:00 -0800",
-         "title" : "Nakamura Arrives, Dubov Repeats"
-      },
-      {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1272,14 +1152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/trading-and-counting-beginner-breakdown",
          "pubDate" : "Wed, 18 Jan 2023 02:13:29 +0000",
          "title" : "Trading and Counting | Beginner Breakdown"
-      },
-      {
-         "description" : "On Tuesday, GM Anish Giri overcame GM Magnus Carlsen in classical chess for the first time in over a decade in round four of the 2023 Tata Steel Chess Tournament. GM Nodirbek Abdusattorov displayed unstoppable precision to defeat GM Parham Maghsoo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 17 Jan 2023 17:33:00 -0800",
-         "title" : "A Day of Masterpieces: Giri Claims 1st Victory vs. Carlsen in 12 Years"
       },
       {
          "description" : "Anish Giri called it a \"historic moment\" as he beat Magnus Carlsen in Wijk aan Zee 12 years to the day after he last won a classical game against Magnus. The day would get even more dramatic as 17-year-old Praggnanandhaa played a stunning endgame to defeat world no. 2 Ding Liren, while Nodirbek Abdusattorov joined Giri in the lead by taking down Parham Maghsoodloo.",
@@ -1410,22 +1282,6 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
       },
       {
-         "description" : "GM Fabiano Caruana scored the sole victory of round three vs. GM Jorden van Foreest at the 2023 Tata Steel Chess Tournament. The young Dutch grandmaster threw the game into thrilling, swashbuckling waters out of the opening, but Caruana countered ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 16 Jan 2023 15:02:00 -0800",
-         "title" : "Caruana Defeats Swashbuckling Van Foreest to Join Leaders"
-      },
-      {
-         "description" : "As a fan or as a player of top-level chess, whether you need a weekend chess fix or are looking for pure bullet competition, Chess.com has the event for you! We&#39;re bringing another regularly scheduled tournament for titled players to Chess.com on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-introduces-bullet-brawls-new-arena-options",
-         "pubDate" : "Mon, 16 Jan 2023 14:25:00 -0800",
-         "title" : "Introducing Bullet Brawls And New Arena Options"
-      },
-      {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Tata Steel Masters. Jorden Van Foreest chose a highly unusual if not shocking variation of the Petroff Defence, Caruana had to work hard but eventually exposed the strategic risks he took to win the game. Magnus Carlsen's choice of the London System set only a few problems for Ding Liren before the game was drawn. FM Michiel Abeln comments on all the games below. In the Challengers Group Jergus Pechac looked to be headed for a third loss in a row but mounted a very spirited defence to score his first half point. Erwin L'Ami was too passive yesterday and perhaps a bit too active today and lost to Mustafa Yilmaz when his initiative ran out",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1466,28 +1322,12 @@ news_feed (
          "title" : "Tata Steel Chess 2: Carlsen and Giri strike"
       },
       {
-         "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 15 Jan 2023 16:06:00 -0800",
-         "title" : "Giri's Double Sacrifice Stuns Gukesh, Carlsen Grinds Down Keymer"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2173",
          "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
          "title" : "Tata Steel Masters: Four in the lead after Round 2"
-      },
-      {
-         "description" : "The ongoing controversy involving 19-year-old GM Hans Niemann gained a peculiar twist on Tuesday. Niemann amended his lawsuit with an additional 13 pages, notably accusing world champion GM Magnus Carlsen of paying fellow Norwegian grandmaster, Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-amends-complaint",
-         "pubDate" : "Sun, 15 Jan 2023 15:09:00 -0800",
-         "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
       },
       {
          "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1530,14 +1370,6 @@ news_feed (
          "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
       },
       {
-         "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
-         "title" : "Ding, Abdusattorov Score First Victories"
-      },
-      {
          "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1570,28 +1402,12 @@ news_feed (
          "title" : "Can Harry count?"
       },
       {
-         "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
-         "pubDate" : "Sat, 14 Jan 2023 00:32:00 -0800",
-         "title" : "'Robson Is The Mittens Of Puzzle Rush'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2171",
          "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
          "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : "The Pro Chess League (PCL) returns on February 1 with a $150,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
-         "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
-         "title" : "2023 Pro Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
          "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
@@ -1688,22 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2170",
          "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
          "title" : "Pranesh M leads FIDE Circuit race"
-      },
-      {
-         "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
-         "pubDate" : "Wed, 11 Jan 2023 09:08:00 -0800",
-         "title" : "Multiple Decisive Tournament Victories Tuesday"
-      },
-      {
-         "description" : "Chess.com&#39;s Clock app just got updated on iOS and Android. With more functionality, tons of useful presets, and an overall better design, the most popular chess clock app in the world got even better.&#38;nbsp; If you&#39;re on the go and have a chess s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-clock-app-update",
-         "pubDate" : "Wed, 11 Jan 2023 06:00:00 -0800",
-         "title" : "Chess.com's Clock App Just Got Updated With More Features And Better Design"
       },
       {
          "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
