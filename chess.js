@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Russian Chess Federation has advised the European Chess Union that they have applied for membership of the Asian Chess Federation, and that they intend to withdraw from the ECU as soon as they have been admitted. The ECU acknowledges that the invasion and war in Ukraine, has obliged the IOC and international sports federations to take difficult decisions and firm positions, and that the intention of sanctions is not to punish individual athletes, especially those players who have not acted against the peace mission of sports. ECU press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/russian-chess-federation-moves-to-asia",
+         "pubDate" : "Mon, 30 Jan 2023 13:00:00 +0100",
+         "title" : "Russian Chess Federation moves to Asia"
+      },
+      {
+         "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/statement-of-the-european-chess-union/",
+         "pubDate" : "Mon, 30 Jan 2023 09:17:55 +0000",
+         "title" : "Statement of the European Chess Union"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Mon, 30 Jan 2023 09:00:55 +0000",
+         "title" : "British Chess Championships 2023 - update"
+      },
+      {
          "description" : "In a late twist at the Tata Steel Masters, Anish Giri leapfrogged Nodirbek Abdusattorov on the final day of action to claim a first title in his home super-tournament. In round 13, Giri defeated Richard Rapport, while 2021 champion Jorden van Foreest got the better of long-time leader Abdusattorov. Meanwhile, Magnus Carlsen and Parham Maghsoodloo also ended the tournament with wins to their names. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +90,14 @@ news_feed (
          "title" : "Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
       },
       {
+         "description" : "While it's true that in the mechanical world the squeaking wheel gets the oil and in the online world the loudest 'influencers' get the most views, it's often their softer-spoken brethren who end up making the biggest difference. That's this month's thought to introduce the latest post in this blog's long-running series about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/cVEbsXRW9Tw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfull",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/not-squeaking-wheel.html",
+         "pubDate" : "Sun, 29 Jan 2023 16:40:00 +0000",
+         "title" : "Not a Squeaking Wheel"
+      },
+      {
          "description" : " Anish Giri won the Tata Steel Masters for the first time in the best result of the Dutchman's career. Giri started the round half a point behind Abdusattorov and afterwards was grateful to his countryman Jorden Van Foreest for going for a fighting game against the leader. Giri found a way to cause his opponent Richard Rapport problems, may have missed a chance but then his opponent played 34...Kg6 which turned out to be very bad indeed and he soon brought home the full point. Abdusattorov by this time was completely lost and he couldn't find any way to resist. Magnus Carlsen caught Abdusattorov but finished third on tie-break. Giri's consistency in this event has been remarkable and was in ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -74,12 +106,12 @@ news_feed (
          "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament is taking place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers are 14-player single round-robin events. In the Masters, young talents like Gukesh, Arjun Erigaisi and Nodirbek Abdusattorov are facing experienced stars like Magnus Carlsen, Ding Liren and Fabiano Caruana. | Follow the games live with expert commentary, starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "The 85th edition of the Tata Steel Chess Tournament took place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers were 14-player single round-robin events. Anish Giri and Alexander Donchenko obtained outright victories at the Masters and the Challengers sections, respectively. | Replay all games with computer analyses on our interactive replayers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
          "pubDate" : "Sun, 29 Jan 2023 15:15:00 +0100",
-         "title" : "Tata Steel Chess - Live!"
+         "title" : "Tata Steel Chess - Games and standings"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 110th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -336,6 +368,14 @@ news_feed (
          "link" : "http://nextlevelchess.blog/overcome-loss/",
          "pubDate" : "Fri, 27 Jan 2023 12:14:49 +0000",
          "title" : "Losing in Chess: How to Get Back After A Tough Loss"
+      },
+      {
+         "description" : "Senior National Arbiter's Seminar &#38; Examination at Tirupati ,Andhra Pradesh 29-30 October 2022 Link : https://aicf.online/Arbiter-Seminar-Tirupati.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
+         "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
+         "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
       },
       {
          "description" : "The 85th edition of the Tata Steel Chess Masters&#160;is taking place from 13-29 January in Wijk aan Zee. The event features 14 grandmasters competing in a 13-round round-robin tournament. With both the number one and number two in the world (Magnus Carlsen&#160;and&#160;Ding Liren), five top 10 players and a total of eight top 20 players, []",
@@ -1010,14 +1050,6 @@ news_feed (
          "title" : "English and English Women's Chess Championships 2023"
       },
       {
-         "description" : "We are pleased to announce that this year's British Chess Championships will be held at The Venue, De Montfort University in Leicester, with events running...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 12:33:55 +0000",
-         "title" : "British Chess Championships 2023"
-      },
-      {
          "description" : "18-year-old Nodirbek Abdusattorov took the sole lead in the Tata Steel Masters after outplaying Magnus Carlsen in Round 5, with the World Champion losing two classical games in a row for the first time since 2015. There were also wins for Levon Aronian, who tricked Vincent Keymer in an endgame, and Parham Maghsoodloo, who scored a bounce-back win over Jorden van Foreest.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1184,14 +1216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-january-17-2023",
          "pubDate" : "Wed, 18 Jan 2023 08:27:00 -0800",
          "title" : "Nakamura Arrives, Dubov Repeats"
-      },
-      {
-         "description" : "Gaining the initiative in chess is one of the most effective tools to decide a game in your favour. It always depends on what kind of player you are of course, and for some it seems easier, others struggle a lot more to make initiative moves. Anish Giri is momentarily storming towards the Tata Steel chess title, with his spectacular playing style. Svitlana presents us his victory against Gukesh D., where he took over the game with a few moves for the win. The same applies to Max Wamerdam's game against Jergus Pechac, and it contains a valuable lesson.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-smartest-moves-of-2",
-         "pubDate" : "Wed, 18 Jan 2023 17:06:23 +0100",
-         "title" : "Svitlana's Smart Moves - How to use the initiative like Anish Giri"
       },
       {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
@@ -1696,14 +1720,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html",
          "pubDate" : "Mon, 09 Jan 2023 16:05:00 +0000",
          "title" : "TCEC Cup 11 Underway; CCC19 Bullet in Semifinals"
-      },
-      {
-         "description" : "48th National Women Chess Championship 2022 Certificates are out to download. Link : Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/48th-national-women-certificates/",
-         "pubDate" : "Mon, 09 Jan 2023 11:10:41 +0000",
-         "title" : "48th National Women Certificates"
       }
    ]
 }
