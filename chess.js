@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a late twist at the Tata Steel Masters, Anish Giri leapfrogged Nodirbek Abdusattorov on the final day of action to claim a first title in his home super-tournament. In round 13, Giri defeated Richard Rapport, while 2021 champion Jorden van Foreest got the better of long-time leader Abdusattorov. Meanwhile, Magnus Carlsen and Parham Maghsoodloo also ended the tournament with wins to their names. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r13",
+         "pubDate" : "Mon, 30 Jan 2023 09:25:00 +0100",
+         "title" : "Anish Giri wins Tata Steel Masters after late twist"
+      },
+      {
+         "description" : "Lad Mandar Pradip of Goa emerged sole leader of the under 17 open category at the end of the fifth round of the 11th National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/11th-national-schools-chess-championships-2023/",
+         "pubDate" : "Mon, 30 Jan 2023 07:53:59 +0000",
+         "title" : "11th National Schools Chess Championships 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1186,14 +1202,6 @@ news_feed (
          "title" : "It's not the 11 O'clock News"
       },
       {
-         "description" : "Can a massive volume of lengthy chess interviews, some dating back to over two decades, attract chess enthusiasts today. Can they be of interest to a heavily satiated chess audience? You bet they can. Frederic Friedel started reading the 476-page book - and was immediately hooked. He describes the reason for his fascination and tells us what is unique about this work.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gert-devreese-memorable-interviews",
-         "pubDate" : "Wed, 18 Jan 2023 13:00:00 +0100",
-         "title" : "Gert Devreese: Memorable Interviews"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://aicf.in/48th-national-women-certificates/",
          "pubDate" : "Mon, 09 Jan 2023 11:10:41 +0000",
          "title" : "48th National Women Certificates"
-      },
-      {
-         "description" : " For this years Australian Open, I decided to write code that put a delay on the DGT broadcasts. While I am aware that broadcasts websites can do this, it often requires having to contact them directly to request the broadcast delay. Writing my own code made rebroadcasting easier as I simply provided a link to the delayed broadcast and it can be shown by whoever wishes to cover the tournament. The only requirement for this to work (apart from installing python 3.x on your laptop) is you have your own hosting site. Having set this up I did notice one interesting side effect. Most sites will show the correct time, except sites that use the DGT website code itself! The reason being is that one ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/tournament-techincal-techniques.html",
-         "pubDate" : "Mon, 09 Jan 2023 06:58:00 +0000",
-         "title" : "Tournament techincal techniques"
       }
    ]
 }
