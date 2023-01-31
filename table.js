@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2023-01-09  - 01-30","9","<a href=http://www.uschess.org/msa/XtblMain.php?202301308962 target='_blank'>CLCC JANUARY MONDAYS</a>",
 "SPRING","2023-01-28","385","<a href=http://www.uschess.org/msa/XtblMain.php?202301281852 target='_blank'>23RD KLEIN WINTER SCHOLASTIC</a>",
 "CYPRESS","2023-01-27","24","<a href=http://www.uschess.org/msa/XtblMain.php?202301270242 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-01-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202301270222 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2022-06-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202206103582 target='_blank'>FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206103562 target='_blank'>FBCC END OF SPRING OPEN 2022</a>",
 "CYPRESS","2022-06-10","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206103452 target='_blank'>KOC</a>",
-"HOUSTON","2022-06-05","14","<a href=http://www.uschess.org/msa/XtblMain.php?202206051572 target='_blank'>JUNE 5 SUNDAY SWISS</a>",
 ]);
