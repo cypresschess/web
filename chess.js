@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pawn endings must be calculated very precisely. In the diagram position it is Black to move, and with precise calculation he could have saved the draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-fight-for-spare-moves",
+         "pubDate" : "Tue, 31 Jan 2023 09:00:00 +0100",
+         "title" : "The fight for spare moves"
+      },
+      {
          "description" : " Jerald Times is in the chess news recently, but it is not for his success as a chess educator. After winning the right to challenge Success Academy's employment practices, he is now seeking to settle on the basis of unlawful retaliation. There have been a number of delays in the process and Times is waiting The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/\">Jerald Times seeks action against Success Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
          "pubDate" : "Thu, 19 Jan 2023 09:32:00 -0800",
          "title" : "Astana To Host Ding-Nepomniachtchi FIDE World Chess Championship Match"
-      },
-      {
-         "description" : "The FIDE World Championship 2023 is due to take place in Astana, Kazakhstan, from April 7th to May 1st. A new World Champion will be crowned, as Ian Nepomniachtchi and Ding Liren will battle to seize the throne left vacant by Magnus Carlsen's withdrawal. The General Partner of the event, which boasts a sensational prize fund of 2 million euros, will be Freedom Holding Corp, a US-based corporation with Kazakh roots.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-announces-2023-world-championship",
-         "pubDate" : "Thu, 19 Jan 2023 18:05:40 +0100",
-         "title" : "FIDE announces 2023 World Championship"
       },
       {
          "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since 3rd Norway Chess tournament of 2015 where he started with two losses, a draw and then another loss. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report f",
