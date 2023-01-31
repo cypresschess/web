@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Jerald Times is in the chess news recently, but it is not for his success as a chess educator. After winning the right to challenge Success Academy's employment practices, he is now seeking to settle on the basis of unlawful retaliation. There have been a number of delays in the process and Times is waiting The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/\">Jerald Times seeks action against Success Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/",
+         "pubDate" : "Tue, 31 Jan 2023 03:48:00 +0000",
+         "title" : "Jerald Times seeks action against Success Academy"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html",
          "pubDate" : "Tue, 10 Jan 2023 16:58:00 +0000",
          "title" : "FIDE Rating List - January 2023"
-      },
-      {
-         "description" : " Round 10 of the 2023 Australian Open saw GM Temur Kuybokarov maintain his 1 point lead over the rest of the field. Up against FM Chris Wallis, he played a fairly quick draw, to move to 8.5/10. Closest rival IM James Morris also drew, to reach 7.5, where he was joined by GM Jingyao Tin, FM Yi Liu, FM Dusan Stojic, and Mars Qi, who all won their round 10 games. Today's round sees Kuybokarov up against tournament sensation, Leah Rice (SGP). Rice was seeded 90th in the event, but has scored 7/10 and is now playing on the top board in the tournaments final round. The Minor is also set for a close finish, with Benny Chan leading by half a point over Chintushig Chinbat, Jayden Arav, and Alexander ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-day-8.html",
-         "pubDate" : "Tue, 10 Jan 2023 04:24:00 +0000",
-         "title" : "2023 Australian Open - Day 8"
       }
    ]
 }
