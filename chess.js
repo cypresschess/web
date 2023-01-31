@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Telangana stole the limelight by winning five of the twelve titles at stake in the MPL 11th National Schools Chess Championships at the Adhiyamaan College",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/mpl-11th-national-schools-chess-championships-2023/",
+         "pubDate" : "Tue, 31 Jan 2023 18:30:41 +0000",
+         "title" : "MPL 11th National Schools Chess Championships 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2200",
+         "pubDate" : "Tue, 31 Jan 2023 18:21:08 +0000",
+         "title" : "FIDE Circuit race: Anish Giri moves into the lead"
+      },
+      {
+         "description" : "Time is important when playing chess. The time that the players have on the clock, but also the dynamic pieces and pawns develop during the game and that dictates whether to play fast or slow. Jan Markos knows how to use such dynamics to your advantage. | Photo: Michael Hofmann, Kitzingen., CC BY-SA 3.0 , via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-17-fast-or-slow",
+         "pubDate" : "Tue, 31 Jan 2023 18:00:00 +0100",
+         "title" : "The Winning Academy 17: Fast or slow?"
+      },
+      {
          "description" : "Chairman of FIDE Advisory Board Shri Bharat Singh Chauhan met the FIDE President Mr. Arkady Dvorkovich at Belgrade, Serbia and discussed various chess developmental programs",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "ChessBase 17 explained by the engineers! - The fast search function"
       },
       {
-         "description" : "Nodirbek Abdusattorov is still the sole leader after six rounds at the Tata Steel Masters in Wijk aan Zee. The Uzbek GM drew his game with white, as did Anish Giri, who entered the round a half point behind in sole second place. The winners of the day were Fabiano Caruana and Wesley So, who got the better of Dommaraju Gukesh and Vincent Keymer respectively. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r6",
-         "pubDate" : "Sat, 21 Jan 2023 08:30:00 +0100",
-         "title" : "Tata Steel Chess R6: So and Caruana score"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1808,22 +1824,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-final-day.html",
          "pubDate" : "Wed, 11 Jan 2023 13:37:00 +0000",
          "title" : "2023 Australian Open - Final Day"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen Wikipedia writes: &#8220;The Vienna New Year's Concert (Neujahrskonzert der Wiener Philharmoniker) is an annual concert of classical music performed by the Vienna Philharmonic on the morning of New Year's Day <a href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Vienna Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/\">Need sure points? ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qgd-vienna-variation-edition/",
-         "pubDate" : "Tue, 10 Jan 2023 17:38:26 +0000",
-         "title" : "Need sure points? QGD, Vienna Variation Edition"
-      },
-      {
-         "description" : "A new year means a look at the first FIDE rating list of the year. Let's follow the same cookbook instructions used last year. <P>1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2022/01/fide-rating-list-january-2022.html\">FIDE Rating List - January 2022</A>(13 January 2022) <P>2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A>(ratings.fide.com). <BLOCKQUOTE>STANDARD<BR>TXT format (06 Jan 2023, Sz: 8.98 MB) </BLOCKQUOTE> <P>3) Compare some basic counts over the past few years. <BLOCKQUOTE>2023: >405K players; >253K marked inactive<BR>2022: >377K players; >228K marked inactive<BR>2021: >362K pla",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html",
-         "pubDate" : "Tue, 10 Jan 2023 16:58:00 +0000",
-         "title" : "FIDE Rating List - January 2023"
       }
    ]
 }
