@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chairman of FIDE Advisory Board Shri Bharat Singh Chauhan met the FIDE President Mr. Arkady Dvorkovich at Belgrade, Serbia and discussed various chess developmental programs",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shri-bharat-singh-met-fide-president/",
+         "pubDate" : "Tue, 31 Jan 2023 15:20:17 +0000",
+         "title" : "Shri Bharat Singh met FIDE President"
+      },
+      {
+         "description" : "The Indian team consists of Soundarya Kumar Pradhan, Shashikant Kutwal, Kishan Gangolli, Darpan Inani, Naveen Kumar A and Coach Prasenjit Dutta registered a comfortable victory",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-olympiad-for-people-with-disabilities-2023/",
+         "pubDate" : "Tue, 31 Jan 2023 15:04:55 +0000",
+         "title" : "1st FIDE Olympiad for People with Disabilities 2023"
+      },
+      {
+         "description" : "The much anticipated Tata Steel Chess Tournament finished on Sunday in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, found plenty of instructive positions from the event in the Netherlands and shared his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-4",
+         "pubDate" : "Tue, 31 Jan 2023 16:00:00 +0100",
+         "title" : "Endgames from Wijk aan Zee (4)"
+      },
+      {
+         "description" : "The chess part of the journey of the first Chess Olympiad for People with Disabilities started with the first round kicking off in Belgrade, Serbia A milestone moment in chess history occurred on January 30, 2023, shortly after 3 PM CET, when the opening move of the first Olympiad for players with disabilities was played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-round-1-recap/",
+         "pubDate" : "Tue, 31 Jan 2023 13:17:32 +0000",
+         "title" : "Olympiad for People with Disabilities Round 1 recap"
+      },
+      {
+         "description" : "The second leg of the 2022-2023 Women's Grand Prix Series is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-1-live/",
+         "pubDate" : "Tue, 31 Jan 2023 13:07:15 +0000",
+         "title" : "Women's Grand Prix Munich 2023 - Day 1 live"
+      },
+      {
+         "description" : "From 29 January to 5 February, Belgrade will host the 1st Chess Olympiad for People with Disabilities. Thirty-three countries and three international teams have registered to take part in this team competition. The German Grandmaster Thomas Luther opened the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/olympiad-for-people-with-disabilities-round-1-from-dreams-to-reality",
+         "pubDate" : "Tue, 31 Jan 2023 14:07:06 +0100",
+         "title" : "Olympiad for People with Disabilities Round 1: From dreams to reality"
+      },
+      {
+         "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women&#x2019;s, and Youth U12. Each section featured 9 rounds played in swiss system, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-cities-towns-chess-champions-2023-announced/",
+         "pubDate" : "Tue, 31 Jan 2023 12:35:06 +0000",
+         "title" : "European Cities & Towns Chess Champions 2023 announced"
+      },
+      {
          "description" : "In the middle of the Chilean summer, at the end of December, the 8th International Chess Festival was held in Arica. Over 100 players from 11 countries participated. The Argentine GM Sandro Mareco won the Open in the \"City of Eternal Spring\" on tiebreak, GM Cristobal Henriquez from Chile finished second. Read more about town and tournament... | Photos: Organiser",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +96,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/",
          "pubDate" : "Tue, 31 Jan 2023 11:45:06 +0000",
          "title" : "ECF Arbiter Course - March/April"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2023 is going to take place from 2nd to 14th March in Vrnjacka Banja, Serbia. More than 430 players have already registered for the event and the event is breaking the participation record previously set in Rijeka 2010 with 408 participants. The registration deadline is February 2nd, 2023. The&#160;European Individual []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-ches-championship-2023-breaking-the-participation-record/",
+         "pubDate" : "Tue, 31 Jan 2023 11:35:00 +0000",
+         "title" : "European Individual Chess Championship 2023 breaking the participation record"
       },
       {
          "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women's, and Youth U12. Each section featured 9 rounds played in swiss system, with the time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/\">Read More &#187;</a></span>",
@@ -346,22 +410,6 @@ news_feed (
          "title" : "74th Open and Women National Championships 2023 - Dr Wong Yip Chong Cup - LIVE"
       },
       {
-         "description" : "The Chess Mind is taking place from 28&#x2013;29 January 2023 in Rabat, Morocco. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one. It is a 5-round Swiss tournament with participation of Saad Rian, Yasser Hadj Kholti, Halim Alami, Anass Ouazri, Said Nasih, Hamza Harasse, Mohamed Lameti, Roaa Laamim, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-mind-2023-live/",
-         "pubDate" : "Sun, 29 Jan 2023 07:56:31 +0000",
-         "title" : "Chess Mind 2023 - LIVE"
-      },
-      {
-         "description" : "The 75th Adygea Region Championship is taking place from 28 January to 5 February 2023 in Maykop, Russia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikolay Udovichenko, Vadim Arefyev, Sergey Sifunda, Adam Khatkhakumov, Ruslan Tleptsok, Yuri Y. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/75th-adygea-region-championship-2023-live/",
-         "pubDate" : "Sun, 29 Jan 2023 07:51:18 +0000",
-         "title" : "75th Adygea Region Championship 2023 - LIVE"
-      },
-      {
          "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov enters the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and held ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -488,22 +536,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r11",
          "pubDate" : "Sat, 28 Jan 2023 00:30:00 +0100",
          "title" : "Tata Steel Chess R11: Donchenko sole leader in the Challengers"
-      },
-      {
-         "description" : "The Head of the Sakha Republic Cup is taking place from 24 January to 1 February 2023 in Yakutsk. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Mikhail Kobalia, Anton Shomoev, Boris Grachev, Volodar Murzin, Oleg Rychkov, Dmitry []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/head-of-the-sakha-republic-cup-2023-live/",
-         "pubDate" : "Fri, 27 Jan 2023 21:41:09 +0000",
-         "title" : "Head of the Sakha Republic Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM St. Louis IM 2023 is taking place 25-29 January 2023 in St. Louis, USA. Players receive 90 minutes for the entire game + 30 seconds increment starting from move one. It is 9-round Schiller system tournament with participation of Alice Lee, Olivier-Kenta Chiku-Ratte, Stavroula Tsolakidou, Dalton Perrine, Julian Proleiko, Pedro Espinosa, Tamas Petenyi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-st-louis-im-2023-live/",
-         "pubDate" : "Fri, 27 Jan 2023 21:34:33 +0000",
-         "title" : "1000GM St. Louis IM 2023 - LIVE"
       },
       {
          "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find five such mini-lessons here. Enjoy! | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
@@ -1178,14 +1210,6 @@ news_feed (
          "title" : "Ukranian GM Shevchenko To Play For Romania"
       },
       {
-         "description" : "In his new Power Play Show Daniel King takes a look at the King's Gambit, which was tried in an interesting game in the Wijk aan Zee Challengers tournament. King, who authored two ChessBase courses about the King's Gambit, was fascinated and astonished. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-beautifull-blunders-with-the-king-s-gambit",
-         "pubDate" : "Fri, 20 Jan 2023 19:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Beautiful blunders with the King's Gambit"
-      },
-      {
          "description" : "Last week in <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html\">The Evolution of Chess.net</A>(January 2023), I used Archive.org to outline the evolution of the online play site Chess.net. I assume that most chess sites from the late 1990s and early 2000s can be tracked in the same way. How can we identify those sites? <P>One excellent resource is Mark Crowther's 'Chess on the Net', published in 2002. The following image shows the front and back covers of the book. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na20.gif\" WIDTH=400 HEIGHT=300> <P>White letters on a yellow background don't allow easy reading, so here's the blurb from the back c",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1224,14 +1248,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-5-abdusattorov-hands-carlsen-2nd-loss-in-a-row",
          "pubDate" : "Fri, 20 Jan 2023 10:37:51 +0000",
          "title" : "Tata Steel 5: Abdusattorov hands Carlsen 2nd loss in a row"
-      },
-      {
-         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. Grandmaster Karsten M&uuml;ller, our in-house endgame expert, finds instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-1",
-         "pubDate" : "Fri, 20 Jan 2023 10:00:00 +0100",
-         "title" : "Endgames from Wijk aan Zee (1)"
       },
       {
          "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nodirbek Abdusattorov. It was the first time for mo",
