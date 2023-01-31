@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the middle of the Chilean summer, at the end of December, the 8th International Chess Festival was held in Arica. Over 100 players from 11 countries participated. The Argentine GM Sandro Mareco won the Open in the \"City of Eternal Spring\" on tiebreak, GM Cristobal Henriquez from Chile finished second. Read more about town and tournament... | Photos: Organiser",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sandro-mareco-wins-chess-festival-arica-chile",
+         "pubDate" : "Tue, 31 Jan 2023 13:14:18 +0100",
+         "title" : "Sandro Mareco wins Chess Festival Arica (Chile)"
+      },
+      {
+         "description" : " The Eastlakes Gungahlin Chess Club began it's 2023 chess season this evening, with not 1 but 2 club events. In a throwback to the 1980's, the club start both a junior event (2023 Gungahlin Junior Championship) and a adult event (2023 Ramakrishna Memorial). The two tournaments are identical (7 rounds 60m+30s), but junior players have to play the junior event. So how did it go? Quite well actually. Combined the 2 events had 41 players (22 in the Memorial, and 19 in the junior), which is about the same as last year in terms of entrants, and age split. One problem it did solve is that it reduced the number of 1st round mismatches, as almost all the games in the Memorial went past the 1 hour mar",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/01/wont-somebody-think-of-adults.html",
+         "pubDate" : "Tue, 31 Jan 2023 12:00:00 +0000",
+         "title" : "Won't somebody think of the adults"
+      },
+      {
+         "description" : "On TikTok these two young ladies asked strangers on the street to guess what they did for a living. Model? Artist? Dancers? Cheerleaders? Gymnasts? Architect? TikTok twins? All wrong! We ask you to guess, just looking at this picture. The answer is provided in a video of their street side quiz, one that has been watched 8&frac12; million times.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/guess-what-they-do-for-a-living",
+         "pubDate" : "Tue, 31 Jan 2023 13:00:00 +0100",
+         "title" : "Guess what they do for a living"
+      },
+      {
+         "description" : "1st Fide Chess Olympiad for people with disabilities at Belgrade Serbia from 29 January-05 February 2023 kick starts in a grand manner at Belgrade Serbia",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023/",
+         "pubDate" : "Tue, 31 Jan 2023 11:51:12 +0000",
+         "title" : "1st Fide Chess Olympiad for people with disabilities -2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/",
+         "pubDate" : "Tue, 31 Jan 2023 11:45:06 +0000",
+         "title" : "ECF Arbiter Course - March/April"
+      },
+      {
+         "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women's, and Youth U12. Each section featured 9 rounds played in swiss system, with the time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/",
+         "pubDate" : "Tue, 31 Jan 2023 10:39:31 +0000",
+         "title" : "European Cities & Towns Chess Champions 2023 announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/endgame-challenge-three-rook-and-pawn-endgames/",
+         "pubDate" : "Tue, 31 Jan 2023 09:37:58 +0000",
+         "title" : "Endgame Challenge Three - Rook and Pawn Endgames"
+      },
+      {
          "description" : "Pawn endings must be calculated very precisely. In the diagram position it is Black to move, and with precise calculation he could have saved the draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anya-taylor-joy-queens-gambit-2",
-         "pubDate" : "Mon, 30 Jan 2023 11:07:36 -0800",
+         "pubDate" : "Mon, 30 Jan 2023 11:07:00 -0800",
          "title" : "Anya Taylor-Joy Clarifies Queen's Gambit 2 Tweet, Claims She Was Hacked"
       },
       {
@@ -56,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-225-endgame-highlights-of-the-tata-steel-tournament-2023",
          "pubDate" : "Mon, 30 Jan 2023 18:00:00 +0100",
          "title" : "Endgame Magic #225: Endgame Highlights of the Tata Steel Tournament 2023"
+      },
+      {
+         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023), I opened, <BLOCKQUOTE>For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. </BLOCKQUOTE> <P>This was also flagged in a Talkchess thread. <UL><LI>2023-01-14: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=81339\">Lc0 wins TCEC Cup 11 Final</A>(talkchess.com) &#149; 'When was the last time Stockfish lost a final? Stockfish is getting weaker and weaker. [...] Or maybe the opponents get stronger.' </UL> <P>Or maybe it's a typical example showing that rating i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/talkchess-talks-top-engines.html",
+         "pubDate" : "Mon, 30 Jan 2023 16:31:00 +0000",
+         "title" : "Talkchess Talks Top Engines"
       },
       {
          "description" : "By IM Michael Rahal (Barcelona, Spain)&#160; &#160;&#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; The second event of the 2022-2023 Women's Grand Prix Series will kick off []",
@@ -504,6 +568,14 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
          "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
          "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
+      },
+      {
+         "description" : "Senior National Arbiter Seminar &#38; Examination ,11th &#38; 12th December 2022, Salem, Tamil Nadu Certificates are out to download. Link : https://aicf.online/Arbiter-Seminar-Salem.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-certificates-salem-tamil-nadu/",
+         "pubDate" : "Fri, 27 Jan 2023 09:39:56 +0000",
+         "title" : "Senior National Arbiter Certificates Salem, Tamil Nadu"
       },
       {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
@@ -1194,28 +1266,12 @@ news_feed (
          "title" : "Abdusattorov Gives Carlsen His 1st 2-Game Losing Streak in 8 Years"
       },
       {
-         "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters after inflicting Magnus Carlsen's second consecutive loss. A memorable round, played at the Johan Cruyff Arena in Amsterdam, also saw Arjun Erigaisi finding a tactical recourse to all but force a draw from an inferior position against Ding Liren, while Levon Aronian and Parham Maghsoodloo both scored full points with the white pieces. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r5-b",
-         "pubDate" : "Thu, 19 Jan 2023 22:45:00 +0100",
-         "title" : "Tata Steel Chess R5: Abdusattorov defeats Carlsen, takes the lead"
-      },
-      {
          "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-world-championship-match-to-be.html",
          "pubDate" : "Thu, 19 Jan 2023 20:00:00 +0000",
          "title" : "2023 World Championship Match to be held in Astana"
-      },
-      {
-         "description" : "In his \"Fast & Furious\" show Robert Ris presents a new concept for White in the Ragozin. It was prepared by Anish Giri who used it to beat Gukesh at the Tata Steel Tournament in Wijk aan Zee in great style. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-new-concept-in-the-ragozin",
-         "pubDate" : "Thu, 19 Jan 2023 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A new concept in the Ragozin"
       },
       {
          "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
