@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi reached an extremely difficult endgame against Levon Aronian in the third round of the Tata Steel Masters. Many players would have collapsed, but the 19-year-old is a tough nut to crack. He held his own and managed to draw the game. After the game, you could see Arjun and Levon analysing the game, but it was all just too complex to figure out without an engine. IM Sagar Shah spent a lot of time going to the depth of the position and now shares the findings with you. Do check out the analysis to unlock the secrets of a complex knight versus bishop endgame. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/delving-deep-into-arjun-aronian",
+         "pubDate" : "Wed, 01 Feb 2023 07:23:55 +0100",
+         "title" : "A tough nut to crack: Arjun vs. Aronian"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/giri-s-grenades",
          "pubDate" : "Sat, 21 Jan 2023 09:00:00 +0100",
          "title" : "Giri's grenades"
-      },
-      {
-         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the first episode, Jeroen van den Belt explains the new lightning-fast search function!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-explained-by-the-engineers-the-fast-search-function",
-         "pubDate" : "Sat, 21 Jan 2023 08:40:00 +0100",
-         "title" : "ChessBase 17 explained by the engineers! - The fast search function"
       },
       {
          "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
