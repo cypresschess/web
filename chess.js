@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-live/",
+         "pubDate" : "Wed, 01 Feb 2023 15:31:48 +0000",
+         "title" : "Women's Grand Prix Munich 2023 - LIVE"
+      },
+      {
+         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In this episode, we discover how easy it is to stream a Fritztrainer directly with ChessBase 17.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-how-to-stream-fritztrainer-videos-with-chessbase-17",
+         "pubDate" : "Wed, 01 Feb 2023 16:00:00 +0100",
+         "title" : "Explained by the engineers! - How to stream Fritztrainer Videos with ChessBase 17"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2202",
+         "pubDate" : "Wed, 01 Feb 2023 14:54:48 +0000",
+         "title" : "Chessable Publishing Schedule"
+      },
+      {
+         "description" : "Ian Nepomniachtchi is up to a career high world no. 2 on the February 2023 FIDE rating list after his World Championship opponent Ding Liren dropped 23 rating points to world no. 3. Tata Steel Masters winner Anish Giri climbed to world no. 5, while Nodirbek Abdusattorov is 2nd only to Alireza Firouzja among the world's best juniors, climbing 21 points to world no. 18.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepo-and-ding-swap-places-before-their-match",
+         "pubDate" : "Wed, 01 Feb 2023 14:14:00 +0000",
+         "title" : "Nepo and Ding swap places before match"
+      },
+      {
+         "description" : "At the beginning of February FIDE published the new world ranking list. Magnus Carlsen, who continues to be clear number one, lost a few rating points in Wijk, but increased the Elo gap to Ding Liren, who lost even more rating points in Wijk and is now the world's number three while Ian Nepomniachtchi is number two. Hou Yifan is number one on the women's list and Alireza Firouzja remains the world's best junior though his rivals come closer. Best female junior is Bibisara Assaubayeva.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-february-2023",
+         "pubDate" : "Wed, 01 Feb 2023 14:00:00 +0100",
+         "title" : "FIDE ratings February 2023"
+      },
+      {
          "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No. K-15011/02/2023-SP-IV dated 23rd January 2023 regarding change in procedure for applying under the Scheme",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "Anish Giri leads the FIDE Circuit race"
       },
       {
-         "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
+         "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but we also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aquarius-and-their-strategy",
@@ -336,14 +376,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ecu-publishes-the-official-statement-on-the-possible-transfer-of-the-russian-chess-federation-to-the-asian-chess-federation/",
          "pubDate" : "Mon, 30 Jan 2023 16:16:06 +0000",
          "title" : "ECU publishes the official statement on the possible transfer of the Russian Chess Federation to the Asian Chess Federation"
-      },
-      {
-         "description" : "In the historic building of the National Assembly of Serbia, players from all continents, FIDE officials, members of the Serbian government, chess celebrities and guests gathered to inaugurate the first-ever Chess Olympiad for people with disabilities. The Serbian National Assembly building is a majestic and breathtaking structure. It has been the epicentre of many historic []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-1st-chess-olympiad-for-people-with-disabilities-opened-in-belgrade/",
-         "pubDate" : "Mon, 30 Jan 2023 16:12:26 +0000",
-         "title" : "The 1st Chess Olympiad for People with Disabilities opened in Belgrade"
       },
       {
          "description" : "With Sara Khadem Iran has lost another top chess player. The 2018 rapid and blitz vice world champion has moved to Spain with her family, but plans to continue playing under the Iranian flag. The well-known Spanish journalist Leontxo Garcia met with her and published a portrait of the young Iranian woman in the Spanish newspaper \"El Pais\". | Photo: El Pais",
@@ -1202,22 +1234,6 @@ news_feed (
          "title" : "Some Recent Books"
       },
       {
-         "description" : "The photo shows the tournament hall of the Hoogovens tournament 60 years ago, at that time still in Beverwijk. 18 players took part in the A-tournament and Jan Hein Donner won. One of the participants at that time was Tan Hiong Liong. He was one of the first IMs of Asia - a bright star that soon burnt out for tragic reasons. A journey through time... | Photos: Dutch National Archive (if not otherwise stated)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wijk-aan-zee-back-to-1963",
-         "pubDate" : "Sun, 22 Jan 2023 09:00:00 +0100",
-         "title" : "Wijk aan Zee: Back to 1963"
-      },
-      {
-         "description" : "In the most eventful round of the 2023 Tata Steel Masters so far, Nodirbek Abdusattorov extended his lead to a full point after obtaining a remarkable win over Arjun Erigaisi. Sharing second place are now four players, as Wesley So and Praggnanandhaa Rameshbabu both scored full points to join Anish Giri and Fabiano Caruana in the chasing pack. In the Challengers, Alexander Donchenko is in clear first place after beating former co-leader Mustafa Yilmaz with the white pieces. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r7",
-         "pubDate" : "Sun, 22 Jan 2023 08:30:00 +0100",
-         "title" : "Tata Steel Chess R7: Abdusattorov extends his lead"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov was one of four winners in the seventh round of the 2023 Tata Steel Chess Tournament and moved to 5.5/7 after scoring his fourth win of the event over GM Arjun Erigaisi on Saturday. The 18-year-old was joined in the winn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "Tata Steel"
       },
       {
-         "description" : "Anish Giri went for a stunning sacrificial attack to beat Gukesh while Magnus Carlsen ground out victory over Vincent Keymer to join Ding Liren and Nodirbek Abdusattorov in the lead after Round 2 of the Tata Steel Masters in Wijk aan Zee. In the Challengers, Amin Tabatabaei blundered a piece on move 6 of a King's Gambit but somehow went on to win, while 16-year-old Eline Roebers stunned Dutch Champion Erwin l'Ami.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-2-carlsen-and-giri-strike",
-         "pubDate" : "Mon, 16 Jan 2023 09:46:25 +0000",
-         "title" : "Tata Steel Chess 2: Carlsen and Giri strike"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2170",
          "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
          "title" : "Pranesh M leads FIDE Circuit race"
-      },
-      {
-         "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-australian-open-final-day.html",
-         "pubDate" : "Wed, 11 Jan 2023 13:37:00 +0000",
-         "title" : "2023 Australian Open - Final Day"
       }
    ]
 }
