@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2201",
+         "pubDate" : "Tue, 31 Jan 2023 23:24:46 +0000",
+         "title" : "Inspiring battles in Round 2 of the Chess Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings. 2023.01.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sicilian-middlegames-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y2oOY5IUksM.jpg?itok=XWyJtvQ0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sicilian-middlegames-grandmasters-choice-gm-josh-sheng",
+         "pubDate" : "Tue, 31 Jan 2023 20:23:36 +0000",
+         "title" : "Sicilian Middlegames | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! 2023.01.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/clear-way-long-diagonals-open-files-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 31 Jan 2023 20:23:36 +0000",
+         "title" : "Clear the Way! Long Diagonals & Open Files | Beginner Breakdown | lichess.org"
+      },
+      {
          "description" : "Telangana stole the limelight by winning five of the twelve titles at stake in the MPL 11th National Schools Chess Championships at the Adhiyamaan College",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -866,7 +890,7 @@ news_feed (
          "title" : "Congratulations Alana Meenakshi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay., using examples from his own games and Averbakh-Spassky. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay, using examples from his own games and Averbakh-Spassky. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng-0",
@@ -1424,22 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/losses-for-top-2-more-at-11.html",
          "pubDate" : "Tue, 17 Jan 2023 20:49:00 +0000",
          "title" : "Losses for the top 2 - More at 11"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on trading pieces and counting their worth. When is it a good time to trade and when is it best to leave the material on the board? 2023.01.17 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/trading-and-counting-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/M08I2eq04eg.jpg?itok=1v1xRsnP\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/trading-and-counting-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 17 Jan 2023 20:13:15 +0000",
-         "title" : "Trading and Counting | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov continues his chess class on decision-making in complicated positions. Watch Part 1: <a href=\"https://youtu.be/-jWbuf0ZWMw\">https://youtu.be/-jWbuf0ZWMw</a>. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Yjo5shT118I.jpg?itok=Tr_yZP",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-part-2-grandmasters-choice-gm-igor-novikov",
-         "pubDate" : "Tue, 17 Jan 2023 20:13:15 +0000",
-         "title" : "Make Decisions in Complex Positions: Part 2 | Grandmaster's Choice - GM Igor Novikov"
       },
       {
          "description" : "",
