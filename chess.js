@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No. K-15011/02/2023-SP-IV dated 23rd January 2023 regarding change in procedure for applying under the Scheme",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/circular-for-change-in-procedure-for-applying-under-the-scheme-of-cash-award-to-the-medal-winners-for-winning-medals-in-international-events-and-their-coaches-intimation-to-nsfs-list-2/",
+         "pubDate" : "Wed, 01 Feb 2023 11:47:33 +0000",
+         "title" : "Circular for change in procedure for applying under the Scheme of Cash Award to the Medal Winners for winning medals in International Events and their coaches"
+      },
+      {
+         "description" : "Performance of Indian team is going stronger in round 2 .The 10th seeded Indian Team consists of Soundarya Kumar Pradhan ,Shashikant Kutwal ,Kishan Gangolli ,Darpan",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-olympiad-for-people-with-disabilities-2023report-round-2/",
+         "pubDate" : "Wed, 01 Feb 2023 11:35:45 +0000",
+         "title" : "1st FIDE Olympiad for People with Disabilities 2023:Report Round 2"
+      },
+      {
+         "description" : "Anish Giri&#xA0;is the new leader of the FIDE Circuit race following his excellent performance in the 2023 Tata Steel Masters. In a dramatic final round, the Dutchman leapfrogged&#xA0;Nodirbek Abdusattorov, who was leading most of the event and finished clear fist soaring to the top position in the race.&#xA0; The top finishers in this competition, Nodirberk []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-leads-the-fide-circuit-race/",
+         "pubDate" : "Wed, 01 Feb 2023 11:18:01 +0000",
+         "title" : "Anish Giri leads the FIDE Circuit race"
+      },
+      {
+         "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aquarius-and-their-strategy",
+         "pubDate" : "Wed, 01 Feb 2023 12:00:00 +0100",
+         "title" : "Aquarius and their strategy"
+      },
+      {
+         "description" : "Following two days of competition, there are now six teams with a perfect score. However, for many, the socialising aspect and the atmosphere seem to be the most significant factor. The second day of the Olympiad started with the first move ceremony, carried out by&#160;Darija Kisic Tepavcevic, a doctor and epidemiologist who is currently serving []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/inspiring-battles-at-chess-olympiad-for-people-with-disabilities/",
+         "pubDate" : "Wed, 01 Feb 2023 10:04:00 +0000",
+         "title" : "Inspiring battles at Chess Olympiad for People with Disabilities"
+      },
+      {
+         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/sac-or-no-sac-4/",
+         "pubDate" : "Wed, 01 Feb 2023 09:35:37 +0000",
+         "title" : "Sac Or No Sac? (4)"
+      },
+      {
+         "description" : "The 2023 International Chess Open Graz will take place from 18 to 24 February in Graz, Austria. The event features three tournaments: A (for players rated 2000+), B (for players rated U2000) and C (for players rated U1700). Each tournament will be played in 9 rounds, swiss system, with the time control 90 min + []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/graz-chess-open-2023/",
+         "pubDate" : "Wed, 01 Feb 2023 09:19:00 +0000",
+         "title" : "Graz Chess Open 2023"
+      },
+      {
+         "description" : "Russia&#39;s powerhouse chess federation, the biggest in the world, is pressing on with its historic move to formally switch from the European Chess Union (ECU) to Asia, it was revealed on Tuesday. In the latest development in a row that has exposed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-chess-federation-applies-to-switch-from-europe-to-asia",
+         "pubDate" : "Wed, 01 Feb 2023 00:41:00 -0800",
+         "title" : "Russian Chess Federation Applies For Asia Switch As Row With Europe Deepens"
+      },
+      {
          "description" : "Arjun Erigaisi reached an extremely difficult endgame against Levon Aronian in the third round of the Tata Steel Masters. Many players would have collapsed, but the 19-year-old is a tough nut to crack. He held his own and managed to draw the game. After the game, you could see Arjun and Levon analysing the game, but it was all just too complex to figure out without an engine. IM Sagar Shah spent a lot of time going to the depth of the position and now shares the findings with you. Do check out the analysis to unlock the secrets of a complex knight versus bishop endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +128,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-17-fast-or-slow",
          "pubDate" : "Tue, 31 Jan 2023 18:00:00 +0100",
          "title" : "The Winning Academy 17: Fast or slow?"
+      },
+      {
+         "description" : "The first Yahoos post of the New Year marks also the start of the third full year of Yahoos. (For an explanation of Yahoos, see the footnote to this post.) Let's start with the usual overview of news sources reporting in the current month. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na31.gif\" WIDTH=185 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> This month we had 92 stories from the current month and 6 stories repeating from previous months, making 98 stories total. In 2022, only two of the 12 monthly posts had more stories in the current month. <P>Eight news sources, shown in the chart on the left, had more than two stories in the month, accounting for 44 stories total. That leaves 48 sou",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html",
+         "pubDate" : "Tue, 31 Jan 2023 16:29:00 +0000",
+         "title" : "First Yahoos of 2023"
       },
       {
          "description" : "Chairman of FIDE Advisory Board Shri Bharat Singh Chauhan met the FIDE President Mr. Arkady Dvorkovich at Belgrade, Serbia and discussed various chess developmental programs",
@@ -282,14 +354,6 @@ news_feed (
          "title" : "Sarah Khadem - a portrait"
       },
       {
-         "description" : "Anish Giri, five times the runner-up in Wijk aan Zee, has won the 85th edition of&#xA0;Tata Steel Chess&#xA0;after pouncing on a blunder by&#xA0;Richard Rapport&#xA0;while&#xA0;Jorden van Foreest&#xA0;took down long-term leader&#xA0;Nodirbek Abdusattorov. Magnus Carlsen&#xA0;beat Arjun Erigaisi on demand to catch Nodirbek in a tie for 2nd place, while&#xA0;Wesley So&#xA0;finished 4th. Nodirbek Abdusattorov&#xA0;led the 2023&#xA0;Tata Steel Masters&#xA0;after every []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-is-the-winner-of-the-tata-steel-masters-2023/",
-         "pubDate" : "Mon, 30 Jan 2023 15:42:38 +0000",
-         "title" : "Anish Giri is the Winner of the Tata Steel Masters 2023"
-      },
-      {
          "description" : "The 85th jubilee edition of the Tata Steel Chess took place from 14th-29th January 2023 in Wijk aan Zee, the Netherlands. The &#8220;Wimbledon of Chess&#8221; featured Masters, Challengers, and Amateur events simultaneously played in the same venue. GM Anish Giri (NED, 2764) won the Masters event after a thrilling final round. Giri defeated Richard Rapport (ROU, 2740) to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -312,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/top-female-chess-in-munich",
          "pubDate" : "Mon, 30 Jan 2023 15:00:00 +0100",
          "title" : "Top female chess in Munich"
-      },
-      {
-         "description" : "The Tata Steel Challengers 2023 concluded yesterday in Wijk aan Zee with Alexander Donchenko lifting the Winner trophy and earning a starting ticket for the Masters of the Tata Steel Chess Tournament in 2024. Alexander Donchenko won the Challengers event with a round to spare. With a last-round victory over Velimir Ivic, Donchenko kept the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexander-donchenko-wins-tata-steel-challengers-2023/",
-         "pubDate" : "Mon, 30 Jan 2023 13:45:00 +0000",
-         "title" : "Alexander Donchenko wins Tata Steel Challengers 2023"
       },
       {
          "description" : " Last round games can do strange things to chess players. The final round of the 2023 Tata Steel tournament saw a dramatic change in the final standings, as did the last round of the 2023 Oceania Zonal. Often it is the player with the least to lose starts with the upper hand, and simply has to wait for the mistake. For the players in the 2023 Zonal, this is in fact what happened, resulting in not only a 6 way tie for 1st, but an IM title for FM Patrick Gong. <br /> <b>Solomon,Stephen - Zhao,Zong Yuan [C90]</b><br />2023 Oceania Zonal, 29.01.2023 <script>new PgnViewer( { boardName: \"game1379\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O",
@@ -464,14 +520,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-12-abdusattorov-on-brink-as-carlsen-misses-win",
          "pubDate" : "Sun, 29 Jan 2023 08:36:17 +0000",
          "title" : "Tata Steel 12: Abdusattorov on brink as Carlsen misses win"
-      },
-      {
-         "description" : "The&#xA0;74th Open and Women National Championships 2023 Dr Wong Yip Chong Cup&#xA0;is Singapore's National Chess Championship. The tournament will take place from 27 January to 12 February 2023. Time control is 90 minutes with 30 seconds increment from move 1, and 1 round will be played per day at 11am UTC each day. There []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/74th-open-and-women-national-championships-2023-dr-wong-yip-chong-cup-live/",
-         "pubDate" : "Sun, 29 Jan 2023 08:12:13 +0000",
-         "title" : "74th Open and Women National Championships 2023 - Dr Wong Yip Chong Cup - LIVE"
       },
       {
          "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov enters the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and held ...",
@@ -1218,14 +1266,6 @@ news_feed (
          "title" : "Tata Steel Chess 6: Caruana gets Gukesh revenge"
       },
       {
-         "description" : "In the diagram position White had just calmly covered his knight g4 with 25.h3! and then after 25...exd4 powerfully set off for the final attack. Can you follow in his footsteps?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/giri-s-grenades",
-         "pubDate" : "Sat, 21 Jan 2023 09:00:00 +0100",
-         "title" : "Giri's grenades"
-      },
-      {
          "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1514,14 +1554,6 @@ news_feed (
          "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
       },
       {
-         "description" : "35th MPL National U-09 Certificates are out to download. Download using the link given. Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-09-certificates/",
-         "pubDate" : "Tue, 17 Jan 2023 06:37:33 +0000",
-         "title" : "National U-09 Certificates"
-      },
-      {
          "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1576,14 +1608,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/tata-steel.html",
          "pubDate" : "Mon, 16 Jan 2023 11:59:00 +0000",
          "title" : "Tata Steel"
-      },
-      {
-         "description" : "Teams desirous to participate in the National Team Chess Championship are requested to make the necessary payment of Rs. 3750/ Rs. 6250/ as the case",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-national-team-national-team-for-women-chess-championship-2023/",
-         "pubDate" : "Mon, 16 Jan 2023 10:28:54 +0000",
-         "title" : "Notice : National Team & National Team for Women Chess Championship 2023"
       },
       {
          "description" : "Anish Giri went for a stunning sacrificial attack to beat Gukesh while Magnus Carlsen ground out victory over Vincent Keymer to join Ding Liren and Nodirbek Abdusattorov in the lead after Round 2 of the Tata Steel Masters in Wijk aan Zee. In the Challengers, Amin Tabatabaei blundered a piece on move 6 of a King's Gambit but somehow went on to win, while 16-year-old Eline Roebers stunned Dutch Champion Erwin l'Ami.",
@@ -1816,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2170",
          "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
          "title" : "Pranesh M leads FIDE Circuit race"
-      },
-      {
-         "description" : "GM Daniil Dubov and GM Dmitry Andreikin were the champions of Titled Tuesday on January 10, both of them taking sole first place with scores of 10/11. Andreikin&#39;s win came by a full point in the standings. Early Tournament (Dubov) Late Tourna...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-andreikin-win-titled-tuesday-january-10-2023",
-         "pubDate" : "Wed, 11 Jan 2023 09:08:00 -0800",
-         "title" : "Multiple Decisive Tournament Victories Tuesday"
       },
       {
          "description" : " GM Temur Kuybokarov wrapped up the 2023 Australian Open with a final round win over Leah Rice. Kuybokarov finished on 9.5/11 to win the Australian Open for the third time in a row (although he did share first in 2017 and 2019). In outright 2nd was GM Jingyao Tin on 9, while there was a 5 way tie for third. Kuybokarov's win was fairly straightforward although he was in trouble against FM Yi Liu in their game. All the other competitors dropped at least one game, usually at the point where they couldn't afford to. This also meant that no one scored a title norm, as the low average rating of the fields meant a high score was required. One notable feature of the tournament was some massive ratin",
