@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since the early 21st century, the consensus among specialized historians is that the birth of modern chess took place in the ancient Kingdom of Valencia. Francesc Vicent was the author of the first known treatise on modern chess, the 'Llibre dels jochs partits dels scachs en nombre de 100', printed in Valencia on May 15, 1495. In an article for 'Pe&oacute;n de Rey' Magazine, Sergi N&uacute;ñez and Francisco Rubio explain why a line in the Scandinavian Opening should be named 'the Valencia variation'.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-valencian-variation-in-the-scandinavian",
+         "pubDate" : "Wed, 01 Feb 2023 21:23:22 +0100",
+         "title" : "The Valencia variation in the Scandinavian"
+      },
+      {
+         "description" : "For the third week in a row, GM Hikaru Nakamura took home first place in a Titled Tuesday tournament. This week it earned him $2,000 of a $5,000 prize fund in the early event on January 31. Normal prizes resumed for the late tournament, won by GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-january-31-2023",
+         "pubDate" : "Wed, 01 Feb 2023 08:43:26 -0800",
+         "title" : "Deac Edges Out Carlsen After Nakamura Wins Another"
+      },
+      {
          "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepo-and-ding-swap-places-before-their-match",
          "pubDate" : "Wed, 01 Feb 2023 14:14:00 +0000",
          "title" : "Nepo and Ding swap places before match"
+      },
+      {
+         "description" : "What if I told you that Chess.com, as you know it, is nothing but a lie? That the moves you play, the blunders you make... that the whole website is nothing but a prison designed to keep us from winning chess games? Unfortunately, I would be lyi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-ai-bots",
+         "pubDate" : "Wed, 01 Feb 2023 05:56:00 -0800",
+         "title" : "Battle Against The A.I. Bots!"
       },
       {
          "description" : "At the beginning of February FIDE published the new world ranking list. Magnus Carlsen, who continues to be clear number one, lost a few rating points in Wijk, but increased the Elo gap to Ding Liren, who lost even more rating points in Wijk and is now the world's number three while Ian Nepomniachtchi is number two. Hou Yifan is number one on the women's list and Alireza Firouzja remains the world's best junior though his rivals come closer. Best female junior is Bibisara Assaubayeva.",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "Abdusattorov leads the Tata Steel Masters with 6/8 going into the second rest day - 8"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 109th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-109-play-the-sicilian-10",
-         "pubDate" : "Sun, 22 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 109: Play the Sicilian (10)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1730,28 +1746,12 @@ news_feed (
          "title" : "Can Harry count?"
       },
       {
-         "description" : "Puzzles are one of the first tools for improvement introduced to a chess player. Our first chess books are full with dazzling mating combinations to solve and worlds of tactical themes to explore. Our early jumps in ability are almost always due t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-puzzles-world-championship-robson-wins",
-         "pubDate" : "Sat, 14 Jan 2023 00:32:00 -0800",
-         "title" : "'Robson Is The Mittens Of Puzzle Rush'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2171",
          "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
          "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : "The Pro Chess League (PCL) returns on February 1 with a $150,000 prize fund. Don&#39;t miss your favorite players like GM Magnus Carlsen and GM Hikaru Nakamura&#38;mdash;both confirmed!&#38;mdash;in action in this long-running team rapid event. The qualifier ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-pro-chess-league-2023",
-         "pubDate" : "Fri, 13 Jan 2023 13:44:00 -0800",
-         "title" : "2023 Pro Chess League Begins With February 1 Qualifier, Main Event February 14"
       },
       {
          "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
