@@ -2,11 +2,107 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 1 to 13 February Munich will host the second Women's Grand Prix tournament of the 2022-23 series. The two best players from four tournaments will qualify for the Candidates Tournament. The first round starts at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Thu, 02 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : "On the 29th January 2023 in at the Mindsports Centre in Hammersmith three teams entered the European Cities and Towns Chess Championships organised by the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-cities-and-towns-chess-championships-result/",
+         "pubDate" : "Thu, 02 Feb 2023 13:26:16 +0000",
+         "title" : "European Cities and Towns Chess Championships result"
+      },
+      {
+         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-promo-video/",
+         "pubDate" : "Thu, 02 Feb 2023 13:04:02 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Promo video"
+      },
+      {
+         "description" : "On Wednesday the second Women's Grand Prix Tournament of the 2022-23 Series was ceremonially opened at the Vier Jahreszeiten Kempinski Hotel in Munich. Twelve top players are fighting to qualify for the Candidates Tournament. The first round will start at 15.00 CET. | Photos: David Llada/FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dana-reizniece-ozola-welcomes-the-chess-queens-to-munich",
+         "pubDate" : "Thu, 02 Feb 2023 13:59:22 +0100",
+         "title" : "Dana Reizniece-Ozola welcomes the chess queens to Munich"
+      },
+      {
+         "description" : "Following three rounds of play, India, the Philippines and Poland are in the lead at the first Chess Olympiad for People with Disabilities. The third round was opened by the Serbian Minister of Trade, Tourism and Telecommunications, Husein Memic. Despite a very friendly and warm atmosphere at the tournament, the battles over the chessboard are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-r3-the-halfway-point/",
+         "pubDate" : "Thu, 02 Feb 2023 12:37:48 +0000",
+         "title" : "Olympiad for People with Disabilities R3: The halfway point"
+      },
+      {
+         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-munich-round-1-pairings/",
+         "pubDate" : "Thu, 02 Feb 2023 12:05:41 +0000",
+         "title" : "FIDE Women's Grand Prix Munich - Round 1 pairings"
+      },
+      {
+         "description" : " You would think that the list of mangled chess rules would eventually have an end point, but it turns out there are always new additions. Courtesy of Jovan Petronic comes a slightly different take on how a pawn operates. Along with the usual 2 squares at the star, and promotion when it reaches the end of the board, there is an additional, previously unknown power. \"The player whose pawn captures the queen can also get back one piece he has lost or gain one additional piece\" If this bizarre rule has anything going for it, it is that it will reduce the number of queen exchanges (\"12.Qxd6 cxd6 sucker!\") <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/another-oddball-rule.html",
+         "pubDate" : "Thu, 02 Feb 2023 11:54:00 +0000",
+         "title" : "Another oddball rule"
+      },
+      {
+         "description" : "The opening ceremony of the 2022-2023 Munich leg of the Women&#x2019;s Grand Prix was held this evening at the centrally located five-star luxury Vier Jahreszeiten Kempinski hotel, situated directly in the city centre of Munich.&#xA0; The twelve participants, authorities, arbiters and officials, enjoyed a 45-minute series of activities, national anthems, speeches and videos, culminating in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-2nd-leg-of-the-fide-womens-grand-prix-opened-in-munich/",
+         "pubDate" : "Thu, 02 Feb 2023 11:31:40 +0000",
+         "title" : "The 2nd leg of the FIDE Women's Grand Prix opened in Munich"
+      },
+      {
+         "description" : "The second leg of the 2022-2023 Women's Grand Prix Series is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-1-live/",
+         "pubDate" : "Thu, 02 Feb 2023 11:07:00 +0000",
+         "title" : "Women's Grand Prix Munich 2023 - Day 1 live"
+      },
+      {
+         "description" : "Today, chess legend Svetozar Gligoric, who passed away in 2012, would have turned 100 years old. In World War II he fought as a partisan against the Germans, and after the war he became one of the world's best chess players. He was very popular among his peers and even managed to be friends with Bobby Fischer. Dagobert Kohlmeyer remembers the King's Indian expert. | Photos: Dagobert Kohlmeyer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-svetozar-gligoric-2-february-1923-14-august-2012",
+         "pubDate" : "Thu, 02 Feb 2023 12:00:00 +0100",
+         "title" : "Remembering Svetozar Gligoric: 2 February 1923 - 14 August 2012"
+      },
+      {
+         "description" : "The two Dutch top players Anish Giri and Jorden van Foreest once again cut a very good figure in the Tata Steel Chess Masters. Anish Giri even managed to beat Magnus Carlsen and win the tournament for the first time. On Tuesday evening, the two chess grandmasters were guests on the popular Dutch talk show \"Khalid & Sophie\" and explained how chess and chess training works.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/khalid-sophie-talk-with-anish-and-jorden",
+         "pubDate" : "Thu, 02 Feb 2023 11:53:35 +0100",
+         "title" : "Khalid & Sophie talk with Anish & Jorden"
+      },
+      {
+         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation organised a Senior National Arbiter Seminar &#38; Examination at Adhiyamaan College of Engineering,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-hosur/",
+         "pubDate" : "Thu, 02 Feb 2023 09:17:48 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination at Hosur"
+      },
+      {
          "description" : "With the start of the 2023 Airthings Masters just around the corner, chess fans may already be expecting a renewed focus on how air quality affects players. After all, the first event of the new $2 million Champions Chess Tour season is sponsore...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/mit-study-finds-chess-players-perform-worse-when-the-air-quality-is-low",
-         "pubDate" : "Thu, 02 Feb 2023 00:10:23 -0800",
+         "pubDate" : "Thu, 02 Feb 2023 00:10:00 -0800",
          "title" : "MIT Study Finds Chess Players Perform Worse When Air Quality Is Low"
       },
       {
@@ -290,28 +386,12 @@ news_feed (
          "title" : "Olympiad for People with Disabilities Round 1 recap"
       },
       {
-         "description" : "The second leg of the 2022-2023 Women's Grand Prix Series is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-1-live/",
-         "pubDate" : "Tue, 31 Jan 2023 13:07:15 +0000",
-         "title" : "Women's Grand Prix Munich 2023 - Day 1 live"
-      },
-      {
          "description" : "From 29 January to 5 February, Belgrade will host the 1st Chess Olympiad for People with Disabilities. Thirty-three countries and three international teams have registered to take part in this team competition. The German Grandmaster Thomas Luther opened the tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/olympiad-for-people-with-disabilities-round-1-from-dreams-to-reality",
          "pubDate" : "Tue, 31 Jan 2023 14:07:06 +0100",
          "title" : "Olympiad for People with Disabilities Round 1: From dreams to reality"
-      },
-      {
-         "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women&#x2019;s, and Youth U12. Each section featured 9 rounds played in swiss system, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-cities-towns-chess-champions-2023-announced/",
-         "pubDate" : "Tue, 31 Jan 2023 12:35:06 +0000",
-         "title" : "European Cities & Towns Chess Champions 2023 announced"
       },
       {
          "description" : "In the middle of the Chilean summer, at the end of December, the 8th International Chess Festival was held in Arica. Over 100 players from 11 countries participated. The Argentine GM Sandro Mareco won the Open in the \"City of Eternal Spring\" on tiebreak, GM Cristobal Henriquez from Chile finished second. Read more about town and tournament... | Photos: Organiser",
@@ -352,14 +432,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/",
          "pubDate" : "Tue, 31 Jan 2023 11:45:06 +0000",
          "title" : "ECF Arbiter Course - March/April"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2023 is going to take place from 2nd to 14th March in Vrnjacka Banja, Serbia. More than 430 players have already registered for the event and the event is breaking the participation record previously set in Rijeka 2010 with 408 participants. The registration deadline is February 2nd, 2023. The&#160;European Individual []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-ches-championship-2023-breaking-the-participation-record/",
-         "pubDate" : "Tue, 31 Jan 2023 11:35:00 +0000",
-         "title" : "European Individual Chess Championship 2023 breaking the participation record"
       },
       {
          "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women's, and Youth U12. Each section featured 9 rounds played in swiss system, with the time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/\">Read More &#187;</a></span>",
@@ -440,22 +512,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/talkchess-talks-top-engines.html",
          "pubDate" : "Mon, 30 Jan 2023 16:31:00 +0000",
          "title" : "Talkchess Talks Top Engines"
-      },
-      {
-         "description" : "By IM Michael Rahal (Barcelona, Spain)&#160; &#160;&#160;&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&#160; The second event of the 2022-2023 Women's Grand Prix Series will kick off []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/top-female-chess-in-munich/",
-         "pubDate" : "Mon, 30 Jan 2023 16:25:06 +0000",
-         "title" : "Top female chess in Munich"
-      },
-      {
-         "description" : "European Chess Union today published the official statement on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF). The complete statement can be found below: &#8220;The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-publishes-the-official-statement-on-the-possible-transfer-of-the-russian-chess-federation-to-the-asian-chess-federation/",
-         "pubDate" : "Mon, 30 Jan 2023 16:16:06 +0000",
-         "title" : "ECU publishes the official statement on the possible transfer of the Russian Chess Federation to the Asian Chess Federation"
       },
       {
          "description" : "With Sara Khadem Iran has lost another top chess player. The 2018 rapid and blitz vice world champion has moved to Spain with her family, but plans to continue playing under the Iranian flag. The well-known Spanish journalist Leontxo Garcia met with her and published a portrait of the young Iranian woman in the Spanish newspaper \"El Pais\". | Photo: El Pais",
@@ -818,6 +874,14 @@ news_feed (
          "title" : "Losing in Chess: How to Get Back After A Tough Loss"
       },
       {
+         "description" : "Senior National Arbiter's Seminar &#38; Examination at Tirupati ,Andhra Pradesh 29-30 October 2022 Link : https://aicf.online/Arbiter-Seminar-Tirupati.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
+         "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
+         "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
+      },
+      {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1042,14 +1106,6 @@ news_feed (
          "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
       },
       {
-         "description" : "All India Chess Federation congratulate Kolagatla Alana Meenakshi, who conferred with Pradhan Mantri Rashtriya Bal Puraskar! We are proud of you!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-alana-meenakshi/",
-         "pubDate" : "Wed, 25 Jan 2023 04:04:16 +0000",
-         "title" : "Congratulations Alana Meenakshi"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay, using examples from his own games and Averbakh-Spassky. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1162,22 +1218,6 @@ news_feed (
          "title" : "Women's Grand Prix Munich 2023: Pairings announced"
       },
       {
-         "description" : "Pestering the enemy king with checks is an important defensive technique in rook endings. But while giving checks the defending side should not forget that it is often more important to prevent the enemy king from finding a safe escape. In the diagram position it is White to move and draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/running-for-cover",
-         "pubDate" : "Tue, 24 Jan 2023 09:00:00 +0100",
-         "title" : "Running for cover"
-      },
-      {
-         "description" : "In his Endgame Magic Show #224 Karsten shows endgame highlights of the Sunway Sitges Open. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-223-endgame-highlights-of-the-sunway-sitges-open",
-         "pubDate" : "Mon, 23 Jan 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #223: Endgame Highlights of the Sunway Sitges Open"
-      },
-      {
          "description" : "Yes, you read that title correctly. For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. For the previous fortnightly report on the continuous competitions conducted by the world's leading engine vs. engine operators, see <A HREF=\"https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html\">TCEC Cup 11 Underway; CCC19 Bullet in Semifinals</A>(January 2023). Here's a summary:- <BLOCKQUOTE>TCEC: Engine ice4 won the S23 4k tournament ahead of 4ku and three other engines. The site then launched into 'Cup 11', which is currently in the Round-of-16 stage &#149; CCC: Four engines promoted from 'CCC19 Bullet Qualifier #2', and joined ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1194,28 +1234,12 @@ news_feed (
          "title" : "2023 Oceania Zonal - Day 1"
       },
       {
-         "description" : "ChessBase India turned 7 years old on 18th of January 2023. The little baby is growing up pretty quickly. In this article, the CEO and co-founder of ChessBase India, IM Sagar Shah writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell that we are splitting Sagar's report into two parts.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-india-is-seven-years-old",
-         "pubDate" : "Mon, 23 Jan 2023 13:00:00 +0100",
-         "title" : "ChessBase India is seven years old!"
-      },
-      {
          "description" : "Magnus Carlsen is suddenly right back in contention for the Tata Steel Masters title after defeating his great rival Fabiano Caruana in a game that was all but decided by move 22. Nodirbek Abdusattorov kept his 1-point lead with a draw, as the other wins were for players who had been struggling. Richard Rapport, Jorden van Foreest and Gukesh all picked up their first full points.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-8-carlsen-beats-caruana",
          "pubDate" : "Mon, 23 Jan 2023 11:46:33 +0000",
          "title" : "Tata Steel Chess 8: Carlsen beats Caruana"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov continues to lead the Tata Steel Masters going into the second rest day of the event. The number of players chasing him a point back has been reduced from four to two, though, as Praggnanandhaa and Fabiano Caruana lost their games on Sunday. Notably, Caruana was defeated by Magnus Carlsen, who recovered from his losses in rounds 4 and 5 by scoring back-to-back wins over the weekend. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r8",
-         "pubDate" : "Mon, 23 Jan 2023 06:50:00 +0100",
-         "title" : "Tata Steel Chess R8: Carlsen beats Caruana"
       },
       {
          "description" : "",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
       },
       {
-         "description" : "35th MPL National U-09 Certificates are out to download. Download using the link given. Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-09-certificates/",
-         "pubDate" : "Tue, 17 Jan 2023 06:37:33 +0000",
-         "title" : "National U-09 Certificates"
-      },
-      {
          "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1848,22 +1864,6 @@ news_feed (
          "link" : "https://www.europechess.org/tata-steel-chess-2023/",
          "pubDate" : "Thu, 12 Jan 2023 17:26:11 +0000",
          "title" : "Tata Steel Chess 2023"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRgQ3dc-2n5SLm3CXoz__B0oCjZVF3oAJEy4Is5gXE0IooE9lAs0GoxVLYYz_v/s680/SchPaw.png\" imageanchor=\"1\" style=\"clear: right; float: right; margin-bottom: 1em; margin-left: 1em;\"><img border=\"0\" data-original-height=\"680\" data-original-width=\"680\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj60_shhX6V71wn_XHy1qtsvYoEP0wcOS5DHWQnjsmK_BWDgH-i45XHExkxuABCECrfrWLflqznveYuAS89Ue2ld7bdu1QGbsAtjnKS3kWi-pEsW6pORFW2LHgnQ-DRg",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/a-philosophical-question.html",
-         "pubDate" : "Thu, 12 Jan 2023 13:12:00 +0000",
-         "title" : "A Philosophical Question"
-      },
-      {
-         "description" : "The 2023 European Amateur Chess Championship will be held from 16th-26th April 2023 in ClubEsse Posada Beach Resort 4*, Palau - Sardinia, Italy. The event will be played in three rating categories: U1700, U2000 and U2300. In each rating section, a separate championship for women shall be organized only if there are at least 10 women entries otherwise&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/",
-         "pubDate" : "Thu, 12 Jan 2023 09:27:43 +0000",
-         "title" : "European Amateur Chess Championship 2023 - Official regulations"
       }
    ]
 }
