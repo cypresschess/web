@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2207",
+         "pubDate" : "Thu, 02 Feb 2023 17:41:32 +0000",
+         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2206",
+         "pubDate" : "Thu, 02 Feb 2023 16:49:49 +0000",
+         "title" : "Abdusattorov enters top 20 Open in February 2023 rating list"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #553, Merijn van Delft takes a look at a historically important game: Anish Giri's win against Richard Rapport in the last round of the Tata Steel tournament in Wijk aan Zee, a game that helped Giri to win the prestigious tournament for the first time in his career. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-552-carlsen-abdusattorov-2",
+         "pubDate" : "Thu, 02 Feb 2023 16:35:26 +0100",
+         "title" : "Game of the Week #553: A. Giri vs R. Rapport"
+      },
+      {
          "description" : "From 1 to 13 February Munich will host the second Women's Grand Prix tournament of the 2022-23 series. The two best players from four tournaments will qualify for the Candidates Tournament. The first round starts at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1210,14 +1234,6 @@ news_feed (
          "title" : "\"What Say You?\" The 1 Minute Challenge (65)"
       },
       {
-         "description" : "The full pairings for every round of the upcoming Women's Grand Prix Munich 2023 have been announced. The second leg of Women's Grand Prix 2022-23 will take place in Munich from February 1-14, 2022. Twelve players will compete in a round-robin tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-munich-2023-pairings-announced",
-         "pubDate" : "Tue, 24 Jan 2023 10:00:00 +0100",
-         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
-      },
-      {
          "description" : "Yes, you read that title correctly. For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. For the previous fortnightly report on the continuous competitions conducted by the world's leading engine vs. engine operators, see <A HREF=\"https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html\">TCEC Cup 11 Underway; CCC19 Bullet in Semifinals</A>(January 2023). Here's a summary:- <BLOCKQUOTE>TCEC: Engine ice4 won the S23 4k tournament ahead of 4ku and three other engines. The site then launched into 'Cup 11', which is currently in the Round-of-16 stage &#149; CCC: Four engines promoted from 'CCC19 Bullet Qualifier #2', and joined ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1856,14 +1872,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jan/13/chess-carlsen-takes-on-young-guns-at-wijk-as-world-champion-eyes-record",
          "pubDate" : "Fri, 13 Jan 2023 08:00:10 +0000",
          "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
-      },
-      {
-         "description" : "The 85th jubilee edition of the Tata Steel Chess will be held from 13-29 January in Wijk aan Zee. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is headlined by World Chess Champion Magnus Carlsen. The participants are: Magnus Carlsen&#160;(NOR, 2859) Ding Liren&#160;(CHN, 2811) Fabiano Caruana&#160;(USA, 2766) Anish Giri&#160;(NED, 2764) Wesley&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/tata-steel-chess-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tata-steel-chess-2023/",
-         "pubDate" : "Thu, 12 Jan 2023 17:26:11 +0000",
-         "title" : "Tata Steel Chess 2023"
       }
    ]
 }
