@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings., specifically on the pawn structures and tactics. 2023.01.31<br /> Craig Hilby vs. Razvan Preotu, 2018: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4133521\">https://www.365chess.com/game.php?back=1&amp;gid=4133521</a><br /> Jack Peters vs. Josh Sheng, 2015: B42 Sicilian, Kan, Polugaievsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pawn-structure-sicilian-middlegames-grandmasters-choice-gm-josh-sheng",
+         "pubDate" : "Wed, 01 Feb 2023 23:24:49 +0000",
+         "title" : "Pawn Structure in Sicilian Middlegames | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2205",
+         "pubDate" : "Wed, 01 Feb 2023 23:17:23 +0000",
+         "title" : "Dana Reizniece-Ozola welcomes the chess queens to Munich "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2204",
+         "pubDate" : "Wed, 01 Feb 2023 22:35:14 +0000",
+         "title" : "Olympiad for People with Disabilities R3: The halfway point"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2203",
+         "pubDate" : "Wed, 01 Feb 2023 20:59:21 +0000",
+         "title" : "Sergio Pereira wins FIDE Zone 4.3 Individual Championship"
+      },
+      {
          "description" : "Since the early 21st century, the consensus among specialized historians is that the birth of modern chess took place in the ancient Kingdom of Valencia. Francesc Vicent was the author of the first known treatise on modern chess, the 'Llibre dels jochs partits dels scachs en nombre de 100', printed in Valencia on May 15, 1495. In an article for 'Pe&oacute;n de Rey' Magazine, Sergi N&uacute;ñez and Francisco Rubio explain why a line in the Scandinavian Opening should be named 'the Valencia variation'.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1482,14 +1514,6 @@ news_feed (
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Igor Novikov teaches a chess class on decision-making in complicated positions, using his own game against Larry Christiansen in the 2022 U.S. Senior Championship in Saint Louis. 2023.01.10<br /> Igor Novikov vs Larry Christiansen, U.S. Senior Championships (2022): D37 Queen&#039;s Gambit Declined, 4.Nf3<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2412429\">https://www.chessgames.com/perl/chessgame?gid=2412429</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/make-decisions-complex-positions-part-1-grandmasters-choice-gm-igor-novikov",
-         "pubDate" : "Wed, 18 Jan 2023 02:13:29 +0000",
-         "title" : "Make Decisions in Complex Positions: Part 1 | Grandmaster's Choice - GM Igor Novikov"
-      },
-      {
          "description" : "On Tuesday, GM Anish Giri overcame GM Magnus Carlsen in classical chess for the first time in over a decade in round four of the 2023 Tata Steel Chess Tournament. GM Nodirbek Abdusattorov displayed unstoppable precision to defeat GM Parham Maghsoo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1840,14 +1864,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-amateur-chess-championship-2023-official-regulations/",
          "pubDate" : "Thu, 12 Jan 2023 09:27:43 +0000",
          "title" : "European Amateur Chess Championship 2023 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2170",
-         "pubDate" : "Wed, 11 Jan 2023 22:49:24 +0000",
-         "title" : "Pranesh M leads FIDE Circuit race"
       }
    ]
 }
