@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the start of the 2023 Airthings Masters just around the corner, chess fans may already be expecting a renewed focus on how air quality affects players. After all, the first event of the new $2 million Champions Chess Tour season is sponsore...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mit-study-finds-chess-players-perform-worse-when-the-air-quality-is-low",
+         "pubDate" : "Thu, 02 Feb 2023 00:10:23 -0800",
+         "title" : "MIT Study Finds Chess Players Perform Worse When Air Quality Is Low"
+      },
+      {
+         "description" : "Who doesn't know Sesame Street, the American educational children's television series that premiered in 1969 and runs on animation and puppetry. It is one of the longest-running shows in history. And it has been adapted for dozens of other countries. In a must-read new book Natasha Lane Rogoff describes the harrowing conversion to Ulitsa Sezam for Russia and Ukraine. And yes, there is a chess connection.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/natasha-rogoff-muppets-in-moscow",
+         "pubDate" : "Thu, 02 Feb 2023 09:00:00 +0100",
+         "title" : "Natasha Rogoff: Muppets in Moscow"
+      },
+      {
+         "description" : "The dream run for Indian team continues on 3rd round as Indian team get a comfortable win against Israel. India scored 3-1 against Israel .",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-3/",
+         "pubDate" : "Thu, 02 Feb 2023 07:47:38 +0000",
+         "title" : "1st Fide Chess Olympiad for people with disabilities -2023: Round 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings., specifically on the pawn structures and tactics. 2023.01.31<br /> Craig Hilby vs. Razvan Preotu, 2018: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4133521\">https://www.365chess.com/game.php?back=1&amp;gid=4133521</a><br /> Jack Peters vs. Josh Sheng, 2015: B42 Sicilian, Kan, Polugaievsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -46,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-january-31-2023",
-         "pubDate" : "Wed, 01 Feb 2023 08:43:26 -0800",
+         "pubDate" : "Wed, 01 Feb 2023 08:43:00 -0800",
          "title" : "Deac Edges Out Carlsen After Nakamura Wins Another"
       },
       {
@@ -794,22 +818,6 @@ news_feed (
          "title" : "Losing in Chess: How to Get Back After A Tough Loss"
       },
       {
-         "description" : "Senior National Arbiter's Seminar &#38; Examination at Tirupati ,Andhra Pradesh 29-30 October 2022 Link : https://aicf.online/Arbiter-Seminar-Tirupati.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
-         "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
-         "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
-      },
-      {
-         "description" : "Senior National Arbiter Seminar &#38; Examination ,11th &#38; 12th December 2022, Salem, Tamil Nadu Certificates are out to download. Link : https://aicf.online/Arbiter-Seminar-Salem.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-certificates-salem-tamil-nadu/",
-         "pubDate" : "Fri, 27 Jan 2023 09:39:56 +0000",
-         "title" : "Senior National Arbiter Certificates Salem, Tamil Nadu"
-      },
-      {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1226,14 +1234,6 @@ news_feed (
          "title" : "Carlsen Overcomes Caruana, Spearheads Day of Four Victories"
       },
       {
-         "description" : "Thanks to dedicated individuals who follow their own heart's pursuits, ancient chess variants are still alive today. An overwhelming number of enthusiasts and associations throughout the world cultivate old variants and other board games. Among them is Greg Myers, founder of the 'Tamerlane Chess Club' in Jamestown, New York.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tamerlane-chess-revived",
-         "pubDate" : "Sun, 22 Jan 2023 20:00:00 +0100",
-         "title" : "Tamerlane Chess revived!"
-      },
-      {
          "description" : "Hmmm. I'm starting to detect a trend here. Just a few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html\">Donald Trump, Chess Master</A>(October 2022; 'In the world of AI, Trump plays chess'). Now we have this. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na22.gif\" WIDTH=400 HEIGHT=265><BR><B>Upper left corner:</B><A HREF=\"https://www.flickr.com/photos/marc-frant/52642486166/\">DALL-E : An oil painting by Vinci of a humanoid robot playing chess</A>&#169; Flickr user <I>Marc Frant</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>. <P>The image had no additional description, but this i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1610,6 +1610,14 @@ news_feed (
          "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
       },
       {
+         "description" : "35th MPL National U-09 Certificates are out to download. Download using the link given. Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-09-certificates/",
+         "pubDate" : "Tue, 17 Jan 2023 06:37:33 +0000",
+         "title" : "National U-09 Certificates"
+      },
+      {
          "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2172",
          "pubDate" : "Sun, 15 Jan 2023 08:00:21 +0000",
          "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
-      },
-      {
-         "description" : "World championship challenger GM Ding Liren and GM Nordirbek Abdusattorov scored the first victories of the 2023 Tata Steel Chess Tournament in round one. Defending champion GM Magnus Carlsen drew a combative game vs. GM Levon Aronian. In the Ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 14 Jan 2023 21:57:00 -0800",
-         "title" : "Ding, Abdusattorov Score First Victories"
       },
       {
          "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
