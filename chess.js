@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-2-live/",
+         "pubDate" : "Fri, 03 Feb 2023 10:32:56 +0000",
+         "title" : "Women's Grand Prix Munich 2023 - Day 2 live"
+      },
+      {
+         "description" : "The first round of the second leg of the 2022-2023 Women's Grand Prix kicked off this afternoon in the Kempinski hotel with four decisive results in the six games.&#xA0; After the introductions and reminders, Chief Arbiter&#160;Jens Wolter&#160;initiated the clocks punctually at three o'clock, and, after the customary handshakes and pre-game smiles, the twelve players sat []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-wgp-munich-starts-with-a-bang/",
+         "pubDate" : "Fri, 03 Feb 2023 10:28:14 +0000",
+         "title" : "FIDE WGP Munich starts with a bang"
+      },
+      {
+         "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vaile-s-new-album-fragile",
+         "pubDate" : "Fri, 03 Feb 2023 11:00:00 +0100",
+         "title" : "Vaile's new album - Fragile"
+      },
+      {
          "description" : " The Netherlands world No 5 got a final-round gift, while a 'backbreaker' in the penultimate round cost the world champion his chance of forcing a playoff Chess tournaments can be decided by the tiniest of margins, and that certainly happened in last weekend's final two rounds at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The world champion, Magnus Carlsen, missed a likely winning opportunity in the penultimate round, while the Dutch home favourite, Anish Giri, received a gift point in his final game. Nodirbek Abdusattorov, the Uzbekistan 18-year-old who had led all the way from round one, chose a conservative drawing strategy in the second half of the event, and came unstuck against th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -39,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-1",
          "pubDate" : "Thu, 02 Feb 2023 15:09:00 -0800",
-         "title" : "Four Decisive King Attacks By Early Leaders"
+         "title" : "4 Decisive King Attacks By Early Leaders"
       },
       {
          "description" : "The Spanish Maniac Shrimps won the Pro Chess League 2023 Qualifier, finishing first in both segments of the two-day event. They fill the 16th and final spot of the PCL main event this year. After qualifying for the Qualifier Knockout through the...",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2210",
          "pubDate" : "Thu, 02 Feb 2023 22:33:59 +0000",
          "title" : "Olympiad for People with Disabilities: The link between chess, football and Royalty"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2209",
+         "pubDate" : "Thu, 02 Feb 2023 21:41:13 +0000",
+         "title" : "Kuybokarov, Ryjanova win Oceania Zonal Championships"
       },
       {
          "description" : "",
@@ -354,14 +386,6 @@ news_feed (
          "title" : "Sac Or No Sac? (4)"
       },
       {
-         "description" : "The 2023 International Chess Open Graz will take place from 18 to 24 February in Graz, Austria. The event features three tournaments: A (for players rated 2000+), B (for players rated U2000) and C (for players rated U1700). Each tournament will be played in 9 rounds, swiss system, with the time control 90 min + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/graz-chess-open-2023/",
-         "pubDate" : "Wed, 01 Feb 2023 09:19:00 +0000",
-         "title" : "Graz Chess Open 2023"
-      },
-      {
          "description" : "Russia&#39;s powerhouse chess federation, the biggest in the world, is pressing on with its historic move to formally switch from the European Chess Union (ECU) to Asia, it was revealed on Tuesday. In the latest development in a row that has exposed...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-4",
          "pubDate" : "Tue, 31 Jan 2023 16:00:00 +0100",
          "title" : "Endgames from Wijk aan Zee (4)"
-      },
-      {
-         "description" : "The chess part of the journey of the first Chess Olympiad for People with Disabilities started with the first round kicking off in Belgrade, Serbia A milestone moment in chess history occurred on January 30, 2023, shortly after 3 PM CET, when the opening move of the first Olympiad for players with disabilities was played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-round-1-recap/",
-         "pubDate" : "Tue, 31 Jan 2023 13:17:32 +0000",
-         "title" : "Olympiad for People with Disabilities Round 1 recap"
       },
       {
          "description" : "From 29 January to 5 February, Belgrade will host the 1st Chess Olympiad for People with Disabilities. Thirty-three countries and three international teams have registered to take part in this team competition. The German Grandmaster Thomas Luther opened the tournament.",
@@ -1234,14 +1250,6 @@ news_feed (
          "title" : "Counterplay | Grandmaster's Choice - GM Josh Sheng"
       },
       {
-         "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/does-chess-history-have-to-be-rewritten-an-interview-with-willy-hendriks",
-         "pubDate" : "Tue, 24 Jan 2023 21:00:00 +0100",
-         "title" : "\"Does chess history have to be rewritten?\" - An interview with Willy Hendriks"
-      },
-      {
          "description" : " Nodirbek Abdusattorov managed to save an extremely bad position against Vincent Keymer in Round 9 of the Tata Steel Masters, this allowed him to keep his lead. Anish Giri moved within half a point after beating Ding Liren with the black pieces. Richard Rapport was the other winner beating Arjun Erigaisi. Wesley So had to settle for a draw against Parham Maghsoodloo and he plays Giri tomorrow. Full report by FM Michiel Abeln below. Masters Round 9 Standings: 1st Abdusattorov 6.5pts/9, 2nd Giri 6pts, 3rd So 5.5pts, 4th= Caruana, Aronian, Praggnanandhaa, Carlsen 5 pts, 8th Rapport 4.5pts, 9th= Maghsoodloo, Ding Liren 4pts. 11th Van Foreest 3.5pts, 12th= Erigaisi, Keymer, Gukesh 3pts. Masters R",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/perpetually-checked.html",
          "pubDate" : "Fri, 13 Jan 2023 13:08:00 +0000",
          "title" : "Perpetually Checked"
-      },
-      {
-         "description" : "ECU E-Magazine December 2022 is out! In this edition of the ECU Magazine you can read about: European Rapid &#38; Blitz Chess Championships 2022 FIDE World Rapid &#38; Blitz Chess Championships 2022 Upcoming Tata Steel Chess 2023 Upcoming European Cities &#38; Towns Chess Championship European Individual Open &#38; Women's Chess Championships 2023 European Senior Chess Championship 2023 European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-december-2022/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-december-2022/",
-         "pubDate" : "Fri, 13 Jan 2023 09:06:53 +0000",
-         "title" : "ECU E-Magazine December 2022"
       }
    ]
 }
