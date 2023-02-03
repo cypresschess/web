@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The play-in phase of the Airthings Masters is taking place on February 3 and is open to all grandmasters. A total of 54 players will qualify to the knockout stage set to start on Monday. A 9-round Swiss tournament will be followed by 2-game matches to decide who qualifies and to which division of the knockout. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-play-in-live",
+         "pubDate" : "Fri, 03 Feb 2023 16:45:00 +0100",
+         "title" : "Airthings Masters Play-In: Live!"
+      },
+      {
+         "description" : " A trash-talking cat bot on chess.com is at least partly responsible for the biggest Chess boom ever. Yes, bigger than the boom during the pandemic and after the release of the fabulous chess mini-series on Netflix called The Queens-Gambit. It is only logical that now I get asked many times: \"Noël, should I play against [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-against-computer/\">Should You Play Chess Against The Computer?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-against-computer/",
+         "pubDate" : "Fri, 03 Feb 2023 14:04:30 +0000",
+         "title" : "Should You Play Chess Against The Computer?"
+      },
+      {
+         "description" : "The Play-In for the&#xA0;Airthing Masters, the 1st event of the&#xA0;2023 Champions Chess Tour,&#xA0;is taking place on February 3rd deciding which 54 players will join&#xA0;Magnus Carlsen&#xA0;and&#xA0;Wesley So&#xA0;in the main event which will be played from 6-10 February. The Airthing Masters Play-In will begin with a 9-round swiss tournament, with the top finishers advancing to Match Play. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/airthings-masters-play-in-live/",
+         "pubDate" : "Fri, 03 Feb 2023 13:52:26 +0000",
+         "title" : "Airthings Masters Play-In - LIVE"
+      },
+      {
+         "description" : "The Play-In for the Airthing Masters, the 1st event of the 2023 Champions Chess Tour, is taking place on February 3rd deciding which 54 players will join Magnus Carlsen and Wesley So in the main event which will be played from 6-10 February. The Airthing Masters Play-In will begin with a 9-round swiss tournament, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/airthings-masters-play-in-champions-chess-tour-2023/",
+         "pubDate" : "Fri, 03 Feb 2023 13:48:23 +0000",
+         "title" : "Airthings Masters Play-In | Champions Chess Tour 2023"
+      },
+      {
+         "description" : "From 1 to 13 February Munich will host the second Women's Grand Prix tournament of the 2022-23 series. The two best players from four tournaments will qualify for the Candidates Tournament. The first round starts at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Fri, 03 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : "Alexandra Kosteniuk, Tan Zhongyi, Elisabeth Paehtz and Nana Dzagnidze got off to a perfect start with wins as the second leg of the FIDE Women's Grand Prix kicked off in Munich, Germany on Thursday. One of the draws was not without controversy.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/women-s-grand-prix-kicks-off-with-four-decisive-games-and-one-controversy",
+         "pubDate" : "Fri, 03 Feb 2023 13:36:35 +0000",
+         "title" : "Women's GP kicks off with 4 wins & 1 controversy"
+      },
+      {
+         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-grand-prix-munich-round-2-pairings/",
+         "pubDate" : "Fri, 03 Feb 2023 13:27:04 +0000",
+         "title" : "Women Grand Prix Munich - Round 2 pairings"
+      },
+      {
+         "description" : "By Milan Dinic A hundred years since the birth of one of the greatest names in the history of chess, friends, players, officials and lovers of the game gathered in the Serbian capital to remember Svetozar Gligoric Grandmaster Svetozar Gligoric, who died in 2012, would have turned 100 today. Gligoric was born on 2nd February []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-centenary-of-the-birth-of-svetozar-gligoric-celebrated-in-belgrade/",
+         "pubDate" : "Fri, 03 Feb 2023 13:09:35 +0000",
+         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrade"
+      },
+      {
+         "description" : "It&#x2019;s not every day that a world-famous footballer comes to follow a chess event, but that&#x2019;s just what happened in Belgrade on the fourth round of the first Olympiad for People with Disabilities The first move ceremony in chess is a peculiar affair. A lot of things need to come together: the honorary guests need []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-the-link-between-chess-football-and-royalty/",
+         "pubDate" : "Fri, 03 Feb 2023 12:26:53 +0000",
+         "title" : "Olympiad for People with Disabilities: The link between chess, football and Royalty"
+      },
+      {
          "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,20 +82,20 @@ news_feed (
          "title" : "Women's Grand Prix Munich 2023 - Day 2 live"
       },
       {
-         "description" : "The first round of the second leg of the 2022-2023 Women's Grand Prix kicked off this afternoon in the Kempinski hotel with four decisive results in the six games.&#xA0; After the introductions and reminders, Chief Arbiter&#160;Jens Wolter&#160;initiated the clocks punctually at three o'clock, and, after the customary handshakes and pre-game smiles, the twelve players sat []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-wgp-munich-starts-with-a-bang/",
-         "pubDate" : "Fri, 03 Feb 2023 10:28:14 +0000",
-         "title" : "FIDE WGP Munich starts with a bang"
-      },
-      {
          "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vaile-s-new-album-fragile",
          "pubDate" : "Fri, 03 Feb 2023 11:00:00 +0100",
          "title" : "Vaile's new album - Fragile"
+      },
+      {
+         "description" : "The first round of the second leg of the 2022-2023 Women's Grand Prix kicked off this afternoon in the Kempinski hotel with four decisive results in the six games.&#xA0; After the introductions and reminders, Chief Arbiter&#160;Jens Wolter&#160;initiated the clocks punctually at three o'clock, and, after the customary handshakes and pre-game smiles, the twelve players sat []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-wgp-munich-starts-with-a-bang/",
+         "pubDate" : "Fri, 03 Feb 2023 09:28:14 +0000",
+         "title" : "FIDE WGP Munich starts with a bang"
       },
       {
          "description" : " The Netherlands world No 5 got a final-round gift, while a 'backbreaker' in the penultimate round cost the world champion his chance of forcing a playoff Chess tournaments can be decided by the tiniest of margins, and that certainly happened in last weekend's final two rounds at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The world champion, Magnus Carlsen, missed a likely winning opportunity in the penultimate round, while the Dutch home favourite, Anish Giri, received a gift point in his final game. Nodirbek Abdusattorov, the Uzbekistan 18-year-old who had led all the way from round one, chose a conservative drawing strategy in the second half of the event, and came unstuck against th",
@@ -66,7 +138,7 @@ news_feed (
          "title" : "4 Decisive King Attacks By Early Leaders"
       },
       {
-         "description" : "The Spanish Maniac Shrimps won the Pro Chess League 2023 Qualifier, finishing first in both segments of the two-day event. They fill the 16th and final spot of the PCL main event this year. After qualifying for the Qualifier Knockout through the...",
+         "description" : "The Spanish Maniac Shrimps won the Pro Chess League 2023 Qualifier, finishing first in both segments of the two-day event. They fill the 16th and final spot of the PCL main event this year. After making it to the Qualifier Knockout through the S...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/spanish-maniac-shrimps-win-2023-pcl-qualifier",
@@ -178,22 +250,6 @@ news_feed (
          "title" : "Another oddball rule"
       },
       {
-         "description" : "The opening ceremony of the 2022-2023 Munich leg of the Women&#x2019;s Grand Prix was held this evening at the centrally located five-star luxury Vier Jahreszeiten Kempinski hotel, situated directly in the city centre of Munich.&#xA0; The twelve participants, authorities, arbiters and officials, enjoyed a 45-minute series of activities, national anthems, speeches and videos, culminating in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-2nd-leg-of-the-fide-womens-grand-prix-opened-in-munich/",
-         "pubDate" : "Thu, 02 Feb 2023 11:31:40 +0000",
-         "title" : "The 2nd leg of the FIDE Women's Grand Prix opened in Munich"
-      },
-      {
-         "description" : "The second leg of the 2022-2023 Women's Grand Prix Series is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-1-live/",
-         "pubDate" : "Thu, 02 Feb 2023 11:07:00 +0000",
-         "title" : "Women's Grand Prix Munich 2023 - Day 1 live"
-      },
-      {
          "description" : "Today, chess legend Svetozar Gligoric, who passed away in 2012, would have turned 100 years old. In World War II he fought as a partisan against the Germans, and after the war he became one of the world's best chess players. He was very popular among his peers and even managed to be friends with Bobby Fischer. Dagobert Kohlmeyer remembers the King's Indian expert. | Photos: Dagobert Kohlmeyer",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -290,14 +346,6 @@ news_feed (
          "title" : "Deac Edges Out Carlsen After Nakamura Wins Another"
       },
       {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-live/",
-         "pubDate" : "Wed, 01 Feb 2023 15:31:48 +0000",
-         "title" : "Women's Grand Prix Munich 2023 - LIVE"
-      },
-      {
          "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In this episode, we discover how easy it is to stream a Fritztrainer directly with ChessBase 17.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,28 +402,12 @@ news_feed (
          "title" : "1st FIDE Olympiad for People with Disabilities 2023:Report Round 2"
       },
       {
-         "description" : "Anish Giri&#xA0;is the new leader of the FIDE Circuit race following his excellent performance in the 2023 Tata Steel Masters. In a dramatic final round, the Dutchman leapfrogged&#xA0;Nodirbek Abdusattorov, who was leading most of the event and finished clear fist soaring to the top position in the race.&#xA0; The top finishers in this competition, Nodirberk []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-leads-the-fide-circuit-race/",
-         "pubDate" : "Wed, 01 Feb 2023 11:18:01 +0000",
-         "title" : "Anish Giri leads the FIDE Circuit race"
-      },
-      {
          "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but we also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/aquarius-and-their-strategy",
          "pubDate" : "Wed, 01 Feb 2023 12:00:00 +0100",
          "title" : "Aquarius and their strategy"
-      },
-      {
-         "description" : "Following two days of competition, there are now six teams with a perfect score. However, for many, the socialising aspect and the atmosphere seem to be the most significant factor. The second day of the Olympiad started with the first move ceremony, carried out by&#160;Darija Kisic Tepavcevic, a doctor and epidemiologist who is currently serving []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/inspiring-battles-at-chess-olympiad-for-people-with-disabilities/",
-         "pubDate" : "Wed, 01 Feb 2023 10:04:00 +0000",
-         "title" : "Inspiring battles at Chess Olympiad for People with Disabilities"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1186,14 +1218,6 @@ news_feed (
          "title" : "ChessBase 17 video: Adjusting visual settings (Dark Mode)"
       },
       {
-         "description" : "Nodirbek Abdusattorov grabbed the lead at the Tata Steel Masters in round 5, and has topped the standings ever since. In Tuesday's round 9, however, he could have been caught by Anish Giri, who got the better of Ding Liren in a sharp encounter. The Dutchman would be now in the shared lead had Vincent Keymer made the most of his advantage against Abdusattorov - the Uzbek defended resourcefully, though, and the game ended in an 89-move draw. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r9",
-         "pubDate" : "Wed, 25 Jan 2023 06:15:00 +0100",
-         "title" : "Tata Steel Chess R9: Giri beats Ding, Abdusattorov escapes with a draw"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1232,14 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/travel-day-for-me.html",
          "pubDate" : "Tue, 24 Jan 2023 22:59:00 +0000",
          "title" : "Travel day for me"
-      },
-      {
-         "description" : "The first Monthly Dragon in 2023 is ready, and our Dragon aficionado GM Chris Ward found some interesting games in the Yugoslav attack for us. This month we take a look at 9. 0-0-0 d5 where White ignores the central pawn tension and instead immediately swaps knights on c6 and then seeks to trade off the Dragon bishop via Bh6. This ultra-direct approach with a swift h-file assault in mind has been around for decades but has recently come back into fashion. Needless to say it's far from one-way traffic though as Black certainly has his own attacking aspirations in another no-holds-barred encounter of thrills and spills! | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-modern-line",
-         "pubDate" : "Tue, 24 Jan 2023 22:00:00 +0100",
-         "title" : "The Monthly Dragon - The Modern Line 9.0-0-0 d5"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay. 2023.01.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "International Junior tournaments"
       },
       {
-         "description" : "Fabiano Caruana was hit by a Jorden van Foreest novelty in Round 3 of the Tata Steel Masters, but he survived the opening unscathed and later picked up a free pawn to score the day's only win and join a 5-man leading group. That includes Magnus Carlsen and Ding Liren, whose head-to-head clash soon fizzled out. 6 players lead the Challengers, including Round 3 winners Velimir Ivic, Mustafa Yilmaz and Javokhir Sindarov.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-3-fabi-joins-leaders-as-ding-holds-magnus",
-         "pubDate" : "Tue, 17 Jan 2023 09:06:19 +0000",
-         "title" : "Tata Steel Chess 3: Fabi joins leaders as Ding holds Magnus"
-      },
-      {
          "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1856,38 +1864,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html",
          "pubDate" : "Fri, 13 Jan 2023 16:44:00 +0000",
          "title" : "The Evolution of Chess.net"
-      },
-      {
-         "description" : " The 85th Tata Steel chess tournament starts on 14th January and runs until Sun 29th. Magnus Carlsen will be there, Ding Liren, Fabiano Caruana, Anish Giri, Wesley So, Richard Rapport and Lvon Aronian will be there as will Jorden van Foreest the surprise winner in 2021. D Gukesh, Arjun Erigaisi, Parham Maghsoodloo, Nodirbek Abdusattorov, Vincent Keymer and R Praggnanandhaa make up the rest of the field, young and ambitious players most of who play a lot of strong online blitz chess too. The Challengers event has been artfully constructed too, this should be a tremendous event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023",
-         "pubDate" : "Fri, 13 Jan 2023 19:49:00 +0400",
-         "title" : "85th Tata Steel 2023 - Games and Results"
-      },
-      {
-         "description" : "The 2023 ECF Online Grand Prix runs from January to October 2023. Blitz and Rapid events will take place on the first and third Sundays...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2023-ecf-online-grand-prix-series-3-first-rapid-event-on-sunday-15th-january/",
-         "pubDate" : "Fri, 13 Jan 2023 15:18:45 +0000",
-         "title" : "2023 ECF Online Grand (Prix Series 3) - First Rapid Event on Sunday 15th January"
-      },
-      {
-         "description" : " The U.S. Chess Federation continues bolstering its staff with the addition of Danielle Little as Program Director for Women and At-Risk Youth. After hiring Howard alumnus Emmanuel London and Chicago resident J.J. Lang last fall, they added Little, which adds another element to outreach initiatives for U.S. Chess. According to an article featuring her work The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/13/u-s-chess-hires-danielle-little/\">U.S. Chess hires Danielle Little!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/13/u-s-chess-hires-danielle-little/",
-         "pubDate" : "Fri, 13 Jan 2023 14:36:31 +0000",
-         "title" : "U.S. Chess hires Danielle Little!"
-      },
-      {
-         "description" : " Just an interesting game from the 1950's that I cam across. I don't have any details for it, but it does end a curious perpetual check, where each side is putting the other side in check. BTW If you play this line for Black, note that White wins with 8.Nc3! <br /> <b>White - Black [C41]</b><br />1955 <script>new PgnViewer( { boardName: \"game1375\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 h6 5.dxe5 dxe5 6.Bxf7+ Kxf7 7.Nxe5+ Kf6 8.Qf3+ Kxe5 9.Qf7 Ngf6 10.Nd2 Qe8 11.Nc4+ Kxe4 12.f3+ Kf5+ 13.Ne3+ Ke5 14.Nc4+ Kf5+ 1/2-1/2', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1375-container\"></div><div id=\"game1375-moves\"></div><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/perpetually-checked.html",
-         "pubDate" : "Fri, 13 Jan 2023 13:08:00 +0000",
-         "title" : "Perpetually Checked"
       }
    ]
 }
