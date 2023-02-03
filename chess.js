@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second leg of the 2022-2023 FIDE Women&#39;s Grand Prix kicked off with four decisive games in round one, featuring ferocious king attacks by GMs Tan Zhongyi, Nana Dzagnidze, Alexandra Kosteniuk, and Elisabeth Paehtz.&#38;nbsp; How to watch? The gam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-1",
+         "pubDate" : "Thu, 02 Feb 2023 15:09:00 -0800",
+         "title" : "Four Decisive King Attacks By Early Leaders"
+      },
+      {
+         "description" : "The Spanish Maniac Shrimps won the Pro Chess League 2023 Qualifier, finishing first in both segments of the two-day event. They fill the 16th and final spot of the PCL main event this year. After qualifying for the Qualifier Knockout through the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/spanish-maniac-shrimps-win-2023-pcl-qualifier",
+         "pubDate" : "Thu, 02 Feb 2023 15:05:00 -0800",
+         "title" : "Spanish Maniac Shrimps Qualify For PCL Main Event"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2210",
+         "pubDate" : "Thu, 02 Feb 2023 22:33:59 +0000",
+         "title" : "Olympiad for People with Disabilities: The link between chess, football and Royalty"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2208",
+         "pubDate" : "Thu, 02 Feb 2023 21:24:23 +0000",
+         "title" : "WGP Munich starts with a bang"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fight-french-winawer-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KgvncwoMyZ8.jpg?itok=9gP4ob5S\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fight-french-winawer-prepare-pro-gm-josh-sheng",
+         "pubDate" : "Thu, 02 Feb 2023 20:25:03 +0000",
+         "title" : "Fight the French Winawer! | Prepare Like A Pro - GM Josh Sheng"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2207",
          "pubDate" : "Thu, 02 Feb 2023 17:41:32 +0000",
-         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrad"
+         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrade"
       },
       {
          "description" : "",
@@ -1178,14 +1218,6 @@ news_feed (
          "title" : "Counterplay | Grandmaster's Choice - GM Josh Sheng"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on opposition and outflanking your opponent.<br /> &quot;Opposition&quot; refers to the position of kings, relative to one another, in the endgame. See the correct way to promote a pawn in King vs. King. 2023.01.24<br /> Frank Marshall vs Mikhail Chigorin, Barmen Meisterturnier A (1905)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1003081\">https://www.chessgames.com/perl/chessgame?gid=1003081</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opposition-and-outflanking-beginner-breakdown",
-         "pubDate" : "Tue, 24 Jan 2023 20:17:18 +0000",
-         "title" : "Opposition and Outflanking | Beginner Breakdown"
-      },
-      {
          "description" : "Dutch author and International Master Willy Hendriks just published \"The Ink War: Romanticism vs Modernity in chess\". The book analyses the rivalry between Wilhelm Steinitz and Johannes Zukertort, who in 1886 played the first official World Championship match. But Hendriks also looks at chess history and challenges a number of accepted views about chess improvement and the development of chess knowledge. In an interview with Johannes Fischer Hendriks talks about Steinitz, Zukertort, chess history, the pleasures of studying the classics, and why studying the openings helps you to improve in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1706,28 +1738,12 @@ news_feed (
          "title" : "Tata Steel"
       },
       {
-         "description" : "GMs Magnus Carlsen and Anish Giri joined GMs Ding Liren and Nodirbek Abdusattorov on 1.5/2 after scoring victories over GMs Gukesh D and Vincent Keymer in the second round of the 2023 Tata Steel Chess Tournament. The world championship challenge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 15 Jan 2023 16:06:00 -0800",
-         "title" : "Giri's Double Sacrifice Stuns Gukesh, Carlsen Grinds Down Keymer"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2173",
          "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
          "title" : "Tata Steel Masters: Four in the lead after Round 2"
-      },
-      {
-         "description" : "The ongoing controversy involving 19-year-old GM Hans Niemann gained a peculiar twist on Tuesday. Niemann amended his lawsuit with an additional 13 pages, notably accusing world champion GM Magnus Carlsen of paying fellow Norwegian grandmaster, Ar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hans-niemann-amends-complaint",
-         "pubDate" : "Sun, 15 Jan 2023 15:09:00 -0800",
-         "title" : "Hans Niemann Amends Complaint, Alleges Carlsen Paid Friend To Yell 'Cheater Hans'"
       },
       {
          "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
