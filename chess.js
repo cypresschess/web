@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri won the Tata Steel Chess Masters 2023 ahead of all the top players in the world - Magnus Carlsen, Wesley So, Ding Liren, Fabiano Caruana. He played some phenomenal chess throughout the event to win it with a rating performance of 2849, scoring 8.5/13 and gaining 16 Elo points. Anish has been very close to winning the tournament multiple times, but this is the first time he has clinched the trophy at Wijk Aan Zee! We invited him for a livestream to get his thoughts on winning this prestigious tournament. Check out his full interview with IM Sagar Shah below.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-anish-giri-interview-winning-tata-steel-masters-2023",
+         "pubDate" : "Fri, 03 Feb 2023 20:00:00 +0100",
+         "title" : "The Anish Giri Interview: Winning Tata Steel Masters 2023"
+      },
+      {
+         "description" : " Last week, we worked through our game's first seven moves. This week, we'll start at move eight. As I mentioned in the conclusion of last week's article, we'd look at what White could have done differently in an effort to avoid the disaster that ensued. This week's article is going to be short since it <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\">A Foundation for Beginners Eighty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-two/",
+         "pubDate" : "Fri, 03 Feb 2023 17:32:45 +0000",
+         "title" : "A Foundation for Beginners Eighty Two"
+      },
+      {
+         "description" : "In his 'Fast & Furious' show, Robert Ris looks back at the Tata Steel Tournament in Wijk and presents what he calls \"the most spectacular game of the tournament\". It was exciting from the start. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-spectacular-chess-in-wijk",
+         "pubDate" : "Fri, 03 Feb 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Spectacular chess in Wijk"
+      },
+      {
          "description" : "The play-in phase of the Airthings Masters is taking place on February 3 and is open to all grandmasters. A total of 54 players will qualify to the knockout stage set to start on Monday. A 9-round Swiss tournament will be followed by 2-game matches to decide who qualifies and to which division of the knockout. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/women-s-grand-prix-kicks-off-with-four-decisive-games-and-one-controversy",
          "pubDate" : "Fri, 03 Feb 2023 13:36:35 +0000",
          "title" : "Women's GP kicks off with 4 wins & 1 controversy"
+      },
+      {
+         "description" : "Chess fans had one more reason to celebrate on February 2. The game we all love became the most popular free game on the iOS app store, reaching the number-one spot in 28 countries. It also featured among the top 10 in 18 other countries. It f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-number-one-in-ios-app-store",
+         "pubDate" : "Fri, 03 Feb 2023 05:29:00 -0800",
+         "title" : "Chess.com Hits #1 In iOS App Store"
       },
       {
          "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
@@ -1194,28 +1226,12 @@ news_feed (
          "title" : "FIDE Candidates Tournaments 2024: Call for bids"
       },
       {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Indian super talent Savitha Shri recently bagged the Bronze medal in the World Rapid Chess 2022, and reached the fabulous rating of over 2400. Also, today is her birthday, and she turns 16! Congratulations, and well played. | Photo: Instagram Savitha Shri",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-savitha-shri-b",
-         "pubDate" : "Wed, 25 Jan 2023 11:00:00 +0100",
-         "title" : "Rapid Interview - Savitha Shri Baskar"
-      },
-      {
          "description" : "The ECF wishes to thank Samantha Ali for her work as Safeguarding Officer but is also pleased to announce the appointment of Paul Sharratt and...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
          "pubDate" : "Wed, 25 Jan 2023 09:00:55 +0000",
          "title" : "ECF Safeguarding Officer appointment"
-      },
-      {
-         "description" : "In seconds, you will learn how to adjust the visual settings in ChessBase 17 today. Change the colour theme to White, Blue, Grey, and Black, and simplify the ribbons. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. This time: How do I change the visual settings? What is the Dark Mode?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-video-adjusting-visual-settings-dark-mode",
-         "pubDate" : "Wed, 25 Jan 2023 07:15:00 +0100",
-         "title" : "ChessBase 17 video: Adjusting visual settings (Dark Mode)"
       },
       {
          "description" : "",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Caruana Defeats Swashbuckling Van Foreest to Join Leaders"
       },
       {
-         "description" : "As a fan or as a player of top-level chess, whether you need a weekend chess fix or are looking for pure bullet competition, Chess.com has the event for you! We&#39;re bringing another regularly scheduled tournament for titled players to Chess.com on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-introduces-bullet-brawls-new-arena-options",
-         "pubDate" : "Mon, 16 Jan 2023 14:25:00 -0800",
-         "title" : "Introducing Bullet Brawls And New Arena Options"
-      },
-      {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Tata Steel Masters. Jorden Van Foreest chose a highly unusual if not shocking variation of the Petroff Defence, Caruana had to work hard but eventually exposed the strategic risks he took to win the game. Magnus Carlsen's choice of the London System set only a few problems for Ding Liren before the game was drawn. FM Michiel Abeln comments on all the games below. In the Challengers Group Jergus Pechac looked to be headed for a third loss in a row but mounted a very spirited defence to score his first half point. Erwin L'Ami was too passive yesterday and perhaps a bit too active today and lost to Mustafa Yilmaz when his initiative ran out",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1848,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2171",
          "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
          "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
-      },
-      {
-         "description" : " Last week, we started looking at a specific tactic, the fork. Today, we'll see the fork in action. Let's review what we've learned so far and then look at a game in which forks play a decisive role. The fork is a simultaneous attack against two or more pieces. Because the rules of chess allow <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty/\">A Foundation for Beginners Eighty</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty/",
-         "pubDate" : "Fri, 13 Jan 2023 18:50:07 +0000",
-         "title" : "A Foundation for Beginners Eighty"
-      },
-      {
-         "description" : "A few weeks ago, in <A HREF=\"https://chessforallages.blogspot.com/2022/12/wayback-to-chessnet.html\">Wayback to Chess.net</A>(December 2022), I ended with a question about the site Chess.net:- <BLOCKQUOTE>Does 'chess trainer Roman' have anything to do with the 'ROboMAN' mentioned by Karpov? I'll try to find out in a follow-up post. </BLOCKQUOTE> <P>The following image shows a series of screen captures that track the evolution of the site from 1996 through 2022. The first six images show the landing page and home page at three points in time. The last six images show only the home page, the landing page having disappeared. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na13.gif\"",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html",
-         "pubDate" : "Fri, 13 Jan 2023 16:44:00 +0000",
-         "title" : "The Evolution of Chess.net"
       }
    ]
 }
