@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Netherlands world No 5 got a final-round gift, while a 'backbreaker' in the penultimate round cost the world champion his chance of forcing a playoff Chess tournaments can be decided by the tiniest of margins, and that certainly happened in last weekend's final two rounds at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The world champion, Magnus Carlsen, missed a likely winning opportunity in the penultimate round, while the Dutch home favourite, Anish Giri, received a gift point in his final game. Nodirbek Abdusattorov, the Uzbekistan 18-year-old who had led all the way from round one, chose a conservative drawing strategy in the second half of the event, and came unstuck against th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/feb/03/chess-anish-giri-wins-at-wijk-aan-zee-as-carlsen-misses-out-by-just-half-a-point",
+         "pubDate" : "Fri, 03 Feb 2023 08:00:02 +0000",
+         "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
+      },
+      {
+         "description" : "Artur Jussupow belonged to the absolute top of the world during his active time and after moving to Germany he opened a successful chess school together with his wife. At the Staufer Open Martin Hahn had the opportunity to interview the former World Championship candidate. Among other things, the grandmaster talked about chess training, cheating in chess, and the best junior players. | Photos: German Chess Federation (Bernd V&ouml;kler)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-are-at-a-dangerous-point-an-interwiew-with-artur-jussupow",
+         "pubDate" : "Fri, 03 Feb 2023 09:00:00 +0100",
+         "title" : "\"We are at a dangerous point\" - An interwiew with Artur Jussupow"
+      },
+      {
+         "description" : "Indian juggernaut going well and drew 2:2 against Hungary . It is indeed a splendid performance from Indian team in 1st Fide Chess Olympiad for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-4/",
+         "pubDate" : "Fri, 03 Feb 2023 07:12:33 +0000",
+         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 4"
+      },
+      {
+         "description" : "The second stage of the 2022-23 Women's Grand Prix kicked off in Munich, the capital and most populous city of the German state of Bavaria. Four out of six games finished decisively, with Tan Zhongyi (pictured), Alexandra Kosteniuk, Nana Dzagnidze and Elisabeth Paehtz grabbing wins in the first round of the two-week event. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r1",
+         "pubDate" : "Fri, 03 Feb 2023 06:40:00 +0100",
+         "title" : "Munich GP: Four winners on day one"
+      },
+      {
          "description" : "The second leg of the 2022-2023 FIDE Women&#39;s Grand Prix kicked off with four decisive games in round one, featuring ferocious king attacks by GMs Tan Zhongyi, Nana Dzagnidze, Alexandra Kosteniuk, and Elisabeth Paehtz.&#38;nbsp; How to watch? The gam...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-552-carlsen-abdusattorov-2",
          "pubDate" : "Thu, 02 Feb 2023 16:35:26 +0100",
          "title" : "Game of the Week #553: A. Giri vs R. Rapport"
-      },
-      {
-         "description" : "From 1 to 13 February Munich will host the second Women's Grand Prix tournament of the 2022-23 series. The two best players from four tournaments will qualify for the Candidates Tournament. The first round starts at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Thu, 02 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : "On the 29th January 2023 in at the Mindsports Centre in Hammersmith three teams entered the European Cities and Towns Chess Championships organised by the...",
@@ -938,14 +962,6 @@ news_feed (
          "title" : "Losing in Chess: How to Get Back After A Tough Loss"
       },
       {
-         "description" : "Senior National Arbiter's Seminar &#38; Examination at Tirupati ,Andhra Pradesh 29-30 October 2022 Link : https://aicf.online/Arbiter-Seminar-Tirupati.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-tirupati-andhra-pradesh-certificates/",
-         "pubDate" : "Fri, 27 Jan 2023 09:52:15 +0000",
-         "title" : "Senior National Arbiter Seminar, Tirupati Andhra Pradesh Certificates"
-      },
-      {
          "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-2-million-champions-chess-tour",
          "pubDate" : "Tue, 24 Jan 2023 15:43:51 +0000",
          "title" : "Airthings Masters kicks off $2 million Champions Chess Tour"
-      },
-      {
-         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-2",
-         "pubDate" : "Tue, 24 Jan 2023 12:00:00 +0100",
-         "title" : "Endgames from Wijk aan Zee (2)"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (65)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (65)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2022/",
          "pubDate" : "Fri, 13 Jan 2023 09:06:53 +0000",
          "title" : "ECU E-Magazine December 2022"
-      },
-      {
-         "description" : " A ninth success at the 'chess Wimbledon' could kickstart a new attempt by the No 1 to reach a landmark 2900 rating Magnus Carlsen versus the young guns at Wijk starts on Saturday, when the opening round (of 13) of the \"chess Wimbledon\" at Tata Steel Wijk aan Zee gets under way at the windswept Dutch village. Carlsen, 32, the triple world champion at classical, rapid and blitz, takes on a grandmaster field which includes five teenagers - three from India, one each from Germany and Uzbekistan - all with dreams of dethroning the Norwegian. Carlsen's own top priorities are to win Wijk for a record ninth time, see off the challenge from Generation Z, and hopefully to kickstart another attempt to",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jan/13/chess-carlsen-takes-on-young-guns-at-wijk-as-world-champion-eyes-record",
-         "pubDate" : "Fri, 13 Jan 2023 08:00:10 +0000",
-         "title" : "Chess: Carlsen takes on young guns at Wijk as world champion eyes record"
       }
    ]
 }
