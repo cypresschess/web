@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yes, 24.Rxg7+! wins for White - but it's definitely a challenge to foresee the complete path to victory from the diagram position, even if it's initially paved with checks. Your perfect start to the (chess) weekend, right?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/starting-to-finish",
+         "pubDate" : "Sat, 04 Feb 2023 09:00:00 +0100",
+         "title" : "Starting to finish"
+      },
+      {
+         "description" : "FIDE World School Chess Championship 2023 will be started from 13th to 23rd April, 2023 at Rhodes, Greece and players participated in the Over the Board National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-school-chess-championship-2023/",
+         "pubDate" : "Sat, 04 Feb 2023 07:49:48 +0000",
+         "title" : "World School Chess Championship - 2023"
+      },
+      {
+         "description" : "The Indian Chess team tested first defeat on round 5 to Poland 1:3 .However Kishan Gangolli and Naveen Kumar A drew against their polish opponents",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-5/",
+         "pubDate" : "Sat, 04 Feb 2023 06:24:49 +0000",
+         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 5"
+      },
+      {
+         "description" : "An entertaining second round at the Munich Grand Prix saw Alexandra Kosteniuk and Anna Muzychuk scoring wins with black, as they defeated local representatives Elisabeth Paehtz and Dinara Wagner, respectively. Three other games, albeit not decisive, were fiercely fought, with Humpy Koneru, Harika Dronavalli and Nana Dzagnidze showing great defensive skills to salvage half points. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r2",
+         "pubDate" : "Sat, 04 Feb 2023 07:00:00 +0100",
+         "title" : "Munich GP: Kosteniuk leads, German players make unfortunate blunders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2213",
+         "pubDate" : "Sat, 04 Feb 2023 03:15:36 +0000",
+         "title" : "FIDE Players with Disabilities Commission holds its meeting in Belgrade"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -434,7 +474,7 @@ news_feed (
          "title" : "FIDE ratings February 2023"
       },
       {
-         "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No. K-15011/02/2023-SP-IV dated 23rd January 2023 regarding change in procedure for applying under the Scheme",
+         "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No.&#160;K-15011/02/2023-SP-IV dated 23rd&#160;January 2023&#160;regarding change in procedure for applying under the Scheme",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/circular-for-change-in-procedure-for-applying-under-the-scheme-of-cash-award-to-the-medal-winners-for-winning-medals-in-international-events-and-their-coaches-intimation-to-nsfs-list-2/",
@@ -602,14 +642,6 @@ news_feed (
          "title" : "Guess what they do for a living"
       },
       {
-         "description" : "1st Fide Chess Olympiad for people with disabilities at Belgrade Serbia from 29 January-05 February 2023 kick starts in a grand manner at Belgrade Serbia",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023/",
-         "pubDate" : "Tue, 31 Jan 2023 11:51:12 +0000",
-         "title" : "1st Fide Chess Olympiad for people with disabilities -2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -768,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r13",
          "pubDate" : "Mon, 30 Jan 2023 09:25:00 +0100",
          "title" : "Anish Giri wins Tata Steel Masters after late twist"
-      },
-      {
-         "description" : "Lad Mandar Pradip of Goa emerged sole leader of the under 17 open category at the end of the fifth round of the 11th National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/11th-national-schools-chess-championships-2023/",
-         "pubDate" : "Mon, 30 Jan 2023 07:53:59 +0000",
-         "title" : "11th National Schools Chess Championships 2023"
       },
       {
          "description" : "",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "Tata Steel Masters: Carlsen keeps climbing the standings"
       },
       {
-         "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour. The new season kicks off February 3 with the Airthings Masters, the first of six star-studded tournaments before an eight-player final event in December. The launch of the 2023 Champions Chess Tour follows Chess.com's acquisition of Play Magnus Group.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-2023-preview",
-         "pubDate" : "Wed, 25 Jan 2023 20:15:00 +0100",
-         "title" : "Revamped Champions Chess Tour to kick off in February"
-      },
-      {
          "description" : " Magnus Carlsen was the main mover at the top of the standings in Round 10 of the Tata Steel Masters. In spite of playing the late Titled Tuesday (and losing three games) he managed an impressive win. Today he found a very smart way to cause Parham Maghsoodloo problems and eventually outplayed his opponent. Afterwards Carlsen said he was happy to give himself a decent chance of a good tournament result, but pointed out that to win the tournament he is going to have to rely on others. Definitely back in contention though. The leading fixture of the day Wesley So against Anish Giri never really caught fire and was drawn in 34 moves. Nodirbek Abdusattorov played it very safe today against Ding ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2188",
          "pubDate" : "Wed, 25 Jan 2023 11:22:30 +0000",
          "title" : "FIDE Candidates Tournaments 2024: Call for bids"
-      },
-      {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Indian super talent Savitha Shri recently bagged the Bronze medal in the World Rapid Chess 2022, and reached the fabulous rating of over 2400. Also, today is her birthday, and she turns 16! Congratulations, and well played. | Photo: Instagram Savitha Shri",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-savitha-shri-b",
-         "pubDate" : "Wed, 25 Jan 2023 11:00:00 +0100",
-         "title" : "Rapid Interview - Savitha Shri Baskar"
       },
       {
          "description" : "The ECF wishes to thank Samantha Ali for her work as Safeguarding Officer but is also pleased to announce the appointment of Paul Sharratt and...",
