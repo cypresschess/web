@@ -82,14 +82,6 @@ news_feed (
          "title" : "Airthings Masters Play-In | Champions Chess Tour 2023"
       },
       {
-         "description" : "From 1 to 13 February Munich will host the second Women's Grand Prix tournament of the 2022-23 series. The two best players from four tournaments will qualify for the Candidates Tournament. The first round starts at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Fri, 03 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
-      },
-      {
          "description" : "Alexandra Kosteniuk, Tan Zhongyi, Elisabeth Paehtz and Nana Dzagnidze got off to a perfect start with wins as the second leg of the FIDE Women's Grand Prix kicked off in Munich, Germany on Thursday. One of the draws was not without controversy.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1248,6 +1240,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2188",
          "pubDate" : "Wed, 25 Jan 2023 11:22:30 +0000",
          "title" : "FIDE Candidates Tournaments 2024: Call for bids"
+      },
+      {
+         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Indian super talent Savitha Shri recently bagged the Bronze medal in the World Rapid Chess 2022, and reached the fabulous rating of over 2400. Also, today is her birthday, and she turns 16! Congratulations, and well played. | Photo: Instagram Savitha Shri",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-interview-savitha-shri-b",
+         "pubDate" : "Wed, 25 Jan 2023 11:00:00 +0100",
+         "title" : "Rapid Interview - Savitha Shri Baskar"
       },
       {
          "description" : "The ECF wishes to thank Samantha Ali for her work as Safeguarding Officer but is also pleased to announce the appointment of Paul Sharratt and...",
