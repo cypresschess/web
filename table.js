@@ -1,5 +1,8 @@
 jtable([
+"HOUSTON","2023-02-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302034422 target='_blank'>REBECCA CHESS CLUB QUADS FEB 3, 2023</a>",
+"HOUSTON","2023-01-03  - 01-31","13","<a href=http://www.uschess.org/msa/XtblMain.php?202301313282 target='_blank'>JAN 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-01-09  - 01-30","9","<a href=http://www.uschess.org/msa/XtblMain.php?202301308962 target='_blank'>CLCC JANUARY MONDAYS</a>",
+"HOUSTON","2023-01-28","20","<a href=http://www.uschess.org/msa/XtblMain.php?202301284232 target='_blank'>JAN 2023 SCHOLASTIC</a>",
 "SPRING","2023-01-28","385","<a href=http://www.uschess.org/msa/XtblMain.php?202301281852 target='_blank'>23RD KLEIN WINTER SCHOLASTIC</a>",
 "CYPRESS","2023-01-27","24","<a href=http://www.uschess.org/msa/XtblMain.php?202301270242 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-01-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202301270222 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176672 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-06-10  - 06-12","181","<a href=http://www.uschess.org/msa/XtblMain.php?202206124722 target='_blank'>TCR: SPACE CITY OPEN 2022</a>",
 "HOUSTON","2022-06-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202206103632 target='_blank'>PISD JUNE 2022</a>",
-"SPRING","2022-06-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202206103582 target='_blank'>FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-06-10","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206103562 target='_blank'>FBCC END OF SPRING OPEN 2022</a>",
-"CYPRESS","2022-06-10","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206103452 target='_blank'>KOC</a>",
 ]);
