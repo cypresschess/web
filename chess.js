@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The elite tournament at Wijk aan Zee, Holland, which finished earlier this week, has resulted in victory for Anish Giri, the former Russian, now Dutch, Grandmaster. GM Giri needs some introduction to a global audience, but he is a potential world champion, indeed a player who has already inflicted several defeats on Magnus Carlsen - including []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/giri-the-great/",
+         "pubDate" : "Sat, 04 Feb 2023 14:06:01 +0000",
+         "title" : "Giri the Great"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Sat, 04 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
          "description" : "It's Carlsen-Sarana, Firouzja-Erigaisi, So-Mamedov and Gukesh-Nakamura on Monday in the Airthings Masters, the 1st event on the 2023 Champions Chess Tour. Gukesh starred in the gruelling 8-hour 140-player Play-In to finish 1st by a full point and then beat Vladimir Kramnik 2:0 in a match. The greatest drama came as Rauf Mamedov took down Ian Nepomniachtchi, while Alexey Sarana came back to beat Fabiano Caruana in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "Tata Steel Chess 10: Magnus within striking distance"
       },
       {
-         "description" : "This little problem will leave you gawping and sleepless, says Ian Watson in his review of a delightful collection of helpmates by Christopher Jones. Don't be daunted by this problem genre - it is more entertaining than you might expect. Especially when the problems come from a virtuoso composer like Jones. Can you imagine how White, with Black's full assistance, actually execute a mate in eight moves? Think Phoenix (a queen dies and is reborn).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christopher-jones-selected-helpmates",
-         "pubDate" : "Thu, 26 Jan 2023 12:00:00 +0100",
-         "title" : "Christopher Jones: Selected Helpmates"
-      },
-      {
          "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-bob-wade-masters.html",
          "pubDate" : "Sat, 14 Jan 2023 22:41:00 +0000",
          "title" : " 2023 Bob Wade Masters"
-      },
-      {
-         "description" : " The Tata Steel Masters had a new look and very much a new generation on show as the first round took place in Wijk aan Zee. Michiel Abeln reports in detail below on wins for Ding Liren against D Gukesh and Nodirbek Abdusattorov against Richard Rapport. World Champion Magnus Carlsen was left frustrated as he could only draw against Levon Aronian after getting an edge to work with at one stage. In the Challengers Group there were wins for an aggressive Max Warmerdam against Jergus Pechac and Abhimanyu Mishra against Eline Roebers. Round 1 standings: 1st-2nd Ding Liren, Abdusattorov 1pt, 3rd-12th Carlsen, Caruana, Giri, So, Aronian, Erigaisi, Maghsoodloo, Keymer, Praggnanandhaa, Van Foreest 0.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/ding-and-abdusattorov-win-in-the-first-round-of-the-tata-steel-masters-2023",
-         "pubDate" : "Sat, 14 Jan 2023 19:26:00 +0400",
-         "title" : "Ding and Abdusattorov win in the first round of the Tata Steel Masters 2023 - 1"
       }
    ]
 }
