@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Gukesh D finished first in the inaugural Champions Chess Tour Airthings Masters Play-In Swiss 2023. With six wins and three draws, he went undefeated to secure the top spot in the grandmaster-only Swiss Event. Gukesh, as well as five other pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-wins-cct-airthings-masters-play-in",
+         "pubDate" : "Sat, 04 Feb 2023 11:01:00 -0800",
+         "title" : "Gukesh Beats Former World Champion Kramnik 3 Times, Dominates Play-In"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk, known as ChessQueen on Chess.com, captured the sole lead in round two of the Munich&#38;nbsp;FIDE Women&#39;s Grand Prix. She defeated longtime rival GM Elisabeth Paehtz to reach 2-0. GM Anna Muzychuk earned her first victory by ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-2",
+         "pubDate" : "Sat, 04 Feb 2023 10:47:00 -0800",
+         "title" : "ChessQueen Captures Lead After Rival's Puzzling Blunder"
+      },
+      {
          "description" : "The elite tournament at Wijk aan Zee, Holland, which finished earlier this week, has resulted in victory for Anish Giri, the former Russian, now Dutch, Grandmaster. GM Giri needs some introduction to a global audience, but he is a potential world champion, indeed a player who has already inflicted several defeats on Magnus Carlsen - including []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
       },
       {
-         "description" : "On Tuesday, GM Anish Giri overcame GM Magnus Carlsen in classical chess for the first time in over a decade in round four of the 2023 Tata Steel Chess Tournament. GM Nodirbek Abdusattorov displayed unstoppable precision to defeat GM Parham Maghsoo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 17 Jan 2023 17:33:00 -0800",
-         "title" : "A Day of Masterpieces: Giri Claims 1st Victory vs. Carlsen in 12 Years"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2174",
          "pubDate" : "Tue, 17 Jan 2023 01:01:44 +0000",
          "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
-      },
-      {
-         "description" : "GM Fabiano Caruana scored the sole victory of round three vs. GM Jorden van Foreest at the 2023 Tata Steel Chess Tournament. The young Dutch grandmaster threw the game into thrilling, swashbuckling waters out of the opening, but Caruana countered ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 16 Jan 2023 15:02:00 -0800",
-         "title" : "Caruana Defeats Swashbuckling Van Foreest to Join Leaders"
       },
       {
          "description" : " Fabiano Caruana was the only winner in Round 3 of the Tata Steel Masters. Jorden Van Foreest chose a highly unusual if not shocking variation of the Petroff Defence, Caruana had to work hard but eventually exposed the strategic risks he took to win the game. Magnus Carlsen's choice of the London System set only a few problems for Ding Liren before the game was drawn. FM Michiel Abeln comments on all the games below. In the Challengers Group Jergus Pechac looked to be headed for a third loss in a row but mounted a very spirited defence to score his first half point. Erwin L'Ami was too passive yesterday and perhaps a bit too active today and lost to Mustafa Yilmaz when his initiative ran out",
