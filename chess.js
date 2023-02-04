@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2212",
+         "pubDate" : "Fri, 03 Feb 2023 22:31:52 +0000",
+         "title" : "WGP Munich: Kosteniuk takes the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2211",
+         "pubDate" : "Fri, 03 Feb 2023 22:04:48 +0000",
+         "title" : "Olympiad for People with Disabilities: Poland one step away from the gold"
+      },
+      {
          "description" : "Anish Giri won the Tata Steel Chess Masters 2023 ahead of all the top players in the world - Magnus Carlsen, Wesley So, Ding Liren, Fabiano Caruana. He played some phenomenal chess throughout the event to win it with a rating performance of 2849, scoring 8.5/13 and gaining 16 Elo points. Anish has been very close to winning the tournament multiple times, but this is the first time he has clinched the trophy at Wijk Aan Zee! We invited him for a livestream to get his thoughts on winning this prestigious tournament. Check out his full interview with IM Sagar Shah below.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-anish-giri-interview-winning-tata-steel-masters-2023",
          "pubDate" : "Fri, 03 Feb 2023 20:00:00 +0100",
          "title" : "The Anish Giri Interview: Winning Tata Steel Masters 2023"
+      },
+      {
+         "description" : " The Airthings Masters 2023 takes place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
+         "pubDate" : "Fri, 3 Feb 2023 22:51:00 +0400",
+         "title" : "Airthings Masters 2023 - Games and Results"
       },
       {
          "description" : " Last week, we worked through our game's first seven moves. This week, we'll start at move eight. As I mentioned in the conclusion of last week's article, we'd look at what White could have done differently in an effort to avoid the disaster that ensued. This week's article is going to be short since it <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\">A Foundation for Beginners Eighty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
@@ -1848,14 +1872,6 @@ news_feed (
          "link" : "https://www.thearticle.com/can-harry-count/",
          "pubDate" : "Sat, 14 Jan 2023 12:15:08 +0000",
          "title" : "Can Harry count?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2171",
-         "pubDate" : "Sat, 14 Jan 2023 00:07:42 +0000",
-         "title" : "Mikheil Mchedlishvili wins 2023 Georgian Championship"
       }
    ]
 }
