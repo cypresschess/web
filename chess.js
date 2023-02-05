@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Sergio Periera of Sao Tome &#38; Principe hoists the championship trophyafter winning Zone 4.3 Championship. Equatorial Guinea was the host to the FIDE Zone 4.3 Individual Championship which took place during the week of 18th-27th&#160;of January 2023 at the Bisili Hotel in Malabo. The tournament attracted 15 contestants from six countries Gabon, Cameroon, Burundi, Sao The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/\">2023 Zone 4.3 in Equatorial Guinea</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/",
+         "pubDate" : "Sun, 05 Feb 2023 14:00:31 +0000",
+         "title" : "2023 Zone 4.3 in Equatorial Guinea"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 111th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-12",
+         "pubDate" : "Sun, 05 Feb 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 111: Play the Sicilian (12)"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Sun, 05 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
          "description" : "It is rare to see female players take part in the open section of national championships. But 19-year-old IM Nurgyul Salimova decided to do it at the 2023 Bulgarian Championship. She scored an impressive 6/9 and edged past two grandmasters (who also collected 6 points) to finish second overall. Salimova obtained four wins, four draws and suffered her sole loss of the event against the top seed and eventual champion, GM Kiril Georgiev. | Photo: Nurgyul's Instagram page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "Losing in Chess: How to Get Back After A Tough Loss"
       },
       {
-         "description" : "Most players prefer to attack rather than defend. But what is the correct way to do it? GM Dr Karsten M&uuml;ller has compiled many rules and motifs to guide you, along with sharpening your intuition for the exceptions. An extraordinary Fritztrainer by the endgame pro, this time dedicated to his real player type standard model - The attacking activist!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-karsten-mueller-how-to-attack-principles-of-training",
-         "pubDate" : "Fri, 27 Jan 2023 10:27:00 +0100",
-         "title" : "New - Karsten M&uuml;ller: How to attack - principles of training"
-      },
-      {
          "description" : "The 1st Chess Olympiad for People with Disabilities starts on Sunday in Belgrade, Serbia, and will take place from 29th of January to the 5th of February in Hotel Crowne Plaza Belgrade. More than 100 players from 33 countries will take part in the event which will be played under the Swiss System, with six rounds. The time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1224,14 +1240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-sheng",
          "pubDate" : "Thu, 26 Jan 2023 23:19:30 +0000",
          "title" : "Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
-         "description" : "It calls for a celebration: ChessBase India turned seven years old on 18th of January 2023. In the second part of his article, the CEO and co-founder of ChessBase India, IM Sagar Shah, writes about the work done by the ChessBase India team in the last 365 days. There is so much to tell - it is a wonderful success story.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/seven-years-chessbase-india-2",
-         "pubDate" : "Thu, 26 Jan 2023 20:30:00 +0100",
-         "title" : "Seven years: ChessBase India (2)"
       },
       {
          "description" : "",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-joins-the-leaders-after-beating-keymer-in-round-2-of-tata-steel-chess",
          "pubDate" : "Sun, 15 Jan 2023 21:30:00 +0400",
          "title" : "Carlsen joins the leaders after beating Keymer in round 2 of Tata Steel Chess - 2"
-      },
-      {
-         "description" : "I never had a farm in Africa, but I once wrote a page titled <A HREF=\"https://www.mark-weeks.com/aboutcom/aa07e19.htm\">The Rise of Internet Chess</A>(m-w.com), subtitled 'The Internet -- meaning technologies that link networks together -- has been very good to chess', dated May 2007. A few years after I wrote the page, another chess fan asked if I could update it. <P>I thought about the request a little bit -- which is as much as I think about anything -- and realized that a follow-up to the page would necessarily be titled 'The Rise of Chess.com'. Why necessarily? Partly because the site started around the same time as my 'Internet Chess' page ended and partly because the site has defined o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html",
-         "pubDate" : "Sun, 15 Jan 2023 16:08:00 +0000",
-         "title" : "The Rise of Chess.com"
       }
    ]
 }
