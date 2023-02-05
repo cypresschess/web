@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexandra Kosteniuk&#38;nbsp;increased her lead in the Munich FIDE Women&#39;s Grand Prix to a full point, reaching 3-0 by defeating WGM Dinara Wagner in a dynamic battle. WGM Zhu Jiner scored her first victory by gaining the upper hand in a tactical...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-3",
+         "pubDate" : "Sat, 04 Feb 2023 16:04:54 -0800",
+         "title" : "Kosteniuk Goes 3-0, Extends Lead to Full Point"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2215",
+         "pubDate" : "Sat, 04 Feb 2023 21:25:29 +0000",
+         "title" : "WGP Munich: Kosteniuk 3/3 at full steam "
+      },
+      {
+         "description" : "By scoring six wins in as many matches, Poland grabbed gold at the first Chess Olympiad for People with Disabilities. The team of Physically Disabled Chess Players (IPCA) won second place with 10 match points, while the Philippines took home bronze after outscoring (according to tiebreak criteria) three other teams that also collected 8 match points. | Photos: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/poland-wins-first-olympiad-for-people-with-disabilities",
+         "pubDate" : "Sat, 04 Feb 2023 22:15:00 +0100",
+         "title" : "Poland wins first Chess Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2214",
+         "pubDate" : "Sat, 04 Feb 2023 20:17:00 +0000",
+         "title" : "Poland makes history as the winner of the first Chess Olympiad for People with Disabilities"
+      },
+      {
          "description" : "GM Gukesh D finished first in the inaugural Champions Chess Tour Airthings Masters Play-In Swiss 2023. With six wins and three draws, he went undefeated to secure the top spot in the grandmaster-only Swiss Event. Gukesh, as well as five other pl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1202,14 +1234,6 @@ news_feed (
          "title" : "Game of the Week #552: M. Carlsen vs N. Abdusattorov"
       },
       {
-         "description" : "As the traditional introduction to a new solving season, the 19th International Solving Contest (ISC) will be held this Sunday, January 29. A set of chess problems will be simultaneously offered to more than 500 solvers around the world at 11 AM CET. The ISC hybrid solving competition is becoming increasingly popular since it allows enthusiasts from many countries to participate without extra costs. In 2023, the ISC will reach 42 locations in 26 different countries.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/international-solving-championships-2023-announcement",
-         "pubDate" : "Thu, 26 Jan 2023 18:15:00 +0100",
-         "title" : "First International Solving Championships of 2023 announced"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1682,14 +1706,6 @@ news_feed (
          "title" : "Magnus Carlsen plays this year's revived Qatar Masters"
       },
       {
-         "description" : "GM Daniil Dubov became the first two-time Titled Tuesday winner of 2023 on January 17 and was followed by GM Hikaru Nakamura entering the winner&#39;s circle for the first time this year. Both scored 9.5/11, Dubov winning on tiebreaks over GM Denis La...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-nakamura-win-titled-tuesday-january-17-2023",
-         "pubDate" : "Wed, 18 Jan 2023 08:27:00 -0800",
-         "title" : "Nakamura Arrives, Dubov Repeats"
-      },
-      {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1864,22 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2172",
          "pubDate" : "Sun, 15 Jan 2023 08:00:21 +0000",
          "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
-      },
-      {
-         "description" : " From the Batsford web site: &#8220;An informative and accessible new book by Thomas Engqvist, the practical follow up to his previous two authoritative chess books: 300 Most Important Chess Positions <a href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">300 Most Important Chess Exercises</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/\">300 Most Important Chess Exercises</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/01/15/300-most-important-chess-exercises/",
-         "pubDate" : "Sun, 15 Jan 2023 00:10:17 +0000",
-         "title" : "300 Most Important Chess Exercises"
-      },
-      {
-         "description" : "The 2023 Bob Wade Masters is currently running in Auckland, New Zealand. Organised by Paul Spiller, this event commemorates the great New Zealand Master, IM Bob Wade. <div>The top section for this years tournament has attracted a strong field, with 2 GM's (Samy Shoker and Elshan Moradiabadi) and 2 IM's (Gary Lane and Herman Van Riemsdijk). There is also two Challenger tournaments, with Miles Patterson (from Canberra) playing in Challengers 1. Each of these events is a 10 player round robin, and will be running until the 20th of January. The Masters is being broadcast live in a couple of places, including on lichess at <a href=\"https://lichess.org/broadcast/2023-bob-wade-masters/round-2/fJTfK",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-bob-wade-masters.html",
-         "pubDate" : "Sat, 14 Jan 2023 22:41:00 +0000",
-         "title" : " 2023 Bob Wade Masters"
       }
    ]
 }
