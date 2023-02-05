@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-3",
-         "pubDate" : "Sat, 04 Feb 2023 16:04:54 -0800",
+         "pubDate" : "Sat, 04 Feb 2023 16:04:00 -0800",
          "title" : "Kosteniuk Goes 3-0, Extends Lead to Full Point"
       },
       {
