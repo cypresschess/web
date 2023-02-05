@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexandra Kosteniuk grabbed a third consecutive win in Munich to get a full-point lead over a 3-player chasing pack at the second stage of the Women's Grand Prix series. Kosteniuk inflicted Dinara Wagner's third consecutive loss. In the other decisive game of the round, Zhu Jiner beat Zhansaya Abdumalik with the black pieces. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r3",
+         "pubDate" : "Sun, 05 Feb 2023 08:00:00 +0100",
+         "title" : "Munich GP: Kosteniuk on 3 out of 3"
+      },
+      {
+         "description" : "It is a splendid performance by Indian Chess team as India drew 2:2 against Philippines in the final round at 1st Fide Chess Olympiad for",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-final-round/",
+         "pubDate" : "Sun, 05 Feb 2023 06:04:00 +0000",
+         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Final Round"
+      },
+      {
          "description" : "GM Alexandra Kosteniuk&#38;nbsp;increased her lead in the Munich FIDE Women&#39;s Grand Prix to a full point, reaching 3-0 by defeating WGM Dinara Wagner in a dynamic battle. WGM Zhu Jiner scored her first victory by gaining the upper hand in a tactical...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.thearticle.com/giri-the-great/",
          "pubDate" : "Sat, 04 Feb 2023 14:06:01 +0000",
          "title" : "Giri the Great"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Sat, 04 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : "It's Carlsen-Sarana, Firouzja-Erigaisi, So-Mamedov and Gukesh-Nakamura on Monday in the Airthings Masters, the 1st event on the 2023 Champions Chess Tour. Gukesh starred in the gruelling 8-hour 140-player Play-In to finish 1st by a full point and then beat Vladimir Kramnik 2:0 in a match. The greatest drama came as Rauf Mamedov took down Ian Nepomniachtchi, while Alexey Sarana came back to beat Fabiano Caruana in Armageddon.",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://aicf.in/shri-bharat-singh-met-fide-president/",
          "pubDate" : "Tue, 31 Jan 2023 15:20:17 +0000",
          "title" : "Shri Bharat Singh met FIDE President"
-      },
-      {
-         "description" : "The Indian team consists of Soundarya Kumar Pradhan, Shashikant Kutwal, Kishan Gangolli, Darpan Inani, Naveen Kumar A and Coach Prasenjit Dutta registered a comfortable victory",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-olympiad-for-people-with-disabilities-2023/",
-         "pubDate" : "Tue, 31 Jan 2023 15:04:55 +0000",
-         "title" : "1st FIDE Olympiad for People with Disabilities 2023"
       },
       {
          "description" : "The much anticipated Tata Steel Chess Tournament finished on Sunday in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, found plenty of instructive positions from the event in the Netherlands and shared his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://chessimprover.com/richmond-junior-club-1975-2006-part-3/",
          "pubDate" : "Sun, 15 Jan 2023 09:00:33 +0000",
          "title" : "Richmond Junior Club 1975-2006 Part 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2172",
-         "pubDate" : "Sun, 15 Jan 2023 08:00:21 +0000",
-         "title" : "Tata Steel Masters 2023: Ding and Abdusattorov take early lead"
       }
    ]
 }
