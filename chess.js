@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The recent firefight in Wijk aan Zee was a magnificent tournament. While trying to follow his nose (i.e. not merely checking the engine evaluation) as to what was going on in the players' minds during the battle, Jon Speelman found a number of remarkable ideas! | Photos: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-187",
+         "pubDate" : "Sun, 05 Feb 2023 20:00:00 +0100",
+         "title" : "The Gods by the North Sea"
+      },
+      {
          "description" : " Sergio Periera of Sao Tome &#38; Principe hoists the championship trophyafter winning Zone 4.3 Championship. Equatorial Guinea was the host to the FIDE Zone 4.3 Individual Championship which took place during the week of 18th-27th&#160;of January 2023 at the Bisili Hotel in Malabo. The tournament attracted 15 contestants from six countries Gabon, Cameroon, Burundi, Sao The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/\">2023 Zone 4.3 in Equatorial Guinea</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1194,14 +1202,6 @@ news_feed (
          "title" : "Hurst's 'Chess on the Web'"
       },
       {
-         "description" : "Videos: Caro-Kann (1.e4 c6 2.Nf3 d5 3.d3) by Christian Bauer and Saemisch-Benoni by David Navara. \"Lucky bag\": 45 annotated games - analyses by Anish Giri, Alexander Motylev, Nijat Abasov and many more. \"The brilliancy\" by GM Yago Santiago - an uncompromising attacking game against the Gruenfeld with 4.h4 and 10.Rh4!?. Plus Update service with over 40,000 new games! ChessBase Magazine Extra is the perfect complement to ChessBase Magazine. Available as a single issue or by subscription (6 issues per year). Available as download or on DVD.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-2",
-         "pubDate" : "Fri, 27 Jan 2023 15:00:00 +0100",
-         "title" : "New: CBM Extra #211"
-      },
-      {
          "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Losing in Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1856,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2173",
          "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
          "title" : "Tata Steel Masters: Four in the lead after Round 2"
-      },
-      {
-         "description" : " Howard University trekked to Seattle for the 69th Pan-American Intercollegiate Tournament just after New Year's. The event attracted 84 teams from more than 40 universities to compete in the annual tradition dating back to 1946. The Howard &#8220;Bison&#8221; has received media attention after rejuvenating the club after almost a 20-year hiatus. Last November, the Washington The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/\">Howard University Chess @ 2023 Pan-Ams</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/15/howard-university-chess-2023-pan-ams/",
-         "pubDate" : "Sun, 15 Jan 2023 20:10:53 +0000",
-         "title" : "Howard University Chess @ 2023 Pan-Ams"
-      },
-      {
-         "description" : " The second round of Wijk aan Zee was another exciting one watched by more than a 1000 spectators on site. Game of the day was played by Anish Giri in defeating D Gukesh with some new ideas in the Ragozin. Magnus Carlsen won after making it slightly difficult for himself, Ding Liren looked like he was headed for 2/2 but failed to convert what seemed to be at one stage a winning position. After two rounds we have four leaders, Carlsen, Giri, Ding and Nodirbek Abdusattorov and one person having a difficult time: Gukesh. Read Michiel Abeln's on the spot report in the main text. In the Challengers Group Eline Roebers scored a fine win against Erwin L'Ami, Alexander Donchenko defeated Rameshbabu ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-joins-the-leaders-after-beating-keymer-in-round-2-of-tata-steel-chess",
-         "pubDate" : "Sun, 15 Jan 2023 21:30:00 +0400",
-         "title" : "Carlsen joins the leaders after beating Keymer in round 2 of Tata Steel Chess - 2"
       }
    ]
 }
