@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is rare to see female players take part in the open section of national championships. But 19-year-old IM Nurgyul Salimova decided to do it at the 2023 Bulgarian Championship. She scored an impressive 6/9 and edged past two grandmasters (who also collected 6 points) to finish second overall. Salimova obtained four wins, four draws and suffered her sole loss of the event against the top seed and eventual champion, GM Kiril Georgiev. | Photo: Nurgyul's Instagram page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/19-year-old-nurgyul-salimova-wins-silver-at-bulgarian-championship-2023",
+         "pubDate" : "Sun, 05 Feb 2023 13:00:00 +0100",
+         "title" : "19-year-old Nurgyul Salimova wins Silver at Bulgarian Championship 2023"
+      },
+      {
+         "description" : "The Polish team won all six matches in Belgrade and took their first Olympic gold in chess since 1930. IPCA got the silver, and the Philippines won the bronze Like many times during the 20th century, the Serbian capital Belgrade was a place where (again) chess history had been made, as players with disabilities showed []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/poland-wins-1st-olympiad-for-people-with-disabilities/",
+         "pubDate" : "Sun, 05 Feb 2023 10:09:00 +0000",
+         "title" : "Poland wins 1st Olympiad for People with Disabilities"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) Alexandra Kosteniuk, playing under the neutral FIDE flag, scored her third consecutive win against tailender Dinara Wagner this afternoon in the Women's Grand Prix. Kosteniuk dominated her opponent and took advantage of the time-trouble phase to transition into a winning ending. &#8220;It was a very difficult game with a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-perfect-at-the-womens-grand-prix-munich/",
+         "pubDate" : "Sun, 05 Feb 2023 09:10:00 +0000",
+         "title" : "Alexandra Kosteniuk perfect at the Women's Grand Prix Munich"
+      },
+      {
          "description" : "Alexandra Kosteniuk grabbed a third consecutive win in Munich to get a full-point lead over a 3-player chasing pack at the second stage of the Women's Grand Prix series. Kosteniuk inflicted Dinara Wagner's third consecutive loss. In the other decisive game of the round, Zhu Jiner beat Zhansaya Abdumalik with the black pieces. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,6 +242,14 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Spectacular chess in Wijk"
       },
       {
+         "description" : "The most recent post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/02/hooked-on-1994-95-sanghi-nagar.html\">Hooked on 1994-95 Sanghi Nagar</A>(February 2023), mentioned, <BLOCKQUOTE>[Ravi Sanghi] was responsible for the creation of an attractive Hindu temple perched dramatically on a nearby hill, and his impressive home could be seen on another distant hill. Mimi [Bill Hook's wife] later interviewed Mr. Sanghi, and her article subsequently appeared in <I>Inside Chess</I>. </BLOCKQUOTE> <P>The reference to <I>Inside Chess</I> fits in well with my current series on early web sites -- last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/01/hu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html",
+         "pubDate" : "Fri, 03 Feb 2023 16:50:00 +0000",
+         "title" : "Wayback to Insidechess.com"
+      },
+      {
          "description" : "The play-in phase of the Airthings Masters is taking place on February 3 and is open to all grandmasters. A total of 54 players will qualify to the knockout stage set to start on Monday. A 9-round Swiss tournament will be followed by 2-game matches to decide who qualifies and to which division of the knockout. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,22 +304,6 @@ news_feed (
          "link" : "https://www.chessdom.com/women-grand-prix-munich-round-2-pairings/",
          "pubDate" : "Fri, 03 Feb 2023 13:27:04 +0000",
          "title" : "Women Grand Prix Munich - Round 2 pairings"
-      },
-      {
-         "description" : "By Milan Dinic A hundred years since the birth of one of the greatest names in the history of chess, friends, players, officials and lovers of the game gathered in the Serbian capital to remember Svetozar Gligoric Grandmaster Svetozar Gligoric, who died in 2012, would have turned 100 today. Gligoric was born on 2nd February []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-centenary-of-the-birth-of-svetozar-gligoric-celebrated-in-belgrade/",
-         "pubDate" : "Fri, 03 Feb 2023 13:09:35 +0000",
-         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrade"
-      },
-      {
-         "description" : "It&#x2019;s not every day that a world-famous footballer comes to follow a chess event, but that&#x2019;s just what happened in Belgrade on the fourth round of the first Olympiad for People with Disabilities The first move ceremony in chess is a peculiar affair. A lot of things need to come together: the honorary guests need []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-the-link-between-chess-football-and-royalty/",
-         "pubDate" : "Fri, 03 Feb 2023 12:26:53 +0000",
-         "title" : "Olympiad for People with Disabilities: The link between chess, football and Royalty"
       },
       {
          "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
@@ -1226,14 +1242,6 @@ news_feed (
          "title" : "The first Chess Olympiad for People with Disabilities: A milestone for chess"
       },
       {
-         "description" : "In his \"Game of the Week\" show #552, Merijn van Delft analyses the all-important victory that Nodirbek Abdusattorov obtained (with black) over Magnus Carlsen at the Tata Steel Masters in Wijk aan Zee. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-552-carlsen-abdusattorov",
-         "pubDate" : "Thu, 26 Jan 2023 19:00:00 +0100",
-         "title" : "Game of the Week #552: M. Carlsen vs N. Abdusattorov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html",
          "pubDate" : "Sun, 15 Jan 2023 16:08:00 +0000",
          "title" : "The Rise of Chess.com"
-      },
-      {
-         "description" : " You may be aware that I co-founded Richmond Junior Chess Club with my good friend Mike Fox in 1975, and, after he moved to Birmingham a few years later, ran it myself, with the help of parents and friends, until 2005/6. During that period, we had several members, including Luke McShane and Jonathan Rowson, who <a href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Richmond Junior Club 1975-2006 Part 3\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/richmond-junior-club-1975-2006-part-3/\">Richmond Junior Club 1975-2006 Part 3</a> appeared first on <a rel=\"nofollow\" href=\"https://ch",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/richmond-junior-club-1975-2006-part-3/",
-         "pubDate" : "Sun, 15 Jan 2023 09:00:33 +0000",
-         "title" : "Richmond Junior Club 1975-2006 Part 3"
       }
    ]
 }
