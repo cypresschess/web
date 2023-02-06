@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2217",
+         "pubDate" : "Mon, 06 Feb 2023 17:18:48 +0000",
+         "title" : "Darwin Layo wins Philippine Championship"
+      },
+      {
+         "description" : "In his Endgame Magic Show #226 Karsten continues to show endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2023",
+         "pubDate" : "Mon, 06 Feb 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #226: More Endgame Highlights of the Tata Steel Tournament 2023"
+      },
+      {
          "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1218,14 +1234,6 @@ news_feed (
          "title" : "Kuybokarov and Ryjanove win 3.6 Zonal events"
       },
       {
-         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In the third episode, Jeroen van den Belt explains the newly visualized material search function!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-explained-by-the-engineers-the-new-material-search",
-         "pubDate" : "Sat, 28 Jan 2023 12:00:00 +0100",
-         "title" : "ChessBase 17 explained by the engineers! - The new material search"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class on the 6.Bg5 variation of the Najdorf. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2174",
          "pubDate" : "Tue, 17 Jan 2023 01:01:44 +0000",
          "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
-      },
-      {
-         "description" : " Fabiano Caruana was the only winner in Round 3 of the Tata Steel Masters. Jorden Van Foreest chose a highly unusual if not shocking variation of the Petroff Defence, Caruana had to work hard but eventually exposed the strategic risks he took to win the game. Magnus Carlsen's choice of the London System set only a few problems for Ding Liren before the game was drawn. FM Michiel Abeln comments on all the games below. In the Challengers Group Jergus Pechac looked to be headed for a third loss in a row but mounted a very spirited defence to score his first half point. Erwin L'Ami was too passive yesterday and perhaps a bit too active today and lost to Mustafa Yilmaz when his initiative ran out",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-joins-a-five-way-tie-for-the-lead-after-three-round-of-tata-steel-chess",
-         "pubDate" : "Mon, 16 Jan 2023 20:33:00 +0400",
-         "title" : "Caruana joins a five way tie for the lead after three rounds of Tata Steel Chess - 3"
       }
    ]
 }
