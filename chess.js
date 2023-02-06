@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Mon, 06 Feb 2023 16:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Live!"
+      },
+      {
+         "description" : "Classical chess, sometimes called &#34;slow chess,&#34; for a long time has been the standard form of tournament play. When one thinks of historic, monumental chess matches, one thinks especially of titanic world championships and Candidates tournaments&#38;m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/is-classical-chess-being-phased-out",
+         "pubDate" : "Mon, 06 Feb 2023 07:44:57 -0800",
+         "title" : "Is Classical Chess Being 'Phased Out'?"
+      },
+      {
+         "description" : "The ECF would like to thank IM Lawrence Cooper for his hard work and valuable contributions during his tenure as Manager of Women's Online Chess....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/manager-of-womens-online-chess/",
+         "pubDate" : "Mon, 06 Feb 2023 15:37:55 +0000",
+         "title" : "Manager of Women's Online Chess"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Mon, 06 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : " The Chess Drum had a conversation with IM Kassa Korley about his recent activities. He talked about his appearance in the recent premiere of &#8220;Mind Games,&#8221; a documentary peering into the minds of gamesmen in four disciplines: chess, mahjong, memory, and e-sports. Chess has often been the subject of many scientific experiments and has been The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/\">Kassa Korley featured in Amazon's &#8220;Mind Games&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/",
+         "pubDate" : "Mon, 06 Feb 2023 12:41:27 +0000",
+         "title" : "Kassa Korley featured in Amazon's \"Mind Games\""
+      },
+      {
          "description" : " If you are looking for some (FIDE approved) pairing software that won't cost you anything, then you might be interested in Chess Tournament Organiser Program. It is a free (and open source) program that does all the usual stuff you need to run chess tournaments. The website for download is <a href=\"https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html\">https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html</a> I've had a quick play with it, but not enough to work out all the features. It does use JaVaFo to do the pairings (which means it is FIDE compliant), but extras like export/import of d",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -18,7 +58,7 @@ news_feed (
          "title" : "\"Pure gold\" - Davide Nastasio reviews ChessBase Magazine #205"
       },
       {
-         "description" : "We are inviting nominations for the BCET Awards 2023 which are for junior schools (including colleges and other education establishments) and junior clubs. The awards...",
+         "description" : "The BCET is inviting nominations for the BCET Awards 2023 which are for junior schools (including colleges and other education establishments) and junior clubs in...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/bcet-awards-2023/",
@@ -1194,22 +1234,6 @@ news_feed (
          "title" : "Learn the 6.Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
       },
       {
-         "description" : "In the diagram position White can win a piece after 18.Nxc6! Bxc6. Can you calculate the lines in your head?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/loose-bishops-drop-off",
-         "pubDate" : "Sat, 28 Jan 2023 09:00:00 +0100",
-         "title" : "Loose bishops drop off"
-      },
-      {
-         "description" : "In an earlier episode, Svitlana taught us the King's Indian Defence. Today, we will learn all the basics about the King's Indian Attack, which is a universal setup, similar to the London System. This also means that the attack can be easily played against standard openings, like the Sicilian, the French, or the Caro-Kann. Svitlana explains, using a Bobby Fischer game, how to win against the French Defence with this interesting opening.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-attack-vs-sicilian-french-caro-kann",
-         "pubDate" : "Sat, 28 Jan 2023 08:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - King's Indian Attack vs. Sicilian, French & Caro-Kann"
-      },
-      {
          "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2181",
          "pubDate" : "Thu, 19 Jan 2023 23:48:10 +0000",
          "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
-      },
-      {
-         "description" : "In their first-ever classical encounter, 18-year-old GM Nodirbek Abdusattorov with the black pieces defeated GM Magnus Carlsen in round five of the 2023 Tata Steel Chess Tournament. With his previous round&#39;s victory vs. GM Parham Maghsoodloo, Abdu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-5",
-         "pubDate" : "Thu, 19 Jan 2023 15:16:00 -0800",
-         "title" : "Abdusattorov Gives Carlsen His 1st 2-Game Losing Streak in 8 Years"
       },
       {
          "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
