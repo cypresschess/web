@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-02-04  - 02-05","58","<a href=http://www.uschess.org/msa/XtblMain.php?202302055802 target='_blank'>$3,000 HOUSTON CHESS STUDIO FEB 202</a>",
+"SUGAR LAND","2023-02-04","78","<a href=http://www.uschess.org/msa/XtblMain.php?202302045112 target='_blank'>FELLOWSHIP CHRISTIAN ACADEMY</a>",
 "HOUSTON","2023-02-03","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302034422 target='_blank'>REBECCA CHESS CLUB QUADS FEB 3, 2023</a>",
 "CYPRESS","2023-02-03","32","<a href=http://www.uschess.org/msa/XtblMain.php?202302034402 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-01-03  - 01-31","13","<a href=http://www.uschess.org/msa/XtblMain.php?202301313282 target='_blank'>JAN 2023 TUESDAY NIGHT SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2022-06-17  - 06-19","40","<a href=http://www.uschess.org/msa/XtblMain.php?202206197882 target='_blank'>$3,000 HOUSTON CHESS STUDIO SUMMER</a>",
 "SPRING","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176742 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206176732 target='_blank'>FBCC06172022</a>",
-"CYPRESS","2022-06-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202206176672 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2022-06-10  - 06-12","181","<a href=http://www.uschess.org/msa/XtblMain.php?202206124722 target='_blank'>TCR: SPACE CITY OPEN 2022</a>",
 ]);
