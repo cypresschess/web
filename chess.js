@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexandra Kosteniuk continued her unbeaten run in the Munich FIDE Women&#39;s Grand Prix in round four after slaying GM Tan Zhongyi&#39;s Hyper Accelerated Dragon. The fourth straight victory for the &#34;Chess Queen&#34; pushes her out to a remarkable 1.5-poi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-4",
+         "pubDate" : "Sun, 05 Feb 2023 16:17:50 -0800",
+         "title" : "Unstoppable Kosteniuk Perfect So Far In Munich"
+      },
+      {
+         "description" : "The six strongest performers of the Airthings Masters Play-In will join Magnus Carlsen and Wesley So in Division I of the tournament's knockout phase starting Monday. Meanwhile, 16 players will battle it out in Division II, and 32 will play in Division III. In Friday's Play-In, Dommaraju Gukesh was the clear winner of the 9-round Swiss after impressively collecting 7&frac12; points. The Indian prodigy then went on to get a 2-0 victory over former world champion Vladimir Kramnik.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-play-in-report",
+         "pubDate" : "Mon, 06 Feb 2023 01:00:00 +0100",
+         "title" : "Gukesh shines in super strong Airthings Masters Play-In"
+      },
+      {
+         "description" : "The Azerbaijan Women's Championship will be held in Baku from 03 to 14 February 2023 with 12 participants compete in a round-robin. Players receive 90 minutes for the first 40 moves and then 30 minutes until the end of the game, plus a 30-second increment starting from move one. The total prize fund of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/azerbaijan-womens-championship-2023-live/",
+         "pubDate" : "Sun, 05 Feb 2023 21:12:02 +0000",
+         "title" : "Azerbaijan Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2216",
+         "pubDate" : "Sun, 05 Feb 2023 20:39:30 +0000",
+         "title" : "WGP Munich: Who dares wins"
+      },
+      {
+         "description" : " Education author and blogger David Didau has a lot to say about the difference between novices and experts on his website. This article is a good place to start. So when do chess novices become experts. Let's say, as a very general rule, that novices have a rating under 1000, and experts have a rating <a href=\"https://chessimprover.com/novices-and-experts-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Novices and Experts\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/novices-and-experts-2/\">Novices and Experts</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/novices-and-experts-2/",
+         "pubDate" : "Sun, 05 Feb 2023 20:35:58 +0000",
+         "title" : "Novices and Experts"
+      },
+      {
          "description" : "The recent firefight in Wijk aan Zee was a magnificent tournament. While trying to follow his nose (i.e. not merely checking the engine evaluation) as to what was going on in the players' minds during the battle, Jon Speelman found a number of remarkable ideas! | Photos: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -328,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-number-one-in-ios-app-store",
          "pubDate" : "Fri, 03 Feb 2023 05:29:00 -0800",
          "title" : "Chess.com Hits #1 In iOS App Store"
-      },
-      {
-         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-grand-prix-munich-round-2-pairings/",
-         "pubDate" : "Fri, 03 Feb 2023 13:27:04 +0000",
-         "title" : "Women Grand Prix Munich - Round 2 pairings"
       },
       {
          "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
@@ -1178,14 +1210,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty One"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King examines a wonderfully creative game of Richard Rapport's from the Tata Steel Masters. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-genius-of-richard-rapport",
-         "pubDate" : "Fri, 27 Jan 2023 19:15:00 +0100",
-         "title" : "Daniel King's Power Play Show: The genius of Richard Rapport"
-      },
-      {
          "description" : " Today was a quiet day even after a day of rest. A win for second placed Anish Giri against Nodirbek Abdusattorov would have allowed him to replace the leader at the top of the standings but after mixing up his lines he didn't get anything and the game was drawn in 29 moves. Magnus Carlsen tried for 58 moves against Wesley So but never seemed to generate realistic winning chances. R Praggnanandhaa's tournament continues to go bad after losing a third game, this time to Parham Maghsoodloo. Praggnanandhaa had a promising position but after choosing the wrong plan he was instead lost. This was the only decisive game of the day. FM Michiel Abeln's report is below. Alexander Donchenko is the sole",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1674,14 +1698,6 @@ news_feed (
          "title" : "2023 World Championship Match to be held in Astana"
       },
       {
-         "description" : "The 2023 FIDE World Chess Championship match between GMs Ding Liren and Ian Nepomniachtchi will take place April 7-May 1, 2023 in Astana, Kazakhstan. The news was announced on Thursday by the International Chess Federation. The match, which will...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/astana-to-host-ding-nepomniachtchi-fide-world-chess-championship-match",
-         "pubDate" : "Thu, 19 Jan 2023 09:32:00 -0800",
-         "title" : "Astana To Host Ding-Nepomniachtchi FIDE World Chess Championship Match"
-      },
-      {
          "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since 3rd Norway Chess tournament of 2015 where he started with two losses, a draw and then another loss. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report f",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/tata-steel.html",
          "pubDate" : "Mon, 16 Jan 2023 11:59:00 +0000",
          "title" : "Tata Steel"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2173",
-         "pubDate" : "Sun, 15 Jan 2023 23:35:07 +0000",
-         "title" : "Tata Steel Masters: Four in the lead after Round 2"
       }
    ]
 }
