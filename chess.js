@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-4",
-         "pubDate" : "Sun, 05 Feb 2023 16:17:50 -0800",
+         "pubDate" : "Sun, 05 Feb 2023 16:17:00 -0800",
          "title" : "Unstoppable Kosteniuk Perfect So Far In Munich"
       },
       {
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-187",
          "pubDate" : "Sun, 05 Feb 2023 20:00:00 +0100",
          "title" : "The Gods by the North Sea"
+      },
+      {
+         "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb05.jpg\" WIDTH=130 HEIGHT=400 ALIGN=LEFT VSPACE=5 HSPACE=5> It's hard to believe, but in the nearly 17 years that I've been writing this blog and the nearly 13 years that I've been posting for the series titled <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), an important word has never once appeared on the blog. That new word is >>> [new_word] <<<. <P>The item on the left was titled 'World Chess Championship 1972 - Rare Silver Spoon'. It sold 'Best offer accepted' for... <P>[<B>BREAKING NEWS:</B> The item page I'm looking at does *not* list a price. In the p",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/a-new-category-of-chess-collectable.html",
+         "pubDate" : "Sun, 05 Feb 2023 16:20:00 +0000",
+         "title" : "A New Category of Chess Collectable"
       },
       {
          "description" : " Sergio Periera of Sao Tome &#38; Principe hoists the championship trophyafter winning Zone 4.3 Championship. Equatorial Guinea was the host to the FIDE Zone 4.3 Individual Championship which took place during the week of 18th-27th&#160;of January 2023 at the Bisili Hotel in Malabo. The tournament attracted 15 contestants from six countries Gabon, Cameroon, Burundi, Sao The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/\">2023 Zone 4.3 in Equatorial Guinea</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
