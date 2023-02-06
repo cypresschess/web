@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " If you are looking for some (FIDE approved) pairing software that won't cost you anything, then you might be interested in Chess Tournament Organiser Program. It is a free (and open source) program that does all the usual stuff you need to run chess tournaments. The website for download is <a href=\"https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html\">https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html</a> I've had a quick play with it, but not enough to work out all the features. It does use JaVaFo to do the pairings (which means it is FIDE compliant), but extras like export/import of d",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/free-pairing-software.html",
+         "pubDate" : "Mon, 06 Feb 2023 12:30:00 +0000",
+         "title" : "Free Pairing Software"
+      },
+      {
+         "description" : "The ChessBase Magazine appears six times a year and shows the latest trends in top level chess and opening theory. However, the issues do not get old: the first issue of 2023 is CBM #211, but Davide Nastasio recently had great fun looking at CBM #205. In an impromptu review he writes: every issue of the ChessBase Magazine \"is pure gold for those genuinely interested in growing as chess players\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pure-gold-davide-nastasio-reviews-chessbase-magazine-205",
+         "pubDate" : "Mon, 06 Feb 2023 12:09:50 +0100",
+         "title" : "\"Pure gold\" - Davide Nastasio reviews ChessBase Magazine #205"
+      },
+      {
+         "description" : "We are inviting nominations for the BCET Awards 2023 which are for junior schools (including colleges and other education establishments) and junior clubs. The awards...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcet-awards-2023/",
+         "pubDate" : "Mon, 06 Feb 2023 10:42:54 +0000",
+         "title" : "BCET Awards 2023"
+      },
+      {
+         "description" : "All India Chess Federation is going to organise three days Online Arbiter Refresher Course for all FIDE Licensed IAs, FAs &#38; SNAs on 27 Feb-01",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-2023-24/",
+         "pubDate" : "Mon, 06 Feb 2023 10:04:45 +0000",
+         "title" : "ARBITER REFRESHER COURSE 2023-24"
+      },
+      {
+         "description" : "Today: Mathias Feist shows how ChessBase 17 automatically restarts the last viewed game or database at the next program start. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-how-to-use-the-new-save-memory-function-with-chessbase-17",
+         "pubDate" : "Mon, 06 Feb 2023 10:17:10 +0100",
+         "title" : "Explained by the engineers! - How to use the new save memory function with ChessBase 17?"
+      },
+      {
+         "description" : "ECU E-Magazine January 2023 is out! In this edition of the ECU E-Magazine you may read about: The 1st European Cities &#38; Towns Chess Championship The 1st FIDE Olympiad for People with Disabilities Tata Steel Chess 2023 FIDE Women Grand Prix Munich European Senior Team Chess Championship 2023 Official invitation Upcoming European Individual Chess Championship 2023 Upcoming&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-january-2023/",
+         "pubDate" : "Mon, 06 Feb 2023 08:50:11 +0000",
+         "title" : "ECU E-Magazine January 2023"
+      },
+      {
+         "description" : "A fourth consecutive win at the Munich Grand Prix left Alexandra Kosteniuk 1&frac12; points ahead of her closest chasers in the standings. On Sunday, the runaway leader defeated Tan Zhongyi with white after finding herself in some trouble during the opening phase of the game. Sharing second place on 2&frac12;/4 are Nana Dzagnidze, Mariya Muzychuk and Humpy Koneru. The latter two scored full points in round 4. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r4",
+         "pubDate" : "Mon, 06 Feb 2023 09:45:00 +0100",
+         "title" : "Munich GP: Kosteniuk beats Tan, extends her lead"
+      },
+      {
          "description" : "GM Alexandra Kosteniuk continued her unbeaten run in the Munich FIDE Women&#39;s Grand Prix in round four after slaying GM Tan Zhongyi&#39;s Hyper Accelerated Dragon. The fourth straight victory for the &#34;Chess Queen&#34; pushes her out to a remarkable 1.5-poi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-12",
          "pubDate" : "Sun, 05 Feb 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 111: Play the Sicilian (12)"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Sun, 05 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : "It is rare to see female players take part in the open section of national championships. But 19-year-old IM Nurgyul Salimova decided to do it at the 2023 Bulgarian Championship. She scored an impressive 6/9 and edged past two grandmasters (who also collected 6 points) to finish second overall. Salimova obtained four wins, four draws and suffered her sole loss of the event against the top seed and eventual champion, GM Kiril Georgiev. | Photo: Nurgyul's Instagram page",
@@ -770,14 +818,6 @@ news_feed (
          "title" : "First Yahoos of 2023"
       },
       {
-         "description" : "Chairman of FIDE Advisory Board Shri Bharat Singh Chauhan met the FIDE President Mr. Arkady Dvorkovich at Belgrade, Serbia and discussed various chess developmental programs",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/shri-bharat-singh-met-fide-president/",
-         "pubDate" : "Tue, 31 Jan 2023 15:20:17 +0000",
-         "title" : "Shri Bharat Singh met FIDE President"
-      },
-      {
          "description" : "The much anticipated Tata Steel Chess Tournament finished on Sunday in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, found plenty of instructive positions from the event in the Netherlands and shared his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,22 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2192",
          "pubDate" : "Fri, 27 Jan 2023 23:37:08 +0000",
          "title" : "Tata Steel Masters: The leaders maintain status quo"
-      },
-      {
-         "description" : "Nothing changed atop the standings of the Tata Steel Masters, as Nodirbek Abdusattorov held Anish Giri to a draw with black, and Magnus Carlsen could not get much with white against Wesley So. Thus, Abdusattorov still has a half point lead over Giri ahead of the tournament's final weekend. Meanwhile, in the Challengers, Alexander Donchenko beat top seed Amin Tabatabaei to go into the final two days of action in sole first place. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r11",
-         "pubDate" : "Sat, 28 Jan 2023 00:30:00 +0100",
-         "title" : "Tata Steel Chess R11: Donchenko sole leader in the Challengers"
-      },
-      {
-         "description" : "The much anticipated Tata Steel Chess Tournament is underway in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, continues to find instructive positions from the event in the Netherlands and shares his analyses with us. Find five such mini-lessons here. Enjoy! | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-3",
-         "pubDate" : "Fri, 27 Jan 2023 20:40:00 +0100",
-         "title" : "Endgames from Wijk aan Zee (3)"
       },
       {
          "description" : " Last week, we played through a game in which a tactic called the fork played a decisive role. We briefly talked about the creation of combinations, a sequence of moves that sets up the tactic. Were going to go into greater detail regarding the process of creating combinations because that is the heart of all <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\">A Foundation for Beginners Eighty One</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
@@ -1864,14 +1888,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html",
          "pubDate" : "Mon, 16 Jan 2023 16:15:00 +0000",
          "title" : "Chessify Progress Report"
-      },
-      {
-         "description" : " The first big OTB event of the year is underway in The Netherlands. The Tata Steel tournament has attracted the usual strong collection of GM's, including the soon no-to-be World Champion Magnus Carlsen, He has had a pretty good start with 1.5/2, but the game of the tournament so far is Anish Giri's win over Gukesh. A piece sac followed by rook sac did not immediately lead to a forced mate, with the Queen and Bishop controlled enough squares around the exposed King to end the game quickly. <br /> <br /> <b>Giri,Anish (2764) - Gukesh D (2725) [D38]</b><br />Tata Steel Masters chess24.com (2.6), 15.01.2023 <script>new PgnViewer( { boardName: \"game1376\", movesFormat: \"default\", pgnString:'1.d4",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/tata-steel.html",
-         "pubDate" : "Mon, 16 Jan 2023 11:59:00 +0000",
-         "title" : "Tata Steel"
       }
    ]
 }
