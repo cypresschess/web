@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-joins-a-five-way-tie-for-the-lead-after-three-round-of-tata-steel-chess",
          "pubDate" : "Mon, 16 Jan 2023 20:33:00 +0400",
          "title" : "Caruana joins a five way tie for the lead after three rounds of Tata Steel Chess - 3"
-      },
-      {
-         "description" : "A month ago, in <A HREF=\"https://chessforallages.blogspot.com/2022/12/chessify-setup.html\">Chessify Setup</A>(December 2022), I wrote, <BLOCKQUOTE>I set up a Chessify account, received some free time on their service, and started a new game on the LSS server, where engine use is generally allowed. I'll report on my progress in a future post. </BLOCKQUOTE> <P>This post is that report. I had White in the first LSS game, and after <B>1.e4 c6 2.d4 d5</B>, decided to play a move that I have always wanted to try: <B>3.f3</B>, known for some obscure reason as the 'Fantasy Variation'. After six moves, my opponent disappeared, apparently having quit LSS. I started a new game, chose the highest rated ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html",
-         "pubDate" : "Mon, 16 Jan 2023 16:15:00 +0000",
-         "title" : "Chessify Progress Report"
       }
    ]
 }
