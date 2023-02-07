@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Alina Kashlinskaya scored her first victory of the Munich FIDE Women&#39;s Grand Prix &#38;nbsp;in round five, making an attacking comeback vs. GM Mariya Muzychuk after losing material early in the game.&#38;nbsp; GM Alexandra Kosteniuk continues to lead...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-5",
+         "pubDate" : "Mon, 06 Feb 2023 19:08:00 -0800",
+         "title" : "Counterattacks Prevail: Kashlinskaya's 1st Win, Kosteniuk Still Undefeated"
+      },
+      {
          "description" : "Three out of four quarterfinal matches in Division I of the Airthings Masters had clear winners - i.e. players who only needed three games to remain in the winners' bracket. One of these three players was Arjun Erigaisi, as he scored three consecutive wins to take down quick-play specialist Alireza Firouzja. Arjun will face Magnus Carlsen in semis. In the other semifinal matchup, Wesley So will face Hikaru Nakamura.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1674,14 +1682,6 @@ news_feed (
          "title" : "Tata Steel Chess 6: Caruana gets Gukesh revenge"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov continues to lead the 2023 Tata Steel Chess Tournament, drawing a hard-fought clash vs. GM Praggnanandhaa R. in round six. With an attacking victory vs. GM Gukesh D., GM Fabiano Caruana climbed the scoreboard.&#38;nbsp;He join...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 20 Jan 2023 19:06:00 -0800",
-         "title" : "So Scores First Win, Caruana Joins Chase After Abdusattorov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,22 +1888,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
          "pubDate" : "Tue, 17 Jan 2023 10:00:40 +0000",
          "title" : "International Junior tournaments"
-      },
-      {
-         "description" : " &#8220;Chess is not just a game. Facing the board means making decisions and dealing with obstacles. We learn life skills from the game.&#8221; Bernice Wambui is helping bring chess to some of the most impoverished parts of Kenya. What is more impressive is her charisma and leadership. Reminiscent of Uganda's &#8220;Queen of Katwe,&#8221; 11-year-old Bernice The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/\">Kenya's Bernice Wambui gives &#8220;Gift of Chess&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/16/kenyas-bernice-wambui-gives-gift-of-chess/",
-         "pubDate" : "Tue, 17 Jan 2023 01:53:41 +0000",
-         "title" : "Kenya's Bernice Wambui gives \"Gift of Chess\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2174",
-         "pubDate" : "Tue, 17 Jan 2023 01:01:44 +0000",
-         "title" : "Tata Steel Masters 2023: Caruana joins the leaders"
       }
    ]
 }
