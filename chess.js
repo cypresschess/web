@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Last week <a href=\"https://chessimprover.com/carbon-versus-silicon-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-3/\">Carbon versus Silicon (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/carbon-versus-silicon-3/",
+         "pubDate" : "Tue, 07 Feb 2023 16:10:28 +0000",
+         "title" : "Carbon versus Silicon (3)"
+      },
+      {
+         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Tue, 07 Feb 2023 16:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Live!"
+      },
+      {
+         "description" : "In the German magazine \"Rochade Europa\" / \"Europa-Rochade\", Gerd Wilhelm H&ouml;rning and Gerhard Josten had a column in which they presented their findings on incorrect endgame studies, offering also corrections to them. A small retrospective. | Photo: Motionarray - By SeventyFour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-friendship-gerd-wilhelm-hoerning-gerhard-josten",
+         "pubDate" : "Tue, 07 Feb 2023 15:00:00 +0100",
+         "title" : "Study of the Month - Friendship: Gerd Wilhelm H&ouml;rning & Gerhard Josten"
+      },
+      {
+         "description" : " If you are a Netflix subscriber, then here is something that may be of interest. The series 'Explained' consists of a number of short (25 minutes) documentaries, covering various topics. One of the topics covered in the 3rd series is Chess. Narrated by Rainn Wilson (actor, chess player, and sometime streamer), it provides a good overview of how chess is played, what makes it interesting, and why it is important. A mixture of archival footage and modern interview, it does quite a good job of introducing chess to the viewer, with the time it has available. One of the 'hooks' it uses is the Lasker v Thomas game played in 1912, going over the moves of that game, while talking about other aspect",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/explained-chess.html",
+         "pubDate" : "Tue, 07 Feb 2023 12:38:00 +0000",
+         "title" : "Explained - Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1210,22 +1242,6 @@ news_feed (
          "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
       },
       {
-         "description" : "The 85th edition of the Tata Steel Chess Tournament took place on January 14-29 in Wijk aan Zee. Both the Masters and the Challengers were 14-player single round-robin events. Anish Giri and Alexander Donchenko obtained outright victories at the Masters and the Challengers sections, respectively. | Replay all games with computer analyses on our interactive replayers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-live",
-         "pubDate" : "Sun, 29 Jan 2023 15:15:00 +0100",
-         "title" : "Tata Steel Chess - Games and standings"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 110th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-110-play-the-sicilian-11",
-         "pubDate" : "Sun, 29 Jan 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 110: Play the Sicilian (11)"
-      },
-      {
          "description" : "Nodirbek Abdusattorov is a draw against Jorden van Foreest away from at least a playoff for the Tata Steel Masters title after he drew against Wesley So in Round 12. Anish Giri, who could have caught him, survived by the skin of his teeth against Jorden, while Magnus Carlsen called his missed win against Praggnanandhaa a \"backbreaker\". Alexander Donchenko will play next year's Masters after winning the Challengers with a round to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1864,22 +1880,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-active-players.html",
          "pubDate" : "Tue, 17 Jan 2023 16:46:00 +0000",
          "title" : "FIDE Rating List - Active Players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2175",
-         "pubDate" : "Tue, 17 Jan 2023 15:26:26 +0000",
-         "title" : "Costa Rican Championship: Jim&eacute;nez and D&iacute;az clinch titles"
-      },
-      {
-         "description" : " A quite amazing day of play with Anish Giri scoring only his second ever win against Magnus Carlsen, then late in the day Nodirbek Abdusattorov beat Parham Maghsoodloo to join Giri in the lead on 3/4. Finally Praggnanandhaa beat World number 2 Ding Liren in a long endgame. Read FM Michiel Abeln's report below. The Masters Group takes a break before going on an away day to Ajax football ground on Thursday. The Challengers Group play again tomorrow as they won't go to Ajax, Yilmaz, Ivic and Donchenko lead on 3/4. Masters Round 4 Standings: 1st= Giri, Abdusattorov 3pts, 3rd= Caruana, Praggnanandhaa 2.5pts 5th= Aronian, Erigaisi, Carlsen, So, Ding Liren 2pts, 10th= Maghsoodloo, Rapport, Keymer,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-beats-carlsen-in-round-4-of-the-tata-steel-masters",
-         "pubDate" : "Tue, 17 Jan 2023 18:06:00 +0400",
-         "title" : "Giri beats Carlsen in Round 4 of the Tata Steel Masters - 4"
       }
    ]
 }
