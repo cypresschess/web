@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three out of four quarterfinal matches in Division I of the Airthings Masters had clear winners - i.e. players who only needed three games to remain in the winners' bracket. One of these three players was Arjun Erigaisi, as he scored three consecutive wins to take down quick-play specialist Alireza Firouzja. Arjun will face Magnus Carlsen in semis. In the other semifinal matchup, Wesley So will face Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-1",
+         "pubDate" : "Tue, 07 Feb 2023 00:30:00 +0100",
+         "title" : "Airthings Masters: Arjun stuns Firouzja"
+      },
+      {
+         "description" : "Four winners emerged in Division I of the Champions Chess Tour Airthings Masters 2023 on Tuesday. GMs Magnus Carlsen, Hikaru Nakamura, and Arjun Erigaisi clinched their matches in just three games against GMs Alexey Sarana, Gukesh D, and Alireza F...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-1",
+         "pubDate" : "Mon, 06 Feb 2023 13:30:00 -0800",
+         "title" : "Erigaisi Sweeps Firouzja 3-0, Leads With Carlsen, Nakamura, So"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2218",
+         "pubDate" : "Mon, 06 Feb 2023 21:14:54 +0000",
+         "title" : "Missed opportunities in Munich"
+      },
+      {
+         "description" : "When orders of a 10-year-old book kept flooding in and hitting #1 on Amazon&#39;s Bestseller list, it puzzled its publisher New in Chess&#38;mdash;which is now owned by Chess.com. The reason: A mention by two of the world&#39;s most popular chess streamers. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/10-year-old-chess-book-sold-out-after-youtube-mention",
+         "pubDate" : "Mon, 06 Feb 2023 12:56:35 -0800",
+         "title" : "10-Year-Old Chess Book Sold Out After Youtube Mention"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2023",
          "pubDate" : "Mon, 06 Feb 2023 18:00:00 +0100",
          "title" : "Endgame Magic #226: More Endgame Highlights of the Tata Steel Tournament 2023"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Mon, 06 Feb 2023 16:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Live!"
       },
       {
          "description" : "Classical chess, sometimes called &#34;slow chess,&#34; for a long time has been the standard form of tournament play. When one thinks of historic, monumental chess matches, one thinks especially of titanic world championships and Candidates tournaments&#38;m...",
@@ -1664,22 +1688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2182",
          "pubDate" : "Fri, 20 Jan 2023 23:00:57 +0000",
          "title" : "Tata Steel Masters: Abdusattorov stays in front"
-      },
-      {
-         "description" : "He&#39;s the 15th world chess champion, five-time world champion, and one of the greatest chess players of all time. India&#39;s first grandmaster, his career as a chess star has spanned five decades and lasted from his teenage years into his 50s. He has ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/viswanathan-anand-chesscom-course",
-         "pubDate" : "Fri, 20 Jan 2023 14:09:00 -0800",
-         "title" : "Take Vishy Anand's Chess.com Course Today!"
-      },
-      {
-         "description" : "The Ukrainian GM Kirill Shevchenko has changed federations to Romania, the Romanian Chess Federation announced on Thursday. GM Richard Rapport, the world number-17, also switched federations from Hungary last year. Rated 2662, Shevchenko is now th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukranian-gm-shevchenko-to-play-for-romania",
-         "pubDate" : "Fri, 20 Jan 2023 12:15:00 -0800",
-         "title" : "Ukranian GM Shevchenko To Play For Romania"
       },
       {
          "description" : "Last week in <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html\">The Evolution of Chess.net</A>(January 2023), I used Archive.org to outline the evolution of the online play site Chess.net. I assume that most chess sites from the late 1990s and early 2000s can be tracked in the same way. How can we identify those sites? <P>One excellent resource is Mark Crowther's 'Chess on the Net', published in 2002. The following image shows the front and back covers of the book. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na20.gif\" WIDTH=400 HEIGHT=300> <P>White letters on a yellow background don't allow easy reading, so here's the blurb from the back c",
