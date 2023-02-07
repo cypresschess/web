@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2219",
+         "pubDate" : "Tue, 07 Feb 2023 12:22:49 +0000",
+         "title" : "Tolerance Games, Asian Chess Women's Contest, run big"
+      },
+      {
+         "description" : "Attacking is what is most fun in chess. Ideally, you mate! But how do you make your attack successful? On his latest Fritztrainer, Grandmaster Karsten M&uuml;ller has put together some rules of thumb for a successful attack. Christian H&ouml;the has taken a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/karsten-mueller-how-to-attack-review",
+         "pubDate" : "Tue, 07 Feb 2023 13:11:04 +0100",
+         "title" : "Karsten M&uuml;ller: How to attack - Review"
+      },
+      {
+         "description" : "The &#8216;rating of games played abroad' facility has been dormant since the new rating system was introduced. The ECF rating team are pleased to announce...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rating-games-played-abroad/",
+         "pubDate" : "Tue, 07 Feb 2023 10:44:41 +0000",
+         "title" : "Rating of games played abroad"
+      },
+      {
+         "description" : "The Georgian Women's Championship is taking place from 6&#x2013;15 February 2023 in Tbilisi. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Nino Batsiashvili, Bela Khotenashvili, Nia Donghvani, Anastasia Kirtadze, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/georgian-womens-championship-2023-live/",
+         "pubDate" : "Tue, 07 Feb 2023 08:37:02 +0000",
+         "title" : "Georgian Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Arjun Erigaisi stunned Alireza Firouzja 3:0 on the opening day of the Airthings Masters, the first event on the $2 million 2023 Champions Chess Tour. Magnus Carlsen and Hikaru Nakamura also beat Alexey Sarana and Gukesh with a game to spare, while Wesley So lived dangerously before overcoming Rauf Mamedov in four games. For the losing players it's not over yet, as they can still win the tournament via the Losers bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/erigaisi-beats-firouzja-3-0-as-airthings-masters-begins",
+         "pubDate" : "Tue, 07 Feb 2023 08:34:28 +0000",
+         "title" : "Erigaisi beats Firouzja 3:0 as Airthings Masters begins"
+      },
+      {
+         "description" : "The Begum Laila Alam is taking place from 6&#x2013;13 February 2023 in Dhaka, Bangladesh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Tanima Parveen, Walijah Ahmed, Anjum Noshin, Nazrana Khan, Rani Hamid, Khusbu Warsia, Alo Nusrat Jahan, Ferdous []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/begum-laila-alam-2023-live/",
+         "pubDate" : "Tue, 07 Feb 2023 08:31:39 +0000",
+         "title" : "Begum Laila Alam 2023 -LIVE"
+      },
+      {
          "description" : "Fighting against passed pawns can be tricky. In the diagram position Black's bishop has to fight against no less than four passed pawns. However, Black can still draw. But how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -63,7 +111,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2217",
          "pubDate" : "Mon, 06 Feb 2023 17:18:48 +0000",
-         "title" : "Darwin Layo wins Philippine Championship"
+         "title" : "Darwin Laylo wins Philippine Championship"
       },
       {
          "description" : "In his Endgame Magic Show #226 Karsten continues to show endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -488,22 +536,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-against-computer/",
          "pubDate" : "Fri, 03 Feb 2023 14:04:30 +0000",
          "title" : "Should You Play Chess Against The Computer?"
-      },
-      {
-         "description" : "The Play-In for the&#xA0;Airthing Masters, the 1st event of the&#xA0;2023 Champions Chess Tour,&#xA0;is taking place on February 3rd deciding which 54 players will join&#xA0;Magnus Carlsen&#xA0;and&#xA0;Wesley So&#xA0;in the main event which will be played from 6-10 February. The Airthing Masters Play-In will begin with a 9-round swiss tournament, with the top finishers advancing to Match Play. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/airthings-masters-play-in-live/",
-         "pubDate" : "Fri, 03 Feb 2023 13:52:26 +0000",
-         "title" : "Airthings Masters Play-In - LIVE"
-      },
-      {
-         "description" : "The Play-In for the Airthing Masters, the 1st event of the 2023 Champions Chess Tour, is taking place on February 3rd deciding which 54 players will join Magnus Carlsen and Wesley So in the main event which will be played from 6-10 February. The Airthing Masters Play-In will begin with a 9-round swiss tournament, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/airthings-masters-play-in-champions-chess-tour-2023/",
-         "pubDate" : "Fri, 03 Feb 2023 13:48:23 +0000",
-         "title" : "Airthings Masters Play-In | Champions Chess Tour 2023"
       },
       {
          "description" : "Alexandra Kosteniuk, Tan Zhongyi, Elisabeth Paehtz and Nana Dzagnidze got off to a perfect start with wins as the second leg of the FIDE Women's Grand Prix kicked off in Munich, Germany on Thursday. One of the draws was not without controversy.",
@@ -1194,14 +1226,6 @@ news_feed (
          "title" : "Understanding before Moving 110: Play the Sicilian (11)"
       },
       {
-         "description" : "Nodirbek Abdusattorov continues to lead the standings with one round to go at the Tata Steel Masters. Anish Giri, who is in sole second place a half point back, escaped with a draw from an exciting game against Jorden van Foreest. Magnus Carlsen, on his part, failed to convert his advantage into a full point against Praggnanandhaa. Meanwhile, in the Challengers, Alexander Donchenko scored a third consecutive win and secured first place with a round to spare. | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r12",
-         "pubDate" : "Sun, 29 Jan 2023 14:30:00 +0100",
-         "title" : "Tata Steel Chess R12: Riveting draws, Donchenko wins Challengers"
-      },
-      {
          "description" : "Nodirbek Abdusattorov is a draw against Jorden van Foreest away from at least a playoff for the Tata Steel Masters title after he drew against Wesley So in Round 12. Anish Giri, who could have caught him, survived by the skin of his teeth against Jorden, while Magnus Carlsen called his missed win against Praggnanandhaa a \"backbreaker\". Alexander Donchenko will play next year's Masters after winning the Challengers with a round to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1794,14 +1818,6 @@ news_feed (
          "title" : "Astana to host the FIDE World Chess Championship match 2023"
       },
       {
-         "description" : "The Qatar Masters will be back on the calendar in 2023 after a break of eight years. With a $110,000 prize fund, it will likely be one of the strongest open tournaments of the year, especially as Magnus Carlsen himself has confirmed his participation.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/magnus-carlsen-plays-this-year-s-revived-qatar-masters",
-         "pubDate" : "Thu, 19 Jan 2023 10:30:51 +0000",
-         "title" : "Magnus Carlsen plays this year's revived Qatar Masters"
-      },
-      {
          "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1864,30 +1880,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-beats-carlsen-in-round-4-of-the-tata-steel-masters",
          "pubDate" : "Tue, 17 Jan 2023 18:06:00 +0400",
          "title" : "Giri beats Carlsen in Round 4 of the Tata Steel Masters - 4"
-      },
-      {
-         "description" : " &#8220;Truth is always hiding in plan sight which means it's not hidden at all&#8221; Kyle Hoobin I have seen below position at different times floating around the internet. Until now I did not pay more attention to it beyond the solution. This time I took the time to read the comments added by readers to <a href=\"https://chessimprover.com/hardest-checkmate-in-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Hardest Checkmate in 1?\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/hardest-checkmate-in-1/\">Hardest Checkmate in 1?</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/hardest-checkmate-in-1/",
-         "pubDate" : "Tue, 17 Jan 2023 11:12:57 +0000",
-         "title" : "Hardest Checkmate in 1?"
-      },
-      {
-         "description" : "Last month World Chess, the company that ran the World Chess Championships, announced its plans to float on the main London Stock Exchange in November, inviting institutional and retail investors to subscribe for eight million Euro shares. This comes at the heels of planned 483 million takeover of PlayMagnus by the giant Chess.com. What this all means is discussed by Peter O'Brien in the latest issue of The British Chess Magazine.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fresh-moves-in-the-board-room",
-         "pubDate" : "Tue, 17 Jan 2023 12:00:00 +0100",
-         "title" : "Fresh moves in the board room"
-      },
-      {
-         "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
-         "pubDate" : "Tue, 17 Jan 2023 10:00:40 +0000",
-         "title" : "International Junior tournaments"
       }
    ]
 }
