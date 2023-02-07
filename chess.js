@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every year, there is a Sunday in February where everything in the United States seems to stop as millions of people tune into the biggest football game of the year. The commercials and the halftime show attract fans that would otherwise find somet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-big-game-football-bots",
+         "pubDate" : "Tue, 07 Feb 2023 12:06:00 -0800",
+         "title" : "Play The Big Game City Bots!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of deciding which chess opening to play. 2023.02.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng",
+         "pubDate" : "Tue, 07 Feb 2023 17:28:01 +0000",
+         "title" : "Chess Opening Decision-Making | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics! 2023.02.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QeIiW4VYiRs.jpg?itok=NRWDaxnZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 07 Feb 2023 17:28:01 +0000",
+         "title" : "Hone Your Tactical Radar | Beginner Breakdown | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2220",
+         "pubDate" : "Tue, 07 Feb 2023 17:07:09 +0000",
+         "title" : "Chess for Freedom in Serbia: From DIY chess set to gold medals at intercontinental championship"
+      },
+      {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Last week <a href=\"https://chessimprover.com/carbon-versus-silicon-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-3/\">Carbon versus Silicon (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1514,14 +1546,6 @@ news_feed (
          "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay, using examples from his own games and Averbakh-Spassky. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng-0",
-         "pubDate" : "Wed, 25 Jan 2023 02:17:39 +0000",
-         "title" : "Counterplay! | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1544,14 +1568,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/travel-day-for-me.html",
          "pubDate" : "Tue, 24 Jan 2023 22:59:00 +0000",
          "title" : "Travel day for me"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on counterplay. 2023.01.24 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/counterplay-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uoqfI1fv7KY.jpg?itok=55QlDyOm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/counterplay-grandmasters-choice-gm-josh-sheng",
-         "pubDate" : "Tue, 24 Jan 2023 20:17:18 +0000",
-         "title" : "Counterplay | Grandmaster's Choice - GM Josh Sheng"
       },
       {
          "description" : " Nodirbek Abdusattorov managed to save an extremely bad position against Vincent Keymer in Round 9 of the Tata Steel Masters, this allowed him to keep his lead. Anish Giri moved within half a point after beating Ding Liren with the black pieces. Richard Rapport was the other winner beating Arjun Erigaisi. Wesley So had to settle for a draw against Parham Maghsoodloo and he plays Giri tomorrow. Full report by FM Michiel Abeln below. Masters Round 9 Standings: 1st Abdusattorov 6.5pts/9, 2nd Giri 6pts, 3rd So 5.5pts, 4th= Caruana, Aronian, Praggnanandhaa, Carlsen 5 pts, 8th Rapport 4.5pts, 9th= Maghsoodloo, Ding Liren 4pts. 11th Van Foreest 3.5pts, 12th= Erigaisi, Keymer, Gukesh 3pts. Masters R",
@@ -1672,14 +1688,6 @@ news_feed (
          "link" : "https://chessimprover.com/some-recent-books/",
          "pubDate" : "Sun, 22 Jan 2023 09:00:24 +0000",
          "title" : "Some Recent Books"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov was one of four winners in the seventh round of the 2023 Tata Steel Chess Tournament and moved to 5.5/7 after scoring his fourth win of the event over GM Arjun Erigaisi on Saturday. The 18-year-old was joined in the winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 21 Jan 2023 18:53:00 -0800",
-         "title" : "Abdusattorov Extends Lead In Round Of Decisive Games"
       },
       {
          "description" : "",
@@ -1864,22 +1872,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/losses-for-top-2-more-at-11.html",
          "pubDate" : "Tue, 17 Jan 2023 20:49:00 +0000",
          "title" : "Losses for the top 2 - More at 11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2176",
-         "pubDate" : "Tue, 17 Jan 2023 17:44:25 +0000",
-         "title" : "Chess for Freedom Conference scheduled for May 2023"
-      },
-      {
-         "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html\">FIDE Rating List - January 2023</A>(FRL), I displayed some preliminary numbers from the current FIDE ratings. The numbers received some attention in <A HREF=\"https://www.reddit.com/r/chess/comments/1093ogv/federations_with_the_largest_increase_in_number/\">Federations with the largest increase in number of players : chess</A>(reddit.com), enough to propel the FRL post to no.3 in the list of 'Popular Posts (Last 12 months)' at the bottom of each page on this blog. <P>At the end of the FRL post I reminded myself of an outstanding action. A year ago I wrote, <BLOCKQUOTE><B>2022:</B>The count ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/fide-rating-list-active-players.html",
-         "pubDate" : "Tue, 17 Jan 2023 16:46:00 +0000",
-         "title" : "FIDE Rating List - Active Players"
       }
    ]
 }
