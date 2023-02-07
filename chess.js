@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fighting against passed pawns can be tricky. In the diagram position Black's bishop has to fight against no less than four passed pawns. However, Black can still draw. But how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/long-diagonal-wrong-diagonal",
+         "pubDate" : "Tue, 07 Feb 2023 09:00:00 +0100",
+         "title" : "Long diagonal, wrong diagonal"
+      },
+      {
+         "description" : "The fifth round of the Munich Grand Prix saw Alina Kashlinskaya scoring her first full point. The Polish IM was losing in the middlegame, but managed to hold on and turn the tables once Mariya Muzychuk erred in a double-edged position. Meanwhile, Alexandra Kosteniuk (pictured) kept her 1&frac12;-point lead by escaping with a draw from a clearly inferior position against Harika Dronavalli. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r5",
+         "pubDate" : "Tue, 07 Feb 2023 07:15:00 +0100",
+         "title" : "Munich GP: Kashlinskaya scores, Kosteniuk escapes"
+      },
+      {
          "description" : "IM Alina Kashlinskaya scored her first victory of the Munich FIDE Women&#39;s Grand Prix &#38;nbsp;in round five, making an attacking comeback vs. GM Mariya Muzychuk after losing material early in the game.&#38;nbsp; GM Alexandra Kosteniuk continues to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/manager-of-womens-online-chess/",
          "pubDate" : "Mon, 06 Feb 2023 15:37:55 +0000",
          "title" : "Manager of Women's Online Chess"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Mon, 06 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : " The Chess Drum had a conversation with IM Kassa Korley about his recent activities. He talked about his appearance in the recent premiere of &#8220;Mind Games,&#8221; a documentary peering into the minds of gamesmen in four disciplines: chess, mahjong, memory, and e-sports. Chess has often been the subject of many scientific experiments and has been The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/\">Kassa Korley featured in Amazon's &#8220;Mind Games&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1232,14 +1240,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/",
          "pubDate" : "Sat, 28 Jan 2023 19:23:28 +0000",
          "title" : "European Senior Team Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "In his \"Fast & Furious\" show, Robert Ris goes over the exciting tactical battle played by Indian prodigies Gukesh and Praggnanandhaa at the Tata Steel Masters! | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-fascinating-tactical-battle",
-         "pubDate" : "Sat, 28 Jan 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A fascinating tactical battle"
       },
       {
          "description" : " Nodirbek Abdusattorov takes a half point lead into the final round of the Tata Steel Masters over Anish Giri. There was no change at the top of the standings with wins for Richard Rapport over Ding Liren and Parham Maghsoodloo over Arjun Erigaisi having no impact on who will win the event. Abdusattorov had few problems holding a draw with black against Wesley So today, this wasn't the case for Anish Giri who was lost at one stage against Jorden Van Foreest who came armed with a fabulous opening idea but kept himself in with a chance by eventually holding the draw in the final game to finish. Magnus Carlsen was very disappointed not to get himself into the mix with a win over R Praggnanandha",
