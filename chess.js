@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The two strongest and most consistent online-chess players in the world reached the final (in the winners' bracket) of the Airthings Masters. Magnus Carlsen and Hikaru Nakamura both drew their rapid encounters against Arjun Erigaisi and Wesley So, respectively, and went on to draw with black in Armageddon deciders to set up a much-anticipated showdown. Meanwhile, Alexey Sarana and Dommaraju Gukesh remain in contention in the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-2",
+         "pubDate" : "Wed, 08 Feb 2023 03:50:00 +0100",
+         "title" : "Airthings Masters: Carlsen and Nakamura set up showdown"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QeIiW4VYiRs.jpg?itok=NRWDaxnZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown",
+         "pubDate" : "Wed, 08 Feb 2023 02:28:08 +0000",
+         "title" : "Hone Your Tactical Radar | Beginner Breakdown"
+      },
+      {
          "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Play The Big Game Bots!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of deciding which chess opening to play. 2023.02.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of deciding which chess opening to play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://chessimprover.com/carbon-versus-silicon-3/",
          "pubDate" : "Tue, 07 Feb 2023 16:10:28 +0000",
          "title" : "Carbon versus Silicon (3)"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Tue, 07 Feb 2023 16:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Live!"
       },
       {
          "description" : "In the German magazine \"Rochade Europa\" / \"Europa-Rochade\", Gerd Wilhelm H&ouml;rning and Gerhard Josten had a column in which they presented their findings on incorrect endgame studies, offering also corrections to them. A small retrospective. | Photo: Motionarray - By SeventyFour",
@@ -144,6 +152,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-5",
          "pubDate" : "Mon, 06 Feb 2023 19:08:00 -0800",
          "title" : "Counterattacks Prevail: Kashlinskaya's 1st Win, Kosteniuk Still Undefeated"
+      },
+      {
+         "description" : " From the Siles Press web site: &#8220;Silman's Chess Odyssey is International Master Jeremy Silman's homage part instruction, part history, part memoir to the game he loves. The book <a href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/",
+         "pubDate" : "Tue, 07 Feb 2023 00:10:37 +0000",
+         "title" : "Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings"
       },
       {
          "description" : "Three out of four quarterfinal matches in Division I of the Airthings Masters had clear winners - i.e. players who only needed three games to remain in the winners' bracket. One of these three players was Arjun Erigaisi, as he scored three consecutive wins to take down quick-play specialist Alireza Firouzja. Arjun will face Magnus Carlsen in semis. In the other semifinal matchup, Wesley So will face Hikaru Nakamura.",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng",
          "pubDate" : "Fri, 27 Jan 2023 02:19:35 +0000",
          "title" : "Learn the Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. 2023.01.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-gm-josh-sheng",
-         "pubDate" : "Thu, 26 Jan 2023 23:19:30 +0000",
-         "title" : "Prepare Like A Pro - GM Josh Sheng"
       },
       {
          "description" : "",
