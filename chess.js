@@ -18,6 +18,14 @@ news_feed (
          "title" : "Tolerance Games & Asian Chess Women's Contest concluded in Abu-Dhabi"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/luc-winants-1963-2023/",
+         "pubDate" : "Wed, 08 Feb 2023 17:41:59 +0100",
+         "title" : "Luc WInants (1963-2023)"
+      },
+      {
          "description" : "On a day where he also played a match in the Champions Chess Tour, GM Wesley So found the time to win both Titled Tuesday events on February 7. He is now the only other player besides GM Hikaru Nakamura to achieve this feat in the roughly one year...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1266,6 +1274,30 @@ news_feed (
          "title" : "Last round dramas"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to find a sponsor for the next <strong>Women's Candidates Tournament</strong> with a minimum prizefund of €200,000, <strong>FIDE</strong> is <a href=\"https://www.fide.com/news/2188\">requiring bidders</a> for the <strong>Candidates Tournament</strong> 2024 to include it. The bidding deadline is set for 28 February. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/fide-ties-two-candidates-into-single/",
+         "pubDate" : "Mon, 30 Jan 2023 12:12:40 +0100",
+         "title" : "FIDE ties two Candidates into single event"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After adding <strong>Rich&aacute;rd Rapport</strong> and <strong>Kirill Shevchenko</strong> to their national team, the Romanian Chess Federation <a href=\"https://www.linkedin.com/in/ivan-sokolov-a35a093b/\">has appointed</a> <strong>Ivan Sokolov</strong> as Head Coach. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/romania-hires-sokolov/",
+         "pubDate" : "Mon, 30 Jan 2023 11:37:31 +0100",
+         "title" : "Romania hires Sokolov"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ever since the <strong>Chess Federation of Russia</strong> has applied to become a member of the <strong>Asian Chess Association</strong>in April 2022, the <strong>European Chess Union</strong> (ECU) has pressed <strong>FIDE</strong> to clarify the legality of such an unprecedented move and has now <a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">set a deadline of 24 February</a>, one year since the Russian invasion in Ukraine started, for Russia to withdraw its ECU membership before the Asian Chess Association's general assembly starting on 26 February where it can accept Russia. The ECU would still admit those Russian p",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/ecu-expects-russia-to-withdraw/",
+         "pubDate" : "Mon, 30 Jan 2023 11:05:18 +0100",
+         "title" : "ECU expects Russia to withdraw"
+      },
+      {
          "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1560,6 +1592,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
          "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
          "title" : "European Cities & Towns Chess Championship starts on Sunday"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Champions Chess Tour</strong> 2023 <a href=\"https://new.chess24.com/wall/news/airthings-masters-launches-2-million-champions-chess-tour\">consists of six regular events</a>, each starting with a qualifier on <strong>Chess.com</strong> open to all GMs, followed by a tournament shortened to five days, and a big final in December for a prize fund of altogether $2 million. First is the <strong>Airthings Masters</strong> on 6-10 February. <strong>Meltwater</strong> is not any more title sponsor. <strong>Robert Hess</strong> joins the presentation team. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/champions-tour-opens-up/",
+         "pubDate" : "Wed, 25 Jan 2023 14:33:40 +0100",
+         "title" : "Champions Tour opens up"
       },
       {
          "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
