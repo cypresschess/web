@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On a day where he also played a match in the Champions Chess Tour, GM Wesley So found the time to win both Titled Tuesday events on February 7. He is now the only other player besides GM Hikaru Nakamura to achieve this feat in the roughly one year...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wesley-so-wins-titled-tuesday-february-7-2023",
+         "pubDate" : "Wed, 08 Feb 2023 08:24:04 -0800",
+         "title" : "Wesley So Becomes 2nd Player To Sweep Titled Tuesday"
+      },
+      {
+         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Wed, 08 Feb 2023 16:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Live!"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Wed, 08 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : "Magnus Carlsen will face Hikaru Nakamura in the Champions Chess Tour for the 1st time since 2021 after Magnus and Hikaru overcame Arjun Erigaisi and Wesley So in Armageddon deciders. Both players are also qualified for the next Tour event in April, while Alireza Firouzja is out of the Airthings Masters after losing 2:0 to Alexey Sarana in the Losers bracket - a shock 5th rapid loss in a row for the world no. 4.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-final-as-firouzja-knocked-out",
+         "pubDate" : "Wed, 08 Feb 2023 13:22:01 +0000",
+         "title" : "Carlsen-Nakamura final, as Firouzja knocked out"
+      },
+      {
          "description" : "For many years, Luc Winants was Belgium's best chess player and at times the country's only grandmaster. He represented his country in many Chess Olympiads and remained undefeated in two Olympiads. Luc Winants died yesterday, 7 February, at the age of 60. | Photo: https://www.chess-and-strategy.com/",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +58,28 @@ news_feed (
          "title" : "Tolerance Games, Asian Chess Women's Contest, run big in Abu-Dhabi"
       },
       {
+         "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
+         "pubDate" : "Wed, 08 Feb 2023 09:00:40 +0000",
+         "title" : "International Junior tournaments - updated 8/2/23"
+      },
+      {
          "description" : "\"In order to understand an opening, you need to know the historical background and have a good feeling for the dynamics\", says the GM Dorian Rogozenco in the introduction to this video course. Based on 30 years of personal experience at high level, Rogozenco provides a complete guide for Black in the modern theory of the Sveshnikov Sicilian.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-play-the-sveshnikov-sicilian-a-complete-repertoire-for-black-against-the-open-sicilian",
          "pubDate" : "Wed, 08 Feb 2023 10:00:00 +0100",
          "title" : "Dorian Rogozenco: Play the Sveshnikov Sicilian - A complete repertoire for Black against the open Sicilian"
+      },
+      {
+         "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-2",
+         "pubDate" : "Tue, 07 Feb 2023 19:04:00 -0800",
+         "title" : "Carlsen, Nakamura Advance To Winners Bracket Final"
       },
       {
          "description" : "The two strongest and most consistent online-chess players in the world reached the final (in the winners' bracket) of the Airthings Masters. Magnus Carlsen and Hikaru Nakamura both drew their rapid encounters against Arjun Erigaisi and Wesley So, respectively, and went on to draw with black in Armageddon deciders to set up a much-anticipated showdown. Meanwhile, Alexey Sarana and Dommaraju Gukesh remain in contention in the losers' bracket.",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown",
          "pubDate" : "Wed, 08 Feb 2023 02:28:08 +0000",
          "title" : "Hone Your Tactical Radar | Beginner Breakdown"
-      },
-      {
-         "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-2",
-         "pubDate" : "Tue, 07 Feb 2023 15:34:00 -0800",
-         "title" : "Carlsen, Nakamura Advance To Winners Bracket Final"
       },
       {
          "description" : "Every year, there is a Sunday in February where everything in the United States seems to stop as millions of people tune into the biggest football game of the year. The commercials and the halftime show attract fans that would otherwise find somet...",
@@ -1202,14 +1242,6 @@ news_feed (
          "title" : "Talkchess Talks Top Engines"
       },
       {
-         "description" : "With Sara Khadem Iran has lost another top chess player. The 2018 rapid and blitz vice world champion has moved to Spain with her family, but plans to continue playing under the Iranian flag. The well-known Spanish journalist Leontxo Garcia met with her and published a portrait of the young Iranian woman in the Spanish newspaper \"El Pais\". | Photo: El Pais",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sarah-khadem-a-portrait",
-         "pubDate" : "Mon, 30 Jan 2023 17:00:00 +0100",
-         "title" : "Sarah Khadem - a portrait"
-      },
-      {
          "description" : "The 85th jubilee edition of the Tata Steel Chess took place from 14th-29th January 2023 in Wijk aan Zee, the Netherlands. The &#8220;Wimbledon of Chess&#8221; featured Masters, Challengers, and Amateur events simultaneously played in the same venue. GM Anish Giri (NED, 2764) won the Masters event after a thrilling final round. Giri defeated Richard Rapport (ROU, 2740) to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1224,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2197",
          "pubDate" : "Mon, 30 Jan 2023 14:48:36 +0000",
          "title" : "Tolerance Games, Asian Chess Women's Contest, set for February 06"
-      },
-      {
-         "description" : "The second event of the 2022-2023 Women's Grand Prix Series will kick off on Thursday in Munich, the capital of the state of Bavaria. Twelve of the world's top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct qualification to the 2023-2024 FIDE Women's Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-female-chess-in-munich",
-         "pubDate" : "Mon, 30 Jan 2023 15:00:00 +0100",
-         "title" : "Top female chess in Munich"
       },
       {
          "description" : " Last round games can do strange things to chess players. The final round of the 2023 Tata Steel tournament saw a dramatic change in the final standings, as did the last round of the 2023 Oceania Zonal. Often it is the player with the least to lose starts with the upper hand, and simply has to wait for the mistake. For the players in the 2023 Zonal, this is in fact what happened, resulting in not only a 6 way tie for 1st, but an IM title for FM Patrick Gong. <br /> <b>Solomon,Stephen - Zhao,Zong Yuan [C90]</b><br />2023 Oceania Zonal, 29.01.2023 <script>new PgnViewer( { boardName: \"game1379\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O",
@@ -1610,14 +1634,6 @@ news_feed (
          "title" : "Abdusattorov continues to lead the Tata Steel Masters after surviving lost position against Keymer in Round 9 - 9"
       },
       {
-         "description" : "A record $2 million prize pot will be on offer in the 2023 season of the Champions Chess Tour&#38;mdash;making it the richest and most prestigious annual circuit in chess history. The new season kicks off February 3 with the Airthings Masters; the f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-launches-2023-champions-chess-tour",
-         "pubDate" : "Tue, 24 Jan 2023 07:46:00 -0800",
-         "title" : "A New Beginning: Chess.com Launches $2m Champions Chess Tour"
-      },
-      {
          "description" : "Magnus Carlsen and Wesley So play the Airthings Masters from February 6 till 10, as the all-new $2 million Champions Chess Tour begins. The remaining six places in the top group are open to any grandmaster, with the players battling it out on Chess.com on February 3. The Tour season will culminate in December with 8-player Playoffs and a 4-player Finals to decide who takes the online crown and a $200,000 top prize.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1786,14 +1802,6 @@ news_feed (
          "title" : "English Seniors Chess Championships 2023"
       },
       {
-         "description" : "The English and English Women's Championships will take place between Friday 26th May and Bank Holiday Monday 29th May 2023 at the Holiday Inn Kenilworth-Warwick,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-and-english-womens-chess-championships-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 15:15:07 +0000",
-         "title" : "English and English Women's Chess Championships 2023"
-      },
-      {
          "description" : "18-year-old Nodirbek Abdusattorov took the sole lead in the Tata Steel Masters after outplaying Magnus Carlsen in Round 5, with the World Champion losing two classical games in a row for the first time since 2015. There were also wins for Levon Aronian, who tricked Vincent Keymer in an endgame, and Parham Maghsoodloo, who scored a bounce-back win over Jorden van Foreest.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-beats-carlsen-to-lead-tata-steel-masters-alone-on-45",
          "pubDate" : "Thu, 19 Jan 2023 21:03:00 +0400",
          "title" : "Abdusattorov beats Carlsen to lead Tata Steel Masters alone on 4/5 - 5"
-      },
-      {
-         "description" : "The 2023 World Chess Championship match between Ian Nepomniachtchi and Ding Liren will take place in the capital of Kazakhstan, Astana, from April 7 till May 1. After Magnus Carlsen's abdication, the match to decide the next, 17th World Chess Champion, will once again be played over 14 games, with a €2 million prize fund.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/astana-to-host-nepo-ding-world-championship-match",
-         "pubDate" : "Thu, 19 Jan 2023 14:32:35 +0000",
-         "title" : "Astana chosen as Nepo-Ding World Championship venue"
       },
       {
          "description" : " Many chess improvers spend a lot of time thinking about the 'ideal' chess study plan. \"Should I train openings, tactics, or endgames? And how much of each is appropriate?\" you might frequently ask yourself. In this article, I want to present a very simple method to guide you through these questions. I call it \"the [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/the-one-third-rule/\">The One-Third-Rule: How To Take Control Of Your Chess Training</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
