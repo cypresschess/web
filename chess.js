@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1st event on the $2 Million 2023 Champions Chess Tour Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-winners-final-live/",
+         "pubDate" : "Wed, 08 Feb 2023 18:44:09 +0000",
+         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Winners Final - LIVE"
+      },
+      {
+         "description" : "UAE Ministry of Tolerance and Coexistence, the International Chess Federation, and the Asian Chess Federation jointly held the Tolerance Games Asian Chess Women's Contest that took place from February 06-07, 2023, in Abu-Dhabi, UAE. The event was a part of the Global Tolerance and Human Fraternity Summit in Etihad Towers.&#160; Girls and ladies from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/tolerance-games-asian-chess-womens-contest-concluded-in-abu-dhabi/",
+         "pubDate" : "Wed, 08 Feb 2023 18:34:15 +0000",
+         "title" : "Tolerance Games & Asian Chess Women's Contest concluded in Abu-Dhabi"
+      },
+      {
          "description" : "On a day where he also played a match in the Champions Chess Tour, GM Wesley So found the time to win both Titled Tuesday events on February 7. He is now the only other player besides GM Hikaru Nakamura to achieve this feat in the roughly one year...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-play-the-sveshnikov-sicilian-a-complete-repertoire-for-black-against-the-open-sicilian",
          "pubDate" : "Wed, 08 Feb 2023 10:00:00 +0100",
          "title" : "Dorian Rogozenco: Play the Sveshnikov Sicilian - A complete repertoire for Black against the open Sicilian"
+      },
+      {
+         "description" : "FIDE officials met the inmates of the Penitentiary Home in Belgrade (Padinska Skela) during their visit to Serbia this week. Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola and FIDE Legal Director Aleksandr Martynov played a simul against the prisoners and talked to prison administration about the positive impact of the Chess for Freedom []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-for-freedom-in-serbia-from-diy-chess-set-to-gold-medals/",
+         "pubDate" : "Wed, 08 Feb 2023 05:36:00 +0000",
+         "title" : "Chess for Freedom in Serbia: From DIY chess set to gold medals"
       },
       {
          "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
@@ -568,30 +592,6 @@ news_feed (
          "link" : "https://www.chessdom.com/airthings-masters-play-in-determines-the-field-for-the-main-event/",
          "pubDate" : "Sat, 04 Feb 2023 10:09:22 +0000",
          "title" : "Airthings Masters Play-In determines the field for the main event"
-      },
-      {
-         "description" : "During the penultimate&#xA0;fifth round of the first FIDE Chess Olympiad for People with Disabilities, one of the most active FIDE Commissions and the organizing force behind this significant event in chess life&#xA0;held its meeting. Members, councillors, and friends of the Players with Disabilities Commission (DIS) gathered in Crowne Plaza Hotel on February 3, 2023, in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-players-with-disabilities-commission-holds-meeting-in-belgrade/",
-         "pubDate" : "Sat, 04 Feb 2023 09:32:32 +0000",
-         "title" : "FIDE Players with Disabilities Commission holds meeting in Belgrade"
-      },
-      {
-         "description" : "Alexandra Kosteniuk&#xA0;is the early leader of the Munich leg of the 2023 Women&#x2019;s Grand Prix after scoring her second consecutive win this afternoon against local player Elisabeth Paehtz. Playing under the FIDE flag, Kosteniuk took advantage of an unexpected blunder by her opponent and makes her claim for the tournament title. Nonetheless, three players &#x2013;&#xA0;Tan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-takes-early-lead-in-women-grand-prix-munich/",
-         "pubDate" : "Sat, 04 Feb 2023 09:06:00 +0000",
-         "title" : "Alexandra Kosteniuk takes early lead in Women Grand Prix Munich"
-      },
-      {
-         "description" : "Poland defeated their direct competitor for first place, India, and are one round away from clinching gold at the first Chess Olympiad for People with Disabilities As the event in Belgrade nears its end, key games on top boards are getting longer, and tiredness is starting to kick in. While this is usual in any []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/olympiad-for-people-with-disabilities-poland-in-sole-lead-with-one-round-to-go/",
-         "pubDate" : "Sat, 04 Feb 2023 08:24:00 +0000",
-         "title" : "Olympiad for People with Disabilities: Poland in sole lead with one round to go"
       },
       {
          "description" : "Yes, 24.Rxg7+! wins for White - but it's definitely a challenge to foresee the complete path to victory from the diagram position, even if it's initially paved with checks. Your perfect start to the (chess) weekend, right?",
