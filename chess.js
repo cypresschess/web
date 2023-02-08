@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-2",
+         "pubDate" : "Tue, 07 Feb 2023 15:34:00 -0800",
+         "title" : "Carlsen, Nakamura Advance To Winners Bracket Final"
+      },
+      {
          "description" : "Every year, there is a Sunday in February where everything in the United States seems to stop as millions of people tune into the biggest football game of the year. The commercials and the halftime show attract fans that would otherwise find somet...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-big-game-football-bots",
          "pubDate" : "Tue, 07 Feb 2023 12:06:00 -0800",
-         "title" : "Play The Big Game City Bots!"
+         "title" : "Play The Big Game Bots!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of deciding which chess opening to play. 2023.02.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
@@ -1634,14 +1642,6 @@ news_feed (
          "title" : "Tata Steel Masters: Abdusattorov is in front going into second rest day"
       },
       {
-         "description" : "GM Magnus Carlsen&#38;nbsp;defeated his longtime rival GM Fabiano Caruana in round eight of the 2023 Tata Steel Chess Tournament, inching up the scoreboard, back on plus-one with his third victory. GM Nodirbek Abdusattorov maintained his full-point le...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-8",
-         "pubDate" : "Sun, 22 Jan 2023 15:12:00 -0800",
-         "title" : "Carlsen Overcomes Caruana, Spearheads Day of Four Victories"
-      },
-      {
          "description" : "Hmmm. I'm starting to detect a trend here. Just a few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html\">Donald Trump, Chess Master</A>(October 2022; 'In the world of AI, Trump plays chess'). Now we have this. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na22.gif\" WIDTH=400 HEIGHT=265><BR><B>Upper left corner:</B><A HREF=\"https://www.flickr.com/photos/marc-frant/52642486166/\">DALL-E : An oil painting by Vinci of a humanoid robot playing chess</A>&#169; Flickr user <I>Marc Frant</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>. <P>The image had no additional description, but this i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1856,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2178",
          "pubDate" : "Wed, 18 Jan 2023 11:22:46 +0000",
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2177",
-         "pubDate" : "Tue, 17 Jan 2023 23:22:57 +0000",
-         "title" : "Tata Steel Masters 2023: Giri and Abdusattorov pull ahead"
-      },
-      {
-         "description" : " Both Magnus Carlsen and Ding Liren (currently the only 2 players rated above 2800) suffered losses in round 4 of the 2023 Tata Steel tournament. More on this when I get back from walking the dog! ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/losses-for-top-2-more-at-11.html",
-         "pubDate" : "Tue, 17 Jan 2023 20:49:00 +0000",
-         "title" : "Losses for the top 2 - More at 11"
       }
    ]
 }
