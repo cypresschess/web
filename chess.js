@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For many years, Luc Winants was Belgium's best chess player and at times the country's only grandmaster. He represented his country in many Chess Olympiads and remained undefeated in two Olympiads. Luc Winants died yesterday, 7 February, at the age of 60. | Photo: https://www.chess-and-strategy.com/",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/belgian-grandmaster-luc-winants-1-january-1963-7-february-2023-died",
+         "pubDate" : "Wed, 08 Feb 2023 13:18:05 +0100",
+         "title" : "Belgian Grandmaster Luc Winants (1 January 1963 - 7 February 2023) died"
+      },
+      {
+         "description" : " Amongst the Vimeo-on-demand titles I've brought out recently, some of them are devoted to learning from great players. One of my main areas of study during my early years was to play through the games collections of particular players, two of my favourites being Akiba Rubinstein and Mikhail Botvinnik. I would often do this as <a href=\"https://chessimprover.com/learning-from-the-greats/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Learning from the Greats\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/learning-from-the-greats/\">Learning from the Greats</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/learning-from-the-greats/",
+         "pubDate" : "Wed, 08 Feb 2023 11:00:14 +0000",
+         "title" : "Learning from the Greats"
+      },
+      {
          "description" : "UAE Ministry of Tolerance and Coexistence, the International Chess Federation, and the Asian Chess Federation jointly held the Tolerance Games - Asian Chess Women's Contest that took place from February 06-07, 2023, in Abu-Dhabi, UAE. The event was a part of the Global Tolerance and Human Fraternity Summit in Etihad Towers. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1226,14 +1242,6 @@ news_feed (
          "title" : "Last round dramas"
       },
       {
-         "description" : "The Russian Chess Federation has advised the European Chess Union that they have applied for membership of the Asian Chess Federation, and that they intend to withdraw from the ECU as soon as they have been admitted. The ECU acknowledges that the invasion and war in Ukraine, has obliged the IOC and international sports federations to take difficult decisions and firm positions, and that the intention of sanctions is not to punish individual athletes, especially those players who have not acted against the peace mission of sports. ECU press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/russian-chess-federation-moves-to-asia",
-         "pubDate" : "Mon, 30 Jan 2023 13:00:00 +0100",
-         "title" : "Russian Chess Federation moves to Asia"
-      },
-      {
          "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1856,22 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2180",
          "pubDate" : "Thu, 19 Jan 2023 11:08:13 +0000",
          "title" : "Astana to host the FIDE World Chess Championship match 2023"
-      },
-      {
-         "description" : " As reported earlier today, both Magnus Carlsen and Ding Liren (the Worlds top 2 rated players) both lost in Round 4 of the Tata Steel event. This is a rare event, although i suspect it has probably happened more recently that we think. Carlsen lost to Anish Giri for the 2nd time in his career (at standard time controls). Apparently the first time was 12 years ago, on the same day, during the same tournament. Ding losing to Praggnanandhaa is also pretty big news, with Ding possibly becoming the next world champion. Nonetheless the game I want is not either of these. It is the Abdusattorov v Maghsoodloo clash, which Abdusattorov won. There was a particularly interesting position at move 30, w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/its-not-11-oclock-news.html",
-         "pubDate" : "Wed, 18 Jan 2023 12:27:00 +0000",
-         "title" : "It's not the 11 O'clock News"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2178",
-         "pubDate" : "Wed, 18 Jan 2023 11:22:46 +0000",
-         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2023"
       }
    ]
 }
