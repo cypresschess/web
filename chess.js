@@ -10,7 +10,7 @@ news_feed (
          "title" : "Airthings Masters: Carlsen and Nakamura set up showdown"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QeIiW4VYiRs.jpg?itok=NRWDaxnZ\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics, using Emmanuel Neiman's book \"Tune Your Chess Tactics Antenna.\" Learn Neiman's seven signals. BUY THE BOOK: <a href=\"https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049\">https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sit",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown",
@@ -34,7 +34,7 @@ news_feed (
          "title" : "Play The Big Game Bots!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of deciding which chess opening to play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of decision-making in unfamiliar opening positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng",
