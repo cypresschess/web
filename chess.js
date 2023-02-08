@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "UAE Ministry of Tolerance and Coexistence, the International Chess Federation, and the Asian Chess Federation jointly held the Tolerance Games - Asian Chess Women's Contest that took place from February 06-07, 2023, in Abu-Dhabi, UAE. The event was a part of the Global Tolerance and Human Fraternity Summit in Etihad Towers. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tolerance-games-asian-chess-women-s-contest-run-big-in-abu-dhabi",
+         "pubDate" : "Wed, 08 Feb 2023 10:24:40 +0100",
+         "title" : "Tolerance Games, Asian Chess Women's Contest, run big in Abu-Dhabi"
+      },
+      {
+         "description" : "\"In order to understand an opening, you need to know the historical background and have a good feeling for the dynamics\", says the GM Dorian Rogozenco in the introduction to this video course. Based on 30 years of personal experience at high level, Rogozenco provides a complete guide for Black in the modern theory of the Sveshnikov Sicilian.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-play-the-sveshnikov-sicilian-a-complete-repertoire-for-black-against-the-open-sicilian",
+         "pubDate" : "Wed, 08 Feb 2023 10:00:00 +0100",
+         "title" : "Dorian Rogozenco: Play the Sveshnikov Sicilian - A complete repertoire for Black against the open Sicilian"
+      },
+      {
          "description" : "The two strongest and most consistent online-chess players in the world reached the final (in the winners' bracket) of the Airthings Masters. Magnus Carlsen and Hikaru Nakamura both drew their rapid encounters against Arjun Erigaisi and Wesley So, respectively, and went on to draw with black in Armageddon deciders to set up a much-anticipated showdown. Meanwhile, Alexey Sarana and Dommaraju Gukesh remain in contention in the losers' bracket.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,6 +224,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2023",
          "pubDate" : "Mon, 06 Feb 2023 18:00:00 +0100",
          "title" : "Endgame Magic #226: More Endgame Highlights of the Tata Steel Tournament 2023"
+      },
+      {
+         "description" : "The action never stops in the low-stakes world of engine vs. engine chess competitions. Our previous fortnightly post mentioned two winners: <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023; 'For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event'). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In the 'Cup 11' Final match, LCZero and Stockfish tied the regulation games +1-1=10, then LCZero won the second pair of tiebreak games. In the Bronze match for 'Cup 11' third place, KomodoDragon and Ethereal tied +0-0=12; KomodoDragon won the s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/tcec-swiss-4-underway-ccc-mystery.html",
+         "pubDate" : "Mon, 06 Feb 2023 16:09:00 +0000",
+         "title" : "TCEC Swiss 4 Underway; CCC Mystery Matches"
       },
       {
          "description" : "Classical chess, sometimes called &#34;slow chess,&#34; for a long time has been the standard form of tournament play. When one thinks of historic, monumental chess matches, one thinks especially of titanic world championships and Candidates tournaments&#38;m...",
@@ -1226,14 +1250,6 @@ news_feed (
          "title" : "British Chess Championships 2023 - update"
       },
       {
-         "description" : "In a late twist at the Tata Steel Masters, Anish Giri leapfrogged Nodirbek Abdusattorov on the final day of action to claim a first title in his home super-tournament. In round 13, Giri defeated Richard Rapport, while 2021 champion Jorden van Foreest got the better of long-time leader Abdusattorov. Meanwhile, Magnus Carlsen and Parham Maghsoodloo also ended the tournament with wins to their names. | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-r13",
-         "pubDate" : "Mon, 30 Jan 2023 09:25:00 +0100",
-         "title" : "Anish Giri wins Tata Steel Masters after late twist"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2195",
          "pubDate" : "Sun, 29 Jan 2023 23:20:55 +0000",
          "title" : "Anish Giri wins Tata Steel Masters 2023"
-      },
-      {
-         "description" : "The first-ever Chess Olympiad for People with Disabilities represents a historic event for FIDE and the chess world. From the 29th of January to the 5th of February, the Serbian capital will host the event. Thirty-three countries and three international squads have registered to take part in this team competition. They are led by Poland, the winner of the 2020 Online Olympiad for people with disabilities, and Hungary, the two highest-rated teams.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/olympiad-people-with-disabilities-announcement",
-         "pubDate" : "Sun, 29 Jan 2023 23:15:00 +0100",
-         "title" : "The first Olympiad for People with Disabilities: A milestone for chess"
       },
       {
          "description" : " I was looking through some of the games played in last weekend's 4NCL congress when I came across this rook ending. It was played in Round 2 between Julian Cast (2015) and Arjun Pyda (1780). We'll pick up the game after White's 56th move. With his active king, Black has what should be a winning <a href=\"https://chessimprover.com/lucky-lucena/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lucky Lucena\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lucky-lucena/\">Lucky Lucena</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
