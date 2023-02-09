@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The WR Chess Masters is a classical chess tournament which boasts the participation of 10 World-class Grandmasters. With a mix of youth and experience, this dynamic field will battle each other from February 15th-26th in a 9-game Round Robin event. The most special thing about the event is its time control. It has the same time control as the World Championship Match. How difficult is it to organize a super tournament from scratch? In this article, we talk to the man behind the WR Chess Masters - Wadim Rosenstein and get some insights.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/creating-a-super-tournament-from-scratch-interview-with-wadim-rosenstein",
+         "pubDate" : "Thu, 09 Feb 2023 09:00:00 +0100",
+         "title" : "Creating a super tournament from scratch - Interview with Wadim Rosenstein"
+      },
+      {
+         "description" : "The Vienna February WIM is taking place from 7&#x2013;12 February 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 10-player round-robin tournament with participation of Dorina Demeter, Zala Urh, Elisabeth Hapala, Nikola Mayrhuber, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vienna-february-wim-2023-live/",
+         "pubDate" : "Thu, 09 Feb 2023 04:45:00 +0000",
+         "title" : "Vienna February WIM 2023 - LIVE"
+      },
+      {
+         "description" : "The Vienna February GM is taking place from 7&#x2013;12 February 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Dominik Horvath, Felix Blohberger, Valentin Baidetskyi, Yevgeniy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vienna-february-gm-2023-live/",
+         "pubDate" : "Thu, 09 Feb 2023 04:34:33 +0000",
+         "title" : "Vienna February GM 2023 - LIVE"
+      },
+      {
+         "description" : "Following the rest day, players returned well-prepared to the playing hall in Munich and drew all their games in round 6 of the Women's Grand Prix. Alexandra Kosteniuk thus kept her 1&frac12;-point lead in the standings. Importantly, Kosteniuk's closest chasers, Humpy Koneru and Nana Dzagnidze, have yet to face the former women's world champion. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r6",
+         "pubDate" : "Thu, 09 Feb 2023 05:30:00 +0100",
+         "title" : "Munich GP: Kosteniuk keeps the lead as all games are drawn"
+      },
+      {
          "description" : "The Guba Open is taking place from 7&#x2013;13 February 2023 in Guba, Azerbaijan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Farid Mustafayev, Elvin Bayramov, Nail Bashirli, Kanan Garayev, Tabriz Idrisov, Murad Ibrahimli, Fariz Ahmadov, Hasan Orujov, Eljan []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wesley-so-wins-titled-tuesday-february-7-2023",
          "pubDate" : "Wed, 08 Feb 2023 08:24:00 -0800",
          "title" : "Wesley So Becomes 2nd Player To Sweep Titled Tuesday"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Wed, 08 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Champions Chess Tour for the 1st time since 2021 after Magnus and Hikaru overcame Arjun Erigaisi and Wesley So in Armageddon deciders. Both players are also qualified for the next Tour event in April, while Alireza Firouzja is out of the Airthings Masters after losing 2:0 to Alexey Sarana in the Losers bracket - a shock 5th rapid loss in a row for the world no. 4.",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "Poland wins 1st Olympiad for People with Disabilities"
       },
       {
-         "description" : "By IM Michael Rahal (Munich, Germany) Alexandra Kosteniuk, playing under the neutral FIDE flag, scored her third consecutive win against tailender Dinara Wagner this afternoon in the Women's Grand Prix. Kosteniuk dominated her opponent and took advantage of the time-trouble phase to transition into a winning ending. &#8220;It was a very difficult game with a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-perfect-at-the-womens-grand-prix-munich/",
-         "pubDate" : "Sun, 05 Feb 2023 09:10:00 +0000",
-         "title" : "Alexandra Kosteniuk perfect at the Women's Grand Prix Munich"
-      },
-      {
          "description" : "Alexandra Kosteniuk grabbed a third consecutive win in Munich to get a full-point lead over a 3-player chasing pack at the second stage of the Women's Grand Prix series. Kosteniuk inflicted Dinara Wagner's third consecutive loss. In the other decisive game of the round, Zhu Jiner beat Zhansaya Abdumalik with the black pieces. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/speculative-fiction.html",
          "pubDate" : "Sat, 04 Feb 2023 10:35:00 +0000",
          "title" : "Speculative fiction"
-      },
-      {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-3-live/",
-         "pubDate" : "Sat, 04 Feb 2023 10:31:49 +0000",
-         "title" : "Women's Grand Prix Munich 2023 - Day 3 live"
       },
       {
          "description" : "Yes, 24.Rxg7+! wins for White - but it's definitely a challenge to foresee the complete path to victory from the diagram position, even if it's initially paved with checks. Your perfect start to the (chess) weekend, right?",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anya-taylor-joy-queens-gambit-2",
          "pubDate" : "Mon, 30 Jan 2023 11:07:00 -0800",
          "title" : "Anya Taylor-Joy Clarifies Queen's Gambit 2 Tweet, Claims She Was Hacked"
-      },
-      {
-         "description" : "In his Endgame Magic Show #225 Karsten shows endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-225-endgame-highlights-of-the-tata-steel-tournament-2023",
-         "pubDate" : "Mon, 30 Jan 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #225: Endgame Highlights of the Tata Steel Tournament 2023"
       },
       {
          "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023), I opened, <BLOCKQUOTE>For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. </BLOCKQUOTE> <P>This was also flagged in a Talkchess thread. <UL><LI>2023-01-14: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=81339\">Lc0 wins TCEC Cup 11 Final</A>(talkchess.com) &#149; 'When was the last time Stockfish lost a final? Stockfish is getting weaker and weaker. [...] Or maybe the opponents get stronger.' </UL> <P>Or maybe it's a typical example showing that rating i",
