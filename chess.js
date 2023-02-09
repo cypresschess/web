@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final will see []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-vs-arjun-erigaisi-for-the-2023-airthings-masters-losers-finals/",
+         "pubDate" : "Thu, 09 Feb 2023 12:12:53 +0000",
+         "title" : "Wesley So vs Arjun Erigaisi for the 2023 Airthings Masters Losers Finals"
+      },
+      {
+         "description" : "Magnus Carlsen is the first player through to the Grand Final of the top division of the Airthings Masters after bidding just one second less than his great rival Hikaru Nakamura to get the black pieces in Armageddon. Hikaru can still reach that final, but he'll first have to beat either Wesley So or Arjun Erigaisi, who knocked out Alexey Sarana and Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-credits-soul-read-as-he-beats-nakamura",
+         "pubDate" : "Thu, 09 Feb 2023 12:08:37 +0000",
+         "title" : "Carlsen credits \"soul read\" as he beats Nakamura"
+      },
+      {
+         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final will see []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/airthings-masters-losers-bracket-live/",
+         "pubDate" : "Thu, 09 Feb 2023 11:58:08 +0000",
+         "title" : "Airthings Masters - Losers Bracket LIVE"
+      },
+      {
+         "description" : "The 1st event on the $2 Million 2023 Champions Chess Tour &#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-defeats-hikaru-nakamura-in-the-airthings-masters-winners-final/",
+         "pubDate" : "Thu, 09 Feb 2023 11:42:39 +0000",
+         "title" : "Magnus Carlsen defeats Hikaru Nakamura in the Airthings Masters Winners Final"
+      },
+      {
+         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-grand-prix-munich-round-7-pairings/",
+         "pubDate" : "Thu, 09 Feb 2023 11:14:40 +0000",
+         "title" : "Women Grand Prix Munich - Round 7 pairings"
+      },
+      {
+         "description" : "One of the most common things that chess players obsessed with Elo ratings (which is almost all of them) do when selecting tournaments to play is to look at the nationality of the players already entered, to see if they come from countries that are considered to have \"deflated\" ratings or \"inflated\" ratings, which might add to the attraction of playing. Javier Perea analyses the phenomenon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/which-countries-have-the-most-inflated-elo-chess-players",
+         "pubDate" : "Thu, 09 Feb 2023 12:00:00 +0100",
+         "title" : "Which countries have the most inflated Elo ratings?"
+      },
+      {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-7-live/",
+         "pubDate" : "Thu, 09 Feb 2023 10:34:12 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Round 7 live"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #554, Merijn van Delft takes a look at a fantastic attacking game that was played in the German Bundesliga last weekend, and in which Daniel Yuffa defeated Frederik Svane with a number of surprising sacrifices. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-554-d-yuffa-vs-f-svane",
+         "pubDate" : "Thu, 09 Feb 2023 10:34:01 +0100",
+         "title" : "Game of the Week #554: D. Yuffa vs F. Svane"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2222",
+         "pubDate" : "Thu, 09 Feb 2023 09:23:48 +0000",
+         "title" : "FIDE distributes €30,000 among chess veterans"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany)&#160; The president of the International Chess Federation, Arkady Dvorkovich, visited the women&#x2019;s Gran Prix this afternoon and performed the ceremonial first move on the Zhu Jiner-Nana Dzagnidze board.&#160; Interviewed before the round by FIDE Press Officer for the event, IM Michael Rahal, Dvorkovich said he was very happy to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/six-draws-in-munich-fide-women-grand-prix-r6-recap/",
+         "pubDate" : "Thu, 09 Feb 2023 09:22:09 +0000",
+         "title" : "Six draws in Munich - FIDE Women Grand Prix R6 recap"
+      },
+      {
          "description" : "The WR Chess Masters is a classical chess tournament which boasts the participation of 10 World-class Grandmasters. With a mix of youth and experience, this dynamic field will battle each other from February 15th-26th in a 9-game Round Robin event. The most special thing about the event is its time control. It has the same time control as the World Championship Match. How difficult is it to organize a super tournament from scratch? In this article, we talk to the man behind the WR Chess Masters - Wadim Rosenstein and get some insights.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +170,6 @@ news_feed (
          "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Winners Final - LIVE"
       },
       {
-         "description" : "UAE Ministry of Tolerance and Coexistence, the International Chess Federation, and the Asian Chess Federation jointly held the Tolerance Games Asian Chess Women's Contest that took place from February 06-07, 2023, in Abu-Dhabi, UAE. The event was a part of the Global Tolerance and Human Fraternity Summit in Etihad Towers.&#160; Girls and ladies from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/tolerance-games-asian-chess-womens-contest-concluded-in-abu-dhabi/",
-         "pubDate" : "Wed, 08 Feb 2023 18:34:15 +0000",
-         "title" : "Tolerance Games & Asian Chess Women's Contest concluded in Abu-Dhabi"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -160,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-play-the-sveshnikov-sicilian-a-complete-repertoire-for-black-against-the-open-sicilian",
          "pubDate" : "Wed, 08 Feb 2023 10:00:00 +0100",
          "title" : "Dorian Rogozenco: Play the Sveshnikov Sicilian - A complete repertoire for Black against the open Sicilian"
-      },
-      {
-         "description" : "FIDE officials met the inmates of the Penitentiary Home in Belgrade (Padinska Skela) during their visit to Serbia this week. Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola and FIDE Legal Director Aleksandr Martynov played a simul against the prisoners and talked to prison administration about the positive impact of the Chess for Freedom []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-for-freedom-in-serbia-from-diy-chess-set-to-gold-medals/",
-         "pubDate" : "Wed, 08 Feb 2023 05:36:00 +0000",
-         "title" : "Chess for Freedom in Serbia: From DIY chess set to gold medals"
       },
       {
          "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
@@ -266,6 +330,14 @@ news_feed (
          "title" : "Karsten M&uuml;ller: How to attack - Review"
       },
       {
+         "description" : "Senior National Arbiter Examination held at Hosur Tamil Nadu Certificates are out to download. Link : https://aicf.online/Arbiter-Seminar-Hosur.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-hosur-certificates/",
+         "pubDate" : "Tue, 07 Feb 2023 12:07:36 +0000",
+         "title" : "Senior National Arbiter, Hosur Certificates"
+      },
+      {
          "description" : "The &#8216;rating of games played abroad' facility has been dormant since the new rating system was introduced. The ECF rating team are pleased to announce...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -274,28 +346,12 @@ news_feed (
          "title" : "Rating of games played abroad"
       },
       {
-         "description" : "The Georgian Women's Championship is taking place from 6&#x2013;15 February 2023 in Tbilisi. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 10-player round-robin tournament with participation of Nino Batsiashvili, Bela Khotenashvili, Nia Donghvani, Anastasia Kirtadze, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/georgian-womens-championship-2023-live/",
-         "pubDate" : "Tue, 07 Feb 2023 08:37:02 +0000",
-         "title" : "Georgian Women's Championship 2023 - LIVE"
-      },
-      {
          "description" : "Arjun Erigaisi stunned Alireza Firouzja 3:0 on the opening day of the Airthings Masters, the first event on the $2 million 2023 Champions Chess Tour. Magnus Carlsen and Hikaru Nakamura also beat Alexey Sarana and Gukesh with a game to spare, while Wesley So lived dangerously before overcoming Rauf Mamedov in four games. For the losing players it's not over yet, as they can still win the tournament via the Losers bracket.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-firouzja-3-0-as-airthings-masters-begins",
          "pubDate" : "Tue, 07 Feb 2023 08:34:28 +0000",
          "title" : "Erigaisi beats Firouzja 3:0 as Airthings Masters begins"
-      },
-      {
-         "description" : "The Begum Laila Alam is taking place from 6&#x2013;13 February 2023 in Dhaka, Bangladesh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 7-round Swiss tournament with participation of Tanima Parveen, Walijah Ahmed, Anjum Noshin, Nazrana Khan, Rani Hamid, Khusbu Warsia, Alo Nusrat Jahan, Ferdous []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/begum-laila-alam-2023-live/",
-         "pubDate" : "Tue, 07 Feb 2023 08:31:39 +0000",
-         "title" : "Begum Laila Alam 2023 -LIVE"
       },
       {
          "description" : "Fighting against passed pawns can be tricky. In the diagram position Black's bishop has to fight against no less than four passed pawns. However, Black can still draw. But how?",
@@ -482,14 +538,6 @@ news_feed (
          "title" : "Gukesh shines in super strong Airthings Masters Play-In"
       },
       {
-         "description" : "The Azerbaijan Women's Championship will be held in Baku from 03 to 14 February 2023 with 12 participants compete in a round-robin. Players receive 90 minutes for the first 40 moves and then 30 minutes until the end of the game, plus a 30-second increment starting from move one. The total prize fund of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/azerbaijan-womens-championship-2023-live/",
-         "pubDate" : "Sun, 05 Feb 2023 21:12:02 +0000",
-         "title" : "Azerbaijan Women's Championship 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -544,14 +592,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/19-year-old-nurgyul-salimova-wins-silver-at-bulgarian-championship-2023",
          "pubDate" : "Sun, 05 Feb 2023 13:00:00 +0100",
          "title" : "19-year-old Nurgyul Salimova wins Silver at Bulgarian Championship 2023"
-      },
-      {
-         "description" : "The Polish team won all six matches in Belgrade and took their first Olympic gold in chess since 1930. IPCA got the silver, and the Philippines won the bronze Like many times during the 20th century, the Serbian capital Belgrade was a place where (again) chess history had been made, as players with disabilities showed []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/poland-wins-1st-olympiad-for-people-with-disabilities/",
-         "pubDate" : "Sun, 05 Feb 2023 10:09:00 +0000",
-         "title" : "Poland wins 1st Olympiad for People with Disabilities"
       },
       {
          "description" : "Alexandra Kosteniuk grabbed a third consecutive win in Munich to get a full-point lead over a 3-player chasing pack at the second stage of the Women's Grand Prix series. Kosteniuk inflicted Dinara Wagner's third consecutive loss. In the other decisive game of the round, Zhu Jiner beat Zhansaya Abdumalik with the black pieces. | Photo: FIDE / David Llada",
@@ -1130,14 +1170,6 @@ news_feed (
          "title" : "Clear the Way! Long Diagonals & Open Files | Beginner Breakdown | lichess.org"
       },
       {
-         "description" : "Telangana stole the limelight by winning five of the twelve titles at stake in the MPL 11th National Schools Chess Championships at the Adhiyamaan College",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/mpl-11th-national-schools-chess-championships-2023/",
-         "pubDate" : "Tue, 31 Jan 2023 18:30:41 +0000",
-         "title" : "MPL 11th National Schools Chess Championships 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1194,14 +1226,6 @@ news_feed (
          "title" : "Won't somebody think of the adults"
       },
       {
-         "description" : "On TikTok these two young ladies asked strangers on the street to guess what they did for a living. Model? Artist? Dancers? Cheerleaders? Gymnasts? Architect? TikTok twins? All wrong! We ask you to guess, just looking at this picture. The answer is provided in a video of their street side quiz, one that has been watched 8&frac12; million times.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/guess-what-they-do-for-a-living",
-         "pubDate" : "Tue, 31 Jan 2023 13:00:00 +0100",
-         "title" : "Guess what they do for a living"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1224,14 +1248,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/endgame-challenge-three-rook-and-pawn-endgames/",
          "pubDate" : "Tue, 31 Jan 2023 09:37:58 +0000",
          "title" : "Endgame Challenge Three - Rook and Pawn Endgames"
-      },
-      {
-         "description" : "Pawn endings must be calculated very precisely. In the diagram position it is Black to move, and with precise calculation he could have saved the draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-fight-for-spare-moves",
-         "pubDate" : "Tue, 31 Jan 2023 09:00:00 +0100",
-         "title" : "The fight for spare moves"
       },
       {
          "description" : " Jerald Times is in the chess news recently, but it is not for his success as a chess educator. After winning the right to challenge Success Academy's employment practices, he is now seeking to settle on the basis of unlawful retaliation. There have been a number of delays in the process and Times is waiting The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/\">Jerald Times seeks action against Success Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1522,12 +1538,12 @@ news_feed (
          "title" : "Hurst's 'Chess on the Web'"
       },
       {
-         "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Losing in Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Resilience In Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/overcome-loss/",
          "pubDate" : "Fri, 27 Jan 2023 12:14:49 +0000",
-         "title" : "Losing in Chess: How to Get Back After A Tough Loss"
+         "title" : "Resilience In Chess: How to Get Back After A Tough Loss"
       },
       {
          "description" : "The 1st Chess Olympiad for People with Disabilities starts on Sunday in Belgrade, Serbia, and will take place from 29th of January to the 5th of February in Hotel Crowne Plaza Belgrade. More than 100 players from 33 countries will take part in the event which will be played under the Swiss System, with six rounds. The time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/\">Read More &#187;</a></span>",
@@ -1850,14 +1866,6 @@ news_feed (
          "title" : "English Seniors Chess Championships 2023"
       },
       {
-         "description" : "18-year-old Nodirbek Abdusattorov took the sole lead in the Tata Steel Masters after outplaying Magnus Carlsen in Round 5, with the World Champion losing two classical games in a row for the first time since 2015. There were also wins for Levon Aronian, who tricked Vincent Keymer in an endgame, and Parham Maghsoodloo, who scored a bounce-back win over Jorden van Foreest.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-5-abdusattorov-hands-carlsen-2nd-loss-in-a-row",
-         "pubDate" : "Fri, 20 Jan 2023 10:37:51 +0000",
-         "title" : "Tata Steel 5: Abdusattorov hands Carlsen 2nd loss in a row"
-      },
-      {
          "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nodirbek Abdusattorov. It was the first time for mo",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1896,22 +1904,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-beats-carlsen-to-lead-tata-steel-masters-alone-on-45",
          "pubDate" : "Thu, 19 Jan 2023 21:03:00 +0400",
          "title" : "Abdusattorov beats Carlsen to lead Tata Steel Masters alone on 4/5 - 5"
-      },
-      {
-         "description" : " Many chess improvers spend a lot of time thinking about the 'ideal' chess study plan. \"Should I train openings, tactics, or endgames? And how much of each is appropriate?\" you might frequently ask yourself. In this article, I want to present a very simple method to guide you through these questions. I call it \"the [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/the-one-third-rule/\">The One-Third-Rule: How To Take Control Of Your Chess Training</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/the-one-third-rule/",
-         "pubDate" : "Thu, 19 Jan 2023 12:12:49 +0000",
-         "title" : "The One-Third-Rule: How To Take Control Of Your Chess Training"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2180",
-         "pubDate" : "Thu, 19 Jan 2023 11:08:13 +0000",
-         "title" : "Astana to host the FIDE World Chess Championship match 2023"
       }
    ]
 }
