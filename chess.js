@@ -1904,22 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2181",
          "pubDate" : "Thu, 19 Jan 2023 23:48:10 +0000",
          "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
-      },
-      {
-         "description" : " FIDE has just announced that the 2023 World Championship Match will be held in Astana, Kazakhstan from the 7th April to the 1st May. It will be played between Ian Nepomniachtchi and Ding Liren, after Magnus Carlsen (the current title holder) chose not to defend his title. The full FIDE media release is <a href=\"https://fide.com/news/2180\">here</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-world-championship-match-to-be.html",
-         "pubDate" : "Thu, 19 Jan 2023 20:00:00 +0000",
-         "title" : "2023 World Championship Match to be held in Astana"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov outplaying the World Champion Magnus Carlsen in fine style. This gave Abdusattorov the outright lead after five rounds. For Carlsen it was I believe the first time he lost two classical games in a row since 3rd Norway Chess tournament of 2015 where he started with two losses, a draw and then another loss. Other winners today were Levon Aronian and Parham Maghsoodloo. This was the only \"awayday\" of this year's tournament and seems to have been a real success, the round was played at the Ajax football stadium in Amsterdam. The Challengers had a day off having played their round 5 in Wijk aan Zee yesterday, everyone is back there tomorrow. Read FM Michiel Abeln's report f",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-beats-carlsen-to-lead-tata-steel-masters-alone-on-45",
-         "pubDate" : "Thu, 19 Jan 2023 21:03:00 +0400",
-         "title" : "Abdusattorov beats Carlsen to lead Tata Steel Masters alone on 4/5 - 5"
       }
    ]
 }
