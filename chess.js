@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2223",
+         "pubDate" : "Thu, 09 Feb 2023 16:04:46 +0000",
+         "title" : "FIDE - ISF World School Teams Online Chess Cup 2023: Registration begins"
+      },
+      {
+         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Thu, 09 Feb 2023 16:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Live!"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Thu, 09 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : " This years O2C Doeberl Cup is start to take shape, with the entries already over the 100 mark. As in the last few years there are limits on the number of players in each event, so it might be a good idea to enter sooner rather than later, so you get the event you want. The Premier section already has 4 Grandmasters entered, and I am hoping to have another 3 or 4 in the field. With travel almost back to normal, the Premier may get a number of overseas players, which will make earning IM and GM norms easier. If you want to enter, or see how much space is left in your preferred event, then go to <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> <br /> (*** I am the chief organis",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/2023-o2c-doeberl-cup-entries-passed-100.html",
+         "pubDate" : "Thu, 09 Feb 2023 13:16:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Entries passed 100"
+      },
+      {
          "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final will see []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1200,22 +1232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-4",
          "pubDate" : "Tue, 31 Jan 2023 16:00:00 +0100",
          "title" : "Endgames from Wijk aan Zee (4)"
-      },
-      {
-         "description" : "From 29 January to 5 February, Belgrade will host the 1st Chess Olympiad for People with Disabilities. Thirty-three countries and three international teams have registered to take part in this team competition. The German Grandmaster Thomas Luther opened the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/olympiad-for-people-with-disabilities-round-1-from-dreams-to-reality",
-         "pubDate" : "Tue, 31 Jan 2023 14:07:06 +0100",
-         "title" : "Olympiad for People with Disabilities Round 1: From dreams to reality"
-      },
-      {
-         "description" : "In the middle of the Chilean summer, at the end of December, the 8th International Chess Festival was held in Arica. Over 100 players from 11 countries participated. The Argentine GM Sandro Mareco won the Open in the \"City of Eternal Spring\" on tiebreak, GM Cristobal Henriquez from Chile finished second. Read more about town and tournament... | Photos: Organiser",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sandro-mareco-wins-chess-festival-arica-chile",
-         "pubDate" : "Tue, 31 Jan 2023 13:14:18 +0100",
-         "title" : "Sandro Mareco wins Chess Festival Arica (Chile)"
       },
       {
          "description" : " The Eastlakes Gungahlin Chess Club began it's 2023 chess season this evening, with not 1 but 2 club events. In a throwback to the 1980's, the club start both a junior event (2023 Gungahlin Junior Championship) and a adult event (2023 Ramakrishna Memorial). The two tournaments are identical (7 rounds 60m+30s), but junior players have to play the junior event. So how did it go? Quite well actually. Combined the 2 events had 41 players (22 in the Memorial, and 19 in the junior), which is about the same as last year in terms of entrants, and age split. One problem it did solve is that it reduced the number of 1st round mismatches, as almost all the games in the Memorial went past the 1 hour mar",
