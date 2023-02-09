@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2221",
+         "pubDate" : "Wed, 08 Feb 2023 23:22:39 +0000",
+         "title" : "WGP Munich: Six draws in Round 6"
+      },
+      {
+         "description" : "The third day of the Champions Chess Tour Airthings Masters 2023 presented the matchup of the ages, the duel for which the online chess sphere holds its breath: triple-crowned World Champion Magnus Carlsen vs. five-time Speed Chess Champion Hikaru...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-3",
+         "pubDate" : "Wed, 08 Feb 2023 14:21:00 -0800",
+         "title" : "Carlsen Beats Nakamura In Epic Armageddon Game, Awaits Losers Finalist"
+      },
+      {
          "description" : "The 1st event on the $2 Million 2023 Champions Chess Tour Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1648,14 +1664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2187",
          "pubDate" : "Wed, 25 Jan 2023 02:13:03 +0000",
          "title" : "Tata Steel Masters: Abdusattorov survives scare, Giri moves up to second place"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov maintained his lead with a nearly seven-hour display of exceptional defensive technique vs. GM Vincent Keymer in round nine of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Anish Giri is now in a close second, narrowing th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 24 Jan 2023 16:26:00 -0800",
-         "title" : "Giri Defeats Ding, Narrows Abdusattorov's Lead"
       },
       {
          "description" : " Today is a travel day for me. Heading down to Melbourne in a couple of hours to catch the end of the 2023 Oceania Zonal (and to hold at least one important meeting). By the time I touch down, four and a bit rounds should be completed, and a clearer picture of the eventual results should emerge. ",
