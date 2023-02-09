@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Guba Open is taking place from 7&#x2013;13 February 2023 in Guba, Azerbaijan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Farid Mustafayev, Elvin Bayramov, Nail Bashirli, Kanan Garayev, Tabriz Idrisov, Murad Ibrahimli, Fariz Ahmadov, Hasan Orujov, Eljan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/guba-open-2023-live/",
+         "pubDate" : "Thu, 09 Feb 2023 04:15:43 +0000",
+         "title" : "Guba Open 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black&#039;s notorious Berlin defense. 2023.02.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-berlin-prepare-pro-gm-josh-sheng",
+         "pubDate" : "Thu, 09 Feb 2023 02:29:21 +0000",
+         "title" : "Breaking the Berlin | Prepare Like A Pro - GM Josh Sheng"
+      },
+      {
+         "description" : "Magnus Carlsen advanced to the Grand Final of the Airthings Masters by beating Hikaru Nakamura in the winners' bracket final. All four 15-minute games were drawn in the all-star showdown, leading to a sudden-death decider. Carlsen, who presented a bid merely one second shorter than Nakamura's, drew with black in Armageddon to win the match. Nakamura will face either Wesley So or Arjun Erigaisi in the final of the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-3",
+         "pubDate" : "Thu, 09 Feb 2023 03:15:00 +0100",
+         "title" : "Airthings Masters: Carlsen beats Nakamura in Armageddon"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk survived an uproarious game vs. GM Zhansaya Abdumalik in round six&#38;nbsp;of the Munich FIDE Women&#39;s Grand Prix.&#38;nbsp; After this all-draw round, Kosteniuk&#39;s considerable lead over the field persists. GMs Humpy Koneru&#38;nbsp;a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-6",
+         "pubDate" : "Wed, 08 Feb 2023 17:09:00 -0800",
+         "title" : "Kosteniuk Draws Wild Game, Sustains 1.5-Point Lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,20 +74,12 @@ news_feed (
          "title" : "Luc WInants (1963-2023)"
       },
       {
-         "description" : "On a day where he also played a match in the Champions Chess Tour, GM Wesley So found the time to win both Titled Tuesday events on February 7. He is now the only other player besides GM Hikaru Nakamura to achieve this feat in the roughly one year...",
+         "description" : "On a day when he played a match in the Champions Chess Tour, GM Wesley So also found the time to win both Titled Tuesday events on February 7. He is now the only player besides GM Hikaru Nakamura to achieve this feat in the roughly one year since ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wesley-so-wins-titled-tuesday-february-7-2023",
-         "pubDate" : "Wed, 08 Feb 2023 08:24:04 -0800",
+         "pubDate" : "Wed, 08 Feb 2023 08:24:00 -0800",
          "title" : "Wesley So Becomes 2nd Player To Sweep Titled Tuesday"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Wed, 08 Feb 2023 16:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Live!"
       },
       {
          "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: David Llada",
@@ -608,14 +632,6 @@ news_feed (
          "link" : "https://www.chessdom.com/womens-grand-prix-munich-2023-day-3-live/",
          "pubDate" : "Sat, 04 Feb 2023 10:31:49 +0000",
          "title" : "Women's Grand Prix Munich 2023 - Day 3 live"
-      },
-      {
-         "description" : "The 1st event of the $2M Champions Chess Tour 2023, Airthings Masters, kicked off yesterday with the Play-In phase which determined which players will join Magnus Carlsen and Wesley So in the main event which will be played from 6-10 February. The Play-In was played in 9 rounds, swiss system, with the top finishers advancing []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/airthings-masters-play-in-determines-the-field-for-the-main-event/",
-         "pubDate" : "Sat, 04 Feb 2023 10:09:22 +0000",
-         "title" : "Airthings Masters Play-In determines the field for the main event"
       },
       {
          "description" : "Yes, 24.Rxg7+! wins for White - but it's definitely a challenge to foresee the complete path to victory from the diagram position, even if it's initially paved with checks. Your perfect start to the (chess) weekend, right?",
@@ -1530,14 +1546,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen jumps back into contention as final rounds loom at Wijk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-bg5-najdorf-prepare-pro-gm-josh-sheng",
-         "pubDate" : "Fri, 27 Jan 2023 02:19:35 +0000",
-         "title" : "Learn the Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1592,14 +1600,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-moves-closer-to-the-leader-after-10-rounds-of-the-tata-steel-masters",
          "pubDate" : "Wed, 25 Jan 2023 21:20:00 +0400",
          "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
-      },
-      {
-         "description" : "GM Hikaru Nakamura was victorious in another Titled Tuesday on January 24, his second in a row. Nakamura started 6/6, went undefeated, and scored 9.5/11 to defeat GMs Baadur Jobava and Matthias Bluebaum on tiebreaks. There was only one tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-january-24-2023",
-         "pubDate" : "Wed, 25 Jan 2023 08:00:19 -0800",
-         "title" : "Nakamura Wins Another Tuesday"
       },
       {
          "description" : "The 1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#160;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds are Prague&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/\">Read More &#187;</a></span>",
