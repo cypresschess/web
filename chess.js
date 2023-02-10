@@ -5,17 +5,33 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2224",
+         "pubDate" : "Thu, 09 Feb 2023 21:45:50 +0000",
+         "title" : "WGP Munich: Dzagnidze closes the gap"
+      },
+      {
+         "description" : "Hikaru Nakamura will face Magnus Carlsen in the Airthings Masters' Grand Final on Friday. The famed streamer drew Wesley So with black in Armageddon to win the losers' bracket and set up a rematch against the world champion. So had gained the right to face Nakamura by scoring a 1&frac12;-&frac12; victory over Arjun Erigaisi in the semifinal of the lower bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-4",
+         "pubDate" : "Thu, 09 Feb 2023 22:45:00 +0100",
+         "title" : "Airthings Masters: Nakamura knocks out So, reaches Grand Final"
+      },
+      {
+         "description" : "Day four of the Champions Chess Tour Airthings Masters 2023 decided one victor in the Losers Bracket of Division I. GM Hikaru Nakamura defeated GM Wesley So in the armageddon tiebreaker after two draws. He will meet GM Magnus Carlsen in the Grand ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-4",
+         "pubDate" : "Thu, 09 Feb 2023 13:27:00 -0800",
+         "title" : "Nakamura Wins Losers Final, Returns For 2nd Match With Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2223",
          "pubDate" : "Thu, 09 Feb 2023 16:04:46 +0000",
          "title" : "FIDE - ISF World School Teams Online Chess Cup 2023: Registration begins"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Thu, 09 Feb 2023 16:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Live!"
       },
       {
          "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
@@ -1610,14 +1626,6 @@ news_feed (
          "title" : "Tata Steel Chess 10: Magnus within striking distance"
       },
       {
-         "description" : "In round 10, GM Magnus Carlsen scored a fourth victory at the 2023 Tata Steel Chess Tournament, defeating GM Parham Maghsoodloo in a double-edged tussle. The world champion is now within striking distance of the top two. GM Nodirbek Abdusattorov...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 25 Jan 2023 20:49:00 -0800",
-         "title" : "Carlsen Rises With 3 Rounds Left"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/",
          "pubDate" : "Fri, 20 Jan 2023 02:06:05 +0000",
          "title" : "Brewington Hardaway gets 1st IM norm!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2181",
-         "pubDate" : "Thu, 19 Jan 2023 23:48:10 +0000",
-         "title" : "Tata Steel Masters 2023: Abdusattorov stuns Carlsen and grabs the lead"
       }
    ]
 }
