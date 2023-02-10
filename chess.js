@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
+         "pubDate" : "Fri, 10 Feb 2023 22:51:00 +0400",
+         "title" : "Airthings Masters 2023 - Games and Results"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King features a couple of blistering attacks from games played in the Vienna GM tournament, which is currently in full swing. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attacking-in-vienna",
+         "pubDate" : "Fri, 10 Feb 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: Attacking in Vienna"
+      },
+      {
          "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "The Anish Giri Interview: Winning Tata Steel Masters 2023"
       },
       {
-         "description" : " The Airthings Masters 2023 takes place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
-         "pubDate" : "Fri, 3 Feb 2023 22:51:00 +0400",
-         "title" : "Airthings Masters 2023 - Games and Results"
-      },
-      {
          "description" : " Last week, we worked through our game's first seven moves. This week, we'll start at move eight. As I mentioned in the conclusion of last week's article, we'd look at what White could have done differently in an effort to avoid the disaster that ensued. This week's article is going to be short since it <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\">A Foundation for Beginners Eighty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-january-31-2023",
          "pubDate" : "Wed, 01 Feb 2023 08:43:00 -0800",
          "title" : "Deac Edges Out Carlsen After Nakamura Wins Another"
-      },
-      {
-         "description" : "ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done. In this episode, we discover how easy it is to stream a Fritztrainer directly with ChessBase 17.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-how-to-stream-fritztrainer-videos-with-chessbase-17",
-         "pubDate" : "Wed, 01 Feb 2023 16:00:00 +0100",
-         "title" : "Explained by the engineers! - How to stream Fritztrainer Videos with ChessBase 17"
       },
       {
          "description" : "",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2182",
          "pubDate" : "Fri, 20 Jan 2023 23:00:57 +0000",
          "title" : "Tata Steel Masters: Abdusattorov stays in front"
-      },
-      {
-         "description" : "Last week in <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-evolution-of-chessnet.html\">The Evolution of Chess.net</A>(January 2023), I used Archive.org to outline the evolution of the online play site Chess.net. I assume that most chess sites from the late 1990s and early 2000s can be tracked in the same way. How can we identify those sites? <P>One excellent resource is Mark Crowther's 'Chess on the Net', published in 2002. The following image shows the front and back covers of the book. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na20.gif\" WIDTH=400 HEIGHT=300> <P>White letters on a yellow background don't allow easy reading, so here's the blurb from the back c",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/crowthers-chess-on-net.html",
-         "pubDate" : "Fri, 20 Jan 2023 16:31:00 +0000",
-         "title" : "Crowther's 'Chess on the Net'"
       }
    ]
 }
