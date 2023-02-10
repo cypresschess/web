@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Fri, 10 Feb 2023 16:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Live!"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Fri, 10 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
          "description" : " We looked at the use of Knight (and Bishop) forks in a game last week. This week, we'll start looking at the forks you can create with the other pieces, including the King, and even the lowly pawn. The fork can be a powerful weapon and is often the first tactic the beginner learns. However, <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\">A Foundation for Beginners Eighty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Grand Final - LIVE games"
       },
       {
-         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#xA0;Magnus Carlsen&#xA0;and&#xA0;Hikaru []",
+         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#160;Magnus Carlsen&#160;and&#160;Hikaru []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-grand-final-live/",
@@ -119,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-7",
          "pubDate" : "Thu, 09 Feb 2023 22:35:00 -0800",
-         "title" : "Dzagnidze Seizes Clear 2nd in Round of Combative Duels"
+         "title" : "Dzagnidze Seizes Clear 2nd In Round Of Combative Duels"
       },
       {
          "description" : "In a round that could have been a bloodbath at the Munich Grand Prix, Nana Dzagnidze scored the only win to close the gap with tournament leader Alexandra Kosteniuk to a full point. Dzagnidze beat Alina Kashlinskaya with white, while Kosteniuk escaped with a draw in an entertaining game against Mariya Muzychuk. Like Muzychuk, Humpy Koneru missed a tactical shot that could have secured her a full point. | Photo: FIDE / Mark Livshitz",
@@ -1210,28 +1226,12 @@ news_feed (
          "title" : "Battle Against The A.I. Bots!"
       },
       {
-         "description" : "At the beginning of February FIDE published the new world ranking list. Magnus Carlsen, who continues to be clear number one, lost a few rating points in Wijk, but increased the Elo gap to Ding Liren, who lost even more rating points in Wijk and is now the world's number three while Ian Nepomniachtchi is number two. Hou Yifan is number one on the women's list and Alireza Firouzja remains the world's best junior though his rivals come closer. Best female junior is Bibisara Assaubayeva.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-february-2023",
-         "pubDate" : "Wed, 01 Feb 2023 14:00:00 +0100",
-         "title" : "FIDE ratings February 2023"
-      },
-      {
          "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No.&#160;K-15011/02/2023-SP-IV dated 23rd&#160;January 2023&#160;regarding change in procedure for applying under the Scheme",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/circular-for-change-in-procedure-for-applying-under-the-scheme-of-cash-award-to-the-medal-winners-for-winning-medals-in-international-events-and-their-coaches-intimation-to-nsfs-list-2/",
          "pubDate" : "Wed, 01 Feb 2023 11:47:33 +0000",
          "title" : "Circular for change in procedure for applying under the Scheme of Cash Award to the Medal Winners for winning medals in International Events and their coaches"
-      },
-      {
-         "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but we also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aquarius-and-their-strategy",
-         "pubDate" : "Wed, 01 Feb 2023 12:00:00 +0100",
-         "title" : "Aquarius and their strategy"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1904,22 +1904,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/crowthers-chess-on-net.html",
          "pubDate" : "Fri, 20 Jan 2023 16:31:00 +0000",
          "title" : "Crowther's 'Chess on the Net'"
-      },
-      {
-         "description" : " The Tata Steel Masters returned to Wijk aan Zee and saw two decisive games. Fabiano Caruana beat a really struggling D Gukesh who clearly messed something up in the opening. Wesley So was the other winner beating Vincent Keymer after the German looked like he had fought his way back into the game. Leader Nodirbek Abdusattorov didn't get much against Praggnanandhaa. Second place Anish Giri had a promising position against Arjun Erigaisi but had to settle for a draw, in commentary they talked about how Giri is being seconded by Jan Gustafsson. Magnus Carlsen pressed a little against Jorden Van Foreest but he even had to be careful not to lose near the end. In the B-Group Alexander Donchenko j",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/caruana-and-so-win-in-round-6-of-the-tata-steel-masters",
-         "pubDate" : "Fri, 20 Jan 2023 20:06:00 +0400",
-         "title" : "Caruana and So win in Round 6 of the Tata Steel Masters - 6"
-      },
-      {
-         "description" : "The English Seniors Championships will take place between Thursday 4th May and Bank Holiday Monday 8th May 2023 at the Woodland Grange, Old Milverton Lane,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-chess-championships-2023/",
-         "pubDate" : "Fri, 20 Jan 2023 15:16:11 +0000",
-         "title" : "English Seniors Chess Championships 2023"
       }
    ]
 }
