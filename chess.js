@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " We looked at the use of Knight (and Bishop) forks in a game last week. This week, we'll start looking at the forks you can create with the other pieces, including the King, and even the lowly pawn. The fork can be a powerful weapon and is often the first tactic the beginner learns. However, <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\">A Foundation for Beginners Eighty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-three/",
+         "pubDate" : "Fri, 10 Feb 2023 12:07:24 +0000",
+         "title" : "A Foundation for Beginners Eighty Three"
+      },
+      {
+         "description" : "The Napoleon Chess Trophy 2023 is an exhibition taking place on 11th february 2023 in La Roche-sur-Yon. The French city was founded by Napoleon Bonaparte more than 200 years ago. The Trophy commemorates the famous Emperor and chess player. Qualifying tournament : round-robin (players face their opponent one time with White and one time with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/napoleon-chess-trophy-2023-live/",
+         "pubDate" : "Fri, 10 Feb 2023 11:54:30 +0000",
+         "title" : "Napoleon Chess Trophy 2023 - LIVE"
+      },
+      {
+         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#xA0;Magnus Carlsen&#xA0;and&#xA0;Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-grand-final-live-games/",
+         "pubDate" : "Fri, 10 Feb 2023 10:58:00 +0000",
+         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Grand Final - LIVE games"
+      },
+      {
+         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#xA0;Magnus Carlsen&#xA0;and&#xA0;Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-grand-final-live/",
+         "pubDate" : "Fri, 10 Feb 2023 10:47:50 +0000",
+         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Grand Final LIVE"
+      },
+      {
+         "description" : "Hikaru Nakamura beat Wesley So in Armageddon to set up a Grand Final rematch against Magnus Carlsen on the last day of the 2023 Airthings Masters. Wesley had earlier overcome Arjun Ergaisi to join Carlsen and Nakamura in securing a spot in Division I of the next Champions Chess Tour event in April. Fabiano Caruana and Yu Yangyi will fight it out for the remaining spot in the Division II final, while Sam Sevian won Division III.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-sets-up-carlsen-rematch-in-airthings-masters-final",
+         "pubDate" : "Fri, 10 Feb 2023 10:46:01 +0000",
+         "title" : "Nakamura sets up Carlsen rematch in Airthings Masters final"
+      },
+      {
+         "description" : "After carefully considering the numerous applications received, the special panel appointed by the FIDE Council decided that these will be the twelve chess players, coaches, and promoters to benefit from the first instalment of FIDE's support to chess veterans in 2023: Yochanan Afek (Israel)Igor Yarmonov (Ukraine)Jes&#xFA;s Nogueiras (Cuba)Valeri Beim (Austria)Elmira Aliyeva (Azerbaijan)Irina Chelushkina (Serbia)Nukhim Rashkovsky []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-distributes-e30000-among-chess-veterans/",
+         "pubDate" : "Fri, 10 Feb 2023 10:10:54 +0000",
+         "title" : "FIDE distributes €30,000 among chess veterans"
+      },
+      {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-8-live/",
+         "pubDate" : "Fri, 10 Feb 2023 10:02:22 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Round 8 live"
+      },
+      {
+         "description" : "After a long time, Svitlana was finally able to play some chess again in the Canadian University Chess Championship 2023. With 4 out of 5, she had a great tournament. We take a look at two of her games, where we specifically analyse her two opening choices. Especially the move 3. .. h6 in the Queen's Gambit, is often unpleasant for White, and Svitlana pulls off a great victory with loads of tactical patterns. In the second game, the London system does the job, and the game is pretty much over after less than 20 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-canadian-university-chess-championship-2023",
+         "pubDate" : "Fri, 10 Feb 2023 11:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Canadian University Chess Championship 2023"
+      },
+      {
+         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets Magnus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-wins-airthings-masters-losers-final-to-get-his-second-chance-against-carlsen/",
+         "pubDate" : "Fri, 10 Feb 2023 09:41:00 +0000",
+         "title" : "Nakamura wins Airthings Masters Losers Final to get his second chance against Carlsen"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) After a stunning performance this afternoon against Alina Kashlinskaya, Nana Dzagnidze closed in on tournament leader Alexandra Kosteniuk, and with four rounds to go, it's all up for grabs. The former 2017 European Women's Champion from Georgia displayed her excellent skills handling the white side of a classical King's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dzagnidze-closes-the-gap-fide-women-grand-prix-munich-r7-recap/",
+         "pubDate" : "Fri, 10 Feb 2023 09:28:16 +0000",
+         "title" : "Dzagnidze closes the gap - FIDE Women Grand Prix Munich R7 recap"
+      },
+      {
+         "description" : "In his 'Fast & Furious' show, Robert Ris looks back at a rollercoaster game, in which Ian Nepomniachtchi used the Deferred Steinitz Variation of the Ruy Lopez to initiate an early (and eventually successful) attack on the kingside. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-rollercoaster-game",
+         "pubDate" : "Fri, 10 Feb 2023 10:24:30 +0100",
+         "title" : "Robert Ris' Fast and Furious: A rollercoaster game"
+      },
+      {
+         "description" : "Today: Jeroen van den Belt explains how the new ChessBase 17 evaluation graph works, and how to enable it. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-evaluation-graph-for-chessbase-17",
+         "pubDate" : "Fri, 10 Feb 2023 10:00:00 +0100",
+         "title" : "Explained by the engineers! - The new evaluation graph for ChessBase 17!"
+      },
+      {
          "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -22,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-7",
-         "pubDate" : "Thu, 09 Feb 2023 22:35:11 -0800",
+         "pubDate" : "Thu, 09 Feb 2023 22:35:00 -0800",
          "title" : "Dzagnidze Seizes Clear 2nd in Round of Combative Duels"
       },
       {
@@ -114,28 +210,12 @@ news_feed (
          "title" : "Magnus Carlsen defeats Hikaru Nakamura in the Airthings Masters Winners Final"
       },
       {
-         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-grand-prix-munich-round-7-pairings/",
-         "pubDate" : "Thu, 09 Feb 2023 11:14:40 +0000",
-         "title" : "Women Grand Prix Munich - Round 7 pairings"
-      },
-      {
          "description" : "One of the most common things that chess players obsessed with Elo ratings (which is almost all of them) do when selecting tournaments to play is to look at the nationality of the players already entered, to see if they come from countries that are considered to have \"deflated\" ratings or \"inflated\" ratings, which might add to the attraction of playing. Javier Perea analyses the phenomenon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/which-countries-have-the-most-inflated-elo-chess-players",
          "pubDate" : "Thu, 09 Feb 2023 12:00:00 +0100",
          "title" : "Which countries have the most inflated Elo ratings?"
-      },
-      {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-7-live/",
-         "pubDate" : "Thu, 09 Feb 2023 10:34:12 +0000",
-         "title" : "FIDE Women Grand Prix Munich - Round 7 live"
       },
       {
          "description" : "In his \"Game of the Week\" show #554, Merijn van Delft takes a look at a fantastic attacking game that was played in the German Bundesliga last weekend, and in which Daniel Yuffa defeated Frederik Svane with a number of surprising sacrifices. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -154,14 +234,6 @@ news_feed (
          "title" : "FIDE distributes €30,000 among chess veterans"
       },
       {
-         "description" : "By IM Michael Rahal (Munich, Germany)&#160; The president of the International Chess Federation, Arkady Dvorkovich, visited the women&#x2019;s Gran Prix this afternoon and performed the ceremonial first move on the Zhu Jiner-Nana Dzagnidze board.&#160; Interviewed before the round by FIDE Press Officer for the event, IM Michael Rahal, Dvorkovich said he was very happy to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/six-draws-in-munich-fide-women-grand-prix-r6-recap/",
-         "pubDate" : "Thu, 09 Feb 2023 09:22:09 +0000",
-         "title" : "Six draws in Munich - FIDE Women Grand Prix R6 recap"
-      },
-      {
          "description" : "The WR Chess Masters is a classical chess tournament which boasts the participation of 10 World-class Grandmasters. With a mix of youth and experience, this dynamic field will battle each other from February 15th-26th in a 9-game Round Robin event. The most special thing about the event is its time control. It has the same time control as the World Championship Match. How difficult is it to organize a super tournament from scratch? In this article, we talk to the man behind the WR Chess Masters - Wadim Rosenstein and get some insights.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,36 +242,12 @@ news_feed (
          "title" : "Creating a super tournament from scratch - Interview with Wadim Rosenstein"
       },
       {
-         "description" : "The Vienna February WIM is taking place from 7&#x2013;12 February 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 10-player round-robin tournament with participation of Dorina Demeter, Zala Urh, Elisabeth Hapala, Nikola Mayrhuber, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vienna-february-wim-2023-live/",
-         "pubDate" : "Thu, 09 Feb 2023 04:45:00 +0000",
-         "title" : "Vienna February WIM 2023 - LIVE"
-      },
-      {
-         "description" : "The Vienna February GM is taking place from 7&#x2013;12 February 2023 in Vienna, Austria. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Dominik Horvath, Felix Blohberger, Valentin Baidetskyi, Yevgeniy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vienna-february-gm-2023-live/",
-         "pubDate" : "Thu, 09 Feb 2023 04:34:33 +0000",
-         "title" : "Vienna February GM 2023 - LIVE"
-      },
-      {
          "description" : "Following the rest day, players returned well-prepared to the playing hall in Munich and drew all their games in round 6 of the Women's Grand Prix. Alexandra Kosteniuk thus kept her 1&frac12;-point lead in the standings. Importantly, Kosteniuk's closest chasers, Humpy Koneru and Nana Dzagnidze, have yet to face the former women's world champion. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r6",
          "pubDate" : "Thu, 09 Feb 2023 05:30:00 +0100",
          "title" : "Munich GP: Kosteniuk keeps the lead as all games are drawn"
-      },
-      {
-         "description" : "The Guba Open is taking place from 7&#x2013;13 February 2023 in Guba, Azerbaijan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Farid Mustafayev, Elvin Bayramov, Nail Bashirli, Kanan Garayev, Tabriz Idrisov, Murad Ibrahimli, Fariz Ahmadov, Hasan Orujov, Eljan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/guba-open-2023-live/",
-         "pubDate" : "Thu, 09 Feb 2023 04:15:43 +0000",
-         "title" : "Guba Open 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black's notorious Berlin defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
@@ -226,6 +274,14 @@ news_feed (
          "title" : "Kosteniuk Draws Wild Game, Sustains 1.5-Point Lead"
       },
       {
+         "description" : " Here is the publishers blurb from the rear cover: &#8220;The Barry Attack is a highly aggressive system that arises after 1 d4 Nf6 2 Nf3 g6 3 Nc3 d5 4 <a href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Barry Attack</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\">Play the Barry Attack</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/02/09/play-the-barry-attack/",
+         "pubDate" : "Thu, 09 Feb 2023 00:10:32 +0000",
+         "title" : "Play the Barry Attack"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -240,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-3",
          "pubDate" : "Wed, 08 Feb 2023 14:21:00 -0800",
          "title" : "Carlsen Beats Nakamura In Epic Armageddon Game, Awaits Losers Finalist"
-      },
-      {
-         "description" : "The 1st event on the $2 Million 2023 Champions Chess Tour Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-winners-final-live/",
-         "pubDate" : "Wed, 08 Feb 2023 18:44:09 +0000",
-         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Winners Final - LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
@@ -1202,14 +1250,6 @@ news_feed (
          "title" : "Russian Chess Federation Applies For Asia Switch As Row With Europe Deepens"
       },
       {
-         "description" : "Arjun Erigaisi reached an extremely difficult endgame against Levon Aronian in the third round of the Tata Steel Masters. Many players would have collapsed, but the 19-year-old is a tough nut to crack. He held his own and managed to draw the game. After the game, you could see Arjun and Levon analysing the game, but it was all just too complex to figure out without an engine. IM Sagar Shah spent a lot of time going to the depth of the position and now shares the findings with you. Do check out the analysis to unlock the secrets of a complex knight versus bishop endgame. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/delving-deep-into-arjun-aronian",
-         "pubDate" : "Wed, 01 Feb 2023 07:23:55 +0100",
-         "title" : "A tough nut to crack: Arjun vs. Aronian"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1250,28 +1290,12 @@ news_feed (
          "title" : "FIDE Circuit race: Anish Giri moves into the lead"
       },
       {
-         "description" : "Time is important when playing chess. The time that the players have on the clock, but also the dynamic pieces and pawns develop during the game and that dictates whether to play fast or slow. Jan Markos knows how to use such dynamics to your advantage. | Photo: Michael Hofmann, Kitzingen., CC BY-SA 3.0 , via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-17-fast-or-slow",
-         "pubDate" : "Tue, 31 Jan 2023 18:00:00 +0100",
-         "title" : "The Winning Academy 17: Fast or slow?"
-      },
-      {
          "description" : "The first Yahoos post of the New Year marks also the start of the third full year of Yahoos. (For an explanation of Yahoos, see the footnote to this post.) Let's start with the usual overview of news sources reporting in the current month. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na31.gif\" WIDTH=185 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> This month we had 92 stories from the current month and 6 stories repeating from previous months, making 98 stories total. In 2022, only two of the 12 monthly posts had more stories in the current month. <P>Eight news sources, shown in the chart on the left, had more than two stories in the month, accounting for 44 stories total. That leaves 48 sou",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html",
          "pubDate" : "Tue, 31 Jan 2023 16:29:00 +0000",
          "title" : "First Yahoos of 2023"
-      },
-      {
-         "description" : "The much anticipated Tata Steel Chess Tournament finished on Sunday in Wijk aan Zee. GM Karsten M&uuml;ller, our in-house endgame expert, found plenty of instructive positions from the event in the Netherlands and shared his analyses with us. Find six such mini-lessons here. Enjoy! | Photo: Lennart Ootes / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2023-endgames-4",
-         "pubDate" : "Tue, 31 Jan 2023 16:00:00 +0100",
-         "title" : "Endgames from Wijk aan Zee (4)"
       },
       {
          "description" : " The Eastlakes Gungahlin Chess Club began it's 2023 chess season this evening, with not 1 but 2 club events. In a throwback to the 1980's, the club start both a junior event (2023 Gungahlin Junior Championship) and a adult event (2023 Ramakrishna Memorial). The two tournaments are identical (7 rounds 60m+30s), but junior players have to play the junior event. So how did it go? Quite well actually. Combined the 2 events had 41 players (22 in the Memorial, and 19 in the junior), which is about the same as last year in terms of entrants, and age split. One problem it did solve is that it reduced the number of 1st round mismatches, as almost all the games in the Memorial went past the 1 hour mar",
@@ -1864,14 +1888,6 @@ news_feed (
          "link" : "https://www.thearticle.com/fide-russia-and-iran-an-interview-with-shohreh-bayat/",
          "pubDate" : "Sat, 21 Jan 2023 13:15:33 +0000",
          "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
-      },
-      {
-         "description" : "Fabiano Caruana joined Anish Giri in 2nd place in the Tata Steel Masters after getting revenge for losing to 16-year-old Gukesh at the Chennai Olympiad. Wesley So picked up his first win of 2023 after Vincent Keymer again crumbled in the endgame, while Magnus Carlsen stopped the bleeding with a draw against Jorden van Foreest.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-6-caruana-gets-gukesh-revenge",
-         "pubDate" : "Sat, 21 Jan 2023 09:55:20 +0000",
-         "title" : "Tata Steel Chess 6: Caruana gets Gukesh revenge"
       },
       {
          "description" : "",
