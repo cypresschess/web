@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a round that could have been a bloodbath at the Munich Grand Prix, Nana Dzagnidze scored the only win to close the gap with tournament leader Alexandra Kosteniuk to a full point. Dzagnidze beat Alina Kashlinskaya with white, while Kosteniuk escaped with a draw in an entertaining game against Mariya Muzychuk. Like Muzychuk, Humpy Koneru missed a tactical shot that could have secured her a full point. | Photo: FIDE / Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r7",
+         "pubDate" : "Fri, 10 Feb 2023 05:15:00 +0100",
+         "title" : "Munich GP: Dzagnidze scores in eventful seventh round"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2223",
          "pubDate" : "Thu, 09 Feb 2023 16:04:46 +0000",
          "title" : "FIDE - ISF World School Teams Online Chess Cup 2023: Registration begins"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Thu, 09 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : " This years O2C Doeberl Cup is start to take shape, with the entries already over the 100 mark. As in the last few years there are limits on the number of players in each event, so it might be a good idea to enter sooner rather than later, so you get the event you want. The Premier section already has 4 Grandmasters entered, and I am hoping to have another 3 or 4 in the field. With travel almost back to normal, the Premier may get a number of overseas players, which will make earning IM and GM norms easier. If you want to enter, or see how much space is left in your preferred event, then go to <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> <br /> (*** I am the chief organis",
@@ -170,7 +170,7 @@ news_feed (
          "title" : "Guba Open 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black&#039;s notorious Berlin defense. 2023.02.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black's notorious Berlin defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/breaking-berlin-prepare-pro-gm-josh-sheng",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jan/20/chess-carlsen-loses-two-classical-games-in-a-row-for-the-first-time-since-2015",
          "pubDate" : "Fri, 20 Jan 2023 08:00:32 +0000",
          "title" : "Chess: Carlsen loses two classical games in a row for the first time since 2015"
-      },
-      {
-         "description" : " Brewington Hardaway is pictured here at the National K8 tournament of Champions which he won. Photo by Alexey Root Brewington Hardaway has earned his first International Master norm at the NY City Winter IM Norm Invitational with 6/9. After barely missing his first norm last month, he posted to Twitter about his last-round loss to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/\">Brewington Hardaway gets 1st IM norm!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/19/brewington-hardaway-gets-1st-im-norm/",
-         "pubDate" : "Fri, 20 Jan 2023 02:06:05 +0000",
-         "title" : "Brewington Hardaway gets 1st IM norm!"
       }
    ]
 }
