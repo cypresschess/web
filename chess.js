@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/feb/10/chess-carlsen-and-nakamura-outwit-young-guns-in-offbeat-airthings-masters",
+         "pubDate" : "Fri, 10 Feb 2023 08:00:03 +0000",
+         "title" : "Chess: Carlsen and Nakamura outwit young guns in offbeat Airthings Masters"
+      },
+      {
+         "description" : "Kindly find the Live Games link for the MPL 42nd National Team &#38; MPL 20th National Women Team Chess Championship 2023 Open Link :https://view.livechesscloud.com/#251a215d-43d0-4f17-9041-aa151d82aef9 Women Link :https://view.livechesscloud.com/#99e2cf48-0d98-49ba-9c8b-2441f86c2f1a",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-mpl-42nd-national-team-mpl-20th-national-women-team-chess-championship-2023-reg/",
+         "pubDate" : "Fri, 10 Feb 2023 07:05:23 +0000",
+         "title" : "Live Games Link for MPL 42nd National Team & MPL 20th National Women Team Chess Championship 2023 - reg"
+      },
+      {
+         "description" : "GM Nana Dzagnidze was the sole victor on a day of combative, sacrifice-laden games in round seven of the Munich FIDE Women&#39;s Grand Prix. The Georgian grandmaster fought off IM Alina Kashlinskaya&#39;s aggressive attempts in the King&#39;s Indian Defense.&#38;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-7",
+         "pubDate" : "Thu, 09 Feb 2023 22:35:11 -0800",
+         "title" : "Dzagnidze Seizes Clear 2nd in Round of Combative Duels"
+      },
+      {
          "description" : "In a round that could have been a bloodbath at the Munich Grand Prix, Nana Dzagnidze scored the only win to close the gap with tournament leader Alexandra Kosteniuk to a full point. Dzagnidze beat Alina Kashlinskaya with white, while Kosteniuk escaped with a draw in an entertaining game against Mariya Muzychuk. Like Muzychuk, Humpy Koneru missed a tactical shot that could have secured her a full point. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-4",
          "pubDate" : "Thu, 09 Feb 2023 13:27:00 -0800",
          "title" : "Nakamura Wins Losers Final, Returns For 2nd Match With Carlsen"
+      },
+      {
+         "description" : "My latest eBay post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/a-new-category-of-chess-collectable.html\">A New Category of Chess Collectable</A>(February 2023), needs a second look. A small question has been bothering me since I posted it : is the title correct? When I wrote the post, I first used the word 'collectible', then wondered if that was correct. After a little research, I determined that the right word was 'collectable', and changed it. Here's what <A HREF=\"https://www.grammarbook.com/blog/spelling/collectible-or-collectable/\">Collectible or Collectable</A>(grammarbook.com; 'The Blue Book of Grammar and Punctuation') has to say about it. <BLOCKQUOTE>A Matter of Noun vs.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/of-grammar-silver-spoons-and-ebay-prices.html",
+         "pubDate" : "Thu, 09 Feb 2023 16:49:00 +0000",
+         "title" : "Of Grammar, Silver Spoons, and eBay Prices"
       },
       {
          "description" : "",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "Circular for change in procedure for applying under the Scheme of Cash Award to the Medal Winners for winning medals in International Events and their coaches"
       },
       {
-         "description" : "Performance of Indian team is going stronger in round 2 .The 10th seeded Indian Team consists of Soundarya Kumar Pradhan ,Shashikant Kutwal ,Kishan Gangolli ,Darpan",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-olympiad-for-people-with-disabilities-2023report-round-2/",
-         "pubDate" : "Wed, 01 Feb 2023 11:35:45 +0000",
-         "title" : "1st FIDE Olympiad for People with Disabilities 2023:Report Round 2"
-      },
-      {
          "description" : "Most of all grandmasters were born under the sign of Aquarius. Among them romped the legends Taimanov, Eliskases and Sveshnikov. There is also a world champion - Boris Spassky. With Abhimanyu Mishra, we have not only the youngest grandmaster, but we also had Yuri Averbakh, the oldest, who died at the age of one hundred.| Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1522,14 +1546,6 @@ news_feed (
          "title" : "Learn the 6.Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
       },
       {
-         "description" : "GM Parham Maghsoodloo was the sole winner in round 11 of the 2023 Tata Steel Chess Tournament.&#38;nbsp;GM Nodirbek Abdusattorov continues to reign in clear first, drawing confidently with black against his closest competitor, GM Anish Giri. GM Magnus...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 27 Jan 2023 20:02:00 -0800",
-         "title" : "Top Boards Face Off Peacefully, Maghsoodloo Sole Victor"
-      },
-      {
          "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-seniors-chess-championships-2023/",
          "pubDate" : "Fri, 20 Jan 2023 15:16:11 +0000",
          "title" : "English Seniors Chess Championships 2023"
-      },
-      {
-         "description" : " Norway's world champion was beaten on Tuesday by Anish Giri of the Netherlands then lost a 60-move queen endgame on Thursday to Uzbekistan's Nodirbek Abdusattorov Magnus Carlsen suffered a rare double defeat in classical chess this week at Wijk aan Zee, the \"chess Wimbledon\". On Tuesday <a href=\"https://twitter.com/chess24com\">the 32-year-old Norwegian resigned</a> to the Netherlands No 1 and world No 5, Anish Giri, whose only previous win against the world No 1 in classical chess was 12 years ago to the day, also at Wijk. Two days later, after Wednesday's rest day, Carlsen lost again, beaten by the fast rising 18-year-old from Uzbekistan, Nodirbek Abdusattorov. It was the first time for mo",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jan/20/chess-carlsen-loses-two-classical-games-in-a-row-for-the-first-time-since-2015",
-         "pubDate" : "Fri, 20 Jan 2023 08:00:32 +0000",
-         "title" : "Chess: Carlsen loses two classical games in a row for the first time since 2015"
       }
    ]
 }
