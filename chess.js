@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2225",
+         "pubDate" : "Fri, 10 Feb 2023 23:41:56 +0000",
+         "title" : "WGP Munich: Kosteniuk extends her lead"
+      },
+      {
+         "description" : "A commanding 6.5/8 score has planted GM Alexandra Kosteniuk firmly atop the leaderboard in Munich at the FIDE Women&#39;s Grand Prix after she consolidated her 1.5-point lead with a win over Ukrainian GM Anna Muzychuk in round eight. The &#34;Chess Quee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-8",
+         "pubDate" : "Fri, 10 Feb 2023 15:35:07 -0800",
+         "title" : "Bishop Endgames Star As Kosteniuk Extends Lead"
+      },
+      {
+         "description" : "Magnus Carlsen won the Airthings Masters, the first event of this year's Champions Chess Tour, after beating Hikaru Nakamura 2&frac12;-1&frac12; in the 4-game Grand Final match. Carlsen won game 1 with white and drew the three remaining encounters to secure tournament victory. This was the second time Carlsen beat Nakamura in the 5-day event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-5",
+         "pubDate" : "Fri, 10 Feb 2023 23:05:00 +0100",
+         "title" : "Carlsen beats Nakamura again, wins Airthings Masters"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the&#38;nbsp;Champions Chess Tour Airthings Masters 2023 Division I after defeating GM Hikaru Nakamura in the Grand Final. He won the first game, and despite a major scare in game three, managed to draw the rest to consolidate hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-5-carlsen-wins",
+         "pubDate" : "Fri, 10 Feb 2023 12:58:00 -0800",
+         "title" : "Carlsen Wins Rematch Vs. Nakamura, Caruana, Sevian Win Divisions 2-3"
+      },
+      {
          "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attacking-in-vienna",
          "pubDate" : "Fri, 10 Feb 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Attacking in Vienna"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters is taking place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Wesley So and Alireza Firouzja are among the 8 participants in Division I. | Follow the games live with expert commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Fri, 10 Feb 2023 16:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Live!"
       },
       {
          "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-canadian-university-chess-championship-2023",
          "pubDate" : "Fri, 10 Feb 2023 11:00:00 +0100",
          "title" : "Svitlana's Smart Moves - The Canadian University Chess Championship 2023"
+      },
+      {
+         "description" : "The knockout phase of the Airthings Masters took place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) were played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Fabiano Caruana and Samuel Sevian were crowned winners of each division. | Replay the games and check out each division's full brackets.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
+         "pubDate" : "Fri, 10 Feb 2023 10:50:00 +0100",
+         "title" : "Airthings Masters Knockout: Games and brackets"
       },
       {
          "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets Magnus []",
@@ -1186,14 +1218,6 @@ news_feed (
          "title" : "Sergio Pereira wins FIDE Zone 4.3 Individual Championship"
       },
       {
-         "description" : "Since the early 21st century, the consensus among specialized historians is that the birth of modern chess took place in the ancient Kingdom of Valencia. Francesc Vicent was the author of the first known treatise on modern chess, the 'Llibre dels jochs partits dels scachs en nombre de 100', printed in Valencia on May 15, 1495. In an article for 'Pe&oacute;n de Rey' Magazine, Sergi N&uacute;ñez and Francisco Rubio explain why a line in the Scandinavian Opening should be named 'the Valencia variation'.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-valencian-variation-in-the-scandinavian",
-         "pubDate" : "Wed, 01 Feb 2023 21:23:22 +0100",
-         "title" : "The Valencia variation in the Scandinavian"
-      },
-      {
          "description" : "For the third week in a row, GM Hikaru Nakamura took home first place in a Titled Tuesday tournament. This week it earned him $2,000 of a $5,000 prize fund in the early event on January 31. Normal prizes resumed for the late tournament, won by GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1474,14 +1498,6 @@ news_feed (
          "title" : "Lucky Lucena"
       },
       {
-         "description" : "On a suspenseful final day, GM Anish Giri won the 2023 Tata Steel Chess Tournament with his triumph over GM Richard Rapport, his first victory in the super-tournament after finishing as the runner-up five times. This tournament victory was made po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-13",
-         "pubDate" : "Sun, 29 Jan 2023 09:25:00 -0800",
-         "title" : "Giri Wins On Demand To Finish 1st In Tata Steel Chess Masters"
-      },
-      {
          "description" : "While it's true that in the mechanical world the squeaking wheel gets the oil and in the online world the loudest 'influencers' get the most views, it's often their softer-spoken brethren who end up making the biggest difference. That's this month's thought to introduce the latest post in this blog's long-running series about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/cVEbsXRW9Tw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfull",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-12-abdusattorov-on-brink-as-carlsen-misses-win",
          "pubDate" : "Sun, 29 Jan 2023 08:36:17 +0000",
          "title" : "Tata Steel 12: Abdusattorov on brink as Carlsen misses win"
-      },
-      {
-         "description" : "With a seamless draw vs. GM Wesley So in the penultimate round, GM Nodirbek Abdusattorov enters the last day of the 2023 Tata Steel Chess Tournament still in the sole tournament lead. He&#39;s been at the forefront of the field since day one and held ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 28 Jan 2023 21:19:00 -0800",
-         "title" : "Clock Ticks Down on Abdusattorov's Rivals"
       },
       {
          "description" : "",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://www.thearticle.com/fide-russia-and-iran-an-interview-with-shohreh-bayat/",
          "pubDate" : "Sat, 21 Jan 2023 13:15:33 +0000",
          "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2182",
-         "pubDate" : "Fri, 20 Jan 2023 23:00:57 +0000",
-         "title" : "Tata Steel Masters: Abdusattorov stays in front"
       }
    ]
 }
