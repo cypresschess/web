@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 Lifeline Bookfair was once again incredibly popular (and crowded). Once again I got there early, and was part of the first wave of buyers. Unfortunately this years chess collection was both a little smaller than the last few years, and mainly consisted of books I already owned. As a result I did not add to my chess collection, but did pick up other books of interest (A 1948 Tourist Guide to London for example) One item I did see, but not buy, was a Kasparov 2000 RISC chess computer. It was only $60 but a lack of storage space in my study made the decision for me. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/2023-lifeline-bookfair.html",
+         "pubDate" : "Sat, 11 Feb 2023 11:53:00 +0000",
+         "title" : "2023 Lifeline Bookfair"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2226",
+         "pubDate" : "Sat, 11 Feb 2023 11:32:23 +0000",
+         "title" : "Robert Katende: Have a heart that loves people no matter who they are"
+      },
+      {
+         "description" : "In the 8th round of the Munich Grand Prix on Friday, Alexandra Kosteniuk won against Anna Muzychuk to increase her score to 6.5/8. Nana Dzagnidze, who was second to Kosteniuk before the round, lost to Elisabeth P&auml;htz and dropped to third place, where she is now level on points with P&auml;htz. The new runner-up is Humpy Koneru after her win over Alina Kashlinskaya. Kosteniuk's lead over Humpy is 1.5 points with three rounds to go. | Photos: Mark Livshitz (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-8-kosteniuk-remains-clear-first",
+         "pubDate" : "Sat, 11 Feb 2023 12:17:09 +0100",
+         "title" : "Women's Grand Prix, Round 8: Kosteniuk remains clear first"
+      },
+      {
+         "description" : "FIDE, ISF (the International School Sport Federation) and World Chess announced the FIDE ISF World School Teams Online Chess Cup 2023, taking place in March 2023. This exciting event provides a platform for schools from FIDE and ISF member countries, as well as students from around the world* (&#xA0;*Except for schools from Russia and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-announces-isf-world-school-teams-chess-cup-2023/",
+         "pubDate" : "Sat, 11 Feb 2023 09:32:00 +0000",
+         "title" : "FIDE announces ISF World School Teams Chess Cup 2023"
+      },
+      {
+         "description" : "The VII Open Internacional de Ajedrez Semana Santa will take place from 5th to 10th April 2023 in Alicante, La Nucia in Spain. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/open-internacional-de-ajedrez-semana-santa-2023/",
+         "pubDate" : "Sat, 11 Feb 2023 09:22:21 +0000",
+         "title" : "Open Internacional de Ajedrez Semana Santa 2023"
+      },
+      {
+         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters took place from 6-10 February on chess.com. The event was played in 3 Divisions of 8, 16 and 32 players with the Grand Final seeing the clash between the Winners of the Winners and Losers brackets &#x2013;&#160;Magnus Carlsen&#160;and&#160;Hikaru Nakamura. World Chess Champion&#160;Magnus Carlsen&#160;opened []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/summary-of-the-airthings-masters-grand-final-tweetoftheday/",
+         "pubDate" : "Sat, 11 Feb 2023 09:01:33 +0000",
+         "title" : "Summary of the Airthings Masters Grand Final #TweetOftheDay"
+      },
+      {
+         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, took place from 6-10 February. The event was played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout and a total prize fund of $235.000. The Grand Final saw the clash between the Winners of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wins-airthings-masters-2023/",
+         "pubDate" : "Sat, 11 Feb 2023 08:50:23 +0000",
+         "title" : "Magnus Carlsen wins Airthings Masters 2023"
+      },
+      {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-9-live/",
+         "pubDate" : "Sat, 11 Feb 2023 08:34:25 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Round 9 live"
+      },
+      {
+         "description" : "The Lilla Elite Hotels Open is taking place from 10-12 February 2023 in Vaxjo, Sweden. The tournament is part of the Swedish Gran Prix. The first four rounds are played on Friday with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lilla-elite-hotels-open-u1600-2023-live/",
+         "pubDate" : "Sat, 11 Feb 2023 08:33:00 +0000",
+         "title" : "Lilla Elite Hotels Open U1600 2023 - LIVE"
+      },
+      {
          "description" : "The Elite Hotels Open is taking place from 10-12 February 2023 in Vaxjo, Sweden. The tournament is part of the Swedish Gran Prix. The first four rounds are played on Friday with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining rounds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,14 +170,6 @@ news_feed (
          "title" : "Daniel King's Power Play Show: Attacking in Vienna"
       },
       {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Fri, 10 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
-      },
-      {
          "description" : " We looked at the use of Knight (and Bishop) forks in a game last week. This week, we'll start looking at the forks you can create with the other pieces, including the King, and even the lowly pawn. The fork can be a powerful weapon and is often the first tactic the beginner learns. However, <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\">A Foundation for Beginners Eighty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -114,52 +178,12 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Three"
       },
       {
-         "description" : "The Napoleon Chess Trophy 2023 is an exhibition taking place on 11th february 2023 in La Roche-sur-Yon. The French city was founded by Napoleon Bonaparte more than 200 years ago. The Trophy commemorates the famous Emperor and chess player. Qualifying tournament : round-robin (players face their opponent one time with White and one time with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/napoleon-chess-trophy-2023-live/",
-         "pubDate" : "Fri, 10 Feb 2023 11:54:30 +0000",
-         "title" : "Napoleon Chess Trophy 2023 - LIVE"
-      },
-      {
-         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#xA0;Magnus Carlsen&#xA0;and&#xA0;Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-grand-final-live-games/",
-         "pubDate" : "Fri, 10 Feb 2023 10:58:00 +0000",
-         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Grand Final - LIVE games"
-      },
-      {
-         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets &#x2013;&#160;Magnus Carlsen&#160;and&#160;Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-vs-hikaru-nakamura-airthings-masters-grand-final-live/",
-         "pubDate" : "Fri, 10 Feb 2023 10:47:50 +0000",
-         "title" : "Magnus Carlsen vs Hikaru Nakamura; Airthings Masters Grand Final LIVE"
-      },
-      {
          "description" : "Hikaru Nakamura beat Wesley So in Armageddon to set up a Grand Final rematch against Magnus Carlsen on the last day of the 2023 Airthings Masters. Wesley had earlier overcome Arjun Ergaisi to join Carlsen and Nakamura in securing a spot in Division I of the next Champions Chess Tour event in April. Fabiano Caruana and Yu Yangyi will fight it out for the remaining spot in the Division II final, while Sam Sevian won Division III.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/nakamura-sets-up-carlsen-rematch-in-airthings-masters-final",
          "pubDate" : "Fri, 10 Feb 2023 10:46:01 +0000",
          "title" : "Nakamura sets up Carlsen rematch in Airthings Masters final"
-      },
-      {
-         "description" : "After carefully considering the numerous applications received, the special panel appointed by the FIDE Council decided that these will be the twelve chess players, coaches, and promoters to benefit from the first instalment of FIDE's support to chess veterans in 2023: Yochanan Afek (Israel)Igor Yarmonov (Ukraine)Jes&#xFA;s Nogueiras (Cuba)Valeri Beim (Austria)Elmira Aliyeva (Azerbaijan)Irina Chelushkina (Serbia)Nukhim Rashkovsky []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-distributes-e30000-among-chess-veterans/",
-         "pubDate" : "Fri, 10 Feb 2023 10:10:54 +0000",
-         "title" : "FIDE distributes €30,000 among chess veterans"
-      },
-      {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-8-live/",
-         "pubDate" : "Fri, 10 Feb 2023 10:02:22 +0000",
-         "title" : "FIDE Women Grand Prix Munich - Round 8 live"
       },
       {
          "description" : "After a long time, Svitlana was finally able to play some chess again in the Canadian University Chess Championship 2023. With 4 out of 5, she had a great tournament. We take a look at two of her games, where we specifically analyse her two opening choices. Especially the move 3. .. h6 in the Queen's Gambit, is often unpleasant for White, and Svitlana pulls off a great victory with loads of tactical patterns. In the second game, the London system does the job, and the game is pretty much over after less than 20 moves.",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
          "pubDate" : "Fri, 10 Feb 2023 10:50:00 +0100",
          "title" : "Airthings Masters Knockout: Games and brackets"
-      },
-      {
-         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. The Grand Final will see the clash between the Winners of the Winners and Losers brackets Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-wins-airthings-masters-losers-final-to-get-his-second-chance-against-carlsen/",
-         "pubDate" : "Fri, 10 Feb 2023 09:41:00 +0000",
-         "title" : "Nakamura wins Airthings Masters Losers Final to get his second chance against Carlsen"
       },
       {
          "description" : "In his 'Fast & Furious' show, Robert Ris looks back at a rollercoaster game, in which Ian Nepomniachtchi used the Deferred Steinitz Variation of the Ruy Lopez to initiate an early (and eventually successful) attack on the kingside. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
