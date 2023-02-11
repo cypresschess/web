@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Leon Mendonca is now playing for the Schachbundesliga team HSK in Hamburg, just like Nihal Sarin. Leon visited us a couple of times already, and was brave enough to face Arne Kaehler in the Rapid Interview, using the legendary Garde chess clock. | Photo: Twitter Leon Mendonca with Frederic Friedel",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-interview-leon-mendonca",
+         "pubDate" : "Sat, 11 Feb 2023 18:00:00 +0100",
+         "title" : "Rapid Interview - Leon Mendonca"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Jorge Vega Fernandez (1935-2023)"
       },
       {
-         "description" : "A powerful new voice has arisen in the world of chess literature. Howard Burton is an independent film maker and author. He is the brain behind the new book: Chessays: Travels through the world of chess and creator of the companion four part documentary: Through the Mirror of Chess A cultural exploration. Howard is a true, very well []",
+         "description" : "Indian Proverb: Chess is a sea in which a gnat may bathe and an elephant may drink. A powerful new voice has arisen in the world of chess literature. Howard Burton is an independent film maker and author. He is the Brain behind the new book: Chessays: Travels through the world of chess and creator of the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
@@ -1178,14 +1186,6 @@ news_feed (
          "title" : "European Cities and Towns Chess Championships result"
       },
       {
-         "description" : "On Wednesday the second Women's Grand Prix Tournament of the 2022-23 Series was ceremonially opened at the Vier Jahreszeiten Kempinski Hotel in Munich. Twelve top players are fighting to qualify for the Candidates Tournament. The first round will start at 15.00 CET. | Photos: David Llada/FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dana-reizniece-ozola-welcomes-the-chess-queens-to-munich",
-         "pubDate" : "Thu, 02 Feb 2023 13:59:22 +0100",
-         "title" : "Dana Reizniece-Ozola welcomes the chess queens to Munich"
-      },
-      {
          "description" : " You would think that the list of mangled chess rules would eventually have an end point, but it turns out there are always new additions. Courtesy of Jovan Petronic comes a slightly different take on how a pawn operates. Along with the usual 2 squares at the star, and promotion when it reaches the end of the board, there is an additional, previously unknown power. \"The player whose pawn captures the queen can also get back one piece he has lost or gain one additional piece\" If this bizarre rule has anything going for it, it is that it will reduce the number of queen exchanges (\"12.Qxd6 cxd6 sucker!\") <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2183",
          "pubDate" : "Sat, 21 Jan 2023 23:23:12 +0000",
          "title" : "Tata Steel Masters: Abdusattorov pulls away after Round 7"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov won another impressive game today beating Arjun Erigaisi. This means the 18 year old Uzbek extended his lead to a full point on 5.5/7 after his closest rivals Anish Giri and Fabiano Caruana both drew. Caruana was on the defensive for the early part of the game before Parham Maghsoodloo overpressed and was lost. Caruana could not find a way to convert in a long and tiring game of 106 moves. R Praggnanandhaa moved into joint second with a very good win against Jorden Van Foreest, he has been very solid so far. Wesley So also moved into joint second with a win against D Gukesh who is having a very tough time. The other winner was Magnus Carlsen who returned to a 50% score",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-by-a-point-after-7-rounds-of-the-tata-steel-masters",
-         "pubDate" : "Sat, 21 Jan 2023 21:17:00 +0400",
-         "title" : "Abdusattorov leads by a point after 7 rounds of the Tata Steel Masters - 7"
       }
    ]
 }
