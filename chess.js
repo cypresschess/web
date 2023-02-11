@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Elite Hotels Open is taking place from 10-12 February 2023 in Vaxjo, Sweden. The tournament is part of the Swedish Gran Prix. The first four rounds are played on Friday with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining rounds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/elite-hotels-open-swedish-grand-prix-2023-live/",
+         "pubDate" : "Sat, 11 Feb 2023 08:28:22 +0000",
+         "title" : "Elite Hotels Open Swedish Grand Prix 2023 - LIVE"
+      },
+      {
+         "description" : "The Aarhus Championship Master 2 2023 is taking place from 10-12 February 2023 in Aarhus, Denmark. The tiem control is 90 minutes for 40 moves, plus 30 minutes for the rest of the game, plus a 30-second increment per move starting from move 1. It is a 6-player round-robin with Gunnar Pedersen, Poul Rewitz, Nina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aarhus-championship-master-2-2023-live/",
+         "pubDate" : "Sat, 11 Feb 2023 08:21:04 +0000",
+         "title" : "Aarhus Championship Master 2 2023 - LIVE"
+      },
+      {
+         "description" : "The Aarhus Championship Master 1 2023 is taking place from 10-12 February 2023 in Aarhus, Denmark. The tiem control is 90 minutes for 40 moves, plus 30 minutes for the rest of the game, plus a 30-second increment per move starting from move 1.&#xA0;It is a 6-player round-robin with Filip Boe Olsen, Rasmus Thogersen, Jens []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aarhus-championship-master-1-2023-live/",
+         "pubDate" : "Sat, 11 Feb 2023 08:15:13 +0000",
+         "title" : "Aarhus Championship Master 1 2023 - LIVE"
+      },
+      {
+         "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hanging-attackers",
+         "pubDate" : "Sat, 11 Feb 2023 09:00:00 +0100",
+         "title" : "Hanging attackers"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) Alexandra Kosteniuk increased her lead this afternoon in the Munich leg of the 2023 Women&#x2019;s Grand Prix after a fine performance against Anna Muzychuk. With 6.5/8, and with only three games to go, she is the clear favourite to take home the trophy.&#160; &#160;&#x201C;My husband &#x2013; GM Pavel Tregubov []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-keeps-the-sole-lead-at-fide-women-grand-prix-munich/",
+         "pubDate" : "Sat, 11 Feb 2023 07:39:00 +0000",
+         "title" : "Alexandra Kosteniuk keeps the sole lead at the FIDE Women Grand Prix Munich"
+      },
+      {
          "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -146,14 +186,6 @@ news_feed (
          "title" : "Nakamura wins Airthings Masters Losers Final to get his second chance against Carlsen"
       },
       {
-         "description" : "By IM Michael Rahal (Munich, Germany) After a stunning performance this afternoon against Alina Kashlinskaya, Nana Dzagnidze closed in on tournament leader Alexandra Kosteniuk, and with four rounds to go, it's all up for grabs. The former 2017 European Women's Champion from Georgia displayed her excellent skills handling the white side of a classical King's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dzagnidze-closes-the-gap-fide-women-grand-prix-munich-r7-recap/",
-         "pubDate" : "Fri, 10 Feb 2023 09:28:16 +0000",
-         "title" : "Dzagnidze closes the gap - FIDE Women Grand Prix Munich R7 recap"
-      },
-      {
          "description" : "In his 'Fast & Furious' show, Robert Ris looks back at a rollercoaster game, in which Ian Nepomniachtchi used the Deferred Steinitz Variation of the Ruy Lopez to initiate an early (and eventually successful) attack on the kingside. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -250,36 +282,12 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Entries passed 100"
       },
       {
-         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final will see []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-vs-arjun-erigaisi-for-the-2023-airthings-masters-losers-finals/",
-         "pubDate" : "Thu, 09 Feb 2023 12:12:53 +0000",
-         "title" : "Wesley So vs Arjun Erigaisi for the 2023 Airthings Masters Losers Finals"
-      },
-      {
          "description" : "Magnus Carlsen is the first player through to the Grand Final of the top division of the Airthings Masters after bidding just one second less than his great rival Hikaru Nakamura to get the black pieces in Armageddon. Hikaru can still reach that final, but he'll first have to beat either Wesley So or Arjun Erigaisi, who knocked out Alexey Sarana and Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-credits-soul-read-as-he-beats-nakamura",
          "pubDate" : "Thu, 09 Feb 2023 12:08:37 +0000",
          "title" : "Carlsen credits \"soul read\" as he beats Nakamura"
-      },
-      {
-         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final will see []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/airthings-masters-losers-bracket-live/",
-         "pubDate" : "Thu, 09 Feb 2023 11:58:08 +0000",
-         "title" : "Airthings Masters - Losers Bracket LIVE"
-      },
-      {
-         "description" : "The 1st event on the $2 Million 2023 Champions Chess Tour &#x2013; Aithings Masters, takes place from 6-10 February. The event is played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout. Losers drop down to a losers bracket and can still win the tournament. The Grand Final []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-defeats-hikaru-nakamura-in-the-airthings-masters-winners-final/",
-         "pubDate" : "Thu, 09 Feb 2023 11:42:39 +0000",
-         "title" : "Magnus Carlsen defeats Hikaru Nakamura in the Airthings Masters Winners Final"
       },
       {
          "description" : "One of the most common things that chess players obsessed with Elo ratings (which is almost all of them) do when selecting tournaments to play is to look at the nationality of the players already entered, to see if they come from countries that are considered to have \"deflated\" ratings or \"inflated\" ratings, which might add to the attraction of playing. Javier Perea analyses the phenomenon.",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-svetozar-gligoric-2-february-1923-14-august-2012",
          "pubDate" : "Thu, 02 Feb 2023 12:00:00 +0100",
          "title" : "Remembering Svetozar Gligoric: 2 February 1923 - 14 August 2012"
-      },
-      {
-         "description" : "The two Dutch top players Anish Giri and Jorden van Foreest once again cut a very good figure in the Tata Steel Chess Masters. Anish Giri even managed to beat Magnus Carlsen and win the tournament for the first time. On Tuesday evening, the two chess grandmasters were guests on the popular Dutch talk show \"Khalid & Sophie\" and explained how chess and chess training works.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/khalid-sophie-talk-with-anish-and-jorden",
-         "pubDate" : "Thu, 02 Feb 2023 11:53:35 +0100",
-         "title" : "Khalid & Sophie talk with Anish & Jorden"
       },
       {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation organised a Senior National Arbiter Seminar &#38; Examination at Adhiyamaan College of Engineering,",
