@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2227",
+         "pubDate" : "Sat, 11 Feb 2023 15:34:22 +0000",
+         "title" : "Jorge Vega Fernandez (1935-2023)"
+      },
+      {
+         "description" : "A powerful new voice has arisen in the world of chess literature. Howard Burton is an independent film maker and author. He is the brain behind the new book: Chessays: Travels through the world of chess and creator of the companion four part documentary: Through the Mirror of Chess A cultural exploration. Howard is a true, very well []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
+         "pubDate" : "Sat, 11 Feb 2023 14:14:35 +0000",
+         "title" : "A mirror into the soul of chess"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Sat, 11 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
          "description" : " The 2023 Lifeline Bookfair was once again incredibly popular (and crowded). Once again I got there early, and was part of the first wave of buyers. Unfortunately this years chess collection was both a little smaller than the last few years, and mainly consisted of books I already owned. As a result I did not add to my chess collection, but did pick up other books of interest (A 1948 Tourist Guide to London for example) One item I did see, but not buy, was a Kasparov 2000 RISC chess computer. It was only $60 but a lack of storage space in my study made the decision for me. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Another oddball rule"
       },
       {
-         "description" : "Today, chess legend Svetozar Gligoric, who passed away in 2012, would have turned 100 years old. In World War II he fought as a partisan against the Germans, and after the war he became one of the world's best chess players. He was very popular among his peers and even managed to be friends with Bobby Fischer. Dagobert Kohlmeyer remembers the King's Indian expert. | Photos: Dagobert Kohlmeyer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-svetozar-gligoric-2-february-1923-14-august-2012",
-         "pubDate" : "Thu, 02 Feb 2023 12:00:00 +0100",
-         "title" : "Remembering Svetozar Gligoric: 2 February 1923 - 14 August 2012"
-      },
-      {
          "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation organised a Senior National Arbiter Seminar &#38; Examination at Adhiyamaan College of Engineering,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1896,22 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-by-a-point-after-7-rounds-of-the-tata-steel-masters",
          "pubDate" : "Sat, 21 Jan 2023 21:17:00 +0400",
          "title" : "Abdusattorov leads by a point after 7 rounds of the Tata Steel Masters - 7"
-      },
-      {
-         "description" : " The 2023 Oceania Zonal starts on Monday 22nd January in Melbourne. In what may well be the largest Zonal ever held anywhere, there are over 250 players in the Open, and another 42 in the Women's event. While there is a chance to qualify for the next FIDE World Cup (1 spot only!), the real attraction is the chance to receive a direct title. A score of 50% is required for a CM title, while a score of 66% is need for an FM title. Players earning this title must also have a FIDE rating over 2000 for the CM title, and 2100 for the FM title, at some point in their career. For online coverage just visit the tournament website at <a href=\"https://sites.google.com/view/2023oceaniazonals/home\">https:",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal.html",
-         "pubDate" : "Sat, 21 Jan 2023 13:36:00 +0000",
-         "title" : "2023 Oceania Zonal"
-      },
-      {
-         "description" : "Shohreh Bayat, the world's most celebrated chess arbiter, is once again in the global chess headlines. Shohreh, it will be recalled, attracted the wrath of the Iranian Ayatollahs when she was photographed during her arbiting work, wearing her hijab in a slightly unorthodox position. Justifiably fearing reprisals if she returned to Iran, Shohreh successfully sought and was []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/fide-russia-and-iran-an-interview-with-shohreh-bayat/",
-         "pubDate" : "Sat, 21 Jan 2023 13:15:33 +0000",
-         "title" : "FIDÉ, Russia and Iran: an interview with Shohreh Bayat"
       }
    ]
 }
