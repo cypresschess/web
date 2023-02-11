@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-beats-nakamura-to-win-the-airthings-masters",
+         "pubDate" : "Sat, 11 Feb 2023 02:02:21 +0000",
+         "title" : "Carlsen beats Nakamura to win the Airthings Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-8",
-         "pubDate" : "Fri, 10 Feb 2023 15:35:07 -0800",
+         "pubDate" : "Fri, 10 Feb 2023 15:35:00 -0800",
          "title" : "Bishop Endgames Star As Kosteniuk Extends Lead"
       },
       {
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Carlsen beats Nakamura again, wins Airthings Masters"
       },
       {
-         "description" : "GM Magnus Carlsen won the&#38;nbsp;Champions Chess Tour Airthings Masters 2023 Division I after defeating GM Hikaru Nakamura in the Grand Final. He won the first game, and despite a major scare in game three, managed to draw the rest to consolidate hi...",
+         "description" : "GM Magnus Carlsen won the&#38;nbsp;Champions Chess Tour Airthings Masters 2023 Division I after defeating GM Hikaru Nakamura in the Grand Final. He won the first game and, despite a major scare in game three, managed to draw the rest to consolidate hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-5-carlsen-wins",
          "pubDate" : "Fri, 10 Feb 2023 12:58:00 -0800",
-         "title" : "Carlsen Wins Rematch Vs. Nakamura, Caruana, Sevian Win Divisions 2-3"
+         "title" : "Carlsen Wins Rematch Vs. Nakamura; Caruana, Sevian Win Divisions 2-3"
       },
       {
          "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2184",
          "pubDate" : "Sun, 22 Jan 2023 11:37:12 +0000",
          "title" : "Ter-Sahakyan and Gevorgyan win Armenian championship"
-      },
-      {
-         "description" : "18-year-old Nodirbek Abdusattorov's reign of terror continued in the Tata Steel Masters as he counterattacked against Arjun Erigaisi to pick up a 4th win in just seven rounds. Magnus Carlsen won a sharp battle against Richard Rapport to get back on track, while Wesley So and Praggnanandhaa also won to join a 4-way tie for 2nd place. Fabiano Caruana missed a win in a 7-hour marathon against Parham Maghsoodloo.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-7-abdusattorov-extends-his-lead",
-         "pubDate" : "Sun, 22 Jan 2023 10:47:25 +0000",
-         "title" : "Tata Steel Chess 7: Abdusattorov extends his lead"
       },
       {
          "description" : " Some of you will be aware that I write regular book reviews for British Chess News. Three of the books I've reviewed recently might be of interest to Chess Improvers like you. They all cover, at least in part, tactics and calculation. They're three very different books written by very different authors, and with very <a href=\"https://chessimprover.com/some-recent-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Some Recent Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/some-recent-books/\">Some Recent Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
