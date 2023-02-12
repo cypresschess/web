@@ -1888,14 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2185",
          "pubDate" : "Sun, 22 Jan 2023 23:37:41 +0000",
          "title" : "Tata Steel Masters: Abdusattorov is in front going into second rest day"
-      },
-      {
-         "description" : "Hmmm. I'm starting to detect a trend here. Just a few months ago we had <A HREF=\"https://chessforallages.blogspot.com/2022/10/donald-trump-chess-master.html\">Donald Trump, Chess Master</A>(October 2022; 'In the world of AI, Trump plays chess'). Now we have this. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na22.gif\" WIDTH=400 HEIGHT=265><BR><B>Upper left corner:</B><A HREF=\"https://www.flickr.com/photos/marc-frant/52642486166/\">DALL-E : An oil painting by Vinci of a humanoid robot playing chess</A>&#169; Flickr user <I>Marc Frant</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>. <P>The image had no additional description, but this i",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html",
-         "pubDate" : "Sun, 22 Jan 2023 16:35:00 +0000",
-         "title" : "DALL-E Chess Revisited"
       }
    ]
 }
