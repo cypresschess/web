@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Humpy Koneru moved within striking range of the leader, GM Alexandra Kosteniuk, with a win vs. GM Elisabeth Paehtz&#38;nbsp;in round nine of the FIDE Women&#39;s Grand Prix. Koneru has been in second for much of the event, currently trailing by a point...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-9",
+         "pubDate" : "Sat, 11 Feb 2023 15:18:42 -0800",
+         "title" : "Koneru Reaches Striking Range of Kosteniuk, Upcoming Head-to-Head Looms"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2228",
+         "pubDate" : "Sat, 11 Feb 2023 22:16:33 +0000",
+         "title" : "WGP Munich: Koneru or Kosteniuk - who will prevail? "
+      },
+      {
          "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Leon Mendonca is now playing for the Schachbundesliga team HSK in Hamburg, just like Nihal Sarin. Leon visited us a couple of times already, and was brave enough to face Arne Kaehler in the Rapid Interview, using the legendary Garde chess clock. | Photo: Twitter Leon Mendonca with Frederic Friedel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1426,14 +1442,6 @@ news_feed (
          "title" : "Everything new in ChessBase 17"
       },
       {
-         "description" : "Was it a hack&#38;mdash;or was it for real? Anya Taylor-Joy&#39;s Twitter account sparked a flurry of interest on Monday when she appeared to tease a new season of The Queen&#39;s Gambit. The actor, who starred as Beth Harmon in the hit Netflix series, post...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anya-taylor-joy-queens-gambit-2",
-         "pubDate" : "Mon, 30 Jan 2023 11:07:00 -0800",
-         "title" : "Anya Taylor-Joy Clarifies Queen's Gambit 2 Tweet, Claims She Was Hacked"
-      },
-      {
          "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023), I opened, <BLOCKQUOTE>For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. </BLOCKQUOTE> <P>This was also flagged in a Talkchess thread. <UL><LI>2023-01-14: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=81339\">Lc0 wins TCEC Cup 11 Final</A>(talkchess.com) &#149; 'When was the last time Stockfish lost a final? Stockfish is getting weaker and weaker. [...] Or maybe the opponents get stronger.' </UL> <P>Or maybe it's a typical example showing that rating i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1896,14 +1904,6 @@ news_feed (
          "link" : "https://chessimprover.com/some-recent-books/",
          "pubDate" : "Sun, 22 Jan 2023 09:00:24 +0000",
          "title" : "Some Recent Books"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2183",
-         "pubDate" : "Sat, 21 Jan 2023 23:23:12 +0000",
-         "title" : "Tata Steel Masters: Abdusattorov pulls away after Round 7"
       }
    ]
 }
