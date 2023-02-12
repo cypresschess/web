@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Dear Drum Community!The Chess Drum is 22 today! On this day, I hit the &#8220;enter&#8221; key to make the site live and it has been an eye-opening journey for me. I remember the early days when there was an initial excitement when the crude 13-page site was launched. The excitement was not because the site The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/\">The Chess Drum is 22!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/",
+         "pubDate" : "Sun, 12 Feb 2023 05:36:08 +0000",
+         "title" : "The Chess Drum is 22!"
+      },
+      {
          "description" : "GM Humpy Koneru moved within striking range of the leader, GM Alexandra Kosteniuk, with a win vs. GM Elisabeth Paehtz&#38;nbsp;in round nine of the FIDE Women&#39;s Grand Prix. Koneru has been in second for much of the event, currently trailing by a point...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
