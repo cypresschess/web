@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 112th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-2",
+         "pubDate" : "Sun, 12 Feb 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 112: Play the Sicilian (13)"
+      },
+      {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Sun, 12 Feb 2023 14:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : " I decided to test out the <a href=\"http://clono.no\">Clono</a> system at Street Chess yesterday. For anyone not familiar, it is an electronic scoresheet and game broadcast system that has recently been approved by FIDE* It runs on android devices, with the intended platform being 7 to 10 inch tablets. What I was testing was the feasibility of broadcasting games played at Street Chess in realtime I provided a 7 inch android tablet to one of the players, to see how easy it was to (a) set up at my end and (b) to record a game in a rapidplay event (15 minutes per game). It turns out that while the concept is good, it currently needs a lot of improvements to be practical. The main issue I had as ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/clono-quick-review.html",
+         "pubDate" : "Sun, 12 Feb 2023 13:08:00 +0000",
+         "title" : "Clono - a quick review"
+      },
+      {
          "description" : "In round 9 of the FIDE Women's Grand Prix in Munich, Alexandra Kosteniuk drew with Black against Nana Dzagnidze and now leads the tournament with 7.0/9. One point behind follows Humpy Koneru who won against Elisabeth P&auml;htz. In round 10 on Sunday Kosteniuk and Koneru will play against each other. The symbolic first move in the game between Zhansaya Abdumalik and Dinara Wagner was made by Maja Buchholz, German Champion U16 Girls 2022. | Photos: Mark Livshitz (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1114,28 +1138,12 @@ news_feed (
          "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
       },
       {
-         "description" : "Artur Jussupow belonged to the absolute top of the world during his active time and after moving to Germany he opened a successful chess school together with his wife. At the Staufer Open Martin Hahn had the opportunity to interview the former World Championship candidate. Among other things, the grandmaster talked about chess training, cheating in chess, and the best junior players. | Photos: German Chess Federation (Bernd V&ouml;kler)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-are-at-a-dangerous-point-an-interwiew-with-artur-jussupow",
-         "pubDate" : "Fri, 03 Feb 2023 09:00:00 +0100",
-         "title" : "\"We are at a dangerous point\" - An interwiew with Artur Jussupow"
-      },
-      {
          "description" : "Indian juggernaut going well and drew 2:2 against Hungary . It is indeed a splendid performance from Indian team in 1st Fide Chess Olympiad for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-4/",
          "pubDate" : "Fri, 03 Feb 2023 07:12:33 +0000",
          "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 4"
-      },
-      {
-         "description" : "The second stage of the 2022-23 Women's Grand Prix kicked off in Munich, the capital and most populous city of the German state of Bavaria. Four out of six games finished decisively, with Tan Zhongyi (pictured), Alexandra Kosteniuk, Nana Dzagnidze and Elisabeth Paehtz grabbing wins in the first round of the two-week event. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r1",
-         "pubDate" : "Fri, 03 Feb 2023 06:40:00 +0100",
-         "title" : "Munich GP: Four winners on day one"
       },
       {
          "description" : "The second leg of the 2022-2023 FIDE Women&#39;s Grand Prix kicked off with four decisive games in round one, featuring ferocious king attacks by GMs Tan Zhongyi, Nana Dzagnidze, Alexandra Kosteniuk, and Elisabeth Paehtz.&#38;nbsp; How to watch? The gam...",
@@ -1888,14 +1896,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html",
          "pubDate" : "Sun, 22 Jan 2023 16:35:00 +0000",
          "title" : "DALL-E Chess Revisited"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov kept a one point lead after drawing his eighth round game against Levon Aronian. There was some tired looking play today and Fabiano Caruana and Parham Maghsoodloo seemed to pay the price for their marathon effort in round 7. Both lost, Caruana blundering against Magnus Carlsen and Maghsoodloo lost to tail ender D Gukesh. This was Gukesh's first win, and surprisingly two other players, Richard Rapport and Jorden Van Foreest also scored their first victories. Carlsen said that his win certainly improved his chances of a decent result, perhaps it's a bit late for first. Abdusattorov, Giri and So have yet to face each other so the tournament is far from decided. Masters R",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-the-tata-steel-masters-with-68-going-into-the-second-rest-day",
-         "pubDate" : "Sun, 22 Jan 2023 19:09:00 +0400",
-         "title" : "Abdusattorov leads the Tata Steel Masters with 6/8 going into the second rest day - 8"
       }
    ]
 }
