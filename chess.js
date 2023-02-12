@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-9",
-         "pubDate" : "Sat, 11 Feb 2023 15:18:42 -0800",
+         "pubDate" : "Sat, 11 Feb 2023 15:18:00 -0800",
          "title" : "Koneru Reaches Striking Range of Kosteniuk, Upcoming Head-to-Head Looms"
       },
       {
