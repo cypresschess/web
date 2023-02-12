@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In round 9 of the FIDE Women's Grand Prix in Munich, Alexandra Kosteniuk drew with Black against Nana Dzagnidze and now leads the tournament with 7.0/9. One point behind follows Humpy Koneru who won against Elisabeth P&auml;htz. In round 10 on Sunday Kosteniuk and Koneru will play against each other. The symbolic first move in the game between Zhansaya Abdumalik and Dinara Wagner was made by Maja Buchholz, German Champion U16 Girls 2022. | Photos: Mark Livshitz (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-9-alexandra-kosteniuk-defends-lead-but-humpy-koneru-still-has-chances",
+         "pubDate" : "Sun, 12 Feb 2023 12:39:30 +0100",
+         "title" : "Women's Grand Prix, Round 9: Alexandra Kosteniuk defends lead, but Humpy Koneru still has chances"
+      },
+      {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-10-live/",
+         "pubDate" : "Sun, 12 Feb 2023 10:06:04 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Round 10 live"
+      },
+      {
+         "description" : "The Slav has a reputation for being a (very) solid opening. But there are ways to play it for a win and give your opponent difficult problems to solve. Dutch Grandmaster Sipke Ernst shows how in his course \"The Super Solid Slav Defence\". Hedinn Steingrimsson took a look at the course and liked what he saw.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-slav-by-sipke-ernst-a-review",
+         "pubDate" : "Sun, 12 Feb 2023 11:00:00 +0100",
+         "title" : "\"The Super Solid Slav Defense\" by Sipke Ernst - a review"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) The Munich Kempinski hotel witnessed this afternoon one of the most exciting rounds of the 2022-2023 Women's Grand Prix series.&#160; The round started with the ceremonial first move, played by the German U-16 female champion, Maja Buchholz, performed in the game between Zhansaya Abdumalik and Dinara Wagner.&#160; Perhaps the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kosteniuk-holds-the-lead-with-two-rounds-to-go-fide-women-grand-prix-munich-r9-recap/",
+         "pubDate" : "Sun, 12 Feb 2023 09:44:51 +0000",
+         "title" : "Kosteniuk holds the lead with two rounds to go; FIDE Women Grand Prix Munich - R9 recap"
+      },
+      {
          "description" : " Dear Drum Community!The Chess Drum is 22 today! On this day, I hit the &#8220;enter&#8221; key to make the site live and it has been an eye-opening journey for me. I remember the early days when there was an initial excitement when the crude 13-page site was launched. The excitement was not because the site The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/\">The Chess Drum is 22!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -48,14 +80,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
          "pubDate" : "Sat, 11 Feb 2023 14:14:35 +0000",
          "title" : "A mirror into the soul of chess"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Sat, 11 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : " The 2023 Lifeline Bookfair was once again incredibly popular (and crowded). Once again I got there early, and was part of the first wave of buyers. Unfortunately this years chess collection was both a little smaller than the last few years, and mainly consisted of books I already owned. As a result I did not add to my chess collection, but did pick up other books of interest (A 1948 Tourist Guide to London for example) One item I did see, but not buy, was a Kasparov 2000 RISC chess computer. It was only $60 but a lack of storage space in my study made the decision for me. <br /> ",
@@ -146,28 +170,12 @@ news_feed (
          "title" : "Aarhus Championship Master 2 2023 - LIVE"
       },
       {
-         "description" : "The Aarhus Championship Master 1 2023 is taking place from 10-12 February 2023 in Aarhus, Denmark. The tiem control is 90 minutes for 40 moves, plus 30 minutes for the rest of the game, plus a 30-second increment per move starting from move 1.&#xA0;It is a 6-player round-robin with Filip Boe Olsen, Rasmus Thogersen, Jens []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aarhus-championship-master-1-2023-live/",
-         "pubDate" : "Sat, 11 Feb 2023 08:15:13 +0000",
-         "title" : "Aarhus Championship Master 1 2023 - LIVE"
-      },
-      {
          "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hanging-attackers",
          "pubDate" : "Sat, 11 Feb 2023 09:00:00 +0100",
          "title" : "Hanging attackers"
-      },
-      {
-         "description" : "By IM Michael Rahal (Munich, Germany) Alexandra Kosteniuk increased her lead this afternoon in the Munich leg of the 2023 Women&#x2019;s Grand Prix after a fine performance against Anna Muzychuk. With 6.5/8, and with only three games to go, she is the clear favourite to take home the trophy.&#160; &#160;&#x201C;My husband &#x2013; GM Pavel Tregubov []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-keeps-the-sole-lead-at-fide-women-grand-prix-munich/",
-         "pubDate" : "Sat, 11 Feb 2023 07:39:00 +0000",
-         "title" : "Alexandra Kosteniuk keeps the sole lead at the FIDE Women Grand Prix Munich"
       },
       {
          "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
@@ -224,6 +232,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attacking-in-vienna",
          "pubDate" : "Fri, 10 Feb 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: Attacking in Vienna"
+      },
+      {
+         "description" : "My previous post on early chess web sites was <A HREF=\"https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html\">Wayback to Insidechess.com</A>(February 2023). There I made an initial observation about the Wayback record:- <BLOCKQUOTE>The first entry for a working site is <I>Inside Chess Online</I> (January 1999). It links to the Latest Issue (Volume 12, Issue 2, March 1999), with further links to three (out of a dozen) articles from the issue. </BLOCKQUOTE> <P>There are at least four layers of the past that apply to Insidechess.com:- <P><B>Chess history:</B>e.g. <A HREF=\"https://www.mark-weeks.com/chess/9899gkix.htm\">1998-99 World Chess Council ... and more</A>(m-w.com); ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html",
+         "pubDate" : "Fri, 10 Feb 2023 16:03:00 +0000",
+         "title" : "The Final Years of Insidechess.com"
       },
       {
          "description" : " We looked at the use of Knight (and Bishop) forks in a game last week. This week, we'll start looking at the forks you can create with the other pieces, including the King, and even the lowly pawn. The fork can be a powerful weapon and is often the first tactic the beginner learns. However, <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\">A Foundation for Beginners Eighty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
@@ -1194,14 +1210,6 @@ news_feed (
          "title" : "Abdusattorov enters top 20 Open in February 2023 rating list"
       },
       {
-         "description" : "In his \"Game of the Week\" show #553, Merijn van Delft takes a look at a historically important game: Anish Giri's win against Richard Rapport in the last round of the Tata Steel tournament in Wijk aan Zee, a game that helped Giri to win the prestigious tournament for the first time in his career. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-552-carlsen-abdusattorov-2",
-         "pubDate" : "Thu, 02 Feb 2023 16:35:26 +0100",
-         "title" : "Game of the Week #553: A. Giri vs R. Rapport"
-      },
-      {
          "description" : "On the 29th January 2023 in at the Mindsports Centre in Hammersmith three teams entered the European Cities and Towns Chess Championships organised by the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1888,30 +1896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-leads-the-tata-steel-masters-with-68-going-into-the-second-rest-day",
          "pubDate" : "Sun, 22 Jan 2023 19:09:00 +0400",
          "title" : "Abdusattorov leads the Tata Steel Masters with 6/8 going into the second rest day - 8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2179",
-         "pubDate" : "Sun, 22 Jan 2023 12:27:52 +0000",
-         "title" : "Women's Grand Prix Munich 2023: Pairings announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2184",
-         "pubDate" : "Sun, 22 Jan 2023 11:37:12 +0000",
-         "title" : "Ter-Sahakyan and Gevorgyan win Armenian championship"
-      },
-      {
-         "description" : " Some of you will be aware that I write regular book reviews for British Chess News. Three of the books I've reviewed recently might be of interest to Chess Improvers like you. They all cover, at least in part, tactics and calculation. They're three very different books written by very different authors, and with very <a href=\"https://chessimprover.com/some-recent-books/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Some Recent Books\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/some-recent-books/\">Some Recent Books</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/some-recent-books/",
-         "pubDate" : "Sun, 22 Jan 2023 09:00:24 +0000",
-         "title" : "Some Recent Books"
       }
    ]
 }
