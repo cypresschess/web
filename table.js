@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-02-11","298","<a href=http://www.uschess.org/msa/XtblMain.php?202302119082 target='_blank'>TCR: TCA REGION V SCHOLASTIC CHAMPIONSHIP 2023</a>",
+"SPRING","2023-02-10","32","<a href=http://www.uschess.org/msa/XtblMain.php?202302108402 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-02-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202302108332 target='_blank'>REBECCA CHESS CLUB QUADS FEB 10, 2023</a>",
 "CYPRESS","2023-02-10","30","<a href=http://www.uschess.org/msa/XtblMain.php?202302108262 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-02-04  - 02-05","58","<a href=http://www.uschess.org/msa/XtblMain.php?202302055802 target='_blank'>$3,000 HOUSTON CHESS STUDIO FEB 202</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2022-06-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202206259992 target='_blank'>F7JUNESCHOLASTIC</a>",
 "CYPRESS","2022-06-24","30","<a href=http://www.uschess.org/msa/XtblMain.php?202206249872 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2022-06-24","31","<a href=http://www.uschess.org/msa/XtblMain.php?202206249862 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-06-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202206249812 target='_blank'>FBCC06242022</a>",
-"LEAGUE CITY","2022-06-06  - 06-20","12","<a href=http://www.uschess.org/msa/XtblMain.php?202206201892 target='_blank'>CLCC JUNE22 MONDAYS</a>",
 ]);
