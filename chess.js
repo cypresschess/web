@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Chess Heroes: Checkmates (slightly retitled from Checkmates for Heroes) is now available on Amazon. This is the first of a series of four parallel books (the others feature tactics, openings and endings) designed to take readers or students from about 500 to 1500 strength. For social players (adult or junior) who would like to be <a href=\"https://chessimprover.com/chess-heroes-checkmates/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Checkmates\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-checkmates/\">Chess Heroes: Checkmates</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-checkmates/",
+         "pubDate" : "Mon, 13 Feb 2023 19:29:13 +0000",
+         "title" : "Chess Heroes: Checkmates"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added soon. GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Pe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-11-kosteniuk-wins",
+         "pubDate" : "Mon, 13 Feb 2023 10:04:31 -0800",
+         "title" : "Kosteniuk Loses Final Round, Still Claims Crown In Munich: Flash Report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2231",
+         "pubDate" : "Mon, 13 Feb 2023 18:02:36 +0000",
+         "title" : "Alexandra Kosteniuk wins 2023 Women's Grand Prix Munich "
+      },
+      {
+         "description" : "The 2023 Pro Chess League is upon us! Some of the game&#38;rsquo;s brightest stars have been divided into 16 teams and will be competing for their part of the $150,000 prize fund. Whether you&#38;rsquo;re a grandmaster or not, YOU can also win prizes as p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-prediction-contest",
+         "pubDate" : "Mon, 13 Feb 2023 09:42:58 -0800",
+         "title" : "2023 PCL Prediction Contest: Submit Your Predictions And Win Prizes"
+      },
+      {
+         "description" : "In his Endgame Magic Show #227 Karsten continues to show endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2",
+         "pubDate" : "Mon, 13 Feb 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #227: Endgame Highlights of the Tata Steel Tournament 2023 (Part 3)"
+      },
+      {
          "description" : "Magnus Carlsen stars for the Canada Chessbrahs as the Pro Chess League returns Tuesday, February 14 after a 3-year hiatus. The $150,000 tournament sees 16 teams battle it out over the the next five weeks before the Top 8 teams advance to playoffs. Fabiano Caruana, Hikaru Nakamura, Anish Giri and Women's World Champion Ju Wenjun are among the other players in action.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1098,14 +1138,6 @@ news_feed (
          "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 5"
       },
       {
-         "description" : "An entertaining second round at the Munich Grand Prix saw Alexandra Kosteniuk and Anna Muzychuk scoring wins with black, as they defeated local representatives Elisabeth Paehtz and Dinara Wagner, respectively. Three other games, albeit not decisive, were fiercely fought, with Humpy Koneru, Harika Dronavalli and Nana Dzagnidze showing great defensive skills to salvage half points. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r2",
-         "pubDate" : "Sat, 04 Feb 2023 07:00:00 +0100",
-         "title" : "Munich GP: Kosteniuk leads, German players make unfortunate blunders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1346,14 +1378,6 @@ news_feed (
          "title" : "Sergio Pereira wins FIDE Zone 4.3 Individual Championship"
       },
       {
-         "description" : "For the third week in a row, GM Hikaru Nakamura took home first place in a Titled Tuesday tournament. This week it earned him $2,000 of a $5,000 prize fund in the early event on January 31. Normal prizes resumed for the late tournament, won by GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-january-31-2023",
-         "pubDate" : "Wed, 01 Feb 2023 08:43:00 -0800",
-         "title" : "Deac Edges Out Carlsen After Nakamura Wins Another"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1368,14 +1392,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepo-and-ding-swap-places-before-their-match",
          "pubDate" : "Wed, 01 Feb 2023 14:14:00 +0000",
          "title" : "Nepo and Ding swap places before match"
-      },
-      {
-         "description" : "What if I told you that Chess.com, as you know it, is nothing but a lie? That the moves you play, the blunders you make... that the whole website is nothing but a prison designed to keep us from winning chess games? Unfortunately, I would be lyi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-ai-bots",
-         "pubDate" : "Wed, 01 Feb 2023 05:56:00 -0800",
-         "title" : "Battle Against The A.I. Bots!"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1888,14 +1904,6 @@ news_feed (
          "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-65/",
          "pubDate" : "Tue, 24 Jan 2023 10:47:36 +0000",
          "title" : "\"What Say You?\" The 1 Minute Challenge (65)"
-      },
-      {
-         "description" : "Yes, you read that title correctly. For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. For the previous fortnightly report on the continuous competitions conducted by the world's leading engine vs. engine operators, see <A HREF=\"https://chessforallages.blogspot.com/2023/01/tcec-cup-11-underway-ccc19-bullet-in.html\">TCEC Cup 11 Underway; CCC19 Bullet in Semifinals</A>(January 2023). Here's a summary:- <BLOCKQUOTE>TCEC: Engine ice4 won the S23 4k tournament ahead of 4ku and three other engines. The site then launched into 'Cup 11', which is currently in the Round-of-16 stage &#149; CCC: Four engines promoted from 'CCC19 Bullet Qualifier #2', and joined ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html",
-         "pubDate" : "Mon, 23 Jan 2023 16:50:00 +0000",
-         "title" : "LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet"
       }
    ]
 }
