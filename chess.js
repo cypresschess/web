@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
+         "pubDate" : "Mon, 13 Feb 2023 12:45:00 +0100",
+         "title" : "Women's Grand Prix in Munich - Live"
+      },
+      {
+         "description" : "The British band Depeche Mode is preparing a new album and has just released the title track in which the remaining founding members David Gahan and Martin Gore say goodbye to their friend and colleague Andy Fletcher, who died last year. The chessboard images in the music video quote Ingmar Bergman's famous film \"The Seventh Seal\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/depeche-mode-we-know-we-ll-be-ghosts-again",
+         "pubDate" : "Mon, 13 Feb 2023 12:18:34 +0100",
+         "title" : "Depeche Mode: \"We know we'll be ghosts again\""
+      },
+      {
+         "description" : "Airports Authority of India snatched the lead with nine match points from the favourites Petroleum Sports Promotion Board at the end of the fifth round",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-chess-championships-2023day-4/",
+         "pubDate" : "Mon, 13 Feb 2023 11:07:00 +0000",
+         "title" : "National Team Chess Championships 2023:Day 4"
+      },
+      {
+         "description" : "In round 10 of the Women's Grand Prix tournament in Munich, Koneru Humpy was close to winning against Alexandra Kosteniuk, but eventually had to settle for a draw and missed the chance to catch Kosteniuk at the top of the table. Now, Kosteniuk only needs a draw against Zhu Jiner in the 11th and last round to win the tournament. | Photos: Mark Livshitz (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-10-kosteniuk-defends-lead-with-narrow-escase",
+         "pubDate" : "Mon, 13 Feb 2023 11:29:27 +0100",
+         "title" : "Women's Grand Prix, Round 10: Kosteniuk defends lead with narrow escape"
+      },
+      {
+         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-11-live/",
+         "pubDate" : "Mon, 13 Feb 2023 09:41:30 +0000",
+         "title" : "FIDE Women Grand Prix Munich - Round 11 live"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) Humpy Koneru, India's number one female player, missed the opportunity of a lifetime this afternoon in the tenth round of the Munich Women's Grand Prix. In a must-win situation, Humpy ground down her opponent Alexandra Kosteniuk with the Black pieces in a spectacular performance, only to misplay a queen []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kosteniuk-remains-in-the-sole-lead-with-one-round-to-go-at-fide-womens-grand-prix-munich/",
+         "pubDate" : "Mon, 13 Feb 2023 09:37:48 +0000",
+         "title" : "Kosteniuk remains in the sole lead with one round to go at FIDE Women's Grand Prix Munich"
+      },
+      {
+         "description" : "Although it should be well-known for everyone, as these situations appear over and over again during all kinds of events, most players - and unfortunately, many inexperienced arbiters - don't know how to handle three or fivefold repetitions and 50/75 moves draw properly. The primary aim of this article by International Arbiter Tamas Gyomber is to shed light on these areas through some field examples.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fifty-shades-of-a-draw",
+         "pubDate" : "Mon, 13 Feb 2023 10:18:44 +0100",
+         "title" : "Fifty Shades of a Draw"
+      },
+      {
          "description" : "The penultimate round of the FIDE Women&#39;s Grand Prix took place on Sunday in Munich and featured a miraculous escape from GM Alexandra Kosteniuk, who managed to save a completely lost endgame against GM Koneru Humpy in the round&#39;s most important m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -18,20 +74,20 @@ news_feed (
          "title" : "WGP Munich: Narrow escape for Kosteniuk "
       },
       {
+         "description" : "We saw this story last month in <A HREF=\"https://chessforallages.blogspot.com/search?q=niemann&max-results=20&by-date=true\">First Yahoos of 2023</A>(January 2023): 'This Chess-Cheating Wearable Aims to Investigate the Accusations Against Grandmaster Hans Neimann (hackster.io)'. Now here's the related video. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ygy8M-QhbSo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>We Built the Alleged Hans Niemann Chess Cheating Device (and You Can Too!)</B> (21:58) &#149; '[Published on] Jan 28, 2023",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/the-von-niemann-probe.html",
+         "pubDate" : "Sun, 12 Feb 2023 16:51:00 +0000",
+         "title" : "'The Von Niemann Probe'"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 112th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-2",
          "pubDate" : "Sun, 12 Feb 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 112: Play the Sicilian (13)"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Sun, 12 Feb 2023 14:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
       },
       {
          "description" : " I decided to test out the <a href=\"http://clono.no\">Clono</a> system at Street Chess yesterday. For anyone not familiar, it is an electronic scoresheet and game broadcast system that has recently been approved by FIDE* It runs on android devices, with the intended platform being 7 to 10 inch tablets. What I was testing was the feasibility of broadcasting games played at Street Chess in realtime I provided a 7 inch android tablet to one of the players, to see how easy it was to (a) set up at my end and (b) to record a game in a rapidplay event (15 minutes per game). It turns out that while the concept is good, it currently needs a lot of improvements to be practical. The main issue I had as ",
@@ -146,7 +202,7 @@ news_feed (
          "title" : "Women's Grand Prix, Round 8: Kosteniuk remains clear first"
       },
       {
-         "description" : "FIDE, ISF (the International School Sport Federation) and World Chess announced the FIDE ISF World School Teams Online Chess Cup 2023, taking place in March 2023. This exciting event provides a platform for schools from FIDE and ISF member countries, as well as students from around the world* (&#xA0;*Except for schools from Russia and []",
+         "description" : "FIDE, ISF (the International School Sport Federation) and World Chess announced the FIDE ISF World School Teams Online Chess Cup 2023, taking place in March 2023. This exciting event provides a platform for schools from FIDE and ISF member countries, as well as students from around the world* (&#160;*Except for schools from Russia and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-announces-isf-world-school-teams-chess-cup-2023/",
@@ -192,22 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/lilla-elite-hotels-open-u1600-2023-live/",
          "pubDate" : "Sat, 11 Feb 2023 08:33:00 +0000",
          "title" : "Lilla Elite Hotels Open U1600 2023 - LIVE"
-      },
-      {
-         "description" : "The Elite Hotels Open is taking place from 10-12 February 2023 in Vaxjo, Sweden. The tournament is part of the Swedish Gran Prix. The first four rounds are played on Friday with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining rounds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/elite-hotels-open-swedish-grand-prix-2023-live/",
-         "pubDate" : "Sat, 11 Feb 2023 08:28:22 +0000",
-         "title" : "Elite Hotels Open Swedish Grand Prix 2023 - LIVE"
-      },
-      {
-         "description" : "The Aarhus Championship Master 2 2023 is taking place from 10-12 February 2023 in Aarhus, Denmark. The tiem control is 90 minutes for 40 moves, plus 30 minutes for the rest of the game, plus a 30-second increment per move starting from move 1. It is a 6-player round-robin with Gunnar Pedersen, Poul Rewitz, Nina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aarhus-championship-master-2-2023-live/",
-         "pubDate" : "Sat, 11 Feb 2023 08:21:04 +0000",
-         "title" : "Aarhus Championship Master 2 2023 - LIVE"
       },
       {
          "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
@@ -1074,14 +1114,6 @@ news_feed (
          "title" : "Olympiad for People with Disabilities: Poland one step away from the gold"
       },
       {
-         "description" : "Anish Giri won the Tata Steel Chess Masters 2023 ahead of all the top players in the world - Magnus Carlsen, Wesley So, Ding Liren, Fabiano Caruana. He played some phenomenal chess throughout the event to win it with a rating performance of 2849, scoring 8.5/13 and gaining 16 Elo points. Anish has been very close to winning the tournament multiple times, but this is the first time he has clinched the trophy at Wijk Aan Zee! We invited him for a livestream to get his thoughts on winning this prestigious tournament. Check out his full interview with IM Sagar Shah below.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-anish-giri-interview-winning-tata-steel-masters-2023",
-         "pubDate" : "Fri, 03 Feb 2023 20:00:00 +0100",
-         "title" : "The Anish Giri Interview: Winning Tata Steel Masters 2023"
-      },
-      {
          "description" : " Last week, we worked through our game's first seven moves. This week, we'll start at move eight. As I mentioned in the conclusion of last week's article, we'd look at what White could have done differently in an effort to avoid the disaster that ensued. This week's article is going to be short since it <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\">A Foundation for Beginners Eighty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1090,28 +1122,12 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Two"
       },
       {
-         "description" : "In his 'Fast & Furious' show, Robert Ris looks back at the Tata Steel Tournament in Wijk and presents what he calls \"the most spectacular game of the tournament\". It was exciting from the start. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-spectacular-chess-in-wijk",
-         "pubDate" : "Fri, 03 Feb 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Spectacular chess in Wijk"
-      },
-      {
          "description" : "The most recent post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/02/hooked-on-1994-95-sanghi-nagar.html\">Hooked on 1994-95 Sanghi Nagar</A>(February 2023), mentioned, <BLOCKQUOTE>[Ravi Sanghi] was responsible for the creation of an attractive Hindu temple perched dramatically on a nearby hill, and his impressive home could be seen on another distant hill. Mimi [Bill Hook's wife] later interviewed Mr. Sanghi, and her article subsequently appeared in <I>Inside Chess</I>. </BLOCKQUOTE> <P>The reference to <I>Inside Chess</I> fits in well with my current series on early web sites -- last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/01/hu",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html",
          "pubDate" : "Fri, 03 Feb 2023 16:50:00 +0000",
          "title" : "Wayback to Insidechess.com"
-      },
-      {
-         "description" : "The play-in phase of the Airthings Masters is taking place on February 3 and is open to all grandmasters. A total of 54 players will qualify to the knockout stage set to start on Monday. A 9-round Swiss tournament will be followed by 2-game matches to decide who qualifies and to which division of the knockout. | Follow the live commentary, starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-play-in-live",
-         "pubDate" : "Fri, 03 Feb 2023 16:45:00 +0100",
-         "title" : "Airthings Masters Play-In: Live!"
       },
       {
          "description" : " A trash-talking cat bot on chess.com is at least partly responsible for the biggest Chess boom ever. Yes, bigger than the boom during the pandemic and after the release of the fabulous chess mini-series on Netflix called The Queens-Gambit. It is only logical that now I get asked many times: \"Noël, should I play against [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-against-computer/\">Should You Play Chess Against The Computer?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1344,14 +1360,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-ai-bots",
          "pubDate" : "Wed, 01 Feb 2023 05:56:00 -0800",
          "title" : "Battle Against The A.I. Bots!"
-      },
-      {
-         "description" : "Sir/Madam, Please find attached D/o Sports, Ministry of Youth Affairs and Sports Circular No.&#160;K-15011/02/2023-SP-IV dated 23rd&#160;January 2023&#160;regarding change in procedure for applying under the Scheme",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/circular-for-change-in-procedure-for-applying-under-the-scheme-of-cash-award-to-the-medal-winners-for-winning-medals-in-international-events-and-their-coaches-intimation-to-nsfs-list-2/",
-         "pubDate" : "Wed, 01 Feb 2023 11:47:33 +0000",
-         "title" : "Circular for change in procedure for applying under the Scheme of Cash Award to the Medal Winners for winning medals in International Events and their coaches"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-day-1.html",
          "pubDate" : "Mon, 23 Jan 2023 12:53:00 +0000",
          "title" : "2023 Oceania Zonal - Day 1"
-      },
-      {
-         "description" : "Magnus Carlsen is suddenly right back in contention for the Tata Steel Masters title after defeating his great rival Fabiano Caruana in a game that was all but decided by move 22. Nodirbek Abdusattorov kept his 1-point lead with a draw, as the other wins were for players who had been struggling. Richard Rapport, Jorden van Foreest and Gukesh all picked up their first full points.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-8-carlsen-beats-caruana",
-         "pubDate" : "Mon, 23 Jan 2023 11:46:33 +0000",
-         "title" : "Tata Steel Chess 8: Carlsen beats Caruana"
       }
    ]
 }
