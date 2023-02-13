@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen stars for the Canada Chessbrahs as the Pro Chess League returns Tuesday, February 14 after a 3-year hiatus. The $150,000 tournament sees 16 teams battle it out over the the next five weeks before the Top 8 teams advance to playoffs. Fabiano Caruana, Hikaru Nakamura, Anish Giri and Women's World Champion Ju Wenjun are among the other players in action.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-giri-plays-for-chessbrahs-in-pro-chess-league",
+         "pubDate" : "Mon, 13 Feb 2023 15:40:39 +0000",
+         "title" : "Carlsen & Giri plays for Chessbrahs in Pro Chess League"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2230",
+         "pubDate" : "Mon, 13 Feb 2023 13:29:25 +0000",
+         "title" : "Elier Miranda wins Cuban Championship"
+      },
+      {
          "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1880,14 +1896,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html",
          "pubDate" : "Mon, 23 Jan 2023 16:50:00 +0000",
          "title" : "LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet"
-      },
-      {
-         "description" : " The 2023 Oceania Zonal has started today, with big numbers in both events. So large in fact that to discuss standings and likely winners won't make sense until much later in the tournament. Instead I'd thought I'd pick one of the games from the top boards. Current Asian Seniors Champion IM Gary Lane plays both sides of the Ruy Lopez equally well (as I recently discovered). In this game he takes the Black pieces, and manages to destroy his opponents king side position before launching a winning attack. I suspect if the colours had been reversed, he probably would have won the same way, with the White pieces. <br /> <b>Ni,Lucas (1641) - Lane,Gary W (2343) [C60]</b><br />Oceania Zonal Open 202",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-day-1.html",
-         "pubDate" : "Mon, 23 Jan 2023 12:53:00 +0000",
-         "title" : "2023 Oceania Zonal - Day 1"
       }
    ]
 }
