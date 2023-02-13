@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The penultimate round of the FIDE Women&#39;s Grand Prix took place on Sunday in Munich and featured a miraculous escape from GM Alexandra Kosteniuk, who managed to save a completely lost endgame against GM Koneru Humpy in the round&#39;s most important m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-10",
+         "pubDate" : "Sun, 12 Feb 2023 15:24:00 -0800",
+         "title" : "Kosteniuk Pulls Off Houdini Escape In Crucial Matchup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2229",
+         "pubDate" : "Sun, 12 Feb 2023 22:23:15 +0000",
+         "title" : "WGP Munich: Narrow escape for Kosteniuk "
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 112th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1346,14 +1362,6 @@ news_feed (
          "title" : "Sac Or No Sac? (4)"
       },
       {
-         "description" : "Russia&#39;s powerhouse chess federation, the biggest in the world, is pressing on with its historic move to formally switch from the European Chess Union (ECU) to Asia, it was revealed on Tuesday. In the latest development in a row that has exposed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-chess-federation-applies-to-switch-from-europe-to-asia",
-         "pubDate" : "Wed, 01 Feb 2023 00:41:00 -0800",
-         "title" : "Russian Chess Federation Applies For Asia Switch As Row With Europe Deepens"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1880,14 +1888,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-8-carlsen-beats-caruana",
          "pubDate" : "Mon, 23 Jan 2023 11:46:33 +0000",
          "title" : "Tata Steel Chess 8: Carlsen beats Caruana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2185",
-         "pubDate" : "Sun, 22 Jan 2023 23:37:41 +0000",
-         "title" : "Tata Steel Masters: Abdusattorov is in front going into second rest day"
       }
    ]
 }
