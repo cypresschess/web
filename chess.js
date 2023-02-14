@@ -2,11 +2,59 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The AQ Prime ASEAN Championship is taking place from 11&#x2013;17 February 2023 in Quezon City, Philippines. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with Susanto Megaranto, Rolando Nolte, Darwin Laylo, Li Tian Yeoh, John Paul Gomez, Paulo Bersamina, Prin Laohawirapap, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aq-prime-asean-championship-2023-live/",
+         "pubDate" : "Tue, 14 Feb 2023 17:50:30 +0000",
+         "title" : "AQ Prime ASEAN Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The 2nd &#8220;She Plays To Win&#8221; International is taking place from 15&#x2013;19 February 2023 in Edinburgh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Ketevan Arakhamia-Grant, Fiona Steil-Antoni, Zoe Varney, Andrea Henderson de La Fuente, Louise Head, Suzie []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-she-plays-to-win-international-2023-live/",
+         "pubDate" : "Tue, 14 Feb 2023 17:44:46 +0000",
+         "title" : "2nd \"She Plays To Win\" International 2023 - LIVE"
+      },
+      {
+         "description" : "The Dolomitenbank Open Lienz is taking place from 11&#x2013;18 February 2023 in Lienz, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Dragos Ceres, Kiril Kostov, Sandipan Chanda, Evgeny Romanov, Theo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dolomitenbank-open-lienz-2023-live/",
+         "pubDate" : "Tue, 14 Feb 2023 17:39:18 +0000",
+         "title" : "Dolomitenbank Open Lienz 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunders-be-gone-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aP6miWUxJ1U.jpg?itok=RVmi-HQm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
+         "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
+         "title" : "Blunders Be Gone! | Beginner Breakdown"
+      },
+      {
+         "description" : "The 21st Rochefort Masters is taking place from 11-17 February 2023 in Rochefort, France. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Kirk Ghazarian, Diptayan Ghosh, Andrei Maksimenko, Vladyslav Larkin, Krishnan []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/21st-rochefort-masters-2023-live/",
+         "pubDate" : "Tue, 14 Feb 2023 17:33:40 +0000",
+         "title" : "21st Rochefort Masters 2023 - LIVE"
+      },
+      {
+         "description" : "Wednesday evening will see the official opening of the WR Masters at the Hyatt Regency Hotel in D&uuml;sseldorf. The tournament starts on Thursday at 14:00 with the 1st round. A number of players from the next generation will face the current world elite. For Ian Nepomiachtchi, the tournament is also a dress rehearsal for the World Championship in April. German chess fans are keeping their fingers crossed for Vincent Keymer in particular.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-wr-chess-masters-2023-starts-on-wednesday",
+         "pubDate" : "Tue, 14 Feb 2023 18:00:00 +0100",
+         "title" : "The WR Chess Masters 2023 starts on Wednesday"
+      },
+      {
          "description" : "World number-four GM Alireza Firouzja has been mysteriously inactive in the last year with remarkably few tournament appearances. In a rare, new interview, the teenager confirmed rumors about him seeking an alternative career. Firouzja, the Iran...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-new-fashion-industry-career",
-         "pubDate" : "Tue, 14 Feb 2023 08:14:35 -0800",
+         "pubDate" : "Tue, 14 Feb 2023 08:14:00 -0800",
          "title" : "Firouzja: New Career In Fashion Industry Takes Time Away From Chess"
       },
       {
@@ -50,12 +98,28 @@ news_feed (
          "title" : "A brilliant resignation"
       },
       {
+         "description" : " The WR Masters takes place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This is a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-2023",
+         "pubDate" : "Tue, 14 Feb 2023 16:28:00 +0400",
+         "title" : "WR Chess Masters 2023 - Games and Results"
+      },
+      {
          "description" : " The Cambridge International Open takes place Wed 15th Feb to Sun 19th Feb 2023. Michael Adams is the top seed. Stand alone opens like this are fairly rare in the UK. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/cambridge-international-open-2023",
          "pubDate" : "Tue, 14 Feb 2023 16:25:00 +0400",
          "title" : "Cambridge International Open 2023 - Games and Results"
+      },
+      {
+         "description" : " The PRO Chess League returns after a two year break. The event runs Tue 14th Feb to Sat 15th Apr 2023. Carlsen, Giri, Nakamura, Caruana, Grischuk etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/pro-chess-league-2023",
+         "pubDate" : "Tue, 14 Feb 2023 16:22:00 +0400",
+         "title" : "PRO Chess League 2023 - Games and Results"
       },
       {
          "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: David Llada (FIDE)",
@@ -250,14 +314,6 @@ news_feed (
          "title" : "FIDE Women Grand Prix Munich - Round 11 live"
       },
       {
-         "description" : "By IM Michael Rahal (Munich, Germany) Humpy Koneru, India's number one female player, missed the opportunity of a lifetime this afternoon in the tenth round of the Munich Women's Grand Prix. In a must-win situation, Humpy ground down her opponent Alexandra Kosteniuk with the Black pieces in a spectacular performance, only to misplay a queen []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kosteniuk-remains-in-the-sole-lead-with-one-round-to-go-at-fide-womens-grand-prix-munich/",
-         "pubDate" : "Mon, 13 Feb 2023 09:37:48 +0000",
-         "title" : "Kosteniuk remains in the sole lead with one round to go at FIDE Women's Grand Prix Munich"
-      },
-      {
          "description" : "Although it should be well-known for everyone, as these situations appear over and over again during all kinds of events, most players - and unfortunately, many inexperienced arbiters - don't know how to handle three or fivefold repetitions and 50/75 moves draw properly. The primary aim of this article by International Arbiter Tamas Gyomber is to shed light on these areas through some field examples.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,28 +370,12 @@ news_feed (
          "title" : "Women's Grand Prix, Round 9: Alexandra Kosteniuk defends lead, but Humpy Koneru still has chances"
       },
       {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-10-live/",
-         "pubDate" : "Sun, 12 Feb 2023 10:06:04 +0000",
-         "title" : "FIDE Women Grand Prix Munich - Round 10 live"
-      },
-      {
          "description" : "The Slav has a reputation for being a (very) solid opening. But there are ways to play it for a win and give your opponent difficult problems to solve. Dutch Grandmaster Sipke Ernst shows how in his course \"The Super Solid Slav Defence\". Hedinn Steingrimsson took a look at the course and liked what he saw.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-slav-by-sipke-ernst-a-review",
          "pubDate" : "Sun, 12 Feb 2023 11:00:00 +0100",
          "title" : "\"The Super Solid Slav Defense\" by Sipke Ernst - a review"
-      },
-      {
-         "description" : "By IM Michael Rahal (Munich, Germany) The Munich Kempinski hotel witnessed this afternoon one of the most exciting rounds of the 2022-2023 Women's Grand Prix series.&#160; The round started with the ceremonial first move, played by the German U-16 female champion, Maja Buchholz, performed in the game between Zhansaya Abdumalik and Dinara Wagner.&#160; Perhaps the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kosteniuk-holds-the-lead-with-two-rounds-to-go-fide-women-grand-prix-munich-r9-recap/",
-         "pubDate" : "Sun, 12 Feb 2023 09:44:51 +0000",
-         "title" : "Kosteniuk holds the lead with two rounds to go; FIDE Women Grand Prix Munich - R9 recap"
       },
       {
          "description" : " Dear Drum Community!The Chess Drum is 22 today! On this day, I hit the &#8220;enter&#8221; key to make the site live and it has been an eye-opening journey for me. I remember the early days when there was an initial excitement when the crude 13-page site was launched. The excitement was not because the site The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/\">The Chess Drum is 22!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -408,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-8-kosteniuk-remains-clear-first",
          "pubDate" : "Sat, 11 Feb 2023 12:17:09 +0100",
          "title" : "Women's Grand Prix, Round 8: Kosteniuk remains clear first"
-      },
-      {
-         "description" : "FIDE, ISF (the International School Sport Federation) and World Chess announced the FIDE ISF World School Teams Online Chess Cup 2023, taking place in March 2023. This exciting event provides a platform for schools from FIDE and ISF member countries, as well as students from around the world* (&#160;*Except for schools from Russia and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-announces-isf-world-school-teams-chess-cup-2023/",
-         "pubDate" : "Sat, 11 Feb 2023 09:32:00 +0000",
-         "title" : "FIDE announces ISF World School Teams Chess Cup 2023"
       },
       {
          "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
@@ -1090,14 +1122,6 @@ news_feed (
          "title" : "Novices and Experts"
       },
       {
-         "description" : "The recent firefight in Wijk aan Zee was a magnificent tournament. While trying to follow his nose (i.e. not merely checking the engine evaluation) as to what was going on in the players' minds during the battle, Jon Speelman found a number of remarkable ideas! | Photos: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-187",
-         "pubDate" : "Sun, 05 Feb 2023 20:00:00 +0100",
-         "title" : "The Gods by the North Sea"
-      },
-      {
          "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb05.jpg\" WIDTH=130 HEIGHT=400 ALIGN=LEFT VSPACE=5 HSPACE=5> It's hard to believe, but in the nearly 17 years that I've been writing this blog and the nearly 13 years that I've been posting for the series titled <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), an important word has never once appeared on the blog. That new word is >>> [new_word] <<<. <P>The item on the left was titled 'World Chess Championship 1972 - Rare Silver Spoon'. It sold 'Best offer accepted' for... <P>[<B>BREAKING NEWS:</B> The item page I'm looking at does *not* list a price. In the p",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1472,14 +1496,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sicilian-middlegames-grandmasters-choice-gm-josh-sheng",
          "pubDate" : "Tue, 31 Jan 2023 20:23:36 +0000",
          "title" : "Sicilian Middlegames | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! 2023.01.31 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/clear-way-long-diagonals-open-files-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 31 Jan 2023 20:23:36 +0000",
-         "title" : "Clear the Way! Long Diagonals & Open Files | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/travel-day-for-me.html",
          "pubDate" : "Tue, 24 Jan 2023 22:59:00 +0000",
          "title" : "Travel day for me"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov managed to save an extremely bad position against Vincent Keymer in Round 9 of the Tata Steel Masters, this allowed him to keep his lead. Anish Giri moved within half a point after beating Ding Liren with the black pieces. Richard Rapport was the other winner beating Arjun Erigaisi. Wesley So had to settle for a draw against Parham Maghsoodloo and he plays Giri tomorrow. Full report by FM Michiel Abeln below. Masters Round 9 Standings: 1st Abdusattorov 6.5pts/9, 2nd Giri 6pts, 3rd So 5.5pts, 4th= Caruana, Aronian, Praggnanandhaa, Carlsen 5 pts, 8th Rapport 4.5pts, 9th= Maghsoodloo, Ding Liren 4pts. 11th Van Foreest 3.5pts, 12th= Erigaisi, Keymer, Gukesh 3pts. Masters R",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-continues-to-lead-the-tata-steel-masters-after-surviving-lost-position-against-keymer-in-round-9",
-         "pubDate" : "Tue, 24 Jan 2023 22:54:00 +0400",
-         "title" : "Abdusattorov continues to lead the Tata Steel Masters after surviving lost position against Keymer in Round 9 - 9"
       }
    ]
 }
