@@ -26,7 +26,7 @@ news_feed (
          "title" : "Chess Heroes: Checkmates"
       },
       {
-         "description" : "GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Peace was the theme of the final round in Munich as five of the ...",
+         "description" : "GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Women&#39;s Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Peace was the theme of the final round in Munich as five...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-11-kosteniuk-wins",
