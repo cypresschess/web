@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "World number-four GM Alireza Firouzja has been mysteriously inactive in the last year with remarkably few tournament appearances. In a rare, new interview, the teenager confirmed rumors about him seeking an alternative career. Firouzja, the Iran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-new-fashion-industry-career",
+         "pubDate" : "Tue, 14 Feb 2023 08:14:35 -0800",
+         "title" : "Firouzja: New Career In Fashion Industry Takes Time Away From Chess"
+      },
+      {
+         "description" : "The chess world mourns the death of Jorge Vega. The long-time President of the American Continental Chess Federation was a comrade-in-arms of Che Guevara in the Cuban Revolution, though he was later imprisoned in Cuba because of his international contacts. Vega then lived in Mexico and was president of the Confederacion de Adjedres para America (CCA) from 20202. | Photo: Anastasia Karlovich",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jorge-vega-fernandez-1935-2023",
+         "pubDate" : "Tue, 14 Feb 2023 17:00:00 +0100",
+         "title" : "Jorge Vega Fernandez (1935-2023)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/endgame-challenge-three-rook-and-pawn-endgames/#new_tab",
+         "pubDate" : "Tue, 14 Feb 2023 15:03:21 +0000",
+         "title" : "Endgame Challenge Three - The Rerun"
+      },
+      {
+         "description" : "Today: Mathias Feist implemented the feature to analyse after a played game! This wasn't possible before ChessBase 17. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-continue-analysing-with-chessbase-17-after-game-end",
+         "pubDate" : "Tue, 14 Feb 2023 16:00:00 +0100",
+         "title" : "Explained by the engineers! - Continue analysing with ChessBase 17 after game end!"
+      },
+      {
+         "description" : "In November 2022, the OpenAI company released ChatbotGPT and since then, this programme has been making headlines. It can write poems and stories, reports, articles, computer code and much more. It will, experts seem to agree, change the world. Apparently, the chatbot has now tried its hand at chess. On YouTube, the well-known streamer Levy \"Gotham Chess\" Rozman presents a game that ChatGPT allegedly played against the programme Stockfish. A game in which ChatGTP repeatedly amazes with surprising moves and never-before-seen manoeuvres.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surprising-chatgpt-playing-chess",
+         "pubDate" : "Tue, 14 Feb 2023 14:30:00 +0100",
+         "title" : "Surprising: ChatGPT playing chess"
+      },
+      {
+         "description" : " When faced with a spectacular queen sacrifice by one of the worlds greatest players, the obvious thing to do is resign. Black certainly thought that resigning was the best move in the following game, as 10. ... cxd6 loses to 11.Bxf7# But both players overlooked one move .... <br /> <b>Capablanca,Jose Raul - Meyer,Leonhard B [C77]</b><br />New York rapid transit New York,NY, 05.03.1908 <script>new PgnViewer( { boardName: \"game1381\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 Nxe4 6.d5 Ne7 7.Nxe5 b5 8.Bb3 Bb7 9.d6 Nxd6 10.Qxd6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1381-container\"></div><div id=\"game1381-moves\"></d",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/a-brilliant-resignation.html",
+         "pubDate" : "Tue, 14 Feb 2023 12:52:00 +0000",
+         "title" : "A brilliant resignation"
+      },
+      {
+         "description" : " The Cambridge International Open takes place Wed 15th Feb to Sun 19th Feb 2023. Michael Adams is the top seed. Stand alone opens like this are fairly rare in the UK. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/cambridge-international-open-2023",
+         "pubDate" : "Tue, 14 Feb 2023 16:25:00 +0400",
+         "title" : "Cambridge International Open 2023 - Games and Results"
+      },
+      {
          "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: David Llada (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1058,30 +1114,6 @@ news_feed (
          "title" : "2023 Zone 4.3 in Equatorial Guinea"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 111th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-12",
-         "pubDate" : "Sun, 05 Feb 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 111: Play the Sicilian (12)"
-      },
-      {
-         "description" : "It is rare to see female players take part in the open section of national championships. But 19-year-old IM Nurgyul Salimova decided to do it at the 2023 Bulgarian Championship. She scored an impressive 6/9 and edged past two grandmasters (who also collected 6 points) to finish second overall. Salimova obtained four wins, four draws and suffered her sole loss of the event against the top seed and eventual champion, GM Kiril Georgiev. | Photo: Nurgyul's Instagram page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/19-year-old-nurgyul-salimova-wins-silver-at-bulgarian-championship-2023",
-         "pubDate" : "Sun, 05 Feb 2023 13:00:00 +0100",
-         "title" : "19-year-old Nurgyul Salimova wins Silver at Bulgarian Championship 2023"
-      },
-      {
-         "description" : "Alexandra Kosteniuk grabbed a third consecutive win in Munich to get a full-point lead over a 3-player chasing pack at the second stage of the Women's Grand Prix series. Kosteniuk inflicted Dinara Wagner's third consecutive loss. In the other decisive game of the round, Zhu Jiner beat Zhansaya Abdumalik with the black pieces. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r3",
-         "pubDate" : "Sun, 05 Feb 2023 08:00:00 +0100",
-         "title" : "Munich GP: Kosteniuk on 3 out of 3"
-      },
-      {
          "description" : "It is a splendid performance by Indian Chess team as India drew 2:2 against Philippines in the final round at 1st Fide Chess Olympiad for",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1354,14 +1386,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination at Hosur"
       },
       {
-         "description" : "With the start of the 2023 Airthings Masters just around the corner, chess fans may already be expecting a renewed focus on how air quality affects players. After all, the first event of the new $2 million Champions Chess Tour season is sponsore...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mit-study-finds-chess-players-perform-worse-when-the-air-quality-is-low",
-         "pubDate" : "Thu, 02 Feb 2023 00:10:00 -0800",
-         "title" : "MIT Study Finds Chess Players Perform Worse When Air Quality Is Low"
-      },
-      {
          "description" : "Who doesn't know Sesame Street, the American educational children's television series that premiered in 1969 and runs on animation and puppetry. It is one of the longest-running shows in history. And it has been adapted for dozens of other countries. In a must-read new book Natasha Lane Rogoff describes the harrowing conversion to Ulitsa Sezam for Russia and Ukraine. And yes, there is a chess connection.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1520,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/",
          "pubDate" : "Tue, 31 Jan 2023 10:39:31 +0000",
          "title" : "European Cities & Towns Chess Champions 2023 announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/endgame-challenge-three-rook-and-pawn-endgames/",
-         "pubDate" : "Tue, 31 Jan 2023 09:37:58 +0000",
-         "title" : "Endgame Challenge Three - Rook and Pawn Endgames"
       },
       {
          "description" : " Jerald Times is in the chess news recently, but it is not for his success as a chess educator. After winning the right to challenge Success Academy's employment practices, he is now seeking to settle on the basis of unlawful retaliation. There have been a number of delays in the process and Times is waiting The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/\">Jerald Times seeks action against Success Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1896,14 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-continues-to-lead-the-tata-steel-masters-after-surviving-lost-position-against-keymer-in-round-9",
          "pubDate" : "Tue, 24 Jan 2023 22:54:00 +0400",
          "title" : "Abdusattorov continues to lead the Tata Steel Masters after surviving lost position against Keymer in Round 9 - 9"
-      },
-      {
-         "description" : "Magnus Carlsen and Wesley So play the Airthings Masters from February 6 till 10, as the all-new $2 million Champions Chess Tour begins. The remaining six places in the top group are open to any grandmaster, with the players battling it out on Chess.com on February 3. The Tour season will culminate in December with 8-player Playoffs and a 4-player Finals to decide who takes the online crown and a $200,000 top prize.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-2-million-champions-chess-tour",
-         "pubDate" : "Tue, 24 Jan 2023 15:43:51 +0000",
-         "title" : "Airthings Masters kicks off $2 million Champions Chess Tour"
       }
    ]
 }
