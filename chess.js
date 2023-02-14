@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2232",
+         "pubDate" : "Tue, 14 Feb 2023 21:14:15 +0000",
+         "title" : "Singapore Champioship: Kevin Goh and Gong Qianyun clinch titles"
+      },
+      {
          "description" : "The AQ Prime ASEAN Championship is taking place from 11&#x2013;17 February 2023 in Quezon City, Philippines. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with Susanto Megaranto, Rolando Nolte, Darwin Laylo, Li Tian Yeoh, John Paul Gomez, Paulo Bersamina, Prin Laohawirapap, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
