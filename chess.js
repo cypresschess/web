@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position the white knight has to fight against the black pawns. Black's d-pawn and Black's f-pawn are both weak and seem to fall quickly. But the position is still tricky though White has a hidden way to win. Can you find it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/knight-vs-pawns",
+         "pubDate" : "Tue, 14 Feb 2023 09:00:00 +0100",
+         "title" : "Knight vs pawns"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The long-term President of the <strong>Confederation of Chess for Americas</strong> <strong>Jorge Vega Fern&aacute;ndez</strong> <a href=\"https://fide.com/news/2227\">has passed away</a>. The Cuban-born bonvivant controled the Latin American vote in <strong>FIDE</strong> for more than thirty years and had a crucial role to keep <strong>Kirsan Ilyumzhinov</strong> at the helm in the 2006-2014 elections. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/jorge-vega-1935-2023/",
+         "pubDate" : "Tue, 14 Feb 2023 07:28:06 +0100",
+         "title" : "Jorge Vega (1935-2023)"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/luc-winants-1963-2023/",
+         "pubDate" : "Tue, 14 Feb 2023 07:12:30 +0100",
+         "title" : "Luc Winants (1963-2023)"
+      },
+      {
+         "description" : "Congratulations to Grandmaster Koneru Humpy for finishing as Runner-Up in the second leg of #FIDEWomenGrandPrix at Munich and Harika Dronavalli for finishing fourth. Photo :",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-koneru-humpy-harika-dronavalli/",
+         "pubDate" : "Tue, 14 Feb 2023 05:02:57 +0000",
+         "title" : "Congratulations Koneru Humpy & Harika Dronavalli"
+      },
+      {
          "description" : "There is no accusation that is more guaranteed to get under a chess player's skin than dismissing his beloved game as a 'waste of time'. There is no better way to antagonize a chess player than to say that. But many famous thinkers and writers have done so. In chapter two of his book \"Chessays\", a collection of thought-provoking essays about a wide range of chess-related issues, Howard Burton has compiled a list of statements by detractors and defenders. Now available: a four-part docuseries directed by Howard, which examines the remarkable impact of chess on culture, art, science, and sport.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-3",
          "pubDate" : "Wed, 08 Feb 2023 14:21:00 -0800",
          "title" : "Carlsen Beats Nakamura In Epic Armageddon Game, Awaits Losers Finalist"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/luc-winants-1963-2023/",
-         "pubDate" : "Wed, 08 Feb 2023 17:41:59 +0100",
-         "title" : "Luc WInants (1963-2023)"
       },
       {
          "description" : "On a day when he played a match in the Champions Chess Tour, GM Wesley So also found the time to win both Titled Tuesday events on February 7. He is now the only player besides GM Hikaru Nakamura to achieve this feat in the roughly one year since ...",
@@ -1346,14 +1370,6 @@ news_feed (
          "title" : "Natasha Rogoff: Muppets in Moscow"
       },
       {
-         "description" : "The dream run for Indian team continues on 3rd round as Indian team get a comfortable win against Israel. India scored 3-1 against Israel .",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-3/",
-         "pubDate" : "Thu, 02 Feb 2023 07:47:38 +0000",
-         "title" : "1st Fide Chess Olympiad for people with disabilities -2023: Round 3"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings., specifically on the pawn structures and tactics. 2023.01.31<br /> Craig Hilby vs. Razvan Preotu, 2018: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4133521\">https://www.365chess.com/game.php?back=1&amp;gid=4133521</a><br /> Jack Peters vs. Josh Sheng, 2015: B42 Sicilian, Kan, Polugaievsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1816,14 +1832,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
          "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
          "title" : "European Cities & Towns Chess Championship starts on Sunday"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Champions Chess Tour</strong> 2023 <a href=\"https://new.chess24.com/wall/news/airthings-masters-launches-2-million-champions-chess-tour\">consists of six regular events</a>, each starting with a qualifier on <strong>Chess.com</strong> open to all GMs, followed by a tournament shortened to five days, and a big final in December for a prize fund of altogether $2 million. First is the <strong>Airthings Masters</strong> on 6-10 February. <strong>Meltwater</strong> is not any more title sponsor. <strong>Robert Hess</strong> joins the presentation team. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/champions-tour-opens-up/",
-         "pubDate" : "Wed, 25 Jan 2023 14:33:40 +0100",
-         "title" : "Champions Tour opens up"
       },
       {
          "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
