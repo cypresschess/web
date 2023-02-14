@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is no accusation that is more guaranteed to get under a chess player's skin than dismissing his beloved game as a 'waste of time'. There is no better way to antagonize a chess player than to say that. But many famous thinkers and writers have done so. In chapter two of his book \"Chessays\", a collection of thought-provoking essays about a wide range of chess-related issues, Howard Burton has compiled a list of statements by detractors and defenders. Now available: a four-part docuseries directed by Howard, which examines the remarkable impact of chess on culture, art, science, and sport.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-a-waste-of-time",
+         "pubDate" : "Mon, 13 Feb 2023 22:40:09 +0100",
+         "title" : "Chess - a waste of time?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Arch Bishops field Leinier Dominguez, Benjamin Bok, Nikolas Theodorou, &amp; Alice Lee against the Shanghai Tigers&#039; Wei Yi, Ju Wenjun, Yi Xu, &amp; Lou Yiping in Week 1! Four rounds, each player competes against all opponents, G/10+2. First team to score 8.5 wins the match. Join WGM Nemo &amp; Jonathan Schrantz for the move-by-move. 2023.02.17<br /> PROChessLeague.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-arch-bishops-vs-s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-arch-bishops-vs-shanghai-tigers-2023-pro-chess-league-week-1",
+         "pubDate" : "Mon, 13 Feb 2023 20:34:06 +0000",
+         "title" : "Saint Louis Arch Bishops vs. Shanghai Tigers | 2023 PRO Chess League Week 1"
+      },
+      {
          "description" : " Chess Heroes: Checkmates (slightly retitled from Checkmates for Heroes) is now available on Amazon. This is the first of a series of four parallel books (the others feature tactics, openings and endings) designed to take readers or students from about 500 to 1500 strength. For social players (adult or junior) who would like to be <a href=\"https://chessimprover.com/chess-heroes-checkmates/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Checkmates\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-checkmates/\">Chess Heroes: Checkmates</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Chess Heroes: Checkmates"
       },
       {
-         "description" : "This is a flash report. The full report will be added soon. GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Pe...",
+         "description" : "GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Peace was the theme of the final round in Munich as five of the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-11-kosteniuk-wins",
-         "pubDate" : "Mon, 13 Feb 2023 10:04:31 -0800",
-         "title" : "Kosteniuk Loses Final Round, Still Claims Crown In Munich: Flash Report"
+         "pubDate" : "Mon, 13 Feb 2023 10:04:00 -0800",
+         "title" : "Kosteniuk Loses Final Round, Still Claims Crown In Munich"
       },
       {
          "description" : "",
@@ -1114,14 +1130,6 @@ news_feed (
          "title" : "Speculative fiction"
       },
       {
-         "description" : "Yes, 24.Rxg7+! wins for White - but it's definitely a challenge to foresee the complete path to victory from the diagram position, even if it's initially paved with checks. Your perfect start to the (chess) weekend, right?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/starting-to-finish",
-         "pubDate" : "Sat, 04 Feb 2023 09:00:00 +0100",
-         "title" : "Starting to finish"
-      },
-      {
          "description" : "FIDE World School Chess Championship 2023 will be started from 13th to 23rd April, 2023 at Rhodes, Greece and players participated in the Over the Board National",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/kuybokarov-and-ryjanove-win-36-zonal.html",
          "pubDate" : "Sat, 28 Jan 2023 12:26:00 +0000",
          "title" : "Kuybokarov and Ryjanove win 3.6 Zonal events"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess preparation class on the 6.Bg5 variation of the Najdorf. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4euAvvdSncU.jpg?itok=TRk4Pcun\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/learn-6bg5-najdorf-prepare-pro-gm-josh-sheng",
-         "pubDate" : "Sat, 28 Jan 2023 08:21:05 +0000",
-         "title" : "Learn the 6.Bg5 Najdorf! | Prepare Like A Pro - GM Josh Sheng"
       },
       {
          "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
