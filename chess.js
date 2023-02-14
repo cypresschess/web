@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: David Llada (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kosteniuk-wins-women-s-grand-prix-in-munich",
+         "pubDate" : "Tue, 14 Feb 2023 13:09:46 +0100",
+         "title" : "Kosteniuk wins Women's Grand Prix in Munich"
+      },
+      {
+         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of&#xA0;Magnus Carlsen, Hikaru Nakamura,&#xA0;Fabiano Caruana,&#xA0;Anish Giri&#xA0;and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the end of the third []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pro-chess-league-2023-live/",
+         "pubDate" : "Tue, 14 Feb 2023 10:50:36 +0000",
+         "title" : "Pro Chess League 2023 - LIVE"
+      },
+      {
+         "description" : "By IM Michael Rahal (Munich, Germany) Despite losing to Chinese phenomenon Zhu Jiner, former Women's World Champion and winner of the 2021 World Cup Alexandra Kosteniuk added another tournament victory to her list of achievements by winning the Munich International Tournament this afternoon, the second event of the 2022-2023 FIDE Women's Grand Prix. In addition []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexandra-kosteniuk-wins-fide-women-grand-prix-munich/",
+         "pubDate" : "Tue, 14 Feb 2023 10:50:00 +0000",
+         "title" : "Alexandra Kosteniuk wins FIDE Women Grand Prix Munich"
+      },
+      {
+         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Anish Giri and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pro-chess-league-2023/",
+         "pubDate" : "Tue, 14 Feb 2023 10:42:54 +0000",
+         "title" : "Pro Chess League 2023"
+      },
+      {
+         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;took place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players disputed an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct qualification to []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-womens-grand-prix-munich-final-standings/",
+         "pubDate" : "Tue, 14 Feb 2023 09:31:48 +0000",
+         "title" : "FIDE Women's Grand Prix Munich - Final standings"
+      },
+      {
+         "description" : "The 2023 edition of the Reykjavik Open will be held from March 29th till April 4th in Harpa Conference Hall.&#160;The event will be played in 9 rounds, swiss system, with time control: 90 min for 40 moves &#160;+ 30 minutes after move 40. Increment of 30 sec. for every move starting from move one. Schedule []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023/",
+         "pubDate" : "Tue, 14 Feb 2023 08:35:00 +0000",
+         "title" : "Reykjavik Chess Open 2023"
+      },
+      {
          "description" : "In the diagram position the white knight has to fight against the black pawns. Black's d-pawn and Black's f-pawn are both weak and seem to fall quickly. But the position is still tricky though White has a hidden way to win. Can you find it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,46 +360,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fide-announces-isf-world-school-teams-chess-cup-2023/",
          "pubDate" : "Sat, 11 Feb 2023 09:32:00 +0000",
          "title" : "FIDE announces ISF World School Teams Chess Cup 2023"
-      },
-      {
-         "description" : "The VII Open Internacional de Ajedrez Semana Santa will take place from 5th to 10th April 2023 in Alicante, La Nucia in Spain. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/open-internacional-de-ajedrez-semana-santa-2023/",
-         "pubDate" : "Sat, 11 Feb 2023 09:22:21 +0000",
-         "title" : "Open Internacional de Ajedrez Semana Santa 2023"
-      },
-      {
-         "description" : "The 1st event on the&#160;$2 Million 2023 Champions Chess Tour&#160;&#x2013; Aithings Masters took place from 6-10 February on chess.com. The event was played in 3 Divisions of 8, 16 and 32 players with the Grand Final seeing the clash between the Winners of the Winners and Losers brackets &#x2013;&#160;Magnus Carlsen&#160;and&#160;Hikaru Nakamura. World Chess Champion&#160;Magnus Carlsen&#160;opened []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/summary-of-the-airthings-masters-grand-final-tweetoftheday/",
-         "pubDate" : "Sat, 11 Feb 2023 09:01:33 +0000",
-         "title" : "Summary of the Airthings Masters Grand Final #TweetOftheDay"
-      },
-      {
-         "description" : "The 1st event on the&#xA0;$2 Million 2023 Champions Chess Tour&#xA0;&#x2013; Aithings Masters, took place from 6-10 February. The event was played in 3 Divisions of 8, 16 and 32 players with each division featuring a double-elimination knockout and a total prize fund of $235.000. The Grand Final saw the clash between the Winners of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wins-airthings-masters-2023/",
-         "pubDate" : "Sat, 11 Feb 2023 08:50:23 +0000",
-         "title" : "Magnus Carlsen wins Airthings Masters 2023"
-      },
-      {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-9-live/",
-         "pubDate" : "Sat, 11 Feb 2023 08:34:25 +0000",
-         "title" : "FIDE Women Grand Prix Munich - Round 9 live"
-      },
-      {
-         "description" : "The Lilla Elite Hotels Open is taking place from 10-12 February 2023 in Vaxjo, Sweden. The tournament is part of the Swedish Gran Prix. The first four rounds are played on Friday with a time control of 15 minutes for the entire game plus 5-second increment per move starting from move 1. The four remaining []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lilla-elite-hotels-open-u1600-2023-live/",
-         "pubDate" : "Sat, 11 Feb 2023 08:33:00 +0000",
-         "title" : "Lilla Elite Hotels Open U1600 2023 - LIVE"
       },
       {
          "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2215",
          "pubDate" : "Sat, 04 Feb 2023 21:25:29 +0000",
          "title" : "WGP Munich: Kosteniuk 3/3 at full steam "
-      },
-      {
-         "description" : "By scoring six wins in as many matches, Poland grabbed gold at the first Chess Olympiad for People with Disabilities. The team of Physically Disabled Chess Players (IPCA) won second place with 10 match points, while the Philippines took home bronze after outscoring (according to tiebreak criteria) three other teams that also collected 8 match points. | Photos: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/poland-wins-first-olympiad-for-people-with-disabilities",
-         "pubDate" : "Sat, 04 Feb 2023 22:15:00 +0100",
-         "title" : "Poland wins first Chess Olympiad for People with Disabilities"
       },
       {
          "description" : "",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/airthings-masters-kicks-off-2-million-champions-chess-tour",
          "pubDate" : "Tue, 24 Jan 2023 15:43:51 +0000",
          "title" : "Airthings Masters kicks off $2 million Champions Chess Tour"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (65)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-65/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (65)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-65/",
-         "pubDate" : "Tue, 24 Jan 2023 10:47:36 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (65)"
       }
    ]
 }
