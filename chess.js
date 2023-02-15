@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng outlines how to handle the must-win tournament situation. 2023.02.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/must-win-situation-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kMT44vfse_s.jpg?itok=d3Nuwt3m\" alt=\"\" /></a></div>",
+         "description" : "The Pro Chess League 2023 started with a bang on Tuesday with two high-octane matchups that resulted in convincing wins for the prodigious Indian Yogis and the GM Magnus Carlsen-led Canada Chessbrahs. The Yogis kicked off their campaign in the b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-chessbrahs-yogis",
+         "pubDate" : "Tue, 14 Feb 2023 17:05:07 -0800",
+         "title" : "Carlsen Swindles For Chessbrah Victory, Indian Yogis Dominate Brazil Capybaras"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng outlines how to handle the must-win tournament situation. 2023.02.14<br /> Nikhil Kumar vs. Josh Sheng, 2021: D05 Queen&#039;s pawn game, Zukertort variation<br /> Gauri Shankar vs. Sheng, 2021: A07 Reti, King&#039;s Indian attack (Barcza system)<br /> Daniel Naroditsky vs. Sheng, 2022: B42 Sicilian, Kan, Polugaievsky variation<br /> <a href=\"https://lichess.org/broadcast/us-open-championship-and-invitationals-2022/round-15/OlzI1ODw\">https://lichess.org/broadcast/us-open-championship-and-invitationals-202...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/must-win-situation-grandmasters-choice-gm-josh-sheng",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "The MUST-WIN Situation | Grandmaster's Choice - GM Josh Sheng"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14<br /> N. N. (Beginner) vs. Alex Moellering, ???: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/roses-are-red-chess-game-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aP6miWUxJ1U.jpg?itok=RVmi-HQm\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14<br /> N. N. (Beginner) vs. Alex Moellering, ???: B00 King&#039;s pawn opening<br /> N. N. vs. Alex&#039;s Student, ???: C50 Giuoco Piano<br /> Moellering vs. N. N. Beginner, ???: B01 Scandinavian, Marshall variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/roses-are-red-chess-game-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/roses-are-red-chess-game-beginner-breakdown",
@@ -1354,14 +1362,6 @@ news_feed (
          "title" : "4 Decisive King Attacks By Early Leaders"
       },
       {
-         "description" : "The Spanish Maniac Shrimps won the Pro Chess League 2023 Qualifier, finishing first in both segments of the two-day event. They fill the 16th and final spot of the PCL main event this year. After making it to the Qualifier Knockout through the S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/spanish-maniac-shrimps-win-2023-pcl-qualifier",
-         "pubDate" : "Thu, 02 Feb 2023 15:05:00 -0800",
-         "title" : "Spanish Maniac Shrimps Qualify For PCL Main Event"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1920,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2186",
          "pubDate" : "Wed, 25 Jan 2023 04:39:37 +0000",
          "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2187",
-         "pubDate" : "Wed, 25 Jan 2023 02:13:03 +0000",
-         "title" : "Tata Steel Masters: Abdusattorov survives scare, Giri moves up to second place"
       }
    ]
 }
