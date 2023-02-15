@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top Iranian chess player Sara Khadem has gone into exile, like many other Iranian chess players before her, and now lives with her family in Spain. Yesterday, the BBC published a podcast in which Sara Khadem talks about her motives for leaving Iran. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sara-khadem-speaks-to-the-bbc",
+         "pubDate" : "Wed, 15 Feb 2023 15:17:06 +0100",
+         "title" : "Sara Khadem speaks to the BBC"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2235",
+         "pubDate" : "Wed, 15 Feb 2023 13:14:52 +0000",
+         "title" : "Azerbaijan Women's Championship: Beydullayeva defends title"
+      },
+      {
+         "description" : "As you are aware, the Indian Postal Department released a commemorative postage stamp in connection with 44th FIDE Chess Olympiad at Chennai. Those who are",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commemorative-postage-stamp-44th-fide-chess-olympiad/",
+         "pubDate" : "Wed, 15 Feb 2023 12:57:45 +0000",
+         "title" : "COMMEMORATIVE POSTAGE STAMP : 44TH FIDE CHESS OLYMPIAD"
+      },
+      {
          "description" : "The European Chess Union opens the bidding procedure for the organisation of&#xA0;the official European Chess Championships in 2023, 2024 &#38; 2025. A. The bidding procedure is open for the following ECU Chess Championships in 2023 &#38; 2024. 1.&#160; European Rapid &#38; Blitz Championship 2023 (estimated number of players: 700)2. &#160;European Women&#x2019;s Rapid &#38; Blitz Championship []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/texas-tech-claims-3rd-kasparov-chess-foundation-university-cup",
          "pubDate" : "Wed, 15 Feb 2023 12:45:06 +0100",
          "title" : "Texas Tech claims 3rd Kasparov Chess Foundation University Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2234",
+         "pubDate" : "Wed, 15 Feb 2023 11:20:57 +0000",
+         "title" : "FIDE joins the Sport Integrity Global Alliance"
       },
       {
          "description" : "The&#xA0;Cambridge International Open 2023&#xA0;is taking place from 15-19 February in Cambridge, England. It is a 9-round Swiss tournament which features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams,&#xA0;GM Daniel Dardha, and&#xA0;GM Oleg Korneev&#xA0;are the top-seeded players. The time control of the event is 90 minutes for the entire game, plus []",
@@ -1162,14 +1194,6 @@ news_feed (
          "title" : "ARBITER REFRESHER COURSE 2023-24"
       },
       {
-         "description" : "Today: Mathias Feist shows how ChessBase 17 automatically restarts the last viewed game or database at the next program start. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-how-to-use-the-new-save-memory-function-with-chessbase-17",
-         "pubDate" : "Mon, 06 Feb 2023 10:17:10 +0100",
-         "title" : "Explained by the engineers! - How to use the new save memory function with ChessBase 17?"
-      },
-      {
          "description" : "ECU E-Magazine January 2023 is out! In this edition of the ECU E-Magazine you may read about: The 1st European Cities &#38; Towns Chess Championship The 1st FIDE Olympiad for People with Disabilities Tata Steel Chess 2023 FIDE Women Grand Prix Munich European Senior Team Chess Championship 2023 Official invitation Upcoming European Individual Chess Championship 2023 Upcoming&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/03/chess-anish-giri-wins-at-wijk-aan-zee-as-carlsen-misses-out-by-just-half-a-point",
          "pubDate" : "Fri, 03 Feb 2023 08:00:02 +0000",
          "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
-      },
-      {
-         "description" : "Indian juggernaut going well and drew 2:2 against Hungary . It is indeed a splendid performance from Indian team in 1st Fide Chess Olympiad for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-4/",
-         "pubDate" : "Fri, 03 Feb 2023 07:12:33 +0000",
-         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 4"
       },
       {
          "description" : "The second leg of the 2022-2023 FIDE Women&#39;s Grand Prix kicked off with four decisive games in round one, featuring ferocious king attacks by GMs Tan Zhongyi, Nana Dzagnidze, Alexandra Kosteniuk, and Elisabeth Paehtz.&#38;nbsp; How to watch? The gam...",
@@ -1904,14 +1920,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-moves-closer-to-the-leader-after-10-rounds-of-the-tata-steel-masters",
          "pubDate" : "Wed, 25 Jan 2023 21:20:00 +0400",
          "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
-      },
-      {
-         "description" : "The 1st European Cities &#38; Towns Chess Championship will take place on Sunday, 29th January 2023,&#160;in hybrid cities venues. The event consists of four categories: Open, Women, Seniors, and Youth (U12). 24 teams will participate in the Open and Seniors sections which are merged, with separate prizes for the best Senior 50+ Teams. The top seeds are Prague&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
-         "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
-         "title" : "European Cities & Towns Chess Championship starts on Sunday"
       }
    ]
 }
