@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alejandro Ramirez is currently under investigation by US Chess and the Saint Louis Chess Club for sexual misconduct. In a tweet on Wednesday, WGM Jennifer Shahade claims to have been assaulted twice by Ramirez and also that she saw &#34;alarming ev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alejandro-ramirez-under-investigation-for-sexual-misconduct",
+         "pubDate" : "Wed, 15 Feb 2023 12:17:05 -0800",
+         "title" : "Alejandro Ramirez Under Investigation For Sexual Misconduct"
+      },
+      {
+         "description" : "Johannes Zukertort is one of the great but tragic figures of chess history. A former title contender, he was as brilliant as he was misunderstood. On the 137th anniversary of the first World Chess Championship Match, his life, career, and legacy are worth re-examining.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/johannes-zukertort-and-the-first-world-chess-championship-match",
+         "pubDate" : "Wed, 15 Feb 2023 19:00:00 +0100",
+         "title" : "Johannes Zukertort and the First World Chess Championship Match"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #555, Merijn van Delft takes a look at a complex and fascinating game that Max Warmerdam and Jorden van Foreest played in the Dutch League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-555-m-warmerdam-j-van-foreest",
+         "pubDate" : "Wed, 15 Feb 2023 18:00:00 +0100",
+         "title" : "Game of the Week #555: M. Warmerdam - J. van Foreest"
+      },
+      {
+         "description" : "For the second straight week, there was only one first-place finisher in the week&#39;s two Titled Tuesday events. And for the fifth time out of six total, it was GM Hikaru Nakamura who accomplished the feat. Nakamura didn&#39;t even need tiebreak scoring...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-february-14-2023",
+         "pubDate" : "Wed, 15 Feb 2023 08:51:11 -0800",
+         "title" : "Nakamura With Another Titled Tuesday Sweep"
+      },
+      {
          "description" : "Top Iranian chess player Sara Khadem has gone into exile, like many other Iranian chess players before her, and now lives with her family in Spain. Yesterday, the BBC published a podcast in which Sara Khadem talks about her motives for leaving Iran. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "Darwin Laylo wins Philippine Championship"
       },
       {
-         "description" : "In his Endgame Magic Show #226 Karsten continues to show endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2023",
-         "pubDate" : "Mon, 06 Feb 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #226: More Endgame Highlights of the Tata Steel Tournament 2023"
-      },
-      {
          "description" : "The action never stops in the low-stakes world of engine vs. engine chess competitions. Our previous fortnightly post mentioned two winners: <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023; 'For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event'). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In the 'Cup 11' Final match, LCZero and Stockfish tied the regulation games +1-1=10, then LCZero won the second pair of tiebreak games. In the Bronze match for 'Cup 11' third place, KomodoDragon and Ethereal tied +0-0=12; KomodoDragon won the s",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1168,14 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/free-pairing-software.html",
          "pubDate" : "Mon, 06 Feb 2023 12:30:00 +0000",
          "title" : "Free Pairing Software"
-      },
-      {
-         "description" : "The ChessBase Magazine appears six times a year and shows the latest trends in top level chess and opening theory. However, the issues do not get old: the first issue of 2023 is CBM #211, but Davide Nastasio recently had great fun looking at CBM #205. In an impromptu review he writes: every issue of the ChessBase Magazine \"is pure gold for those genuinely interested in growing as chess players\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pure-gold-davide-nastasio-reviews-chessbase-magazine-205",
-         "pubDate" : "Mon, 06 Feb 2023 12:09:50 +0100",
-         "title" : "\"Pure gold\" - Davide Nastasio reviews ChessBase Magazine #205"
       },
       {
          "description" : "The BCET is inviting nominations for the BCET Awards 2023 which are for junior schools (including colleges and other education establishments) and junior clubs in...",
@@ -1386,14 +1402,6 @@ news_feed (
          "title" : "Women's GP kicks off with 4 wins & 1 controversy"
       },
       {
-         "description" : "Chess fans had one more reason to celebrate on February 2. The game we all love became the most popular free game on the iOS app store, reaching the number-one spot in 28 countries. It also featured among the top 10 in 18 other countries. It f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-number-one-in-ios-app-store",
-         "pubDate" : "Fri, 03 Feb 2023 05:29:00 -0800",
-         "title" : "Chess.com Hits #1 In iOS App Store"
-      },
-      {
          "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/03/chess-anish-giri-wins-at-wijk-aan-zee-as-carlsen-misses-out-by-just-half-a-point",
          "pubDate" : "Fri, 03 Feb 2023 08:00:02 +0000",
          "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
-      },
-      {
-         "description" : "The second leg of the 2022-2023 FIDE Women&#39;s Grand Prix kicked off with four decisive games in round one, featuring ferocious king attacks by GMs Tan Zhongyi, Nana Dzagnidze, Alexandra Kosteniuk, and Elisabeth Paehtz.&#38;nbsp; How to watch? The gam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-1",
-         "pubDate" : "Thu, 02 Feb 2023 15:09:00 -0800",
-         "title" : "4 Decisive King Attacks By Early Leaders"
       },
       {
          "description" : "",
@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2189",
          "pubDate" : "Thu, 26 Jan 2023 02:40:45 +0000",
          "title" : "Tata Steel Masters: Carlsen keeps climbing the standings"
-      },
-      {
-         "description" : " Magnus Carlsen was the main mover at the top of the standings in Round 10 of the Tata Steel Masters. In spite of playing the late Titled Tuesday (and losing three games) he managed an impressive win. Today he found a very smart way to cause Parham Maghsoodloo problems and eventually outplayed his opponent. Afterwards Carlsen said he was happy to give himself a decent chance of a good tournament result, but pointed out that to win the tournament he is going to have to rely on others. Definitely back in contention though. The leading fixture of the day Wesley So against Anish Giri never really caught fire and was drawn in 34 moves. Nodirbek Abdusattorov played it very safe today against Ding ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/carlsen-moves-closer-to-the-leader-after-10-rounds-of-the-tata-steel-masters",
-         "pubDate" : "Wed, 25 Jan 2023 21:20:00 +0400",
-         "title" : "Carlsen moves closer to the leader after 10 rounds of the Tata Steel Masters - 10"
       }
    ]
 }
