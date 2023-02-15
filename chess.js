@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alejandro-ramirez-under-investigation-for-sexual-misconduct",
-         "pubDate" : "Wed, 15 Feb 2023 12:17:05 -0800",
+         "pubDate" : "Wed, 15 Feb 2023 12:17:00 -0800",
          "title" : "Alejandro Ramirez Under Investigation For Sexual Misconduct"
       },
       {
