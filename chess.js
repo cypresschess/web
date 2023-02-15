@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Kostya Kavutskiy Last week we had an opportunity to revisit the Saavedra position and the history behind it. This gave me the idea to find a few endgame studies where it applies. It is hard to remember an idea if you do not get the opportunity to practice using it. The endgame where this <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (3)</a> ap",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
+         "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
+         "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
+      },
+      {
          "description" : "The Pro Chess League 2023 started with a bang on Tuesday with two high-octane matchups that resulted in convincing wins for the prodigious Indian Yogis and the GM Magnus Carlsen-led Canada Chessbrahs. The Yogis kicked off their campaign in the b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-1-chessbrahs-yogis",
-         "pubDate" : "Tue, 14 Feb 2023 17:05:07 -0800",
+         "pubDate" : "Tue, 14 Feb 2023 17:05:00 -0800",
          "title" : "Carlsen Swindles For Chessbrah Victory, Indian Yogis Dominate Brazil Capybaras"
       },
       {
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
          "pubDate" : "Wed, 25 Jan 2023 09:00:55 +0000",
          "title" : "ECF Safeguarding Officer appointment"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2186",
-         "pubDate" : "Wed, 25 Jan 2023 04:39:37 +0000",
-         "title" : "Samvel Ter-Sahakyan takes the lead in FIDE Circuit race"
       }
    ]
 }
