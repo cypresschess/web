@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng outlines how to handle the must-win tournament situation. 2023.02.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/must-win-situation-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kMT44vfse_s.jpg?itok=d3Nuwt3m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/must-win-situation-grandmasters-choice-gm-josh-sheng",
+         "pubDate" : "Tue, 14 Feb 2023 23:35:04 +0000",
+         "title" : "The MUST-WIN Situation | Grandmaster's Choice - GM Josh Sheng"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14<br /> N. N. (Beginner) vs. Alex Moellering, ???: </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/roses-are-red-chess-game-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aP6miWUxJ1U.jpg?itok=RVmi-HQm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/roses-are-red-chess-game-beginner-breakdown",
+         "pubDate" : "Tue, 14 Feb 2023 23:35:04 +0000",
+         "title" : "Roses are Red, Chess is a Game | Beginner Breakdown"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2233",
+         "pubDate" : "Tue, 14 Feb 2023 23:00:23 +0000",
+         "title" : "Moldovan Championship: Lashkin and Mihailova claim titles"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1482,28 +1506,12 @@ news_feed (
          "title" : "Sac Or No Sac? (4)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on long diagonals and open files, the interstate highways for bishops, rooks, and queens! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/clear-way-long-diagonals-open-files-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AZAD1HgLNU4.jpg?itok=Rxtz1fDK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/clear-way-long-diagonals-open-files-beginner-breakdown",
-         "pubDate" : "Wed, 01 Feb 2023 02:23:57 +0000",
-         "title" : "Clear the Way! Long Diagonals & Open Files | Beginner Breakdown"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2201",
          "pubDate" : "Tue, 31 Jan 2023 23:24:46 +0000",
          "title" : "Inspiring battles in Round 2 of the Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings. 2023.01.31<br /> Craig Hilby vs. Razvan Preotu, 2018: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4133521\">https://www.365chess.com/game.php?back=1&amp;gid=4133521</a><br /> Jack Peters vs. Josh Sheng, 2015: B42 Sicilian, Kan, Polugaievsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sicilian-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sicilian-middlegames-grandmasters-choice-gm-josh-sheng",
-         "pubDate" : "Tue, 31 Jan 2023 20:23:36 +0000",
-         "title" : "Sicilian Middlegames | Grandmaster's Choice - GM Josh Sheng"
       },
       {
          "description" : "",
@@ -1920,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2187",
          "pubDate" : "Wed, 25 Jan 2023 02:13:03 +0000",
          "title" : "Tata Steel Masters: Abdusattorov survives scare, Giri moves up to second place"
-      },
-      {
-         "description" : " Today is a travel day for me. Heading down to Melbourne in a couple of hours to catch the end of the 2023 Oceania Zonal (and to hold at least one important meeting). By the time I touch down, four and a bit rounds should be completed, and a clearer picture of the eventual results should emerge. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/travel-day-for-me.html",
-         "pubDate" : "Tue, 24 Jan 2023 22:59:00 +0000",
-         "title" : "Travel day for me"
       }
    ]
 }
