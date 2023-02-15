@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union opens the bidding procedure for the organisation of&#xA0;the official European Chess Championships in 2023, 2024 &#38; 2025. A. The bidding procedure is open for the following ECU Chess Championships in 2023 &#38; 2024. 1.&#160; European Rapid &#38; Blitz Championship 2023 (estimated number of players: 700)2. &#160;European Women&#x2019;s Rapid &#38; Blitz Championship []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-opens-the-bidding-procedure-for-european-chess-championships-in-2023-2024-2025/",
+         "pubDate" : "Wed, 15 Feb 2023 12:14:08 +0000",
+         "title" : "ECU opens the bidding procedure for European Chess Championships in 2023, 2024 & 2025"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup. This event was played on lichess.org and hosted on chessstream.com on the weekend of February 4 and 5, 2023. The tournament attracted well over 500 university students from every continent and from nearly thirty countries. The event was a resounding success.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/texas-tech-claims-3rd-kasparov-chess-foundation-university-cup",
+         "pubDate" : "Wed, 15 Feb 2023 12:45:06 +0100",
+         "title" : "Texas Tech claims 3rd Kasparov Chess Foundation University Cup"
+      },
+      {
+         "description" : "The&#xA0;Cambridge International Open 2023&#xA0;is taking place from 15-19 February in Cambridge, England. It is a 9-round Swiss tournament which features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams,&#xA0;GM Daniel Dardha, and&#xA0;GM Oleg Korneev&#xA0;are the top-seeded players. The time control of the event is 90 minutes for the entire game, plus []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cambridge-international-open-2023-live/",
+         "pubDate" : "Wed, 15 Feb 2023 11:10:30 +0000",
+         "title" : "Cambridge International Open 2023 - LIVE"
+      },
+      {
+         "description" : "Magnus Carlsen scored 4/4 as the Canada Chessbrahs defeated the Charlotte Cobras 8.5:7.5 in Week 1 of the 2023 Pro Chess League, but only after a thrilling finale where Magnus came back from the dead to beat Awonder Liang. In the day's other match Vidit and Vaishali led the Indian Yogis to an 8.5:3.5 win over the Brazil Capybaras.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-swindle-gives-chessbrahs-pro-chess-league-win",
+         "pubDate" : "Wed, 15 Feb 2023 10:50:16 +0000",
+         "title" : "Carlsen swindle gives Chessbrahs Pro Chess League win"
+      },
+      {
+         "description" : "The&#xA0;WR Chess Masters&#xA0;super-tournament is taking place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#xA0;Ian Nepomniachtchi,&#xA0;Anish Giri,&#xA0;Wesley So,&#xA0;Levon Aronian,&#xA0;Nodirbek Abdusattorov,&#xA0;Jan-Krzysztof Duda,&#xA0;Gukesh D,&#xA0;Vincent Keymer,&#xA0;Praggnanandhaa&#xA0;and&#xA0;Andrey Esipenko&#xA0;in the field. The time control is 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-live/",
+         "pubDate" : "Wed, 15 Feb 2023 10:30:00 +0000",
+         "title" : "WR Chess Masters - LIVE"
+      },
+      {
+         "description" : "Airports Authority of India is inviting applications&#160;&#160;FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS Contract Scheme 2022-23 &#38; AAI Sports&#160;SCHOLARSHIP SCHEME 2023-24. Contract Form 2023-24 Scholarship Form",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/application-format-regarding-inviting-the-applications-for-meritorious-sportspersons-under-aai-sports-scholarship-scheme-2023-24/",
+         "pubDate" : "Wed, 15 Feb 2023 10:18:42 +0000",
+         "title" : "Application Format regarding INVITING THE APPLICATIONS FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS SCHOLARSHIP SCHEME 2023-24"
+      },
+      {
+         "description" : "The WR Chess Masters super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh D, Vincent Keymer, Praggnanandhaa and Andrey Esipenko in the field. The time control will be 120 minutes for the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-starts-in-dusseldorf/",
+         "pubDate" : "Wed, 15 Feb 2023 09:49:00 +0000",
+         "title" : "WR Chess Masters starts in Dusseldorf"
+      },
+      {
+         "description" : "The European Chess Union opens the bidding procedure for the organisation of&#160;the official European Chess Championships in 2023, 2024 &#38; 2025. The bids must be submitted exclusively in the Bid form regulated by the ECU (can be downloaded below). For any additional documents delivered separately from the bid form, it must be stated in the bid form what&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/",
+         "pubDate" : "Wed, 15 Feb 2023 09:22:08 +0000",
+         "title" : "INVITATION FOR BIDS: European Chess Championships 2023-2024-2025"
+      },
+      {
+         "description" : "The 2023 International Chess Open Graz will take place from 18 to 24 February in Graz, Austria. The event features three tournaments: A (for players rated 2000+), B (for players rated U2000) and C (for players rated U1700). Each tournament will be played in 9 rounds, swiss system, with the time control 90 min + []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/graz-chess-open-2023/",
+         "pubDate" : "Wed, 15 Feb 2023 09:19:00 +0000",
+         "title" : "Graz Chess Open 2023"
+      },
+      {
+         "description" : "Grandmasters Anish Giri and Sandipan Chanda gave master classes on the same day (21 Oct 2022) in ProChess, and I got to witness the interesting chess lessons being discussed in those sessions. Any chess fan would be thrilled with it, and my experience was absolutely fascinating! In this article, I share a few interesting positions and thought processes I encountered from these sessions. | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pro-chess-diaries-anish-giri-sandipan-chanda",
+         "pubDate" : "Wed, 15 Feb 2023 09:40:03 +0100",
+         "title" : "ProChess Diaries: Masterclasses by Anish and Sandipan"
+      },
+      {
          "description" : " IM Kostya Kavutskiy Last week we had an opportunity to revisit the Saavedra position and the history behind it. This gave me the idea to find a few endgame studies where it applies. It is hard to remember an idea if you do not get the opportunity to practice using it. The endgame where this <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (3)</a> ap",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
          "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
+      },
+      {
+         "description" : "The Cambridge International Open 2023 is a 9-round Swiss tournament that is being held from 15&#x2013;19 February 2023 in Cambridge, England. The event features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams, GM Daniel Dardha, and GM Oleg Korneev are the top-seeded players. The time control of the event is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/michael-adams-is-top-seeded-at-the-cambridge-international-open-2023/",
+         "pubDate" : "Wed, 15 Feb 2023 08:01:00 +0000",
+         "title" : "Michael Adams is top-seeded at the Cambridge International Open 2023"
       },
       {
          "description" : "The Pro Chess League 2023 started with a bang on Tuesday with two high-octane matchups that resulted in convincing wins for the prodigious Indian Yogis and the GM Magnus Carlsen-led Canada Chessbrahs. The Yogis kicked off their campaign in the b...",
@@ -178,46 +266,6 @@ news_feed (
          "title" : "Kosteniuk wins Women's Grand Prix in Munich"
       },
       {
-         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of&#xA0;Magnus Carlsen, Hikaru Nakamura,&#xA0;Fabiano Caruana,&#xA0;Anish Giri&#xA0;and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the end of the third []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pro-chess-league-2023-live/",
-         "pubDate" : "Tue, 14 Feb 2023 10:50:36 +0000",
-         "title" : "Pro Chess League 2023 - LIVE"
-      },
-      {
-         "description" : "By IM Michael Rahal (Munich, Germany) Despite losing to Chinese phenomenon Zhu Jiner, former Women's World Champion and winner of the 2021 World Cup Alexandra Kosteniuk added another tournament victory to her list of achievements by winning the Munich International Tournament this afternoon, the second event of the 2022-2023 FIDE Women's Grand Prix. In addition []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexandra-kosteniuk-wins-fide-women-grand-prix-munich/",
-         "pubDate" : "Tue, 14 Feb 2023 10:50:00 +0000",
-         "title" : "Alexandra Kosteniuk wins FIDE Women Grand Prix Munich"
-      },
-      {
-         "description" : "The 2023 Pro Chess League is a $150,000 team tournament taking place on chess.com. The event features 16 teams with participation of Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, Anish Giri and other world top players. The teams will compete in an elimination Swiss played over five weeks, followed by an eight-team single-elimination playoff. At the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pro-chess-league-2023/",
-         "pubDate" : "Tue, 14 Feb 2023 10:42:54 +0000",
-         "title" : "Pro Chess League 2023"
-      },
-      {
-         "description" : "The second leg of the&#xA0;2022-2023 Women&#x2019;s Grand Prix Series&#xA0;took place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players disputed an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct qualification to []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-womens-grand-prix-munich-final-standings/",
-         "pubDate" : "Tue, 14 Feb 2023 09:31:48 +0000",
-         "title" : "FIDE Women's Grand Prix Munich - Final standings"
-      },
-      {
-         "description" : "The 2023 edition of the Reykjavik Open will be held from March 29th till April 4th in Harpa Conference Hall.&#160;The event will be played in 9 rounds, swiss system, with time control: 90 min for 40 moves &#160;+ 30 minutes after move 40. Increment of 30 sec. for every move starting from move one. Schedule []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023/",
-         "pubDate" : "Tue, 14 Feb 2023 08:35:00 +0000",
-         "title" : "Reykjavik Chess Open 2023"
-      },
-      {
          "description" : "In the diagram position the white knight has to fight against the black pawns. Black's d-pawn and Black's f-pawn are both weak and seem to fall quickly. But the position is still tricky though White has a hidden way to win. Can you find it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -306,6 +354,14 @@ news_feed (
          "title" : "Endgame Magic #227: Endgame Highlights of the Tata Steel Tournament 2023 (Part 3)"
       },
       {
+         "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), the site mentions four other engines after stalwarts Stockfish and LCZero: Asmfish, Berserk, Koivisto, Sugar AI (and Sugar AI ICCF). I asked the TCEC and CCC '!commands' to tell me more about these engines. <P><B>TCEC:-</B> <UL><LI><B>!asmfish</B>&#149; asmFish, a port of Stockfish in x86-64 assembly by Mohammed Li, optional using AVX2 and BMI2 instructions, assembled with FASM to run under Windows or UNIX/Linux, first released in June 2016. See also<BR>https://www.chessprogramming.org/AsmFish and<BR>https://github.com/CounterPly/asmFish <LI><B>!ber",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html",
+         "pubDate" : "Mon, 13 Feb 2023 16:49:00 +0000",
+         "title" : "Chessify's Other Engines"
+      },
+      {
          "description" : "Magnus Carlsen stars for the Canada Chessbrahs as the Pro Chess League returns Tuesday, February 14 after a 3-year hiatus. The $150,000 tournament sees 16 teams battle it out over the the next five weeks before the Top 8 teams advance to playoffs. Fabiano Caruana, Hikaru Nakamura, Anish Giri and Women's World Champion Ju Wenjun are among the other players in action.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -352,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-10-kosteniuk-defends-lead-with-narrow-escase",
          "pubDate" : "Mon, 13 Feb 2023 11:29:27 +0100",
          "title" : "Women's Grand Prix, Round 10: Kosteniuk defends lead with narrow escape"
-      },
-      {
-         "description" : "The second leg of the&#160;2022-2023 Women&#x2019;s Grand Prix Series&#160;is taking place from 1st-14th February in Munich, the capital of the state of Bavaria. Twelve of the world&#x2019;s top female players will dispute an eleven-round all-play-all with their eyes set on the 15,000 euros first prize plus the valuable WGP points that add up for direct []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-munich-round-11-live/",
-         "pubDate" : "Mon, 13 Feb 2023 09:41:30 +0000",
-         "title" : "FIDE Women Grand Prix Munich - Round 11 live"
       },
       {
          "description" : "Although it should be well-known for everyone, as these situations appear over and over again during all kinds of events, most players - and unfortunately, many inexperienced arbiters - don't know how to handle three or fivefold repetitions and 50/75 moves draw properly. The primary aim of this article by International Arbiter Tamas Gyomber is to shed light on these areas through some field examples.",
@@ -1130,28 +1178,12 @@ news_feed (
          "title" : "ECU E-Magazine January 2023"
       },
       {
-         "description" : "A fourth consecutive win at the Munich Grand Prix left Alexandra Kosteniuk 1&frac12; points ahead of her closest chasers in the standings. On Sunday, the runaway leader defeated Tan Zhongyi with white after finding herself in some trouble during the opening phase of the game. Sharing second place on 2&frac12;/4 are Nana Dzagnidze, Mariya Muzychuk and Humpy Koneru. The latter two scored full points in round 4. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r4",
-         "pubDate" : "Mon, 06 Feb 2023 09:45:00 +0100",
-         "title" : "Munich GP: Kosteniuk beats Tan, extends her lead"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk continued her unbeaten run in the Munich FIDE Women&#39;s Grand Prix in round four after slaying GM Tan Zhongyi&#39;s Hyper Accelerated Dragon. The fourth straight victory for the &#34;Chess Queen&#34; pushes her out to a remarkable 1.5-poi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-4",
          "pubDate" : "Sun, 05 Feb 2023 16:17:00 -0800",
          "title" : "Unstoppable Kosteniuk Perfect So Far In Munich"
-      },
-      {
-         "description" : "The six strongest performers of the Airthings Masters Play-In will join Magnus Carlsen and Wesley So in Division I of the tournament's knockout phase starting Monday. Meanwhile, 16 players will battle it out in Division II, and 32 will play in Division III. In Friday's Play-In, Dommaraju Gukesh was the clear winner of the 9-round Swiss after impressively collecting 7&frac12; points. The Indian prodigy then went on to get a 2-0 victory over former world champion Vladimir Kramnik.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-play-in-report",
-         "pubDate" : "Mon, 06 Feb 2023 01:00:00 +0100",
-         "title" : "Gukesh shines in super strong Airthings Masters Play-In"
       },
       {
          "description" : "",
@@ -1440,14 +1472,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/another-oddball-rule.html",
          "pubDate" : "Thu, 02 Feb 2023 11:54:00 +0000",
          "title" : "Another oddball rule"
-      },
-      {
-         "description" : "Tamil Nadu State Chess Association on behalf of All India Chess Federation organised a Senior National Arbiter Seminar &#38; Examination at Adhiyamaan College of Engineering,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-hosur/",
-         "pubDate" : "Thu, 02 Feb 2023 09:17:48 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination at Hosur"
       },
       {
          "description" : "Who doesn't know Sesame Street, the American educational children's television series that premiered in 1969 and runs on animation and puppetry. It is one of the longest-running shows in history. And it has been adapted for dozens of other countries. In a must-read new book Natasha Lane Rogoff describes the harrowing conversion to Ulitsa Sezam for Russia and Ukraine. And yes, there is a chess connection.",
@@ -1888,38 +1912,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-championship-starts-on-sunday/",
          "pubDate" : "Wed, 25 Jan 2023 14:26:19 +0000",
          "title" : "European Cities & Towns Chess Championship starts on Sunday"
-      },
-      {
-         "description" : "Anish Giri has now beaten both world no. 1 Magnus Carlsen and world no. 2 Ding Liren in the 2023 Tata Steel Masters after winning a rollercoaster game against the Chinese star in Round 9. That almost gave him a share of the lead, but Nodirbek Abdusattorov survived a lost rook endgame against Vincent Keymer. In the Challengers, Mustafa Yilmaz took the sole lead with four rounds to go.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-9-giri-beats-ding-as-abdusattorov-escapes",
-         "pubDate" : "Wed, 25 Jan 2023 11:44:06 +0000",
-         "title" : "Tata Steel Chess 9: Giri beats Ding as Abdusattorov escapes"
-      },
-      {
-         "description" : " I dropped in towards the end of the third day of the 2023 Oceania Zonal to get a quick overview of the event. Most of the games were completed by the time I arrived, so I am yet to get a sense of how large the event actually is. The venue is quite nice, although the tournament is spread out across 4 rooms. All games being broadcast live are in one room, while the rest of the games are spread out. There is no specific analysis room, but players seem to be happy meeting in the foyer area. With so many players/rooms, the tournament has 5 or 6 arbiters who each have a room to supervise. There are alos a large number of volunteers, who handle things like bags and mobile phones. As for the chess ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-quick-impressions.html",
-         "pubDate" : "Wed, 25 Jan 2023 11:24:00 +0000",
-         "title" : "2023 Oceania Zonal - quick impressions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2188",
-         "pubDate" : "Wed, 25 Jan 2023 11:22:30 +0000",
-         "title" : "FIDE Candidates Tournaments 2024: Call for bids"
-      },
-      {
-         "description" : "The ECF wishes to thank Samantha Ali for her work as Safeguarding Officer but is also pleased to announce the appointment of Paul Sharratt and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-safeguarding-officer/",
-         "pubDate" : "Wed, 25 Jan 2023 09:00:55 +0000",
-         "title" : "ECF Safeguarding Officer appointment"
       }
    ]
 }
