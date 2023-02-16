@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Chess Club Berlin</strong> will be the stage of a <a href=\"https://chessarena.com/news/all/berlin-to-host-armageddon-championship-series-2023/\">televised series of five blitz tournaments</a>. The €460,000 <strong>Armaggedon Championship</strong> starts on 6 March with eight top players from the Americas, followed by Asia/Australia in April, Europe/Africa in May and top women in June, each group battling out participants for a grand final on 14-20 September. <strong>World Chess</strong> is planning to have the games broadcasted by TV stations such as <strong>CNBC</strong>, <strong>Channel 4</strong>, <strong>beIN</strong> and <str",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/armaggedon-season-targets-tv/",
+         "pubDate" : "Thu, 16 Feb 2023 15:39:28 +0100",
+         "title" : "Armaggedon season targets TV"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Sport Integrity Global Alliance</strong> has been launched by Qatar in 2016 to improve the country's standing ahead of the Football World Cup. <a href=\"https://www.swissinfo.ch/eng/business/3-3-promoting-integrity-without-transparency/48032334\">Lacking transparency and credibility in Western countries</a>, it provides sports bodies with an anti-corruption and anti-match-fixing agenda without making real changes. <strong>FIDE</strong> has <a href=\"https://fide.com/news/2234\">now proudly joined <strong>SIGA</strong></a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/fide-joins-qatar-sportswashing/",
+         "pubDate" : "Thu, 16 Feb 2023 14:41:48 +0100",
+         "title" : "FIDE joins Qatar sportswashing agency"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2236",
+         "pubDate" : "Thu, 16 Feb 2023 13:00:18 +0000",
+         "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Thu, 16 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
+         "description" : "I am pleased to announce that the 2023 Oceania Junior (Under 20) and Youth Championships (U 18,16,14,12,10 and 8) will be taking place in Canberra from the 11th to the 15th April 2022. This is during the first week of the school holidays for most Australian states, and starts immediately after the finish of the 2023 O2C Doeberl Cup. It is open to all players registered in federations belonging to Zone 3.6 + players resident in New Caledonia. As a regional junior championship it will award direct titles to the place getters (depending on other conditions being met).<div><br /></div><div>Full details of the tournament can be found at <a href=\"https://actjcl.org.au/oycc2023/index.html\">https://",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/2023-oceania-junior-and-youth.html",
+         "pubDate" : "Thu, 16 Feb 2023 12:37:00 +0000",
+         "title" : "2023 Oceania Junior and Youth Championship"
+      },
+      {
+         "description" : "World no. 2 Ian Nepomniachtchi will get a chance to warm-up for the World Championship match as a new classical supertournament, the WR Chess Masters, starts in Dusseldorf, Germany today. He'll face Tata Steel Masters winner Anish Giri, runner-up Nodirbek Abdusattorov, and the same army of kids that didn't quite dominate in Wijk aan Zee.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-kicks-off-in-dusseldorf",
+         "pubDate" : "Thu, 16 Feb 2023 12:32:05 +0000",
+         "title" : "WR Chess Masters kicks off in Dusseldorf"
+      },
+      {
          "description" : "Yesterday, the ceremonial and stylish opening of the WR Masters took place at the Hyatt Regency Hotel in D&uuml;sseldorf. After a press conference and a small show programme with a simul and \"chess doubles\", the lots were drawn. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,7 +402,7 @@ news_feed (
          "title" : "PRO Chess League 2023 - Games and Results"
       },
       {
-         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: David Llada (FIDE)",
+         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: Mark Luvshitz (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kosteniuk-wins-women-s-grand-prix-in-munich",
@@ -616,6 +664,14 @@ news_feed (
          "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
          "pubDate" : "Sat, 11 Feb 2023 14:14:35 +0000",
          "title" : "A mirror into the soul of chess"
+      },
+      {
+         "description" : " Before you learn the exact move-by-move chess opening theory, you should learn the opening principles. Especially for Beginner chess players, these basic chess opening principles will be much more valuable than any amount of opening theory. By understanding the chess opening principles, you will be able to make good moves even if your opponent plays [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-opening-strategy/\">Chess Opening Strategy: 3 Must-Know Principles</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/chess-opening-strategy/",
+         "pubDate" : "Sat, 11 Feb 2023 12:02:44 +0000",
+         "title" : "Chess Opening Strategy: 3 Must-Know Principles"
       },
       {
          "description" : " The 2023 Lifeline Bookfair was once again incredibly popular (and crowded). Once again I got there early, and was part of the first wave of buyers. Unfortunately this years chess collection was both a little smaller than the last few years, and mainly consisted of books I already owned. As a result I did not add to my chess collection, but did pick up other books of interest (A 1948 Tourist Guide to London for example) One item I did see, but not buy, was a Kasparov 2000 RISC chess computer. It was only $60 but a lack of storage space in my study made the decision for me. <br /> ",
@@ -1112,14 +1168,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-firouzja-3-0-as-airthings-masters-begins",
          "pubDate" : "Tue, 07 Feb 2023 08:34:28 +0000",
          "title" : "Erigaisi beats Firouzja 3:0 as Airthings Masters begins"
-      },
-      {
-         "description" : "Fighting against passed pawns can be tricky. In the diagram position Black's bishop has to fight against no less than four passed pawns. However, Black can still draw. But how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/long-diagonal-wrong-diagonal",
-         "pubDate" : "Tue, 07 Feb 2023 09:00:00 +0100",
-         "title" : "Long diagonal, wrong diagonal"
       },
       {
          "description" : "IM Alina Kashlinskaya scored her first victory of the Munich FIDE Women&#39;s Grand Prix &#38;nbsp;in round five, making an attacking comeback vs. GM Mariya Muzychuk after losing material early in the game.&#38;nbsp; GM Alexandra Kosteniuk continues to lead...",
@@ -1682,22 +1730,6 @@ news_feed (
          "title" : "FIDE ties two Candidates into single event"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After adding <strong>Rich&aacute;rd Rapport</strong> and <strong>Kirill Shevchenko</strong> to their national team, the Romanian Chess Federation <a href=\"https://www.linkedin.com/in/ivan-sokolov-a35a093b/\">has appointed</a> <strong>Ivan Sokolov</strong> as Head Coach. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/romania-hires-sokolov/",
-         "pubDate" : "Mon, 30 Jan 2023 11:37:31 +0100",
-         "title" : "Romania hires Sokolov"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Ever since the <strong>Chess Federation of Russia</strong> has applied to become a member of the <strong>Asian Chess Association</strong>in April 2022, the <strong>European Chess Union</strong> (ECU) has pressed <strong>FIDE</strong> to clarify the legality of such an unprecedented move and has now <a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">set a deadline of 24 February</a>, one year since the Russian invasion in Ukraine started, for Russia to withdraw its ECU membership before the Asian Chess Association's general assembly starting on 26 February where it can accept Russia. The ECU would still admit those Russian p",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/ecu-expects-russia-to-withdraw/",
-         "pubDate" : "Mon, 30 Jan 2023 11:05:18 +0100",
-         "title" : "ECU expects Russia to withdraw"
-      },
-      {
          "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1888,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2191",
          "pubDate" : "Thu, 26 Jan 2023 19:29:19 +0000",
          "title" : "The first Chess Olympiad for People with Disabilities: A milestone for chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2190",
-         "pubDate" : "Thu, 26 Jan 2023 13:03:03 +0000",
-         "title" : "First International Solving Championships of 2023 announced"
       }
    ]
 }
