@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-wizards-gnomes",
+         "pubDate" : "Wed, 15 Feb 2023 17:59:00 -0800",
+         "title" : "Gnomes Win 'One Of The Craziest' Turnarounds, Wizards Conjure Match Win"
+      },
+      {
          "description" : "GM Alejandro Ramirez is currently under investigation by US Chess and the Saint Louis Chess Club for sexual misconduct. In a tweet on Wednesday, WGM Jennifer Shahade claims to have been assaulted twice by Ramirez and also that she saw &#34;alarming ev...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1298,14 +1306,6 @@ news_feed (
          "title" : "Gukesh Beats Former World Champion Kramnik 3 Times, Dominates Play-In"
       },
       {
-         "description" : "GM Alexandra Kosteniuk, known as ChessQueen on Chess.com, captured the sole lead in round two of the Munich&#38;nbsp;FIDE Women&#39;s Grand Prix. She defeated longtime rival GM Elisabeth Paehtz to reach 2-0. GM Anna Muzychuk earned her first victory by ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-2",
-         "pubDate" : "Sat, 04 Feb 2023 10:47:00 -0800",
-         "title" : "ChessQueen Captures Lead After Rival's Puzzling Blunder"
-      },
-      {
          "description" : "The elite tournament at Wijk aan Zee, Holland, which finished earlier this week, has resulted in victory for Anish Giri, the former Russian, now Dutch, Grandmaster. GM Giri needs some introduction to a global audience, but he is a potential world champion, indeed a player who has already inflicted several defeats on Magnus Carlsen - including []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-10-magnus-within-striking-distance",
          "pubDate" : "Thu, 26 Jan 2023 11:44:02 +0000",
          "title" : "Tata Steel Chess 10: Magnus within striking distance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2189",
-         "pubDate" : "Thu, 26 Jan 2023 02:40:45 +0000",
-         "title" : "Tata Steel Masters: Carlsen keeps climbing the standings"
       }
    ]
 }
