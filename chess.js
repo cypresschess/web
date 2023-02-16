@@ -74,6 +74,14 @@ news_feed (
          "title" : "ECU opens the bidding procedure for European Chess Championships in 2023, 2024 & 2025"
       },
       {
+         "description" : "The Cambridge International Open has certainly proven itself to be one of the most sought-after events in England. With only 121 places available, there were...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/cambridge-international-open-underway/",
+         "pubDate" : "Wed, 15 Feb 2023 12:00:48 +0000",
+         "title" : "Cambridge International Open - underway"
+      },
+      {
          "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup. This event was played on lichess.org and hosted on chessstream.com on the weekend of February 4 and 5, 2023. The tournament attracted well over 500 university students from every continent and from nearly thirty countries. The event was a resounding success.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
