@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his 'Fast & Furious' show, Robert Ris has a look at the game Mamedyarov-Sevian from the Pro Chess League 2023. The game featured a sharp line from the Semi-Slav Meran variation which became popular after the World Championship match between Kramnik and Anand in Bonn 2008. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-semi-slav-meran",
+         "pubDate" : "Thu, 16 Feb 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Semi-Slav Meran"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Chess Club Berlin</strong> will be the stage of a <a href=\"https://chessarena.com/news/all/berlin-to-host-armageddon-championship-series-2023/\">televised series of five blitz tournaments</a>. The €460,000 <strong>Armaggedon Championship</strong> starts on 6 March with eight top players from the Americas, followed by Asia/Australia in April, Europe/Africa in May and top women in June, each group battling out participants for a grand final on 14-20 September. <strong>World Chess</strong> is planning to have the games broadcasted by TV stations such as <strong>CNBC</strong>, <strong>Channel 4</strong>, <strong>beIN</strong> and <str",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -402,7 +410,7 @@ news_feed (
          "title" : "PRO Chess League 2023 - Games and Results"
       },
       {
-         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: Mark Luvshitz (FIDE)",
+         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: Mark Livshitz (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kosteniuk-wins-women-s-grand-prix-in-munich",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2219",
          "pubDate" : "Tue, 07 Feb 2023 12:22:49 +0000",
          "title" : "Tolerance Games, Asian Chess Women's Contest, run big"
-      },
-      {
-         "description" : "Attacking is what is most fun in chess. Ideally, you mate! But how do you make your attack successful? On his latest Fritztrainer, Grandmaster Karsten M&uuml;ller has put together some rules of thumb for a successful attack. Christian H&ouml;the has taken a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/karsten-mueller-how-to-attack-review",
-         "pubDate" : "Tue, 07 Feb 2023 13:11:04 +0100",
-         "title" : "Karsten M&uuml;ller: How to attack - Review"
       },
       {
          "description" : "Senior National Arbiter Examination held at Hosur Tamil Nadu Certificates are out to download. Link : https://aicf.online/Arbiter-Seminar-Hosur.html Any Correction mail at aicfwebmaster2021@gmail.com",
@@ -1912,14 +1912,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention-as-final-rounds-loom-at-wijk",
          "pubDate" : "Fri, 27 Jan 2023 08:00:45 +0000",
          "title" : "Chess: Magnus Carlsen jumps back into contention as final rounds loom at Wijk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2191",
-         "pubDate" : "Thu, 26 Jan 2023 19:29:19 +0000",
-         "title" : "The first Chess Olympiad for People with Disabilities: A milestone for chess"
       }
    ]
 }
