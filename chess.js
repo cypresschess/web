@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2237",
+         "pubDate" : "Thu, 16 Feb 2023 21:22:26 +0000",
+         "title" : "Alexandr Fier wins VI Montevideo Open \"Marcel Duchamp Cup 2023\""
+      },
+      {
          "description" : "In his 'Fast & Furious' show, Robert Ris has a look at the game Mamedyarov-Sevian from the Pro Chess League 2023. The game featured a sharp line from the Semi-Slav Meran variation which became popular after the World Championship match between Kramnik and Anand in Bonn 2008. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
