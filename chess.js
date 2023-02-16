@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yesterday, the ceremonial and stylish opening of the WR Masters took place at the Hyatt Regency Hotel in D&uuml;sseldorf. After a press conference and a small show programme with a simul and \"chess doubles\", the lots were drawn. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-ceremony-of-the-wr-masters",
+         "pubDate" : "Thu, 16 Feb 2023 12:22:57 +0100",
+         "title" : "Opening ceremony of the WR Masters"
+      },
+      {
+         "description" : "After WGM Jennifer Shahade revealed through her Twitter account that GM Alejandro Ramirez is under multiple investigations for sexual misconduct, the US Chess Federation published the official statement on the recent allegations. &#8220;US Chess is aware that one of its employees has made serious allegations about a member of the chess community. US Chess will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/us-chess-federation-publishes-the-official-statement-on-recent-allegations-against-alejandro-ramirez/",
+         "pubDate" : "Thu, 16 Feb 2023 10:53:44 +0000",
+         "title" : "US Chess Federation publishes the official statement on recent allegations against Alejandro Ramirez"
+      },
+      {
+         "description" : "The&#xA0;WR Chess Masters&#xA0;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#xA0;Ian Nepomniachtchi,&#xA0;Anish Giri,&#xA0;Wesley So,&#xA0;Levon Aronian,&#xA0;Nodirbek Abdusattorov,&#xA0;Jan-Krzysztof Duda,&#xA0;Gukesh D,&#xA0;Vincent Keymer,&#xA0;Praggnanandhaa&#xA0;and&#xA0;Andrey Esipenko&#xA0;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-1-live/",
+         "pubDate" : "Thu, 16 Feb 2023 10:20:33 +0000",
+         "title" : "WR Chess Masters 2023 - Round 1 live"
+      },
+      {
+         "description" : "The name Erich Eliskases is familiar to only a few chess enthusiasts today. However, the Austrian was one of the best players in the world in the late 1930s. In 1941 he was supposed to play for the World Championship with Alexander Alekhine. But things turned out differently. 15 February 2023 is the 110th birthday of Eliskases, who was born in Innsbruck, Austria, and died in Cordoba, Argentina.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-erich-eliskases-15-february-1913-2-february-1997",
+         "pubDate" : "Thu, 16 Feb 2023 11:14:57 +0100",
+         "title" : "Remembering Erich Eliskases (15 February 1913 - 2 February 1997)"
+      },
+      {
+         "description" : "&#8220;Currently there are multiple investigations underway on Alejandro Ramirez and sexual misconduct&#8220;, reveals the two-time US Women's Chess Champion, poker player, and commentator of the elite chess events held at the Saint Louis Chess Club WGM Jennifer Shahade. Shahade claims that she was assaulted by Ramirez twice and that she saw alarming evidence from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/jennifer-shahade-there-are-multiple-investigations-underway-on-alejandro-ramirez-and-sexual-misconduct/",
+         "pubDate" : "Thu, 16 Feb 2023 09:44:00 +0000",
+         "title" : "Jennifer Shahade: \"There are multiple investigations underway on Alejandro Ramirez and sexual misconduct\""
+      },
+      {
+         "description" : "Last week, at its General Assembly, the Sport Integrity Global Alliance (SIGA) unanimously approved FIDE's application to become a full member of the organization.&#160; SIGA is an independent not-for-profit that was founded with one goal: To ensure the sports industry is governed under the highest integrity standards, free from any form of unethical, illicit, and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-joins-the-sport-integrity-global-alliance-siga/",
+         "pubDate" : "Thu, 16 Feb 2023 09:20:00 +0000",
+         "title" : "FIDE joins the Sport Integrity Global Alliance (SIGA)"
+      },
+      {
          "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -218,44 +266,12 @@ news_feed (
          "title" : "Singapore Champioship: Kevin Goh and Gong Qianyun clinch titles"
       },
       {
-         "description" : "The AQ Prime ASEAN Championship is taking place from 11&#x2013;17 February 2023 in Quezon City, Philippines. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 12-player round-robin tournament with Susanto Megaranto, Rolando Nolte, Darwin Laylo, Li Tian Yeoh, John Paul Gomez, Paulo Bersamina, Prin Laohawirapap, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aq-prime-asean-championship-2023-live/",
-         "pubDate" : "Tue, 14 Feb 2023 17:50:30 +0000",
-         "title" : "AQ Prime ASEAN Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The 2nd &#8220;She Plays To Win&#8221; International is taking place from 15&#x2013;19 February 2023 in Edinburgh. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Ketevan Arakhamia-Grant, Fiona Steil-Antoni, Zoe Varney, Andrea Henderson de La Fuente, Louise Head, Suzie []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-she-plays-to-win-international-2023-live/",
-         "pubDate" : "Tue, 14 Feb 2023 17:44:46 +0000",
-         "title" : "2nd \"She Plays To Win\" International 2023 - LIVE"
-      },
-      {
-         "description" : "The Dolomitenbank Open Lienz is taking place from 11&#x2013;18 February 2023 in Lienz, Austria. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Dragos Ceres, Kiril Kostov, Sandipan Chanda, Evgeny Romanov, Theo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dolomitenbank-open-lienz-2023-live/",
-         "pubDate" : "Tue, 14 Feb 2023 17:39:18 +0000",
-         "title" : "Dolomitenbank Open Lienz 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunders-be-gone-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aP6miWUxJ1U.jpg?itok=RVmi-HQm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
          "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
          "title" : "Blunders Be Gone! | Beginner Breakdown"
-      },
-      {
-         "description" : "The 21st Rochefort Masters is taking place from 11-17 February 2023 in Rochefort, France. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with Kirk Ghazarian, Diptayan Ghosh, Andrei Maksimenko, Vladyslav Larkin, Krishnan []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/21st-rochefort-masters-2023-live/",
-         "pubDate" : "Tue, 14 Feb 2023 17:33:40 +0000",
-         "title" : "21st Rochefort Masters 2023 - LIVE"
       },
       {
          "description" : "Wednesday evening will see the official opening of the WR Masters at the Hyatt Regency Hotel in D&uuml;sseldorf. The tournament starts on Thursday at 14:00 with the 1st round. A number of players from the next generation will face the current world elite. For Ian Nepomiachtchi, the tournament is also a dress rehearsal for the World Championship in April. German chess fans are keeping their fingers crossed for Vincent Keymer in particular.",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "Long diagonal, wrong diagonal"
       },
       {
-         "description" : "The fifth round of the Munich Grand Prix saw Alina Kashlinskaya scoring her first full point. The Polish IM was losing in the middlegame, but managed to hold on and turn the tables once Mariya Muzychuk erred in a double-edged position. Meanwhile, Alexandra Kosteniuk (pictured) kept her 1&frac12;-point lead by escaping with a draw from a clearly inferior position against Harika Dronavalli. | Photo: FIDE / David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r5",
-         "pubDate" : "Tue, 07 Feb 2023 07:15:00 +0100",
-         "title" : "Munich GP: Kashlinskaya scores, Kosteniuk escapes"
-      },
-      {
          "description" : "IM Alina Kashlinskaya scored her first victory of the Munich FIDE Women&#39;s Grand Prix &#38;nbsp;in round five, making an attacking comeback vs. GM Mariya Muzychuk after losing material early in the game.&#38;nbsp; GM Alexandra Kosteniuk continues to lead...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/",
          "pubDate" : "Tue, 07 Feb 2023 00:10:37 +0000",
          "title" : "Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings"
-      },
-      {
-         "description" : "Three out of four quarterfinal matches in Division I of the Airthings Masters had clear winners - i.e. players who only needed three games to remain in the winners' bracket. One of these three players was Arjun Erigaisi, as he scored three consecutive wins to take down quick-play specialist Alireza Firouzja. Arjun will face Magnus Carlsen in semis. In the other semifinal matchup, Wesley So will face Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-1",
-         "pubDate" : "Tue, 07 Feb 2023 00:30:00 +0100",
-         "title" : "Airthings Masters: Arjun stuns Firouzja"
       },
       {
          "description" : "Four winners emerged in Division I of the Champions Chess Tour Airthings Masters 2023 on Tuesday. GMs Magnus Carlsen, Hikaru Nakamura, and Arjun Erigaisi clinched their matches in just three games against GMs Alexey Sarana, Gukesh D, and Alireza F...",
@@ -1896,22 +1896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2190",
          "pubDate" : "Thu, 26 Jan 2023 13:03:03 +0000",
          "title" : "First International Solving Championships of 2023 announced"
-      },
-      {
-         "description" : " GM Zong Yuan Zhao is is outright first after round 6 of the 2023 Oceania Zonal, with 6 wins from 6 games. In today's only round he beat Rebo Fu, while GM Temur Kuybokarov and FM Patrick Gong drew. Kuybokarov and Gong share 2nd place on 5.5, while there is a large pack of players on 5/6. In the Women's event WGM Julia Ryjanova has also scored 6/6 and leads by 1.5 points. Sharing 2nd place are WGM Jilin Zhang, Luna Xu, and Om O'Carroll. Again there is a large group of players on 4 points hoping to catch Ryjanova. Tomorrow there will be 2 rounds, starting at 10am. Board 1 sees Kuybokarov v Zhao, while FM Patrick Gong is up against IM Igor Bjelobrk. Gong is not only hoping for a win in this gam",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/2023-oceania-zonal-after-round-6.html",
-         "pubDate" : "Thu, 26 Jan 2023 12:03:00 +0000",
-         "title" : "2023 Oceania Zonal - After round 6"
-      },
-      {
-         "description" : "Magnus Carlsen beat Parham Maghsoodloo in Round 10 of the Tata Steel Masters to pick up a 3rd win in four games and move within a point of 18-year-old leader Nodirbek Abdusattorov with three rounds to go. Gukesh made it two wins in a row after a wild clash with Praggnanandhaa, while Vincent Keymer let another winning rook endgame slip, this time against Jorden van Foreest.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-10-magnus-within-striking-distance",
-         "pubDate" : "Thu, 26 Jan 2023 11:44:02 +0000",
-         "title" : "Tata Steel Chess 10: Magnus within striking distance"
       }
    ]
 }
