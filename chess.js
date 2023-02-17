@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So, Levon Aronian and Andrey Esipenko kicked off the WR Chess Masters with wins, as they defeated Jan-Krzysztof Duda, Praggnanandhaa and Vincent Keymer respectively. Out of the three, So was the first one to leave the playing hall with a full point to his name. Aronian and Esipenko needed to work harder to convert their superior endgame positions against resilient opponents. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r1",
+         "pubDate" : "Fri, 17 Feb 2023 00:10:00 +0100",
+         "title" : "WR Masters: So, Aronian and Esipenko score with white"
+      },
+      {
+         "description" : "Two teams, Blitz and the Gotham Knights, emerged triumphant on Thursday in the Pro Chess League after wins against Team MGD1 and the Berlin Bears, respectively. Both matches featured seismic comebacks for the favorites after tough starts. Despit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-blitz-gotham-knights",
+         "pubDate" : "Thu, 16 Feb 2023 14:05:00 -0800",
+         "title" : "Blitz Flips Script In Tiebreaks, Gotham Knights Dominate After Shocking Upset"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2236",
          "pubDate" : "Thu, 16 Feb 2023 13:00:18 +0000",
          "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Thu, 16 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "I am pleased to announce that the 2023 Oceania Junior (Under 20) and Youth Championships (U 18,16,14,12,10 and 8) will be taking place in Canberra from the 11th to the 15th April 2022. This is during the first week of the school holidays for most Australian states, and starts immediately after the finish of the 2023 O2C Doeberl Cup. It is open to all players registered in federations belonging to Zone 3.6 + players resident in New Caledonia. As a regional junior championship it will award direct titles to the place getters (depending on other conditions being met).<div><br /></div><div>Full details of the tournament can be found at <a href=\"https://actjcl.org.au/oycc2023/index.html\">https://",
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2214",
          "pubDate" : "Sat, 04 Feb 2023 20:17:00 +0000",
          "title" : "Poland makes history as the winner of the first Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "GM Gukesh D finished first in the inaugural Champions Chess Tour Airthings Masters Play-In Swiss 2023. With six wins and three draws, he went undefeated to secure the top spot in the grandmaster-only Swiss Event. Gukesh, as well as five other pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-wins-cct-airthings-masters-play-in",
-         "pubDate" : "Sat, 04 Feb 2023 11:01:00 -0800",
-         "title" : "Gukesh Beats Former World Champion Kramnik 3 Times, Dominates Play-In"
       },
       {
          "description" : "The elite tournament at Wijk aan Zee, Holland, which finished earlier this week, has resulted in victory for Anish Giri, the former Russian, now Dutch, Grandmaster. GM Giri needs some introduction to a global audience, but he is a potential world champion, indeed a player who has already inflicted several defeats on Magnus Carlsen - including []",
