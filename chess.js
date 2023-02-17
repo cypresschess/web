@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So landed a famous tactical blow on move 15 against Jan-Krzysztof Duda to open the scoring in the WR Chess Masters in Dusseldorf, with Levon Aronian following with a win over Praggnanandhaa. Andrey Esipenko scored the day's last win, finally grinding down Vincent Keymer in a marathon 7-hour, 101-move win. Ian Nepomniachtchi forced an early draw after being surprised by Nodirbek Abdusattorov's Benko Gambit.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-1-so-aronian-and-esipenko-all-win",
+         "pubDate" : "Fri, 17 Feb 2023 11:18:52 +0000",
+         "title" : "WR Chess Masters 1: So, Aronian and Esipenko all win"
+      },
+      {
+         "description" : "The Romanian Women's Chess Championship 2023&#xA0;will take place from 18-26 February in Sebes. The event will be simultaneously held with the 2023 Romanian National Chess Championship. Championships will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 15 minutes until the end of the game, with the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-womens-chess-championship-2023/",
+         "pubDate" : "Fri, 17 Feb 2023 10:19:37 +0000",
+         "title" : "Romanian Women's Chess Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2238",
+         "pubDate" : "Fri, 17 Feb 2023 10:02:51 +0000",
+         "title" : "WR Chess Masters: Fighting Round 1, three joint leaders"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, M P Chess Adhoc Committee is organizing a Senior National Arbiters Seminar at Oriental University, Indore from 18-19",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-indore/",
+         "pubDate" : "Fri, 17 Feb 2023 09:42:44 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination at Indore"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-2-live/",
+         "pubDate" : "Fri, 17 Feb 2023 09:18:00 +0000",
+         "title" : "WR Chess Masters 2023 - Round 2 live"
+      },
+      {
+         "description" : "Appended below find the list of Arbiters for refresher course. You are requested to check correctness of the data and inform us by email (aicfarbiterscommission@gmail.com)",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/urgent-attention-arbiters-refresher-course/",
+         "pubDate" : "Fri, 17 Feb 2023 08:55:01 +0000",
+         "title" : "Urgent Attention : Arbiter's Refresher Course"
+      },
+      {
+         "description" : "Wesley So, Levon Aronian and Andrey Esipenko share the top spot after a fighting first round of the WR Chess Masters. They won the first three decided games of the tournament. Ian Nepomniachtchi &#x2013; Nodirbek Abdusattorov &#xBD;-&#xBD; The game that started the most combative ended first. After 1.d4 Nf6 2.c4, the 18-year-old Uzbek's double-edged 2c5 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/so-aronian-and-esipenko-in-the-early-lead-of-wr-chess-masters/",
+         "pubDate" : "Fri, 17 Feb 2023 08:23:00 +0000",
+         "title" : "So, Aronian and Esipenko in the early lead of WR Chess Masters"
+      },
+      {
          "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
          "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
-         "title" : "Chess: Britain's 4NCL league fosters potential grandmaster talents"
+         "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
+      },
+      {
+         "description" : "The 2023 Romanian National Chess Championship will take place from 18-26 February in Sebes. The event will be simultaneously held with the Romanian Women's Chess Championship 2023. Championships will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 15 minutes until the end of the game, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-national-chess-championship-2023/",
+         "pubDate" : "Fri, 17 Feb 2023 07:07:00 +0000",
+         "title" : "Romanian National Chess Championship 2023"
       },
       {
          "description" : "Wesley So, Levon Aronian and Andrey Esipenko kicked off the WR Chess Masters with wins, as they defeated Jan-Krzysztof Duda, Praggnanandhaa and Vincent Keymer respectively. Out of the three, So was the first one to leave the playing hall with a full point to his name. Aronian and Esipenko needed to work harder to convert their superior endgame positions against resilient opponents. | Photo: Lennart Ootes",
@@ -66,7 +130,7 @@ news_feed (
          "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
       },
       {
-         "description" : "I am pleased to announce that the 2023 Oceania Junior (Under 20) and Youth Championships (U 18,16,14,12,10 and 8) will be taking place in Canberra from the 11th to the 15th April 2022. This is during the first week of the school holidays for most Australian states, and starts immediately after the finish of the 2023 O2C Doeberl Cup. It is open to all players registered in federations belonging to Zone 3.6 + players resident in New Caledonia. As a regional junior championship it will award direct titles to the place getters (depending on other conditions being met).<div><br /></div><div>Full details of the tournament can be found at <a href=\"https://actjcl.org.au/oycc2023/index.html\">https://",
+         "description" : "I am pleased to announce that the 2023 Oceania Junior (Under 20) and Youth Championships (U 18,16,14,12,10 and 8) will be taking place in Canberra from the 11th to the 15th April 2023. This is during the first week of the school holidays for most Australian states, and starts immediately after the finish of the 2023 O2C Doeberl Cup. It is open to all players registered in federations belonging to Zone 3.6 + players resident in New Caledonia. As a regional junior championship it will award direct titles to the place getters (depending on other conditions being met).<div><br /></div><div>Full details of the tournament can be found at <a href=\"https://actjcl.org.au/oycc2023/index.html\">https://",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-oceania-junior-and-youth.html",
@@ -98,7 +162,7 @@ news_feed (
          "title" : "US Chess Federation publishes the official statement on recent allegations against Alejandro Ramirez"
       },
       {
-         "description" : "The&#xA0;WR Chess Masters&#xA0;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#xA0;Ian Nepomniachtchi,&#xA0;Anish Giri,&#xA0;Wesley So,&#xA0;Levon Aronian,&#xA0;Nodirbek Abdusattorov,&#xA0;Jan-Krzysztof Duda,&#xA0;Gukesh D,&#xA0;Vincent Keymer,&#xA0;Praggnanandhaa&#xA0;and&#xA0;Andrey Esipenko&#xA0;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-1-live/",
@@ -226,7 +290,7 @@ news_feed (
          "title" : "FIDE joins the Sport Integrity Global Alliance"
       },
       {
-         "description" : "The&#xA0;Cambridge International Open 2023&#xA0;is taking place from 15-19 February in Cambridge, England. It is a 9-round Swiss tournament which features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams,&#xA0;GM Daniel Dardha, and&#xA0;GM Oleg Korneev&#xA0;are the top-seeded players. The time control of the event is 90 minutes for the entire game, plus []",
+         "description" : "The&#160;Cambridge International Open 2023&#160;is taking place from 15-19 February in Cambridge, England. It is a 9-round Swiss tournament which features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams,&#160;GM Daniel Dardha, and&#160;GM Oleg Korneev&#160;are the top-seeded players. The time control of the event is 90 minutes for the entire game, plus []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/cambridge-international-open-2023-live/",
@@ -242,14 +306,6 @@ news_feed (
          "title" : "Carlsen swindle gives Chessbrahs Pro Chess League win"
       },
       {
-         "description" : "The&#xA0;WR Chess Masters&#xA0;super-tournament is taking place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#xA0;Ian Nepomniachtchi,&#xA0;Anish Giri,&#xA0;Wesley So,&#xA0;Levon Aronian,&#xA0;Nodirbek Abdusattorov,&#xA0;Jan-Krzysztof Duda,&#xA0;Gukesh D,&#xA0;Vincent Keymer,&#xA0;Praggnanandhaa&#xA0;and&#xA0;Andrey Esipenko&#xA0;in the field. The time control is 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-live/",
-         "pubDate" : "Wed, 15 Feb 2023 10:30:00 +0000",
-         "title" : "WR Chess Masters - LIVE"
-      },
-      {
          "description" : "Airports Authority of India is inviting applications&#160;&#160;FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS Contract Scheme 2022-23 &#38; AAI Sports&#160;SCHOLARSHIP SCHEME 2023-24. Contract Form 2023-24 Scholarship Form",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -258,28 +314,12 @@ news_feed (
          "title" : "Application Format regarding INVITING THE APPLICATIONS FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS SCHOLARSHIP SCHEME 2023-24"
       },
       {
-         "description" : "The WR Chess Masters super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh D, Vincent Keymer, Praggnanandhaa and Andrey Esipenko in the field. The time control will be 120 minutes for the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-starts-in-dusseldorf/",
-         "pubDate" : "Wed, 15 Feb 2023 09:49:00 +0000",
-         "title" : "WR Chess Masters starts in Dusseldorf"
-      },
-      {
          "description" : "The European Chess Union opens the bidding procedure for the organisation of&#160;the official European Chess Championships in 2023, 2024 &#38; 2025. The bids must be submitted exclusively in the Bid form regulated by the ECU (can be downloaded below). For any additional documents delivered separately from the bid form, it must be stated in the bid form what&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/",
          "pubDate" : "Wed, 15 Feb 2023 09:22:08 +0000",
          "title" : "INVITATION FOR BIDS: European Chess Championships 2023-2024-2025"
-      },
-      {
-         "description" : "The 2023 International Chess Open Graz will take place from 18 to 24 February in Graz, Austria. The event features three tournaments: A (for players rated 2000+), B (for players rated U2000) and C (for players rated U1700). Each tournament will be played in 9 rounds, swiss system, with the time control 90 min + []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/graz-chess-open-2023/",
-         "pubDate" : "Wed, 15 Feb 2023 09:19:00 +0000",
-         "title" : "Graz Chess Open 2023"
       },
       {
          "description" : "Grandmasters Anish Giri and Sandipan Chanda gave master classes on the same day (21 Oct 2022) in ProChess, and I got to witness the interesting chess lessons being discussed in those sessions. Any chess fan would be thrilled with it, and my experience was absolutely fascinating! In this article, I share a few interesting positions and thought processes I encountered from these sessions. | Photo: Shahid Ahmed",
@@ -296,14 +336,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
          "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
-      },
-      {
-         "description" : "The Cambridge International Open 2023 is a 9-round Swiss tournament that is being held from 15&#x2013;19 February 2023 in Cambridge, England. The event features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams, GM Daniel Dardha, and GM Oleg Korneev are the top-seeded players. The time control of the event is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/michael-adams-is-top-seeded-at-the-cambridge-international-open-2023/",
-         "pubDate" : "Wed, 15 Feb 2023 08:01:00 +0000",
-         "title" : "Michael Adams is top-seeded at the Cambridge International Open 2023"
       },
       {
          "description" : "The Pro Chess League 2023 started with a bang on Tuesday with two high-octane matchups that resulted in convincing wins for the prodigious Indian Yogis and the GM Magnus Carlsen-led Canada Chessbrahs. The Yogis kicked off their campaign in the b...",
@@ -1402,22 +1434,6 @@ news_feed (
          "title" : "Speculative fiction"
       },
       {
-         "description" : "FIDE World School Chess Championship 2023 will be started from 13th to 23rd April, 2023 at Rhodes, Greece and players participated in the Over the Board National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-school-chess-championship-2023/",
-         "pubDate" : "Sat, 04 Feb 2023 07:49:48 +0000",
-         "title" : "World School Chess Championship - 2023"
-      },
-      {
-         "description" : "The Indian Chess team tested first defeat on round 5 to Poland 1:3 .However Kishan Gangolli and Naveen Kumar A drew against their polish opponents",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-round-5/",
-         "pubDate" : "Sat, 04 Feb 2023 06:24:49 +0000",
-         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Round 5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1904,22 +1920,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/hursts-chess-on-web.html",
          "pubDate" : "Fri, 27 Jan 2023 16:20:00 +0000",
          "title" : "Hurst's 'Chess on the Web'"
-      },
-      {
-         "description" : " Just moments after a tough loss the defeat looks way more daunting than it actually is. In some cases after a difficult loss, I went as far as to question my whole life. \"Why am I wasting my time on this stupid game?\" is a question that sadly also many chess amateurs are familiar with. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/overcome-loss/\">Resilience In Chess: How to Get Back After A Tough Loss</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/overcome-loss/",
-         "pubDate" : "Fri, 27 Jan 2023 12:14:49 +0000",
-         "title" : "Resilience In Chess: How to Get Back After A Tough Loss"
-      },
-      {
-         "description" : "The 1st Chess Olympiad for People with Disabilities starts on Sunday in Belgrade, Serbia, and will take place from 29th of January to the 5th of February in Hotel Crowne Plaza Belgrade. More than 100 players from 33 countries will take part in the event which will be played under the Swiss System, with six rounds. The time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/",
-         "pubDate" : "Fri, 27 Jan 2023 09:13:02 +0000",
-         "title" : "The 1st Chess Olympiad for People with Disabilities starts in Belgrade"
       }
    ]
 }
