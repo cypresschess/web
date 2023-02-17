@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has joined the Sport Integrity Global Alliance (SIGA). SIGA is a non-profit, global, independent organisation with a mission to ensure that sporting organisations are run to the highest standards of integrity in order to protect the values of sport.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-joins-the-sport-integrity-global-alliance",
+         "pubDate" : "Fri, 17 Feb 2023 16:00:00 +0100",
+         "title" : "FIDE joins the Sport Integrity Global Alliance"
+      },
+      {
+         "description" : "The first round of the inaugural WR Chess Masters 2023 in Duesseldorf, Germany, started with a bang, when American GMs Wesley So and Levon Aronian both picked up wins in the first game. They were accompanied by Russian GM Andrey Esipenko who took ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-1",
+         "pubDate" : "Fri, 17 Feb 2023 06:48:00 -0800",
+         "title" : "Tactics, Traps, Tricks at WR Masters"
+      },
+      {
+         "description" : "Airport Authority of India retained the title in both open and women section of the National Team Chess Championship, organized by Dr. Mahalingam College of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-chess-championships-double-delight-for-airport-authority-of-india/",
+         "pubDate" : "Fri, 17 Feb 2023 14:36:03 +0000",
+         "title" : "National Team Chess Championships : Double delight for Airport Authority of India"
+      },
+      {
+         "description" : "Bela Kotenashvili dominated the 80th Georgian Women's Championship, and won the tournament with 8.0/9. With 7.0/9 Lela Javakhishvili and Meri Arabidze shared second and third place, but thanks to her better tiebreak Lela Javakhishvili finished second. | Photos: Georgian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bela-khotenashvili-wins-80th-georgian-women-s-championship",
+         "pubDate" : "Fri, 17 Feb 2023 15:20:09 +0100",
+         "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
+      },
+      {
+         "description" : " Nigerian-born Gregory Acholonu was finally awarded the FM title after being qualified for over 20 years. The long-time chess coach has worked with the DC Chess Center for 12 years before starting his own GCA Chess Academy in Annapolis, Maryland. Acholonu has spent the better part of his life serving as an inspiration to scholastic The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/\">Gregory Acholonu awarded overdue FM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/",
+         "pubDate" : "Fri, 17 Feb 2023 14:03:49 +0000",
+         "title" : "Gregory Acholonu awarded overdue FM title"
+      },
+      {
+         "description" : "Luk.AI, the official AI sidekick of NBA All-Star Luka Donči&#263, has been unleashed as a Chess.com bot&#38;mdash;and you can challenge him today. The Dallas Mavericks guard is a huge chess fan and a regular on Chess.com. Now, the 23-year-old NBA supersta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-luk-ai-bot-chesscom",
+         "pubDate" : "Fri, 17 Feb 2023 06:01:00 -0800",
+         "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Fri, 17 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
+         "description" : " Study is still just as important and playing, and the improving player will combine the two. A collection of 'model' games can go a long way in helping you jump to the next level of chess understanding. In the following game, white both demonstrates how to arrange pieces when you have 'hanging pawns' but just as importantly, how to launch an attack against a king that is not defended by a knight on f6. <br /> <b>Hansen,Curt (2485) - Georgiev,Kiril (2430) [D41]</b><br />Wch U20 Kiljava (11), 15.08.1984 <script>new PgnViewer( { boardName: \"game1382\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bc4 cxd4 8.exd4 Be7 9.O-O O-O 10.Re1 Nxc3 11.bxc3 b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/a-model-attack.html",
+         "pubDate" : "Fri, 17 Feb 2023 12:43:00 +0000",
+         "title" : "A model attack"
+      },
+      {
          "description" : "Wesley So landed a famous tactical blow on move 15 against Jan-Krzysztof Duda to open the scoring in the WR Chess Masters in Dusseldorf, with Levon Aronian following with a win over Praggnanandhaa. Andrey Esipenko scored the day's last win, finally grinding down Vincent Keymer in a marathon 7-hour, 101-move win. Ian Nepomniachtchi forced an early draw after being surprised by Nodirbek Abdusattorov's Benko Gambit.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1106,28 +1170,12 @@ news_feed (
          "title" : "International Junior tournaments - updated 8/2/23"
       },
       {
-         "description" : "\"In order to understand an opening, you need to know the historical background and have a good feeling for the dynamics\", says the GM Dorian Rogozenco in the introduction to this video course. Based on 30 years of personal experience at high level, Rogozenco provides a complete guide for Black in the modern theory of the Sveshnikov Sicilian.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-play-the-sveshnikov-sicilian-a-complete-repertoire-for-black-against-the-open-sicilian",
-         "pubDate" : "Wed, 08 Feb 2023 10:00:00 +0100",
-         "title" : "Dorian Rogozenco: Play the Sveshnikov Sicilian - A complete repertoire for Black against the open Sicilian"
-      },
-      {
          "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-2",
          "pubDate" : "Tue, 07 Feb 2023 19:04:00 -0800",
          "title" : "Carlsen, Nakamura Advance To Winners Bracket Final"
-      },
-      {
-         "description" : "The two strongest and most consistent online-chess players in the world reached the final (in the winners' bracket) of the Airthings Masters. Magnus Carlsen and Hikaru Nakamura both drew their rapid encounters against Arjun Erigaisi and Wesley So, respectively, and went on to draw with black in Armageddon deciders to set up a much-anticipated showdown. Meanwhile, Alexey Sarana and Dommaraju Gukesh remain in contention in the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-2",
-         "pubDate" : "Wed, 08 Feb 2023 03:50:00 +0100",
-         "title" : "Airthings Masters: Carlsen and Nakamura set up showdown"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics, using Emmanuel Neiman's book \"Tune Your Chess Tactics Antenna.\" Learn Neiman's seven signals. BUY THE BOOK: <a href=\"https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049\">https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sit",
@@ -1176,14 +1224,6 @@ news_feed (
          "link" : "https://chessimprover.com/carbon-versus-silicon-3/",
          "pubDate" : "Tue, 07 Feb 2023 16:10:28 +0000",
          "title" : "Carbon versus Silicon (3)"
-      },
-      {
-         "description" : "In the German magazine \"Rochade Europa\" / \"Europa-Rochade\", Gerd Wilhelm H&ouml;rning and Gerhard Josten had a column in which they presented their findings on incorrect endgame studies, offering also corrections to them. A small retrospective. | Photo: Motionarray - By SeventyFour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-friendship-gerd-wilhelm-hoerning-gerhard-josten",
-         "pubDate" : "Tue, 07 Feb 2023 15:00:00 +0100",
-         "title" : "Study of the Month - Friendship: Gerd Wilhelm H&ouml;rning & Gerhard Josten"
       },
       {
          "description" : " If you are a Netflix subscriber, then here is something that may be of interest. The series 'Explained' consists of a number of short (25 minutes) documentaries, covering various topics. One of the topics covered in the 3rd series is Chess. Narrated by Rainn Wilson (actor, chess player, and sometime streamer), it provides a good overview of how chess is played, what makes it interesting, and why it is important. A mixture of archival footage and modern interview, it does quite a good job of introducing chess to the viewer, with the time it has available. One of the 'hooks' it uses is the Lasker v Thomas game played in 1912, going over the moves of that game, while talking about other aspect",
@@ -1338,14 +1378,6 @@ news_feed (
          "title" : "ECU E-Magazine January 2023"
       },
       {
-         "description" : "GM Alexandra Kosteniuk continued her unbeaten run in the Munich FIDE Women&#39;s Grand Prix in round four after slaying GM Tan Zhongyi&#39;s Hyper Accelerated Dragon. The fourth straight victory for the &#34;Chess Queen&#34; pushes her out to a remarkable 1.5-poi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-4",
-         "pubDate" : "Sun, 05 Feb 2023 16:17:00 -0800",
-         "title" : "Unstoppable Kosteniuk Perfect So Far In Munich"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1376,22 +1408,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/",
          "pubDate" : "Sun, 05 Feb 2023 14:00:31 +0000",
          "title" : "2023 Zone 4.3 in Equatorial Guinea"
-      },
-      {
-         "description" : "It is a splendid performance by Indian Chess team as India drew 2:2 against Philippines in the final round at 1st Fide Chess Olympiad for",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/1st-fide-chess-olympiad-for-people-with-disabilities-2023-final-round/",
-         "pubDate" : "Sun, 05 Feb 2023 06:04:00 +0000",
-         "title" : "1st Fide Chess Olympiad for people with disabilities -2023 : Final Round"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk&#38;nbsp;increased her lead in the Munich FIDE Women&#39;s Grand Prix to a full point, reaching 3-0 by defeating WGM Dinara Wagner in a dynamic battle. WGM Zhu Jiner scored her first victory by gaining the upper hand in a tactical...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-3",
-         "pubDate" : "Sat, 04 Feb 2023 16:04:00 -0800",
-         "title" : "Kosteniuk Goes 3-0, Extends Lead to Full Point"
       },
       {
          "description" : "",
@@ -1904,22 +1920,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-one/",
          "pubDate" : "Fri, 27 Jan 2023 19:08:28 +0000",
          "title" : "A Foundation for Beginners Eighty One"
-      },
-      {
-         "description" : " Today was a quiet day even after a day of rest. A win for second placed Anish Giri against Nodirbek Abdusattorov would have allowed him to replace the leader at the top of the standings but after mixing up his lines he didn't get anything and the game was drawn in 29 moves. Magnus Carlsen tried for 58 moves against Wesley So but never seemed to generate realistic winning chances. R Praggnanandhaa's tournament continues to go bad after losing a third game, this time to Parham Maghsoodloo. Praggnanandhaa had a promising position but after choosing the wrong plan he was instead lost. This was the only decisive game of the day. FM Michiel Abeln's report is below. Alexander Donchenko is the sole",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-and-giri-draw-in-the-battle-of-the-leaders-in-round-11-of-the-tata-steel-masters",
-         "pubDate" : "Fri, 27 Jan 2023 20:30:00 +0400",
-         "title" : "Abdusattorov and Giri draw in the battle of the leaders in Round 11 of the Tata Steel Masters - 11"
-      },
-      {
-         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/crowthers-chess-on-net.html\">Crowther's 'Chess on the Net'</A>(January 2023), I originally intended to write about Mark Crowther's 'Chess on the Web', then realized that I had mixed two different works. The first book in the genre was Sarah Hurst's 'Chess on the Web'. This was followed a few years later by Crowther's 'Chess on the Net', which was followed by Hurst's second edition of 'Chess on the Web'. <P>The covers of both editions of Hurst's book are shown below. Co-authors listed on the second edition are Richard Palliser and Graham Brown. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na27.gif\" WID",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/hursts-chess-on-web.html",
-         "pubDate" : "Fri, 27 Jan 2023 16:20:00 +0000",
-         "title" : "Hurst's 'Chess on the Web'"
       }
    ]
 }
