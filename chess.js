@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
+         "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
+         "title" : "Chess: Britain's 4NCL league fosters potential grandmaster talents"
+      },
+      {
          "description" : "Wesley So, Levon Aronian and Andrey Esipenko kicked off the WR Chess Masters with wins, as they defeated Jan-Krzysztof Duda, Praggnanandhaa and Vincent Keymer respectively. Out of the three, So was the first one to leave the playing hall with a full point to his name. Aronian and Esipenko needed to work harder to convert their superior endgame positions against resilient opponents. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.europechess.org/the-1st-chess-olympiad-for-people-with-disabilities-starts-in-belgrade/",
          "pubDate" : "Fri, 27 Jan 2023 09:13:02 +0000",
          "title" : "The 1st Chess Olympiad for People with Disabilities starts in Belgrade"
-      },
-      {
-         "description" : " The world champion has recovered from his two early losses and is one point behind the leader as the 'chess Wimbledon' nears climax Magnus Carlsen has fought back strongly from his two early losses, and the world champion will enter this weekend's final two rounds at Tata Steel Wijk aan Zee only a single point behind the leader, Nodirbek Abdusattorov. The 18-year-old from Uzbekistan has led most of the way, and is unbeaten. Leaders after 11 of the 13 rounds were Abdusattorov (Uzb) 7.5, Anish Giri (Neth) 7, Carlsen (Nor) and Wesley So (US) 6.5, Levon Aronian and Fabiano Caruana (both US) 6. <a href=\"https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/jan/27/chess-magnus-carlsen-jumps-back-into-contention-as-final-rounds-loom-at-wijk",
-         "pubDate" : "Fri, 27 Jan 2023 08:00:45 +0000",
-         "title" : "Chess: Magnus Carlsen jumps back into contention as final rounds loom at Wijk"
       }
    ]
 }
