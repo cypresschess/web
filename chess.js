@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Last week we looked at some further concepts regarding the fork. This week, we're going to look at a single example of a fork and work through the possible outcomes for both players. Specifically, we'll look at the possible recourse the victim of the tactic has when hit with a fork. Set up the following <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\">A Foundation for Beginners Eighty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-four/",
+         "pubDate" : "Fri, 17 Feb 2023 20:28:33 +0000",
+         "title" : "A Foundation for Beginners Eighty Four"
+      },
+      {
+         "description" : "The Romanian Amateur Championship 2023 is taking place from 21&#x2013;26 February 2023 in Sebes, Romania. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Sorin Levay, George Albu, Ovidiu-Jean Lupu, Bogdan-Ovidiu Armenciu, Sorin-Mihai Samu, Ion-Cristian Veneteanu, Ionut Irimia, Calin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-amateur-championship-2023-live/",
+         "pubDate" : "Fri, 17 Feb 2023 20:02:26 +0000",
+         "title" : "Romanian Amateur Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Romanian Womens's Championship 2023 is taking place from 19&#x2013;26 February 2023 in Sebes, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of WGM Elena-Luminita Cosma , WGM Mihaela []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-womenss-championship-2023-live/",
+         "pubDate" : "Fri, 17 Feb 2023 19:55:53 +0000",
+         "title" : "Romanian Womens's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Romanian Championship 2023 is taking place from 19&#x2013;26 February 2023 in Sebes, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of GM Kirill Shevchenko, GM Constantin Lupulescu, GM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/romanian-championship-2023-live/",
+         "pubDate" : "Fri, 17 Feb 2023 19:46:43 +0000",
+         "title" : "Romanian Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-beauty-function-guide-for-chessbase-17",
+         "pubDate" : "Fri, 17 Feb 2023 19:00:00 +0100",
+         "title" : "Explained by the engineers! - The new beauty function guide for ChessBase 17"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King tells the story of how an opening variation develops, taking as his starting point the spectacular game Giri-Gukesh, Tata Steel Masters 2023. It is interesting that since then, there have been two subsequent games that followed Giri's idea. How did Black fare? Were improvements found? Watch the show to find out! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-how-an-opening-develops",
+         "pubDate" : "Fri, 17 Feb 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: How an opening develops"
+      },
+      {
+         "description" : "Luk.AI, the official AI sidekick of NBA All-Star Luka Donči&#263, has been unleashed as a Chess.com bot&#38;mdash;and you can challenge him today. The Dallas Mavericks guard is a huge chess fan and a regular on Chess.com. Now, the 23-year-old NBA supersta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-luk-ai-bot-chesscom",
+         "pubDate" : "Fri, 17 Feb 2023 07:01:00 -0800",
+         "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
+      },
+      {
          "description" : "FIDE has joined the Sport Integrity Global Alliance (SIGA). SIGA is a non-profit, global, independent organisation with a mission to ensure that sporting organisations are run to the highest standards of integrity in order to protect the values of sport.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +96,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/",
          "pubDate" : "Fri, 17 Feb 2023 14:03:49 +0000",
          "title" : "Gregory Acholonu awarded overdue FM title"
-      },
-      {
-         "description" : "Luk.AI, the official AI sidekick of NBA All-Star Luka Donči&#263, has been unleashed as a Chess.com bot&#38;mdash;and you can challenge him today. The Dallas Mavericks guard is a huge chess fan and a regular on Chess.com. Now, the 23-year-old NBA supersta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-luk-ai-bot-chesscom",
-         "pubDate" : "Fri, 17 Feb 2023 06:01:00 -0800",
-         "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
       },
       {
          "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
@@ -250,14 +298,6 @@ news_feed (
          "title" : "Jennifer Shahade: \"There are multiple investigations underway on Alejandro Ramirez and sexual misconduct\""
       },
       {
-         "description" : "Last week, at its General Assembly, the Sport Integrity Global Alliance (SIGA) unanimously approved FIDE's application to become a full member of the organization.&#160; SIGA is an independent not-for-profit that was founded with one goal: To ensure the sports industry is governed under the highest integrity standards, free from any form of unethical, illicit, and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-joins-the-sport-integrity-global-alliance-siga/",
-         "pubDate" : "Thu, 16 Feb 2023 09:20:00 +0000",
-         "title" : "FIDE joins the Sport Integrity Global Alliance (SIGA)"
-      },
-      {
          "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -322,14 +362,6 @@ news_feed (
          "title" : "COMMEMORATIVE POSTAGE STAMP : 44TH FIDE CHESS OLYMPIAD"
       },
       {
-         "description" : "The European Chess Union opens the bidding procedure for the organisation of&#xA0;the official European Chess Championships in 2023, 2024 &#38; 2025. A. The bidding procedure is open for the following ECU Chess Championships in 2023 &#38; 2024. 1.&#160; European Rapid &#38; Blitz Championship 2023 (estimated number of players: 700)2. &#160;European Women&#x2019;s Rapid &#38; Blitz Championship []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-opens-the-bidding-procedure-for-european-chess-championships-in-2023-2024-2025/",
-         "pubDate" : "Wed, 15 Feb 2023 12:14:08 +0000",
-         "title" : "ECU opens the bidding procedure for European Chess Championships in 2023, 2024 & 2025"
-      },
-      {
          "description" : "The Cambridge International Open has certainly proven itself to be one of the most sought-after events in England. With only 121 places available, there were...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -352,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2234",
          "pubDate" : "Wed, 15 Feb 2023 11:20:57 +0000",
          "title" : "FIDE joins the Sport Integrity Global Alliance"
-      },
-      {
-         "description" : "The&#160;Cambridge International Open 2023&#160;is taking place from 15-19 February in Cambridge, England. It is a 9-round Swiss tournament which features more than 140 entries and the prize fund of 4.200&#xA3;. GM Michael Adams,&#160;GM Daniel Dardha, and&#160;GM Oleg Korneev&#160;are the top-seeded players. The time control of the event is 90 minutes for the entire game, plus []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cambridge-international-open-2023-live/",
-         "pubDate" : "Wed, 15 Feb 2023 11:10:30 +0000",
-         "title" : "Cambridge International Open 2023 - LIVE"
       },
       {
          "description" : "Magnus Carlsen scored 4/4 as the Canada Chessbrahs defeated the Charlotte Cobras 8.5:7.5 in Week 1 of the 2023 Pro Chess League, but only after a thrilling finale where Magnus came back from the dead to beat Awonder Liang. In the day's other match Vidit and Vaishali led the Indian Yogis to an 8.5:3.5 win over the Brazil Capybaras.",
@@ -1138,28 +1162,12 @@ news_feed (
          "title" : "Carlsen-Nakamura final, as Firouzja knocked out"
       },
       {
-         "description" : "For many years, Luc Winants was Belgium's best chess player and at times the country's only grandmaster. He represented his country in many Chess Olympiads and remained undefeated in two Olympiads. Luc Winants died yesterday, 7 February, at the age of 60. | Photo: https://www.chess-and-strategy.com/",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/belgian-grandmaster-luc-winants-1-january-1963-7-february-2023-died",
-         "pubDate" : "Wed, 08 Feb 2023 13:18:05 +0100",
-         "title" : "Belgian Grandmaster Luc Winants (1 January 1963 - 7 February 2023) died"
-      },
-      {
          "description" : " Amongst the Vimeo-on-demand titles I've brought out recently, some of them are devoted to learning from great players. One of my main areas of study during my early years was to play through the games collections of particular players, two of my favourites being Akiba Rubinstein and Mikhail Botvinnik. I would often do this as <a href=\"https://chessimprover.com/learning-from-the-greats/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Learning from the Greats\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/learning-from-the-greats/\">Learning from the Greats</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/learning-from-the-greats/",
          "pubDate" : "Wed, 08 Feb 2023 11:00:14 +0000",
          "title" : "Learning from the Greats"
-      },
-      {
-         "description" : "UAE Ministry of Tolerance and Coexistence, the International Chess Federation, and the Asian Chess Federation jointly held the Tolerance Games - Asian Chess Women's Contest that took place from February 06-07, 2023, in Abu-Dhabi, UAE. The event was a part of the Global Tolerance and Human Fraternity Summit in Etihad Towers. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tolerance-games-asian-chess-women-s-contest-run-big-in-abu-dhabi",
-         "pubDate" : "Wed, 08 Feb 2023 10:24:40 +0100",
-         "title" : "Tolerance Games, Asian Chess Women's Contest, run big in Abu-Dhabi"
       },
       {
          "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
@@ -1912,14 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2192",
          "pubDate" : "Fri, 27 Jan 2023 23:37:08 +0000",
          "title" : "Tata Steel Masters: The leaders maintain status quo"
-      },
-      {
-         "description" : " Last week, we played through a game in which a tactic called the fork played a decisive role. We briefly talked about the creation of combinations, a sequence of moves that sets up the tactic. Were going to go into greater detail regarding the process of creating combinations because that is the heart of all <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty One\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-one/\">A Foundation for Beginners Eighty One</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-one/",
-         "pubDate" : "Fri, 27 Jan 2023 19:08:28 +0000",
-         "title" : "A Foundation for Beginners Eighty One"
       }
    ]
 }
