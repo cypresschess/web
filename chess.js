@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2241",
+         "pubDate" : "Sat, 18 Feb 2023 16:12:10 +0000",
+         "title" : "Ofer Comay wins 19th International Solving Contest"
+      },
+      {
          "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1912,22 +1920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2193",
          "pubDate" : "Sun, 29 Jan 2023 02:36:21 +0000",
          "title" : "Tata Steel Chess Masters: Abdusattorov leads going into the final round"
-      },
-      {
-         "description" : "The City of Świdnica, the Polish Chess Federation, the Adolf Anderssen Foundation, and the European Chess Union (ECU) have the great honour to invite all senior players throughout Europe to participate in the European Senior Team Chess Championship 2023 which will take place from 11th to 21st July 2023 in Swidnica, Poland. The event will be played in&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2023-official-invitation/",
-         "pubDate" : "Sat, 28 Jan 2023 19:23:28 +0000",
-         "title" : "European Senior Team Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov takes a half point lead into the final round of the Tata Steel Masters over Anish Giri. There was no change at the top of the standings with wins for Richard Rapport over Ding Liren and Parham Maghsoodloo over Arjun Erigaisi having no impact on who will win the event. Abdusattorov had few problems holding a draw with black against Wesley So today, this wasn't the case for Anish Giri who was lost at one stage against Jorden Van Foreest who came armed with a fabulous opening idea but kept himself in with a chance by eventually holding the draw in the final game to finish. Magnus Carlsen was very disappointed not to get himself into the mix with a win over R Praggnanandha",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-keeps-his-lead-going-into-the-final-round-of-the-tata-steel-masters",
-         "pubDate" : "Sat, 28 Jan 2023 20:38:00 +0400",
-         "title" : "Abdusattorov keeps his lead going into the final round of the Tata Steel Masters - 12"
       }
    ]
 }
