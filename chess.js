@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White has to act quickly in the face of Black's threat e5-e4 - and in the end it will be he who triumphs on the diagonal c2-h7. Happy uncovering!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-clear-ing-case",
+         "pubDate" : "Sat, 18 Feb 2023 09:00:00 +0100",
+         "title" : "A clear(ing) case"
+      },
+      {
          "description" : "As the first week of the 2023 Pro Chess League came to a close, the Shanghai Tigers and the California Unicorns became the final teams to secure victories in their opening fixtures. The Shanghai Tigers, who fielded world number-29 GM Wei Yi as w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/breaking-berlin-prepare-pro-gm-josh-sheng",
          "pubDate" : "Thu, 09 Feb 2023 02:29:21 +0000",
          "title" : "Breaking the Berlin | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
-         "description" : "Magnus Carlsen advanced to the Grand Final of the Airthings Masters by beating Hikaru Nakamura in the winners' bracket final. All four 15-minute games were drawn in the all-star showdown, leading to a sudden-death decider. Carlsen, who presented a bid merely one second shorter than Nakamura's, drew with black in Armageddon to win the match. Nakamura will face either Wesley So or Arjun Erigaisi in the final of the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-3",
-         "pubDate" : "Thu, 09 Feb 2023 03:15:00 +0100",
-         "title" : "Airthings Masters: Carlsen beats Nakamura in Armageddon"
       },
       {
          "description" : "GM Alexandra Kosteniuk survived an uproarious game vs. GM Zhansaya Abdumalik in round six&#38;nbsp;of the Munich FIDE Women&#39;s Grand Prix.&#38;nbsp; After this all-draw round, Kosteniuk&#39;s considerable lead over the field persists. GMs Humpy Koneru&#38;nbsp;a...",
