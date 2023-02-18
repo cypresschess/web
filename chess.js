@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2240",
+         "pubDate" : "Sat, 18 Feb 2023 12:13:11 +0000",
+         "title" : "WR Chess Masters: Gukesh and Abdusattorov join the leaders"
+      },
+      {
+         "description" : "18-year-old Nodirbek Abdusattorov is up to World no. 14 after crashing through with a kingside attack against Andrey Esipenko in Round 2 of the WR Chess Masters. That saw him catch Wesley So and Levon Aronian in the lead, where he's joined by Gukesh, who for a second tournament in a row took down his Indian compatriot Praggnanandhaa.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-2-abdusattorov-enters-top-15",
+         "pubDate" : "Sat, 18 Feb 2023 10:50:58 +0000",
+         "title" : "WR Chess Masters 2: Abdusattorov enters Top 15"
+      },
+      {
+         "description" : "Earlier this week a prima facie academic tome landed on my desk. In fact the author, as I realised with mounting excitement and anticipation, has made a brave attempt to update Richard R&eacute;ti's 1920s classic, Masters of the Chessboard, to the 21st century. While I was a pupil at Dulwich College - back in the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/grandmasters-of-the-chessboard/",
+         "pubDate" : "Sat, 18 Feb 2023 10:17:22 +0000",
+         "title" : "Grandmasters of the Chessboard"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-2-live-2/",
+         "pubDate" : "Sat, 18 Feb 2023 10:17:00 +0000",
+         "title" : "WR Chess Masters 2023 - Round 2 live"
+      },
+      {
+         "description" : "Last Monday, Alexandra Kosteniuk (pictured) won the second stage of the FIDE Women's Grand Prix, a 12-player single round-robin that took place in Munich, Germany. GM Karsten M&uuml;ller followed the games closely, and sent us a selection of thought-provoking endgames. Find here six instructive positions, annotated by our in-house expert. | Photo: Mark Livshitz / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-endgames",
+         "pubDate" : "Sat, 18 Feb 2023 11:00:00 +0100",
+         "title" : "Endgames from Munich"
+      },
+      {
+         "description" : "Gukesh and Nodirbek Abdusattorov have joined the leaders with wins in the second round of the WR Chess Masters. Together with Wesley So and Levon Aronian, the two youngsters make up the quartet at the top of the table with 1.5 points from 2 games. Gukesh fought a fierce, wide-open battle in the Indian duel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/four-way-tie-for-the-top-of-wr-chess-masters-round-2-recap/",
+         "pubDate" : "Sat, 18 Feb 2023 09:08:16 +0000",
+         "title" : "Four-way tie for the top of WR Chess Masters - Round 2 recap"
+      },
+      {
          "description" : "In the diagram position, White has to act quickly in the face of Black's threat e5-e4 - and in the end it will be he who triumphs on the diagonal c2-h7. Happy uncovering!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-how-an-opening-develops",
          "pubDate" : "Fri, 17 Feb 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: How an opening develops"
+      },
+      {
+         "description" : "At the risk of immediately losing some visitors to this post, I'm going to continue a recent post from my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2023/01/the-fascinating-world-of-chess960.html\">The Fascinating World of Chess960</A>(January 2023). There I wrote, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. [...] I switched to Chess.com in May 2022, playing one or (maximum) two games of correspondence chess at a time. [...] So far I've played about a dozen games on Chess.com, never once tempted to use an engine. [...] That's the background for a series of posts that I plan to write for ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html",
+         "pubDate" : "Fri, 17 Feb 2023 16:46:00 +0000",
+         "title" : "Chess.com's Game Review Tools"
       },
       {
          "description" : "Luk.AI, the official AI sidekick of NBA All-Star Luka Donči&#263, has been unleashed as a Chess.com bot&#38;mdash;and you can challenge him today. The Dallas Mavericks guard is a huge chess fan and a regular on Chess.com. Now, the 23-year-old NBA supersta...",
@@ -306,28 +362,12 @@ news_feed (
          "title" : "US Chess Federation publishes the official statement on recent allegations against Alejandro Ramirez"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-1-live/",
-         "pubDate" : "Thu, 16 Feb 2023 10:20:33 +0000",
-         "title" : "WR Chess Masters 2023 - Round 1 live"
-      },
-      {
          "description" : "The name Erich Eliskases is familiar to only a few chess enthusiasts today. However, the Austrian was one of the best players in the world in the late 1930s. In 1941 he was supposed to play for the World Championship with Alexander Alekhine. But things turned out differently. 15 February 2023 is the 110th birthday of Eliskases, who was born in Innsbruck, Austria, and died in Cordoba, Argentina.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remembering-erich-eliskases-15-february-1913-2-february-1997",
          "pubDate" : "Thu, 16 Feb 2023 11:14:57 +0100",
          "title" : "Remembering Erich Eliskases (15 February 1913 - 2 February 1997)"
-      },
-      {
-         "description" : "&#8220;Currently there are multiple investigations underway on Alejandro Ramirez and sexual misconduct&#8220;, reveals the two-time US Women's Chess Champion, poker player, and commentator of the elite chess events held at the Saint Louis Chess Club WGM Jennifer Shahade. Shahade claims that she was assaulted by Ramirez twice and that she saw alarming evidence from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/jennifer-shahade-there-are-multiple-investigations-underway-on-alejandro-ramirez-and-sexual-misconduct/",
-         "pubDate" : "Thu, 16 Feb 2023 09:44:00 +0000",
-         "title" : "Jennifer Shahade: \"There are multiple investigations underway on Alejandro Ramirez and sexual misconduct\""
       },
       {
          "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
@@ -1122,14 +1162,6 @@ news_feed (
          "title" : "Creating a super tournament from scratch - Interview with Wadim Rosenstein"
       },
       {
-         "description" : "Following the rest day, players returned well-prepared to the playing hall in Munich and drew all their games in round 6 of the Women's Grand Prix. Alexandra Kosteniuk thus kept her 1&frac12;-point lead in the standings. Importantly, Kosteniuk's closest chasers, Humpy Koneru and Nana Dzagnidze, have yet to face the former women's world champion. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r6",
-         "pubDate" : "Thu, 09 Feb 2023 05:30:00 +0100",
-         "title" : "Munich GP: Kosteniuk keeps the lead as all games are drawn"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black's notorious Berlin defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1904,14 +1936,6 @@ news_feed (
          "link" : "https://www.thearticle.com/does-chess-have-a-world-champion/",
          "pubDate" : "Sat, 28 Jan 2023 15:41:02 +0000",
          "title" : "Does chess have a world champion?"
-      },
-      {
-         "description" : " GM Temur Kuybokarov and WGM Julia Ryjanova have won the Open and Womens Zone 3.6 Championship. While Ryjanova won her event outright (8/9), Kuybokarov had to win a playoff against IM Gary Lane to claim the title. Going into the final round GM Zong Yuan Zhao held a half point lead over the field, but IM Stephen Solomon threw the tournament wide open after beating Zhao. One the other results had come in, there was a 6 way tie for first, involving Kuybokarov, Lane, FM Patrick Gong, FM Yi Liu, Solomon, and IM James Morris (all on 7.5). The playoff was between the top 2 finishers on count back (Kuybokarov and Lane), which Kuybokarov won 2-0. FM Patrick Gong finished 3rd on tie-break, but as it w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/kuybokarov-and-ryjanove-win-36-zonal.html",
-         "pubDate" : "Sat, 28 Jan 2023 12:26:00 +0000",
-         "title" : "Kuybokarov and Ryjanove win 3.6 Zonal events"
       }
    ]
 }
