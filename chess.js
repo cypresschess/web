@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov and Dommaraju Gukesh joined Wesley So and Levon Aronian in the lead of the WR Chess Masters after beating Andrey Esipenko and Praggnanandhaa in the super-tournament's second round. Abdusattorov's victory featured a demolishing attack, while Gukesh saw Pragg blundering the game away in a double-edged position. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r2",
+         "pubDate" : "Sat, 18 Feb 2023 00:20:00 +0100",
+         "title" : "WR Masters: Abdusattorov on the attack"
+      },
+      {
+         "description" : "Four players lead the WR Chess Masters 2023 after round two with 1.5 points apiece: GMs Nodirbek Abdusattorov, Wesley So, Gukesh D,&#38;nbsp; and Levon Aronian. GM Andrey Esipenko outplayed GM Vincent Keymer on Thursday and was featured in the round...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-2",
+         "pubDate" : "Fri, 17 Feb 2023 14:48:00 -0800",
+         "title" : "Abdusattorov Wins With Greek Gift, Gukesh Triumphs In Indian Clash"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2239",
+         "pubDate" : "Fri, 17 Feb 2023 21:57:16 +0000",
+         "title" : "The first Bahrain Chess Championship runs big"
+      },
+      {
          "description" : " Last week we looked at some further concepts regarding the fork. This week, we're going to look at a single example of a fork and work through the possible outcomes for both players. Specifically, we'll look at the possible recourse the victim of the tactic has when hit with a fork. Set up the following <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\">A Foundation for Beginners Eighty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/",
          "pubDate" : "Fri, 17 Feb 2023 14:03:49 +0000",
          "title" : "Gregory Acholonu awarded overdue FM title"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Fri, 17 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : " Study is still just as important and playing, and the improving player will combine the two. A collection of 'model' games can go a long way in helping you jump to the next level of chess understanding. In the following game, white both demonstrates how to arrange pieces when you have 'hanging pawns' but just as importantly, how to launch an attack against a king that is not defended by a knight on f6. <br /> <b>Hansen,Curt (2485) - Georgiev,Kiril (2430) [D41]</b><br />Wch U20 Kiljava (11), 15.08.1984 <script>new PgnViewer( { boardName: \"game1382\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bc4 cxd4 8.exd4 Be7 9.O-O O-O 10.Re1 Nxc3 11.bxc3 b",
@@ -1330,14 +1346,6 @@ news_feed (
          "title" : "TCEC Swiss 4 Underway; CCC Mystery Matches"
       },
       {
-         "description" : "Classical chess, sometimes called &#34;slow chess,&#34; for a long time has been the standard form of tournament play. When one thinks of historic, monumental chess matches, one thinks especially of titanic world championships and Candidates tournaments&#38;m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/is-classical-chess-being-phased-out",
-         "pubDate" : "Mon, 06 Feb 2023 07:44:57 -0800",
-         "title" : "Is Classical Chess Being 'Phased Out'?"
-      },
-      {
          "description" : "The ECF would like to thank IM Lawrence Cooper for his hard work and valuable contributions during his tenure as Manager of Women's Online Chess....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1904,22 +1912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/kuybokarov-and-ryjanove-win-36-zonal.html",
          "pubDate" : "Sat, 28 Jan 2023 12:26:00 +0000",
          "title" : "Kuybokarov and Ryjanove win 3.6 Zonal events"
-      },
-      {
-         "description" : "Praggnanandhaa surprised Parham Maghsoodloo on move 8 of the Najdorf but still slumped to a 3rd defeat in four games. That was the only decisive game in Round 11 of the Tata Steel Masters, as Nodirbek Abdusattorov kept the lead after Anish Giri mixed up his preparation, while Magnus Carlsen couldn't quite squeeze out a win over Wesley So. In the Challengers Alexander Donchenko regained the sole lead.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-masters-11-maghsoodloo-beats-pragg",
-         "pubDate" : "Fri, 27 Jan 2023 23:48:00 +0000",
-         "title" : "Tata Steel Masters 11: Maghsoodloo beats Pragg"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2192",
-         "pubDate" : "Fri, 27 Jan 2023 23:37:08 +0000",
-         "title" : "Tata Steel Masters: The leaders maintain status quo"
       }
    ]
 }
