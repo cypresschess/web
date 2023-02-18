@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the first week of the 2023 Pro Chess League came to a close, the Shanghai Tigers and the California Unicorns became the final teams to secure victories in their opening fixtures. The Shanghai Tigers, who fielded world number-29 GM Wei Yi as w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-tigers-unicorns",
+         "pubDate" : "Fri, 17 Feb 2023 17:13:00 -0800",
+         "title" : "Shanghai Tigers, California Unicorns Post Comfortable Wins"
+      },
+      {
          "description" : "Nodirbek Abdusattorov and Dommaraju Gukesh joined Wesley So and Levon Aronian in the lead of the WR Chess Masters after beating Andrey Esipenko and Praggnanandhaa in the super-tournament's second round. Abdusattorov's victory featured a demolishing attack, while Gukesh saw Pragg blundering the game away in a double-edged position. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1320,14 +1328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2218",
          "pubDate" : "Mon, 06 Feb 2023 21:14:54 +0000",
          "title" : "Missed opportunities in Munich"
-      },
-      {
-         "description" : "When orders of a 10-year-old book kept flooding in and hitting #1 on Amazon&#39;s Bestseller list, it puzzled its publisher New in Chess&#38;mdash;which is now owned by Chess.com. The reason: A mention by two of the world&#39;s most popular chess streamers. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/10-year-old-chess-book-sold-out-after-youtube-mention",
-         "pubDate" : "Mon, 06 Feb 2023 12:56:35 -0800",
-         "title" : "10-Year-Old Chess Book Sold Out After Youtube Mention"
       },
       {
          "description" : "",
