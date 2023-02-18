@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Sat, 18 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1154,14 +1162,6 @@ news_feed (
          "title" : "FIDE distributes €30,000 among chess veterans"
       },
       {
-         "description" : "The WR Chess Masters is a classical chess tournament which boasts the participation of 10 World-class Grandmasters. With a mix of youth and experience, this dynamic field will battle each other from February 15th-26th in a 9-game Round Robin event. The most special thing about the event is its time control. It has the same time control as the World Championship Match. How difficult is it to organize a super tournament from scratch? In this article, we talk to the man behind the WR Chess Masters - Wadim Rosenstein and get some insights.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/creating-a-super-tournament-from-scratch-interview-with-wadim-rosenstein",
-         "pubDate" : "Thu, 09 Feb 2023 09:00:00 +0100",
-         "title" : "Creating a super tournament from scratch - Interview with Wadim Rosenstein"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black's notorious Berlin defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1928,14 +1928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/abdusattorov-keeps-his-lead-going-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sat, 28 Jan 2023 20:38:00 +0400",
          "title" : "Abdusattorov keeps his lead going into the final round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "Well do we? There have been interregnal precedents, in the days of the proto-champions; after Philidor, for example, in the late 18th century, there was no obvious successor, until the advent of Labourdonnais in 1834 (obit. 1840). Staunton became the preeminent champion in 1843, followed by Anderssen, 1851, Morphy, 1858 and Steinitz, 1866. Thereafter, the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/does-chess-have-a-world-champion/",
-         "pubDate" : "Sat, 28 Jan 2023 15:41:02 +0000",
-         "title" : "Does chess have a world champion?"
       }
    ]
 }
