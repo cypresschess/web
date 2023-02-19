@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, Rajasthan Chess Assocaition &#38; Chess in Lakecity is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at St.Anthony's School Sector",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-udaipur/",
+         "pubDate" : "Sun, 19 Feb 2023 10:43:35 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination at Udaipur"
+      },
+      {
+         "description" : "It was in May 2016 that I launched this column, initially as an Agony Column in which readers could showcase their triumphs and disasters, and today I'm returning to the roots with a couple of my own games. Of course, I care very much when I'm playing, but 'agony' and 'ecstasy' are too strong for the emotions that chess normally engenders in me nowadays, and I've gone for 'fairly gentle pleasure' at victory and 'mild to medium irritation' at defeat. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-188",
+         "pubDate" : "Sun, 19 Feb 2023 10:30:00 +0100",
+         "title" : "Some fairly gentle pleasure and mild to medium irritation"
+      },
+      {
+         "description" : "Levon Aronian cut Nodirbek Abdusattorov's stay in the Top 15 short as he outplayed his young opponent in the Sicilian Dragon to take the sole lead after Round 3 of the WR Chess Masters. The day's only other win came for Praggnanandhaa, who bounced back from two defeats to leapfrog Vincent Keymer out of last place.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-3-aronian-beats-abdusattorov",
+         "pubDate" : "Sun, 19 Feb 2023 09:16:08 +0000",
+         "title" : "WR Chess Masters 3: Aronian beats Abdusattorov"
+      },
+      {
+         "description" : "The International Solving Contest (ISC), traditionally held on the last Sunday of January, has marked the beginning of solving seasons for almost two decades. It's a hybrid competition, with the same groups of chess problems and endgames distributed around the world to be solved at the same time. This year, it attracted 601 solvers from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ofer-comay-wins-19th-international-solving-contest/",
+         "pubDate" : "Sun, 19 Feb 2023 08:50:00 +0000",
+         "title" : "Ofer Comay wins 19th International Solving Contest"
+      },
+      {
+         "description" : " I'm a member of a Chess Teachers and Learners group on Facebook. I'm not sure whether I find the general tone of the discussion amusing or disturbing. These are some of the questions that crop up regularly. &#8220;The computer cheated against me. I took all its pieces and now it can't move its king anywhere <a href=\"https://chessimprover.com/revenge-of-the-noobs/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Revenge of the Noobs\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/revenge-of-the-noobs/\">Revenge of the Noobs</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/revenge-of-the-noobs/",
+         "pubDate" : "Sun, 19 Feb 2023 08:32:16 +0000",
+         "title" : "Revenge of the Noobs"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-4-live/",
+         "pubDate" : "Sun, 19 Feb 2023 08:25:00 +0000",
+         "title" : "WR Chess Masters 2023 - Round 4 live"
+      },
+      {
+         "description" : "With a strategic masterpiece Levon Aronian has taken the lead in the WR Chess Masters. Aronian gave Nodirbek Abdusattorov's Sicilian Dragon no opportunity to breathe fire. Already at the end of the opening the US-Armenian with the white pieces had transferred the game into an endgame without prospects for Black. In the live stream Levon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-grabs-the-sole-lead-at-wr-chess-masters/",
+         "pubDate" : "Sun, 19 Feb 2023 07:55:00 +0000",
+         "title" : "Levon Aronian grabs the sole lead at WR Chess Masters"
+      },
+      {
+         "description" : "The Chessemy Open 2023 will be held from 3rd-12th March at Hotel Forellenhof Walsrode. The event will be played in two rating groups: A Open (for players rated 1800+) and B Open (for players rated U1900). Both tournaments will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessemy-open-2023/",
+         "pubDate" : "Sun, 19 Feb 2023 07:01:00 +0000",
+         "title" : "Chessemy Open 2023"
+      },
+      {
          "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -266,14 +330,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination at Indore"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-2-live/",
-         "pubDate" : "Fri, 17 Feb 2023 09:18:00 +0000",
-         "title" : "WR Chess Masters 2023 - Round 2 live"
-      },
-      {
          "description" : "Appended below find the list of Arbiters for refresher course. You are requested to check correctness of the data and inform us by email (aicfarbiterscommission@gmail.com)",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -282,28 +338,12 @@ news_feed (
          "title" : "Urgent Attention : Arbiter's Refresher Course"
       },
       {
-         "description" : "Wesley So, Levon Aronian and Andrey Esipenko share the top spot after a fighting first round of the WR Chess Masters. They won the first three decided games of the tournament. Ian Nepomniachtchi &#x2013; Nodirbek Abdusattorov &#xBD;-&#xBD; The game that started the most combative ended first. After 1.d4 Nf6 2.c4, the 18-year-old Uzbek's double-edged 2c5 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/so-aronian-and-esipenko-in-the-early-lead-of-wr-chess-masters/",
-         "pubDate" : "Fri, 17 Feb 2023 08:23:00 +0000",
-         "title" : "So, Aronian and Esipenko in the early lead of WR Chess Masters"
-      },
-      {
          "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
          "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
          "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
-      },
-      {
-         "description" : "The 2023 Romanian National Chess Championship will take place from 18-26 February in Sebes. The event will be simultaneously held with the Romanian Women's Chess Championship 2023. Championships will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 15 minutes until the end of the game, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-national-chess-championship-2023/",
-         "pubDate" : "Fri, 17 Feb 2023 07:07:00 +0000",
-         "title" : "Romanian National Chess Championship 2023"
       },
       {
          "description" : "Wesley So, Levon Aronian and Andrey Esipenko kicked off the WR Chess Masters with wins, as they defeated Jan-Krzysztof Duda, Praggnanandhaa and Vincent Keymer respectively. Out of the three, So was the first one to leave the playing hall with a full point to his name. Aronian and Esipenko needed to work harder to convert their superior endgame positions against resilient opponents. | Photo: Lennart Ootes",
@@ -384,14 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/opening-ceremony-of-the-wr-masters",
          "pubDate" : "Thu, 16 Feb 2023 12:22:57 +0100",
          "title" : "Opening ceremony of the WR Masters"
-      },
-      {
-         "description" : "After WGM Jennifer Shahade revealed through her Twitter account that GM Alejandro Ramirez is under multiple investigations for sexual misconduct, the US Chess Federation published the official statement on the recent allegations. &#8220;US Chess is aware that one of its employees has made serious allegations about a member of the chess community. US Chess will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/us-chess-federation-publishes-the-official-statement-on-recent-allegations-against-alejandro-ramirez/",
-         "pubDate" : "Thu, 16 Feb 2023 10:53:44 +0000",
-         "title" : "US Chess Federation publishes the official statement on recent allegations against Alejandro Ramirez"
       },
       {
          "description" : "The name Erich Eliskases is familiar to only a few chess enthusiasts today. However, the Austrian was one of the best players in the world in the late 1930s. In 1941 he was supposed to play for the World Championship with Alexander Alekhine. But things turned out differently. 15 February 2023 is the 110th birthday of Eliskases, who was born in Innsbruck, Austria, and died in Cordoba, Argentina.",
@@ -1170,14 +1202,6 @@ news_feed (
          "title" : "Which countries have the most inflated Elo ratings?"
       },
       {
-         "description" : "In his \"Game of the Week\" show #554, Merijn van Delft takes a look at a fantastic attacking game that was played in the German Bundesliga last weekend, and in which Daniel Yuffa defeated Frederik Svane with a number of surprising sacrifices. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-554-d-yuffa-vs-f-svane",
-         "pubDate" : "Thu, 09 Feb 2023 10:34:01 +0100",
-         "title" : "Game of the Week #554: D. Yuffa vs F. Svane"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcet-awards-2023/",
          "pubDate" : "Mon, 06 Feb 2023 10:42:54 +0000",
          "title" : "BCET Awards 2023"
-      },
-      {
-         "description" : "All India Chess Federation is going to organise three days Online Arbiter Refresher Course for all FIDE Licensed IAs, FAs &#38; SNAs on 27 Feb-01",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-2023-24/",
-         "pubDate" : "Mon, 06 Feb 2023 10:04:45 +0000",
-         "title" : "ARBITER REFRESHER COURSE 2023-24"
       },
       {
          "description" : "ECU E-Magazine January 2023 is out! In this edition of the ECU E-Magazine you may read about: The 1st European Cities &#38; Towns Chess Championship The 1st FIDE Olympiad for People with Disabilities Tata Steel Chess 2023 FIDE Women Grand Prix Munich European Senior Team Chess Championship 2023 Official invitation Upcoming European Individual Chess Championship 2023 Upcoming&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2023/\">Read More &#187;</a></span>",
@@ -1882,14 +1898,6 @@ news_feed (
          "title" : "Anish Giri wins Tata Steel Masters 2023"
       },
       {
-         "description" : " I was looking through some of the games played in last weekend's 4NCL congress when I came across this rook ending. It was played in Round 2 between Julian Cast (2015) and Arjun Pyda (1780). We'll pick up the game after White's 56th move. With his active king, Black has what should be a winning <a href=\"https://chessimprover.com/lucky-lucena/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Lucky Lucena\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/lucky-lucena/\">Lucky Lucena</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/lucky-lucena/",
-         "pubDate" : "Sun, 29 Jan 2023 20:00:24 +0000",
-         "title" : "Lucky Lucena"
-      },
-      {
          "description" : "While it's true that in the mechanical world the squeaking wheel gets the oil and in the online world the loudest 'influencers' get the most views, it's often their softer-spoken brethren who end up making the biggest difference. That's this month's thought to introduce the latest post in this blog's long-running series about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/cVEbsXRW9Tw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfull",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-overtakes-abdusattorov-in-a-dramatic-final-round-of-the-tata-steel-masters-to-grab-his-first-title",
          "pubDate" : "Sun, 29 Jan 2023 20:01:00 +0400",
          "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov is a draw against Jorden van Foreest away from at least a playoff for the Tata Steel Masters title after he drew against Wesley So in Round 12. Anish Giri, who could have caught him, survived by the skin of his teeth against Jorden, while Magnus Carlsen called his missed win against Praggnanandhaa a \"backbreaker\". Alexander Donchenko will play next year's Masters after winning the Challengers with a round to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tata-steel-chess-12-abdusattorov-on-brink-as-carlsen-misses-win",
-         "pubDate" : "Sun, 29 Jan 2023 08:36:17 +0000",
-         "title" : "Tata Steel 12: Abdusattorov on brink as Carlsen misses win"
       }
    ]
 }
