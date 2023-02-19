@@ -1904,14 +1904,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2195",
          "pubDate" : "Sun, 29 Jan 2023 23:20:55 +0000",
          "title" : "Anish Giri wins Tata Steel Masters 2023"
-      },
-      {
-         "description" : "While it's true that in the mechanical world the squeaking wheel gets the oil and in the online world the loudest 'influencers' get the most views, it's often their softer-spoken brethren who end up making the biggest difference. That's this month's thought to introduce the latest post in this blog's long-running series about <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016). <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/cVEbsXRW9Tw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfull",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/not-squeaking-wheel.html",
-         "pubDate" : "Sun, 29 Jan 2023 16:40:00 +0000",
-         "title" : "Not a Squeaking Wheel"
       }
    ]
 }
