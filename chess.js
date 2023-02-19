@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r3",
+         "pubDate" : "Sat, 18 Feb 2023 23:35:00 +0100",
+         "title" : "WR Masters: Aronian beats Abdusattorov, leads"
+      },
+      {
+         "description" : "For the first time, the WR Chess Masters 2023 has a sole leader. GM Levon Aronian is in first place after round three following a smooth win against GM Nodirbek Abdusattorov. GMs Wesley So and Gukesh D, who made a draw in their game, are a half-po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-3",
+         "pubDate" : "Sat, 18 Feb 2023 14:24:00 -0800",
+         "title" : "Aronian Slays Sicilian Dragon, Assumes Sole Lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2242",
+         "pubDate" : "Sat, 18 Feb 2023 22:20:20 +0000",
+         "title" : "WR Chess Masters, Round 3: Levon Aronian, the dragon slayer"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2241",
          "pubDate" : "Sat, 18 Feb 2023 16:12:10 +0000",
          "title" : "Ofer Comay wins 19th International Solving Contest"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Sat, 18 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "",
@@ -1352,14 +1368,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/",
          "pubDate" : "Tue, 07 Feb 2023 00:10:37 +0000",
          "title" : "Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings"
-      },
-      {
-         "description" : "Four winners emerged in Division I of the Champions Chess Tour Airthings Masters 2023 on Tuesday. GMs Magnus Carlsen, Hikaru Nakamura, and Arjun Erigaisi clinched their matches in just three games against GMs Alexey Sarana, Gukesh D, and Alireza F...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-1",
-         "pubDate" : "Mon, 06 Feb 2023 13:30:00 -0800",
-         "title" : "Erigaisi Sweeps Firouzja 3-0, Leads With Carlsen, Nakamura, So"
       },
       {
          "description" : "",
