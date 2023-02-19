@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 113th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-113-play-the-sicilian-14",
+         "pubDate" : "Sun, 19 Feb 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 113: Play the Sicilian (14)"
+      },
+      {
+         "description" : " One of the tasks attached to my role as FIDE Qualification Secretary is to answer requests and comments concerning the FIDE Rating System. Sometime these are technical questions (eg \"Why wasn't tournament X rated?\") but some are to do with the operation of the rating system itself. Without delving into details, the topic of 'underrated' players has come up. It turns out that this is a familiar topic to me, as when I was the Australian Ratings Officer way back in late 1980's, this was something I also dealt with on a regular basis. What hasn't happened over the past 35 years is a solution that makes everyone happy (that is also statistically sound). One of the arguments about how the rating ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/do-you-play-for-ratings-or-conditions.html",
+         "pubDate" : "Sun, 19 Feb 2023 12:50:00 +0000",
+         "title" : "Do you play for ratings or conditions?"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Sun, 19 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Rajasthan Chess Assocaition &#38; Chess in Lakecity is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at St.Anthony's School Sector",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1146,14 +1170,6 @@ news_feed (
          "title" : "WGP Munich: Dzagnidze closes the gap"
       },
       {
-         "description" : "Hikaru Nakamura will face Magnus Carlsen in the Airthings Masters' Grand Final on Friday. The famed streamer drew Wesley So with black in Armageddon to win the losers' bracket and set up a rematch against the world champion. So had gained the right to face Nakamura by scoring a 1&frac12;-&frac12; victory over Arjun Erigaisi in the semifinal of the lower bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-4",
-         "pubDate" : "Thu, 09 Feb 2023 22:45:00 +0100",
-         "title" : "Airthings Masters: Nakamura knocks out So, reaches Grand Final"
-      },
-      {
          "description" : "Day four of the Champions Chess Tour Airthings Masters 2023 decided one victor in the Losers Bracket of Division I. GM Hikaru Nakamura defeated GM Wesley So in the armageddon tiebreaker after two draws. He will meet GM Magnus Carlsen in the Grand ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-credits-soul-read-as-he-beats-nakamura",
          "pubDate" : "Thu, 09 Feb 2023 12:08:37 +0000",
          "title" : "Carlsen credits \"soul read\" as he beats Nakamura"
-      },
-      {
-         "description" : "One of the most common things that chess players obsessed with Elo ratings (which is almost all of them) do when selecting tournaments to play is to look at the nationality of the players already entered, to see if they come from countries that are considered to have \"deflated\" ratings or \"inflated\" ratings, which might add to the attraction of playing. Javier Perea analyses the phenomenon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/which-countries-have-the-most-inflated-elo-chess-players",
-         "pubDate" : "Thu, 09 Feb 2023 12:00:00 +0100",
-         "title" : "Which countries have the most inflated Elo ratings?"
       },
       {
          "description" : "",
@@ -1904,14 +1912,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/not-squeaking-wheel.html",
          "pubDate" : "Sun, 29 Jan 2023 16:40:00 +0000",
          "title" : "Not a Squeaking Wheel"
-      },
-      {
-         "description" : " Anish Giri won the Tata Steel Masters for the first time in the best result of the Dutchman's career. Giri started the round half a point behind Abdusattorov and afterwards was grateful to his countryman Jorden Van Foreest for going for a fighting game against the leader. Giri found a way to cause his opponent Richard Rapport problems, may have missed a chance but then his opponent played 34...Kg6 which turned out to be very bad indeed and he soon brought home the full point. Abdusattorov by this time was completely lost and he couldn't find any way to resist. Magnus Carlsen caught Abdusattorov but finished third on tie-break. Giri's consistency in this event has been remarkable and was in ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/85th-tata-steel-2023/giri-overtakes-abdusattorov-in-a-dramatic-final-round-of-the-tata-steel-masters-to-grab-his-first-title",
-         "pubDate" : "Sun, 29 Jan 2023 20:01:00 +0400",
-         "title" : "Giri overtakes Abdusattorov in a dramatic final round of the Tata Steel Masters to grab his first title - 13"
       }
    ]
 }
