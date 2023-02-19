@@ -1912,22 +1912,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tata-steel-chess-12-abdusattorov-on-brink-as-carlsen-misses-win",
          "pubDate" : "Sun, 29 Jan 2023 08:36:17 +0000",
          "title" : "Tata Steel 12: Abdusattorov on brink as Carlsen misses win"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2194",
-         "pubDate" : "Sun, 29 Jan 2023 02:59:07 +0000",
-         "title" : "Top female chess in Munich "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2193",
-         "pubDate" : "Sun, 29 Jan 2023 02:36:21 +0000",
-         "title" : "Tata Steel Chess Masters: Abdusattorov leads going into the final round"
       }
    ]
 }
