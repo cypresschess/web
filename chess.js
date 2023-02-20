@@ -2,11 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The U18 Galician Youth Championship 2023 is taking place from 18-21 February 2023 in Padr&#xF3;n, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is an 8-round Swiss tournament with participation of Breixo Longueira Alonso, Pablo Lopez Varela, Xulio Del Prado Rodriguez, Alejandro Cereijo Suarez, Ruben []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u18-galician-youth-championship-2023-live/",
+         "pubDate" : "Mon, 20 Feb 2023 08:24:44 +0000",
+         "title" : "U18 - Galician Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Uruguay has once again hosted a strong chess tournament, as the sixth edition of the Marcel Duchamp Cup 2023 took place on February 3-11 in Montevideo. After nine intense rounds of competition, GM Alexandr Fier emerged as the champion with an impressive 7&frac12;/9 score. The victory cements Fier's place as one of the top players in the region. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexandr-fier-wins-marcel-duchamp-cup-2023",
+         "pubDate" : "Mon, 20 Feb 2023 09:17:47 +0100",
+         "title" : "Alexandr Fier wins Marcel Duchamp Cup in Montevideo"
+      },
+      {
+         "description" : "The U14 Galician Youth Championship 2023 is taking place from 18-21 February 2023 in Padr&#xF3;n, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 8-round Swiss tournament with participation of Javier del Valle Crespo, Iago Fernandez Ramos, Sergio Diniz Lopez, Uxio Vilarino Lorenzo, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-galician-youth-championship-2023-live/",
+         "pubDate" : "Mon, 20 Feb 2023 08:17:41 +0000",
+         "title" : "U14 - Galician Youth Championship 2023 - LIVE"
+      },
+      {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-4",
-         "pubDate" : "Sun, 19 Feb 2023 19:18:17 -0800",
+         "pubDate" : "Sun, 19 Feb 2023 19:18:00 -0800",
          "title" : "Fireworks In Clash Of Youth, No Blood Spilled In Day Of Draws"
       },
       {
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/chesscom-banned-jobava-without/",
          "pubDate" : "Sun, 19 Feb 2023 22:39:42 +0100",
          "title" : "Chess.com banned Jobava without warning"
+      },
+      {
+         "description" : "Alternate title: 'The Eyes Have It'. In last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html\">DALL-E Chess Revisited</A>(January 2023), I wondered, <BLOCKQUOTE>Am I just a sucker for AI generated chess images? </BLOCKQUOTE> <P>It appears I am. On the left is another AI image; on the right is the real deal. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb19.jpg\" WIDTH=400 HEIGHT=225><BR><B>Left:</B><A HREF=\"https://www.flickr.com/photos/87249144@N08/52678338167/\">Cat Chess</A>&#169; Flickr user <I>FolsomNatural</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <BR><B>Right:</B><A HR",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/catsparov-chess.html",
+         "pubDate" : "Sun, 19 Feb 2023 16:12:00 +0000",
+         "title" : "Catsparov Chess"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 113th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -266,14 +298,6 @@ news_feed (
          "title" : "Romanian Womens's Championship 2023 - LIVE"
       },
       {
-         "description" : "The Romanian Championship 2023 is taking place from 19&#x2013;26 February 2023 in Sebes, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of GM Kirill Shevchenko, GM Constantin Lupulescu, GM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-championship-2023-live/",
-         "pubDate" : "Fri, 17 Feb 2023 19:46:43 +0000",
-         "title" : "Romanian Championship 2023 - LIVE"
-      },
-      {
          "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-1-so-aronian-and-esipenko-all-win",
          "pubDate" : "Fri, 17 Feb 2023 11:18:52 +0000",
          "title" : "WR Chess Masters 1: So, Aronian and Esipenko all win"
-      },
-      {
-         "description" : "The Romanian Women's Chess Championship 2023&#xA0;will take place from 18-26 February in Sebes. The event will be simultaneously held with the 2023 Romanian National Chess Championship. Championships will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, plus 15 minutes until the end of the game, with the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-womens-chess-championship-2023/",
-         "pubDate" : "Fri, 17 Feb 2023 10:19:37 +0000",
-         "title" : "Romanian Women's Chess Championship 2023"
       },
       {
          "description" : "",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-7",
          "pubDate" : "Thu, 09 Feb 2023 22:35:00 -0800",
          "title" : "Dzagnidze Seizes Clear 2nd In Round Of Combative Duels"
-      },
-      {
-         "description" : "In a round that could have been a bloodbath at the Munich Grand Prix, Nana Dzagnidze scored the only win to close the gap with tournament leader Alexandra Kosteniuk to a full point. Dzagnidze beat Alina Kashlinskaya with white, while Kosteniuk escaped with a draw in an entertaining game against Mariya Muzychuk. Like Muzychuk, Humpy Koneru missed a tactical shot that could have secured her a full point. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-r7",
-         "pubDate" : "Fri, 10 Feb 2023 05:15:00 +0100",
-         "title" : "Munich GP: Dzagnidze scores in eventful seventh round"
       },
       {
          "description" : "",
