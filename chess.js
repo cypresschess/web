@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> <span id=\"docs-internal-guid-6b9e05e2-7fff-0890-6031-0785c255563a\"> </span> <p dir=\"ltr\" style=\"text-align: center;\"><strong>The American Cup Returns to Saint Louis March 17-26, 2023</strong> <p dir=\"ltr\" style=\"text-align: center;\"><em>16 Chess Players Will Compete in a Double-Elimination</em> <p dir=\"ltr\" style=\"text-align: center;\"><em> Knockout for $300,000 in Prizes </em> <p dir=\"ltr\" style=\"text-align: center;\"><span> </span> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023",
+         "pubDate" : "Mon, 20 Feb 2023 17:17:36 +0000",
+         "title" : "The American Cup Returns to Saint Louis March 17-26, 2023"
+      },
+      {
+         "description" : "In his Endgame Magic Show #228 Karsten has the 16-year old Indian Grandmaster Leon Luke Mendonca as his guest and they will look at highlights from the Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-228-with-with-leon-luke-mendonca-endgame-highlights-from-the-bundesliga",
+         "pubDate" : "Mon, 20 Feb 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #228 with Leon Luke Mendonca: Endgame highlights from the \"Bundesliga\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/sponsoring-ukrainian-refugees/",
          "pubDate" : "Mon, 20 Feb 2023 14:49:44 +0000",
          "title" : "Sponsoring Ukrainian refugees"
-      },
-      {
-         "description" : "There is no excerpt because this is a protected post.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-chessmoves-shop/",
-         "pubDate" : "Mon, 20 Feb 2023 14:22:28 +0000",
-         "title" : "Protected: ECF ChessMoves shop"
       },
       {
          "description" : "In chess calculation, width is more important than depth. Virtually every decent player can calculate a forced line till the very end. However, only few can sense all the flavours of the position, find all the hidden ideas. To see the exceptions where everybody else only sees the rules. To find something unusual while all the others follow well-known patterns. In this article, Jan Markos shows you how Magnus Carlsen is able to come up with unexpected solutions in situations where an average club player would be totally confused. | Photo: Lennart Ootes, Archive",
@@ -1202,14 +1210,6 @@ news_feed (
          "title" : "Nakamura sets up Carlsen rematch in Airthings Masters final"
       },
       {
-         "description" : "After a long time, Svitlana was finally able to play some chess again in the Canadian University Chess Championship 2023. With 4 out of 5, she had a great tournament. We take a look at two of her games, where we specifically analyse her two opening choices. Especially the move 3. .. h6 in the Queen's Gambit, is often unpleasant for White, and Svitlana pulls off a great victory with loads of tactical patterns. In the second game, the London system does the job, and the game is pretty much over after less than 20 moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-canadian-university-chess-championship-2023",
-         "pubDate" : "Fri, 10 Feb 2023 11:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - The Canadian University Chess Championship 2023"
-      },
-      {
          "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1754,14 +1754,6 @@ news_feed (
          "title" : "Natasha Rogoff: Muppets in Moscow"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on middlegames that come from Sicilian openings., specifically on the pawn structures and tactics. 2023.01.31<br /> Craig Hilby vs. Razvan Preotu, 2018: B90 Sicilian, Najdorf, Byrne (English) attack<br /> <a href=\"https://www.365chess.com/game.php?back=1&amp;gid=4133521\">https://www.365chess.com/game.php?back=1&amp;gid=4133521</a><br /> Jack Peters vs. Josh Sheng, 2015: B42 Sicilian, Kan, Polugaievsky variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-la",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-structure-sicilian-middlegames-grandmasters-choice-gm-josh-sheng",
-         "pubDate" : "Wed, 01 Feb 2023 23:24:49 +0000",
-         "title" : "Pawn Structure in Sicilian Middlegames | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1880,14 +1872,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/everything-new-in-chessbase-17",
          "pubDate" : "Mon, 30 Jan 2023 22:41:32 +0100",
          "title" : "Everything new in ChessBase 17"
-      },
-      {
-         "description" : "In last week's post, <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023), I opened, <BLOCKQUOTE>For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event. </BLOCKQUOTE> <P>This was also flagged in a Talkchess thread. <UL><LI>2023-01-14: <A HREF=\"https://talkchess.com/forum3/viewtopic.php?f=2&t=81339\">Lc0 wins TCEC Cup 11 Final</A>(talkchess.com) &#149; 'When was the last time Stockfish lost a final? Stockfish is getting weaker and weaker. [...] Or maybe the opponents get stronger.' </UL> <P>Or maybe it's a typical example showing that rating i",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/talkchess-talks-top-engines.html",
-         "pubDate" : "Mon, 30 Jan 2023 16:31:00 +0000",
-         "title" : "Talkchess Talks Top Engines"
       }
    ]
 }
