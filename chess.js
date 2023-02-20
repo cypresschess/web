@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public, at least seven more victims have come forward. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/shahade-outed-ramirez-investigation/",
+         "pubDate" : "Sun, 19 Feb 2023 23:26:59 +0100",
+         "title" : "Shahade outed Ramirez investigation to find more victims"
+      },
+      {
+         "description" : "Levon Aronian continues to lead the standings at the WR Chess Masters, as all five games ended drawn in Sunday's fourth round. A few of the encounters featured double-edged openings, but accurate defensive responses prevented any of them from finishing decisively. Monday is a rest day in D&uuml;sseldorf. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r4",
+         "pubDate" : "Sun, 19 Feb 2023 23:00:00 +0100",
+         "title" : "WR Masters: Five draws, Aronian leads"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <strong>Baadur Jobava</strong> ranted about alleged cheating during the <strong>Airthings Masters</strong> qualifier on stream, <strong>Chess.com</strong> banned him for a year from all prize money events and marked him as a racist and sexist. The platform never replied to our question if the trashtalking Georgian for whom English is only his third language had been warned. Now Jobava <a href=\"https://baadurjobava.com/statement-regarding-chess-coms-ban/\">published an apology</a> for his misplaced words and states that he was neither warned nor confronted, protesting against stating an example on him when the real problem is cheating. He had le",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/chesscom-banned-jobava-without/",
+         "pubDate" : "Sun, 19 Feb 2023 22:39:42 +0100",
+         "title" : "Chess.com banned Jobava without warning"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 113th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/do-you-play-for-ratings-or-conditions.html",
          "pubDate" : "Sun, 19 Feb 2023 12:50:00 +0000",
          "title" : "Do you play for ratings or conditions?"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Sun, 19 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "On behalf of All India Chess Federation, Rajasthan Chess Assocaition &#38; Chess in Lakecity is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at St.Anthony's School Sector",
@@ -736,14 +752,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/jorge-vega-1935-2023/",
          "pubDate" : "Tue, 14 Feb 2023 07:28:06 +0100",
          "title" : "Jorge Vega (1935-2023)"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Belgian GM Luc Winants <a href=\"https://de.chessbase.com/post/luc-winants-ist-gestorben\">passed away</a> at 60. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/luc-winants-1963-2023/",
-         "pubDate" : "Tue, 14 Feb 2023 07:12:30 +0100",
-         "title" : "Luc Winants (1963-2023)"
       },
       {
          "description" : "Congratulations to Grandmaster Koneru Humpy for finishing as Runner-Up in the second leg of #FIDEWomenGrandPrix at Munich and Harika Dronavalli for finishing fourth. Photo :",
@@ -1858,14 +1866,6 @@ news_feed (
          "title" : "Last round dramas"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> In order to find a sponsor for the next <strong>Women's Candidates Tournament</strong> with a minimum prizefund of €200,000, <strong>FIDE</strong> is <a href=\"https://www.fide.com/news/2188\">requiring bidders</a> for the <strong>Candidates Tournament</strong> 2024 to include it. The bidding deadline is set for 28 February. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/fide-ties-two-candidates-into-single/",
-         "pubDate" : "Mon, 30 Jan 2023 12:12:40 +0100",
-         "title" : "FIDE ties two Candidates into single event"
-      },
-      {
          "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1880,30 +1880,6 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
          "pubDate" : "Mon, 30 Jan 2023 09:00:55 +0000",
          "title" : "British Chess Championships 2023 - update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2196",
-         "pubDate" : "Sun, 29 Jan 2023 23:45:17 +0000",
-         "title" : "Breaking barriers: The inaugural Chess Olympiad for people with disabilities opened in Belgrade"
-      },
-      {
-         "description" : "Anish Giri, five times the runner-up in Wijk aan Zee, has won the 85th edition of Tata Steel Chess after pouncing on a blunder by Richard Rapport while Jorden van Foreest took down long-term leader Nodirbek Abdusattorov. Magnus Carlsen beat Arjun Erigaisi on demand to catch Nodirbek in a tie for 2nd place, while Wesley So finished 4th.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anish-giri-wins-his-1st-tata-steel-masters",
-         "pubDate" : "Sun, 29 Jan 2023 23:34:20 +0000",
-         "title" : "Anish Giri wins his 1st Tata Steel Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2195",
-         "pubDate" : "Sun, 29 Jan 2023 23:20:55 +0000",
-         "title" : "Anish Giri wins Tata Steel Masters 2023"
       }
    ]
 }
