@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Mon, 20 Feb 2023 16:19:35 +0000",
+         "title" : "ECF Arbiter Course - June"
+      },
+      {
+         "description" : "The ECF is once again working with the Ukrainian Chess Federation to help Ukrainian refugees who wish to come to the UK. Any ECF members...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/sponsoring-ukrainian-refugees/",
+         "pubDate" : "Mon, 20 Feb 2023 14:49:44 +0000",
+         "title" : "Sponsoring Ukrainian refugees"
+      },
+      {
+         "description" : "There is no excerpt because this is a protected post.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-chessmoves-shop/",
+         "pubDate" : "Mon, 20 Feb 2023 14:22:28 +0000",
+         "title" : "Protected: ECF ChessMoves shop"
+      },
+      {
+         "description" : "In chess calculation, width is more important than depth. Virtually every decent player can calculate a forced line till the very end. However, only few can sense all the flavours of the position, find all the hidden ideas. To see the exceptions where everybody else only sees the rules. To find something unusual while all the others follow well-known patterns. In this article, Jan Markos shows you how Magnus Carlsen is able to come up with unexpected solutions in situations where an average club player would be totally confused. | Photo: Lennart Ootes, Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-18-magnus-carlsen-s-diagonals",
+         "pubDate" : "Mon, 20 Feb 2023 15:00:00 +0100",
+         "title" : "The Winning Academy 18: Magnus Carlsen's diagonals"
+      },
+      {
+         "description" : "In order to understand openings properly, the middlegame should actually be studied first. Because all plans in the middlegame link directly to the ideas from the opening. Almost everything is hung up on pawn structures. Therefore, IM Herman Grooten takes the club chess player by the hand to take a closer look at common middlegame structures.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts-of-chess-the-hedgehog",
+         "pubDate" : "Mon, 20 Feb 2023 14:00:00 +0100",
+         "title" : "Herman Grooten: Key Concepts of Chess - The Hedgehog"
+      },
+      {
          "description" : "Gukesh and Vincent Keymer played a wild game in Round 4 of the WR Chess Masters in Dusseldorf, but in the end it finished in a draw, as, for the first time in the event, did all the other games in the round. According to the computer, Anish Giri came closest to a decisive advantage, against Andrey Esipenko, noting afterwards, \"I very often let my opponents escape - it's part of my job, part of my style!\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -597,9 +637,9 @@ news_feed (
          "description" : "The Cambridge International Open has certainly proven itself to be one of the most sought-after events in England. With only 121 places available, there were...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/cambridge-international-open-underway/",
+         "link" : "https://www.englishchess.org.uk/cambridge-international-open/#new_tab",
          "pubDate" : "Wed, 15 Feb 2023 12:00:48 +0000",
-         "title" : "Cambridge International Open - underway"
+         "title" : "Cambridge International Open - results"
       },
       {
          "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup. This event was played on lichess.org and hosted on chessstream.com on the weekend of February 4 and 5, 2023. The tournament attracted well over 500 university students from every continent and from nearly thirty countries. The event was a resounding success.",
@@ -1168,22 +1208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-canadian-university-chess-championship-2023",
          "pubDate" : "Fri, 10 Feb 2023 11:00:00 +0100",
          "title" : "Svitlana's Smart Moves - The Canadian University Chess Championship 2023"
-      },
-      {
-         "description" : "The knockout phase of the Airthings Masters took place on February 6-10. Three Divisions (with 8, 16 and 32 players respectively) were played concurrently. Each knockout includes winners' and losers' brackets. Magnus Carlsen, Fabiano Caruana and Samuel Sevian were crowned winners of each division. | Replay the games and check out each division's full brackets.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-live",
-         "pubDate" : "Fri, 10 Feb 2023 10:50:00 +0100",
-         "title" : "Airthings Masters Knockout: Games and brackets"
-      },
-      {
-         "description" : "In his 'Fast & Furious' show, Robert Ris looks back at a rollercoaster game, in which Ian Nepomniachtchi used the Deferred Steinitz Variation of the Ruy Lopez to initiate an early (and eventually successful) attack on the kingside. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-a-rollercoaster-game",
-         "pubDate" : "Fri, 10 Feb 2023 10:24:30 +0100",
-         "title" : "Robert Ris' Fast and Furious: A rollercoaster game"
       },
       {
          "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
@@ -1818,14 +1842,6 @@ news_feed (
          "title" : "Won't somebody think of the adults"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/",
-         "pubDate" : "Tue, 31 Jan 2023 11:45:06 +0000",
-         "title" : "ECF Arbiter Course - March/April"
-      },
-      {
          "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women's, and Youth U12. Each section featured 9 rounds played in swiss system, with the time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1872,30 +1888,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/talkchess-talks-top-engines.html",
          "pubDate" : "Mon, 30 Jan 2023 16:31:00 +0000",
          "title" : "Talkchess Talks Top Engines"
-      },
-      {
-         "description" : "The 85th jubilee edition of the Tata Steel Chess took place from 14th-29th January 2023 in Wijk aan Zee, the Netherlands. The &#8220;Wimbledon of Chess&#8221; featured Masters, Challengers, and Amateur events simultaneously played in the same venue. GM Anish Giri (NED, 2764) won the Masters event after a thrilling final round. Giri defeated Richard Rapport (ROU, 2740) to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/anish-giri-wins-tata-steel-masters-2023/",
-         "pubDate" : "Mon, 30 Jan 2023 14:50:07 +0000",
-         "title" : "Anish Giri wins Tata Steel Masters 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2197",
-         "pubDate" : "Mon, 30 Jan 2023 14:48:36 +0000",
-         "title" : "Tolerance Games, Asian Chess Women's Contest, set for February 06"
-      },
-      {
-         "description" : " Last round games can do strange things to chess players. The final round of the 2023 Tata Steel tournament saw a dramatic change in the final standings, as did the last round of the 2023 Oceania Zonal. Often it is the player with the least to lose starts with the upper hand, and simply has to wait for the mistake. For the players in the 2023 Zonal, this is in fact what happened, resulting in not only a 6 way tie for 1st, but an IM title for FM Patrick Gong. <br /> <b>Solomon,Stephen - Zhao,Zong Yuan [C90]</b><br />2023 Oceania Zonal, 29.01.2023 <script>new PgnViewer( { boardName: \"game1379\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/last-round-dramas.html",
-         "pubDate" : "Mon, 30 Jan 2023 13:14:00 +0000",
-         "title" : "Last round dramas"
       }
    ]
 }
