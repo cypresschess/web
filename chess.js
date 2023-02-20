@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh and Vincent Keymer played a wild game in Round 4 of the WR Chess Masters in Dusseldorf, but in the end it finished in a draw, as, for the first time in the event, did all the other games in the round. According to the computer, Anish Giri came closest to a decisive advantage, against Andrey Esipenko, noting afterwards, \"I very often let my opponents escape - it's part of my job, part of my style!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-4-gukesh-keymer-thriller",
+         "pubDate" : "Mon, 20 Feb 2023 11:49:35 +0000",
+         "title" : "WR Chess Masters 4: Gukesh-Keymer thriller"
+      },
+      {
+         "description" : " Normally movie and tv adaptions of popular computer games do not work particularly well. I even tested this theory by trying to watch the World of Warcraft movie. Of course there are exceptions .... <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/YFHHGETsxkE\" width=\"320\" youtube-src-id=\"YFHHGETsxkE\"></iframe></div><br /> <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/play-game-watch-movie.html",
+         "pubDate" : "Mon, 20 Feb 2023 11:38:00 +0000",
+         "title" : "Play the game, watch the movie"
+      },
+      {
+         "description" : "The 39th edition of the International Open of Cappelle la Grande is taking place from 18-24 February in Cappelle-la-Grande, France. The event is played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/39th-international-open-of-cappelle-la-grande-started/",
+         "pubDate" : "Mon, 20 Feb 2023 09:59:02 +0000",
+         "title" : "39th International Open of Cappelle la Grande started"
+      },
+      {
+         "description" : "On Sunday, it was Ukranian day at the WR Chess Masters in D&uuml;sseldorf. Six young Ukrainians, who attended the fourth round of the super tournament at the invitation of organizer Vadim Rosenstein, enjoyed the opportunity to meet the participants of the WR Chess Masters. All six come from refugee families who arrived in the Rhineland in the spring of 2022 after the Russian invasion of Ukraine. | Photo: Tournament host Wadim Rosenstein, Tournament Director Sebastian Siebrecht and Event Manager Anastasiya Karlovych with some of the participants, each of whom received a price. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ukrainian-sunday-at-the-wr-chess-masters",
+         "pubDate" : "Mon, 20 Feb 2023 10:16:20 +0100",
+         "title" : "Ukrainian Sunday at the WR Chess Masters"
+      },
+      {
+         "description" : "The&#xA0;39th edition of the International Open of Cappelle la Grande&#xA0;is taking place from 18-24 February in Cappelle-la-Grande, France. The event is played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move one. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/39th-international-open-of-cappelle-la-grande-live/",
+         "pubDate" : "Mon, 20 Feb 2023 08:59:00 +0000",
+         "title" : "39th International Open of Cappelle la Grande - LIVE"
+      },
+      {
+         "description" : "The Argentinian Youth Championships 2023 is taking place from 17-21 February 2023 in San Luis, Argentina. It is an 9-round Swiss tournament with participation of Joaquin Llanos, Juan Martin Ibarra, Valentin Aguilar Samper, Juan Ignacio Ruiz, Giuliana Bosco, Nehuen Alexis Minvielle, Mathias Rodriguez, Sofia Brito, Anna Laura Scarsi, Luciano Ariel Carrizo, Ilan Schnaider, Ernestina Adam, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/argentinian-youth-championships-2023-live/",
+         "pubDate" : "Mon, 20 Feb 2023 08:30:32 +0000",
+         "title" : "Argentinian Youth Championships 2023 - LIVE"
+      },
+      {
          "description" : "The U18 Galician Youth Championship 2023 is taking place from 18-21 February 2023 in Padr&#xF3;n, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is an 8-round Swiss tournament with participation of Breixo Longueira Alonso, Pablo Lopez Varela, Xulio Del Prado Rodriguez, Alejandro Cereijo Suarez, Ruben []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -26,6 +74,30 @@ news_feed (
          "title" : "U14 - Galician Youth Championship 2023 - LIVE"
       },
       {
+         "description" : "It smelled like a draw shortly after move 30, when a symmetrical rook ending had developed between Nodirbek Abdusattorov and Praggnanandhaa. More in jest, almost giggling, Yasser Seirawan and Anastasia Karlovych listed the academic advantages of the white position on the livestream: a little more space, a slightly more active king, a slightly more active []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-keeps-the-sole-lead-wr-chess-masters-round-4-recap/",
+         "pubDate" : "Mon, 20 Feb 2023 08:10:00 +0000",
+         "title" : "Levon Aronian keeps the sole lead; WR Chess Masters - Round 4 recap"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public in <a href=\"https://twitter.com/JenShahade/status/1625873098581983232\">a tweet s",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/shahade-outed-ramirez-investigation/",
+         "pubDate" : "Mon, 20 Feb 2023 08:40:17 +0100",
+         "title" : "Shahade outed Ramirez investigation to find more victims"
+      },
+      {
+         "description" : "The&#xA0;Cambridge International Open 2023&#xA0;took place from 15-19 February 2023 in Cambridge, England. The event was played as a 9-round Swiss tournament with more than 120 entries and the prize fund of 4.200&#xA3;. The top-seeded GM Michael Adams won the event scoring 8/9 points. With two draws, one in the first, and the other one in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/michael-adams-wins-cambridge-international-open-2023/",
+         "pubDate" : "Mon, 20 Feb 2023 07:23:00 +0000",
+         "title" : "Michael Adams wins Cambridge International Open 2023"
+      },
+      {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2243",
          "pubDate" : "Mon, 20 Feb 2023 01:25:56 +0000",
          "title" : "WR Chess Masters, Round 4: Burned bridges and kicked down doors"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public, at least seven more victims have come forward. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/shahade-outed-ramirez-investigation/",
-         "pubDate" : "Sun, 19 Feb 2023 23:26:59 +0100",
-         "title" : "Shahade outed Ramirez investigation to find more victims"
       },
       {
          "description" : "Levon Aronian continues to lead the standings at the WR Chess Masters, as all five games ended drawn in Sunday's fourth round. A few of the encounters featured double-edged openings, but accurate defensive responses prevented any of them from finishing decisively. Monday is a rest day in D&uuml;sseldorf. | Photo: Lennart Ootes",
@@ -146,14 +210,6 @@ news_feed (
          "title" : "Levon Aronian grabs the sole lead at WR Chess Masters"
       },
       {
-         "description" : "The Chessemy Open 2023 will be held from 3rd-12th March at Hotel Forellenhof Walsrode. The event will be played in two rating groups: A Open (for players rated 1800+) and B Open (for players rated U1900). Both tournaments will be played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessemy-open-2023/",
-         "pubDate" : "Sun, 19 Feb 2023 07:01:00 +0000",
-         "title" : "Chessemy Open 2023"
-      },
-      {
          "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,28 +266,12 @@ news_feed (
          "title" : "Grandmasters of the Chessboard"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-2-live-2/",
-         "pubDate" : "Sat, 18 Feb 2023 10:17:00 +0000",
-         "title" : "WR Chess Masters 2023 - Round 2 live"
-      },
-      {
          "description" : "Last Monday, Alexandra Kosteniuk (pictured) won the second stage of the FIDE Women's Grand Prix, a 12-player single round-robin that took place in Munich, Germany. GM Karsten M&uuml;ller followed the games closely, and sent us a selection of thought-provoking endgames. Find here six instructive positions, annotated by our in-house expert. | Photo: Mark Livshitz / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-munich-2023-endgames",
          "pubDate" : "Sat, 18 Feb 2023 11:00:00 +0100",
          "title" : "Endgames from Munich"
-      },
-      {
-         "description" : "Gukesh and Nodirbek Abdusattorov have joined the leaders with wins in the second round of the WR Chess Masters. Together with Wesley So and Levon Aronian, the two youngsters make up the quartet at the top of the table with 1.5 points from 2 games. Gukesh fought a fierce, wide-open battle in the Indian duel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/four-way-tie-for-the-top-of-wr-chess-masters-round-2-recap/",
-         "pubDate" : "Sat, 18 Feb 2023 09:08:16 +0000",
-         "title" : "Four-way tie for the top of WR Chess Masters - Round 2 recap"
       },
       {
          "description" : "In the diagram position, White has to act quickly in the face of Black's threat e5-e4 - and in the end it will be he who triumphs on the diagonal c2-h7. Happy uncovering!",
@@ -280,22 +320,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-four/",
          "pubDate" : "Fri, 17 Feb 2023 20:28:33 +0000",
          "title" : "A Foundation for Beginners Eighty Four"
-      },
-      {
-         "description" : "The Romanian Amateur Championship 2023 is taking place from 21&#x2013;26 February 2023 in Sebes, Romania. Players receive 60 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Sorin Levay, George Albu, Ovidiu-Jean Lupu, Bogdan-Ovidiu Armenciu, Sorin-Mihai Samu, Ion-Cristian Veneteanu, Ionut Irimia, Calin []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-amateur-championship-2023-live/",
-         "pubDate" : "Fri, 17 Feb 2023 20:02:26 +0000",
-         "title" : "Romanian Amateur Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Romanian Womens's Championship 2023 is taking place from 19&#x2013;26 February 2023 in Sebes, Romania. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of WGM Elena-Luminita Cosma , WGM Mihaela []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/romanian-womenss-championship-2023-live/",
-         "pubDate" : "Fri, 17 Feb 2023 19:55:53 +0000",
-         "title" : "Romanian Womens's Championship 2023 - LIVE"
       },
       {
          "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: A rollercoaster game"
       },
       {
-         "description" : "Today: Jeroen van den Belt explains how the new ChessBase 17 evaluation graph works, and how to enable it. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-evaluation-graph-for-chessbase-17",
-         "pubDate" : "Fri, 10 Feb 2023 10:00:00 +0100",
-         "title" : "Explained by the engineers! - The new evaluation graph for ChessBase 17!"
-      },
-      {
          "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1880,22 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/01/last-round-dramas.html",
          "pubDate" : "Mon, 30 Jan 2023 13:14:00 +0000",
          "title" : "Last round dramas"
-      },
-      {
-         "description" : "The European Chess Union (ECU) hereby expresses its position on the possible transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF).&#160; The ECU notes the following articles in the press and statements by officials of the Russian Chess Federation regarding the intended withdrawal of the Russian Chess Federation (RCF) from the European Chess Union&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/statement-of-the-european-chess-union/",
-         "pubDate" : "Mon, 30 Jan 2023 09:17:55 +0000",
-         "title" : "Statement of the European Chess Union"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Mon, 30 Jan 2023 09:00:55 +0000",
-         "title" : "British Chess Championships 2023 - update"
       }
    ]
 }
