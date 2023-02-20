@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-4",
+         "pubDate" : "Sun, 19 Feb 2023 19:18:17 -0800",
+         "title" : "Fireworks In Clash Of Youth, No Blood Spilled In Day Of Draws"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2243",
+         "pubDate" : "Mon, 20 Feb 2023 01:25:56 +0000",
+         "title" : "WR Chess Masters, Round 4: Burned bridges and kicked down doors"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public, at least seven more victims have come forward. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1392,14 +1408,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/erigaisi-beats-firouzja-3-0-as-airthings-masters-begins",
          "pubDate" : "Tue, 07 Feb 2023 08:34:28 +0000",
          "title" : "Erigaisi beats Firouzja 3:0 as Airthings Masters begins"
-      },
-      {
-         "description" : "IM Alina Kashlinskaya scored her first victory of the Munich FIDE Women&#39;s Grand Prix &#38;nbsp;in round five, making an attacking comeback vs. GM Mariya Muzychuk after losing material early in the game.&#38;nbsp; GM Alexandra Kosteniuk continues to lead...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-5",
-         "pubDate" : "Mon, 06 Feb 2023 19:08:00 -0800",
-         "title" : "Counterattacks Prevail: Kashlinskaya's 1st Win, Kosteniuk Still Undefeated"
       },
       {
          "description" : " From the Siles Press web site: &#8220;Silman's Chess Odyssey is International Master Jeremy Silman's homage part instruction, part history, part memoir to the game he loves. The book <a href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and",
