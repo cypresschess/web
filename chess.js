@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
+         "pubDate" : "Tue, 21 Feb 2023 12:37:26 +0100",
+         "title" : "\"The Beast of Birmingham\""
+      },
+      {
+         "description" : "When Wadim Rosenstein realised a childhood dream and put together a world-class field for his WR Chess Masters in his home town, he hadn't even thought about the political overtones. He simply wanted to bring top chess to the banks of the Rhine in D&uuml;sseldorf and for Rosenstein Ian Nepomniachtchi and Andrey Esipenko were world-class grandmasters. After all, Russian chess players are not sanctioned by the World Chess Federation. Nevertheless, there were critical questions. Wadim Rosenstein answers these and other questions in an interview. | Photo: Wadim Rosenstein follows the games in the lounge, Jan Gustafsson is in the back (Photos: Andr&eacute; Schulz)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-wadim-rosenstein-organiser-of-the-wr-chess-masters",
+         "pubDate" : "Tue, 21 Feb 2023 11:40:54 +0100",
+         "title" : "Interview with Wadim Rosenstein, Organiser of the WR Chess Masters"
+      },
+      {
+         "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. Any missing names/fresh applicants please fill the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-arbiter-refresher-course-batch-allotment/",
+         "pubDate" : "Tue, 21 Feb 2023 09:20:13 +0000",
+         "title" : "AICF'S ARBITER REFRESHER COURSE : BATCH ALLOTMENT"
+      },
+      {
+         "description" : "The ECU Commission for Women's Chess is organizing the second edition of the ECU Girls' and Women's Chess Weekend on 25th-26th February. All events are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-girls-and-womens-chess-weekend/",
+         "pubDate" : "Tue, 21 Feb 2023 09:19:43 +0000",
+         "title" : "European Girls' and Women's Chess Weekend"
+      },
+      {
          "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "Women's Grand Prix, Round 8: Kosteniuk remains clear first"
       },
       {
-         "description" : "In the diagram position White just played 11.Qf3?, which allows Black to get the advantage. A 'petite combinaison' par excellence - I hope you enjoy it a little!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hanging-attackers",
-         "pubDate" : "Sat, 11 Feb 2023 09:00:00 +0100",
-         "title" : "Hanging attackers"
-      },
-      {
          "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1176,14 +1200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-8",
          "pubDate" : "Fri, 10 Feb 2023 15:35:00 -0800",
          "title" : "Bishop Endgames Star As Kosteniuk Extends Lead"
-      },
-      {
-         "description" : "Magnus Carlsen won the Airthings Masters, the first event of this year's Champions Chess Tour, after beating Hikaru Nakamura 2&frac12;-1&frac12; in the 4-game Grand Final match. Carlsen won game 1 with white and drew the three remaining encounters to secure tournament victory. This was the second time Carlsen beat Nakamura in the 5-day event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/airthings-masters-2023-ko-5",
-         "pubDate" : "Fri, 10 Feb 2023 23:05:00 +0100",
-         "title" : "Carlsen beats Nakamura again, wins Airthings Masters"
       },
       {
          "description" : "GM Magnus Carlsen won the&#38;nbsp;Champions Chess Tour Airthings Masters 2023 Division I after defeating GM Hikaru Nakamura in the Grand Final. He won the first game and, despite a major scare in game three, managed to draw the rest to consolidate hi...",
@@ -1448,14 +1464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2219",
          "pubDate" : "Tue, 07 Feb 2023 12:22:49 +0000",
          "title" : "Tolerance Games, Asian Chess Women's Contest, run big"
-      },
-      {
-         "description" : "Senior National Arbiter Examination held at Hosur Tamil Nadu Certificates are out to download. Link : https://aicf.online/Arbiter-Seminar-Hosur.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-hosur-certificates/",
-         "pubDate" : "Tue, 07 Feb 2023 12:07:36 +0000",
-         "title" : "Senior National Arbiter, Hosur Certificates"
       },
       {
          "description" : "The &#8216;rating of games played abroad' facility has been dormant since the new rating system was introduced. The ECF rating team are pleased to announce...",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "Abdusattorov enters top 20 Open in February 2023 rating list"
       },
       {
-         "description" : "On the 29th January 2023 in at the Mindsports Centre in Hammersmith three teams entered the European Cities and Towns Chess Championships organised by the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-cities-and-towns-chess-championships-result/",
-         "pubDate" : "Thu, 02 Feb 2023 13:26:16 +0000",
-         "title" : "European Cities and Towns Chess Championships result"
-      },
-      {
          "description" : " You would think that the list of mangled chess rules would eventually have an end point, but it turns out there are always new additions. Courtesy of Jovan Petronic comes a slightly different take on how a pawn operates. Along with the usual 2 squares at the star, and promotion when it reaches the end of the board, there is an additional, previously unknown power. \"The player whose pawn captures the queen can also get back one piece he has lost or gain one additional piece\" If this bizarre rule has anything going for it, it is that it will reduce the number of queen exchanges (\"12.Qxd6 cxd6 sucker!\") <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1840,22 +1840,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html",
          "pubDate" : "Tue, 31 Jan 2023 16:29:00 +0000",
          "title" : "First Yahoos of 2023"
-      },
-      {
-         "description" : " The Eastlakes Gungahlin Chess Club began it's 2023 chess season this evening, with not 1 but 2 club events. In a throwback to the 1980's, the club start both a junior event (2023 Gungahlin Junior Championship) and a adult event (2023 Ramakrishna Memorial). The two tournaments are identical (7 rounds 60m+30s), but junior players have to play the junior event. So how did it go? Quite well actually. Combined the 2 events had 41 players (22 in the Memorial, and 19 in the junior), which is about the same as last year in terms of entrants, and age split. One problem it did solve is that it reduced the number of 1st round mismatches, as almost all the games in the Memorial went past the 1 hour mar",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/01/wont-somebody-think-of-adults.html",
-         "pubDate" : "Tue, 31 Jan 2023 12:00:00 +0000",
-         "title" : "Won't somebody think of the adults"
-      },
-      {
-         "description" : "The 1st European Cities &#38; Towns Chess Championship was played on Sunday, January 29th with participation of 50 teams from 30 European cities. The event was from hybrid cities &#38; towns venues, through Tornelo online platform and consisted of three categories: Open/Seniors, Women's, and Youth U12. Each section featured 9 rounds played in swiss system, with the time&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/",
-         "pubDate" : "Tue, 31 Jan 2023 10:39:31 +0000",
-         "title" : "European Cities & Towns Chess Champions 2023 announced"
       }
    ]
 }
