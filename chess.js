@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-5-live/",
+         "pubDate" : "Tue, 21 Feb 2023 08:14:28 +0000",
+         "title" : "WR Chess Masters 2023 - Round 5 live"
+      },
+      {
+         "description" : "This endgame guideline is often useful to find the best move when pawn races occur. In the diagram position it is White to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/passed-pawns-should-be-pushed",
+         "pubDate" : "Tue, 21 Feb 2023 09:00:00 +0100",
+         "title" : "Passed pawns should be pushed"
+      },
+      {
+         "description" : " Back in 2012, The Chess Drum launched five videos as a test run for the &#8220;Drum Beat&#8221; segment. Those videos were cutting-edge at the time, but since then a variety of formats have been used to distribute content. Eleven years ago, the five Drum Beat segments covered the latest website news, and the latest international The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/\">The Chess Drum's first &#8220;Beat&#8221; video in 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/",
+         "pubDate" : "Tue, 21 Feb 2023 04:53:01 +0000",
+         "title" : "The Chess Drum's first \"Beat\" video in 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,14 +280,6 @@ news_feed (
          "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-4-live/",
          "pubDate" : "Sun, 19 Feb 2023 08:25:00 +0000",
          "title" : "WR Chess Masters 2023 - Round 4 live"
-      },
-      {
-         "description" : "With a strategic masterpiece Levon Aronian has taken the lead in the WR Chess Masters. Aronian gave Nodirbek Abdusattorov's Sicilian Dragon no opportunity to breathe fire. Already at the end of the opening the US-Armenian with the white pieces had transferred the game into an endgame without prospects for Black. In the live stream Levon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-grabs-the-sole-lead-at-wr-chess-masters/",
-         "pubDate" : "Sun, 19 Feb 2023 07:55:00 +0000",
-         "title" : "Levon Aronian grabs the sole lead at WR Chess Masters"
       },
       {
          "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
          "pubDate" : "Fri, 10 Feb 2023 22:51:00 +0400",
          "title" : "Airthings Masters 2023 - Games and Results"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King features a couple of blistering attacks from games played in the Vienna GM tournament, which is currently in full swing. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-attacking-in-vienna",
-         "pubDate" : "Fri, 10 Feb 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: Attacking in Vienna"
       },
       {
          "description" : "My previous post on early chess web sites was <A HREF=\"https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html\">Wayback to Insidechess.com</A>(February 2023). There I made an initial observation about the Wayback record:- <BLOCKQUOTE>The first entry for a working site is <I>Inside Chess Online</I> (January 1999). It links to the Latest Issue (Volume 12, Issue 2, March 1999), with further links to three (out of a dozen) articles from the issue. </BLOCKQUOTE> <P>There are at least four layers of the past that apply to Insidechess.com:- <P><B>Chess history:</B>e.g. <A HREF=\"https://www.mark-weeks.com/chess/9899gkix.htm\">1998-99 World Chess Council ... and more</A>(m-w.com); ",
