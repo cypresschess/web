@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The&#xA0;Cannes International Chess Festival is taking place from 20-26 February in Cannes, France. The Open A tournament gathers 127 players, and it&#x2019;s played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cannes-chess-festival-2023-live/",
-         "pubDate" : "Tue, 21 Feb 2023 16:22:04 +0000",
-         "title" : "Cannes Chess Festival 2023 - LIVE"
+         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (66)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (66)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-66/",
+         "pubDate" : "Tue, 21 Feb 2023 18:54:40 +0000",
+         "title" : "\"What Say You?\" The 1 Minute Challenge (66)"
       },
       {
          "description" : "",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2245",
          "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
          "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
+      },
+      {
+         "description" : "The&#xA0;Cannes International Chess Festival is taking place from 20-26 February in Cannes, France. The Open A tournament gathers 127 players, and it&#x2019;s played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cannes-chess-festival-2023-live/",
+         "pubDate" : "Tue, 21 Feb 2023 16:02:04 +0000",
+         "title" : "Cannes Chess Festival 2023 - LIVE"
       },
       {
          "description" : "The G20 Hungarian Youth Championship 2023 is tournament taking place from 20&#x2013;25 February 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 26-player round-robin with participation of Luca Karacsonyi, Eszter Sulyok, Kata Buri, Nikoletta Toth, Petra Zsuzsanna Buri, Emma Harkai, Reka []",
@@ -122,6 +130,14 @@ news_feed (
          "title" : "Cannes International Chess Festival 2023"
       },
       {
+         "description" : "The ECU Commission for Women&#x2019;s Chess is organizing the 2nd edition of the ECU Girls&#x2019; and Women&#x2019;s Chess Weekend. The event will take place on the weekend 25. &#x2013; 26.02.2023. All events are online and are open to all ECU Federations, who would like to participate with a team. The event consists of a team []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-ecu-girls-and-womens-chess-weekend/",
+         "pubDate" : "Tue, 21 Feb 2023 03:34:00 +0000",
+         "title" : "2nd ECU Girls' and Women's Chess Weekend"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Oleiny Linares wins 2023 Cuban Women's Championship"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <span id=\"docs-internal-guid-6b9e05e2-7fff-0890-6031-0785c255563a\"> </span> <p dir=\"ltr\" style=\"text-align: center;\"><strong>The American Cup Returns to Saint Louis March 17-26, 2023</strong> <p dir=\"ltr\" style=\"text-align: center;\"><em>16 Chess Players Will Compete in a Double-Elimination</em> <p dir=\"ltr\" style=\"text-align: center;\"><em> Knockout for $300,000 in Prizes </em> <p dir=\"ltr\" style=\"text-align: center;\"><span> </span> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=",
+         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS, Feb 21 2023 - America's best chess players will return to the Saint Louis Chess Club to battle over the board from March 17- 26, 2023 for the second annual American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout tournament. This format promises to keep fans on the edge of their seats as they follow their favorites to victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><im",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alexandr-fier-wins-marcel-duchamp-cup-2023",
          "pubDate" : "Mon, 20 Feb 2023 09:17:47 +0100",
          "title" : "Alexandr Fier wins Marcel Duchamp Cup in Montevideo"
-      },
-      {
-         "description" : "The U14 Galician Youth Championship 2023 is taking place from 18-21 February 2023 in Padr&#xF3;n, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 8-round Swiss tournament with participation of Javier del Valle Crespo, Iago Fernandez Ramos, Sergio Diniz Lopez, Uxio Vilarino Lorenzo, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-galician-youth-championship-2023-live/",
-         "pubDate" : "Mon, 20 Feb 2023 08:17:41 +0000",
-         "title" : "U14 - Galician Youth Championship 2023 - LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public in <a href=\"https://twitter.com/JenShahade/status/1625873098581983232\">a tweet s",
@@ -1818,28 +1826,12 @@ news_feed (
          "title" : "Chessable Publishing Schedule"
       },
       {
-         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/sac-or-no-sac-4/",
-         "pubDate" : "Wed, 01 Feb 2023 09:35:37 +0000",
-         "title" : "Sac Or No Sac? (4)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2201",
          "pubDate" : "Tue, 31 Jan 2023 23:24:46 +0000",
          "title" : "Inspiring battles in Round 2 of the Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2200",
-         "pubDate" : "Tue, 31 Jan 2023 18:21:08 +0000",
-         "title" : "FIDE Circuit race: Anish Giri moves into the lead"
       }
    ]
 }
