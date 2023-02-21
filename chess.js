@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2244",
+         "pubDate" : "Mon, 20 Feb 2023 22:10:57 +0000",
+         "title" : "Oleiny Linares wins 2023 Cuban Women's Championship"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <span id=\"docs-internal-guid-6b9e05e2-7fff-0890-6031-0785c255563a\"> </span> <p dir=\"ltr\" style=\"text-align: center;\"><strong>The American Cup Returns to Saint Louis March 17-26, 2023</strong> <p dir=\"ltr\" style=\"text-align: center;\"><em>16 Chess Players Will Compete in a Double-Elimination</em> <p dir=\"ltr\" style=\"text-align: center;\"><em> Knockout for $300,000 in Prizes </em> <p dir=\"ltr\" style=\"text-align: center;\"><span> </span> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1848,30 +1856,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/",
          "pubDate" : "Tue, 31 Jan 2023 03:48:00 +0000",
          "title" : "Jerald Times seeks action against Success Academy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2199",
-         "pubDate" : "Mon, 30 Jan 2023 23:21:02 +0000",
-         "title" : "Olympiad for People with Disabilities Round 1: From dreams to reality "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2198",
-         "pubDate" : "Mon, 30 Jan 2023 22:25:14 +0000",
-         "title" : "Azerbaijan Championship: Vasif Durarbayli clinches second title"
-      },
-      {
-         "description" : "In the latest version of ChessBase, there are some huge changes to the software, modifications which add significant improvements to the software! The two main programmers, Matthias W&uuml;llenweber and Mathias Feist, have implemented a completely new file format, added beauty filters and medals, a fast interactive search, and much more! IM Sagar Shah takes you through all the new features of ChessBase 17 along with relevant screenshots and video instructions on how to make full use of the new features. | Thumbnail: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/everything-new-in-chessbase-17",
-         "pubDate" : "Mon, 30 Jan 2023 22:41:32 +0100",
-         "title" : "Everything new in ChessBase 17"
       }
    ]
 }
