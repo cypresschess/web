@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-cities-towns-chess-champions-2023-announced/",
          "pubDate" : "Tue, 31 Jan 2023 10:39:31 +0000",
          "title" : "European Cities & Towns Chess Champions 2023 announced"
-      },
-      {
-         "description" : " Jerald Times is in the chess news recently, but it is not for his success as a chess educator. After winning the right to challenge Success Academy's employment practices, he is now seeking to settle on the basis of unlawful retaliation. There have been a number of delays in the process and Times is waiting The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/\">Jerald Times seeks action against Success Academy</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/01/30/jerald-times-seeks-action-against-success-academy/",
-         "pubDate" : "Tue, 31 Jan 2023 03:48:00 +0000",
-         "title" : "Jerald Times seeks action against Success Academy"
       }
    ]
 }
