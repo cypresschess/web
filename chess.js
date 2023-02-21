@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The&#xA0;Cannes International Chess Festival is taking place from 20-26 February in Cannes, France. The Open A tournament gathers 127 players, and it&#x2019;s played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cannes-chess-festival-2023-live/",
+         "pubDate" : "Tue, 21 Feb 2023 16:22:04 +0000",
+         "title" : "Cannes Chess Festival 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2245",
+         "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
+         "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
+      },
+      {
+         "description" : "The G20 Hungarian Youth Championship 2023 is tournament taking place from 20&#x2013;25 February 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 26-player round-robin with participation of Luca Karacsonyi, Eszter Sulyok, Kata Buri, Nikoletta Toth, Petra Zsuzsanna Buri, Emma Harkai, Reka []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/g20-hungarian-youth-championship-2023-live/",
+         "pubDate" : "Tue, 21 Feb 2023 15:49:04 +0000",
+         "title" : "G20 Hungarian Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U20 Hungarian Youth Championship 2023 is taking place from 20&#x2013;25 February 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 26-player round-robin tournament with Alex Krstulovic, Roland Reviczki, Lili Toth, Bence Pribelszky, Balazs Pasztor, Agoston Juhasz, Koppany Geher, Matyas Palczert, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-hungarian-youth-championship-2023-live/",
+         "pubDate" : "Tue, 21 Feb 2023 15:44:49 +0000",
+         "title" : "U20 Hungarian Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Different tournaments have different kinds of rest days! At the WR Chess Masters 2023, the players and organizers had a great time with a well organized mini-table tennis event. 7 out of the 10 participants of the main tournament took part in this round robin tournament with Gelfand, Dana Reizneice and Wadim Rosenstein joining them. It was a keenly contested event with Andrey Esipenko edging everyone out and taking the top spot. Sagar Shah who travelled to Dusseldorf brings you a fun report.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/table-tennis-and-joy-on-the-rest-day-of-the-wr-chess-masters-2023",
+         "pubDate" : "Tue, 21 Feb 2023 15:00:00 +0100",
+         "title" : "Table Tennis and joy on the rest day of the WR Chess Masters 2023"
+      },
+      {
+         "description" : "Magnus Carlsen will face Vaishali and Vidit as Week 2 of the Pro Chess League begins with the Canada Chessbrahs facing the Indian Yogis. Fabiano Caruana is among the players making his 2023 debut, for the Saint Louis Arch Bishops, while Hikaru Nakamura will be back after dramatically losing to WGM Josefine Heinemann in Week 1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
+         "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
+         "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Tue, 21 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +112,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/",
          "pubDate" : "Tue, 21 Feb 2023 04:53:01 +0000",
          "title" : "The Chess Drum's first \"Beat\" video in 2023"
+      },
+      {
+         "description" : "The Cannes International Chess Festival kicked off yesterday in France. The Open A tournament gathers 127 players, and it's played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, starting from move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/cannes-international-chess-festival-2023/",
+         "pubDate" : "Tue, 21 Feb 2023 04:12:00 +0000",
+         "title" : "Cannes International Chess Festival 2023"
       },
       {
          "description" : "",
@@ -186,28 +250,12 @@ news_feed (
          "title" : "U14 - Galician Youth Championship 2023 - LIVE"
       },
       {
-         "description" : "It smelled like a draw shortly after move 30, when a symmetrical rook ending had developed between Nodirbek Abdusattorov and Praggnanandhaa. More in jest, almost giggling, Yasser Seirawan and Anastasia Karlovych listed the academic advantages of the white position on the livestream: a little more space, a slightly more active king, a slightly more active []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-keeps-the-sole-lead-wr-chess-masters-round-4-recap/",
-         "pubDate" : "Mon, 20 Feb 2023 08:10:00 +0000",
-         "title" : "Levon Aronian keeps the sole lead; WR Chess Masters - Round 4 recap"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public in <a href=\"https://twitter.com/JenShahade/status/1625873098581983232\">a tweet s",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2023/shahade-outed-ramirez-investigation/",
          "pubDate" : "Mon, 20 Feb 2023 08:40:17 +0100",
          "title" : "Shahade outed Ramirez investigation to find more victims"
-      },
-      {
-         "description" : "The&#xA0;Cambridge International Open 2023&#xA0;took place from 15-19 February 2023 in Cambridge, England. The event was played as a 9-round Swiss tournament with more than 120 entries and the prize fund of 4.200&#xA3;. The top-seeded GM Michael Adams won the event scoring 8/9 points. With two draws, one in the first, and the other one in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/michael-adams-wins-cambridge-international-open-2023/",
-         "pubDate" : "Mon, 20 Feb 2023 07:23:00 +0000",
-         "title" : "Michael Adams wins Cambridge International Open 2023"
       },
       {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
@@ -290,28 +338,12 @@ news_feed (
          "title" : "WR Chess Masters 3: Aronian beats Abdusattorov"
       },
       {
-         "description" : "The International Solving Contest (ISC), traditionally held on the last Sunday of January, has marked the beginning of solving seasons for almost two decades. It's a hybrid competition, with the same groups of chess problems and endgames distributed around the world to be solved at the same time. This year, it attracted 601 solvers from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ofer-comay-wins-19th-international-solving-contest/",
-         "pubDate" : "Sun, 19 Feb 2023 08:50:00 +0000",
-         "title" : "Ofer Comay wins 19th International Solving Contest"
-      },
-      {
          "description" : " I'm a member of a Chess Teachers and Learners group on Facebook. I'm not sure whether I find the general tone of the discussion amusing or disturbing. These are some of the questions that crop up regularly. &#8220;The computer cheated against me. I took all its pieces and now it can't move its king anywhere <a href=\"https://chessimprover.com/revenge-of-the-noobs/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Revenge of the Noobs\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/revenge-of-the-noobs/\">Revenge of the Noobs</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/revenge-of-the-noobs/",
          "pubDate" : "Sun, 19 Feb 2023 08:32:16 +0000",
          "title" : "Revenge of the Noobs"
-      },
-      {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-4-live/",
-         "pubDate" : "Sun, 19 Feb 2023 08:25:00 +0000",
-         "title" : "WR Chess Masters 2023 - Round 4 live"
       },
       {
          "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "WGP Munich: Koneru or Kosteniuk - who will prevail? "
       },
       {
-         "description" : "Rapid interviews are fun: interviewer and guest face each other in an epic rapid chess battle. The chess guest not only has to face the interviewer's questions, but also concentrate on the chess game at the same time. This leads to surprising answers and sometimes to curious chess positions. Leon Mendonca is now playing for the Schachbundesliga team HSK in Hamburg, just like Nihal Sarin. Leon visited us a couple of times already, and was brave enough to face Arne Kaehler in the Rapid Interview, using the legendary Garde chess clock. | Photo: Twitter Leon Mendonca with Frederic Friedel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-interview-leon-mendonca",
-         "pubDate" : "Sat, 11 Feb 2023 18:00:00 +0100",
-         "title" : "Rapid Interview - Leon Mendonca"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2226",
          "pubDate" : "Sat, 11 Feb 2023 11:32:23 +0000",
          "title" : "Robert Katende: Have a heart that loves people no matter who they are"
-      },
-      {
-         "description" : "In the 8th round of the Munich Grand Prix on Friday, Alexandra Kosteniuk won against Anna Muzychuk to increase her score to 6.5/8. Nana Dzagnidze, who was second to Kosteniuk before the round, lost to Elisabeth P&auml;htz and dropped to third place, where she is now level on points with P&auml;htz. The new runner-up is Humpy Koneru after her win over Alina Kashlinskaya. Kosteniuk's lead over Humpy is 1.5 points with three rounds to go. | Photos: Mark Livshitz (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-8-kosteniuk-remains-clear-first",
-         "pubDate" : "Sat, 11 Feb 2023 12:17:09 +0100",
-         "title" : "Women's Grand Prix, Round 8: Kosteniuk remains clear first"
       },
       {
          "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
@@ -1802,14 +1818,6 @@ news_feed (
          "title" : "Chessable Publishing Schedule"
       },
       {
-         "description" : "Ian Nepomniachtchi is up to a career high world no. 2 on the February 2023 FIDE rating list after his World Championship opponent Ding Liren dropped 23 rating points to world no. 3. Tata Steel Masters winner Anish Giri climbed to world no. 5, while Nodirbek Abdusattorov is 2nd only to Alireza Firouzja among the world's best juniors, climbing 21 points to world no. 18.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nepo-and-ding-swap-places-before-their-match",
-         "pubDate" : "Wed, 01 Feb 2023 14:14:00 +0000",
-         "title" : "Nepo and Ding swap places before match"
-      },
-      {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz &#8220;How do I know when is the right time to sac?&#8221; is a question that puzzled me earlier in my chess career. Of course I did go over many books on tactics like many do. Still, as I progressed the opposition got stronger. They were <a href=\"https://chessimprover.com/sac-or-no-sac-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-4/\">Sac Or No Sac? (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2200",
          "pubDate" : "Tue, 31 Jan 2023 18:21:08 +0000",
          "title" : "FIDE Circuit race: Anish Giri moves into the lead"
-      },
-      {
-         "description" : "The first Yahoos post of the New Year marks also the start of the third full year of Yahoos. (For an explanation of Yahoos, see the footnote to this post.) Let's start with the usual overview of news sources reporting in the current month. <P><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-na31.gif\" WIDTH=185 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> This month we had 92 stories from the current month and 6 stories repeating from previous months, making 98 stories total. In 2022, only two of the 12 monthly posts had more stories in the current month. <P>Eight news sources, shown in the chart on the left, had more than two stories in the month, accounting for 44 stories total. That leaves 48 sou",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html",
-         "pubDate" : "Tue, 31 Jan 2023 16:29:00 +0000",
-         "title" : "First Yahoos of 2023"
       }
    ]
 }
