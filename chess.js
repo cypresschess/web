@@ -2,12 +2,124 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At top chess tournaments, you usually see the pictures of the players before and during the games. But there is also a lot to see behind the scenes, and the WR Chess Masters at the Hyatt Regency Hotel in D&uuml;sseldorf is no exception. | Picture: Heike Keymer, Lotis Key and Sebastian Siebrecht (Photos: Andr&eacute; Schulz)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-scenes-of-the-wr-chess-masters",
+         "pubDate" : "Wed, 22 Feb 2023 12:50:39 +0100",
+         "title" : "Behind the Scenes of the WR Chess Masters"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Arch Bishops Captain Nemo @akaNemsko talks to the Arch Bishops&#039; GM Benjamin Bok before the start of the regular season. Saint Louis came up short the first week, but Week 2 against Team MGD1 is February 23 at 12p CST, streaming on akaNemsko on Twitch! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/benjamin-bok-amazing-arch-bishops-2023-pro-chess-league\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/benjamin-bok-amazing-arch-bishops-2023-pro-chess-league",
+         "pubDate" : "Wed, 22 Feb 2023 11:41:54 +0000",
+         "title" : "Benjamin Bok on the \"Amazing\" Arch Bishops | 2023 PRO Chess League"
+      },
+      {
+         "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-23-02-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/statement-of-the-european-chess-union-23-02-2023/",
+         "pubDate" : "Wed, 22 Feb 2023 11:29:17 +0000",
+         "title" : "Statement of the European Chess Union - 23.02.2023"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-simplified-tournament-search-with-chessbase-17",
+         "pubDate" : "Wed, 22 Feb 2023 12:00:00 +0100",
+         "title" : "Explained by the engineers! - The simplified tournament search with ChessBase 17"
+      },
+      {
+         "description" : "National School Chess Championship 2023, Hosur (All Certificates) U-07 Open : https://aicf.online/National-S-U-07-Open.html U-07 Girls : https://aicf.online/National-S-U-07-Girls.html Remaining other category certificates will be available soon in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-school-certificates-all-categories/",
+         "pubDate" : "Wed, 22 Feb 2023 10:15:38 +0000",
+         "title" : "National School Certificates all Categories"
+      },
+      {
+         "description" : "The World Chess Federation today announced it has no objection to the Russian Chess Federation leaving the European Chess Union and joining the Asian Chess Federation (ACF). All that remains is for the ACF to rubberstamp that switch at its General Assembly on February 28. FIDE will allow Russian players to switch to a European chess federation with no transfer fee or delay in being able to represent their new country.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/russia-chess-federation-to-join-asia",
+         "pubDate" : "Wed, 22 Feb 2023 10:14:21 +0000",
+         "title" : "Russia Chess Federation to join Asia"
+      },
+      {
+         "description" : "ECU Commission for Women's Cess launched the initiative &#8220;European Women's Chess Trophy&#8221; to reward women and girls for their results in chess. &#8220;We inspire to support female chess players to actively take part in the solely women&#x2019;s tournaments in Europe, especially in the closed (norm) ones and this way to support and promote tournaments&#x2019; organizers []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-trophy/",
+         "pubDate" : "Wed, 22 Feb 2023 09:55:01 +0000",
+         "title" : "European Women's Chess Trophy"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-5-live-2/",
+         "pubDate" : "Wed, 22 Feb 2023 09:37:16 +0000",
+         "title" : "WR Chess Masters 2023 - Round 5 live"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-2-vidit-gujrathi-stuns-world-chess-champion-magnus-carlsen/articleshow/98149126.cms",
+         "pubDate" : "Wed, 22 Feb 2023 09:34:14 +0000",
+         "title" : "India No. 2 Vidit stuns world chess champion Carlsen"
+      },
+      {
+         "description" : "International Chess Federation, Balkan Chess Federation and Albanian Chess Federation, in collaboration with Albanian Center for Openness and Dialogue, are pleased to announce the International Women's Day Chess festival, a series of chess events to celebrate the International Women's Day and reinforce a commitment to women's equality.&#160;&#160; The large-scale celebration will be held from&#160;March 9-19,&#160;2023. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-events-to-celebrate-the-international-womens-day-set-in-tirana-albania/",
+         "pubDate" : "Wed, 22 Feb 2023 09:20:09 +0000",
+         "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
+      },
+      {
+         "description" : "The first Cambridge International Open took place from Wednesday 15th to Sunday 19th February at the historic University Arms Hotel in Cambridge. In the first round top seed GM Michael Adams (2757) only drew against Henry Adams (1738), but still won the strong tournament convincingly with 8.0/9. Nigel Towers, director of Home Chess at the English Chess Federation, reports. | Photos: Shohreh Bayat",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-international-open",
+         "pubDate" : "Wed, 22 Feb 2023 10:00:00 +0100",
+         "title" : "Michael Adams wins Cambridge International Open"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As it is expected that the <strong>Asian Chess Association</strong>'s General Assembly next week will accept the <strong>Chess Federation of Russia</strong> as a member, <strong>FIDE</strong> <a href=\"https://fide.com/news/2247\">waives the change fees</a> for Russian players who join a European chess federation until 31 August 2023. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/russians-can-change-federation-free/",
+         "pubDate" : "Wed, 22 Feb 2023 09:54:20 +0100",
+         "title" : "Russians can change federation free of charge"
+      },
+      {
+         "description" : "A month after the European Chess Union published the official statement on the possible transfer of the Russian Chess Federation (CFR) to the Asian Chess Federation (ACF), FIDE published the resolution on the Russian Chess Federation joining ACF. The FIDE Council reviewed yesterday, February 21, the report prepared by the Constitutional Commission on the request []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-publishes-the-resolution-on-the-russian-chess-federation-joining-asian-chess-federation/",
+         "pubDate" : "Wed, 22 Feb 2023 08:48:15 +0000",
+         "title" : "FIDE publishes the resolution on the Russian Chess Federation joining Asian Chess Federation"
+      },
+      {
          "description" : "Levon Aronian's fifth-round win doesn't mean a preliminary decision in the WR Chess Masters, but the 40-year-old is now the clear favorite to win the tournament. After his full point against Anish Giri, Aronian leads the standings with four points from five games, one ahead of Wesley So and Gukesh with three each. With his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/levon-aronian-extends-his-lead-at-wr-chess-masters-2023/",
-         "pubDate" : "Wed, 22 Feb 2023 08:29:11 +0000",
+         "pubDate" : "Wed, 22 Feb 2023 08:09:11 +0000",
          "title" : "Levon Aronian extends his lead at WR Chess Masters 2023"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.schachbund.de/news/astrid-hohl-wird-leiterin-fuer-den-bereich-finanzen-in-der-geschaeftsstelle.html\">has appointed</a> <strong>Astrid Hohl</strong> as Director of Finance as it becomes evident that the federation has burnt its past surplus on poor management. Hohl had been in charge of finances at the <strong>German Youth Chess Association</strong> earlier. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/german-federation-tightens-grip-on/",
+         "pubDate" : "Wed, 22 Feb 2023 08:58:22 +0100",
+         "title" : "German Federation tightens grip on finances"
       },
       {
          "description" : "",
@@ -24,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2246",
          "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
          "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.schachbund.de/news/astrid-hohl-wird-leiterin-fuer-den-bereich-finanzen-in-der-geschaeftsstelle.html\">has appointed</a> <strong>Astrid Hohl</strong> as Director of Finance as it becomes evident that the federation has brought through its past surplus on management mistakes. Hohl had been in charge of finances at the <strong>German Youth Chess Association</strong> earlier. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/german-federation-tightens-grip-on/",
-         "pubDate" : "Wed, 22 Feb 2023 07:41:10 +0100",
-         "title" : "German Federation tightens grip on finances"
       },
       {
          "description" : "The Indian Yogis and the Brazil Capybaras emerged victorious from their matches in the Pro Chess League on Tuesday after a day of grueling chess and an epic boilover. Staring down the barrel of a 5.5-6.5 deficit, the Yogis clutched up with a 4-0...",
@@ -186,14 +290,6 @@ news_feed (
          "title" : "Cannes International Chess Festival 2023"
       },
       {
-         "description" : "The ECU Commission for Women&#x2019;s Chess is organizing the 2nd edition of the ECU Girls&#x2019; and Women&#x2019;s Chess Weekend. The event will take place on the weekend 25. &#x2013; 26.02.2023. All events are online and are open to all ECU Federations, who would like to participate with a team. The event consists of a team []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-ecu-girls-and-womens-chess-weekend/",
-         "pubDate" : "Tue, 21 Feb 2023 03:34:00 +0000",
-         "title" : "2nd ECU Girls' and Women's Chess Weekend"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,7 +322,15 @@ news_feed (
          "title" : "ECF Arbiter Course - June"
       },
       {
-         "description" : "The ECF is once again working with the Ukrainian Chess Federation to help Ukrainian refugees who wish to come to the UK. Any ECF members...",
+         "description" : "Another fortnight means another report on the world's top two ongoing engine vs. engine competitions. Let's first summarize the previous report, <A HREF=\"https://chessforallages.blogspot.com/2023/02/tcec-swiss-4-underway-ccc-mystery.html\">TCEC Swiss 4 Underway; CCC Mystery Matches</A>(February 2023):- <BLOCKQUOTE>TCEC: The site started 'Swiss 4'. Of the 11 'double rounds', the event is currently in the eighth. Stockfish leads a half-point ahead of Ethereal and KomodoDragon, which are ahead of 39 other engines. &#149; CCC: After the 'CCC19 Bullet Final' match, the site held a number of exhibition events, including a series of matches with the header 'Stockfish Thread Dominance...'. As for pla",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html",
+         "pubDate" : "Mon, 20 Feb 2023 16:14:00 +0000",
+         "title" : "Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway"
+      },
+      {
+         "description" : "The English Chess Federation is trying to find hosts for Ukrainian GM Pavel Eljanov and family. Pavel is ranked world number 34 and would come...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/sponsoring-ukrainian-refugees/",
@@ -266,36 +370,12 @@ news_feed (
          "title" : "Play the game, watch the movie"
       },
       {
-         "description" : "The 39th edition of the International Open of Cappelle la Grande is taking place from 18-24 February in Cappelle-la-Grande, France. The event is played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/39th-international-open-of-cappelle-la-grande-started/",
-         "pubDate" : "Mon, 20 Feb 2023 09:59:02 +0000",
-         "title" : "39th International Open of Cappelle la Grande started"
-      },
-      {
          "description" : "On Sunday, it was Ukranian day at the WR Chess Masters in D&uuml;sseldorf. Six young Ukrainians, who attended the fourth round of the super tournament at the invitation of organizer Vadim Rosenstein, enjoyed the opportunity to meet the participants of the WR Chess Masters. All six come from refugee families who arrived in the Rhineland in the spring of 2022 after the Russian invasion of Ukraine. | Photo: Tournament host Wadim Rosenstein, Tournament Director Sebastian Siebrecht and Event Manager Anastasiya Karlovych with some of the participants, each of whom received a price. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ukrainian-sunday-at-the-wr-chess-masters",
          "pubDate" : "Mon, 20 Feb 2023 10:16:20 +0100",
          "title" : "Ukrainian Sunday at the WR Chess Masters"
-      },
-      {
-         "description" : "The&#xA0;39th edition of the International Open of Cappelle la Grande&#xA0;is taking place from 18-24 February in Cappelle-la-Grande, France. The event is played in 9 rounds, swiss system, with time control of 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment beginning from move one. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/39th-international-open-of-cappelle-la-grande-live/",
-         "pubDate" : "Mon, 20 Feb 2023 08:59:00 +0000",
-         "title" : "39th International Open of Cappelle la Grande - LIVE"
-      },
-      {
-         "description" : "The Argentinian Youth Championships 2023 is taking place from 17-21 February 2023 in San Luis, Argentina. It is an 9-round Swiss tournament with participation of Joaquin Llanos, Juan Martin Ibarra, Valentin Aguilar Samper, Juan Ignacio Ruiz, Giuliana Bosco, Nehuen Alexis Minvielle, Mathias Rodriguez, Sofia Brito, Anna Laura Scarsi, Luciano Ariel Carrizo, Ilan Schnaider, Ernestina Adam, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/argentinian-youth-championships-2023-live/",
-         "pubDate" : "Mon, 20 Feb 2023 08:30:32 +0000",
-         "title" : "Argentinian Youth Championships 2023 - LIVE"
       },
       {
          "description" : "Uruguay has once again hosted a strong chess tournament, as the sixth edition of the Marcel Duchamp Cup 2023 took place on February 3-11 in Montevideo. After nine intense rounds of competition, GM Alexandr Fier emerged as the champion with an impressive 7&frac12;/9 score. The victory cements Fier's place as one of the top players in the region. | Photos: Official site",
@@ -400,6 +480,14 @@ news_feed (
          "link" : "https://chessimprover.com/revenge-of-the-noobs/",
          "pubDate" : "Sun, 19 Feb 2023 08:32:16 +0000",
          "title" : "Revenge of the Noobs"
+      },
+      {
+         "description" : " Here is the publishers blurb from the rear cover : &#8220;The Black Lion is a thoroughly modern counterattacking system that is a nightmare to face. This wild and aggressive line <a href=\"http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Opening Repertoire: Black Lion</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/\">Opening Repertoire: Black Lion</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/",
+         "pubDate" : "Sun, 19 Feb 2023 00:10:16 +0000",
+         "title" : "Opening Repertoire: Black Lion"
       },
       {
          "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
@@ -672,14 +760,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/armaggedon-season-targets-tv/",
          "pubDate" : "Thu, 16 Feb 2023 15:39:28 +0100",
          "title" : "Armaggedon season targets TV"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Sport Integrity Global Alliance</strong> has been launched by Qatar in 2016 to improve the country's standing ahead of the Football World Cup. <a href=\"https://www.swissinfo.ch/eng/business/3-3-promoting-integrity-without-transparency/48032334\">Lacking transparency and credibility in Western countries</a>, it provides sports bodies with an anti-corruption and anti-match-fixing agenda without making real changes. <strong>FIDE</strong> has <a href=\"https://fide.com/news/2234\">now proudly joined <strong>SIGA</strong></a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/fide-joins-qatar-sportswashing/",
-         "pubDate" : "Thu, 16 Feb 2023 14:41:48 +0100",
-         "title" : "FIDE joins Qatar sportswashing agency"
       },
       {
          "description" : "",
@@ -1146,36 +1226,12 @@ news_feed (
          "title" : "'The Von Niemann Probe'"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 112th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-111-play-the-sicilian-2",
-         "pubDate" : "Sun, 12 Feb 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 112: Play the Sicilian (13)"
-      },
-      {
          "description" : " I decided to test out the <a href=\"http://clono.no\">Clono</a> system at Street Chess yesterday. For anyone not familiar, it is an electronic scoresheet and game broadcast system that has recently been approved by FIDE* It runs on android devices, with the intended platform being 7 to 10 inch tablets. What I was testing was the feasibility of broadcasting games played at Street Chess in realtime I provided a 7 inch android tablet to one of the players, to see how easy it was to (a) set up at my end and (b) to record a game in a rapidplay event (15 minutes per game). It turns out that while the concept is good, it currently needs a lot of improvements to be practical. The main issue I had as ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/02/clono-quick-review.html",
          "pubDate" : "Sun, 12 Feb 2023 13:08:00 +0000",
          "title" : "Clono - a quick review"
-      },
-      {
-         "description" : "In round 9 of the FIDE Women's Grand Prix in Munich, Alexandra Kosteniuk drew with Black against Nana Dzagnidze and now leads the tournament with 7.0/9. One point behind follows Humpy Koneru who won against Elisabeth P&auml;htz. In round 10 on Sunday Kosteniuk and Koneru will play against each other. The symbolic first move in the game between Zhansaya Abdumalik and Dinara Wagner was made by Maja Buchholz, German Champion U16 Girls 2022. | Photos: Mark Livshitz (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-9-alexandra-kosteniuk-defends-lead-but-humpy-koneru-still-has-chances",
-         "pubDate" : "Sun, 12 Feb 2023 12:39:30 +0100",
-         "title" : "Women's Grand Prix, Round 9: Alexandra Kosteniuk defends lead, but Humpy Koneru still has chances"
-      },
-      {
-         "description" : "The Slav has a reputation for being a (very) solid opening. But there are ways to play it for a win and give your opponent difficult problems to solve. Dutch Grandmaster Sipke Ernst shows how in his course \"The Super Solid Slav Defence\". Hedinn Steingrimsson took a look at the course and liked what he saw.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-slav-by-sipke-ernst-a-review",
-         "pubDate" : "Sun, 12 Feb 2023 11:00:00 +0100",
-         "title" : "\"The Super Solid Slav Defense\" by Sipke Ernst - a review"
       },
       {
          "description" : " Dear Drum Community!The Chess Drum is 22 today! On this day, I hit the &#8220;enter&#8221; key to make the site live and it has been an eye-opening journey for me. I remember the early days when there was an initial excitement when the crude 13-page site was launched. The excitement was not because the site The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/\">The Chess Drum is 22!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1312,14 +1368,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/10/chess-carlsen-and-nakamura-outwit-young-guns-in-offbeat-airthings-masters",
          "pubDate" : "Fri, 10 Feb 2023 08:00:03 +0000",
          "title" : "Chess: Carlsen and Nakamura outwit young guns in offbeat Airthings Masters"
-      },
-      {
-         "description" : "Kindly find the Live Games link for the MPL 42nd National Team &#38; MPL 20th National Women Team Chess Championship 2023 Open Link :https://view.livechesscloud.com/#251a215d-43d0-4f17-9041-aa151d82aef9 Women Link :https://view.livechesscloud.com/#99e2cf48-0d98-49ba-9c8b-2441f86c2f1a",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-mpl-42nd-national-team-mpl-20th-national-women-team-chess-championship-2023-reg/",
-         "pubDate" : "Fri, 10 Feb 2023 07:05:23 +0000",
-         "title" : "Live Games Link for MPL 42nd National Team & MPL 20th National Women Team Chess Championship 2023 - reg"
       },
       {
          "description" : "GM Nana Dzagnidze was the sole victor on a day of combative, sacrifice-laden games in round seven of the Munich FIDE Women&#39;s Grand Prix. The Georgian grandmaster fought off IM Alina Kashlinskaya&#39;s aggressive attempts in the King&#39;s Indian Defense.&#38;...",
@@ -1472,14 +1520,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng",
          "pubDate" : "Tue, 07 Feb 2023 17:28:01 +0000",
          "title" : "Chess Opening Decision-Making | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics! 2023.02.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QeIiW4VYiRs.jpg?itok=NRWDaxnZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 07 Feb 2023 17:28:01 +0000",
-         "title" : "Hone Your Tactical Radar | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "",
@@ -1720,14 +1760,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-against-computer/",
          "pubDate" : "Fri, 03 Feb 2023 14:04:30 +0000",
          "title" : "Should You Play Chess Against The Computer?"
-      },
-      {
-         "description" : "Alexandra Kosteniuk, Tan Zhongyi, Elisabeth Paehtz and Nana Dzagnidze got off to a perfect start with wins as the second leg of the FIDE Women's Grand Prix kicked off in Munich, Germany on Thursday. One of the draws was not without controversy.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/women-s-grand-prix-kicks-off-with-four-decisive-games-and-one-controversy",
-         "pubDate" : "Fri, 03 Feb 2023 13:36:35 +0000",
-         "title" : "Women's GP kicks off with 4 wins & 1 controversy"
       },
       {
          "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
