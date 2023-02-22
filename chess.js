@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> For the second time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Hikaru Nakamura vs. Jeffery Xiong<br /> Leinier Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Ray Robson<br /> Wesley So vs. Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1",
+         "pubDate" : "Tue, 21 Feb 2023 23:41:27 +0000",
+         "title" : "The American Cup 2023: Day 1"
+      },
+      {
+         "description" : "Levon Aronian scored a third win in five rounds to get a full-point lead at the WR Chess Masters in D&uuml;sseldorf. Aronian beat Anish Giri with white, breaking the Dutchman's 28-game unbeaten streak. The other decisive game of the round saw former tail-ender Vincent Keymer defeating Nodirbek Abdusattorov with white, leaving five players in shared 6th-10th place in the standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r5",
+         "pubDate" : "Tue, 21 Feb 2023 23:25:00 +0100",
+         "title" : "WR Masters: Aronian beats Giri to widen the gap"
+      },
+      {
+         "description" : "More than halfway through the WR Chess Masters 2023, GM Levon Aronian leads by a full point after beating GM Anish Giri in round five. GM Vincent Keymer scored his first win of the event against GM Nodirbek Abdusattorov after the latter&#39;s aggres...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-5",
+         "pubDate" : "Tue, 21 Feb 2023 14:09:00 -0800",
+         "title" : "Aronian Cracks Berlin Defense, Leads By Full Point; Keymer Scores 1st Win"
+      },
+      {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (66)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (66)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
          "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
          "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Tue, 21 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
@@ -1434,14 +1450,6 @@ news_feed (
          "title" : "Hone Your Tactical Radar | Beginner Breakdown"
       },
       {
-         "description" : "Every year, there is a Sunday in February where everything in the United States seems to stop as millions of people tune into the biggest football game of the year. The commercials and the halftime show attract fans that would otherwise find somet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-big-game-football-bots",
-         "pubDate" : "Tue, 07 Feb 2023 12:06:00 -0800",
-         "title" : "Play The Big Game Bots!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of decision-making in unfamiliar opening positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1746,14 +1754,6 @@ news_feed (
          "title" : "WGP Munich starts with a bang"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng teaches a chess class on preparation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fight-french-winawer-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KgvncwoMyZ8.jpg?itok=9gP4ob5S\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fight-french-winawer-prepare-pro-gm-josh-sheng",
-         "pubDate" : "Thu, 02 Feb 2023 20:25:03 +0000",
-         "title" : "Fight the French Winawer! | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,14 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2202",
          "pubDate" : "Wed, 01 Feb 2023 14:54:48 +0000",
          "title" : "Chessable Publishing Schedule"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2201",
-         "pubDate" : "Tue, 31 Jan 2023 23:24:46 +0000",
-         "title" : "Inspiring battles in Round 2 of the Chess Olympiad for People with Disabilities"
       }
    ]
 }
