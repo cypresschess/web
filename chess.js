@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura won his third consecutive Titled Tuesday in the early tournament on February 21. GM Maxime Vachier-Lagrave followed up with a win in the late tournament. Both won with 9.5 points out of 11. GM Fabiano Caruana was another top p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-vachier-lagrave-win-titled-tuesday-february-21-2023",
+         "pubDate" : "Wed, 22 Feb 2023 09:51:00 -0800",
+         "title" : "Nakamura Continues Tuesday Run"
+      },
+      {
          "description" : "Berlin will host two tournaments of the Armageddon Series. In March, the continental tournament for North and South America will be held here, with Wesley So among others. In September, Berlin is also the venue for the grand Armageddon finale.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2221",
          "pubDate" : "Wed, 08 Feb 2023 23:22:39 +0000",
          "title" : "WGP Munich: Six draws in Round 6"
-      },
-      {
-         "description" : "The third day of the Champions Chess Tour Airthings Masters 2023 presented the matchup of the ages, the duel for which the online chess sphere holds its breath: triple-crowned World Champion Magnus Carlsen vs. five-time Speed Chess Champion Hikaru...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-3",
-         "pubDate" : "Wed, 08 Feb 2023 14:21:00 -0800",
-         "title" : "Carlsen Beats Nakamura In Epic Armageddon Game, Awaits Losers Finalist"
       },
       {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Champions Chess Tour for the 1st time since 2021 after Magnus and Hikaru overcame Arjun Erigaisi and Wesley So in Armageddon deciders. Both players are also qualified for the next Tour event in April, while Alireza Firouzja is out of the Airthings Masters after losing 2:0 to Alexey Sarana in the Losers bracket - a shock 5th rapid loss in a row for the world no. 4.",
