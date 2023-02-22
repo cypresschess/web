@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Berlin will host two tournaments of the Armageddon Series. In March, the continental tournament for North and South America will be held here, with Wesley So among others. In September, Berlin is also the venue for the grand Armageddon finale.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/berlin-to-host-armageddon-championship-series-2023",
+         "pubDate" : "Wed, 22 Feb 2023 16:00:00 +0100",
+         "title" : "Berlin to Host Armageddon Championship Series 2023"
+      },
+      {
+         "description" : "In the likely event that the Chess Federation of Russia (CFR) will join the Asian Chess Federation (ACF), Russian chess players can start representing a European chess federation immediately without any restrictions or transfer fees. The FIDE Coun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-waives-player-transfer-fees-russia-asia",
+         "pubDate" : "Wed, 22 Feb 2023 06:36:00 -0800",
+         "title" : "FIDE To Waive Transfer Fees For Russian Players Switching To Europe"
+      },
+      {
+         "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-5-aronian-and-keymer-win",
+         "pubDate" : "Wed, 22 Feb 2023 12:45:10 +0000",
+         "title" : "WR Chess Masters 5: Aronian and Keymer win"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Wed, 22 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "At top chess tournaments, you usually see the pictures of the players before and during the games. But there is also a lot to see behind the scenes, and the WR Chess Masters at the Hyatt Regency Hotel in D&uuml;sseldorf is no exception. | Picture: Heike Keymer, Lotis Key and Sebastian Siebrecht (Photos: Andr&eacute; Schulz)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +50,20 @@ news_feed (
          "title" : "Benjamin Bok on the \"Amazing\" Arch Bishops | 2023 PRO Chess League"
       },
       {
-         "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-23-02-2023/\">Read More &#187;</a></span>",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> will <a href=\"https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023\">play his first classical time</a> limit games since the <strong>Candidates Tournament</strong> at the <strong>American Cup</strong>, a 300,000$ k.o.-event on 17-26 March. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/american-cup-brings-nakamura-back-to/",
+         "pubDate" : "Wed, 22 Feb 2023 12:40:04 +0100",
+         "title" : "American Cup brings Nakamura back to classical"
+      },
+      {
+         "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/statement-of-the-european-chess-union-23-02-2023/",
+         "link" : "https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/",
          "pubDate" : "Wed, 22 Feb 2023 11:29:17 +0000",
-         "title" : "Statement of the European Chess Union - 23.02.2023"
+         "title" : "Statement of the European Chess Union - 22.02.2023"
       },
       {
          "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
@@ -224,14 +264,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
          "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
          "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
-      },
-      {
-         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
-         "pubDate" : "Tue, 21 Feb 2023 12:37:26 +0100",
-         "title" : "\"The Beast of Birmingham\""
       },
       {
          "description" : "When Wadim Rosenstein realised a childhood dream and put together a world-class field for his WR Chess Masters in his home town, he hadn't even thought about the political overtones. He simply wanted to bring top chess to the banks of the Rhine in D&uuml;sseldorf and for Rosenstein Ian Nepomniachtchi and Andrey Esipenko were world-class grandmasters. After all, Russian chess players are not sanctioned by the World Chess Federation. Nevertheless, there were critical questions. Wadim Rosenstein answers these and other questions in an interview. | Photo: Wadim Rosenstein follows the games in the lounge, Jan Gustafsson is in the back (Photos: Andr&eacute; Schulz)",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Semi-Slav Meran"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>World Chess Club Berlin</strong> will be the stage of a <a href=\"https://chessarena.com/news/all/berlin-to-host-armageddon-championship-series-2023/\">televised series of five blitz tournaments</a>. The €460,000 <strong>Armaggedon Championship</strong> starts on 6 March with eight top players from the Americas, followed by Asia/Australia in April, Europe/Africa in May and top women in June, each group battling out participants for a grand final on 14-20 September. <strong>World Chess</strong> is planning to have the games broadcasted by TV stations such as <strong>CNBC</strong>, <strong>Channel 4</strong>, <strong>beIN</strong> and <str",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/armaggedon-season-targets-tv/",
-         "pubDate" : "Thu, 16 Feb 2023 15:39:28 +0100",
-         "title" : "Armaggedon season targets TV"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "Women's Grand Prix, Round 10: Kosteniuk defends lead with narrow escape"
       },
       {
-         "description" : "Although it should be well-known for everyone, as these situations appear over and over again during all kinds of events, most players - and unfortunately, many inexperienced arbiters - don't know how to handle three or fivefold repetitions and 50/75 moves draw properly. The primary aim of this article by International Arbiter Tamas Gyomber is to shed light on these areas through some field examples.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fifty-shades-of-a-draw",
-         "pubDate" : "Mon, 13 Feb 2023 10:18:44 +0100",
-         "title" : "Fifty Shades of a Draw"
-      },
-      {
          "description" : "The penultimate round of the FIDE Women&#39;s Grand Prix took place on Sunday in Munich and featured a miraculous escape from GM Alexandra Kosteniuk, who managed to save a completely lost endgame against GM Koneru Humpy in the round&#39;s most important m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Carlsen Beats Nakamura In Epic Armageddon Game, Awaits Losers Finalist"
       },
       {
-         "description" : "On a day when he played a match in the Champions Chess Tour, GM Wesley So also found the time to win both Titled Tuesday events on February 7. He is now the only player besides GM Hikaru Nakamura to achieve this feat in the roughly one year since ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wesley-so-wins-titled-tuesday-february-7-2023",
-         "pubDate" : "Wed, 08 Feb 2023 08:24:00 -0800",
-         "title" : "Wesley So Becomes 2nd Player To Sweep Titled Tuesday"
-      },
-      {
          "description" : "Magnus Carlsen will face Hikaru Nakamura in the Champions Chess Tour for the 1st time since 2021 after Magnus and Hikaru overcame Arjun Erigaisi and Wesley So in Armageddon deciders. Both players are also qualified for the next Tour event in April, while Alireza Firouzja is out of the Airthings Masters after losing 2:0 to Alexey Sarana in the Losers bracket - a shock 5th rapid loss in a row for the world no. 4.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1698,14 +1706,6 @@ news_feed (
          "title" : "Giri the Great"
       },
       {
-         "description" : "It's Carlsen-Sarana, Firouzja-Erigaisi, So-Mamedov and Gukesh-Nakamura on Monday in the Airthings Masters, the 1st event on the 2023 Champions Chess Tour. Gukesh starred in the gruelling 8-hour 140-player Play-In to finish 1st by a full point and then beat Vladimir Kramnik 2:0 in a match. The greatest drama came as Rauf Mamedov took down Ian Nepomniachtchi, while Alexey Sarana came back to beat Fabiano Caruana in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gukesh-beats-kramnik-3-times-in-airthings-masters-play-in",
-         "pubDate" : "Sat, 04 Feb 2023 12:02:27 +0000",
-         "title" : "Gukesh beats Kramnik 3 times in Airthings Masters Play-In"
-      },
-      {
          "description" : " In testing the bounds of what AI systems can produce, I asked one such system for an article on the 1948 World Championship Match. While the facts in the article are not particularly accurate, as a piece of 'alternative history' it isn't that bad. <br /> \"The 1948 World Chess Championship was a historic event in the world of chess. It was the first time in 24 years that a World Chess Championship match had taken place, after the events of World War II had disrupted the world of chess and caused a hiatus in the championship cycle. The match was held between the reigning world champion, Russian Grandmaster Mikhail Botvinnik, and Dutch Grandmaster Max Euwe, who had won the World Chess Champion",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1864,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2203",
          "pubDate" : "Wed, 01 Feb 2023 20:59:21 +0000",
          "title" : "Sergio Pereira wins FIDE Zone 4.3 Individual Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2202",
-         "pubDate" : "Wed, 01 Feb 2023 14:54:48 +0000",
-         "title" : "Chessable Publishing Schedule"
       }
    ]
 }
