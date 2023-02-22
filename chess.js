@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Indian Yogis and the Brazil Capybaras emerged victorious from their matches in the Pro Chess League on Tuesday after a day of grueling chess and an epic boilover. Staring down the barrel of a 5.5-6.5 deficit, the Yogis clutched up with a 4-0...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-yogis-capybaras",
+         "pubDate" : "Tue, 21 Feb 2023 17:01:00 -0800",
+         "title" : "Yogis 4-0 Turnaround Stuns Chessbrahs, Capybaras Crush Cobras"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> For the second time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Hikaru Nakamura vs. Jeffery Xiong<br /> Leinier Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Ray Robson<br /> Wesley So vs. Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
          "pubDate" : "Wed, 08 Feb 2023 09:00:40 +0000",
          "title" : "International Junior tournaments - updated 8/2/23"
-      },
-      {
-         "description" : "The second day of the Champions Chess Tour Airthings Masters 2023 set the stage for the match many chess fans have been waiting for.&#38;nbsp;GMs Magnus Carlsen and Hikaru Nakamura&#38;nbsp;defeated GMs Arjun Erigaisi and Wesley So respectively and will f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-2",
-         "pubDate" : "Tue, 07 Feb 2023 19:04:00 -0800",
-         "title" : "Carlsen, Nakamura Advance To Winners Bracket Final"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics, using Emmanuel Neiman's book \"Tune Your Chess Tactics Antenna.\" Learn Neiman's seven signals. BUY THE BOOK: <a href=\"https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049\">https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sit",
