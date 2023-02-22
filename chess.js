@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian's fifth-round win doesn't mean a preliminary decision in the WR Chess Masters, but the 40-year-old is now the clear favorite to win the tournament. After his full point against Anish Giri, Aronian leads the standings with four points from five games, one ahead of Wesley So and Gukesh with three each. With his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-extends-his-lead-at-wr-chess-masters-2023/",
+         "pubDate" : "Wed, 22 Feb 2023 08:29:11 +0000",
+         "title" : "Levon Aronian extends his lead at WR Chess Masters 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2247",
+         "pubDate" : "Wed, 22 Feb 2023 07:42:07 +0000",
+         "title" : "FIDE resolution on the Russian Federation joining the ACF"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2246",
+         "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
+         "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.schachbund.de/news/astrid-hohl-wird-leiterin-fuer-den-bereich-finanzen-in-der-geschaeftsstelle.html\">has appointed</a> <strong>Astrid Hohl</strong> as Director of Finance as it becomes evident that the federation has brought through its past surplus on management mistakes. Hohl had been in charge of finances at the <strong>German Youth Chess Association</strong> earlier. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/german-federation-tightens-grip-on/",
+         "pubDate" : "Wed, 22 Feb 2023 07:41:10 +0100",
+         "title" : "German Federation tightens grip on finances"
+      },
+      {
          "description" : "The Indian Yogis and the Brazil Capybaras emerged victorious from their matches in the Pro Chess League on Tuesday after a day of grueling chess and an epic boilover. Staring down the barrel of a 5.5-6.5 deficit, the Yogis clutched up with a 4-0...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -264,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/argentinian-youth-championships-2023-live/",
          "pubDate" : "Mon, 20 Feb 2023 08:30:32 +0000",
          "title" : "Argentinian Youth Championships 2023 - LIVE"
-      },
-      {
-         "description" : "The U18 Galician Youth Championship 2023 is taking place from 18-21 February 2023 in Padr&#xF3;n, Spain. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is an 8-round Swiss tournament with participation of Breixo Longueira Alonso, Pablo Lopez Varela, Xulio Del Prado Rodriguez, Alejandro Cereijo Suarez, Ruben []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u18-galician-youth-championship-2023-live/",
-         "pubDate" : "Mon, 20 Feb 2023 08:24:44 +0000",
-         "title" : "U18 - Galician Youth Championship 2023 - LIVE"
       },
       {
          "description" : "Uruguay has once again hosted a strong chess tournament, as the sixth edition of the Marcel Duchamp Cup 2023 took place on February 3-11 in Montevideo. After nine intense rounds of competition, GM Alexandr Fier emerged as the champion with an impressive 7&frac12;/9 score. The victory cements Fier's place as one of the top players in the region. | Photos: Official site",
@@ -968,14 +992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/knight-vs-pawns",
          "pubDate" : "Tue, 14 Feb 2023 09:00:00 +0100",
          "title" : "Knight vs pawns"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The long-term President of the <strong>Confederation of Chess for Americas</strong> <strong>Jorge Vega Fern&aacute;ndez</strong> <a href=\"https://fide.com/news/2227\">has passed away</a>. The Cuban-born bonvivant controled the Latin American vote in <strong>FIDE</strong> for more than thirty years and had a crucial role to keep <strong>Kirsan Ilyumzhinov</strong> at the helm in the 2006-2014 elections. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/jorge-vega-1935-2023/",
-         "pubDate" : "Tue, 14 Feb 2023 07:28:06 +0100",
-         "title" : "Jorge Vega (1935-2023)"
       },
       {
          "description" : "Congratulations to Grandmaster Koneru Humpy for finishing as Runner-Up in the second leg of #FIDEWomenGrandPrix at Munich and Harika Dronavalli for finishing fourth. Photo :",
