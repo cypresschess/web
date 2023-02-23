@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/2023-asian-chess-summit.html",
+         "pubDate" : "Thu, 23 Feb 2023 11:37:00 +0000",
+         "title" : "2023 Asian Chess Summit"
+      },
+      {
+         "description" : "The traditional Biel Chess Festival seemed to be in danger after the city of Biel wanted to cut its subsidies. After a petition, the situation has improved and in summer the strongest \"Triathlon\" will continue - among others with Vincent Keymer again.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-festival-biel-continues",
+         "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
+         "title" : "The Chess Festival Biel continues!"
+      },
+      {
+         "description" : "A new super-tournament is taking place in D&uuml;sseldorf, with five vetted GMs facing five raising talents. Karsten M&uuml;ller is keeping a close eye on the event, and has sent us a number of fascinating endgames, annotated. Find here six instructive positions. Time to learn and enjoy! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-endgames-1",
+         "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
+         "title" : "Endgames from D&uuml;sseldorf"
+      },
+      {
+         "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/london-chess-conference-2023/",
+         "pubDate" : "Thu, 23 Feb 2023 10:28:22 +0000",
+         "title" : "London Chess Conference 2023"
+      },
+      {
+         "description" : "Following the FIDE Council's decision concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union published the following statement:&#xA0;The ECU Board expressed in detail its position in&#xA0;its statement of 30.01.2023.&#xA0;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ecu-statement-on-the-russian-chess-federation-joining-the-asian-chess-federation/",
+         "pubDate" : "Thu, 23 Feb 2023 10:27:28 +0000",
+         "title" : "ECU statement on the Russian Chess Federation joining the Asian Chess Federation"
+      },
+      {
+         "description" : "Levon Aronian borrowed an idea from his fellow Saint Louis resident Fabiano Caruana as he came within a whisker of beating Wesley So and opening up a 1.5-point lead with three rounds of the WR Chess Masters to go. He fell just short, however, which was the story elsewhere as well in Round 6, with long, fighting games all ending in draws.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-6-aronian-misses-big-chance-vs-so",
+         "pubDate" : "Thu, 23 Feb 2023 10:25:00 +0000",
+         "title" : "WR Chess Masters 6: Aronian misses big chance against So"
+      },
+      {
+         "description" : "Chris Ward is showing us into an interesting endgame, which occurred between two strong US chess players a couple of weeks ago. The dragon variation, which we look at, leads us to an endgame with 7 pawns vs. 1 pawn, but with a full rook less! Which side would you rather be? At this point, the engine says = 0.00 equal position. Chris had a very similar game against Karsten Mueller once, which we also dive into, when both Grandmasters played in the German Bundesliga. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-modern-line-2",
+         "pubDate" : "Thu, 23 Feb 2023 10:59:40 +0100",
+         "title" : "The Monthly Dragon - 7 Pawns vs. 1 Pawn endgame!?"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-7-live/",
+         "pubDate" : "Thu, 23 Feb 2023 09:16:41 +0000",
+         "title" : "WR Chess Masters 2023 - Round 7 live"
+      },
+      {
+         "description" : "First against second: It could have been the game that makes the outcome of the tournament completely uncertain again. Wesley So, one point behind, had to do nothing more than defeat Levon Aronian with the white pieces. Then both would have been back on level ground and the field would have been close together. But []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-unchanged-standings-after-round-6/",
+         "pubDate" : "Thu, 23 Feb 2023 08:36:00 +0000",
+         "title" : "WR Chess Masters - Unchanged standings after Round 6"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -143,7 +215,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-5-live-2/",
          "pubDate" : "Wed, 22 Feb 2023 09:37:16 +0000",
-         "title" : "WR Chess Masters 2023 - Round 5 live"
+         "title" : "WR Chess Masters 2023 - Round 6 live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
@@ -282,14 +354,6 @@ news_feed (
          "title" : "G20 Hungarian Youth Championship 2023 - LIVE"
       },
       {
-         "description" : "The U20 Hungarian Youth Championship 2023 is taking place from 20&#x2013;25 February 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 26-player round-robin tournament with Alex Krstulovic, Roland Reviczki, Lili Toth, Bence Pribelszky, Balazs Pasztor, Agoston Juhasz, Koppany Geher, Matyas Palczert, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-hungarian-youth-championship-2023-live/",
-         "pubDate" : "Tue, 21 Feb 2023 15:44:49 +0000",
-         "title" : "U20 Hungarian Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "Different tournaments have different kinds of rest days! At the WR Chess Masters 2023, the players and organizers had a great time with a well organized mini-table tennis event. 7 out of the 10 participants of the main tournament took part in this round robin tournament with Gelfand, Dana Reizneice and Wadim Rosenstein joining them. It was a keenly contested event with Andrey Esipenko edging everyone out and taking the top spot. Sagar Shah who travelled to Dusseldorf brings you a fun report.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,14 +394,6 @@ news_feed (
          "title" : "European Girls' and Women's Chess Weekend"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-5-live/",
-         "pubDate" : "Tue, 21 Feb 2023 08:14:28 +0000",
-         "title" : "WR Chess Masters 2023 - Round 5 live"
-      },
-      {
          "description" : "This endgame guideline is often useful to find the best move when pawn races occur. In the diagram position it is White to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +408,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/",
          "pubDate" : "Tue, 21 Feb 2023 04:53:01 +0000",
          "title" : "The Chess Drum's first \"Beat\" video in 2023"
-      },
-      {
-         "description" : "The Cannes International Chess Festival kicked off yesterday in France. The Open A tournament gathers 127 players, and it's played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, starting from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cannes-international-chess-festival-2023/",
-         "pubDate" : "Tue, 21 Feb 2023 04:12:00 +0000",
-         "title" : "Cannes International Chess Festival 2023"
       },
       {
          "description" : "",
@@ -1194,14 +1242,6 @@ news_feed (
          "title" : "2023 PCL Prediction Contest: Submit Your Predictions And Win Prizes"
       },
       {
-         "description" : "In his Endgame Magic Show #227 Karsten continues to show endgame highlights of the Tata Steel Tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-226-more-endgame-highlights-of-the-tata-steel-tournament-2",
-         "pubDate" : "Mon, 13 Feb 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #227: Endgame Highlights of the Tata Steel Tournament 2023 (Part 3)"
-      },
-      {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), the site mentions four other engines after stalwarts Stockfish and LCZero: Asmfish, Berserk, Koivisto, Sugar AI (and Sugar AI ICCF). I asked the TCEC and CCC '!commands' to tell me more about these engines. <P><B>TCEC:-</B> <UL><LI><B>!asmfish</B>&#149; asmFish, a port of Stockfish in x86-64 assembly by Mohammed Li, optional using AVX2 and BMI2 instructions, assembled with FASM to run under Windows or UNIX/Linux, first released in June 2016. See also<BR>https://www.chessprogramming.org/AsmFish and<BR>https://github.com/CounterPly/asmFish <LI><B>!ber",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1224,22 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2230",
          "pubDate" : "Mon, 13 Feb 2023 13:29:25 +0000",
          "title" : "Elier Miranda wins Cuban Championship"
-      },
-      {
-         "description" : "From 1 to 13 February, Munich is hosting the second stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 15.00 CET. Follow the games live, with commentary by Stefan Kindermann and Veronika Exler. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-live",
-         "pubDate" : "Mon, 13 Feb 2023 12:45:00 +0100",
-         "title" : "Women's Grand Prix in Munich - Live"
-      },
-      {
-         "description" : "The British band Depeche Mode is preparing a new album and has just released the title track in which the remaining founding members David Gahan and Martin Gore say goodbye to their friend and colleague Andy Fletcher, who died last year. The chessboard images in the music video quote Ingmar Bergman's famous film \"The Seventh Seal\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/depeche-mode-we-know-we-ll-be-ghosts-again",
-         "pubDate" : "Mon, 13 Feb 2023 12:18:34 +0100",
-         "title" : "Depeche Mode: \"We know we'll be ghosts again\""
       },
       {
          "description" : "Airports Authority of India snatched the lead with nine match points from the favourites Petroleum Sports Promotion Board at the end of the fifth round",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Rating of games played abroad"
       },
       {
-         "description" : "Arjun Erigaisi stunned Alireza Firouzja 3:0 on the opening day of the Airthings Masters, the first event on the $2 million 2023 Champions Chess Tour. Magnus Carlsen and Hikaru Nakamura also beat Alexey Sarana and Gukesh with a game to spare, while Wesley So lived dangerously before overcoming Rauf Mamedov in four games. For the losing players it's not over yet, as they can still win the tournament via the Losers bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/erigaisi-beats-firouzja-3-0-as-airthings-masters-begins",
-         "pubDate" : "Tue, 07 Feb 2023 08:34:28 +0000",
-         "title" : "Erigaisi beats Firouzja 3:0 as Airthings Masters begins"
-      },
-      {
          "description" : " From the Siles Press web site: &#8220;Silman's Chess Odyssey is International Master Jeremy Silman's homage part instruction, part history, part memoir to the game he loves. The book <a href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2206",
          "pubDate" : "Thu, 02 Feb 2023 16:49:49 +0000",
          "title" : "Abdusattorov enters top 20 Open in February 2023 rating list"
-      },
-      {
-         "description" : " You would think that the list of mangled chess rules would eventually have an end point, but it turns out there are always new additions. Courtesy of Jovan Petronic comes a slightly different take on how a pawn operates. Along with the usual 2 squares at the star, and promotion when it reaches the end of the board, there is an additional, previously unknown power. \"The player whose pawn captures the queen can also get back one piece he has lost or gain one additional piece\" If this bizarre rule has anything going for it, it is that it will reduce the number of queen exchanges (\"12.Qxd6 cxd6 sucker!\") <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/another-oddball-rule.html",
-         "pubDate" : "Thu, 02 Feb 2023 11:54:00 +0000",
-         "title" : "Another oddball rule"
       }
    ]
 }
