@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian nearly extended his lead with a win on Wednesday in the WR Chess Masters 2023, but GM Wesley So escaped the danger and drew the game. With draws in all five games of round six, leaving the order of the standings unchanged, Aronian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-6",
+         "pubDate" : "Wed, 22 Feb 2023 15:58:00 -0800",
+         "title" : "So Survives Close Call Vs. Aronian, All Games Drawn"
+      },
+      {
+         "description" : "After all games finished drawn in round 6 of the WR Chess Masters, Levon Aronian continues to have a full-point lead atop the standings. The sole leader entered a sharp line with black against Wesley So, but failed to find a couple of precise continuations that would have given him very good winning chances. Three games lasted more than six hours in a round that featured plenty of tense, imbalanced positions. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r6",
+         "pubDate" : "Wed, 22 Feb 2023 23:15:00 +0100",
+         "title" : "WR Masters: Aronian's missed chance"
+      },
+      {
+         "description" : "In January the Russian Chess Federation applied for membership of the Asian Chess Federation and announced its intention to withdraw from ECU. Now Russian players who live in Europe and do not want to follow the RCF to Asia will be permitted to transfer to the ECU without paying fees to Russia and FIDE. They will also be eligible to play in the European Individual Chess Championship. Statement of the European Chess Union.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ecu-on-russia-transferring-to-asia",
+         "pubDate" : "Wed, 22 Feb 2023 22:34:06 +0100",
+         "title" : "ECU on Russia transferring to Asia"
+      },
+      {
          "description" : "GM Hikaru Nakamura won his third consecutive Titled Tuesday in the early tournament on February 21. GM Maxime Vachier-Lagrave followed up with a win in the late tournament. Both won with 9.5 points out of 11. GM Fabiano Caruana was another top p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-5-aronian-and-keymer-win",
          "pubDate" : "Wed, 22 Feb 2023 12:45:10 +0000",
          "title" : "WR Chess Masters 5: Aronian and Keymer win"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Wed, 22 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "At top chess tournaments, you usually see the pictures of the players before and during the games. But there is also a lot to see behind the scenes, and the WR Chess Masters at the Hyatt Regency Hotel in D&uuml;sseldorf is no exception. | Picture: Heike Keymer, Lotis Key and Sebastian Siebrecht (Photos: Andr&eacute; Schulz)",
@@ -1218,14 +1234,6 @@ news_feed (
          "title" : "National Team Chess Championships 2023:Day 4"
       },
       {
-         "description" : "In round 10 of the Women's Grand Prix tournament in Munich, Koneru Humpy was close to winning against Alexandra Kosteniuk, but eventually had to settle for a draw and missed the chance to catch Kosteniuk at the top of the table. Now, Kosteniuk only needs a draw against Zhu Jiner in the 11th and last round to win the tournament. | Photos: Mark Livshitz (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-grand-prix-round-10-kosteniuk-defends-lead-with-narrow-escase",
-         "pubDate" : "Mon, 13 Feb 2023 11:29:27 +0100",
-         "title" : "Women's Grand Prix, Round 10: Kosteniuk defends lead with narrow escape"
-      },
-      {
          "description" : "The penultimate round of the FIDE Women&#39;s Grand Prix took place on Sunday in Munich and featured a miraculous escape from GM Alexandra Kosteniuk, who managed to save a completely lost endgame against GM Koneru Humpy in the round&#39;s most important m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/breaking-berlin-prepare-pro-gm-josh-sheng",
          "pubDate" : "Thu, 09 Feb 2023 02:29:21 +0000",
          "title" : "Breaking the Berlin | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk survived an uproarious game vs. GM Zhansaya Abdumalik in round six&#38;nbsp;of the Munich FIDE Women&#39;s Grand Prix.&#38;nbsp; After this all-draw round, Kosteniuk&#39;s considerable lead over the field persists. GMs Humpy Koneru&#38;nbsp;a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-6",
-         "pubDate" : "Wed, 08 Feb 2023 17:09:00 -0800",
-         "title" : "Kosteniuk Draws Wild Game, Sustains 1.5-Point Lead"
       },
       {
          "description" : " Here is the publishers blurb from the rear cover: &#8220;The Barry Attack is a highly aggressive system that arises after 1 d4 Nf6 2 Nf3 g6 3 Nc3 d5 4 <a href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Barry Attack</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\">Play the Barry Attack</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
@@ -1840,30 +1840,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/natasha-rogoff-muppets-in-moscow",
          "pubDate" : "Thu, 02 Feb 2023 09:00:00 +0100",
          "title" : "Natasha Rogoff: Muppets in Moscow"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2205",
-         "pubDate" : "Wed, 01 Feb 2023 23:17:23 +0000",
-         "title" : "Dana Reizniece-Ozola welcomes the chess queens to Munich "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2204",
-         "pubDate" : "Wed, 01 Feb 2023 22:35:14 +0000",
-         "title" : "Olympiad for People with Disabilities R3: The halfway point"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2203",
-         "pubDate" : "Wed, 01 Feb 2023 20:59:21 +0000",
-         "title" : "Sergio Pereira wins FIDE Zone 4.3 Individual Championship"
       }
    ]
 }
