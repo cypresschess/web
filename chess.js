@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Levitov Chess Wizards and the Garden State Passers recorded comfortable victories in the second week of the Pro Chess League on Wednesday after gaining momentum from their respective board-fours who defeated their opponents&#39; board ones. Join...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-wizards-passers",
+         "pubDate" : "Wed, 22 Feb 2023 16:49:00 -0800",
+         "title" : "Levitov Chess Wizards Win Again, Garden State Passers Fry Spanish Maniac Shrimps"
+      },
+      {
          "description" : "GM Levon Aronian nearly extended his lead with a win on Wednesday in the WR Chess Masters 2023, but GM Wesley So escaped the danger and drew the game. With draws in all five games of round six, leaving the order of the standings unchanged, Aronian...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2224",
          "pubDate" : "Thu, 09 Feb 2023 21:45:50 +0000",
          "title" : "WGP Munich: Dzagnidze closes the gap"
-      },
-      {
-         "description" : "Day four of the Champions Chess Tour Airthings Masters 2023 decided one victor in the Losers Bracket of Division I. GM Hikaru Nakamura defeated GM Wesley So in the armageddon tiebreaker after two draws. He will meet GM Magnus Carlsen in the Grand ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-4",
-         "pubDate" : "Thu, 09 Feb 2023 13:27:00 -0800",
-         "title" : "Nakamura Wins Losers Final, Returns For 2nd Match With Carlsen"
       },
       {
          "description" : "My latest eBay post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/a-new-category-of-chess-collectable.html\">A New Category of Chess Collectable</A>(February 2023), needs a second look. A small question has been bothering me since I posted it : is the title correct? When I wrote the post, I first used the word 'collectible', then wondered if that was correct. After a little research, I determined that the right word was 'collectable', and changed it. Here's what <A HREF=\"https://www.grammarbook.com/blog/spelling/collectible-or-collectable/\">Collectible or Collectable</A>(grammarbook.com; 'The Blue Book of Grammar and Punctuation') has to say about it. <BLOCKQUOTE>A Matter of Noun vs.",
