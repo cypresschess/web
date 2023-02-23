@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2248",
+         "pubDate" : "Thu, 23 Feb 2023 08:10:37 +0000",
+         "title" : "WR Chess Masters Round 6: Endgame battles"
+      },
+      {
          "description" : "The Levitov Chess Wizards and the Garden State Passers recorded comfortable victories in the second week of the Pro Chess League on Wednesday after gaining momentum from their respective board-fours who defeated their opponents&#39; board ones. Join...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Explained by the engineers! - The simplified tournament search with ChessBase 17"
       },
       {
-         "description" : "National School Chess Championship 2023, Hosur (All Certificates) U-07 Open : https://aicf.online/National-S-U-07-Open.html U-07 Girls : https://aicf.online/National-S-U-07-Girls.html Remaining other category certificates will be available soon in",
+         "description" : "National School Chess Championship 2023, Hosur (All Certificates) U-07 Open : https://aicf.online/National-S-U-07-Open.html U-07 Girls : https://aicf.online/National-S-U-07-Girls.html U-09 Open : https://aicf.online/National-S-U-09-Open.html U-09 Girls : https://aicf.online/National-S-09-Girls.html U-11",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-school-certificates-all-categories/",
@@ -1832,14 +1840,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/another-oddball-rule.html",
          "pubDate" : "Thu, 02 Feb 2023 11:54:00 +0000",
          "title" : "Another oddball rule"
-      },
-      {
-         "description" : "Who doesn't know Sesame Street, the American educational children's television series that premiered in 1969 and runs on animation and puppetry. It is one of the longest-running shows in history. And it has been adapted for dozens of other countries. In a must-read new book Natasha Lane Rogoff describes the harrowing conversion to Ulitsa Sezam for Russia and Ukraine. And yes, there is a chess connection.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/natasha-rogoff-muppets-in-moscow",
-         "pubDate" : "Thu, 02 Feb 2023 09:00:00 +0100",
-         "title" : "Natasha Rogoff: Muppets in Moscow"
       }
    ]
 }
