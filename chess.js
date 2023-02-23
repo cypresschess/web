@@ -6,7 +6,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/player-expelled-from-romanian-championship-phone-cheating",
-         "pubDate" : "Thu, 23 Feb 2023 07:37:43 -0800",
+         "pubDate" : "Thu, 23 Feb 2023 07:37:00 -0800",
          "title" : "Player Expelled From Romanian Championship After Alleged Phone Cheating"
       },
       {
@@ -1824,30 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2208",
          "pubDate" : "Thu, 02 Feb 2023 21:24:23 +0000",
          "title" : "WGP Munich starts with a bang"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2207",
-         "pubDate" : "Thu, 02 Feb 2023 17:41:32 +0000",
-         "title" : "The centenary of the birth of Svetozar Gligoric celebrated in Belgrade"
-      },
-      {
-         "description" : "In last month's edition of 'On the Cover', <A HREF=\"https://chessforallages.blogspot.com/2023/01/january-1973-1998-on-cover.html\">January 1973 & 1998</A>(January 2023), we saw Karpov on the left and USchess on the right. This month the roles are switched. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb02.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Anand cuts through FIDE knock-out to challenge Karpov' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>1972 American Open Champion Larry Remlinger, left, with Carl L. Budd, President of the Santa Monica Bay Chess Club and author of the tournament story [inside]. Between them is first prize: a $1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html",
-         "pubDate" : "Thu, 02 Feb 2023 16:59:00 +0000",
-         "title" : "February 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2206",
-         "pubDate" : "Thu, 02 Feb 2023 16:49:49 +0000",
-         "title" : "Abdusattorov enters top 20 Open in February 2023 rating list"
       }
    ]
 }
