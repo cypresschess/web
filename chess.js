@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A chess player was expelled from the Romanian Chess Championship after a phone was found in the restroom with a chess app showing his game&#39;s position after move 15. Although certain information on the phone strongly suggested it was his, the playe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/player-expelled-from-romanian-championship-phone-cheating",
+         "pubDate" : "Thu, 23 Feb 2023 07:37:43 -0800",
+         "title" : "Player Expelled From Romanian Championship After Alleged Phone Cheating"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Thu, 23 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1194,14 +1210,6 @@ news_feed (
          "title" : "Congratulations Koneru Humpy & Harika Dronavalli"
       },
       {
-         "description" : "There is no accusation that is more guaranteed to get under a chess player's skin than dismissing his beloved game as a 'waste of time'. There is no better way to antagonize a chess player than to say that. But many famous thinkers and writers have done so. In chapter two of his book \"Chessays\", a collection of thought-provoking essays about a wide range of chess-related issues, Howard Burton has compiled a list of statements by detractors and defenders. Now available: a four-part docuseries directed by Howard, which examines the remarkable impact of chess on culture, art, science, and sport.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-a-waste-of-time",
-         "pubDate" : "Mon, 13 Feb 2023 22:40:09 +0100",
-         "title" : "Chess - a waste of time?"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Arch Bishops field Leinier Dominguez, Benjamin Bok, Nikolas Theodorou, &amp; Alice Lee against the Shanghai Tigers&#039; Wei Yi, Ju Wenjun, Yi Xu, &amp; Lou Yiping in Week 1! Four rounds, each player competes against all opponents, G/10+2. First team to score 8.5 wins the match. Join WGM Nemo &amp; Jonathan Schrantz for the move-by-move. 2023.02.17<br /> PROChessLeague.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-arch-bishops-vs-s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/10/chess-carlsen-and-nakamura-outwit-young-guns-in-offbeat-airthings-masters",
          "pubDate" : "Fri, 10 Feb 2023 08:00:03 +0000",
          "title" : "Chess: Carlsen and Nakamura outwit young guns in offbeat Airthings Masters"
-      },
-      {
-         "description" : "GM Nana Dzagnidze was the sole victor on a day of combative, sacrifice-laden games in round seven of the Munich FIDE Women&#39;s Grand Prix. The Georgian grandmaster fought off IM Alina Kashlinskaya&#39;s aggressive attempts in the King&#39;s Indian Defense.&#38;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-7",
-         "pubDate" : "Thu, 09 Feb 2023 22:35:00 -0800",
-         "title" : "Dzagnidze Seizes Clear 2nd In Round Of Combative Duels"
       },
       {
          "description" : "",
