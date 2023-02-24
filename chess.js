@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The tournament will be held at the world's biggest chess club, one that covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. The 6th Sharjah Masters 2023 will take place from May 16th (arrival) to 26th (departure), 2023. Entry fees range from 0 to 300 USD (depending on title and rating), the prizes from 300 to 10,000 USD. Sharjah is the third-most populous city in the United Arab Emirates, after Dubai and Abu Dhabi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023",
+         "pubDate" : "Fri, 24 Feb 2023 17:00:00 +0100",
+         "title" : "Sharjah Masters 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2251",
+         "pubDate" : "Fri, 24 Feb 2023 14:04:14 +0000",
+         "title" : "Wissmann wins in Finland, solvers move to Poland and Netherlands"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Fri, 24 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "In yesterday's round-seven game against Ian Nepomniachtchi, Levon Aronian made a wrong threefold repetition claim. At the 20th move, the players started repeating moves, but Aronian called an arbiter to claim a draw too early. The position was repeated only twice. While Nepo moved away from the board, the arbiter ordered the game to continue. []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/levon-aronian-makes-the-wrong-claim-of-the-threefold-repetition-tweetoftheday/",
          "pubDate" : "Fri, 24 Feb 2023 11:45:10 +0000",
          "title" : "Levon Aronian makes the wrong claim of the threefold repetition #TweetOftheDay"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
+         "pubDate" : "Fri, 24 Feb 2023 11:38:30 +0000",
+         "title" : "British Chess Championships 2023 - further details and entry form"
       },
       {
          "description" : " Chess improvement is hard. Like anything worth achieving in life, it requires time and energy. However, our natural laziness often leads us to choose the easy way, which can hinder long-term growth. Naval once said &#8220;All self-help boils down to &#8216;choose long-term over short-term.'&#8221; Naval So, the main question is: how can you bring yourself [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/discipline/\">Building Discipline: 3 Key Ideas for Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -78,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/one-year-war-ukraine-chess-players",
-         "pubDate" : "Fri, 24 Feb 2023 00:27:01 -0800",
+         "pubDate" : "Fri, 24 Feb 2023 00:27:00 -0800",
          "title" : "A Year Of War For Ukrainian Chess Players"
       },
       {
@@ -106,7 +138,7 @@ news_feed (
          "title" : "UPDATE: Fair Play Commission on the Carlsen/Niemann Report"
       },
       {
-         "description" : "On Thursday, the Shanghai Tigers again proved themselves to frontrunners, reaching 2-0 by taking down Blitz―the team with the highest rated lineup in week two of the Pro Chess League. Meanwhile, Team MGD1 bounced back to defeat three-time champion...",
+         "description" : "On Thursday, the Shanghai Tigers again proved themselves to frontrunners, reaching 2-0 by taking down Blitz―the team with the highest-rated lineup―in week two of the Pro Chess League. Meanwhile, Team MGD1 bounced back to defeat the three-time cham...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-2-tigers-mgd1",
@@ -122,7 +154,7 @@ news_feed (
          "title" : "WR Masters: Gukesh climbs to shared first place, Nepo beats Aronian"
       },
       {
-         "description" : "Round seven may be a turning point in the WR Chess Masters 2023 as GM Ian Nepomniachtchi with the black pieces defeated the tournament leader, GM Levon Aronian. Nepomniachtchi slips into a tie for second place with GM Wesley So, who drew GM R Prag...",
+         "description" : "Round seven may be a turning point in the WR Chess Masters 2023 as GM Ian Nepomniachtchi defeated the tournament leader, GM Levon Aronian, with the black pieces. Nepomniachtchi slips into a tie for third-fourth place with GM Wesley So, who drew GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-7",
@@ -1218,22 +1250,6 @@ news_feed (
          "title" : "Endgame Challenge Three - The Rerun"
       },
       {
-         "description" : "Today: Mathias Feist implemented the feature to analyse after a played game! This wasn't possible before ChessBase 17. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-continue-analysing-with-chessbase-17-after-game-end",
-         "pubDate" : "Tue, 14 Feb 2023 16:00:00 +0100",
-         "title" : "Explained by the engineers! - Continue analysing with ChessBase 17 after game end!"
-      },
-      {
-         "description" : "In November 2022, the OpenAI company released ChatbotGPT and since then, this programme has been making headlines. It can write poems and stories, reports, articles, computer code and much more. It will, experts seem to agree, change the world. Apparently, the chatbot has now tried its hand at chess. On YouTube, the well-known streamer Levy \"Gotham Chess\" Rozman presents a game that ChatGPT allegedly played against the programme Stockfish. A game in which ChatGTP repeatedly amazes with surprising moves and never-before-seen manoeuvres.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surprising-chatgpt-playing-chess",
-         "pubDate" : "Tue, 14 Feb 2023 14:30:00 +0100",
-         "title" : "Surprising: ChatGPT playing chess"
-      },
-      {
          "description" : " When faced with a spectacular queen sacrifice by one of the worlds greatest players, the obvious thing to do is resign. Black certainly thought that resigning was the best move in the following game, as 10. ... cxd6 loses to 11.Bxf7# But both players overlooked one move .... <br /> <b>Capablanca,Jose Raul - Meyer,Leonhard B [C77]</b><br />New York rapid transit New York,NY, 05.03.1908 <script>new PgnViewer( { boardName: \"game1381\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 Nxe4 6.d5 Ne7 7.Nxe5 b5 8.Bb3 Bb7 9.d6 Nxd6 10.Qxd6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1381-container\"></div><div id=\"game1381-moves\"></d",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1690,14 +1706,6 @@ news_feed (
          "title" : "Free Pairing Software"
       },
       {
-         "description" : "The BCET is inviting nominations for the BCET Awards 2023 which are for junior schools (including colleges and other education establishments) and junior clubs in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcet-awards-2023/",
-         "pubDate" : "Mon, 06 Feb 2023 10:42:54 +0000",
-         "title" : "BCET Awards 2023"
-      },
-      {
          "description" : "ECU E-Magazine January 2023 is out! In this edition of the ECU E-Magazine you may read about: The 1st European Cities &#38; Towns Chess Championship The 1st FIDE Olympiad for People with Disabilities Tata Steel Chess 2023 FIDE Women Grand Prix Munich European Senior Team Chess Championship 2023 Official invitation Upcoming European Individual Chess Championship 2023 Upcoming&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html",
          "pubDate" : "Fri, 03 Feb 2023 16:50:00 +0000",
          "title" : "Wayback to Insidechess.com"
-      },
-      {
-         "description" : " A trash-talking cat bot on chess.com is at least partly responsible for the biggest Chess boom ever. Yes, bigger than the boom during the pandemic and after the release of the fabulous chess mini-series on Netflix called The Queens-Gambit. It is only logical that now I get asked many times: \"Noël, should I play against [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-against-computer/\">Should You Play Chess Against The Computer?</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-against-computer/",
-         "pubDate" : "Fri, 03 Feb 2023 14:04:30 +0000",
-         "title" : "Should You Play Chess Against The Computer?"
       }
    ]
 }
