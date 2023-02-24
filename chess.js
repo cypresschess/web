@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In yesterday's round-seven game against Ian Nepomniachtchi, Levon Aronian made a wrong threefold repetition claim. At the 20th move, the players started repeating moves, but Aronian called an arbiter to claim a draw too early. The position was repeated only twice. While Nepo moved away from the board, the arbiter ordered the game to continue. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-makes-the-wrong-claim-of-the-threefold-repetition-tweetoftheday/",
+         "pubDate" : "Fri, 24 Feb 2023 11:45:10 +0000",
+         "title" : "Levon Aronian makes the wrong claim of the threefold repetition #TweetOftheDay"
+      },
+      {
+         "description" : " Chess improvement is hard. Like anything worth achieving in life, it requires time and energy. However, our natural laziness often leads us to choose the easy way, which can hinder long-term growth. Naval once said &#8220;All self-help boils down to &#8216;choose long-term over short-term.'&#8221; Naval So, the main question is: how can you bring yourself [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/discipline/\">Building Discipline: 3 Key Ideas for Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/discipline/",
+         "pubDate" : "Fri, 24 Feb 2023 11:38:08 +0000",
+         "title" : "Building Discipline: 3 Key Ideas for Improving at Chess"
+      },
+      {
+         "description" : "The Romanian National Chess Championship 2023 is currently ongoing in Sebes. The Romanian Chess Federation informed about the cheating case as one player got caught cheating with the smartphone hidden in the restroom. Paul-Stelian Mihalache was eliminated from the tournament and didn't challenge the decision of the Chief Arbiter and the Tournament director. Paul-Stelian Mihalache, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/a-player-caught-cheating-at-the-romanian-chess-championship-2023/",
+         "pubDate" : "Fri, 24 Feb 2023 11:20:30 +0000",
+         "title" : "A player caught cheating at the Romanian Chess Championship 2023"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-8-live/",
+         "pubDate" : "Fri, 24 Feb 2023 10:18:58 +0000",
+         "title" : "WR Chess Masters 2023 - Round 8 live"
+      },
+      {
+         "description" : "\"Blitz\" is a French cult manga based on the Japanese model. It revolves around chess, and Garry Kasparov is an advisor to the team of authors. Tatiana Flores spoke to the creator of the series, C&eacute;dric Biscay | Picture: The cover of Blitz volume one and a glimpse of one of the exciting chess games (French edition). | Photo: IWA/Shibuya Productions",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-cdric-biscay-creator-of-the-manga-series-blitz",
+         "pubDate" : "Fri, 24 Feb 2023 11:00:00 +0100",
+         "title" : "Interview with C&eacute;dric Biscay, creator of the manga series \"Blitz\""
+      },
+      {
+         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament, accusing Hans Niemann of cheating &#8220;more and more recently than he has publicly admitted&#8221;. Top grandmasters and chess journalists asked FIDE to react on the case.&#xA0;Hikaru Nakamura and Daniel Naroditsky concluded on the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-fair-play-commission-forwards-their-report-on-the-carlsen-niemann-case-to-the-fide-ethics-and-disciplinary-commission/",
+         "pubDate" : "Fri, 24 Feb 2023 09:50:13 +0000",
+         "title" : "FIDE Fair Play Commission forwards their report on the Carlsen-Niemann case to the FIDE Ethics and Disciplinary Commission"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #556, Merijn van Delft takes a look at a fantastic attacking game Nodirbek Abdusattorov played against Andrey Esipenko at the WR Masters in D&uuml;sseldorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-556-n-abdusattorov-a-esipenko",
+         "pubDate" : "Fri, 24 Feb 2023 10:35:21 +0100",
+         "title" : "Game of the Week #556: N. Abdusattorov - A. Esipenko"
+      },
+      {
+         "description" : "\"If he wants a draw that badly, I should push,\" said Ian Nepomniachtchi after Levon Aronian incorrectly claimed a draw by 3-fold repetition in their clash in Round 7 of the WR Chess Masters. Nepo went on to beat the leader with the black pieces, allowing Gukesh to catch Levon with some inventive play in the opening against Andrey Esipenko.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-7-gukesh-co-leader-as-nepo-beats-aronian",
+         "pubDate" : "Fri, 24 Feb 2023 08:53:10 +0000",
+         "title" : "WR Chess Masters 7: Gukesh co-leader as Nepo beats Aronian"
+      },
+      {
+         "description" : "Gukesh has caught up with Levon Aronian. After a Black win over Andrey Esipenko in the seventh round of the WR Chess Masters, the youngest competitor now shares the top spot with the oldest on 4.5 points. The two will meet in the ninth and final round, potentially a showdown for the tournament title. Aronian []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-catches-up-with-aronian-wr-chess-masters-r7-recap/",
+         "pubDate" : "Fri, 24 Feb 2023 08:31:00 +0000",
+         "title" : "Gukesh catches up with Aronian; WR Chess Masters - R7 recap"
+      },
+      {
+         "description" : "One year ago, Russia invaded Ukraine and started a war that has been going on much longer than expected and that is probably not ending soon. In March of 2022, Chess.com spoke to several Ukrainian chess players about how the terrible developments ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/one-year-war-ukraine-chess-players",
+         "pubDate" : "Fri, 24 Feb 2023 00:27:01 -0800",
+         "title" : "A Year Of War For Ukrainian Chess Players"
+      },
+      {
          "description" : " The world champion is representing Canada Chessbrahs as the chess.com professional league is revived after a four-year break, but his streak will be overshadowed by this week's puzzle Magnus Carlsen is again the centre of attention as the world champion leads the Canada Chessbrahs in the <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> professional league, revived this year for the first time since pre-pandemic 2019. The world No 1 had a narrow escape at the start <a href=\"https://chess24.com/en/watch/live-tournaments/pro-chess-league-2023/4/2/1\" title=\"\">against Awonder Liang</a>, 19, but then raced to seven straight wins, including victory against the best-known US woman grandmaste",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -23,7 +103,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2249",
          "pubDate" : "Fri, 24 Feb 2023 07:08:11 +0000",
-         "title" : "UPDATE: Fair Play Commission on the Carslen/Niemann Report"
+         "title" : "UPDATE: Fair Play Commission on the Carlsen/Niemann Report"
       },
       {
          "description" : "On Thursday, the Shanghai Tigers again proved themselves to frontrunners, reaching 2-0 by taking down Blitz―the team with the highest rated lineup in week two of the Pro Chess League. Meanwhile, Team MGD1 bounced back to defeat three-time champion...",
@@ -234,7 +314,7 @@ news_feed (
          "title" : "Statement of the European Chess Union - 22.02.2023"
       },
       {
-         "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "description" : "Today: Jeroen Van den Belt shows us the newest tournament search option. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-simplified-tournament-search-with-chessbase-17",
@@ -282,14 +362,6 @@ news_feed (
          "title" : "India No. 2 Vidit stuns world chess champion Carlsen"
       },
       {
-         "description" : "International Chess Federation, Balkan Chess Federation and Albanian Chess Federation, in collaboration with Albanian Center for Openness and Dialogue, are pleased to announce the International Women's Day Chess festival, a series of chess events to celebrate the International Women's Day and reinforce a commitment to women's equality.&#160;&#160; The large-scale celebration will be held from&#160;March 9-19,&#160;2023. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-events-to-celebrate-the-international-womens-day-set-in-tirana-albania/",
-         "pubDate" : "Wed, 22 Feb 2023 09:20:09 +0000",
-         "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
-      },
-      {
          "description" : "The first Cambridge International Open took place from Wednesday 15th to Sunday 19th February at the historic University Arms Hotel in Cambridge. In the first round top seed GM Michael Adams (2757) only drew against Henry Adams (1738), but still won the strong tournament convincingly with 8.0/9. Nigel Towers, director of Home Chess at the English Chess Federation, reports. | Photos: Shohreh Bayat",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,22 +376,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/russians-can-change-federation-free/",
          "pubDate" : "Wed, 22 Feb 2023 09:54:20 +0100",
          "title" : "Russians can change federation free of charge"
-      },
-      {
-         "description" : "A month after the European Chess Union published the official statement on the possible transfer of the Russian Chess Federation (CFR) to the Asian Chess Federation (ACF), FIDE published the resolution on the Russian Chess Federation joining ACF. The FIDE Council reviewed yesterday, February 21, the report prepared by the Constitutional Commission on the request []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-publishes-the-resolution-on-the-russian-chess-federation-joining-asian-chess-federation/",
-         "pubDate" : "Wed, 22 Feb 2023 08:48:15 +0000",
-         "title" : "FIDE publishes the resolution on the Russian Chess Federation joining Asian Chess Federation"
-      },
-      {
-         "description" : "Levon Aronian's fifth-round win doesn't mean a preliminary decision in the WR Chess Masters, but the 40-year-old is now the clear favorite to win the tournament. After his full point against Anish Giri, Aronian leads the standings with four points from five games, one ahead of Wesley So and Gukesh with three each. With his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-extends-his-lead-at-wr-chess-masters-2023/",
-         "pubDate" : "Wed, 22 Feb 2023 08:09:11 +0000",
-         "title" : "Levon Aronian extends his lead at WR Chess Masters 2023"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.schachbund.de/news/astrid-hohl-wird-leiterin-fuer-den-bereich-finanzen-in-der-geschaeftsstelle.html\">has appointed</a> <strong>Astrid Hohl</strong> as Director of Finance as it becomes evident that the federation has burnt its past surplus on poor management. Hohl had been in charge of finances at the <strong>German Youth Chess Association</strong> earlier. </div> ",
@@ -392,22 +448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2245",
          "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
          "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
-      },
-      {
-         "description" : "The&#xA0;Cannes International Chess Festival is taking place from 20-26 February in Cannes, France. The Open A tournament gathers 127 players, and it&#x2019;s played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves plus 30 minutes until the end of the game, and increment of 30 seconds for each move, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/cannes-chess-festival-2023-live/",
-         "pubDate" : "Tue, 21 Feb 2023 16:02:04 +0000",
-         "title" : "Cannes Chess Festival 2023 - LIVE"
-      },
-      {
-         "description" : "The G20 Hungarian Youth Championship 2023 is tournament taking place from 20&#x2013;25 February 2023 in Budapest, Hungary. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is an 26-player round-robin with participation of Luca Karacsonyi, Eszter Sulyok, Kata Buri, Nikoletta Toth, Petra Zsuzsanna Buri, Emma Harkai, Reka []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/g20-hungarian-youth-championship-2023-live/",
-         "pubDate" : "Tue, 21 Feb 2023 15:49:04 +0000",
-         "title" : "G20 Hungarian Youth Championship 2023 - LIVE"
       },
       {
          "description" : "Different tournaments have different kinds of rest days! At the WR Chess Masters 2023, the players and organizers had a great time with a well organized mini-table tennis event. 7 out of the 10 participants of the main tournament took part in this round robin tournament with Gelfand, Dana Reizneice and Wadim Rosenstein joining them. It was a keenly contested event with Andrey Esipenko edging everyone out and taking the top spot. Sagar Shah who travelled to Dusseldorf brings you a fun report.",
@@ -1226,22 +1266,6 @@ news_feed (
          "title" : "PRO Chess League 2023 - Games and Results"
       },
       {
-         "description" : "At the Women's Grand Prix in Munich, chess goddess Caissa smiled on Alexandra Kostenuk. Before the last round Kosteniuk was one point ahead of her closes rival Humpy Koneru and only needed a draw to win the tournament. However, Kosteniuk lost against Zhu Jiner, but still won the tournament because Koneru only drew. Ullrich Krause, President of the German Chess Federation, opened the last round. | Photos: Mark Livshitz (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kosteniuk-wins-women-s-grand-prix-in-munich",
-         "pubDate" : "Tue, 14 Feb 2023 13:09:46 +0100",
-         "title" : "Kosteniuk wins Women's Grand Prix in Munich"
-      },
-      {
-         "description" : "In the diagram position the white knight has to fight against the black pawns. Black's d-pawn and Black's f-pawn are both weak and seem to fall quickly. But the position is still tricky though White has a hidden way to win. Can you find it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/knight-vs-pawns",
-         "pubDate" : "Tue, 14 Feb 2023 09:00:00 +0100",
-         "title" : "Knight vs pawns"
-      },
-      {
          "description" : "Congratulations to Grandmaster Koneru Humpy for finishing as Runner-Up in the second leg of #FIDEWomenGrandPrix at Munich and Harika Dronavalli for finishing fourth. Photo :",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1360,14 +1384,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/",
          "pubDate" : "Sun, 12 Feb 2023 05:36:08 +0000",
          "title" : "The Chess Drum is 22!"
-      },
-      {
-         "description" : "GM Humpy Koneru moved within striking range of the leader, GM Alexandra Kosteniuk, with a win vs. GM Elisabeth Paehtz&#38;nbsp;in round nine of the FIDE Women&#39;s Grand Prix. Koneru has been in second for much of the event, currently trailing by a point...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-9",
-         "pubDate" : "Sat, 11 Feb 2023 15:18:00 -0800",
-         "title" : "Koneru Reaches Striking Range of Kosteniuk, Upcoming Head-to-Head Looms"
       },
       {
          "description" : "",
@@ -1544,14 +1560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2221",
          "pubDate" : "Wed, 08 Feb 2023 23:22:39 +0000",
          "title" : "WGP Munich: Six draws in Round 6"
-      },
-      {
-         "description" : "Magnus Carlsen will face Hikaru Nakamura in the Champions Chess Tour for the 1st time since 2021 after Magnus and Hikaru overcame Arjun Erigaisi and Wesley So in Armageddon deciders. Both players are also qualified for the next Tour event in April, while Alireza Firouzja is out of the Airthings Masters after losing 2:0 to Alexey Sarana in the Losers bracket - a shock 5th rapid loss in a row for the world no. 4.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-final-as-firouzja-knocked-out",
-         "pubDate" : "Wed, 08 Feb 2023 13:22:01 +0000",
-         "title" : "Carlsen-Nakamura final, as Firouzja knocked out"
       },
       {
          "description" : " Amongst the Vimeo-on-demand titles I've brought out recently, some of them are devoted to learning from great players. One of my main areas of study during my early years was to play through the games collections of particular players, two of my favourites being Akiba Rubinstein and Mikhail Botvinnik. I would often do this as <a href=\"https://chessimprover.com/learning-from-the-greats/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Learning from the Greats\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/learning-from-the-greats/\">Learning from the Greats</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
@@ -1808,14 +1816,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/chess-against-computer/",
          "pubDate" : "Fri, 03 Feb 2023 14:04:30 +0000",
          "title" : "Should You Play Chess Against The Computer?"
-      },
-      {
-         "description" : "Inspired by her months of lonely forest trips in the north of Scandinavia German actress and singer has launched a new album of 14 songs, in the style of German pop, cine-classic and Nordic noir. It is music into which everything from love, laughter, separation and death flows. So what is the chess connection: well Vaile is an enthusiastic amateur who has met and interacted with many of the world's top players. She has even taken part in Chess Boxing!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vaile-s-new-album-fragile",
-         "pubDate" : "Fri, 03 Feb 2023 11:00:00 +0100",
-         "title" : "Vaile's new album - Fragile"
       }
    ]
 }
