@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 7 was a major turning point at the WR Chess Masters in D&uuml;sseldorf. Levon Aronian, who had a full-point lead and seemed to be cruising to victory, lost to Ian Nepomniachtchi, while Dommaraju Gukesh got the better of Andrey Esipenko. Thus, Gukesh and Aronian are now sharing the lead with 4&frac12; points each. Wesley So and Nepomniachtchi stand a half point back with two rounds to go. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r7",
+         "pubDate" : "Fri, 24 Feb 2023 00:15:00 +0100",
+         "title" : "WR Masters: Gukesh climbs to shared first place, Nepo beats Aronian"
+      },
+      {
+         "description" : "Round seven may be a turning point in the WR Chess Masters 2023 as GM Ian Nepomniachtchi with the black pieces defeated the tournament leader, GM Levon Aronian. Nepomniachtchi slips into a tie for second place with GM Wesley So, who drew GM R Prag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-7",
+         "pubDate" : "Thu, 23 Feb 2023 14:49:00 -0800",
+         "title" : "Nepomniachtchi Declines Draw, Topples Leader; Gukesh Jumps Into Tie For 1st"
+      },
+      {
          "description" : "A chess player was expelled from the Romanian Chess Championship after a phone was found in the restroom with a chess app showing his game&#39;s position after move 15. Although certain information on the phone strongly suggested it was his, the playe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/player-expelled-from-romanian-championship-phone-cheating",
          "pubDate" : "Thu, 23 Feb 2023 07:37:00 -0800",
          "title" : "Player Expelled From Romanian Championship After Alleged Phone Cheating"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Thu, 23 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
@@ -39,7 +47,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-endgames-1",
          "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
-         "title" : "Endgames from D&uuml;sseldorf"
+         "title" : "Endgames from D&uuml;sseldorf (1)"
       },
       {
          "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
@@ -1402,14 +1410,6 @@ news_feed (
          "title" : "Bishop Endgames Star As Kosteniuk Extends Lead"
       },
       {
-         "description" : "GM Magnus Carlsen won the&#38;nbsp;Champions Chess Tour Airthings Masters 2023 Division I after defeating GM Hikaru Nakamura in the Grand Final. He won the first game and, despite a major scare in game three, managed to draw the rest to consolidate hi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-airthings-masters-ko-day-5-carlsen-wins",
-         "pubDate" : "Fri, 10 Feb 2023 12:58:00 -0800",
-         "title" : "Carlsen Wins Rematch Vs. Nakamura; Caruana, Sevian Win Divisions 2-3"
-      },
-      {
          "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1800,30 +1800,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/03/chess-anish-giri-wins-at-wijk-aan-zee-as-carlsen-misses-out-by-just-half-a-point",
          "pubDate" : "Fri, 03 Feb 2023 08:00:02 +0000",
          "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2210",
-         "pubDate" : "Thu, 02 Feb 2023 22:33:59 +0000",
-         "title" : "Olympiad for People with Disabilities: The link between chess, football and Royalty"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2209",
-         "pubDate" : "Thu, 02 Feb 2023 21:41:13 +0000",
-         "title" : "Kuybokarov, Ryjanova win Oceania Zonal Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2208",
-         "pubDate" : "Thu, 02 Feb 2023 21:24:23 +0000",
-         "title" : "WGP Munich starts with a bang"
       }
    ]
 }
