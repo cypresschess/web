@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The world champion is representing Canada Chessbrahs as the chess.com professional league is revived after a four-year break, but his streak will be overshadowed by this week's puzzle Magnus Carlsen is again the centre of attention as the world champion leads the Canada Chessbrahs in the <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> professional league, revived this year for the first time since pre-pandemic 2019. The world No 1 had a narrow escape at the start <a href=\"https://chess24.com/en/watch/live-tournaments/pro-chess-league-2023/4/2/1\" title=\"\">against Awonder Liang</a>, 19, but then raced to seven straight wins, including victory against the best-known US woman grandmaste",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/feb/24/chess-magnus-carlsen-makes-historic-blunder-after-seven-straight-victories",
+         "pubDate" : "Fri, 24 Feb 2023 08:00:17 +0000",
+         "title" : "Chess: Magnus Carlsen makes historic blunder after seven straight victories"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2250",
+         "pubDate" : "Fri, 24 Feb 2023 07:39:32 +0000",
+         "title" : "WR Chess Masters Round 7: Gukesh catches up with Aronian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2249",
+         "pubDate" : "Fri, 24 Feb 2023 07:08:11 +0000",
+         "title" : "UPDATE: Fair Play Commission on the Carslen/Niemann Report"
+      },
+      {
+         "description" : "On Thursday, the Shanghai Tigers again proved themselves to frontrunners, reaching 2-0 by taking down Blitz―the team with the highest rated lineup in week two of the Pro Chess League. Meanwhile, Team MGD1 bounced back to defeat three-time champion...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-tigers-mgd1",
+         "pubDate" : "Thu, 23 Feb 2023 21:21:00 -0800",
+         "title" : "Balance Over MVPs: Shanghai Tigers, Team MGD1 Defeat Heavyweights"
+      },
+      {
          "description" : "Round 7 was a major turning point at the WR Chess Masters in D&uuml;sseldorf. Levon Aronian, who had a full-point lead and seemed to be cruising to victory, lost to Ian Nepomniachtchi, while Dommaraju Gukesh got the better of Andrey Esipenko. Thus, Gukesh and Aronian are now sharing the lead with 4&frac12; points each. Wesley So and Nepomniachtchi stand a half point back with two rounds to go. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1402,14 +1434,6 @@ news_feed (
          "title" : "WGP Munich: Kosteniuk extends her lead"
       },
       {
-         "description" : "A commanding 6.5/8 score has planted GM Alexandra Kosteniuk firmly atop the leaderboard in Munich at the FIDE Women&#39;s Grand Prix after she consolidated her 1.5-point lead with a win over Ukrainian GM Anna Muzychuk in round eight. The &#34;Chess Quee...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-8",
-         "pubDate" : "Fri, 10 Feb 2023 15:35:00 -0800",
-         "title" : "Bishop Endgames Star As Kosteniuk Extends Lead"
-      },
-      {
          "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1792,14 +1816,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vaile-s-new-album-fragile",
          "pubDate" : "Fri, 03 Feb 2023 11:00:00 +0100",
          "title" : "Vaile's new album - Fragile"
-      },
-      {
-         "description" : " The Netherlands world No 5 got a final-round gift, while a 'backbreaker' in the penultimate round cost the world champion his chance of forcing a playoff Chess tournaments can be decided by the tiniest of margins, and that certainly happened in last weekend's final two rounds at Tata Steel Wijk aan Zee, the \"chess Wimbledon\". The world champion, Magnus Carlsen, missed a likely winning opportunity in the penultimate round, while the Dutch home favourite, Anish Giri, received a gift point in his final game. Nodirbek Abdusattorov, the Uzbekistan 18-year-old who had led all the way from round one, chose a conservative drawing strategy in the second half of the event, and came unstuck against th",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/feb/03/chess-anish-giri-wins-at-wijk-aan-zee-as-carlsen-misses-out-by-just-half-a-point",
-         "pubDate" : "Fri, 03 Feb 2023 08:00:02 +0000",
-         "title" : "Chess: Anish Giri wins at Wijk aan Zee as Carlsen misses out by just half a point"
       }
    ]
 }
