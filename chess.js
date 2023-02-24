@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his 'Fast & Furious' show, Robert Ris takes a look at the recent developments in the Poisoned Pawn Variation of the French Steinitz. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-poisoned-pawn-variation-of-the-french-steinitz",
+         "pubDate" : "Fri, 24 Feb 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The Poisoned Pawn Variation of the French Steinitz"
+      },
+      {
          "description" : "The tournament will be held at the world's biggest chess club, one that covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. The 6th Sharjah Masters 2023 will take place from May 16th (arrival) to 26th (departure), 2023. Entry fees range from 0 to 300 USD (depending on title and rating), the prizes from 300 to 10,000 USD. Sharjah is the third-most populous city in the United Arab Emirates, after Dubai and Abu Dhabi.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1234,14 +1242,6 @@ news_feed (
          "title" : "Firouzja: New Career In Fashion Industry Takes Time Away From Chess"
       },
       {
-         "description" : "The chess world mourns the death of Jorge Vega. The long-time President of the American Continental Chess Federation was a comrade-in-arms of Che Guevara in the Cuban Revolution, though he was later imprisoned in Cuba because of his international contacts. Vega then lived in Mexico and was president of the Confederacion de Adjedres para America (CCA) from 20202. | Photo: Anastasia Karlovich",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jorge-vega-fernandez-1935-2023",
-         "pubDate" : "Tue, 14 Feb 2023 17:00:00 +0100",
-         "title" : "Jorge Vega Fernandez (1935-2023)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1800,22 +1800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2211",
          "pubDate" : "Fri, 03 Feb 2023 22:04:48 +0000",
          "title" : "Olympiad for People with Disabilities: Poland one step away from the gold"
-      },
-      {
-         "description" : " Last week, we worked through our game's first seven moves. This week, we'll start at move eight. As I mentioned in the conclusion of last week's article, we'd look at what White could have done differently in an effort to avoid the disaster that ensued. This week's article is going to be short since it <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Two\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-two/\">A Foundation for Beginners Eighty Two</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimpro",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-two/",
-         "pubDate" : "Fri, 03 Feb 2023 17:32:45 +0000",
-         "title" : "A Foundation for Beginners Eighty Two"
-      },
-      {
-         "description" : "The most recent post on my World Championship blog, <A HREF=\"https://worldchesschampionship.blogspot.com/2023/02/hooked-on-1994-95-sanghi-nagar.html\">Hooked on 1994-95 Sanghi Nagar</A>(February 2023), mentioned, <BLOCKQUOTE>[Ravi Sanghi] was responsible for the creation of an attractive Hindu temple perched dramatically on a nearby hill, and his impressive home could be seen on another distant hill. Mimi [Bill Hook's wife] later interviewed Mr. Sanghi, and her article subsequently appeared in <I>Inside Chess</I>. </BLOCKQUOTE> <P>The reference to <I>Inside Chess</I> fits in well with my current series on early web sites -- last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/01/hu",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html",
-         "pubDate" : "Fri, 03 Feb 2023 16:50:00 +0000",
-         "title" : "Wayback to Insidechess.com"
       }
    ]
 }
