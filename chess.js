@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 25...exd5 White skillfully set up the final attack. If you see his first move right away - please check black counterstrikes!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-on-the-horizon",
+         "pubDate" : "Sat, 25 Feb 2023 09:00:00 +0100",
+         "title" : "Checkmate on the horizon"
+      },
+      {
+         "description" : "The 1000GM Los Angeles IM 2 Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Fidel Corrales Jimenez, Jacek Stopa, Raffi Ghazaryan, Ruiyang Yan, Alexandre Kretchetov, Michael Casella, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-los-angeles-im-2-2023-live/",
+         "pubDate" : "Sat, 25 Feb 2023 07:50:49 +0000",
+         "title" : "1000GM Los Angeles IM 2 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM Los Angeles IM 1 Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Gabor Nagy, Harshit Raja, Andy Lin, David Berczes, Julian Proleiko, FIDhaan Mahajan, Thalia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-los-angeles-im-1-2023-live/",
+         "pubDate" : "Sat, 25 Feb 2023 07:45:50 +0000",
+         "title" : "1000GM Los Angeles IM 1 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM Los Angeles GM Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Arman Mikaelyan, Josiah Stearman, Justin Wang, Robby Kevlishvili, Mark Heimann, Joseph Levine, Luka Budisavljevic, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-los-angeles-gm-2023-live/",
+         "pubDate" : "Sat, 25 Feb 2023 07:40:20 +0000",
+         "title" : "1000GM Los Angeles GM 2023 - LIVE"
+      },
+      {
+         "description" : "In the year 2023, names like Praggnanandhaa, Keymer, Abdusattarov, and Esipenko are common to every chess fan. A couple of years ago, only the chess specialists knew them from the top 100 junior FIDE list. Svitlana's prepared some nice analysis for us of the WR Chess Masters Tournament, with unexpected twists and tactical turns!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-duesseldorf-wunderkinder",
+         "pubDate" : "Sat, 25 Feb 2023 08:30:00 +0100",
+         "title" : "Svitlana's Smart Moves - The Duesseldorf Wunderkinder"
+      },
+      {
          "description" : "As the Pro Chess League&#39;s second week reached its conclusion on Friday, the Croatia Bulldogs and the Gotham Knights secured narrow match wins over the Berlin Bears and the California Unicorns respectively. Following a hard-fought loss in week on...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -258,14 +298,6 @@ news_feed (
          "title" : "WR Chess Masters 2023 - Round 7 live"
       },
       {
-         "description" : "First against second: It could have been the game that makes the outcome of the tournament completely uncertain again. Wesley So, one point behind, had to do nothing more than defeat Levon Aronian with the white pieces. Then both would have been back on level ground and the field would have been close together. But []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-unchanged-standings-after-round-6/",
-         "pubDate" : "Thu, 23 Feb 2023 08:36:00 +0000",
-         "title" : "WR Chess Masters - Unchanged standings after Round 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -392,22 +424,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/russia-chess-federation-to-join-asia",
          "pubDate" : "Wed, 22 Feb 2023 10:14:21 +0000",
          "title" : "Russia Chess Federation to join Asia"
-      },
-      {
-         "description" : "ECU Commission for Women's Cess launched the initiative &#8220;European Women's Chess Trophy&#8221; to reward women and girls for their results in chess. &#8220;We inspire to support female chess players to actively take part in the solely women&#x2019;s tournaments in Europe, especially in the closed (norm) ones and this way to support and promote tournaments&#x2019; organizers []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-trophy/",
-         "pubDate" : "Wed, 22 Feb 2023 09:55:01 +0000",
-         "title" : "European Women's Chess Trophy"
-      },
-      {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-5-live-2/",
-         "pubDate" : "Wed, 22 Feb 2023 09:37:16 +0000",
-         "title" : "WR Chess Masters 2023 - Round 6 live"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
@@ -1178,14 +1194,6 @@ news_feed (
          "title" : "INVITATION FOR BIDS: European Chess Championships 2023-2024-2025"
       },
       {
-         "description" : "Grandmasters Anish Giri and Sandipan Chanda gave master classes on the same day (21 Oct 2022) in ProChess, and I got to witness the interesting chess lessons being discussed in those sessions. Any chess fan would be thrilled with it, and my experience was absolutely fascinating! In this article, I share a few interesting positions and thought processes I encountered from these sessions. | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pro-chess-diaries-anish-giri-sandipan-chanda",
-         "pubDate" : "Wed, 15 Feb 2023 09:40:03 +0100",
-         "title" : "ProChess Diaries: Masterclasses by Anish and Sandipan"
-      },
-      {
          "description" : " IM Kostya Kavutskiy Last week we had an opportunity to revisit the Saavedra position and the history behind it. This gave me the idea to find a few endgame studies where it applies. It is hard to remember an idea if you do not get the opportunity to practice using it. The endgame where this <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (3)</a> ap",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
          "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
          "title" : "Blunders Be Gone! | Beginner Breakdown"
-      },
-      {
-         "description" : "Wednesday evening will see the official opening of the WR Masters at the Hyatt Regency Hotel in D&uuml;sseldorf. The tournament starts on Thursday at 14:00 with the 1st round. A number of players from the next generation will face the current world elite. For Ian Nepomiachtchi, the tournament is also a dress rehearsal for the World Championship in April. German chess fans are keeping their fingers crossed for Vincent Keymer in particular.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-wr-chess-masters-2023-starts-on-wednesday",
-         "pubDate" : "Tue, 14 Feb 2023 18:00:00 +0100",
-         "title" : "The WR Chess Masters 2023 starts on Wednesday"
       },
       {
          "description" : "World number-four GM Alireza Firouzja has been mysteriously inactive in the last year with remarkably few tournament appearances. In a rare, new interview, the teenager confirmed rumors about him seeking an alternative career. Firouzja, the Iran...",
