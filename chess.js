@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the third year in a row, the Grand Chess Tour will be without the two arguably biggest stars of the chess world, Magnus Carlsen and Hikaru Nakamura. The lack of variety in the field draws criticism among chess fans.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gct-field-2023-announced-with-firouzja",
+         "pubDate" : "Sat, 25 Feb 2023 19:15:31 +0000",
+         "title" : "Firouzja returns as 2023 Grand Chess Tour field announced"
+      },
+      {
+         "description" : "Full tour player invitations for the 2023 GCTs edition were extended to nine players. Three players qualified by finishing 1st through 3rd in the 2022 Grand Chess Tour. The remaining 6 were invited based on a number of factors, including URS rating, FIDE rating, fighting spirit and sportsmanship. Both contenders for the World Championship crown, Ian Nepomniachtchi and Ding Liren, are included in the field. | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2023-players",
+         "pubDate" : "Sat, 25 Feb 2023 20:00:00 +0100",
+         "title" : "Grand Chess Tour names field of elite players to compete for $1.4M purse"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Johannes Zukertort and the First World Chess Championship Match"
       },
       {
-         "description" : "In his \"Game of the Week\" show #555, Merijn van Delft takes a look at a complex and fascinating game that Max Warmerdam and Jorden van Foreest played in the Dutch League. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-555-m-warmerdam-j-van-foreest",
-         "pubDate" : "Wed, 15 Feb 2023 18:00:00 +0100",
-         "title" : "Game of the Week #555: M. Warmerdam - J. van Foreest"
-      },
-      {
          "description" : "For the second straight week, there was only one first-place finisher in the week&#39;s two Titled Tuesday events. And for the fifth time out of six total, it was GM Hikaru Nakamura who accomplished the feat. Nakamura didn&#39;t even need tiebreak scoring...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1522,14 +1530,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Three"
       },
       {
-         "description" : "Hikaru Nakamura beat Wesley So in Armageddon to set up a Grand Final rematch against Magnus Carlsen on the last day of the 2023 Airthings Masters. Wesley had earlier overcome Arjun Ergaisi to join Carlsen and Nakamura in securing a spot in Division I of the next Champions Chess Tour event in April. Fabiano Caruana and Yu Yangyi will fight it out for the remaining spot in the Division II final, while Sam Sevian won Division III.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-sets-up-carlsen-rematch-in-airthings-masters-final",
-         "pubDate" : "Fri, 10 Feb 2023 10:46:01 +0000",
-         "title" : "Nakamura sets up Carlsen rematch in Airthings Masters final"
-      },
-      {
          "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2215",
          "pubDate" : "Sat, 04 Feb 2023 21:25:29 +0000",
          "title" : "WGP Munich: Kosteniuk 3/3 at full steam "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2214",
-         "pubDate" : "Sat, 04 Feb 2023 20:17:00 +0000",
-         "title" : "Poland makes history as the winner of the first Chess Olympiad for People with Disabilities"
       }
    ]
 }
