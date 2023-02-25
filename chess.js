@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian evaded a second consecutive loss by the skin of his teeth in round eight of the WR Chess Masters 2023. After making an unsound piece sacrifice, he managed to draw GM Andrey Esipenko and keep his dreams of title victory alive. GM G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-8",
+         "pubDate" : "Fri, 24 Feb 2023 14:49:00 -0800",
+         "title" : "Keymer Beats So With Black; Aronian 'Over The Moon With Joy' After Saving Lost Game"
+      },
+      {
          "description" : "In his 'Fast & Furious' show, Robert Ris takes a look at the recent developments in the Poisoned Pawn Variation of the French Steinitz. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1362,14 +1370,6 @@ news_feed (
          "title" : "National Team Chess Championships 2023:Day 4"
       },
       {
-         "description" : "The penultimate round of the FIDE Women&#39;s Grand Prix took place on Sunday in Munich and featured a miraculous escape from GM Alexandra Kosteniuk, who managed to save a completely lost endgame against GM Koneru Humpy in the round&#39;s most important m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-10",
-         "pubDate" : "Sun, 12 Feb 2023 15:24:00 -0800",
-         "title" : "Kosteniuk Pulls Off Houdini Escape In Crucial Matchup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1784,22 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2213",
          "pubDate" : "Sat, 04 Feb 2023 03:15:36 +0000",
          "title" : "FIDE Players with Disabilities Commission holds its meeting in Belgrade"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2212",
-         "pubDate" : "Fri, 03 Feb 2023 22:31:52 +0000",
-         "title" : "WGP Munich: Kosteniuk takes the lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2211",
-         "pubDate" : "Fri, 03 Feb 2023 22:04:48 +0000",
-         "title" : "Olympiad for People with Disabilities: Poland one step away from the gold"
       }
    ]
 }
