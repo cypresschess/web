@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2252",
+         "pubDate" : "Sat, 25 Feb 2023 13:46:33 +0000",
+         "title" : "WR Chess Masters: Three candidates for tournament victory"
+      },
+      {
+         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
+         "pubDate" : "Sat, 25 Feb 2023 13:45:00 +0100",
+         "title" : "WR Chess Masters - Live!"
+      },
+      {
          "description" : "The game of Go is one of the most ancient and most popular games in the world. As a result of its elegant and simple rules, the game has long been an inspiration for mathematical research. For example, in a remarkably advanced calculation, Shen Kuo, an 11th century Chinese scholar, estimated in his Dream Pool []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Nakamura With Another Titled Tuesday Sweep"
       },
       {
-         "description" : "Top Iranian chess player Sara Khadem has gone into exile, like many other Iranian chess players before her, and now lives with her family in Spain. Yesterday, the BBC published a podcast in which Sara Khadem talks about her motives for leaving Iran. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sara-khadem-speaks-to-the-bbc",
-         "pubDate" : "Wed, 15 Feb 2023 15:17:06 +0100",
-         "title" : "Sara Khadem speaks to the BBC"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2214",
          "pubDate" : "Sat, 04 Feb 2023 20:17:00 +0000",
          "title" : "Poland makes history as the winner of the first Chess Olympiad for People with Disabilities"
-      },
-      {
-         "description" : "The elite tournament at Wijk aan Zee, Holland, which finished earlier this week, has resulted in victory for Anish Giri, the former Russian, now Dutch, Grandmaster. GM Giri needs some introduction to a global audience, but he is a potential world champion, indeed a player who has already inflicted several defeats on Magnus Carlsen - including []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/giri-the-great/",
-         "pubDate" : "Sat, 04 Feb 2023 14:06:01 +0000",
-         "title" : "Giri the Great"
       }
    ]
 }
