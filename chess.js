@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the Pro Chess League&#39;s second week reached its conclusion on Friday, the Croatia Bulldogs and the Gotham Knights secured narrow match wins over the Berlin Bears and the California Unicorns respectively. Following a hard-fought loss in week on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-bulldogs-knights",
+         "pubDate" : "Fri, 24 Feb 2023 18:24:00 -0800",
+         "title" : "Nakamura Scores 4/4 For Gotham Knights, Croatia Bulldogs Outclass Berlin Bears"
+      },
+      {
          "description" : "GM Levon Aronian evaded a second consecutive loss by the skin of his teeth in round eight of the WR Chess Masters 2023. After making an unsound piece sacrifice, he managed to draw GM Andrey Esipenko and keep his dreams of title victory alive. GM G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1330,14 +1338,6 @@ news_feed (
          "title" : "Alexandra Kosteniuk wins 2023 Women's Grand Prix Munich "
       },
       {
-         "description" : "The 2023 Pro Chess League is upon us! Some of the game&#38;rsquo;s brightest stars have been divided into 16 teams and will be competing for their part of the $150,000 prize fund. Whether you&#38;rsquo;re a grandmaster or not, YOU can also win prizes as p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-prediction-contest",
-         "pubDate" : "Mon, 13 Feb 2023 09:42:58 -0800",
-         "title" : "2023 PCL Prediction Contest: Submit Your Predictions And Win Prizes"
-      },
-      {
          "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), the site mentions four other engines after stalwarts Stockfish and LCZero: Asmfish, Berserk, Koivisto, Sugar AI (and Sugar AI ICCF). I asked the TCEC and CCC '!commands' to tell me more about these engines. <P><B>TCEC:-</B> <UL><LI><B>!asmfish</B>&#149; asmFish, a port of Stockfish in x86-64 assembly by Mohammed Li, optional using AVX2 and BMI2 instructions, assembled with FASM to run under Windows or UNIX/Linux, first released in June 2016. See also<BR>https://www.chessprogramming.org/AsmFish and<BR>https://github.com/CounterPly/asmFish <LI><B>!ber",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/speculative-fiction.html",
          "pubDate" : "Sat, 04 Feb 2023 10:35:00 +0000",
          "title" : "Speculative fiction"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2213",
-         "pubDate" : "Sat, 04 Feb 2023 03:15:36 +0000",
-         "title" : "FIDE Players with Disabilities Commission holds its meeting in Belgrade"
       }
    ]
 }
