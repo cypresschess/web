@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The game of Go is one of the most ancient and most popular games in the world. As a result of its elegant and simple rules, the game has long been an inspiration for mathematical research. For example, in a remarkably advanced calculation, Shen Kuo, an 11th century Chinese scholar, estimated in his Dream Pool []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/can-this-be-true-ai-go-and-chess/",
+         "pubDate" : "Sat, 25 Feb 2023 11:04:48 +0000",
+         "title" : "Can this be true? AI, Go and chess"
+      },
+      {
+         "description" : "Vincent Keymer got revenge for his loss to Wesley So in the Tata Steel Masters by beating the 3-time US Champion with the black pieces in Round 8 of the WR Chess Masters in Dusseldorf. The other games were drawn, as Levon Aronian survived an opening disaster to remain co-leader with Gukesh before they clash in the final round. If that game is drawn, Ian Nepomniachtchi can also reach a playoff with a win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/wr-chess-masters-8-keymer-ends-so-s-hopes",
+         "pubDate" : "Sat, 25 Feb 2023 10:36:14 +0000",
+         "title" : "WR Chess Masters 8: Keymer ends So's hopes"
+      },
+      {
+         "description" : "Today: Matias Feist shows us how to enable the new speak text annotation for ChessBase 17, in just a couple of clicks. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-speak-text-annotation-for-chessbase-17",
+         "pubDate" : "Sat, 25 Feb 2023 11:31:53 +0100",
+         "title" : "Explained by the engineers! - The new speak text annotation for ChessBase 17"
+      },
+      {
+         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-9-live/",
+         "pubDate" : "Sat, 25 Feb 2023 08:58:00 +0000",
+         "title" : "WR Chess Masters 2023 - Round 9 live"
+      },
+      {
          "description" : "After 25...exd5 White skillfully set up the final attack. If you see his first move right away - please check black counterstrikes!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/checkmate-on-the-horizon",
          "pubDate" : "Sat, 25 Feb 2023 09:00:00 +0100",
          "title" : "Checkmate on the horizon"
+      },
+      {
+         "description" : "Showdown with Joker: After eight rounds of the WR Chess Masters, the field is set for an exciting final round, in which the two leaders on equal points, Gukesh and Levon Aronian, meet. Half a point behind them lurks Ian Nepomniachtchi, who can still catch up in the event of a draw between the two. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/gukesh-and-aronian-heading-into-the-last-round-of-wr-chess-masters-as-co-leaders/",
+         "pubDate" : "Sat, 25 Feb 2023 07:57:00 +0000",
+         "title" : "Gukesh and Aronian heading into the last round of WR Chess Masters as co-leaders"
+      },
+      {
+         "description" : "Vincent Keymer scored his second win at the WR Chess Masters in round 8, as he defeated Wesley So with the black pieces and left him out of the race for tournament victory. Levon Aronian and Gukesh are sharing the lead on 5/8 points and will face each other in the final round. If they draw and Ian Nepomniachtchi manages to beat Keymer, a three-way play-off will decide the winner of the tournament. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r8",
+         "pubDate" : "Sat, 25 Feb 2023 08:55:00 +0100",
+         "title" : "WR Masters: Keymer beats So"
       },
       {
          "description" : "The 1000GM Los Angeles IM 2 Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Fidel Corrales Jimenez, Jacek Stopa, Raffi Ghazaryan, Ruiyang Yan, Alexandre Kretchetov, Michael Casella, []",
@@ -58,6 +106,14 @@ news_feed (
          "title" : "Keymer Beats So With Black; Aronian 'Over The Moon With Joy' After Saving Lost Game"
       },
       {
+         "description" : "The tournament will be held at the world's biggest chess club, one that covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. The 6th Sharjah Masters 2023 will take place from May 16th (arrival) to 26th (departure), 2023. Entry fees range from 0 to 300 USD (depending on title and rating), the prizes from 300 to 10,000 USD. Sharjah is the third-most populous city in the United Arab Emirates, after Dubai and Abu Dhabi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2023",
+         "pubDate" : "Fri, 24 Feb 2023 18:05:00 +0100",
+         "title" : "Sharjah Masters 2023"
+      },
+      {
          "description" : "In his 'Fast & Furious' show, Robert Ris takes a look at the recent developments in the Poisoned Pawn Variation of the French Steinitz. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +122,12 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: The Poisoned Pawn Variation of the French Steinitz"
       },
       {
-         "description" : "The tournament will be held at the world's biggest chess club, one that covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. The 6th Sharjah Masters 2023 will take place from May 16th (arrival) to 26th (departure), 2023. Entry fees range from 0 to 300 USD (depending on title and rating), the prizes from 300 to 10,000 USD. Sharjah is the third-most populous city in the United Arab Emirates, after Dubai and Abu Dhabi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023",
-         "pubDate" : "Fri, 24 Feb 2023 17:00:00 +0100",
-         "title" : "Sharjah Masters 2023"
+         "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html",
+         "pubDate" : "Fri, 24 Feb 2023 16:03:00 +0000",
+         "title" : "Chess.com's Game Review Tools PGN"
       },
       {
          "description" : "",
@@ -80,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2251",
          "pubDate" : "Fri, 24 Feb 2023 14:04:14 +0000",
          "title" : "Wissmann wins in Finland, solvers move to Poland and Netherlands"
-      },
-      {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Fri, 24 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
       },
       {
          "description" : "In yesterday's round-seven game against Ian Nepomniachtchi, Levon Aronian made a wrong threefold repetition claim. At the 20th move, the players started repeating moves, but Aronian called an arbiter to claim a draw too early. The position was repeated only twice. While Nepo moved away from the board, the arbiter ordered the game to continue. []",
@@ -266,14 +314,6 @@ news_feed (
          "title" : "London Chess Conference 2023"
       },
       {
-         "description" : "Following the FIDE Council's decision concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union published the following statement:&#xA0;The ECU Board expressed in detail its position in&#xA0;its statement of 30.01.2023.&#xA0;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ecu-statement-on-the-russian-chess-federation-joining-the-asian-chess-federation/",
-         "pubDate" : "Thu, 23 Feb 2023 10:27:28 +0000",
-         "title" : "ECU statement on the Russian Chess Federation joining the Asian Chess Federation"
-      },
-      {
          "description" : "Levon Aronian borrowed an idea from his fellow Saint Louis resident Fabiano Caruana as he came within a whisker of beating Wesley So and opening up a 1.5-point lead with three rounds of the WR Chess Masters to go. He fell just short, however, which was the story elsewhere as well in Round 6, with long, fighting games all ending in draws.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -288,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-modern-line-2",
          "pubDate" : "Thu, 23 Feb 2023 10:59:40 +0100",
          "title" : "The Monthly Dragon - 7 Pawns vs. 1 Pawn endgame!?"
-      },
-      {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-7-live/",
-         "pubDate" : "Thu, 23 Feb 2023 09:16:41 +0000",
-         "title" : "WR Chess Masters 2023 - Round 7 live"
       },
       {
          "description" : "",
@@ -1154,14 +1186,6 @@ news_feed (
          "title" : "Cambridge International Open - results"
       },
       {
-         "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup. This event was played on lichess.org and hosted on chessstream.com on the weekend of February 4 and 5, 2023. The tournament attracted well over 500 university students from every continent and from nearly thirty countries. The event was a resounding success.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/texas-tech-claims-3rd-kasparov-chess-foundation-university-cup",
-         "pubDate" : "Wed, 15 Feb 2023 12:45:06 +0100",
-         "title" : "Texas Tech claims 3rd Kasparov Chess Foundation University Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1538,14 +1562,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Entries passed 100"
       },
       {
-         "description" : "Magnus Carlsen is the first player through to the Grand Final of the top division of the Airthings Masters after bidding just one second less than his great rival Hikaru Nakamura to get the black pieces in Armageddon. Hikaru can still reach that final, but he'll first have to beat either Wesley So or Arjun Erigaisi, who knocked out Alexey Sarana and Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-credits-soul-read-as-he-beats-nakamura",
-         "pubDate" : "Thu, 09 Feb 2023 12:08:37 +0000",
-         "title" : "Carlsen credits \"soul read\" as he beats Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,14 +1784,6 @@ news_feed (
          "link" : "https://www.thearticle.com/giri-the-great/",
          "pubDate" : "Sat, 04 Feb 2023 14:06:01 +0000",
          "title" : "Giri the Great"
-      },
-      {
-         "description" : " In testing the bounds of what AI systems can produce, I asked one such system for an article on the 1948 World Championship Match. While the facts in the article are not particularly accurate, as a piece of 'alternative history' it isn't that bad. <br /> \"The 1948 World Chess Championship was a historic event in the world of chess. It was the first time in 24 years that a World Chess Championship match had taken place, after the events of World War II had disrupted the world of chess and caused a hiatus in the championship cycle. The match was held between the reigning world champion, Russian Grandmaster Mikhail Botvinnik, and Dutch Grandmaster Max Euwe, who had won the World Chess Champion",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/speculative-fiction.html",
-         "pubDate" : "Sat, 04 Feb 2023 10:35:00 +0000",
-         "title" : "Speculative fiction"
       }
    ]
 }
