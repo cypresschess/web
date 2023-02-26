@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Levon Aronian won the inaugural WR Chess Masters 2023 after winning all three games against his co-leaders in the rapid tiebreaks. GMs Gukesh D and Ian Nepomniachtchi finish in tied second-third. In the classical games, Aronian-Gukesh headed ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-aronian-wins",
+         "pubDate" : "Sat, 25 Feb 2023 15:52:08 -0800",
+         "title" : "Aronian Clinches 'Tiebreak of Generations' With Perfect 3/3 Score, Wins Inaugural Event"
+      },
+      {
          "description" : "For the third year in a row, the Grand Chess Tour will be without the two arguably biggest stars of the chess world, Magnus Carlsen and Hikaru Nakamura. The lack of variety in the field draws criticism among chess fans.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -31,7 +39,15 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
          "pubDate" : "Sat, 25 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Live!"
+         "title" : "WR Chess Masters Tiebreaks - Live!"
+      },
+      {
+         "description" : " The WR Masters took place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This was a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko. Levon Aronian won all three games in a tie-break against Nepomniachtchi and Gukesh, the final two rounds weren't needed as he couldn't be caught.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-2023",
+         "pubDate" : "Sat, 25 Feb 2023 16:28:00 +0400",
+         "title" : "WR Chess Masters 2023 - Games and Results"
       },
       {
          "description" : "The game of Go is one of the most ancient and most popular games in the world. As a result of its elegant and simple rules, the game has long been an inspiration for mathematical research. For example, in a remarkably advanced calculation, Shen Kuo, an 11th century Chinese scholar, estimated in his Dream Pool []",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "A brilliant resignation"
       },
       {
-         "description" : " The WR Masters takes place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This is a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-2023",
-         "pubDate" : "Tue, 14 Feb 2023 16:28:00 +0400",
-         "title" : "WR Chess Masters 2023 - Games and Results"
-      },
-      {
          "description" : " The Cambridge International Open takes place Wed 15th Feb to Sun 19th Feb 2023. Michael Adams is the top seed. Stand alone opens like this are fairly rare in the UK. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1360,14 +1368,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-checkmates/",
          "pubDate" : "Mon, 13 Feb 2023 19:29:13 +0000",
          "title" : "Chess Heroes: Checkmates"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk was crowned as the winner of the second leg of the 2022/2023 FIDE Women&#39;s Grand Prix on Monday with a score of 7.5/11 despite losing her final game to WGM Zhu Jiner. Peace was the theme of the final round in Munich as five...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-munich-fide-women-grand-prix-round-11-kosteniuk-wins",
-         "pubDate" : "Mon, 13 Feb 2023 10:04:00 -0800",
-         "title" : "Kosteniuk Loses Final Round, Still Claims Crown In Munich"
       },
       {
          "description" : "",
@@ -1768,14 +1768,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/",
          "pubDate" : "Sun, 05 Feb 2023 14:00:31 +0000",
          "title" : "2023 Zone 4.3 in Equatorial Guinea"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2215",
-         "pubDate" : "Sat, 04 Feb 2023 21:25:29 +0000",
-         "title" : "WGP Munich: Kosteniuk 3/3 at full steam "
       }
    ]
 }
