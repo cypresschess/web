@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Levon Aronian has won the inaugural WR Chess Masters after dominating a playoff against Ian Nepomniachtchi and Gukesh. Levon had earlier made a quick draw against Gukesh in their classical game and then watched as Nepomniachtchi ground out an 82-move win on demand against Vincent Keymer to join them in the playoff. Aronian wins €40,000, while Gukesh and Nepo shared €20,000 each.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-beats-nepo-and-gukesh-to-win-wr-chess-masters",
+         "pubDate" : "Sun, 26 Feb 2023 10:23:35 +0000",
+         "title" : "Aronian beats Nepo and Gukesh to win WR Chess Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2226",
          "pubDate" : "Sat, 11 Feb 2023 11:32:23 +0000",
          "title" : "Robert Katende: Have a heart that loves people no matter who they are"
-      },
-      {
-         "description" : "Magnus Carlsen won the first game and survived a 132-move thriller in the third to defeat Hikaru Nakamura 2.5:1.5 and win the $30,000 Airthings Masters top prize. Magnus commented, \"it didn't feel like I managed to play close to my best level\", but he's already booked his spot in the Champions Chess Tour Playoffs in December. Fabiano Caruana overcame Yu Yangyi to win Division II and qualifies for Division I in the next event in April.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-beats-nakamura-to-win-the-airthings-masters",
-         "pubDate" : "Sat, 11 Feb 2023 02:02:21 +0000",
-         "title" : "Carlsen beats Nakamura to win the Airthings Masters"
       },
       {
          "description" : "",
