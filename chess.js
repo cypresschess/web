@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've encountered the term Nepo Baby on several occasions recently. I didn't know Ian Nepomniachtchi had fathered so many children. It turns out he hasn't. Nepo, in this context, is an abbreviation for Nepotism. A Nepo Baby is a child who has in part become successful, particularly in show business, because his/her famous relations are <a href=\"https://chessimprover.com/nepo-baby/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Nepo Baby\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/nepo-baby/\">Nepo Baby</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/nepo-baby/",
+         "pubDate" : "Sun, 26 Feb 2023 16:18:48 +0000",
+         "title" : "Nepo Baby"
+      },
+      {
+         "description" : "Levon Aronian convincingly prevailed in a three-player rapid tiebreaker to win the first edition of the WR Chess Masters. After quickly drawing their round-9 game, Aronian and Dommaraju Gukesh saw Ian Nepomniachtchi beating Vincent Keymer to join them in the lead. A double round-robin playoff between the three players followed. Aronian won his first three 10-minute games to secure the title. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r9",
+         "pubDate" : "Sun, 26 Feb 2023 15:20:00 +0100",
+         "title" : "Aronian shines in rapid playoff, wins WR Chess Masters"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 114th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-113-play-the-sicilian-2",
+         "pubDate" : "Sun, 26 Feb 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 114: Play the Sicilian (15)"
+      },
+      {
          "description" : "Levon Aronian has won the inaugural WR Chess Masters after dominating a playoff against Ian Nepomniachtchi and Gukesh. Levon had earlier made a quick draw against Gukesh in their classical game and then watched as Nepomniachtchi ground out an 82-move win on demand against Vincent Keymer to join them in the playoff. Aronian wins €40,000, while Gukesh and Nepo shared €20,000 each.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "WR Chess Masters: Three candidates for tournament victory"
       },
       {
-         "description" : "The WR Chess Masters is taking place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event features a mix of established, elite players and young, ambitious talents. A prize fund of 130,000 Euros is up for grabs. Ian Nepomniachtchi, Anish Giri and Wesley So are the top seeds. | Follow the games live with expert commentary, starting daily at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "The WR Chess Masters took place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event featured a mix of established, elite players and young, ambitious talents. Levon Aronian won the tournament after prevailing in a three-player rapid tiebreaker over Ian Nepomniachtchi and Dommaraju Gukesh. | Replay all the games with computer-assisted analysis.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
          "pubDate" : "Sat, 25 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters Tiebreaks - Live!"
+         "title" : "WR Chess Masters - Games and standing"
       },
       {
          "description" : " The WR Masters took place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This was a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko. Levon Aronian won all three games in a tie-break against Nepomniachtchi and Gukesh, the final two rounds weren't needed as he couldn't be caught.",
@@ -1170,14 +1194,6 @@ news_feed (
          "title" : "Opening ceremony of the WR Masters"
       },
       {
-         "description" : "The name Erich Eliskases is familiar to only a few chess enthusiasts today. However, the Austrian was one of the best players in the world in the late 1930s. In 1941 he was supposed to play for the World Championship with Alexander Alekhine. But things turned out differently. 15 February 2023 is the 110th birthday of Eliskases, who was born in Innsbruck, Austria, and died in Cordoba, Argentina.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-erich-eliskases-15-february-1913-2-february-1997",
-         "pubDate" : "Thu, 16 Feb 2023 11:14:57 +0100",
-         "title" : "Remembering Erich Eliskases (15 February 1913 - 2 February 1997)"
-      },
-      {
          "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alejandro-ramirez-under-investigation-for-sexual-misconduct",
          "pubDate" : "Wed, 15 Feb 2023 12:17:00 -0800",
          "title" : "Alejandro Ramirez Under Investigation For Sexual Misconduct"
-      },
-      {
-         "description" : "Johannes Zukertort is one of the great but tragic figures of chess history. A former title contender, he was as brilliant as he was misunderstood. On the 137th anniversary of the first World Chess Championship Match, his life, career, and legacy are worth re-examining.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/johannes-zukertort-and-the-first-world-chess-championship-match",
-         "pubDate" : "Wed, 15 Feb 2023 19:00:00 +0100",
-         "title" : "Johannes Zukertort and the First World Chess Championship Match"
       },
       {
          "description" : "For the second straight week, there was only one first-place finisher in the week&#39;s two Titled Tuesday events. And for the fifth time out of six total, it was GM Hikaru Nakamura who accomplished the feat. Nakamura didn&#39;t even need tiebreak scoring...",
@@ -1760,22 +1768,6 @@ news_feed (
          "link" : "https://chessimprover.com/novices-and-experts-2/",
          "pubDate" : "Sun, 05 Feb 2023 20:35:58 +0000",
          "title" : "Novices and Experts"
-      },
-      {
-         "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb05.jpg\" WIDTH=130 HEIGHT=400 ALIGN=LEFT VSPACE=5 HSPACE=5> It's hard to believe, but in the nearly 17 years that I've been writing this blog and the nearly 13 years that I've been posting for the series titled <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010), an important word has never once appeared on the blog. That new word is >>> [new_word] <<<. <P>The item on the left was titled 'World Chess Championship 1972 - Rare Silver Spoon'. It sold 'Best offer accepted' for... <P>[<B>BREAKING NEWS:</B> The item page I'm looking at does *not* list a price. In the p",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/a-new-category-of-chess-collectable.html",
-         "pubDate" : "Sun, 05 Feb 2023 16:20:00 +0000",
-         "title" : "A New Category of Chess Collectable"
-      },
-      {
-         "description" : " Sergio Periera of Sao Tome &#38; Principe hoists the championship trophyafter winning Zone 4.3 Championship. Equatorial Guinea was the host to the FIDE Zone 4.3 Individual Championship which took place during the week of 18th-27th&#160;of January 2023 at the Bisili Hotel in Malabo. The tournament attracted 15 contestants from six countries Gabon, Cameroon, Burundi, Sao The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/\">2023 Zone 4.3 in Equatorial Guinea</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/05/2023-zone-4-3-in-equatorial-guinea/",
-         "pubDate" : "Sun, 05 Feb 2023 14:00:31 +0000",
-         "title" : "2023 Zone 4.3 in Equatorial Guinea"
       }
    ]
 }
