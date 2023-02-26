@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I'm pleased to say that my winning streak against Airline inflight chess programs continues. Turns out the 'Copyright 2000' message on the splash screen is a big clue about the strength of the program, and even on the harder levels, piece blunders were common. To break the monotony I also played some Texas Hold-Em (winning as well), and 'Who wants to be a millionaire' trivia. I did not know that the worlds largest Buddhist temple was in Indonesia. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/02/the-streak-remains.html",
+         "pubDate" : "Sun, 26 Feb 2023 18:05:00 +0000",
+         "title" : "The streak remains"
+      },
+      {
+         "description" : "Professor Jerry Nash is the current chairman of FIDE's Commission on Chess in Education. A long-standing educator who is passionate about helping others, Nash asserts in this interview conducted by Uvencio Blanco: \"Chess can really positively alter the classroom environment by improving student behaviour and engagement\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jerry-nash-interview-2023",
+         "pubDate" : "Sun, 26 Feb 2023 19:00:00 +0100",
+         "title" : "Jerry Nash: \"Chess can improve the student-teacher dynamic\""
+      },
+      {
+         "description" : "MPL NATIONAL RAPID CHESS CHAMPIONSHIP 2022-23 AICF EVENT CODE: 307994 /JK/ 2022was organized by CROWN TRUST, under the aegis of Jammu district chess association, All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arvind-chidambaram-of-tamilnadu-wins-national-rapid-chess-championship-2023/",
+         "pubDate" : "Sun, 26 Feb 2023 16:48:51 +0000",
+         "title" : "Arvind Chidambaram of Tamil Nadu wins National Rapid Chess Championship 2023"
+      },
+      {
          "description" : " I've encountered the term Nepo Baby on several occasions recently. I didn't know Ian Nepomniachtchi had fathered so many children. It turns out he hasn't. Nepo, in this context, is an abbreviation for Nepotism. A Nepo Baby is a child who has in part become successful, particularly in show business, because his/her famous relations are <a href=\"https://chessimprover.com/nepo-baby/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Nepo Baby\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/nepo-baby/\">Nepo Baby</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "WR Chess Masters kicks off in Dusseldorf"
       },
       {
-         "description" : "Yesterday, the ceremonial and stylish opening of the WR Masters took place at the Hyatt Regency Hotel in D&uuml;sseldorf. After a press conference and a small show programme with a simul and \"chess doubles\", the lots were drawn. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-ceremony-of-the-wr-masters",
-         "pubDate" : "Thu, 16 Feb 2023 12:22:57 +0100",
-         "title" : "Opening ceremony of the WR Masters"
-      },
-      {
          "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1424,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2230",
          "pubDate" : "Mon, 13 Feb 2023 13:29:25 +0000",
          "title" : "Elier Miranda wins Cuban Championship"
-      },
-      {
-         "description" : "Airports Authority of India snatched the lead with nine match points from the favourites Petroleum Sports Promotion Board at the end of the fifth round",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-chess-championships-2023day-4/",
-         "pubDate" : "Mon, 13 Feb 2023 11:07:00 +0000",
-         "title" : "National Team Chess Championships 2023:Day 4"
       },
       {
          "description" : "",
