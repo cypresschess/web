@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2253",
+         "pubDate" : "Sun, 26 Feb 2023 02:44:44 +0000",
+         "title" : "WR Chess Masters: Levon Aroninan's tiebreak triumph"
+      },
+      {
          "description" : "GM Levon Aronian won the inaugural WR Chess Masters 2023 after winning all three games against his co-leaders in the rapid tiebreaks. GMs Gukesh D and Ian Nepomniachtchi finish in tied second-third. In the classical games, Aronian-Gukesh headed ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-aronian-wins",
-         "pubDate" : "Sat, 25 Feb 2023 15:52:08 -0800",
+         "pubDate" : "Sat, 25 Feb 2023 15:52:00 -0800",
          "title" : "Aronian Clinches 'Tiebreak of Generations' With Perfect 3/3 Score, Wins Inaugural Event"
       },
       {
