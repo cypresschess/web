@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-02-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202302267962 target='_blank'>FEB 26 SUNDAY SWISS</a>",
 "SPRING","2023-02-24","34","<a href=http://www.uschess.org/msa/XtblMain.php?202302246662 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-02-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202302246652 target='_blank'>FBCC 2023 PreChessFest Open</a>",
 "HOUSTON","2023-02-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202302246552 target='_blank'>REBECCA CHESS CLUB QUADS FEB 24, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2022-07-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207169092 target='_blank'>PISD JULY 2022- OLDER</a>",
 "SUGAR LAND","2022-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207159862 target='_blank'>FBCC JULY 15 , 2022</a>",
 "CYPRESS","2022-07-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202207158972 target='_blank'>KOC</a>",
-"SPRING","2022-07-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202207158942 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
