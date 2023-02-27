@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Endgame Magic Show #229 Karsten has the 16-year old Indian Grandmaster Leon Luke Mendonca as his guest and they will look at endgame highlights from Leon's practice. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-229-indian-talent-leon-luke-mendonca-shows-endgame-highlights-from-his-games",
+         "pubDate" : "Mon, 27 Feb 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #229: Indian talent Leon Luke Mendonca shows endgame highlights from his games"
+      },
+      {
          "description" : "We have reported extensively on the WR Chess Masters 2023, which ended on Sunday in D&uuml;sseldorf, Germany. Today we bring you unique impressions of the opinions and mood of the participants on the final days of this wonderful event. They were recorded by IM Sagar Shah, who runs ChessBase India and one of the biggest video chess portals in the world. Just sit back and enjoy.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1138,14 +1146,6 @@ news_feed (
          "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
       },
       {
-         "description" : "FIDE has joined the Sport Integrity Global Alliance (SIGA). SIGA is a non-profit, global, independent organisation with a mission to ensure that sporting organisations are run to the highest standards of integrity in order to protect the values of sport.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-joins-the-sport-integrity-global-alliance",
-         "pubDate" : "Fri, 17 Feb 2023 16:00:00 +0100",
-         "title" : "FIDE joins the Sport Integrity Global Alliance"
-      },
-      {
          "description" : "The first round of the inaugural WR Chess Masters 2023 in Duesseldorf, Germany, started with a bang, when American GMs Wesley So and Levon Aronian both picked up wins in the first game. They were accompanied by Russian GM Andrey Esipenko who took ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1752,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2218",
          "pubDate" : "Mon, 06 Feb 2023 21:14:54 +0000",
          "title" : "Missed opportunities in Munich"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2217",
-         "pubDate" : "Mon, 06 Feb 2023 17:18:48 +0000",
-         "title" : "Darwin Laylo wins Philippine Championship"
       }
    ]
 }
