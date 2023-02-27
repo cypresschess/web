@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. All are required to attend the Refresher",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-arbiter-refresher-course-final-batch-allotment/",
+         "pubDate" : "Mon, 27 Feb 2023 10:12:44 +0000",
+         "title" : "AICF'S ARBITER REFRESHER COURSE : FINAL BATCH ALLOTMENT"
+      },
+      {
+         "description" : "A new super-tournament took place in D&uuml;sseldorf, with five vetted GMs facing five raising talents. Karsten M&uuml;ller kept a close eye on the event, and sent us a number of fascinating endgames, annotated. Find here five instructive positions. Time to learn and enjoy! | Pictured: Andrey Esipenko | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-endgames-2",
+         "pubDate" : "Mon, 27 Feb 2023 11:00:00 +0100",
+         "title" : "Endgames from D&uuml;sseldorf (2)"
+      },
+      {
          "description" : "The 44th Finnish Championship in solving took place in the Chess Arena in Helsinki. In the close contest for the top honours, five solvers managed to score more than 50 points. Dutch GM solver Dolf Wissmann missed only 1.5 points and emerged as a deserved winner, ahead of two other GMs, Martynas Limontas of Lithuania and Jorma Paavilainen of Finland, who shared the second place. | Photos: Hannu Harkola",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +82,14 @@ news_feed (
          "title" : "Arvind Chidambaram of Tamil Nadu wins National Rapid Chess Championship 2023"
       },
       {
+         "description" : "For this month's post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), I had a couple of recent, related videos on my short list. How were they related? They were both about the current wave of the game's popularity. Let's take the longer video first. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/-w2Fv48VVEU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>Why More People Don't Play Chess</B> (24:31) &#149; '[Published on] Feb 5, 2023' <P>The video's des",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/purposeful-chess-talk.html",
+         "pubDate" : "Sun, 26 Feb 2023 16:26:00 +0000",
+         "title" : "'Purposeful' Chess Talk"
+      },
+      {
          "description" : " I've encountered the term Nepo Baby on several occasions recently. I didn't know Ian Nepomniachtchi had fathered so many children. It turns out he hasn't. Nepo, in this context, is an abbreviation for Nepotism. A Nepo Baby is a child who has in part become successful, particularly in show business, because his/her famous relations are <a href=\"https://chessimprover.com/nepo-baby/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Nepo Baby\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/nepo-baby/\">Nepo Baby</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -106,6 +130,14 @@ news_feed (
          "title" : "WR Chess Masters: Levon Aroninan's tiebreak triumph"
       },
       {
+         "description" : " Here is the publishers blurb from the rear cover: &#8220;The Tarrasch Variation of the Queen's Gambit Declined is a fierce counter-attacking line arising after 1 d4 d5 2 c4 e6 <a href=\"http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Opening Repertoire: Queen's Gambit Declined: Tarrasch</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/\">Opening Repertoire: Queen's Gambit Declined: Tarrasch</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.co",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/",
+         "pubDate" : "Sun, 26 Feb 2023 00:10:55 +0000",
+         "title" : "Opening Repertoire: Queen's Gambit Declined: Tarrasch"
+      },
+      {
          "description" : "GM Levon Aronian won the inaugural WR Chess Masters 2023 after winning all three games against his co-leaders in the rapid tiebreaks. GMs Gukesh D and Ian Nepomniachtchi finish in tied second-third. In the classical games, Aronian-Gukesh headed ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-2023-players",
          "pubDate" : "Sat, 25 Feb 2023 20:00:00 +0100",
          "title" : "Grand Chess Tour names field of elite players to compete for $1.4M purse"
+      },
+      {
+         "description" : " From the Batsford web site: &#8220;Following on from the enduring success of one of the most important chess books ever written, Bobby Fischer: My 60 Memorable Games, and the recently <a href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Fabiano Caruana: 60 Memorable Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\">Fabiano Caruana: 60 Memorable Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/",
+         "pubDate" : "Sat, 25 Feb 2023 17:00:26 +0000",
+         "title" : "Fabiano Caruana: 60 Memorable Games"
       },
       {
          "description" : "",
@@ -1170,14 +1210,6 @@ news_feed (
          "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
       },
       {
-         "description" : "Wesley So, Levon Aronian and Andrey Esipenko kicked off the WR Chess Masters with wins, as they defeated Jan-Krzysztof Duda, Praggnanandhaa and Vincent Keymer respectively. Out of the three, So was the first one to leave the playing hall with a full point to his name. Aronian and Esipenko needed to work harder to convert their superior endgame positions against resilient opponents. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r1",
-         "pubDate" : "Fri, 17 Feb 2023 00:10:00 +0100",
-         "title" : "WR Masters: So, Aronian and Esipenko score with white"
-      },
-      {
          "description" : "Two teams, Blitz and the Gotham Knights, emerged triumphant on Thursday in the Pro Chess League after wins against Team MGD1 and the Berlin Bears, respectively. Both matches featured seismic comebacks for the favorites after tough starts. Despit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1392,14 +1424,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/pro-chess-league-2023",
          "pubDate" : "Tue, 14 Feb 2023 16:22:00 +0400",
          "title" : "PRO Chess League 2023 - Games and Results"
-      },
-      {
-         "description" : "Congratulations to Grandmaster Koneru Humpy for finishing as Runner-Up in the second leg of #FIDEWomenGrandPrix at Munich and Harika Dronavalli for finishing fourth. Photo :",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-koneru-humpy-harika-dronavalli/",
-         "pubDate" : "Tue, 14 Feb 2023 05:02:57 +0000",
-         "title" : "Congratulations Koneru Humpy & Harika Dronavalli"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Arch Bishops field Leinier Dominguez, Benjamin Bok, Nikolas Theodorou, &amp; Alice Lee against the Shanghai Tigers&#039; Wei Yi, Ju Wenjun, Yi Xu, &amp; Lou Yiping in Week 1! Four rounds, each player competes against all opponents, G/10+2. First team to score 8.5 wins the match. Join WGM Nemo &amp; Jonathan Schrantz for the move-by-move. 2023.02.17<br /> PROChessLeague.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-arch-bishops-vs-s",
@@ -1752,22 +1776,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/",
          "pubDate" : "Mon, 06 Feb 2023 12:41:27 +0000",
          "title" : "Kassa Korley featured in Amazon's \"Mind Games\""
-      },
-      {
-         "description" : " If you are looking for some (FIDE approved) pairing software that won't cost you anything, then you might be interested in Chess Tournament Organiser Program. It is a free (and open source) program that does all the usual stuff you need to run chess tournaments. The website for download is <a href=\"https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html\">https://www.freebasic-portal.de/downloads/anwendungssoftware/schachturnierorganisationsprogramm-233.html</a> I've had a quick play with it, but not enough to work out all the features. It does use JaVaFo to do the pairings (which means it is FIDE compliant), but extras like export/import of d",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/free-pairing-software.html",
-         "pubDate" : "Mon, 06 Feb 2023 12:30:00 +0000",
-         "title" : "Free Pairing Software"
-      },
-      {
-         "description" : "ECU E-Magazine January 2023 is out! In this edition of the ECU E-Magazine you may read about: The 1st European Cities &#38; Towns Chess Championship The 1st FIDE Olympiad for People with Disabilities Tata Steel Chess 2023 FIDE Women Grand Prix Munich European Senior Team Chess Championship 2023 Official invitation Upcoming European Individual Chess Championship 2023 Upcoming&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-january-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-january-2023/",
-         "pubDate" : "Mon, 06 Feb 2023 08:50:11 +0000",
-         "title" : "ECU E-Magazine January 2023"
       }
    ]
 }
