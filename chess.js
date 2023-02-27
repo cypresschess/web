@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have reported extensively on the WR Chess Masters 2023, which ended on Sunday in D&uuml;sseldorf, Germany. Today we bring you unique impressions of the opinions and mood of the participants on the final days of this wonderful event. They were recorded by IM Sagar Shah, who runs ChessBase India and one of the biggest video chess portals in the world. Just sit back and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wr-chess-interviews-with-the-winners",
+         "pubDate" : "Mon, 27 Feb 2023 15:00:00 +0100",
+         "title" : "WR Chess: interviews with the winners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2259",
+         "pubDate" : "Mon, 27 Feb 2023 12:49:54 +0000",
+         "title" : "EDU Commission announces its fourth \"Preparation of Teachers\" course"
+      },
+      {
          "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. All are required to attend the Refresher",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "National Team Chess Championships : Double delight for Airport Authority of India"
       },
       {
-         "description" : "Bela Kotenashvili dominated the 80th Georgian Women's Championship, and won the tournament with 8.0/9. With 7.0/9 Lela Javakhishvili and Meri Arabidze shared second and third place, but thanks to her better tiebreak Lela Javakhishvili finished second. | Photos: Georgian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bela-khotenashvili-wins-80th-georgian-women-s-championship",
-         "pubDate" : "Fri, 17 Feb 2023 15:20:09 +0100",
-         "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
-      },
-      {
          "description" : " Nigerian-born Gregory Acholonu was finally awarded the FM title after being qualified for over 20 years. The long-time chess coach has worked with the DC Chess Center for 12 years before starting his own GCA Chess Academy in Annapolis, Maryland. Acholonu has spent the better part of his life serving as an inspiration to scholastic The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/\">Gregory Acholonu awarded overdue FM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1752,30 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2217",
          "pubDate" : "Mon, 06 Feb 2023 17:18:48 +0000",
          "title" : "Darwin Laylo wins Philippine Championship"
-      },
-      {
-         "description" : "The action never stops in the low-stakes world of engine vs. engine chess competitions. Our previous fortnightly post mentioned two winners: <A HREF=\"https://chessforallages.blogspot.com/2023/01/lczero-wins-tcec-cup-11-stockfish-wins.html\">LCZero Wins TCEC Cup 11; Stockfish Wins CCC19 Bullet</A>(January 2023; 'For the first time in a long while, an engine other than Stockfish won a TCEC or CCC event'). Here's a summary of that post:- <BLOCKQUOTE>TCEC: In the 'Cup 11' Final match, LCZero and Stockfish tied the regulation games +1-1=10, then LCZero won the second pair of tiebreak games. In the Bronze match for 'Cup 11' third place, KomodoDragon and Ethereal tied +0-0=12; KomodoDragon won the s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/tcec-swiss-4-underway-ccc-mystery.html",
-         "pubDate" : "Mon, 06 Feb 2023 16:09:00 +0000",
-         "title" : "TCEC Swiss 4 Underway; CCC Mystery Matches"
-      },
-      {
-         "description" : "The ECF would like to thank IM Lawrence Cooper for his hard work and valuable contributions during his tenure as Manager of Women's Online Chess....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/manager-of-womens-online-chess/",
-         "pubDate" : "Mon, 06 Feb 2023 15:37:55 +0000",
-         "title" : "Manager of Women's Online Chess"
-      },
-      {
-         "description" : " The Chess Drum had a conversation with IM Kassa Korley about his recent activities. He talked about his appearance in the recent premiere of &#8220;Mind Games,&#8221; a documentary peering into the minds of gamesmen in four disciplines: chess, mahjong, memory, and e-sports. Chess has often been the subject of many scientific experiments and has been The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/\">Kassa Korley featured in Amazon's &#8220;Mind Games&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/06/kassa-korley-featured-in-amazons-mind-games/",
-         "pubDate" : "Mon, 06 Feb 2023 12:41:27 +0000",
-         "title" : "Kassa Korley featured in Amazon's \"Mind Games\""
       }
    ]
 }
