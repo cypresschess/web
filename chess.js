@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 44th Finnish Championship in solving took place in the Chess Arena in Helsinki. In the close contest for the top honours, five solvers managed to score more than 50 points. Dutch GM solver Dolf Wissmann missed only 1.5 points and emerged as a deserved winner, ahead of two other GMs, Martynas Limontas of Lithuania and Jorma Paavilainen of Finland, who shared the second place. | Photos: Hannu Harkola",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/finnish-championship-solving-2023",
+         "pubDate" : "Mon, 27 Feb 2023 08:00:00 +0100",
+         "title" : "Wissmann wins in Finland, solvers move to Poland and the Netherlands"
+      },
+      {
+         "description" : "The Arab Women's Championship 2023 is taking place from 26 February to 5 March 2023 in Khartoum, Sudan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Roula Mahmoud, Ahmad Anood, Rahaf Faqeeh, Gadalla Karar Sara, Sabrina Latreche, Lina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arab-womens-championship-2023-live/",
+         "pubDate" : "Mon, 27 Feb 2023 06:29:11 +0000",
+         "title" : "Arab Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Arab Championship 2023 is taking place from 26 February to 5 March 2023 in Khartoum, Sudan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Abubaker Tagelsir, Sedrani Ammar, Rafat Issa, Al Khatib Ahmad, Mohsen Elgabry, Gong Thon []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/arab-championship-2023-live/",
+         "pubDate" : "Mon, 27 Feb 2023 06:23:19 +0000",
+         "title" : "Arab Championship 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -146,7 +170,7 @@ news_feed (
          "title" : "WR Chess Masters 8: Keymer ends So's hopes"
       },
       {
-         "description" : "Today: Matias Feist shows us how to enable the new speak text annotation for ChessBase 17, in just a couple of clicks. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "description" : "Today: Mathias Feist shows us how to enable the new speak text annotation for ChessBase 17, in just a couple of clicks. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-speak-text-annotation-for-chessbase-17",
@@ -298,28 +322,12 @@ news_feed (
          "title" : "A player caught cheating at the Romanian Chess Championship 2023"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-8-live/",
-         "pubDate" : "Fri, 24 Feb 2023 10:18:58 +0000",
-         "title" : "WR Chess Masters 2023 - Round 8 live"
-      },
-      {
          "description" : "\"Blitz\" is a French cult manga based on the Japanese model. It revolves around chess, and Garry Kasparov is an advisor to the team of authors. Tatiana Flores spoke to the creator of the series, C&eacute;dric Biscay | Picture: The cover of Blitz volume one and a glimpse of one of the exciting chess games (French edition). | Photo: IWA/Shibuya Productions",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/interview-with-cdric-biscay-creator-of-the-manga-series-blitz",
          "pubDate" : "Fri, 24 Feb 2023 11:00:00 +0100",
          "title" : "Interview with C&eacute;dric Biscay, creator of the manga series \"Blitz\""
-      },
-      {
-         "description" : "After&#xA0;Hans Niemann defeated the World Chess Champion Magnus Carlsen&#xA0;in the third round of the Sinquefield Cup 2022,&#xA0;Carlsen decided to withdraw&#xA0;from the tournament, accusing Hans Niemann of cheating &#8220;more and more recently than he has publicly admitted&#8221;. Top grandmasters and chess journalists asked FIDE to react on the case.&#xA0;Hikaru Nakamura and Daniel Naroditsky concluded on the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-fair-play-commission-forwards-their-report-on-the-carlsen-niemann-case-to-the-fide-ethics-and-disciplinary-commission/",
-         "pubDate" : "Fri, 24 Feb 2023 09:50:13 +0000",
-         "title" : "FIDE Fair Play Commission forwards their report on the Carlsen-Niemann case to the FIDE Ethics and Disciplinary Commission"
       },
       {
          "description" : "In his \"Game of the Week\" show #556, Merijn van Delft takes a look at a fantastic attacking game Nodirbek Abdusattorov played against Andrey Esipenko at the WR Masters in D&uuml;sseldorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2237",
          "pubDate" : "Thu, 16 Feb 2023 21:22:26 +0000",
          "title" : "Alexandr Fier wins VI Montevideo Open \"Marcel Duchamp Cup 2023\""
-      },
-      {
-         "description" : "In his 'Fast & Furious' show, Robert Ris has a look at the game Mamedyarov-Sevian from the Pro Chess League 2023. The game featured a sharp line from the Semi-Slav Meran variation which became popular after the World Championship match between Kramnik and Anand in Bonn 2008. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-semi-slav-meran",
-         "pubDate" : "Thu, 16 Feb 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Semi-Slav Meran"
       },
       {
          "description" : "",
