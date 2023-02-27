@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2254",
+         "pubDate" : "Sun, 26 Feb 2023 22:31:48 +0000",
+         "title" : "Romanian Championship: Shevchenko and Lehaci win maiden titles"
+      },
+      {
+         "description" : "Levon Aronian has won the WR Chess Masters. After Aronian, Gukesh and Ian Nepomniachtchi were tied with 5.5/9 each at the end of the regular distance of nine rounds, Aronian won the tiebreak. He was very happy about the victory, Aronian said. He thanked host Wadim Rosenstein for an excellently organized tournament and the exceptionally []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-wins-wr-chess-masters/",
+         "pubDate" : "Sun, 26 Feb 2023 20:54:12 +0000",
+         "title" : "Levon Aronian wins WR Chess Masters"
+      },
+      {
          "description" : " I'm pleased to say that my winning streak against Airline inflight chess programs continues. Turns out the 'Copyright 2000' message on the splash screen is a big clue about the strength of the program, and even on the harder levels, piece blunders were common. To break the monotony I also played some Texas Hold-Em (winning as well), and 'Who wants to be a millionaire' trivia. I did not know that the worlds largest Buddhist temple was in Indonesia. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-7-gukesh-co-leader-as-nepo-beats-aronian",
          "pubDate" : "Fri, 24 Feb 2023 08:53:10 +0000",
          "title" : "WR Chess Masters 7: Gukesh co-leader as Nepo beats Aronian"
-      },
-      {
-         "description" : "Gukesh has caught up with Levon Aronian. After a Black win over Andrey Esipenko in the seventh round of the WR Chess Masters, the youngest competitor now shares the top spot with the oldest on 4.5 points. The two will meet in the ninth and final round, potentially a showdown for the tournament title. Aronian []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-catches-up-with-aronian-wr-chess-masters-r7-recap/",
-         "pubDate" : "Fri, 24 Feb 2023 08:31:00 +0000",
-         "title" : "Gukesh catches up with Aronian; WR Chess Masters - R7 recap"
       },
       {
          "description" : "One year ago, Russia invaded Ukraine and started a war that has been going on much longer than expected and that is probably not ending soon. In March of 2022, Chess.com spoke to several Ukrainian chess players about how the terrible developments ...",
@@ -1760,22 +1768,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2023/",
          "pubDate" : "Mon, 06 Feb 2023 08:50:11 +0000",
          "title" : "ECU E-Magazine January 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2216",
-         "pubDate" : "Sun, 05 Feb 2023 20:39:30 +0000",
-         "title" : "WGP Munich: Who dares wins"
-      },
-      {
-         "description" : " Education author and blogger David Didau has a lot to say about the difference between novices and experts on his website. This article is a good place to start. So when do chess novices become experts. Let's say, as a very general rule, that novices have a rating under 1000, and experts have a rating <a href=\"https://chessimprover.com/novices-and-experts-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Novices and Experts\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/novices-and-experts-2/\">Novices and Experts</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/novices-and-experts-2/",
-         "pubDate" : "Sun, 05 Feb 2023 20:35:58 +0000",
-         "title" : "Novices and Experts"
       }
    ]
 }
