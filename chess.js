@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today: Jeroen Van den Belt shows us the new menu of the 2D-Board for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-2d-board-of-chessbase-17",
+         "pubDate" : "Tue, 28 Feb 2023 13:00:00 +0100",
+         "title" : "Explained by the engineers! - The new 2D board of ChessBase 17"
+      },
+      {
+         "description" : " You aren't improving at Chess despite your best efforts? You are not alone! Plateaus are a normal part of Chess improvement. I'm in daily contact with readers &#38; students who want to overcome barriers in Chess improvement. In this article, I list the 7 most likely reasons why you may not be improving in Chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/7-reason-why-youre-not-improving/\">7 Reasons Why You're Not Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/7-reason-why-youre-not-improving/",
+         "pubDate" : "Tue, 28 Feb 2023 11:40:57 +0000",
+         "title" : "7 Reasons Why You're Not Improving at Chess"
+      },
+      {
+         "description" : "10th MPL National Amateur Chess Championship, Punjab 2023 10th MPL National Amateur chess Championship was organized in Sangrur, Punjab, in Golden Valley Resort from 18",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/10th-mpl-national-amateur-chess-championship-punjab-2023-final-report/",
+         "pubDate" : "Tue, 28 Feb 2023 11:20:37 +0000",
+         "title" : "10th MPL National Amateur Chess Championship, Punjab 2023 :Final Report"
+      },
+      {
+         "description" : "AICF EVENT CODE: 307995 /JK/ 2022 was organized by CROWN TRUST, under the aegis of Jammu district chess association, All J&#38;K Chess Association and under",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/top-seed-gm-aravindh-chithambaram-v-r-won-mpl-national-blitz-2023/",
+         "pubDate" : "Tue, 28 Feb 2023 10:38:51 +0000",
+         "title" : "Top Seed GM Aravindh Chithambaram V R won MPL National Blitz 2023"
+      },
+      {
+         "description" : "The Seville Rapid Championship 2023 is taking place on 28 February 2023 in Seville, Spain. Players receive 8 minutes for the entire game, plus a 3-second increment starting from move one. It is a 7-round Swiss tournament with participation of Israel Cruz Rodriguez, Juan Carlos Ferrete Rueda, Cristian Silva Lucena, Ismael Diaz Castro, Santiago Garcia []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/seville-rapid-championship-2023-live/",
+         "pubDate" : "Tue, 28 Feb 2023 09:07:32 +0000",
+         "title" : "Seville Rapid Championship 2023 - LIVE"
+      },
+      {
          "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/discipline/",
          "pubDate" : "Fri, 24 Feb 2023 11:38:08 +0000",
          "title" : "Building Discipline: 3 Key Ideas for Improving at Chess"
-      },
-      {
-         "description" : "The Romanian National Chess Championship 2023 is currently ongoing in Sebes. The Romanian Chess Federation informed about the cheating case as one player got caught cheating with the smartphone hidden in the restroom. Paul-Stelian Mihalache was eliminated from the tournament and didn't challenge the decision of the Chief Arbiter and the Tournament director. Paul-Stelian Mihalache, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/a-player-caught-cheating-at-the-romanian-chess-championship-2023/",
-         "pubDate" : "Fri, 24 Feb 2023 11:20:30 +0000",
-         "title" : "A player caught cheating at the Romanian Chess Championship 2023"
       },
       {
          "description" : "\"Blitz\" is a French cult manga based on the Japanese model. It revolves around chess, and Garry Kasparov is an advisor to the team of authors. Tatiana Flores spoke to the creator of the series, C&eacute;dric Biscay | Picture: The cover of Blitz volume one and a glimpse of one of the exciting chess games (French edition). | Photo: IWA/Shibuya Productions",
@@ -1106,14 +1138,6 @@ news_feed (
          "title" : "Grandmasters of the Chessboard"
       },
       {
-         "description" : "Last Monday, Alexandra Kosteniuk (pictured) won the second stage of the FIDE Women's Grand Prix, a 12-player single round-robin that took place in Munich, Germany. GM Karsten M&uuml;ller followed the games closely, and sent us a selection of thought-provoking endgames. Find here six instructive positions, annotated by our in-house expert. | Photo: Mark Livshitz / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-munich-2023-endgames",
-         "pubDate" : "Sat, 18 Feb 2023 11:00:00 +0100",
-         "title" : "Endgames from Munich"
-      },
-      {
          "description" : "As the first week of the 2023 Pro Chess League came to a close, the Shanghai Tigers and the California Unicorns became the final teams to secure victories in their opening fixtures. The Shanghai Tigers, who fielded world number-29 GM Wei Yi as w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1306,14 +1330,6 @@ news_feed (
          "title" : "Azerbaijan Women's Championship: Beydullayeva defends title"
       },
       {
-         "description" : "As you are aware, the Indian Postal Department released a commemorative postage stamp in connection with 44th FIDE Chess Olympiad at Chennai. Those who are",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commemorative-postage-stamp-44th-fide-chess-olympiad/",
-         "pubDate" : "Wed, 15 Feb 2023 12:57:45 +0000",
-         "title" : "COMMEMORATIVE POSTAGE STAMP : 44TH FIDE CHESS OLYMPIAD"
-      },
-      {
          "description" : "The Cambridge International Open has certainly proven itself to be one of the most sought-after events in England. With only 121 places available, there were...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1336,14 +1352,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-swindle-gives-chessbrahs-pro-chess-league-win",
          "pubDate" : "Wed, 15 Feb 2023 10:50:16 +0000",
          "title" : "Carlsen swindle gives Chessbrahs Pro Chess League win"
-      },
-      {
-         "description" : "Airports Authority of India is inviting applications&#160;&#160;FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS Contract Scheme 2022-23 &#38; AAI Sports&#160;SCHOLARSHIP SCHEME 2023-24. Contract Form 2023-24 Scholarship Form",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/application-format-regarding-inviting-the-applications-for-meritorious-sportspersons-under-aai-sports-scholarship-scheme-2023-24/",
-         "pubDate" : "Wed, 15 Feb 2023 10:18:42 +0000",
-         "title" : "Application Format regarding INVITING THE APPLICATIONS FOR MERITORIOUS SPORTSPERSONS UNDER AAI SPORTS SCHOLARSHIP SCHEME 2023-24"
       },
       {
          "description" : "The European Chess Union opens the bidding procedure for the organisation of&#160;the official European Chess Championships in 2023, 2024 &#38; 2025. The bids must be submitted exclusively in the Bid form regulated by the ECU (can be downloaded below). For any additional documents delivered separately from the bid form, it must be stated in the bid form what&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/\">Read More &#187;</a></span>",
@@ -1720,22 +1728,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/explained-chess.html",
          "pubDate" : "Tue, 07 Feb 2023 12:38:00 +0000",
          "title" : "Explained - Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2219",
-         "pubDate" : "Tue, 07 Feb 2023 12:22:49 +0000",
-         "title" : "Tolerance Games, Asian Chess Women's Contest, run big"
-      },
-      {
-         "description" : "The &#8216;rating of games played abroad' facility has been dormant since the new rating system was introduced. The ECF rating team are pleased to announce...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rating-games-played-abroad/",
-         "pubDate" : "Tue, 07 Feb 2023 10:44:41 +0000",
-         "title" : "Rating of games played abroad"
       }
    ]
 }
