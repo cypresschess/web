@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-misses-mate-in-3-in-pro-chess-league-drama",
+         "pubDate" : "Tue, 28 Feb 2023 08:26:56 +0000",
+         "title" : "Carlsen misses mate-in-3 in Pro Chess League drama"
+      },
+      {
+         "description" : "In endgames with two rooks on both sides you should wath out for tactical possibilities and chances to attack the enemy king. In the diagram position it is White to move. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-battering-ram-2",
+         "pubDate" : "Tue, 28 Feb 2023 09:00:00 +0100",
+         "title" : "The battering ram"
+      },
+      {
+         "description" : "The reigning World Under-14 Open champion, Ilamparthi A R won WR Chess Junior Under-14 Boys with a perfect 5/5. He also won the Blitz event. These triumphs came 11 days after he became India's latest International Master at the 21st Rochefort Chess Festival Masters 2023. Ilamparthi, along with other participants of the junior tournament, also got training by the former world championship challenger, the legendary GM Boris Gelfand, and Germany no.1 female, GM Elisabeth Paehtz. We all hope he soon becomes a GM and strong enough to participate in the Masters events. Photo: Lennart Ootes/WR Chess 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ilamparthi-wins-wr-chess-juniors-u-14-boys-and-blitz-2023",
+         "pubDate" : "Tue, 28 Feb 2023 08:49:51 +0100",
+         "title" : "Ilamparthi wins WR Chess Juniors U-14 Boys and Blitz 2023"
+      },
+      {
+         "description" : "GM Kirill Shevchenko (pictured) and WIM Miruna-Daria Lehaci are the new champions of Romania. Both won their maiden national titles. The Romanian Championships took place on February 19-26 in Sebes, and saw the triumph of young players. The open, women's and amateur sections were 9-round Swiss tournaments with classical time control. | Photos: Romanian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/romanian-chess-championships-2023",
+         "pubDate" : "Tue, 28 Feb 2023 07:45:00 +0100",
+         "title" : "Romanian Championships: Shevchenko and Lehaci win maiden titles"
+      },
+      {
          "description" : "The very competitive European Chess Championships will take place in March, with the open event set to start on March 3 in Vrnjacka Banja, Serbia. We take a brief look at the 23 years of history of the championships, which are traditionally taken very seriously by ambitious players, whose main objective often is to get a ticket to the FIDE World Cup. | Pictured: 2022 European champion Matthias Bluebaum",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1082,28 +1114,12 @@ news_feed (
          "title" : "Endgames from Munich"
       },
       {
-         "description" : "In the diagram position, White has to act quickly in the face of Black's threat e5-e4 - and in the end it will be he who triumphs on the diagonal c2-h7. Happy uncovering!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-clear-ing-case",
-         "pubDate" : "Sat, 18 Feb 2023 09:00:00 +0100",
-         "title" : "A clear(ing) case"
-      },
-      {
          "description" : "As the first week of the 2023 Pro Chess League came to a close, the Shanghai Tigers and the California Unicorns became the final teams to secure victories in their opening fixtures. The Shanghai Tigers, who fielded world number-29 GM Wei Yi as w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-1-tigers-unicorns",
          "pubDate" : "Fri, 17 Feb 2023 17:13:00 -0800",
          "title" : "Shanghai Tigers, California Unicorns Post Comfortable Wins"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov and Dommaraju Gukesh joined Wesley So and Levon Aronian in the lead of the WR Chess Masters after beating Andrey Esipenko and Praggnanandhaa in the super-tournament's second round. Abdusattorov's victory featured a demolishing attack, while Gukesh saw Pragg blundering the game away in a double-edged position. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r2",
-         "pubDate" : "Sat, 18 Feb 2023 00:20:00 +0100",
-         "title" : "WR Masters: Abdusattorov on the attack"
       },
       {
          "description" : "Four players lead the WR Chess Masters 2023 after round two with 1.5 points apiece: GMs Nodirbek Abdusattorov, Wesley So, Gukesh D,&#38;nbsp; and Levon Aronian. GM Andrey Esipenko outplayed GM Vincent Keymer on Thursday and was featured in the round...",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-four/",
          "pubDate" : "Fri, 17 Feb 2023 20:28:33 +0000",
          "title" : "A Foundation for Beginners Eighty Four"
-      },
-      {
-         "description" : "Today: Matthias Wuellenweber shows us how to use the new beauty function for ChessBase 17, so you can find the most remarkable games in chess history in no time. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-beauty-function-guide-for-chessbase-17",
-         "pubDate" : "Fri, 17 Feb 2023 19:00:00 +0100",
-         "title" : "Explained by the engineers! - The new beauty function guide for ChessBase 17"
       },
       {
          "description" : "At the risk of immediately losing some visitors to this post, I'm going to continue a recent post from my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2023/01/the-fascinating-world-of-chess960.html\">The Fascinating World of Chess960</A>(January 2023). There I wrote, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. [...] I switched to Chess.com in May 2022, playing one or (maximum) two games of correspondence chess at a time. [...] So far I've played about a dozen games on Chess.com, never once tempted to use an engine. [...] That's the background for a series of posts that I plan to write for ",
@@ -1464,14 +1472,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html",
          "pubDate" : "Mon, 13 Feb 2023 16:49:00 +0000",
          "title" : "Chessify's Other Engines"
-      },
-      {
-         "description" : "Magnus Carlsen stars for the Canada Chessbrahs as the Pro Chess League returns Tuesday, February 14 after a 3-year hiatus. The $150,000 tournament sees 16 teams battle it out over the the next five weeks before the Top 8 teams advance to playoffs. Fabiano Caruana, Hikaru Nakamura, Anish Giri and Women's World Champion Ju Wenjun are among the other players in action.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-giri-plays-for-chessbrahs-in-pro-chess-league",
-         "pubDate" : "Mon, 13 Feb 2023 15:40:39 +0000",
-         "title" : "Carlsen & Giri plays for Chessbrahs in Pro Chess League"
       },
       {
          "description" : "",
