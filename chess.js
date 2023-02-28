@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The very competitive European Chess Championships will take place in March, with the open event set to start on March 3 in Vrnjacka Banja, Serbia. We take a brief look at the 23 years of history of the championships, which are traditionally taken very seriously by ambitious players, whose main objective often is to get a ticket to the FIDE World Cup. | Pictured: 2022 European champion Matthias Bluebaum",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brief-history-european-chess-championships",
+         "pubDate" : "Tue, 28 Feb 2023 01:00:00 +0100",
+         "title" : "A brief history of the European Chess Championships"
+      },
+      {
+         "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-2nd-im-norm",
+         "pubDate" : "Mon, 27 Feb 2023 13:56:07 -0800",
+         "title" : "Brewington Hardaway Earns 2nd International Master Norm"
+      },
+      {
          "description" : "In his Endgame Magic Show #229 Karsten has the 16-year old Indian Grandmaster Leon Luke Mendonca as his guest and they will look at endgame highlights from Leon's practice. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Explained by the engineers! - The new beauty function guide for ChessBase 17"
       },
       {
-         "description" : "In his new Power Play Show, GM Daniel King tells the story of how an opening variation develops, taking as his starting point the spectacular game Giri-Gukesh, Tata Steel Masters 2023. It is interesting that since then, there have been two subsequent games that followed Giri's idea. How did Black fare? Were improvements found? Watch the show to find out! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-how-an-opening-develops",
-         "pubDate" : "Fri, 17 Feb 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: How an opening develops"
-      },
-      {
          "description" : "At the risk of immediately losing some visitors to this post, I'm going to continue a recent post from my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2023/01/the-fascinating-world-of-chess960.html\">The Fascinating World of Chess960</A>(January 2023). There I wrote, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. [...] I switched to Chess.com in May 2022, playing one or (maximum) two games of correspondence chess at a time. [...] So far I've played about a dozen games on Chess.com, never once tempted to use an engine. [...] That's the background for a series of posts that I plan to write for ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1392,14 +1400,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
          "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
          "title" : "Blunders Be Gone! | Beginner Breakdown"
-      },
-      {
-         "description" : "World number-four GM Alireza Firouzja has been mysteriously inactive in the last year with remarkably few tournament appearances. In a rare, new interview, the teenager confirmed rumors about him seeking an alternative career. Firouzja, the Iran...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-new-fashion-industry-career",
-         "pubDate" : "Tue, 14 Feb 2023 08:14:00 -0800",
-         "title" : "Firouzja: New Career In Fashion Industry Takes Time Away From Chess"
       },
       {
          "description" : "",
@@ -1736,22 +1736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/rating-games-played-abroad/",
          "pubDate" : "Tue, 07 Feb 2023 10:44:41 +0000",
          "title" : "Rating of games played abroad"
-      },
-      {
-         "description" : " From the Siles Press web site: &#8220;Silman's Chess Odyssey is International Master Jeremy Silman's homage part instruction, part history, part memoir to the game he loves. The book <a href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/02/07/silmans-chess-odyssey-cracked-grandmaster-tales-legendary-players-and-instruction-and-musings/",
-         "pubDate" : "Tue, 07 Feb 2023 00:10:37 +0000",
-         "title" : "Silman's Chess Odyssey: Cracked Grandmaster Tales, Legendary Players, and Instruction and Musings"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2218",
-         "pubDate" : "Mon, 06 Feb 2023 21:14:54 +0000",
-         "title" : "Missed opportunities in Munich"
       }
    ]
 }
