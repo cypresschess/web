@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It&#39;s just the second month of 2023, but we may have the game of the year on our hands. The following game was played by 39-year-old GM Gergely-Andras-Gyula Szabo at the Romanian Chess Championship 2023. Szabo&#39;s round-six victory over FM Nicodim-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/potential-game-of-year-romanian-championship",
+         "pubDate" : "Tue, 28 Feb 2023 08:06:44 -0800",
+         "title" : "Potential Game Of Year Played In Romanian Championship"
+      },
+      {
+         "description" : "GM Hikaru Nakamura was the convincing winner of the second edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after scoring 65 wins, four draws, and 12 losses en route to claiming the $1,000 prize for first. Familiar faces in GMs Daniel N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-february",
+         "pubDate" : "Tue, 28 Feb 2023 07:40:21 -0800",
+         "title" : "Nakamura Wins Second Bullet Brawl"
+      },
+      {
+         "description" : "The Russian Chess Federation is leaving Europe to become part of the Asian Chess Federation after 29 delegates voted in favour, with only 1 against and 6 abstentions, in today's Asian Chess Summit in Abu Dhabi. The change, clearly motivated by the consequences of Russia's invasion of Ukraine, has been described as \"scandalous\" by European Chess Union Vice President Malcolm Pein.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/asia-votes-29-1-to-admit-russian-chess-federation",
+         "pubDate" : "Tue, 28 Feb 2023 15:00:32 +0000",
+         "title" : "Asia votes 29:1 to admit Russian Chess Federation"
+      },
+      {
+         "description" : "The Chess Federation of Russia (CFR) has completed its historic switch to Asia in a move branded by the European Chess Union (ECU) as a &#34;shameful day&#34; for the game. The Asian Chess Federation (ACF) formally adopted the CFR into its ranks at a meet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russia-joins-asian-chess-federation",
+         "pubDate" : "Tue, 28 Feb 2023 06:46:00 -0800",
+         "title" : "'Shameful Day For Chess' Says European Chess Union As Russia Formally Joins Asia"
+      },
+      {
+         "description" : "Karsten Mueller released a brand new Fritztrainer a few weeks ago. For once, however, it's not about fabulous endgames, but about the basic rules of attacking play. In the interview with the German grandmaster, we see how wonderfully a good attack can be completed with the help of two examples.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-dr-karsten-mueller",
+         "pubDate" : "Tue, 28 Feb 2023 15:00:00 +0100",
+         "title" : "Interview with Dr. Karsten Mueller"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The General Assembly of the <strong>Asian Chess Federation</strong> <a href=\"https://ruchess.ru/en/news/all/cfr_becomes_member_of_asian_chess_federation/\">voted with 29:1 (6 abstentions)</a> to accept the <strong>Chess Federation of Russia</strong> as new member from 1 May. It's the first time that a sport federation of any kind changes from the European to the Asian umbrella organisation. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/russia-joins-asian-federation/",
+         "pubDate" : "Tue, 28 Feb 2023 14:48:15 +0100",
+         "title" : "Russia joins Asian Federation"
+      },
+      {
+         "description" : " The 23rd European Individual Championship takes place Friday 3rd to Monday 13th March 2023 in Vrnjacka Banja, Serbia. Leading players: Gabriel Sargissian, Haik Martirosyan , Radoslaw Wojtaszek, David Navara, Jules Moussard, Alexandr Predke, David Anton Guijarro, Andrey Esipenko, Boris Gelfand, Alexey Sarana etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-individual-championship-2023",
+         "pubDate" : "Tue, 28 Feb 2023 16:23:00 +0400",
+         "title" : "23rd European Individual Championship 2023 - Games and Results"
+      },
+      {
          "description" : "Today: Jeroen Van den Belt shows us the new menu of the 2D-Board for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1010,14 +1066,6 @@ news_feed (
          "title" : "WR Masters: Five draws, Aronian leads"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After <strong>Baadur Jobava</strong> ranted about alleged cheating during the <strong>Airthings Masters</strong> qualifier on stream, <strong>Chess.com</strong> banned him for a year from all prize money events and marked him as a racist and sexist. The platform never replied to our question if the trashtalking Georgian for whom English is only his third language had been warned. Now Jobava <a href=\"https://baadurjobava.com/statement-regarding-chess-coms-ban/\">published an apology</a> for his misplaced words and states that he was neither warned nor confronted, protesting against stating an example on him when the real problem is cheating. He had le",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/chesscom-banned-jobava-without/",
-         "pubDate" : "Sun, 19 Feb 2023 22:39:42 +0100",
-         "title" : "Chess.com banned Jobava without warning"
-      },
-      {
          "description" : "Alternate title: 'The Eyes Have It'. In last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html\">DALL-E Chess Revisited</A>(January 2023), I wondered, <BLOCKQUOTE>Am I just a sucker for AI generated chess images? </BLOCKQUOTE> <P>It appears I am. On the left is another AI image; on the right is the real deal. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb19.jpg\" WIDTH=400 HEIGHT=225><BR><B>Left:</B><A HREF=\"https://www.flickr.com/photos/87249144@N08/52678338167/\">Cat Chess</A>&#169; Flickr user <I>FolsomNatural</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <BR><B>Right:</B><A HR",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1080,14 +1128,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/",
          "pubDate" : "Sun, 19 Feb 2023 00:10:16 +0000",
          "title" : "Opening Repertoire: Black Lion"
-      },
-      {
-         "description" : "Levon Aronian is now the sole leader at the WR Chess Masters in D&uuml;sseldorf. The Armenian ace, representing the United States since 2021, defeated Nodirbek Abdusattorov from the white side of a Sicilian Dragon in a rather lopsided game. Meanwhile, in the one game of the day featuring two youngsters, Praggnanandhaa defeated Vincent Keymer, also with white. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r3",
-         "pubDate" : "Sat, 18 Feb 2023 23:35:00 +0100",
-         "title" : "WR Masters: Aronian beats Abdusattorov, leads"
       },
       {
          "description" : "For the first time, the WR Chess Masters 2023 has a sole leader. GM Levon Aronian is in first place after round three following a smooth win against GM Nodirbek Abdusattorov. GMs Wesley So and Gukesh D, who made a draw in their game, are a half-po...",
@@ -1306,22 +1346,6 @@ news_feed (
          "title" : "Gnomes Win 'One Of The Craziest' Turnarounds, Wizards Conjure Match Win"
       },
       {
-         "description" : "GM Alejandro Ramirez is currently under investigation by US Chess and the Saint Louis Chess Club for sexual misconduct. In a tweet on Wednesday, WGM Jennifer Shahade claims to have been assaulted twice by Ramirez and also that she saw &#34;alarming ev...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alejandro-ramirez-under-investigation-for-sexual-misconduct",
-         "pubDate" : "Wed, 15 Feb 2023 12:17:00 -0800",
-         "title" : "Alejandro Ramirez Under Investigation For Sexual Misconduct"
-      },
-      {
-         "description" : "For the second straight week, there was only one first-place finisher in the week&#39;s two Titled Tuesday events. And for the fifth time out of six total, it was GM Hikaru Nakamura who accomplished the feat. Nakamura didn&#39;t even need tiebreak scoring...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-february-14-2023",
-         "pubDate" : "Wed, 15 Feb 2023 08:51:11 -0800",
-         "title" : "Nakamura With Another Titled Tuesday Sweep"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1346,14 +1370,6 @@ news_feed (
          "title" : "FIDE joins the Sport Integrity Global Alliance"
       },
       {
-         "description" : "Magnus Carlsen scored 4/4 as the Canada Chessbrahs defeated the Charlotte Cobras 8.5:7.5 in Week 1 of the 2023 Pro Chess League, but only after a thrilling finale where Magnus came back from the dead to beat Awonder Liang. In the day's other match Vidit and Vaishali led the Indian Yogis to an 8.5:3.5 win over the Brazil Capybaras.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-swindle-gives-chessbrahs-pro-chess-league-win",
-         "pubDate" : "Wed, 15 Feb 2023 10:50:16 +0000",
-         "title" : "Carlsen swindle gives Chessbrahs Pro Chess League win"
-      },
-      {
          "description" : "The European Chess Union opens the bidding procedure for the organisation of&#160;the official European Chess Championships in 2023, 2024 &#38; 2025. The bids must be submitted exclusively in the Bid form regulated by the ECU (can be downloaded below). For any additional documents delivered separately from the bid form, it must be stated in the bid form what&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1368,14 +1384,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
          "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
-      },
-      {
-         "description" : "The Pro Chess League 2023 started with a bang on Tuesday with two high-octane matchups that resulted in convincing wins for the prodigious Indian Yogis and the GM Magnus Carlsen-led Canada Chessbrahs. The Yogis kicked off their campaign in the b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-chessbrahs-yogis",
-         "pubDate" : "Tue, 14 Feb 2023 17:05:00 -0800",
-         "title" : "Carlsen Swindles For Chessbrah Victory, Indian Yogis Dominate Brazil Capybaras"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng outlines how to handle the must-win tournament situation. 2023.02.14<br /> Nikhil Kumar vs. Josh Sheng, 2021: D05 Queen&#039;s pawn game, Zukertort variation<br /> Gauri Shankar vs. Sheng, 2021: A07 Reti, King&#039;s Indian attack (Barcza system)<br /> Daniel Naroditsky vs. Sheng, 2022: B42 Sicilian, Kan, Polugaievsky variation<br /> <a href=\"https://lichess.org/broadcast/us-open-championship-and-invitationals-2022/round-15/OlzI1ODw\">https://lichess.org/broadcast/us-open-championship-and-invitationals-202...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
@@ -1712,22 +1720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2220",
          "pubDate" : "Tue, 07 Feb 2023 17:07:09 +0000",
          "title" : "Chess for Freedom in Serbia: From DIY chess set to gold medals at intercontinental championship"
-      },
-      {
-         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Last week <a href=\"https://chessimprover.com/carbon-versus-silicon-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-3/\">Carbon versus Silicon (3)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/carbon-versus-silicon-3/",
-         "pubDate" : "Tue, 07 Feb 2023 16:10:28 +0000",
-         "title" : "Carbon versus Silicon (3)"
-      },
-      {
-         "description" : " If you are a Netflix subscriber, then here is something that may be of interest. The series 'Explained' consists of a number of short (25 minutes) documentaries, covering various topics. One of the topics covered in the 3rd series is Chess. Narrated by Rainn Wilson (actor, chess player, and sometime streamer), it provides a good overview of how chess is played, what makes it interesting, and why it is important. A mixture of archival footage and modern interview, it does quite a good job of introducing chess to the viewer, with the time it has available. One of the 'hooks' it uses is the Lasker v Thomas game played in 1912, going over the moves of that game, while talking about other aspect",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/explained-chess.html",
-         "pubDate" : "Tue, 07 Feb 2023 12:38:00 +0000",
-         "title" : "Explained - Chess"
       }
    ]
 }
