@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-wgm-tatev-abrahamyan-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-wgm-tatev-abrahamyan-lichessorg",
+         "pubDate" : "Tue, 28 Feb 2023 17:47:56 +0000",
+         "title" : "Grandmaster's Choice - WGM Tatev Abrahamyan | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2260",
+         "pubDate" : "Tue, 28 Feb 2023 17:06:15 +0000",
+         "title" : "FIDE Circuit Leaderboard: Wesley So takes the lead"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Schachgipfel</strong>, an annual festival of German Individual Championships, <a href=\"https://www.schachbund.de/news/deutscher-schachgipfel-2023-abgesagt.html\">cannot take place</a> in Braunschweig in July as planned. The originally positive city has rejected to contribute any subsidies after <a href=\"https://perlenvombodensee.de/2023/02/24/der-deutsche-schachbund-ist-pleite/\">financial irregularities</a> in the <strong>German Chess Federation</strong> have <a href=\"https://www.schachbund.de/news/haushaltszahlen-2022-2023-deutlich-schlechter-als-erwartet.html\">become public</a>, and the regional <strong>Lower Saxony Chess Federation</st",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/financial-turmoil-leads-to/",
+         "pubDate" : "Tue, 28 Feb 2023 17:12:00 +0100",
+         "title" : "German championships canceled"
+      },
+      {
          "description" : "It&#39;s just the second month of 2023, but we may have the game of the year on our hands. The following game was played by 39-year-old GM Gergely-Andras-Gyula Szabo at the Romanian Chess Championship 2023. Szabo&#39;s round-six victory over FM Nicodim-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "Alexandr Fier wins Marcel Duchamp Cup in Montevideo"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When <strong>Jennifer Shahade</strong> learned of other women and girls that have allegedly been sexually assaulted by GM and commentator <strong>Alejandro Ramirez</strong> <a href=\"https://www.stltoday.com/news/local/crime-and-courts/slu-chess-coach-a-local-grandmaster-is-accused-of-sexual-assault-and-harassment/article_e2386612-48a4-5f0b-9987-bb52dc07ee21.html\">she reported her own cases</a> from 2012 and 2014 to the <strong>Saint Louis Chess Club</strong> and <strong>US Chess</strong> last autumn. Since she made the ongoing investigations by Ramirez' employers public in <a href=\"https://twitter.com/JenShahade/status/1625873098581983232\">a tweet s",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/shahade-outed-ramirez-investigation/",
-         "pubDate" : "Mon, 20 Feb 2023 08:40:17 +0100",
-         "title" : "Shahade outed Ramirez investigation to find more victims"
-      },
-      {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1704,22 +1720,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown",
          "pubDate" : "Wed, 08 Feb 2023 02:28:08 +0000",
          "title" : "Hone Your Tactical Radar | Beginner Breakdown"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng examines the process of decision-making in unfamiliar opening positions. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2JXJGdecvNw.jpg?itok=6r6SlF1Y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-opening-decision-making-grandmasters-choice-gm-josh-sheng",
-         "pubDate" : "Tue, 07 Feb 2023 17:28:01 +0000",
-         "title" : "Chess Opening Decision-Making | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2220",
-         "pubDate" : "Tue, 07 Feb 2023 17:07:09 +0000",
-         "title" : "Chess for Freedom in Serbia: From DIY chess set to gold medals at intercontinental championship"
       }
    ]
 }
