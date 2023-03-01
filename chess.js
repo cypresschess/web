@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the nearly 180 Titled Tuesdays since the event moved to 11 rounds on October 20, 2020, GM Hikaru Nakamura has now won 50, a ridiculous percentage of nearly 30% despite hundreds of participants gunning for first place in every tournament. His vi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/matlakov-nakamura-win-titled-tuesday-february-28-2023",
+         "pubDate" : "Wed, 01 Mar 2023 07:26:24 -0800",
+         "title" : "Nakamura Wins 50th Titled Tuesday Of 11-Round Era"
+      },
+      {
+         "description" : "Some of the top players and top youngsters were active in February, so there was some movement in the world rankings. Among the top players, Levon Aronian recorded the biggest gain; among the top youngsters, it was Gukesh. Ian Nepomniachtchi is the second highest-rated player in the world, albeit still below the 2800-mark. Ranked second and third, Ding Liren and Alireza Firouzja, did not play any rated games in February.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-march-2023",
+         "pubDate" : "Wed, 01 Mar 2023 16:00:00 +0100",
+         "title" : "FIDE ratings March 2023"
+      },
+      {
+         "description" : "The 23rd edition of the European Individual Chess Championship 2023 takes place from the 2nd-14th of March in Hotel Zepter Vrnjacka Banja, Serbia. The event broke the participation record with more than 490 players coming from 40 European federations. The event includes 48 players rated 2600+, 128 Grandmasters, 105 International masters, and a total of 379 titled players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/",
+         "pubDate" : "Wed, 01 Mar 2023 14:19:15 +0000",
+         "title" : "European Individual Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
+      },
+      {
+         "description" : "Tata Steel 2023: The tournament winner of the Masters, Anish Giri, comments on his best games as well as Jorden van Foreest, Praggnanandhaa and many more. In addition, video analyses by Dorian Rogozenco - \"Special\" on Anthony Miles: exclusive collection of 21 commented games + contributions on strategy and endgame - \"English for Attackers\": Alexey Kuzmin shows the highly topical gambit 1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 c6!? - \"Theory Update from Wijk aan Zee I\": Rustam Kasimdzhanov brings Spanish with 8.a4 b4 9.a5 up to date - Endgame series \"Fundamental Endgame Knowledge\" Part 2: Learn the most important rules and techniques in the ending Rook + Pawn vs. Rook from Dr. Karsten Mueller and muc",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-212",
+         "pubDate" : "Wed, 01 Mar 2023 15:00:00 +0100",
+         "title" : "NEW: ChessBase Magazine #212"
+      },
+      {
+         "description" : "16-year-old Indian prodigy Gukesh is back at a career high world no. 18 on the March 2023 FIDE rating list after gaining 12 points in the recent WR Chess Masters. The winner, Levon Aronian, is up to world no. 12, while Sergey Karjakin is no longer in the world top 10 after failing to play a classical game in the last year.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/march-fide-ratings-gukesh-aronian-climb-karjakin-out",
+         "pubDate" : "Wed, 01 Mar 2023 13:44:15 +0000",
+         "title" : "March 2023 FIDE Ratings: Gukesh & Aronian rise, Karjakin out"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2261",
+         "pubDate" : "Wed, 01 Mar 2023 12:30:20 +0000",
+         "title" : "Solvers' dilemma: Netherlands or Poland?"
+      },
+      {
          "description" : "Indian Chess School on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Maharashtra Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1146,14 +1194,6 @@ news_feed (
          "title" : "Ukrainian Sunday at the WR Chess Masters"
       },
       {
-         "description" : "Uruguay has once again hosted a strong chess tournament, as the sixth edition of the Marcel Duchamp Cup 2023 took place on February 3-11 in Montevideo. After nine intense rounds of competition, GM Alexandr Fier emerged as the champion with an impressive 7&frac12;/9 score. The victory cements Fier's place as one of the top players in the region. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexandr-fier-wins-marcel-duchamp-cup-2023",
-         "pubDate" : "Mon, 20 Feb 2023 09:17:47 +0100",
-         "title" : "Alexandr Fier wins Marcel Duchamp Cup in Montevideo"
-      },
-      {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1168,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2243",
          "pubDate" : "Mon, 20 Feb 2023 01:25:56 +0000",
          "title" : "WR Chess Masters, Round 4: Burned bridges and kicked down doors"
-      },
-      {
-         "description" : "Levon Aronian continues to lead the standings at the WR Chess Masters, as all five games ended drawn in Sunday's fourth round. A few of the encounters featured double-edged openings, but accurate defensive responses prevented any of them from finishing decisively. Monday is a rest day in D&uuml;sseldorf. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r4",
-         "pubDate" : "Sun, 19 Feb 2023 23:00:00 +0100",
-         "title" : "WR Masters: Five draws, Aronian leads"
       },
       {
          "description" : "Alternate title: 'The Eyes Have It'. In last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html\">DALL-E Chess Revisited</A>(January 2023), I wondered, <BLOCKQUOTE>Am I just a sucker for AI generated chess images? </BLOCKQUOTE> <P>It appears I am. On the left is another AI image; on the right is the real deal. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb19.jpg\" WIDTH=400 HEIGHT=225><BR><B>Left:</B><A HREF=\"https://www.flickr.com/photos/87249144@N08/52678338167/\">Cat Chess</A>&#169; Flickr user <I>FolsomNatural</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <BR><B>Right:</B><A HR",
@@ -1322,14 +1354,6 @@ news_feed (
          "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
       },
       {
-         "description" : "The first round of the inaugural WR Chess Masters 2023 in Duesseldorf, Germany, started with a bang, when American GMs Wesley So and Levon Aronian both picked up wins in the first game. They were accompanied by Russian GM Andrey Esipenko who took ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-1",
-         "pubDate" : "Fri, 17 Feb 2023 06:48:00 -0800",
-         "title" : "Tactics, Traps, Tricks at WR Masters"
-      },
-      {
          "description" : "Airport Authority of India retained the title in both open and women section of the National Team Chess Championship, organized by Dr. Mahalingam College of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1408,14 +1432,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-oceania-junior-and-youth.html",
          "pubDate" : "Thu, 16 Feb 2023 12:37:00 +0000",
          "title" : "2023 Oceania Junior and Youth Championship"
-      },
-      {
-         "description" : "World no. 2 Ian Nepomniachtchi will get a chance to warm-up for the World Championship match as a new classical supertournament, the WR Chess Masters, starts in Dusseldorf, Germany today. He'll face Tata Steel Masters winner Anish Giri, runner-up Nodirbek Abdusattorov, and the same army of kids that didn't quite dominate in Wijk aan Zee.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-kicks-off-in-dusseldorf",
-         "pubDate" : "Thu, 16 Feb 2023 12:32:05 +0000",
-         "title" : "WR Chess Masters kicks off in Dusseldorf"
       },
       {
          "description" : "",
