@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most brilliant chess minds in history has reactivated his Twitch channel. Vasyl Ivanchuk launched his streaming career last year, and has recently increased the number of videos uploaded. The Ukrainian genius will be playing the European Championship starting Friday, but before that, he has shared a bit of his encyclopaedic knowledge with us. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivanchuk-streaming-2023",
+         "pubDate" : "Wed, 01 Mar 2023 01:00:00 +0100",
+         "title" : "Learning from the best: Ivanchuk ups streaming game"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan",
+         "pubDate" : "Tue, 28 Feb 2023 23:48:22 +0000",
+         "title" : "Attacking Games in the Sicilian | Grandmaster's Choice - WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. It&#039;s Chess 101, so pay attention and let&#039;s have some fun! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/basic-checkmates-breakdown-beginner-breakdown",
+         "pubDate" : "Tue, 28 Feb 2023 23:48:22 +0000",
+         "title" : "Basic Checkmates Breakdown! | Beginner Breakdown"
+      },
+      {
+         "description" : "The Norway Gnomes and Spanish Maniac Shrimps defeated the Brazil Capybaras and Charlotte Cobras, respectively, to kick off week three in the Pro Chess League. The Norway Gnomes pulled off a shocking comeback after losing the first two rounds of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-gnomes-shrimps",
+         "pubDate" : "Tue, 28 Feb 2023 14:19:00 -0800",
+         "title" : "Norway Gnomes Recover To Steal Match Win, Spanish Maniac Shrimps Run Riot"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. It&#039;s Chess 101, so pay attention and let&#039;s have some fun! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/basic-checkmates-breakdown-beginner-breakdown-lichessorg",
+         "pubDate" : "Tue, 28 Feb 2023 20:47:55 +0000",
+         "title" : "Basic Checkmates Breakdown! | Beginner Breakdown | lichess.org"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-wgm-tatev-abrahamyan-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1114,14 +1154,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination at Udaipur"
       },
       {
-         "description" : "It was in May 2016 that I launched this column, initially as an Agony Column in which readers could showcase their triumphs and disasters, and today I'm returning to the roots with a couple of my own games. Of course, I care very much when I'm playing, but 'agony' and 'ecstasy' are too strong for the emotions that chess normally engenders in me nowadays, and I've gone for 'fairly gentle pleasure' at victory and 'mild to medium irritation' at defeat. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-188",
-         "pubDate" : "Sun, 19 Feb 2023 10:30:00 +0100",
-         "title" : "Some fairly gentle pleasure and mild to medium irritation"
-      },
-      {
          "description" : "Levon Aronian cut Nodirbek Abdusattorov's stay in the Top 15 short as he outplayed his young opponent in the Sicilian Dragon to take the sole lead after Round 3 of the WR Chess Masters. The day's only other win came for Praggnanandhaa, who bounced back from two defeats to leapfrog Vincent Keymer out of last place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1354,14 +1386,6 @@ news_feed (
          "title" : "WR Chess Masters kicks off in Dusseldorf"
       },
       {
-         "description" : "The Pro Chess League returned on Wednesday with two thrilling matchups which the Levitov Chess Wizards and the Norway Gnomes won in contrasting styles. The number-one seed by average rating, the Wizards put on a strong performance against the Ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-wizards-gnomes",
-         "pubDate" : "Wed, 15 Feb 2023 17:59:00 -0800",
-         "title" : "Gnomes Win 'One Of The Craziest' Turnarounds, Wizards Conjure Match Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,14 +1496,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/pro-chess-league-2023",
          "pubDate" : "Tue, 14 Feb 2023 16:22:00 +0400",
          "title" : "PRO Chess League 2023 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Arch Bishops field Leinier Dominguez, Benjamin Bok, Nikolas Theodorou, &amp; Alice Lee against the Shanghai Tigers&#039; Wei Yi, Ju Wenjun, Yi Xu, &amp; Lou Yiping in Week 1! Four rounds, each player competes against all opponents, G/10+2. First team to score 8.5 wins the match. Join WGM Nemo &amp; Jonathan Schrantz for the move-by-move. 2023.02.17<br /> PROChessLeague.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-arch-bishops-vs-s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-arch-bishops-vs-shanghai-tigers-2023-pro-chess-league-week-1",
-         "pubDate" : "Mon, 13 Feb 2023 20:34:06 +0000",
-         "title" : "Saint Louis Arch Bishops vs. Shanghai Tigers | 2023 PRO Chess League Week 1"
       },
       {
          "description" : " Chess Heroes: Checkmates (slightly retitled from Checkmates for Heroes) is now available on Amazon. This is the first of a series of four parallel books (the others feature tactics, openings and endings) designed to take readers or students from about 500 to 1500 strength. For social players (adult or junior) who would like to be <a href=\"https://chessimprover.com/chess-heroes-checkmates/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Checkmates\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-checkmates/\">Chess Heroes: Checkmates</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
@@ -1674,14 +1690,6 @@ news_feed (
          "title" : "FIDE distributes €30,000 among chess veterans"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng demonstrates how to bust through Black's notorious Berlin defense. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-berlin-prepare-pro-gm-josh-sheng\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5qWHAIV2kmM.jpg?itok=uZ1x-Rkg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/breaking-berlin-prepare-pro-gm-josh-sheng",
-         "pubDate" : "Thu, 09 Feb 2023 02:29:21 +0000",
-         "title" : "Breaking the Berlin | Prepare Like A Pro - GM Josh Sheng"
-      },
-      {
          "description" : " Here is the publishers blurb from the rear cover: &#8220;The Barry Attack is a highly aggressive system that arises after 1 d4 Nf6 2 Nf3 g6 3 Nc3 d5 4 <a href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Barry Attack</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\">Play the Barry Attack</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
          "pubDate" : "Wed, 08 Feb 2023 09:00:40 +0000",
          "title" : "International Junior tournaments - updated 8/2/23"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class on identifying tactics, using Emmanuel Neiman's book \"Tune Your Chess Tactics Antenna.\" Learn Neiman's seven signals. BUY THE BOOK: <a href=\"https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049\">https://www.amazon.com/Tune-Your-Chess-Tactics-Antenna/dp/9056914049</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hone-your-tactical-radar-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sit",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hone-your-tactical-radar-beginner-breakdown",
-         "pubDate" : "Wed, 08 Feb 2023 02:28:08 +0000",
-         "title" : "Hone Your Tactical Radar | Beginner Breakdown"
       }
    ]
 }
