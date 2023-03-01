@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Indian Chess School on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Maharashtra Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-mumbai-from-25-to-26-february-2023final-report/",
+         "pubDate" : "Wed, 01 Mar 2023 11:54:19 +0000",
+         "title" : "Senior National Arbiter Seminar and Examination, Mumbai from 25 to 26 February 2023:Final Report"
+      },
+      {
+         "description" : "The Chessemy Open 2023 will take place as an A-Open (from 1800 ELO or on application) and B-Open (up to 1900 ELO) from&#xA0;March 4th to 12th, 2023&#xA0;at the&#xA0;Hotel Forellenhof Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessemy-open-b-open-2023/",
+         "pubDate" : "Wed, 01 Mar 2023 09:24:07 +0000",
+         "title" : "Chessemy Open B-Open 2023"
+      },
+      {
+         "description" : "The Chessemy Open B-Open 2023 is taking place from 4&#x2013;12 March 2023 in Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lothar Cordes, Carsten Goes, Christopher Steuer, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessemy-open-b-open-2023-live/",
+         "pubDate" : "Wed, 01 Mar 2023 09:16:28 +0000",
+         "title" : "Chessemy Open B-Open 2023 - Live"
+      },
+      {
+         "description" : "The chessemy Open A-Open 2023 is taking place from 4&#x2013;12 March 2023 in Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Harsha Bharathakoti, Diptayan Ghosh, Vladimir Baklan, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessemy-open-a-open-2023-live/",
+         "pubDate" : "Wed, 01 Mar 2023 09:09:04 +0000",
+         "title" : "Chessemy Open A-Open 2023 - LIVE"
+      },
+      {
+         "description" : "The chessemy Open 2023 will take place as an A-Open (from 1800 ELO or on application) and B-Open (up to 1900 ELO) from&#xA0;March 4th to 12th, 2023&#xA0;at the&#xA0;Hotel Forellenhof Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessemy-open-2023-2/",
+         "pubDate" : "Wed, 01 Mar 2023 09:04:03 +0000",
+         "title" : "Chessemy Open A-Open 2023"
+      },
+      {
          "description" : "ECU Board has earlier announced the distribution of qualification spots for the FIDE World Cup 2023 from the following events: European Individual Chess Championship 2021, Reykjavic, Iceland (23 qualification spots the list of qualifiers can be found below) European Individual Chess Championship 2022, Terme Catez, Slovenia (20 qualification spots the list of qualifiers can be found&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -141,9 +181,9 @@ news_feed (
          "description" : "Karsten Mueller released a brand new Fritztrainer a few weeks ago. For once, however, it's not about fabulous endgames, but about the basic rules of attacking play. In the interview with the German grandmaster, we see how wonderfully a good attack can be completed with the help of two examples.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-dr-karsten-mueller",
+         "link" : "https://en.chessbase.com/post/basic-rules-of-attacking-play-with-dr-karsten-mueller",
          "pubDate" : "Tue, 28 Feb 2023 15:00:00 +0100",
-         "title" : "Interview with Dr. Karsten Mueller"
+         "title" : "Basic rules of attacking play with Dr. Karsten Mueller"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The General Assembly of the <strong>Asian Chess Federation</strong> <a href=\"https://ruchess.ru/en/news/all/cfr_becomes_member_of_asian_chess_federation/\">voted with 29:1 (6 abstentions)</a> to accept the <strong>Chess Federation of Russia</strong> as new member from 1 May. It's the first time that a sport federation of any kind changes from the European to the Asian umbrella organisation. </div> ",
@@ -256,6 +296,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-229-indian-talent-leon-luke-mendonca-shows-endgame-highlights-from-his-games",
          "pubDate" : "Mon, 27 Feb 2023 18:00:00 +0100",
          "title" : "Endgame Magic #229: Indian talent Leon Luke Mendonca shows endgame highlights from his games"
+      },
+      {
+         "description" : "Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. The most recent post in the series was <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html\">Chessify's Other Engines</A>(February 2023). Are there any alternatives? <P>Chessify answered that question in <A HREF=\"https://chessify.me/blog/why-the-cloud-servers-for-chess-engines-worth-it-what-options-you-have\">Why the Cloud Servers for Chess Engines [Are] Worth it & What Options You Have</A>(chessify.me/blog):- <BLOCKQUOTE>Main options for cloud chess engines &#149; Where can you find these servers to r",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html",
+         "pubDate" : "Mon, 27 Feb 2023 16:08:00 +0000",
+         "title" : "Chessify vs. Chessbase Engine Cloud"
       },
       {
          "description" : "We have reported extensively on the WR Chess Masters 2023, which ended on Sunday in D&uuml;sseldorf, Germany. Today we bring you unique impressions of the opinions and mood of the participants on the final days of this wonderful event. They were recorded by IM Sagar Shah, who runs ChessBase India and one of the biggest video chess portals in the world. Just sit back and enjoy.",
@@ -522,30 +570,6 @@ news_feed (
          "title" : "WR Masters: Keymer beats So"
       },
       {
-         "description" : "The 1000GM Los Angeles IM 2 Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Fidel Corrales Jimenez, Jacek Stopa, Raffi Ghazaryan, Ruiyang Yan, Alexandre Kretchetov, Michael Casella, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-los-angeles-im-2-2023-live/",
-         "pubDate" : "Sat, 25 Feb 2023 07:50:49 +0000",
-         "title" : "1000GM Los Angeles IM 2 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM Los Angeles IM 1 Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Gabor Nagy, Harshit Raja, Andy Lin, David Berczes, Julian Proleiko, FIDhaan Mahajan, Thalia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-los-angeles-im-1-2023-live/",
-         "pubDate" : "Sat, 25 Feb 2023 07:45:50 +0000",
-         "title" : "1000GM Los Angeles IM 1 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM Los Angeles GM Norm 2023 takes place February 22-26, 2023, in Los Angeles, United States. The time control is 90 minutes plus a 30-second increment starting on move one. The format is a 12-player Schiller System with participation of Arman Mikaelyan, Josiah Stearman, Justin Wang, Robby Kevlishvili, Mark Heimann, Joseph Levine, Luka Budisavljevic, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-los-angeles-gm-2023-live/",
-         "pubDate" : "Sat, 25 Feb 2023 07:40:20 +0000",
-         "title" : "1000GM Los Angeles GM 2023 - LIVE"
-      },
-      {
          "description" : "In the year 2023, names like Praggnanandhaa, Keymer, Abdusattarov, and Esipenko are common to every chess fan. A couple of years ago, only the chess specialists knew them from the top 100 junior FIDE list. Svitlana's prepared some nice analysis for us of the WR Chess Masters Tournament, with unexpected twists and tactical turns!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2251",
          "pubDate" : "Fri, 24 Feb 2023 14:04:14 +0000",
          "title" : "Wissmann wins in Finland, solvers move to Poland and Netherlands"
-      },
-      {
-         "description" : "In yesterday's round-seven game against Ian Nepomniachtchi, Levon Aronian made a wrong threefold repetition claim. At the 20th move, the players started repeating moves, but Aronian called an arbiter to claim a draw too early. The position was repeated only twice. While Nepo moved away from the board, the arbiter ordered the game to continue. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-makes-the-wrong-claim-of-the-threefold-repetition-tweetoftheday/",
-         "pubDate" : "Fri, 24 Feb 2023 11:45:10 +0000",
-         "title" : "Levon Aronian makes the wrong claim of the threefold repetition #TweetOftheDay"
       },
       {
          "description" : "",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination at Indore"
       },
       {
-         "description" : "Appended below find the list of Arbiters for refresher course. You are requested to check correctness of the data and inform us by email (aicfarbiterscommission@gmail.com)",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/urgent-attention-arbiters-refresher-course/",
-         "pubDate" : "Fri, 17 Feb 2023 08:55:01 +0000",
-         "title" : "Urgent Attention : Arbiter's Refresher Course"
-      },
-      {
          "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1728,22 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2221",
          "pubDate" : "Wed, 08 Feb 2023 23:22:39 +0000",
          "title" : "WGP Munich: Six draws in Round 6"
-      },
-      {
-         "description" : " Amongst the Vimeo-on-demand titles I've brought out recently, some of them are devoted to learning from great players. One of my main areas of study during my early years was to play through the games collections of particular players, two of my favourites being Akiba Rubinstein and Mikhail Botvinnik. I would often do this as <a href=\"https://chessimprover.com/learning-from-the-greats/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Learning from the Greats\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/learning-from-the-greats/\">Learning from the Greats</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver<",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/learning-from-the-greats/",
-         "pubDate" : "Wed, 08 Feb 2023 11:00:14 +0000",
-         "title" : "Learning from the Greats"
-      },
-      {
-         "description" : "The English Chess Federation is inviting juniors to register for the following two tournaments &#8212; World Schools Championship 13-23 April in Rhodes, Greece [click...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/international-junior-tournaments/",
-         "pubDate" : "Wed, 08 Feb 2023 09:00:40 +0000",
-         "title" : "International Junior tournaments - updated 8/2/23"
       }
    ]
 }
