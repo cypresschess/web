@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU Board has earlier announced the distribution of qualification spots for the FIDE World Cup 2023 from the following events: European Individual Chess Championship 2021, Reykjavic, Iceland (23 qualification spots the list of qualifiers can be found below) European Individual Chess Championship 2022, Terme Catez, Slovenia (20 qualification spots the list of qualifiers can be found&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/",
+         "pubDate" : "Wed, 01 Mar 2023 07:35:25 +0000",
+         "title" : "Current list of Qualifiers for FIDE World Cup 2023"
+      },
+      {
+         "description" : "It&#39;s Women&#39;s History Month, a time to honor the contributions of women throughout history and their ongoing struggle for equality. To celebrate the occasion, you can now play chess against some of the women who fought for a better and more equitab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/womens-history-month-bots",
+         "pubDate" : "Tue, 28 Feb 2023 23:26:00 -0800",
+         "title" : "Celebrate Women's History Month With The New Bots"
+      },
+      {
+         "description" : "The newly created FIDE Circuit Leaderboard tracks players' performances in a number of eligible tournaments. At the end of the year, the top-rated player will get a spot in the 2024 Candidates Tournament. After obtaining two solid results at the Tata Steel Masters and the WR Chess Masters, Wesley So climbed to first place in this month's list. Anish Giri and Levon stand second and third respectively. | Photo: Lennart Ootes / WR Chess Masters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-circuit-leaderboard-february-2023",
+         "pubDate" : "Wed, 01 Mar 2023 08:00:00 +0100",
+         "title" : "FIDE Circuit Leaderboard: Wesley So takes the lead"
+      },
+      {
+         "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/russia-moves-to-asia.html",
+         "pubDate" : "Wed, 01 Mar 2023 05:05:00 +0000",
+         "title" : "Russia moves to Asia"
+      },
+      {
+         "description" : " Just one month ago, we announced Brewington Hardaway's 1st norm for the International Master title. Well he has earned a second and will need to earn a norm in a Swiss format. This is a new regulation to reduce the chances of earning norms in unethical ways. FM Brewington HardawayPhoto courtesy of Hardaway Family &#8220;Brew&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/\">2nd IM norm for Brewington Hardaway!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/",
+         "pubDate" : "Wed, 01 Mar 2023 04:50:40 +0000",
+         "title" : "2nd IM norm for Brewington Hardaway!"
+      },
+      {
          "description" : "One of the most brilliant chess minds in history has reactivated his Twitch channel. Vasyl Ivanchuk launched his streaming career last year, and has recently increased the number of videos uploaded. The Ukrainian genius will be playing the European Championship starting Friday, but before that, he has shared a bit of his encyclopaedic knowledge with us. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1130,14 +1170,6 @@ news_feed (
          "title" : "Catsparov Chess"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 113th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-113-play-the-sicilian-14",
-         "pubDate" : "Sun, 19 Feb 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 113: Play the Sicilian (14)"
-      },
-      {
          "description" : " One of the tasks attached to my role as FIDE Qualification Secretary is to answer requests and comments concerning the FIDE Rating System. Sometime these are technical questions (eg \"Why wasn't tournament X rated?\") but some are to do with the operation of the rating system itself. Without delving into details, the topic of 'underrated' players has come up. It turns out that this is a familiar topic to me, as when I was the Australian Ratings Officer way back in late 1980's, this was something I also dealt with on a regular basis. What hasn't happened over the past 35 years is a solution that makes everyone happy (that is also statistically sound). One of the arguments about how the rating ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1344,14 +1376,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
          "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
          "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
-      },
-      {
-         "description" : "Two teams, Blitz and the Gotham Knights, emerged triumphant on Thursday in the Pro Chess League after wins against Team MGD1 and the Berlin Bears, respectively. Both matches featured seismic comebacks for the favorites after tough starts. Despit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-blitz-gotham-knights",
-         "pubDate" : "Thu, 16 Feb 2023 14:05:00 -0800",
-         "title" : "Blitz Flips Script In Tiebreaks, Gotham Knights Dominate After Shocking Upset"
       },
       {
          "description" : "",
