@@ -10,7 +10,7 @@ news_feed (
          "title" : "Learning from the best: Ivanchuk ups streaming game"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan",
@@ -18,7 +18,7 @@ news_feed (
          "title" : "Attacking Games in the Sicilian | Grandmaster's Choice - WGM Tatev Abrahamyan"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. It&#039;s Chess 101, so pay attention and let&#039;s have some fun! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. Learn easy methods to checkmate with two rooks, one queen, one rook, two bishops, and more! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/basic-checkmates-breakdown-beginner-breakdown",
