@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A year into Russia's invasion of Ukraine, the Berlin Chess Federation organized an event to mark its support for the Ukrainian people. First, a simultaneous exhibition was given by Ukrainian grandmaster Zahar Efimenko. Then, an international panel discussed the consequences of the war for the chess world. Paul Meyer-Dunker reports. | Photos: Berlin Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-berlin-solidary-simul-for-ukraine",
+         "pubDate" : "Wed, 01 Mar 2023 19:15:00 +0100",
+         "title" : "In Berlin: Solidary simul for Ukraine"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2262",
+         "pubDate" : "Wed, 01 Mar 2023 17:28:46 +0000",
+         "title" : "FIDE March 2023 rating list published"
+      },
+      {
          "description" : "In the nearly 180 Titled Tuesdays since the event moved to 11 rounds on October 20, 2020, GM Hikaru Nakamura has now won 50, a ridiculous percentage of nearly 30% despite hundreds of participants gunning for first place in every tournament. His vi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -198,7 +214,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/potential-game-of-year-romanian-championship",
-         "pubDate" : "Tue, 28 Feb 2023 08:06:44 -0800",
+         "pubDate" : "Tue, 28 Feb 2023 08:06:00 -0800",
          "title" : "Potential Game Of Year Played In Romanian Championship"
       },
       {
@@ -1184,14 +1200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/play-game-watch-movie.html",
          "pubDate" : "Mon, 20 Feb 2023 11:38:00 +0000",
          "title" : "Play the game, watch the movie"
-      },
-      {
-         "description" : "On Sunday, it was Ukranian day at the WR Chess Masters in D&uuml;sseldorf. Six young Ukrainians, who attended the fourth round of the super tournament at the invitation of organizer Vadim Rosenstein, enjoyed the opportunity to meet the participants of the WR Chess Masters. All six come from refugee families who arrived in the Rhineland in the spring of 2022 after the Russian invasion of Ukraine. | Photo: Tournament host Wadim Rosenstein, Tournament Director Sebastian Siebrecht and Event Manager Anastasiya Karlovych with some of the participants, each of whom received a price. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ukrainian-sunday-at-the-wr-chess-masters",
-         "pubDate" : "Mon, 20 Feb 2023 10:16:20 +0100",
-         "title" : "Ukrainian Sunday at the WR Chess Masters"
       },
       {
          "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
