@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-02-07  - 02-28","22","<a href=http://www.uschess.org/msa/XtblMain.php?202302289742 target='_blank'>FEB 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-02-06  - 02-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202302279992 target='_blank'>CLCC FEBRUARY MONDAYS</a>",
 "HOUSTON","2023-02-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202302267962 target='_blank'>FEB 26 SUNDAY SWISS</a>",
 "SPRING","2023-02-24","34","<a href=http://www.uschess.org/msa/XtblMain.php?202302246662 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "MISSOURI CITY","2022-07-19","12","<a href=http://www.uschess.org/msa/XtblMain.php?202207191622 target='_blank'>RCC QUADS JULY 19 2022</a>",
 "HOUSTON","2022-07-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207170862 target='_blank'>JULY 17 SUN SWISS</a>",
 "HOUSTON","2022-07-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207169092 target='_blank'>PISD JULY 2022- OLDER</a>",
-"SUGAR LAND","2022-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207159862 target='_blank'>FBCC JULY 15 , 2022</a>",
 ]);
