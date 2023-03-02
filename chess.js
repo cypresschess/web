@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Festival di Primavera 2023 is going to take place from 15-19 March in Bassano del Grappa, Italy.&#xA0;Players receive 90 minutes for play plus a 30-second increment starting from move one. The total prize fund of the Master Group is 4000 EUR with 1200 EUR reserved for the Winner of the event.&#xA0;The tournament is separated []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/festival-di-primavera-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 08:27:34 +0000",
+         "title" : "Festival di Primavera 2023"
+      },
+      {
+         "description" : "The 1000GM LA Spring Splash 2023 is going to take place from 17-21 March in Los Angelis, USA.&#xA0;Players receive 90 minutes for play plus a 30-second increment starting from move one. The total prize fund of the tournament is 30.000 USD with 10.000 USD reserved for the Winner of the event.&#xA0; In 1000GM LA Spring []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-la-spring-splash-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 07:35:24 +0000",
+         "title" : "1000GM LA Spring Splash 2023"
+      },
+      {
          "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -634,28 +650,12 @@ news_feed (
          "title" : "Explained by the engineers! - The new speak text annotation for ChessBase 17"
       },
       {
-         "description" : "The&#160;WR Chess Masters&#160;super-tournament will take place from 16-25 February in Dusseldorf, Germany. The event is played as a 10-player round-robin with&#160;Ian Nepomniachtchi,&#160;Anish Giri,&#160;Wesley So,&#160;Levon Aronian,&#160;Nodirbek Abdusattorov,&#160;Jan-Krzysztof Duda,&#160;Gukesh D,&#160;Vincent Keymer,&#160;Praggnanandhaa&#160;and&#160;Andrey Esipenko&#160;in the field. The time control will be 120 minutes for the first 40 moves, followed by 60 minutes for the next 20 moves, and 15 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wr-chess-masters-2023-round-9-live/",
-         "pubDate" : "Sat, 25 Feb 2023 08:58:00 +0000",
-         "title" : "WR Chess Masters 2023 - Round 9 live"
-      },
-      {
          "description" : "After 25...exd5 White skillfully set up the final attack. If you see his first move right away - please check black counterstrikes!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/checkmate-on-the-horizon",
          "pubDate" : "Sat, 25 Feb 2023 09:00:00 +0100",
          "title" : "Checkmate on the horizon"
-      },
-      {
-         "description" : "Showdown with Joker: After eight rounds of the WR Chess Masters, the field is set for an exciting final round, in which the two leaders on equal points, Gukesh and Levon Aronian, meet. Half a point behind them lurks Ian Nepomniachtchi, who can still catch up in the event of a draw between the two. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/gukesh-and-aronian-heading-into-the-last-round-of-wr-chess-masters-as-co-leaders/",
-         "pubDate" : "Sat, 25 Feb 2023 07:57:00 +0000",
-         "title" : "Gukesh and Aronian heading into the last round of WR Chess Masters as co-leaders"
       },
       {
          "description" : "Vincent Keymer scored his second win at the WR Chess Masters in round 8, as he defeated Wesley So with the black pieces and left him out of the race for tournament victory. Levon Aronian and Gukesh are sharing the lead on 5/8 points and will face each other in the final round. If they draw and Ian Nepomniachtchi manages to beat Keymer, a three-way play-off will decide the winner of the tournament. | Photo: Lennart Ootes",
