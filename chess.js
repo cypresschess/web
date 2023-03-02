@@ -314,6 +314,14 @@ news_feed (
          "title" : "FIDE Circuit Leaderboard: Wesley So takes the lead"
       },
       {
+         "description" : " Greetings everyone!This year's Black History Month will feature a video commemoration recounting the importance of the month-long celebration, some key moments in history, and also thoughts about why championing chess in the Black community is important to the growth of the sport/game. Part of the success of chess will come with outreach initiatives and recognizing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/\">Black History Month 2023 A Chess Tribute</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/",
+         "pubDate" : "Tue, 28 Feb 2023 17:00:00 +0000",
+         "title" : "Black History Month 2023 - A Chess Tribute"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Schachgipfel</strong>, an annual festival of German Individual Championships, <a href=\"https://www.schachbund.de/news/deutscher-schachgipfel-2023-abgesagt.html\">cannot take place</a> in Braunschweig in July as planned. The originally positive city has rejected to contribute any subsidies after <a href=\"https://perlenvombodensee.de/2023/02/24/der-deutsche-schachbund-ist-pleite/\">financial irregularities</a> in the <strong>German Chess Federation</strong> have <a href=\"https://www.schachbund.de/news/haushaltszahlen-2022-2023-deutlich-schlechter-als-erwartet.html\">become public</a>, and the regional <strong>Lower Saxony Chess Federation</st",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2224",
          "pubDate" : "Thu, 09 Feb 2023 21:45:50 +0000",
          "title" : "WGP Munich: Dzagnidze closes the gap"
-      },
-      {
-         "description" : "My latest eBay post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/a-new-category-of-chess-collectable.html\">A New Category of Chess Collectable</A>(February 2023), needs a second look. A small question has been bothering me since I posted it : is the title correct? When I wrote the post, I first used the word 'collectible', then wondered if that was correct. After a little research, I determined that the right word was 'collectable', and changed it. Here's what <A HREF=\"https://www.grammarbook.com/blog/spelling/collectible-or-collectable/\">Collectible or Collectable</A>(grammarbook.com; 'The Blue Book of Grammar and Punctuation') has to say about it. <BLOCKQUOTE>A Matter of Noun vs.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/of-grammar-silver-spoons-and-ebay-prices.html",
-         "pubDate" : "Thu, 09 Feb 2023 16:49:00 +0000",
-         "title" : "Of Grammar, Silver Spoons, and eBay Prices"
       }
    ]
 }
