@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sayantan Das becomes India&#39;s 81st GM after beating the opposition at the International Festival des Jeux in Cannes, France. Das entered the A Group of the tournament as an IM, chasing the 24 FIDE Elo points that would bring him to the 2500 mark an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sayantan-wins-cannes-open",
+         "pubDate" : "Thu, 02 Mar 2023 08:06:37 -0800",
+         "title" : "Sayantan Das Crushes At Cannes Open, Becomes India's 81st Grandmaster"
+      },
+      {
+         "description" : "The Vezerkepzo Spring GM 2023 is taking place from 16&#x2013;24 March 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is 9-round Robin tournament. Chessdom will follow live games. Starting list of players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-spring-gm-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 15:06:50 +0000",
+         "title" : "Vezerkepzo Spring GM 2023"
+      },
+      {
+         "description" : "The 1st&#xA0;Women&#x2019;s Chess festival Omisalj Blitz &#38; Rapid is scheduled to take place from 28-30 April in Omisalj, a splendid village in Croatia, situated on the Adriatic coast. The rapid tournament will be played in 9 rounds with a time control of 10 minutes per player plus 5 seconds increment after each move, while the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-omisalj-blitz-rapid-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 13:52:05 +0000",
+         "title" : "1st Omisalj Blitz & Rapid 2023"
+      },
+      {
+         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The&#160;European Individual Chess Championship 2023&#160;is organised by Serbian Chess Federation under the auspices []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-championship-2023-live-1/",
+         "pubDate" : "Thu, 02 Mar 2023 13:43:10 +0000",
+         "title" : "European Individual Chess Championship 2023 - Live"
+      },
+      {
+         "description" : "Gukesh is just 16 years old, already a full-blown top GM with a live rating of 2730, currently number 20 in the world. Ilamparthi, is a young talent, 13 years old, currently the world under-14 champion, and an IM rated 2423. Both Gukesh and Ilamparthi did really well in Dusseldorf at the WR Masters and Juniors respectively. It was time for some fun on our train journey from Dusseldorf to ChessBase in Hamburg. This article includes ten tough positions posed by Ilamparthi to Gukesh!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ilamparthi-tests-gukesh",
+         "pubDate" : "Thu, 02 Mar 2023 14:00:00 +0100",
+         "title" : "Ilamparthi tests Gukesh!"
+      },
+      {
          "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,22 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/chessemy-open-b-open-2023-live/",
          "pubDate" : "Wed, 01 Mar 2023 09:16:28 +0000",
          "title" : "Chessemy Open B-Open 2023 - Live"
-      },
-      {
-         "description" : "The chessemy Open A-Open 2023 is taking place from 4&#x2013;12 March 2023 in Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Harsha Bharathakoti, Diptayan Ghosh, Vladimir Baklan, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessemy-open-a-open-2023-live/",
-         "pubDate" : "Wed, 01 Mar 2023 09:09:04 +0000",
-         "title" : "Chessemy Open A-Open 2023 - LIVE"
-      },
-      {
-         "description" : "The chessemy Open 2023 will take place as an A-Open (from 1800 ELO or on application) and B-Open (up to 1900 ELO) from&#xA0;March 4th to 12th, 2023&#xA0;at the&#xA0;Hotel Forellenhof Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessemy-open-2023-2/",
-         "pubDate" : "Wed, 01 Mar 2023 09:04:03 +0000",
-         "title" : "Chessemy Open A-Open 2023"
       },
       {
          "description" : "ECU Board has earlier announced the distribution of qualification spots for the FIDE World Cup 2023 from the following events: European Individual Chess Championship 2021, Reykjavic, Iceland (23 qualification spots the list of qualifiers can be found below) European Individual Chess Championship 2022, Terme Catez, Slovenia (20 qualification spots the list of qualifiers can be found&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/\">Read More &#187;</a></span>",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "https://aicf.in/top-seed-gm-aravindh-chithambaram-v-r-won-mpl-national-blitz-2023/",
          "pubDate" : "Tue, 28 Feb 2023 10:38:51 +0000",
          "title" : "Top Seed GM Aravindh Chithambaram V R won MPL National Blitz 2023"
-      },
-      {
-         "description" : "The Seville Rapid Championship 2023 is taking place on 28 February 2023 in Seville, Spain. Players receive 8 minutes for the entire game, plus a 3-second increment starting from move one. It is a 7-round Swiss tournament with participation of Israel Cruz Rodriguez, Juan Carlos Ferrete Rueda, Cristian Silva Lucena, Ismael Diaz Castro, Santiago Garcia []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/seville-rapid-championship-2023-live/",
-         "pubDate" : "Tue, 28 Feb 2023 09:07:32 +0000",
-         "title" : "Seville Rapid Championship 2023 - LIVE"
       },
       {
          "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
@@ -1210,14 +1226,6 @@ news_feed (
          "title" : "Sponsoring Ukrainian refugees"
       },
       {
-         "description" : "In chess calculation, width is more important than depth. Virtually every decent player can calculate a forced line till the very end. However, only few can sense all the flavours of the position, find all the hidden ideas. To see the exceptions where everybody else only sees the rules. To find something unusual while all the others follow well-known patterns. In this article, Jan Markos shows you how Magnus Carlsen is able to come up with unexpected solutions in situations where an average club player would be totally confused. | Photo: Lennart Ootes, Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-18-magnus-carlsen-s-diagonals",
-         "pubDate" : "Mon, 20 Feb 2023 15:00:00 +0100",
-         "title" : "The Winning Academy 18: Magnus Carlsen's diagonals"
-      },
-      {
          "description" : "Gukesh and Vincent Keymer played a wild game in Round 4 of the WR Chess Masters in Dusseldorf, but in the end it finished in a draw, as, for the first time in the event, did all the other games in the round. According to the computer, Anish Giri came closest to a decisive advantage, against Andrey Esipenko, noting afterwards, \"I very often let my opponents escape - it's part of my job, part of my style!\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://www.thearticle.com/grandmasters-of-the-chessboard/",
          "pubDate" : "Sat, 18 Feb 2023 10:17:22 +0000",
          "title" : "Grandmasters of the Chessboard"
-      },
-      {
-         "description" : "As the first week of the 2023 Pro Chess League came to a close, the Shanghai Tigers and the California Unicorns became the final teams to secure victories in their opening fixtures. The Shanghai Tigers, who fielded world number-29 GM Wei Yi as w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-1-tigers-unicorns",
-         "pubDate" : "Fri, 17 Feb 2023 17:13:00 -0800",
-         "title" : "Shanghai Tigers, California Unicorns Post Comfortable Wins"
       },
       {
          "description" : "",
@@ -1736,22 +1736,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/of-grammar-silver-spoons-and-ebay-prices.html",
          "pubDate" : "Thu, 09 Feb 2023 16:49:00 +0000",
          "title" : "Of Grammar, Silver Spoons, and eBay Prices"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2223",
-         "pubDate" : "Thu, 09 Feb 2023 16:04:46 +0000",
-         "title" : "FIDE - ISF World School Teams Online Chess Cup 2023: Registration begins"
-      },
-      {
-         "description" : " This years O2C Doeberl Cup is start to take shape, with the entries already over the 100 mark. As in the last few years there are limits on the number of players in each event, so it might be a good idea to enter sooner rather than later, so you get the event you want. The Premier section already has 4 Grandmasters entered, and I am hoping to have another 3 or 4 in the field. With travel almost back to normal, the Premier may get a number of overseas players, which will make earning IM and GM norms easier. If you want to enter, or see how much space is left in your preferred event, then go to <a href=\"http://www.doeberlcup.com.au\">www.doeberlcup.com.au</a> <br /> (*** I am the chief organis",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/2023-o2c-doeberl-cup-entries-passed-100.html",
-         "pubDate" : "Thu, 09 Feb 2023 13:16:00 +0000",
-         "title" : "2023 O2C Doeberl Cup - Entries passed 100"
       }
    ]
 }
