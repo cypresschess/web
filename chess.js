@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/",
+         "pubDate" : "Wed, 01 Mar 2023 22:05:50 +0000",
+         "title" : "\"Tactics are temporary, endgames are permanent\" (4)"
+      },
+      {
+         "description" : "The Indian Yogis are the first team to qualify for the playoffs after defeating the Levitov Chess Wizards in the Pro Chess League. In the other match, the Canada Chessbrahs defeated the Garden State Passers.&#38;nbsp; The two siblings, GM Praggnanan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-yogis-chessbrahs",
+         "pubDate" : "Wed, 01 Mar 2023 13:54:00 -0800",
+         "title" : "Indian Yogis Qualify For Playoffs, Chessbrahs Stage Reversal With Carlsen's Perfect Score"
+      },
+      {
+         "description" : "The official FIDE ratings are in for March 2023, and at first glance they seem consistent with the February list, but look more closely and you see a notable name missing: GM Sergey Karajkin, who has now been inactive for a full 12 months&#38;nbsp;and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/march-2023-fide-ratings-list",
+         "pubDate" : "Wed, 01 Mar 2023 12:44:00 -0800",
+         "title" : "Karjakin Off March 2023 FIDE Rating List Due To Inactivity"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>International Olympic Committee</strong> <a href=\"https://olympics.com/ioc/news/ioc-announces-olympic-esports-series-2023\">announced nine games</a> to feature in the first <strong>Olympic Esports Series</strong> with live finals on 22-25 June in Singapore. Other than in the <strong>Olympic Virtual Series</strong> at the last Summer Olympics in Tokyo in 2021, chess is included. It's the first significant cooperation between <strong>FIDE</strong> and <strong>Chess.com</strong> since their takeover of the <strong>Play Magnus Group</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/olympic-esports-series-includes/",
+         "pubDate" : "Wed, 01 Mar 2023 21:24:16 +0100",
+         "title" : "Olympic Esports Series includes chess"
+      },
+      {
          "description" : "A year into Russia's invasion of Ukraine, the Berlin Chess Federation organized an event to mark its support for the Ukrainian people. First, a simultaneous exhibition was given by Ukrainian grandmaster Zahar Efimenko. Then, an international panel discussed the consequences of the war for the chess world. Paul Meyer-Dunker reports. | Photos: Berlin Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -994,14 +1026,6 @@ news_feed (
          "title" : "Russians can change federation free of charge"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>German Chess Federation</strong> <a href=\"https://www.schachbund.de/news/astrid-hohl-wird-leiterin-fuer-den-bereich-finanzen-in-der-geschaeftsstelle.html\">has appointed</a> <strong>Astrid Hohl</strong> as Director of Finance as it becomes evident that the federation has burnt its past surplus on poor management. Hohl had been in charge of finances at the <strong>German Youth Chess Association</strong> earlier. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/german-federation-tightens-grip-on/",
-         "pubDate" : "Wed, 22 Feb 2023 08:58:22 +0100",
-         "title" : "German Federation tightens grip on finances"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1322,14 +1346,6 @@ news_feed (
          "title" : "Shanghai Tigers, California Unicorns Post Comfortable Wins"
       },
       {
-         "description" : "Four players lead the WR Chess Masters 2023 after round two with 1.5 points apiece: GMs Nodirbek Abdusattorov, Wesley So, Gukesh D,&#38;nbsp; and Levon Aronian. GM Andrey Esipenko outplayed GM Vincent Keymer on Thursday and was featured in the round...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-2",
-         "pubDate" : "Fri, 17 Feb 2023 14:48:00 -0800",
-         "title" : "Abdusattorov Wins With Greek Gift, Gukesh Triumphs In Indian Clash"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1352,14 +1368,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html",
          "pubDate" : "Fri, 17 Feb 2023 16:46:00 +0000",
          "title" : "Chess.com's Game Review Tools"
-      },
-      {
-         "description" : "Luk.AI, the official AI sidekick of NBA All-Star Luka Donči&#263, has been unleashed as a Chess.com bot&#38;mdash;and you can challenge him today. The Dallas Mavericks guard is a huge chess fan and a regular on Chess.com. Now, the 23-year-old NBA supersta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-luk-ai-bot-chesscom",
-         "pubDate" : "Fri, 17 Feb 2023 07:01:00 -0800",
-         "title" : "Play Chess Against The Luk.AI Bot of Luka Donči&#263"
       },
       {
          "description" : "Airport Authority of India retained the title in both open and women section of the National Team Chess Championship, organized by Dr. Mahalingam College of",
@@ -1744,22 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2222",
          "pubDate" : "Thu, 09 Feb 2023 09:23:48 +0000",
          "title" : "FIDE distributes €30,000 among chess veterans"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover: &#8220;The Barry Attack is a highly aggressive system that arises after 1 d4 Nf6 2 Nf3 g6 3 Nc3 d5 4 <a href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Play the Barry Attack</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/09/play-the-barry-attack/\">Play the Barry Attack</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/02/09/play-the-barry-attack/",
-         "pubDate" : "Thu, 09 Feb 2023 00:10:32 +0000",
-         "title" : "Play the Barry Attack"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2221",
-         "pubDate" : "Wed, 08 Feb 2023 23:22:39 +0000",
-         "title" : "WGP Munich: Six draws in Round 6"
       }
    ]
 }
