@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sethuraman-wins-cappelle-la-grande-open-2023",
+         "pubDate" : "Thu, 02 Mar 2023 11:25:00 +0100",
+         "title" : "Sethuraman wins Cappelle-la-Grande Open on his 30th birthday"
+      },
+      {
+         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The open is set to start on March 3 in Vrnjacka Banja, Serbia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-chess-championship-2023-breaking-the-titled-players-record-1/",
+         "pubDate" : "Thu, 02 Mar 2023 10:18:01 +0000",
+         "title" : "European Individual Chess Championship 2023 - breaking the titled players record"
+      },
+      {
+         "description" : "The Pilsen Open 2023 B is going to take place from 3-11 March in Plzen, Czech Republic. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in 4 categories A IM, B Open, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pilsen-open-2023-b/",
+         "pubDate" : "Thu, 02 Mar 2023 09:38:47 +0000",
+         "title" : "Pilsen Open 2023 - B"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98360957.cms\" />Indian Grandmaster D Gukesh has been honoured with Player-of-the-Year award by the Asian Chess Federation (ACF) for clinching the gold medal with a record-breaking score of 9/11 in the 44th Chess Olympiad at Mahabalipuram last year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/acf-confers-grandmaster-d-gukesh-with-player-of-the-year-award/articleshow/98360957.cms",
+         "pubDate" : "Thu, 02 Mar 2023 09:31:35 +0000",
+         "title" : "ACF confers Grandmaster D Gukesh with Player-of-the-Year award"
+      },
+      {
+         "description" : "The Pilsen Open 2023 is going to take place from 3-11 March in Plzen, Czech Republic. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in 4 categories A IM, B Open, C Rapid, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pilsen-open-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 09:31:33 +0000",
+         "title" : "Pilsen Open 2023"
+      },
+      {
          "description" : "The Festival di Primavera 2023 is going to take place from 15-19 March in Bassano del Grappa, Italy.&#xA0;Players receive 90 minutes for play plus a 30-second increment starting from move one. The total prize fund of the Master Group is 4000 EUR with 1200 EUR reserved for the Winner of the event.&#xA0;The tournament is separated []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -458,36 +498,12 @@ news_feed (
          "title" : "Wissmann wins in Finland, solvers move to Poland and the Netherlands"
       },
       {
-         "description" : "The Arab Women's Championship 2023 is taking place from 26 February to 5 March 2023 in Khartoum, Sudan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Roula Mahmoud, Ahmad Anood, Rahaf Faqeeh, Gadalla Karar Sara, Sabrina Latreche, Lina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arab-womens-championship-2023-live/",
-         "pubDate" : "Mon, 27 Feb 2023 06:29:11 +0000",
-         "title" : "Arab Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Arab Championship 2023 is taking place from 26 February to 5 March 2023 in Khartoum, Sudan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Abubaker Tagelsir, Sedrani Ammar, Rafat Issa, Al Khatib Ahmad, Mohsen Elgabry, Gong Thon []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/arab-championship-2023-live/",
-         "pubDate" : "Mon, 27 Feb 2023 06:23:19 +0000",
-         "title" : "Arab Championship 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2254",
          "pubDate" : "Sun, 26 Feb 2023 22:31:48 +0000",
          "title" : "Romanian Championship: Shevchenko and Lehaci win maiden titles"
-      },
-      {
-         "description" : "Levon Aronian has won the WR Chess Masters. After Aronian, Gukesh and Ian Nepomniachtchi were tied with 5.5/9 each at the end of the regular distance of nine rounds, Aronian won the tiebreak. He was very happy about the victory, Aronian said. He thanked host Wadim Rosenstein for an excellently organized tournament and the exceptionally []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-wins-wr-chess-masters/",
-         "pubDate" : "Sun, 26 Feb 2023 20:54:12 +0000",
-         "title" : "Levon Aronian wins WR Chess Masters"
       },
       {
          "description" : " I'm pleased to say that my winning streak against Airline inflight chess programs continues. Turns out the 'Copyright 2000' message on the splash screen is a big clue about the strength of the program, and even on the harder levels, piece blunders were common. To break the monotony I also played some Texas Hold-Em (winning as well), and 'Who wants to be a millionaire' trivia. I did not know that the worlds largest Buddhist temple was in Indonesia. <br /> ",
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "The Winning Academy 18: Magnus Carlsen's diagonals"
       },
       {
-         "description" : "In order to understand openings properly, the middlegame should actually be studied first. Because all plans in the middlegame link directly to the ideas from the opening. Almost everything is hung up on pawn structures. Therefore, IM Herman Grooten takes the club chess player by the hand to take a closer look at common middlegame structures.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/herman-grooten-key-concepts-of-chess-the-hedgehog",
-         "pubDate" : "Mon, 20 Feb 2023 14:00:00 +0100",
-         "title" : "Herman Grooten: Key Concepts of Chess - The Hedgehog"
-      },
-      {
          "description" : "Gukesh and Vincent Keymer played a wild game in Round 4 of the WR Chess Masters in Dusseldorf, but in the end it finished in a draw, as, for the first time in the event, did all the other games in the round. According to the computer, Anish Giri came closest to a decisive advantage, against Andrey Esipenko, noting afterwards, \"I very often let my opponents escape - it's part of my job, part of my style!\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1744,14 +1752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-o2c-doeberl-cup-entries-passed-100.html",
          "pubDate" : "Thu, 09 Feb 2023 13:16:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Entries passed 100"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2222",
-         "pubDate" : "Thu, 09 Feb 2023 09:23:48 +0000",
-         "title" : "FIDE distributes €30,000 among chess veterans"
       }
    ]
 }
