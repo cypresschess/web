@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Amateur Chess Championship 2023 in Punjab all are out to download. 1700 Men : https://aicf.online/National-A-1700-Men.html 1700 Women : https://aicf.online/National-A-1700-Women.html 2300 Men : https://aicf.online/National-A-2300-Men.html 2300",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-chess-championship-2023-certificates/",
+         "pubDate" : "Fri, 03 Mar 2023 11:57:35 +0000",
+         "title" : "National Amateur Chess Championship-2023, Certificates"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The all-Chinese <strong>Women Candidates Final</strong> will be held in Chongqing from 27 March and also the ensuing <strong>Women World Championship</strong> from 3 July with some games in Shanghai. No sponsors or prize funds <a href=\"https://fide.com/news/2264\">are mentioned</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/china-hosts-women-finals/",
+         "pubDate" : "Fri, 03 Mar 2023 11:53:12 +0100",
+         "title" : "China hosts women finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2264",
+         "pubDate" : "Fri, 03 Mar 2023 09:22:46 +0000",
+         "title" : "China to host Women's Candidates Final and Women's World Championship Match"
+      },
+      {
+         "description" : "Yochanan Afek (Hebrew: יוח�ן אפק), born 1952 in Tel Aviv, is an Israeli chess player, composer, trainer and arbiter. He is the only person to possess international titles at five different facets of chess: International Master, International Grandmaster of chess composition, International Arbiter, FIDE master in problem solving, and International Judge for chess compositions. CHESS Magazine did a 60-second portrait of Afek. | Photo: Alina L'Ami",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/60-seconds-with-yochanan-afek",
+         "pubDate" : "Fri, 03 Mar 2023 10:00:00 +0100",
+         "title" : "60 seconds with Yochanan Afek"
+      },
+      {
          "description" : " The 40-year-old seemed to be cruising but took the €40,000 first prize only after winning tiebreaks against Ian Nepomniachtchi and Dommaraju Gukesh Last week's WR Masters in D&uuml;sseldorf, Germany, looked on paper an interesting opportunity for potential rivals to Magnus Carlsen to showcase their skills, and for the new generation of teenage grandmasters to measure their development against the established top 10. In the event, D&uuml;sseldorf fell slightly short on both counts. Levon Aronian won the €40,000 first prize, a fine recovery from a poor year in 2022, but at age 40, and with a history of failure in the Candidates, he is no longer a world title contender. His victory seemed ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -106,7 +138,7 @@ news_feed (
          "title" : "1st Omisalj Blitz & Rapid 2023"
       },
       {
-         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The&#160;European Individual Chess Championship 2023&#160;is organised by Serbian Chess Federation under the auspices []",
+         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The&#xA0;European Individual Chess Championship 2023&#xA0;is organised by Serbian Chess Federation under the auspices []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/european-individual-chess-championship-2023-live-1/",
@@ -120,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ilamparthi-tests-gukesh",
          "pubDate" : "Thu, 02 Mar 2023 14:00:00 +0100",
          "title" : "Ilamparthi tests Gukesh!"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2023 is going to take place from 2nd to 14th March in Vrnjacka Banja, Serbia. More than 430 players have already registered for the event and the event is breaking the participation record previously set in Rijeka 2010 with 408 participants. The registration deadline is February 2nd, 2023. European Individual []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-individual-ches-championship-2023-breaking-the-participation-record/",
+         "pubDate" : "Thu, 02 Mar 2023 11:35:00 +0000",
+         "title" : "European Individual Chess Championship 2023 breaking the participation record"
       },
       {
          "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/pilsen-open-2023/",
          "pubDate" : "Thu, 02 Mar 2023 09:31:33 +0000",
          "title" : "Pilsen Open 2023"
-      },
-      {
-         "description" : "The Festival di Primavera 2023 is going to take place from 15-19 March in Bassano del Grappa, Italy.&#xA0;Players receive 90 minutes for play plus a 30-second increment starting from move one. The total prize fund of the Master Group is 4000 EUR with 1200 EUR reserved for the Winner of the event.&#xA0;The tournament is separated []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/festival-di-primavera-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 08:27:34 +0000",
-         "title" : "Festival di Primavera 2023"
       },
       {
          "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
@@ -1114,14 +1146,6 @@ news_feed (
          "title" : "Michael Adams wins Cambridge International Open"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As it is expected that the <strong>Asian Chess Association</strong>'s General Assembly next week will accept the <strong>Chess Federation of Russia</strong> as a member, <strong>FIDE</strong> <a href=\"https://fide.com/news/2247\">waives the change fees</a> for Russian players who join a European chess federation until 31 August 2023. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/russians-can-change-federation-free/",
-         "pubDate" : "Wed, 22 Feb 2023 09:54:20 +0100",
-         "title" : "Russians can change federation free of charge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1200,14 +1224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
          "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
          "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
-      },
-      {
-         "description" : "When Wadim Rosenstein realised a childhood dream and put together a world-class field for his WR Chess Masters in his home town, he hadn't even thought about the political overtones. He simply wanted to bring top chess to the banks of the Rhine in D&uuml;sseldorf and for Rosenstein Ian Nepomniachtchi and Andrey Esipenko were world-class grandmasters. After all, Russian chess players are not sanctioned by the World Chess Federation. Nevertheless, there were critical questions. Wadim Rosenstein answers these and other questions in an interview. | Photo: Wadim Rosenstein follows the games in the lounge, Jan Gustafsson is in the back (Photos: Andr&eacute; Schulz)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-wadim-rosenstein-organiser-of-the-wr-chess-masters",
-         "pubDate" : "Tue, 21 Feb 2023 11:40:54 +0100",
-         "title" : "Interview with Wadim Rosenstein, Organiser of the WR Chess Masters"
       },
       {
          "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. Any missing names/fresh applicants please fill the",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html",
          "pubDate" : "Fri, 17 Feb 2023 16:46:00 +0000",
          "title" : "Chess.com's Game Review Tools"
-      },
-      {
-         "description" : "Airport Authority of India retained the title in both open and women section of the National Team Chess Championship, organized by Dr. Mahalingam College of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-chess-championships-double-delight-for-airport-authority-of-india/",
-         "pubDate" : "Fri, 17 Feb 2023 14:36:03 +0000",
-         "title" : "National Team Chess Championships : Double delight for Airport Authority of India"
       },
       {
          "description" : " Nigerian-born Gregory Acholonu was finally awarded the FM title after being qualified for over 20 years. The long-time chess coach has worked with the DC Chess Center for 12 years before starting his own GCA Chess Academy in Annapolis, Maryland. Acholonu has spent the better part of his life serving as an inspiration to scholastic The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/\">Gregory Acholonu awarded overdue FM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html",
          "pubDate" : "Fri, 10 Feb 2023 16:03:00 +0000",
          "title" : "The Final Years of Insidechess.com"
-      },
-      {
-         "description" : " We looked at the use of Knight (and Bishop) forks in a game last week. This week, we'll start looking at the forks you can create with the other pieces, including the King, and even the lowly pawn. The fork can be a powerful weapon and is often the first tactic the beginner learns. However, <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Three\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-three/\">A Foundation for Beginners Eighty Three</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-three/",
-         "pubDate" : "Fri, 10 Feb 2023 12:07:24 +0000",
-         "title" : "A Foundation for Beginners Eighty Three"
       }
    ]
 }
