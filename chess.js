@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Shanghai and Chongqing will host the two major Women's events of the year. More than three years after her last defence of the title in Shanghai and Vladivostok, women's world champion Ju Wenjun will face the winner of the Candidates' final match between Lei Tingjie and Tan Zhongyi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/china-to-host-women-candidates-world-championship",
+         "pubDate" : "Fri, 03 Mar 2023 15:30:00 +0100",
+         "title" : "China to host Women's Candidates Final and Women's World Championship Match"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Fri, 03 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
          "description" : "National Amateur Chess Championship 2023 in Punjab all are out to download. 1700 Men : https://aicf.online/National-A-1700-Men.html 1700 Women : https://aicf.online/National-A-1700-Women.html 2300 Men : https://aicf.online/National-A-2300-Men.html 2300",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1178,14 +1194,6 @@ news_feed (
          "title" : "The American Cup 2023: Day 1"
       },
       {
-         "description" : "Levon Aronian scored a third win in five rounds to get a full-point lead at the WR Chess Masters in D&uuml;sseldorf. Aronian beat Anish Giri with white, breaking the Dutchman's 28-game unbeaten streak. The other decisive game of the round saw former tail-ender Vincent Keymer defeating Nodirbek Abdusattorov with white, leaving five players in shared 6th-10th place in the standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r5",
-         "pubDate" : "Tue, 21 Feb 2023 23:25:00 +0100",
-         "title" : "WR Masters: Aronian beats Giri to widen the gap"
-      },
-      {
          "description" : "More than halfway through the WR Chess Masters 2023, GM Levon Aronian leads by a full point after beating GM Anish Giri in round five. GM Vincent Keymer scored his first win of the event against GM Nodirbek Abdusattorov after the latter&#39;s aggres...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2245",
          "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
          "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
-      },
-      {
-         "description" : "Different tournaments have different kinds of rest days! At the WR Chess Masters 2023, the players and organizers had a great time with a well organized mini-table tennis event. 7 out of the 10 participants of the main tournament took part in this round robin tournament with Gelfand, Dana Reizneice and Wadim Rosenstein joining them. It was a keenly contested event with Andrey Esipenko edging everyone out and taking the top spot. Sagar Shah who travelled to Dusseldorf brings you a fun report.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/table-tennis-and-joy-on-the-rest-day-of-the-wr-chess-masters-2023",
-         "pubDate" : "Tue, 21 Feb 2023 15:00:00 +0100",
-         "title" : "Table Tennis and joy on the rest day of the WR Chess Masters 2023"
       },
       {
          "description" : "Magnus Carlsen will face Vaishali and Vidit as Week 2 of the Pro Chess League begins with the Canada Chessbrahs facing the Indian Yogis. Fabiano Caruana is among the players making his 2023 debut, for the Saint Louis Arch Bishops, while Hikaru Nakamura will be back after dramatically losing to WGM Josefine Heinemann in Week 1.",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
          "pubDate" : "Fri, 10 Feb 2023 22:51:00 +0400",
          "title" : "Airthings Masters 2023 - Games and Results"
-      },
-      {
-         "description" : "My previous post on early chess web sites was <A HREF=\"https://chessforallages.blogspot.com/2023/02/wayback-to-insidechesscom.html\">Wayback to Insidechess.com</A>(February 2023). There I made an initial observation about the Wayback record:- <BLOCKQUOTE>The first entry for a working site is <I>Inside Chess Online</I> (January 1999). It links to the Latest Issue (Volume 12, Issue 2, March 1999), with further links to three (out of a dozen) articles from the issue. </BLOCKQUOTE> <P>There are at least four layers of the past that apply to Insidechess.com:- <P><B>Chess history:</B>e.g. <A HREF=\"https://www.mark-weeks.com/chess/9899gkix.htm\">1998-99 World Chess Council ... and more</A>(m-w.com); ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/the-final-years-of-insidechesscom.html",
-         "pubDate" : "Fri, 10 Feb 2023 16:03:00 +0000",
-         "title" : "The Final Years of Insidechess.com"
       }
    ]
 }
