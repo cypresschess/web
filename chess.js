@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 40-year-old seemed to be cruising but took the €40,000 first prize only after winning tiebreaks against Ian Nepomniachtchi and Dommaraju Gukesh Last week's WR Masters in D&uuml;sseldorf, Germany, looked on paper an interesting opportunity for potential rivals to Magnus Carlsen to showcase their skills, and for the new generation of teenage grandmasters to measure their development against the established top 10. In the event, D&uuml;sseldorf fell slightly short on both counts. Levon Aronian won the €40,000 first prize, a fine recovery from a poor year in 2022, but at age 40, and with a history of failure in the Candidates, he is no longer a world title contender. His victory seemed ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/mar/03/chess-magnus-carlsen-stimulus-missed-as-levon-aronian-wins-in-dusseldorf",
+         "pubDate" : "Fri, 03 Mar 2023 08:00:27 +0000",
+         "title" : "Chess: Magnus Carlsen stimulus missed as Levon Aronian wins in D&uuml;sseldorf"
+      },
+      {
+         "description" : "The 27 Hit open 2023 will take place from 16-23 March 2023 in Nova Gorica, Slovenia. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two categories HIT-A and HIT-B and has total prize fund of 5650 EUR. HIT-A section is 9-round Swiss System []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/27-hit-open-2023/",
+         "pubDate" : "Fri, 03 Mar 2023 07:53:52 +0000",
+         "title" : "27 Hit open 2023"
+      },
+      {
+         "description" : "In the second half of February, the traditional Graz Open, by now the biggest Open in Austria, was held at the local Chamber of Commerce. Abhijeet Gupta won the A-Open ahead of 170 players. | Photo: Winners of the A-tournament. From left to right: Chief Arbiter Manfred Mussnig, Tournament Organizer Andrea Schmidbauer, GM Felix Blohberger, GM Abhijeet Gupta and GM Hagen P&ouml;tsch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhijeet-gupta-wins-graz-open",
+         "pubDate" : "Fri, 03 Mar 2023 08:00:00 +0100",
+         "title" : "Abhijeet Gupta wins Graz Open"
+      },
+      {
+         "description" : "In the Asian Chess Federation annual summit at Abu Dhabi, the Asian Chess Excellence Awards 2023 has been announced and India shines with bagging the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-chess-excellence-awards-2023-m-k-stalin-conferred-with-man-of-the-year-gukesh-player-of-the-year-and-aicf-bags-most-active-federation-awards/",
+         "pubDate" : "Fri, 03 Mar 2023 05:26:03 +0000",
+         "title" : "Asian Chess Excellence Awards 2023 - M K Stalin conferred with Man of the Year, Gukesh - Player of the year and AICF bags Most Active Federation awards"
+      },
+      {
          "description" : "Magnus Carlsen makes his season debut for Offerspill Chess Club as his club is chasing its first title in the Norwegian League. The three classical games this weekend could be the last he plays as the reigning world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/festival-di-primavera-2023/",
          "pubDate" : "Thu, 02 Mar 2023 08:27:34 +0000",
          "title" : "Festival di Primavera 2023"
-      },
-      {
-         "description" : "The 1000GM LA Spring Splash 2023 is going to take place from 17-21 March in Los Angelis, USA.&#xA0;Players receive 90 minutes for play plus a 30-second increment starting from move one. The total prize fund of the tournament is 30.000 USD with 10.000 USD reserved for the Winner of the event.&#xA0; In 1000GM LA Spring []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-la-spring-splash-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 07:35:24 +0000",
-         "title" : "1000GM LA Spring Splash 2023"
       },
       {
          "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
@@ -374,7 +398,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-february",
-         "pubDate" : "Tue, 28 Feb 2023 07:40:21 -0800",
+         "pubDate" : "Tue, 28 Feb 2023 07:40:00 -0800",
          "title" : "Nakamura Wins Second Bullet Brawl"
       },
       {
@@ -1202,14 +1226,6 @@ news_feed (
          "title" : "European Girls' and Women's Chess Weekend"
       },
       {
-         "description" : "This endgame guideline is often useful to find the best move when pawn races occur. In the diagram position it is White to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/passed-pawns-should-be-pushed",
-         "pubDate" : "Tue, 21 Feb 2023 09:00:00 +0100",
-         "title" : "Passed pawns should be pushed"
-      },
-      {
          "description" : " Back in 2012, The Chess Drum launched five videos as a test run for the &#8220;Drum Beat&#8221; segment. Those videos were cutting-edge at the time, but since then a variety of formats have been used to distribute content. Eleven years ago, the five Drum Beat segments covered the latest website news, and the latest international The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/\">The Chess Drum's first &#8220;Beat&#8221; video in 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2238",
          "pubDate" : "Fri, 17 Feb 2023 10:02:51 +0000",
          "title" : "WR Chess Masters: Fighting Round 1, three joint leaders"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, M P Chess Adhoc Committee is organizing a Senior National Arbiters Seminar at Oriental University, Indore from 18-19",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-indore/",
-         "pubDate" : "Fri, 17 Feb 2023 09:42:44 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination at Indore"
       },
       {
          "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-three/",
          "pubDate" : "Fri, 10 Feb 2023 12:07:24 +0000",
          "title" : "A Foundation for Beginners Eighty Three"
-      },
-      {
-         "description" : " In the opening event of the online Tour, the world champion and the US speed specialist showed their skills, while Alireza Firouzja lost five games in a row, and the event's format sparked criticism Magnus Carlsen, the world champion, and Hikaru Nakamura, the five-time US champion and speed specialist, are the two big beasts of major online chess tournaments, and they demonstrated their subtle skills this week at the $235,000 Airthings Masters, the opening event of the year-long online Champions Tour. Their controlled and impressive approach in the matchplay rounds enabled them to see off challenges from the Indian teenagers Arjun Erigaisi and Dommaraju Gukesh. In contrast, the world No 4 a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/feb/10/chess-carlsen-and-nakamura-outwit-young-guns-in-offbeat-airthings-masters",
-         "pubDate" : "Fri, 10 Feb 2023 08:00:03 +0000",
-         "title" : "Chess: Carlsen and Nakamura outwit young guns in offbeat Airthings Masters"
       }
    ]
 }
