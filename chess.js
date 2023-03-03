@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen makes his season debut for Offerspill Chess Club as his club is chasing its first title in the Norwegian League. The three classical games this weekend could be the last he plays as the reigning world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-faces-howell-in-his-last-game-as-world-champion",
+         "pubDate" : "Thu, 02 Mar 2023 23:12:00 +0000",
+         "title" : "Carlsen faces Howell in last game as world champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2263",
+         "pubDate" : "Thu, 02 Mar 2023 22:24:23 +0000",
+         "title" : "European Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
+      },
+      {
+         "description" : "In the match against the formidable Shanghai Tigers, the Gotham Knights showcased the most dominant victory so far in this season of the Pro Chess League. In the second match, the Croatia Bulldogs overcame the Blitz in a toe-to-toe tug-of-war stru...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-knights-bulldogs",
+         "pubDate" : "Thu, 02 Mar 2023 14:22:00 -0800",
+         "title" : "Gotham Knights Advance To Playoffs, Croatia Bulldogs Best Team Blitz In Tiebreaks"
+      },
+      {
+         "description" : "In the sixth volume of his FritzTrainer series, Ivan Sokolov, winner of the Olympiad as a coach of Uzbekistan, looks deeply into the 'supreme discipline' in chess, the Ruy Lopez, as he shares a number of top grandmasters' secrets. Harald Wagner watched the seven-hour work and sent us a review.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegames-vol-6-review",
+         "pubDate" : "Thu, 02 Mar 2023 22:15:00 +0100",
+         "title" : "The Sokolov FritzTrainer: Ruy Lopez structures (vol. 6) - A review"
+      },
+      {
+         "description" : "Asian Chess Excellence Awards 2023 &#x2013; M K Stalin conferred with Man of the Year, Gukesh &#x2013; Player of the year and AICF bags Most Active Federation awards Abu Dhabi (01 Mar 23):- In the Asian Chess Federation annual summit which is under progress at Abu Dhabi, UAE, the Asian Chess Excellence Awards 2023 has []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/asian-chess-excellence-awards-2023/",
+         "pubDate" : "Thu, 02 Mar 2023 21:14:08 +0000",
+         "title" : "Asian Chess Excellence Awards 2023"
+      },
+      {
+         "description" : "Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world&#x2019;s best players, announced today the full tour players: No Player Name Highlights Country FIDE Rapid Rating URS Rating 1 GM Alireza Firouzja Ranked No. 4, 2022 GCT overall winner&#160; and 2022 Sinquefield Cup winner FRA 2785 2787 2 GM Wesley So []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-names-field-of-elite-players-to-compete-for-1-4m-purse/",
+         "pubDate" : "Thu, 02 Mar 2023 21:06:55 +0000",
+         "title" : "Grand Chess Tour Names Field of Elite Players to Compete for $1.4M Purse"
+      },
+      {
          "description" : "Sayantan Das becomes India&#39;s 81st GM after beating the opposition at the International Festival des Jeux in Cannes, France. Das entered the A Group of the tournament as an IM, chasing the 24 FIDE Elo points that would bring him to the 2500 mark an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -111,7 +159,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-3-yogis-chessbrahs",
          "pubDate" : "Wed, 01 Mar 2023 13:54:00 -0800",
-         "title" : "Indian Yogis Qualify For Playoffs, Chessbrahs Stage Reversal With Carlsen's Perfect Score"
+         "title" : "Indian Yogis Qualify For Playoffs; Chessbrahs Stage Reversal With Carlsen's Perfect Score"
       },
       {
          "description" : "The official FIDE ratings are in for March 2023, and at first glance they seem consistent with the February list, but look more closely and you see a notable name missing: GM Sergey Karajkin, who has now been inactive for a full 12 months&#38;nbsp;and...",
@@ -200,22 +248,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-mumbai-from-25-to-26-february-2023final-report/",
          "pubDate" : "Wed, 01 Mar 2023 11:54:19 +0000",
          "title" : "Senior National Arbiter Seminar and Examination, Mumbai from 25 to 26 February 2023:Final Report"
-      },
-      {
-         "description" : "The Chessemy Open 2023 will take place as an A-Open (from 1800 ELO or on application) and B-Open (up to 1900 ELO) from&#xA0;March 4th to 12th, 2023&#xA0;at the&#xA0;Hotel Forellenhof Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessemy-open-b-open-2023/",
-         "pubDate" : "Wed, 01 Mar 2023 09:24:07 +0000",
-         "title" : "Chessemy Open B-Open 2023"
-      },
-      {
-         "description" : "The Chessemy Open B-Open 2023 is taking place from 4&#x2013;12 March 2023 in Walsrode, Germany. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lothar Cordes, Carsten Goes, Christopher Steuer, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessemy-open-b-open-2023-live/",
-         "pubDate" : "Wed, 01 Mar 2023 09:16:28 +0000",
-         "title" : "Chessemy Open B-Open 2023 - Live"
       },
       {
          "description" : "ECU Board has earlier announced the distribution of qualification spots for the FIDE World Cup 2023 from the following events: European Individual Chess Championship 2021, Reykjavic, Iceland (23 qualification spots the list of qualifiers can be found below) European Individual Chess Championship 2022, Terme Catez, Slovenia (20 qualification spots the list of qualifiers can be found&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/\">Read More &#187;</a></span>",
@@ -1202,14 +1234,6 @@ news_feed (
          "title" : "The American Cup Returns to Saint Louis March 17-26, 2023"
       },
       {
-         "description" : "In his Endgame Magic Show #228 Karsten has the 16-year old Indian Grandmaster Leon Luke Mendonca as his guest and they will look at highlights from the Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-228-with-with-leon-luke-mendonca-endgame-highlights-from-the-bundesliga",
-         "pubDate" : "Mon, 20 Feb 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #228 with Leon Luke Mendonca: Endgame highlights from the \"Bundesliga\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1314,14 +1338,6 @@ news_feed (
          "title" : "Opening Repertoire: Black Lion"
       },
       {
-         "description" : "For the first time, the WR Chess Masters 2023 has a sole leader. GM Levon Aronian is in first place after round three following a smooth win against GM Nodirbek Abdusattorov. GMs Wesley So and Gukesh D, who made a draw in their game, are a half-po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-3",
-         "pubDate" : "Sat, 18 Feb 2023 14:24:00 -0800",
-         "title" : "Aronian Slays Sicilian Dragon, Assumes Sole Lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1408,14 +1424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/a-model-attack.html",
          "pubDate" : "Fri, 17 Feb 2023 12:43:00 +0000",
          "title" : "A model attack"
-      },
-      {
-         "description" : "Wesley So landed a famous tactical blow on move 15 against Jan-Krzysztof Duda to open the scoring in the WR Chess Masters in Dusseldorf, with Levon Aronian following with a win over Praggnanandhaa. Andrey Esipenko scored the day's last win, finally grinding down Vincent Keymer in a marathon 7-hour, 101-move win. Ian Nepomniachtchi forced an early draw after being surprised by Nodirbek Abdusattorov's Benko Gambit.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-1-so-aronian-and-esipenko-all-win",
-         "pubDate" : "Fri, 17 Feb 2023 11:18:52 +0000",
-         "title" : "WR Chess Masters 1: So, Aronian and Esipenko all win"
       },
       {
          "description" : "",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/10/chess-carlsen-and-nakamura-outwit-young-guns-in-offbeat-airthings-masters",
          "pubDate" : "Fri, 10 Feb 2023 08:00:03 +0000",
          "title" : "Chess: Carlsen and Nakamura outwit young guns in offbeat Airthings Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2224",
-         "pubDate" : "Thu, 09 Feb 2023 21:45:50 +0000",
-         "title" : "WGP Munich: Dzagnidze closes the gap"
       }
    ]
 }
