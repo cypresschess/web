@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "March Madness is here! Did you miss the start of the Collegiate Chess League (CCL), or want to relive the best moments so far? We&#38;rsquo;ve got you covered with this CCL mid-season recap: Don&#38;rsquo;t Mess With Texas Deep Dish Pizza Powers UChi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2023-spring-midseason-recap",
+         "pubDate" : "Fri, 03 Mar 2023 10:53:00 -0800",
+         "title" : "Collegiate Chess League: Spring 2023 Midseason Recap"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris analyses a sharp positional battle which emerged out of a Winawer variation in the French Defence. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ever-sharp-french-winawer",
+         "pubDate" : "Fri, 03 Mar 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The ever-sharp French Winawer"
+      },
+      {
          "description" : "Shanghai and Chongqing will host the two major Women's events of the year. More than three years after her last defence of the title in Shanghai and Vladivostok, women's world champion Ju Wenjun will face the winner of the Candidates' final match between Lei Tingjie and Tan Zhongyi.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/china-to-host-women-candidates-world-championship",
          "pubDate" : "Fri, 03 Mar 2023 15:30:00 +0100",
          "title" : "China to host Women's Candidates Final and Women's World Championship Match"
+      },
+      {
+         "description" : "Back in January, we proclaimed a new chess boom that was so big it was troubling our servers. Thankfully, those problems have been fixed now. But if you thought that sudden wave of interest in the game would pass, or it was perhaps just a fad fu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-boom-1-billion-games-played-in-february",
+         "pubDate" : "Fri, 03 Mar 2023 06:02:00 -0800",
+         "title" : "Chess Boom Hits New Heights With 1 Billion Games Played In February"
       },
       {
          "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "India No. 2 Vidit stuns world chess champion Carlsen"
       },
       {
-         "description" : "The first Cambridge International Open took place from Wednesday 15th to Sunday 19th February at the historic University Arms Hotel in Cambridge. In the first round top seed GM Michael Adams (2757) only drew against Henry Adams (1738), but still won the strong tournament convincingly with 8.0/9. Nigel Towers, director of Home Chess at the English Chess Federation, reports. | Photos: Shohreh Bayat",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-international-open",
-         "pubDate" : "Wed, 22 Feb 2023 10:00:00 +0100",
-         "title" : "Michael Adams wins Cambridge International Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1",
          "pubDate" : "Tue, 21 Feb 2023 23:41:27 +0000",
          "title" : "The American Cup 2023: Day 1"
-      },
-      {
-         "description" : "More than halfway through the WR Chess Masters 2023, GM Levon Aronian leads by a full point after beating GM Anish Giri in round five. GM Vincent Keymer scored his first win of the event against GM Nodirbek Abdusattorov after the latter&#39;s aggres...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-5",
-         "pubDate" : "Tue, 21 Feb 2023 14:09:00 -0800",
-         "title" : "Aronian Cracks Berlin Defense, Leads By Full Point; Keymer Scores 1st Win"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (66)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (66)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/play-game-watch-movie.html",
          "pubDate" : "Mon, 20 Feb 2023 11:38:00 +0000",
          "title" : "Play the game, watch the movie"
-      },
-      {
-         "description" : "Round four of the WR Chess Masters 2023 saw all five games end in draws. This leaves GM Levon Aronian in the sole lead on three points after his draw with GM Jan-Krzysztof Duda. GM Gukesh D played a stunning pawn sacrifice, and later an exchange...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-4",
-         "pubDate" : "Sun, 19 Feb 2023 19:18:00 -0800",
-         "title" : "Fireworks In Clash Of Youth, No Blood Spilled In Day Of Draws"
       },
       {
          "description" : "",
@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2225",
          "pubDate" : "Fri, 10 Feb 2023 23:41:56 +0000",
          "title" : "WGP Munich: Kosteniuk extends her lead"
-      },
-      {
-         "description" : " The Airthings Masters 2023 took place Fri 3rd Feb to Fri 10th Feb 2023. There was a preliminary qualifier on February 3rd to produce 6 qualifiers to join Magnus Carlsen and Wesley So in the Group 1 final stage. It also produced qualifiers for Group 2 and Group 3 of the event. This was a Swiss followed by a single round of matches. The final stage is a double elimination knockout. Magnus Carlsen beat Hikaru Nakamura twice to win the event. Caruana won Division 2 beating Yu Yangyi twice and Vincent Keymer beat Praggnanandaa twice to win Division 3.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/airthings-masters-2023",
-         "pubDate" : "Fri, 10 Feb 2023 22:51:00 +0400",
-         "title" : "Airthings Masters 2023 - Games and Results"
       }
    ]
 }
