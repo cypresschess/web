@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/",
+         "pubDate" : "Sat, 04 Mar 2023 07:25:38 +0000",
+         "title" : "European Individual Chess Championship 2023 commenced in Vrnjacka Banja, Serbia"
+      },
+      {
+         "description" : "On Friday, Team MGD1 gained their second victory in a row, defeating the California Unicorns in week three of the Pro Chess League. Though the match started out very close, GM Adhiban Baskaran&#39;s 4-0 performance combined with solid support from the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-mgd1-bishops",
+         "pubDate" : "Fri, 03 Mar 2023 22:50:00 -0800",
+         "title" : "Adhiban Gains Perfect Score for Team MGD1, Lee Wins Upset of the Season for Arch Bishops"
+      },
+      {
+         "description" : "The annual Varsity chess match between the University teams of Oxford (Dark Blues) and Cambridge (Light Blues) takes place today at The Royal Automobile Club, in London's Pall Mall. The Varsity match has often been described as the Boat Race of the Brain. Two years ago, the Cambridge \"boat\" sank, with almost all hands. After 139 []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/battle-of-the-blues/",
+         "pubDate" : "Sat, 04 Mar 2023 06:34:14 +0000",
+         "title" : "Battle of the Blues"
+      },
+      {
          "description" : "\"Armageddon Championship Series: Americas\", the first event of the cycle developed by World Chess, will take place on March 6-12 in Berlin. Wesley So, Jose Martinez, Ray Robson, Leinier Dominguez, Sam Shankland, Andrew Tang, Renato Terry and Eric Hansen will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1130,14 +1154,6 @@ news_feed (
          "title" : "WR Chess Masters 5: Aronian and Keymer win"
       },
       {
-         "description" : "At top chess tournaments, you usually see the pictures of the players before and during the games. But there is also a lot to see behind the scenes, and the WR Chess Masters at the Hyatt Regency Hotel in D&uuml;sseldorf is no exception. | Picture: Heike Keymer, Lotis Key and Sebastian Siebrecht (Photos: Andr&eacute; Schulz)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-scenes-of-the-wr-chess-masters",
-         "pubDate" : "Wed, 22 Feb 2023 12:50:39 +0100",
-         "title" : "Behind the Scenes of the WR Chess Masters"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Saint Louis Arch Bishops Captain Nemo @akaNemsko talks to the Arch Bishops&#039; GM Benjamin Bok before the start of the regular season. Saint Louis came up short the first week, but Week 2 against Team MGD1 is February 23 at 12p CST, streaming on akaNemsko on Twitch! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/benjamin-bok-amazing-arch-bishops-2023-pro-chess-league\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publi",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2246",
          "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
          "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
-      },
-      {
-         "description" : "The Indian Yogis and the Brazil Capybaras emerged victorious from their matches in the Pro Chess League on Tuesday after a day of grueling chess and an epic boilover. Staring down the barrel of a 5.5-6.5 deficit, the Yogis clutched up with a 4-0...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-yogis-capybaras",
-         "pubDate" : "Tue, 21 Feb 2023 17:01:00 -0800",
-         "title" : "Yogis 4-0 Turnaround Stuns Chessbrahs, Capybaras Crush Cobras"
       },
       {
          "description" : "<div class=\"body text-secondary\"> For the second time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Hikaru Nakamura vs. Jeffery Xiong<br /> Leinier Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Ray Robson<br /> Wesley So vs. Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
