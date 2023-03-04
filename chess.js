@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Armageddon Championship Series: Americas\", the first event of the cycle developed by World Chess, will take place on March 6-12 in Berlin. Wesley So, Jose Martinez, Ray Robson, Leinier Dominguez, Sam Shankland, Andrew Tang, Renato Terry and Eric Hansen will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-americas-preview",
+         "pubDate" : "Fri, 03 Mar 2023 21:45:00 +0100",
+         "title" : "Armageddon Series: So, Hansen and Dominguez to play in Americas' leg"
+      },
+      {
+         "description" : " Last week, we delved into our study of the fork in greater detail. This week, we'll further expand on what we've learned. It's important to start this article by stating that not all tactics are equal. That being the case, not all forks are equal, and many beginners end up not gaining any material, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\">A Foundation for Beginners Eighty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-five/",
+         "pubDate" : "Fri, 03 Mar 2023 20:42:50 +0000",
+         "title" : "A Foundation for Beginners Eighty Five"
+      },
+      {
          "description" : "March Madness is here! Did you miss the start of the Collegiate Chess League (CCL), or want to relive the best moments so far? We&#38;rsquo;ve got you covered with this CCL mid-season recap: Don&#38;rsquo;t Mess With Texas Deep Dish Pizza Powers UChi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "Statement of the European Chess Union - 22.02.2023"
       },
       {
-         "description" : "Today: Jeroen Van den Belt shows us the newest tournament search option. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-simplified-tournament-search-with-chessbase-17",
-         "pubDate" : "Wed, 22 Feb 2023 12:00:00 +0100",
-         "title" : "Explained by the engineers! - The simplified tournament search with ChessBase 17"
-      },
-      {
          "description" : "National School Chess Championship 2023, Hosur (All Certificates) U-07 Open : https://aicf.online/National-S-U-07-Open.html U-07 Girls : https://aicf.online/National-S-U-07-Girls.html U-09 Open : https://aicf.online/National-S-U-09-Open.html U-09 Girls : https://aicf.online/National-S-09-Girls.html U-11",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1712,14 +1720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2226",
          "pubDate" : "Sat, 11 Feb 2023 11:32:23 +0000",
          "title" : "Robert Katende: Have a heart that loves people no matter who they are"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2225",
-         "pubDate" : "Fri, 10 Feb 2023 23:41:56 +0000",
-         "title" : "WGP Munich: Kosteniuk extends her lead"
       }
    ]
 }
