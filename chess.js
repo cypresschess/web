@@ -10,12 +10,12 @@ news_feed (
          "title" : "Gelfand and Ivanchuk play the European Championship"
       },
       {
-         "description" : " The Capital City Open II attracted 31 local players in three sections. Florida State University professor Dr. Steven Lenhert won his second consecutive tournament despite losing to Richard Kennedy. The top section had five players, but under-1600 represented 25 players! This is the largest Tallahassee tournament in several years and was organized by Jacob Sperber, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/\">Lenhert wins Capital City Open II</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Capital City Open II attracted 31 local players to Tallahassee, Florida in three sections. Florida State University professor Dr. Steven Lenhert won his second consecutive tournament despite losing to Richard Kennedy. The top section had five players, but under-1600 represented 25 players! This is the largest Tallahassee tournament in several years and was organized The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/\">Lenhert wins Capital City Chess Open II</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/",
          "pubDate" : "Sat, 04 Mar 2023 15:06:51 +0000",
-         "title" : "Lenhert wins Capital City Open II"
+         "title" : "Lenhert wins Capital City Chess Open II"
       },
       {
          "description" : "The last time Svitlana played chess, was summer 2022. The Canadian club championship of Svitlana's chess club was another chance to finally move the pieces on the board again. The Canadian WIM is studying most of her time now, but this doesn't mean that she got worse in chess. It seems, the opposite was the case, and Svitlana won a round before the tournament ended! We take a look at two of her games.",
