@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Individual Chess Championship (EICC) started on Friday in the Serbian town of Vrnjačka Banja. Since the top half of the ratings list was paired against the lower half for the opening round, there were predominantly wins by the favourites, although there were also some exceptions to this 'rule'. The symbolic first move in the game between Vuk Damjanovic and Gabriel Sargissian, the top seed, was made by ECU President Zurab Azmaiparashvili and Dragan Lazic, President of the Serbian Chess Federation. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r1",
+         "pubDate" : "Sat, 04 Mar 2023 12:45:00 +0100",
+         "title" : "The European Championship kicked off in Vrnjacka Banja"
+      },
+      {
+         "description" : "The new ChessBase Magazine #212 provides, among many other things, 50 games with detailed commentary, a large part of which comes from the Tata Steel Masters and Challengers. Anish Giri is also an excellent analyst: he takes a close look at nine games from Wijk aan Zee as well as at games from current rapid chess events in CBM #212. Other authors are Jorden van Foreest, Praggnanandhaa, Alexander Donchenko and Peter Heine Nielsen. \"The Analysis\" of the issue comes - how could it be otherwise - from the winner of the Tata Steel Masters: it's Giri's long-awaited victory over Magnus Carlsen. Find an abridged version of his analysis here. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-analysis-anish-giri-comments",
+         "pubDate" : "Sat, 04 Mar 2023 11:00:00 +0100",
+         "title" : "\"The Analysis\" - Anish Giri shows his win over Carlsen"
+      },
+      {
+         "description" : "In the diagram position, Black wins by force if he plays his trumps in the right order. Attacking with patience - can you do it?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/controlled-power",
+         "pubDate" : "Sat, 04 Mar 2023 09:00:00 +0100",
+         "title" : "Controlled power"
+      },
+      {
          "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-boom-1-billion-games-played-in-february",
          "pubDate" : "Fri, 03 Mar 2023 06:02:00 -0800",
          "title" : "Chess Boom Hits New Heights With 1 Billion Games Played In February"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Fri, 03 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : "National Amateur Chess Championship 2023 in Punjab all are out to download. 1700 Men : https://aicf.online/National-A-1700-Men.html 1700 Women : https://aicf.online/National-A-1700-Women.html 2300 Men : https://aicf.online/National-A-2300-Men.html 2300",
@@ -192,6 +208,14 @@ news_feed (
          "link" : "https://www.chessdom.com/grand-chess-tour-names-field-of-elite-players-to-compete-for-1-4m-purse/",
          "pubDate" : "Thu, 02 Mar 2023 21:06:55 +0000",
          "title" : "Grand Chess Tour Names Field of Elite Players to Compete for $1.4M Purse"
+      },
+      {
+         "description" : "This month's Yahoos post has a schizophrenic foundation, in multiple senses of the word. Which word? Take your pick. (See also the footnote for an explanation of Yahoos.) <P>Unlike every previous Yahoo post on this blog -- e.g. last month's <A HREF=\"https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html\">First Yahoos of 2023</A>(January 2023) -- the summary of top Yahoos in February was constructed from data on two different days. That deserves an explanation. <P>I started writing this post using the data shown in the left half of the chart. On that day, at that time, <I>Google News</I> returned 99 stories, of which five were from the previous month, January. All five stories",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/schizophrenic-yahoos.html",
+         "pubDate" : "Thu, 02 Mar 2023 16:10:00 +0000",
+         "title" : "Schizophrenic Yahoos"
       },
       {
          "description" : "Sayantan Das becomes India&#39;s 81st GM after beating the opposition at the International Festival des Jeux in Cannes, France. Das entered the A Group of the tournament as an IM, chasing the 24 FIDE Elo points that would bring him to the 2500 mark an...",
@@ -1114,28 +1138,12 @@ news_feed (
          "title" : "WR Masters: Aronian's missed chance"
       },
       {
-         "description" : "In January the Russian Chess Federation applied for membership of the Asian Chess Federation and announced its intention to withdraw from ECU. Now Russian players who live in Europe and do not want to follow the RCF to Asia will be permitted to transfer to the ECU without paying fees to Russia and FIDE. They will also be eligible to play in the European Individual Chess Championship. Statement of the European Chess Union.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ecu-on-russia-transferring-to-asia",
-         "pubDate" : "Wed, 22 Feb 2023 22:34:06 +0100",
-         "title" : "ECU on Russia transferring to Asia"
-      },
-      {
          "description" : "GM Hikaru Nakamura won his third consecutive Titled Tuesday in the early tournament on February 21. GM Maxime Vachier-Lagrave followed up with a win in the late tournament. Both won with 9.5 points out of 11. GM Fabiano Caruana was another top p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-vachier-lagrave-win-titled-tuesday-february-21-2023",
          "pubDate" : "Wed, 22 Feb 2023 09:51:00 -0800",
          "title" : "Nakamura Continues Tuesday Run"
-      },
-      {
-         "description" : "Berlin will host two tournaments of the Armageddon Series. In March, the continental tournament for North and South America will be held here, with Wesley So among others. In September, Berlin is also the venue for the grand Armageddon finale.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/berlin-to-host-armageddon-championship-series-2023",
-         "pubDate" : "Wed, 22 Feb 2023 16:00:00 +0100",
-         "title" : "Berlin to Host Armageddon Championship Series 2023"
       },
       {
          "description" : "In the likely event that the Chess Federation of Russia (CFR) will join the Asian Chess Federation (ACF), Russian chess players can start representing a European chess federation immediately without any restrictions or transfer fees. The FIDE Coun...",
@@ -1704,30 +1712,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
          "pubDate" : "Sat, 11 Feb 2023 14:14:35 +0000",
          "title" : "A mirror into the soul of chess"
-      },
-      {
-         "description" : " Before you learn the exact move-by-move chess opening theory, you should learn the opening principles. Especially for Beginner chess players, these basic chess opening principles will be much more valuable than any amount of opening theory. By understanding the chess opening principles, you will be able to make good moves even if your opponent plays [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/chess-opening-strategy/\">Chess Opening Strategy: 3 Must-Know Principles</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/chess-opening-strategy/",
-         "pubDate" : "Sat, 11 Feb 2023 12:02:44 +0000",
-         "title" : "Chess Opening Strategy: 3 Must-Know Principles"
-      },
-      {
-         "description" : " The 2023 Lifeline Bookfair was once again incredibly popular (and crowded). Once again I got there early, and was part of the first wave of buyers. Unfortunately this years chess collection was both a little smaller than the last few years, and mainly consisted of books I already owned. As a result I did not add to my chess collection, but did pick up other books of interest (A 1948 Tourist Guide to London for example) One item I did see, but not buy, was a Kasparov 2000 RISC chess computer. It was only $60 but a lack of storage space in my study made the decision for me. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/2023-lifeline-bookfair.html",
-         "pubDate" : "Sat, 11 Feb 2023 11:53:00 +0000",
-         "title" : "2023 Lifeline Bookfair"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2226",
-         "pubDate" : "Sat, 11 Feb 2023 11:32:23 +0000",
-         "title" : "Robert Katende: Have a heart that loves people no matter who they are"
       }
    ]
 }
