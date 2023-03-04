@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-03-03","11","<a href=http://www.uschess.org/msa/XtblMain.php?202303031072 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 3, 2023</a>",
+"CYPRESS","2023-03-03","26","<a href=http://www.uschess.org/msa/XtblMain.php?202303030912 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-02-07  - 02-28","22","<a href=http://www.uschess.org/msa/XtblMain.php?202302289742 target='_blank'>FEB 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-02-06  - 02-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202302279992 target='_blank'>CLCC FEBRUARY MONDAYS</a>",
 "HOUSTON","2023-02-26","16","<a href=http://www.uschess.org/msa/XtblMain.php?202302267962 target='_blank'>FEB 26 SUNDAY SWISS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2022-07-22","4","<a href=http://www.uschess.org/msa/XtblMain.php?202207222382 target='_blank'>FBCC MOON LANDING OPEN</a>",
 "PEARLAND","2022-07-18  - 07-20","16","<a href=http://www.uschess.org/msa/XtblMain.php?202207208262 target='_blank'>SCS SUMMER CAMP CHESS TOURNAMENT</a>",
 "MISSOURI CITY","2022-07-19","12","<a href=http://www.uschess.org/msa/XtblMain.php?202207191622 target='_blank'>RCC QUADS JULY 19 2022</a>",
-"HOUSTON","2022-07-17","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207170862 target='_blank'>JULY 17 SUN SWISS</a>",
-"HOUSTON","2022-07-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207169092 target='_blank'>PISD JULY 2022- OLDER</a>",
 ]);
