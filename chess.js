@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vasyl Ivanchuk and Boris Gelfand are among the almost 500 participants in the European Individual Chess Championship that kicked off in Vrnjacka Banja, Serbia on Friday. Russian players were still eligible to take part before the switch to Asia comes into effect, but Alexandr Predke represents Serbia after he and Alexandra Kosteniuk were among the first to switch to another European federation.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/gelfand-and-ivanchuk-play-the-european-championship",
+         "pubDate" : "Sat, 04 Mar 2023 15:56:05 +0000",
+         "title" : "Gelfand and Ivanchuk play the European Championship"
+      },
+      {
+         "description" : " The Capital City Open II attracted 31 local players in three sections. Florida State University professor Dr. Steven Lenhert won his second consecutive tournament despite losing to Richard Kennedy. The top section had five players, but under-1600 represented 25 players! This is the largest Tallahassee tournament in several years and was organized by Jacob Sperber, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/\">Lenhert wins Capital City Open II</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/",
+         "pubDate" : "Sat, 04 Mar 2023 15:06:51 +0000",
+         "title" : "Lenhert wins Capital City Open II"
+      },
+      {
+         "description" : "The last time Svitlana played chess, was summer 2022. The Canadian club championship of Svitlana's chess club was another chance to finally move the pieces on the board again. The Canadian WIM is studying most of her time now, but this doesn't mean that she got worse in chess. It seems, the opposite was the case, and Svitlana won a round before the tournament ended! We take a look at two of her games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-won-the-ra-club-championship-2023",
+         "pubDate" : "Sat, 04 Mar 2023 15:00:00 +0100",
+         "title" : "Svitlana's Smart Moves - Svitlana won the RA Club Championship 2023!"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Sat, 04 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : " The next few months are going to be very busy, if you are a keen and active chess player. Next weekend is the Ballarat Open, while early April sees the O2C Doeberl Cup and the 2023 Oceania Junior and Youth Championships. But in between these events is one of my favourites, the 2023 Dubbo Open It is on the weekend of the 25th and 25th of March, at the Dubbo RSL Club, Dubbo NSW. It is a 6 round event with a time limit of 60m+30s. 1st prize is $450 and each year sees a mixed field of strong players, and the more casual tournament competitors. I've been attending for around 20 years, firstly as a player, and then as an arbiter, and I highly recommend it, especially as a warm up for the Doeberl.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/dubbo-2023.html",
+         "pubDate" : "Sat, 04 Mar 2023 12:51:00 +0000",
+         "title" : "Dubbo 2023"
+      },
+      {
          "description" : "The European Individual Chess Championship (EICC) started on Friday in the Serbian town of Vrnjačka Banja. Since the top half of the ratings list was paired against the lower half for the opening round, there were predominantly wins by the favourites, although there were also some exceptions to this 'rule'. The symbolic first move in the game between Vuk Damjanovic and Gabriel Sargissian, the top seed, was made by ECU President Zurab Azmaiparashvili and Dragan Lazic, President of the Serbian Chess Federation. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +74,12 @@ news_feed (
          "title" : "European Individual Chess Championship 2023 commenced in Vrnjacka Banja, Serbia"
       },
       {
-         "description" : "On Friday, Team MGD1 gained their second victory in a row, defeating the California Unicorns in week three of the Pro Chess League. Though the match started out very close, GM Adhiban Baskaran&#39;s 4-0 performance combined with solid support from the...",
+         "description" : "On Friday, Team MGD1 gained their second victory in a row, defeating the California Unicorns in week three of the Pro Chess League. Although the match started out very close, GM Adhiban Baskaran&#39;s 4-0 performance combined with solid support from t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-3-mgd1-bishops",
          "pubDate" : "Fri, 03 Mar 2023 22:50:00 -0800",
-         "title" : "Adhiban Gains Perfect Score for Team MGD1, Lee Wins Upset of the Season for Arch Bishops"
+         "title" : "Adhiban Gains Perfect Score For Team MGD1, Lee Wins Upset Of Season For Arch Bishops"
       },
       {
          "description" : "The annual Varsity chess match between the University teams of Oxford (Dark Blues) and Cambridge (Light Blues) takes place today at The Royal Automobile Club, in London's Pall Mall. The Varsity match has often been described as the Boat Race of the Brain. Two years ago, the Cambridge \"boat\" sank, with almost all hands. After 139 []",
@@ -1098,14 +1138,6 @@ news_feed (
          "title" : "WR Chess Masters 6: Aronian misses big chance against So"
       },
       {
-         "description" : "Chris Ward is showing us into an interesting endgame, which occurred between two strong US chess players a couple of weeks ago. The dragon variation, which we look at, leads us to an endgame with 7 pawns vs. 1 pawn, but with a full rook less! Which side would you rather be? At this point, the engine says = 0.00 equal position. Chris had a very similar game against Karsten Mueller once, which we also dive into, when both Grandmasters played in the German Bundesliga. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-the-modern-line-2",
-         "pubDate" : "Thu, 23 Feb 2023 10:59:40 +0100",
-         "title" : "The Monthly Dragon - 7 Pawns vs. 1 Pawn endgame!?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1128,14 +1160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-6",
          "pubDate" : "Wed, 22 Feb 2023 15:58:00 -0800",
          "title" : "So Survives Close Call Vs. Aronian, All Games Drawn"
-      },
-      {
-         "description" : "After all games finished drawn in round 6 of the WR Chess Masters, Levon Aronian continues to have a full-point lead atop the standings. The sole leader entered a sharp line with black against Wesley So, but failed to find a couple of precise continuations that would have given him very good winning chances. Three games lasted more than six hours in a round that featured plenty of tense, imbalanced positions. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r6",
-         "pubDate" : "Wed, 22 Feb 2023 23:15:00 +0100",
-         "title" : "WR Masters: Aronian's missed chance"
       },
       {
          "description" : "GM Hikaru Nakamura won his third consecutive Titled Tuesday in the early tournament on February 21. GM Maxime Vachier-Lagrave followed up with a win in the late tournament. Both won with 9.5 points out of 11. GM Fabiano Caruana was another top p...",
@@ -1418,14 +1442,6 @@ news_feed (
          "title" : "WR Chess Masters: Gukesh and Abdusattorov join the leaders"
       },
       {
-         "description" : "18-year-old Nodirbek Abdusattorov is up to World no. 14 after crashing through with a kingside attack against Andrey Esipenko in Round 2 of the WR Chess Masters. That saw him catch Wesley So and Levon Aronian in the lead, where he's joined by Gukesh, who for a second tournament in a row took down his Indian compatriot Praggnanandhaa.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-2-abdusattorov-enters-top-15",
-         "pubDate" : "Sat, 18 Feb 2023 10:50:58 +0000",
-         "title" : "WR Chess Masters 2: Abdusattorov enters Top 15"
-      },
-      {
          "description" : "Earlier this week a prima facie academic tome landed on my desk. In fact the author, as I realised with mounting excitement and anticipation, has made a brave attempt to update Richard R&eacute;ti's 1920s classic, Masters of the Chessboard, to the 21st century. While I was a pupil at Dulwich College - back in the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1696,22 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2228",
          "pubDate" : "Sat, 11 Feb 2023 22:16:33 +0000",
          "title" : "WGP Munich: Koneru or Kosteniuk - who will prevail? "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2227",
-         "pubDate" : "Sat, 11 Feb 2023 15:34:22 +0000",
-         "title" : "Jorge Vega Fernandez (1935-2023)"
-      },
-      {
-         "description" : "Indian Proverb: Chess is a sea in which a gnat may bathe and an elephant may drink. A powerful new voice has arisen in the world of chess literature. Howard Burton is an independent film maker and author. He is the Brain behind the new book: Chessays: Travels through the world of chess and creator of the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-mirror-into-the-soul-of-chess/",
-         "pubDate" : "Sat, 11 Feb 2023 14:14:35 +0000",
-         "title" : "A mirror into the soul of chess"
       }
    ]
 }
