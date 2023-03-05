@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 115th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-115-play-the-sicilian-16",
+         "pubDate" : "Sun, 05 Mar 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 115: Play the Sicilian (16)"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Sun, 05 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "After the second round of the European Championship, a 56-player leading group has emerged. Gabriel Sargissian, David Navara, Jules Moussard, Boris Gelfand and Ivan Saric are the five highest-rated players who have won their first two games in the Serbian city of Vrnjacka Banja. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r2",
+         "pubDate" : "Sun, 05 Mar 2023 14:20:00 +0100",
+         "title" : "European Championship: Two out of two"
+      },
+      {
+         "description" : " It's always enjoyable to play a highly thematic game in which you understand the pawn formation better than your opponent. If you know what's going on you don't even need too much time to play your moves. I enjoy playing positions where I have a space advantage in a closed position, so the S&auml;misch Variation <a href=\"https://chessimprover.com/thematic/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Thematic\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/thematic/\">Thematic</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/thematic/",
+         "pubDate" : "Sun, 05 Mar 2023 12:37:45 +0000",
+         "title" : "Thematic"
+      },
+      {
          "description" : " There is no doubt that chess is undergoing a real boom at the moment. Events are attracting record numbers of entries and the number of players online is so large that chess servers are falling over. Conventional wisdom is the combination of lockdowns ending and the Queens Gambit are the proximate causes. But I wonder if there is also a second order effect. In previous posts I have commented on how \"hard\" chess is. If you are a new player there is a real barrier to joining the chess community, and that barrier is ability. Despite the rhetoric of chess clubs being welcoming and encouraging beginners etc, they can be quite forbidding, especially if you start of losing a large number of games.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1042,14 +1074,6 @@ news_feed (
          "title" : "Interview with C&eacute;dric Biscay, creator of the manga series \"Blitz\""
       },
       {
-         "description" : "In his \"Game of the Week\" show #556, Merijn van Delft takes a look at a fantastic attacking game Nodirbek Abdusattorov played against Andrey Esipenko at the WR Masters in D&uuml;sseldorf. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-556-n-abdusattorov-a-esipenko",
-         "pubDate" : "Fri, 24 Feb 2023 10:35:21 +0100",
-         "title" : "Game of the Week #556: N. Abdusattorov - A. Esipenko"
-      },
-      {
          "description" : "\"If he wants a draw that badly, I should push,\" said Ian Nepomniachtchi after Levon Aronian incorrectly claimed a draw by 3-fold repetition in their clash in Round 7 of the WR Chess Masters. Nepo went on to beat the leader with the black pieces, allowing Gukesh to catch Levon with some inventive play in the opening against Andrey Esipenko.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1098,14 +1122,6 @@ news_feed (
          "title" : "Balance Over MVPs: Shanghai Tigers, Team MGD1 Defeat Heavyweights"
       },
       {
-         "description" : "Round 7 was a major turning point at the WR Chess Masters in D&uuml;sseldorf. Levon Aronian, who had a full-point lead and seemed to be cruising to victory, lost to Ian Nepomniachtchi, while Dommaraju Gukesh got the better of Andrey Esipenko. Thus, Gukesh and Aronian are now sharing the lead with 4&frac12; points each. Wesley So and Nepomniachtchi stand a half point back with two rounds to go. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r7",
-         "pubDate" : "Fri, 24 Feb 2023 00:15:00 +0100",
-         "title" : "WR Masters: Gukesh climbs to shared first place, Nepo beats Aronian"
-      },
-      {
          "description" : "Round seven may be a turning point in the WR Chess Masters 2023 as GM Ian Nepomniachtchi defeated the tournament leader, GM Levon Aronian, with the black pieces. Nepomniachtchi slips into a tie for third-fourth place with GM Wesley So, who drew GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-asian-chess-summit.html",
          "pubDate" : "Thu, 23 Feb 2023 11:37:00 +0000",
          "title" : "2023 Asian Chess Summit"
-      },
-      {
-         "description" : "The traditional Biel Chess Festival seemed to be in danger after the city of Biel wanted to cut its subsidies. After a petition, the situation has improved and in summer the strongest \"Triathlon\" will continue - among others with Vincent Keymer again.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-festival-biel-continues",
-         "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
-         "title" : "The Chess Festival Biel continues!"
       },
       {
          "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/the-von-niemann-probe.html",
          "pubDate" : "Sun, 12 Feb 2023 16:51:00 +0000",
          "title" : "'The Von Niemann Probe'"
-      },
-      {
-         "description" : " I decided to test out the <a href=\"http://clono.no\">Clono</a> system at Street Chess yesterday. For anyone not familiar, it is an electronic scoresheet and game broadcast system that has recently been approved by FIDE* It runs on android devices, with the intended platform being 7 to 10 inch tablets. What I was testing was the feasibility of broadcasting games played at Street Chess in realtime I provided a 7 inch android tablet to one of the players, to see how easy it was to (a) set up at my end and (b) to record a game in a rapidplay event (15 minutes per game). It turns out that while the concept is good, it currently needs a lot of improvements to be practical. The main issue I had as ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/clono-quick-review.html",
-         "pubDate" : "Sun, 12 Feb 2023 13:08:00 +0000",
-         "title" : "Clono - a quick review"
       }
    ]
 }
