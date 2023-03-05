@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Facing the mighty Baden-Baden in the Bundesliga, Jon Speelman was paired up against Etienne Bacrot (pictured) with black. The English grandmaster thus describes the start of what turned out to be a miniature win for Bacrot: \"I then made the mistake of fairly quickly sleepwalking along the moves which you play against the supposed main line 5.g3, and he hit me hard on move 8 with g4!. [...] A move or so later, when I finally awoke from my slumber, I was already lost.\" | Photo: Anastasiia Korolkova / FIDE World Cup 2021",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-189",
+         "pubDate" : "Sun, 05 Mar 2023 19:00:00 +0100",
+         "title" : "Suicidal somnambulism"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 115th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-conference-2023",
          "pubDate" : "Sun, 05 Mar 2023 04:05:00 +0100",
          "title" : "Chess and STEM to be discussed at London Conference"
+      },
+      {
+         "description" : " From the London Chess Centre Publishing web site: &#8220;Kupreichik: The Maestro from Minsk features tributes to the legendary attacker from those who regularly faced him at the board, including Alexander <a href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Kupreichik: The Maestro From Minsk</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\">Kupreichik: The Maestro From Minsk</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/",
+         "pubDate" : "Sun, 05 Mar 2023 00:10:39 +0000",
+         "title" : "Kupreichik: The Maestro From Minsk"
       },
       {
          "description" : "The Reykjavik Open 2023 is takimg place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. More than 150 players []",
@@ -400,6 +416,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/acf-confers-grandmaster-d-gukesh-with-player-of-the-year-award/articleshow/98360957.cms",
          "pubDate" : "Thu, 02 Mar 2023 09:31:35 +0000",
          "title" : "ACF confers Grandmaster D Gukesh with Player-of-the-Year award"
+      },
+      {
+         "description" : " The Immortal Games of Capablanca: Fred Reinfeld From the publisher: &#8220;We are pleased to release another book in the Fred Reinfeld Chess Classics series. The Immortal Games of Capablanca was <a href=\"http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Immortal Games of Capablanca</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/\">The Immortal Games of Capablanca</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/",
+         "pubDate" : "Thu, 02 Mar 2023 00:10:38 +0000",
+         "title" : "The Immortal Games of Capablanca"
       },
       {
          "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
@@ -1066,14 +1090,6 @@ news_feed (
          "title" : "Building Discipline: 3 Key Ideas for Improving at Chess"
       },
       {
-         "description" : "\"Blitz\" is a French cult manga based on the Japanese model. It revolves around chess, and Garry Kasparov is an advisor to the team of authors. Tatiana Flores spoke to the creator of the series, C&eacute;dric Biscay | Picture: The cover of Blitz volume one and a glimpse of one of the exciting chess games (French edition). | Photo: IWA/Shibuya Productions",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-cdric-biscay-creator-of-the-manga-series-blitz",
-         "pubDate" : "Fri, 24 Feb 2023 11:00:00 +0100",
-         "title" : "Interview with C&eacute;dric Biscay, creator of the manga series \"Blitz\""
-      },
-      {
          "description" : "\"If he wants a draw that badly, I should push,\" said Ian Nepomniachtchi after Levon Aronian incorrectly claimed a draw by 3-fold repetition in their clash in Round 7 of the WR Chess Masters. Nepo went on to beat the leader with the black pieces, allowing Gukesh to catch Levon with some inventive play in the opening against Andrey Esipenko.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1704,14 +1720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2229",
          "pubDate" : "Sun, 12 Feb 2023 22:23:15 +0000",
          "title" : "WGP Munich: Narrow escape for Kosteniuk "
-      },
-      {
-         "description" : "We saw this story last month in <A HREF=\"https://chessforallages.blogspot.com/search?q=niemann&max-results=20&by-date=true\">First Yahoos of 2023</A>(January 2023): 'This Chess-Cheating Wearable Aims to Investigate the Accusations Against Grandmaster Hans Neimann (hackster.io)'. Now here's the related video. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/ygy8M-QhbSo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>We Built the Alleged Hans Niemann Chess Cheating Device (and You Can Too!)</B> (21:58) &#149; '[Published on] Jan 28, 2023",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/the-von-niemann-probe.html",
-         "pubDate" : "Sun, 12 Feb 2023 16:51:00 +0000",
-         "title" : "'The Von Niemann Probe'"
       }
    ]
 }
