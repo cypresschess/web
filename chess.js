@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Reykjavik Open 2023 is takimg place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. More than 150 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-open-2023/",
+         "pubDate" : "Sat, 04 Mar 2023 22:08:12 +0000",
+         "title" : "Reykjavik Open 2023"
+      },
+      {
+         "description" : "The WGM Cvijet Mediterana 2023 is taking place from 05.-11.03.2023 in Rijeka, Croatia.The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;This is a 9- Round Robin tournament with the participation of: Evgeniya Doluhanova, Viktoria Radeva, Mirjana Medi&#x107;, Anastasiya Rakhmangulova, Maria Manakova, Nadya Toncheva, Ana Berke, Tihana Ivekovi&#x107;, Barbara Skuhala and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/23-wgm-cvijet-mediterana-2023/",
+         "pubDate" : "Sat, 04 Mar 2023 21:43:19 +0000",
+         "title" : "23 WGM Cvijet Mediterana 2023"
+      },
+      {
+         "description" : "The 1st International &#x201C;Women&#x2019;s Chess Championship&#x201D; is taking place from 5-12 March 2023 in Tashkent, Uzbekistan. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two rating categories &#8220;A&#8221; for the participants rated 1500 or more and &#8220;B&#8221; for the participants rated less []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-international-womens-chess-championship/",
+         "pubDate" : "Sat, 04 Mar 2023 21:25:30 +0000",
+         "title" : "1st International \"Women's Chess Championship\" 2023"
+      },
+      {
          "description" : "Vasyl Ivanchuk and Boris Gelfand are among the almost 500 participants in the European Individual Chess Championship that kicked off in Vrnjacka Banja, Serbia on Friday. Russian players were still eligible to take part before the switch to Asia comes into effect, but Alexandr Predke represents Serbia after he and Alexandra Kosteniuk were among the first to switch to another European federation.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -314,36 +338,12 @@ news_feed (
          "title" : "Sethuraman wins Cappelle-la-Grande Open on his 30th birthday"
       },
       {
-         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The open is set to start on March 3 in Vrnjacka Banja, Serbia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-championship-2023-breaking-the-titled-players-record-1/",
-         "pubDate" : "Thu, 02 Mar 2023 10:18:01 +0000",
-         "title" : "European Individual Chess Championship 2023 - breaking the titled players record"
-      },
-      {
-         "description" : "The Pilsen Open 2023 B is going to take place from 3-11 March in Plzen, Czech Republic. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in 4 categories A IM, B Open, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pilsen-open-2023-b/",
-         "pubDate" : "Thu, 02 Mar 2023 09:38:47 +0000",
-         "title" : "Pilsen Open 2023 - B"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98360957.cms\" />Indian Grandmaster D Gukesh has been honoured with Player-of-the-Year award by the Asian Chess Federation (ACF) for clinching the gold medal with a record-breaking score of 9/11 in the 44th Chess Olympiad at Mahabalipuram last year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/acf-confers-grandmaster-d-gukesh-with-player-of-the-year-award/articleshow/98360957.cms",
          "pubDate" : "Thu, 02 Mar 2023 09:31:35 +0000",
          "title" : "ACF confers Grandmaster D Gukesh with Player-of-the-Year award"
-      },
-      {
-         "description" : "The Pilsen Open 2023 is going to take place from 3-11 March in Plzen, Czech Republic. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. The tournament is separated in 4 categories A IM, B Open, C Rapid, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pilsen-open-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 09:31:33 +0000",
-         "title" : "Pilsen Open 2023"
       },
       {
          "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/12/the-chess-drum-is-22/",
          "pubDate" : "Sun, 12 Feb 2023 05:36:08 +0000",
          "title" : "The Chess Drum is 22!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2228",
-         "pubDate" : "Sat, 11 Feb 2023 22:16:33 +0000",
-         "title" : "WGP Munich: Koneru or Kosteniuk - who will prevail? "
       }
    ]
 }
