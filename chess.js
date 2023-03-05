@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the London Chess Conference will take place on 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU in order to establish a co-operative working practice. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-conference-2023",
+         "pubDate" : "Sun, 05 Mar 2023 04:05:00 +0100",
+         "title" : "Chess and STEM to be discussed at London Conference"
+      },
+      {
          "description" : "The Reykjavik Open 2023 is takimg place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. More than 150 players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Svitlana won the RA Club Championship 2023!"
       },
       {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Sat, 04 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
-      },
-      {
          "description" : " The next few months are going to be very busy, if you are a keen and active chess player. Next weekend is the Ballarat Open, while early April sees the O2C Doeberl Cup and the 2023 Oceania Junior and Youth Championships. But in between these events is one of my favourites, the 2023 Dubbo Open It is on the weekend of the 25th and 25th of March, at the Dubbo RSL Club, Dubbo NSW. It is a 6 round event with a time limit of 60m+30s. 1st prize is $450 and each year sees a mixed field of strong players, and the more casual tournament competitors. I've been attending for around 20 years, firstly as a player, and then as an arbiter, and I highly recommend it, especially as a warm up for the Doeberl.",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,20 +66,20 @@ news_feed (
          "title" : "Dubbo 2023"
       },
       {
-         "description" : "The European Individual Chess Championship (EICC) started on Friday in the Serbian town of Vrnjačka Banja. Since the top half of the ratings list was paired against the lower half for the opening round, there were predominantly wins by the favourites, although there were also some exceptions to this 'rule'. The symbolic first move in the game between Vuk Damjanovic and Gabriel Sargissian, the top seed, was made by ECU President Zurab Azmaiparashvili and Dragan Lazic, President of the Serbian Chess Federation. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r1",
-         "pubDate" : "Sat, 04 Mar 2023 12:45:00 +0100",
-         "title" : "The European Championship kicked off in Vrnjacka Banja"
-      },
-      {
          "description" : "The new ChessBase Magazine #212 provides, among many other things, 50 games with detailed commentary, a large part of which comes from the Tata Steel Masters and Challengers. Anish Giri is also an excellent analyst: he takes a close look at nine games from Wijk aan Zee as well as at games from current rapid chess events in CBM #212. Other authors are Jorden van Foreest, Praggnanandhaa, Alexander Donchenko and Peter Heine Nielsen. \"The Analysis\" of the issue comes - how could it be otherwise - from the winner of the Tata Steel Masters: it's Giri's long-awaited victory over Magnus Carlsen. Find an abridged version of his analysis here. Enjoy!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-analysis-anish-giri-comments",
          "pubDate" : "Sat, 04 Mar 2023 11:00:00 +0100",
          "title" : "\"The Analysis\" - Anish Giri shows his win over Carlsen"
+      },
+      {
+         "description" : "The European Individual Chess Championship (EICC) started on Friday in the Serbian town of Vrnjačka Banja. Since the top half of the ratings list was paired against the lower half for the opening round, there were predominantly wins by the favourites, although there were also some exceptions to this 'rule'. The symbolic first move in the game between Vuk Damjanovic and Gabriel Sargissian, the top seed, was made by ECU President Zurab Azmaiparashvili and Dragan Lazic, President of the Serbian Chess Federation. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r1",
+         "pubDate" : "Sat, 04 Mar 2023 10:45:00 +0100",
+         "title" : "The European Championship kicked off in Vrnjacka Banja"
       },
       {
          "description" : "In the diagram position, Black wins by force if he plays his trumps in the right order. Attacking with patience - can you do it?",
