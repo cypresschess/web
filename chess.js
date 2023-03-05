@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There is no doubt that chess is undergoing a real boom at the moment. Events are attracting record numbers of entries and the number of players online is so large that chess servers are falling over. Conventional wisdom is the combination of lockdowns ending and the Queens Gambit are the proximate causes. But I wonder if there is also a second order effect. In previous posts I have commented on how \"hard\" chess is. If you are a new player there is a real barrier to joining the chess community, and that barrier is ability. Despite the rhetoric of chess clubs being welcoming and encouraging beginners etc, they can be quite forbidding, especially if you start of losing a large number of games.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/is-it-getting-easier-to-play-chess.html",
+         "pubDate" : "Sun, 05 Mar 2023 12:02:00 +0000",
+         "title" : "Is it getting easier to play chess?"
+      },
+      {
+         "description" : "Today: Mathias Feist explains how ChessBase 17 automatically pastes games and positions from the clipboard. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-copy-and-paste-from-the-clipboard-with-chessbase-17",
+         "pubDate" : "Sun, 05 Mar 2023 10:00:00 +0100",
+         "title" : "Explained by the engineers! - Copy and paste from the clipboard with ChessBase 17"
+      },
+      {
          "description" : "The 9th edition of the London Chess Conference will take place on 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU in order to establish a co-operative working practice. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ever-sharp-french-winawer",
          "pubDate" : "Fri, 03 Mar 2023 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: The ever-sharp French Winawer"
+      },
+      {
+         "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-tools-support.html",
+         "pubDate" : "Fri, 03 Mar 2023 16:45:00 +0000",
+         "title" : "Chess.com's Game Review Tools Support"
       },
       {
          "description" : "Shanghai and Chongqing will host the two major Women's events of the year. More than three years after her last defence of the title in Shanghai and Vladivostok, women's world champion Ju Wenjun will face the winner of the Candidates' final match between Lei Tingjie and Tan Zhongyi.",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-chess-festival-biel-continues",
          "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
          "title" : "The Chess Festival Biel continues!"
-      },
-      {
-         "description" : "A new super-tournament is taking place in D&uuml;sseldorf, with five vetted GMs facing five raising talents. Karsten M&uuml;ller is keeping a close eye on the event, and has sent us a number of fascinating endgames, annotated. Find here six instructive positions. Time to learn and enjoy! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-endgames-1",
-         "pubDate" : "Thu, 23 Feb 2023 12:00:00 +0100",
-         "title" : "Endgames from D&uuml;sseldorf (1)"
       },
       {
          "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
