@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2266",
+         "pubDate" : "Mon, 06 Mar 2023 07:45:19 +0000",
+         "title" : "Ahmad Al Khatib and Lina Nassr win Arab Chess Championship"
+      },
+      {
          "description" : "Referring to Boris Gelfand's style, Vladimir Kramnik wrote: \"What impresses me most is his ability to create games, where all the moves, from the first to the last, are as though links in a single logical chain\". GM Sundararajan Kidambi analyses Gelfand's win over Vishy Anand at the 2012 World Championship match in Moscow, a perfect example of the Israeli's brilliant strategic aptitude. | Photo: Rodrigo Fernandez",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
