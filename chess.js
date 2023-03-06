@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today the players of the group \"Americas\" start the Armageddon Championship series with a seven-day double-elimination tournament that begins today in Berlin. They hope to qualify for the finals of the series, which will be played in September in Berlin. Today Wesley So vs Sam Shankland and Renato Terry vs Eric Hansen will play. Start: 19.00 CET. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Mon, 06 Mar 2023 18:45:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "In his Endgame Magic Show #230 Karsten shows endgame highlights from the Airthings Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-230-endgame-highlights-form-the-airthings-masters",
+         "pubDate" : "Mon, 06 Mar 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #230: Endgame highlights from the Airthings Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2268",
+         "pubDate" : "Mon, 06 Mar 2023 16:55:33 +0000",
+         "title" : "Romanian Chess Federation launches Education through Chess national project"
+      },
+      {
          "description" : "While a number of Russian chess masters have publicly spoken out in favour of stopping the Russian war of aggression, hardly anything has been heard from others. For example, from Vladimir Kramnik, the 14th World Champion (2000 to 2007). Martin Breutigam, author and International Master, asked Kramnik about the long silence - and received a full answer. | Photo: Guido Kohlen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "Kramnik breaks his silence on the war"
       },
       {
-         "description" : "On Saturday, top GMs Fabiano Caruana and Hikaru Nakamura as well as WGM Jennifer Shahade took part in a panel discussion at the MIT Sloan School of Management&#39;s annual Sports Analytics Conference in Boston. The three talked about the further growt...",
+         "description" : "On Friday, top GMs Fabiano Caruana and Hikaru Nakamura as well as WGM Jennifer Shahade took part in a panel discussion at the MIT Sloan School of Management&#39;s annual Sports Analytics Conference in Boston. The three talked about the further growth ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-mit-sloan-sports-analytics-conference-chess",
-         "pubDate" : "Mon, 06 Mar 2023 07:57:30 -0800",
-         "title" : "Caruana, Nakamura, Shahade Discuss The Growth Of Chess At MIT Sloan"
+         "pubDate" : "Mon, 06 Mar 2023 07:57:00 -0800",
+         "title" : "'The Game Should Be Willing To Adjust': Caruana, Nakamura, Shahade Talk At MIT"
       },
       {
          "description" : "The current ChessBase Magazine #212 offers three opening videos: Rustam Kasimdzhanov examines the Ruy Lopez with 8.a4 b4 9.a5, which was played twice in the Tata Steel Masters 2023 (So-Keymer and Caruana-Carlsen). Nico Zwirs checks Magnus Carlsen's idea 7...Bg4 in the Queen's Gambit Exchange Variation. And Mihail Marin puts the Evans Gambit from the game Beerdsen-Pechac from the Challengers to the test. You can watch an excerpt from Kasimdzhanov's video analysis here. Have fun!",
@@ -1034,14 +1058,6 @@ news_feed (
          "title" : "WR Chess Masters: Three candidates for tournament victory"
       },
       {
-         "description" : "The WR Chess Masters took place in D&uuml;sseldorf on February 15-25. A 10-players single round-robin, the event featured a mix of established, elite players and young, ambitious talents. Levon Aronian won the tournament after prevailing in a three-player rapid tiebreaker over Ian Nepomniachtchi and Dommaraju Gukesh. | Replay all the games with computer-assisted analysis.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-live",
-         "pubDate" : "Sat, 25 Feb 2023 13:45:00 +0100",
-         "title" : "WR Chess Masters - Games and standing"
-      },
-      {
          "description" : " The WR Masters took place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This was a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko. Levon Aronian won all three games in a tie-break against Nepomniachtchi and Gukesh, the final two rounds weren't needed as he couldn't be caught.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-8-keymer-ends-so-s-hopes",
          "pubDate" : "Sat, 25 Feb 2023 10:36:14 +0000",
          "title" : "WR Chess Masters 8: Keymer ends So's hopes"
-      },
-      {
-         "description" : "Today: Mathias Feist shows us how to enable the new speak text annotation for ChessBase 17, in just a couple of clicks. ChessBase 17 offers many new features. We help to use them optimally! In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-speak-text-annotation-for-chessbase-17",
-         "pubDate" : "Sat, 25 Feb 2023 11:31:53 +0100",
-         "title" : "Explained by the engineers! - The new speak text annotation for ChessBase 17"
       },
       {
          "description" : "As the Pro Chess League&#39;s second week reached its conclusion on Friday, the Croatia Bulldogs and the Gotham Knights secured narrow match wins over the Berlin Bears and the California Unicorns respectively. Following a hard-fought loss in week on...",
@@ -1704,30 +1712,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/pro-chess-league-2023",
          "pubDate" : "Tue, 14 Feb 2023 16:22:00 +0400",
          "title" : "PRO Chess League 2023 - Games and Results"
-      },
-      {
-         "description" : " Chess Heroes: Checkmates (slightly retitled from Checkmates for Heroes) is now available on Amazon. This is the first of a series of four parallel books (the others feature tactics, openings and endings) designed to take readers or students from about 500 to 1500 strength. For social players (adult or junior) who would like to be <a href=\"https://chessimprover.com/chess-heroes-checkmates/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Checkmates\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-checkmates/\">Chess Heroes: Checkmates</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improve",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-heroes-checkmates/",
-         "pubDate" : "Mon, 13 Feb 2023 19:29:13 +0000",
-         "title" : "Chess Heroes: Checkmates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2231",
-         "pubDate" : "Mon, 13 Feb 2023 18:02:36 +0000",
-         "title" : "Alexandra Kosteniuk wins 2023 Women's Grand Prix Munich "
-      },
-      {
-         "description" : "Continuing with <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), the site mentions four other engines after stalwarts Stockfish and LCZero: Asmfish, Berserk, Koivisto, Sugar AI (and Sugar AI ICCF). I asked the TCEC and CCC '!commands' to tell me more about these engines. <P><B>TCEC:-</B> <UL><LI><B>!asmfish</B>&#149; asmFish, a port of Stockfish in x86-64 assembly by Mohammed Li, optional using AVX2 and BMI2 instructions, assembled with FASM to run under Windows or UNIX/Linux, first released in June 2016. See also<BR>https://www.chessprogramming.org/AsmFish and<BR>https://github.com/CounterPly/asmFish <LI><B>!ber",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html",
-         "pubDate" : "Mon, 13 Feb 2023 16:49:00 +0000",
-         "title" : "Chessify's Other Engines"
       }
    ]
 }
