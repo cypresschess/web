@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Eleven players continue with perfect score after round 3 of the European Individual Chess Championship. Nguyen Thai Dai Van, Vahap Sanal, Stamatis Kourkoulos-Arditis, Eltaj Safarli, Dimitrios Mastrovasilis, Denis Kadric, Grzegorz Nasuta, Anton Korobov, Ido Gorshtein, Nikolozi Kacharava, and the ex-World Champion Ruslan Ponomariov are leading with 3,0/3. They are followed by 71 players with 2,5/3 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/young-players-and-legends-top-the-european-individual-chess-2023/",
+         "pubDate" : "Sun, 05 Mar 2023 23:35:54 +0000",
+         "title" : "Young players and legends top the European Individual Chess 2023"
+      },
+      {
          "description" : "Facing the mighty Baden-Baden in the Bundesliga, Jon Speelman was paired up against Etienne Bacrot (pictured) with black. The English grandmaster thus describes the start of what turned out to be a miniature win for Bacrot: \"I then made the mistake of fairly quickly sleepwalking along the moves which you play against the supposed main line 5.g3, and he hit me hard on move 8 with g4!. [...] A move or so later, when I finally awoke from my slumber, I was already lost.\" | Photo: Anastasiia Korolkova / FIDE World Cup 2021",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ilamparthi-tests-gukesh",
          "pubDate" : "Thu, 02 Mar 2023 14:00:00 +0100",
          "title" : "Ilamparthi tests Gukesh!"
-      },
-      {
-         "description" : "The European Individual Chess Championship 2023 is going to take place from 2nd to 14th March in Vrnjacka Banja, Serbia. More than 430 players have already registered for the event and the event is breaking the participation record previously set in Rijeka 2010 with 408 participants. The registration deadline is February 2nd, 2023. European Individual []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-ches-championship-2023-breaking-the-participation-record/",
-         "pubDate" : "Thu, 02 Mar 2023 11:35:00 +0000",
-         "title" : "European Individual Chess Championship 2023 breaking the participation record"
       },
       {
          "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
@@ -1712,14 +1712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2230",
          "pubDate" : "Mon, 13 Feb 2023 13:29:25 +0000",
          "title" : "Elier Miranda wins Cuban Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2229",
-         "pubDate" : "Sun, 12 Feb 2023 22:23:15 +0000",
-         "title" : "WGP Munich: Narrow escape for Kosteniuk "
       }
    ]
 }
