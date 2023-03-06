@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds, eleven players still have the maximum number of points at the European Championship in Vrnjacka Banja. The young Czech player Nguyen Thai Dai Van has the best tiebreak and nominally leads the field. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-11-players-share-lead-with-3-0-3",
+         "pubDate" : "Mon, 06 Mar 2023 13:21:53 +0100",
+         "title" : "European Championship: 11 players start with 3.0/3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,20 +42,20 @@ news_feed (
          "title" : "Suicidal somnambulism"
       },
       {
+         "description" : "This month's initial list of <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010) was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. <P>The item pictured below was titled, 'Victor Vasarely L'&eacute;chiquier chess board signed print (1969)', where <I>L'&eacute;chiquier</I> is French for 'chess board'. It sold 'Best offer accepted' after one bid for GBP 380.00 ('approximately US $455.13', according to eBay). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc05.gif\" WIDTH=280 HEIGHT=400> <P>The description repeated the title and said, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html",
+         "pubDate" : "Sun, 05 Mar 2023 16:28:00 +0000",
+         "title" : "Poster Perfect Chess Art"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 115th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-115-play-the-sicilian-16",
          "pubDate" : "Sun, 05 Mar 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 115: Play the Sicilian (16)"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Sun, 05 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : "After the second round of the European Championship, a 56-player leading group has emerged. Gabriel Sargissian, David Navara, Jules Moussard, Boris Gelfand and Ivan Saric are the five highest-rated players who have won their first two games in the Serbian city of Vrnjacka Banja. | Photos: European Chess Union",
