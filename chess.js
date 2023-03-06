@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "While a number of Russian chess masters have publicly spoken out in favour of stopping the Russian war of aggression, hardly anything has been heard from others. For example, from Vladimir Kramnik, the 14th World Champion (2000 to 2007). Martin Breutigam, author and International Master, asked Kramnik about the long silence - and received a full answer. | Photo: Guido Kohlen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-breaks-his-silence-on-the-war",
+         "pubDate" : "Mon, 06 Mar 2023 17:00:00 +0100",
+         "title" : "Kramnik breaks his silence on the war"
+      },
+      {
+         "description" : "On Saturday, top GMs Fabiano Caruana and Hikaru Nakamura as well as WGM Jennifer Shahade took part in a panel discussion at the MIT Sloan School of Management&#39;s annual Sports Analytics Conference in Boston. The three talked about the further growt...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-mit-sloan-sports-analytics-conference-chess",
+         "pubDate" : "Mon, 06 Mar 2023 07:57:30 -0800",
+         "title" : "Caruana, Nakamura, Shahade Discuss The Growth Of Chess At MIT Sloan"
+      },
+      {
+         "description" : "The current ChessBase Magazine #212 offers three opening videos: Rustam Kasimdzhanov examines the Ruy Lopez with 8.a4 b4 9.a5, which was played twice in the Tata Steel Masters 2023 (So-Keymer and Caruana-Carlsen). Nico Zwirs checks Magnus Carlsen's idea 7...Bg4 in the Queen's Gambit Exchange Variation. And Mihail Marin puts the Evans Gambit from the game Beerdsen-Pechac from the Challengers to the test. You can watch an excerpt from Kasimdzhanov's video analysis here. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/theory-updates-from-wijk-aan-zee",
+         "pubDate" : "Mon, 06 Mar 2023 15:00:00 +0100",
+         "title" : "Theory updates from Wijk aan Zee"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2267",
+         "pubDate" : "Mon, 06 Mar 2023 13:56:06 +0000",
+         "title" : "FIDE delegation visits Sudan"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Mon, 06 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "Bobby Fischer is certainly the most famous of the Pisces chess players. But other top players include Bent Larsen, Veselin Topalov, Vasyl Ivanchuk, Teimour Radjabov, Hou Yifan, Anna Muzychuk and David Bronstein. Those who are Pisces can sometimes be as brilliant as Albert Einstein. With the Pisces-born, the circle of the twelve signs of the zodiac has come full circle, making this our final instalment.| Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pisces-and-their-strategy",
+         "pubDate" : "Mon, 06 Mar 2023 14:10:43 +0100",
+         "title" : "Pisces and their Strategy"
+      },
+      {
          "description" : "After three rounds, eleven players still have the maximum number of points at the European Championship in Vrnjacka Banja. The young Czech player Nguyen Thai Dai Van has the best tiebreak and nominally leads the field. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1026,30 +1074,6 @@ news_feed (
          "title" : "Explained by the engineers! - The new speak text annotation for ChessBase 17"
       },
       {
-         "description" : "After 25...exd5 White skillfully set up the final attack. If you see his first move right away - please check black counterstrikes!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-on-the-horizon",
-         "pubDate" : "Sat, 25 Feb 2023 09:00:00 +0100",
-         "title" : "Checkmate on the horizon"
-      },
-      {
-         "description" : "Vincent Keymer scored his second win at the WR Chess Masters in round 8, as he defeated Wesley So with the black pieces and left him out of the race for tournament victory. Levon Aronian and Gukesh are sharing the lead on 5/8 points and will face each other in the final round. If they draw and Ian Nepomniachtchi manages to beat Keymer, a three-way play-off will decide the winner of the tournament. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r8",
-         "pubDate" : "Sat, 25 Feb 2023 08:55:00 +0100",
-         "title" : "WR Masters: Keymer beats So"
-      },
-      {
-         "description" : "In the year 2023, names like Praggnanandhaa, Keymer, Abdusattarov, and Esipenko are common to every chess fan. A couple of years ago, only the chess specialists knew them from the top 100 junior FIDE list. Svitlana's prepared some nice analysis for us of the WR Chess Masters Tournament, with unexpected twists and tactical turns!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-duesseldorf-wunderkinder",
-         "pubDate" : "Sat, 25 Feb 2023 08:30:00 +0100",
-         "title" : "Svitlana's Smart Moves - The Duesseldorf Wunderkinder"
-      },
-      {
          "description" : "As the Pro Chess League&#39;s second week reached its conclusion on Friday, the Croatia Bulldogs and the Gotham Knights secured narrow match wins over the Berlin Bears and the California Unicorns respectively. Following a hard-fought loss in week on...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1064,14 +1088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-8",
          "pubDate" : "Fri, 24 Feb 2023 14:49:00 -0800",
          "title" : "Keymer Beats So With Black; Aronian 'Over The Moon With Joy' After Saving Lost Game"
-      },
-      {
-         "description" : "The tournament will be held at the world's biggest chess club, one that covers an area of 34,000 square feet, including the main hall, which can accommodate up to 500 players. The 6th Sharjah Masters 2023 will take place from May 16th (arrival) to 26th (departure), 2023. Entry fees range from 0 to 300 USD (depending on title and rating), the prizes from 300 to 10,000 USD. Sharjah is the third-most populous city in the United Arab Emirates, after Dubai and Abu Dhabi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2023",
-         "pubDate" : "Fri, 24 Feb 2023 18:05:00 +0100",
-         "title" : "Sharjah Masters 2023"
       },
       {
          "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
@@ -1224,14 +1240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-vachier-lagrave-win-titled-tuesday-february-21-2023",
          "pubDate" : "Wed, 22 Feb 2023 09:51:00 -0800",
          "title" : "Nakamura Continues Tuesday Run"
-      },
-      {
-         "description" : "In the likely event that the Chess Federation of Russia (CFR) will join the Asian Chess Federation (ACF), Russian chess players can start representing a European chess federation immediately without any restrictions or transfer fees. The FIDE Coun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-waives-player-transfer-fees-russia-asia",
-         "pubDate" : "Wed, 22 Feb 2023 06:36:00 -0800",
-         "title" : "FIDE To Waive Transfer Fees For Russian Players Switching To Europe"
       },
       {
          "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html",
          "pubDate" : "Mon, 13 Feb 2023 16:49:00 +0000",
          "title" : "Chessify's Other Engines"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2230",
-         "pubDate" : "Mon, 13 Feb 2023 13:29:25 +0000",
-         "title" : "Elier Miranda wins Cuban Championship"
       }
    ]
 }
