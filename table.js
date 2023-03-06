@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-03-05","7","<a href=http://www.uschess.org/msa/XtblMain.php?202303052712 target='_blank'>MARCH 5TH SUNDAY SWISS</a>",
 "HOUSTON","2023-03-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303042062 target='_blank'>SATURDAY ADULT QUADS - MAR 4</a>",
 "HOUSTON","2023-03-04","158","<a href=http://www.uschess.org/msa/XtblMain.php?202303041922 target='_blank'>EASTWOOD ACADEMY SCHOLASTIC TOURNAM</a>",
 "HOUSTON","2023-03-03","11","<a href=http://www.uschess.org/msa/XtblMain.php?202303031072 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 3, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "PEARLAND","2022-07-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202207228822 target='_blank'>SCS CHESS CAMP TOURNAMENT III</a>",
 "CYPRESS","2022-07-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202207223282 target='_blank'>KOC</a>",
 "SPRING","2022-07-22","27","<a href=http://www.uschess.org/msa/XtblMain.php?202207222432 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-07-22","4","<a href=http://www.uschess.org/msa/XtblMain.php?202207222382 target='_blank'>FBCC MOON LANDING OPEN</a>",
 ]);
