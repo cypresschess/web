@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Referring to Boris Gelfand's style, Vladimir Kramnik wrote: \"What impresses me most is his ability to create games, where all the moves, from the first to the last, are as though links in a single logical chain\". GM Sundararajan Kidambi analyses Gelfand's win over Vishy Anand at the 2012 World Championship match in Moscow, a perfect example of the Israeli's brilliant strategic aptitude. | Photo: Rodrigo Fernandez",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/singular-strategy-kidambi",
+         "pubDate" : "Mon, 06 Mar 2023 04:00:00 +0100",
+         "title" : "Singular strategy"
+      },
+      {
          "description" : "Eleven players continue with perfect score after round 3 of the European Individual Chess Championship. Nguyen Thai Dai Van, Vahap Sanal, Stamatis Kourkoulos-Arditis, Eltaj Safarli, Dimitrios Mastrovasilis, Denis Kadric, Grzegorz Nasuta, Anton Korobov, Ido Gorshtein, Nikolozi Kacharava, and the ex-World Champion Ruslan Ponomariov are leading with 3,0/3. They are followed by 71 players with 2,5/3 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sharjah-masters-2023",
          "pubDate" : "Fri, 24 Feb 2023 18:05:00 +0100",
          "title" : "Sharjah Masters 2023"
-      },
-      {
-         "description" : "In his 'Fast & Furious' show, Robert Ris takes a look at the recent developments in the Poisoned Pawn Variation of the French Steinitz. | \"Fast and Furious\" is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-poisoned-pawn-variation-of-the-french-steinitz",
-         "pubDate" : "Fri, 24 Feb 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The Poisoned Pawn Variation of the French Steinitz"
       },
       {
          "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
