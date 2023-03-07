@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alejandro Ramirez announced his resignation on Monday from the Saint Louis Chess Club and will no longer coach the Saint Louis University chess team. On February 15, WGM Jennifer Shahade reported on Twitter that Ramirez assaulted her twice an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alejandro-ramirez-resigns-from-st-louis-chess-club",
+         "pubDate" : "Mon, 06 Mar 2023 17:00:00 -0800",
+         "title" : "Alejandro Ramirez Resigns From Saint Louis Chess Club"
+      },
+      {
          "description" : "The Stockhol Championship 2023 will take place from 06 of March to 29 of May 2023 in Stockholm, Sweden. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-week-2-wizards-passers",
          "pubDate" : "Wed, 22 Feb 2023 16:49:00 -0800",
          "title" : "Levitov Chess Wizards Win Again, Garden State Passers Fry Spanish Maniac Shrimps"
-      },
-      {
-         "description" : "GM Levon Aronian nearly extended his lead with a win on Wednesday in the WR Chess Masters 2023, but GM Wesley So escaped the danger and drew the game. With draws in all five games of round six, leaving the order of the standings unchanged, Aronian...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-6",
-         "pubDate" : "Wed, 22 Feb 2023 15:58:00 -0800",
-         "title" : "So Survives Close Call Vs. Aronian, All Games Drawn"
       },
       {
          "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
