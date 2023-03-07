@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen will join Hikaru Nakamura, Wesley So, Fabiano Caruana and four qualifiers April 3-7 for the Chessable Masters, the 2nd event on the $2 million 2023 Champions Chess Tour. The Ding Liren vs. Ian Nepomniachtchi World Championship match starts just two days later in Astana, Kazakhstan, so that this will be the last major event Magnus plays as the classical World Champion, at least for the near future.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-so-caruana-play-4th-chessable-masters",
+         "pubDate" : "Tue, 07 Mar 2023 15:02:06 +0000",
+         "title" : "Carlsen, Nakamura, So & Caruana play 4th Chessable Masters"
+      },
+      {
+         "description" : "It&#39;s the moment the chess world has been holding its breath for&#38;mdash;Magnus Carlsen&#39;s last major outing as world champion. And it will come at the 2023 Chessable Masters. Chess.com&#38;rsquo;s $2 million Champions Chess Tour will return with the la...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsens-last-dance-chessable-masters",
+         "pubDate" : "Tue, 07 Mar 2023 06:55:54 -0800",
+         "title" : "Carlsen's Last Dance: Chessable Masters To Be Final Event As World Champion"
+      },
+      {
+         "description" : "The first quarter-finals of the Americas group of the World Chess Armageddon series were played on Monday. The venue is the World Chess Club Unter den Linden in Berlin. Wesley So won against Sam Shankland and Renato Terry prevailed in the Armageddon against Eric Hansen. The losers continue in the elimination group. | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-wins-for-so-and-terry",
+         "pubDate" : "Tue, 07 Mar 2023 15:04:18 +0100",
+         "title" : "World Chess: Wins for So and Terry"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Tue, 07 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "After Sara Khadem, one of Iran's top women players, played without headscarf at the World Blitz and Rapid Chess Championships 2022, she left Iran with her family for fear of reprisals and now lives in Spain. The Spanish magazine Elle now published a portrait of Sara Khadem and made some chic fashion photos with her. | Photo: Elle",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sara-khadem-a-portrait-in-the-spanish-elle",
+         "pubDate" : "Tue, 07 Mar 2023 14:04:15 +0100",
+         "title" : "Sara Khadem - A portrait in the Spanish Elle"
+      },
+      {
+         "description" : " Recently my blitz abilities have decreased somewhat dramatically. I really am getting too old and too slow. To fix this I am trying to practice against various crippled versions of Stockfish on Lichess, not to work on my moves, but mainly to work on my speed. Here is a recent effort <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"800\" data-original-width=\"686\" height=\"400\" src=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" width=\"343\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/too-old-and-too-slow.html",
+         "pubDate" : "Tue, 07 Mar 2023 12:48:00 +0000",
+         "title" : "Too old and too slow"
+      },
+      {
          "description" : "Today: Matthias Wuellenweber goes into detail about the new evaluation function for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-evaluation-function-of-chessbase-17",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-visual-evaluation-function-of-chessbase-17",
          "pubDate" : "Tue, 07 Mar 2023 13:23:42 +0100",
-         "title" : "Explained by the engineers! - The evaluation function of ChessBase 17!"
+         "title" : "Explained by the engineers! - The visual evaluation function of ChessBase 17!"
       },
       {
          "description" : "&#8220;When everybody finally stops talking, then I will, inexplicably, have something real to say.&#8221; This is part of the salty take by MrDodgy on Kramnik's war statement. See the full text by MrDodgy in the #TweetOftheDay",
@@ -128,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-plays-last-classical-games-as-world-champion",
          "pubDate" : "Mon, 06 Mar 2023 12:38:44 -0800",
          "title" : "End Of An Era: Magnus Carlsen Plays Last Classical Games As World Champion"
-      },
-      {
-         "description" : "Today the players of the group \"Americas\" start the Armageddon Championship series with a seven-day double-elimination tournament that begins today in Berlin. They hope to qualify for the finals of the series, which will be played in September in Berlin. Today Wesley So vs Sam Shankland and Renato Terry vs Eric Hansen will play. Start: 19.00 CET. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Mon, 06 Mar 2023 18:45:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
          "description" : "In his Endgame Magic Show #230 Karsten shows endgame highlights from the Airthings Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -978,14 +1018,6 @@ news_feed (
          "title" : "Endgames from D&uuml;sseldorf (2)"
       },
       {
-         "description" : "The 44th Finnish Championship in solving took place in the Chess Arena in Helsinki. In the close contest for the top honours, five solvers managed to score more than 50 points. Dutch GM solver Dolf Wissmann missed only 1.5 points and emerged as a deserved winner, ahead of two other GMs, Martynas Limontas of Lithuania and Jorma Paavilainen of Finland, who shared the second place. | Photos: Hannu Harkola",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/finnish-championship-solving-2023",
-         "pubDate" : "Mon, 27 Feb 2023 08:00:00 +0100",
-         "title" : "Wissmann wins in Finland, solvers move to Poland and the Netherlands"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1000,14 +1032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/the-streak-remains.html",
          "pubDate" : "Sun, 26 Feb 2023 18:05:00 +0000",
          "title" : "The streak remains"
-      },
-      {
-         "description" : "Professor Jerry Nash is the current chairman of FIDE's Commission on Chess in Education. A long-standing educator who is passionate about helping others, Nash asserts in this interview conducted by Uvencio Blanco: \"Chess can really positively alter the classroom environment by improving student behaviour and engagement\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jerry-nash-interview-2023",
-         "pubDate" : "Sun, 26 Feb 2023 19:00:00 +0100",
-         "title" : "Jerry Nash: \"Chess can improve the student-teacher dynamic\""
       },
       {
          "description" : "MPL NATIONAL RAPID CHESS CHAMPIONSHIP 2022-23 AICF EVENT CODE: 307994 /JK/ 2022was organized by CROWN TRUST, under the aegis of Jammu district chess association, All",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "WR Chess Masters Round 6: Endgame battles"
       },
       {
-         "description" : "The Levitov Chess Wizards and the Garden State Passers recorded comfortable victories in the second week of the Pro Chess League on Wednesday after gaining momentum from their respective board-fours who defeated their opponents&#39; board ones. Join...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-wizards-passers",
-         "pubDate" : "Wed, 22 Feb 2023 16:49:00 -0800",
-         "title" : "Levitov Chess Wizards Win Again, Garden State Passers Fry Spanish Maniac Shrimps"
-      },
-      {
          "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1474,14 +1490,6 @@ news_feed (
          "title" : "Do you play for ratings or conditions?"
       },
       {
-         "description" : "Levon Aronian cut Nodirbek Abdusattorov's stay in the Top 15 short as he outplayed his young opponent in the Sicilian Dragon to take the sole lead after Round 3 of the WR Chess Masters. The day's only other win came for Praggnanandhaa, who bounced back from two defeats to leapfrog Vincent Keymer out of last place.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-3-aronian-beats-abdusattorov",
-         "pubDate" : "Sun, 19 Feb 2023 09:16:08 +0000",
-         "title" : "WR Chess Masters 3: Aronian beats Abdusattorov"
-      },
-      {
          "description" : " I'm a member of a Chess Teachers and Learners group on Facebook. I'm not sure whether I find the general tone of the discussion amusing or disturbing. These are some of the questions that crop up regularly. &#8220;The computer cheated against me. I took all its pieces and now it can't move its king anywhere <a href=\"https://chessimprover.com/revenge-of-the-noobs/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Revenge of the Noobs\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/revenge-of-the-noobs/\">Revenge of the Noobs</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
          "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
          "title" : "Blunders Be Gone! | Beginner Breakdown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/endgame-challenge-three-rook-and-pawn-endgames/#new_tab",
-         "pubDate" : "Tue, 14 Feb 2023 15:03:21 +0000",
-         "title" : "Endgame Challenge Three - The Rerun"
-      },
-      {
-         "description" : " When faced with a spectacular queen sacrifice by one of the worlds greatest players, the obvious thing to do is resign. Black certainly thought that resigning was the best move in the following game, as 10. ... cxd6 loses to 11.Bxf7# But both players overlooked one move .... <br /> <b>Capablanca,Jose Raul - Meyer,Leonhard B [C77]</b><br />New York rapid transit New York,NY, 05.03.1908 <script>new PgnViewer( { boardName: \"game1381\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 Nxe4 6.d5 Ne7 7.Nxe5 b5 8.Bb3 Bb7 9.d6 Nxd6 10.Qxd6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1381-container\"></div><div id=\"game1381-moves\"></d",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/a-brilliant-resignation.html",
-         "pubDate" : "Tue, 14 Feb 2023 12:52:00 +0000",
-         "title" : "A brilliant resignation"
       }
    ]
 }
