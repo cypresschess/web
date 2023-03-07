@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players are sharing the lead at the European Championship in Vrnjacka Banja, Serbia. Eltaj Safarli from Azerbaijan is joined by the Ukrainian duo of Anton Korobov and Ruslan Ponomariov (pictured) as the three participants who have scored four victories in as many games. A total of 23 players stand a half point back - Gabriel Sargissian, Boris Gelfand and Alexey Sarana are the highest-rated players in the chasing pack. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r4",
+         "pubDate" : "Tue, 07 Mar 2023 09:05:00 +0100",
+         "title" : "European Championship: Safarli, Korobov and Ponomariov on 4/4"
+      },
+      {
+         "description" : "Pawns often open the way for their king - what should White do in the diagram position?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/getting-in",
+         "pubDate" : "Tue, 07 Mar 2023 09:00:00 +0100",
+         "title" : "Getting in"
+      },
+      {
+         "description" : "Magnus Carlsen played three classical games over the weekend, as he helped Offerspill win the Norwegian League title for the first time. These three encounters were Carlsen's last rated classical games before the World Championship match, where either Ian Nepomniachtchi or Ding Liren will take the world crown. If Carlsen does not choose to fight to regain the title, these could end up being his last three classical games as world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-norwegian-league-2023",
+         "pubDate" : "Tue, 07 Mar 2023 05:50:00 +0100",
+         "title" : "Carlsen helps Offerspill win title, plays last games as world champion"
+      },
+      {
          "description" : "GM Alejandro Ramirez announced his resignation on Monday from the Saint Louis Chess Club and will no longer coach the Saint Louis University chess team. On February 15, WGM Jennifer Shahade reported on Twitter that Ramirez assaulted her twice an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2267",
          "pubDate" : "Mon, 06 Mar 2023 13:56:06 +0000",
          "title" : "FIDE delegation visits Sudan"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Mon, 06 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : "Bobby Fischer is certainly the most famous of the Pisces chess players. But other top players include Bent Larsen, Veselin Topalov, Vasyl Ivanchuk, Teimour Radjabov, Hou Yifan, Anna Muzychuk and David Bronstein. Those who are Pisces can sometimes be as brilliant as Albert Einstein. With the Pisces-born, the circle of the twelve signs of the zodiac has come full circle, making this our final instalment.| Photo: Pixabay",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "Aronian shines in rapid playoff, wins WR Chess Masters"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 114th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-113-play-the-sicilian-2",
-         "pubDate" : "Sun, 26 Feb 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 114: Play the Sicilian (15)"
-      },
-      {
          "description" : "Levon Aronian has won the inaugural WR Chess Masters after dominating a playoff against Ian Nepomniachtchi and Gukesh. Levon had earlier made a quick draw against Gukesh in their classical game and then watched as Nepomniachtchi ground out an 82-move win on demand against Vincent Keymer to join them in the playoff. Aronian wins €40,000, while Gukesh and Nepo shared €20,000 each.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/gct-field-2023-announced-with-firouzja",
          "pubDate" : "Sat, 25 Feb 2023 19:15:31 +0000",
          "title" : "Firouzja returns as 2023 Grand Chess Tour field announced"
-      },
-      {
-         "description" : "Full tour player invitations for the 2023 GCTs edition were extended to nine players. Three players qualified by finishing 1st through 3rd in the 2022 Grand Chess Tour. The remaining 6 were invited based on a number of factors, including URS rating, FIDE rating, fighting spirit and sportsmanship. Both contenders for the World Championship crown, Ian Nepomniachtchi and Ding Liren, are included in the field. | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2023-players",
-         "pubDate" : "Sat, 25 Feb 2023 20:00:00 +0100",
-         "title" : "Grand Chess Tour names field of elite players to compete for $1.4M purse"
       },
       {
          "description" : " From the Batsford web site: &#8220;Following on from the enduring success of one of the most important chess books ever written, Bobby Fischer: My 60 Memorable Games, and the recently <a href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Fabiano Caruana: 60 Memorable Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\">Fabiano Caruana: 60 Memorable Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
