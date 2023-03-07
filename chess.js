@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today: Matthias Wuellenweber goes into detail about the new evaluation function for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-evaluation-function-of-chessbase-17",
+         "pubDate" : "Tue, 07 Mar 2023 13:23:42 +0100",
+         "title" : "Explained by the engineers! - The evaluation function of ChessBase 17!"
+      },
+      {
+         "description" : "&#8220;When everybody finally stops talking, then I will, inexplicably, have something real to say.&#8221; This is part of the salty take by MrDodgy on Kramnik's war statement. See the full text by MrDodgy in the #TweetOftheDay",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mrdodgy-roasts-kramnik-tweetoftheday/",
+         "pubDate" : "Tue, 07 Mar 2023 09:51:10 +0000",
+         "title" : "MrDodgy roasts Kramnik #TweetOftheDay"
+      },
+      {
+         "description" : "Four rounds have already been played at the European Individual Chess Championship 2023 in Vrnjacka Banja, Serbia, and only three players emerged on the top with 4/4 points: GM Anton Korobov (UKR, 2658), GM Ruslan Ponomariov (UKR, 2655), and GM Eltaj Safarli (AZE, 2608).&#160;The leading trio is followed by a group of 23 players with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/korobov-ponomariov-and-safarli-in-the-lead-at-the-european-individual-chess-championship-2023/",
+         "pubDate" : "Tue, 07 Mar 2023 09:34:45 +0000",
+         "title" : "Korobov, Ponomariov and Safarli in the lead at the European Individual Chess Championship 2023"
+      },
+      {
+         "description" : "The Ramat Gan Purim Rapid was played this March 6th in Ramat Gan, Israel. GM Evgeny Postny finished with 5,0/5, a full point ahead of the second placed Ukranian player IM Anton Sitnikov. See the full standings and replay the games below 1 GM Postny, Evgeny ISR 2542 5 2 IM Sitnikov, Anton UKR 2352 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/evgeny-postny-wins-ramat-gan-purium-2023/",
+         "pubDate" : "Tue, 07 Mar 2023 09:17:56 +0000",
+         "title" : "Evgeny Postny wins Ramat Gan Purium 2023"
+      },
+      {
+         "description" : "The Federal publishes an interesting story about the life of Vishy Anand and his wife Aruna. In an excerpt from &#8216;Like Fine Wine: Nine Real, Rare Love Stories' you will find, as Vishy himself puts it, some of his best off the board moves.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vishy-anand-some-of-his-best-off-the-board-moves/",
+         "pubDate" : "Tue, 07 Mar 2023 09:06:39 +0000",
+         "title" : "Vishy Anand - some of his best off the board moves"
+      },
+      {
          "description" : "Three players are sharing the lead at the European Championship in Vrnjacka Banja, Serbia. Eltaj Safarli from Azerbaijan is joined by the Ukrainian duo of Anton Korobov and Ruslan Ponomariov (pictured) as the three participants who have scored four victories in as many games. A total of 23 players stand a half point back - Gabriel Sargissian, Boris Gelfand and Alexey Sarana are the highest-rated players in the chasing pack. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,14 +122,6 @@ news_feed (
          "title" : "Kramnik shares thoughts on the Russia - Ukraine war"
       },
       {
-         "description" : "The WGM Mediterranean Flowers 2023 is taking place from 5&#x2013;11 March 2023 in Rijeka, Croatia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Anastasiya Rakhmangulova, Ana Berke, Viktoria Radeva, Barbara Skuhala, Nadya Toncheva, Mirjana Medic, Maria Manakova, Tihana Ivekovic, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wgm-mediterranean-flowers-2023-live/",
-         "pubDate" : "Mon, 06 Mar 2023 21:44:48 +0000",
-         "title" : "WGM Mediterranean Flowers 2023 - LIVE"
-      },
-      {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,6 +144,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-230-endgame-highlights-form-the-airthings-masters",
          "pubDate" : "Mon, 06 Mar 2023 18:00:00 +0100",
          "title" : "Endgame Magic #230: Endgame highlights from the Airthings Masters"
+      },
+      {
+         "description" : "For the previous fortnightly post on the two most important, ongoing engine vs. engine competitions the keyword was 'Underway': <A HREF=\"https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html\">Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway</A>(February 2023). Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish won 'Swiss 4', a point ahead of KomodoDragon and LCZero. The site then started S24 League 2 (see diagram for S24 stages). &#149; CCC: The 'CCC20 Blitz Newcomers' and 'Qualifier #1' events have finished and 'Qualifier #2' is underway. The next stage, 'CCC20 Blitz Main', will have 12 engines with three coming from 'Qualifier #2'",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html",
+         "pubDate" : "Mon, 06 Mar 2023 16:59:00 +0000",
+         "title" : "TCEC S24 L1, CCC20 Blitz Semifinals: Final Week"
+      },
+      {
+         "description" : "(Under 8 - 18) Chess Championship 2023 Batumi (Georgia) 5th to 12th June, 2023 FIDE World Cadet &#38; Youth Rapid &#38; Blitz (Under 8",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadet-youth-rapid-blitz/",
+         "pubDate" : "Mon, 06 Mar 2023 16:56:55 +0000",
+         "title" : "FIDE World Cadet & Youth Rapid & Blitz 2023"
       },
       {
          "description" : "",
@@ -186,14 +234,6 @@ news_feed (
          "title" : "Singular strategy"
       },
       {
-         "description" : "Eleven players continue with perfect score after round 3 of the European Individual Chess Championship. Nguyen Thai Dai Van, Vahap Sanal, Stamatis Kourkoulos-Arditis, Eltaj Safarli, Dimitrios Mastrovasilis, Denis Kadric, Grzegorz Nasuta, Anton Korobov, Ido Gorshtein, Nikolozi Kacharava, and the ex-World Champion Ruslan Ponomariov are leading with 3,0/3. They are followed by 71 players with 2,5/3 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/young-players-and-legends-top-the-european-individual-chess-2023/",
-         "pubDate" : "Sun, 05 Mar 2023 23:35:54 +0000",
-         "title" : "Young players and legends top the European Individual Chess 2023"
-      },
-      {
          "description" : "Facing the mighty Baden-Baden in the Bundesliga, Jon Speelman was paired up against Etienne Bacrot (pictured) with black. The English grandmaster thus describes the start of what turned out to be a miniature win for Bacrot: \"I then made the mistake of fairly quickly sleepwalking along the moves which you play against the supposed main line 5.g3, and he hit me hard on move 8 with g4!. [...] A move or so later, when I finally awoke from my slumber, I was already lost.\" | Photo: Anastasiia Korolkova / FIDE World Cup 2021",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -264,22 +304,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/",
          "pubDate" : "Sun, 05 Mar 2023 00:10:39 +0000",
          "title" : "Kupreichik: The Maestro From Minsk"
-      },
-      {
-         "description" : "The Reykjavik Open 2023 is takimg place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. More than 150 players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-open-2023/",
-         "pubDate" : "Sat, 04 Mar 2023 22:08:12 +0000",
-         "title" : "Reykjavik Open 2023"
-      },
-      {
-         "description" : "The WGM Cvijet Mediterana 2023 is taking place from 05.-11.03.2023 in Rijeka, Croatia.The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;This is a 9- Round Robin tournament with the participation of: Evgeniya Doluhanova, Viktoria Radeva, Mirjana Medi&#x107;, Anastasiya Rakhmangulova, Maria Manakova, Nadya Toncheva, Ana Berke, Tihana Ivekovi&#x107;, Barbara Skuhala and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/23-wgm-cvijet-mediterana-2023/",
-         "pubDate" : "Sat, 04 Mar 2023 21:43:19 +0000",
-         "title" : "23 WGM Cvijet Mediterana 2023"
       },
       {
          "description" : "Vasyl Ivanchuk and Boris Gelfand are among the almost 500 participants in the European Individual Chess Championship that kicked off in Vrnjacka Banja, Serbia on Friday. Russian players were still eligible to take part before the switch to Asia comes into effect, but Alexandr Predke represents Serbia after he and Alexandra Kosteniuk were among the first to switch to another European federation.",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Nepo Baby"
       },
       {
-         "description" : "Levon Aronian convincingly prevailed in a three-player rapid tiebreaker to win the first edition of the WR Chess Masters. After quickly drawing their round-9 game, Aronian and Dommaraju Gukesh saw Ian Nepomniachtchi beating Vincent Keymer to join them in the lead. A double round-robin playoff between the three players followed. Aronian won his first three 10-minute games to secure the title. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-r9",
-         "pubDate" : "Sun, 26 Feb 2023 15:20:00 +0100",
-         "title" : "Aronian shines in rapid playoff, wins WR Chess Masters"
-      },
-      {
          "description" : "Levon Aronian has won the inaugural WR Chess Masters after dominating a playoff against Ian Nepomniachtchi and Gukesh. Levon had earlier made a quick draw against Gukesh in their classical game and then watched as Nepomniachtchi ground out an 82-move win on demand against Vincent Keymer to join them in the playoff. Aronian wins €40,000, while Gukesh and Nepo shared €20,000 each.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1458,14 +1474,6 @@ news_feed (
          "title" : "Do you play for ratings or conditions?"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Rajasthan Chess Assocaition &#38; Chess in Lakecity is organizing &#160;&#160;&#160;a Senior National Arbiters Seminar at St.Anthony's School Sector",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-at-udaipur/",
-         "pubDate" : "Sun, 19 Feb 2023 10:43:35 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination at Udaipur"
-      },
-      {
          "description" : "Levon Aronian cut Nodirbek Abdusattorov's stay in the Top 15 short as he outplayed his young opponent in the Sicilian Dragon to take the sole lead after Round 3 of the WR Chess Masters. The day's only other win came for Praggnanandhaa, who bounced back from two defeats to leapfrog Vincent Keymer out of last place.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1696,22 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/a-brilliant-resignation.html",
          "pubDate" : "Tue, 14 Feb 2023 12:52:00 +0000",
          "title" : "A brilliant resignation"
-      },
-      {
-         "description" : " The Cambridge International Open takes place Wed 15th Feb to Sun 19th Feb 2023. Michael Adams is the top seed. Stand alone opens like this are fairly rare in the UK. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/cambridge-international-open-2023",
-         "pubDate" : "Tue, 14 Feb 2023 16:25:00 +0400",
-         "title" : "Cambridge International Open 2023 - Games and Results"
-      },
-      {
-         "description" : " The PRO Chess League returns after a two year break. The event runs Tue 14th Feb to Sat 15th Apr 2023. Carlsen, Giri, Nakamura, Caruana, Grischuk etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/pro-chess-league-2023",
-         "pubDate" : "Tue, 14 Feb 2023 16:22:00 +0400",
-         "title" : "PRO Chess League 2023 - Games and Results"
       }
    ]
 }
