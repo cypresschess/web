@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Stockhol Championship 2023 will take place from 06 of March to 29 of May 2023 in Stockholm, Sweden. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stockholm-championship-2023/",
+         "pubDate" : "Mon, 06 Mar 2023 22:39:41 +0000",
+         "title" : "Stockholm Championship 2023"
+      },
+      {
+         "description" : "THe 2nd Lumezzane International Chess Festival 2023 will take place from 10-12 March 2023 in Lumezzane, Italy. The tournament system is 6-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament is separated in 2 cattegories Elite and Challenge. The total prize fund of Elite section os 3500 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-lumezzane-international-chess-festival-2023/",
+         "pubDate" : "Mon, 06 Mar 2023 22:31:29 +0000",
+         "title" : "2nd Lumezzane International Chess Festival 2023"
+      },
+      {
+         "description" : "THe 6th Sharjah Masters 2023 Challengers section will take place from 16-26 March 2023 in Sharjah, UAE. The tournament system is 9-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0; THe tournament is separated in 3 different categories Master section, Challengers section and Futures section. The total []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section/",
+         "pubDate" : "Mon, 06 Mar 2023 22:16:06 +0000",
+         "title" : "6th Sharjah Masters 2023 - Challengers section"
+      },
+      {
+         "description" : "In a first of a kind interview for agesspiegel, cited by Chessbase, Kramnik opened about his views on the war. Kramnik says he is against all wars a priori and shares a lot of what he indirectly implied in the past months, but also keeps more for later saying, &#8220;I will express my views on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kramnik-on-the-war-empty-vanity-fair/",
+         "pubDate" : "Mon, 06 Mar 2023 22:14:06 +0000",
+         "title" : "Kramnik on the war: empty vanity fair"
+      },
+      {
+         "description" : "The 6th Sharjah Masters 2023 will take place from 16-26 March 2023 in Sharjah, UAE. The tournament system is 9-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0; THe tournament is separated in 3 different categories Master section, Challengers section and Futures section. The total prize fund is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023/",
+         "pubDate" : "Mon, 06 Mar 2023 22:09:35 +0000",
+         "title" : "6th Sharjah Masters 2023"
+      },
+      {
+         "description" : "Vladimir Kramnik decided to open on the current situation on the Russia Ukraine war. In an interview for the German Tagesspiegel, cited by Chessbase, Kramnik opened about what he had implied indirectly for months. &#8220;I am against ALL wars A PRIORI, without exception, but I do not see much point in publicly expressing this []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kramnik-shares-thoughts-on-the-russia-ukraine-war/",
+         "pubDate" : "Mon, 06 Mar 2023 22:07:05 +0000",
+         "title" : "Kramnik shares thoughts on the Russia - Ukraine war"
+      },
+      {
+         "description" : "The WGM Mediterranean Flowers 2023 is taking place from 5&#x2013;11 March 2023 in Rijeka, Croatia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-player round-robin tournament with participation of Anastasiya Rakhmangulova, Ana Berke, Viktoria Radeva, Barbara Skuhala, Nadya Toncheva, Mirjana Medic, Maria Manakova, Tihana Ivekovic, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wgm-mediterranean-flowers-2023-live/",
+         "pubDate" : "Mon, 06 Mar 2023 21:44:48 +0000",
+         "title" : "WGM Mediterranean Flowers 2023 - LIVE"
+      },
+      {
+         "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-plays-last-classical-games-as-world-champion",
+         "pubDate" : "Mon, 06 Mar 2023 12:38:44 -0800",
+         "title" : "End Of An Era: Magnus Carlsen Plays Last Classical Games As World Champion"
+      },
+      {
          "description" : "Today the players of the group \"Americas\" start the Armageddon Championship series with a seven-day double-elimination tournament that begins today in Berlin. They hope to qualify for the finals of the series, which will be played in September in Berlin. Today Wesley So vs Sam Shankland and Renato Terry vs Eric Hansen will play. Start: 19.00 CET. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +258,6 @@ news_feed (
          "title" : "23 WGM Cvijet Mediterana 2023"
       },
       {
-         "description" : "The 1st International &#x201C;Women&#x2019;s Chess Championship&#x201D; is taking place from 5-12 March 2023 in Tashkent, Uzbekistan. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two rating categories &#8220;A&#8221; for the participants rated 1500 or more and &#8220;B&#8221; for the participants rated less []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-international-womens-chess-championship/",
-         "pubDate" : "Sat, 04 Mar 2023 21:25:30 +0000",
-         "title" : "1st International \"Women's Chess Championship\" 2023"
-      },
-      {
          "description" : "Vasyl Ivanchuk and Boris Gelfand are among the almost 500 participants in the European Individual Chess Championship that kicked off in Vrnjacka Banja, Serbia on Friday. Russian players were still eligible to take part before the switch to Asia comes into effect, but Alexandr Predke represents Serbia after he and Alexandra Kosteniuk were among the first to switch to another European federation.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -378,14 +434,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen stimulus missed as Levon Aronian wins in D&uuml;sseldorf"
       },
       {
-         "description" : "The 27 Hit open 2023 will take place from 16-23 March 2023 in Nova Gorica, Slovenia. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two categories HIT-A and HIT-B and has total prize fund of 5650 EUR. HIT-A section is 9-round Swiss System []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/27-hit-open-2023/",
-         "pubDate" : "Fri, 03 Mar 2023 07:53:52 +0000",
-         "title" : "27 Hit open 2023"
-      },
-      {
          "description" : "In the second half of February, the traditional Graz Open, by now the biggest Open in Austria, was held at the local Chamber of Commerce. Abhijeet Gupta won the A-Open ahead of 170 players. | Photo: Winners of the A-tournament. From left to right: Chief Arbiter Manfred Mussnig, Tournament Organizer Andrea Schmidbauer, GM Felix Blohberger, GM Abhijeet Gupta and GM Hagen P&ouml;tsch.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -434,22 +482,6 @@ news_feed (
          "title" : "The Sokolov FritzTrainer: Ruy Lopez structures (vol. 6) - A review"
       },
       {
-         "description" : "Asian Chess Excellence Awards 2023 &#x2013; M K Stalin conferred with Man of the Year, Gukesh &#x2013; Player of the year and AICF bags Most Active Federation awards Abu Dhabi (01 Mar 23):- In the Asian Chess Federation annual summit which is under progress at Abu Dhabi, UAE, the Asian Chess Excellence Awards 2023 has []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/asian-chess-excellence-awards-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 21:14:08 +0000",
-         "title" : "Asian Chess Excellence Awards 2023"
-      },
-      {
-         "description" : "Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world&#x2019;s best players, announced today the full tour players: No Player Name Highlights Country FIDE Rapid Rating URS Rating 1 GM Alireza Firouzja Ranked No. 4, 2022 GCT overall winner&#160; and 2022 Sinquefield Cup winner FRA 2785 2787 2 GM Wesley So []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-names-field-of-elite-players-to-compete-for-1-4m-purse/",
-         "pubDate" : "Thu, 02 Mar 2023 21:06:55 +0000",
-         "title" : "Grand Chess Tour Names Field of Elite Players to Compete for $1.4M Purse"
-      },
-      {
          "description" : "This month's Yahoos post has a schizophrenic foundation, in multiple senses of the word. Which word? Take your pick. (See also the footnote for an explanation of Yahoos.) <P>Unlike every previous Yahoo post on this blog -- e.g. last month's <A HREF=\"https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html\">First Yahoos of 2023</A>(January 2023) -- the summary of top Yahoos in February was constructed from data on two different days. That deserves an explanation. <P>I started writing this post using the data shown in the left half of the chart. On that day, at that time, <I>Google News</I> returned 99 stories, of which five were from the previous month, January. All five stories",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -464,30 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sayantan-wins-cannes-open",
          "pubDate" : "Thu, 02 Mar 2023 08:06:37 -0800",
          "title" : "Sayantan Das Crushes At Cannes Open, Becomes India's 81st Grandmaster"
-      },
-      {
-         "description" : "The Vezerkepzo Spring GM 2023 is taking place from 16&#x2013;24 March 2023 in Budapest, Hungary. The time control is 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is 9-round Robin tournament. Chessdom will follow live games. Starting list of players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-spring-gm-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 15:06:50 +0000",
-         "title" : "Vezerkepzo Spring GM 2023"
-      },
-      {
-         "description" : "The 1st&#xA0;Women&#x2019;s Chess festival Omisalj Blitz &#38; Rapid is scheduled to take place from 28-30 April in Omisalj, a splendid village in Croatia, situated on the Adriatic coast. The rapid tournament will be played in 9 rounds with a time control of 10 minutes per player plus 5 seconds increment after each move, while the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-omisalj-blitz-rapid-2023/",
-         "pubDate" : "Thu, 02 Mar 2023 13:52:05 +0000",
-         "title" : "1st Omisalj Blitz & Rapid 2023"
-      },
-      {
-         "description" : "Established in 2000, the European Championships are among the strongest open tournaments taking place yearly in the chess calendar. Since the pandemic prevented the organization of the 2020 event, this year marks the 23rd editions of both the open and women&#x2019;s championships. The&#xA0;European Individual Chess Championship 2023&#xA0;is organised by Serbian Chess Federation under the auspices []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-individual-chess-championship-2023-live-1/",
-         "pubDate" : "Thu, 02 Mar 2023 13:43:10 +0000",
-         "title" : "European Individual Chess Championship 2023 - Live"
       },
       {
          "description" : "Gukesh is just 16 years old, already a full-blown top GM with a live rating of 2730, currently number 20 in the world. Ilamparthi, is a young talent, 13 years old, currently the world under-14 champion, and an IM rated 2423. Both Gukesh and Ilamparthi did really well in Dusseldorf at the WR Masters and Juniors respectively. It was time for some fun on our train journey from Dusseldorf to ChessBase in Hamburg. This article includes ten tough positions posed by Ilamparthi to Gukesh!",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-6",
          "pubDate" : "Wed, 22 Feb 2023 15:58:00 -0800",
          "title" : "So Survives Close Call Vs. Aronian, All Games Drawn"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won his third consecutive Titled Tuesday in the early tournament on February 21. GM Maxime Vachier-Lagrave followed up with a win in the late tournament. Both won with 9.5 points out of 11. GM Fabiano Caruana was another top p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-vachier-lagrave-win-titled-tuesday-february-21-2023",
-         "pubDate" : "Wed, 22 Feb 2023 09:51:00 -0800",
-         "title" : "Nakamura Continues Tuesday Run"
       },
       {
          "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
