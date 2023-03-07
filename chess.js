@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today the players of the group \"Americas\" continue the seven-day double-elimination tournament of the Armageddon Championship series that started yesterday in Berlin. The players hope to qualify for the finals of the series, which will be played in September in Berlin. Today, Tuesday 7 March, GM Jose Martinez Alcantara from Peru will play against GM Ray Robson (USA) and GM Leinier Dominguez (USA) will face GM Andrew Tang (USA). Start: 19.00 CET. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Tue, 07 Mar 2023 18:45:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "The Usbek Women's Day Tournament 2023 is taking place from 6&#x2013;11 March 2023 in Tashkent, Uzbekistan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Valentina Gunina, Nino Batsiashvili, Nilufar Yakubbaeva, Gulnar Mammadova, Alua Nurmanova, Anastasia Bodnaruk, Elina Danielian, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/usbek-womens-day-tournament-2023-live/",
+         "pubDate" : "Tue, 07 Mar 2023 17:39:19 +0000",
+         "title" : "Usbek Women's Day Tournament 2023 - LIVE"
+      },
+      {
+         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/sac-or-no-sac-5/",
+         "pubDate" : "Tue, 07 Mar 2023 17:13:02 +0000",
+         "title" : "Sac Or No Sac? (5)"
+      },
+      {
          "description" : "Magnus Carlsen will join Hikaru Nakamura, Wesley So, Fabiano Caruana and four qualifiers April 3-7 for the Chessable Masters, the 2nd event on the $2 million 2023 Champions Chess Tour. The Ding Liren vs. Ian Nepomniachtchi World Championship match starts just two days later in Astana, Kazakhstan, so that this will be the last major event Magnus plays as the classical World Champion, at least for the near future.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-visual-evaluation-function-of-chessbase-17",
          "pubDate" : "Tue, 07 Mar 2023 13:23:42 +0100",
          "title" : "Explained by the engineers! - The visual evaluation function of ChessBase 17!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2270",
+         "pubDate" : "Tue, 07 Mar 2023 10:15:06 +0000",
+         "title" : "FIDE Trainers' Online Seminar announced "
       },
       {
          "description" : "&#8220;When everybody finally stops talking, then I will, inexplicably, have something real to say.&#8221; This is part of the salty take by MrDodgy on Kramnik's war statement. See the full text by MrDodgy in the #TweetOftheDay",
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/6th-sharjah-masters-2023/",
          "pubDate" : "Mon, 06 Mar 2023 22:09:35 +0000",
          "title" : "6th Sharjah Masters 2023"
-      },
-      {
-         "description" : "Vladimir Kramnik decided to open on the current situation on the Russia Ukraine war. In an interview for the German Tagesspiegel, cited by Chessbase, Kramnik opened about what he had implied indirectly for months. &#8220;I am against ALL wars A PRIORI, without exception, but I do not see much point in publicly expressing this []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kramnik-shares-thoughts-on-the-russia-ukraine-war/",
-         "pubDate" : "Mon, 06 Mar 2023 22:07:05 +0000",
-         "title" : "Kramnik shares thoughts on the Russia - Ukraine war"
       },
       {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "AICF'S ARBITER REFRESHER COURSE : FINAL BATCH ALLOTMENT"
       },
       {
-         "description" : "A new super-tournament took place in D&uuml;sseldorf, with five vetted GMs facing five raising talents. Karsten M&uuml;ller kept a close eye on the event, and sent us a number of fascinating endgames, annotated. Find here five instructive positions. Time to learn and enjoy! | Pictured: Andrey Esipenko | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-masters-2023-endgames-2",
-         "pubDate" : "Mon, 27 Feb 2023 11:00:00 +0100",
-         "title" : "Endgames from D&uuml;sseldorf (2)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1688,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2232",
          "pubDate" : "Tue, 14 Feb 2023 21:14:15 +0000",
          "title" : "Singapore Champioship: Kevin Goh and Gong Qianyun clinch titles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunders-be-gone-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aP6miWUxJ1U.jpg?itok=RVmi-HQm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blunders-be-gone-beginner-breakdown",
-         "pubDate" : "Tue, 14 Feb 2023 17:34:53 +0000",
-         "title" : "Blunders Be Gone! | Beginner Breakdown"
       }
    ]
 }
