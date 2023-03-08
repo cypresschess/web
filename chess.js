@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his first seven finds! | Pictured: Marius Gramb | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-1",
+         "pubDate" : "Wed, 08 Mar 2023 01:10:00 +0100",
+         "title" : "Endgames from Vrnjacka Banja (1)"
+      },
+      {
+         "description" : "The International Olympic Committee (IOC) has announced details of the Olympic Esports Series 2023, a global virtual and simulated sports competition created by the IOC and in collaboration with International Federations (IFs) and game publishers. This evolved format of the IOC&#x2019;s virtual competition builds on the successes of the Olympic Virtual Series. The 2021 series, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-in-the-olympic-esports-series-2023/",
+         "pubDate" : "Tue, 07 Mar 2023 22:59:00 +0000",
+         "title" : "Chess in the Olympic Esports Series 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on a topic of her choice. 2023.03.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XmjgHJWzlrA.jpg?itok=vvQ98ZTq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
+         "pubDate" : "Tue, 07 Mar 2023 20:56:00 +0000",
+         "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor"
+      },
+      {
          "description" : "Today the players of the group \"Americas\" continue the seven-day double-elimination tournament of the Armageddon Championship series that started yesterday in Berlin. The players hope to qualify for the finals of the series, which will be played in September in Berlin. Today, Tuesday 7 March, GM Jose Martinez Alcantara from Peru will play against GM Ray Robson (USA) and GM Leinier Dominguez (USA) will face GM Andrew Tang (USA). Start: 19.00 CET. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,27 +66,11 @@ news_feed (
          "title" : "Carlsen's Last Dance: Chessable Masters To Be Final Event As World Champion"
       },
       {
-         "description" : "The first quarter-finals of the Americas group of the World Chess Armageddon series were played on Monday. The venue is the World Chess Club Unter den Linden in Berlin. Wesley So won against Sam Shankland and Renato Terry prevailed in the Armageddon against Eric Hansen. The losers continue in the elimination group. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-wins-for-so-and-terry",
-         "pubDate" : "Tue, 07 Mar 2023 15:04:18 +0100",
-         "title" : "World Chess: Wins for So and Terry"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Tue, 07 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
-      },
-      {
          "description" : "After Sara Khadem, one of Iran's top women players, played without headscarf at the World Blitz and Rapid Chess Championships 2022, she left Iran with her family for fear of reprisals and now lives in Spain. The Spanish magazine Elle now published a portrait of Sara Khadem and made some chic fashion photos with her. | Photo: Elle",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sara-khadem-a-portrait-in-the-spanish-elle",
-         "pubDate" : "Tue, 07 Mar 2023 14:04:15 +0100",
+         "pubDate" : "Tue, 07 Mar 2023 15:05:00 +0100",
          "title" : "Sara Khadem - A portrait in the Spanish Elle"
       },
       {
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-visual-evaluation-function-of-chessbase-17",
          "pubDate" : "Tue, 07 Mar 2023 13:23:42 +0100",
          "title" : "Explained by the engineers! - The visual evaluation function of ChessBase 17!"
+      },
+      {
+         "description" : "The first quarter-finals of the Americas group of the World Chess Armageddon series were played on Monday. The venue is the World Chess Club Unter den Linden in Berlin. Wesley So won against Sam Shankland and Renato Terry prevailed in the Armageddon against Eric Hansen. The losers continue in the elimination group. | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-wins-for-so-and-terry",
+         "pubDate" : "Tue, 07 Mar 2023 13:20:00 +0100",
+         "title" : "World Chess: Wins for So and Terry"
       },
       {
          "description" : "",
@@ -186,19 +202,11 @@ news_feed (
          "title" : "Kramnik on the war: empty vanity fair"
       },
       {
-         "description" : "The 6th Sharjah Masters 2023 will take place from 16-26 March 2023 in Sharjah, UAE. The tournament system is 9-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0; THe tournament is separated in 3 different categories Master section, Challengers section and Futures section. The total prize fund is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023/",
-         "pubDate" : "Mon, 06 Mar 2023 22:09:35 +0000",
-         "title" : "6th Sharjah Masters 2023"
-      },
-      {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-plays-last-classical-games-as-world-champion",
-         "pubDate" : "Mon, 06 Mar 2023 12:38:44 -0800",
+         "pubDate" : "Mon, 06 Mar 2023 12:38:00 -0800",
          "title" : "End Of An Era: Magnus Carlsen Plays Last Classical Games As World Champion"
       },
       {
@@ -1672,38 +1680,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
          "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Joshua Sheng outlines how to handle the must-win tournament situation. 2023.02.14<br /> Nikhil Kumar vs. Josh Sheng, 2021: D05 Queen&#039;s pawn game, Zukertort variation<br /> Gauri Shankar vs. Sheng, 2021: A07 Reti, King&#039;s Indian attack (Barcza system)<br /> Daniel Naroditsky vs. Sheng, 2022: B42 Sicilian, Kan, Polugaievsky variation<br /> <a href=\"https://lichess.org/broadcast/us-open-championship-and-invitationals-2022/round-15/OlzI1ODw\">https://lichess.org/broadcast/us-open-championship-and-invitationals-202...</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/must-win-situation-grandmasters-choice-gm-josh-sheng",
-         "pubDate" : "Tue, 14 Feb 2023 23:35:04 +0000",
-         "title" : "The MUST-WIN Situation | Grandmaster's Choice - GM Josh Sheng"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering teaches a beginner chess class about minimizing game-changing blunders. 2023.02.14<br /> N. N. (Beginner) vs. Alex Moellering, ???: B00 King&#039;s pawn opening<br /> N. N. vs. Alex&#039;s Student, ???: C50 Giuoco Piano<br /> Moellering vs. N. N. Beginner, ???: B01 Scandinavian, Marshall variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/roses-are-red-chess-game-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/roses-are-red-chess-game-beginner-breakdown",
-         "pubDate" : "Tue, 14 Feb 2023 23:35:04 +0000",
-         "title" : "Roses are Red, Chess is a Game | Beginner Breakdown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2233",
-         "pubDate" : "Tue, 14 Feb 2023 23:00:23 +0000",
-         "title" : "Moldovan Championship: Lashkin and Mihailova claim titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2232",
-         "pubDate" : "Tue, 14 Feb 2023 21:14:15 +0000",
-         "title" : "Singapore Champioship: Kevin Goh and Gong Qianyun clinch titles"
       }
    ]
 }
