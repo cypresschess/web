@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU E-Magazine February 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: International Women's Day Invitation for bids: European Chess Championships 2023, 2024 &#38; 2025 European Individual Chess Championship 2023 FIDE Women's Grand Prix Munich 2023 European Women's Chess Championship 2023 Chess is included in the list&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-february-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-february-2023/",
+         "pubDate" : "Wed, 08 Mar 2023 12:15:42 +0000",
+         "title" : "ECU E-Magazine February 2023"
+      },
+      {
+         "description" : "GM Anton Korobov (UKR, 2658) emerged as the sole leader of the event with 5/5 points, while four players tie for the second place scoring 4.5 points: IM Stamatis Kourkoulos-Arditis (GRE, 2520), GM Eltaj Safarli (AZE, 2608), GM Thai Dai Van Nguyen (CZE, 2651), and GM Giga Quparadze (GEO, 2483). Youngsters watch: GM Daniel Dardha, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anton-korobov-leads-european-individual-chess-2023-after-r5/",
+         "pubDate" : "Wed, 08 Mar 2023 09:21:22 +0000",
+         "title" : "Anton Korobov leads European Individual Chess 2023 after R5"
+      },
+      {
+         "description" : "International Women's Day (March 8) is a global day celebrating the social, economic, cultural, and political achievements of women. The day also marks a call...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/international-womens-day-3/",
+         "pubDate" : "Wed, 08 Mar 2023 08:57:29 +0000",
+         "title" : "International Women's Day"
+      },
+      {
          "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,6 +154,14 @@ news_feed (
          "title" : "FIDE Trainers' Online Seminar announced "
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2269",
+         "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
+         "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
+      },
+      {
          "description" : "&#8220;When everybody finally stops talking, then I will, inexplicably, have something real to say.&#8221; This is part of the salty take by MrDodgy on Kramnik's war statement. See the full text by MrDodgy in the #TweetOftheDay",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -216,14 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section/",
          "pubDate" : "Mon, 06 Mar 2023 22:16:06 +0000",
          "title" : "6th Sharjah Masters 2023 - Challengers section"
-      },
-      {
-         "description" : "In a first of a kind interview for agesspiegel, cited by Chessbase, Kramnik opened about his views on the war. Kramnik says he is against all wars a priori and shares a lot of what he indirectly implied in the past months, but also keeps more for later saying, &#8220;I will express my views on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kramnik-on-the-war-empty-vanity-fair/",
-         "pubDate" : "Mon, 06 Mar 2023 22:14:06 +0000",
-         "title" : "Kramnik on the war: empty vanity fair"
       },
       {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
@@ -1656,30 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2235",
          "pubDate" : "Wed, 15 Feb 2023 13:14:52 +0000",
          "title" : "Azerbaijan Women's Championship: Beydullayeva defends title"
-      },
-      {
-         "description" : "The Cambridge International Open has certainly proven itself to be one of the most sought-after events in England. With only 121 places available, there were...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/cambridge-international-open/#new_tab",
-         "pubDate" : "Wed, 15 Feb 2023 12:00:48 +0000",
-         "title" : "Cambridge International Open - results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2234",
-         "pubDate" : "Wed, 15 Feb 2023 11:20:57 +0000",
-         "title" : "FIDE joins the Sport Integrity Global Alliance"
-      },
-      {
-         "description" : "The European Chess Union opens the bidding procedure for the organisation of&#160;the official European Chess Championships in 2023, 2024 &#38; 2025. The bids must be submitted exclusively in the Bid form regulated by the ECU (can be downloaded below). For any additional documents delivered separately from the bid form, it must be stated in the bid form what&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/",
-         "pubDate" : "Wed, 15 Feb 2023 09:22:08 +0000",
-         "title" : "INVITATION FOR BIDS: European Chess Championships 2023-2024-2025"
       }
    ]
 }
