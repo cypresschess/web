@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r5",
+         "pubDate" : "Wed, 08 Mar 2023 05:05:00 +0100",
+         "title" : "European Championship: Korobov grabs the lead"
+      },
+      {
+         "description" : "Eight women have accused GM Alejandro Ramirez of wrongdoing in an article published by The Wall Street Journal on Tuesday. In the newspaper, the women claim that Ramirez used his status in chess to put himself in positions of influence and make re...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wall-street-journal-women-accuse-alejandro-ramirez",
+         "pubDate" : "Tue, 07 Mar 2023 19:26:00 -0800",
+         "title" : "The Wall Street Journal: 8 Women Accuse Ramirez Of Wrongdoing"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows the best games through the first five rounds of the the 2023 European Individual Chess Championship in Serbia. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor-lichessorg",
+         "pubDate" : "Wed, 08 Mar 2023 02:55:49 +0000",
+         "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor | lichess.org"
+      },
+      {
          "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his first seven finds! | Pictured: Marius Gramb | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1018,14 +1042,6 @@ news_feed (
          "title" : "Chessify vs. Chessbase Engine Cloud"
       },
       {
-         "description" : "We have reported extensively on the WR Chess Masters 2023, which ended on Sunday in D&uuml;sseldorf, Germany. Today we bring you unique impressions of the opinions and mood of the participants on the final days of this wonderful event. They were recorded by IM Sagar Shah, who runs ChessBase India and one of the biggest video chess portals in the world. Just sit back and enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wr-chess-interviews-with-the-winners",
-         "pubDate" : "Mon, 27 Feb 2023 15:00:00 +0100",
-         "title" : "WR Chess: interviews with the winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1264,14 +1280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-7",
          "pubDate" : "Thu, 23 Feb 2023 14:49:00 -0800",
          "title" : "Nepomniachtchi Declines Draw, Topples Leader; Gukesh Jumps Into Tie For 1st"
-      },
-      {
-         "description" : "A chess player was expelled from the Romanian Chess Championship after a phone was found in the restroom with a chess app showing his game&#39;s position after move 15. Although certain information on the phone strongly suggested it was his, the playe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/player-expelled-from-romanian-championship-phone-cheating",
-         "pubDate" : "Thu, 23 Feb 2023 07:37:00 -0800",
-         "title" : "Player Expelled From Romanian Championship After Alleged Phone Cheating"
       },
       {
          "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
