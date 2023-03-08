@@ -1680,14 +1680,6 @@ news_feed (
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2023-2024-2025/",
          "pubDate" : "Wed, 15 Feb 2023 09:22:08 +0000",
          "title" : "INVITATION FOR BIDS: European Chess Championships 2023-2024-2025"
-      },
-      {
-         "description" : " IM Kostya Kavutskiy Last week we had an opportunity to revisit the Saavedra position and the history behind it. This gave me the idea to find a few endgame studies where it applies. It is hard to remember an idea if you do not get the opportunity to practice using it. The endgame where this <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (3)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/\">&#8220;Tactics are temporary, endgames are permanent&#8221; (3)</a> ap",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-3/",
-         "pubDate" : "Wed, 15 Feb 2023 08:13:22 +0000",
-         "title" : "\"Tactics are temporary, endgames are permanent\" (3)"
       }
    ]
 }
