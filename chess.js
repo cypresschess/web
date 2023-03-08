@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Day 3 of the Armageddon Series, the elimination group starts to play. Eric Hansen faces Sam Shankland and Ray Robson will play against Leinier Dominguez. Day 2 provided excitement and time trouble battles, Day 3 could be similarly exciting. Start: 19.00 CET. Follow the games live and with commentary.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Wed, 08 Mar 2023 18:55:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #558, Merijn van Delft analyses Anton Korobov's victory over Ruslan Ponomariov in round 5 of the European Championship. In the game, Korobov came up with a truly remarkable concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-558-korobov-ponomariov",
+         "pubDate" : "Wed, 08 Mar 2023 18:00:00 +0100",
+         "title" : "Game of the Week #558: A. Korobov - R. Ponomariov"
+      },
+      {
          "description" : "Chess.com&#x2019;s $2 million Champions Chess Tour will return with the largest ever edition of the Chessable Masters, it was announced today. The tournament, sponsored by chess.com e-learning specialist, will run from April 4 to 7 with $235,000 and a spot in the Tour Finals at stake. Also at stake is a last chance to beat []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
          "pubDate" : "Tue, 07 Mar 2023 20:56:00 +0000",
          "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor"
-      },
-      {
-         "description" : "On Day 3 of the Armageddon Series, the semi-finals will be played. Day 2 provided excitement and time trouble battles, Day 3 could be similarly exciting. Start: 19.00 CET. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Tue, 07 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
          "description" : "The Usbek Women's Day Tournament 2023 is taking place from 6&#x2013;11 March 2023 in Tashkent, Uzbekistan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Valentina Gunina, Nino Batsiashvili, Nilufar Yakubbaeva, Gulnar Mammadova, Alua Nurmanova, Anastasia Bodnaruk, Elina Danielian, []",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ilamparthi-wins-wr-chess-juniors-u-14-boys-and-blitz-2023",
          "pubDate" : "Tue, 28 Feb 2023 08:49:51 +0100",
          "title" : "Ilamparthi wins WR Chess Juniors U-14 Boys and Blitz 2023"
-      },
-      {
-         "description" : "GM Kirill Shevchenko (pictured) and WIM Miruna-Daria Lehaci are the new champions of Romania. Both won their maiden national titles. The Romanian Championships took place on February 19-26 in Sebes, and saw the triumph of young players. The open, women's and amateur sections were 9-round Swiss tournaments with classical time control. | Photos: Romanian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/romanian-chess-championships-2023",
-         "pubDate" : "Tue, 28 Feb 2023 07:45:00 +0100",
-         "title" : "Romanian Championships: Shevchenko and Lehaci win maiden titles"
       },
       {
          "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
