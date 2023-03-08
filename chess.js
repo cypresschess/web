@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com&#x2019;s $2 million Champions Chess Tour will return with the largest ever edition of the Chessable Masters, it was announced today. The tournament, sponsored by chess.com e-learning specialist, will run from April 4 to 7 with $235,000 and a spot in the Tour Finals at stake. Also at stake is a last chance to beat []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsens-last-dance-chessable-masters-marks-end-of-an-era-for-world-champion/",
+         "pubDate" : "Wed, 08 Mar 2023 16:05:08 +0000",
+         "title" : "Carlsen's Last Dance: Chessable Masters marks end of an era for World Champion"
+      },
+      {
+         "description" : "Those who love spectacle and drama got their money's worth on Day 2 of the Armageddon Championship Series in Berlin. Especially in the match between Andrew Tang (pictured) and Leinier Dominguez, which Tang won in Armageddon. At the end of the game he had one second left on the clock, while Dominguez had spent all his time. In the second match of the day Jose Martinez prevailed against Ray Robson. | Foto: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/time-trouble-in-berlin",
+         "pubDate" : "Wed, 08 Mar 2023 17:02:07 +0100",
+         "title" : "Time trouble in Berlin"
+      },
+      {
+         "description" : "The March 7, 2023, editions of Titled Tuesday were won by GM Vladimir Fedoseev early and GM Alireza Firouzja late, both scoring 9.5 points. Falling just shy were GMs Nihal Sarin and Dmitry Andreikin, who also scored 9.5 points but lost due to tieb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fedoseev-firouzja-win-titled-tuesday-march-7-2023",
+         "pubDate" : "Wed, 08 Mar 2023 07:47:31 -0800",
+         "title" : "Firouzja Wins Fashionably Late"
+      },
+      {
+         "description" : "On Monday 27th February 2023 a new chess academy started in Staffordshire, which will run every Monday from 1.00pm till 2.30pm (except Bank Holiday Mondays)....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/new-junior-chess-academy/",
+         "pubDate" : "Wed, 08 Mar 2023 14:21:46 +0000",
+         "title" : "New junior chess academy"
+      },
+      {
+         "description" : "She is one of Iran&#39;s top chess players who made headlines around the world when she went into exile for refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships. Now, in the International Women&#39;s Day edition of Elle maga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/from-chess-star-to-cover-star-elle-features-sara-khadem",
+         "pubDate" : "Wed, 08 Mar 2023 05:56:44 -0800",
+         "title" : "From Exile To Cover Star: Iranian IM Sara Khadem Featured In Elle Magazine"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Wed, 08 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "Anton Korobov reached the only perfect score after five rounds of the European Championship in Vrnjacka Banja, Serbia after beating his Ukrainian countryman Ruslan Ponomariov in a wild game in Round 5. With six rounds to go, however, 42 players are still within a point of the leader.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/anton-korobov-races-to-5-5-in-european-championship",
+         "pubDate" : "Wed, 08 Mar 2023 12:37:46 +0000",
+         "title" : "Anton Korobov races to 5/5 in European Championship"
+      },
+      {
          "description" : "The ECU E-Magazine February 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: International Women's Day Invitation for bids: European Chess Championships 2023, 2024 &#38; 2025 European Individual Chess Championship 2023 FIDE Women's Grand Prix Munich 2023 European Women's Chess Championship 2023 Chess is included in the list&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-february-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -74,11 +130,11 @@ news_feed (
          "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor"
       },
       {
-         "description" : "Today the players of the group \"Americas\" continue the seven-day double-elimination tournament of the Armageddon Championship series that started yesterday in Berlin. The players hope to qualify for the finals of the series, which will be played in September in Berlin. Today, Tuesday 7 March, GM Jose Martinez Alcantara from Peru will play against GM Ray Robson (USA) and GM Leinier Dominguez (USA) will face GM Andrew Tang (USA). Start: 19.00 CET. Follow the games live and with commentary.",
+         "description" : "On Day 3 of the Armageddon Series, the semi-finals will be played. Day 2 provided excitement and time trouble battles, Day 3 could be similarly exciting. Start: 19.00 CET. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Tue, 07 Mar 2023 18:45:00 +0100",
+         "pubDate" : "Tue, 07 Mar 2023 18:55:00 +0100",
          "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
@@ -240,14 +296,6 @@ news_feed (
          "link" : "https://www.chessdom.com/2nd-lumezzane-international-chess-festival-2023/",
          "pubDate" : "Mon, 06 Mar 2023 22:31:29 +0000",
          "title" : "2nd Lumezzane International Chess Festival 2023"
-      },
-      {
-         "description" : "THe 6th Sharjah Masters 2023 Challengers section will take place from 16-26 March 2023 in Sharjah, UAE. The tournament system is 9-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0; THe tournament is separated in 3 different categories Master section, Challengers section and Futures section. The total []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/6th-sharjah-masters-2023-challengers-section/",
-         "pubDate" : "Mon, 06 Mar 2023 22:16:06 +0000",
-         "title" : "6th Sharjah Masters 2023 - Challengers section"
       },
       {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
@@ -1034,28 +1082,12 @@ news_feed (
          "title" : "Romanian Championships: Shevchenko and Lehaci win maiden titles"
       },
       {
-         "description" : "The very competitive European Chess Championships will take place in March, with the open event set to start on March 3 in Vrnjacka Banja, Serbia. We take a brief look at the 23 years of history of the championships, which are traditionally taken very seriously by ambitious players, whose main objective often is to get a ticket to the FIDE World Cup. | Pictured: 2022 European champion Matthias Bluebaum",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brief-history-european-chess-championships",
-         "pubDate" : "Tue, 28 Feb 2023 01:00:00 +0100",
-         "title" : "A brief history of the European Chess Championships"
-      },
-      {
          "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-2nd-im-norm",
          "pubDate" : "Mon, 27 Feb 2023 13:56:07 -0800",
          "title" : "Brewington Hardaway Earns 2nd International Master Norm"
-      },
-      {
-         "description" : "In his Endgame Magic Show #229 Karsten has the 16-year old Indian Grandmaster Leon Luke Mendonca as his guest and they will look at endgame highlights from Leon's practice. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-229-indian-talent-leon-luke-mendonca-shows-endgame-highlights-from-his-games",
-         "pubDate" : "Mon, 27 Feb 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #229: Indian talent Leon Luke Mendonca shows endgame highlights from his games"
       },
       {
          "description" : "Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. The most recent post in the series was <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html\">Chessify's Other Engines</A>(February 2023). Are there any alternatives? <P>Chessify answered that question in <A HREF=\"https://chessify.me/blog/why-the-cloud-servers-for-chess-engines-worth-it-what-options-you-have\">Why the Cloud Servers for Chess Engines [Are] Worth it & What Options You Have</A>(chessify.me/blog):- <BLOCKQUOTE>Main options for cloud chess engines &#149; Where can you find these servers to r",
@@ -1290,22 +1322,6 @@ news_feed (
          "title" : "UPDATE: Fair Play Commission on the Carlsen/Niemann Report"
       },
       {
-         "description" : "On Thursday, the Shanghai Tigers again proved themselves to frontrunners, reaching 2-0 by taking down Blitz―the team with the highest-rated lineup―in week two of the Pro Chess League. Meanwhile, Team MGD1 bounced back to defeat the three-time cham...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-tigers-mgd1",
-         "pubDate" : "Thu, 23 Feb 2023 21:21:00 -0800",
-         "title" : "Balance Over MVPs: Shanghai Tigers, Team MGD1 Defeat Heavyweights"
-      },
-      {
-         "description" : "Round seven may be a turning point in the WR Chess Masters 2023 as GM Ian Nepomniachtchi defeated the tournament leader, GM Levon Aronian, with the black pieces. Nepomniachtchi slips into a tie for third-fourth place with GM Wesley So, who drew GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-7",
-         "pubDate" : "Thu, 23 Feb 2023 14:49:00 -0800",
-         "title" : "Nepomniachtchi Declines Draw, Topples Leader; Gukesh Jumps Into Tie For 1st"
-      },
-      {
          "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "Sponsoring Ukrainian refugees"
       },
       {
-         "description" : "Gukesh and Vincent Keymer played a wild game in Round 4 of the WR Chess Masters in Dusseldorf, but in the end it finished in a draw, as, for the first time in the event, did all the other games in the round. According to the computer, Anish Giri came closest to a decisive advantage, against Andrey Esipenko, noting afterwards, \"I very often let my opponents escape - it's part of my job, part of my style!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-4-gukesh-keymer-thriller",
-         "pubDate" : "Mon, 20 Feb 2023 11:49:35 +0000",
-         "title" : "WR Chess Masters 4: Gukesh-Keymer thriller"
-      },
-      {
          "description" : " Normally movie and tv adaptions of popular computer games do not work particularly well. I even tested this theory by trying to watch the World of Warcraft movie. Of course there are exceptions .... <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/YFHHGETsxkE\" width=\"320\" youtube-src-id=\"YFHHGETsxkE\"></iframe></div><br /> <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-oceania-junior-and-youth.html",
          "pubDate" : "Thu, 16 Feb 2023 12:37:00 +0000",
          "title" : "2023 Oceania Junior and Youth Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2235",
-         "pubDate" : "Wed, 15 Feb 2023 13:14:52 +0000",
-         "title" : "Azerbaijan Women's Championship: Beydullayeva defends title"
       }
    ]
 }
