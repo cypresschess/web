@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess and football might have more in common than firsts meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/seeing-it-chess-and-football",
+         "pubDate" : "Thu, 09 Mar 2023 17:25:50 +0100",
+         "title" : "Seeing it: Chess and Football"
+      },
+      {
          "description" : "Blitz chess will be included in the upcoming inaugural Olympic Esports Series 2023 with Chess.com playing host to a unique qualifying event. The world&#38;rsquo;s leading online chess platform has been selected by FIDE, recognized by the Internation...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-misses-mate-in-3-in-pro-chess-league-drama",
          "pubDate" : "Tue, 28 Feb 2023 08:26:56 +0000",
          "title" : "Carlsen misses mate-in-3 in Pro Chess League drama"
-      },
-      {
-         "description" : "In endgames with two rooks on both sides you should wath out for tactical possibilities and chances to attack the enemy king. In the diagram position it is White to move. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-battering-ram-2",
-         "pubDate" : "Tue, 28 Feb 2023 09:00:00 +0100",
-         "title" : "The battering ram"
       },
       {
          "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
