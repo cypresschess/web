@@ -2,7 +2,47 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Chess and football might have more in common than firsts meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
+         "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/celebrating-bobby-fischer-80-anniversary",
+         "pubDate" : "Thu, 09 Mar 2023 20:00:00 +0100",
+         "title" : "Celebrating Bobby Fischer: A quiet win by a troubled genius"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris looks at the topical line with 4.h4 h5 in the Advance Variation of the Caro-Kann. The famed trainer analyses a game in which Black tried to cover the g5-square with f7-f6, in vain... | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-h4-h5-caro-kann",
+         "pubDate" : "Thu, 09 Mar 2023 19:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: 4.h4 h5 in the Caro-Kann"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows Anton Korobov&#039;s win over former FIDE champion Russian Ponomariov at the 2023 European Individual Chess Championship in Serbia. This victory put Korobov 5/5, in clear first at about the halfway point in the event. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/korobovs-fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
+         "pubDate" : "Thu, 09 Mar 2023 17:57:45 +0000",
+         "title" : "Korobov's Fighting Chess at the European Championship! | Grandmaster's Choice - WGM Sabina Foisor"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-wgm-sabina-foisor-lichessorg",
+         "pubDate" : "Thu, 09 Mar 2023 17:57:45 +0000",
+         "title" : "Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
+      },
+      {
+         "description" : "On Day 4 of the Armageddon Series Championship Series in Berlin the semi-finals will be played: Wesley So faces Renato Terry and Andrew Tang takes on Jose Martinez. In both matches two blitz games will be played, in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Thu, 09 Mar 2023 18:55:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "Chess and football might have more in common than first meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/seeing-it-chess-and-football",
@@ -14,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-fide-bring-chess-to-the-olympic-esports-series",
-         "pubDate" : "Thu, 09 Mar 2023 06:56:03 -0800",
+         "pubDate" : "Thu, 09 Mar 2023 06:56:00 -0800",
          "title" : "Chess.com And FIDE Bring Chess To The Olympic Esports Series"
       },
       {
@@ -986,14 +1026,6 @@ news_feed (
          "title" : "2nd IM norm for Brewington Hardaway!"
       },
       {
-         "description" : "One of the most brilliant chess minds in history has reactivated his Twitch channel. Vasyl Ivanchuk launched his streaming career last year, and has recently increased the number of videos uploaded. The Ukrainian genius will be playing the European Championship starting Friday, but before that, he has shared a bit of his encyclopaedic knowledge with us. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivanchuk-streaming-2023",
-         "pubDate" : "Wed, 01 Mar 2023 01:00:00 +0100",
-         "title" : "Learning from the best: Ivanchuk ups streaming game"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1090,14 +1122,6 @@ news_feed (
          "title" : "'Shameful Day For Chess' Says European Chess Union As Russia Formally Joins Asia"
       },
       {
-         "description" : "Karsten Mueller released a brand new Fritztrainer a few weeks ago. For once, however, it's not about fabulous endgames, but about the basic rules of attacking play. In the interview with the German grandmaster, we see how wonderfully a good attack can be completed with the help of two examples.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/basic-rules-of-attacking-play-with-dr-karsten-mueller",
-         "pubDate" : "Tue, 28 Feb 2023 15:00:00 +0100",
-         "title" : "Basic rules of attacking play with Dr. Karsten Mueller"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The General Assembly of the <strong>Asian Chess Federation</strong> <a href=\"https://ruchess.ru/en/news/all/cfr_becomes_member_of_asian_chess_federation/\">voted with 29:1 (6 abstentions)</a> to accept the <strong>Chess Federation of Russia</strong> as new member from 1 May. It's the first time that a sport federation of any kind changes from the European to the Asian umbrella organisation. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/23rd-european-individual-championship-2023",
          "pubDate" : "Tue, 28 Feb 2023 16:23:00 +0400",
          "title" : "23rd European Individual Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "Today: Jeroen Van den Belt shows us the new menu of the 2D-Board for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-2d-board-of-chessbase-17",
-         "pubDate" : "Tue, 28 Feb 2023 13:00:00 +0100",
-         "title" : "Explained by the engineers! - The new 2D board of ChessBase 17"
       },
       {
          "description" : " You aren't improving at Chess despite your best efforts? You are not alone! Plateaus are a normal part of Chess improvement. I'm in daily contact with readers &#38; students who want to overcome barriers in Chess improvement. In this article, I list the 7 most likely reasons why you may not be improving in Chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/7-reason-why-youre-not-improving/\">7 Reasons Why You're Not Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2244",
          "pubDate" : "Mon, 20 Feb 2023 22:10:57 +0000",
          "title" : "Oleiny Linares wins 2023 Cuban Women's Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS, Feb 21 2023 - America's best chess players will return to the Saint Louis Chess Club to battle over the board from March 17- 26, 2023 for the second annual American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout tournament. This format promises to keep fans on the edge of their seats as they follow their favorites to victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><im",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023",
-         "pubDate" : "Mon, 20 Feb 2023 17:17:36 +0000",
-         "title" : "The American Cup Returns to Saint Louis March 17-26, 2023"
       },
       {
          "description" : "",
