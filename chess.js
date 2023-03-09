@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've just seen the sad news that Albert Vasse has passed away. He was most notable as the founder of DGT systems, the company responsible for developing both the digital board/broadcast technology and digital chess clocks, both off which are heavily used across the world. Although he retired from running the company a number of years ago he was still an active arbiter and organiser, with the occasional stint as a player. I would often run into him at the various Chess Olympiads (where we would share a beer and conversation), although he would turn up at other events, such as the Gibraltar Open (where he was often the arbiter supervising my games). Always an enjoyable companion at major ches",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/albert-vasse.html",
+         "pubDate" : "Thu, 09 Mar 2023 11:31:00 +0000",
+         "title" : "Albert Vasse "
+      },
+      {
+         "description" : "Please find the final list for your reference S.No Name Date of Birth Father's Name State 1 Himanshu Saxena 09-01-1974 Shri Madan Mohan Saxena Madhya",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-participation-list-for-senior-national-arbiter-seminar-examination-at-indore-from-18-19-march-2023/",
+         "pubDate" : "Thu, 09 Mar 2023 10:26:59 +0000",
+         "title" : "Final Participation list for Senior National Arbiter Seminar & Examination at Indore from 18-19 March 2023"
+      },
+      {
+         "description" : "Stamatis Kourkoulos-Arditis, the 101st seed at the European Championship, is sharing the lead with Anton Korobov after beating Eltaj Safarli with the black pieces. The 25-year-old IM from Greece will again get the black pieces in his seventh-round encounter against Korobov. Eight players, all on 5/6 points, make up the chasing pack. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r6",
+         "pubDate" : "Thu, 09 Mar 2023 10:45:00 +0100",
+         "title" : "European Championship: Kourkoulos-Arditis stuns Safarli, shares the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2271",
+         "pubDate" : "Thu, 09 Mar 2023 09:31:27 +0000",
+         "title" : "EICC 2023: Korobov and Kourkoulos-Arditis lead after six rounds"
+      },
+      {
+         "description" : "Six rounds have been already played at the European Individual Chess Championship 2023 in Vrnjacka Banja, Serbia, and GM Anton Korobov (UKR, 2659) and IM Stamatis Kourkoulos-Arditis (GRE, 2520) tie for the top scoring 5.5 points, each. The ECU President Mr. Zurab Azmaiparashvili opened yesterday's round wishing a happy International Women's Day to all female participants, arbiters, and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/anton-korobov-and-stamatis-kourkoulos-arditis-in-the-co-lead-at-the-eicc2023-after-6-played-rounds/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/anton-korobov-and-stamatis-kourkoulos-arditis-in-the-co-lead-at-the-eicc2023-after-6-played-rounds/",
+         "pubDate" : "Thu, 09 Mar 2023 09:28:42 +0000",
+         "title" : "Anton Korobov and Stamatis Kourkoulos-Arditis in the co-lead at the EICC2023 after 6 played rounds"
+      },
+      {
+         "description" : "Asian Chess Federation in cooperation with FIDE Commission for Women's Chess under the supervision of FIDE Trainers' Commission is orgnising FIDE Trainers' Online Seminar from",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-trainers-online-seminar-17-19-mar-23/",
+         "pubDate" : "Thu, 09 Mar 2023 09:24:02 +0000",
+         "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
+      },
+      {
          "description" : "The VIII FE &#8220;Pasqua a Montesilvano&#8221; 2023 will take place from 7-10 April 2023 in Montesilvano (PE), Italy. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in three categories &#x2013; Group A, Groub and Group C. Open A section is 6-round Swiss system tournament and []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +138,6 @@ news_feed (
          "title" : "From Exile To Cover Star: Iranian IM Sara Khadem Featured In Elle Magazine"
       },
       {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Wed, 08 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
-      },
-      {
          "description" : "Anton Korobov reached the only perfect score after five rounds of the European Championship in Vrnjacka Banja, Serbia after beating his Ukrainian countryman Ruslan Ponomariov in a wild game in Round 5. With six rounds to go, however, 42 players are still within a point of the leader.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -128,6 +168,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-3/",
          "pubDate" : "Wed, 08 Mar 2023 08:57:29 +0000",
          "title" : "International Women's Day"
+      },
+      {
+         "description" : "National Team Open &#38; Women 2023 all certificates are out to download Open : https://aicf.online/National-Team-2023-Open.html Women : https://aicf.online/National-Team-2023-Women.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-women-2023-certificates/",
+         "pubDate" : "Wed, 08 Mar 2023 04:45:10 +0000",
+         "title" : "National Team Open & Women 2023 Certificates"
       },
       {
          "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
@@ -170,7 +218,7 @@ news_feed (
          "title" : "Chess in the Olympic Esports Series 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on a topic of her choice. 2023.03.07 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XmjgHJWzlrA.jpg?itok=vvQ98ZTq\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows the best games through the first five rounds of the the 2023 European Individual Chess Championship in Serbia. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
@@ -1138,14 +1186,6 @@ news_feed (
          "title" : "The streak remains"
       },
       {
-         "description" : "MPL NATIONAL RAPID CHESS CHAMPIONSHIP 2022-23 AICF EVENT CODE: 307994 /JK/ 2022was organized by CROWN TRUST, under the aegis of Jammu district chess association, All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arvind-chidambaram-of-tamilnadu-wins-national-rapid-chess-championship-2023/",
-         "pubDate" : "Sun, 26 Feb 2023 16:48:51 +0000",
-         "title" : "Arvind Chidambaram of Tamil Nadu wins National Rapid Chess Championship 2023"
-      },
-      {
          "description" : "For this month's post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), I had a couple of recent, related videos on my short list. How were they related? They were both about the current wave of the game's popularity. Let's take the longer video first. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/-w2Fv48VVEU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>Why More People Don't Play Chess</B> (24:31) &#149; '[Published on] Feb 5, 2023' <P>The video's des",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1386,14 +1426,6 @@ news_feed (
          "title" : "Statement of the European Chess Union - 22.02.2023"
       },
       {
-         "description" : "National School Chess Championship 2023, Hosur (All Certificates) U-07 Open : https://aicf.online/National-S-U-07-Open.html U-07 Girls : https://aicf.online/National-S-U-07-Girls.html U-09 Open : https://aicf.online/National-S-U-09-Open.html U-09 Girls : https://aicf.online/National-S-09-Girls.html U-11",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-school-certificates-all-categories/",
-         "pubDate" : "Wed, 22 Feb 2023 10:15:38 +0000",
-         "title" : "National School Certificates all Categories"
-      },
-      {
          "description" : "The World Chess Federation today announced it has no objection to the Russian Chess Federation leaving the European Chess Union and joining the Asian Chess Federation (ACF). All that remains is for the ACF to rubberstamp that switch at its General Assembly on February 28. FIDE will allow Russian players to switch to a European chess federation with no transfer fee or delay in being able to represent their new country.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1456,14 +1488,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
          "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
          "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
-      },
-      {
-         "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. Any missing names/fresh applicants please fill the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-arbiter-refresher-course-batch-allotment/",
-         "pubDate" : "Tue, 21 Feb 2023 09:20:13 +0000",
-         "title" : "AICF'S ARBITER REFRESHER COURSE : BATCH ALLOTMENT"
       },
       {
          "description" : "The ECU Commission for Women's Chess is organizing the second edition of the ECU Girls' and Women's Chess Weekend on 25th-26th February. All events are...",
