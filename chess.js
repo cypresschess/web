@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The VIII FE &#8220;Pasqua a Montesilvano&#8221; 2023 will take place from 7-10 April 2023 in Montesilvano (PE), Italy. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in three categories &#x2013; Group A, Groub and Group C. Open A section is 6-round Swiss system tournament and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/viii-fe-pasqua-a-montesilvano-2023/",
+         "pubDate" : "Thu, 09 Mar 2023 07:43:40 +0000",
+         "title" : "VIII FE \"Pasqua a Montesilvano\" 2023"
+      },
+      {
          "description" : "Chess was among the topics discussed at the 17th edition of the MIT Sloan Sports Analytics Conference, which took place on March 3-4 at the Hynes Convention Centre in Boston. The panel brought together some of the biggest names in the game, including Danny Rensch, Jennifer Shahade, Fabiano Caruana, Hikaru Nakamura, and Daryl Morey.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -198,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsens-last-dance-chessable-masters",
-         "pubDate" : "Tue, 07 Mar 2023 06:55:54 -0800",
+         "pubDate" : "Tue, 07 Mar 2023 06:55:00 -0800",
          "title" : "Carlsen's Last Dance: Chessable Masters To Be Final Event As World Champion"
       },
       {
@@ -312,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alejandro-ramirez-resigns-from-st-louis-chess-club",
          "pubDate" : "Mon, 06 Mar 2023 17:00:00 -0800",
          "title" : "Alejandro Ramirez Resigns From Saint Louis Chess Club"
-      },
-      {
-         "description" : "The Stockhol Championship 2023 will take place from 06 of March to 29 of May 2023 in Stockholm, Sweden. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stockholm-championship-2023/",
-         "pubDate" : "Mon, 06 Mar 2023 22:39:41 +0000",
-         "title" : "Stockholm Championship 2023"
       },
       {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
