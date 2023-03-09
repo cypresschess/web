@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Blitz chess will be included in the upcoming inaugural Olympic Esports Series 2023 with Chess.com playing host to a unique qualifying event. The world&#38;rsquo;s leading online chess platform has been selected by FIDE, recognized by the Internation...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-fide-bring-chess-to-the-olympic-esports-series",
+         "pubDate" : "Thu, 09 Mar 2023 06:56:03 -0800",
+         "title" : "Chess.com And FIDE Bring Chess To The Olympic Esports Series"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Thu, 09 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "The ECF server will be undergoing scheduled maintenance starting at 10:00am on Wednesday 15 March. This will affect all the ECF websites as well as...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-server-scheduled-maintenance-15-3-23-1000am/",
+         "pubDate" : "Thu, 09 Mar 2023 13:10:56 +0000",
+         "title" : "ECF server scheduled maintenance 15/3/23 10:00am"
+      },
+      {
          "description" : " I've just seen the sad news that Albert Vasse has passed away. He was most notable as the founder of DGT systems, the company responsible for developing both the digital board/broadcast technology and digital chess clocks, both off which are heavily used across the world. Although he retired from running the company a number of years ago he was still an active arbiter and organiser, with the occasional stint as a player. I would often run into him at the various Chess Olympiads (where we would share a beer and conversation), although he would turn up at other events, such as the Gibraltar Open (where he was often the arbiter supervising my games). Always an enjoyable companion at major ches",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-2/",
          "pubDate" : "Wed, 08 Mar 2023 21:45:08 +0000",
          "title" : "European Women's Chess Championship 2023 - List of players"
-      },
-      {
-         "description" : "On Day 3 of the Armageddon Series, the elimination group starts to play. Eric Hansen faces Sam Shankland and Ray Robson will play against Leinier Dominguez. Day 2 provided excitement and time trouble battles, Day 3 could be similarly exciting. Start: 19.00 CET. Follow the games live and with commentary.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Wed, 08 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
          "description" : "In his \"Game of the Week\" show #558, Merijn van Delft analyses Anton Korobov's victory over Ruslan Ponomariov in round 5 of the European Championship. In the game, Korobov came up with a truly remarkable concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1290,14 +1306,6 @@ news_feed (
          "title" : "Nakamura Scores 4/4 For Gotham Knights, Croatia Bulldogs Outclass Berlin Bears"
       },
       {
-         "description" : "GM Levon Aronian evaded a second consecutive loss by the skin of his teeth in round eight of the WR Chess Masters 2023. After making an unsound piece sacrifice, he managed to draw GM Andrey Esipenko and keep his dreams of title victory alive. GM G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-round-8",
-         "pubDate" : "Fri, 24 Feb 2023 14:49:00 -0800",
-         "title" : "Keymer Beats So With Black; Aronian 'Over The Moon With Joy' After Saving Lost Game"
-      },
-      {
          "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1688,22 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2237",
          "pubDate" : "Thu, 16 Feb 2023 21:22:26 +0000",
          "title" : "Alexandr Fier wins VI Montevideo Open \"Marcel Duchamp Cup 2023\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2236",
-         "pubDate" : "Thu, 16 Feb 2023 13:00:18 +0000",
-         "title" : "Bela Khotenashvili wins 80th Georgian Women's Championship"
-      },
-      {
-         "description" : "I am pleased to announce that the 2023 Oceania Junior (Under 20) and Youth Championships (U 18,16,14,12,10 and 8) will be taking place in Canberra from the 11th to the 15th April 2023. This is during the first week of the school holidays for most Australian states, and starts immediately after the finish of the 2023 O2C Doeberl Cup. It is open to all players registered in federations belonging to Zone 3.6 + players resident in New Caledonia. As a regional junior championship it will award direct titles to the place getters (depending on other conditions being met).<div><br /></div><div>Full details of the tournament can be found at <a href=\"https://actjcl.org.au/oycc2023/index.html\">https://",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/2023-oceania-junior-and-youth.html",
-         "pubDate" : "Thu, 16 Feb 2023 12:37:00 +0000",
-         "title" : "2023 Oceania Junior and Youth Championship"
       }
    ]
 }
