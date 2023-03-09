@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mit-sports-analytics-conference",
          "pubDate" : "Thu, 09 Mar 2023 00:10:00 +0100",
-         "title" : "Caruana, Nakamura and Shahade among guests at MIT Sports Conference"
+         "title" : "Caruana, Nakamura and Shahade among speakers at MIT Sports Conference"
       },
       {
          "description" : "The fourth week of the 2023 Pro Chess League started with victories by the Shanghai Tigers and Blitz over the Croatia Bulldogs and Brazil Capybaras, respectively. After losing badly in round one (0.5-3.5), the Tigers bared their fangs and dominate...",
