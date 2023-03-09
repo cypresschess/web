@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess was among the topics discussed at the 17th edition of the MIT Sloan Sports Analytics Conference, which took place on March 3-4 at the Hynes Convention Centre in Boston. The panel brought together some of the biggest names in the game, including Danny Rensch, Jennifer Shahade, Fabiano Caruana, Hikaru Nakamura, and Daryl Morey.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mit-sports-analytics-conference",
+         "pubDate" : "Thu, 09 Mar 2023 00:10:00 +0100",
+         "title" : "Caruana, Nakamura and Shahade among guests at MIT Sports Conference"
+      },
+      {
+         "description" : "The fourth week of the 2023 Pro Chess League started with victories by the Shanghai Tigers and Blitz over the Croatia Bulldogs and Brazil Capybaras, respectively. After losing badly in round one (0.5-3.5), the Tigers bared their fangs and dominate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-tigers-blitz",
+         "pubDate" : "Wed, 08 Mar 2023 14:24:00 -0800",
+         "title" : "Tigers Sweep Bulldogs 4-0, Advance To Playoffs; Blitz Wins Battle On Board 4"
+      },
+      {
+         "description" : "The European Women&#x2019;s Chess Championship 2023 will take place from 17-30 March 2023 in Petrovac, Montenegro. The event is open for all women players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of the ECU Board and General Assembly.&#xA0; The Championship will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-2/",
+         "pubDate" : "Wed, 08 Mar 2023 21:45:08 +0000",
+         "title" : "European Women's Chess Championship 2023 - List of players"
+      },
+      {
          "description" : "On Day 3 of the Armageddon Series, the elimination group starts to play. Eric Hansen faces Sam Shankland and Ray Robson will play against Leinier Dominguez. Day 2 provided excitement and time trouble battles, Day 3 could be similarly exciting. Start: 19.00 CET. Follow the games live and with commentary.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/from-chess-star-to-cover-star-elle-features-sara-khadem",
-         "pubDate" : "Wed, 08 Mar 2023 05:56:44 -0800",
+         "pubDate" : "Wed, 08 Mar 2023 05:56:00 -0800",
          "title" : "From Exile To Cover Star: Iranian IM Sara Khadem Featured In Elle Magazine"
       },
       {
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.chessdom.com/stockholm-championship-2023/",
          "pubDate" : "Mon, 06 Mar 2023 22:39:41 +0000",
          "title" : "Stockholm Championship 2023"
-      },
-      {
-         "description" : "THe 2nd Lumezzane International Chess Festival 2023 will take place from 10-12 March 2023 in Lumezzane, Italy. The tournament system is 6-round Swiss with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament is separated in 2 cattegories Elite and Challenge. The total prize fund of Elite section os 3500 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-lumezzane-international-chess-festival-2023/",
-         "pubDate" : "Mon, 06 Mar 2023 22:31:29 +0000",
-         "title" : "2nd Lumezzane International Chess Festival 2023"
       },
       {
          "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
@@ -1074,14 +1090,6 @@ news_feed (
          "title" : "The battering ram"
       },
       {
-         "description" : "The reigning World Under-14 Open champion, Ilamparthi A R won WR Chess Junior Under-14 Boys with a perfect 5/5. He also won the Blitz event. These triumphs came 11 days after he became India's latest International Master at the 21st Rochefort Chess Festival Masters 2023. Ilamparthi, along with other participants of the junior tournament, also got training by the former world championship challenger, the legendary GM Boris Gelfand, and Germany no.1 female, GM Elisabeth Paehtz. We all hope he soon becomes a GM and strong enough to participate in the Masters events. Photo: Lennart Ootes/WR Chess 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ilamparthi-wins-wr-chess-juniors-u-14-boys-and-blitz-2023",
-         "pubDate" : "Tue, 28 Feb 2023 08:49:51 +0100",
-         "title" : "Ilamparthi wins WR Chess Juniors U-14 Boys and Blitz 2023"
-      },
-      {
          "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-7-gukesh-co-leader-as-nepo-beats-aronian",
          "pubDate" : "Fri, 24 Feb 2023 08:53:10 +0000",
          "title" : "WR Chess Masters 7: Gukesh co-leader as Nepo beats Aronian"
-      },
-      {
-         "description" : "One year ago, Russia invaded Ukraine and started a war that has been going on much longer than expected and that is probably not ending soon. In March of 2022, Chess.com spoke to several Ukrainian chess players about how the terrible developments ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/one-year-war-ukraine-chess-players",
-         "pubDate" : "Fri, 24 Feb 2023 00:27:00 -0800",
-         "title" : "A Year Of War For Ukrainian Chess Players"
       },
       {
          "description" : " The world champion is representing Canada Chessbrahs as the chess.com professional league is revived after a four-year break, but his streak will be overshadowed by this week's puzzle Magnus Carlsen is again the centre of attention as the world champion leads the Canada Chessbrahs in the <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> professional league, revived this year for the first time since pre-pandemic 2019. The world No 1 had a narrow escape at the start <a href=\"https://chess24.com/en/watch/live-tournaments/pro-chess-league-2023/4/2/1\" title=\"\">against Awonder Liang</a>, 19, but then raced to seven straight wins, including victory against the best-known US woman grandmaste",
