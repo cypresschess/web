@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen lost only his second game in the 2023 Pro Chess League, to Aleksandr Shimanov, as the Canada Chessbrahs lost to the Levitov Chess Wizards and will now have to win on demand next week to reach the Playoffs. The Shanghai Tigers, featuring Ju Wenjun and Wei Yi, joined the Wizards in booking a Playoff place after a comeback win.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/chessbrahs-on-brink-as-carlsen-suffers-rare-pro-chess-league-loss",
+         "pubDate" : "Fri, 10 Mar 2023 11:24:24 +0000",
+         "title" : "Chessbrahs on brink as Carlsen suffers rare Pro Chess League loss"
+      },
+      {
+         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
+         "pubDate" : "Fri, 10 Mar 2023 12:00:00 +0100",
+         "title" : "\"The Beast of Birmingham\""
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As <strong>Debbie Eastburn</strong> has <a href=\"https://chessintheschools.org/announcing-leadership-changes/\">announced her retirement</a>, the New York City-based chess in education NGO is <a href=\"https://chessintheschools.org/careers/\">seeking a new CEO and President</a> with strong fundraising and strategy skills. Founded as <strong>American Chess Foundation</strong> in 1986, it was <a href=\"https://www.nytimes.com/2009/11/12/giving/12EXEC.html\">renamed</a> <strong>Chess in the Schools</strong> in 1997 under its former CEO <strong>Marley Kaplan</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/chess-in-the-schools-seeks-ceo/",
+         "pubDate" : "Fri, 10 Mar 2023 11:15:48 +0100",
+         "title" : "Chess in the Schools seeks CEO"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The eminent arbiter and chess entrepreneur <strong>Albert Vasse</strong> has <a href=\"https://digitalgametechnology.com/news/albert-vasse-1958-2023\">passed away</a>. Together with <strong>Ben Bulsink</strong> he co-founded <strong>Digital Game Technology</strong> in 1993 and ran the company until 2015. He was regionally known as speaker of the victims of the explosion of a firework storage in Enschede and campaign manager for <strong>Groenlinks</strong>, the Dutch Green Party. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/albert-vasse-1958-2023/",
+         "pubDate" : "Fri, 10 Mar 2023 10:05:19 +0100",
+         "title" : "Albert Vasse (1958-2023)"
+      },
+      {
          "description" : " The 32-year-old, who is abdicating his world crown, chose the Norwegian League for his last three classical games and will not play the format again until late May Magnus Carlsen chose last weekend's Norwegian League in Oslo for his three final classical games as world champion. The world No 1 scored two wins as White, one where <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/1/1/1\" title=\"\">he crushed his opponent</a> and the other an endgame grind <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/2/1/1\" title=\"\">transforming a draw into a win</a> before <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/3/1/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -194,20 +226,20 @@ news_feed (
          "title" : "Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
       },
       {
-         "description" : "On Day 4 of the Armageddon Series Championship Series in Berlin the semi-finals will be played: Wesley So faces Renato Terry and Andrew Tang takes on Jose Martinez. In both matches two blitz games will be played, in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Thu, 09 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
-      },
-      {
          "description" : "Chess and football might have more in common than first meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/seeing-it-chess-and-football",
          "pubDate" : "Thu, 09 Mar 2023 17:25:50 +0100",
          "title" : "Seeing it: Chess and Football"
+      },
+      {
+         "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html",
+         "pubDate" : "Thu, 09 Mar 2023 16:12:00 +0000",
+         "title" : "March 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "Blitz chess will be included in the upcoming inaugural Olympic Esports Series 2023 with Chess.com playing host to a unique qualifying event. The world&#38;rsquo;s leading online chess platform has been selected by FIDE, recognized by the Internation...",
@@ -930,6 +962,14 @@ news_feed (
          "title" : "Ilamparthi tests Gukesh!"
       },
       {
+         "description" : "Magnus Carlsen has now scored 11/12 after posting a perfect 4/4 to give the Canada Chessbrahs victory over the Garden State Passers, despite team captain Eric Hansen scoring only 0.5/4. Elsewhere in Week 3 of the Pro Chess League the Indian Yogis, featuring siblings Praggnanandhaa and Vaishali, have already qualified for the Playoffs with three wins, while the Charlotte Cobras are eliminated after three losses.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-perfect-as-chessbrahs-pick-up-pro-chess-league-win",
+         "pubDate" : "Thu, 02 Mar 2023 12:00:00 +0000",
+         "title" : "Carlsen perfect as Chessbrahs pick up Pro Chess League win"
+      },
+      {
          "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1160,14 +1200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/russia-joins-asian-chess-federation",
          "pubDate" : "Tue, 28 Feb 2023 06:46:00 -0800",
          "title" : "'Shameful Day For Chess' Says European Chess Union As Russia Formally Joins Asia"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The General Assembly of the <strong>Asian Chess Federation</strong> <a href=\"https://ruchess.ru/en/news/all/cfr_becomes_member_of_asian_chess_federation/\">voted with 29:1 (6 abstentions)</a> to accept the <strong>Chess Federation of Russia</strong> as new member from 1 May. It's the first time that a sport federation of any kind changes from the European to the Asian umbrella organisation. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/russia-joins-asian-federation/",
-         "pubDate" : "Tue, 28 Feb 2023 14:48:15 +0100",
-         "title" : "Russia joins Asian Federation"
       },
       {
          "description" : " The 23rd European Individual Championship takes place Friday 3rd to Monday 13th March 2023 in Vrnjacka Banja, Serbia. Leading players: Gabriel Sargissian, Haik Martirosyan , Radoslaw Wojtaszek, David Navara, Jules Moussard, Alexandr Predke, David Anton Guijarro, Andrey Esipenko, Boris Gelfand, Alexey Sarana etc. ",
@@ -1458,28 +1490,12 @@ news_feed (
          "title" : "WR Chess Masters 5: Aronian and Keymer win"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> will <a href=\"https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023\">play his first classical time</a> limit games since the <strong>Candidates Tournament</strong> at the <strong>American Cup</strong>, a 300,000$ k.o.-event on 17-26 March. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/american-cup-brings-nakamura-back-to/",
-         "pubDate" : "Wed, 22 Feb 2023 12:40:04 +0100",
-         "title" : "American Cup brings Nakamura back to classical"
-      },
-      {
          "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/",
          "pubDate" : "Wed, 22 Feb 2023 11:29:17 +0000",
          "title" : "Statement of the European Chess Union - 22.02.2023"
-      },
-      {
-         "description" : "The World Chess Federation today announced it has no objection to the Russian Chess Federation leaving the European Chess Union and joining the Asian Chess Federation (ACF). All that remains is for the ACF to rubberstamp that switch at its General Assembly on February 28. FIDE will allow Russian players to switch to a European chess federation with no transfer fee or delay in being able to represent their new country.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/russia-chess-federation-to-join-asia",
-         "pubDate" : "Wed, 22 Feb 2023 10:14:21 +0000",
-         "title" : "Russia Chess Federation to join Asia"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
@@ -1520,14 +1536,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2245",
          "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
          "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
-      },
-      {
-         "description" : "Magnus Carlsen will face Vaishali and Vidit as Week 2 of the Pro Chess League begins with the Canada Chessbrahs facing the Indian Yogis. Fabiano Caruana is among the players making his 2023 debut, for the Saint Louis Arch Bishops, while Hikaru Nakamura will be back after dramatically losing to WGM Josefine Heinemann in Week 1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-caruana-nakamura-in-pro-chess-league-action",
-         "pubDate" : "Tue, 21 Feb 2023 13:30:00 +0000",
-         "title" : "Carlsen, Caruana & Nakamura in Pro Chess League action"
       },
       {
          "description" : "The ECU Commission for Women's Chess is organizing the second edition of the ECU Girls' and Women's Chess Weekend on 25th-26th February. All events are...",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/a-model-attack.html",
          "pubDate" : "Fri, 17 Feb 2023 12:43:00 +0000",
          "title" : "A model attack"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2238",
-         "pubDate" : "Fri, 17 Feb 2023 10:02:51 +0000",
-         "title" : "WR Chess Masters: Fighting Round 1, three joint leaders"
       }
    ]
 }
