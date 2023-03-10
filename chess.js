@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In &quot;Prepare Like A Pro,&quot; Tatev discusses how she prepared against IM Anna Zatonskih Originally on Twitch. 2023.02.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/preparing-against-im-anna-zatonskih-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHUwi7T7jaw.jpg?itok=i2mamJJr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/preparing-against-im-anna-zatonskih-wgm-tatev-abrahamyan",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "Preparing Against IM Anna Zatonskih - WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Arjun and the viewers run into a Magnus-sized puzzle during Arjuns Tactics and Challenge Stream -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-phone-magnus-one-challenge-simul-swiss-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UZEJ0kG1G9g.jpg?itok=rRkIciB9\" alt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/time-phone-magnus-one-challenge-simul-swiss-lichessorg",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "Time to Phone Magnus For This One!! | !challenge | !simul | !swiss | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tatev discusses King Marches Originally on Twitch. 2023.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5FwKG168ZXE.jpg?itok=GvH0O_88\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "King Marches | Grandmaster's Choice - WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess and Psychology with GM Denes Boros and several live in person students. -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-boros-chess-and-psychology-swiss-analyze-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SV72R6tQFA.jpg?itok=XcQcVN8B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-boros-chess-and-psychology-swiss-analyze-lichessorg",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "GM Boros' : Chess and Psychology | !swiss | !analyze| lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Broadcasted live on Twitch -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-queens-gambit-accepted-pro-gm-josh-sheng-swiss-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/plPaubFo3OA.jpg?itok=1wgQA08G\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-queens-gambit-accepted-pro-gm-josh-sheng-swiss-lichessorg",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "Prepare The Queen's Gambit Accepted Like A Pro | GM Josh Sheng | !Swiss | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09<br /> Robert Byrne vs Robert James Fischer, Sousse Interzonal (1967): B87 Sicilian, Sozin with ...a6 and ...b5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1044626\">https://www.chessgames.com/perl/chessgame?gid=1044626</a><br /> Evgenij Ermenkov vs Lajos Portisch, EUR-chT (Men) 7th (1980): B90 Sicilian, Najdorf, Lipnitzky attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1113876\">https://www.chessgames.com/perl/chessgame?gid=1113876</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-lichessorg-wgm-sabina-foisor",
+         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
+         "title" : "Know your Themes against the Sozin Sicilian | Prepare Like A Pro - lichess.org WGM Sabina Foisor"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2272",
+         "pubDate" : "Fri, 10 Mar 2023 02:28:40 +0000",
+         "title" : "EICC 2023, R07: Korobov retakes the lead"
+      },
+      {
          "description" : "The Girls U10 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Laura Najdkova, Klara Chmelova, Amalie Martikanova, Barbora Tykalova, Alexandra Junova, Tereza Melicharova, Eva []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -336,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-1",
          "pubDate" : "Wed, 08 Mar 2023 01:10:00 +0100",
          "title" : "Endgames from Vrnjacka Banja (1)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows the best games through the first five rounds of the the 2023 European Individual Chess Championship in Serbia. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
-         "pubDate" : "Tue, 07 Mar 2023 20:56:00 +0000",
-         "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
@@ -1042,44 +1090,12 @@ news_feed (
          "title" : "2nd IM norm for Brewington Hardaway!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacking-games-sicilian-grandmasters-choice-wgm-tatev-abrahamyan",
-         "pubDate" : "Tue, 28 Feb 2023 23:48:22 +0000",
-         "title" : "Attacking Games in the Sicilian | Grandmaster's Choice - WGM Tatev Abrahamyan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. Learn easy methods to checkmate with two rooks, one queen, one rook, two bishops, and more! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/basic-checkmates-breakdown-beginner-breakdown",
-         "pubDate" : "Tue, 28 Feb 2023 23:48:22 +0000",
-         "title" : "Basic Checkmates Breakdown! | Beginner Breakdown"
-      },
-      {
          "description" : "The Norway Gnomes and Spanish Maniac Shrimps defeated the Brazil Capybaras and Charlotte Cobras, respectively, to kick off week three in the Pro Chess League. The Norway Gnomes pulled off a shocking comeback after losing the first two rounds of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-3-gnomes-shrimps",
          "pubDate" : "Tue, 28 Feb 2023 14:19:00 -0800",
          "title" : "Norway Gnomes Recover To Steal Match Win, Spanish Maniac Shrimps Run Riot"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering goes over you basic checkmates. It&#039;s Chess 101, so pay attention and let&#039;s have some fun! 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-checkmates-breakdown-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uv-5to1FOwY.jpg?itok=UVFV5AvA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/basic-checkmates-breakdown-beginner-breakdown-lichessorg",
-         "pubDate" : "Tue, 28 Feb 2023 20:47:55 +0000",
-         "title" : "Basic Checkmates Breakdown! | Beginner Breakdown | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan teaches a chess class on a topic of her choice. 2023.02.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-wgm-tatev-abrahamyan-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yvz-hmEgVuY.jpg?itok=K5oQVv1t\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-wgm-tatev-abrahamyan-lichessorg",
-         "pubDate" : "Tue, 28 Feb 2023 17:47:56 +0000",
-         "title" : "Grandmaster's Choice - WGM Tatev Abrahamyan | lichess.org"
       },
       {
          "description" : "",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-5-aronian-and-keymer-win",
          "pubDate" : "Wed, 22 Feb 2023 12:45:10 +0000",
          "title" : "WR Chess Masters 5: Aronian and Keymer win"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Arch Bishops Captain Nemo @akaNemsko talks to the Arch Bishops&#039; GM Benjamin Bok before the start of the regular season. Saint Louis came up short the first week, but Week 2 against Team MGD1 is February 23 at 12p CST, streaming on akaNemsko on Twitch! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/benjamin-bok-amazing-arch-bishops-2023-pro-chess-league\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/publi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/benjamin-bok-amazing-arch-bishops-2023-pro-chess-league",
-         "pubDate" : "Wed, 22 Feb 2023 11:41:54 +0000",
-         "title" : "Benjamin Bok on the \"Amazing\" Arch Bishops | 2023 PRO Chess League"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Hikaru Nakamura</strong> will <a href=\"https://saintlouischessclub.org/blog/american-cup-returns-saint-louis-march-17-26-2023\">play his first classical time</a> limit games since the <strong>Candidates Tournament</strong> at the <strong>American Cup</strong>, a 300,000$ k.o.-event on 17-26 March. </div> ",
