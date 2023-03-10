@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 32-year-old, who is abdicating his world crown, chose the Norwegian League for his last three classical games and will not play the format again until late May Magnus Carlsen chose last weekend's Norwegian League in Oslo for his three final classical games as world champion. The world No 1 scored two wins as White, one where <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/1/1/1\" title=\"\">he crushed his opponent</a> and the other an endgame grind <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/2/1/1\" title=\"\">transforming a draw into a win</a> before <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/3/1/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/mar/10/chess-carlsen-draws-final-classical-game-as-world-champion-against-howell",
+         "pubDate" : "Fri, 10 Mar 2023 08:00:45 +0000",
+         "title" : "Chess: Carlsen draws final classical game as world champion against Howell"
+      },
+      {
+         "description" : "Anton Korobov regained clear first place in the standings of the European Championship by beating Stamatis Kourkoulos-Arditis in Thursday's seventh round. Meanwhile, Benjamin Gledura (pictured) climbed to sole second place with a win over Giga Quparadze. Thirteen players stand a half point behind Gledura with four rounds to go in Vrnjacka Banja, Serbia. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r7",
+         "pubDate" : "Fri, 10 Mar 2023 06:20:00 +0100",
+         "title" : "European Championship: Korobov leads, Gledura in sole second place"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In &quot;Prepare Like A Pro,&quot; Tatev discusses how she prepared against IM Anna Zatonskih Originally on Twitch. 2023.02.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/preparing-against-im-anna-zatonskih-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHUwi7T7jaw.jpg?itok=i2mamJJr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-fide-bring-chess-to-the-olympic-esports-series",
          "pubDate" : "Thu, 09 Mar 2023 06:56:00 -0800",
          "title" : "Chess.com And FIDE Bring Chess To The Olympic Esports Series"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Thu, 09 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : "The ECF server will be undergoing scheduled maintenance starting at 10:00am on Wednesday 15 March. This will affect all the ECF websites as well as...",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2238",
          "pubDate" : "Fri, 17 Feb 2023 10:02:51 +0000",
          "title" : "WR Chess Masters: Fighting Round 1, three joint leaders"
-      },
-      {
-         "description" : " Generation Z young masters are in contention for GM performances this season, while the revamped chess.com Tour prize fund offers new incentives for the world top 200 Britain's Four Nations Chess League (4NCL) is a team competition, but it also plays a key role in providing opportunities for the best young talents aiming at the grandmaster title. The potential rewards of becoming a strong GM have just jumped, due to the new prize structure of the revamped online <a href=\"https://www.chess.com/\">chess.com</a> Champions Tour. After last weekend's fifth and sixth (of 11) rounds, there is already a huge gap between the top five teams and the rest. Wood Green, Chessable White Rose and Chess.com ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
-         "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
-         "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
       }
    ]
 }
