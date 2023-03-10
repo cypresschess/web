@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A Senior National Arbiter Seminar &#38; Examination was organised by Sivakasi Chess Club, on bejhalf of All India Chess Federation, Tamil Nadu State Chess Association",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-sivakasi-from-4-to-5-march-2023-final-report/",
+         "pubDate" : "Fri, 10 Mar 2023 15:08:33 +0000",
+         "title" : "Senior National Arbiter Seminar and Examination, Sivakasi from 4 to 5 March 2023 : Final Report"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Fri, 10 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
          "description" : " One of Australia's biggest (on longest running) events, begins tomorrow. The 2023 Ballarat Begonia Open runs over the next three days, and has attracted record field of over 220 players (smashing last years record). The 7 round event is being played in 1 section (with accelerated pairings), with 2 games on Saturday, 3 on Sunday and 2 on Monday. There will be live coverage of the top boards. Standings, details and games can be found at <a href=\"https://www.ballaratchess.com/begonia/2023/index.html\">https://www.ballaratchess.com/begonia/2023/index.html</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -15,7 +31,7 @@ news_feed (
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/chessbrahs-on-brink-as-carlsen-suffers-rare-pro-chess-league-loss",
          "pubDate" : "Fri, 10 Mar 2023 11:24:24 +0000",
-         "title" : "Chessbrahs on brink as Carlsen suffers rare Pro Chess League loss"
+         "title" : "Chessbrahs on brink as Carlsen suffers Pro Chess League loss"
       },
       {
          "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
@@ -1114,14 +1130,6 @@ news_feed (
          "title" : "Celebrate Women's History Month With The New Bots"
       },
       {
-         "description" : "The newly created FIDE Circuit Leaderboard tracks players' performances in a number of eligible tournaments. At the end of the year, the top-rated player will get a spot in the 2024 Candidates Tournament. After obtaining two solid results at the Tata Steel Masters and the WR Chess Masters, Wesley So climbed to first place in this month's list. Anish Giri and Levon stand second and third respectively. | Photo: Lennart Ootes / WR Chess Masters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-circuit-leaderboard-february-2023",
-         "pubDate" : "Wed, 01 Mar 2023 08:00:00 +0100",
-         "title" : "FIDE Circuit Leaderboard: Wesley So takes the lead"
-      },
-      {
          "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/the-streak-remains.html",
          "pubDate" : "Sun, 26 Feb 2023 18:05:00 +0000",
          "title" : "The streak remains"
-      },
-      {
-         "description" : "MPL NATIONAL RAPID CHESS CHAMPIONSHIP 2022-23 AICF EVENT CODE: 307994 /JK/ 2022was organized by CROWN TRUST, under the aegis of Jammu district chess association, All",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arvind-chidambaram-of-tamilnadu-wins-national-rapid-chess-championship-2023/",
-         "pubDate" : "Sun, 26 Feb 2023 16:48:51 +0000",
-         "title" : "Arvind Chidambaram of Tamil Nadu wins National Rapid Chess Championship 2023"
       },
       {
          "description" : "For this month's post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), I had a couple of recent, related videos on my short list. How were they related? They were both about the current wave of the game's popularity. Let's take the longer video first. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/-w2Fv48VVEU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>Why More People Don't Play Chess</B> (24:31) &#149; '[Published on] Feb 5, 2023' <P>The video's des",
@@ -1696,22 +1696,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html",
          "pubDate" : "Fri, 17 Feb 2023 16:46:00 +0000",
          "title" : "Chess.com's Game Review Tools"
-      },
-      {
-         "description" : " Nigerian-born Gregory Acholonu was finally awarded the FM title after being qualified for over 20 years. The long-time chess coach has worked with the DC Chess Center for 12 years before starting his own GCA Chess Academy in Annapolis, Maryland. Acholonu has spent the better part of his life serving as an inspiration to scholastic The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/\">Gregory Acholonu awarded overdue FM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/17/gregory-acholonu-awarded-overdue-fm-title/",
-         "pubDate" : "Fri, 17 Feb 2023 14:03:49 +0000",
-         "title" : "Gregory Acholonu awarded overdue FM title"
-      },
-      {
-         "description" : " Study is still just as important and playing, and the improving player will combine the two. A collection of 'model' games can go a long way in helping you jump to the next level of chess understanding. In the following game, white both demonstrates how to arrange pieces when you have 'hanging pawns' but just as importantly, how to launch an attack against a king that is not defended by a knight on f6. <br /> <b>Hansen,Curt (2485) - Georgiev,Kiril (2430) [D41]</b><br />Wch U20 Kiljava (11), 15.08.1984 <script>new PgnViewer( { boardName: \"game1382\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bc4 cxd4 8.exd4 Be7 9.O-O O-O 10.Re1 Nxc3 11.bxc3 b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/a-model-attack.html",
-         "pubDate" : "Fri, 17 Feb 2023 12:43:00 +0000",
-         "title" : "A model attack"
       }
    ]
 }
