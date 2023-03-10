@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Girls U10 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Laura Najdkova, Klara Chmelova, Amalie Martikanova, Barbora Tykalova, Alexandra Junova, Tereza Melicharova, Eva []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:42:10 +0000",
+         "title" : "Girls U10 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U12 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Veronika Vancakova, Sofiia Markina, Anna Lickova, Anezka Nova, Zuzana Stara, Eliska Janouskova, Tamae []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u12-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:37:22 +0000",
+         "title" : "Girls U12 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "In week four of the 2023 Pro Chess League, the Levitov Chess Wizards and the Garden State Passers won their matches against the Canada Chessbrahs and California Unicorns, respectively. The Chess Wizards qualify for the Playoffs, while the Passers ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-wizards-passers",
+         "pubDate" : "Thu, 09 Mar 2023 13:33:00 -0800",
+         "title" : "Chess Wizards Stun World Champion, Advance To Playoffs; Bortnyk Leads Passers"
+      },
+      {
+         "description" : "The Girls U14 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lucie Rybackova, Amalie Zadrapova, Daniela Kozusnikova, Viktorie Buchtova, Dominika Kaplanova, Tereza Horkova, Kristyna []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:32:12 +0000",
+         "title" : "Girls U14 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U16 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lada Zelbova, Jana Sikorova, Beata Havelkova, Elen Hetfleischova, Michaela Seda, Adela Janouskova, Josefina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:26:41 +0000",
+         "title" : "Girls U16 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U10 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikita Filindash, Edvard Kolar, Daniel Vo, Vojtech Velim, Tomas Gernert, Vaclav Koutecky, Jan Kozusnik, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u10-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:15:58 +0000",
+         "title" : "U10 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U12 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tomas Mik, Martin Michael Mikulka, Vaclav Kroulik, Jan Bara, Andrey Chernyy, Matej Mydlar, Dmitriy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:08:44 +0000",
+         "title" : "U12 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U14 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of David Martirosyan, Daniel Juhanak, Matyas Roubal, Matej Jasso, Lukas Zelba, Bruno Topencik, Jachym Hrbek, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 21:00:33 +0000",
+         "title" : "U14 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg",
+         "pubDate" : "Thu, 09 Mar 2023 20:57:50 +0000",
+         "title" : "Know your Themes against the Sozin Sicilian | Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
+      },
+      {
+         "description" : "The U16 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Marek Janous, Filip Dolensky, Hong Quan Dan Werner, Matyas Paseka, Artem Mametev, Max Hozda, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 20:55:37 +0000",
+         "title" : "U16 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The FIDE Open Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tobias Pressler, Miroslav Korschner, Patrik Pycha, Petr Broz, Rudolf Hlavac, Ondrej Matejovsky, Filip []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-open-czech-youth-championship-2023-live/",
+         "pubDate" : "Thu, 09 Mar 2023 20:49:45 +0000",
+         "title" : "FIDE Open - Czech Youth Championship 2023 - LIVE"
+      },
+      {
          "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,28 +234,12 @@ news_feed (
          "title" : "Tigers Sweep Bulldogs 4-0, Advance To Playoffs; Blitz Wins Battle On Board 4"
       },
       {
-         "description" : "The European Women&#x2019;s Chess Championship 2023 will take place from 17-30 March 2023 in Petrovac, Montenegro. The event is open for all women players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations and according to the decisions of the ECU Board and General Assembly.&#xA0; The Championship will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-2/",
-         "pubDate" : "Wed, 08 Mar 2023 21:45:08 +0000",
-         "title" : "European Women's Chess Championship 2023 - List of players"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #558, Merijn van Delft analyses Anton Korobov's victory over Ruslan Ponomariov in round 5 of the European Championship. In the game, Korobov came up with a truly remarkable concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-558-korobov-ponomariov",
          "pubDate" : "Wed, 08 Mar 2023 18:00:00 +0100",
          "title" : "Game of the Week #558: A. Korobov - R. Ponomariov"
-      },
-      {
-         "description" : "Chess.com&#x2019;s $2 million Champions Chess Tour will return with the largest ever edition of the Chessable Masters, it was announced today. The tournament, sponsored by chess.com e-learning specialist, will run from April 4 to 7 with $235,000 and a spot in the Tour Finals at stake. Also at stake is a last chance to beat []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsens-last-dance-chessable-masters-marks-end-of-an-era-for-world-champion/",
-         "pubDate" : "Wed, 08 Mar 2023 16:05:08 +0000",
-         "title" : "Carlsen's Last Dance: Chessable Masters marks end of an era for World Champion"
       },
       {
          "description" : "Those who love spectacle and drama got their money's worth on Day 2 of the Armageddon Championship Series in Berlin. Especially in the match between Andrew Tang (pictured) and Leinier Dominguez, which Tang won in Armageddon. At the end of the game he had one second left on the clock, while Dominguez had spent all his time. In the second match of the day Jose Martinez prevailed against Ray Robson. | Foto: World Chess",
@@ -218,14 +290,6 @@ news_feed (
          "title" : "ECU E-Magazine February 2023"
       },
       {
-         "description" : "GM Anton Korobov (UKR, 2658) emerged as the sole leader of the event with 5/5 points, while four players tie for the second place scoring 4.5 points: IM Stamatis Kourkoulos-Arditis (GRE, 2520), GM Eltaj Safarli (AZE, 2608), GM Thai Dai Van Nguyen (CZE, 2651), and GM Giga Quparadze (GEO, 2483). Youngsters watch: GM Daniel Dardha, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anton-korobov-leads-european-individual-chess-2023-after-r5/",
-         "pubDate" : "Wed, 08 Mar 2023 09:21:22 +0000",
-         "title" : "Anton Korobov leads European Individual Chess 2023 after R5"
-      },
-      {
          "description" : "International Women's Day (March 8) is a global day celebrating the social, economic, cultural, and political achievements of women. The day also marks a call...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -274,28 +338,12 @@ news_feed (
          "title" : "Endgames from Vrnjacka Banja (1)"
       },
       {
-         "description" : "The International Olympic Committee (IOC) has announced details of the Olympic Esports Series 2023, a global virtual and simulated sports competition created by the IOC and in collaboration with International Federations (IFs) and game publishers. This evolved format of the IOC&#x2019;s virtual competition builds on the successes of the Olympic Virtual Series. The 2021 series, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-in-the-olympic-esports-series-2023/",
-         "pubDate" : "Tue, 07 Mar 2023 22:59:00 +0000",
-         "title" : "Chess in the Olympic Esports Series 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows the best games through the first five rounds of the the 2023 European Individual Chess Championship in Serbia. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
          "pubDate" : "Tue, 07 Mar 2023 20:56:00 +0000",
          "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor"
-      },
-      {
-         "description" : "The Usbek Women's Day Tournament 2023 is taking place from 6&#x2013;11 March 2023 in Tashkent, Uzbekistan. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Valentina Gunina, Nino Batsiashvili, Nilufar Yakubbaeva, Gulnar Mammadova, Alua Nurmanova, Anastasia Bodnaruk, Elina Danielian, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/usbek-womens-day-tournament-2023-live/",
-         "pubDate" : "Tue, 07 Mar 2023 17:39:19 +0000",
-         "title" : "Usbek Women's Day Tournament 2023 - LIVE"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
@@ -368,38 +416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2269",
          "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
          "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
-      },
-      {
-         "description" : "&#8220;When everybody finally stops talking, then I will, inexplicably, have something real to say.&#8221; This is part of the salty take by MrDodgy on Kramnik's war statement. See the full text by MrDodgy in the #TweetOftheDay",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mrdodgy-roasts-kramnik-tweetoftheday/",
-         "pubDate" : "Tue, 07 Mar 2023 09:51:10 +0000",
-         "title" : "MrDodgy roasts Kramnik #TweetOftheDay"
-      },
-      {
-         "description" : "Four rounds have already been played at the European Individual Chess Championship 2023 in Vrnjacka Banja, Serbia, and only three players emerged on the top with 4/4 points: GM Anton Korobov (UKR, 2658), GM Ruslan Ponomariov (UKR, 2655), and GM Eltaj Safarli (AZE, 2608).&#160;The leading trio is followed by a group of 23 players with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/korobov-ponomariov-and-safarli-in-the-lead-at-the-european-individual-chess-championship-2023/",
-         "pubDate" : "Tue, 07 Mar 2023 09:34:45 +0000",
-         "title" : "Korobov, Ponomariov and Safarli in the lead at the European Individual Chess Championship 2023"
-      },
-      {
-         "description" : "The Ramat Gan Purim Rapid was played this March 6th in Ramat Gan, Israel. GM Evgeny Postny finished with 5,0/5, a full point ahead of the second placed Ukranian player IM Anton Sitnikov. See the full standings and replay the games below 1 GM Postny, Evgeny ISR 2542 5 2 IM Sitnikov, Anton UKR 2352 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/evgeny-postny-wins-ramat-gan-purium-2023/",
-         "pubDate" : "Tue, 07 Mar 2023 09:17:56 +0000",
-         "title" : "Evgeny Postny wins Ramat Gan Purium 2023"
-      },
-      {
-         "description" : "The Federal publishes an interesting story about the life of Vishy Anand and his wife Aruna. In an excerpt from &#8216;Like Fine Wine: Nine Real, Rare Love Stories' you will find, as Vishy himself puts it, some of his best off the board moves.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vishy-anand-some-of-his-best-off-the-board-moves/",
-         "pubDate" : "Tue, 07 Mar 2023 09:06:39 +0000",
-         "title" : "Vishy Anand - some of his best off the board moves"
       },
       {
          "description" : "Three players are sharing the lead at the European Championship in Vrnjacka Banja, Serbia. Eltaj Safarli from Azerbaijan is joined by the Ukrainian duo of Anton Korobov and Ruslan Ponomariov (pictured) as the three participants who have scored four victories in as many games. A total of 23 players stand a half point back - Gabriel Sargissian, Boris Gelfand and Alexey Sarana are the highest-rated players in the chasing pack. | Photos: European Chess Union",
@@ -1314,14 +1330,6 @@ news_feed (
          "title" : "WR Chess Masters 8: Keymer ends So's hopes"
       },
       {
-         "description" : "As the Pro Chess League&#39;s second week reached its conclusion on Friday, the Croatia Bulldogs and the Gotham Knights secured narrow match wins over the Berlin Bears and the California Unicorns respectively. Following a hard-fought loss in week on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-2-bulldogs-knights",
-         "pubDate" : "Fri, 24 Feb 2023 18:24:00 -0800",
-         "title" : "Nakamura Scores 4/4 For Gotham Knights, Croatia Bulldogs Outclass Berlin Bears"
-      },
-      {
          "description" : "<IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1480,14 +1488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2246",
          "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
          "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> For the second time, two double-elimination tournaments featuring the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1<br /> Hikaru Nakamura vs. Jeffery Xiong<br /> Leinier Dominguez vs. Levon Aronian<br /> Fabiano Caruana vs. Ray Robson<br /> Wesley So vs. Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1",
-         "pubDate" : "Tue, 21 Feb 2023 23:41:27 +0000",
-         "title" : "The American Cup 2023: Day 1"
       },
       {
          "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (66)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (66)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/feb/17/chess-britains-4ncl-league-fosters-potential-grandmaster-talents",
          "pubDate" : "Fri, 17 Feb 2023 08:00:04 +0000",
          "title" : "Chess: Britain's Four Nations league fosters potential grandmaster talents"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2237",
-         "pubDate" : "Thu, 16 Feb 2023 21:22:26 +0000",
-         "title" : "Alexandr Fier wins VI Montevideo Open \"Marcel Duchamp Cup 2023\""
       }
    ]
 }
