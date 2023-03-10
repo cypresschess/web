@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is extending its Women&#39;s History Month celebrations with a special event in which you can get to know some of our members of staff and the streamers we work with. The event, which will be broadcasted live on Chess.com&#39;s channels on You...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/special-womens-month-celebration",
+         "pubDate" : "Fri, 10 Mar 2023 10:31:04 -0800",
+         "title" : "Join Us For A Very Special Women's History Month Celebration"
+      },
+      {
+         "description" : " Last week, we played through a position that employed a fork. In our example, Black seemed to have a decent fork that should have won material. However, that tactic didn't come to fruition because White was able get out of the tactical stranglehold easily. This week, I want to talk about a few ideas examined <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\">A Foundation for Beginners Eighty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-six/",
+         "pubDate" : "Fri, 10 Mar 2023 18:05:48 +0000",
+         "title" : "A Foundation for Beginners Eighty Six"
+      },
+      {
+         "description" : "Day 5 of the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland plays Jose Martinez and Renato Terry meets Leinier Dominguez. In both matches two blitz games will be played, in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Fri, 10 Mar 2023 18:55:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King examines a King's Indian game played by Ruslan Ponomariov with black, and then goes back and analyses the opening carefully by looking at past games. Strategy is delicate! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-indian-complexity",
+         "pubDate" : "Fri, 10 Mar 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: King's Indian complexity"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2274",
+         "pubDate" : "Fri, 10 Mar 2023 16:43:36 +0000",
+         "title" : "FIDE - ISF World School Teams Online Chess Cup postponed"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2273",
+         "pubDate" : "Fri, 10 Mar 2023 15:57:17 +0000",
+         "title" : "International Women's Day Chess festival held in Tirana, Albania"
+      },
+      {
          "description" : "A Senior National Arbiter Seminar &#38; Examination was organised by Sivakasi Chess Club, on bejhalf of All India Chess Federation, Tamil Nadu State Chess Association",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1042,14 +1090,6 @@ news_feed (
          "title" : "Olympic Esports Series includes chess"
       },
       {
-         "description" : "A year into Russia's invasion of Ukraine, the Berlin Chess Federation organized an event to mark its support for the Ukrainian people. First, a simultaneous exhibition was given by Ukrainian grandmaster Zahar Efimenko. Then, an international panel discussed the consequences of the war for the chess world. Paul Meyer-Dunker reports. | Photos: Berlin Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-berlin-solidary-simul-for-ukraine",
-         "pubDate" : "Wed, 01 Mar 2023 19:15:00 +0100",
-         "title" : "In Berlin: Solidary simul for Ukraine"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1066,28 +1106,12 @@ news_feed (
          "title" : "Nakamura Wins 50th Titled Tuesday Of 11-Round Era"
       },
       {
-         "description" : "Some of the top players and top youngsters were active in February, so there was some movement in the world rankings. Among the top players, Levon Aronian recorded the biggest gain; among the top youngsters, it was Gukesh. Ian Nepomniachtchi is the second highest-rated player in the world, albeit still below the 2800-mark. Ranked second and third, Ding Liren and Alireza Firouzja, did not play any rated games in February.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-march-2023",
-         "pubDate" : "Wed, 01 Mar 2023 16:00:00 +0100",
-         "title" : "FIDE ratings March 2023"
-      },
-      {
          "description" : "The 23rd edition of the European Individual Chess Championship 2023 takes place from the 2nd-14th of March in Hotel Zepter Vrnjacka Banja, Serbia. The event broke the participation record with more than 490 players coming from 40 European federations. The event includes 48 players rated 2600+, 128 Grandmasters, 105 International masters, and a total of 379 titled players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/",
          "pubDate" : "Wed, 01 Mar 2023 14:19:15 +0000",
          "title" : "European Individual Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
-      },
-      {
-         "description" : "Tata Steel 2023: The tournament winner of the Masters, Anish Giri, comments on his best games as well as Jorden van Foreest, Praggnanandhaa and many more. In addition, video analyses by Dorian Rogozenco - \"Special\" on Anthony Miles: exclusive collection of 21 commented games + contributions on strategy and endgame - \"English for Attackers\": Alexey Kuzmin shows the highly topical gambit 1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 c6!? - \"Theory Update from Wijk aan Zee I\": Rustam Kasimdzhanov brings Spanish with 8.a4 b4 9.a5 up to date - Endgame series \"Fundamental Endgame Knowledge\" Part 2: Learn the most important rules and techniques in the ending Rook + Pawn vs. Rook from Dr. Karsten Mueller and muc",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-212",
-         "pubDate" : "Wed, 01 Mar 2023 15:00:00 +0100",
-         "title" : "NEW: ChessBase Magazine #212"
       },
       {
          "description" : "16-year-old Indian prodigy Gukesh is back at a career high world no. 18 on the March 2023 FIDE rating list after gaining 12 points in the recent WR Chess Masters. The winner, Levon Aronian, is up to world no. 12, while Sergey Karjakin is no longer in the world top 10 after failing to play a classical game in the last year.",
@@ -1336,14 +1360,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/",
          "pubDate" : "Sun, 26 Feb 2023 00:10:55 +0000",
          "title" : "Opening Repertoire: Queen's Gambit Declined: Tarrasch"
-      },
-      {
-         "description" : "GM Levon Aronian won the inaugural WR Chess Masters 2023 after winning all three games against his co-leaders in the rapid tiebreaks. GMs Gukesh D and Ian Nepomniachtchi finish in tied second-third. In the classical games, Aronian-Gukesh headed ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wr-chess-masters-aronian-wins",
-         "pubDate" : "Sat, 25 Feb 2023 15:52:00 -0800",
-         "title" : "Aronian Clinches 'Tiebreak of Generations' With Perfect 3/3 Score, Wins Inaugural Event"
       },
       {
          "description" : "For the third year in a row, the Grand Chess Tour will be without the two arguably biggest stars of the chess world, Magnus Carlsen and Hikaru Nakamura. The lack of variety in the field draws criticism among chess fans.",
@@ -1680,22 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2239",
          "pubDate" : "Fri, 17 Feb 2023 21:57:16 +0000",
          "title" : "The first Bahrain Chess Championship runs big"
-      },
-      {
-         "description" : " Last week we looked at some further concepts regarding the fork. This week, we're going to look at a single example of a fork and work through the possible outcomes for both players. Specifically, we'll look at the possible recourse the victim of the tactic has when hit with a fork. Set up the following <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Four\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-four/\">A Foundation for Beginners Eighty Four</a> appeared first on <a rel=\"nofollow\" href=\"https://chess",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-four/",
-         "pubDate" : "Fri, 17 Feb 2023 20:28:33 +0000",
-         "title" : "A Foundation for Beginners Eighty Four"
-      },
-      {
-         "description" : "At the risk of immediately losing some visitors to this post, I'm going to continue a recent post from my chess960 blog, <A HREF=\"http://chess960frc.blogspot.com/2023/01/the-fascinating-world-of-chess960.html\">The Fascinating World of Chess960</A>(January 2023). There I wrote, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. [...] I switched to Chess.com in May 2022, playing one or (maximum) two games of correspondence chess at a time. [...] So far I've played about a dozen games on Chess.com, never once tempted to use an engine. [...] That's the background for a series of posts that I plan to write for ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html",
-         "pubDate" : "Fri, 17 Feb 2023 16:46:00 +0000",
-         "title" : "Chess.com's Game Review Tools"
       }
    ]
 }
