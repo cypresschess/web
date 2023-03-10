@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of Australia's biggest (on longest running) events, begins tomorrow. The 2023 Ballarat Begonia Open runs over the next three days, and has attracted record field of over 220 players (smashing last years record). The 7 round event is being played in 1 section (with accelerated pairings), with 2 games on Saturday, 3 on Sunday and 2 on Monday. There will be live coverage of the top boards. Standings, details and games can be found at <a href=\"https://www.ballaratchess.com/begonia/2023/index.html\">https://www.ballaratchess.com/begonia/2023/index.html</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/2023-ballarat-begonia-open.html",
+         "pubDate" : "Fri, 10 Mar 2023 12:18:00 +0000",
+         "title" : "2023 Ballarat Begonia Open"
+      },
+      {
          "description" : "Magnus Carlsen lost only his second game in the 2023 Pro Chess League, to Aleksandr Shimanov, as the Canada Chessbrahs lost to the Levitov Chess Wizards and will now have to win on demand next week to reach the Playoffs. The Shanghai Tigers, featuring Ju Wenjun and Wei Yi, joined the Wizards in booking a Playoff place after a comeback win.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-3/",
          "pubDate" : "Wed, 08 Mar 2023 08:57:29 +0000",
          "title" : "International Women's Day"
-      },
-      {
-         "description" : "National Team Open &#38; Women 2023 all certificates are out to download Open : https://aicf.online/National-Team-2023-Open.html Women : https://aicf.online/National-Team-2023-Women.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-open-women-2023-certificates/",
-         "pubDate" : "Wed, 08 Mar 2023 04:45:10 +0000",
-         "title" : "National Team Open & Women 2023 Certificates"
       },
       {
          "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
@@ -1288,6 +1288,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/the-streak-remains.html",
          "pubDate" : "Sun, 26 Feb 2023 18:05:00 +0000",
          "title" : "The streak remains"
+      },
+      {
+         "description" : "MPL NATIONAL RAPID CHESS CHAMPIONSHIP 2022-23 AICF EVENT CODE: 307994 /JK/ 2022was organized by CROWN TRUST, under the aegis of Jammu district chess association, All",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arvind-chidambaram-of-tamilnadu-wins-national-rapid-chess-championship-2023/",
+         "pubDate" : "Sun, 26 Feb 2023 16:48:51 +0000",
+         "title" : "Arvind Chidambaram of Tamil Nadu wins National Rapid Chess Championship 2023"
       },
       {
          "description" : "For this month's post on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A>(November 2016), I had a couple of recent, related videos on my short list. How were they related? They were both about the current wave of the game's popularity. Let's take the longer video first. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/-w2Fv48VVEU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>Why More People Don't Play Chess</B> (24:31) &#149; '[Published on] Feb 5, 2023' <P>The video's des",
