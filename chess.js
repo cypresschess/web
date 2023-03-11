@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "'The Underdog' is the newest series on ChessBase. We will witness some of the greatest upsets of the month, where dark horses get to beat the rating favourite! Robert Ris shares some beautiful examples, in which a rating difference of 500 or more points simply does not make a difference. One of the biggest upsets this month was achieved by Josephine Heinemann, who got the better of Hikaru Nakamura. What a brilliant start to the series!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/when-the-underdog-wins-chess-master-with-563-points-more-elo-is-taken-down",
+         "pubDate" : "Sat, 11 Mar 2023 20:00:00 +0100",
+         "title" : "When the underdog wins! Beating a player 563 points higher rated"
+      },
+      {
+         "description" : "Ellen Carlsen, Magnus Carlsen&#39;s older sister, says Jennifer Shahade&#39;s allegations against Alejandro Ramirez led to her report an incident where she says she was harassed by a chess player as a minor. WGM&#39;s Jennifer Shahade&#39;s shocking tweet alleg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ellen-carlsen-reports-harassment-after-shahade-tweet",
+         "pubDate" : "Sat, 11 Mar 2023 10:09:00 -0800",
+         "title" : "Ellen Carlsen Reports Harassment After Shahade Tweet"
+      },
+      {
+         "description" : "Day 6 of the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Leinier Dominguez in the losers' bracket after both players advanced in the Armageddon stage on Friday, while Wesley So and Andrew Tang plays Wesley So in the winners' bracket. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Sat, 11 Mar 2023 18:55:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wadim Rosenstein</strong>, sponsor of the recent world class <strong>WR Masters</strong> in D&uuml;sseldorf, has <a href=\"https://dsb2023.de\">presented his candidacy</a> as President of the <strong>German Chess Federation</strong> to clean up <a href=\"https://www.chesstech.org/2023/financial-turmoil-leads-to/\">the mess left</a> by <strong>Ullrich Krause</strong> who will not run again in the May election after he had to acknowledge financial losses of close to €600,000. Rosenstein's team includes <strong>Paul Meyer Dunker</strong>, President of the <strong>Berlin Chess Federation</strong> and Social Media Director of the Schachbund, who is",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/rosenstein-runs-for-schachbund/",
+         "pubDate" : "Sat, 11 Mar 2023 18:18:57 +0100",
+         "title" : "Rosenstein runs for Schachbund President"
+      },
+      {
+         "description" : "Do you only watch an award show if someone gets slapped in the face? Well, you&#39;re in luck (again)! Back for its second year, The Streamer Awards are happening on Saturday, March 11, starting at 3 p.m. PT, and it&#39;s being presented by and strea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-twitch-streamer-awards-qtcinderella",
+         "pubDate" : "Sat, 11 Mar 2023 09:12:54 -0800",
+         "title" : "The Streamer Awards Presented By Twitch"
+      },
+      {
          "description" : "Today: Lutz Nebe shows us the visual database changes, and adjustments of the ChessBase 17 interface. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +208,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-six/",
          "pubDate" : "Fri, 10 Mar 2023 18:05:48 +0000",
          "title" : "A Foundation for Beginners Eighty Six"
-      },
-      {
-         "description" : "Day 5 of the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland plays Jose Martinez and Renato Terry meets Leinier Dominguez. In both matches two blitz games will be played, in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Fri, 10 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
          "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
@@ -978,14 +1010,6 @@ news_feed (
          "title" : "Collegiate Chess League: Spring 2023 Midseason Recap"
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris analyses a sharp positional battle which emerged out of a Winawer variation in the French Defence. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ever-sharp-french-winawer",
-         "pubDate" : "Fri, 03 Mar 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The ever-sharp French Winawer"
-      },
-      {
          "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1146,14 +1170,6 @@ news_feed (
          "title" : "Karjakin Off March 2023 FIDE Rating List Due To Inactivity"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>International Olympic Committee</strong> <a href=\"https://olympics.com/ioc/news/ioc-announces-olympic-esports-series-2023\">announced nine games</a> to feature in the first <strong>Olympic Esports Series</strong> with live finals on 22-25 June in Singapore. Other than in the <strong>Olympic Virtual Series</strong> at the last Summer Olympics in Tokyo in 2021, chess is included. It's the first significant cooperation between <strong>FIDE</strong> and <strong>Chess.com</strong> since their takeover of the <strong>Play Magnus Group</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/olympic-esports-series-includes/",
-         "pubDate" : "Wed, 01 Mar 2023 21:24:16 +0100",
-         "title" : "Olympic Esports Series includes chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1266,28 +1282,12 @@ news_feed (
          "title" : "Potential Game Of Year Played In Romanian Championship"
       },
       {
-         "description" : "GM Hikaru Nakamura was the convincing winner of the second edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after scoring 65 wins, four draws, and 12 losses en route to claiming the $1,000 prize for first. Familiar faces in GMs Daniel N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-2023-bullet-brawl-february",
-         "pubDate" : "Tue, 28 Feb 2023 07:40:00 -0800",
-         "title" : "Nakamura Wins Second Bullet Brawl"
-      },
-      {
          "description" : "The Russian Chess Federation is leaving Europe to become part of the Asian Chess Federation after 29 delegates voted in favour, with only 1 against and 6 abstentions, in today's Asian Chess Summit in Abu Dhabi. The change, clearly motivated by the consequences of Russia's invasion of Ukraine, has been described as \"scandalous\" by European Chess Union Vice President Malcolm Pein.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/asia-votes-29-1-to-admit-russian-chess-federation",
          "pubDate" : "Tue, 28 Feb 2023 15:00:32 +0000",
          "title" : "Asia votes 29:1 to admit Russian Chess Federation"
-      },
-      {
-         "description" : "The Chess Federation of Russia (CFR) has completed its historic switch to Asia in a move branded by the European Chess Union (ECU) as a &#34;shameful day&#34; for the game. The Asian Chess Federation (ACF) formally adopted the CFR into its ranks at a meet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russia-joins-asian-chess-federation",
-         "pubDate" : "Tue, 28 Feb 2023 06:46:00 -0800",
-         "title" : "'Shameful Day For Chess' Says European Chess Union As Russia Formally Joins Asia"
       },
       {
          "description" : " The 23rd European Individual Championship takes place Friday 3rd to Monday 13th March 2023 in Vrnjacka Banja, Serbia. Leading players: Gabriel Sargissian, Haik Martirosyan , Radoslaw Wojtaszek, David Navara, Jules Moussard, Alexandr Predke, David Anton Guijarro, Andrey Esipenko, Boris Gelfand, Alexey Sarana etc. ",
