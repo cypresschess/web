@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor fills the shoes of Bobby Fischer and Lajos Portisch as Black to take on the Sozin Attack in the Sicilian. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor",
+         "pubDate" : "Fri, 10 Mar 2023 23:58:18 +0000",
+         "title" : "Know Your Themes Against the Sozin Sicilian | Prepare Like A Pro - WGM Sabina Foisor"
+      },
+      {
+         "description" : "On the final day of week four of the 2023 Pro Chess League, the Norway Gnomes defeated Team MGD1 and made it to the Playoffs. In the second match, the Saint Louis Arch Bishops eliminated the Spanish Maniac Shrimps. GM Pranav V was indisputably t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-gnomes-shrimps",
+         "pubDate" : "Fri, 10 Mar 2023 14:41:00 -0800",
+         "title" : "Norway Gnomes Qualify For Playoffs; Saint Louis Arch Bishops Cook Shrimps"
+      },
+      {
+         "description" : "The 5th year of the Prague International Chess Festival will take place at the beginning of the summer at the Don Giovanni Hotel in Prague. In the Masters tournament, we can look forward to 10 top grandmasters, among them the winner of last year&#xB4;s Masters tournament Pentala Harikrishna from India, best Czech player David Navara, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/v-prague-international-chess-festival-open-section/",
+         "pubDate" : "Fri, 10 Mar 2023 22:19:59 +0000",
+         "title" : "V Prague International Chess Festival - Open section"
+      },
+      {
+         "description" : "The Czech Tour 2023 summer festival includes four very strong tournaments in Czech Republic. The first of them is V Prague International Chess Festival. This tournament will take place from 20 to 30 of June 2023. The 5th year of the Prague International Chess Festival will take place at the beginning of the summer []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/czech-tour-2023-summer-festivals/",
+         "pubDate" : "Fri, 10 Mar 2023 22:06:52 +0000",
+         "title" : "Czech Tour 2023 - summer festivals"
+      },
+      {
+         "description" : "The Polish University Championship 2023 istaking place from 10-11 March 2023. Time control is 10 minutes + 3 seconds per move. It is a 9-round Swiss Rapid tournament with participation of Igor Kowalski, Szymon Walter, Patryk Chylewski, Antoni Szustakowski, Milosz Szpar, Mieszko Mis, Radoslaw Psyk, Mikolaj Nowak, Aleksander Kumala, Marcin Szelag, Kosma Pacan-Milej, etc. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polish-university-championship-2023-live/",
+         "pubDate" : "Fri, 10 Mar 2023 21:47:25 +0000",
+         "title" : "Polish University Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The European School Chess Championship will be held in Durres, on the Adriatic coast of Albania, from 12 May to 22 May, under the auspices of the European Chess Union (ECU) and Albania Chess Federation (ACHF).The venue Grand Blue Fafa Resort is located right on front of Albanian Riviera, on beautiful long beach of Golem, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-school-chess-championship-2023/",
+         "pubDate" : "Fri, 10 Mar 2023 21:39:15 +0000",
+         "title" : "European School Chess Championship 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. Games begin March 17. Players listed below. USChessChamps.com OVERALL FIELD: Nakamura, Caruana, Wesley So, Aronian, Dominguez, Robson, Shankland, Sevian<br /> WOMEN&#039;S FIELD: Krush, Pourkashiyan, Tokhirjonova, Zatonskih, Abrahamyan, Alice Lee, Paikidze, Nemcova </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-promo",
+         "pubDate" : "Fri, 10 Mar 2023 20:58:19 +0000",
+         "title" : "The American Cup 2023 | PROMO"
+      },
+      {
          "description" : "Chess.com is extending its Women&#39;s History Month celebrations with a special event in which you can get to know some of our members of staff and the streamers we work with. The event, which will be broadcasted live on Chess.com&#39;s channels on You...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,7 +194,7 @@ news_feed (
          "title" : "Time to Phone Magnus For This One!! | !challenge | !simul | !swiss | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tatev discusses King Marches Originally on Twitch. 2023.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5FwKG168ZXE.jpg?itok=GvH0O_88\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan discusses king marches in chess. A \"king march\" refers to when a king travels a long distance on the board, either to accomplish an attack or because it's forced. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5FwKG168ZXE.",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan",
@@ -234,36 +290,12 @@ news_feed (
          "title" : "U12 Czech Youth Championship 2023 - LIVE"
       },
       {
-         "description" : "The U14 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of David Martirosyan, Daniel Juhanak, Matyas Roubal, Matej Jasso, Lukas Zelba, Bruno Topencik, Jachym Hrbek, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:00:33 +0000",
-         "title" : "U14 Czech Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg",
          "pubDate" : "Thu, 09 Mar 2023 20:57:50 +0000",
          "title" : "Know your Themes against the Sozin Sicilian | Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
-      },
-      {
-         "description" : "The U16 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Marek Janous, Filip Dolensky, Hong Quan Dan Werner, Matyas Paseka, Artem Mametev, Max Hozda, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 20:55:37 +0000",
-         "title" : "U16 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The FIDE Open Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tobias Pressler, Miroslav Korschner, Patrik Pycha, Petr Broz, Rudolf Hlavac, Ondrej Matejovsky, Filip []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-open-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 20:49:45 +0000",
-         "title" : "FIDE Open - Czech Youth Championship 2023 - LIVE"
       },
       {
          "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
@@ -288,14 +320,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/korobovs-fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
          "pubDate" : "Thu, 09 Mar 2023 17:57:45 +0000",
          "title" : "Korobov's Fighting Chess at the European Championship! | Grandmaster's Choice - WGM Sabina Foisor"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-wgm-sabina-foisor-lichessorg",
-         "pubDate" : "Thu, 09 Mar 2023 17:57:45 +0000",
-         "title" : "Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
       },
       {
          "description" : "Chess and football might have more in common than first meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
@@ -376,14 +400,6 @@ news_feed (
          "link" : "https://aicf.in/fide-trainers-online-seminar-17-19-mar-23/",
          "pubDate" : "Thu, 09 Mar 2023 09:24:02 +0000",
          "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
-      },
-      {
-         "description" : "The VIII FE &#8220;Pasqua a Montesilvano&#8221; 2023 will take place from 7-10 April 2023 in Montesilvano (PE), Italy. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in three categories &#x2013; Group A, Groub and Group C. Open A section is 6-round Swiss system tournament and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/viii-fe-pasqua-a-montesilvano-2023/",
-         "pubDate" : "Thu, 09 Mar 2023 07:43:40 +0000",
-         "title" : "VIII FE \"Pasqua a Montesilvano\" 2023"
       },
       {
          "description" : "Chess was among the topics discussed at the 17th edition of the MIT Sloan Sports Analytics Conference, which took place on March 3-4 at the Hynes Convention Centre in Boston. The panel brought together some of the biggest names in the game, including Danny Rensch, Jennifer Shahade, Fabiano Caruana, Hikaru Nakamura, and Daryl Morey.",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wall-street-journal-women-accuse-alejandro-ramirez",
          "pubDate" : "Tue, 07 Mar 2023 19:26:00 -0800",
          "title" : "The Wall Street Journal: 8 Women Accuse Ramirez Of Wrongdoing"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows the best games through the first five rounds of the the 2023 European Individual Chess Championship in Serbia. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor-lichessorg",
-         "pubDate" : "Wed, 08 Mar 2023 02:55:49 +0000",
-         "title" : "Fighting Chess at the European Championship | Grandmaster's Choice - WGM Sabina Foisor | lichess.org"
       },
       {
          "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his first seven finds! | Pictured: Marius Gramb | Photo: European Chess Union",
@@ -1274,14 +1282,6 @@ news_feed (
          "title" : "Carlsen misses mate-in-3 in Pro Chess League drama"
       },
       {
-         "description" : "Thirteen-year-old FM Brewington Hardaway earned his second of three norms required for the international master title on Sunday. He finished in tied first with another talented young FM, 18-year-old Gus Huston, each with 7/9 at the Marshall Chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-2nd-im-norm",
-         "pubDate" : "Mon, 27 Feb 2023 13:56:07 -0800",
-         "title" : "Brewington Hardaway Earns 2nd International Master Norm"
-      },
-      {
          "description" : "Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. The most recent post in the series was <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html\">Chessify's Other Engines</A>(February 2023). Are there any alternatives? <P>Chessify answered that question in <A HREF=\"https://chessify.me/blog/why-the-cloud-servers-for-chess-engines-worth-it-what-options-you-have\">Why the Cloud Servers for Chess Engines [Are] Worth it & What Options You Have</A>(chessify.me/blog):- <BLOCKQUOTE>Main options for cloud chess engines &#149; Where can you find these servers to r",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1688,14 +1688,6 @@ news_feed (
          "link" : "https://www.thearticle.com/grandmasters-of-the-chessboard/",
          "pubDate" : "Sat, 18 Feb 2023 10:17:22 +0000",
          "title" : "Grandmasters of the Chessboard"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2239",
-         "pubDate" : "Fri, 17 Feb 2023 21:57:16 +0000",
-         "title" : "The first Bahrain Chess Championship runs big"
       }
    ]
 }
