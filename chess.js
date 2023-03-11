@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today: Lutz Nebe shows us the visual database changes, and adjustments of the ChessBase 17 interface. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-database-interface-of-chessbase-17",
+         "pubDate" : "Sat, 11 Mar 2023 16:00:00 +0100",
+         "title" : "Explained by the engineers! - The new database interface of ChessBase 17!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tata Abrahamyan discusses how she prepared for her match with IM Anna Zatonskih as part of the first round of The American Cup 2022. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-beat-anna-zatonskih-american-cup-prepare-pro-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHUwi7T7jaw.jpg?itok=i2mamJJr\" alt=\"\" /><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-i-beat-anna-zatonskih-american-cup-prepare-pro-wgm-tatev-abrahamyan",
+         "pubDate" : "Sat, 11 Mar 2023 14:58:39 +0000",
+         "title" : "How I Beat Anna Zatonskih at The American Cup | Prepare Like A Pro - WGM Tatev Abrahamyan"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Sat, 11 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/the-only-move-is-best-move.html",
+         "pubDate" : "Sat, 11 Mar 2023 13:09:00 +0000",
+         "title" : "The only move is the best move"
+      },
+      {
+         "description" : "The latest cause c&eacute;lèbre in the Woke Wars has been the decision by Puffin publishers to eliminate politically incorrect words (such as fat, men and ugly) from the collected children's works of Roald Dahl. This censorship, post-mortem, was immediately attacked by that Polyphemic literary giant Sir Salman Rushdie, as well as by Gyles Brandreth and Richard Osman []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/puffins-labours-lost/",
+         "pubDate" : "Sat, 11 Mar 2023 12:41:46 +0000",
+         "title" : "Puffins Labours Lost"
+      },
+      {
+         "description" : " Oleiny Linares Napoles won her 4th national title during the Cuban women's championship from February 9th-20th. The event was a 12-player round-robin taking place in Jos&eacute; Ra&uacute;l Capablanca Academy in Camag&uuml;ey. Linares has been a regular on The Chess Drum and was last featured after winning her 3rd championship. The Santiago de Cuba famously won The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/\">Cuba's Linares wins her 4th chess title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/",
+         "pubDate" : "Sat, 11 Mar 2023 12:39:44 +0000",
+         "title" : "Cuba's Linares wins her 4th chess title!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new didactic <strong>ChessUp</strong> <a href=\"https://playchessup.com\">electronic board</a> will be available from May 2023 thanks to <strong>Bryght Lab</strong> <a href=\"https://www.youtube.com/watch?v=fR0JOaktMBk\">picking up $300,000</a> from <a href=\"https://en.wikipedia.org/wiki/Lori_Greiner\">serial investor <strong>Lori Greiner</strong></a> during the <strong>ABC</strong> start-up show <strong>Shark Tank</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/bryght-labs-lands-300k-investor-in/",
+         "pubDate" : "Sat, 11 Mar 2023 13:00:23 +0100",
+         "title" : "Bryght Labs lands 300k investor in TV show"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -344,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-h4-h5-caro-kann",
          "pubDate" : "Thu, 09 Mar 2023 19:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: 4.h4 h5 in the Caro-Kann"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor shows Anton Korobov&#039;s win over former FIDE champion Russian Ponomariov at the 2023 European Individual Chess Championship in Serbia. This victory put Korobov 5/5, in clear first at about the halfway point in the event. 2023.03.07<br /> Anton Korobov vs Ruslan Ponomariov, European Individual Chess Championship (2023): D38 Queen&#039;s Gambit Declined, Ragozin variation<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2460309\">https://www.chessgames.com/perl/chessgame?gid=2460309</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div clas",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/korobovs-fighting-chess-european-championship-grandmasters-choice-wgm-sabina-foisor",
-         "pubDate" : "Thu, 09 Mar 2023 17:57:45 +0000",
-         "title" : "Korobov's Fighting Chess at the European Championship! | Grandmaster's Choice - WGM Sabina Foisor"
       },
       {
          "description" : "Chess and football might have more in common than first meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
@@ -946,14 +994,6 @@ news_feed (
          "title" : "Chess.com's Game Review Tools Support"
       },
       {
-         "description" : "Shanghai and Chongqing will host the two major Women's events of the year. More than three years after her last defence of the title in Shanghai and Vladivostok, women's world champion Ju Wenjun will face the winner of the Candidates' final match between Lei Tingjie and Tan Zhongyi.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/china-to-host-women-candidates-world-championship",
-         "pubDate" : "Fri, 03 Mar 2023 15:30:00 +0100",
-         "title" : "China to host Women's Candidates Final and Women's World Championship Match"
-      },
-      {
          "description" : "Back in January, we proclaimed a new chess boom that was so big it was troubling our servers. Thankfully, those problems have been fixed now. But if you thought that sudden wave of interest in the game would pass, or it was perhaps just a fad fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1000,14 +1040,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/03/chess-magnus-carlsen-stimulus-missed-as-levon-aronian-wins-in-dusseldorf",
          "pubDate" : "Fri, 03 Mar 2023 08:00:27 +0000",
          "title" : "Chess: Magnus Carlsen stimulus missed as Levon Aronian wins in D&uuml;sseldorf"
-      },
-      {
-         "description" : "In the second half of February, the traditional Graz Open, by now the biggest Open in Austria, was held at the local Chamber of Commerce. Abhijeet Gupta won the A-Open ahead of 170 players. | Photo: Winners of the A-tournament. From left to right: Chief Arbiter Manfred Mussnig, Tournament Organizer Andrea Schmidbauer, GM Felix Blohberger, GM Abhijeet Gupta and GM Hagen P&ouml;tsch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhijeet-gupta-wins-graz-open",
-         "pubDate" : "Fri, 03 Mar 2023 08:00:00 +0100",
-         "title" : "Abhijeet Gupta wins Graz Open"
       },
       {
          "description" : "In the Asian Chess Federation annual summit at Abu Dhabi, the Asian Chess Excellence Awards 2023 has been announced and India shines with bagging the",
@@ -1224,14 +1256,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/",
          "pubDate" : "Tue, 28 Feb 2023 17:00:00 +0000",
          "title" : "Black History Month 2023 - A Chess Tribute"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Schachgipfel</strong>, an annual festival of German Individual Championships, <a href=\"https://www.schachbund.de/news/deutscher-schachgipfel-2023-abgesagt.html\">cannot take place</a> in Braunschweig in July as planned. The originally positive city has rejected to contribute any subsidies after <a href=\"https://perlenvombodensee.de/2023/02/24/der-deutsche-schachbund-ist-pleite/\">financial irregularities</a> in the <strong>German Chess Federation</strong> have <a href=\"https://www.schachbund.de/news/haushaltszahlen-2022-2023-deutlich-schlechter-als-erwartet.html\">become public</a>, and the regional <strong>Lower Saxony Chess Federation</st",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/financial-turmoil-leads-to/",
-         "pubDate" : "Tue, 28 Feb 2023 17:12:00 +0100",
-         "title" : "German championships canceled"
       },
       {
          "description" : "It&#39;s just the second month of 2023, but we may have the game of the year on our hands. The following game was played by 39-year-old GM Gergely-Andras-Gyula Szabo at the Romanian Chess Championship 2023. Szabo&#39;s round-six victory over FM Nicodim-...",
@@ -1672,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2242",
          "pubDate" : "Sat, 18 Feb 2023 22:20:20 +0000",
          "title" : "WR Chess Masters, Round 3: Levon Aronian, the dragon slayer"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2241",
-         "pubDate" : "Sat, 18 Feb 2023 16:12:10 +0000",
-         "title" : "Ofer Comay wins 19th International Solving Contest"
       }
    ]
 }
