@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anton Korobov continues to lead the standings at the European Championship in Serbia. Korobov signed an 8-move draw with white against Benjamin Gledura, who was in sole second place going into Friday's eighth round. Gledura is now joined in second place by Alexey Sarana, who defeated Yuriy Kuzubov on board 4. Twenty-seven players stand a half point behind Gledura and Sarana. | Pictured: Marina Gajcin | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r8",
+         "pubDate" : "Sat, 11 Mar 2023 02:30:00 +0100",
+         "title" : "European Championship: Calculated risk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor fills the shoes of Bobby Fischer and Lajos Portisch as Black to take on the Sozin Attack in the Sicilian. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,6 +90,14 @@ news_feed (
          "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
+         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
+         "pubDate" : "Fri, 10 Mar 2023 18:05:00 +0100",
+         "title" : "\"The Beast of Birmingham\""
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King examines a King's Indian game played by Ruslan Ponomariov with black, and then goes back and analyses the opening carefully by looking at past games. Strategy is delicate! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar and Examination, Sivakasi from 4 to 5 March 2023 : Final Report"
       },
       {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Fri, 10 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
-      },
-      {
          "description" : " One of Australia's biggest (on longest running) events, begins tomorrow. The 2023 Ballarat Begonia Open runs over the next three days, and has attracted record field of over 220 players (smashing last years record). The 7 round event is being played in 1 section (with accelerated pairings), with 2 games on Saturday, 3 on Sunday and 2 on Monday. There will be live coverage of the top boards. Standings, details and games can be found at <a href=\"https://www.ballaratchess.com/begonia/2023/index.html\">https://www.ballaratchess.com/begonia/2023/index.html</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessbrahs-on-brink-as-carlsen-suffers-rare-pro-chess-league-loss",
          "pubDate" : "Fri, 10 Mar 2023 11:24:24 +0000",
          "title" : "Chessbrahs on brink as Carlsen suffers Pro Chess League loss"
-      },
-      {
-         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
-         "pubDate" : "Fri, 10 Mar 2023 12:00:00 +0100",
-         "title" : "\"The Beast of Birmingham\""
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As <strong>Debbie Eastburn</strong> has <a href=\"https://chessintheschools.org/announcing-leadership-changes/\">announced her retirement</a>, the New York City-based chess in education NGO is <a href=\"https://chessintheschools.org/careers/\">seeking a new CEO and President</a> with strong fundraising and strategy skills. Founded as <strong>American Chess Foundation</strong> in 1986, it was <a href=\"https://www.nytimes.com/2009/11/12/giving/12EXEC.html\">renamed</a> <strong>Chess in the Schools</strong> in 1997 under its former CEO <strong>Marley Kaplan</strong>. </div> ",
