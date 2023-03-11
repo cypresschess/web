@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2275",
+         "pubDate" : "Sat, 11 Mar 2023 10:41:40 +0000",
+         "title" : "EICC 2023, Round 8: Korobov stays in front"
+      },
+      {
          "description" : "National Rapid &#38; Blitz Chess Championship 2023 Certificates are out to download Rapid : https://aicf.online/National-Rapid-2023.html Blitz : https://aicf.online/National-Blitz.2023.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1672,22 +1680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2241",
          "pubDate" : "Sat, 18 Feb 2023 16:12:10 +0000",
          "title" : "Ofer Comay wins 19th International Solving Contest"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2240",
-         "pubDate" : "Sat, 18 Feb 2023 12:13:11 +0000",
-         "title" : "WR Chess Masters: Gukesh and Abdusattorov join the leaders"
-      },
-      {
-         "description" : "Earlier this week a prima facie academic tome landed on my desk. In fact the author, as I realised with mounting excitement and anticipation, has made a brave attempt to update Richard R&eacute;ti's 1920s classic, Masters of the Chessboard, to the 21st century. While I was a pupil at Dulwich College - back in the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/grandmasters-of-the-chessboard/",
-         "pubDate" : "Sat, 18 Feb 2023 10:17:22 +0000",
-         "title" : "Grandmasters of the Chessboard"
       }
    ]
 }
