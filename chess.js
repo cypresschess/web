@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Rapid &#38; Blitz Chess Championship 2023 Certificates are out to download Rapid : https://aicf.online/National-Rapid-2023.html Blitz : https://aicf.online/National-Blitz.2023.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-rapid-blitz-certificates/",
+         "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
+         "title" : "National Rapid & Blitz Certificates"
+      },
+      {
+         "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his seven of his finds! | Pictured: Sabino Brunello | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-2",
+         "pubDate" : "Sat, 11 Mar 2023 09:15:00 +0100",
+         "title" : "Endgames from Vrnjacka Banja (2)"
+      },
+      {
+         "description" : "In the diagram position, the pinned white Nb6 seems to be doomed. But mate comes first, and White has a clever way out - or should we say way in? Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/come-on-in",
+         "pubDate" : "Sat, 11 Mar 2023 09:00:00 +0100",
+         "title" : "Come on in!"
+      },
+      {
          "description" : "Anton Korobov continues to lead the standings at the European Championship in Serbia. Korobov signed an 8-move draw with white against Benjamin Gledura, who was in sole second place going into Friday's eighth round. Gledura is now joined in second place by Alexey Sarana, who defeated Yuriy Kuzubov on board 4. Twenty-seven players stand a half point behind Gledura and Sarana. | Pictured: Marina Gajcin | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -480,6 +504,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-3/",
          "pubDate" : "Wed, 08 Mar 2023 08:57:29 +0000",
          "title" : "International Women's Day"
+      },
+      {
+         "description" : "National Team Open &#38; Women 2023 all certificates are out to download Open : https://aicf.online/National-Team-2023-Open.html Women : https://aicf.online/National-Team-2023-Women.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-women-2023-certificates/",
+         "pubDate" : "Wed, 08 Mar 2023 04:45:10 +0000",
+         "title" : "National Team Open & Women 2023 Certificates"
       },
       {
          "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
@@ -1026,28 +1058,12 @@ news_feed (
          "title" : "Sayantan Das Crushes At Cannes Open, Becomes India's 81st Grandmaster"
       },
       {
-         "description" : "Gukesh is just 16 years old, already a full-blown top GM with a live rating of 2730, currently number 20 in the world. Ilamparthi, is a young talent, 13 years old, currently the world under-14 champion, and an IM rated 2423. Both Gukesh and Ilamparthi did really well in Dusseldorf at the WR Masters and Juniors respectively. It was time for some fun on our train journey from Dusseldorf to ChessBase in Hamburg. This article includes ten tough positions posed by Ilamparthi to Gukesh!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ilamparthi-tests-gukesh",
-         "pubDate" : "Thu, 02 Mar 2023 14:00:00 +0100",
-         "title" : "Ilamparthi tests Gukesh!"
-      },
-      {
          "description" : "Magnus Carlsen has now scored 11/12 after posting a perfect 4/4 to give the Canada Chessbrahs victory over the Garden State Passers, despite team captain Eric Hansen scoring only 0.5/4. Elsewhere in Week 3 of the Pro Chess League the Indian Yogis, featuring siblings Praggnanandhaa and Vaishali, have already qualified for the Playoffs with three wins, while the Charlotte Cobras are eliminated after three losses.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/carlsen-perfect-as-chessbrahs-pick-up-pro-chess-league-win",
          "pubDate" : "Thu, 02 Mar 2023 12:00:00 +0000",
          "title" : "Carlsen perfect as Chessbrahs pick up Pro Chess League win"
-      },
-      {
-         "description" : "GM Sethuraman S P gave himself the best gift on his 30th birthday, as he won the 2023 Cappelle-la-Grande Open. He and GM Harsha Bharathakoti scored an unbeaten 7&frac12;/9 each. Sethuraman won the tournament on tie-breaks. The game between them in the penultimate round ended in a draw. WIM Mounika Akshaya Bommini won the Best Woman prize. | Photo: L'Echiquier Cappellois",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sethuraman-wins-cappelle-la-grande-open-2023",
-         "pubDate" : "Thu, 02 Mar 2023 11:25:00 +0100",
-         "title" : "Sethuraman wins Cappelle-la-Grande Open on his 30th birthday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98360957.cms\" />Indian Grandmaster D Gukesh has been honoured with Player-of-the-Year award by the Asian Chess Federation (ACF) for clinching the gold medal with a record-breaking score of 9/11 in the 44th Chess Olympiad at Mahabalipuram last year.",
@@ -1266,14 +1282,6 @@ news_feed (
          "title" : "10th MPL National Amateur Chess Championship, Punjab 2023 :Final Report"
       },
       {
-         "description" : "AICF EVENT CODE: 307995 /JK/ 2022 was organized by CROWN TRUST, under the aegis of Jammu district chess association, All J&#38;K Chess Association and under",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/top-seed-gm-aravindh-chithambaram-v-r-won-mpl-national-blitz-2023/",
-         "pubDate" : "Tue, 28 Feb 2023 10:38:51 +0000",
-         "title" : "Top Seed GM Aravindh Chithambaram V R won MPL National Blitz 2023"
-      },
-      {
          "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2259",
          "pubDate" : "Mon, 27 Feb 2023 12:49:54 +0000",
          "title" : "EDU Commission announces its fourth \"Preparation of Teachers\" course"
-      },
-      {
-         "description" : "Appended below find the batches for AICF's Arbiter Refresher Course. If you find any discrepancy, please contact aicfarbiterscommission@gmail.com. All are required to attend the Refresher",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-arbiter-refresher-course-final-batch-allotment/",
-         "pubDate" : "Mon, 27 Feb 2023 10:12:44 +0000",
-         "title" : "AICF'S ARBITER REFRESHER COURSE : FINAL BATCH ALLOTMENT"
       },
       {
          "description" : "",
