@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br />Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script>new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/potter.html",
+         "pubDate" : "Sun, 12 Mar 2023 12:25:00 +0000",
+         "title" : "Potter!"
+      },
+      {
+         "description" : "Karsten Mueller continues his training series for ambitious amateurs in ChessBase Magazine #212. This time it's about basic techniques in the endgame with rook and pawn against rook. You've probably heard about the \"Lucena win\", \"Vancura's draw\" - but do you still know how the whole thing works and which details you have to pay attention to? Karsten Mueller's contribution consists of an introductory video in which the techniques and motifs are presented and five interactive training videos in which it is your task to enter the solution on the board. You can watch the introductory video here. The interactive part with video feedback is only available in CBM#212!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-series-fundamental-endgame-knowledge-part-2-rook-and-pawn-vs-rook",
+         "pubDate" : "Sun, 12 Mar 2023 13:00:00 +0100",
+         "title" : "\"Fundamental Endgame Knowledge\" - Part 2: Rook and Pawn vs. Rook"
+      },
+      {
          "description" : "Alexey Sarana snatched the sole lead in the European Championship in Vrnjacka Banja, Serbia with two rounds to go after beating Anton Korobov in Round 9, making it a perfect 5/5 with the white pieces for the 23-year-old. Korobov is joined half a point behind by Etienne Bacrot and six young players: Kirill Shevchenko, Andrey Esipenko, Benjamin Gledura, Valentin Dragnev and David Paravyan.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1034,14 +1050,6 @@ news_feed (
          "title" : "Collegiate Chess League: Spring 2023 Midseason Recap"
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris analyses a sharp positional battle which emerged out of a Winawer variation in the French Defence. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ever-sharp-french-winawer",
-         "pubDate" : "Fri, 03 Mar 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: The ever-sharp French Winawer"
-      },
-      {
          "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/catsparov-chess.html",
          "pubDate" : "Sun, 19 Feb 2023 16:12:00 +0000",
          "title" : "Catsparov Chess"
-      },
-      {
-         "description" : " One of the tasks attached to my role as FIDE Qualification Secretary is to answer requests and comments concerning the FIDE Rating System. Sometime these are technical questions (eg \"Why wasn't tournament X rated?\") but some are to do with the operation of the rating system itself. Without delving into details, the topic of 'underrated' players has come up. It turns out that this is a familiar topic to me, as when I was the Australian Ratings Officer way back in late 1980's, this was something I also dealt with on a regular basis. What hasn't happened over the past 35 years is a solution that makes everyone happy (that is also statistically sound). One of the arguments about how the rating ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/do-you-play-for-ratings-or-conditions.html",
-         "pubDate" : "Sun, 19 Feb 2023 12:50:00 +0000",
-         "title" : "Do you play for ratings or conditions?"
       }
    ]
 }
