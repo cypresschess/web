@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2276",
+         "pubDate" : "Sun, 12 Mar 2023 02:19:00 +0000",
+         "title" : "Sarana defeats Korobov to grab the sole lead in EICC 2023"
+      },
+      {
          "description" : " The Chess Drum's Daaim Shabazz was a guest on Dylan Quercia's Twitch stream called, &#8220;Talking Talent.&#8221; The 71-minute segment featured the usual questions about chess beginnings and the emergence of the 22-year-old website. Other questions featured chess in the African-American chess community, its progress, the importance of analytics, and issues pertaining to the bridge of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/\">The Chess Drum on &#8220;Talking Talent&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "When the underdog wins! Beating a player 563 points higher rated"
       },
       {
-         "description" : "Ellen Carlsen, Magnus Carlsen&#39;s older sister, says Jennifer Shahade&#39;s allegations against Alejandro Ramirez led to her report an incident where she says she was harassed by a chess player as a minor. WGM&#39;s Jennifer Shahade&#39;s shocking tweet alleg...",
+         "description" : "Ellen Carlsen, GM Magnus Carlsen&#39;s older sister, says WGM Jennifer Shahade&#39;s allegations against Alejandro Ramirez led to her report an incident where she says she was harassed by a chess player as a minor. Shahade&#39;s shocking tweet alleging that...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ellen-carlsen-reports-harassment-after-shahade-tweet",
