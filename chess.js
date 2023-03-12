@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The G20 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Lucie Fizerova, Sandra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u20-czech-youth-championship-2023-live/",
+         "pubDate" : "Sun, 12 Mar 2023 07:15:46 +0000",
+         "title" : "Girls U20 Czech Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U20 Czech Youth Championship 2023 is taking place from 10&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 12-player round-robin tournament with particiaption of Ondrej Svanda, Adam []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-czech-youth-championship-2023-live/",
+         "pubDate" : "Sun, 12 Mar 2023 07:08:05 +0000",
+         "title" : "U20 Czech Youth Championship 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -408,22 +424,6 @@ news_feed (
          "link" : "https://www.chessdom.com/girls-u16-czech-youth-championship-2023-live/",
          "pubDate" : "Thu, 09 Mar 2023 21:26:41 +0000",
          "title" : "Girls U16 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U10 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nikita Filindash, Edvard Kolar, Daniel Vo, Vojtech Velim, Tomas Gernert, Vaclav Koutecky, Jan Kozusnik, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u10-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:15:58 +0000",
-         "title" : "U10 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U12 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tomas Mik, Martin Michael Mikulka, Vaclav Kroulik, Jan Bara, Andrey Chernyy, Matej Mydlar, Dmitriy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:08:44 +0000",
-         "title" : "U12 Czech Youth Championship 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
