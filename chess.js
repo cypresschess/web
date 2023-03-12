@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the first round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-1",
+         "pubDate" : "Sun, 12 Mar 2023 17:59:26 +0000",
+         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 1"
+      },
+      {
+         "description" : "The last day of play at the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Andrew Tang to decide who will play Wesley So in the tournament's final, which will take place right after that match is over. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Sun, 12 Mar 2023 18:55:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-2-lichessorg",
+         "pubDate" : "Sun, 12 Mar 2023 14:59:17 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 2 | lichess.org"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 116th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,14 +434,6 @@ news_feed (
          "title" : "Prepare The Queen's Gambit Accepted Like A Pro | GM Josh Sheng | !Swiss | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09<br /> Robert Byrne vs Robert James Fischer, Sousse Interzonal (1967): B87 Sicilian, Sozin with ...a6 and ...b5<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1044626\">https://www.chessgames.com/perl/chessgame?gid=1044626</a><br /> Evgenij Ermenkov vs Lajos Portisch, EUR-chT (Men) 7th (1980): B90 Sicilian, Najdorf, Lipnitzky attack<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1113876\">https://www.chessgames.com/perl/chessgame?gid=1113876</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-lichessorg-wgm-sabina-foisor",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "Know your Themes against the Sozin Sicilian | Prepare Like A Pro - lichess.org WGM Sabina Foisor"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -464,14 +480,6 @@ news_feed (
          "link" : "https://www.chessdom.com/girls-u16-czech-youth-championship-2023-live/",
          "pubDate" : "Thu, 09 Mar 2023 21:26:41 +0000",
          "title" : "Girls U16 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor teaches a chess class on preparation. 2023.03.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor-lichessorg",
-         "pubDate" : "Thu, 09 Mar 2023 20:57:50 +0000",
-         "title" : "Know your Themes against the Sozin Sicilian | Prepare Like A Pro - WGM Sabina Foisor | lichess.org"
       },
       {
          "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-2023-r1",
          "pubDate" : "Sat, 04 Mar 2023 10:45:00 +0100",
          "title" : "The European Championship kicked off in Vrnjacka Banja"
-      },
-      {
-         "description" : "In the diagram position, Black wins by force if he plays his trumps in the right order. Attacking with patience - can you do it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/controlled-power",
-         "pubDate" : "Sat, 04 Mar 2023 09:00:00 +0100",
-         "title" : "Controlled power"
       },
       {
          "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
@@ -1696,14 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2243",
          "pubDate" : "Mon, 20 Feb 2023 01:25:56 +0000",
          "title" : "WR Chess Masters, Round 4: Burned bridges and kicked down doors"
-      },
-      {
-         "description" : "Alternate title: 'The Eyes Have It'. In last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/01/dall-e-chess-revisited.html\">DALL-E Chess Revisited</A>(January 2023), I wondered, <BLOCKQUOTE>Am I just a sucker for AI generated chess images? </BLOCKQUOTE> <P>It appears I am. On the left is another AI image; on the right is the real deal. <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb19.jpg\" WIDTH=400 HEIGHT=225><BR><B>Left:</B><A HREF=\"https://www.flickr.com/photos/87249144@N08/52678338167/\">Cat Chess</A>&#169; Flickr user <I>FolsomNatural</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <BR><B>Right:</B><A HR",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/catsparov-chess.html",
-         "pubDate" : "Sun, 19 Feb 2023 16:12:00 +0000",
-         "title" : "Catsparov Chess"
       }
    ]
 }
