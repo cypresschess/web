@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexey Sarana snatched the sole lead in the European Championship in Vrnjacka Banja, Serbia with two rounds to go after beating Anton Korobov in Round 9, making it a perfect 5/5 with the white pieces for the 23-year-old. Korobov is joined half a point behind by Etienne Bacrot and six young players: Kirill Shevchenko, Andrey Esipenko, Benjamin Gledura, Valentin Dragnev and David Paravyan.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/sarana-snatches-sole-european-championship-lead",
+         "pubDate" : "Sun, 12 Mar 2023 10:33:39 +0000",
+         "title" : "Sarana snatches sole European Championship lead"
+      },
+      {
+         "description" : "For the first time at the 2023 European Championship, Anton Korobov is not at least sharing the lead. The Ukrainian GM was defeated by Alexey Sarana, who thus climbed to sole first place in the standings. Now sharing second place with Korobov on 7/9 points are six more players: Etienne Bacrot, Benjamin Gledura, Kirill Shevchenko, Andrey Esipenko, Valentin Dragnev and David Paravyan. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r9",
+         "pubDate" : "Sun, 12 Mar 2023 10:30:00 +0100",
+         "title" : "European Championship: Sarana beats Korobov, takes the lead"
+      },
+      {
          "description" : "The G20 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Lucie Fizerova, Sandra []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Ellen Carlsen Reports Harassment After Shahade Tweet"
       },
       {
-         "description" : "Day 6 of the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Leinier Dominguez in the losers' bracket after both players advanced in the Armageddon stage on Friday, while Wesley So and Andrew Tang plays Wesley So in the winners' bracket. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Sat, 11 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wadim Rosenstein</strong>, sponsor of the recent world class <strong>WR Masters</strong> in D&uuml;sseldorf, has <a href=\"https://dsb2023.de\">presented his candidacy</a> as President of the <strong>German Chess Federation</strong> to clean up <a href=\"https://www.chesstech.org/2023/financial-turmoil-leads-to/\">the mess left</a> by <strong>Ullrich Krause</strong> who will not run again in the May election after he had to acknowledge financial losses of close to €600,000. Rosenstein's team includes <strong>Paul Meyer Dunker</strong>, President of the <strong>Berlin Chess Federation</strong> and Social Media Director of the Schachbund, who is",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-i-beat-anna-zatonskih-american-cup-prepare-pro-wgm-tatev-abrahamyan",
          "pubDate" : "Sat, 11 Mar 2023 14:58:39 +0000",
          "title" : "How I Beat Anna Zatonskih at The American Cup | Prepare Like A Pro - WGM Tatev Abrahamyan"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Sat, 11 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
@@ -264,6 +264,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2274",
          "pubDate" : "Fri, 10 Mar 2023 16:43:36 +0000",
          "title" : "FIDE - ISF World School Teams Online Chess Cup postponed"
+      },
+      {
+         "description" : "For the last few weeks I've been running a weekly series on <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023). I'll continue with Chess.com, but change the focus. That post mentioned, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. </BLOCKQUOTE> <P>I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. It's a real mixed bag. Posts marked '(*)' featured Chess.com. <P>Recent months have seen heavy media interest in the so-called Niemann affair. The entire discussion gets a '(*)",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html",
+         "pubDate" : "Fri, 10 Mar 2023 16:13:00 +0000",
+         "title" : "Cheating for all Ages"
       },
       {
          "description" : "",
@@ -1026,6 +1034,14 @@ news_feed (
          "title" : "Collegiate Chess League: Spring 2023 Midseason Recap"
       },
       {
+         "description" : "In his Fast & Furious show, Robert Ris analyses a sharp positional battle which emerged out of a Winawer variation in the French Defence. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-the-ever-sharp-french-winawer",
+         "pubDate" : "Fri, 03 Mar 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: The ever-sharp French Winawer"
+      },
+      {
          "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "WR Chess Masters Round 6: Endgame battles"
       },
       {
-         "description" : "Levon Aronian opened up a 1-point lead over Wesley So and Gukesh and re-entered the Top 10 on the live rating list after ending Anish Giri's 28-game unbeaten streak. The other big result of Round 5 was Vincent Keymer finally picking up a win by taking down Nodirbek Abdusattorov, leaving us with the curious situation that half the field is in last place on a score of minus one.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-5-aronian-and-keymer-win",
-         "pubDate" : "Wed, 22 Feb 2023 12:45:10 +0000",
-         "title" : "WR Chess Masters 5: Aronian and Keymer win"
-      },
-      {
          "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1688,14 +1696,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/do-you-play-for-ratings-or-conditions.html",
          "pubDate" : "Sun, 19 Feb 2023 12:50:00 +0000",
          "title" : "Do you play for ratings or conditions?"
-      },
-      {
-         "description" : " I'm a member of a Chess Teachers and Learners group on Facebook. I'm not sure whether I find the general tone of the discussion amusing or disturbing. These are some of the questions that crop up regularly. &#8220;The computer cheated against me. I took all its pieces and now it can't move its king anywhere <a href=\"https://chessimprover.com/revenge-of-the-noobs/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Revenge of the Noobs\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/revenge-of-the-noobs/\">Revenge of the Noobs</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/revenge-of-the-noobs/",
-         "pubDate" : "Sun, 19 Feb 2023 08:32:16 +0000",
-         "title" : "Revenge of the Noobs"
       }
    ]
 }
