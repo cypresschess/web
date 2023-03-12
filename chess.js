@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chess Drum's Daaim Shabazz was a guest on Dylan Quercia's Twitch stream called, &#8220;Talking Talent.&#8221; The 71-minute segment featured the usual questions about chess beginnings and the emergence of the 22-year-old website. Other questions featured chess in the African-American chess community, its progress, the importance of analytics, and issues pertaining to the bridge of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/\">The Chess Drum on &#8220;Talking Talent&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
+         "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
+         "title" : "The Chess Drum on \"Talking Talent\""
+      },
+      {
          "description" : "'The Underdog' is the newest series on ChessBase. We will witness some of the greatest upsets of the month, where dark horses get to beat the rating favourite! Robert Ris shares some beautiful examples, in which a rating difference of 500 or more points simply does not make a difference. One of the biggest upsets this month was achieved by Josephine Heinemann, who got the better of Hikaru Nakamura. What a brilliant start to the series!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1680,22 +1688,6 @@ news_feed (
          "link" : "https://chessimprover.com/revenge-of-the-noobs/",
          "pubDate" : "Sun, 19 Feb 2023 08:32:16 +0000",
          "title" : "Revenge of the Noobs"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover : &#8220;The Black Lion is a thoroughly modern counterattacking system that is a nightmare to face. This wild and aggressive line <a href=\"http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Opening Repertoire: Black Lion</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/\">Opening Repertoire: Black Lion</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/02/19/opening-repertoire-black-lion/",
-         "pubDate" : "Sun, 19 Feb 2023 00:10:16 +0000",
-         "title" : "Opening Repertoire: Black Lion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2242",
-         "pubDate" : "Sat, 18 Feb 2023 22:20:20 +0000",
-         "title" : "WR Chess Masters, Round 3: Levon Aronian, the dragon slayer"
       }
    ]
 }
