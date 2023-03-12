@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Classic on April 22nd</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/",
+         "pubDate" : "Sun, 12 Mar 2023 23:26:48 +0000",
+         "title" : "HBCU Classic on April 22nd"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2277",
+         "pubDate" : "Sun, 12 Mar 2023 22:12:39 +0000",
+         "title" : "Henr&iacute;quez Villagra and Campos win Zonal 2.5 in Asunci&oacute;n, Paraguay"
+      },
+      {
+         "description" : " You'll probably recognise this Famous Position from a Famous Game. In the 1963 US Championship game between Fischer and Benko, Bobby noticed that the immediate e5, threatening mate on h7, would be met by f5, so he played Rf6!, winning a couple of moves later. You see the idea: a rook sacrifice so that a <a href=\"https://chessimprover.com/a-tactical-idea/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Tactical Idea\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-tactical-idea/\">A Tactical Idea</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-tactical-idea/",
+         "pubDate" : "Sun, 12 Mar 2023 19:41:03 +0000",
+         "title" : "A Tactical Idea"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the first round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
