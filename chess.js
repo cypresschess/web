@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 116th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-116-play-the-sicilian-17",
+         "pubDate" : "Sun, 12 Mar 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 116: Play the Sicilian (17)"
+      },
+      {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Sun, 12 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
          "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br />Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script>new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.thearticle.com/battle-of-the-blues/",
          "pubDate" : "Sat, 04 Mar 2023 06:34:14 +0000",
          "title" : "Battle of the Blues"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Americas\", the first event of the cycle developed by World Chess, will take place on March 6-12 in Berlin. Wesley So, Jose Martinez, Ray Robson, Leinier Dominguez, Sam Shankland, Andrew Tang, Renato Terry and Eric Hansen will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-americas-preview",
-         "pubDate" : "Fri, 03 Mar 2023 21:45:00 +0100",
-         "title" : "Armageddon Series: So, Hansen and Dominguez to play in Americas' leg"
       },
       {
          "description" : " Last week, we delved into our study of the fork in greater detail. This week, we'll further expand on what we've learned. It's important to start this article by stating that not all tactics are equal. That being the case, not all forks are equal, and many beginners end up not gaining any material, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\">A Foundation for Beginners Eighty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
