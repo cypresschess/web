@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 49&#xBA; Torneo Internacional de Ajedrez de La Roda 2023 will take place from 5-9 April 2023 in La Roda (Albacete), Spain. The time control is 90 minutes and 30 seconds per move, starting from move one.&#160;The prize fund is 15 000 EUR with 3500 EUR guaranted for the winner.&#160; The top five seeds are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/49o-torneo-internacional-de-ajedrez-de-la-roda-2023/",
+         "pubDate" : "Mon, 13 Mar 2023 22:08:41 +0000",
+         "title" : "49 º Torneo Internacional de Ajedrez de La Roda 2023"
+      },
+      {
+         "description" : "The 2023 Excelsior March GM Norm will take place from 13-17 March 2023 in Toronto, Canada. The time control is 90 minutes and 30 seconds per move, starting from move one. It is 9-round Robin tournament with participation of Victor Mikhalevski, Gabor Nagy, Nikolay Noritsyn, Luis Fernando Ibarra Chami, Joshua Posthuma, Bator Sambuev, Mark Plotkin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-march-gm-norm-2/",
+         "pubDate" : "Mon, 13 Mar 2023 21:45:37 +0000",
+         "title" : "2023 Excelsior March GM Norm"
+      },
+      {
+         "description" : "The 2023 Excelsior March GM Norm will take place from 13-17 March 2023 in Toronto, Canada. The time control is 90 minutes and 30 seconds per move, starting from move one. It is 9-round Robin tournament with participation of Victor Mikhalevski, Gabor Nagy, Nikolay Noritsyn, Luis Fernando Ibarra Chami, Joshua Posthuma, Bator Sambuev, Mark Plotkin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-excelsior-march-gm-norm/",
+         "pubDate" : "Mon, 13 Mar 2023 21:40:10 +0000",
+         "title" : "2023 Excelsior March GM Norm"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2280",
+         "pubDate" : "Mon, 13 Mar 2023 21:12:49 +0000",
+         "title" : "London Chess and Education Conference set for March 17-19"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the first round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-1",
+         "pubDate" : "Mon, 13 Mar 2023 21:00:33 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 1"
+      },
+      {
+         "description" : "Jamaica&#39;s government has announced an ambitious plan to pour J$40 million (approximately $260,000 at the time of writing) into chess in a drive to create a new grandmaster by 2033, local media reported.&#38;nbsp; Ministers on the Caribbean island wa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jamaican-government-invests-heavily-into-chess-to-find-next-grandmaster",
+         "pubDate" : "Mon, 13 Mar 2023 13:21:43 -0700",
+         "title" : "Jamaica Invests Heavily Into Finding The Next GM Maurice Ashley"
+      },
+      {
          "description" : "The Sasomi Open 2023 will take place from 15 19 March 2023 in Baile Felix, Romania. This tournament will be profiled for players with rating under 2200. The prize fund is 10 000 EUR with 2000 EUR guaranted for the winner. The time control is 60 minutes and 30 seconds per move, starting from []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -154,6 +202,14 @@ news_feed (
          "title" : "Henr&iacute;quez Villagra and Campos win Zonal 2.5 in Asunci&oacute;n, Paraguay"
       },
       {
+         "description" : "Heading into the last round of the European Individual Chess Championship 2023, GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) share the lead scoring 8 points each. GM Kirill Shevchenko (ROU, 2668) outplayed GM Benjamin Gledura (HUN, 2637) in the penultimate round to join the race for the trophy. Shevchenko had a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kirill-shevchenko-joins-the-top-with-one-round-to-go-at-the-european-individual-chess-championship-2023/",
+         "pubDate" : "Sun, 12 Mar 2023 21:21:00 +0000",
+         "title" : "Kirill Shevchenko joins the top with one round to go at the European Individual Chess Championship 2023"
+      },
+      {
          "description" : " You'll probably recognise this Famous Position from a Famous Game. In the 1963 US Championship game between Fischer and Benko, Bobby noticed that the immediate e5, threatening mate on h7, would be met by f5, so he played Rf6!, winning a couple of moves later. You see the idea: a rook sacrifice so that a <a href=\"https://chessimprover.com/a-tactical-idea/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Tactical Idea\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-tactical-idea/\">A Tactical Idea</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -266,6 +322,14 @@ news_feed (
          "title" : "The Chess Drum on \"Talking Talent\""
       },
       {
+         "description" : "GM Alexey Sarana (FIDE, 2668) defeated GM Anton Korobov (UKR, 2658) in today&#x2019;s 9th round to take the sole lead in the European Individual Chess Championship 2023 with only two rounds to go. European Individual Chess Championship 2023 live games / European Individual Chess Championship participants Alexey Sarana was better in a very dynamic position []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexey-sarana-takes-the-sole-lead-in-european-youth-chess-championship-2023/",
+         "pubDate" : "Sat, 11 Mar 2023 21:17:00 +0000",
+         "title" : "Alexey Sarana takes the sole lead in European Youth Chess Championship 2023"
+      },
+      {
          "description" : "'The Underdog' is the newest series on ChessBase. We will witness some of the greatest upsets of the month, where dark horses get to beat the rating favourite! Robert Ris shares some beautiful examples, in which a rating difference of 500 or more points simply does not make a difference. One of the biggest upsets this month was achieved by Josephine Heinemann, who got the better of Hikaru Nakamura. What a brilliant start to the series!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -279,7 +343,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ellen-carlsen-reports-harassment-after-shahade-tweet",
          "pubDate" : "Sat, 11 Mar 2023 10:09:00 -0800",
-         "title" : "Ellen Carlsen Reports Harassment After Shahade Tweet"
+         "title" : "Shahade Tweet Motivates Ellen Carlsen To Report Harassment"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wadim Rosenstein</strong>, sponsor of the recent world class <strong>WR Masters</strong> in D&uuml;sseldorf, has <a href=\"https://dsb2023.de\">presented his candidacy</a> as President of the <strong>German Chess Federation</strong> to clean up <a href=\"https://www.chesstech.org/2023/financial-turmoil-leads-to/\">the mess left</a> by <strong>Ullrich Krause</strong> who will not run again in the May election after he had to acknowledge financial losses of close to â‚¬600,000. Rosenstein's team includes <strong>Paul Meyer Dunker</strong>, President of the <strong>Berlin Chess Federation</strong> and Social Media Director of the Schachbund, who is",
@@ -410,30 +474,6 @@ news_feed (
          "title" : "V Prague International Chess Festival - Open section"
       },
       {
-         "description" : "The Czech Tour 2023 summer festival includes four very strong tournaments in Czech Republic. The first of them is V Prague International Chess Festival. This tournament will take place from 20 to 30 of June 2023. The 5th year of the Prague International Chess Festival will take place at the beginning of the summer []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/czech-tour-2023-summer-festivals/",
-         "pubDate" : "Fri, 10 Mar 2023 22:06:52 +0000",
-         "title" : "Czech Tour 2023 - summer festivals"
-      },
-      {
-         "description" : "The Polish University Championship 2023 istaking place from 10-11 March 2023. Time control is 10 minutes + 3 seconds per move. It is a 9-round Swiss Rapid tournament with participation of Igor Kowalski, Szymon Walter, Patryk Chylewski, Antoni Szustakowski, Milosz Szpar, Mieszko Mis, Radoslaw Psyk, Mikolaj Nowak, Aleksander Kumala, Marcin Szelag, Kosma Pacan-Milej, etc. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polish-university-championship-2023-live/",
-         "pubDate" : "Fri, 10 Mar 2023 21:47:25 +0000",
-         "title" : "Polish University Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The European School Chess Championship will be held in Durres, on the Adriatic coast of Albania, from 12 May to 22 May, under the auspices of the European Chess Union (ECU) and Albania Chess Federation (ACHF).The venue Grand Blue Fafa Resort is located right on front of Albanian Riviera, on beautiful long beach of Golem, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-school-chess-championship-2023/",
-         "pubDate" : "Fri, 10 Mar 2023 21:39:15 +0000",
-         "title" : "European School Chess Championship 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. Games begin March 17. Players listed below. USChessChamps.com OVERALL FIELD: Nakamura, Caruana, Wesley So, Aronian, Dominguez, Robson, Shankland, Sevian<br /> WOMEN&#039;S FIELD: Krush, Pourkashiyan, Tokhirjonova, Zatonskih, Abrahamyan, Alice Lee, Paikidze, Nemcova </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -554,36 +594,12 @@ news_feed (
          "title" : "European Championship: Korobov leads, Gledura in sole second place"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In &quot;Prepare Like A Pro,&quot; Tatev discusses how she prepared against IM Anna Zatonskih Originally on Twitch. 2023.02.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/preparing-against-im-anna-zatonskih-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHUwi7T7jaw.jpg?itok=i2mamJJr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/preparing-against-im-anna-zatonskih-wgm-tatev-abrahamyan",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "Preparing Against IM Anna Zatonskih - WGM Tatev Abrahamyan"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2272",
          "pubDate" : "Fri, 10 Mar 2023 02:28:40 +0000",
          "title" : "EICC 2023, R07: Korobov retakes the lead"
-      },
-      {
-         "description" : "The Girls U10 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Laura Najdkova, Klara Chmelova, Amalie Martikanova, Barbora Tykalova, Alexandra Junova, Tereza Melicharova, Eva []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:42:10 +0000",
-         "title" : "Girls U10 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Girls U12 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Veronika Vancakova, Sofiia Markina, Anna Lickova, Anezka Nova, Zuzana Stara, Eliska Janouskova, Tamae []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u12-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:37:22 +0000",
-         "title" : "Girls U12 Czech Youth Championship 2023 - LIVE"
       },
       {
          "description" : "In week four of the 2023 Pro Chess League, the Levitov Chess Wizards and the Garden State Passers won their matches against the Canada Chessbrahs and California Unicorns, respectively. The Chess Wizards qualify for the Playoffs, while the Passers ...",
@@ -1410,14 +1426,6 @@ news_feed (
          "title" : "Black History Month 2023 - A Chess Tribute"
       },
       {
-         "description" : "It&#39;s just the second month of 2023, but we may have the game of the year on our hands. The following game was played by 39-year-old GM Gergely-Andras-Gyula Szabo at the Romanian Chess Championship 2023. Szabo&#39;s round-six victory over FM Nicodim-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/potential-game-of-year-romanian-championship",
-         "pubDate" : "Tue, 28 Feb 2023 08:06:00 -0800",
-         "title" : "Potential Game Of Year Played In Romanian Championship"
-      },
-      {
          "description" : "The Russian Chess Federation is leaving Europe to become part of the Asian Chess Federation after 29 delegates voted in favour, with only 1 against and 6 abstentions, in today's Asian Chess Summit in Abu Dhabi. The change, clearly motivated by the consequences of Russia's invasion of Ukraine, has been described as \"scandalous\" by European Chess Union Vice President Malcolm Pein.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/",
          "pubDate" : "Tue, 21 Feb 2023 04:53:01 +0000",
          "title" : "The Chess Drum's first \"Beat\" video in 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2244",
-         "pubDate" : "Mon, 20 Feb 2023 22:10:57 +0000",
-         "title" : "Oleiny Linares wins 2023 Cuban Women's Championship"
       }
    ]
 }
