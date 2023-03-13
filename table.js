@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-03-11  - 03-12","54","<a href=http://www.uschess.org/msa/XtblMain.php?202303126812 target='_blank'>$3,000 HOUSTON CHESS STUDIO MARCH 2</a>",
 "SPRING","2023-03-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202303105482 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-03-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303105462 target='_blank'>FBCC 2023 INTERNATIONAL DAY OF AWE</a>",
 "HOUSTON","2023-03-10","14","<a href=http://www.uschess.org/msa/XtblMain.php?202303105432 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 10, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2022-07-29","24","<a href=http://www.uschess.org/msa/XtblMain.php?202207296322 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "PEARLAND","2022-07-25  - 07-27","13","<a href=http://www.uschess.org/msa/XtblMain.php?202207278852 target='_blank'>SCS SUMMER CHESS CAMP ADVANCED</a>",
 "HOUSTON","2022-07-05  - 07-26","18","<a href=http://www.uschess.org/msa/XtblMain.php?202207265232 target='_blank'>JULY TUESDAY NIGHT SWISS</a>",
-"LEAGUE CITY","2022-07-11  - 07-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202207252532 target='_blank'>CLCC JULY MONDAYS</a>",
 ]);
