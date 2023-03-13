@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So emerged victorious in the first event of the Armageddon Championship Series 2023, organized by World Chess. So's flawless performance secured him a spot in September's Grand Finale, along with Sam Shankland, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wesley-so-wins-armageddon-series-americas",
+         "pubDate" : "Mon, 13 Mar 2023 08:00:00 +0100",
+         "title" : "Wesley So wins 'Armageddon Series: Americas'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-116-play-the-sicilian-17",
          "pubDate" : "Sun, 12 Mar 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 116: Play the Sicilian (17)"
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Sun, 12 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
       },
       {
          "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br />Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script>new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 ",
