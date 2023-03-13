@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
+         "pubDate" : "Mon, 13 Mar 2023 14:55:00 +0100",
+         "title" : "European Chess Championship - Live!"
+      },
+      {
+         "description" : "The 2023 Finance Council meeting will take place on the afternoon of 22nd April by video conference only. The prescribed business of the meeting includes...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-finance-council-2023/",
+         "pubDate" : "Mon, 13 Mar 2023 12:37:40 +0000",
+         "title" : "ECF Finance Council 2023"
+      },
+      {
          "description" : " The Australian Chess Federation Newsletter, which has lain dormant for the last year, is back up and running. In part this is due to Miles Patterson joining the editorial team, providing the required push to get it going again. Designed t cover recent Australian chess events and activities, it also provides a useful resource for anyone looking to find out about upcoming events, and chess activities in various states and cities. The latest version can be found at <a href=\"https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023\">https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023</a> while previous issues can be found at <a href=\"h",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -58,12 +74,12 @@ news_feed (
          "title" : "Kirill Shevchenko joins Alexey Sarana on the top with one round to go - EICC2023 Round 10 recap"
       },
       {
-         "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Classic on April 22nd</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Chess Classic on April 22nd!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/",
          "pubDate" : "Sun, 12 Mar 2023 23:26:48 +0000",
-         "title" : "HBCU Classic on April 22nd"
+         "title" : "HBCU Chess Classic on April 22nd!"
       },
       {
          "description" : "",
@@ -88,6 +104,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-1",
          "pubDate" : "Sun, 12 Mar 2023 17:59:26 +0000",
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 1"
+      },
+      {
+         "description" : "Tired of people talking about the success of Chess.com? I can't sympathize, because I don't think I'll ever get enough. A couple of months ago the featured video of the month was <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html\">The Rise of Chess.com</A>(January 2023). Consider this a follow-up post. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gWrRLtfARzA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>This Company RULES Over ENTIRE CHESS MARKET | Case Study</B> (11:49) &#149; '[Published on] Feb 24",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
+         "pubDate" : "Sun, 12 Mar 2023 16:19:00 +0000",
+         "title" : "I Should Just Focus on the Chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "Dubbo 2023"
       },
       {
-         "description" : "The new ChessBase Magazine #212 provides, among many other things, 50 games with detailed commentary, a large part of which comes from the Tata Steel Masters and Challengers. Anish Giri is also an excellent analyst: he takes a close look at nine games from Wijk aan Zee as well as at games from current rapid chess events in CBM #212. Other authors are Jorden van Foreest, Praggnanandhaa, Alexander Donchenko and Peter Heine Nielsen. \"The Analysis\" of the issue comes - how could it be otherwise - from the winner of the Tata Steel Masters: it's Giri's long-awaited victory over Magnus Carlsen. Find an abridged version of his analysis here. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-analysis-anish-giri-comments",
-         "pubDate" : "Sat, 04 Mar 2023 11:00:00 +0100",
-         "title" : "\"The Analysis\" - Anish Giri shows his win over Carlsen"
-      },
-      {
          "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1728,22 +1744,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html",
          "pubDate" : "Mon, 20 Feb 2023 16:14:00 +0000",
          "title" : "Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway"
-      },
-      {
-         "description" : "The English Chess Federation is trying to find hosts for Ukrainian GM Pavel Eljanov and family. Pavel is ranked world number 34 and would come...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/sponsoring-ukrainian-refugees/",
-         "pubDate" : "Mon, 20 Feb 2023 14:49:44 +0000",
-         "title" : "Sponsoring Ukrainian refugees"
-      },
-      {
-         "description" : " Normally movie and tv adaptions of popular computer games do not work particularly well. I even tested this theory by trying to watch the World of Warcraft movie. Of course there are exceptions .... <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/YFHHGETsxkE\" width=\"320\" youtube-src-id=\"YFHHGETsxkE\"></iframe></div><br /> <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/play-game-watch-movie.html",
-         "pubDate" : "Mon, 20 Feb 2023 11:38:00 +0000",
-         "title" : "Play the game, watch the movie"
       }
    ]
 }
