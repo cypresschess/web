@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Australian Chess Federation Newsletter, which has lain dormant for the last year, is back up and running. In part this is due to Miles Patterson joining the editorial team, providing the required push to get it going again. Designed t cover recent Australian chess events and activities, it also provides a useful resource for anyone looking to find out about upcoming events, and chess activities in various states and cities. The latest version can be found at <a href=\"https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023\">https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023</a> while previous issues can be found at <a href=\"h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/acf-newsletter.html",
+         "pubDate" : "Mon, 13 Mar 2023 11:09:00 +0000",
+         "title" : "ACF Newsletter"
+      },
+      {
+         "description" : "The European Chess Union (ECU), together with the Romanian Chess Federation and Universul Chess Club invite all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2023, organised from 23 July (arrivals) to 31 July (departures). The event will be played in two age categories: U12 and U18, open and girls sections separately.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-official-invitation/",
+         "pubDate" : "Mon, 13 Mar 2023 10:42:04 +0000",
+         "title" : "European Youth Team Chess Championship 2023 - Official invitation"
+      },
+      {
+         "description" : "1st ever Senior National Arbiter Seminar&#160; was&#160; successfully&#160; organized&#160; by&#160; Monish Sports World followed by an examination in Air-conditioned Hall at&#160; Hotel&#160; Central Park, 1265&#160;",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-at-pune-maharashtra-04-05-march-2023/",
+         "pubDate" : "Mon, 13 Mar 2023 10:11:57 +0000",
+         "title" : "Senior National Arbiter's Seminar & Examination at Pune , Maharashtra 04-05 March , 2023"
+      },
+      {
+         "description" : "As the end of the European Championship approaches, two players share the lead on 8/10 points. Kirill Shevchenko joined Alexey Sarana atop the standings after beating Benjamin Gledura with the white pieces. Twelve players stand a half point behind with one round to go in Vrnjacka Banja. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r10",
+         "pubDate" : "Mon, 13 Mar 2023 10:20:00 +0100",
+         "title" : "European Championship: Shevchenko joins the lead"
+      },
+      {
          "description" : "Wesley So emerged victorious in the first event of the Armageddon Championship Series 2023, organized by World Chess. So's flawless performance secured him a spot in September's Grand Finale, along with Sam Shankland, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 1"
       },
       {
-         "description" : "The last day of play at the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Andrew Tang to decide who will play Wesley So in the tournament's final, which will take place right after that match is over. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Sun, 12 Mar 2023 18:55:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-2023-r9",
          "pubDate" : "Sun, 12 Mar 2023 10:30:00 +0100",
          "title" : "European Championship: Sarana beats Korobov, takes the lead"
+      },
+      {
+         "description" : "The last day of play at the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Andrew Tang to decide who will play Wesley So in the tournament's final, which will take place right after that match is over. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
+         "pubDate" : "Sun, 12 Mar 2023 09:00:00 +0100",
+         "title" : "Armageddon live - Start: 19.00 CET"
       },
       {
          "description" : "The G20 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Lucie Fizerova, Sandra []",
@@ -1050,14 +1082,6 @@ news_feed (
          "title" : "\"The Analysis\" - Anish Giri shows his win over Carlsen"
       },
       {
-         "description" : "The European Individual Chess Championship (EICC) started on Friday in the Serbian town of Vrnjačka Banja. Since the top half of the ratings list was paired against the lower half for the opening round, there were predominantly wins by the favourites, although there were also some exceptions to this 'rule'. The symbolic first move in the game between Vuk Damjanovic and Gabriel Sargissian, the top seed, was made by ECU President Zurab Azmaiparashvili and Dragan Lazic, President of the Serbian Chess Federation. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r1",
-         "pubDate" : "Sat, 04 Mar 2023 10:45:00 +0100",
-         "title" : "The European Championship kicked off in Vrnjacka Banja"
-      },
-      {
          "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1392,14 +1416,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/7-reason-why-youre-not-improving/",
          "pubDate" : "Tue, 28 Feb 2023 11:40:57 +0000",
          "title" : "7 Reasons Why You're Not Improving at Chess"
-      },
-      {
-         "description" : "10th MPL National Amateur Chess Championship, Punjab 2023 10th MPL National Amateur chess Championship was organized in Sangrur, Punjab, in Golden Valley Resort from 18",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/10th-mpl-national-amateur-chess-championship-punjab-2023-final-report/",
-         "pubDate" : "Tue, 28 Feb 2023 11:20:37 +0000",
-         "title" : "10th MPL National Amateur Chess Championship, Punjab 2023 :Final Report"
       },
       {
          "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
