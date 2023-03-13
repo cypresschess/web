@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sasomi Open 2023 will take place from 15 19 March 2023 in Baile Felix, Romania. This tournament will be profiled for players with rating under 2200. The prize fund is 10 000 EUR with 2000 EUR guaranted for the winner. The time control is 60 minutes and 30 seconds per move, starting from []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sasomi-open-2023/",
+         "pubDate" : "Mon, 13 Mar 2023 19:26:11 +0000",
+         "title" : "Sasomi Open 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-3",
+         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
+         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-2",
+         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
+         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; TBD for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-4",
+         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
+         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; TBD for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-5",
+         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
+         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 5"
+      },
+      {
+         "description" : "The Play-In for the Chessable Masters, the 2nd event on the $2 million+ 2023 Champions Chess Tour, takes place on Chess.com on March 13 and will decide which 52 players join Magnus Carlsen, Wesley So, Hikaru Nakamura and Fabiano Caruana in the main event from April 3-7. It begins with a 9-round Swiss tournament, with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-masters-play-in-champions-chess-tour-2023-live/",
+         "pubDate" : "Mon, 13 Mar 2023 17:58:38 +0000",
+         "title" : "Chessable Masters Play-In | Champions Chess Tour 2023 - LIVE"
+      },
+      {
+         "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-231-endgame-highlights-from-the-women-s-grand-prix",
+         "pubDate" : "Mon, 13 Mar 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #231: Endgame highlights from the Women's Grand Prix"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2279",
+         "pubDate" : "Mon, 13 Mar 2023 15:27:57 +0000",
+         "title" : "New Regulations for the World Senior Championships approved by FIDE Council "
+      },
+      {
          "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -498,38 +562,6 @@ news_feed (
          "title" : "Preparing Against IM Anna Zatonskih - WGM Tatev Abrahamyan"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Arjun and the viewers run into a Magnus-sized puzzle during Arjuns Tactics and Challenge Stream -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-phone-magnus-one-challenge-simul-swiss-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UZEJ0kG1G9g.jpg?itok=rRkIciB9\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/time-phone-magnus-one-challenge-simul-swiss-lichessorg",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "Time to Phone Magnus For This One!! | !challenge | !simul | !swiss | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tatev Abrahamyan discusses king marches in chess. A \"king march\" refers to when a king travels a long distance on the board, either to accomplish an attack or because it's forced. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5FwKG168ZXE.",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/king-marches-grandmasters-choice-wgm-tatev-abrahamyan",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "King Marches | Grandmaster's Choice - WGM Tatev Abrahamyan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess and Psychology with GM Denes Boros and several live in person students. -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-boros-chess-and-psychology-swiss-analyze-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6SV72R6tQFA.jpg?itok=XcQcVN8B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-boros-chess-and-psychology-swiss-analyze-lichessorg",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "GM Boros' : Chess and Psychology | !swiss | !analyze| lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Broadcasted live on Twitch -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-queens-gambit-accepted-pro-gm-josh-sheng-swiss-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/plPaubFo3OA.jpg?itok=1wgQA08G\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-queens-gambit-accepted-pro-gm-josh-sheng-swiss-lichessorg",
-         "pubDate" : "Fri, 10 Mar 2023 02:57:58 +0000",
-         "title" : "Prepare The Queen's Gambit Accepted Like A Pro | GM Josh Sheng | !Swiss | lichess.org"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -560,22 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-week-4-wizards-passers",
          "pubDate" : "Thu, 09 Mar 2023 13:33:00 -0800",
          "title" : "Chess Wizards Stun World Champion, Advance To Playoffs; Bortnyk Leads Passers"
-      },
-      {
-         "description" : "The Girls U14 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lucie Rybackova, Amalie Zadrapova, Daniela Kozusnikova, Viktorie Buchtova, Dominika Kaplanova, Tereza Horkova, Kristyna []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:32:12 +0000",
-         "title" : "Girls U14 Czech Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Girls U16 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Teplice, Czechia. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Lada Zelbova, Jana Sikorova, Beata Havelkova, Elen Hetfleischova, Michaela Seda, Adela Janouskova, Josefina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-czech-youth-championship-2023-live/",
-         "pubDate" : "Thu, 09 Mar 2023 21:26:41 +0000",
-         "title" : "Girls U16 Czech Youth Championship 2023 - LIVE"
       },
       {
          "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/",
          "pubDate" : "Sat, 04 Mar 2023 15:06:51 +0000",
          "title" : "Lenhert wins Capital City Chess Open II"
-      },
-      {
-         "description" : "The last time Svitlana played chess, was summer 2022. The Canadian club championship of Svitlana's chess club was another chance to finally move the pieces on the board again. The Canadian WIM is studying most of her time now, but this doesn't mean that she got worse in chess. It seems, the opposite was the case, and Svitlana won a round before the tournament ended! We take a look at two of her games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-won-the-ra-club-championship-2023",
-         "pubDate" : "Sat, 04 Mar 2023 15:00:00 +0100",
-         "title" : "Svitlana's Smart Moves - Svitlana won the RA Club Championship 2023!"
       },
       {
          "description" : " The next few months are going to be very busy, if you are a keen and active chess player. Next weekend is the Ballarat Open, while early April sees the O2C Doeberl Cup and the 2023 Oceania Junior and Youth Championships. But in between these events is one of my favourites, the 2023 Dubbo Open It is on the weekend of the 25th and 25th of March, at the Dubbo RSL Club, Dubbo NSW. It is a 6 round event with a time limit of 60m+30s. 1st prize is $450 and each year sees a mixed field of strong players, and the more casual tournament competitors. I've been attending for around 20 years, firstly as a player, and then as an arbiter, and I highly recommend it, especially as a warm up for the Doeberl.",
@@ -1728,22 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2244",
          "pubDate" : "Mon, 20 Feb 2023 22:10:57 +0000",
          "title" : "Oleiny Linares wins 2023 Cuban Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Mon, 20 Feb 2023 16:19:35 +0000",
-         "title" : "ECF Arbiter Course - June"
-      },
-      {
-         "description" : "Another fortnight means another report on the world's top two ongoing engine vs. engine competitions. Let's first summarize the previous report, <A HREF=\"https://chessforallages.blogspot.com/2023/02/tcec-swiss-4-underway-ccc-mystery.html\">TCEC Swiss 4 Underway; CCC Mystery Matches</A>(February 2023):- <BLOCKQUOTE>TCEC: The site started 'Swiss 4'. Of the 11 'double rounds', the event is currently in the eighth. Stockfish leads a half-point ahead of Ethereal and KomodoDragon, which are ahead of 39 other engines. &#149; CCC: After the 'CCC19 Bullet Final' match, the site held a number of exhibition events, including a series of matches with the header 'Stockfish Thread Dominance...'. As for pla",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html",
-         "pubDate" : "Mon, 20 Feb 2023 16:14:00 +0000",
-         "title" : "Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway"
       }
    ]
 }
