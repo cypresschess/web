@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2278",
+         "pubDate" : "Sun, 12 Mar 2023 23:53:49 +0000",
+         "title" : "EICC 2023: Shevchenko joins Sarana on the top with one round to go"
+      },
+      {
+         "description" : "Heading into the last round of the European Individual Chess Championship 2023, GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) share the lead scoring 8 points each. GM Kirill Shevchenko (ROU, 2668) outplayed GM Benjamin Gledura (HUN, 2637) in the penultimate round to join the race for the trophy. Shevchenko had a slightly better position&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/kirill-shevchenko-joins-alexey-sarana-on-the-top-with-one-round-to-go-eicc2023-round-10-recap/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/kirill-shevchenko-joins-alexey-sarana-on-the-top-with-one-round-to-go-eicc2023-round-10-recap/",
+         "pubDate" : "Sun, 12 Mar 2023 23:40:37 +0000",
+         "title" : "Kirill Shevchenko joins Alexey Sarana on the top with one round to go - EICC2023 Round 10 recap"
+      },
+      {
          "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Classic on April 22nd</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1712,14 +1728,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/play-game-watch-movie.html",
          "pubDate" : "Mon, 20 Feb 2023 11:38:00 +0000",
          "title" : "Play the game, watch the movie"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2243",
-         "pubDate" : "Mon, 20 Feb 2023 01:25:56 +0000",
-         "title" : "WR Chess Masters, Round 4: Burned bridges and kicked down doors"
       }
    ]
 }
