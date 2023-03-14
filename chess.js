@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fighting their way through 147 high-level competitors, GMs Le Liem, Levon Aronian, Vladimir Fedoseev, and Vladislav Artemiev finished at the top of the Play In and qualified for Division I of Chessable Masters 2023. They will join GMs Magnus Carls...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-wins-2023-cct-chessable-masters-play-in",
+         "pubDate" : "Mon, 13 Mar 2023 20:07:06 -0700",
+         "title" : "Le, Aronian, Fedoseev, Artemiev Join Carlsen's Last Tango"
+      },
+      {
+         "description" : "GM Alexey Sarana is the new European Individual Chess Champion 2023! The thrilling last round of the championship determined the medalists. GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) met each other in the direct last-round encounter for the first place. The game finished in a draw after one hour of play, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/alexey-sarana-is-european-individual-chess-champion-2023/",
+         "pubDate" : "Tue, 14 Mar 2023 01:53:56 +0000",
+         "title" : "Alexey Sarana is European Individual Chess Champion 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2281",
+         "pubDate" : "Tue, 14 Mar 2023 01:37:19 +0000",
+         "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
+      },
+      {
+         "description" : "America's best chess players will return to the Saint Louis Chess Club to battle over the board from March 17- 26, 2023 for the second annual American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout tournament. Unlike in the inaugural edition last year, Hikaru Nakamura will be among the participants this time around. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-preview",
+         "pubDate" : "Tue, 14 Mar 2023 01:20:00 +0100",
+         "title" : "Starting Friday: The American Cup returns"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-2",
+         "pubDate" : "Tue, 14 Mar 2023 00:00:45 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 2"
+      },
+      {
          "description" : "The 49&#xBA; Torneo Internacional de Ajedrez de La Roda 2023 will take place from 5-9 April 2023 in La Roda (Albacete), Spain. The time control is 90 minutes and 30 seconds per move, starting from move one.&#160;The prize fund is 15 000 EUR with 3500 EUR guaranted for the winner.&#160; The top five seeds are []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Sasomi Open 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.14<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-3",
@@ -464,22 +504,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-week-4-gnomes-shrimps",
          "pubDate" : "Fri, 10 Mar 2023 14:41:00 -0800",
          "title" : "Norway Gnomes Qualify For Playoffs; Saint Louis Arch Bishops Cook Shrimps"
-      },
-      {
-         "description" : "The 5th year of the Prague International Chess Festival will take place at the beginning of the summer at the Don Giovanni Hotel in Prague. In the Masters tournament, we can look forward to 10 top grandmasters, among them the winner of last year&#xB4;s Masters tournament Pentala Harikrishna from India, best Czech player David Navara, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/v-prague-international-chess-festival-open-section/",
-         "pubDate" : "Fri, 10 Mar 2023 22:19:59 +0000",
-         "title" : "V Prague International Chess Festival - Open section"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. Games begin March 17. Players listed below. USChessChamps.com OVERALL FIELD: Nakamura, Caruana, Wesley So, Aronian, Dominguez, Robson, Shankland, Sevian<br /> WOMEN&#039;S FIELD: Krush, Pourkashiyan, Tokhirjonova, Zatonskih, Abrahamyan, Alice Lee, Paikidze, Nemcova </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-promo",
-         "pubDate" : "Fri, 10 Mar 2023 20:58:19 +0000",
-         "title" : "The American Cup 2023 | PROMO"
       },
       {
          "description" : "Chess.com is extending its Women&#39;s History Month celebrations with a special event in which you can get to know some of our members of staff and the streamers we work with. The event, which will be broadcasted live on Chess.com&#39;s channels on You...",
@@ -1082,14 +1106,6 @@ news_feed (
          "title" : "Explained by the engineers! - Copy and paste from the clipboard with ChessBase 17"
       },
       {
-         "description" : "The 9th edition of the London Chess Conference will take place on 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The objective of the conference is to bring together all those involved in the use of chess for educational purposes, including representatives from the Education Commissions for FIDE and ECU in order to establish a co-operative working practice. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-conference-2023",
-         "pubDate" : "Sun, 05 Mar 2023 04:05:00 +0100",
-         "title" : "Chess and STEM to be discussed at London Conference"
-      },
-      {
          "description" : " From the London Chess Centre Publishing web site: &#8220;Kupreichik: The Maestro from Minsk features tributes to the legendary attacker from those who regularly faced him at the board, including Alexander <a href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Kupreichik: The Maestro From Minsk</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\">Kupreichik: The Maestro From Minsk</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/",
          "pubDate" : "Wed, 01 Mar 2023 04:50:40 +0000",
          "title" : "2nd IM norm for Brewington Hardaway!"
-      },
-      {
-         "description" : "The Norway Gnomes and Spanish Maniac Shrimps defeated the Brazil Capybaras and Charlotte Cobras, respectively, to kick off week three in the Pro Chess League. The Norway Gnomes pulled off a shocking comeback after losing the first two rounds of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-gnomes-shrimps",
-         "pubDate" : "Tue, 28 Feb 2023 14:19:00 -0800",
-         "title" : "Norway Gnomes Recover To Steal Match Win, Spanish Maniac Shrimps Run Riot"
       },
       {
          "description" : "",
