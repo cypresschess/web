@@ -1736,14 +1736,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/european-girls-and-womens-chess-weekend/",
          "pubDate" : "Tue, 21 Feb 2023 09:19:43 +0000",
          "title" : "European Girls' and Women's Chess Weekend"
-      },
-      {
-         "description" : " Back in 2012, The Chess Drum launched five videos as a test run for the &#8220;Drum Beat&#8221; segment. Those videos were cutting-edge at the time, but since then a variety of formats have been used to distribute content. Eleven years ago, the five Drum Beat segments covered the latest website news, and the latest international The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/\">The Chess Drum's first &#8220;Beat&#8221; video in 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/20/the-chess-drums-drum-beat-kicks-off/",
-         "pubDate" : "Tue, 21 Feb 2023 04:53:01 +0000",
-         "title" : "The Chess Drum's first \"Beat\" video in 2023"
       }
    ]
 }
