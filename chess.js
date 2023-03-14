@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2282",
+         "pubDate" : "Tue, 14 Mar 2023 17:31:16 +0000",
+         "title" : "The Atabayev brothers sweep the podium of the Turkmenistan Championship"
+      },
+      {
+         "description" : "Liem Le, Levon Aronian, Vladimir Fedoseev and Vladislav Artemiev will join Magnus Carlsen, Hikaru Nakamura, Wesley So and Fabiano Caruana in Division I of next month's Chessable Masters. Among the players who narrowly missed out and will play in Division II are Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nodirbek Abdusattorov and Vladimir Kramnik.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/aronian-le-fedoseev-artemiev-book-chessable-masters-spots",
+         "pubDate" : "Tue, 14 Mar 2023 15:56:45 +0000",
+         "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
+      },
+      {
          "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic ten-tournament contest kicks off with a format for which Hikaru is the reigning World C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -598,7 +614,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/special-womens-month-celebration",
-         "pubDate" : "Fri, 10 Mar 2023 10:31:04 -0800",
+         "pubDate" : "Fri, 10 Mar 2023 10:31:00 -0800",
          "title" : "Join Us For A Very Special Women's History Month Celebration"
       },
       {
@@ -1698,14 +1714,6 @@ news_feed (
          "title" : "London Chess Conference 2023"
       },
       {
-         "description" : "Levon Aronian borrowed an idea from his fellow Saint Louis resident Fabiano Caruana as he came within a whisker of beating Wesley So and opening up a 1.5-point lead with three rounds of the WR Chess Masters to go. He fell just short, however, which was the story elsewhere as well in Round 6, with long, fighting games all ending in draws.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-6-aronian-misses-big-chance-vs-so",
-         "pubDate" : "Thu, 23 Feb 2023 10:25:00 +0000",
-         "title" : "WR Chess Masters 6: Aronian misses big chance against So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1736,22 +1744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2246",
          "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
          "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
-      },
-      {
-         "description" : " &#8220;A wise man can learn more from a foolish question than a fool can learn from a wise answer&#8221; Bruce Lee A quick reminder how it works: Have a look at the position for 1 minute (watch the clock) Think about the choices in front of you and pick the one you feel it is <a href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;What Say You?&#8221; The 1 Minute Challenge (66)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/what-say-you-the-1-minute-challenge-66/\">&#8220;What Say You?&#8221; The 1 Minute Challenge (66)</a> appeared first on <a rel=\"nofollow\" href=\"https:/",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/what-say-you-the-1-minute-challenge-66/",
-         "pubDate" : "Tue, 21 Feb 2023 18:54:40 +0000",
-         "title" : "\"What Say You?\" The 1 Minute Challenge (66)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2245",
-         "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
-         "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
       }
    ]
 }
