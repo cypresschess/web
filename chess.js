@@ -2,11 +2,67 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess will make its first step in the European Games European Olympic Committees as an accompanying event under the aegis of the Organising Committee of Krakow-Maloposka 2023. ECU regulated a new special competition the European Pair Blitz Chess Championship 2023 which will take place on 19th of June 2023 in Krakow, Poland, as the accompanying event and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/",
+         "pubDate" : "Tue, 14 Mar 2023 10:17:45 +0000",
+         "title" : "Chess for first time as an accompanying event in the European Games!"
+      },
+      {
+         "description" : "GM Magnus Carlsen will return to Norway Chess, his homecoming tournament, after he abdicates his world champion title, it was announced on Monday. Once again, the world number-one tops the lineup for the elite event&#38;mdash;now in its 11th year&#38;md...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nakamura-norway-chess",
+         "pubDate" : "Tue, 14 Mar 2023 03:09:52 -0700",
+         "title" : "Carlsen, Nakamura Will Go Head-To-Head At Norway Chess"
+      },
+      {
+         "description" : "In the current ChessBase Magazine #212 you'll find new repertoire ideas for eleven different openings - from the English Opening to the Scotch to the King's Indian. In his article, Roven Vogel examines a trendyline against the Reti Opening: more and more often Black played the \"somewhat strange\" move 2...b6!? after 1.Nf3 d5 2.g3. White can of course build up in the most varied ways here, and the position types that Vogel analyses are correspondingly diverse. His conclusion: \"So far I don't see in which direction Black should really have problems and can therefore warmly recommend this little side variation, at least as a secondary idea for one's own repertoire against 1.Nf3.\" Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reti-players-beware",
+         "pubDate" : "Tue, 14 Mar 2023 11:00:00 +0100",
+         "title" : "Reti players beware!"
+      },
+      {
+         "description" : "Alexey Sarana became the 2023 European champion after signing a 7-move draw with co-leader Kirill Shevchenko. That draw meant both players had secured at least shared first place, but still had to wait to see if someone else would join them on a final 8&frac12;/11 score. Out of the chasers, only Daniel Dardha managed to catch up with the leaders. Tiebreak criteria were used to decide the final placements. In the end, Sarana grabbed gold, Shevchenko took home silver and Dardha was awarded the bronze. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-r11",
+         "pubDate" : "Tue, 14 Mar 2023 10:10:00 +0100",
+         "title" : "European Championship: Sarana, Shevchenko and Dardha on the podium"
+      },
+      {
+         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen One of the most popular openings of the 1. d4 players in correspondence chess is the Queen's Gambit Exchange Variation (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Tarrasch Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\">Need sure points? QGD, Semi-Tarrasch Variation Edition",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/",
+         "pubDate" : "Tue, 14 Mar 2023 09:00:19 +0000",
+         "title" : "Need sure points? QGD, Semi-Tarrasch Variation Edition"
+      },
+      {
+         "description" : "Positions with queen and piece against queen and piece have aspects that are typical for middlegames and aspects that are typical for the endgame. In the diagram position the white king is safe - a typical middlegame aspect - while the dangerous passed pawns - typical for endgames, are good for Black. In the diagram position it is Black to move and draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/middlegame-or-endgame",
+         "pubDate" : "Tue, 14 Mar 2023 09:00:00 +0100",
+         "title" : "Middlegame or endgame?"
+      },
+      {
+         "description" : "The European Individual Chess Championship 2023 concluded yesterday in Vrnjacka Banja, Serbia. After 11 played rounds, three players tied for the first place scoring 8.5 points each: GM Alexey Sarana (FIDE, 2668), GM Kirill Shevchenko (ROU, 2668), and GM Daniel Dardha (BEL, 2610). Alexey Sarana and Kirill Shevchenko met each other in the direct last-round encounter for the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/",
+         "pubDate" : "Tue, 14 Mar 2023 06:20:09 +0000",
+         "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
+      },
+      {
          "description" : "Fighting their way through 147 high-level competitors, GMs Le Liem, Levon Aronian, Vladimir Fedoseev, and Vladislav Artemiev finished at the top of the Play In and qualified for Division I of Chessable Masters 2023. They will join GMs Magnus Carls...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/le-wins-2023-cct-chessable-masters-play-in",
-         "pubDate" : "Mon, 13 Mar 2023 20:07:06 -0700",
+         "pubDate" : "Mon, 13 Mar 2023 20:07:00 -0700",
          "title" : "Le, Aronian, Fedoseev, Artemiev Join Carlsen's Last Tango"
       },
       {
@@ -1066,22 +1122,6 @@ news_feed (
          "title" : "Poster Perfect Chess Art"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 115th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-115-play-the-sicilian-16",
-         "pubDate" : "Sun, 05 Mar 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 115: Play the Sicilian (16)"
-      },
-      {
-         "description" : "After the second round of the European Championship, a 56-player leading group has emerged. Gabriel Sargissian, David Navara, Jules Moussard, Boris Gelfand and Ivan Saric are the five highest-rated players who have won their first two games in the Serbian city of Vrnjacka Banja. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r2",
-         "pubDate" : "Sun, 05 Mar 2023 14:20:00 +0100",
-         "title" : "European Championship: Two out of two"
-      },
-      {
          "description" : " It's always enjoyable to play a highly thematic game in which you understand the pawn formation better than your opponent. If you know what's going on you don't even need too much time to play your moves. I enjoy playing positions where I have a space advantage in a closed position, so the S&auml;misch Variation <a href=\"https://chessimprover.com/thematic/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Thematic\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/thematic/\">Thematic</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1096,14 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/is-it-getting-easier-to-play-chess.html",
          "pubDate" : "Sun, 05 Mar 2023 12:02:00 +0000",
          "title" : "Is it getting easier to play chess?"
-      },
-      {
-         "description" : "Today: Mathias Feist explains how ChessBase 17 automatically pastes games and positions from the clipboard. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-copy-and-paste-from-the-clipboard-with-chessbase-17",
-         "pubDate" : "Sun, 05 Mar 2023 10:00:00 +0100",
-         "title" : "Explained by the engineers! - Copy and paste from the clipboard with ChessBase 17"
       },
       {
          "description" : " From the London Chess Centre Publishing web site: &#8220;Kupreichik: The Maestro from Minsk features tributes to the legendary attacker from those who regularly faced him at the board, including Alexander <a href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Kupreichik: The Maestro From Minsk</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\">Kupreichik: The Maestro From Minsk</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
@@ -1394,14 +1426,6 @@ news_feed (
          "title" : "Current list of Qualifiers for FIDE World Cup 2023"
       },
       {
-         "description" : "It&#39;s Women&#39;s History Month, a time to honor the contributions of women throughout history and their ongoing struggle for equality. To celebrate the occasion, you can now play chess against some of the women who fought for a better and more equitab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/womens-history-month-bots",
-         "pubDate" : "Tue, 28 Feb 2023 23:26:00 -0800",
-         "title" : "Celebrate Women's History Month With The New Bots"
-      },
-      {
          "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1682,14 +1706,6 @@ news_feed (
          "title" : "WR Chess Masters Round 6: Endgame battles"
       },
       {
-         "description" : "Following the FIDE Council's decision&#160;concerning the proposed transfer of the Russian Chess Federation (RCF) to the Asian Chess Federation (ACF), the European Chess Union (ECU) hereby declares:&#160;The ECU Board expressed in detail its position in&#160;its statement of 30.01.2023.&#160;The FIDE Constitutional Commission (FIDE CC) after its meeting on 5th of February justified most of the ECU's positions and opined&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/statement-of-the-european-chess-union-22-02-2023/",
-         "pubDate" : "Wed, 22 Feb 2023 11:29:17 +0000",
-         "title" : "Statement of the European Chess Union - 22.02.2023"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1728,14 +1744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2245",
          "pubDate" : "Tue, 21 Feb 2023 16:03:19 +0000",
          "title" : "Chess events to celebrate the International Women's Day set in Tirana, Albania"
-      },
-      {
-         "description" : "The ECU Commission for Women's Chess is organizing the second edition of the ECU Girls' and Women's Chess Weekend on 25th-26th February. All events are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-girls-and-womens-chess-weekend/",
-         "pubDate" : "Tue, 21 Feb 2023 09:19:43 +0000",
-         "title" : "European Girls' and Women's Chess Weekend"
       }
    ]
 }
