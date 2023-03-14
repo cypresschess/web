@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic ten-tournament contest kicks off with a format for which Hikaru is the reigning World C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikarus-chess-decathlon-mgg",
+         "pubDate" : "Tue, 14 Mar 2023 06:48:18 -0700",
+         "title" : "Announcing Hikaru's Chess Decathlon by Misfits Gaming"
+      },
+      {
+         "description" : "Today: Jeroen Van den Belt shows us the best positional search option, ChessBase has ever had. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-positional-search-of-chessbase-17",
+         "pubDate" : "Tue, 14 Mar 2023 14:00:00 +0100",
+         "title" : "Explained by the engineers! - The new positional search of ChessBase 17!"
+      },
+      {
+         "description" : "GM Alexey Sarana won the European Individual Chess Championship on Monday in Vrnjacka Banja, Serbia. The 23-year-old Russian grandmaster, who played under the FIDE flag, edged out GMs Kirill Shevchenko (Ukraine) and Daniel Dardha (Belgium) on tieb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alexey-sarana-wins-european-chess-championship",
+         "pubDate" : "Tue, 14 Mar 2023 05:34:00 -0700",
+         "title" : "Alexey Sarana Wins European Chess Championship"
+      },
+      {
+         "description" : " Canberra IM Junta Ikeda has updated his blogging platform which can now be <a href=\"http://juntaikeda.substack.com\">found here</a> (Entering your email address to access the content isn't mandatory). One of his most popular posts is the list of the 10 books that helped him become an IM. While I won't repeat the list here, it looks to be a pretty solid list. I have 8 or 9 books on the list, but I'm pretty sure I have not studied them with the same effectiveness as Junta did. The two most interesting choices were John Watson's \"Secrets of Modern Chess Strategy\", and \"Life and Games of Mikhail Tal\". The Watson book can be seen as a modern update to \"My System\", which normally turns up on lists",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/top-10-books.html",
+         "pubDate" : "Tue, 14 Mar 2023 12:17:00 +0000",
+         "title" : "Top 10 books"
+      },
+      {
          "description" : "Chess will make its first step in the European Games European Olympic Committees as an accompanying event under the aegis of the Organising Committee of Krakow-Maloposka 2023. ECU regulated a new special competition the European Pair Blitz Chess Championship 2023 which will take place on 19th of June 2023 in Krakow, Poland, as the accompanying event and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
       },
       {
-         "description" : "Fighting their way through 147 high-level competitors, GMs Le Liem, Levon Aronian, Vladimir Fedoseev, and Vladislav Artemiev finished at the top of the Play In and qualified for Division I of Chessable Masters 2023. They will join GMs Magnus Carls...",
+         "description" : "Fighting their way through 147 high-level competitors, GMs Liem Le, Levon Aronian, Vladimir Fedoseev, and Vladislav Artemiev finished at the top of the Play-In and qualified for Division I of Chessable Masters 2023. They will join GMs Magnus Carls...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/le-wins-2023-cct-chessable-masters-play-in",
@@ -1106,14 +1138,6 @@ news_feed (
          "title" : "Singular strategy"
       },
       {
-         "description" : "Facing the mighty Baden-Baden in the Bundesliga, Jon Speelman was paired up against Etienne Bacrot (pictured) with black. The English grandmaster thus describes the start of what turned out to be a miniature win for Bacrot: \"I then made the mistake of fairly quickly sleepwalking along the moves which you play against the supposed main line 5.g3, and he hit me hard on move 8 with g4!. [...] A move or so later, when I finally awoke from my slumber, I was already lost.\" | Photo: Anastasiia Korolkova / FIDE World Cup 2021",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-189",
-         "pubDate" : "Sun, 05 Mar 2023 19:00:00 +0100",
-         "title" : "Suicidal somnambulism"
-      },
-      {
          "description" : "This month's initial list of <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010) was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. <P>The item pictured below was titled, 'Victor Vasarely L'&eacute;chiquier chess board signed print (1969)', where <I>L'&eacute;chiquier</I> is French for 'chess board'. It sold 'Best offer accepted' after one bid for GBP 380.00 ('approximately US $455.13', according to eBay). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc05.gif\" WIDTH=280 HEIGHT=400> <P>The description repeated the title and said, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1362,28 +1386,12 @@ news_feed (
          "title" : "Indian Yogis Qualify For Playoffs; Chessbrahs Stage Reversal With Carlsen's Perfect Score"
       },
       {
-         "description" : "The official FIDE ratings are in for March 2023, and at first glance they seem consistent with the February list, but look more closely and you see a notable name missing: GM Sergey Karajkin, who has now been inactive for a full 12 months&#38;nbsp;and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/march-2023-fide-ratings-list",
-         "pubDate" : "Wed, 01 Mar 2023 12:44:00 -0800",
-         "title" : "Karjakin Off March 2023 FIDE Rating List Due To Inactivity"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2262",
          "pubDate" : "Wed, 01 Mar 2023 17:28:46 +0000",
          "title" : "FIDE March 2023 rating list published"
-      },
-      {
-         "description" : "In the nearly 180 Titled Tuesdays since the event moved to 11 rounds on October 20, 2020, GM Hikaru Nakamura has now won 50, a ridiculous percentage of nearly 30% despite hundreds of participants gunning for first place in every tournament. His vi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/matlakov-nakamura-win-titled-tuesday-february-28-2023",
-         "pubDate" : "Wed, 01 Mar 2023 07:26:24 -0800",
-         "title" : "Nakamura Wins 50th Titled Tuesday Of 11-Round Era"
       },
       {
          "description" : "The 23rd edition of the European Individual Chess Championship 2023 takes place from the 2nd-14th of March in Hotel Zepter Vrnjacka Banja, Serbia. The event broke the participation record with more than 490 players coming from 40 European federations. The event includes 48 players rated 2600+, 128 Grandmasters, 105 International masters, and a total of 379 titled players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
