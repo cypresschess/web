@@ -5,6 +5,22 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2283",
+         "pubDate" : "Tue, 14 Mar 2023 22:19:19 +0000",
+         "title" : "Nukhim Rashkovsky (1946-2023)"
+      },
+      {
+         "description" : "The 11th edition of the Norway Chess Tournament is scheduled to take place from May 29 to June 9 in Stavanger. A rejuvenated lineup will see Nodirbek Abdusattorov and Dommaraju Gukesh making their debuts at the Norwegian super-tournament. Magnus Carlsen, who remarkably won the event five times, will also be present, alongside the likes of Alireza Firouzja, Hikaru Nakamura and Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2023-preview",
+         "pubDate" : "Tue, 14 Mar 2023 21:15:00 +0100",
+         "title" : "Norway Chess lineup announced: Carlsen, Naka and Gukesh in the mix"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2282",
          "pubDate" : "Tue, 14 Mar 2023 17:31:16 +0000",
          "title" : "The Atabayev brothers sweep the podium of the Turkmenistan Championship"
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2266",
          "pubDate" : "Mon, 06 Mar 2023 07:45:19 +0000",
          "title" : "Ahmad Al Khatib and Lina Nassr win Arab Chess Championship"
-      },
-      {
-         "description" : "Referring to Boris Gelfand's style, Vladimir Kramnik wrote: \"What impresses me most is his ability to create games, where all the moves, from the first to the last, are as though links in a single logical chain\". GM Sundararajan Kidambi analyses Gelfand's win over Vishy Anand at the 2012 World Championship match in Moscow, a perfect example of the Israeli's brilliant strategic aptitude. | Photo: Rodrigo Fernandez",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/singular-strategy-kidambi",
-         "pubDate" : "Mon, 06 Mar 2023 04:00:00 +0100",
-         "title" : "Singular strategy"
       },
       {
          "description" : "This month's initial list of <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010) was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. <P>The item pictured below was titled, 'Victor Vasarely L'&eacute;chiquier chess board signed print (1969)', where <I>L'&eacute;chiquier</I> is French for 'chess board'. It sold 'Best offer accepted' after one bid for GBP 380.00 ('approximately US $455.13', according to eBay). <P ALIGN=CENTER><IMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc05.gif\" WIDTH=280 HEIGHT=400> <P>The description repeated the title and said, ",
