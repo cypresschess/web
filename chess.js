@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Ramat Gan Masters A Winter 2023 is taking place in Ramt Gan, Israel. The time control is 90 minutes and 30 seconds per move, starting from move one.&#xA0; It is 7-round Swiss system tournament with participation of Ilya Karp, Pavel Chernomordik, Reem Sherman, Eyal Noy, David Gershkowich, Yonathan Uritsky, Guy Rozen, Ronit Levitan, Or []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ramat-gan-masters-a-winter-2023-live/",
+         "pubDate" : "Wed, 15 Mar 2023 07:11:29 +0000",
+         "title" : "Ramat Gan Masters A Winter 2023 - LIVE"
+      },
+      {
+         "description" : "The Ramat Gan Masters A Winter 2023 is taking place in Ramt Gan, Israel. The time control is 90 minutes and 30 seconds per move, starting from move one.&#xA0; It is 7-round Swiss system tournament. You can see the full ist of players : No. Name FED Rtg 1 IM Karp, Ilya ISR 2395 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ramat-gan-masters-a-winter-2023/",
+         "pubDate" : "Wed, 15 Mar 2023 07:05:57 +0000",
+         "title" : "Ramat Gan Masters A Winter 2023"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Girls U20 Czech Youth Championship 2023 - LIVE"
       },
       {
-         "description" : "The U20 Czech Youth Championship 2023 is taking place from 10&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 12-player round-robin tournament with particiaption of Ondrej Svanda, Adam []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-czech-youth-championship-2023-live/",
-         "pubDate" : "Sun, 12 Mar 2023 07:08:05 +0000",
-         "title" : "U20 Czech Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -512,14 +520,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
          "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
          "title" : "The Chess Drum on \"Talking Talent\""
-      },
-      {
-         "description" : "GM Alexey Sarana (FIDE, 2668) defeated GM Anton Korobov (UKR, 2658) in today&#x2019;s 9th round to take the sole lead in the European Individual Chess Championship 2023 with only two rounds to go. European Individual Chess Championship 2023 live games / European Individual Chess Championship participants Alexey Sarana was better in a very dynamic position []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexey-sarana-takes-the-sole-lead-in-european-youth-chess-championship-2023/",
-         "pubDate" : "Sat, 11 Mar 2023 21:17:00 +0000",
-         "title" : "Alexey Sarana takes the sole lead in European Youth Chess Championship 2023"
       },
       {
          "description" : "'The Underdog' is the newest series on ChessBase. We will witness some of the greatest upsets of the month, where dark horses get to beat the rating favourite! Robert Ris shares some beautiful examples, in which a rating difference of 500 or more points simply does not make a difference. One of the biggest upsets this month was achieved by Josephine Heinemann, who got the better of Hikaru Nakamura. What a brilliant start to the series!",
@@ -1744,14 +1744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2247",
          "pubDate" : "Wed, 22 Feb 2023 07:42:07 +0000",
          "title" : "FIDE resolution on the Russian Federation joining the ACF"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2246",
-         "pubDate" : "Wed, 22 Feb 2023 06:51:08 +0000",
-         "title" : "WR Chess Masters R05: Who's going to stop Aronian?"
       }
    ]
 }
