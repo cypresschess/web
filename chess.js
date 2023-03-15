@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 23rd&#xA0;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/",
+         "pubDate" : "Wed, 15 Mar 2023 15:09:42 +0000",
+         "title" : "European Women's Chess Championship 2023 starts in Petrovac, Montenegro"
+      },
+      {
          "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -544,14 +552,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
          "pubDate" : "Sun, 12 Mar 2023 09:00:00 +0100",
          "title" : "Armageddon live - Start: 19.00 CET"
-      },
-      {
-         "description" : "The G20 Czech Youth Championship 2023 is taking place from 11&#x2013;18 March 2023 in Jarom&#x11B;&#x159;ice nad Rokytnou, Czechia. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Lucie Fizerova, Sandra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u20-czech-youth-championship-2023-live/",
-         "pubDate" : "Sun, 12 Mar 2023 07:15:46 +0000",
-         "title" : "Girls U20 Czech Youth Championship 2023 - LIVE"
       },
       {
          "description" : "",
