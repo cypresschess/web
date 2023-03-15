@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-3",
+         "pubDate" : "Wed, 15 Mar 2023 00:01:57 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-2",
+         "pubDate" : "Wed, 15 Mar 2023 00:01:57 +0000",
+         "title" : "The American Cup 2023: Day 2"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norway Chess</strong> 2023 <a href=\"https://norwaychess.no/en/2023/03/14/the-2023-line-up-is-here/\">lineup has been announced</a> with then former world champion <strong>Magnus Carlsen</strong>, first timers <strong>Nodirbek Abdusattorov</strong> and <strong>Gukesh</strong> as well as, after a long classical chess break, <strong>Alireza Firouzja</strong>. The event takes place in Stavanger from 29 May to 9 June. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/firouzja-returns-to-board-in/",
+         "pubDate" : "Wed, 15 Mar 2023 00:42:02 +0100",
+         "title" : "Firouzja returns to board in Stavanger"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When you play in a competition, nobody tells you if there is a tactical shot on your board. My solution to train tactical alertness is \"Puzzle Inception\". Here is how it works. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/people/martin-bennedik.1920.jpeg\" title=\"Martin Bennedik is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess and founder of Chesspuzzle.net. \" data-title=\"**Martin Bennedik** is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
+         "pubDate" : "Wed, 15 Mar 2023 00:25:40 +0100",
+         "title" : "Fixing Tactics Training"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Explained by the engineers! - The new positional search of ChessBase 17!"
       },
       {
-         "description" : "GM Alexey Sarana won the European Individual Chess Championship on Monday in Vrnjacka Banja, Serbia. The 23-year-old Russian grandmaster, who played under the FIDE flag, edged out GMs Kirill Shevchenko (Ukraine) and Daniel Dardha (Belgium) on tieb...",
+         "description" : "GM Alexey Sarana won the European Individual Chess Championship on Monday in Vrnjacka Banja, Serbia. The 23-year-old Russian grandmaster, who played under the FIDE flag, edged out GMs Kirill Shevchenko (Romania) and Daniel Dardha (Belgium) on tieb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/alexey-sarana-wins-european-chess-championship",
@@ -234,7 +266,7 @@ news_feed (
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 2"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; TBD for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-emb",
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-4",
@@ -242,7 +274,7 @@ news_feed (
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; TBD for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-v",
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-5",
@@ -530,14 +562,6 @@ news_feed (
          "title" : "Explained by the engineers! - The new database interface of ChessBase 17!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Tata Abrahamyan discusses how she prepared for her match with IM Anna Zatonskih as part of the first round of The American Cup 2022. Originally on Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-i-beat-anna-zatonskih-american-cup-prepare-pro-wgm-tatev-abrahamyan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHUwi7T7jaw.jpg?itok=i2mamJJr\" alt=\"\" /><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-i-beat-anna-zatonskih-american-cup-prepare-pro-wgm-tatev-abrahamyan",
-         "pubDate" : "Sat, 11 Mar 2023 14:58:39 +0000",
-         "title" : "How I Beat Anna Zatonskih at The American Cup | Prepare Like A Pro - WGM Tatev Abrahamyan"
-      },
-      {
          "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -608,14 +632,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-championship-2023-r8",
          "pubDate" : "Sat, 11 Mar 2023 02:30:00 +0100",
          "title" : "European Championship: Calculated risk"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Sabina Foisor fills the shoes of Bobby Fischer and Lajos Portisch as Black to take on the Sozin Attack in the Sicilian. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sHt10Xg1Rw.jpg?itok=SdpNbWxg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/know-your-themes-against-sozin-sicilian-prepare-pro-wgm-sabina-foisor",
-         "pubDate" : "Fri, 10 Mar 2023 23:58:18 +0000",
-         "title" : "Know Your Themes Against the Sozin Sicilian | Prepare Like A Pro - WGM Sabina Foisor"
       },
       {
          "description" : "On the final day of week four of the 2023 Pro Chess League, the Norway Gnomes defeated Team MGD1 and made it to the Playoffs. In the second match, the Saint Louis Arch Bishops eliminated the Spanish Maniac Shrimps. GM Pranav V was indisputably t...",
@@ -712,14 +728,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/chess-in-the-schools-seeks-ceo/",
          "pubDate" : "Fri, 10 Mar 2023 11:15:48 +0100",
          "title" : "Chess in the Schools seeks CEO"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The eminent arbiter and chess entrepreneur <strong>Albert Vasse</strong> has <a href=\"https://digitalgametechnology.com/news/albert-vasse-1958-2023\">passed away</a>. Together with <strong>Ben Bulsink</strong> he co-founded <strong>Digital Game Technology</strong> in 1993 and ran the company until 2015. He was regionally known as speaker of the victims of the explosion of a firework storage in Enschede and campaign manager for <strong>Groenlinks</strong>, the Dutch Green Party. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/albert-vasse-1958-2023/",
-         "pubDate" : "Fri, 10 Mar 2023 10:05:19 +0100",
-         "title" : "Albert Vasse (1958-2023)"
       },
       {
          "description" : " The 32-year-old, who is abdicating his world crown, chose the Norwegian League for his last three classical games and will not play the format again until late May Magnus Carlsen chose last weekend's Norwegian League in Oslo for his three final classical games as world champion. The world No 1 scored two wins as White, one where <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/1/1/1\" title=\"\">he crushed his opponent</a> and the other an endgame grind <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/2/1/1\" title=\"\">transforming a draw into a win</a> before <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/3/1/",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://aicf.in/national-amateur-chess-championship-2023-certificates/",
          "pubDate" : "Fri, 03 Mar 2023 11:57:35 +0000",
          "title" : "National Amateur Chess Championship-2023, Certificates"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The all-Chinese <strong>Women Candidates Final</strong> will be held in Chongqing from 27 March and also the ensuing <strong>Women World Championship</strong> from 3 July with some games in Shanghai. No sponsors or prize funds <a href=\"https://fide.com/news/2264\">are mentioned</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/china-hosts-women-finals/",
-         "pubDate" : "Fri, 03 Mar 2023 11:53:12 +0100",
-         "title" : "China hosts women finals"
       },
       {
          "description" : "",
