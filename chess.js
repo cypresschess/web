@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/when-you-find-yourself-on-board-236.html",
+         "pubDate" : "Wed, 15 Mar 2023 12:59:00 +0000",
+         "title" : "When you find yourself on Board 236"
+      },
+      {
+         "description" : "The internationally successful Japanese chess manga \"Blitz\" stems from the imagination of C&eacute;dric Biscay, was inked by mangaka Tsukasa Mori and put into the grids by co-scenarist Daitaro Nishihara. \"Blitz\" impresses with its accurate and detailed artwork and with its precise depiction of the chess game. A review by Tatiana Flores. | Photo: IWA/Shibuya Productions",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/blitz-the-monegasque-chess-manga-a-review",
+         "pubDate" : "Wed, 15 Mar 2023 13:52:15 +0100",
+         "title" : "Blitz, the Chess Manga from Monaco - A Review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2284",
+         "pubDate" : "Wed, 15 Mar 2023 12:29:34 +0000",
+         "title" : "Chess for Freedom Conference: List of speakers announced"
+      },
+      {
          "description" : "The 23rd edition of the European Women's Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#8220;Palas&#8221; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1176,14 +1200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pisces-and-their-strategy",
          "pubDate" : "Mon, 06 Mar 2023 14:10:43 +0100",
          "title" : "Pisces and their Strategy"
-      },
-      {
-         "description" : "After three rounds, eleven players still have the maximum number of points at the European Championship in Vrnjacka Banja. The young Czech player Nguyen Thai Dai Van has the best tiebreak and nominally leads the field. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-11-players-share-lead-with-3-0-3",
-         "pubDate" : "Mon, 06 Mar 2023 13:21:53 +0100",
-         "title" : "European Championship: 11 players start with 3.0/3"
       },
       {
          "description" : "",
