@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2285",
+         "pubDate" : "Wed, 15 Mar 2023 18:40:19 +0000",
+         "title" : "FIDE President visits Saudi Arabia"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda were the winners of Titled Tuesday on March 14, both of them scoring 9.5 points. Nakamura edged out GM Daniil Dubov on tiebreaks early while Duda won outright late. GM Arjun Erigaisi scored two top-five...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-march-14-2023",
+         "pubDate" : "Wed, 15 Mar 2023 10:17:59 -0700",
+         "title" : "Nakamura And Duda Again Tuesday Winners"
+      },
+      {
+         "description" : "Sagar Shah has been a chess player, coach, journalist, YouTuber, entrepreneur and more. In his journey through different countries and tournaments, he has collected plenty of valuable experience to share. In his new series 'From the CEO's Desk', he shares his musings and thoughts about various things - sometimes related to chess, and sometimes just life. Today, Sagar takes a closer look at the deep-rooted emotions and fears of a chess player, drawing parallels with his own life.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/look-within-yourself",
+         "pubDate" : "Wed, 15 Mar 2023 16:30:00 +0100",
+         "title" : "Look within yourself"
+      },
+      {
          "description" : "The 23rd&#xA0;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1194,14 +1218,6 @@ news_feed (
          "title" : "FIDE delegation visits Sudan"
       },
       {
-         "description" : "Bobby Fischer is certainly the most famous of the Pisces chess players. But other top players include Bent Larsen, Veselin Topalov, Vasyl Ivanchuk, Teimour Radjabov, Hou Yifan, Anna Muzychuk and David Bronstein. Those who are Pisces can sometimes be as brilliant as Albert Einstein. With the Pisces-born, the circle of the twelve signs of the zodiac has come full circle, making this our final instalment.| Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pisces-and-their-strategy",
-         "pubDate" : "Mon, 06 Mar 2023 14:10:43 +0100",
-         "title" : "Pisces and their Strategy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/",
          "pubDate" : "Wed, 01 Mar 2023 22:05:50 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (4)"
-      },
-      {
-         "description" : "The Indian Yogis are the first team to qualify for the playoffs after defeating the Levitov Chess Wizards in the Pro Chess League. In the other match, the Canada Chessbrahs defeated the Garden State Passers.&#38;nbsp; The two siblings, GM Praggnanan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-yogis-chessbrahs",
-         "pubDate" : "Wed, 01 Mar 2023 13:54:00 -0800",
-         "title" : "Indian Yogis Qualify For Playoffs; Chessbrahs Stage Reversal With Carlsen's Perfect Score"
       },
       {
          "description" : "",
