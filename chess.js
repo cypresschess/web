@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-4",
+         "pubDate" : "Wed, 15 Mar 2023 21:02:45 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 4"
+      },
+      {
+         "description" : "GM Alexandra Kosteniuk has transferred her federation to Switzerland and will no longer represent Russia, effective March 3, 2023. Since her first marriage to a Swiss citizen, she has held dual citizenship in both countries. Kosteniuk, who resides...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kosteniuk-to-play-for-switzerland",
+         "pubDate" : "Wed, 15 Mar 2023 12:44:00 -0700",
+         "title" : "Former Women's World Champion Changes Federation From Russia To Switzerland"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
          "pubDate" : "Sun, 12 Mar 2023 16:19:00 +0000",
          "title" : "I Should Just Focus on the Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-2-lichessorg",
-         "pubDate" : "Sun, 12 Mar 2023 14:59:17 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 2 | lichess.org"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 116th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/schizophrenic-yahoos.html",
          "pubDate" : "Thu, 02 Mar 2023 16:10:00 +0000",
          "title" : "Schizophrenic Yahoos"
-      },
-      {
-         "description" : "Sayantan Das becomes India&#39;s 81st GM after beating the opposition at the International Festival des Jeux in Cannes, France. Das entered the A Group of the tournament as an IM, chasing the 24 FIDE Elo points that would bring him to the 2500 mark an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sayantan-wins-cannes-open",
-         "pubDate" : "Thu, 02 Mar 2023 08:06:37 -0800",
-         "title" : "Sayantan Das Crushes At Cannes Open, Becomes India's 81st Grandmaster"
       },
       {
          "description" : "Magnus Carlsen has now scored 11/12 after posting a perfect 4/4 to give the Canada Chessbrahs victory over the Garden State Passers, despite team captain Eric Hansen scoring only 0.5/4. Elsewhere in Week 3 of the Pro Chess League the Indian Yogis, featuring siblings Praggnanandhaa and Vaishali, have already qualified for the Playoffs with three wins, while the Charlotte Cobras are eliminated after three losses.",
