@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 23rd edition of the European Women's Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#8220;Palas&#8221; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/",
+         "pubDate" : "Wed, 15 Mar 2023 11:25:21 +0000",
+         "title" : "European Women's Chess Championship 2023 starts in Petrovac, Montenegro"
+      },
+      {
+         "description" : " During the last few weeks I released two new Vimeo-on-demand titles, Surviving Computerized Chess Opening Preparation and Building an Opening Repertoire. Although they are intended for different audiences, both these works are designed to address real practical issues. Surviving Computerized Chess Opening Preparation addresses a serious issue for advanced tournament competitors, how to handle the <a href=\"https://chessimprover.com/my-latest-releases-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"My Latest Releases on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/my-latest-releases-on-vimeo/\">My Latest Releases on Vimeo</a> appe",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/my-latest-releases-on-vimeo/",
+         "pubDate" : "Wed, 15 Mar 2023 10:00:26 +0000",
+         "title" : "My Latest Releases on Vimeo"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When you play in a competition, nobody tells you if there is a tactical shot on your board. My solution to train tactical alertness is <strong>Puzzle Inception</strong>. Here is how it works. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/people/martin-bennedik.1920.jpeg\" title=\"Martin Bennedik is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess and founder of Chesspuzzle.net. \" data-title=\"**Martin Bennedik** is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in corres",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
+         "pubDate" : "Wed, 15 Mar 2023 10:08:25 +0100",
+         "title" : "Fixing Tactics Training"
+      },
+      {
          "description" : "The Ramat Gan Masters A Winter 2023 is taking place in Ramt Gan, Israel. The time control is 90 minutes and 30 seconds per move, starting from move one.&#xA0; It is 7-round Swiss system tournament with participation of Ilya Karp, Pavel Chernomordik, Reem Sherman, Eyal Noy, David Gershkowich, Yonathan Uritsky, Guy Rozen, Ronit Levitan, Or []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/firouzja-returns-to-board-in/",
          "pubDate" : "Wed, 15 Mar 2023 00:42:02 +0100",
          "title" : "Firouzja returns to board in Stavanger"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When you play in a competition, nobody tells you if there is a tactical shot on your board. My solution to train tactical alertness is \"Puzzle Inception\". Here is how it works. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/people/martin-bennedik.1920.jpeg\" title=\"Martin Bennedik is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess and founder of Chesspuzzle.net. \" data-title=\"**Martin Bennedik** is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
-         "pubDate" : "Wed, 15 Mar 2023 00:25:40 +0100",
-         "title" : "Fixing Tactics Training"
       },
       {
          "description" : "",
@@ -126,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-nakamura-norway-chess",
-         "pubDate" : "Tue, 14 Mar 2023 03:09:52 -0700",
+         "pubDate" : "Tue, 14 Mar 2023 03:09:00 -0700",
          "title" : "Carlsen, Nakamura Will Go Head-To-Head At Norway Chess"
       },
       {
@@ -312,6 +328,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-231-endgame-highlights-from-the-women-s-grand-prix",
          "pubDate" : "Mon, 13 Mar 2023 18:00:00 +0100",
          "title" : "Endgame Magic #231: Endgame highlights from the Women's Grand Prix"
+      },
+      {
+         "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A>(February 2023), I noted, <BLOCKQUOTE>Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P>While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online chess c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/nextchessmovecom.html",
+         "pubDate" : "Mon, 13 Mar 2023 16:05:00 +0000",
+         "title" : "NextChessMove.com"
       },
       {
          "description" : "",
@@ -1714,36 +1738,12 @@ news_feed (
          "title" : "2023 Asian Chess Summit"
       },
       {
-         "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/london-chess-conference-2023/",
-         "pubDate" : "Thu, 23 Feb 2023 10:28:22 +0000",
-         "title" : "London Chess Conference 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2248",
          "pubDate" : "Thu, 23 Feb 2023 08:10:37 +0000",
          "title" : "WR Chess Masters Round 6: Endgame battles"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98149126.cms\" />India #2, Vidit Gujrathi has defeated Carlsen for the first time in a competitive game. With this, he joins the list of few Indian players who have managed to pull off a victory against the long standing World Champion. Vidit is leading the Indian Yogis team. \"It is an amazing feeling to defeat the GOAT of Chess and I couldn't have asked for a better moment,\" he said.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-2-vidit-gujrathi-stuns-world-chess-champion-magnus-carlsen/articleshow/98149126.cms",
-         "pubDate" : "Wed, 22 Feb 2023 09:34:14 +0000",
-         "title" : "India No. 2 Vidit stuns world chess champion Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2247",
-         "pubDate" : "Wed, 22 Feb 2023 07:42:07 +0000",
-         "title" : "FIDE resolution on the Russian Federation joining the ACF"
       }
    ]
 }
