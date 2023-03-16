@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
+         "pubDate" : "Thu, 16 Mar 2023 04:19:08 +0000",
+         "title" : "\"Chess in Slums\" treks to Kenya, Uganda!"
+      },
+      {
          "description" : "Close to 250 games were played daily for 11 rounds at the European Championship that came to an end on Monday. The players were fighting for an entrance to the World Championship cycle via the World Cup, which made for very competitive struggles. Karsten M&uuml;ller kept an eye on the games, and sent us many notable endgames with instructive analyses. Replay here ten of his finds! | Pictured: Ellen Fredericia Nilssen | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
