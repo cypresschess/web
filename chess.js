@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Close to 250 games were played daily for 11 rounds at the European Championship that came to an end on Monday. The players were fighting for an entrance to the World Championship cycle via the World Cup, which made for very competitive struggles. Karsten M&uuml;ller kept an eye on the games, and sent us many notable endgames with instructive analyses. Replay here ten of his finds! | Pictured: Ellen Fredericia Nilssen | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-3",
+         "pubDate" : "Wed, 15 Mar 2023 22:50:00 +0100",
+         "title" : "Endgames from Vrnjacka Banja (3)"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -170,12 +178,12 @@ news_feed (
          "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
       },
       {
-         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic ten-tournament contest kicks off with a format for which Hikaru is the reigning World C...",
+         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament contest kicks off with a format for which Hikaru is the reigning world ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikarus-chess-decathlon-mgg",
-         "pubDate" : "Tue, 14 Mar 2023 06:48:18 -0700",
-         "title" : "Announcing Hikaru's Chess Decathlon by Misfits Gaming"
+         "pubDate" : "Tue, 14 Mar 2023 06:48:00 -0700",
+         "title" : "Announcing Hikaru's Chess Decathlon By Misfits Gaming"
       },
       {
          "description" : "Today: Jeroen Van den Belt shows us the best positional search option, ChessBase has ever had. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
@@ -1208,14 +1216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-mit-sloan-sports-analytics-conference-chess",
          "pubDate" : "Mon, 06 Mar 2023 07:57:00 -0800",
          "title" : "'The Game Should Be Willing To Adjust': Caruana, Nakamura, Shahade Talk At MIT"
-      },
-      {
-         "description" : "The current ChessBase Magazine #212 offers three opening videos: Rustam Kasimdzhanov examines the Ruy Lopez with 8.a4 b4 9.a5, which was played twice in the Tata Steel Masters 2023 (So-Keymer and Caruana-Carlsen). Nico Zwirs checks Magnus Carlsen's idea 7...Bg4 in the Queen's Gambit Exchange Variation. And Mihail Marin puts the Evans Gambit from the game Beerdsen-Pechac from the Challengers to the test. You can watch an excerpt from Kasimdzhanov's video analysis here. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/theory-updates-from-wijk-aan-zee",
-         "pubDate" : "Mon, 06 Mar 2023 15:00:00 +0100",
-         "title" : "Theory updates from Wijk aan Zee"
       },
       {
          "description" : "",
