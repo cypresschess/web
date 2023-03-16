@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-5-arch-bishops-blitz",
+         "pubDate" : "Thu, 16 Mar 2023 13:37:00 -0700",
+         "title" : "Arch Bishops, Blitz Move To Playoffs; Alice Lee Upsets Super-GM, Caruana Goes 4/4"
+      },
+      {
+         "description" : "Four players qualified to play in Division I of the upcoming Chessable Masters in last week's Play-In event. Le Quang Liem, Levon Aronian, Vladimir Fedoseev and Vladislav Artemiev will join Magnus Carlsen, Hikaru Nakamura, Wesley So and Fabiano Caruana in the online tournament set to start on April 3. In a very competitive competition, the likes of Anish Giri and Nodirbek Abdusattorov could only make it to Division II.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-play-in",
+         "pubDate" : "Thu, 16 Mar 2023 21:30:00 +0100",
+         "title" : "Chessable Masters Play-In: Le Quang Liem the top scorer"
+      },
+      {
          "description" : "The 27 Hit open 2023 will take place from 16-23 March 2023 in Nova Gorica, Slovenia. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two categories &#x2013; HIT-A and HIT-B and has total prize fund of 5650 EUR. HIT-A section is 9-round Swiss System []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1186,14 +1202,6 @@ news_feed (
          "title" : "Getting in"
       },
       {
-         "description" : "Magnus Carlsen played three classical games over the weekend, as he helped Offerspill win the Norwegian League title for the first time. These three encounters were Carlsen's last rated classical games before the World Championship match, where either Ian Nepomniachtchi or Ding Liren will take the world crown. If Carlsen does not choose to fight to regain the title, these could end up being his last three classical games as world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-norwegian-league-2023",
-         "pubDate" : "Tue, 07 Mar 2023 05:50:00 +0100",
-         "title" : "Carlsen helps Offerspill win title, plays last games as world champion"
-      },
-      {
          "description" : "GM Alejandro Ramirez announced his resignation on Monday from the Saint Louis Chess Club and will no longer coach the Saint Louis University chess team. On February 15, WGM Jennifer Shahade reported on Twitter that Ramirez assaulted her twice an...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1346,28 +1354,12 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Five"
       },
       {
-         "description" : "March Madness is here! Did you miss the start of the Collegiate Chess League (CCL), or want to relive the best moments so far? We&#38;rsquo;ve got you covered with this CCL mid-season recap: Don&#38;rsquo;t Mess With Texas Deep Dish Pizza Powers UChi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2023-spring-midseason-recap",
-         "pubDate" : "Fri, 03 Mar 2023 10:53:00 -0800",
-         "title" : "Collegiate Chess League: Spring 2023 Midseason Recap"
-      },
-      {
          "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-tools-support.html",
          "pubDate" : "Fri, 03 Mar 2023 16:45:00 +0000",
          "title" : "Chess.com's Game Review Tools Support"
-      },
-      {
-         "description" : "Back in January, we proclaimed a new chess boom that was so big it was troubling our servers. Thankfully, those problems have been fixed now. But if you thought that sudden wave of interest in the game would pass, or it was perhaps just a fad fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-boom-1-billion-games-played-in-february",
-         "pubDate" : "Fri, 03 Mar 2023 06:02:00 -0800",
-         "title" : "Chess Boom Hits New Heights With 1 Billion Games Played In February"
       },
       {
          "description" : "National Amateur Chess Championship 2023 in Punjab all are out to download. 1700 Men : https://aicf.online/National-A-1700-Men.html 1700 Women : https://aicf.online/National-A-1700-Women.html 2300 Men : https://aicf.online/National-A-2300-Men.html 2300",
