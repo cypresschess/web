@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Alexandra Kosteniuk has transferred federations to Switzerland and will no longer represent Russia.&#38;nbsp;You can read more about the federation transfer in this news article. The interview below focuses on the personal consequences of the feder...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/interview-kosteniuk-on-federation-change",
+         "pubDate" : "Thu, 16 Mar 2023 07:15:42 -0700",
+         "title" : "Interview: Kosteniuk On Federation Change, 'There Cannot Be Winners In Wars'"
+      },
+      {
+         "description" : "The British chess boom reaches Parliament on Wednesday 22nd March, with two events hosted by the Speaker of the House of Commons, Sir Lindsay Hoyle. The first will be the opening ceremony of a UK vs. Ukraine Solidarity Match, with the UK number one, Michael Adams, taking on the Ukrainian champion Andrei Volokitin, who is currently living as a refugee in Poland with his family. In the second contest of the day over the board, the GMs will captain teams of MPs and Peers as they battle for bragging rights in a match between the House of Lords and House of Commons.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uk-ukraine-solidarity-match-2023",
+         "pubDate" : "Thu, 16 Mar 2023 13:00:00 +0100",
+         "title" : "UK vs Ukraine solidarity match reaches Parliament"
+      },
+      {
+         "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/london-chess-conference-2023/",
+         "pubDate" : "Thu, 16 Mar 2023 10:28:22 +0000",
+         "title" : "London Chess Conference 2023"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #559, Merijn van Delft looks at the game Alexey Sarana vs Anton Korobov, played at the European Championship in Vrnacka Banja. The game was instructive and tense and turned out to be crucial for the tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1178,14 +1202,6 @@ news_feed (
          "title" : "End Of An Era: Magnus Carlsen Plays Last Classical Games As World Champion"
       },
       {
-         "description" : "In his Endgame Magic Show #230 Karsten shows endgame highlights from the Airthings Masters. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-230-endgame-highlights-form-the-airthings-masters",
-         "pubDate" : "Mon, 06 Mar 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #230: Endgame highlights from the Airthings Masters"
-      },
-      {
          "description" : "For the previous fortnightly post on the two most important, ongoing engine vs. engine competitions the keyword was 'Underway': <A HREF=\"https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html\">Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway</A>(February 2023). Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish won 'Swiss 4', a point ahead of KomodoDragon and LCZero. The site then started S24 League 2 (see diagram for S24 stages). &#149; CCC: The 'CCC20 Blitz Newcomers' and 'Qualifier #1' events have finished and 'Qualifier #2' is underway. The next stage, 'CCC20 Blitz Main', will have 12 engines with three coming from 'Qualifier #2'",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1402,14 +1418,6 @@ news_feed (
          "title" : "European Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
       },
       {
-         "description" : "In the match against the formidable Shanghai Tigers, the Gotham Knights showcased the most dominant victory so far in this season of the Pro Chess League. In the second match, the Croatia Bulldogs overcame the Blitz in a toe-to-toe tug-of-war stru...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-knights-bulldogs",
-         "pubDate" : "Thu, 02 Mar 2023 14:22:00 -0800",
-         "title" : "Gotham Knights Advance To Playoffs, Croatia Bulldogs Best Team Blitz In Tiebreaks"
-      },
-      {
          "description" : "In the sixth volume of his FritzTrainer series, Ivan Sokolov, winner of the Olympiad as a coach of Uzbekistan, looks deeply into the 'supreme discipline' in chess, the Ruy Lopez, as he shares a number of top grandmasters' secrets. Harald Wagner watched the seven-hour work and sent us a review.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1496,14 +1504,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-mumbai-from-25-to-26-february-2023final-report/",
          "pubDate" : "Wed, 01 Mar 2023 11:54:19 +0000",
          "title" : "Senior National Arbiter Seminar and Examination, Mumbai from 25 to 26 February 2023:Final Report"
-      },
-      {
-         "description" : "ECU Board has earlier announced the distribution of qualification spots for the FIDE World Cup 2023 from the following events: European Individual Chess Championship 2021, Reykjavic, Iceland (23 qualification spots the list of qualifiers can be found below) European Individual Chess Championship 2022, Terme Catez, Slovenia (20 qualification spots the list of qualifiers can be found&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/current-list-of-qualifiers-for-fide-world-cup-2023/",
-         "pubDate" : "Wed, 01 Mar 2023 07:35:25 +0000",
-         "title" : "Current list of Qualifiers for FIDE World Cup 2023"
       },
       {
          "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
@@ -1752,14 +1752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2249",
          "pubDate" : "Fri, 24 Feb 2023 07:08:11 +0000",
          "title" : "UPDATE: Fair Play Commission on the Carlsen/Niemann Report"
-      },
-      {
-         "description" : " I am heading out of town (Canberra) to attend the 2023 Asian Chess Summit next week. It was intended to be the 2022 Asian Chess Summit, but for various reasons it ket getting shifted. Normally these events are mainly about networking and providing updates, but there is one contentious issue on the agenda. The Russian Chess Federation is applying to join the Asian Chess Federation, and leave the European Chess Union. The obvious cause of this is because Russian players are currently excluded from European events, and so the RCF is trying to 'jump ship'. There are a number of knock on effects if this does happen, including the decision by FIDE to allow Russian players to transfer to European ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/02/2023-asian-chess-summit.html",
-         "pubDate" : "Thu, 23 Feb 2023 11:37:00 +0000",
-         "title" : "2023 Asian Chess Summit"
       }
    ]
 }
