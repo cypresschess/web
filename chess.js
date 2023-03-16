@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 27 Hit open 2023 will take place from 16-23 March 2023 in Nova Gorica, Slovenia. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two categories &#x2013; HIT-A and HIT-B and has total prize fund of 5650 EUR. HIT-A section is 9-round Swiss System []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/27-hit-open-2023-live/",
+         "pubDate" : "Thu, 16 Mar 2023 17:20:35 +0000",
+         "title" : "27 Hit open 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2286",
+         "pubDate" : "Thu, 16 Mar 2023 17:07:12 +0000",
+         "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
+      },
+      {
          "description" : "GM Alexandra Kosteniuk has transferred federations to Switzerland and will no longer represent Russia.&#38;nbsp;You can read more about the federation transfer in this news article. The interview below focuses on the personal consequences of the feder...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -440,14 +456,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-5",
          "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 5"
-      },
-      {
-         "description" : "The Play-In for the Chessable Masters, the 2nd event on the $2 million+ 2023 Champions Chess Tour, takes place on Chess.com on March 13 and will decide which 52 players join Magnus Carlsen, Wesley So, Hikaru Nakamura and Fabiano Caruana in the main event from April 3-7. It begins with a 9-round Swiss tournament, with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-play-in-champions-chess-tour-2023-live/",
-         "pubDate" : "Mon, 13 Mar 2023 17:58:38 +0000",
-         "title" : "Chessable Masters Play-In | Champions Chess Tour 2023 - LIVE"
       },
       {
          "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
