@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #559, Merijn van Delft looks at the game Alexey Sarana vs Anton Korobov, played at the European Championship in Vrnacka Banja. The game was instructive and tense and turned out to be crucial for the tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-559-a-sarana-a-korobov",
+         "pubDate" : "Thu, 16 Mar 2023 10:44:27 +0100",
+         "title" : "Game of the Week #559: A. Sarana - A. Korobov"
+      },
+      {
+         "description" : "The 30th Charlotte GM/IM Norm Invitational will be March 15-19, 2023. There will be 1&#xA0;GM group&#xA0;and 2 IM groups.The time control is 90 minutes and 30 seconds per move, starting from move one. List of players : GM A section : itle Name FIDE USCF Fed Norm GM Tanguy Ringoir 2490 2576 BEL GM David []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-invitational/",
+         "pubDate" : "Thu, 16 Mar 2023 08:37:00 +0000",
+         "title" : "Charlotte Invitational"
+      },
+      {
          "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "When you find yourself on Board 236"
       },
       {
-         "description" : "The internationally successful Japanese chess manga \"Blitz\" stems from the imagination of C&eacute;dric Biscay, was inked by mangaka Tsukasa Mori and put into the grids by co-scenarist Daitaro Nishihara. \"Blitz\" impresses with its accurate and detailed artwork and with its precise depiction of the chess game. A review by Tatiana Flores. | Photo: IWA/Shibuya Productions",
+         "description" : "The internationally successful Japanese chess manga \"Blitz\" stems from the imagination of C&eacute;dric Biscay, was inked by mangaka Daitaro Nishihara and put into the grids by co-scenarist Tsukasa Mori. \"Blitz\" impresses with its accurate and detailed artwork and with its precise depiction of the chess game. A review by Tatiana Flores. | Photo: IWA/Shibuya Productions",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/blitz-the-monegasque-chess-manga-a-review",
@@ -522,14 +538,6 @@ news_feed (
          "title" : "Henr&iacute;quez Villagra and Campos win Zonal 2.5 in Asunci&oacute;n, Paraguay"
       },
       {
-         "description" : "Heading into the last round of the European Individual Chess Championship 2023, GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) share the lead scoring 8 points each. GM Kirill Shevchenko (ROU, 2668) outplayed GM Benjamin Gledura (HUN, 2637) in the penultimate round to join the race for the trophy. Shevchenko had a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kirill-shevchenko-joins-the-top-with-one-round-to-go-at-the-european-individual-chess-championship-2023/",
-         "pubDate" : "Sun, 12 Mar 2023 21:21:00 +0000",
-         "title" : "Kirill Shevchenko joins the top with one round to go at the European Individual Chess Championship 2023"
-      },
-      {
          "description" : " You'll probably recognise this Famous Position from a Famous Game. In the 1963 US Championship game between Fischer and Benko, Bobby noticed that the immediate e5, threatening mate on h7, would be met by f5, so he played Rf6!, winning a couple of moves later. You see the idea: a rook sacrifice so that a <a href=\"https://chessimprover.com/a-tactical-idea/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Tactical Idea\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-tactical-idea/\">A Tactical Idea</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -898,14 +906,6 @@ news_feed (
          "title" : "Chess.com And FIDE Bring Chess To The Olympic Esports Series"
       },
       {
-         "description" : "The ECF server will be undergoing scheduled maintenance starting at 10:00am on Wednesday 15 March. This will affect all the ECF websites as well as...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-server-scheduled-maintenance-15-3-23-1000am/",
-         "pubDate" : "Thu, 09 Mar 2023 13:10:56 +0000",
-         "title" : "ECF server scheduled maintenance 15/3/23 10:00am"
-      },
-      {
          "description" : " I've just seen the sad news that Albert Vasse has passed away. He was most notable as the founder of DGT systems, the company responsible for developing both the digital board/broadcast technology and digital chess clocks, both off which are heavily used across the world. Although he retired from running the company a number of years ago he was still an active arbiter and organiser, with the occasional stint as a player. I would often run into him at the various Chess Olympiads (where we would share a beer and conversation), although he would turn up at other events, such as the Gibraltar Open (where he was often the arbiter supervising my games). Always an enjoyable companion at major ches",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2268",
          "pubDate" : "Mon, 06 Mar 2023 16:55:33 +0000",
          "title" : "Romanian Chess Federation launches Education through Chess national project"
-      },
-      {
-         "description" : "While a number of Russian chess masters have publicly spoken out in favour of stopping the Russian war of aggression, hardly anything has been heard from others. For example, from Vladimir Kramnik, the 14th World Champion (2000 to 2007). Martin Breutigam, author and International Master, asked Kramnik about the long silence - and received a full answer. | Photo: Guido Kohlen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-breaks-his-silence-on-the-war",
-         "pubDate" : "Mon, 06 Mar 2023 17:00:00 +0100",
-         "title" : "Kramnik breaks his silence on the war"
       },
       {
          "description" : "On Friday, top GMs Fabiano Caruana and Hikaru Nakamura as well as WGM Jennifer Shahade took part in a panel discussion at the MIT Sloan School of Management&#39;s annual Sports Analytics Conference in Boston. The three talked about the further growth ...",
@@ -1768,14 +1760,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/02/2023-asian-chess-summit.html",
          "pubDate" : "Thu, 23 Feb 2023 11:37:00 +0000",
          "title" : "2023 Asian Chess Summit"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2248",
-         "pubDate" : "Thu, 23 Feb 2023 08:10:37 +0000",
-         "title" : "WR Chess Masters Round 6: Endgame battles"
       }
    ]
 }
