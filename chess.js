@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Former women's world champion Alexandra Kosteniuk, currently in the top ten of women's chess, is one of several top Russian players who have left the country or criticized the invasion of Ukraine. Kosteniuk will in future play under the Swiss flag.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kosteniuk-has-switched-to-switzerland",
+         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
+         "title" : "Kosteniuk has switched to Switzerland"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber goes into detail about the new hints option for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-hints-option-for-chessbase-17",
+         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
+         "title" : "Explained by the engineers! - The new \"hints\" option for ChessBase 17!"
+      },
+      {
+         "description" : "Anish Giri scored 3.5/4 as a replacement for an unwell Magnus Carlsen, but the Canada Chessbrahs again struggled on the bottom boards as Alexander Grischuk's Blitz eliminated them 9:7. The Saint Louis Arch Bishops knocked out the Croatia Bulldogs by the same score, with the heroes Fabiano Caruana, who scored 4/4, and 13-year-old Alice Lee, who defeated 2700-rated Bogdan-Daniel Deac.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/giri-subs-for-carlsen-as-chessbrahs-eliminated",
+         "pubDate" : "Fri, 17 Mar 2023 10:46:22 +0000",
+         "title" : "Giri replaces Carlsen as Chessbrahs eliminated"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2287",
+         "pubDate" : "Fri, 17 Mar 2023 09:16:42 +0000",
+         "title" : "FIDE World Senior Championships 2023: Call for Bids"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris looks at the game Lupulescu-Donchenko, played in the last round of the European Individual Championships. The game features a highly topical line of the Karpov System (5.Be2 & 6.Be3) against the King's Indian and led to a fine win for Black. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-king-s-indian",
+         "pubDate" : "Fri, 17 Mar 2023 10:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Attacking with the King's Indian"
+      },
+      {
+         "description" : " The world No 1 faces encounters with Caruana, So, Nakamura and Aronian in the online Champions Tour starting 3 April, then over-the-board at Stavanger in late May Magnus Carlsen's reign as an abdicated world champion will formally end late next month when a winner is declared in the €2m, 14-game match for the newly vacant title between the world No 2, Ian Nepomniachtchi, playing under a neutral Fide flag, and the world No 3, Ding Liren. The venue is Astana, Kazakhstan, which borders both Russia and China. Some chess fans may not recognise the Astana winner as a genuine world champion, and for them there is now the prospect of two major events, one online and the other over-the-board. Carl",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/mar/17/chess-carlsen-set-for-challenge-from-us-quartet-online-and-over-the-board",
+         "pubDate" : "Fri, 17 Mar 2023 08:00:35 +0000",
+         "title" : "Chess: Carlsen set for challenge from US quartet online and over-the-board"
+      },
+      {
          "description" : "The Charlotte IM B 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In IM B section will participate GM Vladimir Georgiev, IM Tamas Petenyi, IM Olivier-Kenta Chiku-Ratte, FM Robby Adamson, FM Ryan Amburgy, FM []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -1162,14 +1210,6 @@ news_feed (
          "title" : "Explained by the engineers! - The visual evaluation function of ChessBase 17!"
       },
       {
-         "description" : "The first quarter-finals of the Americas group of the World Chess Armageddon series were played on Monday. The venue is the World Chess Club Unter den Linden in Berlin. Wesley So won against Sam Shankland and Renato Terry prevailed in the Armageddon against Eric Hansen. The losers continue in the elimination group. | Photo: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-wins-for-so-and-terry",
-         "pubDate" : "Tue, 07 Mar 2023 13:20:00 +0100",
-         "title" : "World Chess: Wins for So and Terry"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1184,22 +1224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2269",
          "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
          "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
-      },
-      {
-         "description" : "Three players are sharing the lead at the European Championship in Vrnjacka Banja, Serbia. Eltaj Safarli from Azerbaijan is joined by the Ukrainian duo of Anton Korobov and Ruslan Ponomariov (pictured) as the three participants who have scored four victories in as many games. A total of 23 players stand a half point back - Gabriel Sargissian, Boris Gelfand and Alexey Sarana are the highest-rated players in the chasing pack. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r4",
-         "pubDate" : "Tue, 07 Mar 2023 09:05:00 +0100",
-         "title" : "European Championship: Safarli, Korobov and Ponomariov on 4/4"
-      },
-      {
-         "description" : "Pawns often open the way for their king - what should White do in the diagram position?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/getting-in",
-         "pubDate" : "Tue, 07 Mar 2023 09:00:00 +0100",
-         "title" : "Getting in"
       },
       {
          "description" : "GM Alejandro Ramirez announced his resignation on Monday from the Saint Louis Chess Club and will no longer coach the Saint Louis University chess team. On February 15, WGM Jennifer Shahade reported on Twitter that Ramirez assaulted her twice an...",
@@ -1720,30 +1744,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/discipline/",
          "pubDate" : "Fri, 24 Feb 2023 11:38:08 +0000",
          "title" : "Building Discipline: 3 Key Ideas for Improving at Chess"
-      },
-      {
-         "description" : "\"If he wants a draw that badly, I should push,\" said Ian Nepomniachtchi after Levon Aronian incorrectly claimed a draw by 3-fold repetition in their clash in Round 7 of the WR Chess Masters. Nepo went on to beat the leader with the black pieces, allowing Gukesh to catch Levon with some inventive play in the opening against Andrey Esipenko.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-7-gukesh-co-leader-as-nepo-beats-aronian",
-         "pubDate" : "Fri, 24 Feb 2023 08:53:10 +0000",
-         "title" : "WR Chess Masters 7: Gukesh co-leader as Nepo beats Aronian"
-      },
-      {
-         "description" : " The world champion is representing Canada Chessbrahs as the chess.com professional league is revived after a four-year break, but his streak will be overshadowed by this week's puzzle Magnus Carlsen is again the centre of attention as the world champion leads the Canada Chessbrahs in the <a href=\"https://www.chess.com/\" title=\"\">chess.com</a> professional league, revived this year for the first time since pre-pandemic 2019. The world No 1 had a narrow escape at the start <a href=\"https://chess24.com/en/watch/live-tournaments/pro-chess-league-2023/4/2/1\" title=\"\">against Awonder Liang</a>, 19, but then raced to seven straight wins, including victory against the best-known US woman grandmaste",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/feb/24/chess-magnus-carlsen-makes-historic-blunder-after-seven-straight-victories",
-         "pubDate" : "Fri, 24 Feb 2023 08:00:17 +0000",
-         "title" : "Chess: Magnus Carlsen makes historic blunder after seven straight victories"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2250",
-         "pubDate" : "Fri, 24 Feb 2023 07:39:32 +0000",
-         "title" : "WR Chess Masters Round 7: Gukesh catches up with Aronian"
       }
    ]
 }
