@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What should you do if your opponent offers a draw at an early stage of the game? What aspects should you take into account when making your own decision? GM Jan Markos gives you a series of rules of thumb in the fifth part of his series \"Practical Tips for the Tournament Player\" to help you go for the full point more often - or accept the offer if it is advisable. You can watch an excerpt from his video here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/draw",
+         "pubDate" : "Fri, 17 Mar 2023 16:00:00 +0100",
+         "title" : "\"Draw?\""
+      },
+      {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/XL56wfh--po\" width=\"320\" youtube-src-id=\"XL56wfh--po\"></iframe></div><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/just-people-singing.html",
+         "pubDate" : "Fri, 17 Mar 2023 12:32:00 +0000",
+         "title" : "Just people singing"
+      },
+      {
          "description" : "Former women's world champion Alexandra Kosteniuk, currently in the top ten of women's chess, is one of several top Russian players who have left the country or criticized the invasion of Ukraine. Kosteniuk will in future play under the Swiss flag.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -142,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/interview-kosteniuk-on-federation-change",
-         "pubDate" : "Thu, 16 Mar 2023 07:15:42 -0700",
+         "pubDate" : "Thu, 16 Mar 2023 07:15:00 -0700",
          "title" : "Interview: Kosteniuk On Federation Change, 'There Cannot Be Winners In Wars'"
       },
       {
@@ -1202,14 +1218,6 @@ news_feed (
          "title" : "Too old and too slow"
       },
       {
-         "description" : "Today: Matthias Wuellenweber goes into detail about the new evaluation function for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-visual-evaluation-function-of-chessbase-17",
-         "pubDate" : "Tue, 07 Mar 2023 13:23:42 +0100",
-         "title" : "Explained by the engineers! - The visual evaluation function of ChessBase 17!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1720,30 +1728,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html",
          "pubDate" : "Fri, 24 Feb 2023 16:03:00 +0000",
          "title" : "Chess.com's Game Review Tools PGN"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2251",
-         "pubDate" : "Fri, 24 Feb 2023 14:04:14 +0000",
-         "title" : "Wissmann wins in Finland, solvers move to Poland and Netherlands"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/#new_tab",
-         "pubDate" : "Fri, 24 Feb 2023 11:38:30 +0000",
-         "title" : "British Chess Championships 2023 - further details and entry form"
-      },
-      {
-         "description" : " Chess improvement is hard. Like anything worth achieving in life, it requires time and energy. However, our natural laziness often leads us to choose the easy way, which can hinder long-term growth. Naval once said &#8220;All self-help boils down to &#8216;choose long-term over short-term.'&#8221; Naval So, the main question is: how can you bring yourself [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/discipline/\">Building Discipline: 3 Key Ideas for Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/discipline/",
-         "pubDate" : "Fri, 24 Feb 2023 11:38:08 +0000",
-         "title" : "Building Discipline: 3 Key Ideas for Improving at Chess"
       }
    ]
 }
