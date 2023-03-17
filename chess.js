@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Fri, 17 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "Team MGD1 made it to the playoffs after eliminating the Garden State Passers in week five of the 2023 Pro Chess League. This was the last match of the regular season. Board three, GM Diptayan Ghosh, scored the most points with 3/4, but every mem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-week-5-mgd1",
+         "pubDate" : "Fri, 17 Mar 2023 11:06:00 -0700",
+         "title" : "Never In Doubt: Team MGD1 Dominates Passers, Advances To Playoffs"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical first round champion's bracket matches. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Sam Sevian<br /> Levon Aronian vs. Leinier Dominguez<br /> Wesley So vs. Sam Shankland<br /> Fabiano Caruana vs. Ray Robson </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1-lichessorg",
+         "pubDate" : "Fri, 17 Mar 2023 18:05:01 +0000",
+         "title" : "The American Cup 2023: Day 1 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-2-lichessorg",
+         "pubDate" : "Fri, 17 Mar 2023 18:05:01 +0000",
+         "title" : "The American Cup 2023: Day 2 | lichess.org"
+      },
+      {
+         "description" : "In his new Power Play Show, GM Daniel King shares more King's Indian brilliances with us. Vasyl Ivanchuk played the black side in the recent European Championship and his young opponent chose a line where White looks to take over the initiative on the kingside. This was a highly instructive game where one side's strategy triumphed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-indian-brilliance",
+         "pubDate" : "Fri, 17 Mar 2023 18:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: King's Indian brilliance"
+      },
+      {
          "description" : "What should you do if your opponent offers a draw at an early stage of the game? What aspects should you take into account when making your own decision? GM Jan Markos gives you a series of rules of thumb in the fifth part of his series \"Practical Tips for the Tournament Player\" to help you go for the full point more often - or accept the offer if it is advisable. You can watch an excerpt from his video here!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/just-people-singing.html",
          "pubDate" : "Fri, 17 Mar 2023 12:32:00 +0000",
          "title" : "Just people singing"
+      },
+      {
+         "description" : " The UK vs Ukraine Solidarity Match is an 8 game match in London between Michael Adams and Andrei Volokitin. Games 1-4 are to be held at the Ukrainian Embassy in Holland Park, and games 5- 8 being played from the offices of the European Bank for Reconstruction and Development in Canary Wharf. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/uk-vs-ukraine-solidarity-match-2023",
+         "pubDate" : "Fri, 17 Mar 2023 16:24:00 +0400",
+         "title" : "UK vs Ukraine Solidarity Match 2023 - Games and Results"
       },
       {
          "description" : "Former women's world champion Alexandra Kosteniuk, currently in the top ten of women's chess, is one of several top Russian players who have left the country or criticized the invasion of Ukraine. Kosteniuk will in future play under the Swiss flag.",
@@ -528,22 +576,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-2",
          "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-4",
-         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
-         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-5",
-         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
-         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 5"
       },
       {
          "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1170,14 +1202,6 @@ news_feed (
          "title" : "The Wall Street Journal: 8 Women Accuse Ramirez Of Wrongdoing"
       },
       {
-         "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his first seven finds! | Pictured: Marius Gramb | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-1",
-         "pubDate" : "Wed, 08 Mar 2023 01:10:00 +0100",
-         "title" : "Endgames from Vrnjacka Banja (1)"
-      },
-      {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1200,14 +1224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-carlsens-last-dance-chessable-masters",
          "pubDate" : "Tue, 07 Mar 2023 06:55:00 -0800",
          "title" : "Carlsen's Last Dance: Chessable Masters To Be Final Event As World Champion"
-      },
-      {
-         "description" : "After Sara Khadem, one of Iran's top women players, played without headscarf at the World Blitz and Rapid Chess Championships 2022, she left Iran with her family for fear of reprisals and now lives in Spain. The Spanish magazine Elle now published a portrait of Sara Khadem and made some chic fashion photos with her. | Photo: Elle",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sara-khadem-a-portrait-in-the-spanish-elle",
-         "pubDate" : "Tue, 07 Mar 2023 15:05:00 +0100",
-         "title" : "Sara Khadem - A portrait in the Spanish Elle"
       },
       {
          "description" : " Recently my blitz abilities have decreased somewhat dramatically. I really am getting too old and too slow. To fix this I am trying to practice against various crippled versions of Stockfish on Lichess, not to work on my moves, but mainly to work on my speed. Here is a recent effort <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"800\" data-original-width=\"686\" height=\"400\" src=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" width=\"343\" /></a></div>",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/",
          "pubDate" : "Sat, 04 Mar 2023 07:25:38 +0000",
          "title" : "European Individual Chess Championship 2023 commenced in Vrnjacka Banja, Serbia"
-      },
-      {
-         "description" : "On Friday, Team MGD1 gained their second victory in a row, defeating the California Unicorns in week three of the Pro Chess League. Although the match started out very close, GM Adhiban Baskaran&#39;s 4-0 performance combined with solid support from t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-3-mgd1-bishops",
-         "pubDate" : "Fri, 03 Mar 2023 22:50:00 -0800",
-         "title" : "Adhiban Gains Perfect Score For Team MGD1, Lee Wins Upset Of Season For Arch Bishops"
       },
       {
          "description" : "The annual Varsity chess match between the University teams of Oxford (Dark Blues) and Cambridge (Light Blues) takes place today at The Royal Automobile Club, in London's Pall Mall. The Varsity match has often been described as the Boat Race of the Brain. Two years ago, the Cambridge \"boat\" sank, with almost all hands. After 139 []",
@@ -1720,14 +1728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/wr-chess-masters-8-keymer-ends-so-s-hopes",
          "pubDate" : "Sat, 25 Feb 2023 10:36:14 +0000",
          "title" : "WR Chess Masters 8: Keymer ends So's hopes"
-      },
-      {
-         "description" : "<XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nb17.gif\" WIDTH=200 HEIGHT=240 ALIGN=LEFT VSPACE=5 HSPACE=5> Last week, in <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023), I developed the chart shown on the left (see that post for a larger version of the chart as well as the codes used to identify the different boxes). Because all names in computerdom eventually reduce to an acronym, let's use GRT to mean 'Game Review Tools'. <P>Since you're reading this post, you're probably interested in analyzing your games and you're undoubtedly aware that chess games are nearly always recorded in a format called 'Port",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html",
-         "pubDate" : "Fri, 24 Feb 2023 16:03:00 +0000",
-         "title" : "Chess.com's Game Review Tools PGN"
       }
    ]
 }
