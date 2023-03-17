@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-5",
+         "pubDate" : "Fri, 17 Mar 2023 00:03:59 +0000",
+         "title" : "2023 Saint Louis Super Swiss: Day 5"
+      },
+      {
          "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-tactical-idea/",
          "pubDate" : "Sun, 12 Mar 2023 19:41:03 +0000",
          "title" : "A Tactical Idea"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the first round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-1",
-         "pubDate" : "Sun, 12 Mar 2023 17:59:26 +0000",
-         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 1"
       },
       {
          "description" : "Tired of people talking about the success of Chess.com? I can't sympathize, because I don't think I'll ever get enough. A couple of months ago the featured video of the month was <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html\">The Rise of Chess.com</A>(January 2023). Consider this a follow-up post. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gWrRLtfARzA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>This Company RULES Over ENTIRE CHESS MARKET | Case Study</B> (11:49) &#149; '[Published on] Feb 24",
