@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Charlotte IM B 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In IM B section will participate GM Vladimir Georgiev, IM Tamas Petenyi, IM Olivier-Kenta Chiku-Ratte, FM Robby Adamson, FM Ryan Amburgy, FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-im-b-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 06:54:27 +0000",
+         "title" : "Charlotte IM B 2023 - LIVE"
+      },
+      {
+         "description" : "The Charlotte&#xA0;IM&#xA0;A 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In IM A section will participate GM Alonso Zapata, IM Liordis Quesada Vera, FM Terry Luo, FM Liam Putnam, FM Carlos Sandoval Mercado, FM []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-im-a-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 06:47:35 +0000",
+         "title" : "Charlotte IM A 2023 - LIVE"
+      },
+      {
+         "description" : "The Charlotte GM A 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In GM A section will participate GM Tanguy Ringoir, GM David Brodsky, GM Darcy Lima, IM Artiom Samsonkin, FM Brewington Hardaway, Harshid []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/charlotte-gm-a-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 06:42:31 +0000",
+         "title" : "Charlotte GM A 2023 - LIVE"
+      },
+      {
+         "description" : "The American Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-american-cup-2023-starts-today/",
+         "pubDate" : "Fri, 17 Mar 2023 06:29:52 +0000",
+         "title" : "The American Cup 2023 starts today"
+      },
+      {
+         "description" : "The American Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, if []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-cup-champions-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 06:12:01 +0000",
+         "title" : "American Cup Champions Round 2023 - LIVE"
+      },
+      {
+         "description" : "The American Women's Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/american-womens-cup-champions-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 06:03:28 +0000",
+         "title" : "American Women's Cup Champions Round 2023 - LIVE"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,7 +90,7 @@ news_feed (
          "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
       },
       {
-         "description" : "GM Alexandra Kosteniuk has transferred federations to Switzerland and will no longer represent Russia.&#38;nbsp;You can read more about the federation transfer in this news article. The interview below focuses on the personal consequences of the feder...",
+         "description" : "GM Alexandra Kosteniuk has transferred federations to Switzerland and will no longer represent Russia. You can read more about the federation transfer in this news article. The interview below focuses on the personal consequences of the federation...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/interview-kosteniuk-on-federation-change",
@@ -202,14 +250,6 @@ news_feed (
          "title" : "Ramat Gan Masters A Winter 2023 - LIVE"
       },
       {
-         "description" : "The Ramat Gan Masters A Winter 2023 is taking place in Ramt Gan, Israel. The time control is 90 minutes and 30 seconds per move, starting from move one.&#xA0; It is 7-round Swiss system tournament. You can see the full ist of players : No. Name FED Rtg 1 IM Karp, Ilya ISR 2395 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ramat-gan-masters-a-winter-2023/",
-         "pubDate" : "Wed, 15 Mar 2023 07:05:57 +0000",
-         "title" : "Ramat Gan Masters A Winter 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -362,14 +402,6 @@ news_feed (
          "title" : "Le, Aronian, Fedoseev, Artemiev Join Carlsen's Last Tango"
       },
       {
-         "description" : "GM Alexey Sarana is the new European Individual Chess Champion 2023! The thrilling last round of the championship determined the medalists. GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) met each other in the direct last-round encounter for the first place. The game finished in a draw after one hour of play, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/alexey-sarana-is-european-individual-chess-champion-2023/",
-         "pubDate" : "Tue, 14 Mar 2023 01:53:56 +0000",
-         "title" : "Alexey Sarana is European Individual Chess Champion 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -394,30 +426,6 @@ news_feed (
          "title" : "2023 Saint Louis Super Swiss: Day 2"
       },
       {
-         "description" : "The 49&#xBA; Torneo Internacional de Ajedrez de La Roda 2023 will take place from 5-9 April 2023 in La Roda (Albacete), Spain. The time control is 90 minutes and 30 seconds per move, starting from move one.&#160;The prize fund is 15 000 EUR with 3500 EUR guaranted for the winner.&#160; The top five seeds are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/49o-torneo-internacional-de-ajedrez-de-la-roda-2023/",
-         "pubDate" : "Mon, 13 Mar 2023 22:08:41 +0000",
-         "title" : "49 º Torneo Internacional de Ajedrez de La Roda 2023"
-      },
-      {
-         "description" : "The 2023 Excelsior March GM Norm will take place from 13-17 March 2023 in Toronto, Canada. The time control is 90 minutes and 30 seconds per move, starting from move one. It is 9-round Robin tournament with participation of Victor Mikhalevski, Gabor Nagy, Nikolay Noritsyn, Luis Fernando Ibarra Chami, Joshua Posthuma, Bator Sambuev, Mark Plotkin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-excelsior-march-gm-norm-2/",
-         "pubDate" : "Mon, 13 Mar 2023 21:45:37 +0000",
-         "title" : "2023 Excelsior March GM Norm"
-      },
-      {
-         "description" : "The 2023 Excelsior March GM Norm will take place from 13-17 March 2023 in Toronto, Canada. The time control is 90 minutes and 30 seconds per move, starting from move one. It is 9-round Robin tournament with participation of Victor Mikhalevski, Gabor Nagy, Nikolay Noritsyn, Luis Fernando Ibarra Chami, Joshua Posthuma, Bator Sambuev, Mark Plotkin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-excelsior-march-gm-norm/",
-         "pubDate" : "Mon, 13 Mar 2023 21:40:10 +0000",
-         "title" : "2023 Excelsior March GM Norm"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jamaican-government-invests-heavily-into-chess-to-find-next-grandmaster",
          "pubDate" : "Mon, 13 Mar 2023 13:21:43 -0700",
          "title" : "Jamaica Invests Heavily Into Finding The Next GM Maurice Ashley"
-      },
-      {
-         "description" : "The Sasomi Open 2023 will take place from 15 19 March 2023 in Baile Felix, Romania. This tournament will be profiled for players with rating under 2200. The prize fund is 10 000 EUR with 2000 EUR guaranted for the winner. The time control is 60 minutes and 30 seconds per move, starting from []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/sasomi-open-2023/",
-         "pubDate" : "Mon, 13 Mar 2023 19:26:11 +0000",
-         "title" : "Sasomi Open 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
@@ -1744,14 +1744,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2250",
          "pubDate" : "Fri, 24 Feb 2023 07:39:32 +0000",
          "title" : "WR Chess Masters Round 7: Gukesh catches up with Aronian"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2249",
-         "pubDate" : "Fri, 24 Feb 2023 07:08:11 +0000",
-         "title" : "UPDATE: Fair Play Commission on the Carlsen/Niemann Report"
       }
    ]
 }
