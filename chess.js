@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess.com is excited to announce the launch of new features in Game Review, our post-game learning tool. Game Review now packs in even more features that will help you understand your games, learn from them, and enjoy your best moments! Below yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-launches-game-review-v2",
+         "pubDate" : "Fri, 17 Mar 2023 15:12:37 -0700",
+         "title" : "Announcing New Game Review Features: Visual Explanations, New Move Classifications, And More!"
+      },
+      {
+         "description" : "The 23rd&#160;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 22:01:08 +0000",
+         "title" : "European Women's Chess Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Riyadh Calendar Chess Championship 2023 is taking place from 17&#x2013;18 March 2023 in Riyadh, Saudi Arabia. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. It is a 9-round Swiss tournament with participation of GM Ahmed Adly, GM A.R. Saleh Salem, GM Bassem Amin, GM Hicham Hamdouchi, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/riyadh-calendar-chess-championship-2023-live/",
+         "pubDate" : "Fri, 17 Mar 2023 21:52:23 +0000",
+         "title" : "Riyadh Calendar Chess Championship 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The commentators revisit the scenes from the Player Meeting at the World Chess Hall of Fame, the night before the start of The American Cup. The players asked questions, socialized, and received their event letterman jackets. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-player-meeting\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-player-meeting",
+         "pubDate" : "Fri, 17 Mar 2023 21:04:52 +0000",
+         "title" : "The American Cup 2023: Player Meeting"
+      },
+      {
+         "description" : "Svitlana shows us the basics of the open and closed Catalan. This opening is often played by some world class players, like Magnus Carlsen, or Vladimir Kramnik. It can either get sharp, or super positional. The model game was played by Alekhine, and the most powerful weapon of the Catalan, the bishop on g2, is exchanged rather quickly. But there are more threats, than only the bishop!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-catalan",
+         "pubDate" : "Fri, 17 Mar 2023 20:40:13 +0100",
+         "title" : "Svitlana's Smart Moves - The Catalan"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-indian-brilliance",
          "pubDate" : "Fri, 17 Mar 2023 18:00:00 +0100",
          "title" : "Daniel King's Power Play Show: King's Indian brilliance"
+      },
+      {
+         "description" : " The American Cup takes place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2023",
+         "pubDate" : "Fri, 17 Mar 2023 20:22:00 +0400",
+         "title" : "American Cup 2023 - Games and Results"
       },
       {
          "description" : "What should you do if your opponent offers a draw at an early stage of the game? What aspects should you take into account when making your own decision? GM Jan Markos gives you a series of rules of thumb in the fifth part of his series \"Practical Tips for the Tournament Player\" to help you go for the full point more often - or accept the offer if it is advisable. You can watch an excerpt from his video here!",
@@ -106,7 +154,7 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Attacking with the King's Indian"
       },
       {
-         "description" : " The world No 1 faces encounters with Caruana, So, Nakamura and Aronian in the online Champions Tour starting 3 April, then over-the-board at Stavanger in late May Magnus Carlsen's reign as an abdicated world champion will formally end late next month when a winner is declared in the €2m, 14-game match for the newly vacant title between the world No 2, Ian Nepomniachtchi, playing under a neutral Fide flag, and the world No 3, Ding Liren. The venue is Astana, Kazakhstan, which borders both Russia and China. Some chess fans may not recognise the Astana winner as a genuine world champion, and for them there is now the prospect of two major events, one online and the other over-the-board. Carl",
+         "description" : " The world No 1 faces encounters with Caruana, So, Nakamura and Aronian in the online Champions Tour starting 3 April, then over-the-board at Stavanger in late May Magnus Carlsen's reign as an abdicated world champion will formally start late next month when a winner is declared in the €2m, 14-game match for the newly vacant title between the world No 2, Ian Nepomniachtchi, playing under a neutral Fide flag, and the world No 3, Ding Liren. The venue is Astana, Kazakhstan, which borders both Russia and China. Some chess fans may not recognise the Astana winner as a genuine world champion, and for them there is now the prospect of two major events, one online and the other over-the-board. Ca",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/mar/17/chess-carlsen-set-for-challenge-from-us-quartet-online-and-over-the-board",
@@ -298,14 +346,6 @@ news_feed (
          "title" : "Look within yourself"
       },
       {
-         "description" : "The 23rd&#xA0;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/",
-         "pubDate" : "Wed, 15 Mar 2023 15:09:42 +0000",
-         "title" : "European Women's Chess Championship 2023 starts in Petrovac, Montenegro"
-      },
-      {
          "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -352,14 +392,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
          "pubDate" : "Wed, 15 Mar 2023 10:08:25 +0100",
          "title" : "Fixing Tactics Training"
-      },
-      {
-         "description" : "The Ramat Gan Masters A Winter 2023 is taking place in Ramt Gan, Israel. The time control is 90 minutes and 30 seconds per move, starting from move one.&#xA0; It is 7-round Swiss system tournament with participation of Ilya Karp, Pavel Chernomordik, Reem Sherman, Eyal Noy, David Gershkowich, Yonathan Uritsky, Guy Rozen, Ronit Levitan, Or []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ramat-gan-masters-a-winter-2023-live/",
-         "pubDate" : "Wed, 15 Mar 2023 07:11:29 +0000",
-         "title" : "Ramat Gan Masters A Winter 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
@@ -568,14 +600,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-3",
          "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
          "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-2",
-         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
-         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 2"
       },
       {
          "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1186,14 +1210,6 @@ news_feed (
          "title" : "National Team Open & Women 2023 Certificates"
       },
       {
-         "description" : "Anton Korobov won the all-Ukrainian matchup against Ruslan Ponomariov to take the lead at the European Championship in Serbia. Korobov is the only player to have won his five first games at the extremely competitive event. Four players, including two underdogs, stand a half point behind. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r5",
-         "pubDate" : "Wed, 08 Mar 2023 05:05:00 +0100",
-         "title" : "European Championship: Korobov grabs the lead"
-      },
-      {
          "description" : "Eight women have accused GM Alejandro Ramirez of wrongdoing in an article published by The Wall Street Journal on Tuesday. In the newspaper, the women claim that Ramirez used his status in chess to put himself in positions of influence and make re...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2268",
          "pubDate" : "Mon, 06 Mar 2023 16:55:33 +0000",
          "title" : "Romanian Chess Federation launches Education through Chess national project"
-      },
-      {
-         "description" : "On Friday, top GMs Fabiano Caruana and Hikaru Nakamura as well as WGM Jennifer Shahade took part in a panel discussion at the MIT Sloan School of Management&#39;s annual Sports Analytics Conference in Boston. The three talked about the further growth ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-mit-sloan-sports-analytics-conference-chess",
-         "pubDate" : "Mon, 06 Mar 2023 07:57:00 -0800",
-         "title" : "'The Game Should Be Willing To Adjust': Caruana, Nakamura, Shahade Talk At MIT"
       },
       {
          "description" : "",
