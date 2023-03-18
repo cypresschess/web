@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Opening ceremony of the event was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary Vice President and the Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic, the Minister of Youth and Sports of Montenegro Mr. Vasilije Lalosevic, who addressed the players and distinguished guests. The 23rd&#xA0;edition of the European Women&#x2019;s []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-individual-chess-championship-2023-opened-yesterday-in-petrovac-montenegro/",
+         "pubDate" : "Sat, 18 Mar 2023 19:06:14 +0000",
+         "title" : "European Women's Individual Chess Championship 2023 opened yesterday in Petrovac, Montenegro!"
+      },
+      {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Sat, 18 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical semifinal champion&#039;s bracket matches, plus playoffs if necessary.. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/america",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-4-lichessorg",
+         "pubDate" : "Sat, 18 Mar 2023 18:05:36 +0000",
+         "title" : "The American Cup 2023: Day 4 | lichess.org"
+      },
+      {
+         "description" : "Chess will make its first appearance in the European Games as an accompanying event at the Krak&oacute;w-Maloposka Games 2023. The European Chess Union regulated a new special competition, the European Pair Blitz Chess Championship 2023, which will take place on 19th of June 2023 in Krak&oacute;w, Poland. Eight teams (ECU members) are invited according the best combined Pair FIDE Classical rating according to the March 2023 list: Ukraine, Azerbaijan, France, Poland, Romania, Germany, Armenia and the Netherlands.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-first-appearance-european-games",
+         "pubDate" : "Sat, 18 Mar 2023 18:25:00 +0100",
+         "title" : "Chess to make first appearance at European Games"
+      },
+      {
+         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years. The Sergey Karjakin (2016) and Fabiano Caruana (2018) matches were tied The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
+         "pubDate" : "Sat, 18 Mar 2023 16:52:39 +0000",
+         "title" : "Chess Championship weeks away in Kazakhstan"
+      },
+      {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-week-5-mgd1",
          "pubDate" : "Fri, 17 Mar 2023 11:06:00 -0700",
          "title" : "Never In Doubt: Team MGD1 Dominates Passers, Advances To Playoffs"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical first round champion's bracket matches. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.17<br /> USChessChamps.com ROUND 1 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Sam Sevian<br /> Levon Aronian vs. Leinier Dominguez<br /> Wesley So vs. Sam Shankland<br /> Fabiano Caruana vs. Ray Robson </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1-lichessorg",
-         "pubDate" : "Fri, 17 Mar 2023 18:05:01 +0000",
-         "title" : "The American Cup 2023: Day 1 | lichess.org"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King shares more King's Indian brilliances with us. Vasyl Ivanchuk played the black side in the recent European Championship and his young opponent chose a line where White looks to take over the initiative on the kingside. This was a highly instructive game where one side's strategy triumphed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -384,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-559-a-sarana-a-korobov",
          "pubDate" : "Thu, 16 Mar 2023 10:44:27 +0100",
          "title" : "Game of the Week #559: A. Sarana - A. Korobov"
-      },
-      {
-         "description" : "The 30th Charlotte GM/IM Norm Invitational will be March 15-19, 2023. There will be 1&#xA0;GM group&#xA0;and 2 IM groups.The time control is 90 minutes and 30 seconds per move, starting from move one. List of players : GM A section : itle Name FIDE USCF Fed Norm GM Tanguy Ringoir 2490 2576 BEL GM David []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-invitational/",
-         "pubDate" : "Thu, 16 Mar 2023 08:37:00 +0000",
-         "title" : "Charlotte Invitational"
       },
       {
          "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1106,14 +1130,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: 4.h4 h5 in the Caro-Kann"
       },
       {
-         "description" : "Chess and football might have more in common than first meets the eye, but in fact, there are parallel ideas of visual spatial intelligence in both chess and football. Which is one reason why Jason Kouchak, composer, pianist and avid chess fan supports \"The Rooks\", a women's football team in Lewes, Sussex, England. | Photo: Magnus Carlsen shows his football skills. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/seeing-it-chess-and-football",
-         "pubDate" : "Thu, 09 Mar 2023 17:25:50 +0100",
-         "title" : "Seeing it: Chess and Football"
-      },
-      {
          "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://aicf.in/final-participation-list-for-senior-national-arbiter-seminar-examination-at-indore-from-18-19-march-2023/",
          "pubDate" : "Thu, 09 Mar 2023 10:26:59 +0000",
          "title" : "Final Participation list for Senior National Arbiter Seminar & Examination at Indore from 18-19 March 2023"
-      },
-      {
-         "description" : "Stamatis Kourkoulos-Arditis, the 101st seed at the European Championship, is sharing the lead with Anton Korobov after beating Eltaj Safarli with the black pieces. The 25-year-old IM from Greece will again get the black pieces in his seventh-round encounter against Korobov. Eight players, all on 5/6 points, make up the chasing pack. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r6",
-         "pubDate" : "Thu, 09 Mar 2023 10:45:00 +0100",
-         "title" : "European Championship: Kourkoulos-Arditis stuns Safarli, shares the lead"
       },
       {
          "description" : "",
@@ -1712,22 +1720,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/",
          "pubDate" : "Sun, 26 Feb 2023 00:10:55 +0000",
          "title" : "Opening Repertoire: Queen's Gambit Declined: Tarrasch"
-      },
-      {
-         "description" : "For the third year in a row, the Grand Chess Tour will be without the two arguably biggest stars of the chess world, Magnus Carlsen and Hikaru Nakamura. The lack of variety in the field draws criticism among chess fans.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gct-field-2023-announced-with-firouzja",
-         "pubDate" : "Sat, 25 Feb 2023 19:15:31 +0000",
-         "title" : "Firouzja returns as 2023 Grand Chess Tour field announced"
-      },
-      {
-         "description" : " From the Batsford web site: &#8220;Following on from the enduring success of one of the most important chess books ever written, Bobby Fischer: My 60 Memorable Games, and the recently <a href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Fabiano Caruana: 60 Memorable Games</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/\">Fabiano Caruana: 60 Memorable Games</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/",
-         "pubDate" : "Sat, 25 Feb 2023 17:00:26 +0000",
-         "title" : "Fabiano Caruana: 60 Memorable Games"
       }
    ]
 }
