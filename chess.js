@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "13th World Chess Champion Garry Kasparov was asked about the upcoming Ian Nepomniachtchi vs. Ding Liren World Championship match when he made an appearance during the broadcast on the first day of the American Cup. He called the 14-game match in Kazakhstan \"kind of an amputated event\", explaining the difference to the situation in 1975 with, \"Fischer stopped playing chess, Magnus has not!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/kasparov-i-can-hardly-call-it-a-world-championship-match",
+         "pubDate" : "Sat, 18 Mar 2023 11:25:40 +0000",
+         "title" : "Kasparov: \"I can hardly call it a World Championship match\""
+      },
+      {
+         "description" : "In the diagram position Black threatens both ...Qxa1 and ...dxc2, but his king ...Can you find White's elegant winning way?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishops-vs-0-0-0",
+         "pubDate" : "Sat, 18 Mar 2023 09:00:00 +0100",
+         "title" : "Bishops vs. 0-0-0"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champion&#039;s bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1154,14 +1170,6 @@ news_feed (
          "title" : "Tigers Sweep Bulldogs 4-0, Advance To Playoffs; Blitz Wins Battle On Board 4"
       },
       {
-         "description" : "In his \"Game of the Week\" show #558, Merijn van Delft analyses Anton Korobov's victory over Ruslan Ponomariov in round 5 of the European Championship. In the game, Korobov came up with a truly remarkable concept! | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-558-korobov-ponomariov",
-         "pubDate" : "Wed, 08 Mar 2023 18:00:00 +0100",
-         "title" : "Game of the Week #558: A. Korobov - R. Ponomariov"
-      },
-      {
          "description" : "The March 7, 2023, editions of Titled Tuesday were won by GM Vladimir Fedoseev early and GM Alireza Firouzja late, both scoring 9.5 points. Falling just shy were GMs Nihal Sarin and Dmitry Andreikin, who also scored 9.5 points but lost due to tieb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1720,22 +1728,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-2023",
          "pubDate" : "Sat, 25 Feb 2023 16:28:00 +0400",
          "title" : "WR Chess Masters 2023 - Games and Results"
-      },
-      {
-         "description" : "The game of Go is one of the most ancient and most popular games in the world. As a result of its elegant and simple rules, the game has long been an inspiration for mathematical research. For example, in a remarkably advanced calculation, Shen Kuo, an 11th century Chinese scholar, estimated in his Dream Pool []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/can-this-be-true-ai-go-and-chess/",
-         "pubDate" : "Sat, 25 Feb 2023 11:04:48 +0000",
-         "title" : "Can this be true? AI, Go and chess"
-      },
-      {
-         "description" : "Vincent Keymer got revenge for his loss to Wesley So in the Tata Steel Masters by beating the 3-time US Champion with the black pieces in Round 8 of the WR Chess Masters in Dusseldorf. The other games were drawn, as Levon Aronian survived an opening disaster to remain co-leader with Gukesh before they clash in the final round. If that game is drawn, Ian Nepomniachtchi can also reach a playoff with a win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/wr-chess-masters-8-keymer-ends-so-s-hopes",
-         "pubDate" : "Sat, 25 Feb 2023 10:36:14 +0000",
-         "title" : "WR Chess Masters 8: Keymer ends So's hopes"
       }
    ]
 }
