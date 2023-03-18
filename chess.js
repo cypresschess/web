@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Irina Bulmaga is the 30th highest-rated woman player in the world. Last month, she bravely decided to play in the open section of the Romanian Championship, when only a final-round loss prevented her from reaching the podium. Here she tells us the story of her time in Sebes, focusing on her inner thoughts, presented as a candid dialogue with her own brain. She concludes: \"Brain and I are thankful. GM or not, we have a purpose. Our life is about chess and making girls and women believe\". | Photo: Romanian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-brain-pickles-irina-bulmaga",
+         "pubDate" : "Sat, 18 Mar 2023 23:40:00 +0100",
+         "title" : "Chess, my brain and I (and pickles)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after his Game 2 draw with Fabiano Caruana. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson-i-have-chances-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GcjNeYpfN5E.jpg?itok=as24HZfg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ray-robson-i-have-chances-playoff-games-day-2",
+         "pubDate" : "Sat, 18 Mar 2023 21:05:45 +0000",
+         "title" : "Ray Robson: I Have Chances in the Playoff Games! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his Game 2 draw with Ray Robson. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-bring-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aXeshVbFsIo.jpg?itok=6IPhc-aO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-bring-playoff-games-day-2",
+         "pubDate" : "Sat, 18 Mar 2023 21:05:45 +0000",
+         "title" : "Fabiano Caruana: Bring On The Playoff Games! | Day 2"
+      },
+      {
          "description" : "The Opening ceremony of the event was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary Vice President and the Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic, the Minister of Youth and Sports of Montenegro Mr. Vasilije Lalosevic, who addressed the players and distinguished guests. The 23rd&#xA0;edition of the European Women&#x2019;s []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,22 +66,6 @@ news_feed (
          "title" : "Chess Championship weeks away in Kazakhstan"
       },
       {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Sat, 18 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
-      },
-      {
-         "description" : "The 2023 American Cup kicked off with several decisive games on the first day of action, with Nakamura, Krush, Lee, & Tokhirjonova all taking a one-point lead in their initial matches. Their opponents (Sevian, Abrahamyan, Pourkashiyan, and Nemcova) will now have to win tomorrow's game in order to force their match into a playoff. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d1",
-         "pubDate" : "Sat, 18 Mar 2023 14:15:00 +0100",
-         "title" : "American Cup: Nakamura beats Sevian"
-      },
-      {
          "description" : "The 141st Varsity chess match between the teams of Oxford and Cambridge Universities, held at London's Royal Automobile Club on March 04 , ended, after multifarious vicissitudes, in an honourable 4-4 draw. Cambridge thus stemmed Oxford's recent advances to retain their overall lead, by 60 wins to 58, with 23 drawn. The most brilliant game []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -88,6 +96,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bishops-vs-0-0-0",
          "pubDate" : "Sat, 18 Mar 2023 09:00:00 +0100",
          "title" : "Bishops vs. 0-0-0"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Sat, 18 Mar 2023 08:59:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "The 2023 American Cup kicked off with several decisive games on the first day of action, with Nakamura, Krush, Lee, & Tokhirjonova all taking a one-point lead in their initial matches. Their opponents (Sevian, Abrahamyan, Pourkashiyan, and Nemcova) will now have to win tomorrow's game in order to force their match into a playoff. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d1",
+         "pubDate" : "Sat, 18 Mar 2023 08:55:00 +0100",
+         "title" : "American Cup: Nakamura beats Sevian"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champion&#039;s bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
@@ -154,14 +178,6 @@ news_feed (
          "title" : "Begim: Katerina is a 'Comfortable' Opponent | Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her Game 1 win in the first round against Atousa Pourkashiyan. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-i-have-chances-against-anybody-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6R5iSOZhpnc.jpg?itok=8nlT0g1i\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-i-have-chances-against-anybody-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Alice Lee: I Have Chances Against Anybody | Day 1"
-      },
-      {
          "description" : "The 23rd edition of the European Women's Individual Chess Championship will take place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The tournament grants 9 spots for the next Women's World Cup. The top five seeds are Bella Khotenashvili (Georgia), Valentina Gunina (FIDE), Gunay Mammadzada (Azerbaijan), Marsel Efroimski (Israel) and Yuliia Osmak (Ukraine). | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.chessdom.com/riyadh-calendar-chess-championship-2023-live/",
          "pubDate" : "Fri, 17 Mar 2023 21:52:23 +0000",
          "title" : "Riyadh Calendar Chess Championship 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The commentators revisit the scenes from the Player Meeting at the World Chess Hall of Fame, the night before the start of The American Cup. The players asked questions, socialized, and received their event letterman jackets. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-player-meeting\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-player-meeting",
-         "pubDate" : "Fri, 17 Mar 2023 21:04:52 +0000",
-         "title" : "The American Cup 2023: Player Meeting"
       },
       {
          "description" : "Svitlana shows us the basics of the open and closed Catalan. This opening is often played by some world class players, like Magnus Carlsen, or Vladimir Kramnik. It can either get sharp, or super positional. The model game was played by Alekhine, and the most powerful weapon of the Catalan, the bishop on g2, is exchanged rather quickly. But there are more threats, than only the bishop!",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/celebrating-bobby-fischer-80-anniversary",
          "pubDate" : "Thu, 09 Mar 2023 20:00:00 +0100",
          "title" : "Celebrating Bobby Fischer: A quiet win by a troubled genius"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris looks at the topical line with 4.h4 h5 in the Advance Variation of the Caro-Kann. The famed trainer analyses a game in which Black tried to cover the g5-square with f7-f6, in vain... | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-h4-h5-caro-kann",
-         "pubDate" : "Thu, 09 Mar 2023 19:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: 4.h4 h5 in the Caro-Kann"
       },
       {
          "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
