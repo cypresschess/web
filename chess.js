@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Sat, 18 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "The 2023 American Cup kicked off with several decisive games on the first day of action, with Nakamura, Krush, Lee, & Tokhirjonova all taking a one-point lead in their initial matches. Their opponents (Sevian, Abrahamyan, Pourkashiyan, and Nemcova) will now have to win tomorrow's game in order to force their match into a playoff. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d1",
+         "pubDate" : "Sat, 18 Mar 2023 14:15:00 +0100",
+         "title" : "American Cup: Nakamura beats Sevian"
+      },
+      {
+         "description" : "The 141st Varsity chess match between the teams of Oxford and Cambridge Universities, held at London's Royal Automobile Club on March 04 , ended, after multifarious vicissitudes, in an honourable 4-4 draw. Cambridge thus stemmed Oxford's recent advances to retain their overall lead, by 60 wins to 58, with 23 drawn. The most brilliant game []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/blues-in-balance-and-a-heroine-of-chess/",
+         "pubDate" : "Sat, 18 Mar 2023 12:03:27 +0000",
+         "title" : "Blues in balance - and a heroine of chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2288",
+         "pubDate" : "Sat, 18 Mar 2023 11:39:15 +0000",
+         "title" : "European Women's Championship 2023 starts in Petrovac, Montenegro"
+      },
+      {
          "description" : "13th World Chess Champion Garry Kasparov was asked about the upcoming Ian Nepomniachtchi vs. Ding Liren World Championship match when he made an appearance during the broadcast on the first day of the American Cup. He called the 14-game match in Kazakhstan \"kind of an amputated event\", explaining the difference to the situation in 1975 with, \"Fischer stopped playing chess, Magnus has not!\"",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "The American Cup 2023: Day 3 | lichess.org"
       },
       {
-         "description" : "GM Hikaru Nakamura was the sole winner on the first day of The 2023 American Cup, defeating GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique in St. Louis. Hard-fought draws materialized on the other th...",
+         "description" : "GM Hikaru Nakamura was the sole winner in the open section on the first day of The 2023 American Cup in St. Louis. He defeated GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique. Hard-fought draws materi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-1",
-         "pubDate" : "Fri, 17 Mar 2023 19:51:28 -0700",
-         "title" : "Nakamura Opens The American Cup With Tripled Pawns Punishment"
+         "pubDate" : "Fri, 17 Mar 2023 19:51:00 -0700",
+         "title" : "Nakamura Opens The American Cup With Triple-Pawn Punishment"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after his Game 1 draw in the first round against Wesley So. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-wesley-hardest-beat-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wg2aFUARSAs.jpg?itok=Cdak_VqM\" alt=\"\" /></a></div>",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-catalan",
          "pubDate" : "Fri, 17 Mar 2023 20:40:13 +0100",
          "title" : "Svitlana's Smart Moves - The Catalan"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Fri, 17 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "Team MGD1 made it to the playoffs after eliminating the Garden State Passers in week five of the 2023 Pro Chess League. This was the last match of the regular season. Board three, GM Diptayan Ghosh, scored the most points with 3/4, but every mem...",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
       },
       {
-         "description" : "Chess was among the topics discussed at the 17th edition of the MIT Sloan Sports Analytics Conference, which took place on March 3-4 at the Hynes Convention Centre in Boston. The panel brought together some of the biggest names in the game, including Danny Rensch, Jennifer Shahade, Fabiano Caruana, Hikaru Nakamura, and Daryl Morey.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mit-sports-analytics-conference",
-         "pubDate" : "Thu, 09 Mar 2023 00:10:00 +0100",
-         "title" : "Caruana, Nakamura and Shahade among speakers at MIT Sports Conference"
-      },
-      {
          "description" : "The fourth week of the 2023 Pro Chess League started with victories by the Shanghai Tigers and Blitz over the Croatia Bulldogs and Brazil Capybaras, respectively. After losing badly in round one (0.5-3.5), the Tigers bared their fangs and dominate...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1712,22 +1728,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/02/25/fabiano-caruana-60-memorable-games/",
          "pubDate" : "Sat, 25 Feb 2023 17:00:26 +0000",
          "title" : "Fabiano Caruana: 60 Memorable Games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2252",
-         "pubDate" : "Sat, 25 Feb 2023 13:46:33 +0000",
-         "title" : "WR Chess Masters: Three candidates for tournament victory"
-      },
-      {
-         "description" : " The WR Masters took place in Dusseldorf Wed 15th to Sun 26th Feb 2023. This was a new elite event and the field has many players in common with the recent Tata Steel tournament in Wijk aan Zee. Players: Ian Nepomniachtchi, Anish Giri, Wesley So, Levon Aronian, Nodirbek Abdusattorov, Jan-Krzysztof Duda, Gukesh Dommaraju, Vincent Keymer, Praggnanandhaa Rameshbabu and Andrey Esipenko. Levon Aronian won all three games in a tie-break against Nepomniachtchi and Gukesh, the final two rounds weren't needed as he couldn't be caught.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/wr-chess-masters-2023",
-         "pubDate" : "Sat, 25 Feb 2023 16:28:00 +0400",
-         "title" : "WR Chess Masters 2023 - Games and Results"
       }
    ]
 }
