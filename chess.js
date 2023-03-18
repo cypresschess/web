@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champion&#039;s bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-3-lichessorg",
+         "pubDate" : "Sat, 18 Mar 2023 03:05:22 +0000",
+         "title" : "The American Cup 2023: Day 3 | lichess.org"
+      },
+      {
          "description" : "GM Hikaru Nakamura was the sole winner on the first day of The 2023 American Cup, defeating GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique in St. Louis. Hard-fought draws materialized on the other th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Kasparov: Nepo vs. Ding is Great, but No World Championship | Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> PAUSE TO BE FIXED SHORTLY Hikaru Nakamura talks to Cristian Chirila after his Game 1 win in the first round against Sam Sevian. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-just-want-keep-my-classical-rating-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xv_o5LRW0AE.jpg?itok=VrliuipG\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his Game 1 win in the first round against Sam Sevian. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-just-want-keep-my-classical-rating-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xv_o5LRW0AE.jpg?itok=VrliuipG\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/nakamura-i-just-want-keep-my-classical-rating-day-1",
@@ -78,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-launches-game-review-v2",
-         "pubDate" : "Fri, 17 Mar 2023 15:12:37 -0700",
+         "pubDate" : "Fri, 17 Mar 2023 15:12:00 -0700",
          "title" : "Announcing New Game Review Features: Visual Explanations, New Move Classifications, And More!"
       },
       {
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-1-lichessorg",
          "pubDate" : "Fri, 17 Mar 2023 18:05:01 +0000",
          "title" : "The American Cup 2023: Day 1 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-2-lichessorg",
-         "pubDate" : "Fri, 17 Mar 2023 18:05:01 +0000",
-         "title" : "The American Cup 2023: Day 2 | lichess.org"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King shares more King's Indian brilliances with us. Vasyl Ivanchuk played the black side in the recent European Championship and his young opponent chose a line where White looks to take over the initiative on the kingside. This was a highly instructive game where one side's strategy triumphed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
