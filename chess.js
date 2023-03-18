@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura was the sole winner on the first day of The 2023 American Cup, defeating GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique in St. Louis. Hard-fought draws materialized on the other th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-1",
+         "pubDate" : "Fri, 17 Mar 2023 19:51:28 -0700",
+         "title" : "Nakamura Opens The American Cup With Tripled Pawns Punishment"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after his Game 1 draw in the first round against Wesley So. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-wesley-hardest-beat-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wg2aFUARSAs.jpg?itok=Cdak_VqM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-wesley-hardest-beat-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Shankland: Wesley is Hardest to Beat | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his Game 1 draw in the first round against Sam Shankland. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-can%E2%80%99t-make-many-mistakes-2-game-match-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mb3RO1j_tm4.jpg?itok=7J8it4_S\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-can%E2%80%99t-make-many-mistakes-2-game-match-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "So: Can't Make Many Mistakes in a 2-Game Match | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after her Game 1 win in the first round against Tatev Abrahamyan. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-trying-not-need-second-chances-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n5T4oyxTaVc.jpg?itok=4qTfHGeR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-trying-not-need-second-chances-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Krush: Trying Not to Need Second Chances | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov joins the show during Day 1 to discuss The American Cup, the upcoming world championship match, and more. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-nepo-vs-ding-great-no-world-championship-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qjhLc7c-LxI.jpg?itok=Bb3I62cA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-nepo-vs-ding-great-no-world-championship-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Kasparov: Nepo vs. Ding is Great, but No World Championship | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> PAUSE TO BE FIXED SHORTLY Hikaru Nakamura talks to Cristian Chirila after his Game 1 win in the first round against Sam Sevian. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-just-want-keep-my-classical-rating-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xv_o5LRW0AE.jpg?itok=VrliuipG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-i-just-want-keep-my-classical-rating-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Nakamura: I Just Want to Keep My Classical Rating | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after her Game 1 win in the first round against Katerina Nemcova. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-katerina-comfortable-opponent-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VFmKU5zJx-M.jpg?itok=1qNbibBS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-katerina-comfortable-opponent-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Begim: Katerina is a 'Comfortable' Opponent | Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her Game 1 win in the first round against Atousa Pourkashiyan. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-i-have-chances-against-anybody-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6R5iSOZhpnc.jpg?itok=8nlT0g1i\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-i-have-chances-against-anybody-day-1",
+         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
+         "title" : "Alice Lee: I Have Chances Against Anybody | Day 1"
+      },
+      {
+         "description" : "The 23rd edition of the European Women's Individual Chess Championship will take place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The tournament grants 9 spots for the next Women's World Cup. The top five seeds are Bella Khotenashvili (Georgia), Valentina Gunina (FIDE), Gunay Mammadzada (Azerbaijan), Marsel Efroimski (Israel) and Yuliia Osmak (Ukraine). | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-preview",
+         "pubDate" : "Sat, 18 Mar 2023 00:30:00 +0100",
+         "title" : "European Women's Championship to kick off in Montenegro"
+      },
+      {
          "description" : "Chess.com is excited to announce the launch of new features in Game Review, our post-game learning tool. Game Review now packs in even more features that will help you understand your games, learn from them, and enjoy your best moments! Below yo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -210,14 +282,6 @@ news_feed (
          "title" : "American Women's Cup Champions Round 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the ninth and final round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.16<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-li",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-5",
-         "pubDate" : "Fri, 17 Mar 2023 00:03:59 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 5"
-      },
-      {
          "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -306,14 +370,6 @@ news_feed (
          "title" : "Endgames from Vrnjacka Banja (3)"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the seventh round. Join WGM Sabina Foisor &amp; NM Julian Proleiko for the move-by-move. 2023.03.15<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-4",
-         "pubDate" : "Wed, 15 Mar 2023 21:02:45 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 4"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk has transferred her federation to Switzerland and will no longer represent Russia, effective March 3, 2023. Since her first marriage to a Swiss citizen, she has held dual citizenship in both countries. Kosteniuk, who resides...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -392,22 +448,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
          "pubDate" : "Wed, 15 Mar 2023 10:08:25 +0100",
          "title" : "Fixing Tactics Training"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-3",
-         "pubDate" : "Wed, 15 Mar 2023 00:01:57 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-2",
-         "pubDate" : "Wed, 15 Mar 2023 00:01:57 +0000",
-         "title" : "The American Cup 2023: Day 2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norway Chess</strong> 2023 <a href=\"https://norwaychess.no/en/2023/03/14/the-2023-line-up-is-here/\">lineup has been announced</a> with then former world champion <strong>Magnus Carlsen</strong>, first timers <strong>Nodirbek Abdusattorov</strong> and <strong>Gukesh</strong> as well as, after a long classical chess break, <strong>Alireza Firouzja</strong>. The event takes place in Stavanger from 29 May to 9 June. </div> ",
@@ -562,14 +602,6 @@ news_feed (
          "title" : "Starting Friday: The American Cup returns"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the third round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.13<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-2",
-         "pubDate" : "Tue, 14 Mar 2023 00:00:45 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -578,28 +610,12 @@ news_feed (
          "title" : "London Chess and Education Conference set for March 17-19"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the first round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. WATCH: <a href=\"https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y\">https://lichess.org/broadcast/2023-saint-louis-super-swiss/round-1/eOSkNv1y</a> 2023.03.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-day-1",
-         "pubDate" : "Mon, 13 Mar 2023 21:00:33 +0000",
-         "title" : "2023 Saint Louis Super Swiss: Day 1"
-      },
-      {
          "description" : "Jamaica&#39;s government has announced an ambitious plan to pour J$40 million (approximately $260,000 at the time of writing) into chess in a drive to create a new grandmaster by 2033, local media reported.&#38;nbsp; Ministers on the Caribbean island wa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jamaican-government-invests-heavily-into-chess-to-find-next-grandmaster",
          "pubDate" : "Mon, 13 Mar 2023 13:21:43 -0700",
          "title" : "Jamaica Invests Heavily Into Finding The Next GM Maurice Ashley"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from Saint Louis University: Il Monastero, the inaugural Super Swiss is a nine round invitational event, with two rounds for the first four days and one round on the final day. G/90+30 with a FIDE 2000 minimum rating. Today, we are live during the fifth round. Join WGM Sabina Foisor &amp; FM Doug Eckert for the move-by-move. 2023.03.14<br /> USChessChamps.com TOP PLAYERS: Oparin, Nyzhnyk, Swiercz, Durarbayli, Hakobyan, Bruzon, Yasser Quesada, Akobian, Christopher Yoo, Theodorou </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lichessorg-2023-saint-louis-super-swiss-day-3",
-         "pubDate" : "Mon, 13 Mar 2023 18:00:29 +0000",
-         "title" : "lichess.org | 2023 Saint Louis Super Swiss: Day 3"
       },
       {
          "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1146,14 +1162,6 @@ news_feed (
          "title" : "Game of the Week #558: A. Korobov - R. Ponomariov"
       },
       {
-         "description" : "Those who love spectacle and drama got their money's worth on Day 2 of the Armageddon Championship Series in Berlin. Especially in the match between Andrew Tang (pictured) and Leinier Dominguez, which Tang won in Armageddon. At the end of the game he had one second left on the clock, while Dominguez had spent all his time. In the second match of the day Jose Martinez prevailed against Ray Robson. | Foto: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/time-trouble-in-berlin",
-         "pubDate" : "Wed, 08 Mar 2023 17:02:07 +0100",
-         "title" : "Time trouble in Berlin"
-      },
-      {
          "description" : "The March 7, 2023, editions of Titled Tuesday were won by GM Vladimir Fedoseev early and GM Alireza Firouzja late, both scoring 9.5 points. Falling just shy were GMs Nihal Sarin and Dmitry Andreikin, who also scored 9.5 points but lost due to tieb...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/alejandro-ramirez-resigns-from-st-louis-chess-club",
          "pubDate" : "Mon, 06 Mar 2023 17:00:00 -0800",
          "title" : "Alejandro Ramirez Resigns From Saint Louis Chess Club"
-      },
-      {
-         "description" : "Chess history approaches the end of an era as GM Magnus Carlsen, for the first time since 2013, will soon no longer be the world champion. He played what is expected to be his final classical game while holding the title on Sunday, March 5. While ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-plays-last-classical-games-as-world-champion",
-         "pubDate" : "Mon, 06 Mar 2023 12:38:00 -0800",
-         "title" : "End Of An Era: Magnus Carlsen Plays Last Classical Games As World Champion"
       },
       {
          "description" : "For the previous fortnightly post on the two most important, ongoing engine vs. engine competitions the keyword was 'Underway': <A HREF=\"https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html\">Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway</A>(February 2023). Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish won 'Swiss 4', a point ahead of KomodoDragon and LCZero. The site then started S24 League 2 (see diagram for S24 stages). &#149; CCC: The 'CCC20 Blitz Newcomers' and 'Qualifier #1' events have finished and 'Qualifier #2' is underway. The next stage, 'CCC20 Blitz Main', will have 12 engines with three coming from 'Qualifier #2'",
