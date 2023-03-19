@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So all managed to win their matches on Saturday in The 2023 American Cup in their second rapid playoff games to progress to the semifinals of the winner&#39;s bracket. Caruana struggled to crack open ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-2",
+         "pubDate" : "Sat, 18 Mar 2023 22:27:24 -0700",
+         "title" : "Caruana Clinches Match Victory In Catalan Classic"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after his Game 2 draw with Fabiano Caruana. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-i-have-chances-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GcjNeYpfN5E.jpg?itok=as24HZfg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2269",
          "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
          "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
-      },
-      {
-         "description" : "GM Alejandro Ramirez announced his resignation on Monday from the Saint Louis Chess Club and will no longer coach the Saint Louis University chess team. On February 15, WGM Jennifer Shahade reported on Twitter that Ramirez assaulted her twice an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alejandro-ramirez-resigns-from-st-louis-chess-club",
-         "pubDate" : "Mon, 06 Mar 2023 17:00:00 -0800",
-         "title" : "Alejandro Ramirez Resigns From Saint Louis Chess Club"
       },
       {
          "description" : "For the previous fortnightly post on the two most important, ongoing engine vs. engine competitions the keyword was 'Underway': <A HREF=\"https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html\">Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway</A>(February 2023). Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish won 'Swiss 4', a point ahead of KomodoDragon and LCZero. The site then started S24 League 2 (see diagram for S24 stages). &#149; CCC: The 'CCC20 Blitz Newcomers' and 'Qualifier #1' events have finished and 'Qualifier #2' is underway. The next stage, 'CCC20 Blitz Main', will have 12 engines with three coming from 'Qualifier #2'",
