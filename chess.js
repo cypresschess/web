@@ -2,28 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after his Game 2 draw with Fabiano Caruana. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robson-i-have-chances-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GcjNeYpfN5E.jpg?itok=as24HZfg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robson-i-have-chances-playoff-games-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Robson: I Have Chances in the Playoff Games! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his game 2 draw with Ray Robson. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-bring-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aXeshVbFsIo.jpg?itok=6IPhc-aO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-bring-playoff-games-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Caruana: Bring on the Playoff Games! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his game 2 draw with Sam Sevian. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-if-i-survive-opening-i-have-good-chances-against-anybody-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qD4GafxXTIk.jpg?itok=TC18ZGea\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-if-i-survive-opening-i-have-good-chances-against-anybody-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Nakamura: If I Survive the Opening I Have Good Chances Against Anybody | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after her game 2 win against Katerina Nemcova. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-takes-down-katerina-nemcova-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-kH_SRh4ANY.jpg?itok=UvQt54a3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-takes-down-katerina-nemcova-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Begim Takes Down Katerina Nemcova | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after her Game 2 win against Anna Zatonskih. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-i-was-playing-pure-instinct-18-rg1-day-2-game-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eRlqfk-NEx0.jpg?itok=djr7wQAL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-i-was-playing-pure-instinct-18-rg1-day-2-game-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Paikidze: I Was Playing On Pure Instinct (18. Rg1!) | Day 2 Game 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after winning his playoff game against Levon Aronian. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-wins-rapid-playoff-against-aronian-day-2-rapid-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8XdG13S3Dqo.jpg?itok=D_cWGW4d\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-wins-rapid-playoff-against-aronian-day-2-rapid-playoff",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Dominguez Wins Rapid Playoff Against Aronian | Day 2 Rapid Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his playoff game victory over Sam Shankland. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-im-ready-take-fabi-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tT_CdO7QxPU.jpg?itok=mrWPX4Id\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-im-ready-take-fabi-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "So: I'm Ready to Take on Fabi! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his Day 2 playoff victory against Ray Robson. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-yasser-i-didnt-even-think-about-grabbing-pawn-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DqRNHvl8qIM.jpg?itok=e7ckltMP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-yasser-i-didnt-even-think-about-grabbing-pawn-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
+         "title" : "Fabiano: Yasser I Didn't Even Think About Grabbing That Pawn! | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-naka",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru-nakamura-if-i-survive-opening-i-have-good-chances-against-anybody-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 00:05:50 +0000",
+         "title" : "Hikaru Nakamura: If I Survive the Opening I Have Good Chances Against Anybody | Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical first round champion's bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-tokhi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-tokhirjonova-takes-down-katerina-nemcova-day-2",
+         "pubDate" : "Sun, 19 Mar 2023 00:05:50 +0000",
+         "title" : "Begim Tokhirjonova Takes Down Katerina Nemcova | Day 2"
+      },
+      {
          "description" : "Irina Bulmaga is the 30th highest-rated woman player in the world. Last month, she bravely decided to play in the open section of the Romanian Championship, when only a final-round loss prevented her from reaching the podium. Here she tells us the story of her time in Sebes, focusing on her inner thoughts, presented as a candid dialogue with her own brain. She concludes: \"Brain and I are thankful. GM or not, we have a purpose. Our life is about chess and making girls and women believe\". | Photo: Romanian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-brain-pickles-irina-bulmaga",
          "pubDate" : "Sat, 18 Mar 2023 23:40:00 +0100",
          "title" : "Chess, my brain and I (and pickles)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ray Robson talks to Cristian Chirila after his Game 2 draw with Fabiano Caruana. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ray-robson-i-have-chances-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GcjNeYpfN5E.jpg?itok=as24HZfg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ray-robson-i-have-chances-playoff-games-day-2",
-         "pubDate" : "Sat, 18 Mar 2023 21:05:45 +0000",
-         "title" : "Ray Robson: I Have Chances in the Playoff Games! | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his Game 2 draw with Ray Robson. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana-bring-playoff-games-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aXeshVbFsIo.jpg?itok=6IPhc-aO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana-bring-playoff-games-day-2",
-         "pubDate" : "Sat, 18 Mar 2023 21:05:45 +0000",
-         "title" : "Fabiano Caruana: Bring On The Playoff Games! | Day 2"
       },
       {
          "description" : "The Opening ceremony of the event was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary Vice President and the Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic, the Minister of Youth and Sports of Montenegro Mr. Vasilije Lalosevic, who addressed the players and distinguished guests. The 23rd&#xA0;edition of the European Women&#x2019;s []",
@@ -40,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2023-live",
          "pubDate" : "Sat, 18 Mar 2023 19:15:00 +0100",
          "title" : "The American Cup: Live!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical semifinal champion&#039;s bracket matches, plus playoffs if necessary.. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/america",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-4-lichessorg",
-         "pubDate" : "Sat, 18 Mar 2023 18:05:36 +0000",
-         "title" : "The American Cup 2023: Day 4 | lichess.org"
       },
       {
          "description" : "Chess will make its first appearance in the European Games as an accompanying event at the Krak&oacute;w-Maloposka Games 2023. The European Chess Union regulated a new special competition, the European Pair Blitz Chess Championship 2023, which will take place on 19th of June 2023 in Krak&oacute;w, Poland. Eight teams (ECU members) are invited according the best combined Pair FIDE Classical rating according to the March 2023 list: Ukraine, Azerbaijan, France, Poland, Romania, Germany, Armenia and the Netherlands.",
@@ -114,68 +170,12 @@ news_feed (
          "title" : "American Cup: Nakamura beats Sevian"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champion&#039;s bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-3-lichessorg",
-         "pubDate" : "Sat, 18 Mar 2023 03:05:22 +0000",
-         "title" : "The American Cup 2023: Day 3 | lichess.org"
-      },
-      {
          "description" : "GM Hikaru Nakamura was the sole winner in the open section on the first day of The 2023 American Cup in St. Louis. He defeated GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique. Hard-fought draws materi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-1",
          "pubDate" : "Fri, 17 Mar 2023 19:51:00 -0700",
          "title" : "Nakamura Opens The American Cup With Triple-Pawn Punishment"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after his Game 1 draw in the first round against Wesley So. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-wesley-hardest-beat-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wg2aFUARSAs.jpg?itok=Cdak_VqM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-wesley-hardest-beat-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Shankland: Wesley is Hardest to Beat | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his Game 1 draw in the first round against Sam Shankland. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-can%E2%80%99t-make-many-mistakes-2-game-match-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mb3RO1j_tm4.jpg?itok=7J8it4_S\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-can%E2%80%99t-make-many-mistakes-2-game-match-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "So: Can't Make Many Mistakes in a 2-Game Match | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after her Game 1 win in the first round against Tatev Abrahamyan. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-trying-not-need-second-chances-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n5T4oyxTaVc.jpg?itok=4qTfHGeR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-trying-not-need-second-chances-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Krush: Trying Not to Need Second Chances | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Garry Kasparov joins the show during Day 1 to discuss The American Cup, the upcoming world championship match, and more. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-nepo-vs-ding-great-no-world-championship-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qjhLc7c-LxI.jpg?itok=Bb3I62cA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-nepo-vs-ding-great-no-world-championship-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Kasparov: Nepo vs. Ding is Great, but No World Championship | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his Game 1 win in the first round against Sam Sevian. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-just-want-keep-my-classical-rating-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Xv_o5LRW0AE.jpg?itok=VrliuipG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-i-just-want-keep-my-classical-rating-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Nakamura: I Just Want to Keep My Classical Rating | Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after her Game 1 win in the first round against Katerina Nemcova. 2023.03.17<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-katerina-comfortable-opponent-day-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VFmKU5zJx-M.jpg?itok=1qNbibBS\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-katerina-comfortable-opponent-day-1",
-         "pubDate" : "Sat, 18 Mar 2023 00:05:16 +0000",
-         "title" : "Begim: Katerina is a 'Comfortable' Opponent | Day 1"
       },
       {
          "description" : "The 23rd edition of the European Women's Individual Chess Championship will take place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The tournament grants 9 spots for the next Women's World Cup. The top five seeds are Bella Khotenashvili (Georgia), Valentina Gunina (FIDE), Gunay Mammadzada (Azerbaijan), Marsel Efroimski (Israel) and Yuliia Osmak (Ukraine). | Photos: European Chess Union",
@@ -1704,22 +1704,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/aronian-beats-nepo-and-gukesh-to-win-wr-chess-masters",
          "pubDate" : "Sun, 26 Feb 2023 10:23:35 +0000",
          "title" : "Aronian beats Nepo and Gukesh to win WR Chess Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2253",
-         "pubDate" : "Sun, 26 Feb 2023 02:44:44 +0000",
-         "title" : "WR Chess Masters: Levon Aroninan's tiebreak triumph"
-      },
-      {
-         "description" : " Here is the publishers blurb from the rear cover: &#8220;The Tarrasch Variation of the Queen's Gambit Declined is a fierce counter-attacking line arising after 1 d4 d5 2 c4 e6 <a href=\"http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Opening Repertoire: Queen's Gambit Declined: Tarrasch</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/\">Opening Repertoire: Queen's Gambit Declined: Tarrasch</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.co",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/02/26/opening-repertoire-queens-gambit-declined-tarrasch/",
-         "pubDate" : "Sun, 26 Feb 2023 00:10:55 +0000",
-         "title" : "Opening Repertoire: Queen's Gambit Declined: Tarrasch"
       }
    ]
 }
