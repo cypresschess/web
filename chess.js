@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Here's a game between two talented young players from the recent Mindsports Masters IM tournament. It's a symmetrical Queen's Gambit: a line that's been popular since St Amant played it against Staunton in 1843, and which is still theoretically important today. White played quietly here, content to trade queens and just gain a couple of <a href=\"https://chessimprover.com/flawed-flohr-floored/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Flawed Flohr Floored\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/flawed-flohr-floored/\">Flawed Flohr Floored</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/flawed-flohr-floored/",
+         "pubDate" : "Sun, 19 Mar 2023 10:00:14 +0000",
+         "title" : "Flawed Flohr Floored"
+      },
+      {
          "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So all managed to win their matches on Saturday in The 2023 American Cup in their second rapid playoff games to progress to the semifinals of the winner&#39;s bracket. Caruana struggled to crack open ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,6 +256,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2023",
          "pubDate" : "Fri, 17 Mar 2023 20:22:00 +0400",
          "title" : "American Cup 2023 - Games and Results"
+      },
+      {
+         "description" : "We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. The Chess.com series was previously seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A>(March 2023), where I wrote, <BLOCKQUOTE>I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. Posts marked '(*)' featured Chess.com. </BLOCKQUOTE> <P>Why take a detour when I was just getting started? I realized this week that the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren Title Match</A>(m-w.com; FIDE: 'due to take place in Astana, Kazakhstan, from April 7th to May 1st'), ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html",
+         "pubDate" : "Fri, 17 Mar 2023 16:17:00 +0000",
+         "title" : "Ding Liren's Climb to a Title Match"
       },
       {
          "description" : "What should you do if your opponent offers a draw at an early stage of the game? What aspects should you take into account when making your own decision? GM Jan Markos gives you a series of rules of thumb in the fifth part of his series \"Practical Tips for the Tournament Player\" to help you go for the full point more often - or accept the offer if it is advisable. You can watch an excerpt from his video here!",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://chessimprover.com/nepo-baby/",
          "pubDate" : "Sun, 26 Feb 2023 16:18:48 +0000",
          "title" : "Nepo Baby"
-      },
-      {
-         "description" : "Levon Aronian has won the inaugural WR Chess Masters after dominating a playoff against Ian Nepomniachtchi and Gukesh. Levon had earlier made a quick draw against Gukesh in their classical game and then watched as Nepomniachtchi ground out an 82-move win on demand against Vincent Keymer to join them in the playoff. Aronian wins €40,000, while Gukesh and Nepo shared €20,000 each.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-beats-nepo-and-gukesh-to-win-wr-chess-masters",
-         "pubDate" : "Sun, 26 Feb 2023 10:23:35 +0000",
-         "title" : "Aronian beats Nepo and Gukesh to win WR Chess Masters"
       }
    ]
 }
