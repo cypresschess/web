@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Sun, 19 Mar 2023 15:05:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 117th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game of Dutch author Willy Hendriks and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-117-play-the-sicilian-18",
+         "pubDate" : "Sun, 19 Mar 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 117: Play the Sicilian (18)"
+      },
+      {
+         "description" : "Day 2 of the American Cup saw the end of the first stage of the Champions Bracket, with several matches (Caruana-Robson, So-Shankland, Aronian-Dominguez) all decided in a rapid playoff. Meanwhile Nakamura was able to draw the second classical game after winning yesterday, relegating Sevian to the Elimination Bracket. In the Women's Section, favorites Krush, Lee, and Tokhirjonova all managed to win their second games despite only needing a draw, while Paikidze defeated Zatonskih in convincing fashion to win their match 1&frac12;-&frac12;. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d2",
+         "pubDate" : "Sun, 19 Mar 2023 14:50:00 +0100",
+         "title" : "American Cup: Dominguez beats Aronian in playoffs"
+      },
+      {
+         "description" : "Hikaru Nakamura's 1st classical games in eight months went well as he defeated Sam Sevian 1.5:0.5 in the American Cup. The other matches went to rapid tiebreaks, with wins for Leinier Dominguez (over Levon Aronian), Wesley So (Sam Shankland) and Fabiano Caruana (Ray Robson). All four American Women's Cup matches were decided in classical chess, including 13-year-old Alice Lee beating Atousa Pourkashiyan 2:0.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-world-no-5-after-fast-american-cup-start",
+         "pubDate" : "Sun, 19 Mar 2023 13:39:36 +0000",
+         "title" : "Nakamura world no. 5 after fast American Cup start"
+      },
+      {
+         "description" : " I was checking out some of the online events tonight, and I came across the HIT Open in Slovenia. The Chief Arbiter is a colleague if mine from the Olympiad (WGM Ana Srebrnic) but it was some of the names of the players that I found most interesting. GM Alexander Beliavsky is playing, along with other older GM's like Nigel Davies and Stefan Djuric. Of course there are a few younger GM's in the field, but it is good to see some of the legends from earlier times still having a hit. Oh, and the other interesting feature is the tournament does not seem to offer prizes as such, but instead \"Reimbursement of Expenses\" for the best scoring players (which of course have the same cash value as prize",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/old-school.html",
+         "pubDate" : "Sun, 19 Mar 2023 12:05:00 +0000",
+         "title" : "Old school"
+      },
+      {
+         "description" : "The European Women's Chess Championship 2023 kicked off in Petrovac, Montenegro, with participation of 134 players coming from 34 European federations. The Opening ceremony of the event took place on Friday evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the ECU Honorary Vice President and the Vice President of Montenegro Chess Federation Mr. Veselin Draskovic,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-commenced-in-montenegro-petrovac/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-commenced-in-montenegro-petrovac/",
+         "pubDate" : "Sun, 19 Mar 2023 11:33:20 +0000",
+         "title" : "European Women's Chess Championship 2023 commenced in Montenegro, Petrovac"
+      },
+      {
          "description" : " Here's a game between two talented young players from the recent Mindsports Masters IM tournament. It's a symmetrical Queen's Gambit: a line that's been popular since St Amant played it against Staunton in 1843, and which is still theoretically important today. White played quietly here, content to trade queens and just gain a couple of <a href=\"https://chessimprover.com/flawed-flohr-floored/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Flawed Flohr Floored\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/flawed-flohr-floored/\">Flawed Flohr Floored</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -10,11 +58,11 @@ news_feed (
          "title" : "Flawed Flohr Floored"
       },
       {
-         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So all managed to win their matches on Saturday in The 2023 American Cup in their second rapid playoff games to progress to the semifinals of the winner&#39;s bracket. Caruana struggled to crack open ...",
+         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So all managed to win their matches on Saturday in The 2023 American Cup in their second rapid playoff games to progress to the semifinals of the Champions bracket. Caruana struggled to subdue sta...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-2",
-         "pubDate" : "Sat, 18 Mar 2023 22:27:24 -0700",
+         "pubDate" : "Sat, 18 Mar 2023 22:27:00 -0700",
          "title" : "Caruana Clinches Match Victory In Catalan Classic"
       },
       {
@@ -114,14 +162,6 @@ news_feed (
          "title" : "European Women's Individual Chess Championship 2023 opened yesterday in Petrovac, Montenegro!"
       },
       {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Sat, 18 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "Chess will make its first appearance in the European Games as an accompanying event at the Krak&oacute;w-Maloposka Games 2023. The European Chess Union regulated a new special competition, the European Pair Blitz Chess Championship 2023, which will take place on 19th of June 2023 in Krak&oacute;w, Poland. Eight teams (ECU members) are invited according the best combined Pair FIDE Classical rating according to the March 2023 list: Ukraine, Azerbaijan, France, Poland, Romania, Germany, Armenia and the Netherlands.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/bishops-vs-0-0-0",
          "pubDate" : "Sat, 18 Mar 2023 09:00:00 +0100",
          "title" : "Bishops vs. 0-0-0"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Sat, 18 Mar 2023 08:59:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "The 2023 American Cup kicked off with several decisive games on the first day of action, with Nakamura, Krush, Lee, & Tokhirjonova all taking a one-point lead in their initial matches. Their opponents (Sevian, Abrahamyan, Pourkashiyan, and Nemcova) will now have to win tomorrow's game in order to force their match into a playoff. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -1146,14 +1178,6 @@ news_feed (
          "title" : "Chess Wizards Stun World Champion, Advance To Playoffs; Bortnyk Leads Passers"
       },
       {
-         "description" : "Today Bobby Fischer, who was born in Chicago on 9 March 1943 and died in Reykjavik on 17 January 2008, would have turned 80 years old. Fischer, world champion from 1972 to 1975, was a man full of contradictions and made headlines time and again - through his brilliant play, but also through his eccentric behaviour. Fischer's long-time rival Bent Larsen once said: \"You can't understand Robert James Fischer. But why should you want to? Why not just feast your eyes on his games?\" To celebrate his 80th birthday, we present a typical victory by the American genius.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/celebrating-bobby-fischer-80-anniversary",
-         "pubDate" : "Thu, 09 Mar 2023 20:00:00 +0100",
-         "title" : "Celebrating Bobby Fischer: A quiet win by a troubled genius"
-      },
-      {
          "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1568,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2262",
          "pubDate" : "Wed, 01 Mar 2023 17:28:46 +0000",
          "title" : "FIDE March 2023 rating list published"
-      },
-      {
-         "description" : "The 23rd edition of the European Individual Chess Championship 2023 takes place from the 2nd-14th of March in Hotel Zepter Vrnjacka Banja, Serbia. The event broke the participation record with more than 490 players coming from 40 European federations. The event includes 48 players rated 2600+, 128 Grandmasters, 105 International masters, and a total of 379 titled players.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-starts-in-vrnjacka-banja-serbia/",
-         "pubDate" : "Wed, 01 Mar 2023 14:19:15 +0000",
-         "title" : "European Individual Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
       },
       {
          "description" : "16-year-old Indian prodigy Gukesh is back at a career high world no. 18 on the March 2023 FIDE rating list after gaining 12 points in the recent WR Chess Masters. The winner, Levon Aronian, is up to world no. 12, while Sergey Karjakin is no longer in the world top 10 after failing to play a classical game in the last year.",
