@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2289",
+         "pubDate" : "Sun, 19 Mar 2023 23:12:03 +0000",
+         "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players of both fields in The American Cup 2023 how they see the future of American chess. This aired on Day 3. 2023.03.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-future-american-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4sf7IwiiIU.jpg?itok=SoqEtO_l\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-future-american-chess",
+         "pubDate" : "Sun, 19 Mar 2023 21:06:32 +0000",
+         "title" : "The American Cup 2023: The Future of American Chess"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamura-if-i-survive-opening-i-have-good-chances-against-anybody-day-2",
          "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
          "title" : "Nakamura: If I Survive the Opening I Have Good Chances Against Anybody | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after her Game 2 win in the first round of The American Cup 2023 against Katerina Nemcova. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-takes-down-katerina-nemcova-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-kH_SRh4ANY.jpg?itok=UvQt54a3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-takes-down-katerina-nemcova-day-2",
-         "pubDate" : "Sun, 19 Mar 2023 03:05:47 +0000",
-         "title" : "Begim Takes Down Katerina Nemcova | Day 2"
       },
       {
          "description" : "Irina Bulmaga is the 30th highest-rated woman player in the world. Last month, she bravely decided to play in the open section of the Romanian Championship, when only a final-round loss prevented her from reaching the podium. Here she tells us the story of her time in Sebes, focusing on her inner thoughts, presented as a candid dialogue with her own brain. She concludes: \"Brain and I are thankful. GM or not, we have a purpose. Our life is about chess and making girls and women believe\". | Photo: Romanian Chess Federation",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2259",
          "pubDate" : "Mon, 27 Feb 2023 12:49:54 +0000",
          "title" : "EDU Commission announces its fourth \"Preparation of Teachers\" course"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2254",
-         "pubDate" : "Sun, 26 Feb 2023 22:31:48 +0000",
-         "title" : "Romanian Championship: Shevchenko and Lehaci win maiden titles"
       }
    ]
 }
