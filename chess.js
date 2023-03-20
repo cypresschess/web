@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Mon, 20 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "The 2023 FIDE Women's Candidates Final will be disputed in Chongqing (China) from March 27th to April 6th. Chinese Grandmasters Lei Tingjie and Tan Zhongyi will face each other in a six-game classical chess match. The winner will receive 60,000 Euros and the right to challenge the current Women's World Champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-s-candidates-final-lei-tingjie-and-tan-zhongyi-face-off-in-chongqing-china",
+         "pubDate" : "Mon, 20 Mar 2023 14:25:14 +0100",
+         "title" : "Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
+      },
+      {
+         "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br />URS-ch U18 Leningrad, 1946 <script>new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e3 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/game-1.html",
+         "pubDate" : "Mon, 20 Mar 2023 12:59:00 +0000",
+         "title" : "Game 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2291",
+         "pubDate" : "Mon, 20 Mar 2023 12:08:07 +0000",
+         "title" : "The home of chess welcomes the Women's Grand Prix"
+      },
+      {
          "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -18,11 +50,11 @@ news_feed (
          "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
       },
       {
-         "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world puzzle rush champion posing a ser...",
+         "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-3",
-         "pubDate" : "Sun, 19 Mar 2023 22:01:25 -0700",
+         "pubDate" : "Sun, 19 Mar 2023 22:01:00 -0700",
          "title" : "Shankland Ousts Robson In Epic Playoff"
       },
       {
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Six"
       },
       {
-         "description" : "This time ChessBase Magazine's \"Special\" is dedicated to the first Englishman who succeeded in winning the title of International Grandmaster: Anthony Miles (1955-2001). Our authors (David Navara, Yannick Pelletier, Spyridon Kapnisis, Julio Sadorra and many others) comment on their favourite games of the creative Englishman - thus an exclusive collection of 21 duels from the period 1978 to 2001 has come together. You can watch Robert Ris' analysis of the game Miles - Spassky (1978) here. Enjoy! | Photo: Dutch National Archive",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-beast-of-birmingham",
-         "pubDate" : "Fri, 10 Mar 2023 18:05:00 +0100",
-         "title" : "\"The Beast of Birmingham\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1712,14 +1736,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html",
          "pubDate" : "Mon, 27 Feb 2023 16:08:00 +0000",
          "title" : "Chessify vs. Chessbase Engine Cloud"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2259",
-         "pubDate" : "Mon, 27 Feb 2023 12:49:54 +0000",
-         "title" : "EDU Commission announces its fourth \"Preparation of Teachers\" course"
       }
    ]
 }
