@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Mon, 20 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "Ilamparthi A R (born in 2009) is one of the most promising talents from India, a country with a lot of promising talents. He is the U14 World Champion, India's youngest International Master and has just won the U14 tournament at the WR Masters in D&uuml;sseldorf. When Ilamparthi visited the ChessBase headquarters in Hamburg, he and Karsten had fun analysing some tricky endgames together. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-232-with-ilamparthi-a-r-endgame-highlights-from-the-wr-chess-masters-in-duesseldorf",
+         "pubDate" : "Mon, 20 Mar 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #232 with Ilamparthi A R: Endgame highlights from the WR Chess Masters in D&uuml;sseldorf"
+      },
+      {
+         "description" : "Day 3 of the American Cup saw four players eliminated from the tournament, as the first matches of the Elimination Bracket took place. Levon Aronian knocked out Sam Sevian, while Sam Shankland won a hotly contested playoff against Ray Robson. Meanwhile, in the women's section, Tatev Abrahamyan took down Katerina Nemcova, while newcomer WGM Atousa Pourkashiyan sent Anna Zatonskih home with a 1&frac12;-&frac12; victory. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d3",
+         "pubDate" : "Mon, 20 Mar 2023 17:55:00 +0100",
+         "title" : "American Cup: Shankland knocks out Robson in dramatic match"
+      },
+      {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2291",
          "pubDate" : "Mon, 20 Mar 2023 12:08:07 +0000",
          "title" : "The home of chess welcomes the Women's Grand Prix"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2290",
+         "pubDate" : "Mon, 20 Mar 2023 11:38:48 +0000",
+         "title" : "RFIDE Grand Swiss and Women's Grand Swiss Regulations updated"
       },
       {
          "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2289",
          "pubDate" : "Sun, 19 Mar 2023 23:12:03 +0000",
          "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Sun, 19 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "When choosing a move during a game of chess, there will be a compromise between instinct and calculation. In reasonably clear positions, you may be able to rely on the former with just a few checks for blunders, but there are situations which require you to go deeper into the position. At times, if nothing is satisfactory after exploring the alternatives, it may be advisable to bluff and go for a line which you believe to be worse if they find a difficult resource but better if they fail to find this (near) refutation.",
@@ -1114,22 +1138,6 @@ news_feed (
          "title" : "Endgames from Vrnjacka Banja (2)"
       },
       {
-         "description" : "In the diagram position, the pinned white Nb6 seems to be doomed. But mate comes first, and White has a clever way out - or should we say way in? Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/come-on-in",
-         "pubDate" : "Sat, 11 Mar 2023 09:00:00 +0100",
-         "title" : "Come on in!"
-      },
-      {
-         "description" : "Anton Korobov continues to lead the standings at the European Championship in Serbia. Korobov signed an 8-move draw with white against Benjamin Gledura, who was in sole second place going into Friday's eighth round. Gledura is now joined in second place by Alexey Sarana, who defeated Yuriy Kuzubov on board 4. Twenty-seven players stand a half point behind Gledura and Sarana. | Pictured: Marina Gajcin | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r8",
-         "pubDate" : "Sat, 11 Mar 2023 02:30:00 +0100",
-         "title" : "European Championship: Calculated risk"
-      },
-      {
          "description" : "On the final day of week four of the 2023 Pro Chess League, the Norway Gnomes defeated Team MGD1 and made it to the Playoffs. In the second match, the Saint Louis Arch Bishops eliminated the Spanish Maniac Shrimps. GM Pranav V was indisputably t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1352,14 +1360,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-open-women-2023-certificates/",
          "pubDate" : "Wed, 08 Mar 2023 04:45:10 +0000",
          "title" : "National Team Open & Women 2023 Certificates"
-      },
-      {
-         "description" : "Eight women have accused GM Alejandro Ramirez of wrongdoing in an article published by The Wall Street Journal on Tuesday. In the newspaper, the women claim that Ramirez used his status in chess to put himself in positions of influence and make re...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wall-street-journal-women-accuse-alejandro-ramirez",
-         "pubDate" : "Tue, 07 Mar 2023 19:26:00 -0800",
-         "title" : "The Wall Street Journal: 8 Women Accuse Ramirez Of Wrongdoing"
       },
       {
          "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
@@ -1728,14 +1728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-misses-mate-in-3-in-pro-chess-league-drama",
          "pubDate" : "Tue, 28 Feb 2023 08:26:56 +0000",
          "title" : "Carlsen misses mate-in-3 in Pro Chess League drama"
-      },
-      {
-         "description" : "Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. The most recent post in the series was <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessifys-other-engines.html\">Chessify's Other Engines</A>(February 2023). Are there any alternatives? <P>Chessify answered that question in <A HREF=\"https://chessify.me/blog/why-the-cloud-servers-for-chess-engines-worth-it-what-options-you-have\">Why the Cloud Servers for Chess Engines [Are] Worth it & What Options You Have</A>(chessify.me/blog):- <BLOCKQUOTE>Main options for cloud chess engines &#149; Where can you find these servers to r",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html",
-         "pubDate" : "Mon, 27 Feb 2023 16:08:00 +0000",
-         "title" : "Chessify vs. Chessbase Engine Cloud"
       }
    ]
 }
