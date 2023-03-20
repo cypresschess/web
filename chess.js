@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2292",
+         "pubDate" : "Mon, 20 Mar 2023 19:03:31 +0000",
+         "title" : "International Chess Festival Baku Open 2023 announced"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -63,7 +71,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2290",
          "pubDate" : "Mon, 20 Mar 2023 11:38:48 +0000",
-         "title" : "RFIDE Grand Swiss and Women's Grand Swiss Regulations updated"
+         "title" : "RFIDE Grand Swiss and Women's Grand Swiss offer record prize fund"
       },
       {
          "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
