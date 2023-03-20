@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bdca-clough-cup/",
+         "pubDate" : "Mon, 20 Mar 2023 10:11:27 +0000",
+         "title" : "B&DCA Clough Cup"
+      },
+      {
+         "description" : "Rainer Knaak was born on 16 March 1953 in Pasewalk, Mecklenburg-Vorpommern. In 1974, at the age of 21, Knaak became the then youngest grandmaster in the world. The mathematician is a 5-time champion of the German Democratic Republic, and always caused a stir with his optimistic and elegant attacking style. Knaak was also successful as an author. He published numerous books and began working for ChessBase in 1994. He was editor-in-chief of ChessBase Magazine and published a number of popular ChessBase DVDs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rainer-knaak-70-birthday",
+         "pubDate" : "Mon, 20 Mar 2023 10:00:00 +0100",
+         "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
+      },
+      {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world puzzle rush champion posing a ser...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,12 +130,12 @@ news_feed (
          "title" : "Rocking the boat"
       },
       {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Sun, 19 Mar 2023 15:05:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
+         "description" : "Last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/02/catsparov-chess.html\">Catsparov Chess</A>(February 2023), confirmed a trend:- <BLOCKQUOTE>Am I just a sucker for AI generated chess images? It appears I am. </BLOCKQUOTE> <P>And here we go again, even when dealing with an historical absurdity on multiple counts... <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc19.gif\" WIDTH=400 HEIGHT=400><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/fdecomite/52739356678/\">DALL-E 2023-03-10 21.34.47</A>&#169; Flickr user <I>fdecomite</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P>The description, whic",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html",
+         "pubDate" : "Sun, 19 Mar 2023 16:24:00 +0000",
+         "title" : "Karpov and Kasparov Play Chess in Iceland"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 117th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game of Dutch author Willy Hendriks and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
