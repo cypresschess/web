@@ -1,6 +1,7 @@
 jtable([
 "SUGAR LAND","2023-03-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303179562 target='_blank'>FBCC 2023 SAINT PATRICK OPEN</a>",
 "SPRING","2023-03-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202303179542 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"HOUSTON","2023-03-17","13","<a href=http://www.uschess.org/msa/XtblMain.php?202303171202 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 17, 2023</a>",
 "HOUSTON","2023-03-11  - 03-12","54","<a href=http://www.uschess.org/msa/XtblMain.php?202303126812 target='_blank'>$3,000 HOUSTON CHESS STUDIO MARCH 2</a>",
 "SPRING","2023-03-10","17","<a href=http://www.uschess.org/msa/XtblMain.php?202303105482 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-03-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303105462 target='_blank'>FBCC 2023 INTERNATIONAL DAY OF AWE</a>",
@@ -198,5 +199,4 @@ jtable([
 "PEARLAND","2022-07-27  - 07-29","13","<a href=http://www.uschess.org/msa/XtblMain.php?202207299362 target='_blank'>SCS SUMMER CHESS CAMP ADVANCED II</a>",
 "SPRING","2022-07-29","19","<a href=http://www.uschess.org/msa/XtblMain.php?202207296382 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2022-07-29","8","<a href=http://www.uschess.org/msa/XtblMain.php?202207296342 target='_blank'>FBCC 2022 DROUGHTLESS OPEN</a>",
-"CYPRESS","2022-07-29","24","<a href=http://www.uschess.org/msa/XtblMain.php?202207296322 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
