@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world puzzle rush champion posing a ser...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-3",
+         "pubDate" : "Sun, 19 Mar 2023 22:01:25 -0700",
+         "title" : "Shankland Ousts Robson In Epic Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after eliminating Ray Robson in a blitz playoff at The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-edges-out-robson-blitz-playoff-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CAjfaqBdKO0.jpg?itok=sjWxXlTp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shankland-edges-out-robson-blitz-playoff-day-3",
+         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
+         "title" : "Shankland Edges Out Robson in Blitz Playoff | Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical final champions bracket matches. Plus, two rapid second round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-5-lichessorg",
+         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
+         "title" : "The American Cup 2023: Day 5 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champions bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com ROUND 2 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Leinier Dominguez<br /> Fabiano Caruana<br /> vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-3",
+         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
+         "title" : "The American Cup 2023: Day 3"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his Game 1 draw against Fabiano Caruana in the semifinals of The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-uncertain-taking-risks-against-fabi-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9LrCtiDrUZA.jpg?itok=1Ls_N3Dx\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,14 +98,6 @@ news_feed (
          "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Cristian Chirila asks the players of both fields in The American Cup 2023 how they see the future of American chess. This aired on Day 3. 2023.03.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-future-american-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4sf7IwiiIU.jpg?itok=SoqEtO_l\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-future-american-chess",
-         "pubDate" : "Sun, 19 Mar 2023 21:06:32 +0000",
-         "title" : "The American Cup 2023: The Future of American Chess"
-      },
-      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,22 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-190",
          "pubDate" : "Sun, 19 Mar 2023 17:45:00 +0100",
          "title" : "Rocking the boat"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his Game 2 draw in the first round of The American Cup 2023 with Sam Sevian. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-surprised-sevian-nonsense-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qD4GafxXTIk.jpg?itok=TC18ZGea\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-i-surprised-sevian-nonsense-day-2",
-         "pubDate" : "Sun, 19 Mar 2023 15:06:10 +0000",
-         "title" : "Nakamura: I Surprised Sevian with Nonsense | Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after her Game 2 win in the first round of The American Cup 2023 against Anna Zatonskih. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-playing-pure-instinct-18-rg1-day-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eRlqfk-NEx0.jpg?itok=djr7wQAL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-playing-pure-instinct-18-rg1-day-2",
-         "pubDate" : "Sun, 19 Mar 2023 15:06:10 +0000",
-         "title" : "Paikidze: Playing On Pure Instinct (18. Rg1!) | Day 2"
       },
       {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
@@ -542,7 +550,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-march-14-2023",
-         "pubDate" : "Wed, 15 Mar 2023 10:17:59 -0700",
+         "pubDate" : "Wed, 15 Mar 2023 10:17:00 -0700",
          "title" : "Nakamura And Duda Again Tuesday Winners"
       },
       {
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-nakamura-so-caruana-play-4th-chessable-masters",
          "pubDate" : "Tue, 07 Mar 2023 15:02:06 +0000",
          "title" : "Carlsen, Nakamura, So & Caruana play 4th Chessable Masters"
-      },
-      {
-         "description" : "It&#39;s the moment the chess world has been holding its breath for&#38;mdash;Magnus Carlsen&#39;s last major outing as world champion. And it will come at the 2023 Chessable Masters. Chess.com&#38;rsquo;s $2 million Champions Chess Tour will return with the la...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsens-last-dance-chessable-masters",
-         "pubDate" : "Tue, 07 Mar 2023 06:55:00 -0800",
-         "title" : "Carlsen's Last Dance: Chessable Masters To Be Final Event As World Champion"
       },
       {
          "description" : " Recently my blitz abilities have decreased somewhat dramatically. I really am getting too old and too slow. To fix this I am trying to practice against various crippled versions of Stockfish on Lichess, not to work on my moves, but mainly to work on my speed. Here is a recent effort <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"800\" data-original-width=\"686\" height=\"400\" src=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" width=\"343\" /></a></div>",
