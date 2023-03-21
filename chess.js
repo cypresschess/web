@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th edition of the London Chess Conference took place from 17-19 March 2023. The theme of the 2023 London Chess Conference was Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The participants and speakers represented 32 countries with the opportunity to form partnerships and collaborations with each other&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023-concluded/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/london-chess-conference-2023-concluded/",
+         "pubDate" : "Tue, 21 Mar 2023 10:45:09 +0000",
+         "title" : "London Chess Conference 2023 concluded"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Streamer king and <a href=\"https://2700chess.com\">live rating nr 5</a> <strong>Hikaru Nakamura</strong> together with <strong>Misfits Gaming</strong> <a href=\"https://www.chess.com/news/view/hikarus-chess-decathlon-mgg\">announced</a> the <strong>Decathlon</strong> series of 10 online events featuring different chess variants, including King of the Hill, Crazyhouse and a quiz, with altogether $46,500 in prizes, starting on 27 March with Chess960. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/nakamura-promotes-chess-variants/",
+         "pubDate" : "Tue, 21 Mar 2023 11:30:02 +0100",
+         "title" : "Nakamura promotes chess variants"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The meltdown and takeover of <strong>Cr&eacute;dit Suisse</strong>, Switzerland's biggest chess sponsor in the 1980s and 1990s, will not hit chess as its <strong>Accentus Foundation</strong> that invests in youth and school chess projects is told that they can keep going. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/credit-suisse-collapse-doesnt/",
+         "pubDate" : "Tue, 21 Mar 2023 11:18:36 +0100",
+         "title" : "Cr&eacute;dit Suisse collapse doesn't hit chess"
+      },
+      {
+         "description" : " IM Kostya Kavutskiy This week's online puzzle that caught my attention was a Kings and pawns endgame. It brought back memories of so many students that struggled to play them decently. Could it be because they seem simple? After all the pawns just move forward and the Kings must support/ stop them. They are indeed <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\">&#8220;Tactics are temporary, endgames are per",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/",
+         "pubDate" : "Tue, 21 Mar 2023 09:25:14 +0000",
+         "title" : "\"Tactics are temporary, endgames are permanent\" (5)"
+      },
+      {
+         "description" : "In Eugene Manlapao's previous articles, he has featured the leading players of 19th century British chess. Among them were Amos Burn, Isidor Gunsberg, and the London residents Johannes Zukertort of Poland and Wilhelm Steinitz of Austria. Another one of their great contemporaries was Joseph Henry Blackburne, Britain's strongest player for nearly three decades. \"The Black Death\" was always a dangerous rival to his British and foreign peers in local and international tournaments, as well as one-on-one matches. | Picture: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess",
+         "pubDate" : "Tue, 21 Mar 2023 10:00:00 +0100",
+         "title" : "Joseph Henry \"The Black Death\" Blackburne: The Grand Old Man of British Chess"
+      },
+      {
+         "description" : "Rooks are powerful and two rooks are even more powerful, and given the chance, they can quickly mate the enemy king. In the diagram position the white rooks are passive and seem to be doomed to defend the b-pawn. But it is White to move and win. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/attacking-in-the-endgame",
+         "pubDate" : "Tue, 21 Mar 2023 09:00:00 +0100",
+         "title" : "Attacking in the endgame"
+      },
+      {
          "description" : "Hikaru Nakamura and Wesley So advanced to the final match of the champions bracket in the open section of the American Cup after beating Leinier Dominguez and Fabiano Caruana respectively. Among the women, Irina Krush and Alice Lee scored 1&frac12;-&frac12; wins to set up a rematch from last year's edition in the final. The losers of the day still have chances to win both events, via the elimination brackets. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1090,14 +1138,6 @@ news_feed (
          "title" : "The Streamer Awards Presented By Twitch"
       },
       {
-         "description" : "Today: Lutz Nebe shows us the visual database changes, and adjustments of the ChessBase 17 interface. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-database-interface-of-chessbase-17",
-         "pubDate" : "Sat, 11 Mar 2023 16:00:00 +0100",
-         "title" : "Explained by the engineers! - The new database interface of ChessBase 17!"
-      },
-      {
          "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1122,14 +1162,6 @@ news_feed (
          "title" : "Cuba's Linares wins her 4th chess title!"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A new didactic <strong>ChessUp</strong> <a href=\"https://playchessup.com\">electronic board</a> will be available from May 2023 thanks to <strong>Bryght Lab</strong> <a href=\"https://www.youtube.com/watch?v=fR0JOaktMBk\">picking up $300,000</a> from <a href=\"https://en.wikipedia.org/wiki/Lori_Greiner\">serial investor <strong>Lori Greiner</strong></a> during the <strong>ABC</strong> start-up show <strong>Shark Tank</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/bryght-labs-lands-300k-investor-in/",
-         "pubDate" : "Sat, 11 Mar 2023 13:00:23 +0100",
-         "title" : "Bryght Labs lands 300k investor in TV show"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-certificates/",
          "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
          "title" : "National Rapid & Blitz Certificates"
-      },
-      {
-         "description" : "With close to 250 games being played daily, the European Championship is one of the strongest opens in the chess calendar. Moreover, the players are fighting for an entrance to the World Championship cycle via the World Cup, which makes for very competitive struggles. Karsten M&uuml;ller is keeping an eye on the games, and has sent us many notable endgames with instructive analyses. Replay here his seven of his finds! | Pictured: Sabino Brunello | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-2",
-         "pubDate" : "Sat, 11 Mar 2023 09:15:00 +0100",
-         "title" : "Endgames from Vrnjacka Banja (2)"
       },
       {
          "description" : "On the final day of week four of the 2023 Pro Chess League, the Norway Gnomes defeated Team MGD1 and made it to the Playoffs. In the second match, the Saint Louis Arch Bishops eliminated the Spanish Maniac Shrimps. GM Pranav V was indisputably t...",
@@ -1224,14 +1248,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/chessbrahs-on-brink-as-carlsen-suffers-rare-pro-chess-league-loss",
          "pubDate" : "Fri, 10 Mar 2023 11:24:24 +0000",
          "title" : "Chessbrahs on brink as Carlsen suffers Pro Chess League loss"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> As <strong>Debbie Eastburn</strong> has <a href=\"https://chessintheschools.org/announcing-leadership-changes/\">announced her retirement</a>, the New York City-based chess in education NGO is <a href=\"https://chessintheschools.org/careers/\">seeking a new CEO and President</a> with strong fundraising and strategy skills. Founded as <strong>American Chess Foundation</strong> in 1986, it was <a href=\"https://www.nytimes.com/2009/11/12/giving/12EXEC.html\">renamed</a> <strong>Chess in the Schools</strong> in 1997 under its former CEO <strong>Marley Kaplan</strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/chess-in-the-schools-seeks-ceo/",
-         "pubDate" : "Fri, 10 Mar 2023 11:15:48 +0100",
-         "title" : "Chess in the Schools seeks CEO"
       },
       {
          "description" : " The 32-year-old, who is abdicating his world crown, chose the Norwegian League for his last three classical games and will not play the format again until late May Magnus Carlsen chose last weekend's Norwegian League in Oslo for his three final classical games as world champion. The world No 1 scored two wins as White, one where <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/1/1/1\" title=\"\">he crushed his opponent</a> and the other an endgame grind <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/2/1/1\" title=\"\">transforming a draw into a win</a> before <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/3/1/",
@@ -1506,14 +1522,6 @@ news_feed (
          "title" : "Dubbo 2023"
       },
       {
-         "description" : "The European Individual Chess Championship 2023 commenced yesterday in Vrnjacka Banja, Serbia with the participation of 482 players from 40 European federations. The event officially broke the participation record previously set in Rijeka 2010 with 408 players. The Opening ceremony of the event took place on Friday evening in a magnificent Hotel Zepter Crystal Hall with the attendance&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2023-commenced-in-vrnjacka-banja-serbia/",
-         "pubDate" : "Sat, 04 Mar 2023 07:25:38 +0000",
-         "title" : "European Individual Chess Championship 2023 commenced in Vrnjacka Banja, Serbia"
-      },
-      {
          "description" : "The annual Varsity chess match between the University teams of Oxford (Dark Blues) and Cambridge (Light Blues) takes place today at The Royal Automobile Club, in London's Pall Mall. The Varsity match has often been described as the Boat Race of the Brain. Two years ago, the Cambridge \"boat\" sank, with almost all hands. After 139 []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1728,14 +1736,6 @@ news_feed (
          "link" : "http://nextlevelchess.blog/7-reason-why-youre-not-improving/",
          "pubDate" : "Tue, 28 Feb 2023 11:40:57 +0000",
          "title" : "7 Reasons Why You're Not Improving at Chess"
-      },
-      {
-         "description" : "Magnus Carlsen was a mate-in-3 against Vidit away from a perfect 8/8 in the Pro Chess League, but instead he crashed to defeat as the Canada Chessbrahs lost their Week 2 match. The winners, the Indian Yogis, are one of four teams that can now qualify for the Playoffs with two weeks to spare, while four teams, including Fabiano Caruana's Saint Louis Arch Bishops, can be eliminated this week.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-misses-mate-in-3-in-pro-chess-league-drama",
-         "pubDate" : "Tue, 28 Feb 2023 08:26:56 +0000",
-         "title" : "Carlsen misses mate-in-3 in Pro Chess League drama"
       }
    ]
 }
