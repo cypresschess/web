@@ -10,6 +10,14 @@ news_feed (
          "title" : "A fresh idea against the Scotch"
       },
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Tue, 21 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
          "description" : "Hikaru Nakamura is still the only player to win a classical game in the open section of the American Cup after he powered to a 1.5:0.5 victory over Leinier Dominguez. Hikaru will face Wesley So, who overcame Fabiano Caruana in rapid tiebreaks. For a second year in a row, 13-year-old Alice Lee will face 8-time US Women's Champion Irina Krush in the Champions final of the American Women's Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-s-candidates-final-lei-tingjie-and-tan-zhongyi-face-off-in-chongqing-china",
          "pubDate" : "Mon, 20 Mar 2023 15:05:00 +0100",
          "title" : "Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Mon, 20 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br />URS-ch U18 Leningrad, 1946 <script>new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e3 ",
@@ -1720,14 +1720,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/",
          "pubDate" : "Tue, 28 Feb 2023 17:00:00 +0000",
          "title" : "Black History Month 2023 - A Chess Tribute"
-      },
-      {
-         "description" : "The Russian Chess Federation is leaving Europe to become part of the Asian Chess Federation after 29 delegates voted in favour, with only 1 against and 6 abstentions, in today's Asian Chess Summit in Abu Dhabi. The change, clearly motivated by the consequences of Russia's invasion of Ukraine, has been described as \"scandalous\" by European Chess Union Vice President Malcolm Pein.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/asia-votes-29-1-to-admit-russian-chess-federation",
-         "pubDate" : "Tue, 28 Feb 2023 15:00:32 +0000",
-         "title" : "Asia votes 29:1 to admit Russian Chess Federation"
       }
    ]
 }
