@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Tue, 21 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-6-lichessorg",
+         "pubDate" : "Tue, 21 Mar 2023 18:08:05 +0000",
+         "title" : "The American Cup 2023: Day 6 | lichess.org"
+      },
+      {
+         "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-membership-statistics/",
+         "pubDate" : "Tue, 21 Mar 2023 16:37:07 +0000",
+         "title" : "ECF Membership Statistics"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her semifinal Game 2 victory over Nazi Paikidze in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-ready-fight-irina-krush-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eodMFptvA6M.jpg?itok=BLQWAATD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-ready-fight-irina-krush-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 15:07:55 +0000",
+         "title" : "Alice Lee: Ready to Fight Irina Krush! | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his Game 2 semifinal win over Leinier Dominguez in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-surprised-leinier-my-opening-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFv7t294V-o.jpg?itok=oOZ_fiaw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-surprised-leinier-my-opening-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 15:07:55 +0000",
+         "title" : "Nakamura: Surprised Leinier With My Opening! | Day 4"
+      },
+      {
          "description" : "In the current ChessBase Magazine #212 you will find new repertoire ideas for eleven different openings - from the English Opening to the King's Indian. In his search for a suitable weapon against the Scotch, Lars Schandorff has come across a fresh idea with which Black immediately seeks active play: After 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 (Schandorff's favourite) 5.Nb3 Bb6 6.Nc3 7.Qe2 he recommends 7...a5!?. In his analysis, this idea has proved so successful that he even sees White facing the task of looking for new ideas in the alternative variations with 5.Nxc6 or 5.Be3. Take a look!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,30 +282,6 @@ news_feed (
          "title" : "Wesley So: Uncertain of Taking Risks Against Fabi | Day 3"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after his Game 1 draw against Wesley So in the semifinals of The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-wesley-will-press-win-tomorrow-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jYKern-Fi2M.jpg?itok=aoT5evav\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-wesley-will-press-win-tomorrow-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Caruana: Wesley Will Press for a Win Tomorrow | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tatev Abrahamyan talks to Cristian Chirila after she eliminates Katerina Nemcova 2-0 in The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tatev-despite-high-pressure-survives-nemcova-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aPf9D7H168E.jpg?itok=J4F2kLbt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tatev-despite-high-pressure-survives-nemcova-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Tatev: Despite High Pressure, Survives Nemcova | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Sam Sevian in The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-rapid-rest-event-so-beautiful-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fWjwJc4Ntrs.jpg?itok=-em1Jkys\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-rapid-rest-event-so-beautiful-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Aronian: Rapid for the Rest of Event! 'So Beautiful' | Day 3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -370,7 +386,7 @@ news_feed (
          "title" : "Chess to make first appearance at European Games"
       },
       {
-         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years. The Sergey Karjakin (2016) and Fabiano Caruana (2018) matches were tied The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
@@ -1106,14 +1122,6 @@ news_feed (
          "title" : "Sarana snatches sole European Championship lead"
       },
       {
-         "description" : "For the first time at the 2023 European Championship, Anton Korobov is not at least sharing the lead. The Ukrainian GM was defeated by Alexey Sarana, who thus climbed to sole first place in the standings. Now sharing second place with Korobov on 7/9 points are six more players: Etienne Bacrot, Benjamin Gledura, Kirill Shevchenko, Andrey Esipenko, Valentin Dragnev and David Paravyan. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r9",
-         "pubDate" : "Sun, 12 Mar 2023 10:30:00 +0100",
-         "title" : "European Championship: Sarana beats Korobov, takes the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1704,22 +1712,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/",
          "pubDate" : "Wed, 01 Mar 2023 04:50:40 +0000",
          "title" : "2nd IM norm for Brewington Hardaway!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2260",
-         "pubDate" : "Tue, 28 Feb 2023 17:06:15 +0000",
-         "title" : "FIDE Circuit Leaderboard: Wesley So takes the lead"
-      },
-      {
-         "description" : " Greetings everyone!This year's Black History Month will feature a video commemoration recounting the importance of the month-long celebration, some key moments in history, and also thoughts about why championing chess in the Black community is important to the growth of the sport/game. Part of the success of chess will come with outreach initiatives and recognizing The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/\">Black History Month 2023 A Chess Tribute</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/28/black-history-month-2023-a-chess-tribute/",
-         "pubDate" : "Tue, 28 Feb 2023 17:00:00 +0000",
-         "title" : "Black History Month 2023 - A Chess Tribute"
       }
    ]
 }
