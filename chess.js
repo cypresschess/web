@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his champions bracket semifinal playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-takes-down-fabi-semifinal-playoffs-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-takes-down-fabi-semifinal-playoffs-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 21:08:06 +0000",
+         "title" : "Wesley Takes Down Fabi in Semifinal Playoffs! | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of each of the classical semifinal champions bracket matches, plus playoffs if necessary. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 21:08:06 +0000",
+         "title" : "The American Cup 2023: Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Players from both fields in The American Cup 2023 give their thoughts on the rare double-elimination format. This aired during Day 5. 2023.03.16<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-double-elimination-format\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PEGTxfbG58g.jpg?itok=djntRWw5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-double-elimination-format",
+         "pubDate" : "Tue, 21 Mar 2023 21:08:06 +0000",
+         "title" : "The American Cup 2023: Double-Elimination Format"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/worldquant-sponsors-online-chess/",
+         "pubDate" : "Tue, 21 Mar 2023 19:34:48 +0100",
+         "title" : "WorldQuant sponsors online chess"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,30 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/shankland-edges-out-robson-blitz-playoff-day-3",
          "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
          "title" : "Shankland Edges Out Robson in Blitz Playoff | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical final champions bracket matches. Plus, two rapid second round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/b",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-5-lichessorg",
-         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
-         "title" : "The American Cup 2023: Day 5 | lichess.org"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of each of the classical semifinal champions bracket matches. Plus, two rapid first round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.19<br /> USChessChamps.com ROUND 2 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Leinier Dominguez<br /> Fabiano Caruana<br /> vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
-         "title" : "The American Cup 2023: Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his Game 1 draw against Fabiano Caruana in the semifinals of The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-uncertain-taking-risks-against-fabi-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9LrCtiDrUZA.jpg?itok=1Ls_N3Dx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-uncertain-taking-risks-against-fabi-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Wesley So: Uncertain of Taking Risks Against Fabi | Day 3"
       },
       {
          "description" : "",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ellen-carlsen-reports-harassment-after-shahade-tweet",
          "pubDate" : "Sat, 11 Mar 2023 10:09:00 -0800",
          "title" : "Shahade Tweet Motivates Ellen Carlsen To Report Harassment"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Wadim Rosenstein</strong>, sponsor of the recent world class <strong>WR Masters</strong> in D&uuml;sseldorf, has <a href=\"https://dsb2023.de\">presented his candidacy</a> as President of the <strong>German Chess Federation</strong> to clean up <a href=\"https://www.chesstech.org/2023/financial-turmoil-leads-to/\">the mess left</a> by <strong>Ullrich Krause</strong> who will not run again in the May election after he had to acknowledge financial losses of close to €600,000. Rosenstein's team includes <strong>Paul Meyer Dunker</strong>, President of the <strong>Berlin Chess Federation</strong> and Social Media Director of the Schachbund, who is",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/rosenstein-runs-for-schachbund/",
-         "pubDate" : "Sat, 11 Mar 2023 18:18:57 +0100",
-         "title" : "Rosenstein runs for Schachbund President"
       },
       {
          "description" : "Do you only watch an award show if someone gets slapped in the face? Well, you&#39;re in luck (again)! Back for its second year, The Streamer Awards are happening on Saturday, March 11, starting at 3 p.m. PT, and it&#39;s being presented by and strea...",
