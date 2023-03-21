@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the current ChessBase Magazine #212 you will find new repertoire ideas for eleven different openings - from the English Opening to the King's Indian. In his search for a suitable weapon against the Scotch, Lars Schandorff has come across a fresh idea with which Black immediately seeks active play: After 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 (Schandorff's favourite) 5.Nb3 Bb6 6.Nc3 7.Qe2 he recommends 7...a5!?. In his analysis, this idea has proved so successful that he even sees White facing the task of looking for new ideas in the alternative variations with 5.Nxc6 or 5.Be3. Take a look!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-fresh-idea-against-the-scotch",
+         "pubDate" : "Tue, 21 Mar 2023 15:00:00 +0100",
+         "title" : "A fresh idea against the Scotch"
+      },
+      {
+         "description" : "Hikaru Nakamura is still the only player to win a classical game in the open section of the American Cup after he powered to a 1.5:0.5 victory over Leinier Dominguez. Hikaru will face Wesley So, who overcame Fabiano Caruana in rapid tiebreaks. For a second year in a row, 13-year-old Alice Lee will face 8-time US Women's Champion Irina Krush in the Champions final of the American Women's Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-so-and-krush-lee-in-american-cup-finals",
+         "pubDate" : "Tue, 21 Mar 2023 13:19:32 +0000",
+         "title" : "Nakamura-So and Krush-Lee in American Cup finals"
+      },
+      {
+         "description" : "The series of open national competitions for the World Solving Cup 2022/23 continued this month, with events in Poland and the Netherlands. Kacper Piorun won the Polish competition, while Nikos Sidiropoulos (Greece) was the winner in the Dutch event. In Poland, eight minutes decided the winner; in the Netherlands, one subtle endgame study made the difference.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-solving-cup-2023-titles-for-piorun-and-sidiropoulos",
+         "pubDate" : "Tue, 21 Mar 2023 13:00:00 +0100",
+         "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
+      },
+      {
+         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-from-other-than-north-eastern-state-andaman-nicobar-assam-arunachal-pradesh-manipur-meghalaya-mizoram-sikkim-and-tripura/",
+         "pubDate" : "Tue, 21 Mar 2023 11:58:25 +0000",
+         "title" : "Medical Evaluation of the age of Chess Players from other than North Eastern State (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
+      },
+      {
          "description" : "The 9th edition of the London Chess Conference took place from 17-19 March 2023. The theme of the 2023 London Chess Conference was Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The participants and speakers represented 32 countries with the opportunity to form partnerships and collaborations with each other&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023-concluded/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -58,12 +90,12 @@ news_feed (
          "title" : "American Cup: Nakamura beats Dominguez, So takes down Caruana"
       },
       {
-         "description" : "The 2023 American Cup continued in St. Louis on Monday with championship bracket semifinals that were won by GMs Hikaru Nakamura and Wesley So respectively. Nakamura was in fine form with the black pieces and outplayed GM Lenier Dominguez in the m...",
+         "description" : "The 2023 American Cup continued in St. Louis on Monday with championship bracket semifinals that were won by GMs Hikaru Nakamura and Wesley So respectively. Nakamura was in fine form with the black pieces and outplayed GM Leinier Dominguez in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-4",
-         "pubDate" : "Mon, 20 Mar 2023 21:10:38 -0700",
-         "title" : "Nakamura Defeats Dominguez With Black, So Knocks Caruana"
+         "pubDate" : "Mon, 20 Mar 2023 21:10:00 -0700",
+         "title" : "Nakamura With Black Defeats Dominguez, So Overcomes Caruana"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his championship bracket playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-takes-down-fabi-day-4-playoffs\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
@@ -1082,14 +1114,6 @@ news_feed (
          "title" : "European Championship: Sarana beats Korobov, takes the lead"
       },
       {
-         "description" : "The last day of play at the Armageddon Series Championship Series in Berlin again promises exciting blitz and frantic chess: Sam Shankland faces Andrew Tang to decide who will play Wesley So in the tournament's final, which will take place right after that match is over. In both matches, two blitz games will be played; in case of a 1-1 tie, an Armageddon game will follow. Start: 19.00 CET. Follow the games live and with commentary by Simon Williams and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-live-start-19-00-cet",
-         "pubDate" : "Sun, 12 Mar 2023 09:00:00 +0100",
-         "title" : "Armageddon live - Start: 19.00 CET"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,14 +1128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
          "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
          "title" : "The Chess Drum on \"Talking Talent\""
-      },
-      {
-         "description" : "'The Underdog' is the newest series on ChessBase. We will witness some of the greatest upsets of the month, where dark horses get to beat the rating favourite! Robert Ris shares some beautiful examples, in which a rating difference of 500 or more points simply does not make a difference. One of the biggest upsets this month was achieved by Josephine Heinemann, who got the better of Hikaru Nakamura. What a brilliant start to the series!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/when-the-underdog-wins-chess-master-with-563-points-more-elo-is-taken-down",
-         "pubDate" : "Sat, 11 Mar 2023 20:00:00 +0100",
-         "title" : "When the underdog wins! Beating a player 563 points higher rated"
       },
       {
          "description" : "Ellen Carlsen, GM Magnus Carlsen&#39;s older sister, says WGM Jennifer Shahade&#39;s allegations against Alejandro Ramirez led to her report an incident where she says she was harassed by a chess player as a minor. Shahade&#39;s shocking tweet alleging that...",
@@ -1674,14 +1690,6 @@ news_feed (
          "title" : "Solvers' dilemma: Netherlands or Poland?"
       },
       {
-         "description" : "Indian Chess School on behalf of All India Chess Federation, Arbiter Commission AICF &#38; Maharashtra Chess Association organised a Senior National Arbiter Seminar &#38; Examination",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-mumbai-from-25-to-26-february-2023final-report/",
-         "pubDate" : "Wed, 01 Mar 2023 11:54:19 +0000",
-         "title" : "Senior National Arbiter Seminar and Examination, Mumbai from 25 to 26 February 2023:Final Report"
-      },
-      {
          "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1720,22 +1728,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/asia-votes-29-1-to-admit-russian-chess-federation",
          "pubDate" : "Tue, 28 Feb 2023 15:00:32 +0000",
          "title" : "Asia votes 29:1 to admit Russian Chess Federation"
-      },
-      {
-         "description" : " The 23rd European Individual Championship takes place Friday 3rd to Monday 13th March 2023 in Vrnjacka Banja, Serbia. Leading players: Gabriel Sargissian, Haik Martirosyan , Radoslaw Wojtaszek, David Navara, Jules Moussard, Alexandr Predke, David Anton Guijarro, Andrey Esipenko, Boris Gelfand, Alexey Sarana etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/23rd-european-individual-championship-2023",
-         "pubDate" : "Tue, 28 Feb 2023 16:23:00 +0400",
-         "title" : "23rd European Individual Championship 2023 - Games and Results"
-      },
-      {
-         "description" : " You aren't improving at Chess despite your best efforts? You are not alone! Plateaus are a normal part of Chess improvement. I'm in daily contact with readers &#38; students who want to overcome barriers in Chess improvement. In this article, I list the 7 most likely reasons why you may not be improving in Chess. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/7-reason-why-youre-not-improving/\">7 Reasons Why You're Not Improving at Chess</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "http://nextlevelchess.blog/7-reason-why-youre-not-improving/",
-         "pubDate" : "Tue, 28 Feb 2023 11:40:57 +0000",
-         "title" : "7 Reasons Why You're Not Improving at Chess"
       }
    ]
 }
