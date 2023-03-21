@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her day 4 victory over Nazi Paikidze. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lee-im-ready-fight-irina-krush-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eodMFptvA6M.jpg?itok=BLQWAATD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lee-im-ready-fight-irina-krush-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 00:07:23 +0000",
+         "title" : "Lee: I'm ready to fight Irina Krush! | Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his day 4 victory over Leinier Dominguez. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-surprised-him-my-opening-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFv7t294V-o.jpg?itok=oOZ_fiaw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-i-surprised-him-my-opening-day-4",
+         "pubDate" : "Tue, 21 Mar 2023 00:07:23 +0000",
+         "title" : "Nakamura: I Surprised Him With My Opening! | Day 4"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,22 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/pourkashiyan-stl-first-timer-adjusts-environment-day-3",
          "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
          "title" : "Pourkashiyan: STL First-Timer Adjusts to the Environment | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after a draw with Hikaru Nakamura in Game 1 of the semifinals of The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-will-try-win-against-nakamura-game-2-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FOW57-pFOwY.jpg?itok=0v8PQsN3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-will-try-win-against-nakamura-game-2-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Dominguez: Will Try to Win Against Nakamura in Game 2 | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Begim Tokhirjonova in Game 2 of their semifinal match in The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-im-aggressive-too-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wtJlRb4OWOA.jpg?itok=UCLP0r-W\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-im-aggressive-too-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Krush: I'm Aggressive Too! | Day 3"
       },
       {
          "description" : "",
