@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura and Wesley So advanced to the final match of the champions bracket in the open section of the American Cup after beating Leinier Dominguez and Fabiano Caruana respectively. Among the women, Irina Krush and Alice Lee scored 1&frac12;-&frac12; wins to set up a rematch from last year's edition in the final. The losers of the day still have chances to win both events, via the elimination brackets. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d4",
+         "pubDate" : "Tue, 21 Mar 2023 06:50:00 +0100",
+         "title" : "American Cup: Nakamura beats Dominguez, So takes down Caruana"
+      },
+      {
+         "description" : "The 2023 American Cup continued in St. Louis on Monday with championship bracket semifinals that were won by GMs Hikaru Nakamura and Wesley So respectively. Nakamura was in fine form with the black pieces and outplayed GM Lenier Dominguez in the m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-4",
+         "pubDate" : "Mon, 20 Mar 2023 21:10:38 -0700",
+         "title" : "Nakamura Defeats Dominguez With Black, So Knocks Caruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his championship bracket playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-takes-down-fabi-day-4-playoffs\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-takes-down-fabi-day-4-playoffs",
+         "pubDate" : "Tue, 21 Mar 2023 03:07:40 +0000",
+         "title" : "So Takes Down Fabi in Day 4 Playoffs!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her day 4 victory over Nazi Paikidze. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lee-im-ready-fight-irina-krush-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eodMFptvA6M.jpg?itok=BLQWAATD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,14 +50,6 @@ news_feed (
          "title" : "International Chess Festival Baku Open 2023 announced"
       },
       {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Mon, 20 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "Ilamparthi A R (born in 2009) is one of the most promising talents from India, a country with a lot of promising talents. He is the U14 World Champion, India's youngest International Master and has just won the U14 tournament at the WR Masters in D&uuml;sseldorf. When Ilamparthi visited the ChessBase headquarters in Hamburg, he and Karsten had fun analysing some tricky endgames together. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,12 @@ news_feed (
          "title" : "Endgame Magic #232 with Ilamparthi A R: Endgame highlights from the WR Chess Masters in D&uuml;sseldorf"
       },
       {
-         "description" : "Day 3 of the American Cup saw four players eliminated from the tournament, as the first matches of the Elimination Bracket took place. Levon Aronian knocked out Sam Sevian, while Sam Shankland won a hotly contested playoff against Ray Robson. Meanwhile, in the women's section, Tatev Abrahamyan took down Katerina Nemcova, while newcomer WGM Atousa Pourkashiyan sent Anna Zatonskih home with a 1&frac12;-&frac12; victory. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "description" : "The 2023 FIDE Women's Candidates Final will be disputed in Chongqing (China) from March 27th to April 6th. Chinese Grandmasters Lei Tingjie and Tan Zhongyi will face each other in a six-game classical chess match. The winner will receive 60,000 Euros and the right to challenge the current Women's World Champion, Ju Wenjun, for the title in July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d3",
-         "pubDate" : "Mon, 20 Mar 2023 17:55:00 +0100",
-         "title" : "American Cup: Shankland knocks out Robson in dramatic match"
+         "link" : "https://en.chessbase.com/post/women-s-candidates-final-lei-tingjie-and-tan-zhongyi-face-off-in-chongqing-china",
+         "pubDate" : "Mon, 20 Mar 2023 15:05:00 +0100",
+         "title" : "Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
          "pubDate" : "Mon, 20 Mar 2023 15:00:00 +0100",
          "title" : "European Women's Chess Championship - Live!"
-      },
-      {
-         "description" : "The 2023 FIDE Women's Candidates Final will be disputed in Chongqing (China) from March 27th to April 6th. Chinese Grandmasters Lei Tingjie and Tan Zhongyi will face each other in a six-game classical chess match. The winner will receive 60,000 Euros and the right to challenge the current Women's World Champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-candidates-final-lei-tingjie-and-tan-zhongyi-face-off-in-chongqing-china",
-         "pubDate" : "Mon, 20 Mar 2023 14:25:14 +0100",
-         "title" : "Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
          "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br />URS-ch U18 Leningrad, 1946 <script>new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e3 ",
@@ -87,7 +95,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2290",
          "pubDate" : "Mon, 20 Mar 2023 11:38:48 +0000",
-         "title" : "RFIDE Grand Swiss and Women's Grand Swiss offer record prize fund"
+         "title" : "FIDE Grand Swiss and Women's Grand Swiss offer record prize fund"
       },
       {
          "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
@@ -104,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/rainer-knaak-70-birthday",
          "pubDate" : "Mon, 20 Mar 2023 10:00:00 +0100",
          "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
+      },
+      {
+         "description" : "Day 3 of the American Cup saw four players eliminated from the tournament, as the first matches of the Elimination Bracket took place. Levon Aronian knocked out Sam Sevian, while Sam Shankland won a hotly contested playoff against Ray Robson. Meanwhile, in the women's section, Tatev Abrahamyan took down Katerina Nemcova, while newcomer WGM Atousa Pourkashiyan sent Anna Zatonskih home with a 1&frac12;-&frac12; victory. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d3",
+         "pubDate" : "Mon, 20 Mar 2023 09:55:00 +0100",
+         "title" : "American Cup: Shankland knocks out Robson in dramatic match"
       },
       {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-rapid-rest-event-so-beautiful-day-3",
          "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
          "title" : "Aronian: Rapid for the Rest of Event! 'So Beautiful' | Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Atousa Pourkashiyan talks to Cristian Chirila after eliminating Anna Zatonskih from The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pourkashiyan-stl-first-timer-adjusts-environment-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HTyDlBvoLjE.jpg?itok=zDf9kjl_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pourkashiyan-stl-first-timer-adjusts-environment-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 00:06:35 +0000",
-         "title" : "Pourkashiyan: STL First-Timer Adjusts to the Environment | Day 3"
       },
       {
          "description" : "",
@@ -1328,14 +1336,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/new-junior-chess-academy/",
          "pubDate" : "Wed, 08 Mar 2023 14:21:46 +0000",
          "title" : "New junior chess academy"
-      },
-      {
-         "description" : "She is one of Iran&#39;s top chess players who made headlines around the world when she went into exile for refusing to wear a headscarf at the 2022 FIDE World Rapid and Blitz Championships. Now, in the International Women&#39;s Day edition of Elle maga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/from-chess-star-to-cover-star-elle-features-sara-khadem",
-         "pubDate" : "Wed, 08 Mar 2023 05:56:00 -0800",
-         "title" : "From Exile To Cover Star: Iranian IM Sara Khadem Featured In Elle Magazine"
       },
       {
          "description" : "Anton Korobov reached the only perfect score after five rounds of the European Championship in Vrnjacka Banja, Serbia after beating his Ukrainian countryman Ruslan Ponomariov in a wild game in Round 5. With six rounds to go, however, 42 players are still within a point of the leader.",
