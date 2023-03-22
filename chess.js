@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. 618 games (20 annotated) from the Schachbundesliga, Meltwater Tour Tournament and the U.S. Championship, plus 12 opening surveys, 8 demo lectures and several exercises for training. Annotators include Loek Van Wely, Pavel Eljanov and Luke McShane, Erwin L'Ami, Nikita Vitiugov, Nils Grandelius and Gawain Jones among others. The icing on the cake is a feature on Misha Tal with 21 annotated games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-211-review-nagesh-havanur",
+         "pubDate" : "Wed, 22 Mar 2023 08:35:00 +0100",
+         "title" : "CBM 211: Battle of giants in the Bundesliga"
+      },
+      {
          "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -130,14 +138,6 @@ news_feed (
          "title" : "A fresh idea against the Scotch"
       },
       {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Tue, 21 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
-      },
-      {
          "description" : "Hikaru Nakamura is still the only player to win a classical game in the open section of the American Cup after he powered to a 1.5:0.5 victory over Leinier Dominguez. Hikaru will face Wesley So, who overcame Fabiano Caruana in rapid tiebreaks. For a second year in a row, 13-year-old Alice Lee will face 8-time US Women's Champion Irina Krush in the Champions final of the American Women's Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -240,6 +240,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-232-with-ilamparthi-a-r-endgame-highlights-from-the-wr-chess-masters-in-duesseldorf",
          "pubDate" : "Mon, 20 Mar 2023 18:00:00 +0100",
          "title" : "Endgame Magic #232 with Ilamparthi A R: Endgame highlights from the WR Chess Masters in D&uuml;sseldorf"
+      },
+      {
+         "description" : "In the previous fortnightly report on the world's two leading engine vs. engine competitions, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html\">TCEC S24 L1, CCC20 Blitz Semifinals: Final Week</A>(March 2023), both the TCEC and CCC were well into their respective seasons. Following is a summary of that report. <BLOCKQUOTE>TCEC: S24 L1 is underway with Koivisto leading by a significant margin. Berserk is in a tie for second place. &#149; CCC: Of the 12 engines that competed in 'CCC20 Blitz Main', six qualified into the 'CCC20 Blitz Semifinals', which is underway. </BLOCKQUOTE> <P>After another two weeks, both competitions are seeing the usual three ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html",
+         "pubDate" : "Mon, 20 Mar 2023 16:46:00 +0000",
+         "title" : "TCEC S24 DivP, CCC20 Blitz Final : Both Underway"
       },
       {
          "description" : "The 2023 FIDE Women's Candidates Final will be disputed in Chongqing (China) from March 27th to April 6th. Chinese Grandmasters Lei Tingjie and Tan Zhongyi will face each other in a six-game classical chess match. The winner will receive 60,000 Euros and the right to challenge the current Women's World Champion, Ju Wenjun, for the title in July.",
