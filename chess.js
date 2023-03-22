@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daniil Dubov and GM Vladimir Kramnik won Titled Tuesday on March 21. Kramnik, 47, was the world chess champion from 2000 to 2007. He retired from over-the-board tournament chess in 2019 but has been active in Chess.com rapid and blitz events in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-kramnik-win-titled-tuesday-march-21-2023",
+         "pubDate" : "Wed, 22 Mar 2023 08:06:29 -0700",
+         "title" : "Former World Champ Roars Back With Big Win In Tuesday Blitz"
+      },
+      {
+         "description" : " I'm currently in Nova Gorica in Slovenia and had the privilege of playing against Alexander Beliavsky with Black. This was always going to be a tough assignment, especially when I chose to play an opening in which he is an acknowledged expert, the Queen's Gambit Declined. Although I haven't had a massive amount of personal <a href=\"https://chessimprover.com/black-against-beliavsky/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Black against Beliavsky\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/black-against-beliavsky/\">Black against Beliavsky</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/black-against-beliavsky/",
+         "pubDate" : "Wed, 22 Mar 2023 14:00:04 +0000",
+         "title" : "Black against Beliavsky"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Wed, 22 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "In the most thrilling match of the tournament so far, Levon Aronian knocked out Fabiano Caruana to remain alive in the elimination bracket, where he is set to face Leinier Dominguez next. In the women's elimination bracket, Nazi Paikidze and Gulrukhbegim Tokhirjonova were the winners of the day and will face off on Wednesday. Meanwhile, in the champions brackets, draws were seen in both sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d5",
+         "pubDate" : "Wed, 22 Mar 2023 14:30:00 +0100",
+         "title" : "American Cup: Aronian knocks out Caruana in Armageddon"
+      },
+      {
+         "description" : "Levon Aronian twice won on demand before clinching victory in Armageddon to knock defending champion Fabiano Caruana out of the 2023 American Cup. \"I told Fabiano that we're creating content!\" said Levon, and that was the standout action on a day of two quiet classical draws in the Nakamura-So and Krush-Lee Champions finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/levon-aronian-beats-fabiano-caruana-in-armageddon",
+         "pubDate" : "Wed, 22 Mar 2023 13:07:33 +0000",
+         "title" : "Levon Aronian beats Fabiano Caruana in Armageddon"
+      },
+      {
+         "description" : " Two pawns abreast was some simple positional advice i once heard spoken by IM Robert Jamieson. Having central pawns side by side usually serves two purposes. The first is to efficiently cover the 4 squares in front of them, and the second is to support the necessary pawn break often needed to transform the position into a better on. On the following rapid game, I had the former, but not the later. But this was because my opponent felt the lack of space in his position required a pawn grab, which unfortunately for him, was unsound. <br /> <b>Press,Shaun - Rowe,Arief [D06]</b><br />Gungahlin Rapid (1), 21.03.2023 <script>new PgnViewer( { boardName: \"game1389\", movesFormat: \"default\", pgnStrin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/the-phalanx.html",
+         "pubDate" : "Wed, 22 Mar 2023 13:07:00 +0000",
+         "title" : "The Phalanx"
+      },
+      {
+         "description" : "The English Chess Federation invites bids from those interested for Commentary, Bookstall, and Coaching for the British Chess Championships 2023. Closing date for applications is...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc-2023-tender-letters/",
+         "pubDate" : "Wed, 22 Mar 2023 11:51:51 +0000",
+         "title" : "BCC 2023 tenders"
+      },
+      {
+         "description" : "We have some good news for you. The Slovakian GM Jan Markos has created his first Fritztrainers for ChessBase, and their release is just around the corner. It is time to meet your new Fritztrainer in our interview. Jan understands to break complex themes down to several rule of thumbs which are very practical for your own play. With these guidelines it seems easy to improve your own middlegame play. Jan has written a number of chess books and enjoys chess because of the game, not mainly to achieve goals. This and some of his philosophies, which he has studied all his life, make him such a popular person. | Photos: Jan Markos",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-jn-marko",
+         "pubDate" : "Wed, 22 Mar 2023 12:51:12 +0100",
+         "title" : "Meet The Fritztrainer - J&aacute;n Markoš"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. 618 games (20 annotated) from the Schachbundesliga, Meltwater Tour Tournament and the U.S. Championship, plus 12 opening surveys, 8 demo lectures and several exercises for training. Annotators include Loek Van Wely, Pavel Eljanov and Luke McShane, Erwin L'Ami, Nikita Vitiugov, Nils Grandelius and Gawain Jones among others. The icing on the cake is a feature on Misha Tal with 21 annotated games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,8 +86,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-5",
-         "pubDate" : "Tue, 21 Mar 2023 21:45:23 -0700",
-         "title" : "Aronian Elimates Caruana In Thrilling Armageddon Playoff"
+         "pubDate" : "Tue, 21 Mar 2023 21:45:00 -0700",
+         "title" : "Aronian Eliminates Caruana In Thrilling Armageddon Playoff"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Fabiano Caruana in an armageddon playoff in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2YqH7Phm3hA.jpg?itok=_PuV2Vl1\" alt=\"\" /></a></div>",
@@ -112,14 +176,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/worldquant-sponsors-online-chess/",
          "pubDate" : "Tue, 21 Mar 2023 19:34:48 +0100",
          "title" : "WorldQuant sponsors online chess"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Tue, 21 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
@@ -1066,14 +1122,6 @@ news_feed (
          "title" : "European Championship: Shevchenko joins the lead"
       },
       {
-         "description" : "Wesley So emerged victorious in the first event of the Armageddon Championship Series 2023, organized by World Chess. So's flawless performance secured him a spot in September's Grand Finale, along with Sam Shankland, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wesley-so-wins-armageddon-series-americas",
-         "pubDate" : "Mon, 13 Mar 2023 08:00:00 +0100",
-         "title" : "Wesley So wins 'Armageddon Series: Americas'"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1168,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
          "pubDate" : "Sun, 12 Mar 2023 16:19:00 +0000",
          "title" : "I Should Just Focus on the Chess"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 116th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-116-play-the-sicilian-17",
-         "pubDate" : "Sun, 12 Mar 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 116: Play the Sicilian (17)"
       },
       {
          "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br />Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script>new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 ",
@@ -1376,14 +1416,6 @@ news_feed (
          "link" : "https://aicf.in/fide-trainers-online-seminar-17-19-mar-23/",
          "pubDate" : "Thu, 09 Mar 2023 09:24:02 +0000",
          "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
-      },
-      {
-         "description" : "The fourth week of the 2023 Pro Chess League started with victories by the Shanghai Tigers and Blitz over the Croatia Bulldogs and Brazil Capybaras, respectively. After losing badly in round one (0.5-3.5), the Tigers bared their fangs and dominate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-tigers-blitz",
-         "pubDate" : "Wed, 08 Mar 2023 14:24:00 -0800",
-         "title" : "Tigers Sweep Bulldogs 4-0, Advance To Playoffs; Blitz Wins Battle On Board 4"
       },
       {
          "description" : "On Monday 27th February 2023 a new chess academy started in Staffordshire, which will run every Monday from 1.00pm till 2.30pm (except Bank Holiday Mondays)....",
@@ -1674,36 +1706,12 @@ news_feed (
          "title" : "The Immortal Games of Capablanca"
       },
       {
-         "description" : " IM Kostya Kavutskiy The 2 knights versus pawn endgames have always fascinated me. In one of my older articles, I have mentioned that I won such an endgame in correspondence chess versus a Russian players. You can imagine that I jumped at the opportunity to solve such a puzzle. This has happened this past week. <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/\">&#8220;Tactics are temporary, endgames are permane",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-4/",
-         "pubDate" : "Wed, 01 Mar 2023 22:05:50 +0000",
-         "title" : "\"Tactics are temporary, endgames are permanent\" (4)"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2262",
          "pubDate" : "Wed, 01 Mar 2023 17:28:46 +0000",
          "title" : "FIDE March 2023 rating list published"
-      },
-      {
-         "description" : "16-year-old Indian prodigy Gukesh is back at a career high world no. 18 on the March 2023 FIDE rating list after gaining 12 points in the recent WR Chess Masters. The winner, Levon Aronian, is up to world no. 12, while Sergey Karjakin is no longer in the world top 10 after failing to play a classical game in the last year.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/march-fide-ratings-gukesh-aronian-climb-karjakin-out",
-         "pubDate" : "Wed, 01 Mar 2023 13:44:15 +0000",
-         "title" : "March 2023 FIDE Ratings: Gukesh & Aronian rise, Karjakin out"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2261",
-         "pubDate" : "Wed, 01 Mar 2023 12:30:20 +0000",
-         "title" : "Solvers' dilemma: Netherlands or Poland?"
       }
    ]
 }
