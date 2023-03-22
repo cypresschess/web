@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Wed, 22 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2293",
+         "pubDate" : "Wed, 22 Mar 2023 16:37:25 +0000",
+         "title" : "FIDE and Tech Mahindra Announce Dates for First & Biggest Global Chess League"
+      },
+      {
          "description" : "GM Daniil Dubov and GM Vladimir Kramnik won Titled Tuesday on March 21. Kramnik, 47, was the world chess champion from 2000 to 2007. He retired from over-the-board tournament chess in 2019 but has been active in Chess.com rapid and blitz events in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dubov-kramnik-win-titled-tuesday-march-21-2023",
          "pubDate" : "Wed, 22 Mar 2023 08:06:29 -0700",
          "title" : "Former World Champ Roars Back With Big Win In Tuesday Blitz"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An analysis of games by professional go players, <a href=\"https://www.pnas.org/doi/full/10.1073/pnas.2214840120\">published</a> in <strong>PNAS</strong>, shows that the appearance of <strong>DeepMind's AlphaGo</strong> in 2016 led to novel strategies, accelerated innovation and generally improved decision-making in the game of go. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/big-ai-impact-on-go-play/",
+         "pubDate" : "Wed, 22 Mar 2023 15:30:54 +0100",
+         "title" : "Big AI impact on Go play"
       },
       {
          "description" : " I'm currently in Nova Gorica in Slovenia and had the privilege of playing against Alexander Beliavsky with Black. This was always going to be a tough assignment, especially when I chose to play an opening in which he is an acknowledged expert, the Queen's Gambit Declined. Although I haven't had a massive amount of personal <a href=\"https://chessimprover.com/black-against-beliavsky/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Black against Beliavsky\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/black-against-beliavsky/\">Black against Beliavsky</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "My Latest Releases on Vimeo"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> When you play in a competition, nobody tells you if there is a tactical shot on your board. My solution to train tactical alertness is <strong>Puzzle Inception</strong>. Here is how it works. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/people/martin-bennedik.1920.jpeg\" title=\"Martin Bennedik is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in correspondence chess and founder of Chesspuzzle.net. \" data-title=\"**Martin Bennedik** is a freelance .NET developer based in Frankfurt am Main, Germany, club player, International Master in corres",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/fixing-tactics-training/",
-         "pubDate" : "Wed, 15 Mar 2023 10:08:25 +0100",
-         "title" : "Fixing Tactics Training"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norway Chess</strong> 2023 <a href=\"https://norwaychess.no/en/2023/03/14/the-2023-line-up-is-here/\">lineup has been announced</a> with then former world champion <strong>Magnus Carlsen</strong>, first timers <strong>Nodirbek Abdusattorov</strong> and <strong>Gukesh</strong> as well as, after a long classical chess break, <strong>Alireza Firouzja</strong>. The event takes place in Stavanger from 29 May to 9 June. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-at-pune-maharashtra-04-05-march-2023/",
          "pubDate" : "Mon, 13 Mar 2023 10:11:57 +0000",
          "title" : "Senior National Arbiter's Seminar & Examination at Pune , Maharashtra 04-05 March , 2023"
-      },
-      {
-         "description" : "As the end of the European Championship approaches, two players share the lead on 8/10 points. Kirill Shevchenko joined Alexey Sarana atop the standings after beating Benjamin Gledura with the white pieces. Twelve players stand a half point behind with one round to go in Vrnjacka Banja. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r10",
-         "pubDate" : "Mon, 13 Mar 2023 10:20:00 +0100",
-         "title" : "European Championship: Shevchenko joins the lead"
       },
       {
          "description" : "",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/",
          "pubDate" : "Thu, 02 Mar 2023 00:10:38 +0000",
          "title" : "The Immortal Games of Capablanca"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2262",
-         "pubDate" : "Wed, 01 Mar 2023 17:28:46 +0000",
-         "title" : "FIDE March 2023 rating list published"
       }
    ]
 }
