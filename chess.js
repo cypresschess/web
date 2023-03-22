@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-below-2000-certificates/",
+         "pubDate" : "Wed, 22 Mar 2023 05:43:40 +0000",
+         "title" : "National Amateur Below 2000 Certificates"
+      },
+      {
+         "description" : "GM Levon Aronian kept his tournament dreams alive in Saint Louis on Tuesday after defeating GM Fabiano Caruana in a monumental clash at The 2023 American Cup. Following six decisive results in their rapid and blitz encounters, an armageddon tiebre...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-5",
+         "pubDate" : "Tue, 21 Mar 2023 21:45:23 -0700",
+         "title" : "Aronian Elimates Caruana In Thrilling Armageddon Playoff"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Fabiano Caruana in an armageddon playoff in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2YqH7Phm3hA.jpg?itok=_PuV2Vl1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 03:08:17 +0000",
+         "title" : "Aronian: Not Ashamed to Celebrate an Armageddon Win! | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical final champions bracket matches. Plus, two rapid second round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.21<br /> USChessChamps.com ROUND 3 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 03:08:17 +0000",
+         "title" : "The American Cup 2023: Day 5"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Make-A-Wish Foundation Wish Kid Collin Graham talks to Cristian Chirila during Day 5 of The American Cup 2023. Collin&#039;s wish was to visit the Saint Louis Chess Campus. Graham rang the bell to ceremonially start the day&#039;s games. Create joy for a child fighting a critical illness at wish.org. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5\"><img src=\"https://sai",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,28 +114,12 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-6-lichessorg",
-         "pubDate" : "Tue, 21 Mar 2023 18:08:05 +0000",
-         "title" : "The American Cup 2023: Day 6 | lichess.org"
-      },
-      {
          "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-membership-statistics/",
          "pubDate" : "Tue, 21 Mar 2023 16:37:07 +0000",
          "title" : "ECF Membership Statistics"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her semifinal Game 2 victory over Nazi Paikidze in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-ready-fight-irina-krush-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eodMFptvA6M.jpg?itok=BLQWAATD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-ready-fight-irina-krush-day-4",
-         "pubDate" : "Tue, 21 Mar 2023 15:07:55 +0000",
-         "title" : "Alice Lee: Ready to Fight Irina Krush! | Day 4"
       },
       {
          "description" : "In the current ChessBase Magazine #212 you will find new repertoire ideas for eleven different openings - from the English Opening to the King's Indian. In his search for a suitable weapon against the Scotch, Lars Schandorff has come across a fresh idea with which Black immediately seeks active play: After 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 (Schandorff's favourite) 5.Nb3 Bb6 6.Nc3 7.Qe2 he recommends 7...a5!?. In his analysis, this idea has proved so successful that he even sees White facing the task of looking for new ideas in the alternative variations with 5.Nxc6 or 5.Be3. Take a look!",
@@ -1362,14 +1378,6 @@ news_feed (
          "title" : "Tigers Sweep Bulldogs 4-0, Advance To Playoffs; Blitz Wins Battle On Board 4"
       },
       {
-         "description" : "The March 7, 2023, editions of Titled Tuesday were won by GM Vladimir Fedoseev early and GM Alireza Firouzja late, both scoring 9.5 points. Falling just shy were GMs Nihal Sarin and Dmitry Andreikin, who also scored 9.5 points but lost due to tieb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fedoseev-firouzja-win-titled-tuesday-march-7-2023",
-         "pubDate" : "Wed, 08 Mar 2023 07:47:31 -0800",
-         "title" : "Firouzja Wins Fashionably Late"
-      },
-      {
          "description" : "On Monday 27th February 2023 a new chess academy started in Staffordshire, which will run every Monday from 1.00pm till 2.30pm (except Bank Holiday Mondays)....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1602,14 +1610,6 @@ news_feed (
          "title" : "Chess: Magnus Carlsen stimulus missed as Levon Aronian wins in D&uuml;sseldorf"
       },
       {
-         "description" : "In the Asian Chess Federation annual summit at Abu Dhabi, the Asian Chess Excellence Awards 2023 has been announced and India shines with bagging the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-chess-excellence-awards-2023-m-k-stalin-conferred-with-man-of-the-year-gukesh-player-of-the-year-and-aicf-bags-most-active-federation-awards/",
-         "pubDate" : "Fri, 03 Mar 2023 05:26:03 +0000",
-         "title" : "Asian Chess Excellence Awards 2023 - M K Stalin conferred with Man of the Year, Gukesh - Player of the year and AICF bags Most Active Federation awards"
-      },
-      {
          "description" : "Magnus Carlsen makes his season debut for Offerspill Chess Club as his club is chasing its first title in the Norwegian League. The three classical games this weekend could be the last he plays as the reigning world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1696,22 +1696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2261",
          "pubDate" : "Wed, 01 Mar 2023 12:30:20 +0000",
          "title" : "Solvers' dilemma: Netherlands or Poland?"
-      },
-      {
-         "description" : " The big decision out of the Asian Chess Summit was the acceptance of the Russian Chess Federation as a member of the Asian Chess Federation. The CFR gave a presentation about how Russia wanted to join with the growing chess powerhouse that is Asia, but the obvious question of \"Why now, exactly?\" was strangely ignored. There were a few legal questions raised, as this was the first time a Federation had changed continents. The main issue was, could the CFR join the ACF without leaving the ECU, or would joining the ACF fulfill the condition of leaving the ECU. Much to late it occurred to me that the simplest solution to all this was for the CFR to resign from FIDE itself, and then apply to rej",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/russia-moves-to-asia.html",
-         "pubDate" : "Wed, 01 Mar 2023 05:05:00 +0000",
-         "title" : "Russia moves to Asia"
-      },
-      {
-         "description" : " Just one month ago, we announced Brewington Hardaway's 1st norm for the International Master title. Well he has earned a second and will need to earn a norm in a Swiss format. This is a new regulation to reduce the chances of earning norms in unethical ways. FM Brewington HardawayPhoto courtesy of Hardaway Family &#8220;Brew&#8221; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/\">2nd IM norm for Brewington Hardaway!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/02/28/2nd-norm-for-brewington-hardaway/",
-         "pubDate" : "Wed, 01 Mar 2023 04:50:40 +0000",
-         "title" : "2nd IM norm for Brewington Hardaway!"
       }
    ]
 }
