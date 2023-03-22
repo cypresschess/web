@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Make-A-Wish Foundation Wish Kid Collin Graham talks to Cristian Chirila during Day 5 of The American Cup 2023. Collin&#039;s wish was to visit the Saint Louis Chess Campus. Graham rang the bell to ceremonially start the day&#039;s games. Create joy for a child fighting a critical illness at wish.org. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5\"><img src=\"https://sai",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
+         "title" : "Wish Kid Collin: I've Been to Hawaii, So I Want to See the Best Play! | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after eliminating Sam Shankland from The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-his-leather-jacket-eliminate-shankland-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j-uES6FZA_E.jpg?itok=pDl4yux0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-his-leather-jacket-eliminate-shankland-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
+         "title" : "Dominguez & His Leather Jacket Eliminate Shankland! | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after eliminating Atousa Pourkashiyan at The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-knocks-pourkashiyan-out-event-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v63Fft9hn0Q.jpg?itok=ox-b5FC3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/begim-knocks-pourkashiyan-out-event-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
+         "title" : "Begim Knocks Pourkashiyan Out of Event | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after eliminating Tatev Abrahamyan in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-i-came-prepared-time-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u3_rqmBpKhQ.jpg?itok=F1LD6Bkv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-i-came-prepared-time-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
+         "title" : "Paikidze: I Came Prepared This Time! | Day 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after a draw with Alice Lee in Game 1 of the champions bracket final in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-no-reason-alice-lee-cant-become-grandmaster-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aYigt2q5y5E.jpg?itok=DscGolPZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-no-reason-alice-lee-cant-become-grandmaster-day-5",
+         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
+         "title" : "Krush: No Reason Alice Lee Can't Become Grandmaster | Day 5"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his champions bracket semifinal playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-takes-down-fabi-semifinal-playoffs-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alice-lee-ready-fight-irina-krush-day-4",
          "pubDate" : "Tue, 21 Mar 2023 15:07:55 +0000",
          "title" : "Alice Lee: Ready to Fight Irina Krush! | Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his Game 2 semifinal win over Leinier Dominguez in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-surprised-leinier-my-opening-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFv7t294V-o.jpg?itok=oOZ_fiaw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-surprised-leinier-my-opening-day-4",
-         "pubDate" : "Tue, 21 Mar 2023 15:07:55 +0000",
-         "title" : "Nakamura: Surprised Leinier With My Opening! | Day 4"
       },
       {
          "description" : "In the current ChessBase Magazine #212 you will find new repertoire ideas for eleven different openings - from the English Opening to the King's Indian. In his search for a suitable weapon against the Scotch, Lars Schandorff has come across a fresh idea with which Black immediately seeks active play: After 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 (Schandorff's favourite) 5.Nb3 Bb6 6.Nc3 7.Qe2 he recommends 7...a5!?. In his analysis, this idea has proved so successful that he even sees White facing the task of looking for new ideas in the alternative variations with 5.Nxc6 or 5.Be3. Take a look!",
@@ -178,30 +210,6 @@ news_feed (
          "title" : "Nakamura With Black Defeats Dominguez, So Overcomes Caruana"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his championship bracket playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-takes-down-fabi-day-4-playoffs\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-takes-down-fabi-day-4-playoffs",
-         "pubDate" : "Tue, 21 Mar 2023 03:07:40 +0000",
-         "title" : "So Takes Down Fabi in Day 4 Playoffs!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Cristian Chirila after her day 4 victory over Nazi Paikidze. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lee-im-ready-fight-irina-krush-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eodMFptvA6M.jpg?itok=BLQWAATD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lee-im-ready-fight-irina-krush-day-4",
-         "pubDate" : "Tue, 21 Mar 2023 00:07:23 +0000",
-         "title" : "Lee: I'm ready to fight Irina Krush! | Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after his day 4 victory over Leinier Dominguez. 2023.03.18<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-i-surprised-him-my-opening-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XFv7t294V-o.jpg?itok=oOZ_fiaw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-i-surprised-him-my-opening-day-4",
-         "pubDate" : "Tue, 21 Mar 2023 00:07:23 +0000",
-         "title" : "Nakamura: I Surprised Him With My Opening! | Day 4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-3",
          "pubDate" : "Sun, 19 Mar 2023 22:01:00 -0700",
          "title" : "Shankland Ousts Robson In Epic Playoff"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Shankland talks to Cristian Chirila after eliminating Ray Robson in a blitz playoff at The American Cup 2023. 2023.03.19<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shankland-edges-out-robson-blitz-playoff-day-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CAjfaqBdKO0.jpg?itok=sjWxXlTp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shankland-edges-out-robson-blitz-playoff-day-3",
-         "pubDate" : "Mon, 20 Mar 2023 03:06:45 +0000",
-         "title" : "Shankland Edges Out Robson in Blitz Playoff | Day 3"
       },
       {
          "description" : "",
