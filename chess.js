@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Thu, 23 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-8",
+         "pubDate" : "Thu, 23 Mar 2023 18:09:47 +0000",
+         "title" : "The American Cup 2023 | lichess.org: Day 8"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris analyses the fascinating Kalashnikov battle between Leinier Dominguez and Hikaru Nakamura. An absolute model game from Black's perspective, as it shows that having the bishop pair doesn't guarantee an automatic advantage! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fascinating-battle-kalashnikov",
+         "pubDate" : "Thu, 23 Mar 2023 18:30:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: A fascinating battle in the Kalashnikov"
+      },
+      {
          "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5",
          "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
          "title" : "Wish Kid Collin: I've Been to Hawaii, So I Want to See the Best Play! | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Cristian Chirila after eliminating Sam Shankland from The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-his-leather-jacket-eliminate-shankland-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j-uES6FZA_E.jpg?itok=pDl4yux0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-his-leather-jacket-eliminate-shankland-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
-         "title" : "Dominguez & His Leather Jacket Eliminate Shankland! | Day 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
@@ -1058,28 +1074,12 @@ news_feed (
          "title" : "Reti players beware!"
       },
       {
-         "description" : "Alexey Sarana became the 2023 European champion after signing a 7-move draw with co-leader Kirill Shevchenko. That draw meant both players had secured at least shared first place, but still had to wait to see if someone else would join them on a final 8&frac12;/11 score. Out of the chasers, only Daniel Dardha managed to catch up with the leaders. Tiebreak criteria were used to decide the final placements. In the end, Sarana grabbed gold, Shevchenko took home silver and Dardha was awarded the bronze. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-r11",
-         "pubDate" : "Tue, 14 Mar 2023 10:10:00 +0100",
-         "title" : "European Championship: Sarana, Shevchenko and Dardha on the podium"
-      },
-      {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen One of the most popular openings of the 1. d4 players in correspondence chess is the Queen's Gambit Exchange Variation (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Tarrasch Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\">Need sure points? QGD, Semi-Tarrasch Variation Edition",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
          "link" : "https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/",
          "pubDate" : "Tue, 14 Mar 2023 09:00:19 +0000",
          "title" : "Need sure points? QGD, Semi-Tarrasch Variation Edition"
-      },
-      {
-         "description" : "Positions with queen and piece against queen and piece have aspects that are typical for middlegames and aspects that are typical for the endgame. In the diagram position the white king is safe - a typical middlegame aspect - while the dangerous passed pawns - typical for endgames, are good for Black. In the diagram position it is Black to move and draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/middlegame-or-endgame",
-         "pubDate" : "Tue, 14 Mar 2023 09:00:00 +0100",
-         "title" : "Middlegame or endgame?"
       },
       {
          "description" : "The European Individual Chess Championship 2023 concluded yesterday in Vrnjacka Banja, Serbia. After 11 played rounds, three players tied for the first place scoring 8.5 points each: GM Alexey Sarana (FIDE, 2668), GM Kirill Shevchenko (ROU, 2668), and GM Daniel Dardha (BEL, 2610). Alexey Sarana and Kirill Shevchenko met each other in the direct last-round encounter for the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/\">Read More &#187;</a></span>",
@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegames-vol-6-review",
          "pubDate" : "Thu, 02 Mar 2023 22:15:00 +0100",
          "title" : "The Sokolov FritzTrainer: Ruy Lopez structures (vol. 6) - A review"
-      },
-      {
-         "description" : "This month's Yahoos post has a schizophrenic foundation, in multiple senses of the word. Which word? Take your pick. (See also the footnote for an explanation of Yahoos.) <P>Unlike every previous Yahoo post on this blog -- e.g. last month's <A HREF=\"https://chessforallages.blogspot.com/2023/01/first-yahoos-of-2023.html\">First Yahoos of 2023</A>(January 2023) -- the summary of top Yahoos in February was constructed from data on two different days. That deserves an explanation. <P>I started writing this post using the data shown in the left half of the chart. On that day, at that time, <I>Google News</I> returned 99 stories, of which five were from the previous month, January. All five stories",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/schizophrenic-yahoos.html",
-         "pubDate" : "Thu, 02 Mar 2023 16:10:00 +0000",
-         "title" : "Schizophrenic Yahoos"
       }
    ]
 }
