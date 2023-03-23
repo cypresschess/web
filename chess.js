@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> On Day 5 of The American Cup 2023, Fabiano Caruana and Levon Aronian played a two-game rapid (G/25+10) elimination match. If tied 1-1, they would play a two-game rapid G/10+2 playoff. If tied 2-2, they would play a two-game blitz (G/3+2) playoff. If tied 3-3, they would decide it in a single armageddon (5v4) game. This is the match as it aired. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-aronian-match-american-cup-2",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-vs-aronian-match-american-cup-2023",
+         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
+         "title" : "Caruana vs. Aronian: The Match | The American Cup 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Leinier Dominguez in The American Cup 2023. 2023.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-survived-yesterday-just-bonus-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_VvRmwmZT4M.jpg?itok=iazGLd_L\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-survived-yesterday-just-bonus-day-6",
+         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
+         "title" : "Aronian: Survived Yesterday; This is Just a Bonus! | Day 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after eliminating Begim Tokhirjonova from The American Cup 2023. 2023.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-got-lucky-again-preparation-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ezzXB3ulI4M.jpg?itok=59P1RFKj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidze-got-lucky-again-preparation-day-6",
+         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
+         "title" : "Paikidze: Got Lucky Again with Preparation | Day 6"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "The American Cup 2023 | lichess.org: Day 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> TBD vs. TBD<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-lichessorg-day-7\"><img src=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-7",
@@ -168,30 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/begim-knocks-pourkashiyan-out-event-day-5",
          "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
          "title" : "Begim Knocks Pourkashiyan Out of Event | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after eliminating Tatev Abrahamyan in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-i-came-prepared-time-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u3_rqmBpKhQ.jpg?itok=F1LD6Bkv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-i-came-prepared-time-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
-         "title" : "Paikidze: I Came Prepared This Time! | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after a draw with Alice Lee in Game 1 of the champions bracket final in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-no-reason-alice-lee-cant-become-grandmaster-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aYigt2q5y5E.jpg?itok=DscGolPZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-no-reason-alice-lee-cant-become-grandmaster-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
-         "title" : "Krush: No Reason Alice Lee Can't Become Grandmaster | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after his champions bracket semifinal playoff match victory over Fabiano Caruana in The American Cup 2023. 2023.03.20<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-takes-down-fabi-semifinal-playoffs-day-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/as95riurNw0.jpg?itok=HrTeF_oi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-takes-down-fabi-semifinal-playoffs-day-4",
-         "pubDate" : "Tue, 21 Mar 2023 21:08:06 +0000",
-         "title" : "Wesley Takes Down Fabi in Semifinal Playoffs! | Day 4"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
@@ -1704,14 +1704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/acf-confers-grandmaster-d-gukesh-with-player-of-the-year-award/articleshow/98360957.cms",
          "pubDate" : "Thu, 02 Mar 2023 09:31:35 +0000",
          "title" : "ACF confers Grandmaster D Gukesh with Player-of-the-Year award"
-      },
-      {
-         "description" : " The Immortal Games of Capablanca: Fred Reinfeld From the publisher: &#8220;We are pleased to release another book in the Fred Reinfeld Chess Classics series. The Immortal Games of Capablanca was <a href=\"http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">The Immortal Games of Capablanca</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/\">The Immortal Games of Capablanca</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/03/02/the-immortal-games-of-capablanca/",
-         "pubDate" : "Thu, 02 Mar 2023 00:10:38 +0000",
-         "title" : "The Immortal Games of Capablanca"
       }
    ]
 }
