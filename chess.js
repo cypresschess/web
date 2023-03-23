@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7-lichessorg",
+         "pubDate" : "Thu, 23 Mar 2023 21:09:50 +0000",
+         "title" : "The American Cup 2023: Day 7 | lichess.org"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during Day 7 of The American Cup 2023. 2023.03.23<br /> USChesschamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-club-expansion-world-championship-saint-louis-more-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/36xty7SF2_s.jpg?itok=GQxq_4O3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-club-expansion-world-championship-saint-louis-more-day-7",
+         "pubDate" : "Thu, 23 Mar 2023 21:09:50 +0000",
+         "title" : "Rex Sinquefield on Club Expansion, a World Championship in Saint Louis, & More! | Day 7"
+      },
+      {
+         "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-bundesliga-2023-live/",
+         "pubDate" : "Thu, 23 Mar 2023 20:55:43 +0000",
+         "title" : "Austrian Bundesliga 2023 - LIVE"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,22 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5",
          "pubDate" : "Wed, 22 Mar 2023 03:08:17 +0000",
          "title" : "Aronian: Not Ashamed to Celebrate an Armageddon Win! | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical final champions bracket matches. Plus, two rapid second round elimination bracket matches! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.21<br /> USChessChamps.com ROUND 3 | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 03:08:17 +0000",
-         "title" : "The American Cup 2023: Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Make-A-Wish Foundation Wish Kid Collin Graham talks to Cristian Chirila during Day 5 of The American Cup 2023. Collin&#039;s wish was to visit the Saint Louis Chess Campus. Graham rang the bell to ceremonially start the day&#039;s games. Create joy for a child fighting a critical illness at wish.org. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5\"><img src=\"https://sai",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wish-kid-collin-ive-been-hawaii-so-i-want-see-best-play-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
-         "title" : "Wish Kid Collin: I've Been to Hawaii, So I Want to See the Best Play! | Day 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.chessdom.com/charlotte-gm-a-2023-live/",
          "pubDate" : "Fri, 17 Mar 2023 06:42:31 +0000",
          "title" : "Charlotte GM A 2023 - LIVE"
-      },
-      {
-         "description" : "The American Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-american-cup-2023-starts-today/",
-         "pubDate" : "Fri, 17 Mar 2023 06:29:52 +0000",
-         "title" : "The American Cup 2023 starts today"
       },
       {
          "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
@@ -1680,30 +1680,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/03/chess-magnus-carlsen-stimulus-missed-as-levon-aronian-wins-in-dusseldorf",
          "pubDate" : "Fri, 03 Mar 2023 08:00:27 +0000",
          "title" : "Chess: Magnus Carlsen stimulus missed as Levon Aronian wins in D&uuml;sseldorf"
-      },
-      {
-         "description" : "Magnus Carlsen makes his season debut for Offerspill Chess Club as his club is chasing its first title in the Norwegian League. The three classical games this weekend could be the last he plays as the reigning world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-faces-howell-in-his-last-game-as-world-champion",
-         "pubDate" : "Thu, 02 Mar 2023 23:12:00 +0000",
-         "title" : "Carlsen faces Howell in last game as world champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2263",
-         "pubDate" : "Thu, 02 Mar 2023 22:24:23 +0000",
-         "title" : "European Chess Championship 2023 starts in Vrnjacka Banja, Serbia"
-      },
-      {
-         "description" : "In the sixth volume of his FritzTrainer series, Ivan Sokolov, winner of the Olympiad as a coach of Uzbekistan, looks deeply into the 'supreme discipline' in chess, the Ruy Lopez, as he shares a number of top grandmasters' secrets. Harald Wagner watched the seven-hour work and sent us a review.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegames-vol-6-review",
-         "pubDate" : "Thu, 02 Mar 2023 22:15:00 +0100",
-         "title" : "The Sokolov FritzTrainer: Ruy Lopez structures (vol. 6) - A review"
       }
    ]
 }
