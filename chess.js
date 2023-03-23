@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-wins-hit-open-2023",
+         "pubDate" : "Thu, 23 Mar 2023 16:30:00 +0100",
+         "title" : "Leon Mendonca wins eight games in a row, secures first place at Hit Open"
+      },
+      {
+         "description" : "This is to you inform you that AICF will announced Medical Evaluation details for North Eastern States soon . In view of this all concerned",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-for-north-eastern-states-andaman-nicobar-assam-arunachal-pradesh-manipur-meghalaya-mizoram-sikkim-and-tripura/",
+         "pubDate" : "Thu, 23 Mar 2023 14:17:41 +0000",
+         "title" : "Medical Evaluation of the age of Chess Players for North Eastern States (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
+      },
+      {
+         "description" : "The New Delhi FIDE Women's Grand Prix 2023 is taking place in New Delhi, from March 25 to April 5 2023. It forms the third of four stages of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-delhi-fide-womens-grand-prix-2023-live/",
+         "pubDate" : "Thu, 23 Mar 2023 14:13:39 +0000",
+         "title" : "New Delhi FIDE Women's Grand Prix 2023 - LIVE"
+      },
+      {
+         "description" : "An 8-game match in London between English no. 1 Mickey Adams and 2-time Ukrainian Champion Andrei Volokitin. The match is organised by Chess in Schools and Communities and will be held half in the Ukrainian Embassy and half in the European Bank for Reconstruction and Development. The prize fund is $45,000. The time control is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uk-vs-ukraine-solidarity-match-2023-live/",
+         "pubDate" : "Thu, 23 Mar 2023 14:03:53 +0000",
+         "title" : "UK vs. Ukraine Solidarity Match 2023 - LIVE"
+      },
+      {
+         "description" : "The 20th Delhi Open 2023 is taking place from 23&#x2013;30 March 2023 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of GM S.P. Sethuraman, GM Chithambaram Aravindh, GM Levan Pantsulaia, GM Mikhail Kobalia, GM Mikheil Mchedlishvili, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/20th-delhi-open-2023-live/",
+         "pubDate" : "Thu, 23 Mar 2023 14:01:28 +0000",
+         "title" : "20th Delhi Open 2023 - LIVE"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Thu, 23 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "On March 24, the third of four tournaments in the FIDE Women's Grand Prix Series 2022/2023 will begin in New Delhi, India. Twelve players will compete, but the two Ukrainian grandmasters Anna and Mariya Muzychuk have decided not to take part, presumably because Kateryna Lagno, Polina Shuvalova and Aleksandra Goryachkina, who are members of the Russian Chess Federation but play under the FIDE flag, will be among the participants in New Delhi. | Photo: ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-preview",
+         "pubDate" : "Thu, 23 Mar 2023 14:00:00 +0100",
+         "title" : "Anna and Mariya Muzychuk will not play in the second leg of the Grand Prix"
+      },
+      {
          "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -18,6 +74,14 @@ news_feed (
          "title" : "ECU resolution on players participation after the Russian Chess Federation joining the Asian Chess Federation"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2294",
+         "pubDate" : "Thu, 23 Mar 2023 10:34:15 +0000",
+         "title" : "World Championship match: venue, commentators & schedule"
+      },
+      {
          "description" : "Hikaru Nakamura and Irina Krush emerged victorious in the champions' brackets of the open and women's sections of the American Cup. Both multiple US champions won their matches in tiebreaks. Nakamura got the better of Wesley So by a 4-2 score, while Krush defeated Alice Lee more quickly, by a 3-1 score. In the elimination brackets, Levon Aronian and Nazi Paikidze remain in contention in each of the two sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +90,12 @@ news_feed (
          "title" : "American Cup: Nakamura and Krush win champions' brackets"
       },
       {
-         "description" : "GM Hikaru Nakamura was the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So will now have to play against GM Levon Aronian for a spot in the final after the latter won hi...",
+         "description" : "GM Hikaru Nakamura is the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So now has to play against GM Levon Aronian for a spot in the final after the latter won his secon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-6",
-         "pubDate" : "Wed, 22 Mar 2023 20:55:26 -0700",
-         "title" : "Nakamura Blitzes So, Progresses To Finals"
+         "pubDate" : "Wed, 22 Mar 2023 20:55:00 -0700",
+         "title" : "Nakamura Blitzes So, Advances To Finals"
       },
       {
          "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -120,14 +184,6 @@ news_feed (
          "link" : "https://chessimprover.com/black-against-beliavsky/",
          "pubDate" : "Wed, 22 Mar 2023 14:00:04 +0000",
          "title" : "Black against Beliavsky"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Wed, 22 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "Levon Aronian twice won on demand before clinching victory in Armageddon to knock defending champion Fabiano Caruana out of the 2023 American Cup. \"I told Fabiano that we're creating content!\" said Levon, and that was the standout action on a day of two quiet classical draws in the Nakamura-So and Krush-Lee Champions finals.",
@@ -762,22 +818,6 @@ news_feed (
          "title" : "The American Cup 2023 starts today"
       },
       {
-         "description" : "The American Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, if []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-cup-champions-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 06:12:01 +0000",
-         "title" : "American Cup Champions Round 2023 - LIVE"
-      },
-      {
-         "description" : "The American Women's Cup 2023 is an 8-player double elimination knockout taking place from 16-26 March at the St. Louis Chess Club. The matches will be played over two classical (90min + 30s increment) games in the Champions and two rapid (25+10) games in the Elimination bracket. If tied, rapid (10+5) playoffs are held and, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/american-womens-cup-champions-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 06:03:28 +0000",
-         "title" : "American Women's Cup Champions Round 2023 - LIVE"
-      },
-      {
          "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -792,14 +832,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessable-masters-2023-play-in",
          "pubDate" : "Thu, 16 Mar 2023 21:30:00 +0100",
          "title" : "Chessable Masters Play-In: Le Quang Liem the top scorer"
-      },
-      {
-         "description" : "The 27 Hit open 2023 will take place from 16-23 March 2023 in Nova Gorica, Slovenia. The time control is 90 minutes plus a 30-second increment starting from move one. The tournament is separated in two categories &#x2013; HIT-A and HIT-B and has total prize fund of 5650 EUR. HIT-A section is 9-round Swiss System []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/27-hit-open-2023-live/",
-         "pubDate" : "Thu, 16 Mar 2023 17:20:35 +0000",
-         "title" : "27 Hit open 2023 - LIVE"
       },
       {
          "description" : "",
@@ -1074,14 +1106,6 @@ news_feed (
          "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
       },
       {
-         "description" : "America's best chess players will return to the Saint Louis Chess Club to battle over the board from March 17- 26, 2023 for the second annual American Cup. With $300,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in this double-elimination knockout tournament. Unlike in the inaugural edition last year, Hikaru Nakamura will be among the participants this time around. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-preview",
-         "pubDate" : "Tue, 14 Mar 2023 01:20:00 +0100",
-         "title" : "Starting Friday: The American Cup returns"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,14 +1120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/jamaican-government-invests-heavily-into-chess-to-find-next-grandmaster",
          "pubDate" : "Mon, 13 Mar 2023 13:21:43 -0700",
          "title" : "Jamaica Invests Heavily Into Finding The Next GM Maurice Ashley"
-      },
-      {
-         "description" : "In his Endgame Magic Show #231 Karsten shows endgame highlights from the Women's Grand Prix. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-231-endgame-highlights-from-the-women-s-grand-prix",
-         "pubDate" : "Mon, 13 Mar 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #231: Endgame highlights from the Women's Grand Prix"
       },
       {
          "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A>(February 2023), I noted, <BLOCKQUOTE>Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P>While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online chess c",
@@ -1642,14 +1658,6 @@ news_feed (
          "title" : "Chess.com's Game Review Tools Support"
       },
       {
-         "description" : "National Amateur Chess Championship 2023 in Punjab all are out to download. 1700 Men : https://aicf.online/National-A-1700-Men.html 1700 Women : https://aicf.online/National-A-1700-Women.html 2300 Men : https://aicf.online/National-A-2300-Men.html 2300",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-chess-championship-2023-certificates/",
-         "pubDate" : "Fri, 03 Mar 2023 11:57:35 +0000",
-         "title" : "National Amateur Chess Championship-2023, Certificates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/schizophrenic-yahoos.html",
          "pubDate" : "Thu, 02 Mar 2023 16:10:00 +0000",
          "title" : "Schizophrenic Yahoos"
-      },
-      {
-         "description" : "Magnus Carlsen has now scored 11/12 after posting a perfect 4/4 to give the Canada Chessbrahs victory over the Garden State Passers, despite team captain Eric Hansen scoring only 0.5/4. Elsewhere in Week 3 of the Pro Chess League the Indian Yogis, featuring siblings Praggnanandhaa and Vaishali, have already qualified for the Playoffs with three wins, while the Charlotte Cobras are eliminated after three losses.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-perfect-as-chessbrahs-pick-up-pro-chess-league-win",
-         "pubDate" : "Thu, 02 Mar 2023 12:00:00 +0000",
-         "title" : "Carlsen perfect as Chessbrahs pick up Pro Chess League win"
       }
    ]
 }
