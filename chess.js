@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-and-krush-win-american-cup-champions-brackets",
+         "pubDate" : "Thu, 23 Mar 2023 11:04:02 +0000",
+         "title" : "Nakamura and Krush win American Cup Champions brackets"
+      },
+      {
+         "description" : "ECU notes that chess is by definition an individual sport, and that all players have the right to participate in FIDE world championships or continental championships under the flag of a new federation, already considering representation of a national team at the highest level. ECU decides on players formerly belonging to the Chess Federation of Russia (CFR) that&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-resolution-on-players-participation-after-the-russian-chess-federation-joining-the-asian-chess-federation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-resolution-on-players-participation-after-the-russian-chess-federation-joining-the-asian-chess-federation/",
+         "pubDate" : "Thu, 23 Mar 2023 10:47:25 +0000",
+         "title" : "ECU resolution on players participation after the Russian Chess Federation joining the Asian Chess Federation"
+      },
+      {
+         "description" : "Hikaru Nakamura and Irina Krush emerged victorious in the champions' brackets of the open and women's sections of the American Cup. Both multiple US champions won their matches in tiebreaks. Nakamura got the better of Wesley So by a 4-2 score, while Krush defeated Alice Lee more quickly, by a 3-1 score. In the elimination brackets, Levon Aronian and Nazi Paikidze remain in contention in each of the two sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d6",
+         "pubDate" : "Thu, 23 Mar 2023 08:30:00 +0100",
+         "title" : "American Cup: Nakamura and Krush win champions' brackets"
+      },
+      {
          "description" : "GM Hikaru Nakamura was the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So will now have to play against GM Levon Aronian for a spot in the final after the latter won hi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,14 +90,6 @@ news_feed (
          "title" : "The American Cup 2023 | lichess.org: Day 7"
       },
       {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Wed, 22 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -86,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dubov-kramnik-win-titled-tuesday-march-21-2023",
-         "pubDate" : "Wed, 22 Mar 2023 08:06:29 -0700",
+         "pubDate" : "Wed, 22 Mar 2023 08:06:00 -0700",
          "title" : "Former World Champ Roars Back With Big Win In Tuesday Blitz"
       },
       {
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
          "pubDate" : "Wed, 22 Mar 2023 15:00:00 +0100",
          "title" : "European Women's Chess Championship - Live!"
-      },
-      {
-         "description" : "In the most thrilling match of the tournament so far, Levon Aronian knocked out Fabiano Caruana to remain alive in the elimination bracket, where he is set to face Leinier Dominguez next. In the women's elimination bracket, Nazi Paikidze and Gulrukhbegim Tokhirjonova were the winners of the day and will face off on Wednesday. Meanwhile, in the champions brackets, draws were seen in both sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d5",
-         "pubDate" : "Wed, 22 Mar 2023 14:30:00 +0100",
-         "title" : "American Cup: Aronian knocks out Caruana in Armageddon"
       },
       {
          "description" : "Levon Aronian twice won on demand before clinching victory in Armageddon to knock defending champion Fabiano Caruana out of the 2023 American Cup. \"I told Fabiano that we're creating content!\" said Levon, and that was the standout action on a day of two quiet classical draws in the Nakamura-So and Krush-Lee Champions finals.",
@@ -160,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-211-review-nagesh-havanur",
          "pubDate" : "Wed, 22 Mar 2023 08:35:00 +0100",
          "title" : "CBM 211: Battle of giants in the Bundesliga"
+      },
+      {
+         "description" : "In the most thrilling match of the tournament so far, Levon Aronian knocked out Fabiano Caruana to remain alive in the elimination bracket, where he is set to face Leinier Dominguez next. In the women's elimination bracket, Nazi Paikidze and Gulrukhbegim Tokhirjonova were the winners of the day and will face off on Wednesday. Meanwhile, in the champions brackets, draws were seen in both sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d5",
+         "pubDate" : "Wed, 22 Mar 2023 08:30:00 +0100",
+         "title" : "American Cup: Aronian knocks out Caruana in Armageddon"
       },
       {
          "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1450,14 +1466,6 @@ news_feed (
          "title" : "Anton Korobov races to 5/5 in European Championship"
       },
       {
-         "description" : "The ECU E-Magazine February 2023 is out! A mag created with Madmagz. In this edition of the ECU E-Magazine you may read about: International Women's Day Invitation for bids: European Chess Championships 2023, 2024 &#38; 2025 European Individual Chess Championship 2023 FIDE Women's Grand Prix Munich 2023 European Women's Chess Championship 2023 Chess is included in the list&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-february-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-february-2023/",
-         "pubDate" : "Wed, 08 Mar 2023 12:15:42 +0000",
-         "title" : "ECU E-Magazine February 2023"
-      },
-      {
          "description" : "International Women's Day (March 8) is a global day celebrating the social, economic, cultural, and political achievements of women. The day also marks a call...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1704,14 +1712,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-perfect-as-chessbrahs-pick-up-pro-chess-league-win",
          "pubDate" : "Thu, 02 Mar 2023 12:00:00 +0000",
          "title" : "Carlsen perfect as Chessbrahs pick up Pro Chess League win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/98360957.cms\" />Indian Grandmaster D Gukesh has been honoured with Player-of-the-Year award by the Asian Chess Federation (ACF) for clinching the gold medal with a record-breaking score of 9/11 in the 44th Chess Olympiad at Mahabalipuram last year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/acf-confers-grandmaster-d-gukesh-with-player-of-the-year-award/articleshow/98360957.cms",
-         "pubDate" : "Thu, 02 Mar 2023 09:31:35 +0000",
-         "title" : "ACF confers Grandmaster D Gukesh with Player-of-the-Year award"
       }
    ]
 }
