@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura was the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So will now have to play against GM Levon Aronian for a spot in the final after the latter won hi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-6",
+         "pubDate" : "Wed, 22 Mar 2023 20:55:26 -0700",
+         "title" : "Nakamura Blitzes So, Progresses To Finals"
+      },
+      {
+         "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
+         "pubDate" : "Thu, 23 Mar 2023 03:30:23 +0000",
+         "title" : "South Africa's West Coast Chess Union"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-6",
+         "pubDate" : "Thu, 23 Mar 2023 03:09:21 +0000",
+         "title" : "The American Cup 2023: Day 6"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> On Day 5 of The American Cup 2023, Fabiano Caruana and Levon Aronian played a two-game rapid (G/25+10) elimination match. If tied 1-1, they would play a two-game rapid G/10+2 playoff. If tied 2-2, they would play a two-game blitz (G/3+2) playoff. If tied 3-3, they would decide it in a single armageddon (5v4) game. This is the match as it aired. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-aronian-match-american-cup-2",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dominguez-his-leather-jacket-eliminate-shankland-day-5",
          "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
          "title" : "Dominguez & His Leather Jacket Eliminate Shankland! | Day 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Begim Tokhirjonova talks to Cristian Chirila after eliminating Atousa Pourkashiyan at The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/begim-knocks-pourkashiyan-out-event-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v63Fft9hn0Q.jpg?itok=ox-b5FC3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/begim-knocks-pourkashiyan-out-event-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 00:08:15 +0000",
-         "title" : "Begim Knocks Pourkashiyan Out of Event | Day 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html",
          "pubDate" : "Thu, 09 Mar 2023 16:12:00 +0000",
          "title" : "March 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "Blitz chess will be included in the upcoming inaugural Olympic Esports Series 2023 with Chess.com playing host to a unique qualifying event. The world&#38;rsquo;s leading online chess platform has been selected by FIDE, recognized by the Internation...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-fide-bring-chess-to-the-olympic-esports-series",
-         "pubDate" : "Thu, 09 Mar 2023 06:56:00 -0800",
-         "title" : "Chess.com And FIDE Bring Chess To The Olympic Esports Series"
       },
       {
          "description" : " I've just seen the sad news that Albert Vasse has passed away. He was most notable as the founder of DGT systems, the company responsible for developing both the digital board/broadcast technology and digital chess clocks, both off which are heavily used across the world. Although he retired from running the company a number of years ago he was still an active arbiter and organiser, with the occasional stint as a player. I would often run into him at the various Chess Olympiads (where we would share a beer and conversation), although he would turn up at other events, such as the Gibraltar Open (where he was often the arbiter supervising my games). Always an enjoyable companion at major ches",
