@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The \"Special\" of the current ChessBase Magazine is dedicated to Anthony Miles. In addition to a collection of 21 extensively analysed brilliant games of the first English grandmaster, you will also find a multifaceted contribution by Mihail Marin on Miles' chess understanding and playing style. Marin's database of 12 games from the years 1978 to 2000 is peppered with many training exercises. For the first time for ChessBase Magazine, our author also offers two interactive videos in which you can put your strategic understanding to the test. And of course Marin again introduces the \"hero\" of this issue in the introductory video to his contribution - you can watch the 20-minute video here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/positional-milestones",
+         "pubDate" : "Fri, 24 Mar 2023 16:00:00 +0100",
+         "title" : "Positional Milestones"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber shows us how the threat and weak moves function work for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-threats-and-weak-moves-function-for-chessbase-17",
+         "pubDate" : "Fri, 24 Mar 2023 15:38:11 +0100",
+         "title" : "Explained by the engineers! - Threats and weak moves function for ChessBase 17!"
+      },
+      {
+         "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-the-american-cup-2023-day-7",
+         "pubDate" : "Fri, 24 Mar 2023 06:52:00 -0700",
+         "title" : "Third Game Is A Charm For Lee, So In Elimination Brackets"
+      },
+      {
+         "description" : "Wesley So and Alice Lee both won their elimination matches to bounce back from defeat in the Champions bracket and get a chance to win the American Cup. Wesley So faces a rematch against Hikaru Nakamura after beating Levon Aronian 2.5:1.5, while Alice Lee will again take on Irina Krush after beating Nazi Paikidze 3:1.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/so-and-lee-earn-shot-at-american-cup-revenge",
+         "pubDate" : "Fri, 24 Mar 2023 13:23:53 +0000",
+         "title" : "So and Lee earn shot at American Cup revenge"
+      },
+      {
+         "description" : "The historic Sparkassen Chess Trophy will celebrate its golden jubilee edition this year. The 50th Dortmund Chess Days Festival will take place from June 24 to July 2 at the Westfalenhallen Goldsaal in Dortmund, Germany. The NC World Masters will feature the 14th world champion Vladimir Kramnik, former World Championship challenger Fabiano Caruana, defending champion Dmitrij Kollars, and the winner of the two previous editions of the Deutschland Grand Prix, Pavel Eljanov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nc-masters-dortmund-2023-announcement",
+         "pubDate" : "Fri, 24 Mar 2023 14:00:00 +0100",
+         "title" : "No-Castling Masters: Kramnik and Caruana will play in Dortmund"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2295",
+         "pubDate" : "Fri, 24 Mar 2023 12:00:09 +0000",
+         "title" : "European Women's Championship: Kiolbasa leads at halfway"
+      },
+      {
          "description" : " I caught an episode of the tv series \"Van der Valk\" (2020 remake) this evening. I remember watching the original series as a child (probably on a Friday night on the ABC). While it is a pretty standard \"police procedural\" there was one nod to the setting of the series. Towards the end of the episode, Van der Valk was and the new team member played a game of chess, with the new member winning. \"We need someone who can think 4 moves ahead\" was the closing comment.<br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1082,28 +1130,12 @@ news_feed (
          "title" : "Nakamura And Duda Again Tuesday Winners"
       },
       {
-         "description" : "Sagar Shah has been a chess player, coach, journalist, YouTuber, entrepreneur and more. In his journey through different countries and tournaments, he has collected plenty of valuable experience to share. In his new series 'From the CEO's Desk', he shares his musings and thoughts about various things - sometimes related to chess, and sometimes just life. Today, Sagar takes a closer look at the deep-rooted emotions and fears of a chess player, drawing parallels with his own life.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/look-within-yourself",
-         "pubDate" : "Wed, 15 Mar 2023 16:30:00 +0100",
-         "title" : "Look within yourself"
-      },
-      {
          "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/when-you-find-yourself-on-board-236.html",
          "pubDate" : "Wed, 15 Mar 2023 12:59:00 +0000",
          "title" : "When you find yourself on Board 236"
-      },
-      {
-         "description" : "The internationally successful Japanese chess manga \"Blitz\" stems from the imagination of C&eacute;dric Biscay, was inked by mangaka Daitaro Nishihara and put into the grids by co-scenarist Tsukasa Mori. \"Blitz\" impresses with its accurate and detailed artwork and with its precise depiction of the chess game. A review by Tatiana Flores. | Photo: IWA/Shibuya Productions",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/blitz-the-monegasque-chess-manga-a-review",
-         "pubDate" : "Wed, 15 Mar 2023 13:52:15 +0100",
-         "title" : "Blitz, the Chess Manga from Monaco - A Review"
       },
       {
          "description" : "",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2283",
          "pubDate" : "Tue, 14 Mar 2023 22:19:19 +0000",
          "title" : "Nukhim Rashkovsky (1946-2023)"
-      },
-      {
-         "description" : "The 11th edition of the Norway Chess Tournament is scheduled to take place from May 29 to June 9 in Stavanger. A rejuvenated lineup will see Nodirbek Abdusattorov and Dommaraju Gukesh making their debuts at the Norwegian super-tournament. Magnus Carlsen, who remarkably won the event five times, will also be present, alongside the likes of Alireza Firouzja, Hikaru Nakamura and Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2023-preview",
-         "pubDate" : "Tue, 14 Mar 2023 21:15:00 +0100",
-         "title" : "Norway Chess lineup announced: Carlsen, Naka and Gukesh in the mix"
       },
       {
          "description" : "",
@@ -1544,14 +1568,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2272",
          "pubDate" : "Fri, 10 Mar 2023 02:28:40 +0000",
          "title" : "EICC 2023, R07: Korobov retakes the lead"
-      },
-      {
-         "description" : "In week four of the 2023 Pro Chess League, the Levitov Chess Wizards and the Garden State Passers won their matches against the Canada Chessbrahs and California Unicorns, respectively. The Chess Wizards qualify for the Playoffs, while the Passers ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-wizards-passers",
-         "pubDate" : "Thu, 09 Mar 2023 13:33:00 -0800",
-         "title" : "Chess Wizards Stun World Champion, Advance To Playoffs; Bortnyk Leads Passers"
       },
       {
          "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
