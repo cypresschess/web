@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Fri, 24 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-9",
+         "pubDate" : "Fri, 24 Mar 2023 18:10:15 +0000",
+         "title" : "The American Cup 2023: Day 9"
+      },
+      {
          "description" : "The \"Special\" of the current ChessBase Magazine is dedicated to Anthony Miles. In addition to a collection of 21 extensively analysed brilliant games of the first English grandmaster, you will also find a multifaceted contribution by Mihail Marin on Miles' chess understanding and playing style. Marin's database of 12 games from the years 1978 to 2000 is peppered with many training exercises. For the first time for ChessBase Magazine, our author also offers two interactive videos in which you can put your strategic understanding to the test. And of course Marin again introduces the \"hero\" of this issue in the introductory video to his contribution - you can watch the 20-minute video here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,7 +274,7 @@ news_feed (
          "title" : "Austrian Bundesliga 2023 - LIVE"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-8",
@@ -400,14 +416,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-survived-yesterday-just-bonus-day-6",
          "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
          "title" : "Aronian: Survived Yesterday; This is Just a Bonus! | Day 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi Paikidze talks to Cristian Chirila after eliminating Begim Tokhirjonova from The American Cup 2023. 2023.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidze-got-lucky-again-preparation-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ezzXB3ulI4M.jpg?itok=59P1RFKj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidze-got-lucky-again-preparation-day-6",
-         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
-         "title" : "Paikidze: Got Lucky Again with Preparation | Day 6"
       },
       {
          "description" : "",
@@ -1098,14 +1106,6 @@ news_feed (
          "title" : "\"Chess in Slums\" treks to Kenya, Uganda!"
       },
       {
-         "description" : "Close to 250 games were played daily for 11 rounds at the European Championship that came to an end on Monday. The players were fighting for an entrance to the World Championship cycle via the World Cup, which made for very competitive struggles. Karsten M&uuml;ller kept an eye on the games, and sent us many notable endgames with instructive analyses. Replay here ten of his finds! | Pictured: Ellen Fredericia Nilssen | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-3",
-         "pubDate" : "Wed, 15 Mar 2023 22:50:00 +0100",
-         "title" : "Endgames from Vrnjacka Banja (3)"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk has transferred her federation to Switzerland and will no longer represent Russia, effective March 3, 2023. Since her first marriage to a Swiss citizen, she has held dual citizenship in both countries. Kosteniuk, who resides...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1784,14 +1784,6 @@ news_feed (
          "link" : "https://www.thearticle.com/battle-of-the-blues/",
          "pubDate" : "Sat, 04 Mar 2023 06:34:14 +0000",
          "title" : "Battle of the Blues"
-      },
-      {
-         "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/chesscoms-game-review-tools-support.html",
-         "pubDate" : "Fri, 03 Mar 2023 16:45:00 +0000",
-         "title" : "Chess.com's Game Review Tools Support"
       }
    ]
 }
