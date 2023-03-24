@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Generally after winning a tournament in a dominating fashion, players tend to relax. That's not what GM Leon Luke Mendonca did. After clinching 27th Hit Open 2023 on the previous day, the teenager went on to defeat FM Domen Tisaj to score a perfect 9/9. Leon, who has just turned 17, performed at 3196, which earned him 26.4 Elo rating points. This is Leon's second consecutive tournament triumph this month: he remains undefeated after winning 38th ChessOrg Festival Bad Woerishofen 2023 on 11th March.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-s-immaculate-9-0-9-in-the-27th-hit-open",
+         "pubDate" : "Sat, 25 Mar 2023 00:00:00 +0100",
+         "title" : "Leon Mendonca's immaculate 9.0/9 in the 27th Hit Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-8-lichessorg",
+         "pubDate" : "Fri, 24 Mar 2023 21:10:21 +0000",
+         "title" : "The American Cup 2023: Day 8 | lichess.org"
+      },
+      {
+         "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-playoff-preview",
+         "pubDate" : "Fri, 24 Mar 2023 13:19:00 -0700",
+         "title" : "2023 Collegiate Chess League: Playoffs Preview"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Explained by the engineers! - Threats and weak moves function for ChessBase 17!"
       },
       {
-         "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, ...",
+         "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, FM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-the-american-cup-2023-day-7",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/so-and-lee-earn-shot-at-american-cup-revenge",
          "pubDate" : "Fri, 24 Mar 2023 13:23:53 +0000",
          "title" : "So and Lee earn shot at American Cup revenge"
+      },
+      {
+         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't use the queen just for defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-1-2",
+         "pubDate" : "Fri, 24 Mar 2023 14:05:00 +0100",
+         "title" : "Jan Markos: Middlegame Secrets Vol.1 + 2"
       },
       {
          "description" : "The historic Sparkassen Chess Trophy will celebrate its golden jubilee edition this year. The 50th Dortmund Chess Days Festival will take place from June 24 to July 2 at the Westfalenhallen Goldsaal in Dortmund, Germany. The NC World Masters will feature the 14th world champion Vladimir Kramnik, former World Championship challenger Fabiano Caruana, defending champion Dmitrij Kollars, and the winner of the two previous editions of the Deutschland Grand Prix, Pavel Eljanov.",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-oliwia-kiolbasa-in-the-sole-lead-at-european-womens-chess-championship-2023-round-6-report/",
          "pubDate" : "Fri, 24 Mar 2023 10:05:50 +0000",
          "title" : "IM Oliwia Kiolbasa in the sole lead at European Women's Chess Championship 2023 - Round 6 report"
-      },
-      {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't use the queen just for defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-1-2",
-         "pubDate" : "Fri, 24 Mar 2023 11:00:00 +0100",
-         "title" : "Jan Markos: Middlegame Secrets Vol.1 + 2"
       },
       {
          "description" : "In his \"Game of the Week\" show #560, Merijn van Delft goes through an unconventional battle from the American Cup. The game between Leinier Dominguez and Hikaru Nakamura featured a sharp opening choice, a complex middlegame and a number of non-standard decisions. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-vs-aronian-match-american-cup-2023",
          "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
          "title" : "Caruana vs. Aronian: The Match | The American Cup 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Leinier Dominguez in The American Cup 2023. 2023.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-survived-yesterday-just-bonus-day-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_VvRmwmZT4M.jpg?itok=iazGLd_L\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-survived-yesterday-just-bonus-day-6",
-         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
-         "title" : "Aronian: Survived Yesterday; This is Just a Bonus! | Day 6"
       },
       {
          "description" : "",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "London Chess Conference 2023"
       },
       {
-         "description" : "In his \"Game of the Week\" show #559, Merijn van Delft looks at the game Alexey Sarana vs Anton Korobov, played at the European Championship in Vrnacka Banja. The game was instructive and tense and turned out to be crucial for the tournament. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-559-a-sarana-a-korobov",
-         "pubDate" : "Thu, 16 Mar 2023 10:44:27 +0100",
-         "title" : "Game of the Week #559: A. Sarana - A. Korobov"
-      },
-      {
          "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-week-4-gnomes-shrimps",
          "pubDate" : "Fri, 10 Mar 2023 14:41:00 -0800",
          "title" : "Norway Gnomes Qualify For Playoffs; Saint Louis Arch Bishops Cook Shrimps"
-      },
-      {
-         "description" : "Chess.com is extending its Women&#39;s History Month celebrations with a special event in which you can get to know some of our members of staff and the streamers we work with. The event, which will be broadcasted live on Chess.com&#39;s channels on You...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/special-womens-month-celebration",
-         "pubDate" : "Fri, 10 Mar 2023 10:31:00 -0800",
-         "title" : "Join Us For A Very Special Women's History Month Celebration"
       },
       {
          "description" : " Last week, we played through a position that employed a fork. In our example, Black seemed to have a decent fork that should have won material. However, that tactic didn't come to fruition because White was able get out of the tactical stranglehold easily. This week, I want to talk about a few ideas examined <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\">A Foundation for Beginners Eighty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
