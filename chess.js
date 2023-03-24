@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " We're going to end our brief examination of the fork this week, moving onto the skewer and pin next week. Over the last month, we looked at a fork created by Black. While this fork, which at first glance seemed reasonable, fit the definition of this type of tactic, it fell short in the end. <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-seven/\">A Foundation for Beginners Eighty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-seven/",
+         "pubDate" : "Fri, 24 Mar 2023 06:43:14 +0000",
+         "title" : "A Foundation for Beginners Eighty Seven"
+      },
+      {
+         "description" : "Wesley So and Alice Lee qualified to the American Cup's grand finals in the open and women's sections respectively. So knocked out Levon Aronian, while Lee eliminated Nazi Paikidze. In both cases, after 1-1 draws in the 25-minute games, the winners prevailed in the second set of tiebreakers, played with a 10-minute time control. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d7",
+         "pubDate" : "Fri, 24 Mar 2023 06:10:00 +0100",
+         "title" : "American Cup: So and Lee remain in contention"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "Austrian Bundesliga 2023 - LIVE"
       },
       {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Thu, 23 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,20 +74,20 @@ news_feed (
          "title" : "The American Cup 2023 | lichess.org: Day 8"
       },
       {
+         "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-wins-hit-open-2023",
+         "pubDate" : "Thu, 23 Mar 2023 18:35:00 +0100",
+         "title" : "Leon Mendonca wins eight games in a row, secures first place at Hit Open"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris analyses the fascinating Kalashnikov battle between Leinier Dominguez and Hikaru Nakamura. An absolute model game from Black's perspective, as it shows that having the bishop pair doesn't guarantee an automatic advantage! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fascinating-battle-kalashnikov",
          "pubDate" : "Thu, 23 Mar 2023 18:30:00 +0100",
          "title" : "Robert Ris' Fast and Furious: A fascinating battle in the Kalashnikov"
-      },
-      {
-         "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-wins-hit-open-2023",
-         "pubDate" : "Thu, 23 Mar 2023 16:30:00 +0100",
-         "title" : "Leon Mendonca wins eight games in a row, secures first place at Hit Open"
       },
       {
          "description" : "This is to you inform you that AICF will announced Medical Evaluation details for North Eastern States soon . In view of this all concerned",
@@ -1640,14 +1648,6 @@ news_feed (
          "link" : "https://www.thearticle.com/battle-of-the-blues/",
          "pubDate" : "Sat, 04 Mar 2023 06:34:14 +0000",
          "title" : "Battle of the Blues"
-      },
-      {
-         "description" : " Last week, we delved into our study of the fork in greater detail. This week, we'll further expand on what we've learned. It's important to start this article by stating that not all tactics are equal. That being the case, not all forks are equal, and many beginners end up not gaining any material, and <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Five\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-five/\">A Foundation for Beginners Eighty Five</a> appeared first on <a rel=\"nofollow\" href=\"https://chessi",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-five/",
-         "pubDate" : "Fri, 03 Mar 2023 20:42:50 +0000",
-         "title" : "A Foundation for Beginners Eighty Five"
       },
       {
          "description" : "In two recent posts I overviewed two important tools available on Chess.com:- <UL><LI>2023-02-17: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> <LI>2023-02-24: <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools-pgn.html\">Chess.com's Game Review Tools PGN</A>; (GRT) </UL> <P>Chess.com has detailed help available under 'Member Support and FAQs' (support.chess.com). The help pages listed here lead to others:- <UL><LI><A HREF=\"https://support.chess.com/article/364-how-does-the-game-report-analysis-work\">How does the Game Review work?</A> <LI><A HREF=\"https://support.chess.com/article/365-ho",
