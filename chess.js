@@ -5,6 +5,30 @@ news_feed (
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7",
+         "pubDate" : "Fri, 24 Mar 2023 03:10:07 +0000",
+         "title" : "The American Cup 2023: Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after eliminating Levon Aronian in The American Cup 2023. 2023.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-sos-secret-12-hours-sleep-night-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whws-CyuwPE.jpg?itok=pY6ghjdk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-sos-secret-12-hours-sleep-night-day-7",
+         "pubDate" : "Fri, 24 Mar 2023 00:09:52 +0000",
+         "title" : "Wesley So's Secret: 12 Hours of Sleep per Night?! | Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Christian Chirila after eliminating Nazi Paikidze in The American Cup 2023. 2023.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-ill-have-make-adjustments-irina-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT5Owl6eGRQ.jpg?itok=POQLtO7y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-ill-have-make-adjustments-irina-day-7",
+         "pubDate" : "Fri, 24 Mar 2023 00:09:52 +0000",
+         "title" : "Alice Lee: I'll Have to Make Adjustments for Irina | Day 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7-lichessorg",
          "pubDate" : "Thu, 23 Mar 2023 21:09:50 +0000",
          "title" : "The American Cup 2023: Day 7 | lichess.org"
@@ -34,7 +58,7 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Irina Krush vs. Alice Lee </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-w",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-8",
@@ -186,22 +210,6 @@ news_feed (
          "title" : "Paikidze: Got Lucky Again with Preparation | Day 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-6",
-         "pubDate" : "Wed, 22 Mar 2023 21:09:11 +0000",
-         "title" : "The American Cup 2023 | lichess.org: Day 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/american-cup-2023-lichessorg-day-7\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-7",
-         "pubDate" : "Wed, 22 Mar 2023 21:09:11 +0000",
-         "title" : "The American Cup 2023 | lichess.org: Day 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-5",
          "pubDate" : "Tue, 21 Mar 2023 21:45:00 -0700",
          "title" : "Aronian Eliminates Caruana In Thrilling Armageddon Playoff"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after eliminating Fabiano Caruana in an armageddon playoff in The American Cup 2023. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2YqH7Phm3hA.jpg?itok=_PuV2Vl1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-not-ashamed-celebrate-armageddon-win-day-5",
-         "pubDate" : "Wed, 22 Mar 2023 03:08:17 +0000",
-         "title" : "Aronian: Not Ashamed to Celebrate an Armageddon Win! | Day 5"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
