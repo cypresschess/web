@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 10.30 CET (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Sat, 25 Mar 2023 10:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
+         "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
+         "title" : "On the shoulders of dwarves"
+      },
+      {
+         "description" : "Generally after winning a tournament in a dominating fashion, players tend to relax. That's not what GM Leon Luke Mendonca did. After clinching 27th Hit Open 2023 on the previous day, the teenager went on to defeat FM Domen Tisaj to score a perfect 9/9. Leon, who has just turned 17, performed at 3196, which earned him 26.4 Elo rating points. This is Leon's second consecutive tournament triumph this month: he remains undefeated after winning 38th ChessOrg Festival Bad Woerishofen 2023 on 11th March. Report with full post-match interview.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-s-immaculate-9-0-9-in-the-27th-hit-open",
+         "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
+         "title" : "Leon Mendonca's immaculate 9.0/9 in the 27th Hit Open"
+      },
+      {
+         "description" : "From the diagram position Black's knight landed by force... on the square f1! In the end it was only enough for half a point, but she had a fat chance of winning on the way. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/forward-always-forward",
+         "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
+         "title" : "Forward, always forward!"
+      },
+      {
          "description" : "The participants of the European Women's Championship in Montenegro had a rest day on Friday. After six rounds in the 11-round Swiss tournament, Polish IM Oliwia Kiolbasa is leading the standings with 5⅕ points. Defending champion Monika Socko and Estonian IM Mai Narva stand a half point back, while fifteen players are still within close reach of the leader on 4⅕ points. | Photos: Official site",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "The American Cup 2023: Day 8"
       },
       {
-         "description" : "Generally after winning a tournament in a dominating fashion, players tend to relax. That's not what GM Leon Luke Mendonca did. After clinching 27th Hit Open 2023 on the previous day, the teenager went on to defeat FM Domen Tisaj to score a perfect 9/9. Leon, who has just turned 17, performed at 3196, which earned him 26.4 Elo rating points. This is Leon's second consecutive tournament triumph this month: he remains undefeated after winning 38th ChessOrg Festival Bad Woerishofen 2023 on 11th March.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-s-immaculate-9-0-9-in-the-27th-hit-open",
-         "pubDate" : "Sat, 25 Mar 2023 00:00:00 +0100",
-         "title" : "Leon Mendonca's immaculate 9.0/9 in the 27th Hit Open"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-playoff-preview",
          "pubDate" : "Fri, 24 Mar 2023 13:19:00 -0700",
          "title" : "2023 Collegiate Chess League: Playoffs Preview"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Fri, 24 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://www.chessdom.com/20th-delhi-open-2023-live/",
          "pubDate" : "Thu, 23 Mar 2023 14:01:28 +0000",
          "title" : "20th Delhi Open 2023 - LIVE"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Thu, 23 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "On March 24, the third of four tournaments in the FIDE Women's Grand Prix Series 2022/2023 will begin in New Delhi, India. Twelve players will compete, but the two Ukrainian grandmasters Anna and Mariya Muzychuk have decided not to take part, presumably because Kateryna Lagno, Polina Shuvalova and Aleksandra Goryachkina, who are members of the Russian Chess Federation but play under the FIDE flag, will be among the participants in New Delhi. | Photo: ChessBase",
