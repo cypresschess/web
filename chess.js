@@ -2,11 +2,19 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The participants of the European Women's Championship in Montenegro had a rest day on Friday. After six rounds in the 11-round Swiss tournament, Polish IM Oliwia Kiolbasa is leading the standings with 5⅕ points. Defending champion Monika Socko and Estonian IM Mai Narva stand a half point back, while fifteen players are still within close reach of the leader on 4⅕ points. | Photos: Official site",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-r6",
+         "pubDate" : "Sat, 25 Mar 2023 07:00:00 +0100",
+         "title" : "Kiolbasa beats Bulmaga, leads European Women's Championship"
+      },
+      {
          "description" : "A powerhouse during the regular season, the Gotham Knights, again impressed on Friday in the Arena Royale of the 2023 Pro Chess League, finishing in clear first, led by GM Vladimir Fedoseev.&#38;nbsp; This special event offered a unique opportunity ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-arena-royale-knights",
-         "pubDate" : "Fri, 24 Mar 2023 20:06:57 -0700",
+         "pubDate" : "Fri, 24 Mar 2023 20:06:00 -0700",
          "title" : "Fedoseev Leads Gotham Knights to Victory"
       },
       {
@@ -1106,14 +1114,6 @@ news_feed (
          "title" : "Interview: Kosteniuk On Federation Change, 'There Cannot Be Winners In Wars'"
       },
       {
-         "description" : "The British chess boom reaches Parliament on Wednesday 22nd March, with two events hosted by the Speaker of the House of Commons, Sir Lindsay Hoyle. The first will be the opening ceremony of a UK vs. Ukraine Solidarity Match, with the UK number one, Michael Adams, taking on the Ukrainian champion Andrei Volokitin, who is currently living as a refugee in Poland with his family. In the second contest of the day over the board, the GMs will captain teams of MPs and Peers as they battle for bragging rights in a match between the House of Lords and House of Commons.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uk-ukraine-solidarity-match-2023",
-         "pubDate" : "Thu, 16 Mar 2023 13:00:00 +0100",
-         "title" : "UK vs Ukraine solidarity match reaches Parliament"
-      },
-      {
          "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1776,14 +1776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/dubbo-2023.html",
          "pubDate" : "Sat, 04 Mar 2023 12:51:00 +0000",
          "title" : "Dubbo 2023"
-      },
-      {
-         "description" : "The annual Varsity chess match between the University teams of Oxford (Dark Blues) and Cambridge (Light Blues) takes place today at The Royal Automobile Club, in London's Pall Mall. The Varsity match has often been described as the Boat Race of the Brain. Two years ago, the Cambridge \"boat\" sank, with almost all hands. After 139 []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/battle-of-the-blues/",
-         "pubDate" : "Sat, 04 Mar 2023 06:34:14 +0000",
-         "title" : "Battle of the Blues"
       }
    ]
 }
