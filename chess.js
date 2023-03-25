@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A powerhouse during the regular season, the Gotham Knights, again impressed on Friday in the Arena Royale of the 2023 Pro Chess League, finishing in clear first, led by GM Vladimir Fedoseev.&#38;nbsp; This special event offered a unique opportunity ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-pcl-arena-royale-knights",
+         "pubDate" : "Fri, 24 Mar 2023 20:06:57 -0700",
+         "title" : "Fedoseev Leads Gotham Knights to Victory"
+      },
+      {
+         "description" : "GM Irina Krush put herself within arm&#39;s reach of back-to-back American Cup victories after dispatching FM Alice Lee in the first game of their final matchup on Friday. Playing with the black pieces in a repeat of their 2022 final, Lee played a r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-8",
+         "pubDate" : "Fri, 24 Mar 2023 18:36:00 -0700",
+         "title" : "Krush 1 Draw Away From Title, Nakamura Draws Wild Game With So"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Alice Lee in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-alice-really-really-surprised-me-opening-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QFOuKmp0tb8.jpg?itok=uLiy-biX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/krush-alice-really-really-surprised-me-opening-day-8",
+         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
+         "title" : "Krush: Alice Really REALLY Surprised Me in the Opening | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after a draw with Wesley So in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-not-lose-my-rating-success-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y1JswtXMQ1Y.jpg?itok=0KlDrUNu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-not-lose-my-rating-success-day-8",
+         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
+         "title" : "Nakamura: Not Lose My Rating = Success! | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Hikaru Nakamura in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-totally-saw-winning-move-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5GRqqZ-wJ3M.jpg?itok=_JVyBlut\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-totally-saw-winning-move-day-8",
+         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
+         "title" : "Wesley So: Totally Saw the Winning Move! | Day 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-8",
+         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
+         "title" : "The American Cup 2023: Day 8"
+      },
+      {
          "description" : "Generally after winning a tournament in a dominating fashion, players tend to relax. That's not what GM Leon Luke Mendonca did. After clinching 27th Hit Open 2023 on the previous day, the teenager went on to defeat FM Domen Tisaj to score a perfect 9/9. Leon, who has just turned 17, performed at 3196, which earned him 26.4 Elo rating points. This is Leon's second consecutive tournament triumph this month: he remains undefeated after winning 38th ChessOrg Festival Bad Woerishofen 2023 on 11th March.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,28 +330,12 @@ news_feed (
          "title" : "The American Cup 2023: Day 7 | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to Cristian Chirila during Day 7 of The American Cup 2023. 2023.03.23<br /> USChesschamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rex-sinquefield-club-expansion-world-championship-saint-louis-more-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/36xty7SF2_s.jpg?itok=GQxq_4O3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rex-sinquefield-club-expansion-world-championship-saint-louis-more-day-7",
-         "pubDate" : "Thu, 23 Mar 2023 21:09:50 +0000",
-         "title" : "Rex Sinquefield on Club Expansion, a World Championship in Saint Louis, & More! | Day 7"
-      },
-      {
          "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/austrian-bundesliga-2023-live/",
          "pubDate" : "Thu, 23 Mar 2023 20:55:43 +0000",
          "title" : "Austrian Bundesliga 2023 - LIVE"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-lichessorg-day-8",
-         "pubDate" : "Thu, 23 Mar 2023 18:09:47 +0000",
-         "title" : "The American Cup 2023 | lichess.org: Day 8"
       },
       {
          "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
@@ -416,22 +448,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
          "pubDate" : "Thu, 23 Mar 2023 03:30:23 +0000",
          "title" : "South Africa's West Coast Chess Union"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 2 of the classical final champions bracket matches, plus playoffs if necessary. Also, see an elimination rapid match in each event! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.22<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-6",
-         "pubDate" : "Thu, 23 Mar 2023 03:09:21 +0000",
-         "title" : "The American Cup 2023: Day 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> On Day 5 of The American Cup 2023, Fabiano Caruana and Levon Aronian played a two-game rapid (G/25+10) elimination match. If tied 1-1, they would play a two-game rapid G/10+2 playoff. If tied 2-2, they would play a two-game blitz (G/3+2) playoff. If tied 3-3, they would decide it in a single armageddon (5v4) game. This is the match as it aired. 2023.03.21<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-vs-aronian-match-american-cup-2",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-vs-aronian-match-american-cup-2023",
-         "pubDate" : "Thu, 23 Mar 2023 00:09:16 +0000",
-         "title" : "Caruana vs. Aronian: The Match | The American Cup 2023"
       },
       {
          "description" : "",
@@ -1442,14 +1458,6 @@ news_feed (
          "title" : "Shahade Tweet Motivates Ellen Carlsen To Report Harassment"
       },
       {
-         "description" : "Do you only watch an award show if someone gets slapped in the face? Well, you&#39;re in luck (again)! Back for its second year, The Streamer Awards are happening on Saturday, March 11, starting at 3 p.m. PT, and it&#39;s being presented by and strea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-twitch-streamer-awards-qtcinderella",
-         "pubDate" : "Sat, 11 Mar 2023 09:12:54 -0800",
-         "title" : "The Streamer Awards Presented By Twitch"
-      },
-      {
          "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1488,14 +1496,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-certificates/",
          "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
          "title" : "National Rapid & Blitz Certificates"
-      },
-      {
-         "description" : "On the final day of week four of the 2023 Pro Chess League, the Norway Gnomes defeated Team MGD1 and made it to the Playoffs. In the second match, the Saint Louis Arch Bishops eliminated the Spanish Maniac Shrimps. GM Pranav V was indisputably t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-4-gnomes-shrimps",
-         "pubDate" : "Fri, 10 Mar 2023 14:41:00 -0800",
-         "title" : "Norway Gnomes Qualify For Playoffs; Saint Louis Arch Bishops Cook Shrimps"
       },
       {
          "description" : " Last week, we played through a position that employed a fork. In our example, Black seemed to have a decent fork that should have won material. However, that tactic didn't come to fruition because White was able get out of the tactical stranglehold easily. This week, I want to talk about a few ideas examined <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\">A Foundation for Beginners Eighty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
