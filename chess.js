@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 10.30 CET (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2296",
+         "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
+         "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
+      },
+      {
+         "description" : "The 2023 American Cup Finals kicked off in exciting fashion with the first games between Hikaru Nakamura against Wesley So and Irina Krush against Alice Lee. In the open, Nakamura sacrificed his queen for two rooks in a roller-coaster game that would ultimately end in a draw. Meanwhile, Krush took a 1-0 lead after winning a very sharp first game as White. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Sat, 25 Mar 2023 10:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d8",
+         "pubDate" : "Sat, 25 Mar 2023 15:00:00 +0100",
+         "title" : "American Cup: Krush strikes first"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Sat, 25 Mar 2023 15:00:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "Hikaru Nakamura was close to winning then briefly lost against Wesley So after what he described as a \"very, very, very, very strange game\". The first classical game in the Women's American Cup final was just as combative, but Alice Lee's aggressive opening ultimately backfired as Irina Krush took the lead and now needs only a draw to retain her title.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-surives-american-cup-thriller-against-so",
+         "pubDate" : "Sat, 25 Mar 2023 12:24:12 +0000",
+         "title" : "Nakamura surives American Cup thriller against So"
       },
       {
          "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
@@ -47,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-arena-royale-knights",
          "pubDate" : "Fri, 24 Mar 2023 20:06:00 -0700",
-         "title" : "Fedoseev Leads Gotham Knights to Victory"
+         "title" : "Fedoseev Leads Gotham Knights To Victory"
       },
       {
          "description" : "GM Irina Krush put herself within arm&#39;s reach of back-to-back American Cup victories after dispatching FM Alice Lee in the first game of their final matchup on Friday. Playing with the black pieces in a repeat of their 2022 final, Lee played a r...",
@@ -1098,14 +1122,6 @@ news_feed (
          "title" : "Arch Bishops, Blitz Move To Playoffs; Alice Lee Upsets Super-GM, Caruana Goes 4/4"
       },
       {
-         "description" : "Four players qualified to play in Division I of the upcoming Chessable Masters in last week's Play-In event. Le Quang Liem, Levon Aronian, Vladimir Fedoseev and Vladislav Artemiev will join Magnus Carlsen, Hikaru Nakamura, Wesley So and Fabiano Caruana in the online tournament set to start on April 3. In a very competitive competition, the likes of Anish Giri and Nodirbek Abdusattorov could only make it to Division II.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-play-in",
-         "pubDate" : "Thu, 16 Mar 2023 21:30:00 +0100",
-         "title" : "Chessable Masters Play-In: Le Quang Liem the top scorer"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1768,22 +1784,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/gelfand-and-ivanchuk-play-the-european-championship",
          "pubDate" : "Sat, 04 Mar 2023 15:56:05 +0000",
          "title" : "Gelfand and Ivanchuk play the European Championship"
-      },
-      {
-         "description" : " The Capital City Open II attracted 31 local players to Tallahassee, Florida in three sections. Florida State University professor Dr. Steven Lenhert won his second consecutive tournament despite losing to Richard Kennedy. The top section had five players, but under-1600 represented 25 players! This is the largest Tallahassee tournament in several years and was organized The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/\">Lenhert wins Capital City Chess Open II</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/04/lenhert-wins-capital-city-open-ii/",
-         "pubDate" : "Sat, 04 Mar 2023 15:06:51 +0000",
-         "title" : "Lenhert wins Capital City Chess Open II"
-      },
-      {
-         "description" : " The next few months are going to be very busy, if you are a keen and active chess player. Next weekend is the Ballarat Open, while early April sees the O2C Doeberl Cup and the 2023 Oceania Junior and Youth Championships. But in between these events is one of my favourites, the 2023 Dubbo Open It is on the weekend of the 25th and 25th of March, at the Dubbo RSL Club, Dubbo NSW. It is a 6 round event with a time limit of 60m+30s. 1st prize is $450 and each year sees a mixed field of strong players, and the more casual tournament competitors. I've been attending for around 20 years, firstly as a player, and then as an arbiter, and I highly recommend it, especially as a warm up for the Doeberl.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/dubbo-2023.html",
-         "pubDate" : "Sat, 04 Mar 2023 12:51:00 +0000",
-         "title" : "Dubbo 2023"
       }
    ]
 }
