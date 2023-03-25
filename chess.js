@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third stage of the Women's Grand Prix series, set to take place in New Delhi, did not start as scheduled on Saturday, March 25. It was reported that some of the players were not received by official transport at the airport and that, at the hotel, they were informed that the rooms were not ready and the breakfast was not included in the prize. Due to these conditions, Zhansaya Abdumalik withdrew from the event. FIDE and the eleven remaining players decided that the event would take place anyway, albeit starting on Sunday. | Photo: International Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-issues",
+         "pubDate" : "Sat, 25 Mar 2023 19:50:00 +0100",
+         "title" : "New Delhi GP: Abdumalik withdraws, first round postponed due to organizational issues"
+      },
+      {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Sat, 25 Mar 2023 19:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final matches, which will only happen if Wesley So and Alice Lee win their respective classical matches. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-10",
+         "pubDate" : "Sat, 25 Mar 2023 18:10:52 +0000",
+         "title" : "The American Cup 2023: Day 10"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join a commentary team TBD for the move-by-move. 2023.04.05<br /> USChessChamps.com GROUP A<br /> TBD GROUP B<br /> TBA </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-1",
+         "pubDate" : "Sat, 25 Mar 2023 18:10:52 +0000",
+         "title" : "2023 Spring Chess Classic: Round 1"
+      },
+      {
+         "description" : "The Zonal 4.2 2023 is taking place from 25&#x2013;31 March 2023 in Dimbokro, Ivory Coast. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Mariano Ortega Amarelle, Simplice Armel De []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zonal-4-2-2023-live/",
+         "pubDate" : "Sat, 25 Mar 2023 17:18:26 +0000",
+         "title" : "Zonal 4.2 2023 - LIVE"
+      },
+      {
+         "description" : "The Women's Zonal 4.2 2023 is taking place from 25&#x2013;31 March 2023 in Dimbokro, Ivory Coast. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Celia M. Rodriguez Guevara, Nadezhda []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/womens-zonal-4-2-2023-live/",
+         "pubDate" : "Sat, 25 Mar 2023 17:18:22 +0000",
+         "title" : "Women's Zonal 4.2 2023 - LIVE"
+      },
+      {
+         "description" : "The Kyiv Spring Open 2023 is taking place from 25&#x2013;31 March 2023 in Kyiv, Ukraine. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Vadim Malakhatko, Vadim Shishkin, Eduard Andreev, Andrey Grekh, Sergey Pavlov, Spartak Vysochin, Vladislav Bakhmatsky, Valeriy []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kyiv-spring-open-2023-live/",
+         "pubDate" : "Sat, 25 Mar 2023 17:07:11 +0000",
+         "title" : "Kyiv Spring Open 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -29,9 +85,9 @@ news_feed (
          "description" : "Hikaru Nakamura was close to winning then briefly lost against Wesley So after what he described as a \"very, very, very, very strange game\". The first classical game in the Women's American Cup final was just as combative, but Alice Lee's aggressive opening ultimately backfired as Irina Krush took the lead and now needs only a draw to retain her title.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-surives-american-cup-thriller-against-so",
+         "link" : "https://chess24.com/en/read/news/nakamura-survives-american-cup-thriller-against-so",
          "pubDate" : "Sat, 25 Mar 2023 12:24:12 +0000",
-         "title" : "Nakamura surives American Cup thriller against So"
+         "title" : "Nakamura survives American Cup thriller against So"
       },
       {
          "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
@@ -136,6 +192,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-9",
          "pubDate" : "Fri, 24 Mar 2023 18:10:15 +0000",
          "title" : "The American Cup 2023: Day 9"
+      },
+      {
+         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A>(March 2023), I wrote, <BLOCKQUOTE>We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P>As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A>(June 2021). I discover",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html",
+         "pubDate" : "Fri, 24 Mar 2023 16:49:00 +0000",
+         "title" : "Ding Liren's TWIC Debut"
       },
       {
          "description" : "The \"Special\" of the current ChessBase Magazine is dedicated to Anthony Miles. In addition to a collection of 21 extensively analysed brilliant games of the first English grandmaster, you will also find a multifaceted contribution by Mihail Marin on Miles' chess understanding and playing style. Marin's database of 12 games from the years 1978 to 2000 is peppered with many training exercises. For the first time for ChessBase Magazine, our author also offers two interactive videos in which you can put your strategic understanding to the test. And of course Marin again introduces the \"hero\" of this issue in the introductory video to his contribution - you can watch the 20-minute video here.",
@@ -362,22 +426,6 @@ news_feed (
          "title" : "Wesley So's Secret: 12 Hours of Sleep per Night?! | Day 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Christian Chirila after eliminating Nazi Paikidze in The American Cup 2023. 2023.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-ill-have-make-adjustments-irina-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT5Owl6eGRQ.jpg?itok=POQLtO7y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-ill-have-make-adjustments-irina-day-7",
-         "pubDate" : "Fri, 24 Mar 2023 00:09:52 +0000",
-         "title" : "Alice Lee: I'll Have to Make Adjustments for Irina | Day 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7-lichessorg",
-         "pubDate" : "Thu, 23 Mar 2023 21:09:50 +0000",
-         "title" : "The American Cup 2023: Day 7 | lichess.org"
-      },
-      {
          "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -439,7 +487,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-preview",
          "pubDate" : "Thu, 23 Mar 2023 14:00:00 +0100",
-         "title" : "Anna and Mariya Muzychuk will not play in the second leg of the Grand Prix"
+         "title" : "Anna and Mariya Muzychuk will not play in the third leg of the Grand Prix"
       },
       {
          "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
@@ -1050,14 +1098,6 @@ news_feed (
          "title" : "Kosteniuk has switched to Switzerland"
       },
       {
-         "description" : "Today: Matthias Wuellenweber goes into detail about the new hints option for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-hints-option-for-chessbase-17",
-         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
-         "title" : "Explained by the engineers! - The new \"hints\" option for ChessBase 17!"
-      },
-      {
          "description" : "Anish Giri scored 3.5/4 as a replacement for an unwell Magnus Carlsen, but the Canada Chessbrahs again struggled on the bottom boards as Alexander Grischuk's Blitz eliminated them 9:7. The Saint Louis Arch Bishops knocked out the Croatia Bulldogs by the same score, with the heroes Fabiano Caruana, who scored 4/4, and 13-year-old Alice Lee, who defeated 2700-rated Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1074,44 +1114,12 @@ news_feed (
          "title" : "FIDE World Senior Championships 2023: Call for Bids"
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris looks at the game Lupulescu-Donchenko, played in the last round of the European Individual Championships. The game features a highly topical line of the Karpov System (5.Be2 & 6.Be3) against the King's Indian and led to a fine win for Black. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-attacking-with-the-king-s-indian",
-         "pubDate" : "Fri, 17 Mar 2023 10:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Attacking with the King's Indian"
-      },
-      {
          "description" : " The world No 1 faces encounters with Caruana, So, Nakamura and Aronian in the online Champions Tour starting 3 April, then over-the-board at Stavanger in late May Magnus Carlsen's reign as an abdicated world champion will formally start late next month when a winner is declared in the €2m, 14-game match for the newly vacant title between the world No 2, Ian Nepomniachtchi, playing under a neutral Fide flag, and the world No 3, Ding Liren. The venue is Astana, Kazakhstan, which borders both Russia and China. Some chess fans may not recognise the Astana winner as a genuine world champion, and for them there is now the prospect of two major events, one online and the other over-the-board. Ca",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/mar/17/chess-carlsen-set-for-challenge-from-us-quartet-online-and-over-the-board",
          "pubDate" : "Fri, 17 Mar 2023 08:00:35 +0000",
          "title" : "Chess: Carlsen set for challenge from US quartet online and over-the-board"
-      },
-      {
-         "description" : "The Charlotte IM B 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In IM B section will participate GM Vladimir Georgiev, IM Tamas Petenyi, IM Olivier-Kenta Chiku-Ratte, FM Robby Adamson, FM Ryan Amburgy, FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-im-b-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 06:54:27 +0000",
-         "title" : "Charlotte IM B 2023 - LIVE"
-      },
-      {
-         "description" : "The Charlotte&#xA0;IM&#xA0;A 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In IM A section will participate GM Alonso Zapata, IM Liordis Quesada Vera, FM Terry Luo, FM Liam Putnam, FM Carlos Sandoval Mercado, FM []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-im-a-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 06:47:35 +0000",
-         "title" : "Charlotte IM A 2023 - LIVE"
-      },
-      {
-         "description" : "The Charlotte GM A 2023 will take place from 15-19 March, 2023. The time control is 90 minutes and 30 seconds per move, starting from move one. The tournament format is 9-round robin. In GM A section will participate GM Tanguy Ringoir, GM David Brodsky, GM Darcy Lima, IM Artiom Samsonkin, FM Brewington Hardaway, Harshid []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/charlotte-gm-a-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 06:42:31 +0000",
-         "title" : "Charlotte GM A 2023 - LIVE"
       },
       {
          "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
@@ -1776,14 +1784,6 @@ news_feed (
          "link" : "http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/",
          "pubDate" : "Sun, 05 Mar 2023 00:10:39 +0000",
          "title" : "Kupreichik: The Maestro From Minsk"
-      },
-      {
-         "description" : "Vasyl Ivanchuk and Boris Gelfand are among the almost 500 participants in the European Individual Chess Championship that kicked off in Vrnjacka Banja, Serbia on Friday. Russian players were still eligible to take part before the switch to Asia comes into effect, but Alexandr Predke represents Serbia after he and Alexandra Kosteniuk were among the first to switch to another European federation.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/gelfand-and-ivanchuk-play-the-european-championship",
-         "pubDate" : "Sat, 04 Mar 2023 15:56:05 +0000",
-         "title" : "Gelfand and Ivanchuk play the European Championship"
       }
    ]
 }
