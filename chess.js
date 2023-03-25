@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-womens-grand-prix-new-delhi-delayed-fide-apology",
+         "pubDate" : "Sat, 25 Mar 2023 16:17:00 -0700",
+         "title" : "New Delhi Women's Grand Prix Delayed, FIDE President Apologies"
+      },
+      {
+         "description" : " At the end of the first day of the 2023 Dubbo Open, 3 players share the lead with 3/3. Top seed Dominic Fox has been joined by Ky Walls and Jonathon Harding after they all went through the first day with 3 wins. Close behind are Trevor Bemrose and Tyler Milson who are on 2.5, after drawing their round 3 game. The tournament once again attracted a good field of 37 players, with a solid bunch of players at the top. Unlike previous years where there was a surprise IM or GM in the field, this year has the Under 2000's battling it out for the title. Last night also saw the traditional time handicap blitz. While a number of younger players benefited from have 5 minutes against the 1 or 2 minutes ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-1.html",
+         "pubDate" : "Sat, 25 Mar 2023 22:02:00 +0000",
+         "title" : "2023 Dubbo Open - Day 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-9-lichessorg",
+         "pubDate" : "Sat, 25 Mar 2023 21:10:58 +0000",
+         "title" : "The American Cup 2023: Day 9 | lichess.org"
+      },
+      {
+         "description" : "FIDE President Arkady Dvorkovich has issued an apology after the start of the New Delhi FIDE Women's Grand Prix was postponed when Zhansaya Abdumalik withdrew in protest at the conditions for the players. Earlier Ukrainian sisters Anna and Mariya Muzychuk had also withdrawn, but were replaced by Nino Batsiashvili and Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/abdumalik-pulls-out-of-new-delhi-grand-prix-in-protest",
+         "pubDate" : "Sat, 25 Mar 2023 19:35:19 +0000",
+         "title" : "Abdumalik pulls out of New Delhi Grand Prix as FIDE apologise"
+      },
+      {
          "description" : "The third stage of the Women's Grand Prix series, set to take place in New Delhi, did not start as scheduled on Saturday, March 25. It was reported that some of the players were not received by official transport at the airport and that, at the hotel, they were informed that the rooms were not ready and the breakfast was not included in the prize. Due to these conditions, Zhansaya Abdumalik withdrew from the event. FIDE and the eleven remaining players decided that the event would take place anyway, albeit starting on Sunday. | Photo: International Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -416,14 +448,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7",
          "pubDate" : "Fri, 24 Mar 2023 03:10:07 +0000",
          "title" : "The American Cup 2023: Day 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after eliminating Levon Aronian in The American Cup 2023. 2023.03.23<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-sos-secret-12-hours-sleep-night-day-7\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whws-CyuwPE.jpg?itok=pY6ghjdk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-sos-secret-12-hours-sleep-night-day-7",
-         "pubDate" : "Fri, 24 Mar 2023 00:09:52 +0000",
-         "title" : "Wesley So's Secret: 12 Hours of Sleep per Night?! | Day 7"
       },
       {
          "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
@@ -1480,14 +1504,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
          "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
          "title" : "The Chess Drum on \"Talking Talent\""
-      },
-      {
-         "description" : "Ellen Carlsen, GM Magnus Carlsen&#39;s older sister, says WGM Jennifer Shahade&#39;s allegations against Alejandro Ramirez led to her report an incident where she says she was harassed by a chess player as a minor. Shahade&#39;s shocking tweet alleging that...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ellen-carlsen-reports-harassment-after-shahade-tweet",
-         "pubDate" : "Sat, 11 Mar 2023 10:09:00 -0800",
-         "title" : "Shahade Tweet Motivates Ellen Carlsen To Report Harassment"
       },
       {
          "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
