@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/so-i-made-it-work-day-9",
+         "pubDate" : "Sun, 26 Mar 2023 00:11:16 +0000",
+         "title" : "So: I Made It Work! | Day 9"
+      },
+      {
          "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-womens-grand-prix-new-delhi-delayed-fide-apology",
          "pubDate" : "Sat, 25 Mar 2023 16:17:00 -0700",
-         "title" : "New Delhi Women's Grand Prix Delayed, FIDE President Apologies"
+         "title" : "New Delhi Women's Grand Prix Delayed, FIDE President Apologizes"
       },
       {
          "description" : " At the end of the first day of the 2023 Dubbo Open, 3 players share the lead with 3/3. Top seed Dominic Fox has been joined by Ky Walls and Jonathon Harding after they all went through the first day with 3 wins. Close behind are Trevor Bemrose and Tyler Milson who are on 2.5, after drawing their round 3 game. The tournament once again attracted a good field of 37 players, with a solid bunch of players at the top. Unlike previous years where there was a surprise IM or GM in the field, this year has the Under 2000's battling it out for the title. Last night also saw the traditional time handicap blitz. While a number of younger players benefited from have 5 minutes against the 1 or 2 minutes ",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
       },
       {
-         "description" : "The 2023 American Cup Finals kicked off in exciting fashion with the first games between Hikaru Nakamura against Wesley So and Irina Krush against Alice Lee. In the open, Nakamura sacrificed his queen for two rooks in a roller-coaster game that would ultimately end in a draw. Meanwhile, Krush took a 1-0 lead after winning a very sharp first game as White. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d8",
-         "pubDate" : "Sat, 25 Mar 2023 15:00:00 +0100",
-         "title" : "American Cup: Krush strikes first"
-      },
-      {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -134,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/leon-mendonca-s-immaculate-9-0-9-in-the-27th-hit-open",
-         "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
+         "pubDate" : "Sat, 25 Mar 2023 09:10:00 +0100",
          "title" : "Leon Mendonca's immaculate 9.0/9 in the 27th Hit Open"
       },
       {
@@ -144,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/forward-always-forward",
          "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
          "title" : "Forward, always forward!"
+      },
+      {
+         "description" : "The 2023 American Cup Finals kicked off in exciting fashion with the first games between Hikaru Nakamura against Wesley So and Irina Krush against Alice Lee. In the open, Nakamura sacrificed his queen for two rooks in a roller-coaster game that would ultimately end in a draw. Meanwhile, Krush took a 1-0 lead after winning a very sharp first game as White. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d8",
+         "pubDate" : "Sat, 25 Mar 2023 08:55:00 +0100",
+         "title" : "American Cup: Krush strikes first"
       },
       {
          "description" : "The participants of the European Women's Championship in Montenegro had a rest day on Friday. After six rounds in the 11-round Swiss tournament, Polish IM Oliwia Kiolbasa is leading the standings with 5⅕ points. Defending champion Monika Socko and Estonian IM Mai Narva stand a half point back, while fifteen players are still within close reach of the leader on 4⅕ points. | Photos: Official site",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2023-d7",
          "pubDate" : "Fri, 24 Mar 2023 06:10:00 +0100",
          "title" : "American Cup: So and Lee remain in contention"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features a rapid fourth round elimination bracket match in each field! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.23<br /> USChessChamps.com ELIMINATION MATCH | BEST-OF-2 (G/25+10)<br /> Wesley So vs. Levon Aronian<br /> * if the match is tied 1-1, two-game (G/10+5) playoff. If then tied 2-2, two-game (G/3+2) playoff. If then tied 3-3, Armageddon (5v4 min). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-7",
-         "pubDate" : "Fri, 24 Mar 2023 03:10:07 +0000",
-         "title" : "The American Cup 2023: Day 7"
       },
       {
          "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
@@ -1792,14 +1792,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/is-it-getting-easier-to-play-chess.html",
          "pubDate" : "Sun, 05 Mar 2023 12:02:00 +0000",
          "title" : "Is it getting easier to play chess?"
-      },
-      {
-         "description" : " From the London Chess Centre Publishing web site: &#8220;Kupreichik: The Maestro from Minsk features tributes to the legendary attacker from those who regularly faced him at the board, including Alexander <a href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Kupreichik: The Maestro From Minsk</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a rel=\"nofollow\" href=\"http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/\">Kupreichik: The Maestro From Minsk</a> appeared first on <a rel=\"nofollow\" href=\"http://britishchessnews.com\">British Chess News</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/03/05/kupreichik-the-maestro-from-minsk/",
-         "pubDate" : "Sun, 05 Mar 2023 00:10:39 +0000",
-         "title" : "Kupreichik: The Maestro From Minsk"
       }
    ]
 }
