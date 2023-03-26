@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura in Game 2 of their classical final on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-i-made-it-work-day-9",
+         "pubDate" : "Sun, 26 Mar 2023 15:11:28 +0000",
+         "title" : "Wesley So: I Made It Work! | Day 9"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup in February this year. The tournament, which attracted well over 500 university students from every continent, was won by Texas Tech University. Francesco Bortolussi, who played board 4 for the winning team, sent us a first-person account of the tournament itself and of the team's visit to New York City, where they had a training session with the legend himself, Garry Kasparov! | Photo: Alexander Onischuk",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/texas-tech-wins-third-kasparov-chess-foundation-cup",
+         "pubDate" : "Sun, 26 Mar 2023 15:30:00 +0100",
+         "title" : "Texas Tech wins KCF University Cup and meets with Kasparov in New York"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 118th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-118-play-the-sicilian",
+         "pubDate" : "Sun, 26 Mar 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 118: Play the Sicilian!"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Sun, 26 Mar 2023 14:55:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "It took two full games and two messy tiebreakers before the victors of the action of day nine in The American Cup were decided. In the Women&#39;s event, GM Irina Krush needed only a draw, but lost the regulation game before ultimately deciding the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-9",
+         "pubDate" : "Sun, 26 Mar 2023 06:28:00 -0700",
+         "title" : "Krush Extends Queenship, So Dominates Nakamura In Tiebreaker"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -232,14 +272,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-8",
          "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
          "title" : "The American Cup 2023: Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-8-lichessorg",
-         "pubDate" : "Fri, 24 Mar 2023 21:10:21 +0000",
-         "title" : "The American Cup 2023: Day 8 | lichess.org"
       },
       {
          "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
@@ -1066,28 +1098,12 @@ news_feed (
          "title" : "Riyadh Calendar Chess Championship 2023 - LIVE"
       },
       {
-         "description" : "Svitlana shows us the basics of the open and closed Catalan. This opening is often played by some world class players, like Magnus Carlsen, or Vladimir Kramnik. It can either get sharp, or super positional. The model game was played by Alekhine, and the most powerful weapon of the Catalan, the bishop on g2, is exchanged rather quickly. But there are more threats, than only the bishop!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-catalan",
-         "pubDate" : "Fri, 17 Mar 2023 20:40:13 +0100",
-         "title" : "Svitlana's Smart Moves - The Catalan"
-      },
-      {
          "description" : "Team MGD1 made it to the playoffs after eliminating the Garden State Passers in week five of the 2023 Pro Chess League. This was the last match of the regular season. Board three, GM Diptayan Ghosh, scored the most points with 3/4, but every mem...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-pcl-week-5-mgd1",
          "pubDate" : "Fri, 17 Mar 2023 11:06:00 -0700",
          "title" : "Never In Doubt: Team MGD1 Dominates Passers, Advances To Playoffs"
-      },
-      {
-         "description" : "In his new Power Play Show, GM Daniel King shares more King's Indian brilliances with us. Vasyl Ivanchuk played the black side in the recent European Championship and his young opponent chose a line where White looks to take over the initiative on the kingside. This was a highly instructive game where one side's strategy triumphed. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-kings-indian-brilliance",
-         "pubDate" : "Fri, 17 Mar 2023 18:00:00 +0100",
-         "title" : "Daniel King's Power Play Show: King's Indian brilliance"
       },
       {
          "description" : " The American Cup takes place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. ",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html",
          "pubDate" : "Fri, 17 Mar 2023 16:17:00 +0000",
          "title" : "Ding Liren's Climb to a Title Match"
-      },
-      {
-         "description" : "What should you do if your opponent offers a draw at an early stage of the game? What aspects should you take into account when making your own decision? GM Jan Markos gives you a series of rules of thumb in the fifth part of his series \"Practical Tips for the Tournament Player\" to help you go for the full point more often - or accept the offer if it is advisable. You can watch an excerpt from his video here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/draw",
-         "pubDate" : "Fri, 17 Mar 2023 16:00:00 +0100",
-         "title" : "\"Draw?\""
       },
       {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/XL56wfh--po\" width=\"320\" youtube-src-id=\"XL56wfh--po\"></iframe></div><br /> ",
@@ -1368,14 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2280",
          "pubDate" : "Mon, 13 Mar 2023 21:12:49 +0000",
          "title" : "London Chess and Education Conference set for March 17-19"
-      },
-      {
-         "description" : "Jamaica&#39;s government has announced an ambitious plan to pour J$40 million (approximately $260,000 at the time of writing) into chess in a drive to create a new grandmaster by 2033, local media reported.&#38;nbsp; Ministers on the Caribbean island wa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jamaican-government-invests-heavily-into-chess-to-find-next-grandmaster",
-         "pubDate" : "Mon, 13 Mar 2023 13:21:43 -0700",
-         "title" : "Jamaica Invests Heavily Into Finding The Next GM Maurice Ashley"
       },
       {
          "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A>(February 2023), I noted, <BLOCKQUOTE>Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P>While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online chess c",
@@ -1792,14 +1792,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html",
          "pubDate" : "Sun, 05 Mar 2023 16:28:00 +0000",
          "title" : "Poster Perfect Chess Art"
-      },
-      {
-         "description" : " There is no doubt that chess is undergoing a real boom at the moment. Events are attracting record numbers of entries and the number of players online is so large that chess servers are falling over. Conventional wisdom is the combination of lockdowns ending and the Queens Gambit are the proximate causes. But I wonder if there is also a second order effect. In previous posts I have commented on how \"hard\" chess is. If you are a new player there is a real barrier to joining the chess community, and that barrier is ability. Despite the rhetoric of chess clubs being welcoming and encouraging beginners etc, they can be quite forbidding, especially if you start of losing a large number of games.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/is-it-getting-easier-to-play-chess.html",
-         "pubDate" : "Sun, 05 Mar 2023 12:02:00 +0000",
-         "title" : "Is it getting easier to play chess?"
       }
    ]
 }
