@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
+         "description" : "Irina Krush claimed her second consecutive American Cup title in the women's section after obtaining a 2&frac12;-1&frac12; victory over Alice Lee. On Saturday, Lee defeated Krush in classical chess to force a rapid playoff. Krush, however, showed the better nerves in a topsy-turvy pair of rapid games to grab the title. Meanwhile, Wesley So defeated Hikaru Nakamura - also in playoffs - to force an extra rapid match in the open section. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d9",
+         "pubDate" : "Sun, 26 Mar 2023 05:40:00 +0100",
+         "title" : "American Cup: Krush successfully defends her title"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after narrowly defeating Alice Lee on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-irina-krush-wins-american-cup-2023-womens-section\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/icevZ7l95po.jpg?itok=bdk5il0C\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-irina-krush-wins-american-cup-2023-womens-section",
+         "pubDate" : "Sun, 26 Mar 2023 03:11:17 +0000",
+         "title" : "GM Irina Krush Wins The American Cup 2023 Women's Section!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/so-i-made-it-work-day-9",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-issues",
          "pubDate" : "Sat, 25 Mar 2023 19:50:00 +0100",
          "title" : "New Delhi GP: Abdumalik withdraws, first round postponed due to organizational issues"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 19.30 CET (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Sat, 25 Mar 2023 19:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final matches, which will only happen if Wesley So and Alice Lee win their respective classical matches. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2296",
          "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Sat, 25 Mar 2023 15:00:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "Hikaru Nakamura was close to winning then briefly lost against Wesley So after what he described as a \"very, very, very, very strange game\". The first classical game in the Women's American Cup final was just as combative, but Alice Lee's aggressive opening ultimately backfired as Irina Krush took the lead and now needs only a draw to retain her title.",
@@ -224,14 +224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-playoff-preview",
          "pubDate" : "Fri, 24 Mar 2023 13:19:00 -0700",
          "title" : "2023 Collegiate Chess League: Playoffs Preview"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-9",
-         "pubDate" : "Fri, 24 Mar 2023 18:10:15 +0000",
-         "title" : "The American Cup 2023: Day 9"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A>(March 2023), I wrote, <BLOCKQUOTE>We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P>As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A>(June 2021). I discover",
@@ -1120,6 +1112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kosteniuk-has-switched-to-switzerland",
          "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
          "title" : "Kosteniuk has switched to Switzerland"
+      },
+      {
+         "description" : "Today: Matthias Wuellenweber goes into detail about the new hints option for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-hints-option-for-chessbase-17",
+         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
+         "title" : "Explained by the engineers! - The new \"hints\" option for ChessBase 17!"
       },
       {
          "description" : "Anish Giri scored 3.5/4 as a replacement for an unwell Magnus Carlsen, but the Canada Chessbrahs again struggled on the bottom boards as Alexander Grischuk's Blitz eliminated them 9:7. The Saint Louis Arch Bishops knocked out the Croatia Bulldogs by the same score, with the heroes Fabiano Caruana, who scored 4/4, and 13-year-old Alice Lee, who defeated 2700-rated Bogdan-Daniel Deac.",
