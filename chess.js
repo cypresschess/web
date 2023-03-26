@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2297",
+         "pubDate" : "Sun, 26 Mar 2023 10:49:07 +0000",
+         "title" : "Women's Grand Prix in Delhi starts after delays"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Sun, 26 Mar 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : " Chess Heroes: Tactics is now available in physical format on Amazon. It's a tactics book designed to take readers or students from round about 500 to 1500 strength, and should be read in parallel with the books on Checkmates, Openings and Endings. A teaching technique often used in schools when, for example, teaching a new <a href=\"https://chessimprover.com/chess-heroes-tactics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Tactics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-tactics/\">Chess Heroes: Tactics</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-tactics/",
+         "pubDate" : "Sun, 26 Mar 2023 10:24:52 +0000",
+         "title" : "Chess Heroes: Tactics"
+      },
+      {
          "description" : "Irina Krush claimed her second consecutive American Cup title in the women's section after obtaining a 2&frac12;-1&frac12; victory over Alice Lee. On Saturday, Lee defeated Krush in classical chess to force a rapid playoff. Krush, however, showed the better nerves in a topsy-turvy pair of rapid games to grab the title. Meanwhile, Wesley So defeated Hikaru Nakamura - also in playoffs - to force an extra rapid match in the open section. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Abdumalik pulls out of New Delhi Grand Prix as FIDE apologise"
       },
       {
-         "description" : "The third stage of the Women's Grand Prix series, set to take place in New Delhi, did not start as scheduled on Saturday, March 25. It was reported that some of the players were not received by official transport at the airport and that, at the hotel, they were informed that the rooms were not ready and the breakfast was not included in the prize. Due to these conditions, Zhansaya Abdumalik withdrew from the event. FIDE and the eleven remaining players decided that the event would take place anyway, albeit starting on Sunday. | Photo: International Chess Federation",
+         "description" : "The third stage of the Women's Grand Prix series, set to take place in New Delhi, did not start as scheduled on Saturday, March 25. It was reported that some of the players were not received by official transport at the airport and that, at the hotel, they were informed that the rooms were not ready and the breakfast was not included in the price. Due to these conditions, Zhansaya Abdumalik withdrew from the event. FIDE and the eleven remaining players decided that the event would take place anyway, albeit starting on Sunday. | Photo: International Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-issues",
@@ -1114,14 +1138,6 @@ news_feed (
          "title" : "Kosteniuk has switched to Switzerland"
       },
       {
-         "description" : "Today: Matthias Wuellenweber goes into detail about the new hints option for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-the-new-hints-option-for-chessbase-17",
-         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
-         "title" : "Explained by the engineers! - The new \"hints\" option for ChessBase 17!"
-      },
-      {
          "description" : "Anish Giri scored 3.5/4 as a replacement for an unwell Magnus Carlsen, but the Canada Chessbrahs again struggled on the bottom boards as Alexander Grischuk's Blitz eliminated them 9:7. The Saint Louis Arch Bishops knocked out the Croatia Bulldogs by the same score, with the heroes Fabiano Caruana, who scored 4/4, and 13-year-old Alice Lee, who defeated 2700-rated Bogdan-Daniel Deac.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1776,14 +1792,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html",
          "pubDate" : "Sun, 05 Mar 2023 16:28:00 +0000",
          "title" : "Poster Perfect Chess Art"
-      },
-      {
-         "description" : " It's always enjoyable to play a highly thematic game in which you understand the pawn formation better than your opponent. If you know what's going on you don't even need too much time to play your moves. I enjoy playing positions where I have a space advantage in a closed position, so the S&auml;misch Variation <a href=\"https://chessimprover.com/thematic/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Thematic\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/thematic/\">Thematic</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/thematic/",
-         "pubDate" : "Sun, 05 Mar 2023 12:37:45 +0000",
-         "title" : "Thematic"
       },
       {
          "description" : " There is no doubt that chess is undergoing a real boom at the moment. Events are attracting record numbers of entries and the number of players online is so large that chess servers are falling over. Conventional wisdom is the combination of lockdowns ending and the Queens Gambit are the proximate causes. But I wonder if there is also a second order effect. In previous posts I have commented on how \"hard\" chess is. If you are a new player there is a real barrier to joining the chess community, and that barrier is ability. Despite the rhetoric of chess clubs being welcoming and encouraging beginners etc, they can be quite forbidding, especially if you start of losing a large number of games.",
