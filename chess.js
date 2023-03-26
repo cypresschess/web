@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It took four rapid games before the victor was decided on the 10th and final day of The American Cup in St. Louis. In the fourth game of their third match of the event, GM Wesley So blundered to lose a miniature to GM Hikaru Nakamura, who then b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-10",
+         "pubDate" : "Sun, 26 Mar 2023 15:41:00 -0700",
+         "title" : "Flash Report: Nakamura Wins The American Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2298",
+         "pubDate" : "Sun, 26 Mar 2023 21:32:20 +0000",
+         "title" : "Women's Grand Prix New Delhi: Round 1 Recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final match between Hikaru Nakamura and Wesley So. Plus, coverage of The American Cup Blitz, a nine-round G/3+2 Swiss. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-nakamura-vs-so-rapid-grand-final-lichessorg",
+         "pubDate" : "Sun, 26 Mar 2023 21:11:41 +0000",
+         "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final | lichess.org"
+      },
+      {
          "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 EDT, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/krush-alice-really-really-surprised-me-opening-day-8",
          "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
          "title" : "Krush: Alice Really REALLY Surprised Me in the Opening | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after a draw with Wesley So in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-not-lose-my-rating-success-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/y1JswtXMQ1Y.jpg?itok=0KlDrUNu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-not-lose-my-rating-success-day-8",
-         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
-         "title" : "Nakamura: Not Lose My Rating = Success! | Day 8"
       },
       {
          "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
@@ -1360,14 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/",
          "pubDate" : "Tue, 14 Mar 2023 06:20:09 +0000",
          "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
-      },
-      {
-         "description" : "Fighting their way through 147 high-level competitors, GMs Liem Le, Levon Aronian, Vladimir Fedoseev, and Vladislav Artemiev finished at the top of the Play-In and qualified for Division I of Chessable Masters 2023. They will join GMs Magnus Carls...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-wins-2023-cct-chessable-masters-play-in",
-         "pubDate" : "Mon, 13 Mar 2023 20:07:00 -0700",
-         "title" : "Le, Aronian, Fedoseev, Artemiev Join Carlsen's Last Tango"
       },
       {
          "description" : "",
