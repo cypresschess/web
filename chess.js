@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Sun, 26 Mar 2023 20:15:00 +0100",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after narrowly defeating Alice Lee in the classical championship match on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-wins-american-cup-2023-womens-event\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/icevZ7l95po.jpg?itok=bdk5il0C\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/irina-krush-wins-american-cup-2023-womens-event",
+         "pubDate" : "Sun, 26 Mar 2023 18:11:27 +0000",
+         "title" : "Irina Krush Wins The American Cup 2023 Women's Event!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final match between Hikaru Nakamura and Wesley So. Plus, coverage of The American Cup Blitz, a nine-round G/3+2 Swiss. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-nakamura-vs-so-rapid-grand-final",
+         "pubDate" : "Sun, 26 Mar 2023 18:11:27 +0000",
+         "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final"
+      },
+      {
+         "description" : "Irina Krush suffered her first ever loss to Alice Lee in Saturday's classical game, but she hit back to win the playoff 1.5:0.5, defend her American Women's Cup title, and pick up a combined $30,000. The battle for the $50,000 top prize goes to the final Sunday after Wesley So defeated Hikaru Nakamura 2:0 in a rapid playoff after drawing their final classical game.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/irina-krush-defends-her-american-cup-title",
+         "pubDate" : "Sun, 26 Mar 2023 15:40:56 +0000",
+         "title" : "Irina Krush defends her American Cup title"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura in Game 2 of their classical final on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -256,22 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nakamura-not-lose-my-rating-success-day-8",
          "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
          "title" : "Nakamura: Not Lose My Rating = Success! | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw with Hikaru Nakamura in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-totally-saw-winning-move-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5GRqqZ-wJ3M.jpg?itok=_JVyBlut\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-totally-saw-winning-move-day-8",
-         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
-         "title" : "Wesley So: Totally Saw the Winning Move! | Day 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players living in the United States! Today features Game 1 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.24<br /> USChessChamps.com CHAMPIONSHIP MATCH | GAME 1 (G/90+30)<br /> Hikaru Nakamura vs. Wesley So </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-8",
-         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
-         "title" : "The American Cup 2023: Day 8"
       },
       {
          "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "Nakamura Opens The American Cup With Triple-Pawn Punishment"
       },
       {
-         "description" : "The 23rd edition of the European Women's Individual Chess Championship will take place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The tournament grants 9 spots for the next Women's World Cup. The top five seeds are Bella Khotenashvili (Georgia), Valentina Gunina (FIDE), Gunay Mammadzada (Azerbaijan), Marsel Efroimski (Israel) and Yuliia Osmak (Ukraine). | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-preview",
-         "pubDate" : "Sat, 18 Mar 2023 00:30:00 +0100",
-         "title" : "European Women's Championship to kick off in Montenegro"
-      },
-      {
          "description" : "Chess.com is excited to announce the launch of new features in Game Review, our post-game learning tool. Game Review now packs in even more features that will help you understand your games, learn from them, and enjoy your best moments! Below yo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1784,14 +1792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2266",
          "pubDate" : "Mon, 06 Mar 2023 07:45:19 +0000",
          "title" : "Ahmad Al Khatib and Lina Nassr win Arab Chess Championship"
-      },
-      {
-         "description" : "This month's initial list of <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A>(March 2010) was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. <P>The item pictured below was titled, 'Victor Vasarely L'&eacute;chiquier chess board signed print (1969)', where <I>L'&eacute;chiquier</I> is French for 'chess board'. It sold 'Best offer accepted' after one bid for GBP 380.00 ('approximately US $455.13', according to eBay). <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc05.gif\" WIDTH=280 HEIGHT=400> <P>The description repeated the title and said, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html",
-         "pubDate" : "Sun, 05 Mar 2023 16:28:00 +0000",
-         "title" : "Poster Perfect Chess Art"
       }
    ]
 }
