@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-03-25","144","<a href=http://www.uschess.org/msa/XtblMain.php?202303254362 target='_blank'>CLEAR HORIZONS HIGH SCHOOL TOURNAME</a>",
 "SPRING","2023-03-24","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303243382 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303243362 target='_blank'>FBCC 2023 INTERNATIONAL DAY FOR ACH</a>",
 "HOUSTON","2023-03-24","19","<a href=http://www.uschess.org/msa/XtblMain.php?202303243332 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 24, 2023</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2022-08-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208059852 target='_blank'>FBCC 2022 SUMMER CHESS SPECTACULAR</a>",
 "CYPRESS","2022-08-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202208059762 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "MISSOURI CITY","2022-08-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208029022 target='_blank'>RCC QUADS WEEK 3 AUGUST 2 2022</a>",
-"HOUSTON","2022-07-31","16","<a href=http://www.uschess.org/msa/XtblMain.php?202207317482 target='_blank'>JULY 31 SUN SWISS</a>",
 ]);
