@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
+         "pubDate" : "Mon, 27 Mar 2023 08:45:00 +0100",
+         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after winning The American Cup Blitz, a side event held during the grand final of The American Cup 2023. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-dominates-american-cup-blitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-dominates-american-cup-blitz",
+         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
+         "title" : "Caruana Dominates American Cup Blitz!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after defeating Wesley So in the grand final playoffs to win The American Cup 2023. 2023.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-chess-nakamura-wins-american-cup-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xYqy7-YgfCs.jpg?itok=ABxWR__H\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/king-chess-nakamura-wins-american-cup-2023",
+         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
+         "title" : "The King of Chess! Nakamura Wins The American Cup 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after losing the grand final playoffs to Hikaru Nakamura in The American Cup 2023. 2023.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-its-yassers-fault-i-lost\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pzHHzAWjv2Q.jpg?itok=n_CyZc1q\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-its-yassers-fault-i-lost",
+         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
+         "title" : "Wesley So: It's Yasser's Fault I Lost!"
+      },
+      {
+         "description" : " GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/\">Dylan Berdayes Cuba's 47th Grandmaster!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/",
+         "pubDate" : "Mon, 27 Mar 2023 04:18:04 +0000",
+         "title" : "Dylan Berdayes&hellip; Cuba's 47th Grandmaster!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Watch GM Fabiano Caruana, the winner of American Cup Blitz 2023, in this exclusive interview with GM Cristian Chirila. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-fabiano-caruana-dominates-american-cup-blitz-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -138,14 +178,6 @@ news_feed (
          "title" : "Women's Grand Prix in Delhi starts after delays"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Sun, 26 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : " Chess Heroes: Tactics is now available in physical format on Amazon. It's a tactics book designed to take readers or students from round about 500 to 1500 strength, and should be read in parallel with the books on Checkmates, Openings and Endings. A teaching technique often used in schools when, for example, teaching a new <a href=\"https://chessimprover.com/chess-heroes-tactics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Tactics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-tactics/\">Chess Heroes: Tactics</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -162,22 +194,6 @@ news_feed (
          "title" : "American Cup: Krush successfully defends her title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after narrowly defeating Alice Lee on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-irina-krush-wins-american-cup-2023-womens-section\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/icevZ7l95po.jpg?itok=bdk5il0C\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-irina-krush-wins-american-cup-2023-womens-section",
-         "pubDate" : "Sun, 26 Mar 2023 03:11:17 +0000",
-         "title" : "GM Irina Krush Wins The American Cup 2023 Women's Section!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/so-i-made-it-work-day-9",
-         "pubDate" : "Sun, 26 Mar 2023 00:11:16 +0000",
-         "title" : "So: I Made It Work! | Day 9"
-      },
-      {
          "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-1.html",
          "pubDate" : "Sat, 25 Mar 2023 22:02:00 +0000",
          "title" : "2023 Dubbo Open - Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features Game 2 of the classical match (in both fields) in which the winners of the champions and elimination brackets play each other. Plus, playoffs if necessary! Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-9-lichessorg",
-         "pubDate" : "Sat, 25 Mar 2023 21:10:58 +0000",
-         "title" : "The American Cup 2023: Day 9 | lichess.org"
       },
       {
          "description" : "FIDE President Arkady Dvorkovich has issued an apology after the start of the New Delhi FIDE Women's Grand Prix was postponed when Zhansaya Abdumalik withdrew in protest at the conditions for the players. Earlier Ukrainian sisters Anna and Mariya Muzychuk had also withdrawn, but were replaced by Nino Batsiashvili and Vaishali.",
