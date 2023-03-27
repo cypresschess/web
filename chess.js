@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is usual for rook endgames to end in a draw. At least, they usually have a strong tendency to do so. Recently young grandmaster Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. Even our endgame expert Dr. Karsten M&uuml;ller, and a visiting super-GM colleague of Iniyan had great difficulty finding the win. Can you help find the convincing proof?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-iniyan-challenge",
+         "pubDate" : "Mon, 27 Mar 2023 15:45:00 +0100",
+         "title" : "The Iniyan Challenge"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Mon, 27 Mar 2023 14:55:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/hikaru-nakamura-wins-the-2023-american-cup",
+         "pubDate" : "Mon, 27 Mar 2023 12:49:25 +0000",
+         "title" : "Hikaru Nakamura wins the 2023 American Cup"
+      },
+      {
+         "description" : "Toronto will host the 2024 FIDE Candidates and Women's Candidates, scheduled for April 3-25, with a prize fund of EUR 750,000. It will be the first time in chess history that both events will be held at the same time and venue, and also the first time that the Candidates Tournament is held in North []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2024-fide-candidates-chess-is-in-toronto/",
+         "pubDate" : "Mon, 27 Mar 2023 12:27:24 +0000",
+         "title" : "2024 FIDE Candidates Chess is in Toronto"
+      },
+      {
+         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
+         "pubDate" : "Mon, 27 Mar 2023 12:17:09 +0000",
+         "title" : "Reykjavik Chess Open 2023 LIVE"
+      },
+      {
+         "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2.5-1.5 in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura&#x2019;s territory. Replay the games of American Cup []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/87461-2/",
+         "pubDate" : "Mon, 27 Mar 2023 12:04:35 +0000",
+         "title" : "Hikaru Nakamura wins American Cup 2023"
+      },
+      {
+         "description" : " Top seed Dominic Fox has won the 2023 Dubbo Open, with an unbeaten 5.5/6. Starting the day on 3/3, he defeated Jonathon Harding in the days first round, before drawing with Tyler Milson. In the final round he was up against Braiden Cox, who needed a win for a chance for first. Fox won with a nice attack to secure the $550 1st prize. Blake Lynch finished outright second on 5 points, with Kye Walls and Fritz Vander Wal tied for 3rd on 4.5. The Under 1600 prize was shared between Lee Forace and Tim Hanrahan. The Under 1250 prize was won by Sean Boag and Rijul Saini was the best Unrated. Once again the tournament was a pleasure to run. There were a number of new players competing in their very ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-2.html",
+         "pubDate" : "Mon, 27 Mar 2023 11:36:00 +0000",
+         "title" : "2023 Dubbo Open - Day 2"
+      },
+      {
          "description" : "Middlesex County Chess Association has agreed to hold a Middlesex Seniors (adults) vs. Middlesex Juniors match on 6th May 2023, in part to commemorate the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
          "pubDate" : "Mon, 27 Mar 2023 11:30:00 +0100",
          "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The Reykjavik Open 2023 is taking place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. Follow the live games []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-open-2023/",
+         "pubDate" : "Mon, 27 Mar 2023 10:08:00 +0000",
+         "title" : "Reykjavik Open 2023"
       },
       {
          "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz (TUR, 2629), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/reykjavik-open-2023-starts/\">Read More &#187;</a></span>",
@@ -119,7 +183,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-10",
          "pubDate" : "Sun, 26 Mar 2023 15:41:00 -0700",
-         "title" : "Flash Report: Nakamura Wins The American Cup"
+         "title" : "After Blunder By So In 4th Game, Nakamura Wins The American Cup"
       },
       {
          "description" : "",
@@ -136,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/american-cup-2023-nakamura-vs-so-rapid-grand-final-lichessorg",
          "pubDate" : "Sun, 26 Mar 2023 21:11:41 +0000",
          "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final | lichess.org"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Sun, 26 Mar 2023 20:15:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after narrowly defeating Alice Lee in the classical championship match on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-wins-american-cup-2023-womens-event\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/icevZ7l95po.jpg?itok=bdk5il0C\" alt=\"\" /></a></div>",
@@ -202,14 +258,6 @@ news_feed (
          "title" : "Understanding before Moving 118: Play the Sicilian!"
       },
       {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Sun, 26 Mar 2023 14:55:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
-      },
-      {
          "description" : "It took two full games and two messy tiebreakers before the victors of the action of day nine in The American Cup were decided. In the Women&#39;s event, GM Irina Krush needed only a draw, but lost the regulation game before ultimately deciding the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -232,6 +280,14 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-tactics/",
          "pubDate" : "Sun, 26 Mar 2023 10:24:52 +0000",
          "title" : "Chess Heroes: Tactics"
+      },
+      {
+         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 EDT, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
+         "pubDate" : "Sun, 26 Mar 2023 08:55:00 +0100",
+         "title" : "The American Cup: Live!"
       },
       {
          "description" : "Irina Krush claimed her second consecutive American Cup title in the women's section after obtaining a 2&frac12;-1&frac12; victory over Alice Lee. On Saturday, Lee defeated Krush in classical chess to force a rapid playoff. Krush, however, showed the better nerves in a topsy-turvy pair of rapid games to grab the title. Meanwhile, Wesley So defeated Hikaru Nakamura - also in playoffs - to force an extra rapid match in the open section. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -640,14 +696,6 @@ news_feed (
          "link" : "https://www.chessdom.com/uk-vs-ukraine-solidarity-match-2023-live/",
          "pubDate" : "Thu, 23 Mar 2023 14:03:53 +0000",
          "title" : "UK vs. Ukraine Solidarity Match 2023 - LIVE"
-      },
-      {
-         "description" : "The 20th Delhi Open 2023 is taking place from 23&#x2013;30 March 2023 in New Delhi, India. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0;It is a 10-round Swiss tournament with participation of GM S.P. Sethuraman, GM Chithambaram Aravindh, GM Levan Pantsulaia, GM Mikhail Kobalia, GM Mikheil Mchedlishvili, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/20th-delhi-open-2023-live/",
-         "pubDate" : "Thu, 23 Mar 2023 14:01:28 +0000",
-         "title" : "20th Delhi Open 2023 - LIVE"
       },
       {
          "description" : "On March 24, the third of four tournaments in the FIDE Women's Grand Prix Series 2022/2023 will begin in New Delhi, India. Twelve players will compete, but the two Ukrainian grandmasters Anna and Mariya Muzychuk have decided not to take part, presumably because Kateryna Lagno, Polina Shuvalova and Aleksandra Goryachkina, who are members of the Russian Chess Federation but play under the FIDE flag, will be among the participants in New Delhi. | Photo: ChessBase",
@@ -1090,14 +1138,6 @@ news_feed (
          "title" : "Chess, my brain and I (and pickles)"
       },
       {
-         "description" : "The Opening ceremony of the event was attended by the ECU President Mr. Zurab Azmaiparashvili, ECU Honorary Vice President and the Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic, the Minister of Youth and Sports of Montenegro Mr. Vasilije Lalosevic, who addressed the players and distinguished guests. The 23rd&#xA0;edition of the European Women&#x2019;s []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-individual-chess-championship-2023-opened-yesterday-in-petrovac-montenegro/",
-         "pubDate" : "Sat, 18 Mar 2023 19:06:14 +0000",
-         "title" : "European Women's Individual Chess Championship 2023 opened yesterday in Petrovac, Montenegro!"
-      },
-      {
          "description" : "Chess will make its first appearance in the European Games as an accompanying event at the Krak&oacute;w-Maloposka Games 2023. The European Chess Union regulated a new special competition, the European Pair Blitz Chess Championship 2023, which will take place on 19th of June 2023 in Krak&oacute;w, Poland. Eight teams (ECU members) are invited according the best combined Pair FIDE Classical rating according to the March 2023 list: Ukraine, Azerbaijan, France, Poland, Romania, Germany, Armenia and the Netherlands.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1138,14 +1178,6 @@ news_feed (
          "title" : "Kasparov: \"I can hardly call it a World Championship match\""
       },
       {
-         "description" : "In the diagram position Black threatens both ...Qxa1 and ...dxc2, but his king ...Can you find White's elegant winning way?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishops-vs-0-0-0",
-         "pubDate" : "Sat, 18 Mar 2023 09:00:00 +0100",
-         "title" : "Bishops vs. 0-0-0"
-      },
-      {
          "description" : "GM Hikaru Nakamura was the sole winner in the open section on the first day of The 2023 American Cup in St. Louis. He defeated GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique. Hard-fought draws materi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1160,22 +1192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-launches-game-review-v2",
          "pubDate" : "Fri, 17 Mar 2023 15:12:00 -0700",
          "title" : "Announcing New Game Review Features: Visual Explanations, New Move Classifications, And More!"
-      },
-      {
-         "description" : "The 23rd&#160;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 22:01:08 +0000",
-         "title" : "European Women's Chess Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Riyadh Calendar Chess Championship 2023 is taking place from 17&#x2013;18 March 2023 in Riyadh, Saudi Arabia. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one. It is a 9-round Swiss tournament with participation of GM Ahmed Adly, GM A.R. Saleh Salem, GM Bassem Amin, GM Hicham Hamdouchi, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/riyadh-calendar-chess-championship-2023-live/",
-         "pubDate" : "Fri, 17 Mar 2023 21:52:23 +0000",
-         "title" : "Riyadh Calendar Chess Championship 2023 - LIVE"
       },
       {
          "description" : "Team MGD1 made it to the playoffs after eliminating the Garden State Passers in week five of the 2023 Pro Chess League. This was the last match of the regular season. Board three, GM Diptayan Ghosh, scored the most points with 3/4, but every mem...",
@@ -1370,7 +1386,7 @@ news_feed (
          "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
       },
       {
-         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament contest kicks off with a format for which Hikaru is the reigning world ch...",
+         "description" : "Event 1 is today, March 27! Register at chess.com/play/arena/2607373! Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikarus-chess-decathlon-mgg",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "Sac Or No Sac? (5)"
       },
       {
-         "description" : "Magnus Carlsen will join Hikaru Nakamura, Wesley So, Fabiano Caruana and four qualifiers April 3-7 for the Chessable Masters, the 2nd event on the $2 million 2023 Champions Chess Tour. The Ding Liren vs. Ian Nepomniachtchi World Championship match starts just two days later in Astana, Kazakhstan, so that this will be the last major event Magnus plays as the classical World Champion, at least for the near future.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-nakamura-so-caruana-play-4th-chessable-masters",
-         "pubDate" : "Tue, 07 Mar 2023 15:02:06 +0000",
-         "title" : "Carlsen, Nakamura, So & Caruana play 4th Chessable Masters"
-      },
-      {
          "description" : " Recently my blitz abilities have decreased somewhat dramatically. I really am getting too old and too slow. To fix this I am trying to practice against various crippled versions of Stockfish on Lichess, not to work on my moves, but mainly to work on my speed. Here is a recent effort <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"800\" data-original-width=\"686\" height=\"400\" src=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" width=\"343\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2268",
          "pubDate" : "Mon, 06 Mar 2023 16:55:33 +0000",
          "title" : "Romanian Chess Federation launches Education through Chess national project"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2267",
-         "pubDate" : "Mon, 06 Mar 2023 13:56:06 +0000",
-         "title" : "FIDE delegation visits Sudan"
       }
    ]
 }
