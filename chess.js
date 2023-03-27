@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Watch GM Fabiano Caruana, the winner of American Cup Blitz 2023, in this exclusive interview with GM Cristian Chirila. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-fabiano-caruana-dominates-american-cup-blitz-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-fabiano-caruana-dominates-american-cup-blitz-2023",
+         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
+         "title" : "GM Fabiano Caruana Dominates American Cup Blitz 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Join newly crowned American Cup 2023 champion GM Hikaru Nakamura as he sits down with GM Cristian Chirila to discuss his winning strategy and mindset. Nakamura claimed victory in an intense playoff against GM Wesley So to win The American Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-chess-hikaru-nakamura-wins-american-cup-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/king-chess-hikaru-nakamura-wins-american-cup-2023",
+         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
+         "title" : "The King of Chess: Hikaru Nakamura Wins The American Cup 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Wesley So reflects on his journey at The American Cup 2023 and his experience in the intense playoffs against GM Hikaru Nakamura. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-wesley-so-reflects-american-cup-2023-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pzHHzAWjv2Q.jpg?itok=n_CyZc1q\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-wesley-so-reflects-american-cup-2023-playoff",
+         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
+         "title" : "GM Wesley So Reflects on The American Cup 2023 Playoff"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2299",
+         "pubDate" : "Mon, 27 Mar 2023 00:11:25 +0000",
+         "title" : "Hikaru Nakamura and Irina Krush win American Cup"
+      },
+      {
          "description" : "It took four rapid games before the victor was decided on the 10th and final day of The American Cup in St. Louis. In the fourth game of their third match of the event, GM Wesley So blundered to lose a miniature to GM Hikaru Nakamura, who then b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -186,22 +218,6 @@ news_feed (
          "title" : "New Delhi GP: Abdumalik withdraws, first round postponed due to organizational issues"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final matches, which will only happen if Wesley So and Alice Lee win their respective classical matches. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-day-10",
-         "pubDate" : "Sat, 25 Mar 2023 18:10:52 +0000",
-         "title" : "The American Cup 2023: Day 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join a commentary team TBD for the move-by-move. 2023.04.05<br /> USChessChamps.com GROUP A<br /> TBD GROUP B<br /> TBA </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-1",
-         "pubDate" : "Sat, 25 Mar 2023 18:10:52 +0000",
-         "title" : "2023 Spring Chess Classic: Round 1"
-      },
-      {
          "description" : "The Zonal 4.2 2023 is taking place from 25&#x2013;31 March 2023 in Dimbokro, Ivory Coast. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Mariano Ortega Amarelle, Simplice Armel De []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-8",
          "pubDate" : "Fri, 24 Mar 2023 18:36:00 -0700",
          "title" : "Krush 1 Draw Away From Title, Nakamura Draws Wild Game With So"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after defeating Alice Lee in Game 1 of their classical championship match at The American Cup 2023. 2023.03.24<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/krush-alice-really-really-surprised-me-opening-day-8\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QFOuKmp0tb8.jpg?itok=uLiy-biX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/krush-alice-really-really-surprised-me-opening-day-8",
-         "pubDate" : "Sat, 25 Mar 2023 00:10:27 +0000",
-         "title" : "Krush: Alice Really REALLY Surprised Me in the Opening | Day 8"
       },
       {
          "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
