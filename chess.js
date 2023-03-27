@@ -50,6 +50,14 @@ news_feed (
          "title" : "28th Sharjah Rapid Championship 2023 - LIVE"
       },
       {
+         "description" : "The FIDE Candidates and Women&#39;s Candidates 2024 will be held concurrently in Toronto, Canada, the International Chess Federation announced on Monday. Taking place on April 3-25, it will be the first time that the two tournaments will occur with th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-candidates-tournaments-to-be-held-in-toronto",
+         "pubDate" : "Mon, 27 Mar 2023 10:31:00 -0700",
+         "title" : "FIDE Candidates And Women's Candidates 2024 To Be Held In Toronto"
+      },
+      {
          "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2&frac12;-1&frac12; in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura's territory. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1402,7 +1410,7 @@ news_feed (
          "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
       },
       {
-         "description" : "Event 1 is today, March 27! Register at chess.com/play/arena/2607373! Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament c...",
+         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament contest kicks off with a format for which Hikaru is the reigning world ch...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikarus-chess-decathlon-mgg",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/",
          "pubDate" : "Tue, 14 Mar 2023 10:17:45 +0000",
          "title" : "Chess for first time as an accompanying event in the European Games!"
-      },
-      {
-         "description" : "GM Magnus Carlsen will return to Norway Chess, his homecoming tournament, after he abdicates his world champion title, it was announced on Monday. Once again, the world number-one tops the lineup for the elite event&#38;mdash;now in its 11th year&#38;md...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-norway-chess",
-         "pubDate" : "Tue, 14 Mar 2023 03:09:00 -0700",
-         "title" : "Carlsen, Nakamura Will Go Head-To-Head At Norway Chess"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen One of the most popular openings of the 1. d4 players in correspondence chess is the Queen's Gambit Exchange Variation (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Tarrasch Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\">Need sure points? QGD, Semi-Tarrasch Variation Edition",
