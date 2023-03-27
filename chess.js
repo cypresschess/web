@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2301",
+         "pubDate" : "Mon, 27 Mar 2023 18:57:39 +0000",
+         "title" : "Women's Grand Prix New Delhi: Round 2 Recap"
+      },
+      {
+         "description" : "The Chess Continental Absolute Championship of the Americas is an official event of the Chess Confederation for America, promoted by the Dominican Chess Federation (FDA). The top four (4) will qualify for the &#8220;FIDE World Cup&#8221; phase of the Absolute World Championship cycle. The tournament will be valid for the International Rating and will award []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chess-continental-absolute-championship-of-the-americas-2023/",
+         "pubDate" : "Mon, 27 Mar 2023 18:54:00 +0000",
+         "title" : "Chess Continental Absolute Championship of the Americas 2023"
+      },
+      {
+         "description" : "The Fagernes Open 2023 is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fagernes-open-2023-live/",
+         "pubDate" : "Mon, 27 Mar 2023 18:43:23 +0000",
+         "title" : "Fagernes Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Fagernes GM 2023 is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fagernes-gm-2023-live/",
+         "pubDate" : "Mon, 27 Mar 2023 18:38:13 +0000",
+         "title" : "Fagernes GM 2023 - LIVE"
+      },
+      {
+         "description" : "The tournament is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets. The Fagernes Chess International 2023 is separated in two categories Fagernes GM (The GM group is open only for male players with a FIDE-ELO above 2000 and female []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fagernes-chess-international-2023/",
+         "pubDate" : "Mon, 27 Mar 2023 18:30:55 +0000",
+         "title" : "Fagernes Chess International 2023"
+      },
+      {
+         "description" : "The 28th Sharjah Rapid Championship is taking place from 26&#x2013;27 March 2023 in Sharjah, United Arab Emirates. Players receive 10 minutes for the entire game, plus a 3-second increment starting from move one. It is a 9-round Swiss tournament with participation of Mokliss El Adnani, Adam Tukhaev, Pavel Eljanov, Viorel Iordachescu, Bassem Amin, Ahmed Adly, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/28th-sharjah-rapid-championship-2023-live/",
+         "pubDate" : "Mon, 27 Mar 2023 18:14:18 +0000",
+         "title" : "28th Sharjah Rapid Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2&frac12;-1&frac12; in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura's territory. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2023-d10",
+         "pubDate" : "Mon, 27 Mar 2023 18:10:00 +0100",
+         "title" : "Hikaru Nakamura wins the American Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.britishchesschampionships.co.uk/arbiters-expression-of-interest/#new_tab",
+         "pubDate" : "Mon, 27 Mar 2023 15:32:09 +0000",
+         "title" : "BCC arbiters' expression of interest"
+      },
+      {
          "description" : "It is usual for rook endgames to end in a draw. At least, they usually have a strong tendency to do so. Recently young grandmaster Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. Even our endgame expert Dr. Karsten M&uuml;ller, and a visiting super-GM colleague of Iniyan had great difficulty finding the win. Can you help find the convincing proof?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-iniyan-challenge",
          "pubDate" : "Mon, 27 Mar 2023 15:45:00 +0100",
          "title" : "The Iniyan Challenge"
+      },
+      {
+         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
+         "pubDate" : "Mon, 27 Mar 2023 15:15:00 +0100",
+         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
       },
       {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
@@ -104,14 +176,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/toronto-hosts-candidates-2024/",
          "pubDate" : "Mon, 27 Mar 2023 09:38:48 +0100",
          "title" : "Toronto hosts Candidates 2024"
-      },
-      {
-         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
-         "pubDate" : "Mon, 27 Mar 2023 08:45:00 +0100",
-         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after winning The American Cup Blitz, a side event held during the grand final of The American Cup 2023. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-dominates-american-cup-blitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
@@ -336,22 +400,6 @@ news_feed (
          "link" : "https://www.chessdom.com/zonal-4-2-2023-live/",
          "pubDate" : "Sat, 25 Mar 2023 17:18:26 +0000",
          "title" : "Zonal 4.2 2023 - LIVE"
-      },
-      {
-         "description" : "The Women's Zonal 4.2 2023 is taking place from 25&#x2013;31 March 2023 in Dimbokro, Ivory Coast. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Celia M. Rodriguez Guevara, Nadezhda []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/womens-zonal-4-2-2023-live/",
-         "pubDate" : "Sat, 25 Mar 2023 17:18:22 +0000",
-         "title" : "Women's Zonal 4.2 2023 - LIVE"
-      },
-      {
-         "description" : "The Kyiv Spring Open 2023 is taking place from 25&#x2013;31 March 2023 in Kyiv, Ukraine. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Vadim Malakhatko, Vadim Shishkin, Eduard Andreev, Andrey Grekh, Sergey Pavlov, Spartak Vysochin, Vladislav Bakhmatsky, Valeriy []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kyiv-spring-open-2023-live/",
-         "pubDate" : "Sat, 25 Mar 2023 17:07:11 +0000",
-         "title" : "Kyiv Spring Open 2023 - LIVE"
       },
       {
          "description" : "",
@@ -650,14 +698,6 @@ news_feed (
          "title" : "American Cup: So and Lee remain in contention"
       },
       {
-         "description" : "The Austrian Bundesliga 2023 is taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;It is an 12-team round-robin tournament with participation of SV Sparkasse Grieskirchen ( Petr Haba, Florian Schwabeneder, Lukas Leisch, Georg Kilgus, Christoph []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-bundesliga-2023-live/",
-         "pubDate" : "Thu, 23 Mar 2023 20:55:43 +0000",
-         "title" : "Austrian Bundesliga 2023 - LIVE"
-      },
-      {
          "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,22 +720,6 @@ news_feed (
          "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-for-north-eastern-states-andaman-nicobar-assam-arunachal-pradesh-manipur-meghalaya-mizoram-sikkim-and-tripura/",
          "pubDate" : "Thu, 23 Mar 2023 14:17:41 +0000",
          "title" : "Medical Evaluation of the age of Chess Players for North Eastern States (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
-      },
-      {
-         "description" : "The New Delhi FIDE Women's Grand Prix 2023 is taking place in New Delhi, from March 25 to April 5 2023. It forms the third of four stages of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/new-delhi-fide-womens-grand-prix-2023-live/",
-         "pubDate" : "Thu, 23 Mar 2023 14:13:39 +0000",
-         "title" : "New Delhi FIDE Women's Grand Prix 2023 - LIVE"
-      },
-      {
-         "description" : "An 8-game match in London between English no. 1 Mickey Adams and 2-time Ukrainian Champion Andrei Volokitin. The match is organised by Chess in Schools and Communities and will be held half in the Ukrainian Embassy and half in the European Bank for Reconstruction and Development. The prize fund is $45,000. The time control is []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uk-vs-ukraine-solidarity-match-2023-live/",
-         "pubDate" : "Thu, 23 Mar 2023 14:03:53 +0000",
-         "title" : "UK vs. Ukraine Solidarity Match 2023 - LIVE"
       },
       {
          "description" : "On March 24, the third of four tournaments in the FIDE Women's Grand Prix Series 2022/2023 will begin in New Delhi, India. Twelve players will compete, but the two Ukrainian grandmasters Anna and Mariya Muzychuk have decided not to take part, presumably because Kateryna Lagno, Polina Shuvalova and Aleksandra Goryachkina, who are members of the Russian Chess Federation but play under the FIDE flag, will be among the participants in New Delhi. | Photo: ChessBase",
@@ -1136,14 +1160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-brain-pickles-irina-bulmaga",
          "pubDate" : "Sat, 18 Mar 2023 23:40:00 +0100",
          "title" : "Chess, my brain and I (and pickles)"
-      },
-      {
-         "description" : "Chess will make its first appearance in the European Games as an accompanying event at the Krak&oacute;w-Maloposka Games 2023. The European Chess Union regulated a new special competition, the European Pair Blitz Chess Championship 2023, which will take place on 19th of June 2023 in Krak&oacute;w, Poland. Eight teams (ECU members) are invited according the best combined Pair FIDE Classical rating according to the March 2023 list: Ukraine, Azerbaijan, France, Poland, Romania, Germany, Armenia and the Netherlands.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-first-appearance-european-games",
-         "pubDate" : "Sat, 18 Mar 2023 18:25:00 +0100",
-         "title" : "Chess to make first appearance at European Games"
       },
       {
          "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1808,30 +1824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2269",
          "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
          "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
-      },
-      {
-         "description" : "For the previous fortnightly post on the two most important, ongoing engine vs. engine competitions the keyword was 'Underway': <A HREF=\"https://chessforallages.blogspot.com/2023/02/stockfish-wins-tcec-swiss-4-tcec-s24-l2.html\">Stockfish Wins TCEC Swiss 4; TCEC S24 L2 & CCC20 Blitz Underway</A>(February 2023). Here's a summary of that post:- <BLOCKQUOTE>TCEC: Stockfish won 'Swiss 4', a point ahead of KomodoDragon and LCZero. The site then started S24 League 2 (see diagram for S24 stages). &#149; CCC: The 'CCC20 Blitz Newcomers' and 'Qualifier #1' events have finished and 'Qualifier #2' is underway. The next stage, 'CCC20 Blitz Main', will have 12 engines with three coming from 'Qualifier #2'",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html",
-         "pubDate" : "Mon, 06 Mar 2023 16:59:00 +0000",
-         "title" : "TCEC S24 L1, CCC20 Blitz Semifinals: Final Week"
-      },
-      {
-         "description" : "(Under 8 - 18) Chess Championship 2023 Batumi (Georgia) 5th to 12th June, 2023 FIDE World Cadet &#38; Youth Rapid &#38; Blitz (Under 8",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadet-youth-rapid-blitz/",
-         "pubDate" : "Mon, 06 Mar 2023 16:56:55 +0000",
-         "title" : "FIDE World Cadet & Youth Rapid & Blitz 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2268",
-         "pubDate" : "Mon, 06 Mar 2023 16:55:33 +0000",
-         "title" : "Romanian Chess Federation launches Education through Chess national project"
       }
    ]
 }
