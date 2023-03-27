@@ -55,7 +55,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-candidates-tournaments-to-be-held-in-toronto",
          "pubDate" : "Mon, 27 Mar 2023 10:31:00 -0700",
-         "title" : "FIDE Candidates And Women's Candidates 2024 To Be Held In Toronto"
+         "title" : "FIDE Candidates, Women's Candidates 2024 To Be Held In Toronto"
       },
       {
          "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2&frac12;-1&frac12; in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura's territory. | Photo: Saint Louis Chess Club / Lennart Ootes",
@@ -335,7 +335,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-9",
          "pubDate" : "Sun, 26 Mar 2023 06:28:00 -0700",
-         "title" : "Krush Extends Queenship, So Dominates Nakamura In Tiebreaker"
+         "title" : "Krush Extends Queenship, Wesley So Defeats Nakamura In Tiebreaker"
       },
       {
          "description" : "",
