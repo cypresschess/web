@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Middlesex County Chess Association has agreed to hold a Middlesex Seniors (adults) vs. Middlesex Juniors match on 6th May 2023, in part to commemorate the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/middlesex-seniors-adults-vs-middlesex-juniors-match/",
+         "pubDate" : "Mon, 27 Mar 2023 10:47:21 +0000",
+         "title" : "Middlesex Seniors (adults) vs. Middlesex Juniors match"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Mon, 27 Mar 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz (TUR, 2629), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/reykjavik-open-2023-starts/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/reykjavik-open-2023-starts/",
+         "pubDate" : "Mon, 27 Mar 2023 08:58:03 +0000",
+         "title" : "Reykjavik Open 2023 starts"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2300",
+         "pubDate" : "Mon, 27 Mar 2023 08:46:36 +0000",
+         "title" : "Toronto will host the 2024 FIDE Candidates Tournaments"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> ChessTech readers <a href=\"https://www.chesstech.org/2022/big-chess-comes-to-toronto/\">knew that this might come</a>. The <strong>Scheinberg</strong> family's hometown Toronto <a href=\"https://fide.com/news/2300\">will host</a> the Candidates and Women Candidates Tournaments with a combined prizefund of $750,000 in April 2024, the most important chess event ever held in Canada. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/toronto-hosts-candidates-2024/",
+         "pubDate" : "Mon, 27 Mar 2023 09:38:48 +0100",
+         "title" : "Toronto hosts Candidates 2024"
+      },
+      {
          "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,6 +168,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/irina-krush-defends-her-american-cup-title",
          "pubDate" : "Sun, 26 Mar 2023 15:40:56 +0000",
          "title" : "Irina Krush defends her American Cup title"
+      },
+      {
+         "description" : "In this video GM Nakamura reads the Wall Street Journal article, <A HREF=\"https://www.wsj.com/articles/alejandro-ramirez-jennifer-shahade-chess-allegations-622263b8?mod=hp_lead_pos9\">How Sexual Assault Allegations Against a U.S. Chess Grandmaster Went Unaddressed for Years</A>(wsj.com). The article was subtitled, <BLOCKQUOTE>Numerous women have accused elite player and coach Alejandro Ramirez of misconduct. Two bodies that run chess in the U.S. allegedly knew of accusations for several years. </BLOCKQUOTE> <P>It started, <BLOCKQUOTE>When former U.S. women's chess champion Jennifer Shahade alleged on social media last month that she had been sexually assaulted by a prominent grandmaster named",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
+         "pubDate" : "Sun, 26 Mar 2023 15:25:00 +0000",
+         "title" : "The Dark Side of Women's Chess"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura in Game 2 of their classical final on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
@@ -1098,14 +1146,6 @@ news_feed (
          "title" : "Bishops vs. 0-0-0"
       },
       {
-         "description" : "The 2023 American Cup kicked off with several decisive games on the first day of action, with Nakamura, Krush, Lee, & Tokhirjonova all taking a one-point lead in their initial matches. Their opponents (Sevian, Abrahamyan, Pourkashiyan, and Nemcova) will now have to win tomorrow's game in order to force their match into a playoff. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d1",
-         "pubDate" : "Sat, 18 Mar 2023 08:55:00 +0100",
-         "title" : "American Cup: Nakamura beats Sevian"
-      },
-      {
          "description" : "GM Hikaru Nakamura was the sole winner in the open section on the first day of The 2023 American Cup in St. Louis. He defeated GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique. Hard-fought draws materi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1146,7 +1186,7 @@ news_feed (
          "title" : "Never In Doubt: Team MGD1 Dominates Passers, Advances To Playoffs"
       },
       {
-         "description" : " The American Cup takes place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. ",
+         "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2023",
@@ -1304,14 +1344,6 @@ news_feed (
          "link" : "https://chessimprover.com/my-latest-releases-on-vimeo/",
          "pubDate" : "Wed, 15 Mar 2023 10:00:26 +0000",
          "title" : "My Latest Releases on Vimeo"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Norway Chess</strong> 2023 <a href=\"https://norwaychess.no/en/2023/03/14/the-2023-line-up-is-here/\">lineup has been announced</a> with then former world champion <strong>Magnus Carlsen</strong>, first timers <strong>Nodirbek Abdusattorov</strong> and <strong>Gukesh</strong> as well as, after a long classical chess break, <strong>Alireza Firouzja</strong>. The event takes place in Stavanger from 29 May to 9 June. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/firouzja-returns-to-board-in/",
-         "pubDate" : "Wed, 15 Mar 2023 00:42:02 +0100",
-         "title" : "Firouzja returns to board in Stavanger"
       },
       {
          "description" : "",
@@ -1472,14 +1504,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2278",
          "pubDate" : "Sun, 12 Mar 2023 23:53:49 +0000",
          "title" : "EICC 2023: Shevchenko joins Sarana on the top with one round to go"
-      },
-      {
-         "description" : "Heading into the last round of the European Individual Chess Championship 2023, GM Alexey Sarana (FIDE, 2668) and GM Kirill Shevchenko (ROU, 2668) share the lead scoring 8 points each. GM Kirill Shevchenko (ROU, 2668) outplayed GM Benjamin Gledura (HUN, 2637) in the penultimate round to join the race for the trophy. Shevchenko had a slightly better position&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/kirill-shevchenko-joins-alexey-sarana-on-the-top-with-one-round-to-go-eicc2023-round-10-recap/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/kirill-shevchenko-joins-alexey-sarana-on-the-top-with-one-round-to-go-eicc2023-round-10-recap/",
-         "pubDate" : "Sun, 12 Mar 2023 23:40:37 +0000",
-         "title" : "Kirill Shevchenko joins Alexey Sarana on the top with one round to go - EICC2023 Round 10 recap"
       },
       {
          "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Chess Classic on April 22nd!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1808,14 +1832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2267",
          "pubDate" : "Mon, 06 Mar 2023 13:56:06 +0000",
          "title" : "FIDE delegation visits Sudan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2266",
-         "pubDate" : "Mon, 06 Mar 2023 07:45:19 +0000",
-         "title" : "Ahmad Al Khatib and Lina Nassr win Arab Chess Championship"
       }
    ]
 }
