@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, it is White to move and draw. White is an exchange up but he still is in trouble because his pawns are weak and his rook has trouble defending them. In the game White did not find a way to draw the game and lost. Can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-bishop-2",
+         "pubDate" : "Tue, 28 Mar 2023 09:00:00 +0100",
+         "title" : "Rook vs bishop"
+      },
+      {
+         "description" : "The second-round games of the Women's Grand Prix in New Delhi were played on Monday. Bibisara Assaubayeva, the 19-year-old IM from Kazakhstan, is the only player who has so far scored a win in the tournament, as she defeated India's Vaishali Rameshbabu with black. A look at the standings does not help much at the moment: six players have played two games, four have played only one. | Photo: FIDE / Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r2",
+         "pubDate" : "Tue, 28 Mar 2023 07:30:00 +0100",
+         "title" : "New Delhi GP: Assaubayeva beats Vaishali"
+      },
+      {
+         "description" : "Martin B Justesen, the author of Say Chess and Blindfold Opening Visualization: 100 chess puzzles decided to ask Chat GPT-4 what it would do if it was in charge of FIDE. Chat GPT-4 gave useful suggestions, but definitely failed to find an official website of the World Chess Championship 2023. Here are the 10 points []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chat-gpt-4-for-chess/",
+         "pubDate" : "Tue, 28 Mar 2023 04:58:23 +0000",
+         "title" : "Chat GPT-4 for Chess"
+      },
+      {
          "description" : "The Women Candidates Chess 2023 final take place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "Fagernes Chess International 2023"
       },
       {
-         "description" : "The 28th Sharjah Rapid Championship is taking place from 26&#x2013;27 March 2023 in Sharjah, United Arab Emirates. Players receive 10 minutes for the entire game, plus a 3-second increment starting from move one. It is a 9-round Swiss tournament with participation of Mokliss El Adnani, Adam Tukhaev, Pavel Eljanov, Viorel Iordachescu, Bassem Amin, Ahmed Adly, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/28th-sharjah-rapid-championship-2023-live/",
-         "pubDate" : "Mon, 27 Mar 2023 18:14:18 +0000",
-         "title" : "28th Sharjah Rapid Championship 2023 - LIVE"
-      },
-      {
          "description" : "The FIDE Candidates and Women&#39;s Candidates 2024 will be held concurrently in Toronto, Canada, the International Chess Federation announced on Monday. Taking place on April 3-25, it will be the first time that the two tournaments will occur with th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/middlesex-seniors-adults-vs-middlesex-juniors-match/",
          "pubDate" : "Mon, 27 Mar 2023 10:47:21 +0000",
          "title" : "Middlesex Seniors (adults) vs. Middlesex Juniors match"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Mon, 27 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz (TUR, 2629), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/reykjavik-open-2023-starts/\">Read More &#187;</a></span>",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-2",
          "pubDate" : "Sat, 18 Mar 2023 22:27:00 -0700",
          "title" : "Caruana Clinches Match Victory In Catalan Classic"
-      },
-      {
-         "description" : "Irina Bulmaga is the 30th highest-rated woman player in the world. Last month, she bravely decided to play in the open section of the Romanian Championship, when only a final-round loss prevented her from reaching the podium. Here she tells us the story of her time in Sebes, focusing on her inner thoughts, presented as a candid dialogue with her own brain. She concludes: \"Brain and I are thankful. GM or not, we have a purpose. Our life is about chess and making girls and women believe\". | Photo: Romanian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-brain-pickles-irina-bulmaga",
-         "pubDate" : "Sat, 18 Mar 2023 23:40:00 +0100",
-         "title" : "Chess, my brain and I (and pickles)"
       },
       {
          "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
