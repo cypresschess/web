@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only one round is left to be played before the announcement of the 2023 European Women's Chess Champion and IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406) tie for the first place scoring 8 points, each. The penultimate 10th round saw two decisive results on the top two boards as IM Oliwia Kiolbasa defeated her&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/",
+         "pubDate" : "Tue, 28 Mar 2023 22:49:33 +0000",
+         "title" : "Two-way tie for the top at the European Women's Chess Championship 2023 with one round to go"
+      },
+      {
+         "description" : "Close to 250 games were played daily for 11 rounds at the European Championship that came to an end two weeks ago. The players were fighting for an entrance to the World Championship cycle via the World Cup, which made for very competitive struggles. Karsten M&uuml;ller kept an eye on the games, and sent us many notable endgames with instructive analyses. Replay here ten of his finds! | Pictured: Bulgarian grandmaster Ivan Cheparinov | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-4",
+         "pubDate" : "Tue, 28 Mar 2023 22:45:00 +0100",
+         "title" : "Endgames from Vrnjacka Banja (4)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2303",
+         "pubDate" : "Tue, 28 Mar 2023 20:29:17 +0000",
+         "title" : "FIDE Women's Candidates Final 2022-2023 kicks off in Chongqing"
+      },
+      {
          "description" : "The 49&#xBA; Torneo Internacional Ajederez La Roda 2023 will take place from 05-09 April 2023 in The Wheel (Albacete), Spain. Players receive 90 minutes of play plus a 30-second increment starting from move one. The tournament has total prize fund of 15 000 EUR, with 3500 EUR reserved for the winner. More than 170 players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "World no.18 D Gukesh battles 21 players"
       },
       {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Tue, 28 Mar 2023 14:55:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
-      },
-      {
          "description" : "The Women Candidates Chess 2023 final has been officially opened in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. Live games from the Women Candidates Chess 2023 here",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -128,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
          "pubDate" : "Tue, 28 Mar 2023 11:35:00 +0100",
          "title" : "Study of the Month - A short history of endgame study castling III"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Tue, 28 Mar 2023 11:31:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
@@ -1130,14 +1154,6 @@ news_feed (
          "title" : "B&DCA Clough Cup"
       },
       {
-         "description" : "Rainer Knaak was born on 16 March 1953 in Pasewalk, Mecklenburg-Vorpommern. In 1974, at the age of 21, Knaak became the then youngest grandmaster in the world. The mathematician is a 5-time champion of the German Democratic Republic, and always caused a stir with his optimistic and elegant attacking style. Knaak was also successful as an author. He published numerous books and began working for ChessBase in 1994. He was editor-in-chief of ChessBase Magazine and published a number of popular ChessBase DVDs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rainer-knaak-70-birthday",
-         "pubDate" : "Mon, 20 Mar 2023 10:00:00 +0100",
-         "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
-      },
-      {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1536,14 +1552,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/acf-newsletter.html",
          "pubDate" : "Mon, 13 Mar 2023 11:09:00 +0000",
          "title" : "ACF Newsletter"
-      },
-      {
-         "description" : "The European Chess Union (ECU), together with the Romanian Chess Federation and Universul Chess Club invite all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2023, organised from 23 July (arrivals) to 31 July (departures). The event will be played in two age categories: U12 and U18, open and girls sections separately.&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-youth-team-chess-championship-2023-official-invitation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2023-official-invitation/",
-         "pubDate" : "Mon, 13 Mar 2023 10:42:04 +0000",
-         "title" : "European Youth Team Chess Championship 2023 - Official invitation"
       },
       {
          "description" : "1st ever Senior National Arbiter Seminar&#160; was&#160; successfully&#160; organized&#160; by&#160; Monish Sports World followed by an examination in Air-conditioned Hall at&#160; Hotel&#160; Central Park, 1265&#160;",
