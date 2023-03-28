@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final selection of Indian team for the 19th Asian Games will be done in the month of May 2023 based on average rating of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/selection-of-team-for-19th-asian-games-at-hangzhou-china/",
+         "pubDate" : "Tue, 28 Mar 2023 11:29:21 +0000",
+         "title" : "Selection of Team for 19th Asian Games at Hangzhou, China"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Tue, 28 Mar 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A chess festival in New Delhi with more than 1000 participants is overshadowed by chaos at the embedded <strong>Women Grand Prix</strong> held at a five-star-hotel. Not waiting for organisational lapses to be fixed and in spite of apologies offered by <strong>FIDE</strong> and the organiser, <strong>Zhansaya Abdumalik</strong> from Kazakhstan walked out, and after a <a href=\"https://www.chessbase.in/news/The-Womens-Grand-Prix-in-Delhi-2023\">lot of nerve-wrecking discussions</a> <strong>Elisabeth P&auml;htz</strong> followed her, both from the host countries of the two first <strong>Women Grand Prix</strong> events in Astana and Munich. As at least o",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/women-grand-prix-in-shambles/",
+         "pubDate" : "Tue, 28 Mar 2023 11:14:14 +0100",
+         "title" : "Women Grand Prix in shambles"
+      },
+      {
+         "description" : "Castling in endgame studies is a rich and entertaining topic - be it real castling, the threat of castling, or even just retroanalysis that proves that castling is impossible. Last year we began a new series in which we chronologically explore the most interesting endgame studies with castling ideas. We aim at a mix between informative and interesting endgame studies again this month, a mostly light-hearted article without too much text. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
+         "pubDate" : "Tue, 28 Mar 2023 11:00:00 +0100",
+         "title" : "Study of the Month - A short history of endgame study castling III"
+      },
+      {
          "description" : "In the diagram position, it is White to move and draw. White is an exchange up but he still is in trouble because his pawns are weak and his rook has trouble defending them. In the game White did not find a way to draw the game and lost. Can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
          "pubDate" : "Mon, 27 Mar 2023 15:15:00 +0100",
          "title" : "What is happening in New Delhi at the Women's Grand Prix?"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Mon, 27 Mar 2023 14:55:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Nakamura promotes chess variants"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The meltdown and takeover of <strong>Cr&eacute;dit Suisse</strong>, Switzerland's biggest chess sponsor in the 1980s and 1990s, will not hit chess as its <strong>Accentus Foundation</strong> that invests in youth and school chess projects is told that they can keep going. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/credit-suisse-collapse-doesnt/",
-         "pubDate" : "Tue, 21 Mar 2023 11:18:36 +0100",
-         "title" : "Cr&eacute;dit Suisse collapse doesn't hit chess"
-      },
-      {
          "description" : " IM Kostya Kavutskiy This week's online puzzle that caught my attention was a Kings and pawns endgame. It brought back memories of so many students that struggled to play them decently. Could it be because they seem simple? After all the pawns just move forward and the Kings must support/ stop them. They are indeed <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\">&#8220;Tactics are temporary, endgames are per",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-117-play-the-sicilian-18",
          "pubDate" : "Sun, 19 Mar 2023 15:00:00 +0100",
          "title" : "Understanding before Moving 117: Play the Sicilian (18)"
-      },
-      {
-         "description" : "Day 2 of the American Cup saw the end of the first stage of the Champions Bracket, with several matches (Caruana-Robson, So-Shankland, Aronian-Dominguez) all decided in a rapid playoff. Meanwhile Nakamura was able to draw the second classical game after winning yesterday, relegating Sevian to the Elimination Bracket. In the Women's Section, favorites Krush, Lee, and Tokhirjonova all managed to win their second games despite only needing a draw, while Paikidze defeated Zatonskih in convincing fashion to win their match 1&frac12;-&frac12;. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d2",
-         "pubDate" : "Sun, 19 Mar 2023 14:50:00 +0100",
-         "title" : "American Cup: Dominguez beats Aronian in playoffs"
       },
       {
          "description" : "Hikaru Nakamura's 1st classical games in eight months went well as he defeated Sam Sevian 1.5:0.5 in the American Cup. The other matches went to rapid tiebreaks, with wins for Leinier Dominguez (over Levon Aronian), Wesley So (Sam Shankland) and Fabiano Caruana (Ray Robson). All four American Women's Cup matches were decided in classical chess, including 13-year-old Alice Lee beating Atousa Pourkashiyan 2:0.",
@@ -1808,22 +1816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/too-old-and-too-slow.html",
          "pubDate" : "Tue, 07 Mar 2023 12:48:00 +0000",
          "title" : "Too old and too slow"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2270",
-         "pubDate" : "Tue, 07 Mar 2023 10:15:06 +0000",
-         "title" : "FIDE Trainers' Online Seminar announced "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2269",
-         "pubDate" : "Tue, 07 Mar 2023 09:59:55 +0000",
-         "title" : "FIDE and Chess.com Bring Chess to the Olympic Esports Series"
       }
    ]
 }
