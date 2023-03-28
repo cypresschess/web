@@ -1,8 +1,12 @@
 jtable([
+"LEAGUE CITY","2023-03-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202303275662 target='_blank'>CLCC MARCH MONDAYS</a>",
+"HOUSTON","2023-03-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303265502 target='_blank'>MARCH 26 SUNDAY SWISS</a>",
+"HOUSTON","2023-03-25","30","<a href=http://www.uschess.org/msa/XtblMain.php?202303255512 target='_blank'>MARCH 25 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-03-25","144","<a href=http://www.uschess.org/msa/XtblMain.php?202303254362 target='_blank'>CLEAR HORIZONS HIGH SCHOOL TOURNAME</a>",
 "SPRING","2023-03-24","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303243382 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303243362 target='_blank'>FBCC 2023 INTERNATIONAL DAY FOR ACH</a>",
 "HOUSTON","2023-03-24","19","<a href=http://www.uschess.org/msa/XtblMain.php?202303243332 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 24, 2023</a>",
+"CYPRESS","2023-03-24","38","<a href=http://www.uschess.org/msa/XtblMain.php?202303243232 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-03-17  - 03-19","307","<a href=http://www.uschess.org/msa/XtblMain.php?202303191532 target='_blank'>2023 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2023-03-18","113","<a href=http://www.uschess.org/msa/XtblMain.php?202303181572 target='_blank'>LONE STAR SCHOLASTIC-</a>",
 "SUGAR LAND","2023-03-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303179562 target='_blank'>FBCC 2023 SAINT PATRICK OPEN</a>",
@@ -195,8 +199,4 @@ jtable([
 "CYPRESS","2022-08-12","26","<a href=http://www.uschess.org/msa/XtblMain.php?202208122922 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "MISSOURI CITY","2022-08-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208092002 target='_blank'>RCC QUADS AUGUST 9 2022</a>",
 "HOUSTON","2022-08-05  - 08-07","35","<a href=http://www.uschess.org/msa/XtblMain.php?202208071212 target='_blank'>$3,500 HOUSTON CHESS STUDIO AUGUST</a>",
-"SPRING","2022-08-05","29","<a href=http://www.uschess.org/msa/XtblMain.php?202208059882 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2022-08-05","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208059852 target='_blank'>FBCC 2022 SUMMER CHESS SPECTACULAR</a>",
-"CYPRESS","2022-08-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202208059762 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"MISSOURI CITY","2022-08-02","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208029022 target='_blank'>RCC QUADS WEEK 3 AUGUST 2 2022</a>",
 ]);
