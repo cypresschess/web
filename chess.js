@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "16-year-old Dommaraju Gukesh is one of the brightest talents of India and World Chess. He is now World no.18 with a FIDE Rating of 2730. The current India no.2 graced the ChessBase India Chess Club with his presence on Saturday, 18th March 2023. There was a big challenge in front of him - he was to give a simultaneous exhibition to 21 players, with the top five seeds having an Elo rating of over 2000. The spectacular even simul was held at the Phoenix Marketcity Mall in Mumbai. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-no-18-d-gukesh-battles-21-players",
+         "pubDate" : "Tue, 28 Mar 2023 17:00:00 +0100",
+         "title" : "World no.18 D Gukesh battles 21 players"
+      },
+      {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Tue, 28 Mar 2023 14:55:00 +0100",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
+         "description" : "The Women Candidates Chess 2023 final has been officially opened in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. Live games from the Women Candidates Chess 2023 here",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-candidates-chess-2023-officially-opened/",
+         "pubDate" : "Tue, 28 Mar 2023 13:07:51 +0000",
+         "title" : "Women Candidates Chess 2023 officially opened"
+      },
+      {
+         "description" : "The \"Ginger GM\" Simon Williams enjoys playing the Dragon a lot, but is an even bigger fan of the Dragadorf. But, what happens if the opponent plays the interesting 6.f4 Levenfish variation for White? Simon Williams knew the answer and dominated his opponent. Chris Ward analysed the game closely, and found some interesting options for Black and White to take care of!| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-tackling-the-early-6-f4-levenfish-like-gm-simon-williams",
+         "pubDate" : "Tue, 28 Mar 2023 14:00:00 +0100",
+         "title" : "The Monthly Dragon - Tackling the early 6.f4 \"Levenfish\" like GM Simon Williams"
+      },
+      {
+         "description" : "With so much going on in the chess world, it is rumored that Carlsen is about to join the European Juggling Association. We are here to debunk this with hard evidence: the only juggling Carlsen does is for a photo shoot.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-becomes-a-juggling-model-tweetoftheday/",
+         "pubDate" : "Tue, 28 Mar 2023 12:06:44 +0000",
+         "title" : "Carlsen becomes a juggling model #TweetOftheDay"
+      },
+      {
          "description" : "The final selection of Indian team for the 19th Asian Games will be done in the month of May 2023 based on average rating of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Chat GPT-4 for Chess"
       },
       {
-         "description" : "The Women Candidates Chess 2023 final take place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
+         "description" : "The Women Candidates Chess 2023 final takes place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/women-candidates-chess-2023-live/",
@@ -120,22 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fagernes-open-2023-live/",
          "pubDate" : "Mon, 27 Mar 2023 18:43:23 +0000",
          "title" : "Fagernes Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Fagernes GM 2023 is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fagernes-gm-2023-live/",
-         "pubDate" : "Mon, 27 Mar 2023 18:38:13 +0000",
-         "title" : "Fagernes GM 2023 - LIVE"
-      },
-      {
-         "description" : "Fagernes Chess International 2023 is going to take place April 2-9 at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo. Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets. The Fagernes Chess International 2023 is separated in two categories Fagernes GM (The GM group is open only for male []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fagernes-chess-international-2023/",
-         "pubDate" : "Mon, 27 Mar 2023 18:30:55 +0000",
-         "title" : "Fagernes Chess International 2023"
       },
       {
          "description" : "The FIDE Candidates and Women&#39;s Candidates 2024 will be held concurrently in Toronto, Canada, the International Chess Federation announced on Monday. Taking place on April 3-25, it will be the first time that the two tournaments will occur with th...",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
       },
       {
-         "description" : "Day 3 of the American Cup saw four players eliminated from the tournament, as the first matches of the Elimination Bracket took place. Levon Aronian knocked out Sam Sevian, while Sam Shankland won a hotly contested playoff against Ray Robson. Meanwhile, in the women's section, Tatev Abrahamyan took down Katerina Nemcova, while newcomer WGM Atousa Pourkashiyan sent Anna Zatonskih home with a 1&frac12;-&frac12; victory. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d3",
-         "pubDate" : "Mon, 20 Mar 2023 09:55:00 +0100",
-         "title" : "American Cup: Shankland knocks out Robson in dramatic match"
-      },
-      {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1114,28 +1130,12 @@ news_feed (
          "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
-         "description" : "When choosing a move during a game of chess, there will be a compromise between instinct and calculation. In reasonably clear positions, you may be able to rely on the former with just a few checks for blunders, but there are situations which require you to go deeper into the position. At times, if nothing is satisfactory after exploring the alternatives, it may be advisable to bluff and go for a line which you believe to be worse if they find a difficult resource but better if they fail to find this (near) refutation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-190",
-         "pubDate" : "Sun, 19 Mar 2023 17:45:00 +0100",
-         "title" : "Rocking the boat"
-      },
-      {
          "description" : "Last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/02/catsparov-chess.html\">Catsparov Chess</A>(February 2023), confirmed a trend:- <BLOCKQUOTE>Am I just a sucker for AI generated chess images? It appears I am. </BLOCKQUOTE> <P>And here we go again, even when dealing with an historical absurdity on multiple counts... <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc19.gif\" WIDTH=400 HEIGHT=400><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/fdecomite/52739356678/\">DALL-E 2023-03-10 21.34.47</A>&#169; Flickr user <I>fdecomite</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P>The description, whic",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html",
          "pubDate" : "Sun, 19 Mar 2023 16:24:00 +0000",
          "title" : "Karpov and Kasparov Play Chess in Iceland"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 117th instalment of his ChessBase show \"Understanding before Moving\", Herman shows a game of Dutch author Willy Hendriks and continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-117-play-the-sicilian-18",
-         "pubDate" : "Sun, 19 Mar 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 117: Play the Sicilian (18)"
       },
       {
          "description" : "Hikaru Nakamura's 1st classical games in eight months went well as he defeated Sam Sevian 1.5:0.5 in the American Cup. The other matches went to rapid tiebreaks, with wins for Leinier Dominguez (over Levon Aronian), Wesley So (Sam Shankland) and Fabiano Caruana (Ray Robson). All four American Women's Cup matches were decided in classical chess, including 13-year-old Alice Lee beating Atousa Pourkashiyan 2:0.",
@@ -1808,14 +1808,6 @@ news_feed (
          "link" : "https://chessimprover.com/sac-or-no-sac-5/",
          "pubDate" : "Tue, 07 Mar 2023 17:13:02 +0000",
          "title" : "Sac Or No Sac? (5)"
-      },
-      {
-         "description" : " Recently my blitz abilities have decreased somewhat dramatically. I really am getting too old and too slow. To fix this I am trying to practice against various crippled versions of Stockfish on Lichess, not to work on my moves, but mainly to work on my speed. Here is a recent effort <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"800\" data-original-width=\"686\" height=\"400\" src=\"https://lichess1.org/game/export/gif/white/riSZA6AN.gif?theme=brown&amp;piece=alpha\" width=\"343\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/too-old-and-too-slow.html",
-         "pubDate" : "Tue, 07 Mar 2023 12:48:00 +0000",
-         "title" : "Too old and too slow"
       }
    ]
 }
