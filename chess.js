@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women Candidates Chess 2023 final take place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-candidates-chess-2023-live/",
+         "pubDate" : "Tue, 28 Mar 2023 03:21:46 +0000",
+         "title" : "Women Candidates Chess 2023 LIVE"
+      },
+      {
+         "description" : "With the World Champion Magnus Carlsen decision not to defend his title, the chess world is about to see a major change. For the first time in ten years a new champion will be crowned in the match between the winner and the runner-up of the 2022 Candidates Tournament, Ian Nepomniachtchi and Ding Liren. With []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-chess-championship-2023-official-website/",
+         "pubDate" : "Tue, 28 Mar 2023 02:47:00 +0000",
+         "title" : "World Chess Championship 2023 with no official website"
+      },
+      {
+         "description" : "The New Delhi FIDE Women's Grand Prix 2023 is taking place in New Delhi, from March 25 to April 5 2023. It forms the third of four stages of the 2022-23 FIDE Women's Grand Prix, which will determine two places in the 2023 Candidates Tournament. 16 players compete in the series, each playing in three []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/new-delhi-fide-womens-grand-prix-2023-live/",
+         "pubDate" : "Tue, 28 Mar 2023 02:13:00 +0000",
+         "title" : "New Delhi FIDE Women's Grand Prix 2023 - LIVE"
+      },
+      {
+         "description" : "Yesterday FIDE announced that Toronto will host the 2024 FIDE Candidates. The announcement came with a statement by the FIDE President Arkadij Dvorkovich, where he said, &#8220;The Candidates Tournaments will start in just over a year&#x2019;s time, but I know many chess fans will already be counting down the days towards these exceptional events&#8221; Yet, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-candidates-2024-with-no-fide-president-present-tweetoftheday/",
+         "pubDate" : "Tue, 28 Mar 2023 02:04:26 +0000",
+         "title" : "FIDE Candidates 2024 with no FIDE President present #TweetOftheDay"
+      },
+      {
+         "description" : "The 23rd&#160;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-live/",
+         "pubDate" : "Mon, 27 Mar 2023 23:01:00 +0000",
+         "title" : "European Women's Chess Championship 2023 - LIVE"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,7 +74,7 @@ news_feed (
          "title" : "Fagernes GM 2023 - LIVE"
       },
       {
-         "description" : "The tournament is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets. The Fagernes Chess International 2023 is separated in two categories Fagernes GM (The GM group is open only for male players with a FIDE-ELO above 2000 and female []",
+         "description" : "Fagernes Chess International 2023 is going to take place April 2-9 at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo. Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets. The Fagernes Chess International 2023 is separated in two categories Fagernes GM (The GM group is open only for male []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fagernes-chess-international-2023/",
@@ -106,30 +146,6 @@ news_feed (
          "title" : "Hikaru Nakamura wins the 2023 American Cup"
       },
       {
-         "description" : "Toronto will host the 2024 FIDE Candidates and Women's Candidates, scheduled for April 3-25, with a prize fund of EUR 750,000. It will be the first time in chess history that both events will be held at the same time and venue, and also the first time that the Candidates Tournament is held in North []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2024-fide-candidates-chess-is-in-toronto/",
-         "pubDate" : "Mon, 27 Mar 2023 12:27:24 +0000",
-         "title" : "2024 FIDE Candidates Chess is in Toronto"
-      },
-      {
-         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
-         "pubDate" : "Mon, 27 Mar 2023 12:17:09 +0000",
-         "title" : "Reykjavik Chess Open 2023 LIVE"
-      },
-      {
-         "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2.5-1.5 in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura&#x2019;s territory. Replay the games of American Cup []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/87461-2/",
-         "pubDate" : "Mon, 27 Mar 2023 12:04:35 +0000",
-         "title" : "Hikaru Nakamura wins American Cup 2023"
-      },
-      {
          "description" : " Top seed Dominic Fox has won the 2023 Dubbo Open, with an unbeaten 5.5/6. Starting the day on 3/3, he defeated Jonathon Harding in the days first round, before drawing with Tyler Milson. In the final round he was up against Braiden Cox, who needed a win for a chance for first. Fox won with a nice attack to secure the $550 1st prize. Blake Lynch finished outright second on 5 points, with Kye Walls and Fritz Vander Wal tied for 3rd on 4.5. The Under 1600 prize was shared between Lee Forace and Tim Hanrahan. The Under 1250 prize was won by Sean Boag and Rijul Saini was the best Unrated. Once again the tournament was a pleasure to run. There were a number of new players competing in their very ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
          "pubDate" : "Mon, 27 Mar 2023 11:30:00 +0100",
          "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
-         "description" : "The Reykjavik Open 2023 is taking place from March 29th April 4th. The time control is 90 minutes for 40 moves plus 30 minutes for the rest of the game with an increment of 30 seconds per move, starting from move one. This is a 9- round Swiss System tournament. Follow the live games []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-open-2023/",
-         "pubDate" : "Mon, 27 Mar 2023 10:08:00 +0000",
-         "title" : "Reykjavik Open 2023"
       },
       {
          "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz (TUR, 2629), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/reykjavik-open-2023-starts/\">Read More &#187;</a></span>",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-issues",
          "pubDate" : "Sat, 25 Mar 2023 19:50:00 +0100",
          "title" : "New Delhi GP: Abdumalik withdraws, first round postponed due to organizational issues"
-      },
-      {
-         "description" : "The Zonal 4.2 2023 is taking place from 25&#x2013;31 March 2023 in Dimbokro, Ivory Coast. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Mariano Ortega Amarelle, Simplice Armel De []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zonal-4-2-2023-live/",
-         "pubDate" : "Sat, 25 Mar 2023 17:18:26 +0000",
-         "title" : "Zonal 4.2 2023 - LIVE"
       },
       {
          "description" : "",
