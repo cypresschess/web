@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 49&#xBA; Torneo Internacional Ajederez La Roda 2023 will take place from 05-09 April 2023 in The Wheel (Albacete), Spain. Players receive 90 minutes of play plus a 30-second increment starting from move one. The tournament has total prize fund of 15 000 EUR, with 3500 EUR reserved for the winner. More than 170 players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/49o-torneo-internacional-ajederez-la-roda/",
+         "pubDate" : "Tue, 28 Mar 2023 19:19:59 +0000",
+         "title" : "49 º Torneo Internacional Ajederez La Roda"
+      },
+      {
+         "description" : "The XLIII International Open City of San Sebasti&#xE1;n 2023 will take place from 01-08 April 2023 in San Sebastian, Spain. Players receive 90 minutes of play plus a 30-second increment starting from move one. It will be 9-round Swiss system tournament with more than 120 registered players, leading by GM Titas Stremavicius, GM Lelys Martinez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xliii-international-open-city-of-san-sebastian/",
+         "pubDate" : "Tue, 28 Mar 2023 19:04:11 +0000",
+         "title" : "XLIII International Open City of San Sebasti&aacute;n"
+      },
+      {
+         "description" : "MP Chess Ad-Hoc Committee on behalf of All India Chess Federation and Arbiter Commission of AICF organised Senior National Arbiter Seminar and Examination at Oriental",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-indore-from-18-to-19-march-2023-final-report/",
+         "pubDate" : "Tue, 28 Mar 2023 18:33:36 +0000",
+         "title" : "Senior National Arbiter Seminar & Examination, Indore from 18 to 19 March 2023 : Final Report"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a cool Nimzo-Indian Defense game she played as Black. The pawn structure is similar to Dorsa&#039;s game with Brendan Zhang: <a href=\"https://youtube.com/live/6dMtuxZ2uQk\">https://youtube.com/live/6dMtuxZ2uQk</a>. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani",
+         "pubDate" : "Tue, 28 Mar 2023 18:12:38 +0000",
+         "title" : "Dorsa Plays the Nimzo-Indian! | Grandmaster's Choice - IM Dorsa Derakhshani"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown",
+         "pubDate" : "Tue, 28 Mar 2023 18:12:38 +0000",
+         "title" : "What's Your Alignment? | Beginner Breakdown"
+      },
+      {
+         "description" : "GM Jose Martinez was crowned as the winner and won $1,000 in the March edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after winning 59 of his 74 games during the two-hour event. Ukraine&#39;s GM Oleksandr Bortnyk and Armenian IM Emin Ohanya...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jose-martinez-2023-bullet-brawl-march",
+         "pubDate" : "Tue, 28 Mar 2023 11:07:50 -0700",
+         "title" : "Martinez Scorches 59 Opponents In 2 Hours"
+      },
+      {
+         "description" : "After a long wait for the World Chess Championship 2023 official website it is now launched. worldchampionship.fide.com will be the address of the World Chess Championship 2023 and it contains the most important details of the match, including the schedule, player profiles, regulations, and venue information. The only section currently missing is the live games []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/official-website-of-the-world-chess-championship-2023-is-now-launched/",
+         "pubDate" : "Tue, 28 Mar 2023 17:46:16 +0000",
+         "title" : "Official website of the World Chess Championship 2023 is now launched"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2302",
+         "pubDate" : "Tue, 28 Mar 2023 17:30:53 +0000",
+         "title" : "Women's Grand Prix New Delhi: Round 3 recap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, March 28, 2023 -</strong> Grandmasters Hikaru Nakamura and Irina Krush bested a field of elite chess players from across the United States to take top honors in the 2023 Open and Women's American Cup tournaments, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmaster-hikaru-nakamura-and-grandmaster-irina-krush-win-second-annual-american-cup",
+         "pubDate" : "Tue, 28 Mar 2023 16:31:08 +0000",
+         "title" : "Grandmaster Hikaru Nakamura and Grandmaster Irina Krush Win The Second Annual American Cup"
+      },
+      {
          "description" : "16-year-old Dommaraju Gukesh is one of the brightest talents of India and World Chess. He is now World no.18 with a FIDE Rating of 2730. The current India no.2 graced the ChessBase India Chess Club with his presence on Saturday, 18th March 2023. There was a big challenge in front of him - he was to give a simultaneous exhibition to 21 players, with the top five seeds having an Elo rating of over 2000. The spectacular even simul was held at the Phoenix Marketcity Mall in Mumbai. | Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -23,7 +95,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/women-candidates-chess-2023-officially-opened/",
          "pubDate" : "Tue, 28 Mar 2023 13:07:51 +0000",
-         "title" : "Women Candidates Chess 2023 officially opened"
+         "title" : "Women Candidates Chess 2023 officially opened [UPDATED]"
       },
       {
          "description" : "The \"Ginger GM\" Simon Williams enjoys playing the Dragon a lot, but is an even bigger fan of the Dragadorf. But, what happens if the opponent plays the interesting 6.f4 Levenfish variation for White? Simon Williams knew the answer and dominated his opponent. Chris Ward analysed the game closely, and found some interesting options for Black and White to take care of!| Photo: John Upham",
@@ -50,6 +122,14 @@ news_feed (
          "title" : "Selection of Team for 19th Asian Games at Hangzhou, China"
       },
       {
+         "description" : "Castling in endgame studies is a rich and entertaining topic - be it real castling, the threat of castling, or even just retroanalysis that proves that castling is impossible. Last year we began a new series in which we chronologically explore the most interesting endgame studies with castling ideas. We aim at a mix between informative and interesting endgame studies again this month, a mostly light-hearted article without too much text. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
+         "pubDate" : "Tue, 28 Mar 2023 11:35:00 +0100",
+         "title" : "Study of the Month - A short history of endgame study castling III"
+      },
+      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +144,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/women-grand-prix-in-shambles/",
          "pubDate" : "Tue, 28 Mar 2023 11:14:14 +0100",
          "title" : "Women Grand Prix in shambles"
-      },
-      {
-         "description" : "Castling in endgame studies is a rich and entertaining topic - be it real castling, the threat of castling, or even just retroanalysis that proves that castling is impossible. Last year we began a new series in which we chronologically explore the most interesting endgame studies with castling ideas. We aim at a mix between informative and interesting endgame studies again this month, a mostly light-hearted article without too much text. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
-         "pubDate" : "Tue, 28 Mar 2023 11:00:00 +0100",
-         "title" : "Study of the Month - A short history of endgame study castling III"
       },
       {
          "description" : "In the diagram position, it is White to move and draw. White is an exchange up but he still is in trouble because his pawns are weak and his rook has trouble defending them. In the game White did not find a way to draw the game and lost. Can you do better?",
@@ -130,36 +202,12 @@ news_feed (
          "title" : "FIDE Candidates 2024 with no FIDE President present #TweetOftheDay"
       },
       {
-         "description" : "The 23rd&#160;edition of the European Women&#x2019;s Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#x201C;Palas&#x201D; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-womens-chess-championship-2023-live/",
-         "pubDate" : "Mon, 27 Mar 2023 23:01:00 +0000",
-         "title" : "European Women's Chess Championship 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2301",
          "pubDate" : "Mon, 27 Mar 2023 18:57:39 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 2 Recap"
-      },
-      {
-         "description" : "The Chess Continental Absolute Championship of the Americas is an official event of the Chess Confederation for America, promoted by the Dominican Chess Federation (FDA). The top four (4) will qualify for the &#8220;FIDE World Cup&#8221; phase of the Absolute World Championship cycle. The tournament will be valid for the International Rating and will award []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chess-continental-absolute-championship-of-the-americas-2023/",
-         "pubDate" : "Mon, 27 Mar 2023 18:54:00 +0000",
-         "title" : "Chess Continental Absolute Championship of the Americas 2023"
-      },
-      {
-         "description" : "The Fagernes Open 2023 is played at the major Norwegian Chess Hotel&#xA0;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#xA0;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fagernes-open-2023-live/",
-         "pubDate" : "Mon, 27 Mar 2023 18:43:23 +0000",
-         "title" : "Fagernes Open 2023 - LIVE"
       },
       {
          "description" : "The FIDE Candidates and Women&#39;s Candidates 2024 will be held concurrently in Toronto, Canada, the International Chess Federation announced on Monday. Taking place on April 3-25, it will be the first time that the two tournaments will occur with th...",
@@ -338,22 +386,6 @@ news_feed (
          "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final | lichess.org"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Cristian Chirila after narrowly defeating Alice Lee in the classical championship match on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/irina-krush-wins-american-cup-2023-womens-event\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/icevZ7l95po.jpg?itok=bdk5il0C\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/irina-krush-wins-american-cup-2023-womens-event",
-         "pubDate" : "Sun, 26 Mar 2023 18:11:27 +0000",
-         "title" : "Irina Krush Wins The American Cup 2023 Women's Event!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final match between Hikaru Nakamura and Wesley So. Plus, coverage of The American Cup Blitz, a nine-round G/3+2 Swiss. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-nakamura-vs-so-rapid-grand-final",
-         "pubDate" : "Sun, 26 Mar 2023 18:11:27 +0000",
-         "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final"
-      },
-      {
          "description" : "Irina Krush suffered her first ever loss to Alice Lee in Saturday's classical game, but she hit back to win the playoff 1.5:0.5, defend her American Women's Cup title, and pick up a combined $30,000. The battle for the $50,000 top prize goes to the final Sunday after Wesley So defeated Hikaru Nakamura 2:0 in a rapid playoff after drawing their final classical game.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
          "pubDate" : "Sun, 26 Mar 2023 15:25:00 +0000",
          "title" : "The Dark Side of Women's Chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after defeating Hikaru Nakamura in Game 2 of their classical final on Day 9 of The American Cup 2023. 2023.03.25<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-i-made-it-work-day-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2EmA_9OAuU4.jpg?itok=KZRevpHH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-i-made-it-work-day-9",
-         "pubDate" : "Sun, 26 Mar 2023 15:11:28 +0000",
-         "title" : "Wesley So: I Made It Work! | Day 9"
       },
       {
          "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup in February this year. The tournament, which attracted well over 500 university students from every continent, was won by Texas Tech University. Francesco Bortolussi, who played board 4 for the winning team, sent us a first-person account of the tournament itself and of the team's visit to New York City, where they had a training session with the legend himself, Garry Kasparov! | Photo: Alexander Onischuk",
@@ -1426,14 +1450,6 @@ news_feed (
          "title" : "Announcing Hikaru's Chess Decathlon By Misfits Gaming"
       },
       {
-         "description" : "GM Alexey Sarana won the European Individual Chess Championship on Monday in Vrnjacka Banja, Serbia. The 23-year-old Russian grandmaster, who played under the FIDE flag, edged out GMs Kirill Shevchenko (Romania) and Daniel Dardha (Belgium) on tieb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/alexey-sarana-wins-european-chess-championship",
-         "pubDate" : "Tue, 14 Mar 2023 05:34:00 -0700",
-         "title" : "Alexey Sarana Wins European Chess Championship"
-      },
-      {
          "description" : " Canberra IM Junta Ikeda has updated his blogging platform which can now be <a href=\"http://juntaikeda.substack.com\">found here</a> (Entering your email address to access the content isn't mandatory). One of his most popular posts is the list of the 10 books that helped him become an IM. While I won't repeat the list here, it looks to be a pretty solid list. I have 8 or 9 books on the list, but I'm pretty sure I have not studied them with the same effectiveness as Junta did. The two most interesting choices were John Watson's \"Secrets of Modern Chess Strategy\", and \"Life and Games of Mikhail Tal\". The Watson book can be seen as a modern update to \"My System\", which normally turns up on lists",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1792,22 +1808,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/international-womens-day-3/",
          "pubDate" : "Wed, 08 Mar 2023 08:57:29 +0000",
          "title" : "International Women's Day"
-      },
-      {
-         "description" : "National Team Open &#38; Women 2023 all certificates are out to download Open : https://aicf.online/National-Team-2023-Open.html Women : https://aicf.online/National-Team-2023-Women.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-open-women-2023-certificates/",
-         "pubDate" : "Wed, 08 Mar 2023 04:45:10 +0000",
-         "title" : "National Team Open & Women 2023 Certificates"
-      },
-      {
-         "description" : " \"A sacrifice is best refuted by accepting it\" Wilhelm Steinitz When facing a gambit the intentions are obvious for both sides. Here I am talking about speculative gambits that are not necessarily correct, offering instead practical chances. In individual games both players can control and influence their own play. However, in online voting games between <a href=\"https://chessimprover.com/sac-or-no-sac-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Sac Or No Sac? (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/sac-or-no-sac-5/\">Sac Or No Sac? (5)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/sac-or-no-sac-5/",
-         "pubDate" : "Tue, 07 Mar 2023 17:13:02 +0000",
-         "title" : "Sac Or No Sac? (5)"
       }
    ]
 }
