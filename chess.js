@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third round of the Women's Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r3",
+         "pubDate" : "Wed, 29 Mar 2023 01:40:00 +0100",
+         "title" : "New Delhi GP: Assaubayeva scores again"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown-lichessorg",
+         "pubDate" : "Wed, 29 Mar 2023 00:13:01 +0000",
+         "title" : "What's Your Alignment? | Beginner Breakdown | lichess.org"
+      },
+      {
          "description" : "Only one round is left to be played before the announcement of the 2023 European Women's Chess Champion and IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406) tie for the first place scoring 8 points, each. The penultimate 10th round saw two decisive results on the top two boards as IM Oliwia Kiolbasa defeated her&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jose-martinez-2023-bullet-brawl-march",
-         "pubDate" : "Tue, 28 Mar 2023 11:07:50 -0700",
+         "pubDate" : "Tue, 28 Mar 2023 11:07:00 -0700",
          "title" : "Martinez Scorches 59 Opponents In 2 Hours"
       },
       {
@@ -144,22 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
          "pubDate" : "Tue, 28 Mar 2023 11:35:00 +0100",
          "title" : "Study of the Month - A short history of endgame study castling III"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Tue, 28 Mar 2023 11:31:00 +0100",
-         "title" : "European Women's Chess Championship - Live!"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Tue, 28 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A chess festival in New Delhi with more than 1000 participants is overshadowed by chaos at the embedded <strong>Women Grand Prix</strong> held at a five-star-hotel. Not waiting for organisational lapses to be fixed and in spite of apologies offered by <strong>FIDE</strong> and the organiser, <strong>Zhansaya Abdumalik</strong> from Kazakhstan walked out, and after a <a href=\"https://www.chessbase.in/news/The-Womens-Grand-Prix-in-Delhi-2023\">lot of nerve-wrecking discussions</a> <strong>Elisabeth P&auml;htz</strong> followed her, both from the host countries of the two first <strong>Women Grand Prix</strong> events in Astana and Munich. As at least o",
@@ -400,14 +400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2298",
          "pubDate" : "Sun, 26 Mar 2023 21:32:20 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 1 Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, two double-elimination tournaments feature the best overall chess players and the best women players in America! Today features the rapid elimination grand final match between Hikaru Nakamura and Wesley So. Plus, coverage of The American Cup Blitz, a nine-round G/3+2 Swiss. Join GMs Yasser Seirawan, Cristian Chirila, &amp; IM Jovanka Houska for the move-by-move. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/american-cup-2023-nakamura-vs-so-rapid-grand-final-lichessorg",
-         "pubDate" : "Sun, 26 Mar 2023 21:11:41 +0000",
-         "title" : "The American Cup 2023: Nakamura vs. So | Rapid Grand Final | lichess.org"
       },
       {
          "description" : "Irina Krush suffered her first ever loss to Alice Lee in Saturday's classical game, but she hit back to win the playoff 1.5:0.5, defend her American Women's Cup title, and pick up a combined $30,000. The battle for the $50,000 top prize goes to the final Sunday after Wesley So defeated Hikaru Nakamura 2:0 in a rapid playoff after drawing their final classical game.",
@@ -1152,6 +1144,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bdca-clough-cup/",
          "pubDate" : "Mon, 20 Mar 2023 10:11:27 +0000",
          "title" : "B&DCA Clough Cup"
+      },
+      {
+         "description" : "Rainer Knaak was born on 16 March 1953 in Pasewalk, Mecklenburg-Vorpommern. In 1974, at the age of 21, Knaak became the then youngest grandmaster in the world. The mathematician is a 5-time champion of the German Democratic Republic, and always caused a stir with his optimistic and elegant attacking style. Knaak was also successful as an author. He published numerous books and began working for ChessBase in 1994. He was editor-in-chief of ChessBase Magazine and published a number of popular ChessBase DVDs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rainer-knaak-70-birthday",
+         "pubDate" : "Mon, 20 Mar 2023 10:00:00 +0100",
+         "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
       },
       {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
