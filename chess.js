@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
+         "pubDate" : "Wed, 29 Mar 2023 09:00:00 +0100",
+         "title" : "Women's Candidates Final - Live!"
+      },
+      {
          "description" : "Iniyan is yet another talented Indian player climbing up the ranks of competitive chess. This week, he visited Hamburg and joined Karsten M&uuml;ller in his Endgame Magic show. It was a joyous exchange of ideas using games from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html",
          "pubDate" : "Mon, 20 Mar 2023 16:46:00 +0000",
          "title" : "TCEC S24 DivP, CCC20 Blitz Final : Both Underway"
-      },
-      {
-         "description" : "The 2023 FIDE Women's Candidates Final will be disputed in Chongqing (China) from March 27th to April 6th. Chinese Grandmasters Lei Tingjie and Tan Zhongyi will face each other in a six-game classical chess match. The winner will receive 60,000 Euros and the right to challenge the current Women's World Champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-s-candidates-final-lei-tingjie-and-tan-zhongyi-face-off-in-chongqing-china",
-         "pubDate" : "Mon, 20 Mar 2023 15:05:00 +0100",
-         "title" : "Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
          "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br />URS-ch U18 Leningrad, 1946 <script>new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e3 ",
