@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview and asks for an immediate ban. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-heine-nielsen-karjakin-interview-should-lead-to-an-immediate-ban/",
+         "pubDate" : "Wed, 29 Mar 2023 16:57:30 +0000",
+         "title" : "Peter Heine Nielsen: Karjakin interview should lead to an immediate ban"
+      },
+      {
          "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-3",
          "pubDate" : "Wed, 29 Mar 2023 17:00:00 +0100",
          "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 1/3"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2306",
+         "pubDate" : "Wed, 29 Mar 2023 15:27:44 +0000",
+         "title" : "Fortune favours the brave: Tan Zhongyi draws first blood in China "
       },
       {
          "description" : "GMs Daniil Dubov and David Paravyan each won a Titled Tuesday tournament on March 28, both winning outright. They became the first players to score 10 points since February 14. Each second-place finish also belonged to the only two players to scor...",
@@ -82,6 +98,14 @@ news_feed (
          "title" : "Toronto to host the 2024 Open and Women's Candidates Tournaments"
       },
       {
+         "description" : "Iniyan is yet another talented Indian player climbing up the ranks of competitive chess. This week, he visited Hamburg and joined Karsten M&uuml;ller in his Endgame Magic show. It was a joyous exchange of ideas using games from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga",
+         "pubDate" : "Wed, 29 Mar 2023 11:35:00 +0100",
+         "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
+      },
+      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,28 +162,12 @@ news_feed (
          "title" : "Chessable Masters 2023 LIVE"
       },
       {
-         "description" : "The SERPIANO Swiss Lake Open March 2023 will take place from 31.03 02.04 2023 in Serpiano, Switzerland. Players receive 90 minutes plus a 30-second increment starting from move one. It is 5 round Swiss System tournament. Players list : No. Name FED RtgI 1 FM Medici Simone SUI 2191 2 IM Levacic Damir []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/serpiano-swiss-lake-open-march-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 09:33:33 +0000",
-         "title" : "SERPIANO Swiss Lake Open - March 2023"
-      },
-      {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
          "pubDate" : "Wed, 29 Mar 2023 09:00:00 +0100",
          "title" : "Women's Candidates Final - Live!"
-      },
-      {
-         "description" : "Iniyan is yet another talented Indian player climbing up the ranks of competitive chess. This week, he visited Hamburg and joined Karsten M&uuml;ller in his Endgame Magic show. It was a joyous exchange of ideas using games from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga",
-         "pubDate" : "Wed, 29 Mar 2023 06:00:00 +0100",
-         "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
       },
       {
          "description" : "The third round of the Women's Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
