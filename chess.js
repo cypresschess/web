@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview and asks for an immediate ban. []",
+         "description" : "Tan Zhongyi sacrificed two pawns and looked in grave danger in Game 1 of the FIDE Women's Candidates Final in Chongqing, China, but Lei Tingjie blundered with seconds on her clock and fell to defeat. That was a huge step towards Tan Zhongyi forcing a World Championship rematch against Ju Wenjun, but Lei Tingjie still has five games in which to hit back.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/tan-zhongyi-wins-thriller-as-women-s-candidates-begins",
+         "pubDate" : "Wed, 29 Mar 2023 23:27:48 +0000",
+         "title" : "Tan Zhongyi wins thriller as Women's Candidates begins"
+      },
+      {
+         "description" : "Tan Zhongyi takes the lead in the six-game Women's Candidates Final after defeating Lei Tingjie in one of the most exciting games of the year. In a double-edged struggle that emerged out of an English Opening, which saw Tan giving up a couple of pawns early on, Lei was the one making the last mistake. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g1",
+         "pubDate" : "Wed, 29 Mar 2023 23:30:00 +0100",
+         "title" : "Tan Zhongyi draws first blood in Women's Candidates Final"
+      },
+      {
+         "description" : "This March 28th Sergey Karjakin gave a new controversial interview. For Russia-1 TV and the pro-Kremlin journalist Korchevnikov. Karjakin expressed his opinion, among other things, on the 6 months FIDE ban, his compatriot Ian Nepomniachtchi, and the current World Champion Magnus Carlsen. Carlsen's coach Peter Heine Nielsen followed-up the interview with a swift reaction and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/karjakin-gets-pressed-into-saying-that-carlsen-is-a-fascist-new-controversial-interview/",
+         "pubDate" : "Wed, 29 Mar 2023 21:15:32 +0000",
+         "title" : "Karjakin gets pressed into saying that Carlsen is a \"fascist\" - new controversial interview"
+      },
+      {
+         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Many players <a href=\"https://chessimprover.com/carbon-versus-silicon-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-4/\">Carbon versus Silicon (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/carbon-versus-silicon-4/",
+         "pubDate" : "Wed, 29 Mar 2023 20:42:30 +0000",
+         "title" : "Carbon versus Silicon (4)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2307",
+         "pubDate" : "Wed, 29 Mar 2023 19:35:58 +0000",
+         "title" : "Women's Grand Prix New Delhi: Goryachkina takes the lead in a day of decisive games"
+      },
+      {
+         "description" : "The Grand Chess Tour (GCT), a circuit of international events, each demonstrating the highest level of organization for the world&#x2019;s best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-chess-tour-2023-with-a-dream-lineup/",
+         "pubDate" : "Wed, 29 Mar 2023 19:34:11 +0000",
+         "title" : "Grand Chess Tour 2023 with a dream lineup"
+      },
+      {
+         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview (read the most important parts of []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/peter-heine-nielsen-karjakin-interview-should-lead-to-an-immediate-ban/",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
          "pubDate" : "Wed, 29 Mar 2023 12:17:00 +0000",
          "title" : "Reykjavik Chess Open 2023 LIVE"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Wed, 29 Mar 2023 13:00:00 +0100",
-         "title" : "European Women's Championship - Final round: Live!"
       },
       {
          "description" : " The ACT Interschool Chess Competitions kick off tomorrow, with the 2023 ACT Secondary Girls Final being held at Merici College. Continuing the trend of increased numbers for chess events, this years tournament already has 55 entries, well up from last years 30 players. The team of players from Lyneham High School are probably the favourites, and a win for them would make up for missing out last year (by not having a team!). However both Canberra Grammar and Radford College might be looking for a different result, while defending champions Merici College will also be in the mix. In term two, the Primary and Secondary Open zone events will be held, with the Open finals in term 3. These events",
@@ -106,6 +146,14 @@ news_feed (
          "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
       },
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
+         "title" : "European Women's Championship - Final round: Live!"
+      },
+      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,30 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/the-o2c-doeberl-cup-2023/",
          "pubDate" : "Wed, 29 Mar 2023 09:43:21 +0000",
          "title" : "The O2C Doeberl Cup 2023"
-      },
-      {
-         "description" : "Chessable Masters 2023 is going to start on Monday, April 3rd (8 am PT, 5pm CET). The 3rd edition of the Chessable Masters features Magnus Carlsen, Hikaru Nakamura, Wesley So, and many of the world's top players. This is the last tournament where Magnus Carlsen will play as a reigning World Champion. Thus, the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 09:38:19 +0000",
-         "title" : "Chessable Masters 2023"
-      },
-      {
-         "description" : "Chessable Masters 2023 is going to start on Monday, April 3rd (8 am PT, 5pm CET). The 3rd edition of the Chessable Masters features Magnus Carlsen, Hikaru Nakamura, Wesley So, and many of the world's top players. This is the last tournament where Magnus Carlsen will play as a reigning World Champion. Thus, the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-2023-live/",
-         "pubDate" : "Wed, 29 Mar 2023 09:35:34 +0000",
-         "title" : "Chessable Masters 2023 LIVE"
-      },
-      {
-         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
-         "pubDate" : "Wed, 29 Mar 2023 09:00:00 +0100",
-         "title" : "Women's Candidates Final - Live!"
       },
       {
          "description" : "The third round of the Women's Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
