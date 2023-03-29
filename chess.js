@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-3",
+         "pubDate" : "Wed, 29 Mar 2023 17:00:00 +0100",
+         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 1/3"
+      },
+      {
+         "description" : "GMs Daniil Dubov and David Paravyan each won a Titled Tuesday tournament on March 28, both winning outright. They became the first players to score 10 points since February 14. Each second-place finish also belonged to the only two players to scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dubov-paravyan-win-titled-tuesday-march-28-2023",
+         "pubDate" : "Wed, 29 Mar 2023 07:32:27 -0700",
+         "title" : "Highest Scores In Over A Month Set In Tuesday Blitz Tournaments"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2305",
+         "pubDate" : "Wed, 29 Mar 2023 13:01:23 +0000",
+         "title" : "London Chess Conference: Back to classroom"
+      },
+      {
+         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
+         "pubDate" : "Wed, 29 Mar 2023 12:17:00 +0000",
+         "title" : "Reykjavik Chess Open 2023 LIVE"
+      },
+      {
          "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
          "pubDate" : "Wed, 29 Mar 2023 13:00:00 +0100",
          "title" : "European Women's Championship - Final round: Live!"
+      },
+      {
+         "description" : " The ACT Interschool Chess Competitions kick off tomorrow, with the 2023 ACT Secondary Girls Final being held at Merici College. Continuing the trend of increased numbers for chess events, this years tournament already has 55 entries, well up from last years 30 players. The team of players from Lyneham High School are probably the favourites, and a win for them would make up for missing out last year (by not having a team!). However both Canberra Grammar and Radford College might be looking for a different result, while defending champions Merici College will also be in the mix. In term two, the Primary and Secondary Open zone events will be held, with the Open finals in term 3. These events",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/act-interschool-kicks-off.html",
+         "pubDate" : "Wed, 29 Mar 2023 11:50:00 +0000",
+         "title" : "ACT Interschool kicks off"
+      },
+      {
+         "description" : "The VII Torneo Internacional de Ajedrez Semana Santa en La Nucia will take place from 5th to 10th April 2023 in Alicante, La Nucia in Spain. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vii-torneo-internacional-de-ajedrez-semana-santa-en-la-nucia-2023-live/",
+         "pubDate" : "Wed, 29 Mar 2023 11:48:46 +0000",
+         "title" : "VII Torneo Internacional de Ajedrez Semana Santa en La Nucia 2023 - LIVE"
+      },
+      {
+         "description" : "The BASEL EASTER Festival 2023 MASTER will take place from 06-10 April 2023 in Basel, Switzerland. The Master section of the tournament is only for players rated 2050 or higher. It will be 9-round Swiss system tournament with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament has total prize []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/basel-easter-festival-2023/",
+         "pubDate" : "Wed, 29 Mar 2023 11:31:10 +0000",
+         "title" : "BASEL EASTER Festival 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2304",
+         "pubDate" : "Wed, 29 Mar 2023 11:17:20 +0000",
+         "title" : "FIDE Development Fund 2023 is now open"
       },
       {
          "description" : "Toronto will host the 2024 FIDE Candidates and Women's Candidates, scheduled for April 3-25, with a prize fund of EUR 750,000. It will be the first time in chess history that both events will be held at the same time and venue, and also the first time that the Candidates Tournament will be held in North America. The event will be sponsored by the Scheinberg family, as part of the long-term collaboration agreement that was announced in 2022.",
@@ -80,30 +144,6 @@ news_feed (
          "link" : "https://www.chessdom.com/serpiano-swiss-lake-open-march-2023/",
          "pubDate" : "Wed, 29 Mar 2023 09:33:33 +0000",
          "title" : "SERPIANO Swiss Lake Open - March 2023"
-      },
-      {
-         "description" : "The 12th HAJIPETROV Memorial 2023 will take place on 1 April 2023 in Burgas, Bulgaria. The total prize fund of the tournament is 4000 BGN with 600 BGN reward for the first place. The tournament will be played in 7-round Swiss system with time control 10 minutes plus 5 seconds increment starting from move one. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/12th-hajipetrov-memorial-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 09:20:14 +0000",
-         "title" : "12th HAJIPETROV Memorial 2023"
-      },
-      {
-         "description" : "The Great Yarmouth Chess Congress 2023 will take palce from 01-02 April 2023 in Victory Suite, Lord Nelson Grandstand, Jellicoe Road, Great Yarmouth, Great Britain. Players receive 90 minutes for 40 moves plus a 15-second increment starting from move one. It is 5-round Swiss system tournament. List of players : No. Name FED Rtg 1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-great-yarmouth-chess-congress-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 09:08:03 +0000",
-         "title" : "The Great Yarmouth Chess Congress 2023"
-      },
-      {
-         "description" : "The Women Candidates Chess 2023 final takes place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. Daily live video coverage is provided by GM Alik Ghershon and WIM Qiu Mengjie Follow the live games here",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-candidates-chess-2024-live-video-round-1/",
-         "pubDate" : "Wed, 29 Mar 2023 09:02:47 +0000",
-         "title" : "Women Candidates Chess 2024 - LIVE video round 1"
       },
       {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
@@ -1090,14 +1130,6 @@ news_feed (
          "title" : "\"Tactics are temporary, endgames are permanent\" (5)"
       },
       {
-         "description" : "In Eugene Manlapao's previous articles, he has featured the leading players of 19th century British chess. Among them were Amos Burn, Isidor Gunsberg, and the London residents Johannes Zukertort of Poland and Wilhelm Steinitz of Austria. Another one of their great contemporaries was Joseph Henry Blackburne, Britain's strongest player for nearly three decades. \"The Black Death\" was always a dangerous rival to his British and foreign peers in local and international tournaments, as well as one-on-one matches. | Picture: Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/joseph-henry-the-black-death-blackburne-the-grand-old-man-of-british-chess",
-         "pubDate" : "Tue, 21 Mar 2023 10:00:00 +0100",
-         "title" : "Joseph Henry \"The Black Death\" Blackburne: The Grand Old Man of British Chess"
-      },
-      {
          "description" : "The 2023 American Cup continued in St. Louis on Monday with championship bracket semifinals that were won by GMs Hikaru Nakamura and Wesley So respectively. Nakamura was in fine form with the black pieces and outplayed GM Leinier Dominguez in the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1458,14 +1490,6 @@ news_feed (
          "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
       },
       {
-         "description" : "Boom! GM Hikaru Nakamura and Misfits Gaming Group are thrilled to announce a massive and thrilling chess tournament series: Hikaru&#39;s Chess Decathlon. This epic 10-tournament contest kicks off with a format for which Hikaru is the reigning world ch...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikarus-chess-decathlon-mgg",
-         "pubDate" : "Tue, 14 Mar 2023 06:48:00 -0700",
-         "title" : "Announcing Hikaru's Chess Decathlon By Misfits Gaming"
-      },
-      {
          "description" : " Canberra IM Junta Ikeda has updated his blogging platform which can now be <a href=\"http://juntaikeda.substack.com\">found here</a> (Entering your email address to access the content isn't mandatory). One of his most popular posts is the list of the 10 books that helped him become an IM. While I won't repeat the list here, it looks to be a pretty solid list. I have 8 or 9 books on the list, but I'm pretty sure I have not studied them with the same effectiveness as Junta did. The two most interesting choices were John Watson's \"Secrets of Modern Chess Strategy\", and \"Life and Games of Mikhail Tal\". The Watson book can be seen as a modern update to \"My System\", which normally turns up on lists",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1792,22 +1816,6 @@ news_feed (
          "link" : "https://aicf.in/fide-trainers-online-seminar-17-19-mar-23/",
          "pubDate" : "Thu, 09 Mar 2023 09:24:02 +0000",
          "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
-      },
-      {
-         "description" : "On Monday 27th February 2023 a new chess academy started in Staffordshire, which will run every Monday from 1.00pm till 2.30pm (except Bank Holiday Mondays)....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/new-junior-chess-academy/",
-         "pubDate" : "Wed, 08 Mar 2023 14:21:46 +0000",
-         "title" : "New junior chess academy"
-      },
-      {
-         "description" : "Anton Korobov reached the only perfect score after five rounds of the European Championship in Vrnjacka Banja, Serbia after beating his Ukrainian countryman Ruslan Ponomariov in a wild game in Round 5. With six rounds to go, however, 42 players are still within a point of the leader.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/anton-korobov-races-to-5-5-in-european-championship",
-         "pubDate" : "Wed, 08 Mar 2023 12:37:46 +0000",
-         "title" : "Anton Korobov races to 5/5 in European Championship"
       }
    ]
 }
