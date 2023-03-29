@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Iniyan is yet another talented Indian player climbing up the ranks of competitive chess. This week, he visited Hamburg and joined Karsten M&uuml;ller in his Endgame Magic show. It was a joyous exchange of ideas using games from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga",
+         "pubDate" : "Wed, 29 Mar 2023 06:00:00 +0100",
+         "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
+      },
+      {
          "description" : "The third round of the Women's Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination, Indore from 18 to 19 March 2023 : Final Report"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a cool Nimzo-Indian Defense game she played as Black. The pawn structure is similar to Dorsa&#039;s game with Brendan Zhang: <a href=\"https://youtube.com/live/6dMtuxZ2uQk\">https://youtube.com/live/6dMtuxZ2uQk</a>. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_",
+         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a cool Nimzo-Indian Defense game she played as Black. The pawn structure is similar to Dorsa&#039;s game with Brendan Zhang: <a href=\"https://youtube.com/live/6dMtuxZ2uQk\">https://youtube.com/live/6dMtuxZ2uQk</a>. 2023.03.28<br /> William Fan vs. Dorsa Derakhshani, 2023: E29 Nimzo-Indian, Saemisch, Capablanca variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-d",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Dorsa Plays the Nimzo-Indian! | Grandmaster's Choice - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28<br /> Tigran V Petrosian vs Hans Ree, Hoogovens (1971): A29 English, four knights, kingside fianchetto<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1106935\">https://www.chessgames.com/perl/chessgame?gid=1106935</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bdca-clough-cup/",
          "pubDate" : "Mon, 20 Mar 2023 10:11:27 +0000",
          "title" : "B&DCA Clough Cup"
-      },
-      {
-         "description" : "Rainer Knaak was born on 16 March 1953 in Pasewalk, Mecklenburg-Vorpommern. In 1974, at the age of 21, Knaak became the then youngest grandmaster in the world. The mathematician is a 5-time champion of the German Democratic Republic, and always caused a stir with his optimistic and elegant attacking style. Knaak was also successful as an author. He published numerous books and began working for ChessBase in 1994. He was editor-in-chief of ChessBase Magazine and published a number of popular ChessBase DVDs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rainer-knaak-70-birthday",
-         "pubDate" : "Mon, 20 Mar 2023 10:00:00 +0100",
-         "title" : "Congratulations! Rainer Knaak celebrates his 70th birthday"
       },
       {
          "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
