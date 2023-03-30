@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
+         "pubDate" : "Thu, 30 Mar 2023 09:00:00 +0100",
+         "title" : "Women's Candidates Final - Live!"
+      },
+      {
          "description" : "The Women's Grand Prix in New Delhi saw its fourth round being played on Wednesday. Former leader Bibisara Assaubayeva was defeated by Aleksandra Goryachkina. Zhu Jiner, who beat Humpy Koneru, and Polina Shuvalova (pictured), who beat Nana Dzagnidze, now top the standings with 2&frac12;/4 points each. In addition, Kateryna Lagno defeated Vaishali Rameshbabu. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-so-and-krush-lee-in-american-cup-finals",
          "pubDate" : "Tue, 21 Mar 2023 13:19:32 +0000",
          "title" : "Nakamura-So and Krush-Lee in American Cup finals"
-      },
-      {
-         "description" : "The series of open national competitions for the World Solving Cup 2022/23 continued this month, with events in Poland and the Netherlands. Kacper Piorun won the Polish competition, while Nikos Sidiropoulos (Greece) was the winner in the Dutch event. In Poland, eight minutes decided the winner; in the Netherlands, one subtle endgame study made the difference.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-solving-cup-2023-titles-for-piorun-and-sidiropoulos",
-         "pubDate" : "Tue, 21 Mar 2023 13:00:00 +0100",
-         "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
       },
       {
          "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
