@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of Israel Youth Chess Championships 2023 will take place from 28 March 2023 to 04 April 2023 in Rishon le Zion, Israel. The tournament is separated in 10 different categories Open U18, Open U16, Open U14, Open U12, Open U10, Open U8, Girls 16-18, Girls U14, Girls U12 and Girls U10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israel-youth-chess-championships-2023-live/",
+         "pubDate" : "Thu, 30 Mar 2023 11:28:21 +0000",
+         "title" : "Israel Youth Chess Championships 2023 - LIVE"
+      },
+      {
+         "description" : "The final stage of Israel Youth Chess Championships 2023 will take place from 28 March 2023 to 04 April 2023 in Rishon le Zion, Israel. The tournament is separated in 10 different categories Open U18, Open U16, Open U14, Open U12, Open U10, Open U8, Girls 16-18, Girls U14, Girls U12 and Girls U10 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/israel-youth-chess-championships-2023-finals/",
+         "pubDate" : "Thu, 30 Mar 2023 11:23:25 +0000",
+         "title" : "Israel Youth Chess Championships 2023 - Finals"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2308",
+         "pubDate" : "Thu, 30 Mar 2023 11:19:07 +0000",
+         "title" : "Meri Arabidze clinches European Women's Chess Championship 2023"
+      },
+      {
+         "description" : "The Kenya Open Chess Championship 2023 will take place from 06-10 April 2023 in Sarit Centre , Nairobi, Kenya. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament will be played in 9-round Swiss system. The total prize fund for Ladies section of Kenya Open Chess Championship 2023 is 14 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kenya-open-chess-championship-2023-ladies-section/",
+         "pubDate" : "Thu, 30 Mar 2023 11:05:54 +0000",
+         "title" : "Kenya Open Chess Championship 2023 - Ladies section"
+      },
+      {
+         "description" : "The Kenya Open Chess Championship 2023 will take place from 06-10 April 2023 in Sarit Centre , Nairobi, Kenya. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament will be played in 9-round Swiss system. The total prize fund of Kenya Open Chess Championship 2023 is 42 000 USD. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kenya-open-chess-championship-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 10:58:56 +0000",
+         "title" : "Kenya Open Chess Championship 2023"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Thu, 30 Mar 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The International Reykjavik Open Chess Tournament, sponsored by Kvika and Brim, has begun at Harpa conference center at the heart of Reykjavik, Iceland. The event started with a record breaking participation as 400+ players entered the legendary playing hall. Before beginning proceeding, GM-elect Vignir Vatnar Stef&#xE1;nsson was celebrated as the newest Grandmaster of Iceland by []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-open-2023-round-1-report/",
+         "pubDate" : "Thu, 30 Mar 2023 09:41:16 +0000",
+         "title" : "Reykjavik Open 2023 - round 1 report"
+      },
+      {
+         "description" : "After 11 thrilling rounds at the European Women&#x2019;s Chess Championship 2023 two players emerged on the top tying for the first place with 8.5 points, each: IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406). They went the last round with equal points. Thanks to her 8th round victory in direct encounter against []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/meri-arabidze-is-the-winner-of-the-european-womens-chess-championship-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 09:27:32 +0000",
+         "title" : "Meri Arabidze is the winner of the European Women's Chess Championship 2023"
+      },
+      {
+         "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-development-fund-2023-is-now-open/",
+         "pubDate" : "Thu, 30 Mar 2023 08:50:09 +0000",
+         "title" : "FIDE Development Fund 2023 is now open"
+      },
+      {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +82,36 @@ news_feed (
          "title" : "Women's Candidates Final - Live!"
       },
       {
+         "description" : "After 11 thrilling rounds at the European Women's Chess Championship 2023 two players emerged on the top tying for the first place with 8.5 points, each: IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406). Thanks to her 8th round victory in direct encounter against the Polish representative, IM Meri Arabidze clinched the European Women's Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 07:36:09 +0000",
+         "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
+      },
+      {
          "description" : "The Women's Grand Prix in New Delhi saw its fourth round being played on Wednesday. Former leader Bibisara Assaubayeva was defeated by Aleksandra Goryachkina. Zhu Jiner, who beat Humpy Koneru, and Polina Shuvalova (pictured), who beat Nana Dzagnidze, now top the standings with 2&frac12;/4 points each. In addition, Kateryna Lagno defeated Vaishali Rameshbabu. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r4",
          "pubDate" : "Thu, 30 Mar 2023 06:45:00 +0100",
          "title" : "New Delhi GP: Four decisive results"
+      },
+      {
+         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#160;Sergey Karjakin&#160;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview (read the most important parts of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/peter-heine-nielsen-karjakin-interview-should-lead-to-an-immediate-ban/",
+         "pubDate" : "Thu, 30 Mar 2023 04:57:00 +0000",
+         "title" : "Peter Heine Nielsen: Karjakin interview should lead to an immediate ban"
+      },
+      {
+         "description" : "The Women Candidates Chess 2023 final takes place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/women-candidates-chess-2023-live/",
+         "pubDate" : "Thu, 30 Mar 2023 04:21:00 +0000",
+         "title" : "Women Candidates Chess 2023 LIVE"
       },
       {
          "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
@@ -74,14 +170,6 @@ news_feed (
          "title" : "Grand Chess Tour 2023 with a dream lineup"
       },
       {
-         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#xA0;Sergey Karjakin&#xA0;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview (read the most important parts of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-heine-nielsen-karjakin-interview-should-lead-to-an-immediate-ban/",
-         "pubDate" : "Wed, 29 Mar 2023 16:57:30 +0000",
-         "title" : "Peter Heine Nielsen: Karjakin interview should lead to an immediate ban"
-      },
-      {
          "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,36 +202,12 @@ news_feed (
          "title" : "London Chess Conference: Back to classroom"
       },
       {
-         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
-         "pubDate" : "Wed, 29 Mar 2023 12:17:00 +0000",
-         "title" : "Reykjavik Chess Open 2023 LIVE"
-      },
-      {
          "description" : " The ACT Interschool Chess Competitions kick off tomorrow, with the 2023 ACT Secondary Girls Final being held at Merici College. Continuing the trend of increased numbers for chess events, this years tournament already has 55 entries, well up from last years 30 players. The team of players from Lyneham High School are probably the favourites, and a win for them would make up for missing out last year (by not having a team!). However both Canberra Grammar and Radford College might be looking for a different result, while defending champions Merici College will also be in the mix. In term two, the Primary and Secondary Open zone events will be held, with the Open finals in term 3. These events",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/act-interschool-kicks-off.html",
          "pubDate" : "Wed, 29 Mar 2023 11:50:00 +0000",
          "title" : "ACT Interschool kicks off"
-      },
-      {
-         "description" : "The VII Torneo Internacional de Ajedrez Semana Santa en La Nucia will take place from 5th to 10th April 2023 in Alicante, La Nucia in Spain. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vii-torneo-internacional-de-ajedrez-semana-santa-en-la-nucia-2023-live/",
-         "pubDate" : "Wed, 29 Mar 2023 11:48:46 +0000",
-         "title" : "VII Torneo Internacional de Ajedrez Semana Santa en La Nucia 2023 - LIVE"
-      },
-      {
-         "description" : "The BASEL EASTER Festival 2023 MASTER will take place from 06-10 April 2023 in Basel, Switzerland. The Master section of the tournament is only for players rated 2050 or higher. It will be 9-round Swiss system tournament with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament has total prize []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/basel-easter-festival-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 11:31:10 +0000",
-         "title" : "BASEL EASTER Festival 2023"
       },
       {
          "description" : "",
@@ -176,38 +240,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
          "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
          "title" : "European Women's Championship - Final round: Live!"
-      },
-      {
-         "description" : "The chess world will see Yifan Hou compete once more OTB. She will play in the strong rapid and blitz Satty Zhuldyz Chess Festival 2023 which will take place in Astana, April 24-25. Satty Zhuldyz Chess Festival 2023 is a round robin tournament with Levon Aronian, Yifan Hou, Arjun Erigaisi, Alexander Grischuk, Vladimir Kramnik, Vincent []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yifan-hou-returns-to-competitive-chess-this-april/",
-         "pubDate" : "Wed, 29 Mar 2023 10:26:47 +0000",
-         "title" : "Yifan Hou returns to competitive chess this April"
-      },
-      {
-         "description" : "Satty Zhuldyz Chess Festival 2023 is a round robin tournament with Levon Aronian, Yifan Hou, Arjun Erigaisi, Alexander Grischuk, Vladimir Kramnik, Vincent Keymer, Haik Martirosyan, Boris Gelfand, Javokhir Sindarov, Jakhongir Vakhidov, Kateryna Lagno, and Bibisara Assaubayeva. The strong rapid and blitz Satty Zhuldyz Chess Festival 2023 which will take place in Astana, April 24-25. Chessdom.com []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/satty-zhuldyz-chess-festival-2023-live/",
-         "pubDate" : "Wed, 29 Mar 2023 10:22:20 +0000",
-         "title" : "Satty Zhuldyz Chess Festival 2023 LIVE"
-      },
-      {
-         "description" : "The 1st International Chess Tournament &#x201C;Rustam Kasimdzhanov Cup&#x201D; was played in Tashkent, Uzbekistan from 28th to 29th March 2023. It was a round robin with 10 players, including Alexander Grischuk, Parham Maghsoodloo, Shamsiddin Vokhidov, Nordibek Abdusattorov, Shakhriyar Mamedyarov, Javokhir Sindarov, Jakhongir Vakhidov, Rustam Kasimdzhanov, Nordibek Yakubboev, and Jorden Van Foreest. Javokhir Sindarov won the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/javokhir-sindarov-wins-rustam-kasimdzhanov-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 10:02:58 +0000",
-         "title" : "Javokhir Sindarov wins Rustam Kasimdzhanov Cup 2023"
-      },
-      {
-         "description" : "The The O2C Doeberl Cup 2023 will take place from 06 10 April 2023 in Canberra Southern Cross Club Woden, Australia. The tournament is separated in 6 differenct cattegories 2023 Premier Tournament (9 rounds), 2023 Major Tournament Tournament (7 Rounds), 2023 Minor Tournament (7 Rounds), 2023 Mini Tournament (7 Rounds), 023&#xA0;U1200s Tournament (6 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-o2c-doeberl-cup-2023/",
-         "pubDate" : "Wed, 29 Mar 2023 09:43:21 +0000",
-         "title" : "The O2C Doeberl Cup 2023"
       },
       {
          "description" : "The third round of the Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
@@ -376,6 +408,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2023-d10",
          "pubDate" : "Mon, 27 Mar 2023 18:10:00 +0100",
          "title" : "Hikaru Nakamura wins the American Cup"
+      },
+      {
+         "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), I ended the post saying, <BLOCKQUOTE>I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P>A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P>In that same post, I noted th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/chessify-resources.html",
+         "pubDate" : "Mon, 27 Mar 2023 15:58:00 +0000",
+         "title" : "Chessify Resources"
       },
       {
          "description" : "",
@@ -1122,14 +1162,6 @@ news_feed (
          "title" : "ECF Membership Statistics"
       },
       {
-         "description" : "In the current ChessBase Magazine #212 you will find new repertoire ideas for eleven different openings - from the English Opening to the King's Indian. In his search for a suitable weapon against the Scotch, Lars Schandorff has come across a fresh idea with which Black immediately seeks active play: After 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 (Schandorff's favourite) 5.Nb3 Bb6 6.Nc3 7.Qe2 he recommends 7...a5!?. In his analysis, this idea has proved so successful that he even sees White facing the task of looking for new ideas in the alternative variations with 5.Nxc6 or 5.Be3. Take a look!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-fresh-idea-against-the-scotch",
-         "pubDate" : "Tue, 21 Mar 2023 15:00:00 +0100",
-         "title" : "A fresh idea against the Scotch"
-      },
-      {
          "description" : "Hikaru Nakamura is still the only player to win a classical game in the open section of the American Cup after he powered to a 1.5:0.5 victory over Leinier Dominguez. Hikaru will face Wesley So, who overcame Fabiano Caruana in rapid tiebreaks. For a second year in a row, 13-year-old Alice Lee will face 8-time US Women's Champion Irina Krush in the Champions final of the American Women's Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1546,14 +1578,6 @@ news_feed (
          "title" : "Need sure points? QGD, Semi-Tarrasch Variation Edition"
       },
       {
-         "description" : "The European Individual Chess Championship 2023 concluded yesterday in Vrnjacka Banja, Serbia. After 11 played rounds, three players tied for the first place scoring 8.5 points each: GM Alexey Sarana (FIDE, 2668), GM Kirill Shevchenko (ROU, 2668), and GM Daniel Dardha (BEL, 2610). Alexey Sarana and Kirill Shevchenko met each other in the direct last-round encounter for the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/alexey-sarana-wins-european-individual-chess-championship-2023/",
-         "pubDate" : "Tue, 14 Mar 2023 06:20:09 +0000",
-         "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,30 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/albert-vasse.html",
          "pubDate" : "Thu, 09 Mar 2023 11:31:00 +0000",
          "title" : "Albert Vasse "
-      },
-      {
-         "description" : "Please find the final list for your reference S.No Name Date of Birth Father's Name State 1 Himanshu Saxena 09-01-1974 Shri Madan Mohan Saxena Madhya",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-participation-list-for-senior-national-arbiter-seminar-examination-at-indore-from-18-19-march-2023/",
-         "pubDate" : "Thu, 09 Mar 2023 10:26:59 +0000",
-         "title" : "Final Participation list for Senior National Arbiter Seminar & Examination at Indore from 18-19 March 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2271",
-         "pubDate" : "Thu, 09 Mar 2023 09:31:27 +0000",
-         "title" : "EICC 2023: Korobov and Kourkoulos-Arditis lead after six rounds"
-      },
-      {
-         "description" : "Asian Chess Federation in cooperation with FIDE Commission for Women's Chess under the supervision of FIDE Trainers' Commission is orgnising FIDE Trainers' Online Seminar from",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-trainers-online-seminar-17-19-mar-23/",
-         "pubDate" : "Thu, 09 Mar 2023 09:24:02 +0000",
-         "title" : "FIDE TRAINERS' ONLINE SEMINAR 17-19 MAR 23"
       }
    ]
 }
