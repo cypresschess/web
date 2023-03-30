@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-1",
+         "pubDate" : "Wed, 29 Mar 2023 20:05:00 -0700",
+         "title" : "The Last Competitors Standing: Tan Strikes First vs. Lei"
+      },
+      {
          "description" : "Tan Zhongyi sacrificed two pawns and looked in grave danger in Game 1 of the FIDE Women's Candidates Final in Chongqing, China, but Lei Tingjie blundered with seconds on her clock and fell to defeat. That was a huge step towards Tan Zhongyi forcing a World Championship rematch against Ju Wenjun, but Lei Tingjie still has five games in which to hit back.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1456,14 +1464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2285",
          "pubDate" : "Wed, 15 Mar 2023 18:40:19 +0000",
          "title" : "FIDE President visits Saudi Arabia"
-      },
-      {
-         "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda were the winners of Titled Tuesday on March 14, both of them scoring 9.5 points. Nakamura edged out GM Daniil Dubov on tiebreaks early while Duda won outright late. GM Arjun Erigaisi scored two top-five...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-march-14-2023",
-         "pubDate" : "Wed, 15 Mar 2023 10:17:00 -0700",
-         "title" : "Nakamura And Duda Again Tuesday Winners"
       },
       {
          "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
