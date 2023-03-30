@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-2",
+         "pubDate" : "Thu, 30 Mar 2023 15:18:48 -0700",
+         "title" : "Rising From A Loss: Lei Evens The Score"
+      },
+      {
+         "description" : "The three-time and reigning Ukrainian champion, GM Andrei Volokitin, defeated the English number-one and seven-time British champion, GM Michael Adams, in the UK vs. Ukraine Match 2023, with a score of 4.5-3.5. The match concluded on Thursday. T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/volokitin-wins-2023-uk-ukraine-match",
+         "pubDate" : "Thu, 30 Mar 2023 14:18:00 -0700",
+         "title" : "Volokitin Defeats Adams With Round To Spare In UK Vs. Ukraine Solidarity Match"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-americas-premier-facility\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-americas-premier-facility",
+         "pubDate" : "Thu, 30 Mar 2023 21:14:57 +0000",
+         "title" : "Saint Louis Chess Club: America's Premier Facility"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-americas-premier-facility-chess-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-americas-premier-facility-chess-shorts",
+         "pubDate" : "Thu, 30 Mar 2023 21:14:57 +0000",
+         "title" : "Saint Louis Chess Club: America's Premier Facility #Chess # Shorts"
+      },
+      {
+         "description" : "The 20th Delhi International Open Grandmasters Chess Tournament 2023 was played this March in Delhi, India. GM Aravindh Chithambaram Vr. won last round against GM Levan Pantsulaia and finished on first place with 9.5/10. After a win against GM Alexei Fedorov in last game, GM Luka Paichadze ( 9/10) grabbed the second place. Six players []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aravindh-chithambaram-vr-wins-20th-delhi-international-open-grandmasters-chess-tournament-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 21:02:38 +0000",
+         "title" : "Aravindh Chithambaram Vr. wins 20th Delhi International Open Grandmasters Chess Tournament 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2311",
+         "pubDate" : "Thu, 30 Mar 2023 19:02:50 +0000",
+         "title" : "WGP New Dehli Round 5 Recap: Zhu Jiner takes the lead"
+      },
+      {
          "description" : "The 2015 World Team Championship saw China winning its first gold medal (out of three) in the tournament. The team was led by Ding Liren on top board, and had its top scorer in 15-year-old Wei Yi, who collected scoring 7/9 points on board 4. Ukraine and Armenia finished second and third, while the clear rating favourites from Russia only managed fourth place. The tournament took place in Tsaghkadzor, a small touristy town in Armenia also known as the 'valley of flowers'. | Photos: Arman Karakhanyan",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,14 +232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
          "pubDate" : "Thu, 30 Mar 2023 11:30:00 +0100",
          "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
-         "description" : "The International Reykjavik Open Chess Tournament, sponsored by Kvika and Brim, has begun at Harpa conference center at the heart of Reykjavik, Iceland. The event started with a record breaking participation as 400+ players entered the legendary playing hall. Before beginning proceeding, GM-elect Vignir Vatnar Stef&#xE1;nsson was celebrated as the newest Grandmaster of Iceland by []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-open-2023-round-1-report/",
-         "pubDate" : "Thu, 30 Mar 2023 09:41:16 +0000",
-         "title" : "Reykjavik Open 2023 - round 1 report"
       },
       {
          "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
@@ -584,22 +624,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/toronto-hosts-candidates-2024/",
          "pubDate" : "Mon, 27 Mar 2023 09:38:48 +0100",
          "title" : "Toronto hosts Candidates 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after winning The American Cup Blitz, a side event held during the grand final of The American Cup 2023. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-dominates-american-cup-blitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-dominates-american-cup-blitz",
-         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
-         "title" : "Caruana Dominates American Cup Blitz!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after defeating Wesley So in the grand final playoffs to win The American Cup 2023. 2023.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-chess-nakamura-wins-american-cup-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xYqy7-YgfCs.jpg?itok=ABxWR__H\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/king-chess-nakamura-wins-american-cup-2023",
-         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
-         "title" : "The King of Chess! Nakamura Wins The American Cup 2023"
       },
       {
          "description" : "GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm ",
@@ -1482,14 +1506,6 @@ news_feed (
          "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
       },
       {
-         "description" : "GM Alexandra Kosteniuk has transferred federations to Switzerland and will no longer represent Russia. You can read more about the federation transfer in this news article. The interview below focuses on the personal consequences of the federation...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/interview-kosteniuk-on-federation-change",
-         "pubDate" : "Thu, 16 Mar 2023 07:15:00 -0700",
-         "title" : "Interview: Kosteniuk On Federation Change, 'There Cannot Be Winners In Wars'"
-      },
-      {
          "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1504,14 +1520,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
          "pubDate" : "Thu, 16 Mar 2023 04:19:08 +0000",
          "title" : "\"Chess in Slums\" treks to Kenya, Uganda!"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk has transferred her federation to Switzerland and will no longer represent Russia, effective March 3, 2023. Since her first marriage to a Swiss citizen, she has held dual citizenship in both countries. Kosteniuk, who resides...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kosteniuk-to-play-for-switzerland",
-         "pubDate" : "Wed, 15 Mar 2023 12:44:00 -0700",
-         "title" : "Former Women's World Champion Changes Federation From Russia To Switzerland"
       },
       {
          "description" : "",
