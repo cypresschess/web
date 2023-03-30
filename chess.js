@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2015 World Team Championship saw China winning its first gold medal (out of three) in the tournament. The team was led by Ding Liren on top board, and had its top scorer in 15-year-old Wei Yi, who collected scoring 7/9 points on board 4. Ukraine and Armenia finished second and third, while the clear rating favourites from Russia only managed fourth place. The tournament took place in Tsaghkadzor, a small touristy town in Armenia also known as the 'valley of flowers'. | Photos: Arman Karakhanyan",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-world-team-championship-2015",
+         "pubDate" : "Thu, 30 Mar 2023 20:00:00 +0100",
+         "title" : "Throwback Thursday: 15-year-old Wei Yi leads China to World Teams gold"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/scholastic-programs-saint-louis-chess-club",
+         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
+         "title" : "Scholastic Programs at the Saint Louis Chess Club"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess in Saint Louis is back with 12 major tournaments in 2023! Learn the dates for The American Cup, the Spring, Summer, and Winter Chess Classics, the Cairns Cup, the U.S. Junior &amp; Senior Championships, the Saint Louis Norm Congress. Chess 9LX, and the U.S. &amp; U.S. Women&#039;s Championships, USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-major-tournaments-saint-louis-promo\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-major-tournaments-saint-louis-promo",
+         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
+         "title" : "2023 Major Tournaments in Saint Louis | PROMO"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The eighth annual Grand Chess Tour hosts the world&#039;s best players competing in four countries for a $1.4 million prize fund. The circuit begins in May with the Superbet Chess Classic in Bucharest, and continues with the Superbet Rapid &amp; Blitz Poland in Warsaw, the SuperUnited Rapid &amp; Blitz Croatia in Zagreb, the Saint Louis Rapid &amp; Blitz, and concludes with the Sinquefield Cup. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-grand-chess-tour-promo",
+         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
+         "title" : "2023 Grand Chess Tour | PROMO"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris takes an in-depth look at the fascinating first game of the match between Tan Zhongyi and Lei Tingjie. It was an incredibly sharp confrontation, with no lack of imbalances and instructive situations. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates",
+         "pubDate" : "Thu, 30 Mar 2023 18:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Tan and Lei keep it sharp"
+      },
+      {
+         "description" : "The Reykjavik Open 2023 has collected a constellation of streamers, including Alexandra Botez, Dina Belenkaya, Gringer GM, and Anna Cramling (who just hit the main page of CNN with an interview) Dina Belenkaya hits the #TweetOftheDay section with a humorous take on a photo from Reykjavik, replacing Carlsen's and Karjakin's items from yesterday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/behind-every-great-chess-woman-tweetoftheday/",
+         "pubDate" : "Thu, 30 Mar 2023 15:31:32 +0000",
+         "title" : "Behind every great chess woman #TweetOftheDay"
+      },
+      {
          "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;The total prize fund of 2023's edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -10,7 +58,23 @@ news_feed (
          "title" : "II Open Internacional Chess Menorca 2023"
       },
       {
-         "description" : "&#8220;Being a woman in chess can feel &#x2018;lonely&#x2019; says streamer Anna Cramling, as the game grapples with harsh truths,&#8221; says Anna Cramling in her interview for CNN. Currently playing the Reykjavik Open 2023 (follow live here / see her result in round 1), Anna is back on the board. She started playing again less than []",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2310",
+         "pubDate" : "Thu, 30 Mar 2023 15:16:15 +0000",
+         "title" : "WCF Game 2: Lei Tingjie grinds down Tan Zhongyi and ties the match"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-best-us\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yout",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-best-us",
+         "pubDate" : "Thu, 30 Mar 2023 15:14:30 +0000",
+         "title" : "Saint Louis Chess Club: The Best in the U.S."
+      },
+      {
+         "description" : "&#8220;Being a woman in chess can feel &#x2018;lonely&#x2019;&#8221;, says streamer Anna Cramling in her interview for CNN. Currently playing the Reykjavik Open 2023 (follow live here / see her result in round 1), Anna is back on the board. She started playing again less than an year ago after the long Covid isolation, where she []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/interview-with-anna-cramling-for-cnn-about-her-experiences-as-a-chess-player/",
@@ -128,14 +192,6 @@ news_feed (
          "link" : "https://www.chessdom.com/reykjavik-open-2023-round-1-report/",
          "pubDate" : "Thu, 30 Mar 2023 09:41:16 +0000",
          "title" : "Reykjavik Open 2023 - round 1 report"
-      },
-      {
-         "description" : "After 11 thrilling rounds at the European Women&#x2019;s Chess Championship 2023 two players emerged on the top tying for the first place with 8.5 points, each: IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406). They went the last round with equal points. Thanks to her 8th round victory in direct encounter against []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/meri-arabidze-is-the-winner-of-the-european-womens-chess-championship-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 09:27:32 +0000",
-         "title" : "Meri Arabidze is the winner of the European Women's Chess Championship 2023"
       },
       {
          "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
@@ -546,44 +602,12 @@ news_feed (
          "title" : "The King of Chess! Nakamura Wins The American Cup 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after losing the grand final playoffs to Hikaru Nakamura in The American Cup 2023. 2023.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-its-yassers-fault-i-lost\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pzHHzAWjv2Q.jpg?itok=n_CyZc1q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-its-yassers-fault-i-lost",
-         "pubDate" : "Mon, 27 Mar 2023 06:11:56 +0000",
-         "title" : "Wesley So: It's Yasser's Fault I Lost!"
-      },
-      {
          "description" : "GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/",
          "pubDate" : "Mon, 27 Mar 2023 04:18:04 +0000",
          "title" : "Dylan Berdayes&hellip; Cuba's 47th Grandmaster!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Watch GM Fabiano Caruana, the winner of American Cup Blitz 2023, in this exclusive interview with GM Cristian Chirila. 2022.03.26<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-fabiano-caruana-dominates-american-cup-blitz-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Vh6Re6_Mtj0.jpg?itok=AnZjYi65\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-fabiano-caruana-dominates-american-cup-blitz-2023",
-         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
-         "title" : "GM Fabiano Caruana Dominates American Cup Blitz 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Join newly crowned American Cup 2023 champion GM Hikaru Nakamura as he sits down with GM Cristian Chirila to discuss his winning strategy and mindset. Nakamura claimed victory in an intense playoff against GM Wesley So to win The American Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-chess-hikaru-nakamura-wins-american-cup-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbna",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/king-chess-hikaru-nakamura-wins-american-cup-2023",
-         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
-         "title" : "The King of Chess: Hikaru Nakamura Wins The American Cup 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Wesley So reflects on his journey at The American Cup 2023 and his experience in the intense playoffs against GM Hikaru Nakamura. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-wesley-so-reflects-american-cup-2023-playoff\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pzHHzAWjv2Q.jpg?itok=n_CyZc1q\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-wesley-so-reflects-american-cup-2023-playoff",
-         "pubDate" : "Mon, 27 Mar 2023 00:11:41 +0000",
-         "title" : "GM Wesley So Reflects on The American Cup 2023 Playoff"
       },
       {
          "description" : "",
@@ -1066,14 +1090,6 @@ news_feed (
          "title" : "World Championship match: venue, commentators & schedule"
       },
       {
-         "description" : "Hikaru Nakamura and Irina Krush emerged victorious in the champions' brackets of the open and women's sections of the American Cup. Both multiple US champions won their matches in tiebreaks. Nakamura got the better of Wesley So by a 4-2 score, while Krush defeated Alice Lee more quickly, by a 3-1 score. In the elimination brackets, Levon Aronian and Nazi Paikidze remain in contention in each of the two sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d6",
-         "pubDate" : "Thu, 23 Mar 2023 08:30:00 +0100",
-         "title" : "American Cup: Nakamura and Krush win champions' brackets"
-      },
-      {
          "description" : "GM Hikaru Nakamura is the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So now has to play against GM Levon Aronian for a spot in the final after the latter won his secon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc-2023-tender-letters/",
          "pubDate" : "Wed, 22 Mar 2023 11:51:51 +0000",
          "title" : "BCC 2023 tenders"
-      },
-      {
-         "description" : "We have some good news for you. The Slovakian GM Jan Markos has created his first Fritztrainers for ChessBase, and their release is just around the corner. It is time to meet your new Fritztrainer in our interview. Jan understands to break complex themes down to several rule of thumbs which are very practical for your own play. With these guidelines it seems easy to improve your own middlegame play. Jan has written a number of chess books and enjoys chess because of the game, not mainly to achieve goals. This and some of his philosophies, which he has studied all his life, make him such a popular person. | Photos: Jan Markos",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-fritztrainer-jn-marko",
-         "pubDate" : "Wed, 22 Mar 2023 12:51:12 +0100",
-         "title" : "Meet The Fritztrainer - J&aacute;n Markoš"
       },
       {
          "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2272",
          "pubDate" : "Fri, 10 Mar 2023 02:28:40 +0000",
          "title" : "EICC 2023, R07: Korobov retakes the lead"
-      },
-      {
-         "description" : "Another month means another look at U.S. chess 50 and 25 years ago. The tags for last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/february-1973-1998-on-cover.html\">February 1973 & 1998 'On the Cover'</A>(February 2023) -- 'Books/Mags, Photos, USchess, WCC' -- apply equally well to this month. <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc09.jpg\" WIDTH=400 HEIGHT=265><BR><B>Left:</B> '?'<BR><B>Right:</B> 'Karpov Reigns Supreme as FIDE World Champion!' <P><B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE>I. A. (Al) Horowitz, who died in January. Tributes to this irreplaceable man begin [inside]. Photo courtesy of New York Times [NYT]. </BLOC",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html",
-         "pubDate" : "Thu, 09 Mar 2023 16:12:00 +0000",
-         "title" : "March 1973 & 1998 'On the Cover'"
       }
    ]
 }
