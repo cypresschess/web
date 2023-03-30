@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-03-01  - 03-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202303296362 target='_blank'>MARCH 2023 TUESDAY NIGHT SWISS</a>",
 "LEAGUE CITY","2023-03-27","9","<a href=http://www.uschess.org/msa/XtblMain.php?202303275662 target='_blank'>CLCC MARCH MONDAYS</a>",
 "HOUSTON","2023-03-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202303265502 target='_blank'>MARCH 26 SUNDAY SWISS</a>",
 "HOUSTON","2023-03-25","30","<a href=http://www.uschess.org/msa/XtblMain.php?202303255512 target='_blank'>MARCH 25 2023 SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2022-08-12","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208122982 target='_blank'>FBCC 2022 BACK TO SCHOOL OPEN</a>",
 "CYPRESS","2022-08-12","26","<a href=http://www.uschess.org/msa/XtblMain.php?202208122922 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "MISSOURI CITY","2022-08-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208092002 target='_blank'>RCC QUADS AUGUST 9 2022</a>",
-"HOUSTON","2022-08-05  - 08-07","35","<a href=http://www.uschess.org/msa/XtblMain.php?202208071212 target='_blank'>$3,500 HOUSTON CHESS STUDIO AUGUST</a>",
 ]);
