@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;The total prize fund of 2023's edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ii-open-internacional-chess-menorca-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 15:23:27 +0000",
+         "title" : "II Open Internacional Chess Menorca 2023"
+      },
+      {
+         "description" : "&#8220;Being a woman in chess can feel &#x2018;lonely&#x2019; says streamer Anna Cramling, as the game grapples with harsh truths,&#8221; says Anna Cramling in her interview for CNN. Currently playing the Reykjavik Open 2023 (follow live here / see her result in round 1), Anna is back on the board. She started playing again less than []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/interview-with-anna-cramling-for-cnn-about-her-experiences-as-a-chess-player/",
+         "pubDate" : "Thu, 30 Mar 2023 15:00:01 +0000",
+         "title" : "Interview with Anna Cramling for CNN about her experiences as a chess player"
+      },
+      {
+         "description" : "The European Women's Championship came to an end on Wednesday in Petrovac, Montenegro. Since the games on the top boards finished drawn - albeit not without a fight - nothing changed in the standings relative to the previous rounds. Meri Arabidze from Georgia and Oliwia Kiolbasa from Poland tied for first place on 8&frac12;/11 points. Arabidze was declared the champion thanks to her victory over Kiolbasa in round 8. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-final-report",
+         "pubDate" : "Thu, 30 Mar 2023 16:00:00 +0100",
+         "title" : "Arabidze edges Kiolbasa to win the European Women's Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2309",
+         "pubDate" : "Thu, 30 Mar 2023 14:37:28 +0000",
+         "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "The 65th Southend Easter Chess Congress FIDE Open 2023 will take place from 07-10 April 2023 in Southend, England. The tournament format is 7-round Swiss system with time control 90 minutes plus a 30-second increment starting from move one. In the list below you can see all 34 registered players : Rk. SNo &#160; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/65th-southend-easter-chess-congress-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 14:34:51 +0000",
+         "title" : "65th Southend Easter Chess Congress 2023"
+      },
+      {
+         "description" : "The Southend Masters 2023 (GM Title Norms) will take place from 06-10 April 2023 in Southend Adult Community College, Ambleside Drive, Southend-on-Sea, England. It will be 9-round Robin tournament valid for GM Norm. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; List of players : No. &#160; Name FED Rtg []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/southend-masters-2023/",
+         "pubDate" : "Thu, 30 Mar 2023 14:29:24 +0000",
+         "title" : "Southend Masters 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/test-your-chess/#new_tab",
+         "pubDate" : "Thu, 30 Mar 2023 13:30:27 +0000",
+         "title" : "New - Test Your Chess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Gazprom</strong>-owned Russian <strong>Match TV</strong> has not acquired any images or broadcasting rights from <strong>FIDE</strong> for its extensive world championship coverage, as FIDE Chief Marketing and Communications Officer <strong>David Llada</strong> told ChessTech. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/no-contract-for-match-tv/",
+         "pubDate" : "Thu, 30 Mar 2023 14:02:45 +0100",
+         "title" : "No contract for Match TV"
+      },
+      {
+         "description" : "I recently had the privilege of interviewing Grandmaster Iniyan P, one of India's top chess players and a rising star in the chess world. Iniyan, who is only 20 years old, has already achieved impressive results, including winning the Commonwealth Championship U18 at New Delhi with 7/7. In our interview, Iniyan shared his thoughts on a range of topics, including his early days in chess, his upcoming Fritztrainer, and his goals for the future.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-a-great-talent-of-india-gm-iniyan",
+         "pubDate" : "Thu, 30 Mar 2023 14:00:00 +0100",
+         "title" : "Interview with a great talent of India - GM Iniyan"
+      },
+      {
          "description" : "The final stage of Israel Youth Chess Championships 2023 will take place from 28 March 2023 to 04 April 2023 in Rishon le Zion, Israel. The tournament is separated in 10 different categories Open U18, Open U16, Open U14, Open U12, Open U10, Open U8, Girls 16-18, Girls U14, Girls U12 and Girls U10 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,22 +170,6 @@ news_feed (
          "title" : "New Delhi GP: Four decisive results"
       },
       {
-         "description" : "Last year the FIDE Ethics and Disciplinary Commission (EDC) reached a verdict on the case 2/2022, relating to public statements by Grandmaster&#160;Sergey Karjakin&#160;(FIDE ID 14109603). It led to a 6 months ban, that prevented Karjakin from playing Candidates Chess 2022. Peter Heine Nielsen points to a new Karjakin interview (read the most important parts of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/peter-heine-nielsen-karjakin-interview-should-lead-to-an-immediate-ban/",
-         "pubDate" : "Thu, 30 Mar 2023 04:57:00 +0000",
-         "title" : "Peter Heine Nielsen: Karjakin interview should lead to an immediate ban"
-      },
-      {
-         "description" : "The Women Candidates Chess 2023 final takes place in Chongqing, China. Tan Zhongyi and Lei Tingjie will fight for the right to challenge the current Women&#x2019;s World Champion, Ju Wenjun. This match sets the stage for a possible all out China domination in the World Chess Championships. Ju Wenjun will meet a compatriot at the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/women-candidates-chess-2023-live/",
-         "pubDate" : "Thu, 30 Mar 2023 04:21:00 +0000",
-         "title" : "Women Candidates Chess 2023 LIVE"
-      },
-      {
          "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,14 +194,6 @@ news_feed (
          "title" : "Tan Zhongyi draws first blood in Women's Candidates Final"
       },
       {
-         "description" : "This March 28th Sergey Karjakin gave a new controversial interview. For Russia-1 TV and the pro-Kremlin journalist Korchevnikov. Karjakin expressed his opinion, among other things, on the 6 months FIDE ban, his compatriot Ian Nepomniachtchi, and the current World Champion Magnus Carlsen. Carlsen's coach Peter Heine Nielsen followed-up the interview with a swift reaction and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/karjakin-gets-pressed-into-saying-that-carlsen-is-a-fascist-new-controversial-interview/",
-         "pubDate" : "Wed, 29 Mar 2023 21:15:32 +0000",
-         "title" : "Karjakin gets pressed into saying that Carlsen is a \"fascist\" - new controversial interview"
-      },
-      {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Many players <a href=\"https://chessimprover.com/carbon-versus-silicon-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-4/\">Carbon versus Silicon (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -160,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2307",
          "pubDate" : "Wed, 29 Mar 2023 19:35:58 +0000",
          "title" : "Women's Grand Prix New Delhi: Goryachkina takes the lead in a day of decisive games"
-      },
-      {
-         "description" : "The Grand Chess Tour (GCT), a circuit of international events, each demonstrating the highest level of organization for the world&#x2019;s best players, will return again in 2023. Tour participants will compete for a total prize fund of $1.4 million over the course of the 2023 season. The prize money for each of the two classical []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-chess-tour-2023-with-a-dream-lineup/",
-         "pubDate" : "Wed, 29 Mar 2023 19:34:11 +0000",
-         "title" : "Grand Chess Tour 2023 with a dream lineup"
       },
       {
          "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
@@ -298,7 +338,7 @@ news_feed (
          "title" : "Dorsa Plays the Nimzo-Indian! | Grandmaster's Choice - IM Dorsa Derakhshani"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28<br /> Tigran V Petrosian vs Hans Ree, Hoogovens (1971): A29 English, four knights, kingside fianchetto<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1106935\">https://www.chessgames.com/perl/chessgame?gid=1106935</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/style",
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess.<br /> The term simply refers to when pieces are lined up on the board. When you see alignments, you&#039;ll uncover tactics like pins, skewers, and discover attacks. 2023.03.28<br /> Tigran V Petrosian vs Hans Ree, Hoogovens (1971): A29 English, four knights, kingside fianchetto<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1106935\">https://www.chessgames.com/perl/chessgame?gid=1106935</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-emb",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown",
@@ -514,7 +554,7 @@ news_feed (
          "title" : "Wesley So: It's Yasser's Fault I Lost!"
       },
       {
-         "description" : " GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/\">Dylan Berdayes Cuba's 47th Grandmaster!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/",
@@ -1042,7 +1082,7 @@ news_feed (
          "title" : "Nakamura Blitzes So, Advances To Finals"
       },
       {
-         "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
@@ -1114,22 +1154,6 @@ news_feed (
          "title" : "Meet The Fritztrainer - J&aacute;n Markoš"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. 618 games (20 annotated) from the Schachbundesliga, Meltwater Tour Tournament and the U.S. Championship, plus 12 opening surveys, 8 demo lectures and several exercises for training. Annotators include Loek Van Wely, Pavel Eljanov and Luke McShane, Erwin L'Ami, Nikita Vitiugov, Nils Grandelius and Gawain Jones among others. The icing on the cake is a feature on Misha Tal with 21 annotated games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-211-review-nagesh-havanur",
-         "pubDate" : "Wed, 22 Mar 2023 08:35:00 +0100",
-         "title" : "CBM 211: Battle of giants in the Bundesliga"
-      },
-      {
-         "description" : "In the most thrilling match of the tournament so far, Levon Aronian knocked out Fabiano Caruana to remain alive in the elimination bracket, where he is set to face Leinier Dominguez next. In the women's elimination bracket, Nazi Paikidze and Gulrukhbegim Tokhirjonova were the winners of the day and will face off on Wednesday. Meanwhile, in the champions brackets, draws were seen in both sections. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d5",
-         "pubDate" : "Wed, 22 Mar 2023 08:30:00 +0100",
-         "title" : "American Cup: Aronian knocks out Caruana in Armageddon"
-      },
-      {
          "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1184,14 +1208,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-conference-2023-concluded/",
          "pubDate" : "Tue, 21 Mar 2023 10:45:09 +0000",
          "title" : "London Chess Conference 2023 concluded"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Streamer king and <a href=\"https://2700chess.com\">live rating nr 5</a> <strong>Hikaru Nakamura</strong> together with <strong>Misfits Gaming</strong> <a href=\"https://www.chess.com/news/view/hikarus-chess-decathlon-mgg\">announced</a> the <strong>Decathlon</strong> series of 10 online events featuring different chess variants, including King of the Hill, Crazyhouse and a quiz, with altogether $46,500 in prizes, starting on 27 March with Chess960. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/nakamura-promotes-chess-variants/",
-         "pubDate" : "Tue, 21 Mar 2023 11:30:02 +0100",
-         "title" : "Nakamura promotes chess variants"
       },
       {
          "description" : " IM Kostya Kavutskiy This week's online puzzle that caught my attention was a Kings and pawns endgame. It brought back memories of so many students that struggled to play them decently. Could it be because they seem simple? After all the pawns just move forward and the Kings must support/ stop them. They are indeed <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\">&#8220;Tactics are temporary, endgames are per",
@@ -1322,7 +1338,7 @@ news_feed (
          "title" : "Caruana Clinches Match Victory In Catalan Classic"
       },
       {
-         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
@@ -1474,7 +1490,7 @@ news_feed (
          "title" : "London Chess Conference 2023"
       },
       {
-         "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
@@ -1650,7 +1666,7 @@ news_feed (
          "title" : "EICC 2023: Shevchenko joins Sarana on the top with one round to go"
       },
       {
-         "description" : " The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/\">HBCU Chess Classic on April 22nd!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/",
@@ -1714,7 +1730,7 @@ news_feed (
          "title" : "Sarana defeats Korobov to grab the sole lead in EICC 2023"
       },
       {
-         "description" : " The Chess Drum's Daaim Shabazz was a guest on Dylan Quercia's Twitch stream called, &#8220;Talking Talent.&#8221; The 71-minute segment featured the usual questions about chess beginnings and the emergence of the 22-year-old website. Other questions featured chess in the African-American chess community, its progress, the importance of analytics, and issues pertaining to the bridge of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/\">The Chess Drum on &#8220;Talking Talent&#8221;</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "The Chess Drum's Daaim Shabazz was a guest on Dylan Quercia's Twitch stream called, &#8220;Talking Talent.&#8221; The 71-minute segment featured the usual questions about chess beginnings and the emergence of the 22-year-old website. Other questions featured chess in the African-American chess community, its progress, the importance of analytics, and issues pertaining to the bridge of ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
@@ -1738,7 +1754,7 @@ news_feed (
          "title" : "Puffins Labours Lost"
       },
       {
-         "description" : " Oleiny Linares Napoles won her 4th national title during the Cuban women's championship from February 9th-20th. The event was a 12-player round-robin taking place in Jos&eacute; Ra&uacute;l Capablanca Academy in Camag&uuml;ey. Linares has been a regular on The Chess Drum and was last featured after winning her 3rd championship. The Santiago de Cuba famously won The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/\">Cuba's Linares wins her 4th chess title!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Oleiny Linares Napoles won her 4th national title during the Cuban women's championship from February 9th-20th. The event was a 12-player round-robin taking place in Jos&eacute; Ra&uacute;l Capablanca Academy in Camag&uuml;ey. Linares has been a regular on The Chess Drum and was last featured after winning her 3rd championship. The Santiago de Cuba famously won ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/",
@@ -1840,14 +1856,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html",
          "pubDate" : "Thu, 09 Mar 2023 16:12:00 +0000",
          "title" : "March 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : " I've just seen the sad news that Albert Vasse has passed away. He was most notable as the founder of DGT systems, the company responsible for developing both the digital board/broadcast technology and digital chess clocks, both off which are heavily used across the world. Although he retired from running the company a number of years ago he was still an active arbiter and organiser, with the occasional stint as a player. I would often run into him at the various Chess Olympiads (where we would share a beer and conversation), although he would turn up at other events, such as the Gibraltar Open (where he was often the arbiter supervising my games). Always an enjoyable companion at major ches",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/albert-vasse.html",
-         "pubDate" : "Thu, 09 Mar 2023 11:31:00 +0000",
-         "title" : "Albert Vasse "
       }
    ]
 }
