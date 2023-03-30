@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's Grand Prix in New Delhi saw its fourth round being played on Wednesday. Former leader Bibisara Assaubayeva was defeated by Aleksandra Goryachkina. Zhu Jiner, who beat Humpy Koneru, and Polina Shuvalova (pictured), who beat Nana Dzagnidze, now top the standings with 2&frac12;/4 points each. In addition, Kateryna Lagno defeated Vaishali Rameshbabu. | Photo: FIDE / Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r4",
+         "pubDate" : "Thu, 30 Mar 2023 06:45:00 +0100",
+         "title" : "New Delhi GP: Four decisive results"
+      },
+      {
          "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,14 +170,6 @@ news_feed (
          "title" : "European Women's Championship - Final round: Live!"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : "The chess world will see Yifan Hou compete once more OTB. She will play in the strong rapid and blitz Satty Zhuldyz Chess Festival 2023 which will take place in Astana, April 24-25. Satty Zhuldyz Chess Festival 2023 is a round robin tournament with Levon Aronian, Yifan Hou, Arjun Erigaisi, Alexander Grischuk, Vladimir Kramnik, Vincent []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -202,7 +202,7 @@ news_feed (
          "title" : "The O2C Doeberl Cup 2023"
       },
       {
-         "description" : "The third round of the Women's Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
+         "description" : "The third round of the Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r3",
