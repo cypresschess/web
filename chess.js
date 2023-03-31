@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
+         "pubDate" : "Fri, 31 Mar 2023 09:00:00 +0100",
+         "title" : "Women's Candidates Final - Live!"
+      },
+      {
+         "description" : " The five-time US champion, whose main career is as a streamer with more than a million followers, defeated fellow world top-10 player Wesley So in a bruising final Hikaru Nakamura, who combines streaming to over a million followers with a comeback to classical chess in his mid-30s, has won the American Cup, a $200,000 knockout including $60,000 for the winner. The defeated finalist, Wesley So, snatched a poisoned pawn and lost his queen in <a href=\"https://www.chessgames.com/perl/chessgame?gid=2466280\" title=\"\">a 19-move decider</a>. The five-time US champion, 35, won through a bruising trilogy of matches at St Louis to defeat his fellow world top-10 GM. Nakamura had hoped that the competit",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/mar/31/chess-hikaru-nakamura-traps-a-queen-and-wins-60000-in-st-louis",
+         "pubDate" : "Fri, 31 Mar 2023 07:00:16 +0000",
+         "title" : "Chess: Hikaru Nakamura traps a queen and wins $60,000 in St Louis"
+      },
+      {
+         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-2",
+         "pubDate" : "Fri, 31 Mar 2023 07:00:00 +0100",
+         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 2/3"
+      },
+      {
          "description" : "Employing impressive technique in the second game, Lei Tingjie relentlessly jumped back into the match at the Women's Candidates Final in Chongqing. After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by Tan Zhongyi in severe time trouble put the 1-1 result on the scoreboard. | Photos: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +264,6 @@ news_feed (
          "link" : "https://www.chessdom.com/kenya-open-chess-championship-2023/",
          "pubDate" : "Thu, 30 Mar 2023 10:58:56 +0000",
          "title" : "Kenya Open Chess Championship 2023"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Thu, 30 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
@@ -546,7 +562,7 @@ news_feed (
          "title" : "Hikaru Nakamura wins the American Cup"
       },
       {
-         "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A>(January 2023), I ended the post saying, <BLOCKQUOTE>I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P>A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P>In that same post, I noted th",
+         "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A> (January 2023), I ended the post saying, <BLOCKQUOTE> I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P> A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P> In that same post, I note",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/chessify-resources.html",
@@ -666,7 +682,7 @@ news_feed (
          "title" : "Irina Krush defends her American Cup title"
       },
       {
-         "description" : "In this video GM Nakamura reads the Wall Street Journal article, <A HREF=\"https://www.wsj.com/articles/alejandro-ramirez-jennifer-shahade-chess-allegations-622263b8?mod=hp_lead_pos9\">How Sexual Assault Allegations Against a U.S. Chess Grandmaster Went Unaddressed for Years</A>(wsj.com). The article was subtitled, <BLOCKQUOTE>Numerous women have accused elite player and coach Alejandro Ramirez of misconduct. Two bodies that run chess in the U.S. allegedly knew of accusations for several years. </BLOCKQUOTE> <P>It started, <BLOCKQUOTE>When former U.S. women's chess champion Jennifer Shahade alleged on social media last month that she had been sexually assaulted by a prominent grandmaster named",
+         "description" : "In this video GM Nakamura reads the Wall Street Journal article, <A HREF=\"https://www.wsj.com/articles/alejandro-ramirez-jennifer-shahade-chess-allegations-622263b8?mod=hp_lead_pos9\">How Sexual Assault Allegations Against a U.S. Chess Grandmaster Went Unaddressed for Years</A> (wsj.com). The article was subtitled, <BLOCKQUOTE> Numerous women have accused elite player and coach Alejandro Ramirez of misconduct. Two bodies that run chess in the U.S. allegedly knew of accusations for several years. </BLOCKQUOTE> <P> It started, <BLOCKQUOTE> When former U.S. women's chess champion Jennifer Shahade alleged on social media last month that she had been sexually assaulted by a prominent grandmaster n",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
@@ -842,7 +858,7 @@ news_feed (
          "title" : "2023 Collegiate Chess League: Playoffs Preview"
       },
       {
-         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A>(March 2023), I wrote, <BLOCKQUOTE>We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P>As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A>(June 2021). I discover",
+         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "Medical Evaluation of the age of Chess Players for North Eastern States (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
       },
       {
-         "description" : "On March 24, the third of four tournaments in the FIDE Women's Grand Prix Series 2022/2023 will begin in New Delhi, India. Twelve players will compete, but the two Ukrainian grandmasters Anna and Mariya Muzychuk have decided not to take part, presumably because Kateryna Lagno, Polina Shuvalova and Aleksandra Goryachkina, who are members of the Russian Chess Federation but play under the FIDE flag, will be among the participants in New Delhi. | Photo: ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-preview",
-         "pubDate" : "Thu, 23 Mar 2023 14:00:00 +0100",
-         "title" : "Anna and Mariya Muzychuk will not play in the third leg of the Grand Prix"
-      },
-      {
          "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1266,7 +1274,7 @@ news_feed (
          "title" : "International Chess Festival Baku Open 2023 announced"
       },
       {
-         "description" : "In the previous fortnightly report on the world's two leading engine vs. engine competitions, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html\">TCEC S24 L1, CCC20 Blitz Semifinals: Final Week</A>(March 2023), both the TCEC and CCC were well into their respective seasons. Following is a summary of that report. <BLOCKQUOTE>TCEC: S24 L1 is underway with Koivisto leading by a significant margin. Berserk is in a tie for second place. &#149; CCC: Of the 12 engines that competed in 'CCC20 Blitz Main', six qualified into the 'CCC20 Blitz Semifinals', which is underway. </BLOCKQUOTE> <P>After another two weeks, both competitions are seeing the usual three ",
+         "description" : "In the previous fortnightly report on the world's two leading engine vs. engine competitions, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html\">TCEC S24 L1, CCC20 Blitz Semifinals: Final Week</A> (March 2023), both the TCEC and CCC were well into their respective seasons. Following is a summary of that report. <BLOCKQUOTE> TCEC: S24 L1 is underway with Koivisto leading by a significant margin. Berserk is in a tie for second place. &#149; CCC: Of the 12 engines that competed in 'CCC20 Blitz Main', six qualified into the 'CCC20 Blitz Semifinals', which is underway. </BLOCKQUOTE> <P> After another two weeks, both competitions are seeing the usual thr",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html",
@@ -1322,7 +1330,7 @@ news_feed (
          "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       },
       {
-         "description" : "Last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/02/catsparov-chess.html\">Catsparov Chess</A>(February 2023), confirmed a trend:- <BLOCKQUOTE>Am I just a sucker for AI generated chess images? It appears I am. </BLOCKQUOTE> <P>And here we go again, even when dealing with an historical absurdity on multiple counts... <P ALIGN=CENTER><XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc19.gif\" WIDTH=400 HEIGHT=400><BR><B>Upper left:</B><A HREF=\"https://www.flickr.com/photos/fdecomite/52739356678/\">DALL-E 2023-03-10 21.34.47</A>&#169; Flickr user <I>fdecomite</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P>The description, whic",
+         "description" : "Last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/02/catsparov-chess.html\">Catsparov Chess</A> (February 2023), confirmed a trend:- <BLOCKQUOTE> Am I just a sucker for AI generated chess images? It appears I am. </BLOCKQUOTE> <P> And here we go again, even when dealing with an historical absurdity on multiple counts... <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc19.gif\" WIDTH=400 HEIGHT=400><BR> <B>Upper left:</B> <A HREF=\"https://www.flickr.com/photos/fdecomite/52739356678/\">DALL-E 2023-03-10 21.34.47</A> &#169; Flickr user <I>fdecomite</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P> The descripti",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html",
@@ -1434,7 +1442,7 @@ news_feed (
          "title" : "American Cup 2023 - Games and Results"
       },
       {
-         "description" : "We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. The Chess.com series was previously seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A>(March 2023), where I wrote, <BLOCKQUOTE>I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. Posts marked '(*)' featured Chess.com. </BLOCKQUOTE> <P>Why take a detour when I was just getting started? I realized this week that the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren Title Match</A>(m-w.com; FIDE: 'due to take place in Astana, Kazakhstan, from April 7th to May 1st'), ",
+         "description" : "We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. The Chess.com series was previously seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A> (March 2023), where I wrote, <BLOCKQUOTE> I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. Posts marked '(*)' featured Chess.com. </BLOCKQUOTE> <P> Why take a detour when I was just getting started? I realized this week that the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren Title Match</A> (m-w.com; FIDE: 'due to take place in Astana, Kazakhstan, from April 7th to May 1st",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html",
@@ -1626,7 +1634,7 @@ news_feed (
          "title" : "London Chess and Education Conference set for March 17-19"
       },
       {
-         "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A>(February 2023), I noted, <BLOCKQUOTE>Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P>While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online chess c",
+         "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A> (February 2023), I noted, <BLOCKQUOTE> Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P> While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online ches",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/nextchessmovecom.html",
@@ -1706,7 +1714,7 @@ news_feed (
          "title" : "A Tactical Idea"
       },
       {
-         "description" : "Tired of people talking about the success of Chess.com? I can't sympathize, because I don't think I'll ever get enough. A couple of months ago the featured video of the month was <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html\">The Rise of Chess.com</A>(January 2023). Consider this a follow-up post. <P><iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gWrRLtfARzA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR><B>This Company RULES Over ENTIRE CHESS MARKET | Case Study</B> (11:49) &#149; '[Published on] Feb 24",
+         "description" : "Tired of people talking about the success of Chess.com? I can't sympathize, because I don't think I'll ever get enough. A couple of months ago the featured video of the month was <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html\">The Rise of Chess.com</A> (January 2023). Consider this a follow-up post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gWrRLtfARzA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>This Company RULES Over ENTIRE CHESS MARKET | Case Study</B> (11:49) &#149; '[Published on] Feb",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
@@ -1810,7 +1818,7 @@ news_feed (
          "title" : "FIDE - ISF World School Teams Online Chess Cup postponed"
       },
       {
-         "description" : "For the last few weeks I've been running a weekly series on <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A>(February 2023). I'll continue with Chess.com, but change the focus. That post mentioned, <BLOCKQUOTE>[Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. </BLOCKQUOTE> <P>I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. It's a real mixed bag. Posts marked '(*)' featured Chess.com. <P>Recent months have seen heavy media interest in the so-called Niemann affair. The entire discussion gets a '(*)",
+         "description" : "For the last few weeks I've been running a weekly series on <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> (February 2023). I'll continue with Chess.com, but change the focus. That post mentioned, <BLOCKQUOTE> [Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. </BLOCKQUOTE> <P> I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. It's a real mixed bag. Posts marked '(*)' featured Chess.com. <P> Recent months have seen heavy media interest in the so-called Niemann affair. The entire discussion gets a ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html",
