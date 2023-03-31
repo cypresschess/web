@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2313",
+         "pubDate" : "Fri, 31 Mar 2023 18:46:00 +0000",
+         "title" : "WGP New Dehli Round 6 recap: The halfway point"
+      },
+      {
+         "description" : "GM Simon Williams (a.k.a. GingerGM) added yet another candidate for Game of the Year in his round-two game at the Reykjavik Open 2023 on Wednesday.&#38;nbsp; The English grandmaster has long been known for his daring, sacrificial, and &#34;YOLO&#34; style o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-reykjavik-open-williams-sacrifices-queen",
+         "pubDate" : "Fri, 31 Mar 2023 11:09:51 -0700",
+         "title" : "Williams Sacrifices Queen For Brilliancy At Reykjavik Open"
+      },
+      {
+         "description" : "A day of high-stakes and thrilling victories in New Delhi, with three wins for White and one for Black. Kateryna Lagno, Zhu Jiner, Polina Shuvalova, and Aleksandra Goryachkina dominated the round Following three rounds of the Women&#x2019;s Grand Prix where all games ended in a draw, round four saw intense action on the boards in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-goryachkina-takes-the-lead-in-a-day-of-decisive-games/",
+         "pubDate" : "Fri, 31 Mar 2023 18:05:16 +0000",
+         "title" : "FIDE Women Grand Prix - Goryachkina takes the lead in a day of decisive games"
+      },
+      {
+         "description" : "With a second consecutive victory, Bibisara Assaubayeva is in the lead after three rounds of the Women&#x2019;s Grand Prix Assaubayeva had a lucky break after Nino Batsiashvili made a blunder in an even position and lost. Assaubayeva now shares first place with Alexandra Goryachkina who is also on two points, but who had a free []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-3-report/",
+         "pubDate" : "Fri, 31 Mar 2023 17:52:51 +0000",
+         "title" : "FIDE Women Grand Prix- round 3 report"
+      },
+      {
          "description" : "I had the incredible opportunity to interview R.B. Ramesh, one of the world's most renowned and accomplished chess coaches. Ramesh has trained many of India's top players, including former World Champion Vishwanathan Anand, and has helped mold the country into a chess powerhouse. In our interview, Ramesh shared his insights on a range of topics, from his early days in chess to his coaching philosophy and techniques. He also discussed the challenges of coaching at the highest level and the importance of mental preparation in chess. With his vast knowledge and experience, Ramesh provided invaluable insights into what it takes to become a successful chess player, both on and off the board. Over",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -127,7 +159,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-women-candidates-round-2-report/",
          "pubDate" : "Fri, 31 Mar 2023 08:56:07 +0000",
-         "title" : "FIDE Women Candidates - round 2 report"
+         "title" : "FIDE Women Grand Prix - round 2 report"
       },
       {
          "description" : "All four games played in the first round of the Women&#x2019;s Grand Prix in New Delhi ended with a draw. IM Vaishali R won on default after Elisabeth Paehtz decided to withdraw from the tournament. Bharat Singh Chauhan, Chairman of FIDE&#x2019;s Advisory Board and Secretary of the All India Chess Federation, made the ceremonial first []",
@@ -135,7 +167,7 @@ news_feed (
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-women-candidates-round-round-1-repor/",
          "pubDate" : "Fri, 31 Mar 2023 08:45:47 +0000",
-         "title" : "FIDE Women Candidates - round 1 report"
+         "title" : "FIDE Women Grand Prix - round 1 report"
       },
       {
          "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
@@ -178,14 +210,6 @@ news_feed (
          "title" : "Women's Candidates: Lei grinds down Tan and ties the match"
       },
       {
-         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
-         "pubDate" : "Fri, 31 Mar 2023 00:17:00 +0000",
-         "title" : "Reykjavik Chess Open 2023 LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-americas-premier-facility-chess-shorts",
          "pubDate" : "Thu, 30 Mar 2023 21:14:57 +0000",
          "title" : "Saint Louis Chess Club: America's Premier Facility #Chess # Shorts"
-      },
-      {
-         "description" : "The 20th Delhi International Open Grandmasters Chess Tournament 2023 was played this March in Delhi, India. GM Aravindh Chithambaram Vr. won last round against GM Levan Pantsulaia and finished on first place with 9.5/10. After a win against GM Alexei Fedorov in the last game, GM Luka Paichadze ( 9/10) grabbed the silver. Six players []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aravindh-chithambaram-vr-wins-20th-delhi-international-open-grandmasters-chess-tournament-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 21:02:38 +0000",
-         "title" : "Aravindh Chithambaram Vr. wins 20th Delhi International Open Grandmasters Chess Tournament 2023"
       },
       {
          "description" : "",
@@ -1530,14 +1546,6 @@ news_feed (
          "title" : "Chess: Carlsen set for challenge from US quartet online and over-the-board"
       },
       {
-         "description" : "The Saint Louis Arch Bishops and team Blitz advance to the Playoffs after winning their matches in week five of the 2023 Pro Chess League. They eliminated the Croatia Bulldogs and Canada Chessbrahs, respectively. GM Fabiano Caruana was on fire i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-5-arch-bishops-blitz",
-         "pubDate" : "Thu, 16 Mar 2023 13:37:00 -0700",
-         "title" : "Arch Bishops, Blitz Move To Playoffs; Alice Lee Upsets Super-GM, Caruana Goes 4/4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1832,30 +1840,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-certificates/",
          "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
          "title" : "National Rapid & Blitz Certificates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2274",
-         "pubDate" : "Fri, 10 Mar 2023 16:43:36 +0000",
-         "title" : "FIDE - ISF World School Teams Online Chess Cup postponed"
-      },
-      {
-         "description" : "For the last few weeks I've been running a weekly series on <A HREF=\"https://chessforallages.blogspot.com/2023/02/chesscoms-game-review-tools.html\">Chess.com's Game Review Tools</A> (February 2023). I'll continue with Chess.com, but change the focus. That post mentioned, <BLOCKQUOTE> [Chess.com] has a good reputation for vigorously enforcing its no-engine policy, even if it leads to controversial decisions. </BLOCKQUOTE> <P> I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. It's a real mixed bag. Posts marked '(*)' featured Chess.com. <P> Recent months have seen heavy media interest in the so-called Niemann affair. The entire discussion gets a ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html",
-         "pubDate" : "Fri, 10 Mar 2023 16:13:00 +0000",
-         "title" : "Cheating for all Ages"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2273",
-         "pubDate" : "Fri, 10 Mar 2023 15:57:17 +0000",
-         "title" : "International Women's Day Chess festival held in Tirana, Albania"
       }
    ]
 }
