@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Employing impressive technique in today&#x2019;s second game,&#160;Lei Tingjie&#160;relentlessly jumped back into the match, and with four games to go, the Women&#x2019;s Candidates Final is once again completely open.&#160; After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by&#160;Tan Zhongyi&#160;in severe time trouble put the 1-1 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-2-report-2/",
+         "pubDate" : "Fri, 31 Mar 2023 23:15:00 +0000",
+         "title" : "FIDE Women Candidates - round 2 report"
+      },
+      {
+         "description" : "Tan Zhongyi takes the lead in the six-game Candidates final after defeating Lei Tingjie in one of the most exciting games of the year. Primarily remembered today for his formulation of an atomic theory of the universe, the ancient Greek philosopher Democritus left many quotes for history.&#xA0;&#8220;Boldness is the beginning of an action, but fortune []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-1-report/",
+         "pubDate" : "Fri, 31 Mar 2023 23:05:21 +0000",
+         "title" : "FIDE Women Candidates - round 1 report"
+      },
+      {
+         "description" : "Bibisara Assaubayeva defied the odds and secured a remarkable victory against Polina Shuvalova, despite initially facing an uphill battle. The three other games ended in a draw As the Women's Grand Prix tournament in New Delhi reached its halfway point, Round Six brought an electrifying array of games to the forefront. With all four boards []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-6-report/",
+         "pubDate" : "Fri, 31 Mar 2023 23:00:13 +0000",
+         "title" : "FIDE Women Grand Prix - round 6 report"
+      },
+      {
+         "description" : "The Danish Championship 2023 Master Group will take place from 01-09 April 2023 in Svendborg, Denmark. It will be 9-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will follow live games . Starting []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-championship-2023-master-group/",
+         "pubDate" : "Fri, 31 Mar 2023 22:49:29 +0000",
+         "title" : "Danish Championship 2023 - Master Group"
+      },
+      {
+         "description" : "The 2023 US National High School Championships will bring together the top American High School players. It is a 7-round swiss and will take place from 31 March-2 April 2023 in Washington DC, USA.&#xA0;The players will be given 90 minutes for all moves, with a 10 second delay from move 1. In the tournament will []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-us-national-high-school-championship-live/",
+         "pubDate" : "Fri, 31 Mar 2023 22:37:55 +0000",
+         "title" : "2023 US National High School Championship - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2314",
+         "pubDate" : "Fri, 31 Mar 2023 22:15:16 +0000",
+         "title" : "Aravindh Chithambaram wins 20th edition of New Delhi Open"
+      },
+      {
+         "description" : "After opening the match with back-to-back decisive results, GM Lei Tingjie and GM Tan Zhongyi made their first draw in game three of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Friday. With white, Tan explored a new move out...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-3",
+         "pubDate" : "Fri, 31 Mar 2023 15:01:00 -0700",
+         "title" : "The First Draw: Lei's Perceptive Pawn Sacrifice Equalizes"
+      },
+      {
+         "description" : "Chess.com has launched a search for its new CEO. Current CEO, Erik, co-founded Chess.com in 2006 with his friend and co-founder Jay, and for 17 years has grown the company from an idea to the number-one chess platform with more than 125 million me...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-hiring-new-ceo",
+         "pubDate" : "Fri, 31 Mar 2023 15:00:00 -0700",
+         "title" : "BREAKING: Chess.com Hiring New CEO"
+      },
+      {
+         "description" : "When they hear 'Reykjavik Open', many chess players spontaneously express the wish to be there. Our author Gerd Densing belongs to this group: he is currently in the Icelandic capital, playing in the tournament, writing and taking photographs. In the first three rounds, he has met not only the rating favourite, Vasyl Ivanchuk (photo), but also many other interesting personalities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/impressions-reykjavik-open-2023",
+         "pubDate" : "Fri, 31 Mar 2023 23:00:00 +0100",
+         "title" : "Impressions from the Reykjavik Open"
+      },
+      {
+         "description" : "Keanu Reeves is a favorite as an actor and as a person to many. But if he has not conquered your heart and mind yet, wait until you hear this. Keanu Reeves is an avid and strong chess player! &#8220;I&#x2019;ve been playing some chess. It&#x2019;s a competitive game. I don&#x2019;t think you walk to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/keanu-reeves-is-an-avid-chess-player-tweetoftheday/",
+         "pubDate" : "Fri, 31 Mar 2023 19:43:08 +0000",
+         "title" : "Keanu Reeves is an avid chess player #TweetOftheDay"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #561, Merijn van Delft focuses his attention on Leon Luke Mendonca, who recently scored a perfect 9 out of 9 in Slovenia. In one of his wins, against Sabino Brunello, the youngster successfully combined his positional approach with tactical alertness. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello",
+         "pubDate" : "Fri, 31 Mar 2023 20:00:00 +0100",
+         "title" : "Game of the Week #561: L. Mendonca - S. Brunello"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -98,14 +186,6 @@ news_feed (
          "title" : "2023 Oceania Junior and Youth Update"
       },
       {
-         "description" : "The popular chess streamer Anna Cramling hit the main page of CNN with an interview regarding women's experience in chess. CNN commented, &#x201C;With multiple women coming forward about their disturbing experiences in the chess world, including accusations of sexual misconduct by a grandmaster, the historic game is having its own #MeToo moment.&#x201D; Yet, instead of []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lamentable-reactions-to-anna-cramlings-cnn-interview/",
-         "pubDate" : "Fri, 31 Mar 2023 12:04:54 +0000",
-         "title" : "Lamentable reactions to Anna Cramling's CNN interview"
-      },
-      {
          "description" : "Former FIDE World Chess Champion Alexander Khalifman was asked for predictions about the upcoming World Championship match between Ian Nepomniachtchi and Ding Liren. He talks about their strengths and weaknesses, and also about Magnus Carlsen's decision not to defend his title. Khalifman claims Magnus has a talent that only Jose Capablanca, Anatoly Karpov and to some extent Vasily Smyslov shared.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -122,52 +202,12 @@ news_feed (
          "title" : "Back to the classroom - London Chess Conference"
       },
       {
-         "description" : "The 2004, 2015, and 2021 Ukraine Champion Andriy Volokitin is the winner of the UK vs Ukraine Solidarity match. The 8-game match took place in London between English no. 1 Mickey Adams and 3-times Ukrainian Champion Andriy Volokitin. The match is organized by Chess in Schools and Communities and will be held half in the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/volokitin-wins-the-uk-vs-ukraine-solidarity-match/",
-         "pubDate" : "Fri, 31 Mar 2023 11:31:42 +0000",
-         "title" : "Volokitin wins the UK vs Ukraine Solidarity Match"
-      },
-      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
          "pubDate" : "Fri, 31 Mar 2023 11:30:00 +0100",
          "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
-         "description" : "The Uruguayan&#xA0;Championship 2023 will take place from 31 March to 08 April 2023 in Montevideo, Uruguay. It will be 11-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uruguayan-championship-2023-live/",
-         "pubDate" : "Fri, 31 Mar 2023 09:45:07 +0000",
-         "title" : "Uruguayan Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Uruguayan&#xA0;Championship 2023 will take place from 31 March to 08 April 2023 in Montevideo, Uruguay. It will be 11-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will follow live games . List []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/uruguayan-championship-2023/",
-         "pubDate" : "Fri, 31 Mar 2023 09:43:41 +0000",
-         "title" : "Uruguayan Championship 2023"
-      },
-      {
-         "description" : "Bibisara Assaubayeva claims victory over local star&#160;Vaishali Rameshbabu, in the first decisive game played in New Delhi. The remaining three games ended in a draw The warm weather of New Delhi at 32 degrees Celsius could not deter the players from their game, as they battled it out in the second round of the Women's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-2-report/",
-         "pubDate" : "Fri, 31 Mar 2023 08:56:07 +0000",
-         "title" : "FIDE Women Grand Prix - round 2 report"
-      },
-      {
-         "description" : "All four games played in the first round of the Women&#x2019;s Grand Prix in New Delhi ended with a draw. IM Vaishali R won on default after Elisabeth Paehtz decided to withdraw from the tournament. Bharat Singh Chauhan, Chairman of FIDE&#x2019;s Advisory Board and Secretary of the All India Chess Federation, made the ceremonial first []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-round-1-repor/",
-         "pubDate" : "Fri, 31 Mar 2023 08:45:47 +0000",
-         "title" : "FIDE Women Grand Prix - round 1 report"
       },
       {
          "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
@@ -994,22 +1034,6 @@ news_feed (
          "title" : "So and Lee earn shot at American Cup revenge"
       },
       {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how to use them best, like a craftsman knows their tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't use the queen just for defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-1-2",
-         "pubDate" : "Fri, 24 Mar 2023 14:05:00 +0100",
-         "title" : "Jan Markos: Middlegame Secrets Vol.1 + 2"
-      },
-      {
-         "description" : "The historic Sparkassen Chess Trophy will celebrate its golden jubilee edition this year. The 50th Dortmund Chess Days Festival will take place from June 24 to July 2 at the Westfalenhallen Goldsaal in Dortmund, Germany. The NC World Masters will feature the 14th world champion Vladimir Kramnik, former World Championship challenger Fabiano Caruana, defending champion Dmitrij Kollars, and the winner of the two previous editions of the Deutschland Grand Prix, Pavel Eljanov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nc-masters-dortmund-2023-announcement",
-         "pubDate" : "Fri, 24 Mar 2023 14:00:00 +0100",
-         "title" : "No-Castling Masters: Kramnik and Caruana will play in Dortmund"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1472,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-launches-game-review-v2",
          "pubDate" : "Fri, 17 Mar 2023 15:12:00 -0700",
          "title" : "Announcing New Game Review Features: Visual Explanations, New Move Classifications, And More!"
-      },
-      {
-         "description" : "Team MGD1 made it to the playoffs after eliminating the Garden State Passers in week five of the 2023 Pro Chess League. This was the last match of the regular season. Board three, GM Diptayan Ghosh, scored the most points with 3/4, but every mem...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-week-5-mgd1",
-         "pubDate" : "Fri, 17 Mar 2023 11:06:00 -0700",
-         "title" : "Never In Doubt: Team MGD1 Dominates Passers, Advances To Playoffs"
       },
       {
          "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
