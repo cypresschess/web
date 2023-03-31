@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Employing impressive technique in the second game, Lei Tingjie relentlessly jumped back into the match at the Women's Candidates Final in Chongqing. After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by Tan Zhongyi in severe time trouble put the 1-1 result on the scoreboard. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g2",
+         "pubDate" : "Fri, 31 Mar 2023 02:20:00 +0100",
+         "title" : "Women's Candidates: Lei grinds down Tan and ties the match"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/scholastic-programs-saint-louis-chess-club-chess-shorts",
+         "pubDate" : "Fri, 31 Mar 2023 00:15:00 +0000",
+         "title" : "Scholastic Programs at the Saint Louis Chess Club #Chess #Shorts"
+      },
+      {
          "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -242,14 +258,6 @@ news_feed (
          "title" : "FIDE Development Fund 2023 is now open"
       },
       {
-         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
-         "pubDate" : "Thu, 30 Mar 2023 09:00:00 +0100",
-         "title" : "Women's Candidates Final - Live!"
-      },
-      {
          "description" : "After 11 thrilling rounds at the European Women's Chess Championship 2023 two players emerged on the top tying for the first place with 8.5 points, each: IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406). Thanks to her 8th round victory in direct encounter against the Polish representative, IM Meri Arabidze clinched the European Women's Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -456,14 +464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2302",
          "pubDate" : "Tue, 28 Mar 2023 17:30:53 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 3 recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <strong>SAINT LOUIS, March 28, 2023 -</strong> Grandmasters Hikaru Nakamura and Irina Krush bested a field of elite chess players from across the United States to take top honors in the 2023 Open and Women's American Cup tournaments, respectively. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-category field-type-entityreference field-label-hidden field-wrapper\">News</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmaster-hikaru-nakamura-and-grandmaster-irina-krush-win-second-annual-american-cup",
-         "pubDate" : "Tue, 28 Mar 2023 16:31:08 +0000",
-         "title" : "Grandmaster Hikaru Nakamura and Grandmaster Irina Krush Win The Second Annual American Cup"
       },
       {
          "description" : "16-year-old Dommaraju Gukesh is one of the brightest talents of India and World Chess. He is now World no.18 with a FIDE Rating of 2730. The current India no.2 graced the ChessBase India Chess Club with his presence on Saturday, 18th March 2023. There was a big challenge in front of him - he was to give a simultaneous exhibition to 21 players, with the top five seeds having an Elo rating of over 2000. The spectacular even simul was held at the Phoenix Marketcity Mall in Mumbai. | Photo: Abhyudaya Ram",
@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/10/chess-carlsen-draws-final-classical-game-as-world-champion-against-howell",
          "pubDate" : "Fri, 10 Mar 2023 08:00:45 +0000",
          "title" : "Chess: Carlsen draws final classical game as world champion against Howell"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2272",
-         "pubDate" : "Fri, 10 Mar 2023 02:28:40 +0000",
-         "title" : "EICC 2023, R07: Korobov retakes the lead"
       }
    ]
 }
