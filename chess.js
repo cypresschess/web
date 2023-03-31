@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I had the incredible opportunity to interview R.B. Ramesh, one of the world's most renowned and accomplished chess coaches. Ramesh has trained many of India's top players, including former World Champion Vishwanathan Anand, and has helped mold the country into a chess powerhouse. In our interview, Ramesh shared his insights on a range of topics, from his early days in chess to his coaching philosophy and techniques. He also discussed the challenges of coaching at the highest level and the importance of mental preparation in chess. With his vast knowledge and experience, Ramesh provided invaluable insights into what it takes to become a successful chess player, both on and off the board. Over",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-the-pep-guardiola-of-chess-r-b-ramesh",
+         "pubDate" : "Fri, 31 Mar 2023 17:00:00 +0100",
+         "title" : "Interview with the Pep Guardiola of chess - R. B. Ramesh"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-1",
+         "pubDate" : "Fri, 31 Mar 2023 15:30:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Queen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2312",
+         "pubDate" : "Fri, 31 Mar 2023 14:01:09 +0000",
+         "title" : "WCF Game Recap 3: 98% precision in Chongqing! "
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
+         "pubDate" : "Fri, 31 Mar 2023 13:59:06 +0000",
+         "title" : "Nepo - Ding 2023 , game 1 LIVE"
+      },
+      {
+         "description" : "The World Chess Championship 2023 is taking place from 7 April to 1 May 2023 to determine the new World Chess Champion. The match will be held in Astana, Kazakhstan and Chessdom.com will have daily live coverage with commentary by top GMs and computer analysis. The world champion Magnus Carlsen decided not to defend his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-chess-championship-2023-live/",
+         "pubDate" : "Fri, 31 Mar 2023 13:52:56 +0000",
+         "title" : "World Chess Championship 2023 LIVE"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Development Fund</strong> has <a href=\"https://pdc.fide.com/2023/03/24/2023-fide-development-fund-cycle-is-open/\">amended the application process</a> and therefore opened it later than usual for 2023 with submissions open until 31 October. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/development-fund-invites-applicants/",
+         "pubDate" : "Fri, 31 Mar 2023 14:47:01 +0100",
+         "title" : "Development Fund invites applicants"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Nicosia, the capital of Cyprus, <a href=\"https://fide.com/news/2309\">will host</a> the fourth and final <strong>Women Grand Prix</strong> thanks to another sponsorship of <strong>Timur Turlov</strong>'s <strong>Freedom Finance</strong> that has a subsidiary on Cyprus. With all four Russians among its participants the Ukrainians <strong>Anna and Mariya Muzychuk</strong> will likely drop out and be replaced by <strong>FIDE</strong>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2023/turlov-sponsors-final-women-gp/",
+         "pubDate" : "Fri, 31 Mar 2023 14:35:04 +0100",
+         "title" : "Turlov sponsors final Women GP"
+      },
+      {
+         "description" : " Just a quick update on the 2023 Oceania Junior and Youth Championships. Current entries are getting up to 140 players, and there is a hard limit of 200 players for the tournament (due to the venue size). The good news is that while some age groups will have to be merged, this will make the awarding of direct titles easier. Under the relevant FIDE regulations, if an age section has less than 8 players or has less than 3 federations involved, the section will be merged with the next section (almost always moving up). In the merged section, the lower group only requires 6 players and two federations to be present for titles to be awarded for that age group. As it now stands, this means all of ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/03/2023-oceania-junior-and-youth-update.html",
+         "pubDate" : "Fri, 31 Mar 2023 12:43:00 +0000",
+         "title" : "2023 Oceania Junior and Youth Update"
+      },
+      {
+         "description" : "The popular chess streamer Anna Cramling hit the main page of CNN with an interview regarding women's experience in chess. CNN commented, &#x201C;With multiple women coming forward about their disturbing experiences in the chess world, including accusations of sexual misconduct by a grandmaster, the historic game is having its own #MeToo moment.&#x201D; Yet, instead of []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lamentable-reactions-to-anna-cramlings-cnn-interview/",
+         "pubDate" : "Fri, 31 Mar 2023 12:04:54 +0000",
+         "title" : "Lamentable reactions to Anna Cramling's CNN interview"
+      },
+      {
+         "description" : "Former FIDE World Chess Champion Alexander Khalifman was asked for predictions about the upcoming World Championship match between Ian Nepomniachtchi and Ding Liren. He talks about their strengths and weaknesses, and also about Magnus Carlsen's decision not to defend his title. Khalifman claims Magnus has a talent that only Jose Capablanca, Anatoly Karpov and to some extent Vasily Smyslov shared.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/khalifman-you-shouldn-t-give-up-the-title-without-a-fight",
+         "pubDate" : "Fri, 31 Mar 2023 12:04:04 +0000",
+         "title" : "Khalifman: \"You shouldn't give up the title without a fight\""
+      },
+      {
          "description" : "Stefan L&ouml;ffler was involved as a facilitator at the 2023 London Chess Conference. He was the founding director of the conference in 2013 and used to be in charge of the programme until 2019. Here he reports from a breakthrough edition which established how chess enhances 21st century skills, interest in STEM subjects and even pre-school education. | Pictured: Rita Atkins, John Foley and Dana Reizniece-Osola | Photo: John Yip",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/back-to-classroom-london-chess-conference",
          "pubDate" : "Fri, 31 Mar 2023 13:00:00 +0100",
          "title" : "Back to the classroom - London Chess Conference"
+      },
+      {
+         "description" : "The 2004, 2015, and 2021 Ukraine Champion Andriy Volokitin is the winner of the UK vs Ukraine Solidarity match. The 8-game match took place in London between English no. 1 Mickey Adams and 3-times Ukrainian Champion Andriy Volokitin. The match is organized by Chess in Schools and Communities and will be held half in the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/volokitin-wins-the-uk-vs-ukraine-solidarity-match/",
+         "pubDate" : "Fri, 31 Mar 2023 11:31:42 +0000",
+         "title" : "Volokitin wins the UK vs Ukraine Solidarity Match"
       },
       {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
@@ -66,7 +154,7 @@ news_feed (
          "title" : "Women's Candidates Final - Live!"
       },
       {
-         "description" : " The five-time US champion, whose main career is as a streamer with more than a million followers, defeated fellow world top-10 player Wesley So in a bruising final Hikaru Nakamura, who combines streaming to over a million followers with a comeback to classical chess in his mid-30s, has won the American Cup, a $200,000 knockout including $60,000 for the winner. The defeated finalist, Wesley So, snatched a poisoned pawn and lost his queen in <a href=\"https://www.chessgames.com/perl/chessgame?gid=2466280\" title=\"\">a 19-move decider</a>. The five-time US champion, 35, won through a bruising trilogy of matches at St Louis to defeat his fellow world top-10 GM. Nakamura had hoped that the competit",
+         "description" : " The five-time US champion, whose main career is as a streamer with more than a million followers, defeated fellow world top-10 player Wesley So in a bruising final Hikaru Nakamura, who combines streaming to over a million followers with a comeback to classical chess in his mid-30s, has won the American Cup, a $200,000 knockout including $60,000 for the winner. The defeated finalist, Wesley So, snatched a poisoned pawn and lost his queen in <a href=\"https://www.chessgames.com/perl/chessgame?gid=2466280\" title=\"\">a 19-move decider</a>. The 35-year-old five-time US champion won through a bruising trilogy of matches at St Louis to defeat his fellow world top-10 GM. Nakamura had hoped that the c",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/mar/31/chess-hikaru-nakamura-traps-a-queen-and-wins-60000-in-st-louis",
@@ -194,22 +282,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: Tan and Lei keep it sharp"
       },
       {
-         "description" : "The Reykjavik Open 2023 has collected a constellation of streamers, including Alexandra Botez, Dina Belenkaya, Gringer GM, and Anna Cramling (who just hit the main page of CNN with an interview) Dina Belenkaya hits the #TweetOftheDay section with a humorous take on a photo from Reykjavik, replacing Carlsen's and Karjakin's items from yesterday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/behind-every-great-chess-woman-tweetoftheday/",
-         "pubDate" : "Thu, 30 Mar 2023 15:31:32 +0000",
-         "title" : "Behind every great chess woman #TweetOftheDay"
-      },
-      {
-         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;The total prize fund of 2023's edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ii-open-internacional-chess-menorca-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 15:23:27 +0000",
-         "title" : "II Open Internacional Chess Menorca 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,14 +298,6 @@ news_feed (
          "title" : "Saint Louis Chess Club: The Best in the U.S."
       },
       {
-         "description" : "&#8220;Being a woman in chess can feel &#x2018;lonely&#x2019;&#8221;, says streamer Anna Cramling in her interview for CNN. Currently playing the Reykjavik Open 2023 (follow live here / see her result in round 1), Anna is back on the board. She started playing again less than an year ago after the long Covid isolation, where she []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/interview-with-anna-cramling-for-cnn-about-her-experiences-as-a-chess-player/",
-         "pubDate" : "Thu, 30 Mar 2023 15:00:01 +0000",
-         "title" : "Interview with Anna Cramling for CNN about her experiences as a chess player"
-      },
-      {
          "description" : "The European Women's Championship came to an end on Wednesday in Petrovac, Montenegro. Since the games on the top boards finished drawn - albeit not without a fight - nothing changed in the standings relative to the previous rounds. Meri Arabidze from Georgia and Oliwia Kiolbasa from Poland tied for first place on 8&frac12;/11 points. Arabidze was declared the champion thanks to her victory over Kiolbasa in round 8. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2309",
          "pubDate" : "Thu, 30 Mar 2023 14:37:28 +0000",
          "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "The 65th Southend Easter Chess Congress FIDE Open 2023 will take place from 07-10 April 2023 in Southend, England. The tournament format is 7-round Swiss system with time control 90 minutes plus a 30-second increment starting from move one. In the list below you can see all 34 registered players : Rk. SNo &#160; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/65th-southend-easter-chess-congress-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 14:34:51 +0000",
-         "title" : "65th Southend Easter Chess Congress 2023"
       },
       {
          "description" : "",
@@ -962,14 +1018,6 @@ news_feed (
          "title" : "IM Oliwia Kiolbasa in the sole lead at European Women's Chess Championship 2023 - Round 6 report"
       },
       {
-         "description" : "In his \"Game of the Week\" show #560, Merijn van Delft goes through an unconventional battle from the American Cup. The game between Leinier Dominguez and Hikaru Nakamura featured a sharp opening choice, a complex middlegame and a number of non-standard decisions. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-560-dominguez-nakamura",
-         "pubDate" : "Fri, 24 Mar 2023 11:00:00 +0100",
-         "title" : "Game of the Week #560: L. Dominguez - H. Nakamura"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900_1.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1090,14 +1138,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Seven"
       },
       {
-         "description" : "Wesley So and Alice Lee qualified to the American Cup's grand finals in the open and women's sections respectively. So knocked out Levon Aronian, while Lee eliminated Nazi Paikidze. In both cases, after 1-1 draws in the 25-minute games, the winners prevailed in the second set of tiebreakers, played with a 10-minute time control. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d7",
-         "pubDate" : "Fri, 24 Mar 2023 06:10:00 +0100",
-         "title" : "American Cup: So and Lee remain in contention"
-      },
-      {
          "description" : "This is to you inform you that AICF will announced Medical Evaluation details for North Eastern States soon . In view of this all concerned",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1162,14 +1202,6 @@ news_feed (
          "title" : "Former World Champ Roars Back With Big Win In Tuesday Blitz"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> An analysis of games by professional go players, <a href=\"https://www.pnas.org/doi/full/10.1073/pnas.2214840120\">published</a> in <strong>PNAS</strong>, shows that the appearance of <strong>DeepMind's AlphaGo</strong> in 2016 led to novel strategies, accelerated innovation and generally improved decision-making in the game of go. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/big-ai-impact-on-go-play/",
-         "pubDate" : "Wed, 22 Mar 2023 15:30:54 +0100",
-         "title" : "Big AI impact on Go play"
-      },
-      {
          "description" : " I'm currently in Nova Gorica in Slovenia and had the privilege of playing against Alexander Beliavsky with Black. This was always going to be a tough assignment, especially when I chose to play an opening in which he is an acknowledged expert, the Queen's Gambit Declined. Although I haven't had a massive amount of personal <a href=\"https://chessimprover.com/black-against-beliavsky/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Black against Beliavsky\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/black-against-beliavsky/\">Black against Beliavsky</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1216,14 +1248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-5",
          "pubDate" : "Tue, 21 Mar 2023 21:45:00 -0700",
          "title" : "Aronian Eliminates Caruana In Thrilling Armageddon Playoff"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Connecticut-based hedge fund <strong>WorldQuant</strong> <a href=\"https://championschesstour.com/worldquant-partners-with-chess-com/\">becomes partner</a> of the <strong>Champions Chess Tour</strong> and the <strong>Chess.com</strong> world championship broadcast to promote financial education and its own <strong><a href=\"https://www.worldquant.com/brain/iqc/\">World Quant Championship</a></strong>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/worldquant-sponsors-online-chess/",
-         "pubDate" : "Tue, 21 Mar 2023 19:34:48 +0100",
-         "title" : "WorldQuant sponsors online chess"
       },
       {
          "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
@@ -1832,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2273",
          "pubDate" : "Fri, 10 Mar 2023 15:57:17 +0000",
          "title" : "International Women's Day Chess festival held in Tirana, Albania"
-      },
-      {
-         "description" : "A Senior National Arbiter Seminar &#38; Examination was organised by Sivakasi Chess Club, on bejhalf of All India Chess Federation, Tamil Nadu State Chess Association",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-and-examination-sivakasi-from-4-to-5-march-2023-final-report/",
-         "pubDate" : "Fri, 10 Mar 2023 15:08:33 +0000",
-         "title" : "Senior National Arbiter Seminar and Examination, Sivakasi from 4 to 5 March 2023 : Final Report"
-      },
-      {
-         "description" : " One of Australia's biggest (on longest running) events, begins tomorrow. The 2023 Ballarat Begonia Open runs over the next three days, and has attracted record field of over 220 players (smashing last years record). The 7 round event is being played in 1 section (with accelerated pairings), with 2 games on Saturday, 3 on Sunday and 2 on Monday. There will be live coverage of the top boards. Standings, details and games can be found at <a href=\"https://www.ballaratchess.com/begonia/2023/index.html\">https://www.ballaratchess.com/begonia/2023/index.html</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/2023-ballarat-begonia-open.html",
-         "pubDate" : "Fri, 10 Mar 2023 12:18:00 +0000",
-         "title" : "2023 Ballarat Begonia Open"
       }
    ]
 }
