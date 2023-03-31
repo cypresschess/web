@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Stefan L&ouml;ffler was involved as a facilitator at the 2023 London Chess Conference. He was the founding director of the conference in 2013 and used to be in charge of the programme until 2019. Here he reports from a breakthrough edition which established how chess enhances 21st century skills, interest in STEM subjects and even pre-school education. | Pictured: Rita Atkins, John Foley and Dana Reizniece-Osola | Photo: John Yip",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/back-to-classroom-london-chess-conference",
+         "pubDate" : "Fri, 31 Mar 2023 13:00:00 +0100",
+         "title" : "Back to the classroom - London Chess Conference"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Fri, 31 Mar 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The Uruguayan&#xA0;Championship 2023 will take place from 31 March to 08 April 2023 in Montevideo, Uruguay. It will be 11-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uruguayan-championship-2023-live/",
+         "pubDate" : "Fri, 31 Mar 2023 09:45:07 +0000",
+         "title" : "Uruguayan Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Uruguayan&#xA0;Championship 2023 will take place from 31 March to 08 April 2023 in Montevideo, Uruguay. It will be 11-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Chessdom.com will follow live games . List []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/uruguayan-championship-2023/",
+         "pubDate" : "Fri, 31 Mar 2023 09:43:41 +0000",
+         "title" : "Uruguayan Championship 2023"
+      },
+      {
+         "description" : "Bibisara Assaubayeva claims victory over local star&#160;Vaishali Rameshbabu, in the first decisive game played in New Delhi. The remaining three games ended in a draw The warm weather of New Delhi at 32 degrees Celsius could not deter the players from their game, as they battled it out in the second round of the Women's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-2-report/",
+         "pubDate" : "Fri, 31 Mar 2023 08:56:07 +0000",
+         "title" : "FIDE Women Candidates - round 2 report"
+      },
+      {
+         "description" : "All four games played in the first round of the Women&#x2019;s Grand Prix in New Delhi ended with a draw. IM Vaishali R won on default after Elisabeth Paehtz decided to withdraw from the tournament. Bharat Singh Chauhan, Chairman of FIDE&#x2019;s Advisory Board and Secretary of the All India Chess Federation, made the ceremonial first []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-round-1-repor/",
+         "pubDate" : "Fri, 31 Mar 2023 08:45:47 +0000",
+         "title" : "FIDE Women Candidates - round 1 report"
+      },
+      {
+         "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-eight/",
+         "pubDate" : "Fri, 31 Mar 2023 08:24:38 +0000",
+         "title" : "A Foundation for Beginners Eighty Eight"
+      },
+      {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g2",
          "pubDate" : "Fri, 31 Mar 2023 02:20:00 +0100",
          "title" : "Women's Candidates: Lei grinds down Tan and ties the match"
+      },
+      {
+         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
+         "pubDate" : "Fri, 31 Mar 2023 00:17:00 +0000",
+         "title" : "Reykjavik Chess Open 2023 LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
@@ -74,7 +138,7 @@ news_feed (
          "title" : "Saint Louis Chess Club: America's Premier Facility #Chess # Shorts"
       },
       {
-         "description" : "The 20th Delhi International Open Grandmasters Chess Tournament 2023 was played this March in Delhi, India. GM Aravindh Chithambaram Vr. won last round against GM Levan Pantsulaia and finished on first place with 9.5/10. After a win against GM Alexei Fedorov in last game, GM Luka Paichadze ( 9/10) grabbed the second place. Six players []",
+         "description" : "The 20th Delhi International Open Grandmasters Chess Tournament 2023 was played this March in Delhi, India. GM Aravindh Chithambaram Vr. won last round against GM Levan Pantsulaia and finished on first place with 9.5/10. After a win against GM Alexei Fedorov in the last game, GM Luka Paichadze ( 9/10) grabbed the silver. Six players []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/aravindh-chithambaram-vr-wins-20th-delhi-international-open-grandmasters-chess-tournament-2023/",
@@ -194,14 +258,6 @@ news_feed (
          "title" : "65th Southend Easter Chess Congress 2023"
       },
       {
-         "description" : "The Southend Masters 2023 (GM Title Norms) will take place from 06-10 April 2023 in Southend Adult Community College, Ambleside Drive, Southend-on-Sea, England. It will be 9-round Robin tournament valid for GM Norm. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; List of players : No. &#160; Name FED Rtg []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/southend-masters-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 14:29:24 +0000",
-         "title" : "Southend Masters 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -226,44 +282,12 @@ news_feed (
          "title" : "Interview with a great talent of India - GM Iniyan"
       },
       {
-         "description" : "The final stage of Israel Youth Chess Championships 2023 will take place from 28 March 2023 to 04 April 2023 in Rishon le Zion, Israel. The tournament is separated in 10 different categories Open U18, Open U16, Open U14, Open U12, Open U10, Open U8, Girls 16-18, Girls U14, Girls U12 and Girls U10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israel-youth-chess-championships-2023-live/",
-         "pubDate" : "Thu, 30 Mar 2023 11:28:21 +0000",
-         "title" : "Israel Youth Chess Championships 2023 - LIVE"
-      },
-      {
-         "description" : "The final stage of Israel Youth Chess Championships 2023 will take place from 28 March 2023 to 04 April 2023 in Rishon le Zion, Israel. The tournament is separated in 10 different categories Open U18, Open U16, Open U14, Open U12, Open U10, Open U8, Girls 16-18, Girls U14, Girls U12 and Girls U10 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/israel-youth-chess-championships-2023-finals/",
-         "pubDate" : "Thu, 30 Mar 2023 11:23:25 +0000",
-         "title" : "Israel Youth Chess Championships 2023 - Finals"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2308",
          "pubDate" : "Thu, 30 Mar 2023 11:19:07 +0000",
          "title" : "Meri Arabidze clinches European Women's Chess Championship 2023"
-      },
-      {
-         "description" : "The Kenya Open Chess Championship 2023 will take place from 06-10 April 2023 in Sarit Centre , Nairobi, Kenya. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament will be played in 9-round Swiss system. The total prize fund for Ladies section of Kenya Open Chess Championship 2023 is 14 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kenya-open-chess-championship-2023-ladies-section/",
-         "pubDate" : "Thu, 30 Mar 2023 11:05:54 +0000",
-         "title" : "Kenya Open Chess Championship 2023 - Ladies section"
-      },
-      {
-         "description" : "The Kenya Open Chess Championship 2023 will take place from 06-10 April 2023 in Sarit Centre , Nairobi, Kenya. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament will be played in 9-round Swiss system. The total prize fund of Kenya Open Chess Championship 2023 is 42 000 USD. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kenya-open-chess-championship-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 10:58:56 +0000",
-         "title" : "Kenya Open Chess Championship 2023"
       },
       {
          "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
@@ -1074,22 +1098,6 @@ news_feed (
          "title" : "American Cup: So and Lee remain in contention"
       },
       {
-         "description" : "Leon Luke Mendonca has won the 2023 Hit Open with a round to spare after scoring eight wins in as many games. In the penultimate round, the teenager defeated GM Nigel Davies in just 19 movies. The veteran grandmaster from England neglected the safety of his king and paid a heavy price for it. The youngster from Goa turned 17 years old just ten days ago. | Photo: Nova Garica Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-wins-hit-open-2023",
-         "pubDate" : "Thu, 23 Mar 2023 18:35:00 +0100",
-         "title" : "Leon Mendonca wins eight games in a row, secures first place at Hit Open"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris analyses the fascinating Kalashnikov battle between Leinier Dominguez and Hikaru Nakamura. An absolute model game from Black's perspective, as it shows that having the bishop pair doesn't guarantee an automatic advantage! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-fascinating-battle-kalashnikov",
-         "pubDate" : "Thu, 23 Mar 2023 18:30:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: A fascinating battle in the Kalashnikov"
-      },
-      {
          "description" : "This is to you inform you that AICF will announced Medical Evaluation details for North Eastern States soon . In view of this all concerned",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1178,7 +1186,7 @@ news_feed (
          "title" : "Levon Aronian beats Fabiano Caruana in Armageddon"
       },
       {
-         "description" : " Two pawns abreast was some simple positional advice i once heard spoken by IM Robert Jamieson. Having central pawns side by side usually serves two purposes. The first is to efficiently cover the 4 squares in front of them, and the second is to support the necessary pawn break often needed to transform the position into a better on. On the following rapid game, I had the former, but not the later. But this was because my opponent felt the lack of space in his position required a pawn grab, which unfortunately for him, was unsound. <br /> <b>Press,Shaun - Rowe,Arief [D06]</b><br />Gungahlin Rapid (1), 21.03.2023 <script>new PgnViewer( { boardName: \"game1389\", movesFormat: \"default\", pgnStrin",
+         "description" : " Two pawns abreast was some simple positional advice i once heard spoken by IM Robert Jamieson. Having central pawns side by side usually serves two purposes. The first is to efficiently cover the 4 squares in front of them, and the second is to support the necessary pawn break often needed to transform the position into a better on. On the following rapid game, I had the former, but not the later. But this was because my opponent felt the lack of space in his position required a pawn grab, which unfortunately for him, was unsound. <br /> <b>Press,Shaun - Rowe,Arief [D06]</b><br /> Gungahlin Rapid (1), 21.03.2023 <script> new PgnViewer( { boardName: \"game1389\", movesFormat: \"default\", pgnStr",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/the-phalanx.html",
@@ -1282,7 +1290,7 @@ news_feed (
          "title" : "TCEC S24 DivP, CCC20 Blitz Final : Both Underway"
       },
       {
-         "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br />URS-ch U18 Leningrad, 1946 <script>new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e3 ",
+         "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br /> URS-ch U18 Leningrad, 1946 <script> new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/game-1.html",
@@ -1538,7 +1546,7 @@ news_feed (
          "title" : "FIDE President visits Saudi Arabia"
       },
       {
-         "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br />23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script>new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /><br /><div id=\"game1386-container\"></div><div i",
+         "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br /> 23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script> new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <div id=\"game1386-container\"> </div> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/when-you-find-yourself-on-board-236.html",
@@ -1722,7 +1730,7 @@ news_feed (
          "title" : "I Should Just Focus on the Chess"
       },
       {
-         "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br />Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script>new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 ",
+         "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br /> Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script> new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/potter.html",
@@ -1762,7 +1770,7 @@ news_feed (
          "title" : "The Chess Drum on \"Talking Talent\""
       },
       {
-         "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br />Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script>new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh5 ",
+         "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br /> Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script> new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/03/the-only-move-is-best-move.html",
@@ -1800,14 +1808,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-certificates/",
          "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
          "title" : "National Rapid & Blitz Certificates"
-      },
-      {
-         "description" : " Last week, we played through a position that employed a fork. In our example, Black seemed to have a decent fork that should have won material. However, that tactic didn't come to fruition because White was able get out of the tactical stranglehold easily. This week, I want to talk about a few ideas examined <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Six\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-six/\">A Foundation for Beginners Eighty Six</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-six/",
-         "pubDate" : "Fri, 10 Mar 2023 18:05:48 +0000",
-         "title" : "A Foundation for Beginners Eighty Six"
       },
       {
          "description" : "",
@@ -1848,22 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-ballarat-begonia-open.html",
          "pubDate" : "Fri, 10 Mar 2023 12:18:00 +0000",
          "title" : "2023 Ballarat Begonia Open"
-      },
-      {
-         "description" : "Magnus Carlsen lost only his second game in the 2023 Pro Chess League, to Aleksandr Shimanov, as the Canada Chessbrahs lost to the Levitov Chess Wizards and will now have to win on demand next week to reach the Playoffs. The Shanghai Tigers, featuring Ju Wenjun and Wei Yi, joined the Wizards in booking a Playoff place after a comeback win.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/chessbrahs-on-brink-as-carlsen-suffers-rare-pro-chess-league-loss",
-         "pubDate" : "Fri, 10 Mar 2023 11:24:24 +0000",
-         "title" : "Chessbrahs on brink as Carlsen suffers Pro Chess League loss"
-      },
-      {
-         "description" : " The 32-year-old, who is abdicating his world crown, chose the Norwegian League for his last three classical games and will not play the format again until late May Magnus Carlsen chose last weekend's Norwegian League in Oslo for his three final classical games as world champion. The world No 1 scored two wins as White, one where <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/1/1/1\" title=\"\">he crushed his opponent</a> and the other an endgame grind <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/2/1/1\" title=\"\">transforming a draw into a win</a> before <a href=\"https://chess24.com/en/watch/live-tournaments/eliteserien-2022-2023/3/1/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/mar/10/chess-carlsen-draws-final-classical-game-as-world-champion-against-howell",
-         "pubDate" : "Fri, 10 Mar 2023 08:00:45 +0000",
-         "title" : "Chess: Carlsen draws final classical game as world champion against Howell"
       }
    ]
 }
