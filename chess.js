@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In today's episode, we will delve into an astonishing upset from the first round of the Reykjav&iacute;k Open 2023, where a relatively unknown Norwegian with the Black pieces defied all odds by defeating an opponent with a staggering 400 Elo rating advantage. IM Robert Ris will expertly dissect the game, revealing the critical moments and ingenious strategies that led to this David versus Goliath victory. Get ready to be inspired by the power of perseverance and the beauty of the unexpected as we explore this thrilling upset together.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavk-open-upset-in-round-1-400-elo-difference-when-the-underdog-wins",
+         "pubDate" : "Sat, 01 Apr 2023 14:30:00 +0100",
+         "title" : "Reykjav&iacute;k Open upset - 400 Elo difference. When the underdog wins!"
+      },
+      {
+         "description" : "Chessaball is the new chess study tool that revolutionizes the market and it is finally available worldwide! Chessaball provides customizable training with your favorite Chessable Authors. Due to extraordinary demand, the official Chessaball website is no longer taking orders. But check out these great Chessable courses instead! While waiting for the new delivery of Chessaball, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessaball-with-special-discount/",
+         "pubDate" : "Sat, 01 Apr 2023 13:10:12 +0000",
+         "title" : "Chessaball - with special discount!"
+      },
+      {
+         "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
+         "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
+         "title" : "Milton's cosmic game of chess"
+      },
+      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Senior National Arbiter Seminar, Pune Certificates"
       },
       {
-         "description" : "They say that the sun always shines after a storm. In the wake of two days of excitement and ups and downs, this afternoon&#x2019;s third game in Chongqing was an oasis of peace and tranquillity. After three of the six scheduled classical games, the Women&#x2019;s Candidates final is now tied 1.5-1.5. Playing with White,&#xA0;Tan Zhongyi&#xA0;switched []",
+         "description" : "They say that the sun always shines after a storm. In the wake of two days of excitement and ups and downs, this afternoon&#x2019;s third game in Chongqing was an oasis of peace and tranquillity. After three of the six scheduled classical games, the Women&#x2019;s Candidates final is now tied 1.5-1.5. Playing with White,&#160;Tan Zhongyi&#160;switched []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/fide-women-candidates-round-3-report/",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2312",
          "pubDate" : "Fri, 31 Mar 2023 14:01:09 +0000",
          "title" : "WCF Game Recap 3: 98% precision in Chongqing! "
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
-         "pubDate" : "Fri, 31 Mar 2023 13:59:06 +0000",
-         "title" : "Nepo - Ding 2023 , game 1 LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Development Fund</strong> has <a href=\"https://pdc.fide.com/2023/03/24/2023-fide-development-fund-cycle-is-open/\">amended the application process</a> and therefore opened it later than usual for 2023 with submissions open until 31 October. </div> ",
@@ -1042,14 +1058,6 @@ news_feed (
          "title" : "Ding Liren's TWIC Debut"
       },
       {
-         "description" : "The \"Special\" of the current ChessBase Magazine is dedicated to Anthony Miles. In addition to a collection of 21 extensively analysed brilliant games of the first English grandmaster, you will also find a multifaceted contribution by Mihail Marin on Miles' chess understanding and playing style. Marin's database of 12 games from the years 1978 to 2000 is peppered with many training exercises. For the first time for ChessBase Magazine, our author also offers two interactive videos in which you can put your strategic understanding to the test. And of course Marin again introduces the \"hero\" of this issue in the introductory video to his contribution - you can watch the 20-minute video here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/positional-milestones",
-         "pubDate" : "Fri, 24 Mar 2023 16:00:00 +0100",
-         "title" : "Positional Milestones"
-      },
-      {
          "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, FM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1848,30 +1856,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
          "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
          "title" : "The Chess Drum on \"Talking Talent\""
-      },
-      {
-         "description" : " Here is a game from the 2023 Ballarat Begonia Open, played in the 2nd round. White looks like he has whipped up quite an attack, but ends up biting off a little too much. The turning point is move 19, where Black only has one sensible move, but once it is played, White is going downhill. <br /> <b>Gibson,Kyle - Bjelobrk,Igor [C48]</b><br /> Begonia Open 2023 Ballarat, Australia (2.2), 11.03.2023 <script> new PgnViewer( { boardName: \"game1384\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Neg4 9.e5 Bb4 10.exf6 Nxf6 11.f5 d5 12.Bg5 c6 13.Bd3 Re8 14.Ne2 Bd6 15.Nf4 Bd7 16.c3 Qc7 17.Bxf6 Bxf4 18.Qg4 Bxh2+ 19.Kh1 Qg3 20.Rf4 h5 21.Qxh",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/the-only-move-is-best-move.html",
-         "pubDate" : "Sat, 11 Mar 2023 13:09:00 +0000",
-         "title" : "The only move is the best move"
-      },
-      {
-         "description" : "The latest cause c&eacute;lèbre in the Woke Wars has been the decision by Puffin publishers to eliminate politically incorrect words (such as fat, men and ugly) from the collected children's works of Roald Dahl. This censorship, post-mortem, was immediately attacked by that Polyphemic literary giant Sir Salman Rushdie, as well as by Gyles Brandreth and Richard Osman []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/puffins-labours-lost/",
-         "pubDate" : "Sat, 11 Mar 2023 12:41:46 +0000",
-         "title" : "Puffins Labours Lost"
-      },
-      {
-         "description" : "Oleiny Linares Napoles won her 4th national title during the Cuban women's championship from February 9th-20th. The event was a 12-player round-robin taking place in Jos&eacute; Ra&uacute;l Capablanca Academy in Camag&uuml;ey. Linares has been a regular on The Chess Drum and was last featured after winning her 3rd championship. The Santiago de Cuba famously won ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/",
-         "pubDate" : "Sat, 11 Mar 2023 12:39:44 +0000",
-         "title" : "Cuba's Linares wins her 4th chess title!"
       }
    ]
 }
