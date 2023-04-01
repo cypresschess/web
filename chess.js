@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, will take place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-preview",
+         "pubDate" : "Sat, 01 Apr 2023 16:30:00 +0100",
+         "title" : "Armageddon Series: Kramnik, Gukesh and Dubov to play in Asian leg"
+      },
+      {
+         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-4",
+         "pubDate" : "Sat, 01 Apr 2023 16:00:00 +0100",
+         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 3/3"
+      },
+      {
          "description" : "In today's episode, we will delve into an astonishing upset from the first round of the Reykjav&iacute;k Open 2023, where a relatively unknown Norwegian with the Black pieces defied all odds by defeating an opponent with a staggering 400 Elo rating advantage. IM Robert Ris will expertly dissect the game, revealing the critical moments and ingenious strategies that led to this David versus Goliath victory. Get ready to be inspired by the power of perseverance and the beauty of the unexpected as we explore this thrilling upset together.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -242,7 +258,7 @@ news_feed (
          "title" : "Khalifman: \"You shouldn't give up the title without a fight\""
       },
       {
-         "description" : "Stefan L&ouml;ffler was involved as a facilitator at the 2023 London Chess Conference. He was the founding director of the conference in 2013 and used to be in charge of the programme until 2019. Here he reports from a breakthrough edition which established how chess enhances 21st century skills, interest in STEM subjects and even pre-school education. | Pictured: Rita Atkins, John Foley and Dana Reizniece-Osola | Photo: John Yip",
+         "description" : "John Foley is the Director of the 2023 London Chess Conference. Stefan L&ouml;ffler was involved as a facilitator and was the founding director of the conference in 2013. Here they report from a breakthrough edition which established how chess enhances 21st century skills, interest in STEM subjects and even pre-school education. | Pictured: Rita Atkins, John Foley and Dana Reizniece-Osola | Photo: John Yip",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/back-to-classroom-london-chess-conference",
@@ -1008,22 +1024,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/forward-always-forward",
          "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
          "title" : "Forward, always forward!"
-      },
-      {
-         "description" : "The 2023 American Cup Finals kicked off in exciting fashion with the first games between Hikaru Nakamura against Wesley So and Irina Krush against Alice Lee. In the open, Nakamura sacrificed his queen for two rooks in a roller-coaster game that would ultimately end in a draw. Meanwhile, Krush took a 1-0 lead after winning a very sharp first game as White. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d8",
-         "pubDate" : "Sat, 25 Mar 2023 08:55:00 +0100",
-         "title" : "American Cup: Krush strikes first"
-      },
-      {
-         "description" : "The participants of the European Women's Championship in Montenegro had a rest day on Friday. After six rounds in the 11-round Swiss tournament, Polish IM Oliwia Kiolbasa is leading the standings with 5⅕ points. Defending champion Monika Socko and Estonian IM Mai Narva stand a half point back, while fifteen players are still within close reach of the leader on 4⅕ points. | Photos: Official site",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-r6",
-         "pubDate" : "Sat, 25 Mar 2023 07:00:00 +0100",
-         "title" : "Kiolbasa beats Bulmaga, leads European Women's Championship"
       },
       {
          "description" : "A powerhouse during the regular season, the Gotham Knights, again impressed on Friday in the Arena Royale of the 2023 Pro Chess League, finishing in clear first, led by GM Vladimir Fedoseev.&#38;nbsp; This special event offered a unique opportunity ...",
