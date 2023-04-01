@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is set to move forward from its original board-and-piece design to a fresh new experience. At the New Delhi Women's Grand Prix FIDE's secretive Game Division has finally announced a sequel to the game, Chess 2, built on brand-new mechanics, new pieces and abilities. The intention is to bring an all-new chess angle to the competitive E-Sports scene and provide fans with a sequel that builds on ideas that make the game more active and dynamic. More info can be found in this ChessBase India article below.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-2-beta-set-to-launch",
+         "pubDate" : "Sat, 01 Apr 2023 21:15:00 +0100",
+         "title" : "Breaking news: \"Chess 2\" set to launch"
+      },
+      {
+         "description" : "In a unique and exciting matchup, Grandmasters Iniyan and Praggnanandhaa recently played a blitz game in our ChessBase studio, using an old mechanical Garde chess clock. This was the first time that the two players had used such a clock, adding an element of unpredictability and challenge to the game. As they faced off in stormy Hamburg, the sound of thunder could be heard rolling in the background, adding to the intensity of the match. The game showcased the players' skill and adaptability in the face of unfamiliar circumstances, and provided a thrilling spectacle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pragg-vs-iniyan-epic-blitz-battle-using-the-old-mechanical-garde-chess-clock",
+         "pubDate" : "Sat, 01 Apr 2023 21:00:00 +0100",
+         "title" : "Pragg vs. Iniyan - Epic blitz battle using the old mechanical Garde chess clock!"
+      },
+      {
+         "description" : "The Faroe Islands General boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system. In the Faroe Islands General []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-general-boys-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 18:46:51 +0000",
+         "title" : "Faroe Islands - General boys 2023"
+      },
+      {
+         "description" : "The Faroe Islands 1. boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin.In the Faroe Islands 1. boys 2023 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-1-boys-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 18:42:34 +0000",
+         "title" : "Faroe Islands - 1. boys 2023"
+      },
+      {
+         "description" : "The Faroe Islands Junior boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system.In the Faroe Islands Junior boys []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-junior-boys-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 18:34:05 +0000",
+         "title" : "Faroe Islands - Junior boys 2023"
+      },
+      {
+         "description" : "The Faroe Veterans 2023 will take place from 06-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 25 minutes plus a 5-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system.In the Veterans 2023 section of the tournament will participate Sigurd Justinussen, Samal Christiansen, Suni Jacobsen, Brandur Hojgaardm Joannes Guttensen, Jogvan Naes, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-veterans-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 18:28:05 +0000",
+         "title" : "Faroe Islands - Veterans 2023"
+      },
+      {
+         "description" : "The Faroe National team squad 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin. In the National team squad 2023 section []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-national-team-squad-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 18:22:00 +0000",
+         "title" : "Faroe Islands - National team squad 2023"
+      },
+      {
+         "description" : "There was only one change in the top ten places in the world rankings in March: Hikaru Nakamura climbed to fifth place after his success in the American Cup. Nakamura now has a 7-point lead over Anish Giri in sixth place. Vincent Keymer has risen from 2699 points to 2700 thanks to two games played in the German Bundesliga and now occupies the 38th place in the world ranking.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-april-2023",
+         "pubDate" : "Sat, 01 Apr 2023 19:00:00 +0100",
+         "title" : "FIDE ratings April 2023"
+      },
+      {
+         "description" : "The traditional Reykjavik Open is taking place from 29 March to 4 April at the Harpa Conference Centre in the Icelandic capital. Nicholas Pert, the 2021 British champion, is commentating a few of the rounds on Simon Williams' Twitch channel. In rounds 6 and 8, he is joined by Blair Connell, with the duo focusing on the game of the ever-entertaining Ginger GM! | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-live-commentary-nick-pert",
+         "pubDate" : "Sat, 01 Apr 2023 17:45:00 +0100",
+         "title" : "Reykjavik Open: Live commentary by Nick Pert and Blair Connell"
+      },
+      {
+         "description" : "The 1000GM Bay Area April IM Norm Scheveningen 2023 will be held from March 31st to April 9th in San Jose, California, United States as a 10-round Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are John Bryant, Shawnak []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-bay-area-april-im-norm-scheveningen-2023-live/",
+         "pubDate" : "Sat, 01 Apr 2023 16:38:23 +0000",
+         "title" : "1000GM Bay Area April IM Norm Scheveningen 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM Bay Area April IM Norm Scheveningen 2023 will be held from March 31st to April 9th in San Jose, California, United States as a 10-round Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are John Bryant, Shawnak []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-bay-area-april-im-norm-scheveningen-2023/",
+         "pubDate" : "Sat, 01 Apr 2023 16:36:22 +0000",
+         "title" : "1000GM Bay Area April IM Norm Scheveningen 2023"
+      },
+      {
+         "description" : "The Danish Championship 2023 &#x2013; Master Group will take place from 01-09 April 2023 in Svendborg, Denmark. It will be 9-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Round 1 : &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/danish-championship-2023-live/",
+         "pubDate" : "Sat, 01 Apr 2023 16:30:29 +0000",
+         "title" : "Danish Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Grand Prix Anfield 2023 takes place April 1-2, 2023, in Kyiv, Ukraine. The format is an 11-round Swiss. The time control is 10 minutes for the entire game plus a five-second increment starting on move one. The top five rated players of the tournament are Michail Brodsky, Spartak Vysochin, Vadim Malakhatko, Oleg Budnikov and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grand-prix-anfield-2023-live/",
+         "pubDate" : "Sat, 01 Apr 2023 16:22:08 +0000",
+         "title" : "Grand Prix Anfield 2023 - LIVE"
+      },
+      {
+         "description" : "The Mar del Plata Open 2023 is taking place from 1&#x2013;8 April 2023 in Mar del Plata, Argentina. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Robert Hungaski, Pablo Salinas Herrera, Salvador Alonso, Diego Valerga, Andres Rodriguez Vila, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mar-del-plata-open-2023-live/",
+         "pubDate" : "Sat, 01 Apr 2023 16:14:57 +0000",
+         "title" : "Mar del Plata Open 2023 - LIVE"
+      },
+      {
+         "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anish-giri-chesscom-ceo",
+         "pubDate" : "Sat, 01 Apr 2023 09:00:00 -0700",
+         "title" : "New King Rises: Anish Giri Appointed Chess.com CEO"
+      },
+      {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, will take place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reykjavk-open-upset-in-round-1-400-elo-difference-when-the-underdog-wins",
          "pubDate" : "Sat, 01 Apr 2023 14:30:00 +0100",
          "title" : "Reykjav&iacute;k Open upset - 400 Elo difference. When the underdog wins!"
-      },
-      {
-         "description" : "Chessaball is the new chess study tool that revolutionizes the market and it is finally available worldwide! Chessaball provides customizable training with your favorite Chessable Authors. Due to extraordinary demand, the official Chessaball website is no longer taking orders. But check out these great Chessable courses instead! While waiting for the new delivery of Chessaball, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessaball-with-special-discount/",
-         "pubDate" : "Sat, 01 Apr 2023 13:10:12 +0000",
-         "title" : "Chessaball - with special discount!"
       },
       {
          "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
@@ -74,54 +186,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar, Pune Certificates"
       },
       {
-         "description" : "They say that the sun always shines after a storm. In the wake of two days of excitement and ups and downs, this afternoon&#x2019;s third game in Chongqing was an oasis of peace and tranquillity. After three of the six scheduled classical games, the Women&#x2019;s Candidates final is now tied 1.5-1.5. Playing with White,&#160;Tan Zhongyi&#160;switched []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-3-report/",
-         "pubDate" : "Fri, 31 Mar 2023 23:45:00 +0000",
-         "title" : "FIDE Women Candidates - round 3 report"
-      },
-      {
-         "description" : "Employing impressive technique in today&#x2019;s second game,&#160;Lei Tingjie&#160;relentlessly jumped back into the match, and with four games to go, the Women&#x2019;s Candidates Final is once again completely open.&#160; After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by&#160;Tan Zhongyi&#160;in severe time trouble put the 1-1 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-2-report-2/",
-         "pubDate" : "Fri, 31 Mar 2023 23:15:00 +0000",
-         "title" : "FIDE Women Candidates - round 2 report"
-      },
-      {
-         "description" : "Tan Zhongyi takes the lead in the six-game Candidates final after defeating Lei Tingjie in one of the most exciting games of the year. Primarily remembered today for his formulation of an atomic theory of the universe, the ancient Greek philosopher Democritus left many quotes for history.&#xA0;&#8220;Boldness is the beginning of an action, but fortune []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-1-report/",
-         "pubDate" : "Fri, 31 Mar 2023 23:05:21 +0000",
-         "title" : "FIDE Women Candidates - round 1 report"
-      },
-      {
-         "description" : "Bibisara Assaubayeva defied the odds and secured a remarkable victory against Polina Shuvalova, despite initially facing an uphill battle. The three other games ended in a draw As the Women's Grand Prix tournament in New Delhi reached its halfway point, Round Six brought an electrifying array of games to the forefront. With all four boards []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-6-report/",
-         "pubDate" : "Fri, 31 Mar 2023 23:00:13 +0000",
-         "title" : "FIDE Women Grand Prix - round 6 report"
-      },
-      {
-         "description" : "The Danish Championship 2023 Master Group will take place from 01-09 April 2023 in Svendborg, Denmark. It will be 9-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;Chessdom.com will follow live games . Starting []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-championship-2023-master-group/",
-         "pubDate" : "Fri, 31 Mar 2023 22:49:29 +0000",
-         "title" : "Danish Championship 2023 - Master Group"
-      },
-      {
-         "description" : "The 2023 US National High School Championships will bring together the top American High School players. It is a 7-round swiss and will take place from 31 March-2 April 2023 in Washington DC, USA.&#xA0;The players will be given 90 minutes for all moves, with a 10 second delay from move 1. In the tournament will []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-us-national-high-school-championship-live/",
-         "pubDate" : "Fri, 31 Mar 2023 22:37:55 +0000",
-         "title" : "2023 US National High School Championship - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -154,14 +218,6 @@ news_feed (
          "title" : "Impressions from the Reykjavik Open"
       },
       {
-         "description" : "Keanu Reeves is a favorite as an actor and as a person to many. But if he has not conquered your heart and mind yet, wait until you hear this. Keanu Reeves is an avid and strong chess player! &#8220;I&#x2019;ve been playing some chess. It&#x2019;s a competitive game. I don&#x2019;t think you walk to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/keanu-reeves-is-an-avid-chess-player-tweetoftheday/",
-         "pubDate" : "Fri, 31 Mar 2023 19:43:08 +0000",
-         "title" : "Keanu Reeves is an avid chess player #TweetOftheDay"
-      },
-      {
          "description" : "In his \"Game of the Week\" show #561, Merijn van Delft focuses his attention on Leon Luke Mendonca, who recently scored a perfect 9 out of 9 in Slovenia. In one of his wins, against Sabino Brunello, the youngster successfully combined his positional approach with tactical alertness. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -184,22 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-reykjavik-open-williams-sacrifices-queen",
          "pubDate" : "Fri, 31 Mar 2023 11:09:51 -0700",
          "title" : "Williams Sacrifices Queen For Brilliancy At Reykjavik Open"
-      },
-      {
-         "description" : "A day of high-stakes and thrilling victories in New Delhi, with three wins for White and one for Black. Kateryna Lagno, Zhu Jiner, Polina Shuvalova, and Aleksandra Goryachkina dominated the round Following three rounds of the Women&#x2019;s Grand Prix where all games ended in a draw, round four saw intense action on the boards in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-goryachkina-takes-the-lead-in-a-day-of-decisive-games/",
-         "pubDate" : "Fri, 31 Mar 2023 18:05:16 +0000",
-         "title" : "FIDE Women Grand Prix - Goryachkina takes the lead in a day of decisive games"
-      },
-      {
-         "description" : "With a second consecutive victory, Bibisara Assaubayeva is in the lead after three rounds of the Women&#x2019;s Grand Prix Assaubayeva had a lucky break after Nino Batsiashvili made a blunder in an even position and lost. Assaubayeva now shares first place with Alexandra Goryachkina who is also on two points, but who had a free []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-3-report/",
-         "pubDate" : "Fri, 31 Mar 2023 17:52:51 +0000",
-         "title" : "FIDE Women Grand Prix- round 3 report"
       },
       {
          "description" : "I had the incredible opportunity to interview R.B. Ramesh, one of the world's most renowned and accomplished chess coaches. Ramesh has trained many of India's top players, including former World Champion Vishwanathan Anand, and has helped mold the country into a chess powerhouse. In our interview, Ramesh shared his insights on a range of topics, from his early days in chess to his coaching philosophy and techniques. He also discussed the challenges of coaching at the highest level and the importance of mental preparation in chess. With his vast knowledge and experience, Ramesh provided invaluable insights into what it takes to become a successful chess player, both on and off the board. Over",
@@ -946,14 +986,6 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
-         "description" : "Irina Krush claimed her second consecutive American Cup title in the women's section after obtaining a 2&frac12;-1&frac12; victory over Alice Lee. On Saturday, Lee defeated Krush in classical chess to force a rapid playoff. Krush, however, showed the better nerves in a topsy-turvy pair of rapid games to grab the title. Meanwhile, Wesley So defeated Hikaru Nakamura - also in playoffs - to force an extra rapid match in the open section. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d9",
-         "pubDate" : "Sun, 26 Mar 2023 05:40:00 +0100",
-         "title" : "American Cup: Krush successfully defends her title"
-      },
-      {
          "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -978,14 +1010,6 @@ news_feed (
          "title" : "Abdumalik pulls out of New Delhi Grand Prix as FIDE apologise"
       },
       {
-         "description" : "The third stage of the Women's Grand Prix series, set to take place in New Delhi, did not start as scheduled on Saturday, March 25. It was reported that some of the players were not received by official transport at the airport and that, at the hotel, they were informed that the rooms were not ready and the breakfast was not included in the price. Due to these conditions, Zhansaya Abdumalik withdrew from the event. FIDE and the eleven remaining players decided that the event would take place anyway, albeit starting on Sunday. | Photo: International Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-issues",
-         "pubDate" : "Sat, 25 Mar 2023 19:50:00 +0100",
-         "title" : "New Delhi GP: Abdumalik withdraws, first round postponed due to organizational issues"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1008,22 +1032,6 @@ news_feed (
          "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
          "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
          "title" : "On the shoulders of dwarves"
-      },
-      {
-         "description" : "Generally after winning a tournament in a dominating fashion, players tend to relax. That's not what GM Leon Luke Mendonca did. After clinching 27th Hit Open 2023 on the previous day, the teenager went on to defeat FM Domen Tisaj to score a perfect 9/9. Leon, who has just turned 17, performed at 3196, which earned him 26.4 Elo rating points. This is Leon's second consecutive tournament triumph this month: he remains undefeated after winning 38th ChessOrg Festival Bad Woerishofen 2023 on 11th March. Report with full post-match interview.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-s-immaculate-9-0-9-in-the-27th-hit-open",
-         "pubDate" : "Sat, 25 Mar 2023 09:10:00 +0100",
-         "title" : "Leon Mendonca's immaculate 9.0/9 in the 27th Hit Open"
-      },
-      {
-         "description" : "From the diagram position Black's knight landed by force... on the square f1! In the end it was only enough for half a point, but she had a fat chance of winning on the way. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/forward-always-forward",
-         "pubDate" : "Sat, 25 Mar 2023 09:00:00 +0100",
-         "title" : "Forward, always forward!"
       },
       {
          "description" : "A powerhouse during the regular season, the Gotham Knights, again impressed on Friday in the Arena Royale of the 2023 Pro Chess League, finishing in clear first, led by GM Vladimir Fedoseev.&#38;nbsp; This special event offered a unique opportunity ...",
@@ -1528,14 +1536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-1",
          "pubDate" : "Fri, 17 Mar 2023 19:51:00 -0700",
          "title" : "Nakamura Opens The American Cup With Triple-Pawn Punishment"
-      },
-      {
-         "description" : "Chess.com is excited to announce the launch of new features in Game Review, our post-game learning tool. Game Review now packs in even more features that will help you understand your games, learn from them, and enjoy your best moments! Below yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-launches-game-review-v2",
-         "pubDate" : "Fri, 17 Mar 2023 15:12:00 -0700",
-         "title" : "Announcing New Game Review Features: Visual Explanations, New Move Classifications, And More!"
       },
       {
          "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
