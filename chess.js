@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Chess is set to move forward from its original board-and-piece design to a fresh new experience. At the New Delhi Women's Grand Prix FIDE's secretive Game Division has finally announced a sequel to the game, Chess 2, built on brand-new mechanics, new pieces and abilities. The intention is to bring an all-new chess angle to the competitive E-Sports scene and provide fans with a sequel that builds on ideas that make the game more active and dynamic. More info can be found in this ChessBase India article below.",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2316",
+         "pubDate" : "Sat, 01 Apr 2023 21:48:46 +0000",
+         "title" : "Autism Awareness Day: FIDE Infinite Chess project outlook"
+      },
+      {
+         "description" : "Chess is set to move forward to a fresh new experience. At the New Delhi Women's Grand Prix FIDE's secretive Game Division has finally announced a sequel, Chess 2, built on brand-new mechanics, with new pieces and abilities. The intention is to bring an all-new chess angle to the competitive E-Sports scene and provide fans with a game that builds on ideas that make it more active and dynamic. More information can be found in this ChessBase India article below.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-2-beta-set-to-launch",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/pragg-vs-iniyan-epic-blitz-battle-using-the-old-mechanical-garde-chess-clock",
          "pubDate" : "Sat, 01 Apr 2023 21:00:00 +0100",
          "title" : "Pragg vs. Iniyan - Epic blitz battle using the old mechanical Garde chess clock!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2315",
+         "pubDate" : "Sat, 01 Apr 2023 19:22:02 +0000",
+         "title" : "WGP New Dehli: Round 7 Recap"
       },
       {
          "description" : "The Faroe Islands General boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system. In the Faroe Islands General []",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2276",
          "pubDate" : "Sun, 12 Mar 2023 02:19:00 +0000",
          "title" : "Sarana defeats Korobov to grab the sole lead in EICC 2023"
-      },
-      {
-         "description" : "The Chess Drum's Daaim Shabazz was a guest on Dylan Quercia's Twitch stream called, &#8220;Talking Talent.&#8221; The 71-minute segment featured the usual questions about chess beginnings and the emergence of the 22-year-old website. Other questions featured chess in the African-American chess community, its progress, the importance of analytics, and issues pertaining to the bridge of ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/11/the-chess-drum-on-talking-talent/",
-         "pubDate" : "Sat, 11 Mar 2023 22:32:18 +0000",
-         "title" : "The Chess Drum on \"Talking Talent\""
       }
    ]
 }
