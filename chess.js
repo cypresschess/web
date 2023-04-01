@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White seems to have his back to the wall in the face of Black's threats ...Bxf2 and ...Rg1 . You have to keep a cool head and skilfully go on the counterattack - you're good at that, aren't you?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chance",
+         "pubDate" : "Sat, 01 Apr 2023 09:00:00 +0100",
+         "title" : "Chance!"
+      },
+      {
+         "description" : "Senior National Arbiter Seminar Pune Certificates are out to download link : https://aicf.online/Arbiter-S-Pune.html Any Correction mail at aicfwebamster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-pune-certificates/",
+         "pubDate" : "Sat, 01 Apr 2023 06:50:40 +0000",
+         "title" : "Senior National Arbiter Seminar, Pune Certificates"
+      },
+      {
          "description" : "They say that the sun always shines after a storm. In the wake of two days of excitement and ups and downs, this afternoon&#x2019;s third game in Chongqing was an oasis of peace and tranquillity. After three of the six scheduled classical games, the Women&#x2019;s Candidates final is now tied 1.5-1.5. Playing with White,&#xA0;Tan Zhongyi&#xA0;switched []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -200,6 +216,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/back-to-classroom-london-chess-conference",
          "pubDate" : "Fri, 31 Mar 2023 13:00:00 +0100",
          "title" : "Back to the classroom - London Chess Conference"
+      },
+      {
+         "description" : "Senior National Arbiter Mumbai, Maharashtra Certificates are out to download Link : https://aicf.online/Arbiter-Seminar-Mumbai.html Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-mumbai/",
+         "pubDate" : "Fri, 31 Mar 2023 11:11:48 +0000",
+         "title" : "Senior National Arbiter, Mumbai"
       },
       {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
@@ -1008,14 +1032,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/positional-milestones",
          "pubDate" : "Fri, 24 Mar 2023 16:00:00 +0100",
          "title" : "Positional Milestones"
-      },
-      {
-         "description" : "Today: Matthias Wuellenweber shows us how the threat and weak moves function work for ChessBase 17. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-threats-and-weak-moves-function-for-chessbase-17",
-         "pubDate" : "Fri, 24 Mar 2023 15:38:11 +0100",
-         "title" : "Explained by the engineers! - Threats and weak moves function for ChessBase 17!"
       },
       {
          "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, FM...",
