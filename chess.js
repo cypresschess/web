@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Sat, 01 Apr 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "Please find the live link for Indore Open GM Chess Championship 2023 https://view.livechesscloud.com/#5be145da-e394-4629-b4c2-6b954b12f4ce",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/dgt-live-link-for-1-mayors-trophy-international-gm-chess-championship-2023-at-indore/",
+         "pubDate" : "Sat, 01 Apr 2023 09:00:33 +0000",
+         "title" : "DGT LIVE Link For 1 Mayor's Trophy International GM Chess Championship 2023 at Indore"
+      },
+      {
          "description" : "In the diagram position White seems to have his back to the wall in the face of Black's threats ...Bxf2 and ...Rg1 . You have to keep a cool head and skilfully go on the counterattack - you're good at that, aren't you?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -226,14 +242,6 @@ news_feed (
          "title" : "Senior National Arbiter, Mumbai"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Fri, 31 Mar 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -360,6 +368,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates",
          "pubDate" : "Thu, 30 Mar 2023 18:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Tan and Lei keep it sharp"
+      },
+      {
+         "description" : "Before I get to this month's Yahoos (see the footnote for an explanation of 'Yahoos'), let's look at the March stats. Numbers always tell their own story. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc30.gif\" WIDTH=175 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> For this current post, <I>Google News</I> returned 99 chess stories, of which nine sources had two or more stories. These are shown in the chart on the left. <P> Those nine sources accounted for 53 stories, leaving 46 sources with a single story. As always, Chess.com accounted for far more stories than any other source. <P> Two other perennial leaders, Chessbase.com and the Guardian, accounted for three stories each. In last month",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/downstreamer-yahoos.html",
+         "pubDate" : "Thu, 30 Mar 2023 15:53:00 +0000",
+         "title" : "Downstreamer Yahoos"
       },
       {
          "description" : "",
@@ -1856,22 +1872,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/11/cubas-linares-wins-her-4th-chess-title/",
          "pubDate" : "Sat, 11 Mar 2023 12:39:44 +0000",
          "title" : "Cuba's Linares wins her 4th chess title!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2275",
-         "pubDate" : "Sat, 11 Mar 2023 10:41:40 +0000",
-         "title" : "EICC 2023, Round 8: Korobov stays in front"
-      },
-      {
-         "description" : "National Rapid &#38; Blitz Chess Championship 2023 Certificates are out to download Rapid : https://aicf.online/National-Rapid-2023.html Blitz : https://aicf.online/National-Blitz.2023.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-rapid-blitz-certificates/",
-         "pubDate" : "Sat, 11 Mar 2023 08:23:03 +0000",
-         "title" : "National Rapid & Blitz Certificates"
       }
    ]
 }
