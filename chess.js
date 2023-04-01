@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "They say that the sun always shines after a storm. In the wake of two days of excitement and ups and downs, this afternoon&#x2019;s third game in Chongqing was an oasis of peace and tranquillity. After three of the six scheduled classical games, the Women&#x2019;s Candidates final is now tied 1.5-1.5. Playing with White,&#xA0;Tan Zhongyi&#xA0;switched []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-3-report/",
+         "pubDate" : "Fri, 31 Mar 2023 23:45:00 +0000",
+         "title" : "FIDE Women Candidates - round 3 report"
+      },
+      {
          "description" : "Employing impressive technique in today&#x2019;s second game,&#160;Lei Tingjie&#160;relentlessly jumped back into the match, and with four games to go, the Women&#x2019;s Candidates Final is once again completely open.&#160; After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by&#160;Tan Zhongyi&#160;in severe time trouble put the 1-1 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
          "pubDate" : "Fri, 31 Mar 2023 13:59:06 +0000",
          "title" : "Nepo - Ding 2023 , game 1 LIVE"
-      },
-      {
-         "description" : "The World Chess Championship 2023 is taking place from 7 April to 1 May 2023 to determine the new World Chess Champion. The match will be held in Astana, Kazakhstan and Chessdom.com will have daily live coverage with commentary by top GMs and computer analysis. The world champion Magnus Carlsen decided not to defend his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-chess-championship-2023-live/",
-         "pubDate" : "Fri, 31 Mar 2023 13:52:56 +0000",
-         "title" : "World Chess Championship 2023 LIVE"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>FIDE Development Fund</strong> has <a href=\"https://pdc.fide.com/2023/03/24/2023-fide-development-fund-cycle-is-open/\">amended the application process</a> and therefore opened it later than usual for 2023 with submissions open until 31 October. </div> ",
