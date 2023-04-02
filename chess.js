@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "W&#x142;odzimierz Schmidt, the first Polish Grandmaster, passed away at age 79. W&#x142;odzimierz Schmidt played for Poland 14 times in Chess Olympiads between 1962 and 1994. He was Polish Champion seven times: in 1971, 1974, 1975, 1981, 1988, 1990 and 1994. Schmidt won or tied for 1st at Lublin 1970, Polanica Zdr&#xF3;j 1973, Malm&#xF6; 1977, Bagneux []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wlodzimierz-schmidt-the-first-polish-grandmaster-passed-away/",
+         "pubDate" : "Sun, 02 Apr 2023 18:31:30 +0000",
+         "title" : "Włodzimierz Schmidt, the first Polish Grandmaster, passed away"
+      },
+      {
+         "description" : "With the World Championship match between Ian Nepomniachtchi and Ding Liren just a week away, Jon Speelman shares how such an important contest looks like from the inside. He worked twice as a second in World Championship matches, both times assisting a player who was facing the legendary Garry Kasparov. Here he goes into detail about his collaboration with Vishy Anand in 1995 - that memorable match atop the World Trade Center in New York. | Photo: Owen Williams, The Kasparov Agency",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-191",
+         "pubDate" : "Sun, 02 Apr 2023 19:00:00 +0100",
+         "title" : "The anatomy of matchplay"
+      },
+      {
+         "description" : "Hikaru Nakamura described a 40-game match against Magnus Carlsen as \"one of the biggest mistakes\" of his career, but the triple world champion doesn't believe his explanation.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-on-epic-blitz-match-vs-nakamura",
+         "pubDate" : "Sun, 02 Apr 2023 17:55:19 +0000",
+         "title" : "Carlsen on epic blitz match vs. Nakamura"
+      },
+      {
+         "description" : "I had the honor of speaking with chess Super Grandmaster Rameshbabu Praggnanandhaa, one of the youngest players ever to achieve the title. At only 16 years old, Praggnanandhaa has already achieved remarkable success, including winning the Julius Baer Challenge Championship 2022. In our interview, Praggnanandhaa shared his insights on a range of topics, from his early days in chess to his current training regimen with coach R. B. Ramesh and future goals. He also discussed his experiences playing against some of the world's top players, as well as his thoughts on chess strategy and the importance of mental preparation. Overall, the interview provided a fascinating look into the mind of a young",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-the-rising-star-of-india-super-gm-praggnanandhaa",
+         "pubDate" : "Sun, 02 Apr 2023 18:00:00 +0100",
+         "title" : "Interview with the rising star of India - Super GM Praggnanandhaa"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2317",
+         "pubDate" : "Sun, 02 Apr 2023 16:59:05 +0000",
+         "title" : "WCF Game 4: Lei Tingjie strikes hard and fast"
+      },
+      {
+         "description" : "GM Lei Tingjie scored an important win over GM Tan Zhongyi with White to push herself a point in front with two rounds to go in the final of the FIDE Women&#39;s Candidate&#39;s Tournament 2022-2023 on Sunday. Selecting a theoretical approach in the Cat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-4",
+         "pubDate" : "Sun, 02 Apr 2023 08:38:43 -0700",
+         "title" : "Lei Wins With White, Leads For 1st Time In Chongqing"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 119th instalment of his ChessBase show \"Understanding before Moving\", Herman starts a new series: \"Chess history in a nutshell\". | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -186,14 +234,6 @@ news_feed (
          "title" : "1000GM Bay Area April IM Norm Scheveningen 2023"
       },
       {
-         "description" : "The Danish Championship 2023 &#x2013; Master Group will take place from 01-09 April 2023 in Svendborg, Denmark. It will be 9-round Robin tournament with time control 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.Round 1 : &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/danish-championship-2023-live/",
-         "pubDate" : "Sat, 01 Apr 2023 16:30:29 +0000",
-         "title" : "Danish Championship 2023 - LIVE"
-      },
-      {
          "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -274,12 +314,12 @@ news_feed (
          "title" : "The First Draw: Lei's Perceptive Pawn Sacrifice Equalizes"
       },
       {
-         "description" : "Chess.com has launched a search for its new CEO. Current CEO, Erik, co-founded Chess.com in 2006 with his friend and co-founder Jay, and for 17 years has grown the company from an idea to the number-one chess platform with more than 125 million me...",
+         "description" : "Edited April 2, 2023: Happy April Fool&#38;rsquo;s Day, everyone. Stay safe! Chess.com has launched a search for its new CEO. Current CEO, Erik, co-founded Chess.com in 2006 with his friend and co-founder Jay, and for 17 years has grown the compa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-hiring-new-ceo",
          "pubDate" : "Fri, 31 Mar 2023 15:00:00 -0700",
-         "title" : "BREAKING: Chess.com Hiring New CEO"
+         "title" : "Happy April Fool's Day! Chess.com Hiring New CEO"
       },
       {
          "description" : "When they hear 'Reykjavik Open', many chess players spontaneously express the wish to be there. Our author Gerd Densing belongs to this group: he is currently in the Icelandic capital, playing in the tournament, writing and taking photographs. In the first three rounds, he has met not only the rating favourite, Vasyl Ivanchuk (photo), but also many other interesting personalities.",
@@ -906,14 +946,6 @@ news_feed (
          "title" : "The Iniyan Challenge"
       },
       {
-         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
-         "pubDate" : "Mon, 27 Mar 2023 15:15:00 +0100",
-         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
-      },
-      {
          "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
          "pubDate" : "Sun, 26 Mar 2023 15:25:00 +0000",
          "title" : "The Dark Side of Women's Chess"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation organized the third annual KCF University Cup in February this year. The tournament, which attracted well over 500 university students from every continent, was won by Texas Tech University. Francesco Bortolussi, who played board 4 for the winning team, sent us a first-person account of the tournament itself and of the team's visit to New York City, where they had a training session with the legend himself, Garry Kasparov! | Photo: Alexander Onischuk",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/texas-tech-wins-third-kasparov-chess-foundation-cup",
-         "pubDate" : "Sun, 26 Mar 2023 15:30:00 +0100",
-         "title" : "Texas Tech wins KCF University Cup and meets with Kasparov in New York"
       },
       {
          "description" : "It took two full games and two messy tiebreakers before the victors of the action of day nine in The American Cup were decided. In the Women&#39;s event, GM Irina Krush needed only a draw, but lost the regulation game before ultimately deciding the ...",
@@ -1578,14 +1602,6 @@ news_feed (
          "title" : "Kasparov: \"I can hardly call it a World Championship match\""
       },
       {
-         "description" : "GM Hikaru Nakamura was the sole winner in the open section on the first day of The 2023 American Cup in St. Louis. He defeated GM Sam Sevian in a game that featured weak pawn structures and instructive endgame technique. Hard-fought draws materi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-1",
-         "pubDate" : "Fri, 17 Mar 2023 19:51:00 -0700",
-         "title" : "Nakamura Opens The American Cup With Triple-Pawn Punishment"
-      },
-      {
          "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-tactical-idea/",
          "pubDate" : "Sun, 12 Mar 2023 19:41:03 +0000",
          "title" : "A Tactical Idea"
-      },
-      {
-         "description" : "Tired of people talking about the success of Chess.com? I can't sympathize, because I don't think I'll ever get enough. A couple of months ago the featured video of the month was <A HREF=\"https://chessforallages.blogspot.com/2023/01/the-rise-of-chesscom.html\">The Rise of Chess.com</A> (January 2023). Consider this a follow-up post. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gWrRLtfARzA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>This Company RULES Over ENTIRE CHESS MARKET | Case Study</B> (11:49) &#149; '[Published on] Feb",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
-         "pubDate" : "Sun, 12 Mar 2023 16:19:00 +0000",
-         "title" : "I Should Just Focus on the Chess"
       }
    ]
 }
