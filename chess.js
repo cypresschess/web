@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find attached herewith the final list of candidates who successfully completed the&#160;Arbiters refresher seminar. These lists are segregated&#160;as IA , FA &#38; SNA. We",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiters-refresher-seminar-2023-report/",
+         "pubDate" : "Sun, 02 Apr 2023 03:17:03 +0000",
+         "title" : "Arbiters refresher seminar 2023 :Report"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/sarana-snatches-sole-european-championship-lead",
          "pubDate" : "Sun, 12 Mar 2023 10:33:39 +0000",
          "title" : "Sarana snatches sole European Championship lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2276",
-         "pubDate" : "Sun, 12 Mar 2023 02:19:00 +0000",
-         "title" : "Sarana defeats Korobov to grab the sole lead in EICC 2023"
       }
    ]
 }
