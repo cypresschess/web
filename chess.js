@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "India's GM Aravindh Chithambaram Vr. &#160;beat GM Pantsulaia Levan of Georgia in the 10th and final round to win the 20th Delhi Open International Grandmasters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-aravindh-chithambaram-vr-conquers-delhi-open-2023/",
+         "pubDate" : "Sun, 02 Apr 2023 07:01:38 +0000",
+         "title" : "GM Aravindh Chithambaram Vr. conquers Delhi Open 2023"
+      },
+      {
+         "description" : "Bibisara Assaubayeva made her first draw in New Delhi but is still in the lead with 4,5 points. The race for the top is heating up as both Lagno and Goryachkina scored Round 7&#160;saw two decisive outcomes and two draws. It was a relatively short round, with the last game finishing after three and a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-7-report/",
+         "pubDate" : "Sun, 02 Apr 2023 06:40:59 +0000",
+         "title" : "FIDE Women Grand Prix - round 7 report"
+      },
+      {
+         "description" : "The Faroe &#x2013; National team squad 2023&#xA0;will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin.In the National team squad 2023 section of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/faroe-islands-national-team-squad-2023-2/",
+         "pubDate" : "Sun, 02 Apr 2023 06:35:06 +0000",
+         "title" : "Faroe Islands - National team squad 2023 - LIVE"
+      },
+      {
+         "description" : "All India Chess Federation congratulate International Arbiter Dr Vipnesh Bhardwaj for becoming the member of Historical Committee of FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-dr-vipnesh-bhardwaj/",
+         "pubDate" : "Sun, 02 Apr 2023 04:00:07 +0000",
+         "title" : "Congratulations Dr Vipnesh Bhardwaj"
+      },
+      {
          "description" : "Please find attached herewith the final list of candidates who successfully completed the&#160;Arbiters refresher seminar. These lists are segregated&#160;as IA , FA &#38; SNA. We",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -120,22 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/danish-championship-2023-live/",
          "pubDate" : "Sat, 01 Apr 2023 16:30:29 +0000",
          "title" : "Danish Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Grand Prix Anfield 2023 takes place April 1-2, 2023, in Kyiv, Ukraine. The format is an 11-round Swiss. The time control is 10 minutes for the entire game plus a five-second increment starting on move one. The top five rated players of the tournament are Michail Brodsky, Spartak Vysochin, Vadim Malakhatko, Oleg Budnikov and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grand-prix-anfield-2023-live/",
-         "pubDate" : "Sat, 01 Apr 2023 16:22:08 +0000",
-         "title" : "Grand Prix Anfield 2023 - LIVE"
-      },
-      {
-         "description" : "The Mar del Plata Open 2023 is taking place from 1&#x2013;8 April 2023 in Mar del Plata, Argentina. Players receive 90 minutes for the entire game, plus a 30-second increment starting from move one.&#xA0; It is a 9-round Swiss tournament with participation of Robert Hungaski, Pablo Salinas Herrera, Salvador Alonso, Diego Valerga, Andres Rodriguez Vila, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mar-del-plata-open-2023-live/",
-         "pubDate" : "Sat, 01 Apr 2023 16:14:57 +0000",
-         "title" : "Mar del Plata Open 2023 - LIVE"
       },
       {
          "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
@@ -1378,14 +1394,6 @@ news_feed (
          "title" : "Nakamura-So and Krush-Lee in American Cup finals"
       },
       {
-         "description" : "The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and has&#160;directed&#160;us&#160;put in&#160;place&#160;a&#160;system&#160;by which this problem can be solved,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-from-other-than-north-eastern-state-andaman-nicobar-assam-arunachal-pradesh-manipur-meghalaya-mizoram-sikkim-and-tripura/",
-         "pubDate" : "Tue, 21 Mar 2023 11:58:25 +0000",
-         "title" : "Medical Evaluation of the age of Chess Players from other than North Eastern State (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
-      },
-      {
          "description" : "The 9th edition of the London Chess Conference took place from 17-19 March 2023. The theme of the 2023 London Chess Conference was Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The participants and speakers represented 32 countries with the opportunity to form partnerships and collaborations with each other&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023-concluded/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1792,14 +1800,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/acf-newsletter.html",
          "pubDate" : "Mon, 13 Mar 2023 11:09:00 +0000",
          "title" : "ACF Newsletter"
-      },
-      {
-         "description" : "1st ever Senior National Arbiter Seminar&#160; was&#160; successfully&#160; organized&#160; by&#160; Monish Sports World followed by an examination in Air-conditioned Hall at&#160; Hotel&#160; Central Park, 1265&#160;",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-examination-at-pune-maharashtra-04-05-march-2023/",
-         "pubDate" : "Mon, 13 Mar 2023 10:11:57 +0000",
-         "title" : "Senior National Arbiter's Seminar & Examination at Pune , Maharashtra 04-05 March , 2023"
       },
       {
          "description" : "",
