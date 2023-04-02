@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Sun, 02 Apr 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
+         "pubDate" : "Sun, 02 Apr 2023 09:00:00 +0100",
+         "title" : "Women's Candidates Final - Live!"
+      },
+      {
          "description" : "India's GM Aravindh Chithambaram Vr. &#160;beat GM Pantsulaia Levan of Georgia in the 10th and final round to win the 20th Delhi Open International Grandmasters",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -194,14 +210,6 @@ news_feed (
          "title" : "Milton's cosmic game of chess"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Sat, 01 Apr 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : "Please find the live link for Indore Open GM Chess Championship 2023 https://view.livechesscloud.com/#5be145da-e394-4629-b4c2-6b954b12f4ce",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -290,6 +298,14 @@ news_feed (
          "title" : "Interview with the Pep Guardiola of chess - R. B. Ramesh"
       },
       {
+         "description" : "The last two posts in this short series on Ding Liren summarized his career up to his last participation in a World Youth Championship (2004) and after his first participation in a World Championship event (2011). For specifics see:- <UL> <LI> 2023-03-24: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html\">Ding Liren's TWIC Debut</A> &#149; World Youth Championship, 'TWIC 523; 2004-11-15 : U12 1-2' <LI> 2023-03-17: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> &#149; 2011 World Cup </UL> <P> What happened during the intervening years? The following chart is a combination of:-",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-rise-to-gm-title.html",
+         "pubDate" : "Fri, 31 Mar 2023 15:09:00 +0000",
+         "title" : "Ding Liren's Rise to the GM title"
+      },
+      {
          "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +376,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-eight/",
          "pubDate" : "Fri, 31 Mar 2023 08:24:38 +0000",
          "title" : "A Foundation for Beginners Eighty Eight"
-      },
-      {
-         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
-         "pubDate" : "Fri, 31 Mar 2023 09:00:00 +0100",
-         "title" : "Women's Candidates Final - Live!"
       },
       {
          "description" : " The five-time US champion, whose main career is as a streamer with more than a million followers, defeated fellow world top-10 player Wesley So in a bruising final Hikaru Nakamura, who combines streaming to over a million followers with a comeback to classical chess in his mid-30s, has won the American Cup, a $200,000 knockout including $60,000 for the winner. The defeated finalist, Wesley So, snatched a poisoned pawn and lost his queen in <a href=\"https://www.chessgames.com/perl/chessgame?gid=2466280\" title=\"\">a 19-move decider</a>. The 35-year-old five-time US champion won through a bruising trilogy of matches at St Louis to defeat his fellow world top-10 GM. Nakamura had hoped that the c",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-series-fundamental-endgame-knowledge-part-2-rook-and-pawn-vs-rook",
          "pubDate" : "Sun, 12 Mar 2023 13:00:00 +0100",
          "title" : "\"Fundamental Endgame Knowledge\" - Part 2: Rook and Pawn vs. Rook"
-      },
-      {
-         "description" : "Alexey Sarana snatched the sole lead in the European Championship in Vrnjacka Banja, Serbia with two rounds to go after beating Anton Korobov in Round 9, making it a perfect 5/5 with the white pieces for the 23-year-old. Korobov is joined half a point behind by Etienne Bacrot and six young players: Kirill Shevchenko, Andrey Esipenko, Benjamin Gledura, Valentin Dragnev and David Paravyan.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/sarana-snatches-sole-european-championship-lead",
-         "pubDate" : "Sun, 12 Mar 2023 10:33:39 +0000",
-         "title" : "Sarana snatches sole European Championship lead"
       }
    ]
 }
