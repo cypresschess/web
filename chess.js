@@ -1856,14 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2278",
          "pubDate" : "Sun, 12 Mar 2023 23:53:49 +0000",
          "title" : "EICC 2023: Shevchenko joins Sarana on the top with one round to go"
-      },
-      {
-         "description" : "The inaugural HBCU Classic will kick off April 22nd at Morehouse College and hopes to attract students from around the country to network and compete for glory! The Chess Drum was informed about an HBCU tournament by Jamaal Abdul-Alim and contacted the organizer Shaniah Francis (Spelman College) on LinkedIn. &#8220;I'm Shaniah the vice president of ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/",
-         "pubDate" : "Sun, 12 Mar 2023 23:26:48 +0000",
-         "title" : "HBCU Chess Classic on April 22nd!"
       }
    ]
 }
