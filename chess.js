@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Catalan Youth Championship will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system. &#xFEFF;",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-u16-u20-live/",
+         "pubDate" : "Sun, 02 Apr 2023 21:05:58 +0000",
+         "title" : "Catalan U16 - U20 - LIVE"
+      },
+      {
+         "description" : "The Catalan Under 16 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system.You can also see Catalan Under 18 Championship 2023 &#124;&#xA0;Catalan Under 20 Championship 2023. Full list of players : No. Name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-under-16-championship-2023/",
+         "pubDate" : "Sun, 02 Apr 2023 21:00:42 +0000",
+         "title" : "Catalan Under 16 Championship 2023"
+      },
+      {
+         "description" : "The Catalan Under 18 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system.You can also see Catalan Under 20 Championship 2023 &#124;&#xA0;Catalan Under 16 Championship 2023. Full list of players : No. Name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-under-18-championship-2023/",
+         "pubDate" : "Sun, 02 Apr 2023 20:57:48 +0000",
+         "title" : "Catalan Under 18 Championship 2023"
+      },
+      {
+         "description" : "The Catalan Under 20 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 8-round Swiss system. You can also see Catalan Under 18 Championship 2023 &#124;&#xA0;Catalan Under 16 Championship 2023 . List of players : Name []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/catalan-under-20-championship-2023/",
+         "pubDate" : "Sun, 02 Apr 2023 20:54:06 +0000",
+         "title" : "Catalan Under 20 Championship 2023"
+      },
+      {
+         "description" : "The 1st XV Memorial Pedro Lezcano Montalvo 2023 will take place from 02-09 April 2023 in Gran Canaria, Spain. The time control 90 minutes plus a 30-second increment starting from move one. The tournament format is 9-round Swiss system with the participation of: Bojan Kurajica, Alexander Kovchan, Aleksa Strikovich, Oleg M Romanishin, Omar Garcia Blanco, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xv-memorial-pedro-lezcano-montalvo-2023/",
+         "pubDate" : "Sun, 02 Apr 2023 20:37:44 +0000",
+         "title" : "XV Memorial Pedro Lezcano Montalvo 2023"
+      },
+      {
+         "description" : "The 1st Mayor&#x2019;s Trophy Indore International Grandmaster Chess Tournament 2023 will take place from 01-08 April 2023 in The Emerald Heights International School, A.B. Road, Rau, Indore, MP, India. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; The tournament format is 10-round Swiss system with the participation of Levan Pantsulaia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-mayors-trophy-indore-international-grandmaster-chess-tournament-2023-participants/",
+         "pubDate" : "Sun, 02 Apr 2023 20:35:19 +0000",
+         "title" : "1st Mayor's Trophy Indore International Grandmaster Chess Tournament 2023 - Participants"
+      },
+      {
+         "description" : "The 1st Mayor&#x2019;s Trophy Indore International Grandmaster Chess Tournament 2023 will take place from 01-08 April 2023 in The Emerald Heights International School, A.B. Road, Rau, Indore, MP, India. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; The tournament format is 10-round Swiss system with the participation of Levan Pantsulaia, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1st-mayors-trophy-indore-international-grandmaster-chess-tournament-2023-live/",
+         "pubDate" : "Sun, 02 Apr 2023 20:26:49 +0000",
+         "title" : "1st Mayor's Trophy Indore International Grandmaster Chess Tournament 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2319",
+         "pubDate" : "Sun, 02 Apr 2023 20:18:25 +0000",
+         "title" : "WGP New Delhi: Round 8 recap"
+      },
+      {
+         "description" : "Fully recharged after their well-deserved rest day,&#160;Lei Tingjie&#160;and&#160;Tan Zhongyi&#160;returned to the playing venue in Chongqing this afternoon for the second half of their six-game match.&#160; Tied 1.5-1.5 on the scoreboard, the three final games will decide which of the two Chinese Grand Masters advances to the next stage of the cycle: challenging the current Women's []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-candidates-round-4-report/",
+         "pubDate" : "Sun, 02 Apr 2023 20:10:00 +0000",
+         "title" : "FIDE Women Candidates - round 4 report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2318",
+         "pubDate" : "Sun, 02 Apr 2023 20:06:52 +0000",
+         "title" : "FIDE April 2023 rating list published"
+      },
+      {
          "description" : "W&#x142;odzimierz Schmidt, the first Polish Grandmaster, passed away at age 79. W&#x142;odzimierz Schmidt played for Poland 14 times in Chess Olympiads between 1962 and 1994. He was Polish Champion seven times: in 1971, 1974, 1975, 1981, 1988, 1990 and 1994. Schmidt won or tied for 1st at Lublin 1970, Polanica Zdr&#xF3;j 1973, Malm&#xF6; 1977, Bagneux []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -106,14 +186,6 @@ news_feed (
          "title" : "FIDE Women Grand Prix - round 7 report"
       },
       {
-         "description" : "The Faroe &#x2013; National team squad 2023&#xA0;will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin.In the National team squad 2023 section of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-national-team-squad-2023-2/",
-         "pubDate" : "Sun, 02 Apr 2023 06:35:06 +0000",
-         "title" : "Faroe Islands - National team squad 2023 - LIVE"
-      },
-      {
          "description" : "All India Chess Federation congratulate International Arbiter Dr Vipnesh Bhardwaj for becoming the member of Historical Committee of FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -162,46 +234,6 @@ news_feed (
          "title" : "WGP New Dehli: Round 7 Recap"
       },
       {
-         "description" : "The Faroe Islands General boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system. In the Faroe Islands General []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-general-boys-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 18:46:51 +0000",
-         "title" : "Faroe Islands - General boys 2023"
-      },
-      {
-         "description" : "The Faroe Islands 1. boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin.In the Faroe Islands 1. boys 2023 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-1-boys-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 18:42:34 +0000",
-         "title" : "Faroe Islands - 1. boys 2023"
-      },
-      {
-         "description" : "The Faroe Islands Junior boys 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system.In the Faroe Islands Junior boys []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-junior-boys-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 18:34:05 +0000",
-         "title" : "Faroe Islands - Junior boys 2023"
-      },
-      {
-         "description" : "The Faroe Veterans 2023 will take place from 06-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 25 minutes plus a 5-second increment starting from move one.&#xA0;The tournament format is 7-round Swiss system.In the Veterans 2023 section of the tournament will participate Sigurd Justinussen, Samal Christiansen, Suni Jacobsen, Brandur Hojgaardm Joannes Guttensen, Jogvan Naes, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-veterans-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 18:28:05 +0000",
-         "title" : "Faroe Islands - Veterans 2023"
-      },
-      {
-         "description" : "The Faroe National team squad 2023 will take place from 01-07 April 2023 in Torshavn, Faroe Islands.&#xA0;The time control 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0;The tournament format is 7-round Robin. In the National team squad 2023 section []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/faroe-islands-national-team-squad-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 18:22:00 +0000",
-         "title" : "Faroe Islands - National team squad 2023"
-      },
-      {
          "description" : "There was only one change in the top ten places in the world rankings in March: Hikaru Nakamura climbed to fifth place after his success in the American Cup. Nakamura now has a 7-point lead over Anish Giri in sixth place. Vincent Keymer has risen from 2699 points to 2700 thanks to two games played in the German Bundesliga and now occupies the 38th place in the world ranking.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,22 +248,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reykjavik-open-live-commentary-nick-pert",
          "pubDate" : "Sat, 01 Apr 2023 17:45:00 +0100",
          "title" : "Reykjavik Open: Live commentary by Nick Pert and Blair Connell"
-      },
-      {
-         "description" : "The 1000GM Bay Area April IM Norm Scheveningen 2023 will be held from March 31st to April 9th in San Jose, California, United States as a 10-round Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are John Bryant, Shawnak []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-bay-area-april-im-norm-scheveningen-2023-live/",
-         "pubDate" : "Sat, 01 Apr 2023 16:38:23 +0000",
-         "title" : "1000GM Bay Area April IM Norm Scheveningen 2023 - LIVE"
-      },
-      {
-         "description" : "The 1000GM Bay Area April IM Norm Scheveningen 2023 will be held from March 31st to April 9th in San Jose, California, United States as a 10-round Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. The top five rated players are John Bryant, Shawnak []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-bay-area-april-im-norm-scheveningen-2023/",
-         "pubDate" : "Sat, 01 Apr 2023 16:36:22 +0000",
-         "title" : "1000GM Bay Area April IM Norm Scheveningen 2023"
       },
       {
          "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
@@ -1848,22 +1864,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/12/hbcu-classic-on-april-22nd/",
          "pubDate" : "Sun, 12 Mar 2023 23:26:48 +0000",
          "title" : "HBCU Chess Classic on April 22nd!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2277",
-         "pubDate" : "Sun, 12 Mar 2023 22:12:39 +0000",
-         "title" : "Henr&iacute;quez Villagra and Campos win Zonal 2.5 in Asunci&oacute;n, Paraguay"
-      },
-      {
-         "description" : " You'll probably recognise this Famous Position from a Famous Game. In the 1963 US Championship game between Fischer and Benko, Bobby noticed that the immediate e5, threatening mate on h7, would be met by f5, so he played Rf6!, winning a couple of moves later. You see the idea: a rook sacrifice so that a <a href=\"https://chessimprover.com/a-tactical-idea/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Tactical Idea\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-tactical-idea/\">A Tactical Idea</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-tactical-idea/",
-         "pubDate" : "Sun, 12 Mar 2023 19:41:03 +0000",
-         "title" : "A Tactical Idea"
       }
    ]
 }
