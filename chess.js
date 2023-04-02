@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 119th instalment of his ChessBase show \"Understanding before Moving\", Herman starts a new series: \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-119-chess-history-in-a-nutshell-1",
+         "pubDate" : "Sun, 02 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 119: Chess history in a nutshell (1)"
+      },
+      {
+         "description" : "The United Nations recognizes April 2 as the Autism Awareness Day. The Infinite Chess Project, which aims to help children with autism spectrum disorder (ASD) by teaching them chess, started in 2019 as a small pilot project. In three years, it has gained momentum and expanded to ten countries: Albania, France, Gibraltar, Latvia, Malaysia, Mongolia, Morocco, South Africa, Spain, and Turkey.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/autism-awareness-day-infinite-chess-project",
+         "pubDate" : "Sun, 02 Apr 2023 14:30:00 +0100",
+         "title" : "Autism Awareness Day: Infinite Chess project outlook"
+      },
+      {
+         "description" : " The Reykjavik Open is one of the bigger chess events held around the world. It is organised as one big swiss, and with 400 players entered, accelerating the pairings for the 9 round event makes some sense. This also means that the 1st round games are a little more interesting than non accelerated events. Board 2 saw just such a game in round 1 where GM Nils Grandellius launched a brutal sacrificial attack against IM Peter Large. If you are taking notes at home, the sacrifice on h6 was based on having 3 attackers versus 1 defender on the kingside. <br /> <b>Grandelius,Nils (2658) - Large,Peter G (2227) [E16]</b><br /> Reykjavik Open 2023 Reykjavik (1.2), 29.03.2023 <script> new PgnViewer( { ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/a-brutal-attack.html",
+         "pubDate" : "Sun, 02 Apr 2023 12:53:00 +0000",
+         "title" : "A brutal attack"
+      },
+      {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -994,14 +1018,6 @@ news_feed (
          "title" : "Texas Tech wins KCF University Cup and meets with Kasparov in New York"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 118th instalment of his ChessBase show \"Understanding before Moving\", Herman continues to explain why it is good to study and to play the Sicilian. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-118-play-the-sicilian",
-         "pubDate" : "Sun, 26 Mar 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 118: Play the Sicilian!"
-      },
-      {
          "description" : "It took two full games and two messy tiebreakers before the victors of the action of day nine in The American Cup were decided. In the Women&#39;s event, GM Irina Krush needed only a draw, but lost the regulation game before ultimately deciding the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-tactics/",
          "pubDate" : "Sun, 26 Mar 2023 10:24:52 +0000",
          "title" : "Chess Heroes: Tactics"
-      },
-      {
-         "description" : "America's best chess players return to the Saint Louis Chess Club to battle over the board from March 17- 26 for the second annual American Cup. With $300,000 in prize money, the competitors will prove their mettle under mounting pressure in a double-elimination knockout tournament. Unlike in the inaugural edition, Hikaru Nakamura will be among the participants this time around. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 EDT, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-live",
-         "pubDate" : "Sun, 26 Mar 2023 08:55:00 +0100",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
@@ -1848,22 +1856,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/i-should-just-focus-on-chess.html",
          "pubDate" : "Sun, 12 Mar 2023 16:19:00 +0000",
          "title" : "I Should Just Focus on the Chess"
-      },
-      {
-         "description" : " William Norwood Potter is one of those chess players who could be considered 'almost famous'. Playing in the 1870's and 80's, he was a contemporary of Steinitz, and according to Lasker, had a degree of influence on Steinit'z development as a positional player. Later noted for his writing, he was also a pretty handy player, narrowly losing a match to Zukertort, 8-6 (+4=8-2). He at least had the satisfaction of winning the following minature <br /> <br /> <b>Zukertort,Johannes Hermann - Potter,William Norwood [C01]</b><br /> Match Zukertort-Potter +4-2=8 London (10), 25.11.1875 <script> new PgnViewer( { boardName: \"game1385\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/potter.html",
-         "pubDate" : "Sun, 12 Mar 2023 12:25:00 +0000",
-         "title" : "Potter!"
-      },
-      {
-         "description" : "Karsten Mueller continues his training series for ambitious amateurs in ChessBase Magazine #212. This time it's about basic techniques in the endgame with rook and pawn against rook. You've probably heard about the \"Lucena win\", \"Vancura's draw\" - but do you still know how the whole thing works and which details you have to pay attention to? Karsten Mueller's contribution consists of an introductory video in which the techniques and motifs are presented and five interactive training videos in which it is your task to enter the solution on the board. You can watch the introductory video here. The interactive part with video feedback is only available in CBM#212!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-series-fundamental-endgame-knowledge-part-2-rook-and-pawn-vs-rook",
-         "pubDate" : "Sun, 12 Mar 2023 13:00:00 +0100",
-         "title" : "\"Fundamental Endgame Knowledge\" - Part 2: Rook and Pawn vs. Rook"
       }
    ]
 }
