@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2321",
+         "pubDate" : "Mon, 03 Apr 2023 19:19:07 +0000",
+         "title" : "WGP New Delhi: Round 9 Recap"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Mon, 03 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the Chessable Masters Play-In. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-2",
+         "pubDate" : "Mon, 03 Apr 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #234: Highlights from the Chessable Masters Play-In - with Iniyan!"
+      },
+      {
+         "description" : "The traditional Reykjavik Open is taking place from 29 March to 4 April at the Harpa Conference Centre in the Icelandic capital. Nicholas Pert, the 2021 British champion, is commentating a few of the rounds on Simon Williams' Twitch channel. In rounds 6 and 8, he is joined by Blair Connell, with the duo focusing on the game of the ever-entertaining Ginger GM! | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-live-commentary-nick-pert",
+         "pubDate" : "Mon, 03 Apr 2023 17:45:00 +0100",
+         "title" : "Reykjavik Open: Live commentary by Nick Pert and Blair Connell"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2320",
+         "pubDate" : "Mon, 03 Apr 2023 16:33:43 +0000",
+         "title" : "Lei Tingjie wins the Women's Candidates Final "
+      },
+      {
+         "description" : "Ju Wenjun &#x2013; Lei Tingjie is the World Women Chess Championship 2023 final. Lei Tingjie defeated 3,5-0,5 Tan Zhongyi in the Women Candidates match and is going to challenge Ju Wenjun for the World Champion title. &#8220;I'm so happy for Lei Tingjie because she is a true role model : extremely nice, super strong at []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lei-tingjie-is-a-true-role-model-tweetoftheday/",
+         "pubDate" : "Mon, 03 Apr 2023 16:05:19 +0000",
+         "title" : "Lei Tingjie is a true role model #TweetOftheDay"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
          "pubDate" : "Mon, 03 Apr 2023 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Yangyi Yu Vladimir Kramnik is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yangyi-yu-vladimir-kramnik-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:36:20 +0000",
+         "title" : "Yangyi Yu - Vladimir Kramnik LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Maksim Chigaev Grigoriy Oparin is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maksim-chigaev-grigoriy-oparin-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:30:56 +0000",
+         "title" : "Maksim Chigaev - Grigoriy Oparin LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "Praggnanandhaa Tuan Minh Le is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
@@ -74,6 +138,14 @@ news_feed (
          "title" : "One more weird rule"
       },
       {
+         "description" : " The Chessable Masters take place 3rd to 7th April 2023. The format is double-elimination KO. There are three sections. The 8 players in division 1 are: Magnus Carlsen, Vladislav Artemiev, Fabiano Caruana, Le Quang Liem, Hikaru Nakamura, Vladimir Fedoseev, Wesley So and Levon Aronian. There are two other sections with Division 2 having Anish Giri, Vladimir Kramnik, Nodirbek Abdusattorov, Daniil Dubov, Vincent Keymer, MVL, R Praggnanandhaa etc... ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2023",
+         "pubDate" : "Mon, 3 Apr 2023 16:56:00 +0400",
+         "title" : "Chessable Masters 2023 - Games and Results"
+      },
+      {
          "description" : "Lei Tingjie has beaten Tan Zhongyi with a game to spare to earn a Women's World Championship match against her Chinese compatriot Ju Wenjun this July. 26-year-old Lei Tingjie lost the first game of the FIDE Women's Candidates Final, but then stormed back to win three of the next four and clinch a 3.5:1.5 victory.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -98,36 +170,12 @@ news_feed (
          "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
-         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
-         "pubDate" : "Mon, 03 Apr 2023 10:17:00 +0000",
-         "title" : "Reykjavik Chess Open 2023 LIVE"
-      },
-      {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
          "pubDate" : "Mon, 03 Apr 2023 09:00:00 +0100",
          "title" : "Women's Candidates Final - Live!"
-      },
-      {
-         "description" : "The 2023 Chinese Women finals were played March 30 April 2 in Shenzhen, China. The event was a 16 player tournament with Yifan Hou, Guo Qi, Ju Wenjun, Zhao Shengxin, Huang Qian, Zhao Xue, Xiao Yiyi, etc. The event consisted of preliminary rounds, quarter final, semi final and final. Ju Wenjun defeated Yifan Hou []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-defeats-yifan-hou-in-the-2023-chinese-finals/",
-         "pubDate" : "Mon, 03 Apr 2023 06:39:56 +0000",
-         "title" : "Ju Wenjun defeats Yifan Hou in the 2023 Chinese Finals"
-      },
-      {
-         "description" : "Wesley So Levon Aronian is a quarterfinal match from the Chessable Masters 2023. Wesley So enters Chessable Masters as invited player, while Aronian qualified through the Chessable Masters Play In All news about Wesley So / All news about Levon Aronian Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wesley-so-levon-aronian-live-chessable-masters-2023/",
-         "pubDate" : "Mon, 03 Apr 2023 04:56:35 +0000",
-         "title" : "Wesley So - Levon Aronian LIVE Chessable Masters 2023"
       },
       {
          "description" : "",
@@ -282,7 +330,7 @@ news_feed (
          "title" : "FIDE ratings April 2023"
       },
       {
-         "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
+         "description" : "Edited April 3, 2023: Happy April Fool&#38;rsquo;s Day, everyone. Stay safe! Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anish-giri-chesscom-ceo",
@@ -930,22 +978,6 @@ news_feed (
          "title" : "Women Grand Prix in shambles"
       },
       {
-         "description" : "In the diagram position, it is White to move and draw. White is an exchange up but he still is in trouble because his pawns are weak and his rook has trouble defending them. In the game White did not find a way to draw the game and lost. Can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-bishop-2",
-         "pubDate" : "Tue, 28 Mar 2023 09:00:00 +0100",
-         "title" : "Rook vs bishop"
-      },
-      {
-         "description" : "The second-round games of the Women's Grand Prix in New Delhi were played on Monday. Bibisara Assaubayeva, the 19-year-old IM from Kazakhstan, is the only player who has so far scored a win in the tournament, as she defeated India's Vaishali Rameshbabu with black. A look at the standings does not help much at the moment: six players have played two games, four have played only one. | Photo: FIDE / Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r2",
-         "pubDate" : "Tue, 28 Mar 2023 07:30:00 +0100",
-         "title" : "New Delhi GP: Assaubayeva beats Vaishali"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -960,14 +992,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-candidates-tournaments-to-be-held-in-toronto",
          "pubDate" : "Mon, 27 Mar 2023 10:31:00 -0700",
          "title" : "FIDE Candidates, Women's Candidates 2024 To Be Held In Toronto"
-      },
-      {
-         "description" : "Hikaru Nakamura pulled through to become the 2023 American Cup Champion after defeating Wesley So 2&frac12;-1&frac12; in a difficult final Elimination Match. The finale started out with three solid draws, but finished abruptly in the fourth game after a blunder by So got his queen trapped inside Nakamura's territory. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2023-d10",
-         "pubDate" : "Mon, 27 Mar 2023 18:10:00 +0100",
-         "title" : "Hikaru Nakamura wins the American Cup"
       },
       {
          "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A> (January 2023), I ended the post saying, <BLOCKQUOTE> I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P> A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P> In that same post, I note",
@@ -1824,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2280",
          "pubDate" : "Mon, 13 Mar 2023 21:12:49 +0000",
          "title" : "London Chess and Education Conference set for March 17-19"
-      },
-      {
-         "description" : "In the previous off-week engine post, <A HREF=\"https://chessforallages.blogspot.com/2023/02/chessify-vs-chessbase-engine-cloud.html\">Chessify vs. Chessbase Engine Cloud</A> (February 2023), I noted, <BLOCKQUOTE> Since the beginning of the year, the off-week engine posts -- meaning those weeks that I'm not tracking TCEC/CCC -- have been looking at the Chessify engine cloud. </BLOCKQUOTE> <P> While the Chessbase service deserves a deeper look, I'm going to switch my attention to another, similar service that I can use immediately without installing expensive software that I don't really need. The following screen capture shows the home page for 'Next Chess Move [NCM]: The strongest online ches",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/nextchessmovecom.html",
-         "pubDate" : "Mon, 13 Mar 2023 16:05:00 +0000",
-         "title" : "NextChessMove.com"
       }
    ]
 }
