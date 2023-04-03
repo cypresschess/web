@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-04-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304029182 target='_blank'>APRIL 2ND 2023 SUNDAY SWISS</a>",
 "CYPRESS","2023-03-31","24","<a href=http://www.uschess.org/msa/XtblMain.php?202303318452 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-03-31","27","<a href=http://www.uschess.org/msa/XtblMain.php?202303317942 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-03-31","3","<a href=http://www.uschess.org/msa/XtblMain.php?202303317752 target='_blank'>FBCC 2023 OUT LIKE A LAMB OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "MISSOURI CITY","2022-08-16","6","<a href=http://www.uschess.org/msa/XtblMain.php?202208165542 target='_blank'>RCC QUADS AUGUST 16, 2022</a>",
 "LEAGUE CITY","2022-08-01  - 08-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202208154652 target='_blank'>CLCC AUGUST MONDAYS</a>",
 "HOUSTON","2022-08-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202208144392 target='_blank'>AUGUST 14 SUNDAY SWISS</a>",
-"HOUSTON","2022-08-13","41","<a href=http://www.uschess.org/msa/XtblMain.php?202208134352 target='_blank'>AUG 13 SATURDAY CHESS</a>",
 ]);
