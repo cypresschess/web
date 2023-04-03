@@ -1848,14 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/acf-newsletter.html",
          "pubDate" : "Mon, 13 Mar 2023 11:09:00 +0000",
          "title" : "ACF Newsletter"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2278",
-         "pubDate" : "Sun, 12 Mar 2023 23:53:49 +0000",
-         "title" : "EICC 2023: Shevchenko joins Sarana on the top with one round to go"
       }
    ]
 }
