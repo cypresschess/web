@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Champions Chess Tour Chessable Masters 2023 Knockout kicked off on Monday, and Division I saw four players advance to the Winners Semifinals: GMs Vladislav Artemiev, Fabiano Caruana, Hikaru Nakamura, and Wesley So. They respectively knocked GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-1",
+         "pubDate" : "Mon, 03 Apr 2023 15:43:00 -0700",
+         "title" : "Artemiev Upsets World Champion; Caruana, Nakamura, So Advance To Winners"
+      },
+      {
+         "description" : "Goryachkina secures a crucial win against Dronavalli and is hot on heels of tournament leader Assaubayeva who settles for a draw against Dzagnidze The Women's Grand Prix in New Delhi entered its decisive phase as Round Nine unfolded, with players gearing up for the final push in the remaining days of the tournament. Here are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-9-report/",
+         "pubDate" : "Mon, 03 Apr 2023 21:53:45 +0000",
+         "title" : "FIDE Women Grand Prix - round 9 report"
+      },
+      {
+         "description" : "The Chessable Masters, the 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-masters-div-3-winners-live/",
+         "pubDate" : "Mon, 03 Apr 2023 21:45:22 +0000",
+         "title" : "Chessable Masters Div 3 Winners - LIVE"
+      },
+      {
+         "description" : "This is a flash report. Full report coming soon. GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi with the black pieces in game five on Monday. With her second victory in a row, Lei has clinched victory in the final of the FIDE Women&#39;s Candidate&#39;s To...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-5",
+         "pubDate" : "Mon, 03 Apr 2023 13:42:00 -0700",
+         "title" : "Flash Report: Lei Wins Final With Round To Spare"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "Raunak Sadhwani - Erigaisi Arjun LIVE Chessable Masters Div 2 Winners"
       },
       {
-         "description" : "Nodirbek Abdusattorov Anish Giri is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-anish-giri-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 14:52:53 +0000",
-         "title" : "Nodirbek Abdusattorov - Anish Giri LIVE Chessable Masters Div 2 Winners"
-      },
-      {
          "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +176,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/lei-tingjie-wins-the-fide-women-s-candidates",
          "pubDate" : "Mon, 03 Apr 2023 12:41:18 +0000",
          "title" : "Lei Tingjie wins the FIDE Women's Candidates"
-      },
-      {
-         "description" : "Ju Wenjun Lei Tingjie is the World Women Chess Championship 2023 final. Lei Tingjie defeated 3,5-0,5 Tan Zhongyi in the Women Candidates match and is going to challenge Ju Wenjun for the World Champion title. Both Ju Wenjun and Lei Tingjie have been impressive this year. Just recently Ju Wenjun defeated Yifan Hou in []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-is-the-world-women-chess-championship-2023-final/",
-         "pubDate" : "Mon, 03 Apr 2023 10:36:00 +0000",
-         "title" : "Ju Wenjun - Lei Tingjie is the World Women Chess Championship 2023 final"
       },
       {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
@@ -1570,14 +1586,6 @@ news_feed (
          "title" : "B&DCA Clough Cup"
       },
       {
-         "description" : "GM Sam Shankland set The American Cup elimination bracket alight on Sunday after defeating GM Ray Robson in a marathon match that was decided after six games. With an armageddon game looming and the two-time world Puzzle Rush champion posing a ser...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-3",
-         "pubDate" : "Sun, 19 Mar 2023 22:01:00 -0700",
-         "title" : "Shankland Ousts Robson In Epic Playoff"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1624,14 +1632,6 @@ news_feed (
          "link" : "https://chessimprover.com/flawed-flohr-floored/",
          "pubDate" : "Sun, 19 Mar 2023 10:00:14 +0000",
          "title" : "Flawed Flohr Floored"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So all managed to win their matches on Saturday in The 2023 American Cup in their second rapid playoff games to progress to the semifinals of the Champions bracket. Caruana struggled to subdue sta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-2",
-         "pubDate" : "Sat, 18 Mar 2023 22:27:00 -0700",
-         "title" : "Caruana Clinches Match Victory In Catalan Classic"
       },
       {
          "description" : "In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) ",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2281",
          "pubDate" : "Tue, 14 Mar 2023 01:37:19 +0000",
          "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2280",
-         "pubDate" : "Mon, 13 Mar 2023 21:12:49 +0000",
-         "title" : "London Chess and Education Conference set for March 17-19"
       }
    ]
 }
