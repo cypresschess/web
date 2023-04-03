@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "National Arbiter Seminar Indore Certificates are out to download Link : https://aicf.online/Arbiter-S-Indore.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-arbiter-seminar-indore-certificates/",
-         "pubDate" : "Mon, 03 Apr 2023 10:48:55 +0000",
-         "title" : "National Arbiter Seminar Indore, Certificates"
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Mon, 03 Apr 2023 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Praggnanandhaa Tuan Minh Le is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/praggnanandhaa-tuan-minh-le-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:23:35 +0000",
+         "title" : "Praggnanandhaa - Tuan Minh Le LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Vincent Keymer Georg Meier is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vincent-keymer-georg-meier-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:18:46 +0000",
+         "title" : "Vincent Keymer - Georg Meier LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Denis Lazavik Daniil Dubov is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/denis-lazavik-daniil-dubov-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:07:37 +0000",
+         "title" : "Denis Lazavik - Daniil Dubov LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave Aleksey Dreev is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-aleksey-dreev-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 15:00:15 +0000",
+         "title" : "Maxime Vachier-Lagrave - Aleksey Dreev LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Raunak Sadhwani Erigaisi Arjun is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/raunak-sadhwani-erigaisi-arjun-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 14:56:30 +0000",
+         "title" : "Raunak Sadhwani - Erigaisi Arjun LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Anish Giri is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-anish-giri-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Mon, 03 Apr 2023 14:52:53 +0000",
+         "title" : "Nodirbek Abdusattorov - Anish Giri LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazakhstan-vs-world-match-women-astana",
+         "pubDate" : "Mon, 03 Apr 2023 15:00:00 +0100",
+         "title" : "Kazakhstan vs the World: Top female teams to face off in Astana"
+      },
+      {
+         "description" : " With the Interschool chess season starting, my collection of strange rules continues to grow. In a recent competition there was a disputed finish because one player informed their opponent that \"kings were not allowed to capture\". I assume that the reasoning was that in other games the player was told \"the king can't capture that piece\", but wasn't given a reason (it would put the king in check). Unfortunately the game was completed (and the board reset) before I was told of this. In a related event, I then made an announcement about checking 'strange rules' that an opponent insists are real, and gave as an example of a fake rule 'pawns must wait a turn on the back rank before being promote",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/one-more-weird-rule.html",
+         "pubDate" : "Mon, 03 Apr 2023 13:30:00 +0000",
+         "title" : "One more weird rule"
+      },
+      {
+         "description" : "Lei Tingjie has beaten Tan Zhongyi with a game to spare to earn a Women's World Championship match against her Chinese compatriot Ju Wenjun this July. 26-year-old Lei Tingjie lost the first game of the FIDE Women's Candidates Final, but then stormed back to win three of the next four and clinch a 3.5:1.5 victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/lei-tingjie-wins-the-fide-women-s-candidates",
+         "pubDate" : "Mon, 03 Apr 2023 12:41:18 +0000",
+         "title" : "Lei Tingjie wins the FIDE Women's Candidates"
       },
       {
          "description" : "Ju Wenjun Lei Tingjie is the World Women Chess Championship 2023 final. Lei Tingjie defeated 3,5-0,5 Tan Zhongyi in the Women Candidates match and is going to challenge Ju Wenjun for the World Champion title. Both Ju Wenjun and Lei Tingjie have been impressive this year. Just recently Ju Wenjun defeated Yifan Hou in []",
@@ -24,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
          "pubDate" : "Mon, 03 Apr 2023 11:30:00 +0100",
          "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 &#x2013; April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reykjavik-chess-open-2023-live/",
+         "pubDate" : "Mon, 03 Apr 2023 10:17:00 +0000",
+         "title" : "Reykjavik Chess Open 2023 LIVE"
       },
       {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
@@ -48,62 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/wesley-so-levon-aronian-live-chessable-masters-2023/",
          "pubDate" : "Mon, 03 Apr 2023 04:56:35 +0000",
          "title" : "Wesley So - Levon Aronian LIVE Chessable Masters 2023"
-      },
-      {
-         "description" : "Hikaru Nakamura Vladimir Fedoseev is a quarterfinal match from the Chessable Masters 2023. Nakamura enters Chessable Masters as invited player, while Fedoseev qualified through the Chessable Masters Play In All news about Hikaru Nakamura / All news about Vladimir Fedoseev Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le Quang []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-vladimir-fedoseev/",
-         "pubDate" : "Mon, 03 Apr 2023 04:40:20 +0000",
-         "title" : "Hikaru Nakamura - Vladimir Fedoseev"
-      },
-      {
-         "description" : "Fabiano Caruana Le Quang Liem is a quarterfinal match from the Chessable Masters 2023. Caruana enters Chessable Masters as invited player, while Le QUang Liem qualified through the Chessable Masters Play In All news about Fabiano Caruana / All news about le Quang Liem Other games from the Chessable Masters 2023 quarterfinal include: Hikaru []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-le-quang-liem-live-chessable-masters-2023/",
-         "pubDate" : "Mon, 03 Apr 2023 04:32:19 +0000",
-         "title" : "Fabiano Caruana - Le Quang Liem LIVE Chessable Masters 2023"
-      },
-      {
-         "description" : "Magnus Carlsen Vladislav Artemiev is a quarterfinal match from the Chessable Masters 2023. Carlsen enters Chessable Masters as invited player, while Artemiev qualified through the Chessable Masters Play In All news about Magnus Carlsen / All news about Vladislav Artemiev Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le Quang []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/carlsen-artemiev-live-chessable-masters-2023/",
-         "pubDate" : "Mon, 03 Apr 2023 03:58:18 +0000",
-         "title" : "Carlsen - Artemiev LIVE Chessable Masters 2023"
-      },
-      {
-         "description" : "Round 8 of the FIDE Women Grand Prix in New Delhi saw Bibisara and Zhu draw as Goryachkina makes a lucky escape in a completely lost position against Lagno Two games ended in a draw and two with a victory for White in Round Eight of the Women&#x2019;s Grand Prix in New Delhi. Here are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/bibisara-assaubayeva-is-the-leader-of-the-fide-women-grand-prix/",
-         "pubDate" : "Mon, 03 Apr 2023 03:39:00 +0000",
-         "title" : "Bibisara Assaubayeva is the leader of the FIDE Women Grand Prix"
-      },
-      {
-         "description" : "The Catalan Youth Championship will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system. &#xFEFF;",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-u16-u20-live/",
-         "pubDate" : "Sun, 02 Apr 2023 21:05:58 +0000",
-         "title" : "Catalan U16 - U20 - LIVE"
-      },
-      {
-         "description" : "The Catalan Under 16 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system.You can also see Catalan Under 18 Championship 2023 &#124;&#xA0;Catalan Under 20 Championship 2023. Full list of players : No. Name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-under-16-championship-2023/",
-         "pubDate" : "Sun, 02 Apr 2023 21:00:42 +0000",
-         "title" : "Catalan Under 16 Championship 2023"
-      },
-      {
-         "description" : "The Catalan Under 18 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system.You can also see Catalan Under 20 Championship 2023 &#124;&#xA0;Catalan Under 16 Championship 2023. Full list of players : No. Name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-under-18-championship-2023/",
-         "pubDate" : "Sun, 02 Apr 2023 20:57:48 +0000",
-         "title" : "Catalan Under 18 Championship 2023"
       },
       {
          "description" : "",
@@ -962,22 +986,6 @@ news_feed (
          "title" : "BCC arbiters' expression of interest"
       },
       {
-         "description" : "It is usual for rook endgames to end in a draw. At least, they usually have a strong tendency to do so. Recently young grandmaster Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. Even our endgame expert Dr. Karsten M&uuml;ller, and a visiting super-GM colleague of Iniyan had great difficulty finding the win. Can you help find the convincing proof?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-iniyan-challenge",
-         "pubDate" : "Mon, 27 Mar 2023 15:45:00 +0100",
-         "title" : "The Iniyan Challenge"
-      },
-      {
-         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
-         "pubDate" : "Mon, 27 Mar 2023 15:15:00 +0100",
-         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
-      },
-      {
          "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1434,6 +1442,14 @@ news_feed (
          "title" : "BCC 2023 tenders"
       },
       {
+         "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-below-2000-certificates/",
+         "pubDate" : "Wed, 22 Mar 2023 05:43:40 +0000",
+         "title" : "National Amateur Below 2000 Certificates"
+      },
+      {
          "description" : "GM Levon Aronian kept his tournament dreams alive in Saint Louis on Tuesday after defeating GM Fabiano Caruana in a monumental clash at The 2023 American Cup. Following six decisive results in their rapid and blitz encounters, an armageddon tiebre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1770,14 +1786,6 @@ news_feed (
          "title" : "The Atabayev brothers sweep the podium of the Turkmenistan Championship"
       },
       {
-         "description" : "Liem Le, Levon Aronian, Vladimir Fedoseev and Vladislav Artemiev will join Magnus Carlsen, Hikaru Nakamura, Wesley So and Fabiano Caruana in Division I of next month's Chessable Masters. Among the players who narrowly missed out and will play in Division II are Maxime Vachier-Lagrave, Anish Giri, Arjun Erigaisi, Nodirbek Abdusattorov and Vladimir Kramnik.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/aronian-le-fedoseev-artemiev-book-chessable-masters-spots",
-         "pubDate" : "Tue, 14 Mar 2023 15:56:45 +0000",
-         "title" : "Aronian, Le, Fedoseev & Artemiev reach Chessable Masters"
-      },
-      {
          "description" : " Canberra IM Junta Ikeda has updated his blogging platform which can now be <a href=\"http://juntaikeda.substack.com\">found here</a> (Entering your email address to access the content isn't mandatory). One of his most popular posts is the list of the 10 books that helped him become an IM. While I won't repeat the list here, it looks to be a pretty solid list. I have 8 or 9 books on the list, but I'm pretty sure I have not studied them with the same effectiveness as Junta did. The two most interesting choices were John Watson's \"Secrets of Modern Chess Strategy\", and \"Life and Games of Mikhail Tal\". The Watson book can be seen as a modern update to \"My System\", which normally turns up on lists",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1824,30 +1832,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/nextchessmovecom.html",
          "pubDate" : "Mon, 13 Mar 2023 16:05:00 +0000",
          "title" : "NextChessMove.com"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2279",
-         "pubDate" : "Mon, 13 Mar 2023 15:27:57 +0000",
-         "title" : "New Regulations for the World Senior Championships approved by FIDE Council "
-      },
-      {
-         "description" : "The European Chess Championship is taking place on 2-14 March 2023 in Vrnjacka Banja, Serbia. The event features more than 480 players from 40 federations, including more than 125 Grandmasters and 104 International Masters. The top 23 players in the final standings will get a spot in the next edition of the FIDE World Cup. | Follow the games live with computer analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-live",
-         "pubDate" : "Mon, 13 Mar 2023 14:55:00 +0100",
-         "title" : "European Chess Championship - Live!"
-      },
-      {
-         "description" : "The 2023 Finance Council meeting will take place on the afternoon of 22nd April by video conference only. The prescribed business of the meeting includes...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-finance-council-2023/",
-         "pubDate" : "Mon, 13 Mar 2023 12:37:40 +0000",
-         "title" : "ECF Finance Council 2023"
       }
    ]
 }
