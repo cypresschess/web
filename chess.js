@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Arbiter Seminar Indore Certificates are out to download Link : https://aicf.online/Arbiter-S-Indore.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiter-seminar-indore-certificates/",
+         "pubDate" : "Mon, 03 Apr 2023 10:48:55 +0000",
+         "title" : "National Arbiter Seminar Indore, Certificates"
+      },
+      {
+         "description" : "Ju Wenjun Lei Tingjie is the World Women Chess Championship 2023 final. Lei Tingjie defeated 3,5-0,5 Tan Zhongyi in the Women Candidates match and is going to challenge Ju Wenjun for the World Champion title. Both Ju Wenjun and Lei Tingjie have been impressive this year. Just recently Ju Wenjun defeated Yifan Hou in []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-lei-tingjie-is-the-world-women-chess-championship-2023-final/",
+         "pubDate" : "Mon, 03 Apr 2023 10:36:00 +0000",
+         "title" : "Ju Wenjun - Lei Tingjie is the World Women Chess Championship 2023 final"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Mon, 03 Apr 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
+         "pubDate" : "Mon, 03 Apr 2023 09:00:00 +0100",
+         "title" : "Women's Candidates Final - Live!"
+      },
+      {
          "description" : "The 2023 Chinese Women finals were played March 30 April 2 in Shenzhen, China. The event was a 16 player tournament with Yifan Hou, Guo Qi, Ju Wenjun, Zhao Shengxin, Huang Qian, Zhao Xue, Xiao Yiyi, etc. The event consisted of preliminary rounds, quarter final, semi final and final. Ju Wenjun defeated Yifan Hou []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -74,14 +106,6 @@ news_feed (
          "title" : "Catalan Under 18 Championship 2023"
       },
       {
-         "description" : "The Catalan Under 20 Championship 2023 will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 8-round Swiss system. You can also see Catalan Under 18 Championship 2023 &#124;&#xA0;Catalan Under 16 Championship 2023 . List of players : Name []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/catalan-under-20-championship-2023/",
-         "pubDate" : "Sun, 02 Apr 2023 20:54:06 +0000",
-         "title" : "Catalan Under 20 Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -130,6 +154,14 @@ news_feed (
          "title" : "WCF Game 4: Lei Tingjie strikes hard and fast"
       },
       {
+         "description" : "This blog's long running series, <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), is a teenager now. In last month's post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/poster-perfect-chess-art.html\">Poster Perfect Chess Art</A> (March 2023), I wrote, <BLOCKQUOTE> This month's initial list was top heavy with chess sets. I had to scroll way down the list to find an example of chess art, so scroll I did. </BLOCKQUOTE> <P> Copy that and scroll again. The item pictured below was titled, 'George Hall Neale 1863-1940 Antique British Oil Painting \"A GAME OF CHESS\" c1900'. It sold for '<STRIKE>GBP 285.00",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/baffling-ebay.html",
+         "pubDate" : "Sun, 02 Apr 2023 15:56:00 +0000",
+         "title" : "Baffling eBay"
+      },
+      {
          "description" : "GM Lei Tingjie scored an important win over GM Tan Zhongyi with White to push herself a point in front with two rounds to go in the final of the FIDE Women&#39;s Candidate&#39;s Tournament 2022-2023 on Sunday. Selecting a theoretical approach in the Cat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,22 +192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/a-brutal-attack.html",
          "pubDate" : "Sun, 02 Apr 2023 12:53:00 +0000",
          "title" : "A brutal attack"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Sun, 02 Apr 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
-         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
-         "pubDate" : "Sun, 02 Apr 2023 09:00:00 +0100",
-         "title" : "Women's Candidates Final - Live!"
       },
       {
          "description" : "India's GM Aravindh Chithambaram Vr. &#160;beat GM Pantsulaia Levan of Georgia in the 10th and final round to win the 20th Delhi Open International Grandmasters",
@@ -240,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-ratings-april-2023",
          "pubDate" : "Sat, 01 Apr 2023 19:00:00 +0100",
          "title" : "FIDE ratings April 2023"
-      },
-      {
-         "description" : "The traditional Reykjavik Open is taking place from 29 March to 4 April at the Harpa Conference Centre in the Icelandic capital. Nicholas Pert, the 2021 British champion, is commentating a few of the rounds on Simon Williams' Twitch channel. In rounds 6 and 8, he is joined by Blair Connell, with the duo focusing on the game of the ever-entertaining Ginger GM! | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-live-commentary-nick-pert",
-         "pubDate" : "Sat, 01 Apr 2023 17:45:00 +0100",
-         "title" : "Reykjavik Open: Live commentary by Nick Pert and Blair Connell"
       },
       {
          "description" : "Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster, will assume the role effective immediately, succeeding Erik Allebest, co-foun...",
@@ -962,6 +970,14 @@ news_feed (
          "title" : "The Iniyan Challenge"
       },
       {
+         "description" : "The FIDE Women's Grand Prix 2022-23 is into its third leg, and it is a huge moment for Indian chess. The start to the event has been rocky. One of the participants, Zhansaya Abdumalik, has withdrawn from the tournament after reaching New Delhi and spending a day at the venue. The players wrote an official letter to the FIDE President, and FIDE responded back with an official statement. Meanwhile, Zhansaya's compatriot Bibisara Assaubayeva, who is present at the venue, wrote a post on social media voicing her opinions. We try to put it all together in this article. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-withdrawals",
+         "pubDate" : "Mon, 27 Mar 2023 15:15:00 +0100",
+         "title" : "What is happening in New Delhi at the Women's Grand Prix?"
+      },
+      {
          "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1418,14 +1434,6 @@ news_feed (
          "title" : "BCC 2023 tenders"
       },
       {
-         "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-below-2000-certificates/",
-         "pubDate" : "Wed, 22 Mar 2023 05:43:40 +0000",
-         "title" : "National Amateur Below 2000 Certificates"
-      },
-      {
          "description" : "GM Levon Aronian kept his tournament dreams alive in Saint Louis on Tuesday after defeating GM Fabiano Caruana in a monumental clash at The 2023 American Cup. Following six decisive results in their rapid and blitz encounters, an armageddon tiebre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-2023/",
          "pubDate" : "Mon, 13 Mar 2023 12:37:40 +0000",
          "title" : "ECF Finance Council 2023"
-      },
-      {
-         "description" : " The Australian Chess Federation Newsletter, which has lain dormant for the last year, is back up and running. In part this is due to Miles Patterson joining the editorial team, providing the required push to get it going again. Designed t cover recent Australian chess events and activities, it also provides a useful resource for anyone looking to find out about upcoming events, and chess activities in various states and cities. The latest version can be found at <a href=\"https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023\">https://mailchi.mp/c2f96100ef7e/australian-chess-federation-newsletter-11-march-2023</a> while previous issues can be found at <a href=\"h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/acf-newsletter.html",
-         "pubDate" : "Mon, 13 Mar 2023 11:09:00 +0000",
-         "title" : "ACF Newsletter"
       }
    ]
 }
