@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Chinese Women finals were played March 30 April 2 in Shenzhen, China. The event was a 16 player tournament with Yifan Hou, Guo Qi, Ju Wenjun, Zhao Shengxin, Huang Qian, Zhao Xue, Xiao Yiyi, etc. The event consisted of preliminary rounds, quarter final, semi final and final. Ju Wenjun defeated Yifan Hou []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ju-wenjun-defeats-yifan-hou-in-the-2023-chinese-finals/",
+         "pubDate" : "Mon, 03 Apr 2023 06:39:56 +0000",
+         "title" : "Ju Wenjun defeats Yifan Hou in the 2023 Chinese Finals"
+      },
+      {
+         "description" : "Wesley So Levon Aronian is a quarterfinal match from the Chessable Masters 2023. Wesley So enters Chessable Masters as invited player, while Aronian qualified through the Chessable Masters Play In All news about Wesley So / All news about Levon Aronian Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/wesley-so-levon-aronian-live-chessable-masters-2023/",
+         "pubDate" : "Mon, 03 Apr 2023 04:56:35 +0000",
+         "title" : "Wesley So - Levon Aronian LIVE Chessable Masters 2023"
+      },
+      {
+         "description" : "Hikaru Nakamura Vladimir Fedoseev is a quarterfinal match from the Chessable Masters 2023. Nakamura enters Chessable Masters as invited player, while Fedoseev qualified through the Chessable Masters Play In All news about Hikaru Nakamura / All news about Vladimir Fedoseev Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le Quang []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-vladimir-fedoseev/",
+         "pubDate" : "Mon, 03 Apr 2023 04:40:20 +0000",
+         "title" : "Hikaru Nakamura - Vladimir Fedoseev"
+      },
+      {
+         "description" : "Fabiano Caruana Le Quang Liem is a quarterfinal match from the Chessable Masters 2023. Caruana enters Chessable Masters as invited player, while Le QUang Liem qualified through the Chessable Masters Play In All news about Fabiano Caruana / All news about le Quang Liem Other games from the Chessable Masters 2023 quarterfinal include: Hikaru []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-le-quang-liem-live-chessable-masters-2023/",
+         "pubDate" : "Mon, 03 Apr 2023 04:32:19 +0000",
+         "title" : "Fabiano Caruana - Le Quang Liem LIVE Chessable Masters 2023"
+      },
+      {
+         "description" : "Magnus Carlsen Vladislav Artemiev is a quarterfinal match from the Chessable Masters 2023. Carlsen enters Chessable Masters as invited player, while Artemiev qualified through the Chessable Masters Play In All news about Magnus Carlsen / All news about Vladislav Artemiev Other games from the Chessable Masters 2023 quarterfinal include: Fabiano Caruana Le Quang []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/carlsen-artemiev-live-chessable-masters-2023/",
+         "pubDate" : "Mon, 03 Apr 2023 03:58:18 +0000",
+         "title" : "Carlsen - Artemiev LIVE Chessable Masters 2023"
+      },
+      {
+         "description" : "Round 8 of the FIDE Women Grand Prix in New Delhi saw Bibisara and Zhu draw as Goryachkina makes a lucky escape in a completely lost position against Lagno Two games ended in a draw and two with a victory for White in Round Eight of the Women&#x2019;s Grand Prix in New Delhi. Here are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/bibisara-assaubayeva-is-the-leader-of-the-fide-women-grand-prix/",
+         "pubDate" : "Mon, 03 Apr 2023 03:39:00 +0000",
+         "title" : "Bibisara Assaubayeva is the leader of the FIDE Women Grand Prix"
+      },
+      {
          "description" : "The Catalan Youth Championship will take place from 01-06 April 2023 in Tarragona, Spain. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0;The tournament format is 9-round Swiss system. &#xFEFF;",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -34,30 +82,6 @@ news_feed (
          "title" : "Catalan Under 20 Championship 2023"
       },
       {
-         "description" : "The 1st XV Memorial Pedro Lezcano Montalvo 2023 will take place from 02-09 April 2023 in Gran Canaria, Spain. The time control 90 minutes plus a 30-second increment starting from move one. The tournament format is 9-round Swiss system with the participation of: Bojan Kurajica, Alexander Kovchan, Aleksa Strikovich, Oleg M Romanishin, Omar Garcia Blanco, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xv-memorial-pedro-lezcano-montalvo-2023/",
-         "pubDate" : "Sun, 02 Apr 2023 20:37:44 +0000",
-         "title" : "XV Memorial Pedro Lezcano Montalvo 2023"
-      },
-      {
-         "description" : "The 1st Mayor&#x2019;s Trophy Indore International Grandmaster Chess Tournament 2023 will take place from 01-08 April 2023 in The Emerald Heights International School, A.B. Road, Rau, Indore, MP, India. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; The tournament format is 10-round Swiss system with the participation of Levan Pantsulaia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-mayors-trophy-indore-international-grandmaster-chess-tournament-2023-participants/",
-         "pubDate" : "Sun, 02 Apr 2023 20:35:19 +0000",
-         "title" : "1st Mayor's Trophy Indore International Grandmaster Chess Tournament 2023 - Participants"
-      },
-      {
-         "description" : "The 1st Mayor&#x2019;s Trophy Indore International Grandmaster Chess Tournament 2023 will take place from 01-08 April 2023 in The Emerald Heights International School, A.B. Road, Rau, Indore, MP, India. The time control 90 minutes plus a 30-second increment starting from move one.&#xA0; The tournament format is 10-round Swiss system with the participation of Levan Pantsulaia, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1st-mayors-trophy-indore-international-grandmaster-chess-tournament-2023-live/",
-         "pubDate" : "Sun, 02 Apr 2023 20:26:49 +0000",
-         "title" : "1st Mayor's Trophy Indore International Grandmaster Chess Tournament 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,28 +90,12 @@ news_feed (
          "title" : "WGP New Delhi: Round 8 recap"
       },
       {
-         "description" : "Fully recharged after their well-deserved rest day,&#160;Lei Tingjie&#160;and&#160;Tan Zhongyi&#160;returned to the playing venue in Chongqing this afternoon for the second half of their six-game match.&#160; Tied 1.5-1.5 on the scoreboard, the three final games will decide which of the two Chinese Grand Masters advances to the next stage of the cycle: challenging the current Women's []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-candidates-round-4-report/",
-         "pubDate" : "Sun, 02 Apr 2023 20:10:00 +0000",
-         "title" : "FIDE Women Candidates - round 4 report"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2318",
          "pubDate" : "Sun, 02 Apr 2023 20:06:52 +0000",
          "title" : "FIDE April 2023 rating list published"
-      },
-      {
-         "description" : "W&#x142;odzimierz Schmidt, the first Polish Grandmaster, passed away at age 79. W&#x142;odzimierz Schmidt played for Poland 14 times in Chess Olympiads between 1962 and 1994. He was Polish Champion seven times: in 1971, 1974, 1975, 1981, 1988, 1990 and 1994. Schmidt won or tied for 1st at Lublin 1970, Polanica Zdr&#xF3;j 1973, Malm&#xF6; 1977, Bagneux []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/wlodzimierz-schmidt-the-first-polish-grandmaster-passed-away/",
-         "pubDate" : "Sun, 02 Apr 2023 18:31:30 +0000",
-         "title" : "Włodzimierz Schmidt, the first Polish Grandmaster, passed away"
       },
       {
          "description" : "With the World Championship match between Ian Nepomniachtchi and Ding Liren just a week away, Jon Speelman shares how such an important contest looks like from the inside. He worked twice as a second in World Championship matches, both times assisting a player who was facing the legendary Garry Kasparov. Here he goes into detail about his collaboration with Vishy Anand in 1995 - that memorable match atop the World Trade Center in New York. | Photo: Owen Williams, The Kasparov Agency",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://aicf.in/gm-aravindh-chithambaram-vr-conquers-delhi-open-2023/",
          "pubDate" : "Sun, 02 Apr 2023 07:01:38 +0000",
          "title" : "GM Aravindh Chithambaram Vr. conquers Delhi Open 2023"
-      },
-      {
-         "description" : "Bibisara Assaubayeva made her first draw in New Delhi but is still in the lead with 4,5 points. The race for the top is heating up as both Lagno and Goryachkina scored Round 7&#160;saw two decisive outcomes and two draws. It was a relatively short round, with the last game finishing after three and a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-7-report/",
-         "pubDate" : "Sun, 02 Apr 2023 06:40:59 +0000",
-         "title" : "FIDE Women Grand Prix - round 7 report"
       },
       {
          "description" : "All India Chess Federation congratulate International Arbiter Dr Vipnesh Bhardwaj for becoming the member of Historical Committee of FIDE.",
