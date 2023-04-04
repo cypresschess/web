@@ -26,12 +26,12 @@ news_feed (
          "title" : "Chessable Masters Div 3 Winners - LIVE"
       },
       {
-         "description" : "This is a flash report. Full report coming soon. GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi with the black pieces in game five on Monday. With her second victory in a row, Lei has clinched victory in the final of the FIDE Women&#39;s Candidate&#39;s To...",
+         "description" : "With a second win in a row, GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi on Monday to clinch victory in the final of the FIDE Women&#39;s Candidate&#39;s Tournament 2022-2023 with a round to spare. She will challenge GM Ju Wenjun later this year for the wo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-5",
          "pubDate" : "Mon, 03 Apr 2023 13:42:00 -0700",
-         "title" : "Flash Report: Lei Wins Final With Round To Spare"
+         "title" : "Lei Clinches Final With Round To Spare, Becomes Ju's Challenger"
       },
       {
          "description" : "",
@@ -1832,14 +1832,6 @@ news_feed (
          "link" : "https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/",
          "pubDate" : "Tue, 14 Mar 2023 09:00:19 +0000",
          "title" : "Need sure points? QGD, Semi-Tarrasch Variation Edition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2281",
-         "pubDate" : "Tue, 14 Mar 2023 01:37:19 +0000",
-         "title" : "Alexey Sarana wins European Individual Chess Championship 2023"
       }
    ]
 }
