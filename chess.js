@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the endgame - and in the middlegame - far advanced passed pawns can be very powerful. In the diagram position it is White to move and win. What would you do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/passed-pawns-can-be-powerful",
+         "pubDate" : "Tue, 04 Apr 2023 09:00:00 +0100",
+         "title" : "Passed pawns can be powerful"
+      },
+      {
+         "description" : "The European Chess Club Cup 2023 will consist of the 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women and will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, Swiss system, with time control of 90 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-chess-club-cup-2023/",
+         "pubDate" : "Tue, 04 Apr 2023 07:19:04 +0000",
+         "title" : "European Chess Club Cup 2023"
+      },
+      {
+         "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest of the game&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/",
+         "pubDate" : "Tue, 04 Apr 2023 06:21:19 +0000",
+         "title" : "European Open & Women's Club Cup 2023 - Official invitation"
+      },
+      {
+         "description" : "With a final score of 3&frac12;-1&frac12;, Lei Tingjie defeated Tan Zhongyi in the Women's Candidates Final. Lei will challenge Ju Wenjun in the upcoming Women's World Championship match, scheduled to take place in July. In game 5, Lei obtained a fine attacking win, which topped off her dominant performance in Chongqing. | Photos: FIDE / Liu Yi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g5",
+         "pubDate" : "Tue, 04 Apr 2023 04:45:00 +0100",
+         "title" : "Lei Tingjie convincingly wins the Women's Candidates Final"
+      },
+      {
          "description" : "The Champions Chess Tour Chessable Masters 2023 Knockout kicked off on Monday, and Division I saw four players advance to the Winners Semifinals: GMs Vladislav Artemiev, Fabiano Caruana, Hikaru Nakamura, and Wesley So. They respectively knocked GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -136,14 +168,6 @@ news_feed (
          "link" : "https://www.chessdom.com/maxime-vachier-lagrave-aleksey-dreev-live-chessable-masters-div-2-winners/",
          "pubDate" : "Mon, 03 Apr 2023 15:00:15 +0000",
          "title" : "Maxime Vachier-Lagrave - Aleksey Dreev LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Raunak Sadhwani Erigaisi Arjun is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/raunak-sadhwani-erigaisi-arjun-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 14:56:30 +0000",
-         "title" : "Raunak Sadhwani - Erigaisi Arjun LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
@@ -962,28 +986,12 @@ news_feed (
          "title" : "World no.18 D Gukesh battles 21 players"
       },
       {
-         "description" : "The \"Ginger GM\" Simon Williams enjoys playing the Dragon a lot, but is an even bigger fan of the Dragadorf. But, what happens if the opponent plays the interesting 6.f4 Levenfish variation for White? Simon Williams knew the answer and dominated his opponent. Chris Ward analysed the game closely, and found some interesting options for Black and White to take care of!| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-tackling-the-early-6-f4-levenfish-like-gm-simon-williams",
-         "pubDate" : "Tue, 28 Mar 2023 14:00:00 +0100",
-         "title" : "The Monthly Dragon - Tackling the early 6.f4 \"Levenfish\" like GM Simon Williams"
-      },
-      {
          "description" : "The final selection of Indian team for the 19th Asian Games will be done in the month of May 2023 based on average rating of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/selection-of-team-for-19th-asian-games-at-hangzhou-china/",
          "pubDate" : "Tue, 28 Mar 2023 11:29:21 +0000",
          "title" : "Selection of Team for 19th Asian Games at Hangzhou, China"
-      },
-      {
-         "description" : "Castling in endgame studies is a rich and entertaining topic - be it real castling, the threat of castling, or even just retroanalysis that proves that castling is impossible. Last year we began a new series in which we chronologically explore the most interesting endgame studies with castling ideas. We aim at a mix between informative and interesting endgame studies again this month, a mostly light-hearted article without too much text. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-a-short-history-of-endgame-study-castling-iii",
-         "pubDate" : "Tue, 28 Mar 2023 11:35:00 +0100",
-         "title" : "Study of the Month - A short history of endgame study castling III"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A chess festival in New Delhi with more than 1000 participants is overshadowed by chaos at the embedded <strong>Women Grand Prix</strong> held at a five-star-hotel. Not waiting for organisational lapses to be fixed and in spite of apologies offered by <strong>FIDE</strong> and the organiser, <strong>Zhansaya Abdumalik</strong> from Kazakhstan walked out, and after a <a href=\"https://www.chessbase.in/news/The-Womens-Grand-Prix-in-Delhi-2023\">lot of nerve-wrecking discussions</a> <strong>Elisabeth P&auml;htz</strong> followed her, both from the host countries of the two first <strong>Women Grand Prix</strong> events in Astana and Munich. As at least o",
@@ -1816,14 +1824,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/top-10-books.html",
          "pubDate" : "Tue, 14 Mar 2023 12:17:00 +0000",
          "title" : "Top 10 books"
-      },
-      {
-         "description" : "Chess will make its first step in the European Games European Olympic Committees as an accompanying event under the aegis of the Organising Committee of Krakow-Maloposka 2023. ECU regulated a new special competition the European Pair Blitz Chess Championship 2023 which will take place on 19th of June 2023 in Krakow, Poland, as the accompanying event and&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/chess-for-first-time-as-an-accompanying-event-in-the-european-games/",
-         "pubDate" : "Tue, 14 Mar 2023 10:17:45 +0000",
-         "title" : "Chess for first time as an accompanying event in the European Games!"
       },
       {
          "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen One of the most popular openings of the 1. d4 players in correspondence chess is the Queen's Gambit Exchange Variation (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Tarrasch Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\">Need sure points? QGD, Semi-Tarrasch Variation Edition",
