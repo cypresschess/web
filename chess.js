@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Tue, 04 Apr 2023 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "A total of 56 players are participating in the Chessable Masters Tournament. The players are distributed in three divisions, each taking place with a double-elimination format. Four rapid games (15+3) are played in each confrontation, and if a match ends in a draw, an Armageddon decider follows. This format ensures excitement, surprises and plenty of mistakes. The biggest surprise on Day 1 was Magnus Carlsen's loss to Vladislav Artemiev in Division I.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d1",
+         "pubDate" : "Tue, 04 Apr 2023 15:50:00 +0100",
+         "title" : "Chessable Masters: Close matches, Artemiev beats Carlsen"
+      },
+      {
+         "description" : " To try and motivate some of my chess students I have set them quite a big challenge over the next 3 weeks. I've asked them to do 1000 puzzles at lichess.org before then end of the school holidays. This is approximately 50 puzzles a day, although they can do more/less in a day if they choose. The rules are simple 1. The puzzle category is up to you (I am mainly working on endings, but have choses general tactics and some openings) 2. It doesn't matter if you get 100% (or even 20%). Just trying to solve them is the goal 3. But ... you should retry the ones you got wrong before you start the next days set 4. Your final score/rating does not matter to anyone but yourself <br /> To see how hard ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/the-1000-puzzle-challenge.html",
+         "pubDate" : "Tue, 04 Apr 2023 14:35:00 +0000",
+         "title" : "The 1000 puzzle challenge"
+      },
+      {
+         "description" : "Leonard Barden from the FT projects a victory for Ian Nepomniachtchi in the coming World Chess Championship 2023. &#8220;The Russian is the slight favourite, because he already has experience at the highest level in winning two Candidates tournaments. His 2021 challenge to Carlsen collapsed with a string of second-half defeats, but negative experiences can still []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ft-on-the-world-chess-championship-2023/",
+         "pubDate" : "Tue, 04 Apr 2023 14:07:27 +0000",
+         "title" : "FT on the World Chess Championship 2023"
+      },
+      {
+         "description" : "Your favorite chess personalities&#38;mdash;the Botez sisters, Levy, Fabiano, and of course Hikaru &#38;mdash;fell down a green warp tube! Now, they&#39;re trapped in the Chess Kingdom as classic video game characters. But don&#39;t worry! They still love to play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-super-plumber-bots",
+         "pubDate" : "Tue, 04 Apr 2023 07:01:25 -0700",
+         "title" : "Play Chess Against The Super Plumber Bots"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and light pieces! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.2: The Potential of the Rook| Photo: Benjamin Smith/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
+         "pubDate" : "Tue, 04 Apr 2023 13:57:33 +0100",
+         "title" : "Jan Markos: What you need to know about the Rook"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-on-the-way-to-astana-for-the-match-with-ian-nepomniachtchi/",
+         "pubDate" : "Tue, 04 Apr 2023 12:03:22 +0000",
+         "title" : "Ding Liren is on the way to Astana for the match with Ian Nepomniachtchi"
+      },
+      {
          "description" : "Your heart rate and adrenaline have an impact on your performance. As a chess player, understanding and monitoring various physiological aspects can have a significant impact on your performance. When you play chess, you may not be as physically active, but the mental demands of the game can still trigger an extreme stress response in your body. As was demonstrated in last month's Armageddon tournament in Berlin.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +80,14 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/carlsen-falls-to-artemiev-chessable-masters-day-1",
          "pubDate" : "Tue, 04 Apr 2023 09:41:53 +0000",
          "title" : "Carlsen falls to Artemiev | Chessable Masters Day 1"
+      },
+      {
+         "description" : "Chessable Masters 2023 is going to start on Monday, April 3rd (8 am PT, 5pm CET). The 3rd edition of the Chessable Masters features Magnus Carlsen, Hikaru Nakamura, Wesley So, and many of the world's top players. This is the last tournament where Magnus Carlsen will play as a reigning World Champion. Thus, the event []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/chessable-masters-2023-live/",
+         "pubDate" : "Tue, 04 Apr 2023 09:35:00 +0000",
+         "title" : "Chessable Masters day 2 2023 LIVE"
       },
       {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
@@ -90,7 +154,7 @@ news_feed (
          "title" : "Chessable Masters Div 3 Winners - LIVE"
       },
       {
-         "description" : "With a second win in a row, GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi on Monday to clinch victory in the final of the FIDE Women&#39;s Candidate&#39;s Tournament 2022-2023 with a round to spare. She will challenge GM Ju Wenjun later this year for the wo...",
+         "description" : "With a second win in a row, GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi on Monday to clinch victory in the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 with a round to spare. She will challenge GM Ju Wenjun later this year for the wom...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-5",
@@ -146,14 +210,6 @@ news_feed (
          "title" : "Lei Tingjie is a true role model #TweetOftheDay"
       },
       {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Mon, 03 Apr 2023 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
-      },
-      {
          "description" : "Yangyi Yu Vladimir Kramnik is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -176,30 +232,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html",
          "pubDate" : "Mon, 03 Apr 2023 15:28:00 +0000",
          "title" : "TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final"
-      },
-      {
-         "description" : "Praggnanandhaa Tuan Minh Le is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/praggnanandhaa-tuan-minh-le-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:23:35 +0000",
-         "title" : "Praggnanandhaa - Tuan Minh Le LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Vincent Keymer Georg Meier is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vincent-keymer-georg-meier-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:18:46 +0000",
-         "title" : "Vincent Keymer - Georg Meier LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Denis Lazavik Daniil Dubov is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/denis-lazavik-daniil-dubov-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:07:37 +0000",
-         "title" : "Denis Lazavik - Daniil Dubov LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
@@ -922,14 +954,6 @@ news_feed (
          "title" : "European Women's Championship - Final round: Live!"
       },
       {
-         "description" : "The third round of the Grand Prix in New Delhi was played on Tuesday. Three of four games finished drawn for a second day in a row, and also for the second day running, Bibisara Assaubayeva was the only player to collect a full point. The 19-year-old beat Nino Batsiashvili with the white pieces. With only two games played, Assaubayeva has a half-point lead over five chasers - who have all played three games so far. | Photo: FIDE / Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r3",
-         "pubDate" : "Wed, 29 Mar 2023 01:40:00 +0100",
-         "title" : "New Delhi GP: Assaubayeva scores again"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -944,14 +968,6 @@ news_feed (
          "link" : "https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/",
          "pubDate" : "Tue, 28 Mar 2023 22:49:33 +0000",
          "title" : "Two-way tie for the top at the European Women's Chess Championship 2023 with one round to go"
-      },
-      {
-         "description" : "Close to 250 games were played daily for 11 rounds at the European Championship that came to an end two weeks ago. The players were fighting for an entrance to the World Championship cycle via the World Cup, which made for very competitive struggles. Karsten M&uuml;ller kept an eye on the games, and sent us many notable endgames with instructive analyses. Replay here ten of his finds! | Pictured: Bulgarian grandmaster Ivan Cheparinov | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-championship-2023-endgames-4",
-         "pubDate" : "Tue, 28 Mar 2023 22:45:00 +0100",
-         "title" : "Endgames from Vrnjacka Banja (4)"
       },
       {
          "description" : "",
@@ -1824,14 +1840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2282",
          "pubDate" : "Tue, 14 Mar 2023 17:31:16 +0000",
          "title" : "The Atabayev brothers sweep the podium of the Turkmenistan Championship"
-      },
-      {
-         "description" : " Canberra IM Junta Ikeda has updated his blogging platform which can now be <a href=\"http://juntaikeda.substack.com\">found here</a> (Entering your email address to access the content isn't mandatory). One of his most popular posts is the list of the 10 books that helped him become an IM. While I won't repeat the list here, it looks to be a pretty solid list. I have 8 or 9 books on the list, but I'm pretty sure I have not studied them with the same effectiveness as Junta did. The two most interesting choices were John Watson's \"Secrets of Modern Chess Strategy\", and \"Life and Games of Mikhail Tal\". The Watson book can be seen as a modern update to \"My System\", which normally turns up on lists",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/top-10-books.html",
-         "pubDate" : "Tue, 14 Mar 2023 12:17:00 +0000",
-         "title" : "Top 10 books"
       }
    ]
 }
