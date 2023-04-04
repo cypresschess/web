@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Your heart rate and adrenaline have an impact on your performance. As a chess player, understanding and monitoring various physiological aspects can have a significant impact on your performance. When you play chess, you may not be as physically active, but the mental demands of the game can still trigger an extreme stress response in your body. As was demonstrated in last month's Armageddon tournament in Berlin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/physiological-factors-that-can-significantly-impact-your-game",
+         "pubDate" : "Tue, 04 Apr 2023 12:00:00 +0100",
+         "title" : "Physiological factors that can significantly impact your game"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Tue, 04 Apr 2023 11:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "Vladislav Artemiev was the first player to win a match against Magnus Carlsen in the 2023 Champions Chess Tour as he won in Armageddon to leave Magnus needing to plot a way to win the tournament via the Losers bracket. Hikaru Nakamura was an amazing escape away from also losing, but held on to defeat Vladimir Fedoseev and set up yet another double elimination showdown with Wesley So.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/carlsen-falls-to-artemiev-chessable-masters-day-1",
+         "pubDate" : "Tue, 04 Apr 2023 09:41:53 +0000",
+         "title" : "Carlsen falls to Artemiev | Chessable Masters Day 1"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/dubov-on-the-world-chess-championship-2023/",
+         "pubDate" : "Tue, 04 Apr 2023 08:02:41 +0000",
+         "title" : "Dubov on the World Chess Championship 2023"
+      },
+      {
          "description" : "In the endgame - and in the middlegame - far advanced passed pawns can be very powerful. In the diagram position it is White to move and win. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,6 +170,14 @@ news_feed (
          "title" : "Maksim Chigaev - Grigoriy Oparin LIVE Chessable Masters Div 2 Winners"
       },
       {
+         "description" : "In the previous fortnightly post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html\">TCEC S24 DivP, CCC20 Blitz Final : Both Underway</A> (March 2023), the intrepid sponsors of the chess world's leading engine vs. engine competitions, the TCEC and the CCC, were both conducting important contests. Here's a summary of that post:- <BLOCKQUOTE> TCEC: With two rounds completed in the eight round Premier Division (DivP), KomodoDragon, LCZero, and Stockfish are significantly ahead of the other five engines. &#149; CCC: Lc0 beat Dragon by 32 points in the 500-game 'Challenger Match', and is currently trailing Stockfish by 16 points after a sixth of th",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html",
+         "pubDate" : "Mon, 03 Apr 2023 15:28:00 +0000",
+         "title" : "TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final"
+      },
+      {
          "description" : "Praggnanandhaa Tuan Minh Le is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -160,14 +200,6 @@ news_feed (
          "link" : "https://www.chessdom.com/denis-lazavik-daniil-dubov-live-chessable-masters-div-2-winners/",
          "pubDate" : "Mon, 03 Apr 2023 15:07:37 +0000",
          "title" : "Denis Lazavik - Daniil Dubov LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave Aleksey Dreev is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-aleksey-dreev-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:00:15 +0000",
-         "title" : "Maxime Vachier-Lagrave - Aleksey Dreev LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
@@ -200,14 +232,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/lei-tingjie-wins-the-fide-women-s-candidates",
          "pubDate" : "Mon, 03 Apr 2023 12:41:18 +0000",
          "title" : "Lei Tingjie wins the FIDE Women's Candidates"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Mon, 03 Apr 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Women's Grand Prix New Delhi: Round 3 recap"
       },
       {
-         "description" : "16-year-old Dommaraju Gukesh is one of the brightest talents of India and World Chess. He is now World no.18 with a FIDE Rating of 2730. The current India no.2 graced the ChessBase India Chess Club with his presence on Saturday, 18th March 2023. There was a big challenge in front of him - he was to give a simultaneous exhibition to 21 players, with the top five seeds having an Elo rating of over 2000. The spectacular even simul was held at the Phoenix Marketcity Mall in Mumbai. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-no-18-d-gukesh-battles-21-players",
-         "pubDate" : "Tue, 28 Mar 2023 17:00:00 +0100",
-         "title" : "World no.18 D Gukesh battles 21 players"
-      },
-      {
          "description" : "The final selection of Indian team for the 19th Asian Games will be done in the month of May 2023 based on average rating of",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1714,14 +1730,6 @@ news_feed (
          "title" : "Kosteniuk has switched to Switzerland"
       },
       {
-         "description" : "Anish Giri scored 3.5/4 as a replacement for an unwell Magnus Carlsen, but the Canada Chessbrahs again struggled on the bottom boards as Alexander Grischuk's Blitz eliminated them 9:7. The Saint Louis Arch Bishops knocked out the Croatia Bulldogs by the same score, with the heroes Fabiano Caruana, who scored 4/4, and 13-year-old Alice Lee, who defeated 2700-rated Bogdan-Daniel Deac.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/giri-subs-for-carlsen-as-chessbrahs-eliminated",
-         "pubDate" : "Fri, 17 Mar 2023 10:46:22 +0000",
-         "title" : "Giri replaces Carlsen as Chessbrahs eliminated"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1824,14 +1832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/top-10-books.html",
          "pubDate" : "Tue, 14 Mar 2023 12:17:00 +0000",
          "title" : "Top 10 books"
-      },
-      {
-         "description" : " &#8220;If you want to play for a draw, don't leave anything to chance. Just force either a completely drawn ending or a perpetual.&#8221; Magnus Carlsen One of the most popular openings of the 1. d4 players in correspondence chess is the Queen's Gambit Exchange Variation (1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. <a href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Need sure points? QGD, Semi-Tarrasch Variation Edition\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/\">Need sure points? QGD, Semi-Tarrasch Variation Edition",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/need-sure-points-qgd-semi-tarrasch-variation-edition/",
-         "pubDate" : "Tue, 14 Mar 2023 09:00:19 +0000",
-         "title" : "Need sure points? QGD, Semi-Tarrasch Variation Edition"
       }
    ]
 }
