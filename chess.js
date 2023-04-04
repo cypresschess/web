@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GMs Hikaru Nakamura and Fabiano Caruana advance to the Winners Final of the Champions Chess Tour Chessable Masters 2023 after respectively defeating GMs Wesley So and Vladislav Artemiev in Division I on Tuesday. In the Losers Bracket, GM Magnus Ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-2",
+         "pubDate" : "Tue, 04 Apr 2023 15:36:00 -0700",
+         "title" : "Nakamura, Caruana To Play In All-American Winners Final"
+      },
+      {
+         "description" : "Zhu Jiner's critical victory and Aleksandra Goryachkina's draw in the penultimate round of the Women's Grand Prix in New Delhi have turned the tournament into a three-horse race. Sharing first place, Zhu Jiner, Bibisara Assaubayeva, and Aleksandra Goryachkina will all fight for the title in the final round Results of Round 10: Kateryna Lagno &#x2013; []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-10-report/",
+         "pubDate" : "Tue, 04 Apr 2023 21:03:43 +0000",
+         "title" : "FIDE Women Grand Prix - round 10 report"
+      },
+      {
+         "description" : "Maksim Chigaev Yangyi Yu is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maksim-chigaev-yangyi-yu-live-chessable-masters-div-2-losers/",
+         "pubDate" : "Tue, 04 Apr 2023 20:57:47 +0000",
+         "title" : "Maksim Chigaev - Yangyi Yu LIVE Chessable Masters Div 2 Losers"
+      },
+      {
+         "description" : "Aleksey Dreev Tuan Minh Le is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksey-dreev-tuan-minh-le-live-chessable-masters-div-2-losers/",
+         "pubDate" : "Tue, 04 Apr 2023 20:53:06 +0000",
+         "title" : "Aleksey Dreev - Tuan Minh Le LIVE Chessable Masters Div 2 Losers"
+      },
+      {
+         "description" : "Daniil Dubov Georg Meier is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/daniil-dubov-georg-meier-live-chessable-masters-div-2-losers/",
+         "pubDate" : "Tue, 04 Apr 2023 20:49:17 +0000",
+         "title" : "Daniil Dubov - Georg Meier LIVE Chessable Masters Div 2 Losers"
+      },
+      {
+         "description" : "Anish Giri Raunak Sadhwani is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-raunak-sadhwani-live-chessable-masters-div-2-losers/",
+         "pubDate" : "Tue, 04 Apr 2023 20:43:33 +0000",
+         "title" : "Anish Giri - Raunak Sadhwani LIVE Chessable Masters Div 2 Losers"
+      },
+      {
+         "description" : "Grigoriy Oparin Vladimir Kramnik is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/grigoriy-oparin-vladimir-kramnik-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Tue, 04 Apr 2023 20:38:39 +0000",
+         "title" : "Grigoriy Oparin - Vladimir Kramnik LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave Praggnanandhaa is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-praggnanandhaa-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Tue, 04 Apr 2023 20:34:32 +0000",
+         "title" : "Maxime Vachier-Lagrave - Praggnanandhaa LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Denis Lazavik Vincent Keymer is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/denis-lazavik-vincent-keymer-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Tue, 04 Apr 2023 20:30:33 +0000",
+         "title" : "Denis Lazavik - Vincent Keymer LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Erigaisi Arjun is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-erigaisi-arjun-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Tue, 04 Apr 2023 20:25:51 +0000",
+         "title" : "Nodirbek Abdusattorov - Erigaisi Arjun LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Hikaru Nakamura Wesley So is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hikaru-nakamura-wesley-so-live-chessable-masters-div-1-winners-2023/",
+         "pubDate" : "Tue, 04 Apr 2023 20:21:48 +0000",
+         "title" : "Hikaru Nakamura - Wesley So LIVE Chessable Masters Div 1 Winners 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,14 +138,6 @@ news_feed (
          "title" : "The 1000 puzzle challenge"
       },
       {
-         "description" : "Leonard Barden from the FT projects a victory for Ian Nepomniachtchi in the coming World Chess Championship 2023. &#8220;The Russian is the slight favourite, because he already has experience at the highest level in winning two Candidates tournaments. His 2021 challenge to Carlsen collapsed with a string of second-half defeats, but negative experiences can still []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ft-on-the-world-chess-championship-2023/",
-         "pubDate" : "Tue, 04 Apr 2023 14:07:27 +0000",
-         "title" : "FT on the World Chess Championship 2023"
-      },
-      {
          "description" : "Your favorite chess personalities&#38;mdash;the Botez sisters, Levy, Fabiano, and of course Hikaru &#38;mdash;fell down a green warp tube! Now, they&#39;re trapped in the Chess Kingdom as classic video game characters. But don&#39;t worry! They still love to play...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -72,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
          "pubDate" : "Tue, 04 Apr 2023 13:57:33 +0100",
          "title" : "Jan Markos: What you need to know about the Rook"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-on-the-way-to-astana-for-the-match-with-ian-nepomniachtchi/",
-         "pubDate" : "Tue, 04 Apr 2023 12:03:22 +0000",
-         "title" : "Ding Liren is on the way to Astana for the match with Ian Nepomniachtchi"
       },
       {
          "description" : "Your heart rate and adrenaline have an impact on your performance. As a chess player, understanding and monitoring various physiological aspects can have a significant impact on your performance. When you play chess, you may not be as physically active, but the mental demands of the game can still trigger an extreme stress response in your body. As was demonstrated in last month's Armageddon tournament in Berlin.",
@@ -106,36 +178,12 @@ news_feed (
          "title" : "Carlsen falls to Artemiev | Chessable Masters Day 1"
       },
       {
-         "description" : "Chessable Masters 2023 is going to start on Monday, April 3rd (8 am PT, 5pm CET). The 3rd edition of the Chessable Masters features Magnus Carlsen, Hikaru Nakamura, Wesley So, and many of the world's top players. This is the last tournament where Magnus Carlsen will play as a reigning World Champion. Thus, the event []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-2023-live/",
-         "pubDate" : "Tue, 04 Apr 2023 09:35:00 +0000",
-         "title" : "Chessable Masters day 2 2023 LIVE"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/dubov-on-the-world-chess-championship-2023/",
-         "pubDate" : "Tue, 04 Apr 2023 08:02:41 +0000",
-         "title" : "Dubov on the World Chess Championship 2023"
-      },
-      {
          "description" : "In the endgame - and in the middlegame - far advanced passed pawns can be very powerful. In the diagram position it is White to move and win. What would you do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/passed-pawns-can-be-powerful",
          "pubDate" : "Tue, 04 Apr 2023 09:00:00 +0100",
          "title" : "Passed pawns can be powerful"
-      },
-      {
-         "description" : "The European Chess Club Cup 2023 will consist of the 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women and will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, Swiss system, with time control of 90 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-chess-club-cup-2023/",
-         "pubDate" : "Tue, 04 Apr 2023 07:19:04 +0000",
-         "title" : "European Chess Club Cup 2023"
       },
       {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest of the game&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/\">Read More &#187;</a></span>",
@@ -160,22 +208,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-1",
          "pubDate" : "Mon, 03 Apr 2023 15:43:00 -0700",
          "title" : "Artemiev Upsets World Champion; Caruana, Nakamura, So Advance To Winners"
-      },
-      {
-         "description" : "Goryachkina secures a crucial win against Dronavalli and is hot on heels of tournament leader Assaubayeva who settles for a draw against Dzagnidze The Women's Grand Prix in New Delhi entered its decisive phase as Round Nine unfolded, with players gearing up for the final push in the remaining days of the tournament. Here are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-9-report/",
-         "pubDate" : "Mon, 03 Apr 2023 21:53:45 +0000",
-         "title" : "FIDE Women Grand Prix - round 9 report"
-      },
-      {
-         "description" : "The Chessable Masters, the 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. In the Grand Final if the player []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/chessable-masters-div-3-winners-live/",
-         "pubDate" : "Mon, 03 Apr 2023 21:45:22 +0000",
-         "title" : "Chessable Masters Div 3 Winners - LIVE"
       },
       {
          "description" : "With a second win in a row, GM Lei Tingjie defeated GM&#38;nbsp;Tan Zhongyi on Monday to clinch victory in the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 with a round to spare. She will challenge GM Ju Wenjun later this year for the wom...",
@@ -216,30 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2320",
          "pubDate" : "Mon, 03 Apr 2023 16:33:43 +0000",
          "title" : "Lei Tingjie wins the Women's Candidates Final "
-      },
-      {
-         "description" : "Ju Wenjun &#x2013; Lei Tingjie is the World Women Chess Championship 2023 final. Lei Tingjie defeated 3,5-0,5 Tan Zhongyi in the Women Candidates match and is going to challenge Ju Wenjun for the World Champion title. &#8220;I'm so happy for Lei Tingjie because she is a true role model : extremely nice, super strong at []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lei-tingjie-is-a-true-role-model-tweetoftheday/",
-         "pubDate" : "Mon, 03 Apr 2023 16:05:19 +0000",
-         "title" : "Lei Tingjie is a true role model #TweetOftheDay"
-      },
-      {
-         "description" : "Yangyi Yu Vladimir Kramnik is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yangyi-yu-vladimir-kramnik-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:36:20 +0000",
-         "title" : "Yangyi Yu - Vladimir Kramnik LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Maksim Chigaev Grigoriy Oparin is a 1/16 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maksim-chigaev-grigoriy-oparin-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Mon, 03 Apr 2023 15:30:56 +0000",
-         "title" : "Maksim Chigaev - Grigoriy Oparin LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "In the previous fortnightly post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html\">TCEC S24 DivP, CCC20 Blitz Final : Both Underway</A> (March 2023), the intrepid sponsors of the chess world's leading engine vs. engine competitions, the TCEC and the CCC, were both conducting important contests. Here's a summary of that post:- <BLOCKQUOTE> TCEC: With two rounds completed in the eight round Premier Division (DivP), KomodoDragon, LCZero, and Stockfish are significantly ahead of the other five engines. &#149; CCC: Lc0 beat Dragon by 32 points in the 500-game 'Challenger Match', and is currently trailing Stockfish by 16 points after a sixth of th",
@@ -1586,14 +1594,6 @@ news_feed (
          "title" : "\"Tactics are temporary, endgames are permanent\" (5)"
       },
       {
-         "description" : "The 2023 American Cup continued in St. Louis on Monday with championship bracket semifinals that were won by GMs Hikaru Nakamura and Wesley So respectively. Nakamura was in fine form with the black pieces and outplayed GM Leinier Dominguez in the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-4",
-         "pubDate" : "Mon, 20 Mar 2023 21:10:00 -0700",
-         "title" : "Nakamura With Black Defeats Dominguez, So Overcomes Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1840,14 +1840,6 @@ news_feed (
          "link" : "https://chessimprover.com/my-latest-releases-on-vimeo/",
          "pubDate" : "Wed, 15 Mar 2023 10:00:26 +0000",
          "title" : "My Latest Releases on Vimeo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2283",
-         "pubDate" : "Tue, 14 Mar 2023 22:19:19 +0000",
-         "title" : "Nukhim Rashkovsky (1946-2023)"
       }
    ]
 }
