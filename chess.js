@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2322",
+         "pubDate" : "Tue, 04 Apr 2023 18:56:28 +0000",
+         "title" : "WGP New Delhi: Round 10 Recap"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Tue, 04 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : " Here are the first few moves of an online blitz game I played the other day, in which I fell for a very plausible trap. 1. e4 c6 The Caro-Kann is an opening I hardly ever play, but, on the principle that you should try everything once except incest and folk dancing, I decided to <a href=\"https://chessimprover.com/a-plausible-trap/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Plausible Trap\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-plausible-trap/\">A Plausible Trap</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-plausible-trap/",
+         "pubDate" : "Tue, 04 Apr 2023 18:16:40 +0000",
+         "title" : "A Plausible Trap"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2321",
          "pubDate" : "Mon, 03 Apr 2023 19:19:07 +0000",
          "title" : "WGP New Delhi: Round 9 Recap"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Mon, 03 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the Chessable Masters Play-In. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -1114,7 +1130,7 @@ news_feed (
          "title" : "Toronto hosts Candidates 2024"
       },
       {
-         "description" : "GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm ",
+         "description" : " GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/\">Dylan Berdayes Cuba's 47th Grandmaster!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/",
@@ -1466,7 +1482,7 @@ news_feed (
          "title" : "Nakamura Blitzes So, Advances To Finals"
       },
       {
-         "description" : "On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. ",
+         "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
@@ -1674,7 +1690,7 @@ news_feed (
          "title" : "Flawed Flohr Floored"
       },
       {
-         "description" : "In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) ",
+         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
@@ -1778,7 +1794,7 @@ news_feed (
          "title" : "London Chess Conference 2023"
       },
       {
-         "description" : "Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, ",
+         "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
@@ -1832,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2283",
          "pubDate" : "Tue, 14 Mar 2023 22:19:19 +0000",
          "title" : "Nukhim Rashkovsky (1946-2023)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2282",
-         "pubDate" : "Tue, 14 Mar 2023 17:31:16 +0000",
-         "title" : "The Atabayev brothers sweep the podium of the Turkmenistan Championship"
       }
    ]
 }
