@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Wed, 05 Apr 2023 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "The fourth and decisive leg of the FIDE Women's Grand Prix will take place in Cyprus on May 15-28. The tournament will be held at the Hilton Hotel in Cyprus' capital, Nicosia. Featuring 12 ballrooms and state-of-the-art technology meeting rooms, totalling 1,800 square meters of space for events, the venue is a very suitable option for both leisure and business visitors.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cyprus-host-women-grand-prix",
+         "pubDate" : "Wed, 05 Apr 2023 16:00:00 +0100",
+         "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
+      },
+      {
+         "description" : "Day 2 of the Chessable Masters saw Hikaru Nakamura and Fabiano Caruana advancing to the winners' bracket final in Division I, thanks to victories over Wesley So and Vladislav Artemiev, respectively. In the losers' bracket, Magnus Carlsen and Levon Aronian scored wins to remain in contention for first place. In Division II, Maxime Vachier-Lagrave and Vladimir Kramnik are set to face each other in the next phase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d2",
+         "pubDate" : "Wed, 05 Apr 2023 14:25:00 +0100",
+         "title" : "Chessable Masters: Caruana and Nakamura reach winners' bracket final"
+      },
+      {
+         "description" : " Today I have a &#8216;bad day'. I woke up at 4 AM after 3 hours of sleep, unable to sleep longer. After yesterday's dry needling session, my whole upper body is in pain and my mind was racing. Certainly what qualifies as a bad day for me. But not the end of the world either. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/bad-day/\">How to Train Chess on Bad Days: Tips From a Grandmaster</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/bad-day/",
+         "pubDate" : "Wed, 05 Apr 2023 12:00:00 +0000",
+         "title" : "How to Train Chess on Bad Days: Tips From a Grandmaster"
+      },
+      {
+         "description" : "Zhu Jiner is the newest Grandmaster from China. She achieved her final GM norm at the ongoing Grand Prix in New Delhi. This makes her the 10th woman from China to become Grandmaster, and the 41st woman to achieve the title. Adding 17 ELO points, Zhu Jiner re-enters the 2500 ELO club and becomes 11th []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/zhu-jiner-achieves-her-final-gm-norm/",
+         "pubDate" : "Wed, 05 Apr 2023 11:47:06 +0000",
+         "title" : "Zhu Jiner achieves her final GM norm"
+      },
+      {
          "description" : "GM Nils Grandelius won the 2023 edition of Reykjavik Open with the score of 7.5 points. Grandelius scored a victory in the last round against IM Quentin Loiseau to be half a point ahead of seven players who tied for second place scoring 7 points each. Replay all games from Reykjavik Open 2023 / See []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -42,14 +82,6 @@ news_feed (
          "title" : "Nils Grandelius wins Reykjavik Open 2023"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Wed, 05 Apr 2023 09:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nils-grandelius-wins-reykjavik-open-2023",
          "pubDate" : "Wed, 05 Apr 2023 05:50:00 +0100",
          "title" : "Nils Grandelius clinches Reykjavik Open with final-round win"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Wed, 05 Apr 2023 05:40:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -146,14 +186,6 @@ news_feed (
          "title" : "Maxime Vachier-Lagrave - Praggnanandhaa LIVE Chessable Masters Div 2 Winners"
       },
       {
-         "description" : "Denis Lazavik Vincent Keymer is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/denis-lazavik-vincent-keymer-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Tue, 04 Apr 2023 20:30:33 +0000",
-         "title" : "Denis Lazavik - Vincent Keymer LIVE Chessable Masters Div 2 Winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
          "pubDate" : "Tue, 04 Apr 2023 17:00:00 +0100",
          "title" : "Jan Markos: What you need to know about the Rook"
-      },
-      {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Tue, 04 Apr 2023 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : " To try and motivate some of my chess students I have set them quite a big challenge over the next 3 weeks. I've asked them to do 1000 puzzles at lichess.org before then end of the school holidays. This is approximately 50 puzzles a day, although they can do more/less in a day if they choose. The rules are simple 1. The puzzle category is up to you (I am mainly working on endings, but have choses general tactics and some openings) 2. It doesn't matter if you get 100% (or even 20%). Just trying to solve them is the goal 3. But ... you should retry the ones you got wrong before you start the next days set 4. Your final score/rating does not matter to anyone but yourself <br /> To see how hard ",
@@ -1010,22 +1034,6 @@ news_feed (
          "title" : "Toronto to host the 2024 Open and Women's Candidates Tournaments"
       },
       {
-         "description" : "Iniyan is yet another talented Indian player climbing up the ranks of competitive chess. This week, he visited Hamburg and joined Karsten M&uuml;ller in his Endgame Magic show. It was a joyous exchange of ideas using games from the German Bundesliga. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga",
-         "pubDate" : "Wed, 29 Mar 2023 11:35:00 +0100",
-         "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
-         "title" : "European Women's Championship - Final round: Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1848,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2285",
          "pubDate" : "Wed, 15 Mar 2023 18:40:19 +0000",
          "title" : "FIDE President visits Saudi Arabia"
-      },
-      {
-         "description" : " Having played at the far end of the playing hall on a number of occasions, I do sympathise with players who find themselves on board 200+. So here is a shout out to the following two players, who decided to brave the European Championship. <br /> <b>Kovac,Mihael (1784) - Orlovic,Lucie (1004) [C00]</b><br /> 23rd ch-EUR Indiv 2023 Vrnjacka Banja SRB (8.236), 10.03.2023 <script> new PgnViewer( { boardName: \"game1386\", movesFormat: \"default\", pgnString:'1.e4 e6 2.d4 Nf6 3.e5 Nd5 4.c4 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ne7 7.Bd3 g6 8.Nc3 O-O 9.Nf3 d6 10.Qh6 Nf5 11.Bxf5 exf5 12.Ng5 Qxg5 13.Qxg5 f6 1-0', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <div id=\"game1386-container\"> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/when-you-find-yourself-on-board-236.html",
-         "pubDate" : "Wed, 15 Mar 2023 12:59:00 +0000",
-         "title" : "When you find yourself on Board 236"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2284",
-         "pubDate" : "Wed, 15 Mar 2023 12:29:34 +0000",
-         "title" : "Chess for Freedom Conference: List of speakers announced"
       }
    ]
 }
