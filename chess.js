@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nils Grandelius scored an impressive 7&frac12; out of 9 to become the outright winner at the 2023 edition of the Reykjavik Open. The Swedish grandmaster, who was the second seed in Iceland, beat Quentin Loiseau in the final round to claim first place. With over 400 participants in the traditional event, it was not surprising that seven players finished a half point behind the winner. Mustafa Yilmaz from Turkey and Abhijeet Gupta from India got second and third place on tiebreak criteria, respectively. | Photos: Hallfr&iacute;ður Sigurðard&oacute;ttir",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nils-grandelius-wins-reykjavik-open-2023",
+         "pubDate" : "Wed, 05 Apr 2023 05:50:00 +0100",
+         "title" : "Nils Grandelius clinches Reykjavik Open with final-round win"
+      },
+      {
          "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -122,20 +130,20 @@ news_feed (
          "title" : "A Plausible Trap"
       },
       {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and light pieces! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.2: The Potential of the Rook| Photo: Benjamin Smith/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
+         "pubDate" : "Tue, 04 Apr 2023 17:00:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Rook"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
          "pubDate" : "Tue, 04 Apr 2023 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
-      },
-      {
-         "description" : "A total of 56 players are participating in the Chessable Masters Tournament. The players are distributed in three divisions, each taking place with a double-elimination format. Four rapid games (15+3) are played in each confrontation, and if a match ends in a draw, an Armageddon decider follows. This format ensures excitement, surprises and plenty of mistakes. The biggest surprise on Day 1 was Magnus Carlsen's loss to Vladislav Artemiev in Division I.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d1",
-         "pubDate" : "Tue, 04 Apr 2023 15:50:00 +0100",
-         "title" : "Chessable Masters: Close matches, Artemiev beats Carlsen"
       },
       {
          "description" : " To try and motivate some of my chess students I have set them quite a big challenge over the next 3 weeks. I've asked them to do 1000 puzzles at lichess.org before then end of the school holidays. This is approximately 50 puzzles a day, although they can do more/less in a day if they choose. The rules are simple 1. The puzzle category is up to you (I am mainly working on endings, but have choses general tactics and some openings) 2. It doesn't matter if you get 100% (or even 20%). Just trying to solve them is the goal 3. But ... you should retry the ones you got wrong before you start the next days set 4. Your final score/rating does not matter to anyone but yourself <br /> To see how hard ",
@@ -154,12 +162,12 @@ news_feed (
          "title" : "Play Chess Against The Super Plumber Bots"
       },
       {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and light pieces! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.2: The Potential of the Rook| Photo: Benjamin Smith/Unsplash",
+         "description" : "A total of 56 players are participating in the Chessable Masters Tournament. The players are distributed in three divisions, each taking place with a double-elimination format. Four rapid games (15+3) are played in each confrontation, and if a match ends in a draw, an Armageddon decider follows. This format ensures excitement, surprises and plenty of mistakes. The biggest surprise on Day 1 was Magnus Carlsen's loss to Vladislav Artemiev in Division I.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
-         "pubDate" : "Tue, 04 Apr 2023 13:57:33 +0100",
-         "title" : "Jan Markos: What you need to know about the Rook"
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d1",
+         "pubDate" : "Tue, 04 Apr 2023 13:50:00 +0100",
+         "title" : "Chessable Masters: Close matches, Artemiev beats Carlsen"
       },
       {
          "description" : "Your heart rate and adrenaline have an impact on your performance. As a chess player, understanding and monitoring various physiological aspects can have a significant impact on your performance. When you play chess, you may not be as physically active, but the mental demands of the game can still trigger an extreme stress response in your body. As was demonstrated in last month's Armageddon tournament in Berlin.",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga",
          "pubDate" : "Wed, 29 Mar 2023 11:35:00 +0100",
          "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
-      },
-      {
-         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
-         "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
-         "title" : "European Women's Championship - Final round: Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
