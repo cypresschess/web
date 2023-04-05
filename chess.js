@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Wed, 05 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for the move-by-move. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2",
+         "pubDate" : "Wed, 05 Apr 2023 18:20:28 +0000",
+         "title" : "2023 Spring Chess Classic: Round 2"
+      },
+      {
+         "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/36080409/2023-world-chess-championship-ian-nepomniachtchi-ding-liren-battle-crown-carlsen-missing-king?device=featurephone",
+         "pubDate" : "Wed, 5 Apr 2023 13:18:20 -0500",
+         "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
+      },
+      {
+         "description" : "GM Dmitry Andreikin and GM Parham Maghsoodloo emerged victorious at Titled Tuesday on April 4. Both scored 9.5 points out of a possible 11, but Andrekin needed a tiebreak advantage over two rivals while Maghsoodloo won outright.&#38;nbsp; This was A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrekin-maghsoodloo-win-titled-tuesday-april-4-2023",
+         "pubDate" : "Wed, 05 Apr 2023 10:08:10 -0700",
+         "title" : "Andreikin Wins His 12th Titled Tuesday"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2324",
+         "pubDate" : "Wed, 05 Apr 2023 16:58:37 +0000",
+         "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
          "pubDate" : "Wed, 05 Apr 2023 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added later. GMs Aleksandra Goryachkina, Bibisara Assaubayeva, and Zhu Jiner tied for first in the recently concluded third leg of the 2022-2023 FIDE Women&#39;s Grand Prix with scores of 6/10 in New D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2022-2023-fide-womens-grand-prix-leg-3",
+         "pubDate" : "Wed, 05 Apr 2023 08:32:54 -0700",
+         "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title: Flash Report"
       },
       {
          "description" : "The fourth and decisive leg of the FIDE Women's Grand Prix will take place in Cyprus on May 15-28. The tournament will be held at the Hilton Hotel in Cyprus' capital, Nicosia. Featuring 12 ballrooms and state-of-the-art technology meeting rooms, totalling 1,800 square meters of space for events, the venue is a very suitable option for both leisure and business visitors.",
@@ -1026,14 +1074,6 @@ news_feed (
          "title" : "FIDE Development Fund 2023 is now open"
       },
       {
-         "description" : "Toronto will host the 2024 FIDE Candidates and Women's Candidates, scheduled for April 3-25, with a prize fund of EUR 750,000. It will be the first time in chess history that both events will be held at the same time and venue, and also the first time that the Candidates Tournament will be held in North America. The event will be sponsored by the Scheinberg family, as part of the long-term collaboration agreement that was announced in 2022.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/toronto-to-host-candidates-tournaments-2024",
-         "pubDate" : "Wed, 29 Mar 2023 11:45:00 +0100",
-         "title" : "Toronto to host the 2024 Open and Women's Candidates Tournaments"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1072,14 +1112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani",
          "pubDate" : "Tue, 28 Mar 2023 18:12:38 +0000",
          "title" : "Dorsa Plays the Nimzo-Indian! | Grandmaster's Choice - IM Dorsa Derakhshani"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess.<br /> The term simply refers to when pieces are lined up on the board. When you see alignments, you&#039;ll uncover tactics like pins, skewers, and discover attacks. 2023.03.28<br /> Tigran V Petrosian vs Hans Ree, Hoogovens (1971): A29 English, four knights, kingside fianchetto<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1106935\">https://www.chessgames.com/perl/chessgame?gid=1106935</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-emb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown",
-         "pubDate" : "Tue, 28 Mar 2023 18:12:38 +0000",
-         "title" : "What's Your Alignment? | Beginner Breakdown"
       },
       {
          "description" : "GM Jose Martinez was crowned as the winner and won $1,000 in the March edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after winning 59 of his 74 games during the two-hour event. Ukraine&#39;s GM Oleksandr Bortnyk and Armenian IM Emin Ohanya...",
@@ -1562,14 +1594,6 @@ news_feed (
          "title" : "FIDE and Tech Mahindra Announce Dates for First & Biggest Global Chess League"
       },
       {
-         "description" : "GM Daniil Dubov and GM Vladimir Kramnik won Titled Tuesday on March 21. Kramnik, 47, was the world chess champion from 2000 to 2007. He retired from over-the-board tournament chess in 2019 but has been active in Chess.com rapid and blitz events in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-kramnik-win-titled-tuesday-march-21-2023",
-         "pubDate" : "Wed, 22 Mar 2023 08:06:00 -0700",
-         "title" : "Former World Champ Roars Back With Big Win In Tuesday Blitz"
-      },
-      {
          "description" : " I'm currently in Nova Gorica in Slovenia and had the privilege of playing against Alexander Beliavsky with Black. This was always going to be a tough assignment, especially when I chose to play an opening in which he is an acknowledged expert, the Queen's Gambit Declined. Although I haven't had a massive amount of personal <a href=\"https://chessimprover.com/black-against-beliavsky/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Black against Beliavsky\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/black-against-beliavsky/\">Black against Beliavsky</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1608,14 +1632,6 @@ news_feed (
          "link" : "https://aicf.in/national-amateur-below-2000-certificates/",
          "pubDate" : "Wed, 22 Mar 2023 05:43:40 +0000",
          "title" : "National Amateur Below 2000 Certificates"
-      },
-      {
-         "description" : "GM Levon Aronian kept his tournament dreams alive in Saint Louis on Tuesday after defeating GM Fabiano Caruana in a monumental clash at The 2023 American Cup. Following six decisive results in their rapid and blitz encounters, an armageddon tiebre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-5",
-         "pubDate" : "Tue, 21 Mar 2023 21:45:00 -0700",
-         "title" : "Aronian Eliminates Caruana In Thrilling Armageddon Playoff"
       },
       {
          "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
@@ -1848,14 +1864,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
          "pubDate" : "Thu, 16 Mar 2023 04:19:08 +0000",
          "title" : "\"Chess in Slums\" treks to Kenya, Uganda!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2285",
-         "pubDate" : "Wed, 15 Mar 2023 18:40:19 +0000",
-         "title" : "FIDE President visits Saudi Arabia"
       }
    ]
 }
