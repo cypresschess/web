@@ -2,6 +2,126 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Aleksandra Goryachkina, Zhu Jiner and Bibisara Assaubayeva all finished with 6/9 scores atop the standings of the Women's Grand Prix in New Delhi. The three players entered the final round in shared first place, and all three drew their games on Wednesday. Prize money and Grand Prix points were evenly distributed between the three, but Goryachkina was declared tournament winner based on tiebreak criteria. | Photo: FIDE / Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-final",
+         "pubDate" : "Thu, 06 Apr 2023 00:45:00 +0100",
+         "title" : "Goryachkina, Zhu and Assaubayeva tie for first at New Delhi Grand Prix"
+      },
+      {
+         "description" : " The <a href=\"http://doeberlcup.com.au\">2023 O2C Doeberl Cup</a> is starting today. I've just packed the car with a metric tonne of chess equipment and am about to head to the venue. The Doeberl runs until the 10th and then it is straight into the 2023 Oceania Junior Chess Championship. That event finishes on the 15th of April, so I should surface sometime around the 16th of December. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/see-you-all-in-10-days.html",
+         "pubDate" : "Wed, 05 Apr 2023 22:11:00 +0000",
+         "title" : "See you all in 10 days :)"
+      },
+      {
+         "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura is the finall match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-hikaru-nakamura-live-chessable-masters-div-1-winners/",
+         "pubDate" : "Wed, 05 Apr 2023 22:08:12 +0000",
+         "title" : "Fabiano Caruana - Hikaru Nakamura LIVE Chessable Masters Div 1 Winners"
+      },
+      {
+         "description" : "Vladislav Artemiev &#x2013; Levon Aronian is quarterfinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladislav-artemiev-levon-aronian-live-chessable-masters-div-1-losers/",
+         "pubDate" : "Wed, 05 Apr 2023 22:05:01 +0000",
+         "title" : "Vladislav Artemiev - Levon Aronian LIVE Chessable Masters Div 1 Losers"
+      },
+      {
+         "description" : "Magnus Carlsen Wesley So is quarterfinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-wesley-so-live-chessable-masters-div-1-losers/",
+         "pubDate" : "Wed, 05 Apr 2023 22:02:05 +0000",
+         "title" : "Magnus Carlsen - Wesley So LIVE Chessable Masters Div 1 Losers"
+      },
+      {
+         "description" : "Vladimir Kramnik Maxime Vachier-Lagrave is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-kramnik-maxime-vachier-lagrave-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Wed, 05 Apr 2023 21:59:15 +0000",
+         "title" : "Vladimir Kramnik - Maxime Vachier-Lagrave LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Denis Lazavik is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-denis-lazavik-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Wed, 05 Apr 2023 21:57:06 +0000",
+         "title" : "Nodirbek Abdusattorov - Denis Lazavik LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "The top three contenders for first place in the third leg of the Women&#x2019;s Grand Prix all drew their final round games, finishing on six points. After tiebreaks, Aleksandra Goryachkina was awarded first place, Bibisara Assaubayeva is second and Zhu Jiner third The final, eleventh round of the third leg of the Women&#x2019;s Grand Prix []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/aleksandra-goryachkina-wins-in-new-delhi-on-tiebreaks/",
+         "pubDate" : "Wed, 05 Apr 2023 21:48:55 +0000",
+         "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
+      },
+      {
+         "description" : "The LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez will take place from 04-09 April 2023 in Mexico City, Mexico. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move one.&#xA0;Around 140 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lxviii-campeonato-nacional-e-internacional-abierto-mexicano-de-ajedrez-2023-live/",
+         "pubDate" : "Wed, 05 Apr 2023 21:43:08 +0000",
+         "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023 - LIVE"
+      },
+      {
+         "description" : "The LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez will take place from 04-09 April 2023 in Mexico City, Mexico. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move one.&#xA0;Around 140 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/lxviii-campeonato-nacional-e-internacional-abierto-mexicano-de-ajedrez-2023/",
+         "pubDate" : "Wed, 05 Apr 2023 21:41:12 +0000",
+         "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023"
+      },
+      {
+         "description" : "The Spring Classic 2023 returns to the Saint Louis Chess Club from 5 13 April 2023. The time control for this event is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment starting from move 1. The tournament format is 10-player Round Robin with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stl-spring-classic-group-b-2023-live/",
+         "pubDate" : "Wed, 05 Apr 2023 21:29:27 +0000",
+         "title" : "STL Spring Classic Group B 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-1-lichessorg",
+         "pubDate" : "Wed, 05 Apr 2023 21:20:35 +0000",
+         "title" : "2023 Spring Chess Classic: Round 1 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2325",
+         "pubDate" : "Wed, 05 Apr 2023 21:17:51 +0000",
+         "title" : "Nils Grandelius wins Reykjavik Open 2023"
+      },
+      {
+         "description" : "The Spring Classic 2023 returns to the Saint Louis Chess Club from 5 13 April 2023. The time control for this event is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment starting from move 1. The tournament format is 10-player Round Robin with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/stl-spring-classic-group-a-2023-live/",
+         "pubDate" : "Wed, 05 Apr 2023 21:13:32 +0000",
+         "title" : "STL Spring Classic Group A 2023 - LIVE"
+      },
+      {
+         "description" : "GM&#38;nbsp;Fabiano Caruana defeated GM Hikaru Nakamura in the Division I Winners Final of the Champions Chess Tour Chessable Masters 2023 to punch his ticket to the Grand Final. In the Losers Quarterfinals, GM Magnus Carlsen eliminated GM Wesley So, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-3",
+         "pubDate" : "Wed, 05 Apr 2023 14:05:00 -0700",
+         "title" : "Caruana Beats Nakamura Without Needing 4th Game, Advances To Grand Final"
+      },
+      {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +130,7 @@ news_feed (
          "title" : "Armageddon Series - Live from 20.00 CEST!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for the move-by-move. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/",
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2",
@@ -42,20 +162,12 @@ news_feed (
          "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
       },
       {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Wed, 05 Apr 2023 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
-      },
-      {
-         "description" : "This is a flash report. The full report will be added later. GMs Aleksandra Goryachkina, Bibisara Assaubayeva, and Zhu Jiner tied for first in the recently concluded third leg of the 2022-2023 FIDE Women&#39;s Grand Prix with scores of 6/10 in New D...",
+         "description" : "GMs Aleksandra Goryachkina, Bibisara Assaubayeva, and Zhu Jiner tied for first in the recently concluded third leg of the 2022-2023 FIDE Women&#39;s Grand Prix with scores of 6/9 in New Delhi, with Goryachkina edging out the trio on tiebreaks. Follo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-2023-fide-womens-grand-prix-leg-3",
          "pubDate" : "Wed, 05 Apr 2023 08:32:54 -0700",
-         "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title: Flash Report"
+         "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title"
       },
       {
          "description" : "The fourth and decisive leg of the FIDE Women's Grand Prix will take place in Cyprus on May 15-28. The tournament will be held at the Hilton Hotel in Cyprus' capital, Nicosia. Featuring 12 ballrooms and state-of-the-art technology meeting rooms, totalling 1,800 square meters of space for events, the venue is a very suitable option for both leisure and business visitors.",
@@ -66,36 +178,12 @@ news_feed (
          "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
       },
       {
-         "description" : "Day 2 of the Chessable Masters saw Hikaru Nakamura and Fabiano Caruana advancing to the winners' bracket final in Division I, thanks to victories over Wesley So and Vladislav Artemiev, respectively. In the losers' bracket, Magnus Carlsen and Levon Aronian scored wins to remain in contention for first place. In Division II, Maxime Vachier-Lagrave and Vladimir Kramnik are set to face each other in the next phase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d2",
-         "pubDate" : "Wed, 05 Apr 2023 14:25:00 +0100",
-         "title" : "Chessable Masters: Caruana and Nakamura reach winners' bracket final"
-      },
-      {
          "description" : " Today I have a &#8216;bad day'. I woke up at 4 AM after 3 hours of sleep, unable to sleep longer. After yesterday's dry needling session, my whole upper body is in pain and my mind was racing. Certainly what qualifies as a bad day for me. But not the end of the world either. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/bad-day/\">How to Train Chess on Bad Days: Tips From a Grandmaster</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "http://nextlevelchess.blog/bad-day/",
          "pubDate" : "Wed, 05 Apr 2023 12:00:00 +0000",
          "title" : "How to Train Chess on Bad Days: Tips From a Grandmaster"
-      },
-      {
-         "description" : "Zhu Jiner is the newest Grandmaster from China. She achieved her final GM norm at the ongoing Grand Prix in New Delhi. This makes her the 10th woman from China to become Grandmaster, and the 41st woman to achieve the title. Adding 17 ELO points, Zhu Jiner re-enters the 2500 ELO club and becomes 11th []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/zhu-jiner-achieves-her-final-gm-norm/",
-         "pubDate" : "Wed, 05 Apr 2023 11:47:06 +0000",
-         "title" : "Zhu Jiner achieves her final GM norm"
-      },
-      {
-         "description" : "GM Nils Grandelius won the 2023 edition of Reykjavik Open with the score of 7.5 points. Grandelius scored a victory in the last round against IM Quentin Loiseau to be half a point ahead of seven players who tied for second place scoring 7 points each. Replay all games from Reykjavik Open 2023 / See []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nils-grandelius-is-the-winner-of-reykjavik-open-2023/",
-         "pubDate" : "Wed, 05 Apr 2023 11:26:31 +0000",
-         "title" : "Nils Grandelius is the winner of Reykjavik Open 2023"
       },
       {
          "description" : "",
@@ -138,20 +226,20 @@ news_feed (
          "title" : "ECF Finance Council - papers available"
       },
       {
-         "description" : "The Fagernes GM 2023 is played at the major Norwegian Chess Hotel&#160;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#160;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fagernes-gm-2023-live/",
-         "pubDate" : "Wed, 05 Apr 2023 06:38:00 +0000",
-         "title" : "Fagernes GM 2023 - LIVE"
-      },
-      {
          "description" : "Nils Grandelius scored an impressive 7&frac12; out of 9 to become the outright winner at the 2023 edition of the Reykjavik Open. The Swedish grandmaster, who was the second seed in Iceland, beat Quentin Loiseau in the final round to claim first place. With over 400 participants in the traditional event, it was not surprising that seven players finished a half point behind the winner. Mustafa Yilmaz from Turkey and Abhijeet Gupta from India got second and third place on tiebreak criteria, respectively. | Photos: Hallfr&iacute;ður Sigurðard&oacute;ttir",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/nils-grandelius-wins-reykjavik-open-2023",
          "pubDate" : "Wed, 05 Apr 2023 05:50:00 +0100",
          "title" : "Nils Grandelius clinches Reykjavik Open with final-round win"
+      },
+      {
+         "description" : "Day 2 of the Chessable Masters saw Hikaru Nakamura and Fabiano Caruana advancing to the winners' bracket final in Division I, thanks to victories over Wesley So and Vladislav Artemiev, respectively. In the losers' bracket, Magnus Carlsen and Levon Aronian scored wins to remain in contention for first place. In Division II, Maxime Vachier-Lagrave and Vladimir Kramnik are set to face each other in the next phase.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d2",
+         "pubDate" : "Wed, 05 Apr 2023 05:45:00 +0100",
+         "title" : "Chessable Masters: Caruana and Nakamura reach winners' bracket final"
       },
       {
          "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
@@ -176,62 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-2",
          "pubDate" : "Tue, 04 Apr 2023 15:36:00 -0700",
          "title" : "Nakamura, Caruana To Play In All-American Winners Final"
-      },
-      {
-         "description" : "Zhu Jiner's critical victory and Aleksandra Goryachkina's draw in the penultimate round of the Women's Grand Prix in New Delhi have turned the tournament into a three-horse race. Sharing first place, Zhu Jiner, Bibisara Assaubayeva, and Aleksandra Goryachkina will all fight for the title in the final round Results of Round 10: Kateryna Lagno &#x2013; []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fide-women-grand-prix-round-10-report/",
-         "pubDate" : "Tue, 04 Apr 2023 21:03:43 +0000",
-         "title" : "FIDE Women Grand Prix - round 10 report"
-      },
-      {
-         "description" : "Maksim Chigaev Yangyi Yu is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maksim-chigaev-yangyi-yu-live-chessable-masters-div-2-losers/",
-         "pubDate" : "Tue, 04 Apr 2023 20:57:47 +0000",
-         "title" : "Maksim Chigaev - Yangyi Yu LIVE Chessable Masters Div 2 Losers"
-      },
-      {
-         "description" : "Aleksey Dreev Tuan Minh Le is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksey-dreev-tuan-minh-le-live-chessable-masters-div-2-losers/",
-         "pubDate" : "Tue, 04 Apr 2023 20:53:06 +0000",
-         "title" : "Aleksey Dreev - Tuan Minh Le LIVE Chessable Masters Div 2 Losers"
-      },
-      {
-         "description" : "Daniil Dubov Georg Meier is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/daniil-dubov-georg-meier-live-chessable-masters-div-2-losers/",
-         "pubDate" : "Tue, 04 Apr 2023 20:49:17 +0000",
-         "title" : "Daniil Dubov - Georg Meier LIVE Chessable Masters Div 2 Losers"
-      },
-      {
-         "description" : "Anish Giri Raunak Sadhwani is match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-raunak-sadhwani-live-chessable-masters-div-2-losers/",
-         "pubDate" : "Tue, 04 Apr 2023 20:43:33 +0000",
-         "title" : "Anish Giri - Raunak Sadhwani LIVE Chessable Masters Div 2 Losers"
-      },
-      {
-         "description" : "Grigoriy Oparin Vladimir Kramnik is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/grigoriy-oparin-vladimir-kramnik-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Tue, 04 Apr 2023 20:38:39 +0000",
-         "title" : "Grigoriy Oparin - Vladimir Kramnik LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave Praggnanandhaa is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the tournament. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/maxime-vachier-lagrave-praggnanandhaa-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Tue, 04 Apr 2023 20:34:32 +0000",
-         "title" : "Maxime Vachier-Lagrave - Praggnanandhaa LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "",
@@ -1106,14 +1138,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Examination, Indore from 18 to 19 March 2023 : Final Report"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Dorsa Derakhshani shows a cool Nimzo-Indian Defense game she played as Black. The pawn structure is similar to Dorsa&#039;s game with Brendan Zhang: <a href=\"https://youtube.com/live/6dMtuxZ2uQk\">https://youtube.com/live/6dMtuxZ2uQk</a>. 2023.03.28<br /> William Fan vs. Dorsa Derakhshani, 2023: E29 Nimzo-Indian, Saemisch, Capablanca variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dorsa-plays-nimzo-indian-grandmasters-choice-im-dorsa-derakhshani",
-         "pubDate" : "Tue, 28 Mar 2023 18:12:38 +0000",
-         "title" : "Dorsa Plays the Nimzo-Indian! | Grandmaster's Choice - IM Dorsa Derakhshani"
-      },
-      {
          "description" : "GM Jose Martinez was crowned as the winner and won $1,000 in the March edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after winning 59 of his 74 games during the two-hour event. Ukraine&#39;s GM Oleksandr Bortnyk and Armenian IM Emin Ohanya...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1568,14 +1592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2294",
          "pubDate" : "Thu, 23 Mar 2023 10:34:15 +0000",
          "title" : "World Championship match: venue, commentators & schedule"
-      },
-      {
-         "description" : "GM Hikaru Nakamura is the first player to book his ticket to this year&#39;s finals of The American Cup after defeating GM Wesley So in a blitz playoff. So now has to play against GM Levon Aronian for a spot in the final after the latter won his secon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-6",
-         "pubDate" : "Wed, 22 Mar 2023 20:55:00 -0700",
-         "title" : "Nakamura Blitzes So, Advances To Finals"
       },
       {
          "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
