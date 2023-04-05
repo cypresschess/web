@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/",
+         "pubDate" : "Wed, 05 Apr 2023 03:20:40 +0000",
+         "title" : "Is Racism in Chess Overlooked?"
+      },
+      {
          "description" : "GMs Hikaru Nakamura and Fabiano Caruana advance to the Winners Final of the Champions Chess Tour Chessable Masters 2023 after respectively defeating GMs Wesley So and Vladislav Artemiev in Division I on Tuesday. In the Losers Bracket, GM Magnus Ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
