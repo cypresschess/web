@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Nils Grandelius won the 2023 edition of Reykjavik Open with the score of 7.5 points. Grandelius scored a victory in the last round against IM Quentin Loiseau to be half a point ahead of seven players who tied for second place scoring 7 points each. Replay all games from Reykjavik Open 2023 / See []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nils-grandelius-is-the-winner-of-reykjavik-open-2023/",
+         "pubDate" : "Wed, 05 Apr 2023 11:26:31 +0000",
+         "title" : "Nils Grandelius is the winner of Reykjavik Open 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2323",
+         "pubDate" : "Wed, 05 Apr 2023 10:11:56 +0000",
+         "title" : "Inspiring Facts about Scholastic Chess"
+      },
+      {
+         "description" : "Magnus Carlsen survived his first brush with elimination on the 2023 Champions Chess Tour to beat Liem Le in Armageddon and set up a battle on Wednesday against Wesley So which will leave the loser having to qualify for the next event. Wesley lost another intense match against Hikaru Nakamura, who will play Fabiano Caruana in the Winners bracket final, after Fabi made a comeback to beat Vladislav Artemiev.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-beats-so-carlsen-survives-chessable-masters-2",
+         "pubDate" : "Wed, 05 Apr 2023 10:10:33 +0000",
+         "title" : "Nakamura beats So, Carlsen survives | Chessable Masters 2"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/junior-team-chess-challenge-22-23/#new_tab",
+         "pubDate" : "Wed, 05 Apr 2023 10:06:26 +0000",
+         "title" : "National Schools Junior Team Chess Challenge - report and results"
+      },
+      {
+         "description" : "The 37th edition of the Reykjavik Open took place from March 29 to April 4 in Harpa Conference Center, Iceland. GM Nils Grandelius (SWE, 2658) emerged as the Winner of the event with the score of 7.5 points. Grandelius scored a victory in the last round against IM Quentin Loiseau (FRA, 2449) to be half a point ahead&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/nils-grandelius-wins-reykjavik-open-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/nils-grandelius-wins-reykjavik-open-2023/",
+         "pubDate" : "Wed, 05 Apr 2023 09:18:04 +0000",
+         "title" : "Nils Grandelius wins Reykjavik Open 2023"
+      },
+      {
+         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
+         "pubDate" : "Wed, 05 Apr 2023 09:30:00 +0100",
+         "title" : "Women's Grand Prix in New Delhi - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
+         "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
+         "title" : "ECF Finance Council - papers available"
+      },
+      {
+         "description" : "The Fagernes GM 2023 is played at the major Norwegian Chess Hotel&#160;Scandic Valdresat Fagernes, 187 km north of Oslo.Main organizer is&#160;Hans Olav Lahlum in cooperation with Innlandet Sjakkrets.The tournament is taking place from 2-9 April 2023 in Fagernes, Norway. Players receive 100 minutes for 40 moves, followed by 40 minutes to the end of the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fagernes-gm-2023-live/",
+         "pubDate" : "Wed, 05 Apr 2023 06:38:00 +0000",
+         "title" : "Fagernes GM 2023 - LIVE"
+      },
+      {
          "description" : "Nils Grandelius scored an impressive 7&frac12; out of 9 to become the outright winner at the 2023 edition of the Reykjavik Open. The Swedish grandmaster, who was the second seed in Iceland, beat Quentin Loiseau in the final round to claim first place. With over 400 participants in the traditional event, it was not surprising that seven players finished a half point behind the winner. Mustafa Yilmaz from Turkey and Abhijeet Gupta from India got second and third place on tiebreak criteria, respectively. | Photos: Hallfr&iacute;ður Sigurðard&oacute;ttir",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,36 +154,12 @@ news_feed (
          "title" : "Denis Lazavik - Vincent Keymer LIVE Chessable Masters Div 2 Winners"
       },
       {
-         "description" : "Nodirbek Abdusattorov Erigaisi Arjun is 1/4 match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-erigaisi-arjun-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Tue, 04 Apr 2023 20:25:51 +0000",
-         "title" : "Nodirbek Abdusattorov - Erigaisi Arjun LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Hikaru Nakamura Wesley So is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hikaru-nakamura-wesley-so-live-chessable-masters-div-1-winners-2023/",
-         "pubDate" : "Tue, 04 Apr 2023 20:21:48 +0000",
-         "title" : "Hikaru Nakamura - Wesley So LIVE Chessable Masters Div 1 Winners 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2322",
          "pubDate" : "Tue, 04 Apr 2023 18:56:28 +0000",
          "title" : "WGP New Delhi: Round 10 Recap"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Tue, 04 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
       },
       {
          "description" : " Here are the first few moves of an online blitz game I played the other day, in which I fell for a very plausible trap. 1. e4 c6 The Caro-Kann is an opening I hardly ever play, but, on the principle that you should try everything once except incest and folk dancing, I decided to <a href=\"https://chessimprover.com/a-plausible-trap/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Plausible Trap\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-plausible-trap/\">A Plausible Trap</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/physiological-factors-that-can-significantly-impact-your-game",
          "pubDate" : "Tue, 04 Apr 2023 12:00:00 +0100",
          "title" : "Physiological factors that can significantly impact your game"
-      },
-      {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Tue, 04 Apr 2023 11:30:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
       },
       {
          "description" : "Vladislav Artemiev was the first player to win a match against Magnus Carlsen in the 2023 Champions Chess Tour as he won in Armageddon to leave Magnus needing to plot a way to win the tournament via the Losers bracket. Hikaru Nakamura was an amazing escape away from also losing, but held on to defeat Vladimir Fedoseev and set up yet another double elimination showdown with Wesley So.",
@@ -986,6 +1018,14 @@ news_feed (
          "title" : "Endgame Magic #233: Highlights from the Bundesliga - with Iniyan!"
       },
       {
+         "description" : "The European Women's Chess Championship is taking place on March 17-30 at the Hotel Palas in Petrovac, Montenegro. The event features 136 players from 34 federations. The top 9 players in the final standings will get a spot in the next edition of the FIDE Women's World Cup. | Follow the games from the final round live with computer analysis starting at 13.00 CEST (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eiwcc-2023-live",
+         "pubDate" : "Wed, 29 Mar 2023 11:30:00 +0100",
+         "title" : "European Women's Championship - Final round: Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1722,14 +1762,6 @@ news_feed (
          "title" : "European Women's Championship 2023 starts in Petrovac, Montenegro"
       },
       {
-         "description" : "13th World Chess Champion Garry Kasparov was asked about the upcoming Ian Nepomniachtchi vs. Ding Liren World Championship match when he made an appearance during the broadcast on the first day of the American Cup. He called the 14-game match in Kazakhstan \"kind of an amputated event\", explaining the difference to the situation in 1975 with, \"Fischer stopped playing chess, Magnus has not!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/kasparov-i-can-hardly-call-it-a-world-championship-match",
-         "pubDate" : "Sat, 18 Mar 2023 11:25:40 +0000",
-         "title" : "Kasparov: \"I can hardly call it a World Championship match\""
-      },
-      {
          "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1832,22 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2284",
          "pubDate" : "Wed, 15 Mar 2023 12:29:34 +0000",
          "title" : "Chess for Freedom Conference: List of speakers announced"
-      },
-      {
-         "description" : "The 23rd edition of the European Women's Individual Chess Championship 2023 takes place from 17th-30th March in Hotel &#8220;Palas&#8221; Petrovac, Montenegro. The Championship will be played in 11 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game with an increment of 30 seconds for every&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-starts-in-petrovac-montenegro/",
-         "pubDate" : "Wed, 15 Mar 2023 11:25:21 +0000",
-         "title" : "European Women's Chess Championship 2023 starts in Petrovac, Montenegro"
-      },
-      {
-         "description" : " During the last few weeks I released two new Vimeo-on-demand titles, Surviving Computerized Chess Opening Preparation and Building an Opening Repertoire. Although they are intended for different audiences, both these works are designed to address real practical issues. Surviving Computerized Chess Opening Preparation addresses a serious issue for advanced tournament competitors, how to handle the <a href=\"https://chessimprover.com/my-latest-releases-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"My Latest Releases on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/my-latest-releases-on-vimeo/\">My Latest Releases on Vimeo</a> appe",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/my-latest-releases-on-vimeo/",
-         "pubDate" : "Wed, 15 Mar 2023 10:00:26 +0000",
-         "title" : "My Latest Releases on Vimeo"
       }
    ]
 }
