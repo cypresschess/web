@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Parham Maghsoodloo Vladimir Kramnik is 1/2 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/2 final games is Nodirbek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/parham-maghsoodloo-vladimir-kramnik-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:24:07 +0000",
+         "title" : "Parham Maghsoodloo - Vladimir Kramnik LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov D Gukesh is 1/2 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/2 final games is Parham []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-d-gukesh-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:22:19 +0000",
+         "title" : "Nodirbek Abdusattorov - D Gukesh LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "Vladimir Kramnik Daniil Dubov is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vladimir-kramnik-daniil-dubov-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:18:54 +0000",
+         "title" : "Vladimir Kramnik - Daniil Dubov LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "Parham Maghsoodloo Murali Karthikeyan is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/parham-maghsoodloo-murali-karthikeyan-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:16:30 +0000",
+         "title" : "Parham Maghsoodloo - Murali Karthikeyan LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "Yangyi Yu D Gukesh is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/yangyi-yu-d-gukesh-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:13:04 +0000",
+         "title" : "Yangyi Yu - D Gukesh LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Santosh Gujrathi Vidit is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-santosh-gujrathi-vidit-live-armageddon-championship-series/",
+         "pubDate" : "Thu, 06 Apr 2023 19:10:42 +0000",
+         "title" : "Nodirbek Abdusattorov - Santosh Gujrathi Vidit LIVE Armageddon Championship Series"
+      },
+      {
+         "description" : "The Asia and Oceania edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The 1/4 final games are : Nodirbek Abdusattorov Santosh Gujrathi ViditYangyi Yu D GukeshParham Maghsoodloo Murali []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/armageddon-championship-series-asia-and-oceania-winners/",
+         "pubDate" : "Thu, 06 Apr 2023 19:06:56 +0000",
+         "title" : "Armageddon Championship Series Asia and Oceania Winners"
+      },
+      {
+         "description" : "Magnus Carlsen Hikaru Nakamura is the final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/magnus-carlsen-hikaru-nakamura-ive-chessable-masters-div-1-losers/",
+         "pubDate" : "Thu, 06 Apr 2023 18:56:43 +0000",
+         "title" : "Magnus Carlsen - Hikaru Nakamura LIVE Chessable Masters Div 1 Losers"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Thu, 06 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3",
+         "pubDate" : "Thu, 06 Apr 2023 18:21:09 +0000",
+         "title" : "2023 Spring Chess Classic: Round 3"
+      },
+      {
+         "description" : "Anish Giri Yangyi Yu is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/anish-giri-yangyi-yu-live-chessable-masters-div-2-losers/",
+         "pubDate" : "Thu, 06 Apr 2023 16:29:21 +0000",
+         "title" : "Anish Giri - Yangyi Yu LIVE Chessable Masters Div 2 Losers"
+      },
+      {
+         "description" : "The BASEL EASTER Festival 2023 &#x2013; MASTER&#xA0;will take place from 06-10 April 2023 in Basel, Switzerland. The Master section of the tournament is only for players rated 2050 or higher. It will be 9-round Swiss system tournament with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament has total prize fund []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/basel-easter-festival-2023-live/",
+         "pubDate" : "Thu, 06 Apr 2023 16:23:46 +0000",
+         "title" : "BASEL EASTER Festival 2023 - LIVE"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +122,20 @@ news_feed (
          "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
       },
       {
+         "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games. The games start at 10am BST each day. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 -2 =8 head to head.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
+         "pubDate" : "Thu, 6 Apr 2023 18:38:00 +0400",
+         "title" : "World Chess Championship 2023 - "
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris takes a close look at the fifth and decisive game that Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates-2",
          "pubDate" : "Thu, 06 Apr 2023 11:30:36 +0100",
          "title" : "Robert Ris' Fast and Furious: An antidote against the Zukertort-Colle system?"
-      },
-      {
-         "description" : "Report by Dr. Dudayeff from Astana On April 6, the Chinese delegation arrived in Astana, Kazakhstan to prepare for the Nepo &#x2013; Ding World Championship 2023 match. Chinese chess player, Ding Liren, tested the game tables, chairs, and chess sets at the venue, which will be held at the St. Regis Astana Hotel from April []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-is-happy-with-the-food-in-astana-world-chess-championship-2023/",
-         "pubDate" : "Thu, 06 Apr 2023 09:49:41 +0000",
-         "title" : "Ding Liren is happy with the food in Astana - World Chess Championship 2023"
       },
       {
          "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
@@ -50,28 +146,12 @@ news_feed (
          "title" : "Nakamura blunders mate-in-1 | Chessable Masters 3"
       },
       {
-         "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women&#x2019;s sections. The organizing committee of European Senior Chess Championship 2023, announced the first 125 participants, which is a participation []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/european-senior-chess-2023-sets-participation-record/",
-         "pubDate" : "Thu, 06 Apr 2023 07:00:04 +0000",
-         "title" : "European Senior Chess 2023 sets participation record"
-      },
-      {
          "description" : "The FIDE Women's Grand Prix 2022-23 in New Delhi came to a dramatic conclusion with the top three players finishing on the same points. However,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aleksandra-goryachkina-seals-top-spot-after-nail-biting-end-to-third-leg-of-fide-womens-grand-prix-2022-23-in-new-delhi/",
          "pubDate" : "Thu, 06 Apr 2023 06:59:30 +0000",
          "title" : "Aleksandra Goryachkina seals top spot after nail-biting end to third leg of FIDE Women's Grand Prix 2022-23 in New Delhi"
-      },
-      {
-         "description" : "A few days ago Ding Liren was spotted at the Hangzhou Airport on his way to Astana for the World Championship 2023. Now Ding has already visited the playing hall and is already choosing his chair. Many known faces are around Ding on the photo from Astana by David Llada in the #TweetOftheDay Ian Nepomniachtchi []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-nepo-2023-the-game-of-chairs-has-started-tweetoftheday/",
-         "pubDate" : "Thu, 06 Apr 2023 06:40:06 +0000",
-         "title" : "Ding - Nepo 2023, the Game of Chairs has started #TweetOftheDay"
       },
       {
          "description" : "Aleksandra Goryachkina, Zhu Jiner and Bibisara Assaubayeva all finished with 6/9 scores atop the standings of the Women's Grand Prix in New Delhi. The three players entered the final round in shared first place, and all three drew their games on Wednesday. Prize money and Grand Prix points were evenly distributed between the three, but Goryachkina was declared tournament winner based on tiebreak criteria. | Photo: FIDE / Ismael Nieto",
@@ -96,62 +176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/see-you-all-in-10-days.html",
          "pubDate" : "Wed, 05 Apr 2023 22:11:00 +0000",
          "title" : "See you all in 10 days :)"
-      },
-      {
-         "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura is the finall match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-hikaru-nakamura-live-chessable-masters-div-1-winners/",
-         "pubDate" : "Wed, 05 Apr 2023 22:08:12 +0000",
-         "title" : "Fabiano Caruana - Hikaru Nakamura LIVE Chessable Masters Div 1 Winners"
-      },
-      {
-         "description" : "Vladislav Artemiev &#x2013; Levon Aronian is quarterfinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladislav-artemiev-levon-aronian-live-chessable-masters-div-1-losers/",
-         "pubDate" : "Wed, 05 Apr 2023 22:05:01 +0000",
-         "title" : "Vladislav Artemiev - Levon Aronian LIVE Chessable Masters Div 1 Losers"
-      },
-      {
-         "description" : "Magnus Carlsen Wesley So is quarterfinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-wesley-so-live-chessable-masters-div-1-losers/",
-         "pubDate" : "Wed, 05 Apr 2023 22:02:05 +0000",
-         "title" : "Magnus Carlsen - Wesley So LIVE Chessable Masters Div 1 Losers"
-      },
-      {
-         "description" : "Vladimir Kramnik Maxime Vachier-Lagrave is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-kramnik-maxime-vachier-lagrave-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Wed, 05 Apr 2023 21:59:15 +0000",
-         "title" : "Vladimir Kramnik - Maxime Vachier-Lagrave LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov Denis Lazavik is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-denis-lazavik-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Wed, 05 Apr 2023 21:57:06 +0000",
-         "title" : "Nodirbek Abdusattorov - Denis Lazavik LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "The top three contenders for first place in the third leg of the Women&#x2019;s Grand Prix all drew their final round games, finishing on six points. After tiebreaks, Aleksandra Goryachkina was awarded first place, Bibisara Assaubayeva is second and Zhu Jiner third The final, eleventh round of the third leg of the Women&#x2019;s Grand Prix []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/aleksandra-goryachkina-wins-in-new-delhi-on-tiebreaks/",
-         "pubDate" : "Wed, 05 Apr 2023 21:48:55 +0000",
-         "title" : "Aleksandra Goryachkina wins in New Delhi on tiebreaks"
-      },
-      {
-         "description" : "The LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez will take place from 04-09 April 2023 in Mexico City, Mexico. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move one.&#xA0;Around 140 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lxviii-campeonato-nacional-e-internacional-abierto-mexicano-de-ajedrez-2023-live/",
-         "pubDate" : "Wed, 05 Apr 2023 21:43:08 +0000",
-         "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
@@ -1066,14 +1090,6 @@ news_feed (
          "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
       },
       {
-         "description" : "The Women's Grand Prix in New Delhi saw its fourth round being played on Wednesday. Former leader Bibisara Assaubayeva was defeated by Aleksandra Goryachkina. Zhu Jiner, who beat Humpy Koneru, and Polina Shuvalova (pictured), who beat Nana Dzagnidze, now top the standings with 2&frac12;/4 points each. In addition, Kateryna Lagno defeated Vaishali Rameshbabu. | Photo: FIDE / Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-r4",
-         "pubDate" : "Thu, 30 Mar 2023 06:45:00 +0100",
-         "title" : "New Delhi GP: Four decisive results"
-      },
-      {
          "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2304",
          "pubDate" : "Wed, 29 Mar 2023 11:17:20 +0000",
          "title" : "FIDE Development Fund 2023 is now open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about what an &quot;alignment&quot; is in chess. 2023.03.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-your-alignment-beginner-breakdown-lichessorg\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u_jlX2LwwBA.jpg?itok=4YD6ospk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-your-alignment-beginner-breakdown-lichessorg",
-         "pubDate" : "Wed, 29 Mar 2023 00:13:01 +0000",
-         "title" : "What's Your Alignment? | Beginner Breakdown | lichess.org"
       },
       {
          "description" : "Only one round is left to be played before the announcement of the 2023 European Women's Chess Champion and IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406) tie for the first place scoring 8 points, each. The penultimate 10th round saw two decisive results on the top two boards as IM Oliwia Kiolbasa defeated her&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/\">Read More &#187;</a></span>",
@@ -1872,14 +1880,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/17/chess-carlsen-set-for-challenge-from-us-quartet-online-and-over-the-board",
          "pubDate" : "Fri, 17 Mar 2023 08:00:35 +0000",
          "title" : "Chess: Carlsen set for challenge from US quartet online and over-the-board"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2286",
-         "pubDate" : "Thu, 16 Mar 2023 17:07:12 +0000",
-         "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
       }
    ]
 }
