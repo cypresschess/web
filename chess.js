@@ -10,6 +10,14 @@ news_feed (
          "title" : "Goryachkina, Zhu and Assaubayeva tie for first at New Delhi Grand Prix"
       },
       {
+         "description" : "IM Levy Rozman, a.k.a &#34;GothamChess&#34; the world&#39;s biggest chess Youtuber, talked about his incredible growth over the last six months, reactions from other top players, an amusing one-line response from Magnus Carlsen, and his thoughts about the upc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-perpetual-chess-podcast",
+         "pubDate" : "Wed, 05 Apr 2023 16:31:10 -0700",
+         "title" : "GothamChess On Success, Carlsen Message, World Championship Match"
+      },
+      {
          "description" : " The <a href=\"http://doeberlcup.com.au\">2023 O2C Doeberl Cup</a> is starting today. I've just packed the car with a metric tonne of chess equipment and am about to head to the venue. The Doeberl runs until the 10th and then it is straight into the 2023 Oceania Junior Chess Championship. That event finishes on the 15th of April, so I should surface sometime around the 16th of December. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html",
          "pubDate" : "Fri, 24 Mar 2023 16:49:00 +0000",
          "title" : "Ding Liren's TWIC Debut"
-      },
-      {
-         "description" : "It took two tiebreakers before the winners were determined in the two elimination brackets in The American Cup. GM Wesley So cheated himself from a win in the first game but took care of business in the blitz tiebreaker. In the women&#39;s event, FM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-the-american-cup-2023-day-7",
-         "pubDate" : "Fri, 24 Mar 2023 06:52:00 -0700",
-         "title" : "Third Game Is A Charm For Lee, So In Elimination Brackets"
       },
       {
          "description" : "Wesley So and Alice Lee both won their elimination matches to bounce back from defeat in the Champions bracket and get a chance to win the American Cup. Wesley So faces a rematch against Hikaru Nakamura after beating Levon Aronian 2.5:1.5, while Alice Lee will again take on Irina Krush after beating Nazi Paikidze 3:1.",
