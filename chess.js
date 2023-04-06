@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In his Fast & Furious show, Robert Ris takes a close at the fifth and decisive game Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Thu, 06 Apr 2023 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Fabiano Caruana has yet to lose a match at the 2023 Champions Chess Tour. The US star finished undefeated to win Division II of the Airthings Masters, and has now reached the Grand Final of the Chessable Masters. On Wednesday, Caruana defeated Hikaru Nakamura by a convincing 2&frac12;-&frac12; score in the final of the winners' bracket. Magnus Carlsen and Levon Aronian won their matches in the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d3",
+         "pubDate" : "Thu, 06 Apr 2023 16:30:00 +0100",
+         "title" : "Chessable Masters: Caruana beats Nakamura, continues winning streak"
+      },
+      {
+         "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
+         "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
+         "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
+      },
+      {
+         "description" : "In his Fast & Furious show, Robert Ris takes a close look at the fifth and decisive game that Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates-2",
@@ -154,14 +178,6 @@ news_feed (
          "title" : "Caruana Beats Nakamura Without Needing 4th Game, Advances To Grand Final"
       },
       {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Wed, 05 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -198,7 +214,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2022-2023-fide-womens-grand-prix-leg-3",
-         "pubDate" : "Wed, 05 Apr 2023 08:32:54 -0700",
+         "pubDate" : "Wed, 05 Apr 2023 08:32:00 -0700",
          "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title"
       },
       {
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/tan-zhongyi-wins-thriller-as-women-s-candidates-begins",
          "pubDate" : "Wed, 29 Mar 2023 23:27:48 +0000",
          "title" : "Tan Zhongyi wins thriller as Women's Candidates begins"
-      },
-      {
-         "description" : "Tan Zhongyi takes the lead in the six-game Women's Candidates Final after defeating Lei Tingjie in one of the most exciting games of the year. In a double-edged struggle that emerged out of an English Opening, which saw Tan giving up a couple of pawns early on, Lei was the one making the last mistake. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g1",
-         "pubDate" : "Wed, 29 Mar 2023 23:30:00 +0100",
-         "title" : "Tan Zhongyi draws first blood in Women's Candidates Final"
       },
       {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Many players <a href=\"https://chessimprover.com/carbon-versus-silicon-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-4/\">Carbon versus Silicon (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
