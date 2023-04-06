@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris takes a close at the fifth and decisive game Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates-2",
+         "pubDate" : "Thu, 06 Apr 2023 11:30:36 +0100",
+         "title" : "Robert Ris' Fast and Furious: An antidote against the Zukertort-Colle system?"
+      },
+      {
+         "description" : "Report by Dr. Dudayeff from Astana On April 6, the Chinese delegation arrived in Astana, Kazakhstan to prepare for the Nepo &#x2013; Ding World Championship 2023 match. Chinese chess player, Ding Liren, tested the game tables, chairs, and chess sets at the venue, which will be held at the St. Regis Astana Hotel from April []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-is-happy-with-the-food-in-astana-world-chess-championship-2023/",
+         "pubDate" : "Thu, 06 Apr 2023 09:49:41 +0000",
+         "title" : "Ding Liren is happy with the food in Astana - World Chess Championship 2023"
+      },
+      {
+         "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-blunders-mate-in-1-chessable-masters-3",
+         "pubDate" : "Thu, 06 Apr 2023 08:52:58 +0000",
+         "title" : "Nakamura blunders mate-in-1 | Chessable Masters 3"
+      },
+      {
          "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women&#x2019;s sections. The organizing committee of European Senior Chess Championship 2023, announced the first 125 participants, which is a participation []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://www.chessdom.com/lxviii-campeonato-nacional-e-internacional-abierto-mexicano-de-ajedrez-2023-live/",
          "pubDate" : "Wed, 05 Apr 2023 21:43:08 +0000",
          "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023 - LIVE"
-      },
-      {
-         "description" : "The LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez will take place from 04-09 April 2023 in Mexico City, Mexico. The event will be played in swiss system, 9 rounds, with the time control of 90 minutes for the whole game plus 30 seconds increment for each move, starting from the move one.&#xA0;Around 140 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/lxviii-campeonato-nacional-e-internacional-abierto-mexicano-de-ajedrez-2023/",
-         "pubDate" : "Wed, 05 Apr 2023 21:41:12 +0000",
-         "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
@@ -304,6 +320,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
          "pubDate" : "Tue, 04 Apr 2023 17:00:00 +0100",
          "title" : "Jan Markos: What you need to know about the Rook"
+      },
+      {
+         "description" : "The post from a couple of days ago, <A HREF=\"https://chessforallages.blogspot.com/2023/04/baffling-ebay.html\">Baffling eBay</A> (April 2023), was post no.3600 on this blog. That means it's time for another 'Breaking the Barrier' post, last seen in <A HREF=\"https://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html\">Breaking the 3500 Barrier</A> (October 2022). In that '3500' post I wrote <BLOCKQUOTE> If I ever do a 'Breaking 3600' post, I now have two CCRL rating lists to consult, but I'll cross that bridge when I come to it. </BLOCKQUOTE> <P> I am now standing in front of that bridge -- OK, sitting in front of it -- and I see that there are four CCRL rating lists. Shown below a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/breaking-3600-barrier.html",
+         "pubDate" : "Tue, 04 Apr 2023 15:29:00 +0000",
+         "title" : "Breaking the 3600 Barrier"
       },
       {
          "description" : " To try and motivate some of my chess students I have set them quite a big challenge over the next 3 weeks. I've asked them to do 1000 puzzles at lichess.org before then end of the school holidays. This is approximately 50 puzzles a day, although they can do more/less in a day if they choose. The rules are simple 1. The puzzle category is up to you (I am mainly working on endings, but have choses general tactics and some openings) 2. It doesn't matter if you get 100% (or even 20%). Just trying to solve them is the goal 3. But ... you should retry the ones you got wrong before you start the next days set 4. Your final score/rating does not matter to anyone but yourself <br /> To see how hard ",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "Women's Grand Prix New Delhi: Goryachkina takes the lead in a day of decisive games"
       },
       {
-         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-3",
-         "pubDate" : "Wed, 29 Mar 2023 17:00:00 +0100",
-         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 1/3"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1746,14 +1762,6 @@ news_feed (
          "title" : "Karpov and Kasparov Play Chess in Iceland"
       },
       {
-         "description" : "Hikaru Nakamura's 1st classical games in eight months went well as he defeated Sam Sevian 1.5:0.5 in the American Cup. The other matches went to rapid tiebreaks, with wins for Leinier Dominguez (over Levon Aronian), Wesley So (Sam Shankland) and Fabiano Caruana (Ray Robson). All four American Women's Cup matches were decided in classical chess, including 13-year-old Alice Lee beating Atousa Pourkashiyan 2:0.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-world-no-5-after-fast-american-cup-start",
-         "pubDate" : "Sun, 19 Mar 2023 13:39:36 +0000",
-         "title" : "Nakamura world no. 5 after fast American Cup start"
-      },
-      {
          "description" : " I was checking out some of the online events tonight, and I came across the HIT Open in Slovenia. The Chief Arbiter is a colleague if mine from the Olympiad (WGM Ana Srebrnic) but it was some of the names of the players that I found most interesting. GM Alexander Beliavsky is playing, along with other older GM's like Nigel Davies and Stefan Djuric. Of course there are a few younger GM's in the field, but it is good to see some of the legends from earlier times still having a hit. Oh, and the other interesting feature is the tournament does not seem to offer prizes as such, but instead \"Reimbursement of Expenses\" for the best scoring players (which of course have the same cash value as prize",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2286",
          "pubDate" : "Thu, 16 Mar 2023 17:07:12 +0000",
          "title" : "World Solving Cup: Titles for Piorun and Sidiropoulos"
-      },
-      {
-         "description" : "The 9th edition of the London Chess Conference will take place from 17-19 March 2023. The theme of the 2023 London Chess Conference is Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The conference covers the education needed to lay the intellectual foundations for life and work in the&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/london-chess-conference-2023/",
-         "pubDate" : "Thu, 16 Mar 2023 10:28:22 +0000",
-         "title" : "London Chess Conference 2023"
       }
    ]
 }
