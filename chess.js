@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-1.html",
+         "pubDate" : "Thu, 06 Apr 2023 22:39:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Day 1"
+      },
+      {
+         "description" : "Magnus Carlsen's last event as World Champion ended in failure on Thursday as a dramatic match-losing mouseslip against Hikaru Nakamura dumped him out of the Chessable Masters. Carlsen and his old rival, the two big beasts of online chess, had gone toe-to-toe over two drawn rapid games before the Losers Bracket Final was left hanging []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nakamura-knocks-carlsen-out-of-chessable-masters-2023/",
+         "pubDate" : "Thu, 06 Apr 2023 21:23:50 +0000",
+         "title" : "Nakamura knocks Carlsen out of Chessable Masters 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2-lichessorg",
+         "pubDate" : "Thu, 06 Apr 2023 21:21:12 +0000",
+         "title" : "2023 Spring Chess Classic: Round 2 | lichess.org"
+      },
+      {
+         "description" : "The 2023 FIDE World Championship is starting soon, with the first move happening this Sunday, April 9. While you wait to see who becomes the next world champion, why not play chess against our FIDE World Championship bots?&#38;nbsp; Go to our Play C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-fide-world-championship-bots",
+         "pubDate" : "Thu, 06 Apr 2023 13:29:00 -0700",
+         "title" : "Play Chess Against The Next FIDE World Champion"
+      },
+      {
+         "description" : "Fan-favorite GMs Hikaru Nakamura and Magnus Carlsen produced yet another epic match, this time in the Losers Final of the Champions Chess Tour Chessable Masters 2023. Following two draws, Nakamura won the armageddon game after tenaciously defendin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-4",
+         "pubDate" : "Thu, 06 Apr 2023 12:58:00 -0700",
+         "title" : "Nakamura Eliminates Carlsen After Dramatic Mouse Slip, Advances To Grand Final"
+      },
+      {
          "description" : "Parham Maghsoodloo Vladimir Kramnik is 1/2 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/2 final games is Nodirbek []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +130,6 @@ news_feed (
          "title" : "Anish Giri - Yangyi Yu LIVE Chessable Masters Div 2 Losers"
       },
       {
-         "description" : "The BASEL EASTER Festival 2023 &#x2013; MASTER&#xA0;will take place from 06-10 April 2023 in Basel, Switzerland. The Master section of the tournament is only for players rated 2050 or higher. It will be 9-round Swiss system tournament with time control 90 minutes plus a 30-second increment starting from move one.&#xA0;This tournament has total prize fund []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/basel-easter-festival-2023-live/",
-         "pubDate" : "Thu, 06 Apr 2023 16:23:46 +0000",
-         "title" : "BASEL EASTER Festival 2023 - LIVE"
-      },
-      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,6 +186,14 @@ news_feed (
          "title" : "Aleksandra Goryachkina seals top spot after nail-biting end to third leg of FIDE Women's Grand Prix 2022-23 in New Delhi"
       },
       {
+         "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/36080409/2023-world-chess-championship-ian-nepomniachtchi-ding-liren-battle-crown-carlsen-missing-king?device=featurephone",
+         "pubDate" : "Thu, 6 Apr 2023 01:03:29 -0500",
+         "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
+      },
+      {
          "description" : "Aleksandra Goryachkina, Zhu Jiner and Bibisara Assaubayeva all finished with 6/9 scores atop the standings of the Women's Grand Prix in New Delhi. The three players entered the final round in shared first place, and all three drew their games on Wednesday. Prize money and Grand Prix points were evenly distributed between the three, but Goryachkina was declared tournament winner based on tiebreak criteria. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2",
          "pubDate" : "Wed, 05 Apr 2023 18:20:28 +0000",
          "title" : "2023 Spring Chess Classic: Round 2"
-      },
-      {
-         "description" : "World no.1 Magnus Carlsen opted out of competing to be world champion, with no.2 Ian Nepomniachtchi and no.3 Ding Liren facing off instead.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/36080409/2023-world-chess-championship-ian-nepomniachtchi-ding-liren-battle-crown-carlsen-missing-king?device=featurephone",
-         "pubDate" : "Wed, 5 Apr 2023 13:18:20 -0500",
-         "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
       },
       {
          "description" : "GM Dmitry Andreikin and GM Parham Maghsoodloo emerged victorious at Titled Tuesday on April 4. Both scored 9.5 points out of a possible 11, but Andrekin needed a tiebreak advantage over two rivals while Maghsoodloo won outright.&#38;nbsp; This was A...",
@@ -1018,14 +1050,6 @@ news_feed (
          "title" : "WCF Game 2: Lei Tingjie grinds down Tan Zhongyi and ties the match"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-best-us\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/yout",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-best-us",
-         "pubDate" : "Thu, 30 Mar 2023 15:14:30 +0000",
-         "title" : "Saint Louis Chess Club: The Best in the U.S."
-      },
-      {
          "description" : "The European Women's Championship came to an end on Wednesday in Petrovac, Montenegro. Since the games on the top boards finished drawn - albeit not without a fight - nothing changed in the standings relative to the previous rounds. Meri Arabidze from Georgia and Oliwia Kiolbasa from Poland tied for first place on 8&frac12;/11 points. Arabidze was declared the champion thanks to her victory over Kiolbasa in round 8. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1424,22 +1448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-pcl-arena-royale-knights",
          "pubDate" : "Fri, 24 Mar 2023 20:06:00 -0700",
          "title" : "Fedoseev Leads Gotham Knights To Victory"
-      },
-      {
-         "description" : "GM Irina Krush put herself within arm&#39;s reach of back-to-back American Cup victories after dispatching FM Alice Lee in the first game of their final matchup on Friday. Playing with the black pieces in a repeat of their 2022 final, Lee played a r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-8",
-         "pubDate" : "Fri, 24 Mar 2023 18:36:00 -0700",
-         "title" : "Krush 1 Draw Away From Title, Nakamura Draws Wild Game With So"
-      },
-      {
-         "description" : "The Cinderella basketball teams busted your March Madness bracket to smithereens. Fortunately, the Collegiate Chess League (CCL) Playoffs are just in time to give you another shot at office pool glory.&#38;nbsp; The playoffs begin with wild card wee...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-collegiate-chess-league-playoff-preview",
-         "pubDate" : "Fri, 24 Mar 2023 13:19:00 -0700",
-         "title" : "2023 Collegiate Chess League: Playoffs Preview"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
