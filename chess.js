@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Senior Chess Championship 2023 will take place from May 25 to June 4 in Acqui Terme, Italy. The event will be played in two age categories: 50+ and 65+, with separate open and women&#x2019;s sections. The organizing committee of European Senior Chess Championship 2023, announced the first 125 participants, which is a participation []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/european-senior-chess-2023-sets-participation-record/",
+         "pubDate" : "Thu, 06 Apr 2023 07:00:04 +0000",
+         "title" : "European Senior Chess 2023 sets participation record"
+      },
+      {
+         "description" : "The FIDE Women's Grand Prix 2022-23 in New Delhi came to a dramatic conclusion with the top three players finishing on the same points. However,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aleksandra-goryachkina-seals-top-spot-after-nail-biting-end-to-third-leg-of-fide-womens-grand-prix-2022-23-in-new-delhi/",
+         "pubDate" : "Thu, 06 Apr 2023 06:59:30 +0000",
+         "title" : "Aleksandra Goryachkina seals top spot after nail-biting end to third leg of FIDE Women's Grand Prix 2022-23 in New Delhi"
+      },
+      {
+         "description" : "A few days ago Ding Liren was spotted at the Hangzhou Airport on his way to Astana for the World Championship 2023. Now Ding has already visited the playing hall and is already choosing his chair. Many known faces are around Ding on the photo from Astana by David Llada in the #TweetOftheDay Ian Nepomniachtchi []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-nepo-2023-the-game-of-chairs-has-started-tweetoftheday/",
+         "pubDate" : "Thu, 06 Apr 2023 06:40:06 +0000",
+         "title" : "Ding - Nepo 2023, the Game of Chairs has started #TweetOftheDay"
+      },
+      {
          "description" : "Aleksandra Goryachkina, Zhu Jiner and Bibisara Assaubayeva all finished with 6/9 scores atop the standings of the Women's Grand Prix in New Delhi. The three players entered the final round in shared first place, and all three drew their games on Wednesday. Prize money and Grand Prix points were evenly distributed between the three, but Goryachkina was declared tournament winner based on tiebreak criteria. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-perpetual-chess-podcast",
-         "pubDate" : "Wed, 05 Apr 2023 16:31:10 -0700",
+         "pubDate" : "Wed, 05 Apr 2023 16:31:00 -0700",
          "title" : "GothamChess On Success, Carlsen Message, World Championship Match"
       },
       {
@@ -90,14 +114,6 @@ news_feed (
          "title" : "LXVIII Campeonato Nacional e Internacional Abierto Mexicano de Ajedrez 2023"
       },
       {
-         "description" : "The Spring Classic 2023 returns to the Saint Louis Chess Club from 5 13 April 2023. The time control for this event is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment starting from move 1. The tournament format is 10-player Round Robin with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stl-spring-classic-group-b-2023-live/",
-         "pubDate" : "Wed, 05 Apr 2023 21:29:27 +0000",
-         "title" : "STL Spring Classic Group B 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2325",
          "pubDate" : "Wed, 05 Apr 2023 21:17:51 +0000",
          "title" : "Nils Grandelius wins Reykjavik Open 2023"
-      },
-      {
-         "description" : "The Spring Classic 2023 returns to the Saint Louis Chess Club from 5 13 April 2023. The time control for this event is 90 minutes for 40 moves followed by 30 minutes for the rest of the game with a 30-second increment starting from move 1. The tournament format is 10-player Round Robin with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/stl-spring-classic-group-a-2023-live/",
-         "pubDate" : "Wed, 05 Apr 2023 21:13:32 +0000",
-         "title" : "STL Spring Classic Group A 2023 - LIVE"
       },
       {
          "description" : "GM&#38;nbsp;Fabiano Caruana defeated GM Hikaru Nakamura in the Division I Winners Final of the Champions Chess Tour Chessable Masters 2023 to punch his ticket to the Grand Final. In the Losers Quarterfinals, GM Magnus Carlsen eliminated GM Wesley So, ...",
@@ -1642,14 +1650,6 @@ news_feed (
          "title" : "BCC 2023 tenders"
       },
       {
-         "description" : "National Amateur Below 2000 Certificates are out to download Link : https://aicf.online/National-A-2000-BH.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-below-2000-certificates/",
-         "pubDate" : "Wed, 22 Mar 2023 05:43:40 +0000",
-         "title" : "National Amateur Below 2000 Certificates"
-      },
-      {
          "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-conference-2023/",
          "pubDate" : "Thu, 16 Mar 2023 10:28:22 +0000",
          "title" : "London Chess Conference 2023"
-      },
-      {
-         "description" : " Tunde Onakoya of &#8220;Chess in Slums&#8221; visiting Kenya with representatives from partner organization, &#8220;The Gift of Chess.&#8221; Tunde Onakoya has spent the last five years refining his delivery of &#8220;Chess in Slums&#8221; to some of the most poverty-stricken areas of Nigeria. Now His initiative has attracted many admirers and supporters around the world. Last year, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/\">&#8220;Chess in Slums&#8221; treks to Kenya, Uganda!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/16/chess-in-slums-treks-to-kenya-uganda/",
-         "pubDate" : "Thu, 16 Mar 2023 04:19:08 +0000",
-         "title" : "\"Chess in Slums\" treks to Kenya, Uganda!"
       }
    ]
 }
