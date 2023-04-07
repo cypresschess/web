@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship 2023 is taking place from 7 April to 1 May 2023 to determine the new World Chess Champion. The match will be held in Astana, Kazakhstan and Chessdom.com will have daily live coverage with commentary by top GMs and computer analysis. The world champion Magnus Carlsen decided not to defend his []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/video-world-chess-championship-2023-by-gm-dubov/",
+         "pubDate" : "Fri, 07 Apr 2023 07:13:02 +0000",
+         "title" : "VIDEO: World Chess Championship 2023 by GM Dubov"
+      },
+      {
+         "description" : "Good morning everyone and welcome to the live blog from day 1 of the Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-opening-day-live-blog/",
+         "pubDate" : "Fri, 07 Apr 2023 07:03:21 +0000",
+         "title" : "Nepo - Ding 2023, opening day LIVE blog"
+      },
+      {
+         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren, the world Nos 2 and 3, will compete for the crown in 14-game series in Kazakhstan, starting on Sunday Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2mil 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
+         "pubDate" : "Fri, 07 Apr 2023 07:00:47 +0000",
+         "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
+      },
+      {
+         "description" : "Report by Dr. Dudayeff from Astana Today is the opening ceremony of the long anticipated Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023. Chessdom will follow the events from Astana, with expert commentary and news, in a minute-by-minute live blog here. The days before the match []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-i-am-fully-prepared-and-not-nervous-at-all/",
+         "pubDate" : "Fri, 07 Apr 2023 06:02:43 +0000",
+         "title" : "Ding Liren, \"I am fully prepared and not nervous at all\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Mikhalevski discusses his defeat over GM Batsuren -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-mikhalevski-defeats-dambasuren\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-mikhalevski-defeats-dambasuren",
+         "pubDate" : "Fri, 07 Apr 2023 03:21:15 +0000",
+         "title" : "GM Mikhalevski Defeats Dambasuren"
+      },
+      {
          "description" : "The third leg of the Women's Grand Prix was marred by the early withdrawal of two players. Zhansaya Abdumalik decided to leave due to organizational issues, and her withdrawal triggered other players to bring up further issues related to previous events. Harika Dronavalli was one of three Indian players in the field, and found herself struggling to decide how to react to the situation. Only after the tournament finished, she spoke up about the New Delhi debacle in a 13-minute video produced by ChessBase India. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,22 +186,6 @@ news_feed (
          "title" : "Nodirbek Abdusattorov - Santosh Gujrathi Vidit LIVE Armageddon Championship Series"
       },
       {
-         "description" : "The Asia and Oceania edition of the Armageddon Championship is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The 1/4 final games are : Nodirbek Abdusattorov Santosh Gujrathi ViditYangyi Yu D GukeshParham Maghsoodloo Murali []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/armageddon-championship-series-asia-and-oceania-winners/",
-         "pubDate" : "Thu, 06 Apr 2023 19:06:56 +0000",
-         "title" : "Armageddon Championship Series Asia and Oceania Winners"
-      },
-      {
-         "description" : "Magnus Carlsen Hikaru Nakamura is the final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/magnus-carlsen-hikaru-nakamura-ive-chessable-masters-div-1-losers/",
-         "pubDate" : "Thu, 06 Apr 2023 18:56:43 +0000",
-         "title" : "Magnus Carlsen - Hikaru Nakamura LIVE Chessable Masters Div 1 Losers"
-      },
-      {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,14 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3",
          "pubDate" : "Thu, 06 Apr 2023 18:21:09 +0000",
          "title" : "2023 Spring Chess Classic: Round 3"
-      },
-      {
-         "description" : "Anish Giri Yangyi Yu is semifinal match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/anish-giri-yangyi-yu-live-chessable-masters-div-2-losers/",
-         "pubDate" : "Thu, 06 Apr 2023 16:29:21 +0000",
-         "title" : "Anish Giri - Yangyi Yu LIVE Chessable Masters Div 2 Losers"
       },
       {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g2",
          "pubDate" : "Fri, 31 Mar 2023 02:20:00 +0100",
          "title" : "Women's Candidates: Lei grinds down Tan and ties the match"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/scholastic-programs-saint-louis-chess-club-chess-shorts",
-         "pubDate" : "Fri, 31 Mar 2023 00:15:00 +0000",
-         "title" : "Scholastic Programs at the Saint Louis Chess Club #Chess #Shorts"
       },
       {
          "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
