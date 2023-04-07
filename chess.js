@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/ongc-ward-sports-scholarship-scheme-2023-24/",
+         "pubDate" : "Fri, 07 Apr 2023 11:06:02 +0000",
+         "title" : "ONGC Ward Sports Scholarship Scheme 2023-24"
+      },
+      {
+         "description" : "In his \"Game of the Week\" show #562, Merijn van Delft presents an interesting, very modern game Jorden van Foreest and Parham Maghsoodloo recently played in ther German Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello-2",
+         "pubDate" : "Fri, 07 Apr 2023 12:00:00 +0100",
+         "title" : "Game of the Week #562: Jorden van Foreest vs Parham Maghsoodloo"
+      },
+      {
+         "description" : "The ECF office reopens at 9.00am on Tuesday 11th April ",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/office-closed-for-easter/",
+         "pubDate" : "Fri, 07 Apr 2023 10:05:47 +0000",
+         "title" : "Office closed for Easter"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2326",
+         "pubDate" : "Fri, 07 Apr 2023 09:45:46 +0000",
+         "title" : "The Match to determine the next World Chess Champion set to begin in Astana"
+      },
+      {
+         "description" : " Last week, we looked at the pin. We've seen, in previous articles, that tactics can easily fall apart if not carefully thought out. This week, we'll see what happens when a seemingly good, but different type of pin is completely ignored. To refresh your memory, a pin is a tactic that slows down a piece's <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-nine/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Nine\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-nine/\">A Foundation for Beginners Eighty Nine</a> appeared first on <a rel=\"nofollow\" href=\"https://ches",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-nine/",
+         "pubDate" : "Fri, 07 Apr 2023 09:00:37 +0000",
+         "title" : "A Foundation for Beginners Eighty Nine"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-3",
+         "pubDate" : "Fri, 07 Apr 2023 10:00:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Queen (2)"
+      },
+      {
+         "description" : "Welcome to the opening ceremony of the Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on this live blog, time stamped at reverse []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/opening-ceremony-world-chess-championship-2023/",
+         "pubDate" : "Fri, 07 Apr 2023 08:39:27 +0000",
+         "title" : "Opening ceremony World Chess Championship 2023"
+      },
+      {
+         "description" : "The Pafos Cyprus is taking place from 7&#x2013;13 April 2023 in Pafos, Cyprus. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. The total prize fund is 4100 EUR with 1000 EUR guaranteed for the winner. It is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pafos-cyprus-2023-live/",
+         "pubDate" : "Fri, 07 Apr 2023 07:54:18 +0000",
+         "title" : "Pafos Cyprus 2023 - LIVE"
+      },
+      {
+         "description" : "The Pafos Cyprus is taking place from 7&#x2013;13 April 2023 in Pafos, Cyprus. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. The total prize fund is 4100 EUR with 1000 EUR guaranteed for the winner. It is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pafos-cyprus-participants/",
+         "pubDate" : "Fri, 07 Apr 2023 07:52:50 +0000",
+         "title" : "Pafos Cyprus Participants"
+      },
+      {
          "description" : "The World Chess Championship 2023 is taking place from 7 April to 1 May 2023 to determine the new World Chess Champion. The match will be held in Astana, Kazakhstan and Chessdom.com will have daily live coverage with commentary by top GMs and computer analysis. The world champion Magnus Carlsen decided not to defend his []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,7 +90,7 @@ news_feed (
          "title" : "Nepo - Ding 2023, opening day LIVE blog"
       },
       {
-         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren, the world Nos 2 and 3, will compete for the crown in 14-game series in Kazakhstan, starting on Sunday Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2mil 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" ",
+         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren, ranked second and third, will compete for the crown in 14-game series in Kazakhstan, starting on Sunday Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
@@ -160,30 +232,6 @@ news_feed (
          "link" : "https://www.chessdom.com/vladimir-kramnik-daniil-dubov-live-armageddon-championship-series/",
          "pubDate" : "Thu, 06 Apr 2023 19:18:54 +0000",
          "title" : "Vladimir Kramnik - Daniil Dubov LIVE Armageddon Championship Series"
-      },
-      {
-         "description" : "Parham Maghsoodloo Murali Karthikeyan is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/parham-maghsoodloo-murali-karthikeyan-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:16:30 +0000",
-         "title" : "Parham Maghsoodloo - Murali Karthikeyan LIVE Armageddon Championship Series"
-      },
-      {
-         "description" : "Yangyi Yu D Gukesh is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yangyi-yu-d-gukesh-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:13:04 +0000",
-         "title" : "Yangyi Yu - D Gukesh LIVE Armageddon Championship Series"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov Santosh Gujrathi Vidit is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-santosh-gujrathi-vidit-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:10:42 +0000",
-         "title" : "Nodirbek Abdusattorov - Santosh Gujrathi Vidit LIVE Armageddon Championship Series"
       },
       {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
@@ -1050,14 +1098,6 @@ news_feed (
          "title" : "Throwback Thursday: 15-year-old Wei Yi leads China to World Teams gold"
       },
       {
-         "description" : "In his Fast & Furious show, Robert Ris takes an in-depth look at the fascinating first game of the match between Tan Zhongyi and Lei Tingjie. It was an incredibly sharp confrontation, with no lack of imbalances and instructive situations. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates",
-         "pubDate" : "Thu, 30 Mar 2023 18:00:00 +0100",
-         "title" : "Robert Ris' Fast and Furious: Tan and Lei keep it sharp"
-      },
-      {
          "description" : "Before I get to this month's Yahoos (see the footnote for an explanation of 'Yahoos'), let's look at the March stats. Numbers always tell their own story. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc30.gif\" WIDTH=175 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> For this current post, <I>Google News</I> returned 99 chess stories, of which nine sources had two or more stories. These are shown in the chart on the left. <P> Those nine sources accounted for 53 stories, leaving 46 sources with a single story. As always, Chess.com accounted for far more stories than any other source. <P> Two other perennial leaders, Chessbase.com and the Guardian, accounted for three stories each. In last month",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1072,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2310",
          "pubDate" : "Thu, 30 Mar 2023 15:16:15 +0000",
          "title" : "WCF Game 2: Lei Tingjie grinds down Tan Zhongyi and ties the match"
-      },
-      {
-         "description" : "The European Women's Championship came to an end on Wednesday in Petrovac, Montenegro. Since the games on the top boards finished drawn - albeit not without a fight - nothing changed in the standings relative to the previous rounds. Meri Arabidze from Georgia and Oliwia Kiolbasa from Poland tied for first place on 8&frac12;/11 points. Arabidze was declared the champion thanks to her victory over Kiolbasa in round 8. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eiwcc-2023-final-report",
-         "pubDate" : "Thu, 30 Mar 2023 16:00:00 +0100",
-         "title" : "Arabidze edges Kiolbasa to win the European Women's Championship"
       },
       {
          "description" : "",
@@ -1626,14 +1658,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Seven"
       },
       {
-         "description" : "This is to you inform you that AICF will announced Medical Evaluation details for North Eastern States soon . In view of this all concerned",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/medical-evaluation-of-the-age-of-chess-players-for-north-eastern-states-andaman-nicobar-assam-arunachal-pradesh-manipur-meghalaya-mizoram-sikkim-and-tripura/",
-         "pubDate" : "Thu, 23 Mar 2023 14:17:41 +0000",
-         "title" : "Medical Evaluation of the age of Chess Players for North Eastern States (Andaman Nicobar, Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Sikkim and Tripura)"
-      },
-      {
          "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1872,30 +1896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/uk-vs-ukraine-solidarity-match-2023",
          "pubDate" : "Fri, 17 Mar 2023 16:24:00 +0400",
          "title" : "UK vs Ukraine Solidarity Match 2023 - Games and Results"
-      },
-      {
-         "description" : "Former women's world champion Alexandra Kosteniuk, currently in the top ten of women's chess, is one of several top Russian players who have left the country or criticized the invasion of Ukraine. Kosteniuk will in future play under the Swiss flag.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kosteniuk-has-switched-to-switzerland",
-         "pubDate" : "Fri, 17 Mar 2023 12:00:00 +0100",
-         "title" : "Kosteniuk has switched to Switzerland"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2287",
-         "pubDate" : "Fri, 17 Mar 2023 09:16:42 +0000",
-         "title" : "FIDE World Senior Championships 2023: Call for Bids"
-      },
-      {
-         "description" : " The world No 1 faces encounters with Caruana, So, Nakamura and Aronian in the online Champions Tour starting 3 April, then over-the-board at Stavanger in late May Magnus Carlsen's reign as an abdicated world champion will formally start late next month when a winner is declared in the €2m, 14-game match for the newly vacant title between the world No 2, Ian Nepomniachtchi, playing under a neutral Fide flag, and the world No 3, Ding Liren. The venue is Astana, Kazakhstan, which borders both Russia and China. Some chess fans may not recognise the Astana winner as a genuine world champion, and for them there is now the prospect of two major events, one online and the other over-the-board. Ca",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/mar/17/chess-carlsen-set-for-challenge-from-us-quartet-online-and-over-the-board",
-         "pubDate" : "Fri, 17 Mar 2023 08:00:35 +0000",
-         "title" : "Chess: Carlsen set for challenge from US quartet online and over-the-board"
       }
    ]
 }
