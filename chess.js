@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Hikaru Nakamura defeated GM Fabiano Caruana in the&#38;nbsp;Champions Chess Tour Chessable Masters 2023 Grand Final to win Division I on Friday. The &#34;half man, half zombie,&#34; as GM Robert Hess called Nakamura on the broadcast, came back from the dea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-5",
+         "pubDate" : "Fri, 07 Apr 2023 15:10:40 -0700",
+         "title" : "'Half Man, Half Zombie' Nakamura Wins Chessable Masters, Beats Caruana Twice"
+      },
+      {
+         "description" : " After 2 days of play in the 2023 O2C Doeberl Cup Premier, two Australian IM's share the lead. Former winner James Morris, and Queensland IM Brodie McClymont are the only players on 4/4. Morris had a good win of local FM Fred Litchfield, while McClymont defeated GM Samy Shoker in the evening round. All 4 GM's in the event have dropped at least half a point, with GM Melkumyan and GM Kuybokarov on 3.5, Shoker on 3 and GM Daniel Fernandez on 2.5. Dqy 2 saw the start of all the other events, with a record field of 403 players entering over the 5 sections. As only 2 rounds have been played in these tournaments (3 in the Under 1200), leaders in the 80+ player fields are many and varied. Tonight al",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-2.html",
+         "pubDate" : "Fri, 07 Apr 2023 22:04:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3-lichessorg",
+         "pubDate" : "Fri, 07 Apr 2023 21:21:45 +0000",
+         "title" : "2023 Spring Chess Classic: Round 3 | lichess.org"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 0 Nepomniachtchi The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
+         "pubDate" : "Fri, 07 Apr 2023 20:33:59 +0000",
+         "title" : "2023 World Chess Championship begins!"
+      },
+      {
          "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Barbosa, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -98,6 +130,14 @@ news_feed (
          "title" : "World Chess Championship 2023 - "
       },
       {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
+         "pubDate" : "Fri, 07 Apr 2023 13:59:00 +0000",
+         "title" : "Nepo - Ding 2023 , game 1 LIVE"
+      },
+      {
          "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;is The Grand Final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -112,14 +152,6 @@ news_feed (
          "link" : "https://www.chessdom.com/nodirbek-abdusattorov-maxime-vachier-lagrave-live-chessable-masters-div-2-winners/",
          "pubDate" : "Fri, 07 Apr 2023 12:38:23 +0000",
          "title" : "Nodirbek Abdusattorov - Maxime Vachier-Lagrave LIVE Chessable Masters Div 2 Winners"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-ian-nepomniachtchi-live-video-game-1/",
-         "pubDate" : "Fri, 07 Apr 2023 12:02:31 +0000",
-         "title" : "Ding Liren - Ian Nepomniachtchi LIVE VIDEO game 1"
       },
       {
          "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
@@ -384,14 +416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-3",
          "pubDate" : "Wed, 05 Apr 2023 14:05:00 -0700",
          "title" : "Caruana Beats Nakamura Without Needing 4th Game, Advances To Grand Final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2",
-         "pubDate" : "Wed, 05 Apr 2023 18:20:28 +0000",
-         "title" : "2023 Spring Chess Classic: Round 2"
       },
       {
          "description" : "GM Dmitry Andreikin and GM Parham Maghsoodloo emerged victorious at Titled Tuesday on April 4. Both scored 9.5 points out of a possible 11, but Andrekin needed a tiebreak advantage over two rivals while Maghsoodloo won outright.&#38;nbsp; This was A...",
@@ -1496,14 +1520,6 @@ news_feed (
          "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
          "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
          "title" : "On the shoulders of dwarves"
-      },
-      {
-         "description" : "A powerhouse during the regular season, the Gotham Knights, again impressed on Friday in the Arena Royale of the 2023 Pro Chess League, finishing in clear first, led by GM Vladimir Fedoseev.&#38;nbsp; This special event offered a unique opportunity ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-pcl-arena-royale-knights",
-         "pubDate" : "Fri, 24 Mar 2023 20:06:00 -0700",
-         "title" : "Fedoseev Leads Gotham Knights To Victory"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
