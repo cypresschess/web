@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Barbosa, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-new-york-gm-im-spring-invitational-b-live/",
+         "pubDate" : "Fri, 07 Apr 2023 18:57:30 +0000",
+         "title" : "1000GM New York GM/IM Spring Invitational B - LIVE"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Fri, 07 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Gelashvili, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-new-york-gm-im-spring-invitational-a-live/",
+         "pubDate" : "Fri, 07 Apr 2023 18:14:09 +0000",
+         "title" : "1000GM New York GM/IM Spring Invitational A - LIVE"
+      },
+      {
+         "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-for-left-over-arbiters/",
+         "pubDate" : "Fri, 07 Apr 2023 18:12:47 +0000",
+         "title" : "ARBITER REFRESHER COURSE FOR LEFT OVER ARBITERS"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2327",
+         "pubDate" : "Fri, 07 Apr 2023 17:57:56 +0000",
+         "title" : "2023 FIDE World Championship Match officially opened"
+      },
+      {
+         "description" : "The 2023 Canadian Women Closed Championship is held from the 6th of April to the 11th in Toronto, Ontario, Canada. Time control is 90 minutes with a 30-second increment beginning from move one. It is a 9-round Swiss tournament with participation of Svitlana Demchenko, Rachel Ruoxuan Chen, Michelle Hua, Carina D'souza, April Yunwei Zhong, Valerie []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-canadian-women-closed-championship/",
+         "pubDate" : "Fri, 07 Apr 2023 17:57:19 +0000",
+         "title" : "2023 Canadian Women Closed Championship"
+      },
+      {
+         "description" : "The 2023 Canadian Closed Championship is held from the 6th of April to the 11th in Toronto, Ontario, Canada. Time control is 90 minutes with a 30-second increment beginning from move one. It is a 9-round Swiss tournament with participation of Razvan Preotu, Nikolay Noritsyn, Shawn Rodrigue-Lemieux, Bator Sambuev, Daniel Xu, Max Rusonik, Victor Plotkin, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2023-canadian-closed-championship-live/",
+         "pubDate" : "Fri, 07 Apr 2023 16:51:42 +0000",
+         "title" : "2023 Canadian Closed Championship - LIVE"
+      },
+      {
+         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;The total prize fund of 2023&#x2019;s edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/menorca-open-2023-live/",
+         "pubDate" : "Fri, 07 Apr 2023 16:41:09 +0000",
+         "title" : "Menorca Open 2023 - LIVE"
+      },
+      {
+         "description" : "The Swiss Young Masters 2023 is taking place from 7&#x2013;15 April 2023 in Basel, Switzerland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Pierre Laurent-Paoli, Lev Yankelevich, Adrian Gschnitzer, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/swiss-young-masters-2023-live/",
+         "pubDate" : "Fri, 07 Apr 2023 16:33:33 +0000",
+         "title" : "Swiss Young Masters 2023 - LIVE"
+      },
+      {
+         "description" : "The 49&#xBA; Torneo Internacional Ajederez La Roda 2023&#xA0;will take place from 05-09 April 2023 in &#x41B;&#x430; &#x420;&#x43E;&#x434;&#x430; (Albacete), Spain. Players receive 90 minutes of play plus a 30-second increment starting from move one. The tournament has total prize fund of 15 000 EUR, with 3500 EUR reserved for the winner. More than 170 players are []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/la-roda-2023-live/",
+         "pubDate" : "Fri, 07 Apr 2023 16:18:07 +0000",
+         "title" : "La Roda 2023 - LIVE"
+      },
+      {
          "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
          "pubDate" : "Fri, 07 Apr 2023 16:50:00 +0100",
          "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
+         "pubDate" : "Fri, 7 Apr 2023 18:38:00 +0400",
+         "title" : "World Chess Championship 2023 - "
       },
       {
          "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;is The Grand Final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
@@ -90,60 +178,12 @@ news_feed (
          "title" : "Chessable Masters: Nakamura knocks out Carlsen"
       },
       {
-         "description" : "Welcome to the opening ceremony of the Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on this live blog, time stamped at reverse []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/opening-ceremony-world-chess-championship-2023/",
-         "pubDate" : "Fri, 07 Apr 2023 08:39:27 +0000",
-         "title" : "Opening ceremony World Chess Championship 2023"
-      },
-      {
-         "description" : "The Pafos Cyprus is taking place from 7&#x2013;13 April 2023 in Pafos, Cyprus. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. The total prize fund is 4100 EUR with 1000 EUR guaranteed for the winner. It is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pafos-cyprus-2023-live/",
-         "pubDate" : "Fri, 07 Apr 2023 07:54:18 +0000",
-         "title" : "Pafos Cyprus 2023 - LIVE"
-      },
-      {
-         "description" : "The Pafos Cyprus is taking place from 7&#x2013;13 April 2023 in Pafos, Cyprus. Players receive 90 minutes for 40 moves, followed by 15 minutes to the end of the game, plus a 30-second increment starting from move one. The total prize fund is 4100 EUR with 1000 EUR guaranteed for the winner. It is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pafos-cyprus-participants/",
-         "pubDate" : "Fri, 07 Apr 2023 07:52:50 +0000",
-         "title" : "Pafos Cyprus Participants"
-      },
-      {
-         "description" : "The World Chess Championship 2023 is taking place from 7 April to 1 May 2023 to determine the new World Chess Champion. The match will be held in Astana, Kazakhstan and Chessdom.com will have daily live coverage with commentary by top GMs and computer analysis. The world champion Magnus Carlsen decided not to defend his []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/video-world-chess-championship-2023-by-gm-dubov/",
-         "pubDate" : "Fri, 07 Apr 2023 07:13:02 +0000",
-         "title" : "VIDEO: World Chess Championship 2023 by GM Dubov"
-      },
-      {
-         "description" : "Good morning everyone and welcome to the live blog from day 1 of the Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-opening-day-live-blog/",
-         "pubDate" : "Fri, 07 Apr 2023 07:03:21 +0000",
-         "title" : "Nepo - Ding 2023, opening day LIVE blog"
-      },
-      {
          "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren, ranked second and third, will compete for the crown in 14-game series in Kazakhstan, starting on Sunday Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
          "pubDate" : "Fri, 07 Apr 2023 07:00:47 +0000",
          "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
-      },
-      {
-         "description" : "Report by Dr. Dudayeff from Astana Today is the opening ceremony of the long anticipated Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023. Chessdom will follow the events from Astana, with expert commentary and news, in a minute-by-minute live blog here. The days before the match []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-liren-i-am-fully-prepared-and-not-nervous-at-all/",
-         "pubDate" : "Fri, 07 Apr 2023 06:02:43 +0000",
-         "title" : "Ding Liren, \"I am fully prepared and not nervous at all\""
       },
       {
          "description" : "<div class=\"body text-secondary\"> GM Mikhalevski discusses his defeat over GM Batsuren -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-mikhalevski-defeats-dambasuren\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
@@ -218,14 +258,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 1"
       },
       {
-         "description" : "Magnus Carlsen's last event as World Champion ended in failure on Thursday as a dramatic match-losing mouseslip against Hikaru Nakamura dumped him out of the Chessable Masters. Carlsen and his old rival, the two big beasts of online chess, had gone toe-to-toe over two drawn rapid games before the Losers Bracket Final was left hanging []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nakamura-knocks-carlsen-out-of-chessable-masters-2023/",
-         "pubDate" : "Thu, 06 Apr 2023 21:23:50 +0000",
-         "title" : "Nakamura knocks Carlsen out of Chessable Masters 2023"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Nakamura Eliminates Carlsen After Dramatic Mouse Slip, Advances To Grand Final"
       },
       {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Thu, 06 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -272,14 +296,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
          "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
          "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
-      },
-      {
-         "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games. The games start at 10am BST each day. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 -2 =8 head to head.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
-         "pubDate" : "Thu, 6 Apr 2023 18:38:00 +0400",
-         "title" : "World Chess Championship 2023 - "
       },
       {
          "description" : "In his Fast & Furious show, Robert Ris takes a close look at the fifth and decisive game that Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1274,14 +1290,6 @@ news_feed (
          "title" : "Women's Grand Prix New Delhi: Round 3 recap"
       },
       {
-         "description" : "The final selection of Indian team for the 19th Asian Games will be done in the month of May 2023 based on average rating of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/selection-of-team-for-19th-asian-games-at-hangzhou-china/",
-         "pubDate" : "Tue, 28 Mar 2023 11:29:21 +0000",
-         "title" : "Selection of Team for 19th Asian Games at Hangzhou, China"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A chess festival in New Delhi with more than 1000 participants is overshadowed by chaos at the embedded <strong>Women Grand Prix</strong> held at a five-star-hotel. Not waiting for organisational lapses to be fixed and in spite of apologies offered by <strong>FIDE</strong> and the organiser, <strong>Zhansaya Abdumalik</strong> from Kazakhstan walked out, and after a <a href=\"https://www.chessbase.in/news/The-Womens-Grand-Prix-in-Delhi-2023\">lot of nerve-wrecking discussions</a> <strong>Elisabeth P&auml;htz</strong> followed her, both from the host countries of the two first <strong>Women Grand Prix</strong> events in Astana and Munich. As at least o",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1864,22 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2288",
          "pubDate" : "Sat, 18 Mar 2023 11:39:15 +0000",
          "title" : "European Women's Championship 2023 starts in Petrovac, Montenegro"
-      },
-      {
-         "description" : " The American Cup took place in Saint Louis March 16th - 26th, 2023. The event consists of two 8-Player Double elimination events, men's and women's. Players: Nakamura, Caruana, So, Aronian, Dominguez, Shankland, Robson and Sevian. Women's: Krush, Alice Lee, Zatonskih, Tokhirjonova, Nemcova, Paikidze, Pourkashiyan and Abrahamyan. Hikaru Nakamura beat Wesley So 2.5-1.5 in a third final between them in the event. Nakamura won the first final, So after winning the elimination final against Aronian faced Nakamura again and won, the decider was won by Nakamura. Irina Krush won the women's event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2023",
-         "pubDate" : "Fri, 17 Mar 2023 20:22:00 +0400",
-         "title" : "American Cup 2023 - Games and Results"
-      },
-      {
-         "description" : "We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. The Chess.com series was previously seen in <A HREF=\"https://chessforallages.blogspot.com/2023/03/cheating-for-all-ages.html\">Cheating for all Ages</A> (March 2023), where I wrote, <BLOCKQUOTE> I'll start with a summary of past posts on this blog that dealt with various aspects of cheating. Posts marked '(*)' featured Chess.com. </BLOCKQUOTE> <P> Why take a detour when I was just getting started? I realized this week that the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren Title Match</A> (m-w.com; FIDE: 'due to take place in Astana, Kazakhstan, from April 7th to May 1st",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html",
-         "pubDate" : "Fri, 17 Mar 2023 16:17:00 +0000",
-         "title" : "Ding Liren's Climb to a Title Match"
       }
    ]
 }
