@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Fri, 07 Apr 2023 16:50:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;is The Grand Final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/fabiano-caruana-hikaru-nakamura-live-chessable-masters-div-1-winners-final/",
+         "pubDate" : "Fri, 07 Apr 2023 12:42:27 +0000",
+         "title" : "Fabiano Caruana - Hikaru Nakamura LIVE Chessable Masters Div 1 Winners Final"
+      },
+      {
+         "description" : "Nodirbek Abdusattorov Maxime Vachier-Lagrave is The Grand Final of Division 2 Winners from&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-maxime-vachier-lagrave-live-chessable-masters-div-2-winners/",
+         "pubDate" : "Fri, 07 Apr 2023 12:38:23 +0000",
+         "title" : "Nodirbek Abdusattorov - Maxime Vachier-Lagrave LIVE Chessable Masters Div 2 Winners"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-liren-ian-nepomniachtchi-live-video-game-1/",
+         "pubDate" : "Fri, 07 Apr 2023 12:02:31 +0000",
+         "title" : "Ding Liren - Ian Nepomniachtchi LIVE VIDEO game 1"
+      },
+      {
          "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-3",
          "pubDate" : "Fri, 07 Apr 2023 10:00:00 +0100",
          "title" : "Jan Markos: What you need to know about the Queen (2)"
+      },
+      {
+         "description" : "Division I of the Chessable Masters saw the losers' bracket semifinal taking place on Thursday, a match that Magnus Carlsen won by a 2-0 score against Levon Aronian. So Carlsen moved on to the losers' final, where Hikaru Nakamura, who had lost the winners' bracket final to Fabiano Caruana, was already waiting for him. Carlsen and Nakamura drew twice before Carlsen lost the final Armageddon game - following an unfortunate mouse-slip. In the Grand Final, Nakamura will once again face Caruana.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d4",
+         "pubDate" : "Fri, 07 Apr 2023 09:55:00 +0100",
+         "title" : "Chessable Masters: Nakamura knocks out Carlsen"
       },
       {
          "description" : "Welcome to the opening ceremony of the Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding final match of the World Chess Championship 2023! We will cover all day long the events from Madrid, where the battles start today at 15:00 CET. The news will appear here on this live blog, time stamped at reverse []",
@@ -210,30 +250,6 @@ news_feed (
          "title" : "Nakamura Eliminates Carlsen After Dramatic Mouse Slip, Advances To Grand Final"
       },
       {
-         "description" : "Parham Maghsoodloo Vladimir Kramnik is 1/2 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/2 final games is Nodirbek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/parham-maghsoodloo-vladimir-kramnik-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:24:07 +0000",
-         "title" : "Parham Maghsoodloo - Vladimir Kramnik LIVE Armageddon Championship Series"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov D Gukesh is 1/2 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/2 final games is Parham []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-d-gukesh-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:22:19 +0000",
-         "title" : "Nodirbek Abdusattorov - D Gukesh LIVE Armageddon Championship Series"
-      },
-      {
-         "description" : "Vladimir Kramnik Daniil Dubov is 1/4 final game from the Asia and Oceania edition of the Armageddon Championship. It is is an 8-player double-elimination tournament taking place in Berlin, Germany. Each match consists of two 3+2 blitz games and, if the scores are level, an Armageddon decider. The other 1/4 final games are : []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vladimir-kramnik-daniil-dubov-live-armageddon-championship-series/",
-         "pubDate" : "Thu, 06 Apr 2023 19:18:54 +0000",
-         "title" : "Vladimir Kramnik - Daniil Dubov LIVE Armageddon Championship Series"
-      },
-      {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3",
          "pubDate" : "Thu, 06 Apr 2023 18:21:09 +0000",
          "title" : "2023 Spring Chess Classic: Round 3"
-      },
-      {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Thu, 06 Apr 2023 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-2",
          "pubDate" : "Fri, 31 Mar 2023 07:00:00 +0100",
          "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 2/3"
-      },
-      {
-         "description" : "Employing impressive technique in the second game, Lei Tingjie relentlessly jumped back into the match at the Women's Candidates Final in Chongqing. After nearly six hours of play and seventy gruelling moves, with everything pointing towards a draw, a last-minute mistake by Tan Zhongyi in severe time trouble put the 1-1 result on the scoreboard. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g2",
-         "pubDate" : "Fri, 31 Mar 2023 02:20:00 +0100",
-         "title" : "Women's Candidates: Lei grinds down Tan and ties the match"
       },
       {
          "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
@@ -1880,22 +1880,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html",
          "pubDate" : "Fri, 17 Mar 2023 16:17:00 +0000",
          "title" : "Ding Liren's Climb to a Title Match"
-      },
-      {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/XL56wfh--po\" width=\"320\" youtube-src-id=\"XL56wfh--po\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/just-people-singing.html",
-         "pubDate" : "Fri, 17 Mar 2023 12:32:00 +0000",
-         "title" : "Just people singing"
-      },
-      {
-         "description" : " The UK vs Ukraine Solidarity Match is an 8 game match in London between Michael Adams and Andrei Volokitin. Games 1-4 are to be held at the Ukrainian Embassy in Holland Park, and games 5- 8 being played from the offices of the European Bank for Reconstruction and Development in Canary Wharf. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/uk-vs-ukraine-solidarity-match-2023",
-         "pubDate" : "Fri, 17 Mar 2023 16:24:00 +0400",
-         "title" : "UK vs Ukraine Solidarity Match 2023 - Games and Results"
       }
    ]
 }
