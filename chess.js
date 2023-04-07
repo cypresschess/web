@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third leg of the Women's Grand Prix was marred by the early withdrawal of two players. Zhansaya Abdumalik decided to leave due to organizational issues, and her withdrawal triggered other players to bring up further issues related to previous events. Harika Dronavalli was one of three Indian players in the field, and found herself struggling to decide how to react to the situation. Only after the tournament finished, she spoke up about the New Delhi debacle in a 13-minute video produced by ChessBase India. | Photo: FIDE / Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-harika-statement",
+         "pubDate" : "Fri, 07 Apr 2023 02:25:00 +0100",
+         "title" : "Harika addresses GP debacle: \"We understood it was just wrong\""
+      },
+      {
+         "description" : "Magnus Carlsen's last move in a major tournament as the classical World Chess Champion may have been to mouse-slip and blunder away his queen, as Hikaru Nakamura won an Armageddon thriller to set up a Grand Final rematch against Fabiano Caruana. Earlier in the day Magnus had been in top form as he beat Levon Aronian 2:0 to snatch an automatic spot in Division I of the next tour event in May.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-faces-caruana-after-mouse-slip-thwarts-magnus",
+         "pubDate" : "Fri, 07 Apr 2023 01:02:23 +0000",
+         "title" : "Nakamura faces Caruana after mouse-slip thwarts Magnus"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-4",
+         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
+         "title" : "2023 Spring Chess Classic: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Mikhalevski discusses his defeat over GM Batsuren -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-mikhalevski-defeats-batsuren\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-mikhalevski-defeats-batsuren",
+         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
+         "title" : "GM Mikhalevski Defeats Batsuren"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Dardha discusses his win over GM Bok -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-daniel-dardha-defeats-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-daniel-dardha-defeats-bok",
+         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
+         "title" : "GM Daniel Dardha Defeats Bok"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Chandra breaksdown his win over GM Daggupati -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-chandra-defeats-daggupati\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-chandra-defeats-daggupati",
+         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
+         "title" : "GM Chandra Defeats Daggupati"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam discusses his win over Liang after peaking in on the matchup between Mishra and Yoo. -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-sevian-defeats-liang\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gm-sevian-defeats-liang",
+         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
+         "title" : "GM Sevian Defeats Liang"
+      },
+      {
          "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -138,14 +194,6 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
-         "description" : "Fabiano Caruana has yet to lose a match at the 2023 Champions Chess Tour. The US star finished undefeated to win Division II of the Airthings Masters, and has now reached the Grand Final of the Chessable Masters. On Wednesday, Caruana defeated Hikaru Nakamura by a convincing 2&frac12;-&frac12; score in the final of the winners' bracket. Magnus Carlsen and Levon Aronian won their matches in the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d3",
-         "pubDate" : "Thu, 06 Apr 2023 16:30:00 +0100",
-         "title" : "Chessable Masters: Caruana beats Nakamura, continues winning streak"
-      },
-      {
          "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -168,6 +216,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates-2",
          "pubDate" : "Thu, 06 Apr 2023 11:30:36 +0100",
          "title" : "Robert Ris' Fast and Furious: An antidote against the Zukertort-Colle system?"
+      },
+      {
+         "description" : "Fabiano Caruana has yet to lose a match at the 2023 Champions Chess Tour. The US star finished undefeated to win Division II of the Airthings Masters, and has now reached the Grand Final of the Chessable Masters. On Wednesday, Caruana defeated Hikaru Nakamura by a convincing 2&frac12;-&frac12; score in the final of the winners' bracket. Magnus Carlsen and Levon Aronian won their matches in the losers' bracket.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d3",
+         "pubDate" : "Thu, 06 Apr 2023 11:25:00 +0100",
+         "title" : "Chessable Masters: Caruana beats Nakamura, continues winning streak"
       },
       {
          "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
@@ -970,22 +1026,6 @@ news_feed (
          "title" : "Volokitin Defeats Adams With Round To Spare In UK Vs. Ukraine Solidarity Match"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-americas-premier-facility\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-americas-premier-facility",
-         "pubDate" : "Thu, 30 Mar 2023 21:14:57 +0000",
-         "title" : "Saint Louis Chess Club: America's Premier Facility"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Learn why the Saint Louis Chess Club is the premier chess facility in the United States. The Club is a nonprofit organization committed to promoting the game locally and internationally. Players of any age and skill level are welcome! SaintLouisChessClub.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saint-louis-chess-club-americas-premier-facility-chess-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/vi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-club-americas-premier-facility-chess-shorts",
-         "pubDate" : "Thu, 30 Mar 2023 21:14:57 +0000",
-         "title" : "Saint Louis Chess Club: America's Premier Facility #Chess # Shorts"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1000,30 +1040,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/throwback-thursday-world-team-championship-2015",
          "pubDate" : "Thu, 30 Mar 2023 20:00:00 +0100",
          "title" : "Throwback Thursday: 15-year-old Wei Yi leads China to World Teams gold"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Saint Louis Chess Club Scholastic Programs bring the educational value of chess to kids in schools across Greater Saint Louis. The Club has reached over 85,000 students during in-school and after-school programs. Programming includes Varuzhan Akobian&#039;s &quot;Select Chess&quot; advanced sessions, C.H.E.S.S. Cops, the BSA Chess Merit Badge, and more! SaintLouisChessClub.org/Education </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/scholastic-programs-saint-l",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/scholastic-programs-saint-louis-chess-club",
-         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
-         "title" : "Scholastic Programs at the Saint Louis Chess Club"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess in Saint Louis is back with 12 major tournaments in 2023! Learn the dates for The American Cup, the Spring, Summer, and Winter Chess Classics, the Cairns Cup, the U.S. Junior &amp; Senior Championships, the Saint Louis Norm Congress. Chess 9LX, and the U.S. &amp; U.S. Women&#039;s Championships, USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-major-tournaments-saint-louis-promo\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-major-tournaments-saint-louis-promo",
-         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
-         "title" : "2023 Major Tournaments in Saint Louis | PROMO"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The eighth annual Grand Chess Tour hosts the world&#039;s best players competing in four countries for a $1.4 million prize fund. The circuit begins in May with the Superbet Chess Classic in Bucharest, and continues with the Superbet Rapid &amp; Blitz Poland in Warsaw, the SuperUnited Rapid &amp; Blitz Croatia in Zagreb, the Saint Louis Rapid &amp; Blitz, and concludes with the Sinquefield Cup. GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-grand-chess-tour-promo",
-         "pubDate" : "Thu, 30 Mar 2023 18:14:45 +0000",
-         "title" : "2023 Grand Chess Tour | PROMO"
       },
       {
          "description" : "In his Fast & Furious show, Robert Ris takes an in-depth look at the fascinating first game of the match between Tan Zhongyi and Lei Tingjie. It was an incredibly sharp confrontation, with no lack of imbalances and instructive situations. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/no-contract-for-match-tv/",
          "pubDate" : "Thu, 30 Mar 2023 14:02:45 +0100",
          "title" : "No contract for Match TV"
-      },
-      {
-         "description" : "I recently had the privilege of interviewing Grandmaster Iniyan P, one of India's top chess players and a rising star in the chess world. Iniyan, who is only 20 years old, has already achieved impressive results, including winning the Commonwealth Championship U18 at New Delhi with 7/7. In our interview, Iniyan shared his thoughts on a range of topics, including his early days in chess, his upcoming Fritztrainer, and his goals for the future.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-a-great-talent-of-india-gm-iniyan",
-         "pubDate" : "Thu, 30 Mar 2023 14:00:00 +0100",
-         "title" : "Interview with a great talent of India - GM Iniyan"
       },
       {
          "description" : "",
@@ -1696,14 +1704,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-membership-statistics/",
          "pubDate" : "Tue, 21 Mar 2023 16:37:07 +0000",
          "title" : "ECF Membership Statistics"
-      },
-      {
-         "description" : "Hikaru Nakamura is still the only player to win a classical game in the open section of the American Cup after he powered to a 1.5:0.5 victory over Leinier Dominguez. Hikaru will face Wesley So, who overcame Fabiano Caruana in rapid tiebreaks. For a second year in a row, 13-year-old Alice Lee will face 8-time US Women's Champion Irina Krush in the Champions final of the American Women's Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-so-and-krush-lee-in-american-cup-finals",
-         "pubDate" : "Tue, 21 Mar 2023 13:19:32 +0000",
-         "title" : "Nakamura-So and Krush-Lee in American Cup finals"
       },
       {
          "description" : "The 9th edition of the London Chess Conference took place from 17-19 March 2023. The theme of the 2023 London Chess Conference was Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The participants and speakers represented 32 countries with the opportunity to form partnerships and collaborations with each other&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023-concluded/\">Read More &#187;</a></span>",
