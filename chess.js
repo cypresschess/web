@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-3.html",
+         "pubDate" : "Sat, 08 Apr 2023 22:22:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Day 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-4-lichessorg",
+         "pubDate" : "Sat, 08 Apr 2023 21:23:02 +0000",
+         "title" : "2023 Spring Chess Classic: Round 4 | lichess.org"
+      },
+      {
+         "description" : "Daniil Dubov will be among the commentators of the World Championship match in Astana, along with Irina Krush and Vishy Anand. In an unmissable 30-minute interview, the outspoken grandmaster shares his thoughts on a number of topics: the favourite to win the match, why the classical time control has lost popularity, his dislike of online chess, and why Magnus Carlsen's absence in the World Championship cycle might make it mroe appealing for other players. | Photo: Niki Riga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dubov-interview-world-championship-2023",
+         "pubDate" : "Sat, 08 Apr 2023 22:00:00 +0100",
+         "title" : "Dubov on the World Championship match, the future of the classical cycle, and online chess"
+      },
+      {
+         "description" : "The Paraguay Campeonato Nacional Amateur 2023 SUB 1700is taking place from 05-08 April 2023 in Club Deportivo de Puerto Sajonia, Paraguay. Time control is 60 minutes with a 30-second increment starting from move 1 and the tournament format is 7-round Swiss system. You can follow game 1 of Nepo &#x2013; Ding , starting April 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paraguay-campeonato-nacional-amateur-2023-sub-1700/",
+         "pubDate" : "Sat, 08 Apr 2023 20:10:49 +0000",
+         "title" : "Paraguay Campeonato Nacional Amateur 2023 SUB 1700"
+      },
+      {
+         "description" : "The Paraguay Campeonato Nacional Amateur 2023 SUB 2000 &#38; 2300 is taking place from 05-08 April 2023 in Club Deportivo de Puerto Sajonia, Paraguay. Time control is 60 minutes with a 30-second increment starting from move 1 and the tournament format is 7-round Swiss system. You can follow game 1 of Nepo &#x2013; Ding , []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/paraguay-campeonato-nacional-amateur-2023-sub-2000-2300/",
+         "pubDate" : "Sat, 08 Apr 2023 20:06:44 +0000",
+         "title" : "Paraguay Campeonato Nacional Amateur 2023 SUB 2000 & 2300"
+      },
+      {
+         "description" : "The Finnish Women's Chess Championship 2023 is a 5-round round robin tournament, held from the 7th to the 11th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. You can also follow The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/finnish-womens-championship-2023-live/",
+         "pubDate" : "Sat, 08 Apr 2023 19:58:42 +0000",
+         "title" : "Finnish Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Finnish Women's Chess Championship 2023 is a 5-round round robin tournament, held from the 7th to the 11th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. Chessdom.com will follow live games []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/finnish-womens-championship-2023/",
+         "pubDate" : "Sat, 08 Apr 2023 19:55:21 +0000",
+         "title" : "Finnish Women's Championship 2023"
+      },
+      {
+         "description" : "The Finnish Chess Championship 2023 is held from the 7th to the 15th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. It is a 9-round Swiss tournament with participation of Toivo Kein&#xE4;nen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/finnish-championship-2023-live/",
+         "pubDate" : "Sat, 08 Apr 2023 19:49:15 +0000",
+         "title" : "Finnish Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Finnish Chess Championship 2023 is held from the 7th to the 15th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. It is a 9-round Swiss tournament with participation of Toivo Kein&#xE4;nen, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/finnish-championship-2023/",
+         "pubDate" : "Sat, 08 Apr 2023 19:47:26 +0000",
+         "title" : "Finnish Championship 2023"
+      },
+      {
          "description" : "The 2023 FIDE World Championship between GMs Ian Nepomniachtchi and Ding Liren begins on Sunday, April 9, at 15:00 Astana time (2 a.m. PT/11:00 CET). Yesterday, the Astana Ballet Theatre hosted the official opening ceremony. The festivities incl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -40,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/introducing-the-garde-chess-clock",
          "pubDate" : "Sat, 08 Apr 2023 15:00:00 +0100",
          "title" : "Introducing: the Garde chess clock!"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
+         "pubDate" : "Sat, 08 Apr 2023 13:59:00 +0000",
+         "title" : "Nepo - Ding 2023 , game 1 LIVE"
       },
       {
          "description" : "",
@@ -82,22 +162,6 @@ news_feed (
          "title" : "The O2C Doeberl Cup 2023 - LIVE"
       },
       {
-         "description" : "The 3rd 4NCL Easter Congress U2000 2023 takes place from 7-10 April in Daventry, UK. The event is held in three sections: Open, U2000 and U1700, and has a total prize fund of &#xA3;4,200. All sections are with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-4ncl-easter-congress-u2000-2023-live/",
-         "pubDate" : "Sat, 08 Apr 2023 09:58:12 +0000",
-         "title" : "3rd 4NCL Easter Congress U2000 2023 - LIVE"
-      },
-      {
-         "description" : "The 3rd 4NCL Easter Congress 2023 takes place from 7-10 April in Daventry, UK. The event is held in three sections: Open, U2000 and U1700, and has a total prize fund of &#xA3;4,200. All sections are with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/3rd-4ncl-easter-congress-open-2023-live/",
-         "pubDate" : "Sat, 08 Apr 2023 09:52:45 +0000",
-         "title" : "3rd 4NCL Easter Congress Open 2023 - LIVE"
-      },
-      {
          "description" : " During the last couple of weeks I've released two more Tiger Chess openings courses as Vimeo titles. Last week it was the White 1.d4 Repertoire course and this week a brought out my French Defence course. Here are the Youtube descriptions of these courses: What is different about my material? I think that the main <a href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Openings Courses Now on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\">Tiger Chess Openings Courses Now on Vimeo</a> appeared first on <a rel=\"nofoll",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -136,14 +200,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/",
          "pubDate" : "Sat, 08 Apr 2023 06:09:59 +0000",
          "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
-      },
-      {
-         "description" : "All eyes are now on Astana, where Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding, will play the final of the World Chess Championship 2023. After an eventful day 1 (see all that happened in our live blog) where FIDE failed to broadcast the opening ceremony, we are now waiting for the first moves []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vishy-anand-about-the-world-chess-championship-everything-is-a-blur-until/",
-         "pubDate" : "Sat, 08 Apr 2023 04:42:16 +0000",
-         "title" : "Vishy Anand about the World Chess Championship, \"Everything is a blur until&hellip;\""
       },
       {
          "description" : "Ian Nepomniachtchi will get the white pieces in the first game of the 2023 World Championship match against Ding Liren. The 14-game match kicks off on Sunday, and is the first one not to feature Magnus Carlsen since 2013. FIDE's Milan Dinic previews the contest that is set to decide who will become the 17th undisputed world chess champion. | Photos: FIDE / Stev Bonhage",
@@ -242,22 +298,6 @@ news_feed (
          "title" : "National Arbiter Seminar Indore, Certificates"
       },
       {
-         "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Barbosa, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-new-york-gm-im-spring-invitational-b-live/",
-         "pubDate" : "Fri, 07 Apr 2023 18:57:30 +0000",
-         "title" : "1000GM New York GM/IM Spring Invitational B - LIVE"
-      },
-      {
-         "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Gelashvili, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1000gm-new-york-gm-im-spring-invitational-a-live/",
-         "pubDate" : "Fri, 07 Apr 2023 18:14:09 +0000",
-         "title" : "1000GM New York GM/IM Spring Invitational A - LIVE"
-      },
-      {
          "description" : "All India Chess Federation decided to organise one more batch of Online Arbiter Refresher Course for the left over FIDE Licensed IAs, FAs &#38; SNAs",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -272,22 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2327",
          "pubDate" : "Fri, 07 Apr 2023 17:57:56 +0000",
          "title" : "2023 FIDE World Championship Match officially opened"
-      },
-      {
-         "description" : "The 2023 Canadian Women Closed Championship is held from the 6th of April to the 11th in Toronto, Ontario, Canada. Time control is 90 minutes with a 30-second increment beginning from move one. It is a 9-round Swiss tournament with participation of Svitlana Demchenko, Rachel Ruoxuan Chen, Michelle Hua, Carina D'souza, April Yunwei Zhong, Valerie []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-canadian-women-closed-championship/",
-         "pubDate" : "Fri, 07 Apr 2023 17:57:19 +0000",
-         "title" : "2023 Canadian Women Closed Championship"
-      },
-      {
-         "description" : "The 2023 Canadian Closed Championship is held from the 6th of April to the 11th in Toronto, Ontario, Canada. Time control is 90 minutes with a 30-second increment beginning from move one. It is a 9-round Swiss tournament with participation of Razvan Preotu, Nikolay Noritsyn, Shawn Rodrigue-Lemieux, Bator Sambuev, Daniel Xu, Max Rusonik, Victor Plotkin, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2023-canadian-closed-championship-live/",
-         "pubDate" : "Fri, 07 Apr 2023 16:51:42 +0000",
-         "title" : "2023 Canadian Closed Championship - LIVE"
       },
       {
          "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
@@ -400,14 +424,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-4",
          "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
          "title" : "2023 Spring Chess Classic: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Mikhalevski discusses his defeat over GM Batsuren -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-mikhalevski-defeats-batsuren\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-mikhalevski-defeats-batsuren",
-         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
-         "title" : "GM Mikhalevski Defeats Batsuren"
       },
       {
          "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/impressions-reykjavik-open-2023",
          "pubDate" : "Fri, 31 Mar 2023 23:00:00 +0100",
          "title" : "Impressions from the Reykjavik Open"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #561, Merijn van Delft focuses his attention on Leon Luke Mendonca, who recently scored a perfect 9 out of 9 in Slovenia. In one of his wins, against Sabino Brunello, the youngster successfully combined his positional approach with tactical alertness. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello",
-         "pubDate" : "Fri, 31 Mar 2023 20:00:00 +0100",
-         "title" : "Game of the Week #561: L. Mendonca - S. Brunello"
       },
       {
          "description" : "",
