@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99339439.cms\" />Chess will crown a new world champion when Ian Nepomniachtchi and Ding Liren begin their battle on Sunday in the shadow of incumbent Magnus Carlsen, who voluntarily relinquished the title he held since 2013.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/in-carlsens-shadow-chess-awaits-a-new-world-champion/articleshow/99339439.cms",
+         "pubDate" : "Sat, 08 Apr 2023 10:32:32 +0000",
+         "title" : "In Carlsen's shadow, chess awaits a new world champion"
+      },
+      {
+         "description" : "The The O2C Doeberl Cup 2023&#xA0;will take place from 06 &#x2013; 10 April 2023 in Canberra Southern Cross Club Woden, Australia. The tournament is separated in 6 differenct cattegories &#x2013; 2023 Premier Tournament (9 rounds), 2023 Major Tournament Tournament (7 Rounds), 2023 Minor Tournament (7 Rounds), 2023 Mini Tournament (7 Rounds), 023&#xA0;U1200s Tournament (6 Rounds) []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-o2c-doeberl-cup-2023-live/",
+         "pubDate" : "Sat, 08 Apr 2023 10:24:43 +0000",
+         "title" : "The O2C Doeberl Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 3rd 4NCL Easter Congress U2000 2023 takes place from 7-10 April in Daventry, UK. The event is held in three sections: Open, U2000 and U1700, and has a total prize fund of &#xA3;4,200. All sections are with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-4ncl-easter-congress-u2000-2023-live/",
+         "pubDate" : "Sat, 08 Apr 2023 09:58:12 +0000",
+         "title" : "3rd 4NCL Easter Congress U2000 2023 - LIVE"
+      },
+      {
+         "description" : "The 3rd 4NCL Easter Congress 2023 takes place from 7-10 April in Daventry, UK. The event is held in three sections: Open, U2000 and U1700, and has a total prize fund of &#xA3;4,200. All sections are with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. The []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/3rd-4ncl-easter-congress-open-2023-live/",
+         "pubDate" : "Sat, 08 Apr 2023 09:52:45 +0000",
+         "title" : "3rd 4NCL Easter Congress Open 2023 - LIVE"
+      },
+      {
          "description" : " During the last couple of weeks I've released two more Tiger Chess openings courses as Vimeo titles. Last week it was the White 1.d4 Repertoire course and this week a brought out my French Defence course. Here are the Youtube descriptions of these courses: What is different about my material? I think that the main <a href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Openings Courses Now on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\">Tiger Chess Openings Courses Now on Vimeo</a> appeared first on <a rel=\"nofoll",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -218,36 +250,12 @@ news_feed (
          "title" : "Swiss Young Masters 2023 - LIVE"
       },
       {
-         "description" : "The 49&#xBA; Torneo Internacional Ajederez La Roda 2023&#xA0;will take place from 05-09 April 2023 in &#x41B;&#x430; &#x420;&#x43E;&#x434;&#x430; (Albacete), Spain. Players receive 90 minutes of play plus a 30-second increment starting from move one. The tournament has total prize fund of 15 000 EUR, with 3500 EUR reserved for the winner. More than 170 players are []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/la-roda-2023-live/",
-         "pubDate" : "Fri, 07 Apr 2023 16:18:07 +0000",
-         "title" : "La Roda 2023 - LIVE"
-      },
-      {
          "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023",
          "pubDate" : "Fri, 7 Apr 2023 18:38:00 +0400",
          "title" : "World Chess Championship 2023 - "
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
-         "pubDate" : "Fri, 07 Apr 2023 13:59:00 +0000",
-         "title" : "Nepo - Ding 2023 , game 1 LIVE"
-      },
-      {
-         "description" : "Fabiano Caruana &#x2013; Hikaru Nakamura&#xA0;is The Grand Final match from the&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and can still win []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/fabiano-caruana-hikaru-nakamura-live-chessable-masters-div-1-winners-final/",
-         "pubDate" : "Fri, 07 Apr 2023 12:42:27 +0000",
-         "title" : "Fabiano Caruana - Hikaru Nakamura LIVE Chessable Masters Div 1 Winners Final"
       },
       {
          "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
