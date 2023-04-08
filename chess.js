@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " During the last couple of weeks I've released two more Tiger Chess openings courses as Vimeo titles. Last week it was the White 1.d4 Repertoire course and this week a brought out my French Defence course. Here are the Youtube descriptions of these courses: What is different about my material? I think that the main <a href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Openings Courses Now on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\">Tiger Chess Openings Courses Now on Vimeo</a> appeared first on <a rel=\"nofoll",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/",
+         "pubDate" : "Sat, 08 Apr 2023 09:00:29 +0000",
+         "title" : "Tiger Chess Openings Courses Now on Vimeo"
+      },
+      {
+         "description" : "An exciting pair of matches, featuring seven decisive games, saw Hikaru Nakamura beating Fabiano Caruana twice to win the Chessable Masters. Nakamura played the Smith-Morra Gambit twice with white, including a game in which he only needed a draw. In Division II, Nodirbek Abdusattorov got the better of Maxime Vachier-Lagrave to secure a spot in Division I of the next Champions Chess Tour event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d5",
+         "pubDate" : "Sat, 08 Apr 2023 10:00:00 +0100",
+         "title" : "Nakamura beats Caruana, wins Chessable Masters"
+      },
+      {
          "description" : "In the diagram position White mates Black's king in a maximum of 11 moves after 28.Rg7+!. Of course you don't need to work out the whole variation in your head, as Jan-Krzysztof Duda had to in this rapid game - but you're welcome to try!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,6 +136,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
          "pubDate" : "Fri, 07 Apr 2023 20:33:59 +0000",
          "title" : "2023 World Chess Championship begins!"
+      },
+      {
+         "description" : "National Arbiter Seminar Indore Certificates are out to download Link : https://aicf.online/Arbiter-S-Indore.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiter-seminar-indore-certificates/",
+         "pubDate" : "Fri, 07 Apr 2023 19:30:55 +0000",
+         "title" : "National Arbiter Seminar Indore, Certificates"
       },
       {
          "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Barbosa, []",
@@ -1050,14 +1074,6 @@ news_feed (
          "title" : "Ding Liren's Rise to the GM title"
       },
       {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-1",
-         "pubDate" : "Fri, 31 Mar 2023 15:30:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Queen"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2303",
          "pubDate" : "Tue, 28 Mar 2023 20:29:17 +0000",
          "title" : "FIDE Women's Candidates Final 2022-2023 kicks off in Chongqing"
-      },
-      {
-         "description" : "MP Chess Ad-Hoc Committee on behalf of All India Chess Federation and Arbiter Commission of AICF organised Senior National Arbiter Seminar and Examination at Oriental",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-examination-indore-from-18-to-19-march-2023-final-report/",
-         "pubDate" : "Tue, 28 Mar 2023 18:33:36 +0000",
-         "title" : "Senior National Arbiter Seminar & Examination, Indore from 18 to 19 March 2023 : Final Report"
       },
       {
          "description" : "GM Jose Martinez was crowned as the winner and won $1,000 in the March edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after winning 59 of his 74 games during the two-hour event. Ukraine&#39;s GM Oleksandr Bortnyk and Armenian IM Emin Ohanya...",
