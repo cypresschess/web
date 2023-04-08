@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 FIDE World Championship between GMs Ian Nepomniachtchi and Ding Liren begins on Sunday, April 9, at 15:00 Astana time (2 a.m. PT/11:00 CET). Yesterday, the Astana Ballet Theatre hosted the official opening ceremony. The festivities incl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
+         "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
+         "title" : "How To Watch FIDE World Championship 2023 Game 1"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Sat, 08 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-cup-women-2023/",
+         "pubDate" : "Sat, 08 Apr 2023 18:38:51 +0000",
+         "title" : "Mitropa Cup Women 2023"
+      },
+      {
+         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-cup-2023/",
+         "pubDate" : "Sat, 08 Apr 2023 18:34:08 +0000",
+         "title" : "Mitropa Cup 2023"
+      },
+      {
          "description" : "The what? \"Flag\"? What is that and how does it work? We recorded a confrontation between an absolute super-talent (17 years old and number 18 in world rankings) and a mechanical chess clock of yesteryear. Many of our readers will be well acquainted with the Garde, or other similar clocks, but many will be just as clueless as Dommaraju Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,22 +288,6 @@ news_feed (
          "link" : "https://www.chessdom.com/2023-canadian-closed-championship-live/",
          "pubDate" : "Fri, 07 Apr 2023 16:51:42 +0000",
          "title" : "2023 Canadian Closed Championship - LIVE"
-      },
-      {
-         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#xA0;The total prize fund of 2023&#x2019;s edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/menorca-open-2023-live/",
-         "pubDate" : "Fri, 07 Apr 2023 16:41:09 +0000",
-         "title" : "Menorca Open 2023 - LIVE"
-      },
-      {
-         "description" : "The Swiss Young Masters 2023 is taking place from 7&#x2013;15 April 2023 in Basel, Switzerland. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is an 10-player round-robin tournament with participation of Pierre Laurent-Paoli, Lev Yankelevich, Adrian Gschnitzer, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/swiss-young-masters-2023-live/",
-         "pubDate" : "Fri, 07 Apr 2023 16:33:33 +0000",
-         "title" : "Swiss Young Masters 2023 - LIVE"
       },
       {
          "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "Williams Sacrifices Queen For Brilliancy At Reykjavik Open"
       },
       {
-         "description" : "I had the incredible opportunity to interview R.B. Ramesh, one of the world's most renowned and accomplished chess coaches. Ramesh has trained many of India's top players, including former World Champion Vishwanathan Anand, and has helped mold the country into a chess powerhouse. In our interview, Ramesh shared his insights on a range of topics, from his early days in chess to his coaching philosophy and techniques. He also discussed the challenges of coaching at the highest level and the importance of mental preparation in chess. With his vast knowledge and experience, Ramesh provided invaluable insights into what it takes to become a successful chess player, both on and off the board. Over",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-the-pep-guardiola-of-chess-r-b-ramesh",
-         "pubDate" : "Fri, 31 Mar 2023 17:00:00 +0100",
-         "title" : "Interview with the Pep Guardiola of chess - R. B. Ramesh"
-      },
-      {
          "description" : "The last two posts in this short series on Ding Liren summarized his career up to his last participation in a World Youth Championship (2004) and after his first participation in a World Championship event (2011). For specifics see:- <UL> <LI> 2023-03-24: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html\">Ding Liren's TWIC Debut</A> &#149; World Youth Championship, 'TWIC 523; 2004-11-15 : U12 1-2' <LI> 2023-03-17: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> &#149; 2011 World Cup </UL> <P> What happened during the intervening years? The following chart is a combination of:-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1530,14 +1538,6 @@ news_feed (
          "title" : "Chess Heroes: Tactics"
       },
       {
-         "description" : "The FIDE Women&#39;s Grand Prix in New Delhi, scheduled to start on Saturday, has been delayed after Kazakh GM Zhansaya Abdumalik withdrew upon arrival. A letter signed by the players requests that the event be canceled or postponed. However, after is...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-womens-grand-prix-new-delhi-delayed-fide-apology",
-         "pubDate" : "Sat, 25 Mar 2023 16:17:00 -0700",
-         "title" : "New Delhi Women's Grand Prix Delayed, FIDE President Apologizes"
-      },
-      {
          "description" : " At the end of the first day of the 2023 Dubbo Open, 3 players share the lead with 3/3. Top seed Dominic Fox has been joined by Ky Walls and Jonathon Harding after they all went through the first day with 3 wins. Close behind are Trevor Bemrose and Tyler Milson who are on 2.5, after drawing their round 3 game. The tournament once again attracted a good field of 37 players, with a solid bunch of players at the top. Unlike previous years where there was a surprise IM or GM in the field, this year has the Under 2000's battling it out for the title. Last night also saw the traditional time handicap blitz. While a number of younger players benefited from have 5 minutes against the 1 or 2 minutes ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://chessimprover.com/flawed-flohr-floored/",
          "pubDate" : "Sun, 19 Mar 2023 10:00:14 +0000",
          "title" : "Flawed Flohr Floored"
-      },
-      {
-         "description" : " In three weeks, the 2023 World Chess Championship will begin in Astana, Kazakhstan with Russia's Ian Nepomniachtchi facing off against China Ding Liren. The match will be the beginning of a new era, one that saw Magnus Carlsen hold the title for ten years after wresting it away from (2013) and defending it against (2014) The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/\">Chess Championship weeks away in Kazakhstan</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
-         "pubDate" : "Sat, 18 Mar 2023 16:52:39 +0000",
-         "title" : "Chess Championship weeks away in Kazakhstan"
       }
    ]
 }
