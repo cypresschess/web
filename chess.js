@@ -2,11 +2,67 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi will get the white pieces in the first game of the 2023 World Championship match against Ding Liren. The 14-game match kicks off on Sunday, and is the first one not to feature Magnus Carlsen since 2013. FIDE's Milan Dinic previews the contest that is set to decide who will become the 17th undisputed world chess champion. | Photos: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-preview",
+         "pubDate" : "Sat, 08 Apr 2023 02:00:00 +0100",
+         "title" : "All set for the World Championship match in Astana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Dambasuren Batsuren in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-victor-mikhalevski-defeats-dambasuren-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-victor-mikhalevski-defeats-dambasuren-round-2",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "INTERVIEW: Victor Mikhalevski Defeats Dambasuren | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Daniel Dardha talks to Tatev Abrahamyan after defeating Benjamin Bok in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-daniel-dardha-defeats-bok-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-daniel-dardha-defeats-bok-round-1",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "INTERVIEW: Daniel Dardha Defeats Bok | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-akshat-chandra-defeats-daggupati-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-akshat-chandra-defeats-daggupati-round-1",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "INTERVIEW: Akshat Chandra Defeats Daggupati | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Tatev Abrahamyan after defeating Jason Liang in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-sam-sevian-defeats-liang-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-sam-sevian-defeats-liang-round-2",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "INTERVIEW: Sam Sevian Defeats Liang | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Tatev Abrahamyan after defeating Benjamin Gledura in the third round of the 2023 Spring Chess Classic. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-christopher-yoo-defeats-gledura-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3Q9B2zk9SQ.jpg?itok=jeTEAH_D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-christopher-yoo-defeats-gledura-round-3",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "INTERVIEW: Christopher Yoo Defeats Gledura | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-5",
+         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
+         "title" : "2023 Spring Chess Classic: Round 5"
+      },
+      {
          "description" : "GM Hikaru Nakamura defeated GM Fabiano Caruana in the&#38;nbsp;Champions Chess Tour Chessable Masters 2023 Grand Final to win Division I on Friday. The &#34;half man, half zombie,&#34; as GM Robert Hess called Nakamura on the broadcast, came back from the dea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-5",
-         "pubDate" : "Fri, 07 Apr 2023 15:10:40 -0700",
+         "pubDate" : "Fri, 07 Apr 2023 15:10:00 -0700",
          "title" : "'Half Man, Half Zombie' Nakamura Wins Chessable Masters, Beats Caruana Twice"
       },
       {
@@ -114,14 +170,6 @@ news_feed (
          "title" : "La Roda 2023 - LIVE"
       },
       {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Fri, 07 Apr 2023 16:50:00 +0100",
-         "title" : "Chessable Masters - Live!"
-      },
-      {
          "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -202,6 +250,14 @@ news_feed (
          "title" : "Jan Markos: What you need to know about the Queen (2)"
       },
       {
+         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
+         "pubDate" : "Fri, 07 Apr 2023 09:55:00 +0100",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
          "description" : "Division I of the Chessable Masters saw the losers' bracket semifinal taking place on Thursday, a match that Magnus Carlsen won by a 2-0 score against Levon Aronian. So Carlsen moved on to the losers' final, where Hikaru Nakamura, who had lost the winners' bracket final to Fabiano Caruana, was already waiting for him. Carlsen and Nakamura drew twice before Carlsen lost the final Armageddon game - following an unfortunate mouse-slip. In the Grand Final, Nakamura will once again face Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -258,44 +314,12 @@ news_feed (
          "title" : "GM Mikhalevski Defeats Batsuren"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Dardha discusses his win over GM Bok -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-daniel-dardha-defeats-bok\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-daniel-dardha-defeats-bok",
-         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
-         "title" : "GM Daniel Dardha Defeats Bok"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Chandra breaksdown his win over GM Daggupati -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-chandra-defeats-daggupati\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-chandra-defeats-daggupati",
-         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
-         "title" : "GM Chandra Defeats Daggupati"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam discusses his win over Liang after peaking in on the matchup between Mishra and Yoo. -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-sevian-defeats-liang\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-sevian-defeats-liang",
-         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
-         "title" : "GM Sevian Defeats Liang"
-      },
-      {
          "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 06 Apr 2023 22:39:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-2-lichessorg",
-         "pubDate" : "Thu, 06 Apr 2023 21:21:12 +0000",
-         "title" : "2023 Spring Chess Classic: Round 2 | lichess.org"
       },
       {
          "description" : "The 2023 FIDE World Championship is starting soon, with the first move happening this Sunday, April 9. While you wait to see who becomes the next world champion, why not play chess against our FIDE World Championship bots?&#38;nbsp; Go to our Play C...",
@@ -312,14 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-cct-chessable-masters-ko-day-4",
          "pubDate" : "Thu, 06 Apr 2023 12:58:00 -0700",
          "title" : "Nakamura Eliminates Carlsen After Dramatic Mouse Slip, Advances To Grand Final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3",
-         "pubDate" : "Thu, 06 Apr 2023 18:21:09 +0000",
-         "title" : "2023 Spring Chess Classic: Round 3"
       },
       {
          "description" : "The 2023 FIDE World Chess Championship match will take place from 7th of April to 1st May in Astana, Kazakhstan. The match will be played in 14 games between Ian Nepomniachtchi the Winner of the FIDE Candidates Tournament 2022 and Ding Liren the runner-up of the FIDE Candidates Tournament 2022 since Magnus Carlsen decided not to&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/\">Read More &#187;</a></span>",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/see-you-all-in-10-days.html",
          "pubDate" : "Wed, 05 Apr 2023 22:11:00 +0000",
          "title" : "See you all in 10 days :)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-1-lichessorg",
-         "pubDate" : "Wed, 05 Apr 2023 21:20:35 +0000",
-         "title" : "2023 Spring Chess Classic: Round 1 | lichess.org"
       },
       {
          "description" : "",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/31/chess-hikaru-nakamura-traps-a-queen-and-wins-60000-in-st-louis",
          "pubDate" : "Fri, 31 Mar 2023 07:00:16 +0000",
          "title" : "Chess: Hikaru Nakamura traps a queen and wins $60,000 in St Louis"
-      },
-      {
-         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-2",
-         "pubDate" : "Fri, 31 Mar 2023 07:00:00 +0100",
-         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 2/3"
       },
       {
          "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
