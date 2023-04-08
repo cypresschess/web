@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The what? \"Flag\"? What is that and how does it work? We recorded a confrontation between an absolute super-talent (17 years old and number 18 in world rankings) and a mechanical chess clock of yesteryear. Many of our readers will be well acquainted with the Garde, or other similar clocks, but many will be just as clueless as Dommaraju Gukesh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/introducing-the-garde-chess-clock",
+         "pubDate" : "Sat, 08 Apr 2023 15:00:00 +0100",
+         "title" : "Introducing: the Garde chess clock!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2328",
+         "pubDate" : "Sat, 08 Apr 2023 12:43:41 +0000",
+         "title" : "2023 World Chess Championship Match: Opening press conference "
+      },
+      {
+         "description" : " Last week I realized three things: Basic Advice Applies to Everyone Discussing how to improve in Poker &#38; Chess with a professional Chess player, I said \"but this doesn't apply to my situation, because&#8221; He just smirked and said, \"Learning to play better helps everyone\". Boom! How right he was. Some basic improvement advice applies [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/but-im-unique/\">Overcoming the &#8216;But I'm Unique' Mentality in Chess Improvement</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/but-im-unique/",
+         "pubDate" : "Sat, 08 Apr 2023 12:00:00 +0000",
+         "title" : "Overcoming the 'But I'm Unique' Mentality in Chess Improvement"
+      },
+      {
+         "description" : "Ian Nepomniachtchi will have the white pieces against Ding Liren when the 2023 World Chess Championship match starts in Astana, Kazakhstan on Sunday. Before the 14-game battle to decide the 17th World Chess Champion, the players faced the gauntlet of the first press conference. We've transcribed all their answers below.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-nepomniachtchi-opening-press-conference",
+         "pubDate" : "Sat, 08 Apr 2023 11:32:35 +0000",
+         "title" : "The Ding-Nepomniachtchi Opening Press Conference"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99339439.cms\" />Chess will crown a new world champion when Ian Nepomniachtchi and Ding Liren begin their battle on Sunday in the shadow of incumbent Magnus Carlsen, who voluntarily relinquished the title he held since 2013.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://www.chessdom.com/1000gm-new-york-gm-im-spring-invitational-b-live/",
          "pubDate" : "Fri, 07 Apr 2023 18:57:30 +0000",
          "title" : "1000GM New York GM/IM Spring Invitational B - LIVE"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Fri, 07 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
       },
       {
          "description" : "The 1000GM New York GM/IM Spring Invitational is a 12-player Schiller system GM norm tournament held from April 5th to 9th in New York, New York, USA.The time control is 90 minutes for the entire game with a 30-second increment starting from move one. List of players : No. Name Rtg FED 1 GM Gelashvili, []",
@@ -1714,14 +1738,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Seven"
       },
       {
-         "description" : "Hikaru Nakamura defeated Wesley So 2:0 in blitz to pick up the $10,000 bonus for winning the Champions bracket of the American Cup. Wesley still has a chance to force a replay against Hikaru for the $50,000 top prize, but first he'll need to beat Levon Aronian in the final of the Elimination bracket. 13-year-old Alice Lee missed a great chance to defeat Irina Krush in classical chess before losing 2:0 in rapid.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-and-krush-win-american-cup-champions-brackets",
-         "pubDate" : "Thu, 23 Mar 2023 11:04:02 +0000",
-         "title" : "Nakamura and Krush win American Cup Champions brackets"
-      },
-      {
          "description" : "ECU notes that chess is by definition an individual sport, and that all players have the right to participate in FIDE world championships or continental championships under the flag of a new federation, already considering representation of a national team at the highest level. ECU decides on players formerly belonging to the Chess Federation of Russia (CFR) that&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-resolution-on-players-participation-after-the-russian-chess-federation-joining-the-asian-chess-federation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1888,22 +1904,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/18/chess-championship-weeks-away-in-kazakhstan/",
          "pubDate" : "Sat, 18 Mar 2023 16:52:39 +0000",
          "title" : "Chess Championship weeks away in Kazakhstan"
-      },
-      {
-         "description" : "The 141st Varsity chess match between the teams of Oxford and Cambridge Universities, held at London's Royal Automobile Club on March 04 , ended, after multifarious vicissitudes, in an honourable 4-4 draw. Cambridge thus stemmed Oxford's recent advances to retain their overall lead, by 60 wins to 58, with 23 drawn. The most brilliant game []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/blues-in-balance-and-a-heroine-of-chess/",
-         "pubDate" : "Sat, 18 Mar 2023 12:03:27 +0000",
-         "title" : "Blues in balance - and a heroine of chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2288",
-         "pubDate" : "Sat, 18 Mar 2023 11:39:15 +0000",
-         "title" : "European Women's Championship 2023 starts in Petrovac, Montenegro"
       }
    ]
 }
