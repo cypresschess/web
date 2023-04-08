@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White mates Black's king in a maximum of 11 moves after 28.Rg7+!. Of course you don't need to work out the whole variation in your head, as Jan-Krzysztof Duda had to in this rapid game - but you're welcome to try!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mate-in-11",
+         "pubDate" : "Sat, 08 Apr 2023 09:00:00 +0100",
+         "title" : "Mate in 11!"
+      },
+      {
+         "description" : "Hikaru Nakamura has won the 2023 Chessable Masters after beating Fabiano Caruana in two matches on a wild final day that saw six black wins in seven games. Nakamura prevailed in Armageddon to take the title, $30,000, and a place in the Champions Chess Tour Playoffs in December. Meanwhile 18-year-old Nodirbek Abdusattorov beat Maxime Vachier-Lagrave to win Division II and book a Division I spot for the next Tour event.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nakamura-completes-comeback-to-win-chessable-masters",
+         "pubDate" : "Sat, 08 Apr 2023 07:11:13 +0000",
+         "title" : "Nakamura completes comeback to win Chessable Masters"
+      },
+      {
+         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th 20th April at Hotel Aurora in the well-known tourist destination in Croatia. The event is played in Open and Women's sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/",
+         "pubDate" : "Sat, 08 Apr 2023 06:09:59 +0000",
+         "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
+      },
+      {
+         "description" : "All eyes are now on Astana, where Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding, will play the final of the World Chess Championship 2023. After an eventful day 1 (see all that happened in our live blog) where FIDE failed to broadcast the opening ceremony, we are now waiting for the first moves []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vishy-anand-about-the-world-chess-championship-everything-is-a-blur-until/",
+         "pubDate" : "Sat, 08 Apr 2023 04:42:16 +0000",
+         "title" : "Vishy Anand about the World Chess Championship, \"Everything is a blur until&hellip;\""
+      },
+      {
          "description" : "Ian Nepomniachtchi will get the white pieces in the first game of the 2023 World Championship match against Ding Liren. The 14-game match kicks off on Sunday, and is the first one not to feature Magnus Carlsen since 2013. FIDE's Milan Dinic previews the contest that is set to decide who will become the 17th undisputed world chess champion. | Photos: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://www.chessdom.com/fabiano-caruana-hikaru-nakamura-live-chessable-masters-div-1-winners-final/",
          "pubDate" : "Fri, 07 Apr 2023 12:42:27 +0000",
          "title" : "Fabiano Caruana - Hikaru Nakamura LIVE Chessable Masters Div 1 Winners Final"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov Maxime Vachier-Lagrave is The Grand Final of Division 2 Winners from&#xA0;Chessable Masters 2023.&#xA0;The 2nd event on the $2 million 2023 Champions Chess Tour, features three Divisions of 8, 16 and 32 players. Each division is a double-elimination knockout where if you lose one match you drop down to a Losers bracket and []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nodirbek-abdusattorov-maxime-vachier-lagrave-live-chessable-masters-div-2-winners/",
-         "pubDate" : "Fri, 07 Apr 2023 12:38:23 +0000",
-         "title" : "Nodirbek Abdusattorov - Maxime Vachier-Lagrave LIVE Chessable Masters Div 2 Winners"
       },
       {
          "description" : "Please find the ONGC Ward Sports Scholarship Scheme 2023-24 right here Download",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "Khalifman: \"You shouldn't give up the title without a fight\""
       },
       {
-         "description" : "John Foley is the Director of the 2023 London Chess Conference. Stefan L&ouml;ffler was involved as a facilitator and was the founding director of the conference in 2013. Here they report from a breakthrough edition which established how chess enhances 21st century skills, interest in STEM subjects and even pre-school education. | Pictured: Rita Atkins, John Foley and Dana Reizniece-Osola | Photo: John Yip",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/back-to-classroom-london-chess-conference",
-         "pubDate" : "Fri, 31 Mar 2023 13:00:00 +0100",
-         "title" : "Back to the classroom - London Chess Conference"
-      },
-      {
          "description" : "Senior National Arbiter Mumbai, Maharashtra Certificates are out to download Link : https://aicf.online/Arbiter-Seminar-Mumbai.html Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1730,14 +1746,6 @@ news_feed (
          "title" : "Black against Beliavsky"
       },
       {
-         "description" : "Levon Aronian twice won on demand before clinching victory in Armageddon to knock defending champion Fabiano Caruana out of the 2023 American Cup. \"I told Fabiano that we're creating content!\" said Levon, and that was the standout action on a day of two quiet classical draws in the Nakamura-So and Krush-Lee Champions finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/levon-aronian-beats-fabiano-caruana-in-armageddon",
-         "pubDate" : "Wed, 22 Mar 2023 13:07:33 +0000",
-         "title" : "Levon Aronian beats Fabiano Caruana in Armageddon"
-      },
-      {
          "description" : " Two pawns abreast was some simple positional advice i once heard spoken by IM Robert Jamieson. Having central pawns side by side usually serves two purposes. The first is to efficiently cover the 4 squares in front of them, and the second is to support the necessary pawn break often needed to transform the position into a better on. On the following rapid game, I had the former, but not the later. But this was because my opponent felt the lack of space in his position required a pawn grab, which unfortunately for him, was unsound. <br /> <b>Press,Shaun - Rowe,Arief [D06]</b><br /> Gungahlin Rapid (1), 21.03.2023 <script> new PgnViewer( { boardName: \"game1389\", movesFormat: \"default\", pgnStr",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1848,14 +1856,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/old-school.html",
          "pubDate" : "Sun, 19 Mar 2023 12:05:00 +0000",
          "title" : "Old school"
-      },
-      {
-         "description" : "The European Women's Chess Championship 2023 kicked off in Petrovac, Montenegro, with participation of 134 players coming from 34 European federations. The Opening ceremony of the event took place on Friday evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, the ECU Honorary Vice President and the Vice President of Montenegro Chess Federation Mr. Veselin Draskovic,&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-womens-chess-championship-2023-commenced-in-montenegro-petrovac/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2023-commenced-in-montenegro-petrovac/",
-         "pubDate" : "Sun, 19 Mar 2023 11:33:20 +0000",
-         "title" : "European Women's Chess Championship 2023 commenced in Montenegro, Petrovac"
       },
       {
          "description" : " Here's a game between two talented young players from the recent Mindsports Masters IM tournament. It's a symmetrical Queen's Gambit: a line that's been popular since St Amant played it against Staunton in 1843, and which is still theoretically important today. White played quietly here, content to trade queens and just gain a couple of <a href=\"https://chessimprover.com/flawed-flohr-floored/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Flawed Flohr Floored\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/flawed-flohr-floored/\">Flawed Flohr Floored</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
