@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 O2C Doeberl Cup has reached its final stages, with GM Hrant Melkumyan holding a half point lead over GM Temur Kuybakarov. Melkumyan and Kuybakorov drew their round 7 game, before Melkumyan defeated IM Brodie McClymont in the days second game. Kuybakrov only drew with IM James Morris in round 8, to fall half a point behind Melkumyan. On 6 points are Morris, IM Rishi Sardana, FM Matthew Clarke, and IM Ari Dale. Melkumyan plays Dale, while Kuybokarov is up against Clarke, Rounding out the top pairings are Sardana against Morris on board 3, with GM Daniel Fernandez playing McClymont of board 4. In the Major (Under 2100), Khimaer Baneshi and Randheer Thogata are tied on 5/6, and play fo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-4.html",
+         "pubDate" : "Sun, 09 Apr 2023 22:01:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Day 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-6",
+         "pubDate" : "Sun, 09 Apr 2023 21:23:38 +0000",
+         "title" : "2023 Spring Chess Classic: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-5-lichessorg",
+         "pubDate" : "Sun, 09 Apr 2023 21:23:38 +0000",
+         "title" : "2023 Spring Chess Classic: Round 5 | lichess.org"
+      },
+      {
+         "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of high school student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each tournament. Sperber who directs and plays is inching toward the 2000 rating mark which is impressive when given his 1700 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/",
+         "pubDate" : "Sun, 09 Apr 2023 21:08:01 +0000",
+         "title" : "Richard Kennedy wins Capital City Open III"
+      },
+      {
          "description" : "Game 2 of the 2023 FIDE World Championship begins on Monday, April 10, at 15:00 Astana time (2 a.m. PT/11:00 CEST). In a thrilling game one, GM Ian Nepomniachtchi used superior opening preparation to obtain an excellent position with winning cha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "Understanding before Moving 120: Chess history in a nutshell (2)"
       },
       {
-         "description" : "Ding Liren needed all his defensive tenacity to survive his first ever World Championship game after Ian Nepomniachtchi sprung an opening surprise and gradually upped the pressure. Ian had a choice of ways to capitalise, but ultimately chose wrongly. Instead of winning a pawn and going for a long grind he tried to complicate in his opponent's time trouble, but Ding made no mistake and had solved his problems by move 40. There are 13 games to go.",
+         "description" : "Ding Liren confessed he wondered if \"there was something wrong with my mind\" as he came under heavy pressure from Ian Nepomniachtchi in Game 1 of the FIDE World Championship match in Astana, Kazakhstan. Ian sprung an opening surprise, and though Ding reacted well at first, he drifted into trouble. Nepo looked on the brink of a possibly decisive advantage, but then stumbled, with Ding finding all the correct moves in time trouble to make a 49-move draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-in-game-1",
@@ -106,7 +138,7 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Round 4 | lichess.org"
       },
       {
-         "description" : "Daniil Dubov will be among the commentators of the World Championship match in Astana, along with Irina Krush and Vishy Anand. In an unmissable 30-minute interview, the outspoken grandmaster shares his thoughts on a number of topics: the favourite to win the match, why the classical time control has lost popularity, his dislike of online chess, and why Magnus Carlsen's absence in the World Championship cycle might make it mroe appealing for other players. | Photo: Niki Riga",
+         "description" : "Daniil Dubov will be among the commentators of the World Championship match in Astana, along with Irina Krush and Vishy Anand. In an unmissable 30-minute interview, the outspoken grandmaster shares his thoughts on a number of topics: the favourite to win the match, why the classical time control has lost popularity, his dislike of online chess, and why Magnus Carlsen's absence in the World Championship cycle might make it more appealing for other players. | Photo: Niki Riga",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dubov-interview-world-championship-2023",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Mikhalevski discusses his defeat over GM Batsuren -- Watch live at <a href=\"https://www.twitch.tv/stlchessclub\">https://www.twitch.tv/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gm-mikhalevski-defeats-dambasuren\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gm-mikhalevski-defeats-dambasuren",
-         "pubDate" : "Fri, 07 Apr 2023 03:21:15 +0000",
-         "title" : "GM Mikhalevski Defeats Dambasuren"
-      },
-      {
          "description" : "The third leg of the Women's Grand Prix was marred by the early withdrawal of two players. Zhansaya Abdumalik decided to leave due to organizational issues, and her withdrawal triggered other players to bring up further issues related to previous events. Harika Dronavalli was one of three Indian players in the field, and found herself struggling to decide how to react to the situation. Only after the tournament finished, she spoke up about the New Delhi debacle in a 13-minute video produced by ChessBase India. | Photo: FIDE / Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -504,14 +528,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nakamura-faces-caruana-after-mouse-slip-thwarts-magnus",
          "pubDate" : "Fri, 07 Apr 2023 01:02:23 +0000",
          "title" : "Nakamura faces Caruana after mouse-slip thwarts Magnus"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-4",
-         "pubDate" : "Fri, 07 Apr 2023 00:21:01 +0000",
-         "title" : "2023 Spring Chess Classic: Round 4"
       },
       {
          "description" : " The first day of the <a href=\"http://www.doeberlcup.com.au\">2023 O2C Doeberl Cup</a> saw the Premier play its first 2 rounds. There were a significant number of upset results, and by the end of the day, only 2 of the GM's in the event had maintained a perfect score. GM Daniel Fernandez drew with CM Hamish Bassig in the 1st round, while GM Temur Kuybokarov had a round 2 draw against FM Michael Kethro. GM Samy Shoker made it to 2/2 after beating Harry Press in the evening round, as did defending champion GM Hrant Melkumyan, who won against FM David Cannon. Today will see the other tournament sections begin, with 400 players taking part. The addition of a new section (the Mini) seems to have e",
@@ -1920,14 +1936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bdca-clough-cup/",
          "pubDate" : "Mon, 20 Mar 2023 10:11:27 +0000",
          "title" : "B&DCA Clough Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2289",
-         "pubDate" : "Sun, 19 Mar 2023 23:12:03 +0000",
-         "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
       }
    ]
 }
