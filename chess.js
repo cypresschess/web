@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " One of my new pupils is a very bright but inexperienced 11 year old, who's been playing his father, a novice himself, at home for a couple of years, but now wants to take the game more seriously. Once I gave him some idea of what was really happening in a game of chess he <a href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\">Knight Against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/knight-against-rooks-pawn-2/",
+         "pubDate" : "Sun, 09 Apr 2023 15:00:45 +0000",
+         "title" : "Knight Against Rook's Pawn"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 120th instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-120-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 09 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 120: Chess history in a nutshell (2)"
+      },
+      {
+         "description" : "Ding Liren needed all his defensive tenacity to survive his first ever World Championship game after Ian Nepomniachtchi sprung an opening surprise and gradually upped the pressure. Ian had a choice of ways to capitalise, but ultimately chose wrongly. Instead of winning a pawn and going for a long grind he tried to complicate in his opponent's time trouble, but Ding made no mistake and had solved his problems by move 40. There are 13 games to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-survives-scare-in-game-1",
+         "pubDate" : "Sun, 09 Apr 2023 13:57:41 +0000",
+         "title" : "Ding Liren survives scare in Game 1"
+      },
+      {
+         "description" : " The FIDE World Chess Championship between Ian Nepomniachtchi and Ding Liren got underway in Astana, Kazakhstan on Easter Sunday. Nepomniachtchi with white played the rare DERLD which is the Delayed Exchange of the Ruy Lopez Deferred. The variation isn't that dangerous theoretically but has its points against the unprepared. 7...Bg4 is a known equaliser but it involves a piece sacrifice, not something you want to do against a well prepared opponent, 7....Nd7 was also fine but Ding was clearly pretty much on his own. 11...Bg4 instead of the known 11...Ne6 was not liked by Anand as it introduced problems for black. The computers continued to say black was fine but there were complicated variat",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-gets-chances-in-the-drawn-first-game-of-the-world-chess-championship-2023",
+         "pubDate" : "Sun, 9 Apr 2023 14:35:00 +0400",
+         "title" : "Nepomniachtchi gets chances in the drawn first game of the World Chess Championship 2023 - 1"
+      },
+      {
+         "description" : "Recently a photograph re-emerged on Twitter, capturing all of the world champions and grandmasters who competed in the celebrated 1970 Match of the Century, which pitted the mighty USSR team against the Rest of the World. The USSR won the contest by a single point margin, largely due to the excellent score of Paul Keres, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
+         "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
+         "title" : "Chess champions I have played"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sun, 09 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 1 - Live!"
+      },
+      {
          "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,20 +130,12 @@ news_feed (
          "title" : "Finnish Championship 2023"
       },
       {
-         "description" : "The 2023 FIDE World Championship between GMs Ian Nepomniachtchi and Ding Liren begins on Sunday, April 9, at 15:00 Astana time (2 a.m. PT/11:00 CET). Yesterday, the Astana Ballet Theatre hosted the official opening ceremony. The festivities incl...",
+         "description" : "The first FIDE World Championship without GM Magnus Carlsen in over 10 years began dramatically today in Astana. While there is no defending World Champion, there is a returning challenger, and GM Ian Nepomniachtchi leveraged his experience, prepa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
          "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
-         "title" : "How To Watch FIDE World Championship 2023 Game 1"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live and with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Sat, 08 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
+         "title" : "Flash Report: Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
       },
       {
          "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
@@ -290,7 +330,7 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Round 3 | lichess.org"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren 0 Nepomniachtchi The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; &frac12; Nepomniachtchi &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -320,6 +360,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2327",
          "pubDate" : "Fri, 07 Apr 2023 17:57:56 +0000",
          "title" : "2023 FIDE World Championship Match officially opened"
+      },
+      {
+         "description" : "This is the fourth post in a short series to learn more about GM Ding Liren's chess career. In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-rise-to-gm-title.html\">Ding Liren's Rise to the GM title</A> (March 2023), I wrote, <BLOCKQUOTE> The year 2009 was the Chinese GM's breakthrough year. What about 2010 and after? I'll look at that in the next post. </BLOCKQUOTE> <P> The following chart starts where the chart from 'Rise to the GM title' ended: 'October 2009, he became China's 30th grandmaster'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd07.gif\" WIDTH=400 HEIGHT=380><BR> <A HREF=\"https://en.wikipedia.org/wiki/Ding_Liren\">Ding Lir",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html",
+         "pubDate" : "Fri, 07 Apr 2023 15:28:00 +0000",
+         "title" : "Ding Liren's 2010-11 TWIC-ipedia"
       },
       {
          "description" : " The World Chess Championship takes place 7th April (opening ceremony) to 1st May 2023. The match is between Ian Nepomniachtchi and Ding Liren. The current World Champion Magnus Carlsen announced in July last year he would not be defending his title, he seems to have more or less made up his mind two years ago dismantling his team after beating Nepomniachtchi. The match is held in Astana, Kazakhstan over 14 games, two days on, one off with a single game in round 7 to switch the order of the colours. The games start at 10am BST each day, game one Sunday 9th April, Nepomniachtchi has white. The players are closely matched being two and three in the world and Nepomniachtchi narrowly leading +3 ",
@@ -394,7 +442,7 @@ news_feed (
          "title" : "Chessable Masters: Nakamura knocks out Carlsen"
       },
       {
-         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren, ranked second and third, will compete for the crown in 14-game series in Kazakhstan, starting on Sunday Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" ",
+         "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren will compete for the crown in 14-game series Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" title=\"\">Chessable Masters</a>. <a href=\"https://www.theguar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/07/chess-world-title-match-gets-under-way-in-astana-without-magnus-carlsen",
@@ -1058,14 +1106,6 @@ news_feed (
          "title" : "DGT LIVE Link For 1 Mayor's Trophy International GM Chess Championship 2023 at Indore"
       },
       {
-         "description" : "In the diagram position White seems to have his back to the wall in the face of Black's threats ...Bxf2 and ...Rg1 . You have to keep a cool head and skilfully go on the counterattack - you're good at that, aren't you?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chance",
-         "pubDate" : "Sat, 01 Apr 2023 09:00:00 +0100",
-         "title" : "Chance!"
-      },
-      {
          "description" : "Senior National Arbiter Seminar Pune Certificates are out to download link : https://aicf.online/Arbiter-S-Pune.html Any Correction mail at aicfwebamster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1594,14 +1634,6 @@ news_feed (
          "title" : "Ding Liren's TWIC Debut"
       },
       {
-         "description" : "Wesley So and Alice Lee both won their elimination matches to bounce back from defeat in the Champions bracket and get a chance to win the American Cup. Wesley So faces a rematch against Hikaru Nakamura after beating Levon Aronian 2.5:1.5, while Alice Lee will again take on Irina Krush after beating Nazi Paikidze 3:1.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/so-and-lee-earn-shot-at-american-cup-revenge",
-         "pubDate" : "Fri, 24 Mar 2023 13:23:53 +0000",
-         "title" : "So and Lee earn shot at American Cup revenge"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1888,22 +1920,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html",
          "pubDate" : "Sun, 19 Mar 2023 16:24:00 +0000",
          "title" : "Karpov and Kasparov Play Chess in Iceland"
-      },
-      {
-         "description" : " I was checking out some of the online events tonight, and I came across the HIT Open in Slovenia. The Chief Arbiter is a colleague if mine from the Olympiad (WGM Ana Srebrnic) but it was some of the names of the players that I found most interesting. GM Alexander Beliavsky is playing, along with other older GM's like Nigel Davies and Stefan Djuric. Of course there are a few younger GM's in the field, but it is good to see some of the legends from earlier times still having a hit. Oh, and the other interesting feature is the tournament does not seem to offer prizes as such, but instead \"Reimbursement of Expenses\" for the best scoring players (which of course have the same cash value as prize",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/old-school.html",
-         "pubDate" : "Sun, 19 Mar 2023 12:05:00 +0000",
-         "title" : "Old school"
-      },
-      {
-         "description" : " Here's a game between two talented young players from the recent Mindsports Masters IM tournament. It's a symmetrical Queen's Gambit: a line that's been popular since St Amant played it against Staunton in 1843, and which is still theoretically important today. White played quietly here, content to trade queens and just gain a couple of <a href=\"https://chessimprover.com/flawed-flohr-floored/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Flawed Flohr Floored\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/flawed-flohr-floored/\">Flawed Flohr Floored</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/flawed-flohr-floored/",
-         "pubDate" : "Sun, 19 Mar 2023 10:00:14 +0000",
-         "title" : "Flawed Flohr Floored"
       }
    ]
 }
