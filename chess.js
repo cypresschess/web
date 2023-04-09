@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-iniyan-challenge-2",
+         "pubDate" : "Sun, 09 Apr 2023 08:30:00 +0100",
+         "title" : "The Iniyan Challenge"
+      },
+      {
          "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-hiring-new-ceo",
          "pubDate" : "Fri, 31 Mar 2023 15:00:00 -0700",
          "title" : "Happy April Fool's Day! Chess.com Hiring New CEO"
-      },
-      {
-         "description" : "When they hear 'Reykjavik Open', many chess players spontaneously express the wish to be there. Our author Gerd Densing belongs to this group: he is currently in the Icelandic capital, playing in the tournament, writing and taking photographs. In the first three rounds, he has met not only the rating favourite, Vasyl Ivanchuk (photo), but also many other interesting personalities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/impressions-reykjavik-open-2023",
-         "pubDate" : "Fri, 31 Mar 2023 23:00:00 +0100",
-         "title" : "Impressions from the Reykjavik Open"
       },
       {
          "description" : "",
