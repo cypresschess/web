@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Game 2 of the 2023 FIDE World Championship begins on Monday, April 10, at 15:00 Astana time (2 a.m. PT/11:00 CEST). In a thrilling game one, GM Ian Nepomniachtchi used superior opening preparation to obtain an excellent position with winning cha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-2",
+         "pubDate" : "Sun, 09 Apr 2023 12:00:00 -0700",
+         "title" : "How To Watch FIDE World Championship 2023 Game 2"
+      },
+      {
+         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live with commentary by Jan Gustafsson and Jovanka Houska.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
+         "pubDate" : "Sun, 09 Apr 2023 19:50:00 +0100",
+         "title" : "Armageddon Series - Live from 20.00 CEST!"
+      },
+      {
+         "description" : "Game 1 of the World Championship match was a nervy affair. Ian Nepomniachtchi, playing white, got the upper hand out of the opening, eventually gained a pawn, but then failed to convert his advantage. Ding Liren, who might become China's first-ever world champion, confessed in the press conference that he had difficulty focusing on chess at the start of the game, most likely due to the pressure of the match. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g1",
+         "pubDate" : "Sun, 09 Apr 2023 18:40:00 +0100",
+         "title" : "World Championship Game 1: Nepo gains edge, Ding holds"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 1: Tense battle ends quietly Match Score: &frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 1Sunday, 9 April 2023 Nepo presses, but Ding slips away Game 1 of the 2023 World Chess Championship starts off with a Delayed Exchange Ruy Lopez, and Ian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/2023-world-chess-championship-game-1/\">2023 World Chess Championship: Game 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/09/2023-world-chess-championship-game-1/",
+         "pubDate" : "Sun, 09 Apr 2023 16:43:58 +0000",
+         "title" : "2023 World Chess Championship: Game 1"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2329",
+         "pubDate" : "Sun, 09 Apr 2023 15:56:34 +0000",
+         "title" : "World Chess Championship match: The first game ends in a draw"
+      },
+      {
          "description" : " One of my new pupils is a very bright but inexperienced 11 year old, who's been playing his father, a novice himself, at home for a couple of years, but now wants to take the game more seriously. Once I gave him some idea of what was really happening in a game of chess he <a href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\">Knight Against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
          "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
          "title" : "Chess champions I have played"
-      },
-      {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sun, 09 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 1 - Live!"
       },
       {
          "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
@@ -130,12 +162,12 @@ news_feed (
          "title" : "Finnish Championship 2023"
       },
       {
-         "description" : "The first FIDE World Championship without GM Magnus Carlsen in over 10 years began dramatically today in Astana. While there is no defending World Champion, there is a returning challenger, and GM Ian Nepomniachtchi leveraged his experience, prepa...",
+         "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
          "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
-         "title" : "Flash Report: Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
+         "title" : "Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
       },
       {
          "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
@@ -1082,14 +1114,6 @@ news_feed (
          "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 3/3"
       },
       {
-         "description" : "In today's episode, we will delve into an astonishing upset from the first round of the Reykjav&iacute;k Open 2023, where a relatively unknown Norwegian with the Black pieces defied all odds by defeating an opponent with a staggering 400 Elo rating advantage. IM Robert Ris will expertly dissect the game, revealing the critical moments and ingenious strategies that led to this David versus Goliath victory. Get ready to be inspired by the power of perseverance and the beauty of the unexpected as we explore this thrilling upset together.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavk-open-upset-in-round-1-400-elo-difference-when-the-underdog-wins",
-         "pubDate" : "Sat, 01 Apr 2023 14:30:00 +0100",
-         "title" : "Reykjav&iacute;k Open upset - 400 Elo difference. When the underdog wins!"
-      },
-      {
          "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1562,14 +1586,6 @@ news_feed (
          "title" : "The Dark Side of Women's Chess"
       },
       {
-         "description" : "It took two full games and two messy tiebreakers before the victors of the action of day nine in The American Cup were decided. In the Women&#39;s event, GM Irina Krush needed only a draw, but lost the regulation game before ultimately deciding the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-9",
-         "pubDate" : "Sun, 26 Mar 2023 06:28:00 -0700",
-         "title" : "Krush Extends Queenship, Wesley So Defeats Nakamura In Tiebreaker"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1912,14 +1928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2289",
          "pubDate" : "Sun, 19 Mar 2023 23:12:03 +0000",
          "title" : "FIDE Women's Candidates Final: Lei Tingjie and Tan Zhongyi face off in Chongqing, China"
-      },
-      {
-         "description" : "Last month's Flickr favorite, <A HREF=\"https://chessforallages.blogspot.com/2023/02/catsparov-chess.html\">Catsparov Chess</A> (February 2023), confirmed a trend:- <BLOCKQUOTE> Am I just a sucker for AI generated chess images? It appears I am. </BLOCKQUOTE> <P> And here we go again, even when dealing with an historical absurdity on multiple counts... <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc19.gif\" WIDTH=400 HEIGHT=400><BR> <B>Upper left:</B> <A HREF=\"https://www.flickr.com/photos/fdecomite/52739356678/\">DALL-E 2023-03-10 21.34.47</A> &#169; Flickr user <I>fdecomite</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>. <P> The descripti",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html",
-         "pubDate" : "Sun, 19 Mar 2023 16:24:00 +0000",
-         "title" : "Karpov and Kasparov Play Chess in Iceland"
       }
    ]
 }
