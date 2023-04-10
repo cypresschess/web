@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2331",
+         "pubDate" : "Mon, 10 Apr 2023 19:12:06 +0000",
+         "title" : "Vahap Sanal wins Fagernes International"
+      },
+      {
+         "description" : "Ian Nepomniachtchi took the lead at the World Chess Championship in Astana after beating Ding Liren with black in Monday's game 2. Ding shocked onlookers with his fourth move, but Nepo reacted in principled fashion, entering the most trying continuations. Soon enough, the Russian's position went from slightly advantageous to completely winning. Ding resigned the game on move 29. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g2",
+         "pubDate" : "Mon, 10 Apr 2023 18:30:00 +0100",
+         "title" : "World Championship Game 2: Nepo scores, despite Ding's opening surprise"
+      },
+      {
          "description" : "Boris Chatalbashev won the 2023's edition of Danish Championship with 1 point advance of Jesper Sondergaard Thybo, while the bronze gone to Allan Stig Rasmussen. Replay:&#xA0;Nepo &#x2013; Ding game 1 live&#xA0;/&#xA0;Nepo &#x2013; Ding game 1 video coverage with Vishy AnandLive:&#xA0;Ding &#x2013; Nepo 2023, game 2 Full standings : Rk. Name Rtg &#x424;&#x415;&#x414; 1 2 3 []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-takes-the-world-championship-lead-after-a-disaster-in-game-two-for-ding",
          "pubDate" : "Mon, 10 Apr 2023 14:41:00 +0400",
          "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
-      },
-      {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Mon, 10 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 2 - Live!"
       },
       {
          "description" : "The chess world was surprised by the early 4.h3 by Ding Liren in game 2 of the World Chess Championship. Some called it the &#8220;earliest World Chess Championship surprise&#8221; while others like Irina Krush in the official commentary were simply shocked. For those following the team of seconds of Ding Liren, the surprise was not []",
@@ -162,6 +170,14 @@ news_feed (
          "title" : "Richard Kennedy wins Capital City Open III"
       },
       {
+         "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-iniyan-challenge-2",
+         "pubDate" : "Sun, 09 Apr 2023 20:05:00 +0100",
+         "title" : "The Iniyan Challenge"
+      },
+      {
          "description" : "Chess fans didn&#39;t have to wait long for a decisive result in the 2023 FIDE World Championship, as GM Ian Nepomniachtchi convincingly took down GM Ding Liren in game two. Despite a successful-looking novelty by Ding on move 4, things quickly turned...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +264,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
          "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
          "title" : "Chess champions I have played"
-      },
-      {
-         "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-iniyan-challenge-2",
-         "pubDate" : "Sun, 09 Apr 2023 08:30:00 +0100",
-         "title" : "The Iniyan Challenge"
       },
       {
          "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
@@ -1928,22 +1936,6 @@ news_feed (
          "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/",
          "pubDate" : "Tue, 21 Mar 2023 09:25:14 +0000",
          "title" : "\"Tactics are temporary, endgames are permanent\" (5)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2292",
-         "pubDate" : "Mon, 20 Mar 2023 19:03:31 +0000",
-         "title" : "International Chess Festival Baku Open 2023 announced"
-      },
-      {
-         "description" : "In the previous fortnightly report on the world's two leading engine vs. engine competitions, <A HREF=\"https://chessforallages.blogspot.com/2023/03/tcec-s24-l1-ccc20-blitz-semifinals.html\">TCEC S24 L1, CCC20 Blitz Semifinals: Final Week</A> (March 2023), both the TCEC and CCC were well into their respective seasons. Following is a summary of that report. <BLOCKQUOTE> TCEC: S24 L1 is underway with Koivisto leading by a significant margin. Berserk is in a tie for second place. &#149; CCC: Of the 12 engines that competed in 'CCC20 Blitz Main', six qualified into the 'CCC20 Blitz Semifinals', which is underway. </BLOCKQUOTE> <P> After another two weeks, both competitions are seeing the usual thr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html",
-         "pubDate" : "Mon, 20 Mar 2023 16:46:00 +0000",
-         "title" : "TCEC S24 DivP, CCC20 Blitz Final : Both Underway"
       }
    ]
 }
