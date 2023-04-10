@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Chatalbashev won the 2023's edition of Danish Championship with 1 point advance of Jesper Sondergaard Thybo, while the bronze gone to Allan Stig Rasmussen. Replay:&#xA0;Nepo &#x2013; Ding game 1 live&#xA0;/&#xA0;Nepo &#x2013; Ding game 1 video coverage with Vishy AnandLive:&#xA0;Ding &#x2013; Nepo 2023, game 2 Full standings : Rk. Name Rtg &#x424;&#x415;&#x414; 1 2 3 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/boris-chatalbashev-won-danish-championship-2023/",
+         "pubDate" : "Mon, 10 Apr 2023 14:46:22 +0000",
+         "title" : "Boris Chatalbashev won Danish Championship 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2330",
+         "pubDate" : "Mon, 10 Apr 2023 14:36:53 +0000",
+         "title" : "Nepomniachtchi defeats Ding in the second game of the World Championship match"
+      },
+      {
+         "description" : "The Caissa Hotel GM Tournament Akasya Group is held from April 8 to the 13th in Bal&#x131;kesir, Turkey. Time control is 90 minutes for 40 moves, followed by 15 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 12-player Round-robin tournament for teams with []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/caissa-hotel-gm-tournament-akasya-group-live/",
+         "pubDate" : "Mon, 10 Apr 2023 14:33:19 +0000",
+         "title" : "Caissa Hotel GM Tournament - Akasya Group - LIVE"
+      },
+      {
+         "description" : "Ian Nepomniachtchi is on the verge of entering the 2800 ELO club. After his victory in round 2 of the World Chess Championship Nepo's rating is 2799,8, just 0,2 points shy of the 2800 mark. So far only 15 players have been able to achieve this Magnus Carlsen, Garry Kasparov, Fabiano Caruana, Levon Aronian, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepomniachtchi-is-on-the-verge-of-entering-the-2800-club-reaches-his-highest-ever-elo/",
+         "pubDate" : "Mon, 10 Apr 2023 14:26:15 +0000",
+         "title" : "Nepomniachtchi is on the verge of entering the 2800 club, reaches his highest ever ELO"
+      },
+      {
+         "description" : "A mysterious participant in the women&#39;s section of the Kenya Open Chess Championship in Nairobi, Kenya was exposed as a male impostor and removed from the tournament. The player, whose identity was not made public, admitted to the cheating and sai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cheating-kenya-open-women-championship-impostor",
+         "pubDate" : "Mon, 10 Apr 2023 07:17:00 -0700",
+         "title" : "Kenyan Player Expelled After Pretending To Be A Woman To Win Lucrative Prize"
+      },
+      {
+         "description" : " GM Hrant Melkumyan has won his third O2C Doeberl Cup with a dominant display in this years event. Having previously finished 1st in 2019 and 2022, his 8/9 in this years event saw him finish half a point ahead of GM Temur Kuybokarov. He secured first place with a win over IM Ari Dale, finishing with 7 wins and 2 draws (against Kuybokarov and IM Rishi Sardana). Kuybokarov defeated FM Matthew Clarke to finish outright 2nd on 7.5. Tied for 3rd place were IM James Morris, IM Rishi Sardana, GM Daniel Fernandez and FM Fred Litchfield, on 6.5. Three of the top 6 (Melkumyan, Sardana and Litchfield) are Canberra residents, which capped a fantastic event for the ACT chess community. The Major saw a 4 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-three-times-charm.html",
+         "pubDate" : "Mon, 10 Apr 2023 13:56:00 +0000",
+         "title" : "2023 O2C Doeberl Cup - Three times the charm for Melkumyan"
+      },
+      {
+         "description" : "Ian Nepomniachtchi has won a World Championship game at his 13th attempt to take a 1.5:0.5 lead over Ding Liren. Ding sprung a Richard Rapport-inspired near-novelty on move 4, but his first long think of the game on move 12 gave Nepomniachtchi the chance to launch a powerful kingside attack. Ding was soon lost on the board and on the clock and resigned on move 29.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-wins-world-championship-game-at-13th-attempt",
+         "pubDate" : "Mon, 10 Apr 2023 12:58:45 +0000",
+         "title" : "Nepo wins World Championship game at 13th attempt"
+      },
+      {
+         "description" : " Ian Nepomniachtchi won game two of the FIDE World Chess Championship to take an early 1.5-0.5 lead against his Chinese rival Ding Liren. Ding managed to surprise his opponent early on but once on his own played very poorly to go down to a loss in just 29 moves. \"I missed nearly everything today\" Ding Liren. Nepomniachtchi in contrast was not phased by the surprise, played quickly, accurately and confidently. Ding's demeanor so far suggests he his struggling with the pressure of the match and if he doesn't settle in soon it could be very bad for him indeed. Ding did start very slowly in last year's Candidates tournament too but does need to pull himself together quickly during the first rest",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-takes-the-world-championship-lead-after-a-disaster-in-game-two-for-ding",
+         "pubDate" : "Mon, 10 Apr 2023 14:41:00 +0400",
+         "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
+      },
+      {
          "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,12 +162,12 @@ news_feed (
          "title" : "Richard Kennedy wins Capital City Open III"
       },
       {
-         "description" : "Game 2 of the 2023 FIDE World Championship begins on Monday, April 10, at 15:00 Astana time (2 a.m. PT/11:00 CEST). In a thrilling game one, GM Ian Nepomniachtchi used superior opening preparation to obtain an excellent position with winning cha...",
+         "description" : "Chess fans didn&#39;t have to wait long for a decisive result in the 2023 FIDE World Championship, as GM Ian Nepomniachtchi convincingly took down GM Ding Liren in game two. Despite a successful-looking novelty by Ding on move 4, things quickly turned...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-2",
          "pubDate" : "Sun, 09 Apr 2023 12:00:00 -0700",
-         "title" : "How To Watch FIDE World Championship 2023 Game 2"
+         "title" : "Nepomniachtchi Wins Game 2 With Black After Navigating Ding's Novelty"
       },
       {
          "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live with commentary by Jan Gustafsson and Jovanka Houska.",
@@ -250,36 +314,12 @@ news_feed (
          "title" : "Finnish Women's Championship 2023"
       },
       {
-         "description" : "The Finnish Chess Championship 2023 is held from the 7th to the 15th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. It is a 9-round Swiss tournament with participation of Toivo Kein&#xE4;nen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/finnish-championship-2023-live/",
-         "pubDate" : "Sat, 08 Apr 2023 19:49:15 +0000",
-         "title" : "Finnish Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Finnish Chess Championship 2023 is held from the 7th to the 15th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. It is a 9-round Swiss tournament with participation of Toivo Kein&#xE4;nen, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/finnish-championship-2023/",
-         "pubDate" : "Sat, 08 Apr 2023 19:47:26 +0000",
-         "title" : "Finnish Championship 2023"
-      },
-      {
          "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
          "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
          "title" : "Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
-      },
-      {
-         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-cup-women-2023/",
-         "pubDate" : "Sat, 08 Apr 2023 18:38:51 +0000",
-         "title" : "Mitropa Cup Women 2023"
       },
       {
          "description" : "The what? \"Flag\"? What is that and how does it work? We recorded a confrontation between an absolute super-talent (17 years old and number 18 in world rankings) and a mechanical chess clock of yesteryear. Many of our readers will be well acquainted with the Garde, or other similar clocks, but many will be just as clueless as Dommaraju Gukesh.",
@@ -434,7 +474,7 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; &frac12; Nepomniachtchi &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; Nepomniachtchi &frac12; 1 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -1506,14 +1546,6 @@ news_feed (
          "title" : "Women's Grand Prix New Delhi: Round 2 Recap"
       },
       {
-         "description" : "The FIDE Candidates and Women&#39;s Candidates 2024 will be held concurrently in Toronto, Canada, the International Chess Federation announced on Monday. Taking place on April 3-25, it will be the first time that the two tournaments will occur with th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-candidates-tournaments-to-be-held-in-toronto",
-         "pubDate" : "Mon, 27 Mar 2023 10:31:00 -0700",
-         "title" : "FIDE Candidates, Women's Candidates 2024 To Be Held In Toronto"
-      },
-      {
          "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A> (January 2023), I ended the post saying, <BLOCKQUOTE> I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P> A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P> In that same post, I note",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1656,14 +1688,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2296",
          "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
-      },
-      {
-         "description" : "Hikaru Nakamura was close to winning then briefly lost against Wesley So after what he described as a \"very, very, very, very strange game\". The first classical game in the Women's American Cup final was just as combative, but Alice Lee's aggressive opening ultimately backfired as Irina Krush took the lead and now needs only a draw to retain her title.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/nakamura-survives-american-cup-thriller-against-so",
-         "pubDate" : "Sat, 25 Mar 2023 12:24:12 +0000",
-         "title" : "Nakamura survives American Cup thriller against So"
       },
       {
          "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
@@ -1920,30 +1944,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/tcec-s24-divp-ccc20-final-both-underway.html",
          "pubDate" : "Mon, 20 Mar 2023 16:46:00 +0000",
          "title" : "TCEC S24 DivP, CCC20 Blitz Final : Both Underway"
-      },
-      {
-         "description" : " In a collection of games, often the 1st game sets the tone. If it is a collection of a players best games, the choice of the first game normally shows some kind of breakthrough, or indication that a new chess talent is born. In P.H. Clarkes book on Petrosian \"Best Games of Chess 1946-1963\", the first game fits this bill, although it is somewhat atypical of how Petrosian would play in later years. A quick tactical win, after his opponent created too many weaknesses on the queen side. <br /> <b>Petrosian,Tigran V - Kotkov,Yuri M [D30]</b><br /> URS-ch U18 Leningrad, 1946 <script> new PgnViewer( { boardName: \"game1388\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nbd2 c5 5.e",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/game-1.html",
-         "pubDate" : "Mon, 20 Mar 2023 12:59:00 +0000",
-         "title" : "Game 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2291",
-         "pubDate" : "Mon, 20 Mar 2023 12:08:07 +0000",
-         "title" : "The home of chess welcomes the Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2290",
-         "pubDate" : "Mon, 20 Mar 2023 11:38:48 +0000",
-         "title" : "FIDE Grand Swiss and Women's Grand Swiss offer record prize fund"
       }
    ]
 }
