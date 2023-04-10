@@ -10,7 +10,15 @@ news_feed (
          "title" : "World Championship, Game 2 - Live!"
       },
       {
-         "description" : "ShareTweetShareEmailComments Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is []",
+         "description" : "The chess world was surprised by the early 4.h3 by Ding Liren in game 2 of the World Chess Championship. Some called it the &#8220;earliest World Chess Championship surprise&#8221; while others like Irina Krush in the official commentary were simply shocked. For those following the team of seconds of Ding Liren, the surprise was not []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/reactions-to-4-h3-by-ding-liren/",
+         "pubDate" : "Mon, 10 Apr 2023 09:33:21 +0000",
+         "title" : "Reactions to 4.h3 by Ding Liren"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
          "link" : "https://www.chessdom.com/ding-nepo-2023-game-2-live/",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
          "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
          "title" : "D Gukesh wins title at World Chess Armageddon event"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-chess-championship-2023-round-2-live-video-with-vishy-anand/",
+         "pubDate" : "Mon, 10 Apr 2023 05:48:00 +0000",
+         "title" : "World Chess Championship 2023 round 2 LIVE video with Vishy Anand"
       },
       {
          "description" : "The third leg of the Women's Grand Prix finished last Thursday in New Delhi. Aleksandra Goryachkina, Zhu Jiner and Bibsara Assaubayeva tied for first place. As ever, GM Karsten M&uuml;ller followed the action closely, looking for exceptional positions to share with us. Find here three thought-provoking endgames with instructive analyses. | Pictured: Kateryna Lagno taking a look at Aleksandra Goryachkina's position. | Photo: Ismael Nieto",
@@ -120,6 +136,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2329",
          "pubDate" : "Sun, 09 Apr 2023 15:56:34 +0000",
          "title" : "World Chess Championship match: The first game ends in a draw"
+      },
+      {
+         "description" : "Today is the first game of the <A HREF=\"https://www.mark-weeks.com/chess/c1c2$wix.htm\">2023 Nepomniachtchi - Ding Liren; Astana (Kazakhstan)</A>. This video is from the earlier press conference. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/4C9tL1XijM0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> <BR> <B>FIDE World Championship Match - Press Conference</B> (44:26) &#149; '[Published on] Apr 8, 2023' <P> There is almost no description for the video, so I'll have to fall back on the comments. A comment translated from the Russian langu",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/2023-nepo-ding-opening-press-conference.html",
+         "pubDate" : "Sun, 09 Apr 2023 15:44:00 +0000",
+         "title" : "2023 Nepo - Ding, Opening Press Conference"
       },
       {
          "description" : " One of my new pupils is a very bright but inexperienced 11 year old, who's been playing his father, a novice himself, at home for a couple of years, but now wants to take the game more seriously. Once I gave him some idea of what was really happening in a game of chess he <a href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Knight Against Rook's Pawn\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/knight-against-rooks-pawn-2/\">Knight Against Rook's Pawn</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -258,28 +282,12 @@ news_feed (
          "title" : "Mitropa Cup Women 2023"
       },
       {
-         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-cup-2023/",
-         "pubDate" : "Sat, 08 Apr 2023 18:34:08 +0000",
-         "title" : "Mitropa Cup 2023"
-      },
-      {
          "description" : "The what? \"Flag\"? What is that and how does it work? We recorded a confrontation between an absolute super-talent (17 years old and number 18 in world rankings) and a mechanical chess clock of yesteryear. Many of our readers will be well acquainted with the Garde, or other similar clocks, but many will be just as clueless as Dommaraju Gukesh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/introducing-the-garde-chess-clock",
          "pubDate" : "Sat, 08 Apr 2023 15:00:00 +0100",
          "title" : "Introducing: the Garde chess clock!"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo Ding is the final of the World Chess Championship 2023. The Nepo Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-1-live/",
-         "pubDate" : "Sat, 08 Apr 2023 13:59:00 +0000",
-         "title" : "Nepo - Ding 2023 , game 1 LIVE"
       },
       {
          "description" : "",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2290",
          "pubDate" : "Mon, 20 Mar 2023 11:38:48 +0000",
          "title" : "FIDE Grand Swiss and Women's Grand Swiss offer record prize fund"
-      },
-      {
-         "description" : "Congratulations to Bingley &#38; Keighley, whose B team won the tournament with eight points, and their A team, who were runners-up on six points, with...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bdca-clough-cup/",
-         "pubDate" : "Mon, 20 Mar 2023 10:11:27 +0000",
-         "title" : "B&DCA Clough Cup"
       }
    ]
 }
