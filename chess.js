@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third leg of the Women's Grand Prix finished last Thursday in New Delhi. Aleksandra Goryachkina, Zhu Jiner and Bibsara Assaubayeva tied for first place. As ever, GM Karsten M&uuml;ller followed the action closely, looking for exceptional positions to share with us. Find here three thought-provoking endgames with instructive analyses. | Pictured: Kateryna Lagno taking a look at Aleksandra Goryachkina's position. | Photo: Ismael Nieto",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-endgames",
+         "pubDate" : "Mon, 10 Apr 2023 05:25:00 +0100",
+         "title" : "Endgames from New Delhi"
+      },
+      {
+         "description" : "While GMs Ian Nepomniachtchi and Ding Liren were in their final preparations for the battle of the crown, soon-to-be former World Champion Magnus Carlsen and his club Offerspill invited some of the hopes of the next generation to a training camp i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-on-trysil",
+         "pubDate" : "Sun, 09 Apr 2023 20:21:00 -0700",
+         "title" : "Carlsen Coaching Young Talents As World Championship Begins"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Gleb Dudin in the fourth round of the 2023 Spring Chess Classic. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-victor-mikhalevski-defeats-dudin-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GHQwnOuqwYo.jpg?itok=_iavJ1s1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/interview-victor-mikhalevski-defeats-dudin-round-4",
+         "pubDate" : "Mon, 10 Apr 2023 00:23:45 +0000",
+         "title" : "INTERVIEW: Victor Mikhalevski defeats Dudin | Round 4"
+      },
+      {
          "description" : " The 2023 O2C Doeberl Cup has reached its final stages, with GM Hrant Melkumyan holding a half point lead over GM Temur Kuybakarov. Melkumyan and Kuybakorov drew their round 7 game, before Melkumyan defeated IM Brodie McClymont in the days second game. Kuybakrov only drew with IM James Morris in round 8, to fall half a point behind Melkumyan. On 6 points are Morris, IM Rishi Sardana, FM Matthew Clarke, and IM Ari Dale. Melkumyan plays Dale, while Kuybokarov is up against Clarke, Rounding out the top pairings are Sardana against Morris on board 3, with GM Daniel Fernandez playing McClymont of board 4. In the Major (Under 2100), Khimaer Baneshi and Randheer Thogata are tied on 5/6, and play fo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Round 5 | lichess.org"
       },
       {
-         "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of high school student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each tournament. Sperber who directs and plays is inching toward the 2000 rating mark which is impressive when given his 1700 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of Rickards High School student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each event. Sperber, who directs and plays, is inching toward the 2000 rating mark which is impressive when given his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Fri, 07 Apr 2023 22:04:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-3-lichessorg",
-         "pubDate" : "Fri, 07 Apr 2023 21:21:45 +0000",
-         "title" : "2023 Spring Chess Classic: Round 3 | lichess.org"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; &frac12; Nepomniachtchi &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1122,14 +1138,6 @@ news_feed (
          "title" : "Armageddon Series: Kramnik, Gukesh and Dubov to play in Asian leg"
       },
       {
-         "description" : "Grandmaster (GM) Leon Mendonca is a rising star in the chess world and one of India's most promising young talents. Recently, he won the HIT Open 2023 in Slovenia, with an insane 9 out of 9 points. In this ChessBase article, Leon provides an in-depth analysis of three of his games from the tournament, offering insights into his decision-making process and the strategies he employed to secure victory. By sharing his experiences and expertise, Leon offers valuable lessons for chess players of all levels looking to improve their game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/9-out-of-9-leon-mendonca-shares-in-depth-analysis-part-1-4",
-         "pubDate" : "Sat, 01 Apr 2023 16:00:00 +0100",
-         "title" : "9 out of 9 - Leon Mendonca shares in-depth analysis - Part 3/3"
-      },
-      {
          "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1568,14 +1576,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2299",
          "pubDate" : "Mon, 27 Mar 2023 00:11:25 +0000",
          "title" : "Hikaru Nakamura and Irina Krush win American Cup"
-      },
-      {
-         "description" : "It took four rapid games before the victor was decided on the 10th and final day of The American Cup in St. Louis. In the fourth game of their third match of the event, GM Wesley So blundered to lose a miniature to GM Hikaru Nakamura, who then b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/the-american-cup-2023-day-10",
-         "pubDate" : "Sun, 26 Mar 2023 15:41:00 -0700",
-         "title" : "After Blunder By So In 4th Game, Nakamura Wins The American Cup"
       },
       {
          "description" : "",
