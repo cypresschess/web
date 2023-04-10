@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Mon, 10 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 2 - Live!"
+      },
+      {
+         "description" : "ShareTweetShareEmailComments Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-nepo-2023-game-2-live/",
+         "pubDate" : "Mon, 10 Apr 2023 08:44:03 +0000",
+         "title" : "Ding - Nepo 2023, game 2 LIVE"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" />Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-carlsens-shadow-chess-awaits-a-new-world-champion/articleshow/99339439.cms",
          "pubDate" : "Sat, 08 Apr 2023 10:32:32 +0000",
          "title" : "In Carlsen's shadow, chess awaits a new world champion"
-      },
-      {
-         "description" : "The The O2C Doeberl Cup 2023&#xA0;will take place from 06 &#x2013; 10 April 2023 in Canberra Southern Cross Club Woden, Australia. The tournament is separated in 6 differenct cattegories &#x2013; 2023 Premier Tournament (9 rounds), 2023 Major Tournament Tournament (7 Rounds), 2023 Minor Tournament (7 Rounds), 2023 Mini Tournament (7 Rounds), 023&#xA0;U1200s Tournament (6 Rounds) []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-o2c-doeberl-cup-2023-live/",
-         "pubDate" : "Sat, 08 Apr 2023 10:24:43 +0000",
-         "title" : "The O2C Doeberl Cup 2023 - LIVE"
       },
       {
          "description" : " During the last couple of weeks I've released two more Tiger Chess openings courses as Vimeo titles. Last week it was the White 1.d4 Repertoire course and this week a brought out my French Defence course. Here are the Youtube descriptions of these courses: What is different about my material? I think that the main <a href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Tiger Chess Openings Courses Now on Vimeo\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tiger-chess-openings-courses-now-on-vimeo/\">Tiger Chess Openings Courses Now on Vimeo</a> appeared first on <a rel=\"nofoll",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anish-giri-chesscom-ceo",
          "pubDate" : "Sat, 01 Apr 2023 09:00:00 -0700",
          "title" : "New King Rises: Anish Giri Appointed Chess.com CEO"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, will take place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan will play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-preview",
-         "pubDate" : "Sat, 01 Apr 2023 16:30:00 +0100",
-         "title" : "Armageddon Series: Kramnik, Gukesh and Dubov to play in Asian leg"
       },
       {
          "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
