@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" />Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
+         "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
+         "title" : "D Gukesh wins title at World Chess Armageddon event"
+      },
+      {
          "description" : "The third leg of the Women's Grand Prix finished last Thursday in New Delhi. Aleksandra Goryachkina, Zhu Jiner and Bibsara Assaubayeva tied for first place. As ever, GM Karsten M&uuml;ller followed the action closely, looking for exceptional positions to share with us. Find here three thought-provoking endgames with instructive analyses. | Pictured: Kateryna Lagno taking a look at Aleksandra Goryachkina's position. | Photo: Ismael Nieto",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -822,7 +830,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-super-plumber-bots",
-         "pubDate" : "Tue, 04 Apr 2023 07:01:25 -0700",
+         "pubDate" : "Tue, 04 Apr 2023 07:01:00 -0700",
          "title" : "Play Chess Against The Super Plumber Bots"
       },
       {
