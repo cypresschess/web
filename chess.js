@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1",
+         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
+         "title" : "Akshat Chandra Avoids Theory with an Extremely Rare Move | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Tatev Abrahamyan after defeating Jason Liang in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-game-was-insane-very-start-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sevian-game-was-insane-very-start-round-2",
+         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
+         "title" : "Sevian: This Game was Insane from the Very Start! | Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Tatev Abrahamyan after defeating Benjamin Gledura in the third round of the 2023 Spring Chess Classic. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-shows-his-piece-sacrifices-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3Q9B2zk9SQ.jpg?itok=jeTEAH_D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-shows-his-piece-sacrifices-round-3",
+         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
+         "title" : "Christopher Yoo Shows Off his Piece Sacrifices | Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Gleb Dudin in the fourth round of the 2023 Spring Chess Classic. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mikhalevski-im-not-sure-who-playing-win-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GHQwnOuqwYo.jpg?itok=_iavJ1s1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mikhalevski-im-not-sure-who-playing-win-round-4",
+         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
+         "title" : "Mikhalevski: I'm Not Sure Who is Playing for a Win! | Round 4"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -440,38 +472,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2023-preview",
          "pubDate" : "Sat, 08 Apr 2023 02:00:00 +0100",
          "title" : "All set for the World Championship match in Astana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Dambasuren Batsuren in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-victor-mikhalevski-defeats-dambasuren-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f4DT6Iul6kI.jpg?itok=pscwjRGj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/interview-victor-mikhalevski-defeats-dambasuren-round-2",
-         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
-         "title" : "INTERVIEW: Victor Mikhalevski Defeats Dambasuren | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Daniel Dardha talks to Tatev Abrahamyan after defeating Benjamin Bok in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-daniel-dardha-defeats-bok-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/interview-daniel-dardha-defeats-bok-round-1",
-         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
-         "title" : "INTERVIEW: Daniel Dardha Defeats Bok | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-akshat-chandra-defeats-daggupati-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/interview-akshat-chandra-defeats-daggupati-round-1",
-         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
-         "title" : "INTERVIEW: Akshat Chandra Defeats Daggupati | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Tatev Abrahamyan after defeating Jason Liang in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-sam-sevian-defeats-liang-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/interview-sam-sevian-defeats-liang-round-2",
-         "pubDate" : "Sat, 08 Apr 2023 00:21:54 +0000",
-         "title" : "INTERVIEW: Sam Sevian Defeats Liang | Round 2"
       },
       {
          "description" : "GM Hikaru Nakamura defeated GM Fabiano Caruana in the&#38;nbsp;Champions Chess Tour Chessable Masters 2023 Grand Final to win Division I on Friday. The &#34;half man, half zombie,&#34; as GM Robert Hess called Nakamura on the broadcast, came back from the dea...",
