@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-cup-2023-live/",
+         "pubDate" : "Tue, 11 Apr 2023 14:34:40 +0000",
+         "title" : "Mitropa Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/mitropa-cup-women-2023-live/",
+         "pubDate" : "Tue, 11 Apr 2023 14:33:59 +0000",
+         "title" : "Mitropa Cup Women 2023 - LIVE"
+      },
+      {
+         "description" : "Ding Liren unleashed 4.h3 in the game 2 of the World Chess Championship 2023. The world was in shock and awe, but ChessMood kept it cool and showed the right way to play a World Championship in 2023 For more cool suggestions, follow our #TweetOftheDay section",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/how-to-play-a-world-championship-in-2023-tweetoftheday/",
+         "pubDate" : "Tue, 11 Apr 2023 13:37:10 +0000",
+         "title" : "How to play a World Championship in 2023 #TweetOftheDay"
+      },
+      {
+         "description" : " At the Kenya Open, something unique happened when a man was caught impersonating a woman in the women's section. Registered as unrated Millicent Awuor, he was wearing a hijab (head &#38; shoulder covering) typical of a Muslim woman with a niqaab (face covering). After beating a former Kenyan champion (Gloria Jumba) and Uganda's top player The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/\">Kenyan Chess Player banned for impersonating woman</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/",
+         "pubDate" : "Tue, 11 Apr 2023 13:21:55 +0000",
+         "title" : "Kenyan Chess Player banned for impersonating woman"
+      },
+      {
+         "description" : "NM Bryan Tillis the only one to cover 4. h3?! unleashed by Ding Liren, in the whole Chessable library! His course on Opening Oddities. NM Tillis says, &#8220;I suggested 4c5 in the course as h3 in the Tarrasch Queen's Gambit isn't very useful. I just had a single variation, but it is the only []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nm-bryan-tillis-the-only-one-to-cover-4-h3-on-chessable/",
+         "pubDate" : "Tue, 11 Apr 2023 13:18:54 +0000",
+         "title" : "NM Bryan Tillis - the only one to cover 4. h3?! on Chessable"
+      },
+      {
+         "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/the-unicyclists-did-not-show-up.html",
+         "pubDate" : "Tue, 11 Apr 2023 13:14:00 +0000",
+         "title" : "The Unicyclists did not show up"
+      },
+      {
+         "description" : "Unleash The Power Of Your Pieces WithThe 2023 FIDE World Championship Contender World Class: Ding Liren by FM Adarsh Tripathi is an annotated game collection celebrating Ding Liren&#x2019;s sensational rise to the top &#x2014; while uncovering the secrets to winning piece play through his moves.Pawns determine the long-term strategy in chess. But you need []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-class-ding-liren-by-fm-adarsh-tripathi/",
+         "pubDate" : "Tue, 11 Apr 2023 13:06:56 +0000",
+         "title" : "World Class: Ding Liren - by FM Adarsh Tripathi"
+      },
+      {
          "description" : "Experts estimate that more books have been written about chess than about all other games combined. Chess addicts may own hundreds, but have an ambivalent relationship to them. On the one hand, one is proud to own the books. On the other, most cannot be read! Not by 95% of the people who buy them. ChessBase is currently in the process of launching a new \"Tutorial\" format. First volumes can be purchased in our Shop.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,36 +218,12 @@ news_feed (
          "title" : "OpenBench Interlude"
       },
       {
-         "description" : "Boris Chatalbashev won the 2023's edition of Danish Championship with 1 point advance of Jesper Sondergaard Thybo, while the bronze gone to Allan Stig Rasmussen. Replay:&#xA0;Nepo &#x2013; Ding game 1 live&#xA0;/&#xA0;Nepo &#x2013; Ding game 1 video coverage with Vishy AnandLive:&#xA0;Ding &#x2013; Nepo 2023, game 2 Full standings : Rk. Name Rtg &#x424;&#x415;&#x414; 1 2 3 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/boris-chatalbashev-won-danish-championship-2023/",
-         "pubDate" : "Mon, 10 Apr 2023 14:46:22 +0000",
-         "title" : "Boris Chatalbashev won Danish Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2330",
          "pubDate" : "Mon, 10 Apr 2023 14:36:53 +0000",
          "title" : "Nepomniachtchi defeats Ding in the second game of the World Championship match"
-      },
-      {
-         "description" : "The Caissa Hotel GM Tournament Akasya Group is held from April 8 to the 13th in Bal&#x131;kesir, Turkey. Time control is 90 minutes for 40 moves, followed by 15 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 12-player Round-robin tournament for teams with []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/caissa-hotel-gm-tournament-akasya-group-live/",
-         "pubDate" : "Mon, 10 Apr 2023 14:33:19 +0000",
-         "title" : "Caissa Hotel GM Tournament - Akasya Group - LIVE"
-      },
-      {
-         "description" : "Ian Nepomniachtchi is on the verge of entering the 2800 ELO club. After his victory in round 2 of the World Chess Championship Nepo's rating is 2799,8, just 0,2 points shy of the 2800 mark. So far only 15 players have been able to achieve this Magnus Carlsen, Garry Kasparov, Fabiano Caruana, Levon Aronian, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepomniachtchi-is-on-the-verge-of-entering-the-2800-club-reaches-his-highest-ever-elo/",
-         "pubDate" : "Mon, 10 Apr 2023 14:26:15 +0000",
-         "title" : "Nepomniachtchi is on the verge of entering the 2800 club, reaches his highest ever ELO"
       },
       {
          "description" : "A mysterious participant in the women&#39;s section of the Kenya Open Chess Championship in Nairobi, Kenya was exposed as a male impostor and removed from the tournament. The player, whose identity was not made public, admitted to the cheating and sai...",
@@ -224,22 +256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-takes-the-world-championship-lead-after-a-disaster-in-game-two-for-ding",
          "pubDate" : "Mon, 10 Apr 2023 14:41:00 +0400",
          "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
-      },
-      {
-         "description" : "The chess world was surprised by the early 4.h3 by Ding Liren in game 2 of the World Chess Championship. Some called it the &#8220;earliest World Chess Championship surprise&#8221; while others like Irina Krush in the official commentary were simply shocked. For those following the team of seconds of Ding Liren, the surprise was not []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/reactions-to-4-h3-by-ding-liren/",
-         "pubDate" : "Mon, 10 Apr 2023 09:33:21 +0000",
-         "title" : "Reactions to 4.h3 by Ding Liren"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-nepo-2023-game-2-live/",
-         "pubDate" : "Mon, 10 Apr 2023 08:44:03 +0000",
-         "title" : "Ding - Nepo 2023, game 2 LIVE"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" />Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
