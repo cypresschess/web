@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In endings with opposite-coloured bishops the defending side can often draw, sometimes even when the defender is one, two or three pawns down. However, these endgames are still tricky and the defender has to be careful. In the diagram position it is White to move and draw but in the acutal game White lost. Can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tricky-2",
+         "pubDate" : "Tue, 11 Apr 2023 09:00:00 +0100",
+         "title" : "Tricky"
+      },
+      {
+         "description" : "IM Jason Liang is the winner of the US Chess Grand Prix. Jason Liang finished ahead of GM Brandon Jacobson and IM John Bryant.&#xA0; The top ten finishers for the 2022 Grand Prix are: IM Jason Liang&#xA0;&#x2013; 222.68 GM Brandon Jacobson&#xA0;&#x2013; 177.20 IM John D Bryant&#xA0;&#x2013; 166.43 IM Semen Khanin&#xA0;&#x2013; 152.35 GM Fidel Corrales Jimenez []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/im-jason-liang-is-the-winner-of-the-us-chess-grand-prix/",
+         "pubDate" : "Tue, 11 Apr 2023 06:40:40 +0000",
+         "title" : "IM Jason Liang is the winner of the US Chess Grand Prix"
+      },
+      {
+         "description" : "Dommaraju Gukesh emerged victorious in the second event of the Armageddon Championship Series 2023, organized by World Chess. Gukesh's excellent performance secured him a spot in September's Grand Finale, along with Nodirbek Abdusattorov, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-wins-armageddon-series-asia",
+         "pubDate" : "Tue, 11 Apr 2023 06:10:00 +0100",
+         "title" : "Gukesh beats Abdusattorov, wins 'Armageddon Series: Asia & Oceania'"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://www.chessdom.com/finnish-womens-championship-2023-live/",
          "pubDate" : "Sat, 08 Apr 2023 19:58:42 +0000",
          "title" : "Finnish Women's Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Finnish Women's Chess Championship 2023 is a 5-round round robin tournament, held from the 7th to the 11th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. Chessdom.com will follow live games []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/finnish-womens-championship-2023/",
-         "pubDate" : "Sat, 08 Apr 2023 19:55:21 +0000",
-         "title" : "Finnish Women's Championship 2023"
       },
       {
          "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
@@ -1178,28 +1194,12 @@ news_feed (
          "title" : "Breaking news: \"Chess 2\" set to launch"
       },
       {
-         "description" : "In a unique and exciting matchup, Grandmasters Iniyan and Praggnanandhaa recently played a blitz game in our ChessBase studio, using an old mechanical Garde chess clock. This was the first time that the two players had used such a clock, adding an element of unpredictability and challenge to the game. As they faced off in stormy Hamburg, the sound of thunder could be heard rolling in the background, adding to the intensity of the match. The game showcased the players' skill and adaptability in the face of unfamiliar circumstances, and provided a thrilling spectacle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pragg-vs-iniyan-epic-blitz-battle-using-the-old-mechanical-garde-chess-clock",
-         "pubDate" : "Sat, 01 Apr 2023 21:00:00 +0100",
-         "title" : "Pragg vs. Iniyan - Epic blitz battle using the old mechanical Garde chess clock!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2315",
          "pubDate" : "Sat, 01 Apr 2023 19:22:02 +0000",
          "title" : "WGP New Dehli: Round 7 Recap"
-      },
-      {
-         "description" : "There was only one change in the top ten places in the world rankings in March: Hikaru Nakamura climbed to fifth place after his success in the American Cup. Nakamura now has a 7-point lead over Anish Giri in sixth place. Vincent Keymer has risen from 2699 points to 2700 thanks to two games played in the German Bundesliga and now occupies the 38th place in the world ranking.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-april-2023",
-         "pubDate" : "Sat, 01 Apr 2023 19:00:00 +0100",
-         "title" : "FIDE ratings April 2023"
       },
       {
          "description" : "Edited April 3, 2023: Happy April Fool&#38;rsquo;s Day, everyone. Stay safe! Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster,...",
