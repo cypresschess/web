@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Vezerkepzo Easter GM 2023 will take place from 13-21 April 2023 in Budapest Hungary. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 10-player Round-robin tournament for teams with participation of&#xA0;Sahaj Grover, Kaido []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-easter-gm-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 23:22:50 +0000",
+         "title" : "Vezerkepzo Easter GM 2023"
+      },
+      {
+         "description" : "The 46th Thailand National Chess Championship 2023 Open will take place from 12-16 April 2023 in Central Chaengwattana, Bangkok, Thailand. The time control is 90 minutes plus a 30 seconds increment starting from move one. More than 50 players will participate in 46th edition of Thailand National Chess Championship 2023 Open, which will be played []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/46th-thailand-national-chess-championship-2023-open/",
+         "pubDate" : "Tue, 11 Apr 2023 23:10:31 +0000",
+         "title" : "46th Thailand National Chess Championship 2023 Open"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/",
+         "pubDate" : "Tue, 11 Apr 2023 22:43:17 +0000",
+         "title" : "2023 World Chess Championship: Game 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-8",
+         "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
+         "title" : "2023 Spring Chess Classic: Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-7-lichessorg",
+         "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
+         "title" : "2023 Spring Chess Classic: Round 7 | lichess.org"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-3-live/",
+         "pubDate" : "Tue, 11 Apr 2023 21:18:59 +0000",
+         "title" : "Nepo - Ding 2023, game 3 LIVE"
+      },
+      {
          "description" : "The World Chess Championship 2023 match between Nepo and Ding is subject to serious criticism from the chess fans. They would like to see the two challengers more often at the chess board, but instead the audience is left with two chairs and a chess board. (see here how the chairs were chosen) The truth []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -82,14 +130,6 @@ news_feed (
          "title" : "The Unicyclists did not show up"
       },
       {
-         "description" : "Unleash The Power Of Your Pieces WithThe 2023 FIDE World Championship Contender World Class: Ding Liren by FM Adarsh Tripathi is an annotated game collection celebrating Ding Liren&#x2019;s sensational rise to the top &#x2014; while uncovering the secrets to winning piece play through his moves.Pawns determine the long-term strategy in chess. But you need []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-class-ding-liren-by-fm-adarsh-tripathi/",
-         "pubDate" : "Tue, 11 Apr 2023 13:06:56 +0000",
-         "title" : "World Class: Ding Liren - by FM Adarsh Tripathi"
-      },
-      {
          "description" : "Experts estimate that more books have been written about chess than about all other games combined. Chess addicts may own hundreds, but have an ambivalent relationship to them. On the one hand, one is proud to own the books. On the other, most cannot be read! Not by 95% of the people who buy them. ChessBase is currently in the process of launching a new \"Tutorial\" format. First volumes can be purchased in our Shop.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,22 +144,6 @@ news_feed (
          "link" : "https://chessimprover.com/the-wrong-corner/",
          "pubDate" : "Tue, 11 Apr 2023 10:10:45 +0000",
          "title" : "The Wrong Corner"
-      },
-      {
-         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are Gukesh and Hans Niemann. Additionally, we will see GM Jorden Van Forrest, GM Maksim Chigaev, GM Max Varmerdam, GM Vitaliy Bernadskiy, GM Thai Dai Van []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ii-open-internacional-chess-menorca-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 09:47:00 +0000",
-         "title" : "Hans Niemann and Gukesh are top seeded at Menorca Chess 2023"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/will-ding-liren-make-a-comeback-by-gm-david-navara/",
-         "pubDate" : "Tue, 11 Apr 2023 09:46:18 +0000",
-         "title" : "Will Ding Liren make a comeback? - by GM David Navara"
       },
       {
          "description" : "ECU E-Magazine March 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Individual Chess Championship 2023 European Women's Chess Championship 2023 European Youth Team Chess Championship 2023 Official invitation European Open and Women's Chess Club Cup 2023 Official invitation Mitropa Cup 2023 in Mali&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2023/\">Read More &#187;</a></span>",
@@ -314,14 +338,6 @@ news_feed (
          "title" : "2023 Spring Chess Classic: Round 6"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.09<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-5-lichessorg",
-         "pubDate" : "Sun, 09 Apr 2023 21:23:38 +0000",
-         "title" : "2023 Spring Chess Classic: Round 5 | lichess.org"
-      },
-      {
          "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of Rickards High School student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each event. Sperber, who directs and plays, is inching toward the 2000 rating mark which is impressive when given his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 08 Apr 2023 22:22:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-4-lichessorg",
-         "pubDate" : "Sat, 08 Apr 2023 21:23:02 +0000",
-         "title" : "2023 Spring Chess Classic: Round 4 | lichess.org"
       },
       {
          "description" : "Daniil Dubov will be among the commentators of the World Championship match in Astana, along with Irina Krush and Vishy Anand. In an unmissable 30-minute interview, the outspoken grandmaster shares his thoughts on a number of topics: the favourite to win the match, why the classical time control has lost popularity, his dislike of online chess, and why Magnus Carlsen's absence in the World Championship cycle might make it more appealing for other players. | Photo: Niki Riga",
