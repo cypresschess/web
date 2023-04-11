@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Experts estimate that more books have been written about chess than about all other games combined. Chess addicts may own hundreds, but have an ambivalent relationship to them. On the one hand, one is proud to own the books. On the other, most cannot be read! Not by 95% of the people who buy them. ChessBase is currently in the process of launching a new \"Tutorial\" format. First volumes can be purchased in our Shop.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/brand-new-chessbase-tutorials",
+         "pubDate" : "Tue, 11 Apr 2023 12:53:52 +0100",
+         "title" : "Brand new: ChessBase Tutorials"
+      },
+      {
+         "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Anyone can start learning chess. There is an ocean of information available online, as well as countless books. The main challenge each one of us encounters is how to learn. I remember being afraid to reach a <a href=\"https://chessimprover.com/the-wrong-corner/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner/\">The Wrong Corner</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-wrong-corner/",
+         "pubDate" : "Tue, 11 Apr 2023 10:10:45 +0000",
+         "title" : "The Wrong Corner"
+      },
+      {
+         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are Gukesh and Hans Niemann. Additionally, we will see GM Jorden Van Forrest, GM Maksim Chigaev, GM Max Varmerdam, GM Vitaliy Bernadskiy, GM Thai Dai Van []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ii-open-internacional-chess-menorca-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 09:47:00 +0000",
+         "title" : "Hans Niemann and Gukesh are top seeded at Menorca Chess 2023"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/will-ding-liren-make-a-comeback-by-gm-david-navara/",
+         "pubDate" : "Tue, 11 Apr 2023 09:46:18 +0000",
+         "title" : "Will Ding Liren make a comeback? - by GM David Navara"
+      },
+      {
+         "description" : "The GothamChess 1.e4 Repertoire combines principled opening play with offbeat execution to launch hard-hitting attacks &#x2014; many of which score up to 70% before move 15. It took inspiration from &#x201C;under the radar&#x201D; lines super-grandmasters play &#x2014; then fused them into a complete and aggressive repertoire against 1&#x2026;e5, the Sicilian, French Defense, Caro-Kann, and more. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1-e4-by-gotham-chess-free-course/",
+         "pubDate" : "Tue, 11 Apr 2023 09:09:13 +0000",
+         "title" : "1. e4 by Gotham Chess + FREE course"
+      },
+      {
+         "description" : "ECU E-Magazine March 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Individual Chess Championship 2023 European Women's Chess Championship 2023 European Youth Team Chess Championship 2023 Official invitation European Open and Women's Chess Club Cup 2023 Official invitation Mitropa Cup 2023 in Mali&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2023/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-march-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 08:38:14 +0000",
+         "title" : "ECU E-Magazine March 2023"
+      },
+      {
          "description" : "In endings with opposite-coloured bishops the defending side can often draw, sometimes even when the defender is one, two or three pawns down. However, these endgames are still tricky and the defender has to be careful. In the diagram position it is White to move and draw but in the acutal game White lost. Can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +66,20 @@ news_feed (
          "title" : "IM Jason Liang is the winner of the US Chess Grand Prix"
       },
       {
-         "description" : "Dommaraju Gukesh emerged victorious in the second event of the Armageddon Championship Series 2023, organized by World Chess. Gukesh's excellent performance secured him a spot in September's Grand Finale, along with Nodirbek Abdusattorov, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
+         "description" : "16-year-old Dommaraju Gukesh emerged victorious in the second event of the Armageddon Championship Series 2023, organized by World Chess. Gukesh's excellent performance secured him a spot in September's Grand Finale, along with Nodirbek Abdusattorov, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gukesh-wins-armageddon-series-asia",
          "pubDate" : "Tue, 11 Apr 2023 06:10:00 +0100",
          "title" : "Gukesh beats Abdusattorov, wins 'Armageddon Series: Asia & Oceania'"
+      },
+      {
+         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#160;The total prize fund of 2023&#x2019;s edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/menorca-open-2023-live/",
+         "pubDate" : "Tue, 11 Apr 2023 04:41:00 +0000",
+         "title" : "Menorca Open 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
@@ -96,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2023-g2",
          "pubDate" : "Mon, 10 Apr 2023 18:30:00 +0100",
          "title" : "World Championship Game 2: Nepo scores, despite Ding's opening surprise"
+      },
+      {
+         "description" : "In last week's TCEC/CCC post, <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html\">TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final</A> (April 2023), I ended saying, <BLOCKQUOTE> In previous posts, I've mentioned OpenBench several times in passing. It's high time I devoted an off-week post to the concept. Maybe next week... </BLOCKQUOTE> <P> This being next week and if not today, maybe never, let's first look at those passing references:- <UL> <LI> 2022-09-05: <A HREF=\"https://chessforallages.blogspot.com/2022/09/chess324-is-thing.html\">Chess324 Is a Thing</A> &#149; 'OpenBench was featured in an August CCC event called, 'OpenBench Inter",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/openbench-interlude.html",
+         "pubDate" : "Mon, 10 Apr 2023 15:20:00 +0000",
+         "title" : "OpenBench Interlude"
       },
       {
          "description" : "Boris Chatalbashev won the 2023's edition of Danish Championship with 1 point advance of Jesper Sondergaard Thybo, while the bronze gone to Allan Stig Rasmussen. Replay:&#xA0;Nepo &#x2013; Ding game 1 live&#xA0;/&#xA0;Nepo &#x2013; Ding game 1 video coverage with Vishy AnandLive:&#xA0;Ding &#x2013; Nepo 2023, game 2 Full standings : Rk. Name Rtg &#x424;&#x415;&#x414; 1 2 3 []",
@@ -184,14 +248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
          "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
          "title" : "D Gukesh wins title at World Chess Armageddon event"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-chess-championship-2023-round-2-live-video-with-vishy-anand/",
-         "pubDate" : "Mon, 10 Apr 2023 05:48:00 +0000",
-         "title" : "World Chess Championship 2023 round 2 LIVE video with Vishy Anand"
       },
       {
          "description" : "The third leg of the Women's Grand Prix finished last Thursday in New Delhi. Aleksandra Goryachkina, Zhu Jiner and Bibsara Assaubayeva tied for first place. As ever, GM Karsten M&uuml;ller followed the action closely, looking for exceptional positions to share with us. Find here three thought-provoking endgames with instructive analyses. | Pictured: Kateryna Lagno taking a look at Aleksandra Goryachkina's position. | Photo: Ismael Nieto",
@@ -368,30 +424,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dubov-interview-world-championship-2023",
          "pubDate" : "Sat, 08 Apr 2023 22:00:00 +0100",
          "title" : "Dubov on the World Championship match, the future of the classical cycle, and online chess"
-      },
-      {
-         "description" : "The Paraguay Campeonato Nacional Amateur 2023 SUB 1700is taking place from 05-08 April 2023 in Club Deportivo de Puerto Sajonia, Paraguay. Time control is 60 minutes with a 30-second increment starting from move 1 and the tournament format is 7-round Swiss system. You can follow game 1 of Nepo &#x2013; Ding , starting April 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paraguay-campeonato-nacional-amateur-2023-sub-1700/",
-         "pubDate" : "Sat, 08 Apr 2023 20:10:49 +0000",
-         "title" : "Paraguay Campeonato Nacional Amateur 2023 SUB 1700"
-      },
-      {
-         "description" : "The Paraguay Campeonato Nacional Amateur 2023 SUB 2000 &#38; 2300 is taking place from 05-08 April 2023 in Club Deportivo de Puerto Sajonia, Paraguay. Time control is 60 minutes with a 30-second increment starting from move 1 and the tournament format is 7-round Swiss system. You can follow game 1 of Nepo &#x2013; Ding , []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/paraguay-campeonato-nacional-amateur-2023-sub-2000-2300/",
-         "pubDate" : "Sat, 08 Apr 2023 20:06:44 +0000",
-         "title" : "Paraguay Campeonato Nacional Amateur 2023 SUB 2000 & 2300"
-      },
-      {
-         "description" : "The Finnish Women's Chess Championship 2023 is a 5-round round robin tournament, held from the 7th to the 11th of April in Helsinki, Finland. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment starting from move 1. You can also follow The []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/finnish-womens-championship-2023-live/",
-         "pubDate" : "Sat, 08 Apr 2023 19:58:42 +0000",
-         "title" : "Finnish Women's Championship 2023 - LIVE"
       },
       {
          "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
@@ -1186,14 +1218,6 @@ news_feed (
          "title" : "Autism Awareness Day: FIDE Infinite Chess project outlook"
       },
       {
-         "description" : "Chess is set to move forward to a fresh new experience. At the New Delhi Women's Grand Prix FIDE's secretive Game Division has finally announced a sequel, Chess 2, built on brand-new mechanics, with new pieces and abilities. The intention is to bring an all-new chess angle to the competitive E-Sports scene and provide fans with a game that builds on ideas that make it more active and dynamic. More information can be found in this ChessBase India article below.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-2-beta-set-to-launch",
-         "pubDate" : "Sat, 01 Apr 2023 21:15:00 +0100",
-         "title" : "Breaking news: \"Chess 2\" set to launch"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1928,22 +1952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-membership-statistics/",
          "pubDate" : "Tue, 21 Mar 2023 16:37:07 +0000",
          "title" : "ECF Membership Statistics"
-      },
-      {
-         "description" : "The 9th edition of the London Chess Conference took place from 17-19 March 2023. The theme of the 2023 London Chess Conference was Chess and STEM - exploring the ways in which chess relates to Science, Technology, Engineering and Mathematics. The participants and speakers represented 32 countries with the opportunity to form partnerships and collaborations with each other&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/london-chess-conference-2023-concluded/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/london-chess-conference-2023-concluded/",
-         "pubDate" : "Tue, 21 Mar 2023 10:45:09 +0000",
-         "title" : "London Chess Conference 2023 concluded"
-      },
-      {
-         "description" : " IM Kostya Kavutskiy This week's online puzzle that caught my attention was a Kings and pawns endgame. It brought back memories of so many students that struggled to play them decently. Could it be because they seem simple? After all the pawns just move forward and the Kings must support/ stop them. They are indeed <a href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"&#8220;Tactics are temporary, endgames are permanent&#8221; (5)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/\">&#8220;Tactics are temporary, endgames are per",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/tactics-are-temporary-endgames-are-permanent-5/",
-         "pubDate" : "Tue, 21 Mar 2023 09:25:14 +0000",
-         "title" : "\"Tactics are temporary, endgames are permanent\" (5)"
       }
    ]
 }
