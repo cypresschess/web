@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Championship 2023 match between Nepo and Ding is subject to serious criticism from the chess fans. They would like to see the two challengers more often at the chess board, but instead the audience is left with two chairs and a chess board. (see here how the chairs were chosen) The truth []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-story-behind-ding-lirens-white-hoodie-tweetoftheday/",
+         "pubDate" : "Tue, 11 Apr 2023 18:40:21 +0000",
+         "title" : "The story behind Ding Liren's white hoodie #TweetOftheDay"
+      },
+      {
+         "description" : "Pablo Luis Aguado Doncel will face Hans Moke Niemann who is the second best rated player on Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pablo-luis-aguado-doncel-hans-moke-niemann-live-menorca-open-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 18:16:31 +0000",
+         "title" : "Pablo Luis Aguado Doncel - Hans Moke Niemann LIVE Menorca Open 2023"
+      },
+      {
+         "description" : "D Gukesh who is the top rated players in Menorca Open 2023 is playing against Stephen R Mannion in first round . The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/d-gukesh-stephen-r-mannion-live-menorca-open-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 17:59:57 +0000",
+         "title" : "D Gukesh - Stephen R Mannion LIVE Menorca Open 2023"
+      },
+      {
+         "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spring-chess-classic-2023-r6",
+         "pubDate" : "Tue, 11 Apr 2023 17:25:00 +0100",
+         "title" : "Swiercz, Bok and Yoo share the lead at Spring Chess Classic"
+      },
+      {
          "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -90,14 +122,6 @@ news_feed (
          "title" : "Will Ding Liren make a comeback? - by GM David Navara"
       },
       {
-         "description" : "The GothamChess 1.e4 Repertoire combines principled opening play with offbeat execution to launch hard-hitting attacks &#x2014; many of which score up to 70% before move 15. It took inspiration from &#x201C;under the radar&#x201D; lines super-grandmasters play &#x2014; then fused them into a complete and aggressive repertoire against 1&#x2026;e5, the Sicilian, French Defense, Caro-Kann, and more. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/1-e4-by-gotham-chess-free-course/",
-         "pubDate" : "Tue, 11 Apr 2023 09:09:13 +0000",
-         "title" : "1. e4 by Gotham Chess + FREE course"
-      },
-      {
          "description" : "ECU E-Magazine March 2023 is out! In this edition of the ECU E-Magazine you may read about: FIDE World Chess Championship Match 2023 European Individual Chess Championship 2023 European Women's Chess Championship 2023 European Youth Team Chess Championship 2023 Official invitation European Open and Women's Chess Club Cup 2023 Official invitation Mitropa Cup 2023 in Mali&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-e-magazine-march-2023/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -114,28 +138,12 @@ news_feed (
          "title" : "Tricky"
       },
       {
-         "description" : "IM Jason Liang is the winner of the US Chess Grand Prix. Jason Liang finished ahead of GM Brandon Jacobson and IM John Bryant.&#xA0; The top ten finishers for the 2022 Grand Prix are: IM Jason Liang&#xA0;&#x2013; 222.68 GM Brandon Jacobson&#xA0;&#x2013; 177.20 IM John D Bryant&#xA0;&#x2013; 166.43 IM Semen Khanin&#xA0;&#x2013; 152.35 GM Fidel Corrales Jimenez []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/im-jason-liang-is-the-winner-of-the-us-chess-grand-prix/",
-         "pubDate" : "Tue, 11 Apr 2023 06:40:40 +0000",
-         "title" : "IM Jason Liang is the winner of the US Chess Grand Prix"
-      },
-      {
          "description" : "16-year-old Dommaraju Gukesh emerged victorious in the second event of the Armageddon Championship Series 2023, organized by World Chess. Gukesh's excellent performance secured him a spot in September's Grand Finale, along with Nodirbek Abdusattorov, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gukesh-wins-armageddon-series-asia",
          "pubDate" : "Tue, 11 Apr 2023 06:10:00 +0100",
          "title" : "Gukesh beats Abdusattorov, wins 'Armageddon Series: Asia & Oceania'"
-      },
-      {
-         "description" : "The II Open Internacional Chess Menorca will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. The time control is 90 minutes plus a 30-second increment starting from move one.&#160;The total prize fund of 2023&#x2019;s edition of the tournament is 16 000 EUR with 3000 EUR plus trophy for the winner. More than 190 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/menorca-open-2023-live/",
-         "pubDate" : "Tue, 11 Apr 2023 04:41:00 +0000",
-         "title" : "Menorca Open 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
@@ -1186,14 +1194,6 @@ news_feed (
          "title" : "Understanding before Moving 119: Chess history in a nutshell (1)"
       },
       {
-         "description" : "The United Nations recognizes April 2 as the Autism Awareness Day. The Infinite Chess Project, which aims to help children with autism spectrum disorder (ASD) by teaching them chess, started in 2019 as a small pilot project. In three years, it has gained momentum and expanded to ten countries: Albania, France, Gibraltar, Latvia, Malaysia, Mongolia, Morocco, South Africa, Spain, and Turkey.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/autism-awareness-day-infinite-chess-project",
-         "pubDate" : "Sun, 02 Apr 2023 14:30:00 +0100",
-         "title" : "Autism Awareness Day: Infinite Chess project outlook"
-      },
-      {
          "description" : " The Reykjavik Open is one of the bigger chess events held around the world. It is organised as one big swiss, and with 400 players entered, accelerating the pairings for the 9 round event makes some sense. This also means that the 1st round games are a little more interesting than non accelerated events. Board 2 saw just such a game in round 1 where GM Nils Grandellius launched a brutal sacrificial attack against IM Peter Large. If you are taking notes at home, the sacrifice on h6 was based on having 3 attackers versus 1 defender on the kingside. <br /> <b>Grandelius,Nils (2658) - Large,Peter G (2227) [E16]</b><br /> Reykjavik Open 2023 Reykjavik (1.2), 29.03.2023 <script> new PgnViewer( { ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1960,14 +1960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc-2023-tender-letters/",
          "pubDate" : "Wed, 22 Mar 2023 11:51:51 +0000",
          "title" : "BCC 2023 tenders"
-      },
-      {
-         "description" : "Click this link for a PDF of the Membership Analysis March 2023 for the English Chess Federation.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-membership-statistics/",
-         "pubDate" : "Tue, 21 Mar 2023 16:37:07 +0000",
-         "title" : "ECF Membership Statistics"
       }
    ]
 }
