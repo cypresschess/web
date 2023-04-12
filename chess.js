@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Wed, 12 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 3 - Live!"
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g3",
+         "pubDate" : "Wed, 12 Apr 2023 16:25:00 +0100",
+         "title" : "World Championship Game 3: Ding comfortably draws with black"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2333",
+         "pubDate" : "Wed, 12 Apr 2023 14:52:14 +0000",
+         "title" : "FIDE World Championship: Ding secures an important draw in game three"
+      },
+      {
+         "description" : "Ding Liren shrugged off Ian Nepomniachtchi's 1.d4 surprise to make a draw from a position of strength with the black pieces in Game 3 of the FIDE World Championship match in Astana. He mentioned afterwards that he was beginning to feel more comfortable on stage after receiving support from his friends.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-back-in-business-with-easy-world-championship-game-3-draw",
+         "pubDate" : "Wed, 12 Apr 2023 13:13:11 +0000",
+         "title" : "Ding back in business with easy World Championship draw"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the European Individual Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-3",
+         "pubDate" : "Wed, 12 Apr 2023 13:59:16 +0100",
+         "title" : "Endgame Magic #235: Highlights form the European Individual Championship - with Iniyan!"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi shook up the third round of the 2023 FIDE World Championship by beginning his game against GM Ding Liren with a new first move, setting the stage for a fresh opening battle with 1.d4. Ding chose the Queen&#39;s Gambit Declined in...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-3",
+         "pubDate" : "Wed, 12 Apr 2023 05:09:00 -0700",
+         "title" : "Ding Holds Nepomniachtchi To Draw In Game 3"
+      },
+      {
+         "description" : " If Chess improvement was easy, everyone would be a Grandmaster. What makes improvement difficult is that you usually only see results after a painful period. I recently realized this with my health when my therapist told me: \"To get to the Next Level, you will need to increase your effort in Gym, then suffer for [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/effort-pain-improvement-cycle/\">The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/effort-pain-improvement-cycle/",
+         "pubDate" : "Wed, 12 Apr 2023 12:00:00 +0000",
+         "title" : "The Effort-Pain-Improvement Cycle in Chess: Why It's Worth It"
+      },
+      {
+         "description" : " The third game of the FIDE World Championship match between Ian Nepomniachtchi and Ding Liren in Astana, Kazakhstan finished in a draw by repetition in just 30 moves. Nepomniachtchi with whtie switched from the 1.e4 of game one to 1.d4 and said he wasn't surprised by the solid Queen's Gambit, that said he didn't seem to have any improvement in mind over the game Anish Giri against Ding from the online Chessable Masters in 2022. Giri got nowhere in that game and Nepomniachtchi got nothing today and when the players repeated the position was dynamically balanced. After worryingly nervy behaviour in the first two games Ding Liren looked much more like his old self today. Friend's had rallied r",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
+         "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
+         "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
       },
       {
          "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
@@ -578,7 +626,7 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; Nepomniachtchi &frac12; 1 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 Nepomniachtchi &frac12; 1 &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -1154,14 +1202,6 @@ news_feed (
          "title" : "FIDE April 2023 rating list published"
       },
       {
-         "description" : "With the World Championship match between Ian Nepomniachtchi and Ding Liren just a week away, Jon Speelman shares how such an important contest looks like from the inside. He worked twice as a second in World Championship matches, both times assisting a player who was facing the legendary Garry Kasparov. Here he goes into detail about his collaboration with Vishy Anand in 1995 - that memorable match atop the World Trade Center in New York. | Photo: Owen Williams, The Kasparov Agency",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-191",
-         "pubDate" : "Sun, 02 Apr 2023 19:00:00 +0100",
-         "title" : "The anatomy of matchplay"
-      },
-      {
          "description" : "Hikaru Nakamura described a 40-game match against Magnus Carlsen as \"one of the biggest mistakes\" of his career, but the triple world champion doesn't believe his explanation.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1562,14 +1602,6 @@ news_feed (
          "title" : "FIDE Women's Candidates Final 2022-2023 kicks off in Chongqing"
       },
       {
-         "description" : "GM Jose Martinez was crowned as the winner and won $1,000 in the March edition of Chess.com&#39;s newest titled arena, Bullet Brawl, after winning 59 of his 74 games during the two-hour event. Ukraine&#39;s GM Oleksandr Bortnyk and Armenian IM Emin Ohanya...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jose-martinez-2023-bullet-brawl-march",
-         "pubDate" : "Tue, 28 Mar 2023 11:07:00 -0700",
-         "title" : "Martinez Scorches 59 Opponents In 2 Hours"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1720,14 +1752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-1.html",
          "pubDate" : "Sat, 25 Mar 2023 22:02:00 +0000",
          "title" : "2023 Dubbo Open - Day 1"
-      },
-      {
-         "description" : "FIDE President Arkady Dvorkovich has issued an apology after the start of the New Delhi FIDE Women's Grand Prix was postponed when Zhansaya Abdumalik withdrew in protest at the conditions for the players. Earlier Ukrainian sisters Anna and Mariya Muzychuk had also withdrawn, but were replaced by Nino Batsiashvili and Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/abdumalik-pulls-out-of-new-delhi-grand-prix-in-protest",
-         "pubDate" : "Sat, 25 Mar 2023 19:35:19 +0000",
-         "title" : "Abdumalik pulls out of New Delhi Grand Prix as FIDE apologise"
       },
       {
          "description" : "",
@@ -1920,30 +1944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2293",
          "pubDate" : "Wed, 22 Mar 2023 16:37:25 +0000",
          "title" : "FIDE and Tech Mahindra Announce Dates for First & Biggest Global Chess League"
-      },
-      {
-         "description" : " I'm currently in Nova Gorica in Slovenia and had the privilege of playing against Alexander Beliavsky with Black. This was always going to be a tough assignment, especially when I chose to play an opening in which he is an acknowledged expert, the Queen's Gambit Declined. Although I haven't had a massive amount of personal <a href=\"https://chessimprover.com/black-against-beliavsky/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Black against Beliavsky\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/black-against-beliavsky/\">Black against Beliavsky</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/black-against-beliavsky/",
-         "pubDate" : "Wed, 22 Mar 2023 14:00:04 +0000",
-         "title" : "Black against Beliavsky"
-      },
-      {
-         "description" : " Two pawns abreast was some simple positional advice i once heard spoken by IM Robert Jamieson. Having central pawns side by side usually serves two purposes. The first is to efficiently cover the 4 squares in front of them, and the second is to support the necessary pawn break often needed to transform the position into a better on. On the following rapid game, I had the former, but not the later. But this was because my opponent felt the lack of space in his position required a pawn grab, which unfortunately for him, was unsound. <br /> <b>Press,Shaun - Rowe,Arief [D06]</b><br /> Gungahlin Rapid (1), 21.03.2023 <script> new PgnViewer( { boardName: \"game1389\", movesFormat: \"default\", pgnStr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/the-phalanx.html",
-         "pubDate" : "Wed, 22 Mar 2023 13:07:00 +0000",
-         "title" : "The Phalanx"
-      },
-      {
-         "description" : "The English Chess Federation invites bids from those interested for Commentary, Bookstall, and Coaching for the British Chess Championships 2023. Closing date for applications is...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc-2023-tender-letters/",
-         "pubDate" : "Wed, 22 Mar 2023 11:51:51 +0000",
-         "title" : "BCC 2023 tenders"
       }
    ]
 }
