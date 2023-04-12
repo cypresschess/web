@@ -146,7 +146,7 @@ news_feed (
          "title" : "How to play a World Championship in 2023 #TweetOftheDay"
       },
       {
-         "description" : " At the Kenya Open, something unique happened when a man was caught impersonating a woman in the women's section. Registered as unrated Millicent Awuor, he was wearing a hijab (head &#38; shoulder covering) typical of a Muslim woman with a niqaab (face covering). After beating a former Kenyan champion (Gloria Jumba) and Uganda's top player The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/\">Kenyan Chess Player banned for impersonating woman</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " At the Kenya Open, something unique happened when a man was caught impersonating a woman in the women's section. Registered as unrated Millicent Awuor, he was wearing a hijab (head &#38; shoulder covering) typical of a Muslim woman with a niqaab (face covering). Of course, we have heard of the hijab going viral in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/\">Kenyan Chess Player banned for impersonating woman</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/",
