@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Daniel Dardha talks to Tatev Abrahamyan after defeating Benjamin Bok in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/belgiums-1-daniel-dardha-takes-down-bok-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/belgiums-1-daniel-dardha-takes-down-bok-round-1",
+         "pubDate" : "Wed, 12 Apr 2023 18:25:52 +0000",
+         "title" : "Belgium's #1 Daniel Dardha Takes Down Bok | Round 1"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Courtesy of the World Chess Hall of Fame, this simulcast is a preview. Midway, the stream will end and redirect viewers to the World Chess Hall of Fame channel to see the conclusion (with warning). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pre-show-1972-fischerspassky-beautiful-games-lecture-gm-var-akobian\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e2zGG5UEkYk.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pre-show-1972-fischerspassky-beautiful-games-lecture-gm-var-akobian",
+         "pubDate" : "Wed, 12 Apr 2023 18:25:52 +0000",
+         "title" : "PRE-SHOW: 1972 Fischer/Spassky: Beautiful Games Lecture - GM Var Akobian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2334",
+         "pubDate" : "Wed, 12 Apr 2023 16:51:35 +0000",
+         "title" : "Prizes of the FIDE - ISF World School Teams Online Chess Cup 2023"
+      },
+      {
+         "description" : "GM Alexey Sarana and GM Fabiano Caruana won Titled Tuesday on April 11. Caruana stole the show, scoring 10.5 points out of 11 and winning the late event by a nearly unprecedented 1.5 points. Just a draw with Chess.com&#39;s own GM Rafael Leitao stood ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-caruana-win-titled-tuesday-april-11-2023",
+         "pubDate" : "Wed, 12 Apr 2023 08:52:00 -0700",
+         "title" : "Caruana Goes Nearly Perfect In Titled Tuesday"
+      },
+      {
          "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,22 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2332",
          "pubDate" : "Mon, 10 Apr 2023 22:04:12 +0000",
          "title" : "Danish Championship: Boris Chatalbashev clinches maiden title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-7",
-         "pubDate" : "Mon, 10 Apr 2023 21:24:02 +0000",
-         "title" : "2023 Spring Chess Classic: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-6-lichessorg",
-         "pubDate" : "Mon, 10 Apr 2023 21:24:02 +0000",
-         "title" : "2023 Spring Chess Classic: Round 6 | lichess.org"
       },
       {
          "description" : "",
@@ -1554,14 +1570,6 @@ news_feed (
          "title" : "Fortune favours the brave: Tan Zhongyi draws first blood in China "
       },
       {
-         "description" : "GMs Daniil Dubov and David Paravyan each won a Titled Tuesday tournament on March 28, both winning outright. They became the first players to score 10 points since February 14. Each second-place finish also belonged to the only two players to scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dubov-paravyan-win-titled-tuesday-march-28-2023",
-         "pubDate" : "Wed, 29 Mar 2023 07:32:27 -0700",
-         "title" : "Highest Scores In Over A Month Set In Tuesday Blitz Tournaments"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1936,14 +1944,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
          "pubDate" : "Thu, 23 Mar 2023 03:30:23 +0000",
          "title" : "South Africa's West Coast Chess Union"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2293",
-         "pubDate" : "Wed, 22 Mar 2023 16:37:25 +0000",
-         "title" : "FIDE and Tech Mahindra Announce Dates for First & Biggest Global Chess League"
       }
    ]
 }
