@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Wed, 12 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 3 - Live!"
+      },
+      {
          "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -440,14 +448,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-gets-chances-in-the-drawn-first-game-of-the-world-chess-championship-2023",
          "pubDate" : "Sun, 9 Apr 2023 14:35:00 +0400",
          "title" : "Nepomniachtchi gets chances in the drawn first game of the World Chess Championship 2023 - 1"
-      },
-      {
-         "description" : "Recently a photograph re-emerged on Twitter, capturing all of the world champions and grandmasters who competed in the celebrated 1970 Match of the Century, which pitted the mighty USSR team against the Rest of the World. The USSR won the contest by a single point margin, largely due to the excellent score of Paul Keres, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
-         "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
-         "title" : "Chess champions I have played"
       },
       {
          "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
@@ -1170,14 +1170,6 @@ news_feed (
          "title" : "Carlsen on epic blitz match vs. Nakamura"
       },
       {
-         "description" : "I had the honor of speaking with chess Super Grandmaster Rameshbabu Praggnanandhaa, one of the youngest players ever to achieve the title. At only 16 years old, Praggnanandhaa has already achieved remarkable success, including winning the Julius Baer Challenge Championship 2022. In our interview, Praggnanandhaa shared his insights on a range of topics, from his early days in chess to his current training regimen with coach R. B. Ramesh and future goals. He also discussed his experiences playing against some of the world's top players, as well as his thoughts on chess strategy and the importance of mental preparation. Overall, the interview provided a fascinating look into the mind of a young",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-the-rising-star-of-india-super-gm-praggnanandhaa",
-         "pubDate" : "Sun, 02 Apr 2023 18:00:00 +0100",
-         "title" : "Interview with the rising star of India - Super GM Praggnanandhaa"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,14 +1248,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/anish-giri-chesscom-ceo",
          "pubDate" : "Sat, 01 Apr 2023 09:00:00 -0700",
          "title" : "New King Rises: Anish Giri Appointed Chess.com CEO"
-      },
-      {
-         "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
-         "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
-         "title" : "Milton's cosmic game of chess"
       },
       {
          "description" : "Please find the live link for Indore Open GM Chess Championship 2023 https://view.livechesscloud.com/#5be145da-e394-4629-b4c2-6b954b12f4ce",
@@ -1752,14 +1736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2296",
          "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
-      },
-      {
-         "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
-         "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
-         "title" : "On the shoulders of dwarves"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
