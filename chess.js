@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 80th PGNiG TERMIKA Polish Championship is taking place from 12-20 April 2023 in Warsaw. The event is a knockout, with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The time control is 90 minutes for 40 moves, followed by 30 minutes to the []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pgnig-termika-polish-championship-2023-live/",
+         "pubDate" : "Wed, 12 Apr 2023 23:22:03 +0000",
+         "title" : "PGNiG TERMIKA Polish Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Andalucian Youth Championship U8-16 are 8-round Swiss tournaments held from the 14th of April to the 16th in Roquetas de Mar, Andalucia, Spain. Time control is 50 minutes with a 10-second increment beginning from move one. Chessdom.com will follow live games. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game 3&#160;/&#160;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/campeonato-de-andalucia-de-ajedrez-sub-08-16-2023-live/",
+         "pubDate" : "Wed, 12 Apr 2023 23:13:28 +0000",
+         "title" : "Campeonato de Andaluc&iacute;a de Ajedrez Sub 08-16 2023 - LIVE"
+      },
+      {
+         "description" : "The PGNiG TERMIKA Polish Women's Chess Championship is taking place in Warsaw from 12-20 April 2023. The time control is 90 minutes for 40 moves then 30 minutes to the end of the game, with a 30-second increment from move 1. It is a 10-player round-robin with participation of Alicja Sliwicka, Michalina Rudzinska, Jolanta Zawadzka, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/pgnig-termika-polish-womens-championship-2023-live/",
+         "pubDate" : "Wed, 12 Apr 2023 22:54:14 +0000",
+         "title" : "PGNiG TERMIKA Polish Women's Championship 2023 - LIVE"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-8-lichessorg",
+         "pubDate" : "Wed, 12 Apr 2023 21:26:06 +0000",
+         "title" : "2023 Spring Chess Classic: Round 8 | lichess.org"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2335",
+         "pubDate" : "Wed, 12 Apr 2023 21:15:56 +0000",
+         "title" : "Timur Gareyev and Josefine Heinemann win Kenya Open Championship"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-4-live/",
+         "pubDate" : "Wed, 12 Apr 2023 20:16:46 +0000",
+         "title" : "Nepo - Ding 2023, game 4 LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2336",
+         "pubDate" : "Wed, 12 Apr 2023 19:00:31 +0000",
+         "title" : "Mitropacup 2023 starts in Mali Losinj, Croatia"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Daniel Dardha talks to Tatev Abrahamyan after defeating Benjamin Bok in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/belgiums-1-daniel-dardha-takes-down-bok-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HsBXXwjMUc4.jpg?itok=B2zkbg4m\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,12 +106,12 @@ news_feed (
          "title" : "FIDE World Championship: Ding secures an important draw in game three"
       },
       {
-         "description" : "Ding Liren shrugged off Ian Nepomniachtchi's 1.d4 surprise to make a draw from a position of strength with the black pieces in Game 3 of the FIDE World Championship match in Astana. He mentioned afterwards that he was beginning to feel more comfortable on stage after receiving support from his friends.",
+         "description" : "Ding Liren looked and sounded like a man transformed as he pressed Ian Nepomniachtchi before making a draw with the black pieces in Game 3 of the World Championship match in Astana. Ian still leads 2:1, but Ding credited his friends with helping him regain his confidence and understand that he'd simply been weighed down by the pressure of the match in the first two games.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/ding-back-in-business-with-easy-world-championship-game-3-draw",
+         "link" : "https://chess24.com/en/read/news/ding-liren-passes-acid-test-in-world-championship-game-3",
          "pubDate" : "Wed, 12 Apr 2023 13:13:11 +0000",
-         "title" : "Ding back in business with easy World Championship draw"
+         "title" : "Ding Liren passes acid test in World Championship Game 3 "
       },
       {
          "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the European Individual Championship. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -88,6 +144,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-holds-a-comfortable-draw-with-black-in-world-championship-game-3",
          "pubDate" : "Wed, 12 Apr 2023 15:12:00 +0400",
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
+      },
+      {
+         "description" : "Unleash The Power Of Your Pieces WithThe 2023 FIDE World Championship Contender World Class: Ding Liren by FM Adarsh Tripathi is an annotated game collection celebrating Ding Liren&#x2019;s sensational rise to the top &#x2014; while uncovering the secrets to winning piece play through his moves.Pawns determine the long-term strategy in chess. But you need []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-class-ding-liren-by-fm-adarsh-tripathi/",
+         "pubDate" : "Wed, 12 Apr 2023 01:06:00 +0000",
+         "title" : "World Class: Ding Liren - by FM Adarsh Tripathi"
       },
       {
          "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
@@ -178,22 +242,6 @@ news_feed (
          "title" : "The story behind Ding Liren's white hoodie #TweetOftheDay"
       },
       {
-         "description" : "Pablo Luis Aguado Doncel will face Hans Moke Niemann who is the second best rated player on Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pablo-luis-aguado-doncel-hans-moke-niemann-live-menorca-open-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 18:16:31 +0000",
-         "title" : "Pablo Luis Aguado Doncel - Hans Moke Niemann LIVE Menorca Open 2023"
-      },
-      {
-         "description" : "D Gukesh who is the top rated players in Menorca Open 2023 is playing against Stephen R Mannion in first round . The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/d-gukesh-stephen-r-mannion-live-menorca-open-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 17:59:57 +0000",
-         "title" : "D Gukesh - Stephen R Mannion LIVE Menorca Open 2023"
-      },
-      {
          "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,36 +250,12 @@ news_feed (
          "title" : "Swiercz, Bok and Yoo share the lead at Spring Chess Classic"
       },
       {
-         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-cup-2023-live/",
-         "pubDate" : "Tue, 11 Apr 2023 14:34:40 +0000",
-         "title" : "Mitropa Cup 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 edition of the Mitropa Cup starts this Monday in Mali Losinj, Croatia. The event will be played from 10th &#x2013; 20th April at Hotel Aurora in the well-known tourist destination in Croatia.The event is played in Open and Women&#x2019;s sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/mitropa-cup-women-2023-live/",
-         "pubDate" : "Tue, 11 Apr 2023 14:33:59 +0000",
-         "title" : "Mitropa Cup Women 2023 - LIVE"
-      },
-      {
-         "description" : "Ding Liren unleashed 4.h3 in the game 2 of the World Chess Championship 2023. The world was in shock and awe, but ChessMood kept it cool and showed the right way to play a World Championship in 2023 For more cool suggestions, follow our #TweetOftheDay section",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/how-to-play-a-world-championship-in-2023-tweetoftheday/",
-         "pubDate" : "Tue, 11 Apr 2023 13:37:10 +0000",
-         "title" : "How to play a World Championship in 2023 #TweetOftheDay"
-      },
-      {
-         "description" : " At the Kenya Open, something unique happened when a man was caught impersonating a woman in the women's section. Registered as unrated Millicent Awuor, he was wearing a hijab (head &#38; shoulder covering) typical of a Muslim woman with a niqaab (face covering). Of course, we have heard of the hijab going viral in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/\">Kenyan Chess Player banned for impersonating woman</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " At the Kenya Open, something unique happened when a man was caught impersonating a woman in the women's section. Registered as unrated Millicent Awuor, he was wearing a hijab (head &#38; shoulder covering) typical of a Muslim woman with a niqaab (face covering). Of course, we have heard of the hijab going viral in the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/\">Chess Player banned for impersonating a woman</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/",
          "pubDate" : "Tue, 11 Apr 2023 13:21:55 +0000",
-         "title" : "Kenyan Chess Player banned for impersonating woman"
+         "title" : "Chess Player banned for impersonating a woman"
       },
       {
          "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
@@ -304,14 +328,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/christopher-yoo-shows-his-piece-sacrifices-round-3",
          "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
          "title" : "Christopher Yoo Shows Off his Piece Sacrifices | Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Gleb Dudin in the fourth round of the 2023 Spring Chess Classic. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mikhalevski-im-not-sure-who-playing-win-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GHQwnOuqwYo.jpg?itok=_iavJ1s1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mikhalevski-im-not-sure-who-playing-win-round-4",
-         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
-         "title" : "Mikhalevski: I'm Not Sure Who is Playing for a Win! | Round 4"
       },
       {
          "description" : "",
