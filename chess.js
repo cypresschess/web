@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/menorca-open-2023-preview",
+         "pubDate" : "Wed, 12 Apr 2023 01:40:00 +0100",
+         "title" : "Gukesh, Niemann and Van Foreest head strong field in Menorca"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Firouzja, Ding, Nepomniachtchi, Caruana, Giri, Wesley So, MVL, Duda, and Rapport) are joined by a wildcard (Deac) for a classical round robin. Join a commentary team TBA for the move-by-move. 2023.05.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-grandchesstour\"><img src=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-grandchesstour",
+         "pubDate" : "Wed, 12 Apr 2023 00:25:45 +0000",
+         "title" : "2023 Superbet Chess Classic: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round",
+         "pubDate" : "Wed, 12 Apr 2023 00:25:45 +0000",
+         "title" : "2023 Spring Chess Classic: Final Round"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-3-live/",
+         "pubDate" : "Tue, 11 Apr 2023 23:35:00 +0000",
+         "title" : "Nepo - Ding 2023, game 3 LIVE"
+      },
+      {
+         "description" : "The Vezerkepzo Easter IM 2023 will take place from 13-21 April 2023 in Budapest Hungary. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 10-player Round-robin tournament for teams with participation of Attila Jakab, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/vezerkepzo-easter-im-2023/",
+         "pubDate" : "Tue, 11 Apr 2023 23:31:36 +0000",
+         "title" : "Vezerkepzo Easter IM 2023"
+      },
+      {
          "description" : "The Vezerkepzo Easter GM 2023 will take place from 13-21 April 2023 in Budapest Hungary. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 10-player Round-robin tournament for teams with participation of&#xA0;Sahaj Grover, Kaido []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-7-lichessorg",
          "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
          "title" : "2023 Spring Chess Classic: Round 7 | lichess.org"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-3-live/",
-         "pubDate" : "Tue, 11 Apr 2023 21:18:59 +0000",
-         "title" : "Nepo - Ding 2023, game 3 LIVE"
       },
       {
          "description" : "The World Chess Championship 2023 match between Nepo and Ding is subject to serious criticism from the chess fans. They would like to see the two challengers more often at the chess board, but instead the audience is left with two chairs and a chess board. (see here how the chairs were chosen) The truth []",
@@ -112,14 +144,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/11/chess-player-expelled-for-impersonating-a-woman/",
          "pubDate" : "Tue, 11 Apr 2023 13:21:55 +0000",
          "title" : "Kenyan Chess Player banned for impersonating woman"
-      },
-      {
-         "description" : "NM Bryan Tillis the only one to cover 4. h3?! unleashed by Ding Liren, in the whole Chessable library! His course on Opening Oddities. NM Tillis says, &#8220;I suggested 4c5 in the course as h3 in the Tarrasch Queen's Gambit isn't very useful. I just had a single variation, but it is the only []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nm-bryan-tillis-the-only-one-to-cover-4-h3-on-chessable/",
-         "pubDate" : "Tue, 11 Apr 2023 13:18:54 +0000",
-         "title" : "NM Bryan Tillis - the only one to cover 4. h3?! on Chessable"
       },
       {
          "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
@@ -314,28 +338,12 @@ news_feed (
          "title" : "Carlsen Coaching Young Talents As World Championship Begins"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Victor Mikhalevski talks to Tatev Abrahamyan after defeating Gleb Dudin in the fourth round of the 2023 Spring Chess Classic. 2023.04.08<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/interview-victor-mikhalevski-defeats-dudin-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GHQwnOuqwYo.jpg?itok=_iavJ1s1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/interview-victor-mikhalevski-defeats-dudin-round-4",
-         "pubDate" : "Mon, 10 Apr 2023 00:23:45 +0000",
-         "title" : "INTERVIEW: Victor Mikhalevski defeats Dudin | Round 4"
-      },
-      {
          "description" : " The 2023 O2C Doeberl Cup has reached its final stages, with GM Hrant Melkumyan holding a half point lead over GM Temur Kuybakarov. Melkumyan and Kuybakorov drew their round 7 game, before Melkumyan defeated IM Brodie McClymont in the days second game. Kuybakrov only drew with IM James Morris in round 8, to fall half a point behind Melkumyan. On 6 points are Morris, IM Rishi Sardana, FM Matthew Clarke, and IM Ari Dale. Melkumyan plays Dale, while Kuybokarov is up against Clarke, Rounding out the top pairings are Sardana against Morris on board 3, with GM Daniel Fernandez playing McClymont of board 4. In the Major (Under 2100), Khimaer Baneshi and Randheer Thogata are tied on 5/6, and play fo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/04/2023-o2c-doeberl-cup-day-4.html",
          "pubDate" : "Sun, 09 Apr 2023 22:01:00 +0000",
          "title" : "2023 O2C Doeberl Cup - Day 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.10<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-6",
-         "pubDate" : "Sun, 09 Apr 2023 21:23:38 +0000",
-         "title" : "2023 Spring Chess Classic: Round 6"
       },
       {
          "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of Rickards High School student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each event. Sperber, who directs and plays, is inching toward the 2000 rating mark which is impressive when given his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-4",
          "pubDate" : "Sun, 02 Apr 2023 08:38:43 -0700",
          "title" : "Lei Wins With White, Leads For 1st Time In Chongqing"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 119th instalment of his ChessBase show \"Understanding before Moving\", Herman starts a new series: \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-119-chess-history-in-a-nutshell-1",
-         "pubDate" : "Sun, 02 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 119: Chess history in a nutshell (1)"
       },
       {
          "description" : " The Reykjavik Open is one of the bigger chess events held around the world. It is organised as one big swiss, and with 400 players entered, accelerating the pairings for the 9 round event makes some sense. This also means that the 1st round games are a little more interesting than non accelerated events. Board 2 saw just such a game in round 1 where GM Nils Grandellius launched a brutal sacrificial attack against IM Peter Large. If you are taking notes at home, the sacrifice on h6 was based on having 3 attackers versus 1 defender on the kingside. <br /> <b>Grandelius,Nils (2658) - Large,Peter G (2227) [E16]</b><br /> Reykjavik Open 2023 Reykjavik (1.2), 29.03.2023 <script> new PgnViewer( { ",
