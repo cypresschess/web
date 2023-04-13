@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Danish Championships 2023 took place on April 1-10, 2023, in Svendborg, a small town that hosted the last five editions. The top event was a 10-player single round-robin. GM Boris Chatalbashev earned his maiden title after scoring 7&frac12; points. GM Jesper S&oslash;nderg&aring;rd Thybo finished in sole second place, a full point behind. | Photos: Thomas Vesterg&aring;rd and Ellen Fredericia Nilssen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boris-chatalbashev-wins-danish-championship-2023",
+         "pubDate" : "Thu, 13 Apr 2023 06:40:00 +0100",
+         "title" : "Boris Chatalbashev wins Danish Championship"
+      },
+      {
+         "description" : " Dominica The Dominica Chess Federation was on a live stream on Wednesday hosted by Anthony Drigo's &#8220;This Week in Interview&#8221; segment. He was joined by three board members and spent approximately 90 discussing chess, its beginnings, its benefits, Chess-in-Schools, and many details about titles and skill levels. There was even a beginning segment on how The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/\">Dominica Chess on TDN Network!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/",
+         "pubDate" : "Thu, 13 Apr 2023 04:29:12 +0000",
+         "title" : "Dominica Chess on TDN Network!"
+      },
+      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 3: Ding regain composure with comfortable draw Match Score: 2-1 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 3Wednesday, 12 April 2023 Ding appears more comfortable, seems upbeat after draw Ding Liren at the Press Conference after Game 3Photo by Anna Shtourman/FIDE While Game The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/\">2023 World Chess Championship: Game 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -130,14 +146,6 @@ news_feed (
          "title" : "Caruana Goes Nearly Perfect In Titled Tuesday"
       },
       {
-         "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g3",
-         "pubDate" : "Wed, 12 Apr 2023 16:25:00 +0100",
-         "title" : "World Championship Game 3: Ding comfortably draws with black"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -160,6 +168,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-3",
          "pubDate" : "Wed, 12 Apr 2023 13:59:16 +0100",
          "title" : "Endgame Magic #235: Highlights form the European Individual Championship - with Iniyan!"
+      },
+      {
+         "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g3",
+         "pubDate" : "Wed, 12 Apr 2023 13:55:00 +0100",
+         "title" : "World Championship Game 3: Ding comfortably draws with black"
       },
       {
          "description" : "GM Ian Nepomniachtchi shook up the third round of the 2023 FIDE World Championship by beginning his game against GM Ding Liren with a new first move, setting the stage for a fresh opening battle with 1.d4. Ding chose the Queen&#39;s Gambit Declined in...",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Game of the Week #562: Jorden van Foreest vs Parham Maghsoodloo"
       },
       {
-         "description" : "The ECF office reopens at 9.00am on Tuesday 11th April ",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/office-closed-for-easter/",
-         "pubDate" : "Fri, 07 Apr 2023 10:05:47 +0000",
-         "title" : "Office closed for Easter"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/lei-tingjie-wins-the-fide-women-s-candidates",
          "pubDate" : "Mon, 03 Apr 2023 12:41:18 +0000",
          "title" : "Lei Tingjie wins the FIDE Women's Candidates"
-      },
-      {
-         "description" : "The 2023 Women's Candidates Final is taking place in Chongqing (China) from March 29 to April 5. Chinese grandmasters Lei Tingjie and Tan Zhongyi face each other in a six-game classical chess match. The winner will receive €60,000 and the right to challenge the current women's world champion, Ju Wenjun, for the title in July.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-live",
-         "pubDate" : "Mon, 03 Apr 2023 09:00:00 +0100",
-         "title" : "Women's Candidates Final - Live!"
       },
       {
          "description" : "",
