@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his \"Game of the Week\" show #563, Merijn van Delft does what most chess fans do these days: He takes a look at the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn analyses Nepomniachtchi's win in game 2 and discusses what makes Nepomniachtchi the favourite, and how Ding should continue the match. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello-3",
+         "pubDate" : "Thu, 13 Apr 2023 17:22:27 +0100",
+         "title" : "Game of the Week #563: Ding Liren vs Ian Nepomniachtchi"
+      },
+      {
          "description" : " The 2023 Oceania Junior and Youth Championship has played 6 rounds, and the tension is quite noticeable. FM Cameron McGowan leads the main event (Under 20 Open) with 5.5/6, beating 2nd seed FM Albert Winkelman in round 6. CM Hamish Bassig is in 2nd on 5/6, with FM Daniel Gong in 3rd. As this event is awarding titles on both Under 20 and Under 18 categories, top 2 (or possibly 3) is the goal for potential IM's, while top 6 is the target for potential FM's. The Under 20 Girls is even closer with a 4 way tie at the top of the table. Lillian Lu, Alaina Vincent, Ekaterina Gratchev and Om O'Carroll are on 5/6, and are battling it out for the top 3 places. For other players across the tournament, ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Ding Liren pounces on blunder to win Game 4"
       },
       {
-         "description" : "The 2023 FIDE World Championship continues to deliver exciting chess as a confident GM Ding Liren levels the score against GM Ian Nepomniachtchi after winning game four. Ding exerted pressure from the opening, and just as the position appeared to ...",
+         "description" : "The 2023 FIDE World Championship continues to deliver exciting chess as a confident GM Ding Liren won game four on Thursday to level the score against GM Ian Nepomniachtchi. Ding exerted pressure from the opening, and just as the position appeared...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-4",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-2",
          "pubDate" : "Mon, 03 Apr 2023 18:00:00 +0100",
          "title" : "Endgame Magic #234: Highlights from the Chessable Masters Play-In - with Iniyan!"
-      },
-      {
-         "description" : "The traditional Reykjavik Open is taking place from 29 March to 4 April at the Harpa Conference Centre in the Icelandic capital. Nicholas Pert, the 2021 British champion, is commentating a few of the rounds on Simon Williams' Twitch channel. In rounds 6 and 8, he is joined by Blair Connell, with the duo focusing on the game of the ever-entertaining Ginger GM! | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-live-commentary-nick-pert",
-         "pubDate" : "Mon, 03 Apr 2023 17:45:00 +0100",
-         "title" : "Reykjavik Open: Live commentary by Nick Pert and Blair Connell"
       },
       {
          "description" : "",
