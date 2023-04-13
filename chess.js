@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-garry-kasparov-celebrates-60th-birthday",
+         "pubDate" : "Thu, 13 Apr 2023 20:00:00 +0100",
+         "title" : "Congratulations! Garry Kasparov celebrates 60th birthday!"
+      },
+      {
+         "description" : "The score is now tied at the World Championship match in Astana, as Ding Liren defeated Ian Nepomniachtchi with white in Thursday's game 4. Ding had a favourable pawn structure in the centre when Nepo blundered on move 28, allowing the Chinese to play a powerful exchange sacrifice. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g4",
+         "pubDate" : "Thu, 13 Apr 2023 19:05:00 +0100",
+         "title" : "World Championship Game 4: Ding strikes back, levels the score"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Last month I participated in the first ever Saint Louis Super Swiss, an incredibly strong open tournament hosted at Saint Louis University from March 12-16th featuring both local and national talent. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/52746164501_9d0934f219_k.jpg?itok=qoTJya2d\" alt=\"\" /></div><div class=\"field field-name-field-category field-type-entityreference fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-super-swiss-recap",
+         "pubDate" : "Thu, 13 Apr 2023 17:12:03 +0000",
+         "title" : "2023 Saint Louis Super Swiss Recap "
+      },
+      {
          "description" : "In his \"Game of the Week\" show #563, Merijn van Delft does what most chess fans do these days: He takes a look at the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn analyses Nepomniachtchi's win in game 2 and discusses what makes Nepomniachtchi the favourite, and how Ding should continue the match. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello-3",
          "pubDate" : "Thu, 13 Apr 2023 17:22:27 +0100",
          "title" : "Game of the Week #563: Ding Liren vs Ian Nepomniachtchi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed",
+         "pubDate" : "Thu, 13 Apr 2023 15:26:18 +0000",
+         "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2337",
+         "pubDate" : "Thu, 13 Apr 2023 15:15:10 +0000",
+         "title" : "FIDE World Championship: Ding Liren strikes back with a victory"
       },
       {
          "description" : " The 2023 Oceania Junior and Youth Championship has played 6 rounds, and the tension is quite noticeable. FM Cameron McGowan leads the main event (Under 20 Open) with 5.5/6, beating 2nd seed FM Albert Winkelman in round 6. CM Hamish Bassig is in 2nd on 5/6, with FM Daniel Gong in 3rd. As this event is awarding titles on both Under 20 and Under 18 categories, top 2 (or possibly 3) is the goal for potential IM's, while top 6 is the target for potential FM's. The Under 20 Girls is even closer with a 4 way tie at the top of the table. Lillian Lu, Alaina Vincent, Ekaterina Gratchev and Om O'Carroll are on 5/6, and are battling it out for the top 3 places. For other players across the tournament, ",
@@ -26,12 +66,20 @@ news_feed (
          "title" : "Ding Liren pounces on blunder to win Game 4"
       },
       {
+         "description" : " Ding Liren won the fourth game of his FIDE World Chess Championship match in Almaty, Kazakhstan, against Ian Nepomniachtchi to bring the match back level at 2-2 with 10 games remaining of this 14 game match. After appearing anxious in the first two games Ding just visibly looked much better during games three and four. Often seconds are behind the scenes but Richard Rapport was known to be working for Ding and is accompanying him to the games. There seems to be now a pretty happy Ding camp. After a comfortable draw in game three with black Ding managed to set some problems for Nepomniachtchi with white today. The variation chosen of the English Sicilian Four Knights is pretty topical and in",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-a-serious-blunder-from-nepomniachtchi-cost-him-game-4-of-the-world-chess-championship",
+         "pubDate" : "Thu, 13 Apr 2023 17:00:00 +0400",
+         "title" : "Ding back level after a serious blunder from Nepomniachtchi cost him game 4 of the World Chess Championship - 4"
+      },
+      {
          "description" : "The 2023 FIDE World Championship continues to deliver exciting chess as a confident GM Ding Liren won game four on Thursday to level the score against GM Ian Nepomniachtchi. Ding exerted pressure from the opening, and just as the position appeared...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-4",
          "pubDate" : "Thu, 13 Apr 2023 05:57:00 -0700",
-         "title" : "Flash Report: Confident Ding Wins Game 4, Levels Match Score"
+         "title" : "Confident Ding Wins Game 4, Levels Match Score"
       },
       {
          "description" : "Romanian GM Liviu-Dieter Nisipeanu has returned to his native country after nine years playing for Germany. The 46-year-old becomes the third top grandmaster to switch to Romania in less than a year. &#34;Welcome back, Dieter! We&#39;re happy to have yo...",
@@ -48,14 +96,6 @@ news_feed (
          "link" : "https://www.chessdom.com/ding-is-back-we-have-a-fighting-world-chess-championship-2023/",
          "pubDate" : "Thu, 13 Apr 2023 12:39:14 +0000",
          "title" : "Ding is back! We have a fighting World Chess Championship 2023"
-      },
-      {
-         "description" : "The score is now tied at the World Championship match in Astana, as Ding Liren defeated Ian Nepomniachtchi with white in Thursday's game 4. Ding had a favourable pawn structure in the centre when Nepo blundered on move 28, allowing the Chinese to play a powerful exchange sacrifice. | Replay the game with computer-assisted analysis. A full report will follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Thu, 13 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 4 - Ding scores"
       },
       {
          "description" : "A Senior National Arbiter seminar and examination was organized by Erode District Chess Circle on behalf of Tamil Nadu State Chess Association and All India",
@@ -231,7 +271,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-3",
          "pubDate" : "Wed, 12 Apr 2023 13:59:16 +0100",
-         "title" : "Endgame Magic #235: Highlights form the European Individual Championship - with Iniyan!"
+         "title" : "Endgame Magic #235: Highlights from the European Individual Championship - with Iniyan!"
       },
       {
          "description" : "Game 3 of the World Championship match saw Ding Liren comfortably holding a draw with the black pieces. The game lasted 30 moves and a bit over 3 hours. Ian Nepomniachtchi thus kept his 1-point lead on the scoreboard, a lead he gained thanks to a remarkable win in Monday's second game. | Photo: FIDE / Stev Bonhage",
@@ -392,22 +432,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1",
          "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
          "title" : "Akshat Chandra Avoids Theory with an Extremely Rare Move | Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sam Sevian talks to Tatev Abrahamyan after defeating Jason Liang in the second round of the 2023 Spring Chess Classic. 2023.04.06<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sevian-game-was-insane-very-start-round-2\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vOWFx5MpmGo.jpg?itok=mQh8CEP8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sevian-game-was-insane-very-start-round-2",
-         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
-         "title" : "Sevian: This Game was Insane from the Very Start! | Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Tatev Abrahamyan after defeating Benjamin Gledura in the third round of the 2023 Spring Chess Classic. 2023.04.07<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/christopher-yoo-shows-his-piece-sacrifices-round-3\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/n3Q9B2zk9SQ.jpg?itok=jeTEAH_D\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-shows-his-piece-sacrifices-round-3",
-         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
-         "title" : "Christopher Yoo Shows Off his Piece Sacrifices | Round 3"
       },
       {
          "description" : "",
@@ -1224,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2321",
          "pubDate" : "Mon, 03 Apr 2023 19:19:07 +0000",
          "title" : "WGP New Delhi: Round 9 Recap"
-      },
-      {
-         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 20-year old Indian GM Iniyan P., look at endgame highlights from the Chessable Masters Play-In. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-233-highlights-bundesliga-2",
-         "pubDate" : "Mon, 03 Apr 2023 18:00:00 +0100",
-         "title" : "Endgame Magic #234: Highlights from the Chessable Masters Play-In - with Iniyan!"
       },
       {
          "description" : "",
