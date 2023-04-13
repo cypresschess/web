@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2023 Oceania Junior and Youth Championship has played 6 rounds, and the tension is quite noticeable. FM Cameron McGowan leads the main event (Under 20 Open) with 5.5/6, beating 2nd seed FM Albert Winkelman in round 6. CM Hamish Bassig is in 2nd on 5/6, with FM Daniel Gong in 3rd. As this event is awarding titles on both Under 20 and Under 18 categories, top 2 (or possibly 3) is the goal for potential IM's, while top 6 is the target for potential FM's. The Under 20 Girls is even closer with a 4 way tie at the top of the table. Lillian Lu, Alaina Vincent, Ekaterina Gratchev and Om O'Carroll are on 5/6, and are battling it out for the top 3 places. For other players across the tournament, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-oceania-youth-past-halfway.html",
+         "pubDate" : "Thu, 13 Apr 2023 13:54:00 +0000",
+         "title" : "2023 Oceania Youth - Past halfway"
+      },
+      {
+         "description" : "Ding Liren pounced on a blunder by Ian Nepomniachtchi to score a crushing win and level the score after Game 4 of the FIDE World Championship in Astana. Ian seemed to have survived a tough opening when he played a knight move that allowed a powerful exchange sacrifice, after which there was no way back. ",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-pounces-on-blunder-to-win-game-4",
+         "pubDate" : "Thu, 13 Apr 2023 13:13:59 +0000",
+         "title" : "Ding Liren pounces on blunder to win Game 4"
+      },
+      {
+         "description" : "The 2023 FIDE World Championship continues to deliver exciting chess as a confident GM Ding Liren levels the score against GM Ian Nepomniachtchi after winning game four. Ding exerted pressure from the opening, and just as the position appeared to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-4",
+         "pubDate" : "Thu, 13 Apr 2023 05:57:00 -0700",
+         "title" : "Flash Report: Confident Ding Wins Game 4, Levels Match Score"
+      },
+      {
+         "description" : "Romanian GM Liviu-Dieter Nisipeanu has returned to his native country after nine years playing for Germany. The 46-year-old becomes the third top grandmaster to switch to Romania in less than a year. &#34;Welcome back, Dieter! We&#39;re happy to have yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nisipeanu-returns-to-romania-after-nine-years",
+         "pubDate" : "Thu, 13 Apr 2023 05:47:00 -0700",
+         "title" : "Nisipeanu Returns To Native Romania After 9 Years"
+      },
+      {
+         "description" : "After a strong start by Nepo and an emotionally shaken Ding in next rounds, today Ding Liren recovered with a brilliant game. Following an opening played by his second Richard Rapport, Ding dynamically mixed the position, leaving little space for black in a complicated game. In a difficult position, Nepo blundered with 28Nd4, which Ding []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ding-is-back-we-have-a-fighting-world-chess-championship-2023/",
+         "pubDate" : "Thu, 13 Apr 2023 12:39:14 +0000",
+         "title" : "Ding is back! We have a fighting World Chess Championship 2023"
+      },
+      {
+         "description" : "The score is now tied at the World Championship match in Astana, as Ding Liren defeated Ian Nepomniachtchi with white in Thursday's game 4. Ding had a favourable pawn structure in the centre when Nepo blundered on move 28, allowing the Chinese to play a powerful exchange sacrifice. | Replay the game with computer-assisted analysis. A full report will follow shortly.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Thu, 13 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 4 - Ding scores"
+      },
+      {
+         "description" : "A Senior National Arbiter seminar and examination was organized by Erode District Chess Circle on behalf of Tamil Nadu State Chess Association and All India",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-examination-erode-1st-2nd-april-2023/",
+         "pubDate" : "Thu, 13 Apr 2023 08:12:32 +0000",
+         "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-4-live/",
+         "pubDate" : "Thu, 13 Apr 2023 06:00:00 +0000",
+         "title" : "Nepo - Ding 2023, game 4 LIVE"
+      },
+      {
          "description" : "The Danish Championships 2023 took place on April 1-10, 2023, in Svendborg, a small town that hosted the last five editions. The top event was a 10-player single round-robin. GM Boris Chatalbashev earned his maiden title after scoring 7&frac12; points. GM Jesper S&oslash;nderg&aring;rd Thybo finished in sole second place, a full point behind. | Photos: Thomas Vesterg&aring;rd and Ellen Fredericia Nilssen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +74,7 @@ news_feed (
          "title" : "Boris Chatalbashev wins Danish Championship"
       },
       {
-         "description" : " Dominica The Dominica Chess Federation was on a live stream on Wednesday hosted by Anthony Drigo's &#8220;This Week in Interview&#8221; segment. He was joined by three board members and spent approximately 90 discussing chess, its beginnings, its benefits, Chess-in-Schools, and many details about titles and skill levels. There was even a beginning segment on how The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/\">Dominica Chess on TDN Network!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Dominica The Dominica Chess Federation was on a live stream on Wednesday hosted by Anthony Drigo's &#8220;This Week in Interview&#8221; segment. He was joined by three board members and spent approximately 90 minutes discussing chess, its beginnings, its benefits, Chess-in-Schools, and many details about titles and skill levels. There was even a beginning segment on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/\">Dominica Chess on TDN Network!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/13/dominica-chess-on-tdn-network/",
@@ -96,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2335",
          "pubDate" : "Wed, 12 Apr 2023 21:15:56 +0000",
          "title" : "Timur Gareyev and Josefine Heinemann win Kenya Open Championship"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-4-live/",
-         "pubDate" : "Wed, 12 Apr 2023 20:16:46 +0000",
-         "title" : "Nepo - Ding 2023, game 4 LIVE"
       },
       {
          "description" : "",
@@ -232,14 +288,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round",
          "pubDate" : "Wed, 12 Apr 2023 00:25:45 +0000",
          "title" : "2023 Spring Chess Classic: Final Round"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-3-live/",
-         "pubDate" : "Tue, 11 Apr 2023 23:35:00 +0000",
-         "title" : "Nepo - Ding 2023, game 3 LIVE"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -682,7 +730,7 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 Nepomniachtchi &frac12; 1 &frac12; The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 2 Nepomniachtchi &frac12; 1 &frac12; 0 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -1194,14 +1242,6 @@ news_feed (
          "title" : "TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final"
       },
       {
-         "description" : "One of the side events of the 2023 FIDE World Championship Match will be a contest facing the best female players from Kazakhstan against a team of international top stars representing the world. Each match will consist of 8 players, with 4 of them representing the age groups U20, U18, U16, and U14. The international team will have Hou Yifan, the highest-ranked woman player in the world, playing on the top board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazakhstan-vs-world-match-women-astana",
-         "pubDate" : "Mon, 03 Apr 2023 15:00:00 +0100",
-         "title" : "Kazakhstan vs the World: Top female teams to face off in Astana"
-      },
-      {
          "description" : " With the Interschool chess season starting, my collection of strange rules continues to grow. In a recent competition there was a disputed finish because one player informed their opponent that \"kings were not allowed to capture\". I assume that the reasoning was that in other games the player was told \"the king can't capture that piece\", but wasn't given a reason (it would put the king in check). Unfortunately the game was completed (and the board reset) before I was told of this. In a related event, I then made an announcement about checking 'strange rules' that an opponent insists are real, and gave as an example of a fake rule 'pawns must wait a turn on the back rank before being promote",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1434,14 +1474,6 @@ news_feed (
          "title" : "Khalifman: \"You shouldn't give up the title without a fight\""
       },
       {
-         "description" : "Senior National Arbiter Mumbai, Maharashtra Certificates are out to download Link : https://aicf.online/Arbiter-Seminar-Mumbai.html Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-mumbai/",
-         "pubDate" : "Fri, 31 Mar 2023 11:11:48 +0000",
-         "title" : "Senior National Arbiter, Mumbai"
-      },
-      {
          "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1464,14 +1496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-2",
          "pubDate" : "Thu, 30 Mar 2023 15:18:48 -0700",
          "title" : "Rising From A Loss: Lei Evens The Score"
-      },
-      {
-         "description" : "The three-time and reigning Ukrainian champion, GM Andrei Volokitin, defeated the English number-one and seven-time British champion, GM Michael Adams, in the UK vs. Ukraine Match 2023, with a score of 4.5-3.5. The match concluded on Thursday. T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/volokitin-wins-2023-uk-ukraine-match",
-         "pubDate" : "Thu, 30 Mar 2023 14:18:00 -0700",
-         "title" : "Volokitin Defeats Adams With Round To Spare In UK Vs. Ukraine Solidarity Match"
       },
       {
          "description" : "",
@@ -1552,14 +1576,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/",
          "pubDate" : "Thu, 30 Mar 2023 07:36:09 +0000",
          "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
-      },
-      {
-         "description" : "GM Tan Zhongyi defeated GM Lei Tingjie in game one of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Wednesday. Tan played enterprisingly from start to finish, sacrificing two pawns to create complex problems for Lei, who overloo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-1",
-         "pubDate" : "Wed, 29 Mar 2023 20:05:00 -0700",
-         "title" : "The Last Competitors Standing: Tan Strikes First vs. Lei"
       },
       {
          "description" : "Tan Zhongyi sacrificed two pawns and looked in grave danger in Game 1 of the FIDE Women's Candidates Final in Chongqing, China, but Lei Tingjie blundered with seconds on her clock and fell to defeat. That was a huge step towards Tan Zhongyi forcing a World Championship rematch against Ju Wenjun, but Lei Tingjie still has five games in which to hit back.",
@@ -1744,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2298",
          "pubDate" : "Sun, 26 Mar 2023 21:32:20 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 1 Recap"
-      },
-      {
-         "description" : "Irina Krush suffered her first ever loss to Alice Lee in Saturday's classical game, but she hit back to win the playoff 1.5:0.5, defend her American Women's Cup title, and pick up a combined $30,000. The battle for the $50,000 top prize goes to the final Sunday after Wesley So defeated Hikaru Nakamura 2:0 in a rapid playoff after drawing their final classical game.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/irina-krush-defends-her-american-cup-title",
-         "pubDate" : "Sun, 26 Mar 2023 15:40:56 +0000",
-         "title" : "Irina Krush defends her American Cup title"
       },
       {
          "description" : "In this video GM Nakamura reads the Wall Street Journal article, <A HREF=\"https://www.wsj.com/articles/alejandro-ramirez-jennifer-shahade-chess-allegations-622263b8?mod=hp_lead_pos9\">How Sexual Assault Allegations Against a U.S. Chess Grandmaster Went Unaddressed for Years</A> (wsj.com). The article was subtitled, <BLOCKQUOTE> Numerous women have accused elite player and coach Alejandro Ramirez of misconduct. Two bodies that run chess in the U.S. allegedly knew of accusations for several years. </BLOCKQUOTE> <P> It started, <BLOCKQUOTE> When former U.S. women's chess champion Jennifer Shahade alleged on social media last month that she had been sexually assaulted by a prominent grandmaster n",
@@ -1944,22 +1952,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-seven/",
          "pubDate" : "Fri, 24 Mar 2023 06:43:14 +0000",
          "title" : "A Foundation for Beginners Eighty Seven"
-      },
-      {
-         "description" : "ECU notes that chess is by definition an individual sport, and that all players have the right to participate in FIDE world championships or continental championships under the flag of a new federation, already considering representation of a national team at the highest level. ECU decides on players formerly belonging to the Chess Federation of Russia (CFR) that&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/ecu-resolution-on-players-participation-after-the-russian-chess-federation-joining-the-asian-chess-federation/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-resolution-on-players-participation-after-the-russian-chess-federation-joining-the-asian-chess-federation/",
-         "pubDate" : "Thu, 23 Mar 2023 10:47:25 +0000",
-         "title" : "ECU resolution on players participation after the Russian Chess Federation joining the Asian Chess Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2294",
-         "pubDate" : "Thu, 23 Mar 2023 10:34:15 +0000",
-         "title" : "World Championship match: venue, commentators & schedule"
       }
    ]
 }
