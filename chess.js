@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed-lichessorg",
+         "pubDate" : "Thu, 13 Apr 2023 21:26:22 +0000",
+         "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
+      },
+      {
+         "description" : "The XLV Open International Barbera del Valles 2023 will take place from 04-12 July 2023 in Barber&#xE0; del Vall&#xE8;s (Barcelona), Spain. The time control is 90 minutes plus a 30 seconds increment starting from move one.&#xA0;The tournament system is 9-round Swiss. Players list (14.04.2023) : No. Name &#x424;&#x415;&#x414; RtgI &#x422;&#x438;&#x43F; 1 GM Alsina Leal, Daniel []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/xlv-open-international-barbera-del-valles-2023/",
+         "pubDate" : "Thu, 13 Apr 2023 21:08:10 +0000",
+         "title" : "XLV Open International Barbera del Valles 2023"
+      },
+      {
+         "description" : "The Austrian Bundesliga is an 12-team round-robin tournament taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Results from today : Pairs on boards 9. Round on 2023/04/13 at 16.00 Mass 5 &#160;&#160;SK MP&#xD6; Maria []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-bundesliga-live/",
+         "pubDate" : "Thu, 13 Apr 2023 20:57:54 +0000",
+         "title" : "Austrian Bundesliga - LIVE"
+      },
+      {
+         "description" : "The British Rapidplay Championship is an 11-round Swiss tournament taking place from 15&#x2013;16 April 2023 in Bingley. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one.&#xA0; Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4New:&#xA0;100 Classical Masterpiece, commented by a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/british-rapidplay-championship-2023-live/",
+         "pubDate" : "Thu, 13 Apr 2023 20:43:22 +0000",
+         "title" : "British Rapidplay Championship 2023 - LIVE"
+      },
+      {
          "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +90,7 @@ news_feed (
          "title" : "2023 Oceania Youth - Past halfway"
       },
       {
-         "description" : "Ding Liren pounced on a blunder by Ian Nepomniachtchi to score a crushing win and level the score after Game 4 of the FIDE World Championship in Astana. Ian seemed to have survived a tough opening when he played a knight move that allowed a powerful exchange sacrifice, after which there was no way back. ",
+         "description" : "Ding Liren is truly back after a pawn sacrifice and sustained pressure saw Ian Nepomniachtchi crack in Game 4 of the FIDE World Championship in Astana. \"A little hard to believe!\" is how Ding Liren described his realisation that his opponent had blundered, though Ding demonstrated his new-found confidence by taking only a minute to play the winning move. It's now 2:2 going into the second rest day, with 10 games to go.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-pounces-on-blunder-to-win-game-4",
@@ -178,22 +210,6 @@ news_feed (
          "title" : "PGNiG TERMIKA Polish Championship 2023 - LIVE"
       },
       {
-         "description" : "The Andalucian Youth Championship U8-16 are 8-round Swiss tournaments held from the 14th of April to the 16th in Roquetas de Mar, Andalucia, Spain. Time control is 50 minutes with a 10-second increment beginning from move one. Chessdom.com will follow live games. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game 3&#160;/&#160;Nepo []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/campeonato-de-andalucia-de-ajedrez-sub-08-16-2023-live/",
-         "pubDate" : "Wed, 12 Apr 2023 23:13:28 +0000",
-         "title" : "Campeonato de Andaluc&iacute;a de Ajedrez Sub 08-16 2023 - LIVE"
-      },
-      {
-         "description" : "The PGNiG TERMIKA Polish Women's Chess Championship is taking place in Warsaw from 12-20 April 2023. The time control is 90 minutes for 40 moves then 30 minutes to the end of the game, with a 30-second increment from move 1. It is a 10-player round-robin with participation of Alicja Sliwicka, Michalina Rudzinska, Jolanta Zawadzka, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pgnig-termika-polish-womens-championship-2023-live/",
-         "pubDate" : "Wed, 12 Apr 2023 22:54:14 +0000",
-         "title" : "PGNiG TERMIKA Polish Women's Championship 2023 - LIVE"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -306,14 +322,6 @@ news_feed (
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
       },
       {
-         "description" : "Unleash The Power Of Your Pieces WithThe 2023 FIDE World Championship Contender World Class: Ding Liren by FM Adarsh Tripathi is an annotated game collection celebrating Ding Liren&#x2019;s sensational rise to the top &#x2014; while uncovering the secrets to winning piece play through his moves.Pawns determine the long-term strategy in chess. But you need []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-class-ding-liren-by-fm-adarsh-tripathi/",
-         "pubDate" : "Wed, 12 Apr 2023 01:06:00 +0000",
-         "title" : "World Class: Ding Liren - by FM Adarsh Tripathi"
-      },
-      {
          "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-wins-armageddon-series-asia",
          "pubDate" : "Tue, 11 Apr 2023 06:10:00 +0100",
          "title" : "Gukesh beats Abdusattorov, wins 'Armageddon Series: Asia & Oceania'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Akshat Chandra talks to Tatev Abrahamyan after defeating Balaji Daggupati in the first round of the 2023 Spring Chess Classic. 2023.04.05<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FBBinOsfwWM.jpg?itok=7xYFN5mI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akshat-chandra-avoids-theory-extremely-rare-move-round-1",
-         "pubDate" : "Tue, 11 Apr 2023 00:24:12 +0000",
-         "title" : "Akshat Chandra Avoids Theory with an Extremely Rare Move | Round 1"
       },
       {
          "description" : "",
