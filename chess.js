@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 3: Ding regain composure with comfortable draw Match Score: 2-1 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 3Wednesday, 12 April 2023 Ding appears more comfortable, seems upbeat after draw Ding Liren at the Press Conference after Game 3Photo by Anna Shtourman/FIDE While Game The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/\">2023 World Chess Championship: Game 3</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/",
+         "pubDate" : "Thu, 13 Apr 2023 02:09:31 +0000",
+         "title" : "2023 World Chess Championship: Game 3"
+      },
+      {
+         "description" : "The 2nd Chessable Sunway Formentera Festival is taking place from 18&#x2013;28 April 2023 in Formentera, Spain. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-round Swiss tournament with participation of Vitaliy Bernadskiy, Daniel Dardha, Chopra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-chessable-sunway-formentera-festival-2023-live/",
+         "pubDate" : "Wed, 12 Apr 2023 23:44:54 +0000",
+         "title" : "2nd Chessable Sunway Formentera Festival 2023 - LIVE"
+      },
+      {
+         "description" : "The 2nd Chessable Sunway Formentera Festival is taking place from 18&#x2013;28 April 2023 in Formentera, Spain. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-round Swiss tournament with participation of Vitaliy Bernadskiy, Daniel Dardha, Chopra []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/2nd-chessable-sunway-formentera-festival-2023/",
+         "pubDate" : "Wed, 12 Apr 2023 23:42:37 +0000",
+         "title" : "2nd Chessable Sunway Formentera Festival 2023"
+      },
+      {
+         "description" : "Hans Moke Niemann Marcin Krzyzanowski is a game from the fourth round of &#xA0;Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van Forrest, Maksim Chigaev, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/hans-moke-niemann-marcin-krzyzanowski-live-menorca-open-2023/",
+         "pubDate" : "Wed, 12 Apr 2023 23:35:26 +0000",
+         "title" : "Hans Moke Niemann - Marcin Krzyzanowski LIVE Menorca Open 2023"
+      },
+      {
+         "description" : "Koustav Chatterjee D Gukesh is a game from the fourth round of &#xA0;Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van Forrest, Maksim Chigaev, Max []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/koustav-chatterjee-d-gukesh-live-menorca-open-2023/",
+         "pubDate" : "Wed, 12 Apr 2023 23:31:06 +0000",
+         "title" : "Koustav Chatterjee - D Gukesh LIVE Menorca Open 2023"
+      },
+      {
          "description" : "The 80th PGNiG TERMIKA Polish Championship is taking place from 12-20 April 2023 in Warsaw. The event is a knockout, with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The time control is 90 minutes for 40 moves, followed by 30 minutes to the []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -186,30 +226,6 @@ news_feed (
          "title" : "Nepo - Ding 2023, game 3 LIVE"
       },
       {
-         "description" : "The Vezerkepzo Easter IM 2023 will take place from 13-21 April 2023 in Budapest Hungary. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 10-player Round-robin tournament for teams with participation of Attila Jakab, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-easter-im-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 23:31:36 +0000",
-         "title" : "Vezerkepzo Easter IM 2023"
-      },
-      {
-         "description" : "The Vezerkepzo Easter GM 2023 will take place from 13-21 April 2023 in Budapest Hungary. Time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, plus a 30 seconds increment starting from move one. It is a 10-player Round-robin tournament for teams with participation of&#xA0;Sahaj Grover, Kaido []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/vezerkepzo-easter-gm-2023/",
-         "pubDate" : "Tue, 11 Apr 2023 23:22:50 +0000",
-         "title" : "Vezerkepzo Easter GM 2023"
-      },
-      {
-         "description" : "The 46th Thailand National Chess Championship 2023 Open will take place from 12-16 April 2023 in Central Chaengwattana, Bangkok, Thailand. The time control is 90 minutes plus a 30 seconds increment starting from move one. More than 50 players will participate in 46th edition of Thailand National Chess Championship 2023 Open, which will be played []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/46th-thailand-national-chess-championship-2023-open/",
-         "pubDate" : "Tue, 11 Apr 2023 23:10:31 +0000",
-         "title" : "46th Thailand National Chess Championship 2023 Open"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -232,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-7-lichessorg",
          "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
          "title" : "2023 Spring Chess Classic: Round 7 | lichess.org"
-      },
-      {
-         "description" : "The World Chess Championship 2023 match between Nepo and Ding is subject to serious criticism from the chess fans. They would like to see the two challengers more often at the chess board, but instead the audience is left with two chairs and a chess board. (see here how the chairs were chosen) The truth []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-story-behind-ding-lirens-white-hoodie-tweetoftheday/",
-         "pubDate" : "Tue, 11 Apr 2023 18:40:21 +0000",
-         "title" : "The story behind Ding Liren's white hoodie #TweetOftheDay"
       },
       {
          "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
@@ -1952,14 +1960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2294",
          "pubDate" : "Thu, 23 Mar 2023 10:34:15 +0000",
          "title" : "World Championship match: venue, commentators & schedule"
-      },
-      {
-         "description" : " On an African chess group on WhatsApp, Andrew Lewaks shared this three-year-old video from a youth initiative involving the West Coast Chess Union in South Africa. &#8220;Helping Kings and Queens Make the Right Moves&#8221; is a very touching tribute showing the benefits of chess as an alternative to other national sports like rugby and netball. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/\">South Africa's West Coast Chess Union</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/22/south-africas-west-coast-chess-union/",
-         "pubDate" : "Thu, 23 Mar 2023 03:30:23 +0000",
-         "title" : "South Africa's West Coast Chess Union"
       }
    ]
 }
