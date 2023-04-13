@@ -602,6 +602,14 @@ news_feed (
          "title" : "Nepomniachtchi gets chances in the drawn first game of the World Chess Championship 2023 - 1"
       },
       {
+         "description" : "Recently a photograph re-emerged on Twitter, capturing all of the world champions and grandmasters who competed in the celebrated 1970 Match of the Century, which pitted the mighty USSR team against the Rest of the World. The USSR won the contest by a single point margin, largely due to the excellent score of Paul Keres, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-champions-i-have-played/",
+         "pubDate" : "Sun, 09 Apr 2023 10:32:21 +0000",
+         "title" : "Chess champions I have played"
+      },
+      {
          "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1370,6 +1378,14 @@ news_feed (
          "title" : "New King Rises: Anish Giri Appointed Chess.com CEO"
       },
       {
+         "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
+         "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
+         "title" : "Milton's cosmic game of chess"
+      },
+      {
          "description" : "Please find the live link for Indore Open GM Chess Championship 2023 https://view.livechesscloud.com/#5be145da-e394-4629-b4c2-6b954b12f4ce",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1800,6 +1816,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2296",
          "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
+      },
+      {
+         "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
+         "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
+         "title" : "On the shoulders of dwarves"
       },
       {
          "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
