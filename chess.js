@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-5-live/",
+         "pubDate" : "Fri, 14 Apr 2023 21:50:21 +0000",
+         "title" : "Nepo - Ding 2023, game 5 LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U13 / U11 / U09 / U07 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u15-2023-live/",
+         "pubDate" : "Fri, 14 Apr 2023 20:54:14 +0000",
+         "title" : "World School Championship U15 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u17-2023-live/",
+         "pubDate" : "Fri, 14 Apr 2023 20:48:33 +0000",
+         "title" : "World School Championship Girls U17 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. It is separated in 12 age categories : U15 / U13 / U11 / U09 / U07 / []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u17-2023-live/",
+         "pubDate" : "Fri, 14 Apr 2023 20:41:01 +0000",
+         "title" : "World School Championship U17 2023 - LIVE"
+      },
+      {
          "description" : "In his new Power Play Show, GM Daniel King uses game 2 of the World Championship match in Astana as a starting point, and compares it with two games from a previous match for the title, the 2008 confrontation between Vishy Anand and Vladimir Kramnik. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +170,6 @@ news_feed (
          "title" : "Austrian Bundesliga - LIVE"
       },
       {
-         "description" : "The British Rapidplay Championship is an 11-round Swiss tournament taking place from 15&#x2013;16 April 2023 in Bingley. Players receive 15 minutes for the entire game, plus a 10-second increment starting from move one.&#xA0; Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4New:&#xA0;100 Classical Masterpiece, commented by a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/british-rapidplay-championship-2023-live/",
-         "pubDate" : "Thu, 13 Apr 2023 20:43:22 +0000",
-         "title" : "British Rapidplay Championship 2023 - LIVE"
-      },
-      {
          "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -234,28 +258,12 @@ news_feed (
          "title" : "Nisipeanu Returns To Native Romania After 9 Years"
       },
       {
-         "description" : "After a strong start by Nepo and an emotionally shaken Ding in next rounds, today Ding Liren recovered with a brilliant game. Following an opening played by his second Richard Rapport, Ding dynamically mixed the position, leaving little space for black in a complicated game. In a difficult position, Nepo blundered with 28Nd4, which Ding []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/ding-is-back-we-have-a-fighting-world-chess-championship-2023/",
-         "pubDate" : "Thu, 13 Apr 2023 12:39:14 +0000",
-         "title" : "Ding is back! We have a fighting World Chess Championship 2023"
-      },
-      {
          "description" : "A Senior National Arbiter seminar and examination was organized by Erode District Chess Circle on behalf of Tamil Nadu State Chess Association and All India",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-examination-erode-1st-2nd-april-2023/",
          "pubDate" : "Thu, 13 Apr 2023 08:12:32 +0000",
          "title" : "Senior National Arbiter Examination, Erode 1st & 2nd April 2023"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-4-live/",
-         "pubDate" : "Thu, 13 Apr 2023 06:00:00 +0000",
-         "title" : "Nepo - Ding 2023, game 4 LIVE"
       },
       {
          "description" : "The Danish Championships 2023 took place on April 1-10, 2023, in Svendborg, a small town that hosted the last five editions. The top event was a 10-player single round-robin. GM Boris Chatalbashev earned his maiden title after scoring 7&frac12; points. GM Jesper S&oslash;nderg&aring;rd Thybo finished in sole second place, a full point behind. | Photos: Thomas Vesterg&aring;rd and Ellen Fredericia Nilssen",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/12/2023-world-chess-championship-game-3/",
          "pubDate" : "Thu, 13 Apr 2023 02:09:31 +0000",
          "title" : "2023 World Chess Championship: Game 3"
-      },
-      {
-         "description" : "The 2nd Chessable Sunway Formentera Festival is taking place from 18&#x2013;28 April 2023 in Formentera, Spain. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-round Swiss tournament with participation of Vitaliy Bernadskiy, Daniel Dardha, Chopra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-chessable-sunway-formentera-festival-2023-live/",
-         "pubDate" : "Wed, 12 Apr 2023 23:44:54 +0000",
-         "title" : "2nd Chessable Sunway Formentera Festival 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
