@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Power Play Show, GM Daniel King uses game 2 of the World Championship match in Astana as a starting point, and compares it with two games from a previous match for the title, the 2008 confrontation between Vishy Anand and Vladimir Kramnik. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-g-file-attack-nepo-anand",
+         "pubDate" : "Fri, 14 Apr 2023 21:00:00 +0100",
+         "title" : "Daniel King's Power Play Show: G-file attacks, with Nepo and Anand"
+      },
+      {
+         "description" : "WFM Honorata Kucharska is a talented and accomplished Woman FIDE Master (WFM) in the world of chess. Born in Poland, she has made a name for herself through her impressive strategic thinking and passion for the game. ChessBase is the tool, which Honorata enjoys most, for preparing against her opponents. In our very first episode of \"Honorata's Harmony\" the Polish WFM introduces herself, and shows us her analysis of one of her best games she has played against the Sicilian setup.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/honorata-s-harmony-who-is-honorata-kucharska",
+         "pubDate" : "Fri, 14 Apr 2023 20:00:00 +0100",
+         "title" : "Honorata's Harmony - Who is Honorata Kucharska?"
+      },
+      {
+         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and minor pieces! If you wish to know more, we recommend the full course by Jan Markos, Middlegame Secrets Vol.2: The Potential of the Rook. | Photo: Benjamin Smith/Unsplash",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-rook-2",
+         "pubDate" : "Fri, 14 Apr 2023 18:00:00 +0100",
+         "title" : "Jan Markos: What you need to know about the Rook (2)"
+      },
+      {
+         "description" : "Tim Krabb&eacute;'s book \"Schaakkuriosa\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
+         "pubDate" : "Fri, 14 Apr 2023 17:05:00 +0100",
+         "title" : "Study of the Month - Reflections on Ionchev's pattern"
+      },
+      {
          "description" : "In his Fast & Furious show, Robert Ris looks at game 4 of the World Championship match in Astana. Ding Liren's opening choice was excellent, as his decision to enter a relatively unknown line from the English Opening worked wonders. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/",
          "pubDate" : "Fri, 14 Apr 2023 13:32:55 +0000",
          "title" : "2023 World Chess Championship: Game 4"
-      },
-      {
-         "description" : "Tim Krabb&eacute;'s book \"Schaakkuriosa\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
-         "pubDate" : "Fri, 14 Apr 2023 12:00:00 +0100",
-         "title" : "Study of the Month - Reflections on Ionchev's pattern"
       },
       {
          "description" : " Last weekend I had the opportunity to use one of the lines from my White 1.d4 Repertoire course. Actually I got it by transposition, as in the course I give 1.d4 Nf6 2.Nf3 e6 3.e3, whereas in the game I played 3.c4 b6 and then 4.e3, the so-called Spassky System. There are some differences between <a href=\"https://chessimprover.com/a-deceptively-quiet-line/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Deceptively Quiet Line\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-deceptively-quiet-line/\">A Deceptively Quiet Line</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1154,14 +1178,6 @@ news_feed (
          "title" : "Chessable Masters: Caruana and Nakamura reach winners' bracket final"
       },
       {
-         "description" : "From March 25 to April 5, New Delhi is hosting the third stage of the 2022-23 Women's Grand Prix series. The two best players from four tournaments will qualify for the Candidates Tournament. The action kicks off at 11.30 CEST (5.30 EDT, 15.00 IST). Follow the games live, with commentary by GM Praveen Thipsay and IM Soumya Swaminathan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-delhi-2023-live",
-         "pubDate" : "Wed, 05 Apr 2023 05:40:00 +0100",
-         "title" : "Women's Grand Prix in New Delhi - Live!"
-      },
-      {
          "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1194,14 +1210,6 @@ news_feed (
          "title" : "A Plausible Trap"
       },
       {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. Next we'll discuss the Rook, exploring things like the impact of the 7th rank or the difference between rooks and light pieces! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.2: The Potential of the Rook| Photo: Benjamin Smith/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-2",
-         "pubDate" : "Tue, 04 Apr 2023 17:00:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Rook"
-      },
-      {
          "description" : "The post from a couple of days ago, <A HREF=\"https://chessforallages.blogspot.com/2023/04/baffling-ebay.html\">Baffling eBay</A> (April 2023), was post no.3600 on this blog. That means it's time for another 'Breaking the Barrier' post, last seen in <A HREF=\"https://chessforallages.blogspot.com/2022/10/breaking-3500-barrier.html\">Breaking the 3500 Barrier</A> (October 2022). In that '3500' post I wrote <BLOCKQUOTE> If I ever do a 'Breaking 3600' post, I now have two CCRL rating lists to consult, but I'll cross that bridge when I come to it. </BLOCKQUOTE> <P> I am now standing in front of that bridge -- OK, sitting in front of it -- and I see that there are four CCRL rating lists. Shown below a",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-super-plumber-bots",
          "pubDate" : "Tue, 04 Apr 2023 07:01:00 -0700",
          "title" : "Play Chess Against The Super Plumber Bots"
-      },
-      {
-         "description" : "A total of 56 players are participating in the Chessable Masters Tournament. The players are distributed in three divisions, each taking place with a double-elimination format. Four rapid games (15+3) are played in each confrontation, and if a match ends in a draw, an Armageddon decider follows. This format ensures excitement, surprises and plenty of mistakes. The biggest surprise on Day 1 was Magnus Carlsen's loss to Vladislav Artemiev in Division I.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d1",
-         "pubDate" : "Tue, 04 Apr 2023 13:50:00 +0100",
-         "title" : "Chessable Masters: Close matches, Artemiev beats Carlsen"
       },
       {
          "description" : "Vladislav Artemiev was the first player to win a match against Magnus Carlsen in the 2023 Champions Chess Tour as he won in Armageddon to leave Magnus needing to plot a way to win the tournament via the Losers bracket. Hikaru Nakamura was an amazing escape away from also losing, but held on to defeat Vladimir Fedoseev and set up yet another double elimination showdown with Wesley So.",
@@ -1864,14 +1864,6 @@ news_feed (
          "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
          "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
          "title" : "On the shoulders of dwarves"
-      },
-      {
-         "description" : "In last week's Friday post, <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> (March 2023), I wrote, <BLOCKQUOTE> We interrupt this series on 'Cheating @ Chess.com' to follow an important detour. [...] Before past title matches I've used a few posts to learn something about World Champion Carlsen's challenger for a particular match. </BLOCKQUOTE> <P> As I pointed out in the same post, 'GM Nepomniachtchi was Carlsen's challenger in the previous title match' and one of the posts I wrote then was <A HREF=\"https://chessforallages.blogspot.com/2021/06/nepos-twic-debut.html\">Nepo's TWIC Debut</A> (June 2021). I disc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html",
-         "pubDate" : "Fri, 24 Mar 2023 16:49:00 +0000",
-         "title" : "Ding Liren's TWIC Debut"
       }
    ]
 }
