@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Fast & Furious show, Robert Ris looks at game 4 of the World Championship match in Astana. Ding Liren's opening choice was excellent, as his decision to enter a relatively unknown line from the English Opening worked wonders. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening",
+         "pubDate" : "Fri, 14 Apr 2023 17:00:00 +0100",
+         "title" : "Robert Ris' Fast and Furious: Ding's English Opening in Astana"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 4: Match tied as Ding gets the win Match Score: 2-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 4Thursday, 13 April 2023 Nepo gets crushed after Ding's thematic exchange sac The pendulum has swung toward Ding Liren after he capitalized off of a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/\">2023 World Chess Championship: Game 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/",
+         "pubDate" : "Fri, 14 Apr 2023 13:32:55 +0000",
+         "title" : "2023 World Chess Championship: Game 4"
+      },
+      {
          "description" : "Tim Krabb&eacute;'s book \"Schaakkuriosa\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Austrian Women's Bundesliga - LIVE"
       },
       {
-         "description" : " Ding Liren's decisive rook-for-knight sacrifice won game four in 47 moves to level at 2-2 in the 14-game contest in Astana China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the €2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four. The score was Ding 2 Nepomniachtchi 2 before Friday's rest day. Di",
+         "description" : " Ding Liren's rook-for-knight sacrifice won game four in 47 moves to level at 2-2 in the 14-game World Chess Championship China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the €2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four. The score was Ding 2 Nepomniachtchi 2 before Friday's rest day. Ding",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/14/ding-liren-strikes-back-hard-after-poor-start-against-ian-nepomniachtchi",
@@ -1218,14 +1234,6 @@ news_feed (
          "title" : "Chessable Masters: Close matches, Artemiev beats Carlsen"
       },
       {
-         "description" : "Your heart rate and adrenaline have an impact on your performance. As a chess player, understanding and monitoring various physiological aspects can have a significant impact on your performance. When you play chess, you may not be as physically active, but the mental demands of the game can still trigger an extreme stress response in your body. As was demonstrated in last month's Armageddon tournament in Berlin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/physiological-factors-that-can-significantly-impact-your-game",
-         "pubDate" : "Tue, 04 Apr 2023 12:00:00 +0100",
-         "title" : "Physiological factors that can significantly impact your game"
-      },
-      {
          "description" : "Vladislav Artemiev was the first player to win a match against Magnus Carlsen in the 2023 Champions Chess Tour as he won in Armageddon to leave Magnus needing to plot a way to win the tournament via the Losers bracket. Hikaru Nakamura was an amazing escape away from also losing, but held on to defeat Vladimir Fedoseev and set up yet another double elimination showdown with Wesley So.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html",
          "pubDate" : "Fri, 24 Mar 2023 16:49:00 +0000",
          "title" : "Ding Liren's TWIC Debut"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2295",
-         "pubDate" : "Fri, 24 Mar 2023 12:00:09 +0000",
-         "title" : "European Women's Championship: Kiolbasa leads at halfway"
       }
    ]
 }
