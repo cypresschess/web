@@ -2,7 +2,55 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Following a crushing 29-move victory in game two of the world title match in Astana Ding Liren's decisive rook for knight sacrifice won game four in 47 to level at 2-2 in the 14-game contest China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the â‚¬2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four",
+         "description" : "Tim Krabb&eacute;'s book \"Schaakkuriosa\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
+         "pubDate" : "Fri, 14 Apr 2023 12:00:00 +0100",
+         "title" : "Study of the Month - Reflections on Ionchev's pattern"
+      },
+      {
+         "description" : " Last weekend I had the opportunity to use one of the lines from my White 1.d4 Repertoire course. Actually I got it by transposition, as in the course I give 1.d4 Nf6 2.Nf3 e6 3.e3, whereas in the game I played 3.c4 b6 and then 4.e3, the so-called Spassky System. There are some differences between <a href=\"https://chessimprover.com/a-deceptively-quiet-line/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Deceptively Quiet Line\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-deceptively-quiet-line/\">A Deceptively Quiet Line</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/a-deceptively-quiet-line/",
+         "pubDate" : "Fri, 14 Apr 2023 10:01:59 +0000",
+         "title" : "A Deceptively Quiet Line"
+      },
+      {
+         "description" : "Today is a rest day in the World Chess Championship 2023 aka Nepo &#x2013; Ding match, and this is a great opportunity to focus our attention on the other World Championship going on at this moment. The strongest chess engines in the world Stockfish and Leela Chess Zero are battling in a 100 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/the-other-world-chess-championship-stockfish-vs-lc0-live/",
+         "pubDate" : "Fri, 14 Apr 2023 09:33:08 +0000",
+         "title" : "The other World Chess Championship - Stockfish vs Lc0 (LIVE)"
+      },
+      {
+         "description" : "The 2023 Greek Junior Championships U20 (Open &#38; Girls) take place in Trikala from 18-24 April. The tournaments are 9-round Swiss events, with a time control of 90 minutes for the entire game and a 30-second increment from move 1.&#xA0;In Junior U20 section will participate Konstantinos Tsarsitalidis, Christos Tsarsitalidis, Georgios Antonioudakis, Antonios Gkavardinas, Dimitrios Stoimenidis, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-greek-junior-championship-2023-live/",
+         "pubDate" : "Fri, 14 Apr 2023 08:12:51 +0000",
+         "title" : "U20 Greek Junior Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 Greek Junior Championships U20 (Open &#38; Girls) take place in Trikala from 18-24 April. The tournaments are 9-round Swiss events, with a time control of 90 minutes for the entire game and a 30-second increment from move 1. In Girls U20 section will participate Styliani Vardaka, Makrina-Eirini Perakaki, Konstantina Raftopoulou, Ifigenia Tozarou, Eleni []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-greek-girls-championship-2023-live/",
+         "pubDate" : "Fri, 14 Apr 2023 08:04:11 +0000",
+         "title" : "U20 Greek Girls Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Austrian Women's Bundesliga is a 10-team round-robin. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4New:&#xA0;100 Classical Masterpiece, commented by a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/austrian-womens-bundesliga-live/",
+         "pubDate" : "Fri, 14 Apr 2023 07:55:46 +0000",
+         "title" : "Austrian Women's Bundesliga - LIVE"
+      },
+      {
+         "description" : " Ding Liren's decisive rook-for-knight sacrifice won game four in 47 moves to level at 2-2 in the 14-game contest in Astana China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the â‚¬2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four. The score was Ding 2 Nepomniachtchi 2 before Friday's rest day. Di",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/apr/14/ding-liren-strikes-back-hard-after-poor-start-against-ian-nepomniachtchi",
@@ -200,38 +248,6 @@ news_feed (
          "link" : "https://www.chessdom.com/2nd-chessable-sunway-formentera-festival-2023-live/",
          "pubDate" : "Wed, 12 Apr 2023 23:44:54 +0000",
          "title" : "2nd Chessable Sunway Formentera Festival 2023 - LIVE"
-      },
-      {
-         "description" : "The 2nd Chessable Sunway Formentera Festival is taking place from 18&#x2013;28 April 2023 in Formentera, Spain. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; It is a 10-round Swiss tournament with participation of Vitaliy Bernadskiy, Daniel Dardha, Chopra []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/2nd-chessable-sunway-formentera-festival-2023/",
-         "pubDate" : "Wed, 12 Apr 2023 23:42:37 +0000",
-         "title" : "2nd Chessable Sunway Formentera Festival 2023"
-      },
-      {
-         "description" : "Hans Moke Niemann Marcin Krzyzanowski is a game from the fourth round of &#xA0;Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van Forrest, Maksim Chigaev, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/hans-moke-niemann-marcin-krzyzanowski-live-menorca-open-2023/",
-         "pubDate" : "Wed, 12 Apr 2023 23:35:26 +0000",
-         "title" : "Hans Moke Niemann - Marcin Krzyzanowski LIVE Menorca Open 2023"
-      },
-      {
-         "description" : "Koustav Chatterjee D Gukesh is a game from the fourth round of &#xA0;Menorca Open 2023. The&#xA0;II Open Internacional Chess Menorca&#xA0;will take place from 11-16 April 2023 in Ciutadella (Menorca), Spain. More than 190 players are registered for now, among them top seeded are&#xA0;Gukesh&#xA0;and&#xA0;Hans Niemann. Additionally, we will see Jorden Van Forrest, Maksim Chigaev, Max []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/koustav-chatterjee-d-gukesh-live-menorca-open-2023/",
-         "pubDate" : "Wed, 12 Apr 2023 23:31:06 +0000",
-         "title" : "Koustav Chatterjee - D Gukesh LIVE Menorca Open 2023"
-      },
-      {
-         "description" : "The 80th PGNiG TERMIKA Polish Championship is taking place from 12-20 April 2023 in Warsaw. The event is a knockout, with two classical games in each match, followed, if necessary, by two rapid games, then two blitz games, then Armageddon. The time control is 90 minutes for 40 moves, followed by 30 minutes to the []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/pgnig-termika-polish-championship-2023-live/",
-         "pubDate" : "Wed, 12 Apr 2023 23:22:03 +0000",
-         "title" : "PGNiG TERMIKA Polish Championship 2023 - LIVE"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
@@ -1218,14 +1234,6 @@ news_feed (
          "title" : "Carlsen falls to Artemiev | Chessable Masters Day 1"
       },
       {
-         "description" : "In the endgame - and in the middlegame - far advanced passed pawns can be very powerful. In the diagram position it is White to move and win. What would you do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/passed-pawns-can-be-powerful",
-         "pubDate" : "Tue, 04 Apr 2023 09:00:00 +0100",
-         "title" : "Passed pawns can be powerful"
-      },
-      {
          "description" : "The 38th edition of the European Chess Club Cup and the 27th European Club Cup for Women will be held in Durres, Albania, from September 30th to October 8th 2023. The events will be played in 7 rounds, swiss system, with time control of 90 minutes for 40 moves plus 30 minutes for the rest of the game&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/european-open-womens-club-cup-2023-official-invitation/\">Read More &#187;</a></span>",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1864,134 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2295",
          "pubDate" : "Fri, 24 Mar 2023 12:00:09 +0000",
          "title" : "European Women's Championship: Kiolbasa leads at halfway"
-      },
-      {
-         "description" : " I caught an episode of the tv series \"Van der Valk\" (2020 remake) this evening. I remember watching the original series as a child (probably on a Friday night on the ABC). While it is a pretty standard \"police procedural\" there was one nod to the setting of the series. Towards the end of the episode, Van der Valk was and the new team member played a game of chess, with the new member winning. \"We need someone who can think 4 moves ahead\" was the closing comment.<br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/the-dutch-stereotype.html",
-         "pubDate" : "Fri, 24 Mar 2023 11:26:00 +0000",
-         "title" : "The Dutch Stereotype"
-      },
-      {
-         "description" : "After six played rounds at the European Women's Chess Championship 2023 in Petrovac, Montenegro, IM Oliwia Kiolbasa (POL, 2406) emerged on the top with 5.5 points. In the sixth-round direct encounter between the leaders, IM Oliwia Kiolbasa defeated IM Irina Bulmaga (ROU, 2438) to head into the free day as the sole leader of the Championship. The European&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/im-oliwia-kiolbasa-in-the-sole-lead-at-european-womens-chess-championship-2023-round-6-report/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-oliwia-kiolbasa-in-the-sole-lead-at-european-womens-chess-championship-2023-round-6-report/",
-         "pubDate" : "Fri, 24 Mar 2023 10:05:50 +0000",
-         "title" : "IM Oliwia Kiolbasa in the sole lead at European Women's Chess Championship 2023 - Round 6 report"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess, a global gaming company, will from now on plant a tree for each chess set sold. Beautiful chess sets and beautiful forests can co-exist. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1600h900_1.png\" width=\"1601\" height=\"901\" alt=\"\" /> </div> This environment-conscious initiative is a collaboration with <a href=\"https://onetreeplanted.org\">One Tree Planted</a>, a nonprofit dedicated to global reforestation. The main goal is to plant 10,000 trees over the next 5 years, restoring deforested and fire-affected areas. For every chess set purchased, World Chess will plant one tree in India where its main manufacturing site is located. \"We",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/buy-a-chess-set-plant-a-tree/",
-         "pubDate" : "Fri, 24 Mar 2023 09:09:20 +0000",
-         "title" : "Buy a Chess Set - Plant a Tree"
-      },
-      {
-         "description" : " <p class=\"lead\">FIDE Online Arena, the official gaming platform of the International Chess Federation, advances personal health in e-sport by introducing a new feature to measure calories burned by playing online. Starting from today, <a href=\"https://chessarena.com\">FIDE Online Arena</a>, the official FIDE gaming platform, which is operated by World Chess, will track and display the calories users burn during an online game of chess. Whilst calorie tracking is already widely used across offline fitness and sports, including chess, it has not previously been used as a feature in e-sports. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.7777777777778\"> <im",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/chess-platform-to-measure-calories-burned-by-playing-chess-onlin/",
-         "pubDate" : "Fri, 24 Mar 2023 09:07:46 +0000",
-         "title" : "Chess Platform to Measure Calories Burned by Playing Chess Online"
-      },
-      {
-         "description" : " <p class=\"lead\">Chess prodigy Arjun Erigaisi is making history as he signs a groundbreaking sponsorship deal with Singapore-based Quantbox. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1013127.381eb6a8.668x375o.d68a4a88093c@2x.png\" width=\"668\" height=\"375\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes/Tata Steel Chess India</div> </div> This five-year contract, worth over $1.5 million, marks the first-ever sponsorship of the Grandmaster from Telangana, and could be a major boost to his professional career. For Erigaisi, 2022 has been a breakthrough year as he has consistently improved his game, earning him a strong rank of 26th in the world by c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5-m/",
-         "pubDate" : "Fri, 24 Mar 2023 09:06:29 +0000",
-         "title" : "Indian Chess Prodigy Arjun Erigaisi Breaks Big Record with $1.5 Million Sponsorship Deal"
-      },
-      {
-         "description" : " <p class=\"lead\">The International Chess Federation recently released the requirements for the 2024 Candidates' Tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2022-12-16_11-28-37.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess (Candidates Tournament 2018 in Berlin)</div> </div> «The main innovation is creating a new qualification path through different FIDE-rated tournaments. Tournaments that meet certain criteria, like being played under standard time control, supervised by International Arbiters, and where Fair Play measures are applied (among other criteria listed below in detail), will grant points t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-has-changed-the-selection-criteria-for-the-candidates-tourn/",
-         "pubDate" : "Fri, 24 Mar 2023 09:05:18 +0000",
-         "title" : "FIDE has changed the selection criteria for the candidates' tournament"
-      },
-      {
-         "description" : " <p class=\"lead\">After Arjun Erigaisi signed a <a href=\"https://worldchess.com/news/all/indian-chess-prodigy-arjun-erigaisi-breaks-big-record-with-1-5mn/\">$1.5 Million Sponsorship Deal with Quantbox</a>, another Indian prodigy, GM Rameshbabu Praggnanandhaa signs with Baseline Ventures for Commercial Representation. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/52272029678_687c008b1b_c.jpg\" width=\"800\" height=\"563\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: Lennart Ootes</div> </div> The past years, India has seen a great rise of young talents in chess including Arjun Erigaisi, Rameshbabu Praggnanandhaa, Nihal Sarin, and Dommaraju Gukesh. Indeed, a bit more t",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/17-year-old-indian-gm-rameshbabu-praggnanandhaa-signs-with-basel/",
-         "pubDate" : "Fri, 24 Mar 2023 09:04:29 +0000",
-         "title" : "17-year-old Indian GM Rameshbabu Praggnanandhaa Signs With Baseline Ventures"
-      },
-      {
-         "description" : " <p class=\"lead\">Most people can't even imagine how much money elite chess players earn - only from tournament prizes let alone streaming and other business activities - per year but Nathaniel Green published an article on chesscom revealing that 3 GMs made more than 500k in 2022, and 17 GMs between $100-450k with only one woman on this list. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2023-01-06_12-39-39.jpg\" width=\"1280\" height=\"828\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> It's not hard to imagine that No.1 on this list is Magnus Carlsen. The winner of the Champions Chess Tour, Norway Chess, and both the World Rapid and ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-3-grandmasters-who-made-more-than-500k-in-2022/",
-         "pubDate" : "Fri, 24 Mar 2023 09:03:23 +0000",
-         "title" : "The 3 grandmasters who made more than 500k in 2022"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess Plc, a leading chess organisation seeking to promote the mass market appeal of chess globally through the commercial offering of chess related activities, is pleased to announce its intention to seek admission of its Ordinary Shares to the Official List and to trading on the London Stock Exchange's Main Market for listed securities, and a placing of new shares to raise up to &pound;10m. It is expected that the Admission will become effective and that dealings will commence in November 2022, under the ticker CHSS. Novum Securities Limited (\"Novum\") is acting as Financial Adviser to the Company and Retail investors will be able to register their interest in the IPO",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-plans-to-list-on-the-london-stock-exchange/",
-         "pubDate" : "Fri, 24 Mar 2023 08:51:29 +0000",
-         "title" : "World Chess Plans to List On The London Stock Exchange"
-      },
-      {
-         "description" : " <p class=\"lead\">Magnus Carlsen, the current World Chess Champion, stunned fans earlier this week by announcing that he will not be defending his title in the next match and will effectively retire from the Championship cycle (but not from chess). <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1275\" data-ratio=\"1.5625\"> <img src=\"https://worldchess.com/news/pictures/1-12.jpg\" width=\"1275\" height=\"816\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Snimok-ekrana-2022-07-22-v-12.51.37.png\" width=\"2150\" height=\"1574\" alt=\"\" /> </div> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <a href=\"https://yougov.co.uk\">YouGov</a>, the leading research company and",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/only-7-of-people-know-the-name-of-the-current-world-chess-champi/",
-         "pubDate" : "Fri, 24 Mar 2023 08:50:19 +0000",
-         "title" : "Only 7% of People Know The Name of The Current World Chess Champion"
-      },
-      {
-         "description" : " <p class=\"lead\">FIDE, ISF (the International School Sport Federation) and World Chess are proud to announce the FIDE - ISF World School Teams Online Chess Cup 2023, taking place in March 2023. This exciting event provides a platform for schools from FIDE and ISF member countries, as well as students from around the world*, to connect with chess enthusiasts from across the globe and showcase their skills in an official international chess tournament. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9395-(2).png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> With chess in schools becoming increasingly important, organizers of the FIDE - ISF World School Teams O",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/the-fide-isf-world-school-teams-online-chess-cup-2023-registrati/",
-         "pubDate" : "Fri, 24 Mar 2023 08:47:30 +0000",
-         "title" : "The FIDE - ISF World School Teams Online Chess Cup 2023: Registration begins"
-      },
-      {
-         "description" : " <p class=\"lead\">The event is expected to be one of the most televised chess events in the world The Armageddon Championship Series 2023, a revolutionary chess format developed specifically for television by World Chess plc, will take place in Berlin, Germany from March to September 2023, filmed in a bespoke pavilion located on Unter Den Linden. The series begins with the Americas' Championship Series from March 6 - 12, followed by the Asia and Oceania, Women's Week, and Europe and Africa series, ending with the exhilarating series Grand Finale streamed on international television between September 14 - 20. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/ARMA.png",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/berlin-to-host-armageddon-championship-series-2023/",
-         "pubDate" : "Fri, 24 Mar 2023 08:45:55 +0000",
-         "title" : "Berlin to Host Armageddon Championship Series 2023"
-      },
-      {
-         "description" : " <p class=\"lead\">The german media brand WELT and World Chess announce their partnership for the upcoming Armageddon Championship Series 2023, making Welt.de the exclusive German broadcast platform for the series. WELT belongs to the German media company Axel Springer. This partnership will bring the Armageddon Championship Series 2023 to German-speaking fans all over the world, giving them access to all games, as well as exclusive interviews, additional content, and events related to the event. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-9563-(3).png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> The Armageddon Championship Series 2023 starts on March 6 an",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/welt-de-is-the-exclusive-german-broadcaster-for-armageddon/",
-         "pubDate" : "Fri, 24 Mar 2023 08:43:13 +0000",
-         "title" : "Welt.de is The Exclusive German Broadcaster For Armageddon"
-      },
-      {
-         "description" : " <p class=\"lead\">All eyes are on Berlin, Germany, for the <a href=\"https://chessarena.com/armageddon\">Armageddon Championship Series: Americas</a>, a first event of the cutting-edge new chess format developed by World Chess set to take place from March 6 to March 12. The new fast-paced series is the latest in impressive chess innovation and an epic line-up: <b>GM Wesley So</b> (the USA, blitz 2739), <b>GM Jose Martinez Alcantara</b> (PER, blitz 2712), <b>GM Ray Robson</b> (the USA, blitz 2668), <b>GM Leinier Dominguez</b> (the USA, blitz 2647), <b>GM Sam Shankland</b> (the USA, blitz 2638), <b>GM Andrew Tang</b> (the USA, blitz 2602), <b>IM Renato Terry</b> (PER, blitz 2579), and <b>GM Eric ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/armageddon-set-to-take-berlin-by-storm-on-march-6th-with-epic-ma/",
-         "pubDate" : "Fri, 24 Mar 2023 08:42:01 +0000",
-         "title" : "Armageddon Set to Take Berlin by Storm on March 6th with Epic Match-Ups"
-      },
-      {
-         "description" : " <p class=\"lead\">It.com, a domain registry, has become the official partner of the Armageddon Championship Series, elite chess tournaments developed for TV broadcasting and organized by World Chess. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.5005861664713\"> <img src=\"https://worldchess.com/news/pictures/Arma-x-It.com4.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/Arma-x-It.com2.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> </div> </div> It.com enters the world of chess with the «Intelligent game - Intelligent name, » campaign that is devoted to exploring the nature of intelligence. Within the multistage collaborati",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/it-com-joins-the-armageddon-series-as-the-official-partner/",
-         "pubDate" : "Fri, 24 Mar 2023 08:40:02 +0000",
-         "title" : "It.com Joins the Armageddon Series as the Official Partner"
-      },
-      {
-         "description" : " Kasparov says 'the world championship match should include the strongest player on the planet, and this match [Ian Nepomniachtchi v Ding Liren] doesn't' Garry Kasparov, who held the world title from 1985 to 2000 and is regarded as Magnus Carlsen's rival as the greatest player of all time, said next month's Ian Nepomniachtchi v Ding Liren world title match \"should include the strongest player on the planet, and this match doesn't &hellip; It's a kind of amputated event &hellip; The match between Nepo and Ding is a great show, but it's not a world championship match.\" Comments on Kasparov's assertion have been mostly negative, pointing out that the match is actually between the two highest ra",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/world/2023/mar/24/chess-garry-kasparov-calls-aprils-world-title-match-amputated",
-         "pubDate" : "Fri, 24 Mar 2023 08:00:15 +0000",
-         "title" : "Chess: Garry Kasparov calls April's world title match 'amputated event'"
       }
    ]
 }
