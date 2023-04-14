@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Following a crushing 29-move victory in game two of the world title match in Astana Ding Liren's decisive rook for knight sacrifice won game four in 47 to level at 2-2 in the 14-game contest China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the €2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/apr/14/ding-liren-strikes-back-hard-after-poor-start-against-ian-nepomniachtchi",
+         "pubDate" : "Fri, 14 Apr 2023 07:00:07 +0000",
+         "title" : "Ding Liren strikes back hard after poor start against Ian Nepomniachtchi"
+      },
+      {
+         "description" : "The La Roda Open took place on April 5-9 in La Roda, a small town located in the province of Albacete. The 9-round Swiss open saw two players scoring 7&frac12; points, Alexandr Fier and Aravindh Chithambaram. Fier was declared champion thanks to his better tiebreaker score. A number of Indian players had strong performances, as Pranav, Iniyan and top seed Narayanan all collected 7 points in the tournament. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/la-roda-open-2023-final-report",
+         "pubDate" : "Fri, 14 Apr 2023 06:30:00 +0100",
+         "title" : "Alexadr Fier edges Aravindh to win 49th La Roda Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-9-playoffs",
+         "pubDate" : "Fri, 14 Apr 2023 03:26:28 +0000",
+         "title" : "2023 Spring Chess Classic: Round 9 & Playoffs"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-8",
          "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
          "title" : "2023 Spring Chess Classic: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.11<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-7-lichessorg",
-         "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
-         "title" : "2023 Spring Chess Classic: Round 7 | lichess.org"
       },
       {
          "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
@@ -1218,14 +1234,6 @@ news_feed (
          "title" : "European Open & Women's Club Cup 2023 - Official invitation"
       },
       {
-         "description" : "With a final score of 3&frac12;-1&frac12;, Lei Tingjie defeated Tan Zhongyi in the Women's Candidates Final. Lei will challenge Ju Wenjun in the upcoming Women's World Championship match, scheduled to take place in July. In game 5, Lei obtained a fine attacking win, which topped off her dominant performance in Chongqing. | Photos: FIDE / Liu Yi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-candidates-final-2023-g5",
-         "pubDate" : "Tue, 04 Apr 2023 04:45:00 +0100",
-         "title" : "Lei Tingjie convincingly wins the Women's Candidates Final"
-      },
-      {
          "description" : "The Champions Chess Tour Chessable Masters 2023 Knockout kicked off on Monday, and Division I saw four players advance to the Winners Semifinals: GMs Vladislav Artemiev, Fabiano Caruana, Hikaru Nakamura, and Wesley So. They respectively knocked GM...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1984,14 +1992,6 @@ news_feed (
          "link" : "https://www.theguardian.com/world/2023/mar/24/chess-garry-kasparov-calls-aprils-world-title-match-amputated",
          "pubDate" : "Fri, 24 Mar 2023 08:00:15 +0000",
          "title" : "Chess: Garry Kasparov calls April's world title match 'amputated event'"
-      },
-      {
-         "description" : " We're going to end our brief examination of the fork this week, moving onto the skewer and pin next week. Over the last month, we looked at a fork created by Black. While this fork, which at first glance seemed reasonable, fit the definition of this type of tactic, it fell short in the end. <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-seven/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Seven\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-seven/\">A Foundation for Beginners Eighty Seven</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/a-foundation-for-beginners-eighty-seven/",
-         "pubDate" : "Fri, 24 Mar 2023 06:43:14 +0000",
-         "title" : "A Foundation for Beginners Eighty Seven"
       }
    ]
 }
