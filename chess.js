@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g5",
+         "pubDate" : "Sat, 15 Apr 2023 22:50:00 +0100",
+         "title" : "World Championship Game 5: Nepo wins model game, leads again"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u07-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 21:24:45 +0000",
+         "title" : "World School Championship U07 2023 - LIVE"
+      },
+      {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-6-live/",
+         "pubDate" : "Sat, 15 Apr 2023 21:21:29 +0000",
+         "title" : "Nepo - Ding 2023, game 6 LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u07-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 21:16:54 +0000",
+         "title" : "World School Championship Girls U07 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U07 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u09-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 21:11:17 +0000",
+         "title" : "World School Championship U09 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u09-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 21:00:10 +0000",
+         "title" : "World School Championship Girls U09 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U09 / U07 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u11-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 20:52:11 +0000",
+         "title" : "World School Championship U11 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u11-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 20:39:02 +0000",
+         "title" : "World School Championship Girls U11 2023 - LIVE"
+      },
+      {
+         "description" : "Ian Nepomniachtchi has regained the lead in the 2023 FIDE World Championship match after bouncing back to beat Ding Liren in Game 5. \"This loss hurt more than the previous one, because I thought I was totally fine,\" said Ding, who despite falling far behind on the clock had come tantalisingly close to equalising before allowing a brilliant finish by his opponent. Nepo now leads 3:2 with nine games to go.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/nepomniachtchi-retakes-the-lead-with-game-5-win",
+         "pubDate" : "Sat, 15 Apr 2023 20:22:13 +0000",
+         "title" : "Nepomniachtchi retakes the lead with Game 5 win"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U11 / U09 / U07 / Girls []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-u13-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 20:07:48 +0000",
+         "title" : "World School Championship U13 2023 - LIVE"
+      },
+      {
+         "description" : "The Easter Open 2023 will take place on 30 April 2023 in Sandanski, Bulgaria. The time control is 2 x 15 min. +10 sec per move . The Easter Open 2023 has total prize fund of 3580 BGN and will be played as 9-round Swiss system. The top rated players are Grigor Grigorov, Petar G. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/easter-open-2023/",
+         "pubDate" : "Sat, 15 Apr 2023 20:01:39 +0000",
+         "title" : "Easter Open 2023"
+      },
+      {
+         "description" : "The Queenstar Open International Rating Chess Championship 2023 will take place from 16-20 April 2023 in Hotel Covanro, Naiwala, Sri Lanka. The time control is 90 minutes plus a 30 seconds increment starting from move one.&#xA0;The tournament system is 10-round Swiss and more than 380 players are registered, among them are Azer Mirzoev, Chakkravarthy J. []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/queenstar-open-international-rating-chess-championship-2023-participants/",
+         "pubDate" : "Sat, 15 Apr 2023 19:54:03 +0000",
+         "title" : "Queenstar Open International Rating Chess Championship 2023 - Participants"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,14 +170,6 @@ news_feed (
          "title" : "National Arbiter Seminar Erode Certificates"
       },
       {
-         "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win with white to regain the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Replay the game with computer-assisted analysis. A full report will follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sat, 15 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 5 - Nepo retakes the lead"
-      },
-      {
          "description" : "In the diagram position, White's opening move may be obvious with the black king in the centre, but after that ... Enjoy heavy piece handling &agrave; la Fritz S&auml;misch!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,60 +178,12 @@ news_feed (
          "title" : "All beginnings are easy"
       },
       {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u13-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 07:22:54 +0000",
-         "title" : "World School Championship Girls U13 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u15-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 07:14:29 +0000",
-         "title" : "World School Championship Girls U15 2023 - LIVE"
-      },
-      {
          "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is set to take place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian will be joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-preview",
          "pubDate" : "Sat, 15 Apr 2023 08:00:00 +0100",
          "title" : "Next week: Satty Zhuldyz rapid and blitz event with Kramnik and Hou"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-5-live/",
-         "pubDate" : "Fri, 14 Apr 2023 21:50:21 +0000",
-         "title" : "Nepo - Ding 2023, game 5 LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U13 / U11 / U09 / U07 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u15-2023-live/",
-         "pubDate" : "Fri, 14 Apr 2023 20:54:14 +0000",
-         "title" : "World School Championship U15 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u17-2023-live/",
-         "pubDate" : "Fri, 14 Apr 2023 20:48:33 +0000",
-         "title" : "World School Championship Girls U17 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1. It is separated in 12 age categories : U15 / U13 / U11 / U09 / U07 / []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u17-2023-live/",
-         "pubDate" : "Fri, 14 Apr 2023 20:41:01 +0000",
-         "title" : "World School Championship U17 2023 - LIVE"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King uses game 2 of the World Championship match in Astana as a starting point, and compares it with two games from a previous match for the title, the 2008 confrontation between Vishy Anand and Vladimir Kramnik. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -208,38 +248,6 @@ news_feed (
          "link" : "https://chessimprover.com/a-deceptively-quiet-line/",
          "pubDate" : "Fri, 14 Apr 2023 10:01:59 +0000",
          "title" : "A Deceptively Quiet Line"
-      },
-      {
-         "description" : "Today is a rest day in the World Chess Championship 2023 aka Nepo &#x2013; Ding match, and this is a great opportunity to focus our attention on the other World Championship going on at this moment. The strongest chess engines in the world Stockfish and Leela Chess Zero are battling in a 100 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/the-other-world-chess-championship-stockfish-vs-lc0-live/",
-         "pubDate" : "Fri, 14 Apr 2023 09:33:08 +0000",
-         "title" : "The other World Chess Championship - Stockfish vs Lc0 (LIVE)"
-      },
-      {
-         "description" : "The 2023 Greek Junior Championships U20 (Open &#38; Girls) take place in Trikala from 18-24 April. The tournaments are 9-round Swiss events, with a time control of 90 minutes for the entire game and a 30-second increment from move 1.&#xA0;In Junior U20 section will participate Konstantinos Tsarsitalidis, Christos Tsarsitalidis, Georgios Antonioudakis, Antonios Gkavardinas, Dimitrios Stoimenidis, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-greek-junior-championship-2023-live/",
-         "pubDate" : "Fri, 14 Apr 2023 08:12:51 +0000",
-         "title" : "U20 Greek Junior Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 Greek Junior Championships U20 (Open &#38; Girls) take place in Trikala from 18-24 April. The tournaments are 9-round Swiss events, with a time control of 90 minutes for the entire game and a 30-second increment from move 1. In Girls U20 section will participate Styliani Vardaka, Makrina-Eirini Perakaki, Konstantina Raftopoulou, Ifigenia Tozarou, Eleni []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-greek-girls-championship-2023-live/",
-         "pubDate" : "Fri, 14 Apr 2023 08:04:11 +0000",
-         "title" : "U20 Greek Girls Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Austrian Women's Bundesliga is a 10-team round-robin. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4New:&#xA0;100 Classical Masterpiece, commented by a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-womens-bundesliga-live/",
-         "pubDate" : "Fri, 14 Apr 2023 07:55:46 +0000",
-         "title" : "Austrian Women's Bundesliga - LIVE"
       },
       {
          "description" : " Ding Liren's rook-for-knight sacrifice won game four in 47 moves to level at 2-2 in the 14-game World Chess Championship China's Ding Liren has fought back strongly from a disastrous start against Ian Nepomniachtchi in the €2m world championship match in Astana, Kazakhstan. The Russian, playing under a neutral flag, blew the nervous 30-year-old title debutant from Wenzhou off the board in 29 moves of zestful attacking chess in game two of their scheduled 14-game series, before an increasingly confident Ding comfortably drew game three, then found a winning rook for knight sacrifice to score in 47 in Thursday's game four. The score was Ding 2 Nepomniachtchi 2 before Friday's rest day. Ding",
@@ -1810,14 +1818,6 @@ news_feed (
          "title" : "BCC arbiters' expression of interest"
       },
       {
-         "description" : "Hikaru Nakamura admitted \"today Wesley was clearly the better player\", but after three tense draws Wesley So grabbed a poisoned pawn in Game 4 and was immediately put to the sword. That meant Hikaru had won the American Cup and the maximum possible $60,000, while also moving up to world no. 5 after his two wins in classical chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/hikaru-nakamura-wins-the-2023-american-cup",
-         "pubDate" : "Mon, 27 Mar 2023 12:49:25 +0000",
-         "title" : "Hikaru Nakamura wins the 2023 American Cup"
-      },
-      {
          "description" : " Top seed Dominic Fox has won the 2023 Dubbo Open, with an unbeaten 5.5/6. Starting the day on 3/3, he defeated Jonathon Harding in the days first round, before drawing with Tyler Milson. In the final round he was up against Braiden Cox, who needed a win for a chance for first. Fox won with a nice attack to secure the $550 1st prize. Blake Lynch finished outright second on 5 points, with Kye Walls and Fritz Vander Wal tied for 3rd on 4.5. The Under 1600 prize was shared between Lee Forace and Tim Hanrahan. The Under 1250 prize was won by Sean Boag and Rijul Saini was the best Unrated. Once again the tournament was a pleasure to run. There were a number of new players competing in their very ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1896,14 +1896,6 @@ news_feed (
          "link" : "https://chessimprover.com/chess-heroes-tactics/",
          "pubDate" : "Sun, 26 Mar 2023 10:24:52 +0000",
          "title" : "Chess Heroes: Tactics"
-      },
-      {
-         "description" : " At the end of the first day of the 2023 Dubbo Open, 3 players share the lead with 3/3. Top seed Dominic Fox has been joined by Ky Walls and Jonathon Harding after they all went through the first day with 3 wins. Close behind are Trevor Bemrose and Tyler Milson who are on 2.5, after drawing their round 3 game. The tournament once again attracted a good field of 37 players, with a solid bunch of players at the top. Unlike previous years where there was a surprise IM or GM in the field, this year has the Under 2000's battling it out for the title. Last night also saw the traditional time handicap blitz. While a number of younger players benefited from have 5 minutes against the 1 or 2 minutes ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-1.html",
-         "pubDate" : "Sat, 25 Mar 2023 22:02:00 +0000",
-         "title" : "2023 Dubbo Open - Day 1"
       }
    ]
 }
