@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Arbiter Seminar Erode, Tamil Nadu, Certificates are out to download Link : https://aicf.online/Arbiter-SNA-Erode.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiter-seminar-erode-certificates/",
+         "pubDate" : "Sat, 15 Apr 2023 10:28:56 +0000",
+         "title" : "National Arbiter Seminar Erode Certificates"
+      },
+      {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sat, 15 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 5 - Live!"
+      },
+      {
          "description" : "In the diagram position, White's opening move may be obvious with the black king in the centre, but after that ... Enjoy heavy piece handling &agrave; la Fritz S&auml;misch!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Jan Markos: What you need to know about the Rook (2)"
       },
       {
-         "description" : "Tim Krabb&eacute;'s book \"Schaakkuriosa\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
+         "description" : "Tim Krabb&eacute;'s 1985 book \"Chess Curiosities\" showed a study by the Bulgarian chess composer I. Ionchev, flawed but nevertheless interesting. Yours truly tried to follow in his footsteps. Nadareishvili explored the same concept, and it might be unfair to associate the name with Ionchev as he was neither the first, the last, nor the most important one to show it - only the most famous. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/study-of-the-month-reflections-on-ionchev-s-pattern",
@@ -104,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ding-english-opening",
          "pubDate" : "Fri, 14 Apr 2023 17:00:00 +0100",
          "title" : "Robert Ris' Fast and Furious: Ding's English Opening in Astana"
+      },
+      {
+         "description" : "This next post in the series on Ding Liren, last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/04/ding-lirens-2010-11-twic-ipedia.html\">Ding Liren's 2010-11 TWIC-ipedia</A> (April 2023), coincides with the start of the title match that I'm following on my <I>World Chess Championship Blog</I>, last seen in <A HREF=\"https://worldchesschampionship.blogspot.com/2023/04/2023-nepomniachtchi-ding-liren-first.html\">2023 Nepomniachtchi - Ding Liren, First Week</A> (April 2023). Two days after I wrote that 'First Week' post, Ding evened the match score in the fourth game. <P> I featured a Ding interview in the runup to the <A HREF=\"https://www.mark-weeks.com/chess/b7b8$cix.htm\">2018 Candi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/ding-lirens-2022-candidates.html",
+         "pubDate" : "Fri, 14 Apr 2023 15:35:00 +0000",
+         "title" : "Ding Liren's 2022 Candidates"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 4: Match tied as Ding gets the win Match Score: 2-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 4Thursday, 13 April 2023 Nepo gets crushed after Ding's thematic exchange sac The pendulum has swung toward Ding Liren after he capitalized off of a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/14/2023-world-chess-championship-game-4/\">2023 World Chess Championship: Game 4</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1122,14 +1146,6 @@ news_feed (
          "title" : "Goryachkina Tops 3rd Leg Of Women's Grand Prix; Zhu Claims GM Title"
       },
       {
-         "description" : "The fourth and decisive leg of the FIDE Women's Grand Prix will take place in Cyprus on May 15-28. The tournament will be held at the Hilton Hotel in Cyprus' capital, Nicosia. Featuring 12 ballrooms and state-of-the-art technology meeting rooms, totalling 1,800 square meters of space for events, the venue is a very suitable option for both leisure and business visitors.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cyprus-host-women-grand-prix",
-         "pubDate" : "Wed, 05 Apr 2023 16:00:00 +0100",
-         "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
-      },
-      {
          "description" : " Today I have a &#8216;bad day'. I woke up at 4 AM after 3 hours of sleep, unable to sleep longer. After yesterday's dry needling session, my whole upper body is in pain and my mind was racing. Certainly what qualifies as a bad day for me. But not the end of the world either. [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/bad-day/\">How to Train Chess on Bad Days: Tips From a Grandmaster</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1432,14 +1448,6 @@ news_feed (
          "link" : "https://aicf.in/dgt-live-link-for-1-mayors-trophy-international-gm-chess-championship-2023-at-indore/",
          "pubDate" : "Sat, 01 Apr 2023 09:00:33 +0000",
          "title" : "DGT LIVE Link For 1 Mayor's Trophy International GM Chess Championship 2023 at Indore"
-      },
-      {
-         "description" : "Senior National Arbiter Seminar Pune Certificates are out to download link : https://aicf.online/Arbiter-S-Pune.html Any Correction mail at aicfwebamster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-pune-certificates/",
-         "pubDate" : "Sat, 01 Apr 2023 06:50:40 +0000",
-         "title" : "Senior National Arbiter Seminar, Pune Certificates"
       },
       {
          "description" : "",
@@ -1856,14 +1864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2296",
          "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
          "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
-      },
-      {
-         "description" : "Sir Isaac Newton famously remarked that his achievements were down to Amicus Platonis, Amicus Aristotelis and Amicus Veritas. The great scientist added that he had advanced so far, because he had been standing on the shoulders of giants. In chess, this situation has now, lamentably, been reversed. A giant of the game is about to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/on-the-shoulders-of-dwarves/",
-         "pubDate" : "Sat, 25 Mar 2023 08:31:14 +0000",
-         "title" : "On the shoulders of dwarves"
       }
    ]
 }
