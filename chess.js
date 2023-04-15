@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White's opening move may be obvious with the black king in the centre, but after that ... Enjoy heavy piece handling &agrave; la Fritz S&auml;misch!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-beginnings-are-easy",
+         "pubDate" : "Sat, 15 Apr 2023 09:00:00 +0100",
+         "title" : "All beginnings are easy"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u13-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 07:22:54 +0000",
+         "title" : "World School Championship Girls U13 2023 - LIVE"
+      },
+      {
+         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/world-school-championship-girls-u15-2023-live/",
+         "pubDate" : "Sat, 15 Apr 2023 07:14:29 +0000",
+         "title" : "World School Championship Girls U15 2023 - LIVE"
+      },
+      {
+         "description" : "Organized by the Bibisara Assaubayeva Foundation and the National Lottery of the Republic of Kazakhstan, the Satty Zhuldyz (\"Lucky Stars\") Rapid and Blitz Chess Tournament is set to take place on April 20-25. The likes of Vladimir Kramnik, Hou Yifan and Levon Aronian will be joined by a host of rising stars, including Bibisara Assaubayeva, Vincent Keymer and Arjun Erigaisi.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-preview",
+         "pubDate" : "Sat, 15 Apr 2023 08:00:00 +0100",
+         "title" : "Next week: Satty Zhuldyz rapid and blitz event with Kramnik and Hou"
+      },
+      {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -152,22 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round-playoffs-if-needed-lichessorg",
          "pubDate" : "Thu, 13 Apr 2023 21:26:22 +0000",
          "title" : "2023 Spring Chess Classic: Final Round (Playoffs if Needed) | lichess.org"
-      },
-      {
-         "description" : "The XLV Open International Barbera del Valles 2023 will take place from 04-12 July 2023 in Barber&#xE0; del Vall&#xE8;s (Barcelona), Spain. The time control is 90 minutes plus a 30 seconds increment starting from move one.&#xA0;The tournament system is 9-round Swiss. Players list (14.04.2023) : No. Name &#x424;&#x415;&#x414; RtgI &#x422;&#x438;&#x43F; 1 GM Alsina Leal, Daniel []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/xlv-open-international-barbera-del-valles-2023/",
-         "pubDate" : "Thu, 13 Apr 2023 21:08:10 +0000",
-         "title" : "XLV Open International Barbera del Valles 2023"
-      },
-      {
-         "description" : "The Austrian Bundesliga is an 12-team round-robin tournament taking place in Jenbach/Graz/Linz. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one.&#xA0; Results from today : Pairs on boards 9. Round on 2023/04/13 at 16.00 Mass 5 &#160;&#160;SK MP&#xD6; Maria []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/austrian-bundesliga-live/",
-         "pubDate" : "Thu, 13 Apr 2023 20:57:54 +0000",
-         "title" : "Austrian Bundesliga - LIVE"
       },
       {
          "description" : "The 13th of April is \"Kasparov-day\". Today, 60 years ago, arguably the best player in chess history was born and since then has shaped the history of chess like no other player - not only on the board! Andr&eacute; Schulz traces Kasparov's history from his first international moves, through the peak of his career in 1999 to his life in politics. | Photo: Kasparov.com",
@@ -1160,22 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
          "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
          "title" : "ECF Finance Council - papers available"
-      },
-      {
-         "description" : "Nils Grandelius scored an impressive 7&frac12; out of 9 to become the outright winner at the 2023 edition of the Reykjavik Open. The Swedish grandmaster, who was the second seed in Iceland, beat Quentin Loiseau in the final round to claim first place. With over 400 participants in the traditional event, it was not surprising that seven players finished a half point behind the winner. Mustafa Yilmaz from Turkey and Abhijeet Gupta from India got second and third place on tiebreak criteria, respectively. | Photos: Hallfr&iacute;ður Sigurðard&oacute;ttir",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nils-grandelius-wins-reykjavik-open-2023",
-         "pubDate" : "Wed, 05 Apr 2023 05:50:00 +0100",
-         "title" : "Nils Grandelius clinches Reykjavik Open with final-round win"
-      },
-      {
-         "description" : "Day 2 of the Chessable Masters saw Hikaru Nakamura and Fabiano Caruana advancing to the winners' bracket final in Division I, thanks to victories over Wesley So and Vladislav Artemiev, respectively. In the losers' bracket, Magnus Carlsen and Levon Aronian scored wins to remain in contention for first place. In Division II, Maxime Vachier-Lagrave and Vladimir Kramnik are set to face each other in the next phase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d2",
-         "pubDate" : "Wed, 05 Apr 2023 05:45:00 +0100",
-         "title" : "Chessable Masters: Caruana and Nakamura reach winners' bracket final"
       },
       {
          "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
