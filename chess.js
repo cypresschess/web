@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Kenya Chess Open was one of the strongest local tournaments attracting seven Grandmasters. Timur Gareyev (USA) won the tournament with a stunning 8.5/9 in a tournament that attracted 445 players but went viral for a different reason. More on that later. GM Timur Gareyev vs. Zambian IM Gillian Bwalya at 2023 Kenya OpenPhoto by The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/15/2023-kenyan-chess-open-is-historic/\">2023 Kenya Chess Open is historic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/15/2023-kenyan-chess-open-is-historic/",
+         "pubDate" : "Sat, 15 Apr 2023 13:58:41 +0000",
+         "title" : "2023 Kenya Chess Open is historic!"
+      },
+      {
+         "description" : "Players and officials were surprised by snowfall and freezing temperatures in Astana on Saturday, but the 2023 FIDE World Championship is heating up. In game five, GM Ian Nepomniachtchi broke away once again as he exploited his opening and time ad...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-5",
+         "pubDate" : "Sat, 15 Apr 2023 06:25:00 -0700",
+         "title" : "Flash Report: Nepomniachtchi Breaks Away Again, Outplays Ding In Game 5"
+      },
+      {
+         "description" : " FM Cameron McGowan is a new International Master after winning the 2023 Oceania Junior Championship. We scored a very impressive 8.5/9, leaving him 2 points ahead of FM Daniel Gong from new Zealand and CM Hamish Bassig from Australia. New Zealand FM Sravan Renjith has earned a provisional IM title for finishing top of the Under 18 sub group, but will need to get his rating over 2200 to be awarded the title. Lillian Lu won the Under 20 Girls event with 7.5/9, earning a provisional WIM title. WFM Alaina Vincent finished 2nd on tie-break ahead of CM Nadia Braganza and Ekaterina Gratchev. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-oceania-youth-championship-final.html",
+         "pubDate" : "Sat, 15 Apr 2023 12:54:00 +0000",
+         "title" : "2023 Oceania Youth Championship - Final Day"
+      },
+      {
+         "description" : "Somehow, I cannot work up any excitement at all about the so called world championship match, currently in progress in Kazakhstan. With the reigning champion, Magnus Carlsen, sulking like Homer's Achilles in his tent, refusing to compete, yet declining to retire, the once proud title of world chess champion has forfeited its accustomed lustre. Indeed, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/was-bobby-fischer-robbed-in-havana/",
+         "pubDate" : "Sat, 15 Apr 2023 12:30:54 +0000",
+         "title" : "Was Bobby Fischer robbed in Havana?"
+      },
+      {
+         "description" : " There isn't a single best opening for Beginners. But there are three key traits you need to look out for in an opening, especially if you just started playing chess. If you can answer the following three questions with yes, then the opening you are looking at is probably good for you: 1) Can I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/beginner-openings-traits/\">The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/beginner-openings-traits/",
+         "pubDate" : "Sat, 15 Apr 2023 12:00:00 +0000",
+         "title" : "The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)"
+      },
+      {
          "description" : "National Arbiter Seminar Erode, Tamil Nadu, Certificates are out to download Link : https://aicf.online/Arbiter-SNA-Erode.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +50,12 @@ news_feed (
          "title" : "National Arbiter Seminar Erode Certificates"
       },
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win with white to regain the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Replay the game with computer-assisted analysis. A full report will follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sat, 15 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 5 - Live!"
+         "title" : "World Championship, Game 5 - Nepo retakes the lead"
       },
       {
          "description" : "In the diagram position, White's opening move may be obvious with the black king in the centre, but after that ... Enjoy heavy piece handling &agrave; la Fritz S&auml;misch!",
@@ -882,7 +922,7 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 2 Nepomniachtchi &frac12; 1 &frac12; 0 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 2 Nepomniachtchi &frac12; 1 &frac12; 0 1 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -1554,14 +1594,6 @@ news_feed (
          "title" : "Chess: Hikaru Nakamura traps a queen and wins $60,000 in St Louis"
       },
       {
-         "description" : "GM Lei Tingjie retaliated vs. GM Tan Zhongyi, winning game two of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Thursday. Rising from the ashes of her own time trouble blunder in game one, Lei didn&#39;t hesitate when Tan made a mis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-2",
-         "pubDate" : "Thu, 30 Mar 2023 15:18:48 -0700",
-         "title" : "Rising From A Loss: Lei Evens The Score"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1802,14 +1834,6 @@ news_feed (
          "title" : "Toronto hosts Candidates 2024"
       },
       {
-         "description" : " GM-elect Dylan BerdayesPhoto by ACN (Cuba) Dylan Berdayes will be the next Grandmaster of Cuba, the country's 47th. Last October he earned his 3rd GM norm at the Clemente Vazquez Chess Championship in Havana. In the last round, he drew with International Master Ernesto Giron from El Salvador finishing on 7/9 (+5=4-0). Berdayes' first norm The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/\">Dylan Berdayes Cuba's 47th Grandmaster!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/03/27/dylan-berdayes-cubas-47th-grandmaster/",
-         "pubDate" : "Mon, 27 Mar 2023 04:18:04 +0000",
-         "title" : "Dylan Berdayes&hellip; Cuba's 47th Grandmaster!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1856,14 +1880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-1.html",
          "pubDate" : "Sat, 25 Mar 2023 22:02:00 +0000",
          "title" : "2023 Dubbo Open - Day 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2296",
-         "pubDate" : "Sat, 25 Mar 2023 14:00:21 +0000",
-         "title" : "Letter of FIDE President Arkady Dvorkovich regarding the Women's Grand Prix in New Delhi, India"
       }
    ]
 }
