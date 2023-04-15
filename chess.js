@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2339",
+         "pubDate" : "Sat, 15 Apr 2023 18:34:41 +0000",
+         "title" : "2023 FIDE World School Chess Championship kicks off in the Rodos Palace Hotel"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2338",
+         "pubDate" : "Sat, 15 Apr 2023 16:38:51 +0000",
+         "title" : "FIDE World Championship: Nepomniachtchi takes the lead again"
+      },
+      {
          "description" : " The Kenya Chess Open was one of the strongest local tournaments attracting seven Grandmasters. Timur Gareyev (USA) won the tournament with a stunning 8.5/9 in a tournament that attracted 445 players but went viral for a different reason. More on that later. GM Timur Gareyev vs. Zambian IM Gillian Bwalya at 2023 Kenya OpenPhoto by The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/15/2023-kenyan-chess-open-is-historic/\">2023 Kenya Chess Open is historic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "2023 Kenya Chess Open is historic!"
       },
       {
-         "description" : "Players and officials were surprised by snowfall and freezing temperatures in Astana on Saturday, but the 2023 FIDE World Championship is heating up. In game five, GM Ian Nepomniachtchi broke away once again as he exploited his opening and time ad...",
+         "description" : "Players and officials were surprised by snowfall, freezing temperatures, and heavy winds in Astana on Saturday, but the 2023 FIDE World Championship is heating up. In game five, GM Ian Nepomniachtchi broke away once again as he exploited his openi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-5",
          "pubDate" : "Sat, 15 Apr 2023 06:25:00 -0700",
-         "title" : "Flash Report: Nepomniachtchi Breaks Away Again, Outplays Ding In Game 5"
+         "title" : "Nepomniachtchi Breaks Away Again, Outplays Ding In Game 5"
       },
       {
          "description" : " FM Cameron McGowan is a new International Master after winning the 2023 Oceania Junior Championship. We scored a very impressive 8.5/9, leaving him 2 points ahead of FM Daniel Gong from new Zealand and CM Hamish Bassig from Australia. New Zealand FM Sravan Renjith has earned a provisional IM title for finishing top of the Under 18 sub group, but will need to get his rating over 2200 to be awarded the title. Lillian Lu won the Under 20 Girls event with 7.5/9, earning a provisional WIM title. WFM Alaina Vincent finished 2nd on tie-break ahead of CM Nadia Braganza and Ekaterina Gratchev. ",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.thearticle.com/was-bobby-fischer-robbed-in-havana/",
          "pubDate" : "Sat, 15 Apr 2023 12:30:54 +0000",
          "title" : "Was Bobby Fischer robbed in Havana?"
+      },
+      {
+         "description" : " Ian Nepomniachtchi struck back with a powerfully conducted win against Ding Liren in game five of their World Championship match in Astana, Kazakhstan. After getting nothing against the Queen's Gambit in Game 3 Nepomniachtchi switched back to the 1.e4 he used in game 1. The closed Ruy Lopez has long been Ding's weapon, this gives black and white a lot of choices and is a high skill opening. Both players will have definitely been familiar with the game Firouzja-Giri from Miami last year which was also won by white in the end. 12.Bg5 was Nepomniachtchi's new move he said later \"The position was part of my prep. But I should credit my opponent that for almost all the game he played quite sensi",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/nepomniachtchi-retakes-the-lead-in-the-world-championship-3-2-after-a-smooth-win",
+         "pubDate" : "Sat, 15 Apr 2023 16:26:00 +0400",
+         "title" : "Nepomniachtchi retakes the lead in the World Championship 3-2 after a smooth win - 5"
       },
       {
          "description" : " There isn't a single best opening for Beginners. But there are three key traits you need to look out for in an opening, especially if you just started playing chess. If you can answer the following three questions with yes, then the opening you are looking at is probably good for you: 1) Can I [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/beginner-openings-traits/\">The 3 key Traits of Beginner-Friendly Openings (and What to Avoid)</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
