@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2023-04-15","32","<a href=http://www.uschess.org/msa/XtblMain.php?202304154982 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2023-04-14","41","<a href=http://www.uschess.org/msa/XtblMain.php?202304144872 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2023-04-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202304144862 target='_blank'>FBCC 2023 MID-APRIL SPRING OPEN</a>",
 "HOUSTON","2023-04-14","18","<a href=http://www.uschess.org/msa/XtblMain.php?202304144802 target='_blank'>REBECCA CHESS CLUB QUADS APRIL 14, 2023</a>",
 "HOUSTON","2023-04-08","21","<a href=http://www.uschess.org/msa/XtblMain.php?202304083022 target='_blank'>APRIL 8TH 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-04-08","126","<a href=http://www.uschess.org/msa/XtblMain.php?202304081862 target='_blank'>TCR: EASTER TOURNAMENT 2023</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2022-08-26","26","<a href=http://www.uschess.org/msa/XtblMain.php?202208260442 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2022-08-02  - 08-23","21","<a href=http://www.uschess.org/msa/XtblMain.php?202208239312 target='_blank'>AUGUST TUESDAY NIGHT SWISS</a>",
 "PEARLAND","2022-08-23","4","<a href=http://www.uschess.org/msa/XtblMain.php?202208239242 target='_blank'>RCC QUADS AUGUST 23, 2022</a>",
-"HOUSTON","2022-08-20  - 08-21","106","<a href=http://www.uschess.org/msa/XtblMain.php?202208218212 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2022</a>",
-"HOUSTON","2022-08-20","99","<a href=http://www.uschess.org/msa/XtblMain.php?202208207102 target='_blank'>TCR: BACK TO SCHOOL SCHOLASTIC OPEN</a>",
-"SPRING","2022-08-19","34","<a href=http://www.uschess.org/msa/XtblMain.php?202208196892 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
