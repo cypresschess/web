@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g6",
+         "pubDate" : "Sun, 16 Apr 2023 17:25:00 +0100",
+         "title" : "World Championship Game 6: Ding plays the London, bounces right back"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 5: Nepomniachtchi back on top Match Score: 3-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 5Saturday, 15 April 2023 Nepomniachtchi responds with an impressive win! Just when we thought we'd have to wait to see how Ian Nepomniachtchi would respond to his first The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/2023-world-chess-championship-game-5/\">2023 World Chess Championship: Game 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/16/2023-world-chess-championship-game-5/",
+         "pubDate" : "Sun, 16 Apr 2023 15:17:10 +0000",
+         "title" : "2023 World Chess Championship: Game 5"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2340",
+         "pubDate" : "Sun, 16 Apr 2023 15:11:26 +0000",
+         "title" : "The pendulum swings: Ding Liren equalises again"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 121st instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-121-chess-history-in-a-nutshell-3",
+         "pubDate" : "Sun, 16 Apr 2023 15:00:00 +0100",
+         "title" : "Understanding before Moving 121: Chess history in a nutshell (3)"
+      },
+      {
+         "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding Liren's London System, which was given its first ever outing in a World Championship match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-wins-game-6-of-world-championship-rollercoaster",
+         "pubDate" : "Sun, 16 Apr 2023 13:44:49 +0000",
+         "title" : "Ding wins Game 6 of World Championship rollercoaster"
+      },
+      {
+         "description" : "There can be no complaints of &#34;boring draws&#34; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This time it was D...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
+         "pubDate" : "Sun, 16 Apr 2023 06:17:00 -0700",
+         "title" : "Flash Report: Ding Finds Mating Net, Ties Match Score Again"
+      },
+      {
+         "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Sun, 16 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 6 - Live!"
+         "title" : "World Championship, Game 6 - Ding evens the score, again"
       },
       {
          "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
@@ -962,7 +1010,7 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 2 Nepomniachtchi &frac12; 1 &frac12; 0 1 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 1 3 Nepomniachtchi &frac12; 1 &frac12; 0 1 0 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
@@ -1074,14 +1122,6 @@ news_feed (
          "title" : "Chess: World title match gets under way in Astana without Magnus Carlsen"
       },
       {
-         "description" : "The third leg of the Women's Grand Prix was marred by the early withdrawal of two players. Zhansaya Abdumalik decided to leave due to organizational issues, and her withdrawal triggered other players to bring up further issues related to previous events. Harika Dronavalli was one of three Indian players in the field, and found herself struggling to decide how to react to the situation. Only after the tournament finished, she spoke up about the New Delhi debacle in a 13-minute video produced by ChessBase India. | Photo: FIDE / Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-harika-statement",
-         "pubDate" : "Fri, 07 Apr 2023 02:25:00 +0100",
-         "title" : "Harika addresses GP debacle: \"We understood it was just wrong\""
-      },
-      {
          "description" : "Magnus Carlsen's last move in a major tournament as the classical World Chess Champion may have been to mouse-slip and blunder away his queen, as Hikaru Nakamura won an Armageddon thriller to set up a Grand Final rematch against Fabiano Caruana. Earlier in the day Magnus had been in top form as he beat Levon Aronian 2:0 to snatch an automatic spot in Division I of the next tour event in May.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1120,14 +1160,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-chess-championship-match-ian-nepomniachtchi-vs-ding-liren-starts-in-astana/",
          "pubDate" : "Thu, 06 Apr 2023 15:02:32 +0000",
          "title" : "FIDE World Chess Championship Match - Ian Nepomniachtchi vs Ding Liren starts in Astana"
-      },
-      {
-         "description" : "In his Fast & Furious show, Robert Ris takes a close look at the fifth and decisive game that Tan Zhongyi and Lei Tingjie played in the finals of the Women's Candidates. Lei came up with an interesting approach against the Zukertort-Colle system and won a fine game. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-tan-lei-candidates-2",
-         "pubDate" : "Thu, 06 Apr 2023 11:30:36 +0100",
-         "title" : "Robert Ris' Fast and Furious: An antidote against the Zukertort-Colle system?"
       },
       {
          "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
@@ -1256,14 +1288,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/about/ecf-council-and-board/#FCMAprilPapers#new_tab",
          "pubDate" : "Wed, 05 Apr 2023 08:21:08 +0000",
          "title" : "ECF Finance Council - papers available"
-      },
-      {
-         "description" : " In a world where gender discrimination and racism often rear their ugly heads, sexism in chess is trending, but is racism in chess overlooked? The Chess Drum has featured articles discussing the issue, but there has never been a serious discussion. When the racial tirade of Baadur Jobava recently came to light at a qualifier The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/\">Is Racism in Chess Overlooked?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/04/is-racism-in-chess-overlooked/",
-         "pubDate" : "Wed, 05 Apr 2023 03:20:40 +0000",
-         "title" : "Is Racism in Chess Overlooked?"
       },
       {
          "description" : "GMs Hikaru Nakamura and Fabiano Caruana advance to the Winners Final of the Champions Chess Tour Chessable Masters 2023 after respectively defeating GMs Wesley So and Vladislav Artemiev in Division I on Tuesday. In the Losers Bracket, GM Magnus Ca...",
@@ -1546,14 +1570,6 @@ news_feed (
          "title" : "WGP New Dehli Round 6 recap: The halfway point"
       },
       {
-         "description" : "GM Simon Williams (a.k.a. GingerGM) added yet another candidate for Game of the Year in his round-two game at the Reykjavik Open 2023 on Wednesday.&#38;nbsp; The English grandmaster has long been known for his daring, sacrificial, and &#34;YOLO&#34; style o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-reykjavik-open-williams-sacrifices-queen",
-         "pubDate" : "Fri, 31 Mar 2023 11:09:51 -0700",
-         "title" : "Williams Sacrifices Queen For Brilliancy At Reykjavik Open"
-      },
-      {
          "description" : "The last two posts in this short series on Ding Liren summarized his career up to his last participation in a World Youth Championship (2004) and after his first participation in a World Championship event (2011). For specifics see:- <UL> <LI> 2023-03-24: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-twic-debut.html\">Ding Liren's TWIC Debut</A> &#149; World Youth Championship, 'TWIC 523; 2004-11-15 : U12 1-2' <LI> 2023-03-17: <A HREF=\"https://chessforallages.blogspot.com/2023/03/ding-lirens-climb-to-title-match.html\">Ding Liren's Climb to a Title Match</A> &#149; 2011 World Cup </UL> <P> What happened during the intervening years? The following chart is a combination of:-",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1696,14 +1712,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/",
          "pubDate" : "Thu, 30 Mar 2023 07:36:09 +0000",
          "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
-      },
-      {
-         "description" : "Tan Zhongyi sacrificed two pawns and looked in grave danger in Game 1 of the FIDE Women's Candidates Final in Chongqing, China, but Lei Tingjie blundered with seconds on her clock and fell to defeat. That was a huge step towards Tan Zhongyi forcing a World Championship rematch against Ju Wenjun, but Lei Tingjie still has five games in which to hit back.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/tan-zhongyi-wins-thriller-as-women-s-candidates-begins",
-         "pubDate" : "Wed, 29 Mar 2023 23:27:48 +0000",
-         "title" : "Tan Zhongyi wins thriller as Women's Candidates begins"
       },
       {
          "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Many players <a href=\"https://chessimprover.com/carbon-versus-silicon-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-4/\">Carbon versus Silicon (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
@@ -1864,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2298",
          "pubDate" : "Sun, 26 Mar 2023 21:32:20 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 1 Recap"
-      },
-      {
-         "description" : "In this video GM Nakamura reads the Wall Street Journal article, <A HREF=\"https://www.wsj.com/articles/alejandro-ramirez-jennifer-shahade-chess-allegations-622263b8?mod=hp_lead_pos9\">How Sexual Assault Allegations Against a U.S. Chess Grandmaster Went Unaddressed for Years</A> (wsj.com). The article was subtitled, <BLOCKQUOTE> Numerous women have accused elite player and coach Alejandro Ramirez of misconduct. Two bodies that run chess in the U.S. allegedly knew of accusations for several years. </BLOCKQUOTE> <P> It started, <BLOCKQUOTE> When former U.S. women's chess champion Jennifer Shahade alleged on social media last month that she had been sexually assaulted by a prominent grandmaster n",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
-         "pubDate" : "Sun, 26 Mar 2023 15:25:00 +0000",
-         "title" : "The Dark Side of Women's Chess"
       }
    ]
 }
