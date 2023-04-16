@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Chess Heroes: Openings is now available on Amazon here. Just to remind you: this is part of a series of books (other titles cover Checkmates, Tactics and Endings) designed for players rated 500+ who would like to progress towards competitive chess, and for those who teach at that level. It's a book of novice, rather <a href=\"https://chessimprover.com/chess-heroes-openings-part-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-1/\">Chess Heroes: Openings (Part 1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/chess-heroes-openings-part-1/",
+         "pubDate" : "Sun, 16 Apr 2023 18:21:24 +0000",
+         "title" : "Chess Heroes: Openings (Part 1)"
+      },
+      {
+         "description" : "Amid the riveting World Championship match in Astana, Jon Speelman looks back on the 1963 match for the world title between Mikhail Botvinnik and Tigran Petrosian. \"The reason I'm returning to it is not just nostalgia, but because of the parallels between how the World Championship debutants Tigran Petrosian and Ding Liren performed at the start. Both were rather terrified\". | Photo: TASS Agency (1963)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-192",
+         "pubDate" : "Sun, 16 Apr 2023 19:00:00 +0100",
+         "title" : "Sixty years on"
+      },
+      {
          "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-g6",
          "pubDate" : "Sun, 16 Apr 2023 17:25:00 +0100",
          "title" : "World Championship Game 6: Ding plays the London, bounces right back"
+      },
+      {
+         "description" : " Ding Liren won the sixth game of the FIDE World Chess Championship match Astana, Kazakhstan to level the score against his opponent Ian Nepomniachtchi. Ding chose the London System which appeared for the very first time in a title match. Nepomniachtchi replied with one of the very main lines but after 14...Nd7 he slipped into an uncomfortable position. 20.Qg3 offered black an endgame, it was possible to take this and hope to hang on. 23.Rb3 was a good way of playing, 23.b4 was preferred by the engines. After this both sides seemed to find the best moves. 32.Rc5 was certainly a natural continuation but 32.Qe1 holding everything for a few moves seems to be better. Black's last chance seemed t",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-back-level-after-finishing-game-6-of-the-world-chess-championship-with-a-flourish",
+         "pubDate" : "Sun, 16 Apr 2023 20:01:00 +0400",
+         "title" : "Ding back level after finishing game 6 of the World Chess Championship with a flourish - 6"
+      },
+      {
+         "description" : "It is come to light that many participants awarded with Senior National Arbiter title in the year 2021-22 &#38; 2022-23 are not applied for FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-national-arbiter-license/",
+         "pubDate" : "Sun, 16 Apr 2023 15:55:00 +0000",
+         "title" : "FIDE NATIONAL ARBITER LICENSE"
       },
       {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 5: Nepomniachtchi back on top Match Score: 3-2 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 5Saturday, 15 April 2023 Nepomniachtchi responds with an impressive win! Just when we thought we'd have to wait to see how Ian Nepomniachtchi would respond to his first The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/2023-world-chess-championship-game-5/\">2023 World Chess Championship: Game 5</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -42,20 +74,12 @@ news_feed (
          "title" : "Ding wins Game 6 of World Championship rollercoaster"
       },
       {
-         "description" : "There can be no complaints of &#34;boring draws&#34; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This time it was D...",
+         "description" : "There can be no complaints of &#38;lsquo;boring draws&#38;rsquo; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
          "pubDate" : "Sun, 16 Apr 2023 06:17:00 -0700",
-         "title" : "Flash Report: Ding Finds Mating Net, Ties Match Score Again"
-      },
-      {
-         "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Sun, 16 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 6 - Ding evens the score, again"
+         "title" : "Ding Finds Mating Net in Game 6, Ties Match Score Again"
       },
       {
          "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
@@ -1528,14 +1552,6 @@ news_feed (
          "link" : "https://www.thearticle.com/miltons-cosmic-game-of-chess/",
          "pubDate" : "Sat, 01 Apr 2023 12:38:40 +0000",
          "title" : "Milton's cosmic game of chess"
-      },
-      {
-         "description" : "Please find the live link for Indore Open GM Chess Championship 2023 https://view.livechesscloud.com/#5be145da-e394-4629-b4c2-6b954b12f4ce",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/dgt-live-link-for-1-mayors-trophy-international-gm-chess-championship-2023-at-indore/",
-         "pubDate" : "Sat, 01 Apr 2023 09:00:33 +0000",
-         "title" : "DGT LIVE Link For 1 Mayor's Trophy International GM Chess Championship 2023 at Indore"
       },
       {
          "description" : "",
