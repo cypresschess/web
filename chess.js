@@ -1154,14 +1154,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Nepomniachtchi and Ding battle for the crown but Carlsen's the missing king"
       },
       {
-         "description" : "Aleksandra Goryachkina, Zhu Jiner and Bibisara Assaubayeva all finished with 6/9 scores atop the standings of the Women's Grand Prix in New Delhi. The three players entered the final round in shared first place, and all three drew their games on Wednesday. Prize money and Grand Prix points were evenly distributed between the three, but Goryachkina was declared tournament winner based on tiebreak criteria. | Photo: FIDE / Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-final",
-         "pubDate" : "Thu, 06 Apr 2023 00:45:00 +0100",
-         "title" : "Goryachkina, Zhu and Assaubayeva tie for first at New Delhi Grand Prix"
-      },
-      {
          "description" : "IM Levy Rozman, a.k.a &#34;GothamChess&#34; the world&#39;s biggest chess Youtuber, talked about his incredible growth over the last six months, reactions from other top players, an amusing one-line response from Magnus Carlsen, and his thoughts about the upc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
