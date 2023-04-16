@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Sun, 16 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 6 - Live!"
+      },
+      {
          "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1122,14 +1130,6 @@ news_feed (
          "title" : "Robert Ris' Fast and Furious: An antidote against the Zukertort-Colle system?"
       },
       {
-         "description" : "Fabiano Caruana has yet to lose a match at the 2023 Champions Chess Tour. The US star finished undefeated to win Division II of the Airthings Masters, and has now reached the Grand Final of the Chessable Masters. On Wednesday, Caruana defeated Hikaru Nakamura by a convincing 2&frac12;-&frac12; score in the final of the winners' bracket. Magnus Carlsen and Levon Aronian won their matches in the losers' bracket.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d3",
-         "pubDate" : "Thu, 06 Apr 2023 11:25:00 +0100",
-         "title" : "Chessable Masters: Caruana beats Nakamura, continues winning streak"
-      },
-      {
          "description" : "Hikaru Nakamura blundered mate-in-1 as he lost 2.5:0.5 to Fabiano Caruana in the final of the Winners Bracket of the Chessable Masters. That's not the end of the road for Hikaru, however, since he'll get a second chance against either Magnus Carlsen, who defeated Wesley So in two games, or Levon Aronian, who took down Vladislav Artemiev in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1872,22 +1872,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/the-dark-side-of-womens-chess.html",
          "pubDate" : "Sun, 26 Mar 2023 15:25:00 +0000",
          "title" : "The Dark Side of Women's Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2297",
-         "pubDate" : "Sun, 26 Mar 2023 10:49:07 +0000",
-         "title" : "Women's Grand Prix in Delhi starts after delays"
-      },
-      {
-         "description" : " Chess Heroes: Tactics is now available in physical format on Amazon. It's a tactics book designed to take readers or students from round about 500 to 1500 strength, and should be read in parallel with the books on Checkmates, Openings and Endings. A teaching technique often used in schools when, for example, teaching a new <a href=\"https://chessimprover.com/chess-heroes-tactics/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Tactics\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-tactics/\">Chess Heroes: Tactics</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/chess-heroes-tactics/",
-         "pubDate" : "Sun, 26 Mar 2023 10:24:52 +0000",
-         "title" : "Chess Heroes: Tactics"
       }
    ]
 }
