@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The HBCU Chess Classic will kick off on April 22nd featuring several schools including Morehouse, Spelman, Clark Atlanta, Howard, Hampton, North Carolina A&#38;T, Florida A&#38;M, and host Morris Brown. This tournament will be a five-round, rated, Swiss tournament with both individual and team prizes. This initiative is designed to build a chess community within one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/\">All Roads to Atlanta for HBCU Chess Classic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/",
+         "pubDate" : "Sun, 16 Apr 2023 19:43:46 +0000",
+         "title" : "All Roads to Atlanta for HBCU Chess Classic!"
+      },
+      {
+         "description" : "There can be no complaints of &#38;lsquo;boring draws&#38;rsquo; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
+         "pubDate" : "Sun, 16 Apr 2023 12:39:00 -0700",
+         "title" : "Ding Finds Mating Net In Game 6, Ties Match Score Again"
+      },
+      {
          "description" : " Chess Heroes: Openings is now available on Amazon here. Just to remind you: this is part of a series of books (other titles cover Checkmates, Tactics and Endings) designed for players rated 500+ who would like to progress towards competitive chess, and for those who teach at that level. It's a book of novice, rather <a href=\"https://chessimprover.com/chess-heroes-openings-part-1/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Chess Heroes: Openings (Part 1)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/chess-heroes-openings-part-1/\">Chess Heroes: Openings (Part 1)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Che",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -66,20 +82,12 @@ news_feed (
          "title" : "Understanding before Moving 121: Chess history in a nutshell (3)"
       },
       {
-         "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding Liren's London System, which was given its first ever outing in a World Championship match.",
+         "description" : "Ding Liren found a beautiful finish in Game 6 to wrap up his 2nd win of the 2023 FIDE World Championship and level the scores at 3:3 going into Monday's rest day. Ian Nepomniachtchi lamented \"one of my worst games ever\" as he reacted badly to Ding's London System, a chess opening that starred on its first ever outing in a World Championship match.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-wins-game-6-of-world-championship-rollercoaster",
          "pubDate" : "Sun, 16 Apr 2023 13:44:49 +0000",
          "title" : "Ding wins Game 6 of World Championship rollercoaster"
-      },
-      {
-         "description" : "There can be no complaints of &#38;lsquo;boring draws&#38;rsquo; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
-         "pubDate" : "Sun, 16 Apr 2023 06:17:00 -0700",
-         "title" : "Ding Finds Mating Net in Game 6, Ties Match Score Again"
       },
       {
          "description" : "Following a disappointing defeat, Ian Nepomniachtchi scored a remarkable win to retake the lead at the World Championship match in Astana. Once the Russian gained the initiative, he played flawlessly, making the most of his superior minor piece. Ding Liren will get a chance to bounce back in Sunday's sixth game, when he will have the white pieces for a third time in the match. | Photo: FIDE / David Llada",
@@ -1034,14 +1042,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 2"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; &#160; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 pts. Ding Liren &frac12; 0 &frac12; 1 0 1 3 Nepomniachtchi &frac12; 1 &frac12; 0 1 0 The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/\">2023 World Chess Championship begins!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/07/2023-world-chess-championship-begins/",
-         "pubDate" : "Fri, 07 Apr 2023 20:33:59 +0000",
-         "title" : "2023 World Chess Championship begins!"
-      },
-      {
          "description" : "National Arbiter Seminar Indore Certificates are out to download Link : https://aicf.online/Arbiter-S-Indore.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1880,14 +1880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2299",
          "pubDate" : "Mon, 27 Mar 2023 00:11:25 +0000",
          "title" : "Hikaru Nakamura and Irina Krush win American Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2298",
-         "pubDate" : "Sun, 26 Mar 2023 21:32:20 +0000",
-         "title" : "Women's Grand Prix New Delhi: Round 1 Recap"
       }
    ]
 }
