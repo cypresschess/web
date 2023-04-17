@@ -1872,14 +1872,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/toronto-hosts-candidates-2024/",
          "pubDate" : "Mon, 27 Mar 2023 09:38:48 +0100",
          "title" : "Toronto hosts Candidates 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2299",
-         "pubDate" : "Mon, 27 Mar 2023 00:11:25 +0000",
-         "title" : "Hikaru Nakamura and Irina Krush win American Cup"
       }
    ]
 }
