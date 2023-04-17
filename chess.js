@@ -5,6 +5,86 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2343",
+         "pubDate" : "Mon, 17 Apr 2023 22:04:51 +0000",
+         "title" : "FIDE Circuit: Gukesh D leapfrogs So to grab the lead"
+      },
+      {
+         "description" : "The Girls U16 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Greta Kapolkova, Lucia Tomcaniova, Veronika Dudonova, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u16-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:54:10 +0000",
+         "title" : "Girls U16 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U18 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jana Sosovickova, Adela Zetocha, Lucia Striskova, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u18-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:50:00 +0000",
+         "title" : "Girls U18 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U8 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Adam Kopecny, Tomas Andre, Martin Srnak, Martin []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u8-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:45:08 +0000",
+         "title" : "U8 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U10 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Tomas Zilincan, Filip Kopecny, Ryan Mazak, Lukas []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u10-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:41:35 +0000",
+         "title" : "U10 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U12 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Casey Ryan Meszaros, Simon Matejka, Filip Kulich, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u12-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:37:05 +0000",
+         "title" : "U12 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U14 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jonas Durana, Samuel Ropovik, David Demjan, Marek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u14-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:33:08 +0000",
+         "title" : "U14 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U16 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jakub RakovskyMatej Elbek Musaev, Igor Skreko, Marek []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u16-slovak-youth-championship-2023-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:29:08 +0000",
+         "title" : "U16 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The U20/U18 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Vladimir Bochnicka, Simon Rybka, Tomas Brnusak, Patrik []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/u20-u18-slovak-youth-championship-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:24:30 +0000",
+         "title" : "U20/U18 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "A team event taking place alongside the FIDE World Championship match in Astana, Kazakhstan, with a team of 8 Kazakh players taking on a world team that includes Women's no. 1 Hou Yifan, Harika Dronavalli, Nana Dzagnidze, etc. The team Kazakhstan includes Zhansaya Abdumalik, Dinara Saduakassova, Bibisara Assaubayeva, etc. The time control is 15 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kazakhstan-vs-the-world-live/",
+         "pubDate" : "Mon, 17 Apr 2023 21:16:36 +0000",
+         "title" : "Kazakhstan vs. the World - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2342",
          "pubDate" : "Mon, 17 Apr 2023 19:15:58 +0000",
          "title" : "Lesotho Championship: Bokang Motsamai and Reitumetse Taioe win titles"
@@ -66,28 +146,12 @@ news_feed (
          "title" : "Nepo - Ding 2023, game 7 LIVE"
       },
       {
-         "description" : "Today is a another day in the World Chess Championship 2023 aka Nepo &#x2013; Ding match and we focus our attention once more on the other World Championship going on at this moment. The strongest chess engines in the world &#x2013; Stockfish and Leela Chess Zero &#x2013; are battling in a 100 games match for []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/against-the-odds-leela-leads-tcec/",
-         "pubDate" : "Mon, 17 Apr 2023 09:55:15 +0000",
-         "title" : "Against the odds, Leela leads TCEC"
-      },
-      {
          "description" : "This is a deep conversation with GM Jonathan Rowson. The Scottish GM is not only a strong players (peak rating of 2599), but also a deep thinker, a spiritual person, a philosopher and much more. In this conversation with IM Sagar Shah, Jonathan speaks about how he wrote books like Seven Deadly Chess Sins and Chess for Zebras as well as his latest book - Moves that Matter. Jonathan is currently in India and he speaks about his affiliation to the country and how it has grown on him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/on-chess-spirituality-and-philosophy",
          "pubDate" : "Mon, 17 Apr 2023 09:18:23 +0100",
          "title" : "On Chess, Spirituality, and Philosophy"
-      },
-      {
-         "description" : "The Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding match of the World Chess Championship 2023 is currently in a situation unseen in over 40 years. Both players are exchanging blows and four out of the six games are decisive. This prompted many to forget the general &#8220;World Championship without the World Champion&#8221; sentiment []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/levon-aronian-on-classical-chess-tweetoftheday/",
-         "pubDate" : "Mon, 17 Apr 2023 07:47:41 +0000",
-         "title" : "Levon Aronian on classical chess #TweetOftheDay"
       },
       {
          "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -200,62 +264,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-championship-2023-g5",
          "pubDate" : "Sat, 15 Apr 2023 22:50:00 +0100",
          "title" : "World Championship Game 5: Nepo wins model game, leads again"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u07-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 21:24:45 +0000",
-         "title" : "World School Championship U07 2023 - LIVE"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-6-live/",
-         "pubDate" : "Sat, 15 Apr 2023 21:21:29 +0000",
-         "title" : "Nepo - Ding 2023, game 6 LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u07-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 21:16:54 +0000",
-         "title" : "World School Championship Girls U07 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U07 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u09-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 21:11:17 +0000",
-         "title" : "World School Championship U09 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u09-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 21:00:10 +0000",
-         "title" : "World School Championship Girls U09 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U09 / U07 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u11-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 20:52:11 +0000",
-         "title" : "World School Championship U11 2023 - LIVE"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U13 / U11 / U09 / U07 []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-girls-u11-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 20:39:02 +0000",
-         "title" : "World School Championship Girls U11 2023 - LIVE"
       },
       {
          "description" : "Ian Nepomniachtchi has regained the lead in the 2023 FIDE World Championship match after bouncing back to beat Ding Liren in Game 5. \"This loss hurt more than the previous one, because I thought I was totally fine,\" said Ding, who despite falling far behind on the clock had come tantalisingly close to equalising before allowing a brilliant finish by his opponent. Nepo now leads 3:2 with nine games to go.",
