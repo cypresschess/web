@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/important-decisions-taken-on-special-general-body-and-executive-committee-of-all-india-chess-federation-held-on-26-march-2023/",
+         "pubDate" : "Mon, 17 Apr 2023 14:46:24 +0000",
+         "title" : "Important decisions taken on Special General Body and Executive Committee of All India Chess Federation held on 26 March 2023"
+      },
+      {
+         "description" : "Hard to believe - Sebastian Siebrecht from Germany, the world's tallest Grandmaster, who always seems to be so dynamic and youthful, just turned 50. Yesterday, the Grandmaster from Essen, who is also a successful organiser and chess ambassador, celebrated his jubilee. Congratulations!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sebastian-siebrecht-really-50-already",
+         "pubDate" : "Mon, 17 Apr 2023 14:36:32 +0100",
+         "title" : "Sebastian Siebrecht: Really? 50 already?"
+      },
+      {
+         "description" : " For an event that many people had written off before it had started, the 2023 World Championship Match is attracting a lot of attention. This is mainly due to the fact that the first 6 games have already seen 4 wins, 2 to each player. And while this may be a sign of nerves for both players, it does make a change from the previous few matches, where a drawn game was the most likely outcome. So far in this match Nepo has taken the lead, only to see Ding equal the score with a subsequent victory. Such was the case last night, with Ding turning the London System into an attacking weapon. <br /> <b>Liren,Ding (2788) - Nepomniachtchi,Ian (2795) [D02]</b><br /> FIDE World Championship 2023 Astana,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/2023-world-championship-match.html",
+         "pubDate" : "Mon, 17 Apr 2023 13:32:00 +0000",
+         "title" : "2023 World Championship Match"
+      },
+      {
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 6: Ding equalizes! Another decisive result 4/6 so far Match Score: 3-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 6Sunday, 17 April 2023 Ding powers back to equalize the match In a completely masterful game rich with ideas, Ding Liren trotted out the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/\">2023 World Chess Championship: Game 6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/",
+         "pubDate" : "Mon, 17 Apr 2023 13:05:51 +0000",
+         "title" : "2023 World Chess Championship: Game 6"
+      },
+      {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "All Roads to Atlanta for HBCU Chess Classic!"
       },
       {
-         "description" : "There can be no complaints of &#38;lsquo;boring draws&#38;rsquo; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This t...",
+         "description" : "There can be no complaints of &#34;boring draws&#34; in this year&#38;rsquo;s FIDE World Championship, as GM Ding Liren and GM Ian Nepomniachtchi continued to trade blows in game six to reach the fourth decisive result of the match.&#38;nbsp; This time it was D...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-6",
@@ -874,14 +906,6 @@ news_feed (
          "title" : "World Championship Game 1: Nepo gains edge, Ding holds"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 1: Tense battle ends quietly Match Score: &frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 1Sunday, 9 April 2023 Nepo presses, but Ding slips away Game 1 of the 2023 World Chess Championship starts off with a Delayed Exchange Ruy Lopez, and Ian The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/2023-world-chess-championship-game-1/\">2023 World Chess Championship: Game 1</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/09/2023-world-chess-championship-game-1/",
-         "pubDate" : "Sun, 09 Apr 2023 16:43:58 +0000",
-         "title" : "2023 World Chess Championship: Game 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,14 +1168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-3",
          "pubDate" : "Fri, 07 Apr 2023 10:00:00 +0100",
          "title" : "Jan Markos: What you need to know about the Queen (2)"
-      },
-      {
-         "description" : "The knockout phase of the Chessable Masters is taking place on April 3-7. Three Divisions (with 8, 16 and 32 players respectively) are being played concurrently. Each knockout tournament includes winners' and losers' brackets. Magnus Carlsen, Hikaru Nakamura and Fabiano Caruana are among the participants in Division I. | Follow the games live with expert commentary starting at 17.00 CEST (11.00 EDT, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-live",
-         "pubDate" : "Fri, 07 Apr 2023 09:55:00 +0100",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren will compete for the crown in 14-game series Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" title=\"\">Chessable Masters</a>. <a href=\"https://www.theguar",
@@ -1522,14 +1538,6 @@ news_feed (
          "title" : "GM Aravindh Chithambaram Vr. conquers Delhi Open 2023"
       },
       {
-         "description" : "All India Chess Federation congratulate International Arbiter Dr Vipnesh Bhardwaj for becoming the member of Historical Committee of FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-dr-vipnesh-bhardwaj/",
-         "pubDate" : "Sun, 02 Apr 2023 04:00:07 +0000",
-         "title" : "Congratulations Dr Vipnesh Bhardwaj"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://www.britishchesschampionships.co.uk/arbiters-expression-of-interest/#new_tab",
          "pubDate" : "Mon, 27 Mar 2023 15:32:09 +0000",
          "title" : "BCC arbiters' expression of interest"
-      },
-      {
-         "description" : " Top seed Dominic Fox has won the 2023 Dubbo Open, with an unbeaten 5.5/6. Starting the day on 3/3, he defeated Jonathon Harding in the days first round, before drawing with Tyler Milson. In the final round he was up against Braiden Cox, who needed a win for a chance for first. Fox won with a nice attack to secure the $550 1st prize. Blake Lynch finished outright second on 5 points, with Kye Walls and Fritz Vander Wal tied for 3rd on 4.5. The Under 1600 prize was shared between Lee Forace and Tim Hanrahan. The Under 1250 prize was won by Sean Boag and Rijul Saini was the best Unrated. Once again the tournament was a pleasure to run. There were a number of new players competing in their very ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-2.html",
-         "pubDate" : "Mon, 27 Mar 2023 11:36:00 +0000",
-         "title" : "2023 Dubbo Open - Day 2"
       }
    ]
 }
