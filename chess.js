@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/nepo-ding-2023-game-7-live/",
+         "pubDate" : "Mon, 17 Apr 2023 10:50:28 +0000",
+         "title" : "Nepo - Ding 2023, game 7 LIVE"
+      },
+      {
+         "description" : "Today is a another day in the World Chess Championship 2023 aka Nepo &#x2013; Ding match and we focus our attention once more on the other World Championship going on at this moment. The strongest chess engines in the world &#x2013; Stockfish and Leela Chess Zero &#x2013; are battling in a 100 games match for []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/against-the-odds-leela-leads-tcec/",
+         "pubDate" : "Mon, 17 Apr 2023 09:55:15 +0000",
+         "title" : "Against the odds, Leela leads TCEC"
+      },
+      {
          "description" : "This is a deep conversation with GM Jonathan Rowson. The Scottish GM is not only a strong players (peak rating of 2599), but also a deep thinker, a spiritual person, a philosopher and much more. In this conversation with IM Sagar Shah, Jonathan speaks about how he wrote books like Seven Deadly Chess Sins and Chess for Zebras as well as his latest book - Moves that Matter. Jonathan is currently in India and he speaks about his affiliation to the country and how it has grown on him.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/on-chess-spirituality-and-philosophy",
          "pubDate" : "Mon, 17 Apr 2023 09:18:23 +0100",
          "title" : "On Chess, Spirituality, and Philosophy"
+      },
+      {
+         "description" : "The Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding match of the World Chess Championship 2023 is currently in a situation unseen in over 40 years. Both players are exchanging blows and four out of the six games are decisive. This prompted many to forget the general &#8220;World Championship without the World Champion&#8221; sentiment []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/levon-aronian-on-classical-chess-tweetoftheday/",
+         "pubDate" : "Mon, 17 Apr 2023 07:47:41 +0000",
+         "title" : "Levon Aronian on classical chess #TweetOftheDay"
       },
       {
          "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2340",
          "pubDate" : "Sun, 16 Apr 2023 15:11:26 +0000",
          "title" : "The pendulum swings: Ding Liren equalises again"
+      },
+      {
+         "description" : "What have we here? Strictly speaking, it's not really a chess photo, but we use what we are given. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd16.jpg\" WIDTH=400 HEIGHT=300><BR> <B>Left:</B> <A HREF=\"https://www.flickr.com/photos/rob_react/52794719572/\">Chess Club Inside! Ring Da Bell!</A> &#169; Flickr user <I>Rob Larsen</I> under <A HREF=\"https://creativecommons.org/licenses/by/2.0/\">Creative Commons</A>.<BR> <B>Right:</B> Sign on the door, enlarged. <P> The sign underneath say, 'Only Sundays 1430-1730!'. Where? The tags said, 'Amsterdam graffiti'. Where else... <P> If you were expecting more 'AI generated chess images', last seen in <A HREF=\"https://chessforallages.blo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/only-on-sunday.html",
+         "pubDate" : "Sun, 16 Apr 2023 15:08:00 +0000",
+         "title" : "Only on Sunday"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 121st instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
@@ -176,30 +208,6 @@ news_feed (
          "link" : "https://chess24.com/en/read/news/nepomniachtchi-retakes-the-lead-with-game-5-win",
          "pubDate" : "Sat, 15 Apr 2023 20:22:13 +0000",
          "title" : "Nepomniachtchi retakes the lead with Game 5 win"
-      },
-      {
-         "description" : "The 2023 World School Chess Championships take place in Rodos, Greece, from 14-22 April. The tournaments are 9-round Swisses, with a time control of 90 minutes for the entire game, with a 30-second increment from move 1.It is separated in 12 age categories : U17 / U15 / U11 / U09 / U07 / Girls []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/world-school-championship-u13-2023-live/",
-         "pubDate" : "Sat, 15 Apr 2023 20:07:48 +0000",
-         "title" : "World School Championship U13 2023 - LIVE"
-      },
-      {
-         "description" : "The Easter Open 2023 will take place on 30 April 2023 in Sandanski, Bulgaria. The time control is 2 x 15 min. +10 sec per move . The Easter Open 2023 has total prize fund of 3580 BGN and will be played as 9-round Swiss system. The top rated players are Grigor Grigorov, Petar G. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/easter-open-2023/",
-         "pubDate" : "Sat, 15 Apr 2023 20:01:39 +0000",
-         "title" : "Easter Open 2023"
-      },
-      {
-         "description" : "The Queenstar Open International Rating Chess Championship 2023 will take place from 16-20 April 2023 in Hotel Covanro, Naiwala, Sri Lanka. The time control is 90 minutes plus a 30 seconds increment starting from move one.&#xA0;The tournament system is 10-round Swiss and more than 380 players are registered, among them are Azer Mirzoev, Chakkravarthy J. []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/queenstar-open-international-rating-chess-championship-2023-participants/",
-         "pubDate" : "Sat, 15 Apr 2023 19:54:03 +0000",
-         "title" : "Queenstar Open International Rating Chess Championship 2023 - Participants"
       },
       {
          "description" : "",
@@ -1840,38 +1848,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-dubbo-open-day-2.html",
          "pubDate" : "Mon, 27 Mar 2023 11:36:00 +0000",
          "title" : "2023 Dubbo Open - Day 2"
-      },
-      {
-         "description" : "Middlesex County Chess Association has agreed to hold a Middlesex Seniors (adults) vs. Middlesex Juniors match on 6th May 2023, in part to commemorate the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/middlesex-seniors-adults-vs-middlesex-juniors-match/",
-         "pubDate" : "Mon, 27 Mar 2023 10:47:21 +0000",
-         "title" : "Middlesex Seniors (adults) vs. Middlesex Juniors match"
-      },
-      {
-         "description" : "The 37th edition of Reykjavik Open kicks off this Wednesday and will be held from March 29 April 4 in Harpa Conference Center. The event broke the participation record with 408 entries and the top-seeds are: GM Vasyl Ivanchuk (UKR, 2664), GM Nils Grandelius (SWE, 2658), GM Aryan Tari (NOR, 2656), GM Mustafa Yilmaz (TUR, 2629), GM&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/reykjavik-open-2023-starts/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/reykjavik-open-2023-starts/",
-         "pubDate" : "Mon, 27 Mar 2023 08:58:03 +0000",
-         "title" : "Reykjavik Open 2023 starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2300",
-         "pubDate" : "Mon, 27 Mar 2023 08:46:36 +0000",
-         "title" : "Toronto will host the 2024 FIDE Candidates Tournaments"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> ChessTech readers <a href=\"https://www.chesstech.org/2022/big-chess-comes-to-toronto/\">knew that this might come</a>. The <strong>Scheinberg</strong> family's hometown Toronto <a href=\"https://fide.com/news/2300\">will host</a> the Candidates and Women Candidates Tournaments with a combined prizefund of $750,000 in April 2024, the most important chess event ever held in Canada. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/toronto-hosts-candidates-2024/",
-         "pubDate" : "Mon, 27 Mar 2023 09:38:48 +0100",
-         "title" : "Toronto hosts Candidates 2024"
       }
    ]
 }
