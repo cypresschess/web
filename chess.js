@@ -3,6 +3,30 @@ news_feed (
    "items" : [
       {
          "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2342",
+         "pubDate" : "Mon, 17 Apr 2023 19:15:58 +0000",
+         "title" : "Lesotho Championship: Bokang Motsamai and Reitumetse Taioe win titles"
+      },
+      {
+         "description" : "Today is a free day at the Astana World Championship. Nothing to see, no move coming over in real time. But: we have a special treat for you! Grandmaster Efstratios Grivas, trainer and FIDE international organizer, has sent us some deeply annotated games, actually the last three decisive encounters. Go through them on our replay app, learn and enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/my-notes-on-nepo-ding",
+         "pubDate" : "Mon, 17 Apr 2023 18:00:00 +0100",
+         "title" : "My notes on Nepo-Ding"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2341",
+         "pubDate" : "Mon, 17 Apr 2023 16:57:25 +0000",
+         "title" : "Team World takes the lead against Kazakhstan's top women"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/important-decisions-taken-on-special-general-body-and-executive-committee-of-all-india-chess-federation-held-on-26-march-2023/",
@@ -1162,14 +1186,6 @@ news_feed (
          "title" : "A Foundation for Beginners Eighty Nine"
       },
       {
-         "description" : "Middlegame secrets are revealed - in a series of articles featuring videos by Jan Markos. We'll begin with the Queen, exploring things to avoid when playing with the most powerful chess piece! If you wish to know more, we recommend the full course by Jan Markos: Middlegame Secrets Vol.1: The Power of the Queen | Photo: Alexis Fauvet/Unsplash",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/markos-middlegame-secrets-queen-3",
-         "pubDate" : "Fri, 07 Apr 2023 10:00:00 +0100",
-         "title" : "Jan Markos: What you need to know about the Queen (2)"
-      },
-      {
          "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren will compete for the crown in 14-game series Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" title=\"\">Chessable Masters</a>. <a href=\"https://www.theguar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1824,30 +1840,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/women-grand-prix-in-shambles/",
          "pubDate" : "Tue, 28 Mar 2023 11:14:14 +0100",
          "title" : "Women Grand Prix in shambles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2301",
-         "pubDate" : "Mon, 27 Mar 2023 18:57:39 +0000",
-         "title" : "Women's Grand Prix New Delhi: Round 2 Recap"
-      },
-      {
-         "description" : "A couple of months ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/01/chessify-progress-report.html\">Chessify Progress Report</A> (January 2023), I ended the post saying, <BLOCKQUOTE> I'll continue to evaluate the [Chessify] service and perhaps learn why it's worth a subscription. If I discover anything important that I've overlooked to date, I'll come back with another post. </BLOCKQUOTE> <P> A couple of weeks later, the Chessify people started handing out free trial memberships. After a few weeks of the trial, I decided that a subscription was indeed worth the money, if for no other reason than to understand better the technology behind the service. <P> In that same post, I note",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/chessify-resources.html",
-         "pubDate" : "Mon, 27 Mar 2023 15:58:00 +0000",
-         "title" : "Chessify Resources"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.britishchesschampionships.co.uk/arbiters-expression-of-interest/#new_tab",
-         "pubDate" : "Mon, 27 Mar 2023 15:32:09 +0000",
-         "title" : "BCC arbiters' expression of interest"
       }
    ]
 }
