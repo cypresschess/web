@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a deep conversation with GM Jonathan Rowson. The Scottish GM is not only a strong players (peak rating of 2599), but also a deep thinker, a spiritual person, a philosopher and much more. In this conversation with IM Sagar Shah, Jonathan speaks about how he wrote books like Seven Deadly Chess Sins and Chess for Zebras as well as his latest book - Moves that Matter. Jonathan is currently in India and he speaks about his affiliation to the country and how it has grown on him.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-chess-spirituality-and-philosophy",
+         "pubDate" : "Mon, 17 Apr 2023 09:18:23 +0100",
+         "title" : "On Chess, Spirituality, and Philosophy"
+      },
+      {
+         "description" : "National Arbiter Seminar Sivakasi Tamil Nadu Certificates are out to download Link : https://aicf.online/Arbiter-Sivakasi.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-arbiter-seminar-sivakasi-certificates/",
+         "pubDate" : "Mon, 17 Apr 2023 07:15:45 +0000",
+         "title" : "National Arbiter Seminar Sivakasi Certificates"
+      },
+      {
          "description" : " The HBCU Chess Classic will kick off on April 22nd featuring several schools including Morehouse, Spelman, Clark Atlanta, Howard, Hampton, North Carolina A&#38;T, Florida A&#38;M, and host Morris Brown. This tournament will be a five-round, rated, Swiss tournament with both individual and team prizes. This initiative is designed to build a chess community within one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/\">All Roads to Atlanta for HBCU Chess Classic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
-         "description" : "Division I of the Chessable Masters saw the losers' bracket semifinal taking place on Thursday, a match that Magnus Carlsen won by a 2-0 score against Levon Aronian. So Carlsen moved on to the losers' final, where Hikaru Nakamura, who had lost the winners' bracket final to Fabiano Caruana, was already waiting for him. Carlsen and Nakamura drew twice before Carlsen lost the final Armageddon game - following an unfortunate mouse-slip. In the Grand Final, Nakamura will once again face Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d4",
-         "pubDate" : "Fri, 07 Apr 2023 09:55:00 +0100",
-         "title" : "Chessable Masters: Nakamura knocks out Carlsen"
-      },
-      {
          "description" : " The Norwegian has abdicated so Ian Nepomniachtchi and Ding Liren will compete for the crown in 14-game series Ian Nepomniachtchi, 32, and Ding Liren, 30, Russia's world No 2 and China's world No 3, begin their €2m 14-game title match on Sunday at 10am BST in Astana, Kazakhstan. Nepomniachtchi will play under a neutral Fide flag. While the pair push their first pawns, Magnus Carlsen, who announced several months ago that he would be abdicating after a highly successful 10-year reign, will be relaxing on his skiing holiday in Chamonix after competing in this week's online <a href=\"https://championschesstour.com/chessable-masters/\" title=\"\">Chessable Masters</a>. <a href=\"https://www.theguar",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1512,14 +1520,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-dr-vipnesh-bhardwaj/",
          "pubDate" : "Sun, 02 Apr 2023 04:00:07 +0000",
          "title" : "Congratulations Dr Vipnesh Bhardwaj"
-      },
-      {
-         "description" : "Please find attached herewith the final list of candidates who successfully completed the&#160;Arbiters refresher seminar. These lists are segregated&#160;as IA , FA &#38; SNA. We",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiters-refresher-seminar-2023-report/",
-         "pubDate" : "Sun, 02 Apr 2023 03:17:03 +0000",
-         "title" : "Arbiters refresher seminar 2023 :Report"
       },
       {
          "description" : "",
