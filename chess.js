@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Nearly 300 chess enthusiasts visited the island of Menorca last week to take part in the 2nd International Chess Festival, including several grandmasters. After nine rounds ten players with 7.0/9 each shared the lead in the strong open tournament. But the young Indian Gukesh had the best tiebreak and was declared tournament winner.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/menorca-open-ten-players-share-first-place",
+         "pubDate" : "Tue, 18 Apr 2023 15:28:35 +0100",
+         "title" : "Menorca Open: Ten players share first place"
+      },
+      {
+         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heartbreaking loss in the 2nd half of the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-freezes-and-loses-heartbreaking-game-7",
+         "pubDate" : "Tue, 18 Apr 2023 13:34:39 +0000",
+         "title" : "Ding Liren freezes and loses heartbreaking Game 7"
+      },
+      {
+         "description" : "A women's match between a Kazakh selection and a world selection began yesterday in Kazakhstan. The match will be played over two days of rapid chess and one day of blitz. On the first day, the World Team (photo), led by Hou Yifan, took a clear lead. | Photos: David Llada /FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazakhstan-vs-the-world-the-world-takes-the-lead",
+         "pubDate" : "Tue, 18 Apr 2023 14:21:38 +0100",
+         "title" : "\"Kazakhstan vs The World\": \"The World\" takes the lead"
+      },
+      {
+         "description" : "GM Ding Liren produced the latest surprise in the seventh game of the 2023 FIDE World Championship. He opted for a French Defense to combat GM Ian Nepomniachtchi&#39;s 1.e4 but fell at the crucial moment after blundering under severe time pressure. Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-7",
+         "pubDate" : "Tue, 18 Apr 2023 06:02:00 -0700",
+         "title" : "Nepomniachtchi Wins After Ding's Time Pressure Collapse, Takes Lead Again"
+      },
+      {
+         "description" : "A dramatic seventh game saw Ian Nepomniachtchi taking the lead for a third time at the World Championship match in Astana. Ding Liren shocked the audience by playing the French Defence, which led to a double-edged position. While Ding managed to solve his problems and gain the initiative, he also got in deep time trouble. With only seconds on his clock and no increment, he blundered the game away. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Tue, 18 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 7 - Live!"
+         "title" : "World Championship, Game 7 - Nepo leads as Ding blunders"
       },
       {
          "description" : "Anyone who seriously deals with openings cannot avoid the opening encyclopaedia. Whether beginner or grandmaster. The Opening Encyclopaedia is by far the most comprehensive chess theory work: over 1,396 (!) theory articles offer a huge fund of ideas and high-quality analyses! In the 2023 edition, 66 new major articles and 384 new or updated opening overviews have been added. In addition: 70 top-class videos with 29 hours of playing time! For beginners, there is a tutorial for each opening area in which the most important ideas and goals are presented. The icing on the cake: Grandmaster Dorian Rogozenco presents the current opening trends in world-class chess. Secure the decisive advantage fo",
@@ -232,6 +264,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-192",
          "pubDate" : "Sun, 16 Apr 2023 19:00:00 +0100",
          "title" : "Sixty years on"
+      },
+      {
+         "description" : "In this week's show, Karsten M&uuml;ller and his guest, 17-year old Indian Grandmaster Praggnanandhaa look at endgame highlights from Pragg's career. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-236-with-indian-star-praggnanandhaa",
+         "pubDate" : "Sun, 16 Apr 2023 18:00:00 +0100",
+         "title" : "Endgame Magic #236: With Indian star Praggnanandhaa!"
       },
       {
          "description" : "In the third consecutive decisive game of the World Championship match, Ding Liren played the London System and beat Ian Nepomniachtchi to once again even the score in Astana. Nepo described the game as one of his worst ever, while Ding confessed that he had not prepared the line that appeared on the board. Game 7 will take place on Tuesday. | Photo: FIDE / Stev Bonhage",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "Knight Against Rook's Pawn"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books about chess training and chess strategy. In the 120th instalment of his ChessBase show \"Understanding before Moving\", Herman continues with his new series \"Chess history in a nutshell\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-120-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 09 Apr 2023 15:00:00 +0100",
-         "title" : "Understanding before Moving 120: Chess history in a nutshell (2)"
-      },
-      {
          "description" : "Ding Liren confessed he wondered if \"there was something wrong with my mind\" as he came under heavy pressure from Ian Nepomniachtchi in Game 1 of the FIDE World Championship match in Astana, Kazakhstan. Ian sprung an opening surprise, and though Ding reacted well at first, he drifted into trouble. Nepo looked on the brink of a possibly decisive advantage, but then stumbled, with Ding finding all the correct moves in time trouble to make a 49-move draw.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1042,28 +1074,12 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 3"
       },
       {
-         "description" : "Daniil Dubov will be among the commentators of the World Championship match in Astana, along with Irina Krush and Vishy Anand. In an unmissable 30-minute interview, the outspoken grandmaster shares his thoughts on a number of topics: the favourite to win the match, why the classical time control has lost popularity, his dislike of online chess, and why Magnus Carlsen's absence in the World Championship cycle might make it more appealing for other players. | Photo: Niki Riga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dubov-interview-world-championship-2023",
-         "pubDate" : "Sat, 08 Apr 2023 22:00:00 +0100",
-         "title" : "Dubov on the World Championship match, the future of the classical cycle, and online chess"
-      },
-      {
          "description" : "The first FIDE World Championship without GM Magnus Carlsen in more than 10 years began with a dramatic game on Sunday in Astana, Kazakhstan. While there is no defending world champion, there is a returning challenger, and GM Ian Nepomniachtchi le...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-1",
          "pubDate" : "Sat, 08 Apr 2023 12:00:00 -0700",
          "title" : "Nepomniachtchi Presses Big Advantage In Game 1, Ding Escapes"
-      },
-      {
-         "description" : "The what? \"Flag\"? What is that and how does it work? We recorded a confrontation between an absolute super-talent (17 years old and number 18 in world rankings) and a mechanical chess clock of yesteryear. Many of our readers will be well acquainted with the Garde, or other similar clocks, but many will be just as clueless as Dommaraju Gukesh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/introducing-the-garde-chess-clock",
-         "pubDate" : "Sat, 08 Apr 2023 15:00:00 +0100",
-         "title" : "Introducing: the Garde chess clock!"
       },
       {
          "description" : "",
@@ -1618,14 +1634,6 @@ news_feed (
          "title" : "The First Draw: Lei's Perceptive Pawn Sacrifice Equalizes"
       },
       {
-         "description" : "Edited April 2, 2023: Happy April Fool&#38;rsquo;s Day, everyone. Stay safe! Chess.com has launched a search for its new CEO. Current CEO, Erik, co-founded Chess.com in 2006 with his friend and co-founder Jay, and for 17 years has grown the compa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-hiring-new-ceo",
-         "pubDate" : "Fri, 31 Mar 2023 15:00:00 -0700",
-         "title" : "Happy April Fool's Day! Chess.com Hiring New CEO"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1672,14 +1680,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/2023-oceania-junior-and-youth-update.html",
          "pubDate" : "Fri, 31 Mar 2023 12:43:00 +0000",
          "title" : "2023 Oceania Junior and Youth Update"
-      },
-      {
-         "description" : "Former FIDE World Chess Champion Alexander Khalifman was asked for predictions about the upcoming World Championship match between Ian Nepomniachtchi and Ding Liren. He talks about their strengths and weaknesses, and also about Magnus Carlsen's decision not to defend his title. Khalifman claims Magnus has a talent that only Jose Capablanca, Anatoly Karpov and to some extent Vasily Smyslov shared.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/khalifman-you-shouldn-t-give-up-the-title-without-a-fight",
-         "pubDate" : "Fri, 31 Mar 2023 12:04:04 +0000",
-         "title" : "Khalifman: \"You shouldn't give up the title without a fight\""
       },
       {
          "description" : " This week, we start studying a new tactic, the pin. I've mentioned the pin in previous articles but felt it necessary to combine those ideas with the ideas discussed when we looked at the fork to create a more detailed lesson. Generally, the pin is the first tactic I teach. This time around, I started <a href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"A Foundation for Beginners Eighty Eight\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/a-foundation-for-beginners-eighty-eight/\">A Foundation for Beginners Eighty Eight</a> appeared first on <a rel=\"nofollow\" href=\"https://che",
