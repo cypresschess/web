@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Tue, 18 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 7 - Live!"
+      },
+      {
          "description" : "Anyone who seriously deals with openings cannot avoid the opening encyclopaedia. Whether beginner or grandmaster. The Opening Encyclopaedia is by far the most comprehensive chess theory work: over 1,396 (!) theory articles offer a huge fund of ideas and high-quality analyses! In the 2023 edition, 66 new major articles and 384 new or updated opening overviews have been added. In addition: 70 top-class videos with 29 hours of playing time! For beginners, there is a tutorial for each opening area in which the most important ideas and goals are presented. The icing on the cake: Grandmaster Dorian Rogozenco presents the current opening trends in world-class chess. Secure the decisive advantage fo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2341",
          "pubDate" : "Mon, 17 Apr 2023 16:57:25 +0000",
          "title" : "Team World takes the lead against Kazakhstan's top women"
+      },
+      {
+         "description" : "The previous post in our fortnightly look at the two most important engine vs. engine competitions was <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html\">TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final</A> (April 2023). Here's a summary of that post:- <BLOCKQUOTE> TCEC: DivP is a few games away from its finish. Stockfish is a point ahead of LCZero, which has a big lead over KomodoDragon. For this season the organizers have organized the new 'DivP Playoff': 'The top four of DivP face each other to determine who goes to SuFi 24.' &#149; CCC: Stockfish beat Lc0 by 293.0-207.0, making Stockfish the winner of the 'CCC20 Blitz Final'. The s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/tcec-s24-sufi-ccc20-rapid-both-underway.html",
+         "pubDate" : "Mon, 17 Apr 2023 15:55:00 +0000",
+         "title" : "TCEC S24 Sufi, CCC20 Rapid - Both Underway"
       },
       {
          "description" : "",
@@ -1090,14 +1106,6 @@ news_feed (
          "title" : "Tiger Chess Openings Courses Now on Vimeo"
       },
       {
-         "description" : "An exciting pair of matches, featuring seven decisive games, saw Hikaru Nakamura beating Fabiano Caruana twice to win the Chessable Masters. Nakamura played the Smith-Morra Gambit twice with white, including a game in which he only needed a draw. In Division II, Nodirbek Abdusattorov got the better of Maxime Vachier-Lagrave to secure a spot in Division I of the next Champions Chess Tour event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2023-d5",
-         "pubDate" : "Sat, 08 Apr 2023 10:00:00 +0100",
-         "title" : "Nakamura beats Caruana, wins Chessable Masters"
-      },
-      {
          "description" : "Hikaru Nakamura has won the 2023 Chessable Masters after beating Fabiano Caruana in two matches on a wild final day that saw six black wins in seven games. Nakamura prevailed in Armageddon to take the title, $30,000, and a place in the Champions Chess Tour Playoffs in December. Meanwhile 18-year-old Nodirbek Abdusattorov beat Maxime Vachier-Lagrave to win Division II and book a Division I spot for the next Tour event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1840,14 +1848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2302",
          "pubDate" : "Tue, 28 Mar 2023 17:30:53 +0000",
          "title" : "Women's Grand Prix New Delhi: Round 3 recap"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A chess festival in New Delhi with more than 1000 participants is overshadowed by chaos at the embedded <strong>Women Grand Prix</strong> held at a five-star-hotel. Not waiting for organisational lapses to be fixed and in spite of apologies offered by <strong>FIDE</strong> and the organiser, <strong>Zhansaya Abdumalik</strong> from Kazakhstan walked out, and after a <a href=\"https://www.chessbase.in/news/The-Womens-Grand-Prix-in-Delhi-2023\">lot of nerve-wrecking discussions</a> <strong>Elisabeth P&auml;htz</strong> followed her, both from the host countries of the two first <strong>Women Grand Prix</strong> events in Astana and Munich. As at least o",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/women-grand-prix-in-shambles/",
-         "pubDate" : "Tue, 28 Mar 2023 11:14:14 +0100",
-         "title" : "Women Grand Prix in shambles"
       }
    ]
 }
