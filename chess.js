@@ -2,6 +2,118 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2345",
+         "pubDate" : "Tue, 18 Apr 2023 19:24:56 +0000",
+         "title" : "French Chess Federation and Île-de-France Region sign an agreement on chess for people with ASD"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> It's your move. The Muny premiere of \"Chess\" plays The Muny July 5 through July 11. Sponsored by Saint Louis Chess Club &amp; World Chess Hall of Fame. For tickets, Muny.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/muny-presents-chess-july-5-%E2%80%93-11-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wCaw7w4H3TA.jpg?itok=mbTLq8X1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/muny-presents-chess-july-5-%E2%80%93-11-promo",
+         "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
+         "title" : "The Muny presents \"Chess\" July 5 - 11 | PROMO"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev looks at the chess endgame in which each side has a single bishop and the bishops reside on opposite-colored squares. 2023.04.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opposite-colored-bishops-attack-grandmasters-choice-im-vlad-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nH9E6nhFwJ4.jpg?itok=smesUgfx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opposite-colored-bishops-attack-grandmasters-choice-im-vlad-georgiev",
+         "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
+         "title" : "Opposite-Colored Bishops Attack! | Grandmaster's Choice - IM Vlad Georgiev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex Moellering talks about surviving pawn endgames in chess. While treacherous for beginners, learn the basics you should know. 2023.04.18 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/survive-pawn-endgames-beginner-breakdown\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7kxBBdOgAkg.jpg?itok=CYENfMAk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/survive-pawn-endgames-beginner-breakdown",
+         "pubDate" : "Tue, 18 Apr 2023 18:30:51 +0000",
+         "title" : "Survive Pawn Endgames | Beginner Breakdown"
+      },
+      {
+         "description" : "A dramatic seventh game saw Ian Nepomniachtchi taking the lead for a third time at the World Championship match in Astana. Ding Liren shocked Nepo and the audience by playing the French Defence, which led to a double-edged position. While Ding managed to solve his problems and gain the initiative, he also got in deep time trouble. With only seconds on his clock and no increment, he blundered the game away. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g7",
+         "pubDate" : "Tue, 18 Apr 2023 19:00:00 +0100",
+         "title" : "World Championship Game 7: Ding crashes and burns in time trouble"
+      },
+      {
+         "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Last week's article posted here ended with below challenging puzzle. It should have given you the chance to practice the method of promoting the side pawn in the wrong corner. How did it go? Was it hard <a href=\"https://chessimprover.com/the-wrong-corner-2/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner (2)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner-2/\">The Wrong Corner (2)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/improver.png",
+         "iconName" : "The Chess<br>Improver",
+         "link" : "https://chessimprover.com/the-wrong-corner-2/",
+         "pubDate" : "Tue, 18 Apr 2023 16:38:34 +0000",
+         "title" : "The Wrong Corner (2)"
+      },
+      {
+         "description" : "The Polish Amateur Chess Championship will be held from the 15th to the 23rd of April in Zakopane, Poland as a 9-round Swiss. The tournament will have three sections: U2100, U1700 and U1300. The time control is 90 minutes for the entire game with a 30-second increment beginning from move one. Round 4 : Round []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/polish-amateur-championship-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 16:16:25 +0000",
+         "title" : "Polish Amateur Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The ITT Chess Martelli Young Talents 2023 is held from the 13 to the 21 of April in Villa Martelli, Buenos Aires, Argentina. The time control for the event is 90 min plus 30 sec per move. It is a 10-player Round-Robin tournament with participation of Joaquin Fiorito, Andres Eloy Perez Candelas, Candela Be Francisco []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/itt-chess-martelli-young-talents-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 16:12:39 +0000",
+         "title" : "ITT Chess Martelli Young Talents 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U8 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Monika Plancarova, Viktoria Lea Stricova, Karolina []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u8-slovak-youth-championship-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 15:59:48 +0000",
+         "title" : "Girls U8 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U10 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nina Haasova, Michaela Sunova and Simona []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u10-slovak-youth-championship-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 15:54:41 +0000",
+         "title" : "Girls U10 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2344",
+         "pubDate" : "Tue, 18 Apr 2023 15:54:14 +0000",
+         "title" : "Nepomniachtchi takes the lead for the third time as Ding misplays in time trouble"
+      },
+      {
+         "description" : "The Girls U12 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Monika Koscelnikova, Julia Nela Stricova, Emma []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u12-slovak-youth-championship-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 15:48:46 +0000",
+         "title" : "Girls U12 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "The Girls U14 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Karin Novomeska, Hana Horvathova, Olivia Sekova, []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/girls-u14-slovak-youth-championship-2023-live/",
+         "pubDate" : "Tue, 18 Apr 2023 15:43:36 +0000",
+         "title" : "Girls U14 Slovak Youth Championship 2023 - LIVE"
+      },
+      {
+         "description" : "Korumdu, Issyk-Kul, Kyrgyzstan from 30th June to 10th July, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
+         "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
+         "title" : "Western Asia Youth Chess Championship - 2023"
+      },
+      {
          "description" : "Nearly 300 chess enthusiasts visited the island of Menorca last week to take part in the 2nd International Chess Festival, including several grandmasters. After nine rounds ten players with 7.0/9 each shared the lead in the strong open tournament. But the young Indian Gukesh had the best tiebreak and was declared tournament winner.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +138,20 @@ news_feed (
          "title" : "\"Kazakhstan vs The World\": \"The World\" takes the lead"
       },
       {
+         "description" : " There was a fourth decisive white win in a row in the FIDE World Chess Championship match between Ian Nepomniachtchi and Ding Liren in Astana Kazakhstan. Ding Liren melted down in time trouble taking a slightly better position to a loss in only a few moves. Ding surprised Nepomniachtchi again, this time by choosing the French Defence as black. Nepomniachtchi chose the Tarrasch Variation 3.Nd2 which is what he has been playing recently online and both players seemed to be on their own around move 10. Ding was probably fine but he had to be careful as Nepomniachtchi developed a dangerous looking attack. After 16.Rad8 Ding had just 43 minutes to reach move 40, already dangerous territory. Nepo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-melts-down-in-time-trouble-as-nepomniachtchi-regains-the-lead-after-7-games",
+         "pubDate" : "Tue, 18 Apr 2023 17:10:00 +0400",
+         "title" : "Ding melts down in time trouble as Nepomniachtchi regains the lead after 7 games - 7"
+      },
+      {
          "description" : "GM Ding Liren produced the latest surprise in the seventh game of the 2023 FIDE World Championship. He opted for a French Defense to combat GM Ian Nepomniachtchi&#39;s 1.e4 but fell at the crucial moment after blundering under severe time pressure. Th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-7",
          "pubDate" : "Tue, 18 Apr 2023 06:02:00 -0700",
          "title" : "Nepomniachtchi Wins After Ding's Time Pressure Collapse, Takes Lead Again"
-      },
-      {
-         "description" : "A dramatic seventh game saw Ian Nepomniachtchi taking the lead for a third time at the World Championship match in Astana. Ding Liren shocked the audience by playing the French Defence, which led to a double-edged position. While Ding managed to solve his problems and gain the initiative, he also got in deep time trouble. With only seconds on his clock and no increment, he blundered the game away. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Tue, 18 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 7 - Nepo leads as Ding blunders"
       },
       {
          "description" : "Anyone who seriously deals with openings cannot avoid the opening encyclopaedia. Whether beginner or grandmaster. The Opening Encyclopaedia is by far the most comprehensive chess theory work: over 1,396 (!) theory articles offer a huge fund of ideas and high-quality analyses! In the 2023 edition, 66 new major articles and 384 new or updated opening overviews have been added. In addition: 70 top-class videos with 29 hours of playing time! For beginners, there is a tutorial for each opening area in which the most important ideas and goals are presented. The icing on the cake: Grandmaster Dorian Rogozenco presents the current opening trends in world-class chess. Secure the decisive advantage fo",
@@ -106,46 +218,6 @@ news_feed (
          "title" : "U10 Slovak Youth Championship 2023 - LIVE"
       },
       {
-         "description" : "The U12 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Casey Ryan Meszaros, Simon Matejka, Filip Kulich, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u12-slovak-youth-championship-2023-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:37:05 +0000",
-         "title" : "U12 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U14 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jonas Durana, Samuel Ropovik, David Demjan, Marek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u14-slovak-youth-championship-2023-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:33:08 +0000",
-         "title" : "U14 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U16 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Jakub RakovskyMatej Elbek Musaev, Igor Skreko, Marek []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u16-slovak-youth-championship-2023-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:29:08 +0000",
-         "title" : "U16 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The U20/U18 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Vladimir Bochnicka, Simon Rybka, Tomas Brnusak, Patrik []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/u20-u18-slovak-youth-championship-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:24:30 +0000",
-         "title" : "U20/U18 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "A team event taking place alongside the FIDE World Championship match in Astana, Kazakhstan, with a team of 8 Kazakh players taking on a world team that includes Women's no. 1 Hou Yifan, Harika Dronavalli, Nana Dzagnidze, etc. The team Kazakhstan includes Zhansaya Abdumalik, Dinara Saduakassova, Bibisara Assaubayeva, etc. The time control is 15 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/kazakhstan-vs-the-world-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:16:36 +0000",
-         "title" : "Kazakhstan vs. the World - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +280,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/",
          "pubDate" : "Mon, 17 Apr 2023 13:05:51 +0000",
          "title" : "2023 World Chess Championship: Game 6"
-      },
-      {
-         "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/nepo-ding-2023-game-7-live/",
-         "pubDate" : "Mon, 17 Apr 2023 10:50:28 +0000",
-         "title" : "Nepo - Ding 2023, game 7 LIVE"
       },
       {
          "description" : "This is a deep conversation with GM Jonathan Rowson. The Scottish GM is not only a strong players (peak rating of 2599), but also a deep thinker, a spiritual person, a philosopher and much more. In this conversation with IM Sagar Shah, Jonathan speaks about how he wrote books like Seven Deadly Chess Sins and Chess for Zebras as well as his latest book - Moves that Matter. Jonathan is currently in India and he speaks about his affiliation to the country and how it has grown on him.",
@@ -778,36 +842,12 @@ news_feed (
          "title" : "Gukesh, Niemann and Van Foreest head strong field in Menorca"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Sheraton Bucharest Hotel, the Superbet Chess Classic is the first leg of the Grand Chess Tour. The nine Tour players (Firouzja, Ding, Nepomniachtchi, Caruana, Giri, Wesley So, MVL, Duda, and Rapport) are joined by a wildcard (Deac) for a classical round robin. Join a commentary team TBA for the move-by-move. 2023.05.04<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-superbet-chess-classic-round-1-grandchesstour\"><img src=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-superbet-chess-classic-round-1-grandchesstour",
-         "pubDate" : "Wed, 12 Apr 2023 00:25:45 +0000",
-         "title" : "2023 Superbet Chess Classic: Round 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.13<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-final-round",
-         "pubDate" : "Wed, 12 Apr 2023 00:25:45 +0000",
-         "title" : "2023 Spring Chess Classic: Final Round"
-      },
-      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 2: Nepomniachtchi pulls ahead with convincing win Match Score: 1&frac12;-&frac12; Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 2Monday, 10 April 2023 Ding gives lackluster performance, loses badly Game 2 of the World Chess Championship raised questions about the tone of the match. Ding The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/\">2023 World Chess Championship: Game 2</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/11/2023-world-chess-championship-game-2/",
          "pubDate" : "Tue, 11 Apr 2023 22:43:17 +0000",
          "title" : "2023 World Chess Championship: Game 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Chase Park Plaza Hotel, the fifth Spring Chess Classic is comprised of two 10-player round robin tournaments (fields below). The Classic Chess series are strong tournaments held quarterly to create opportunities for Grandmasters and International Masters to test their skill against similar level players. Join WGM Tatev Abrahamyan and NM Julian Proleiko for abbreviated coverage. 2023.04.12<br /> USChessChamps.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-spring-chess-classic-round-8",
-         "pubDate" : "Tue, 11 Apr 2023 21:25:30 +0000",
-         "title" : "2023 Spring Chess Classic: Round 8"
       },
       {
          "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
@@ -1578,14 +1618,6 @@ news_feed (
          "title" : "A brutal attack"
       },
       {
-         "description" : "India's GM Aravindh Chithambaram Vr. &#160;beat GM Pantsulaia Levan of Georgia in the 10th and final round to win the 20th Delhi Open International Grandmasters",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-aravindh-chithambaram-vr-conquers-delhi-open-2023/",
-         "pubDate" : "Sun, 02 Apr 2023 07:01:38 +0000",
-         "title" : "GM Aravindh Chithambaram Vr. conquers Delhi Open 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1840,14 +1872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2303",
          "pubDate" : "Tue, 28 Mar 2023 20:29:17 +0000",
          "title" : "FIDE Women's Candidates Final 2022-2023 kicks off in Chongqing"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2302",
-         "pubDate" : "Tue, 28 Mar 2023 17:30:53 +0000",
-         "title" : "Women's Grand Prix New Delhi: Round 3 recap"
       }
    ]
 }
