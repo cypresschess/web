@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anyone who seriously deals with openings cannot avoid the opening encyclopaedia. Whether beginner or grandmaster. The Opening Encyclopaedia is by far the most comprehensive chess theory work: over 1,396 (!) theory articles offer a huge fund of ideas and high-quality analyses! In the 2023 edition, 66 new major articles and 384 new or updated opening overviews have been added. In addition: 70 top-class videos with 29 hours of playing time! For beginners, there is a tutorial for each opening area in which the most important ideas and goals are presented. The icing on the cake: Grandmaster Dorian Rogozenco presents the current opening trends in world-class chess. Secure the decisive advantage fo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-product-opening-encyclopaedia-2023",
+         "pubDate" : "Tue, 18 Apr 2023 09:00:00 +0100",
+         "title" : "The new Opening Encyclopaedia 2023 - More content. More ideas."
+      },
+      {
+         "description" : "In the diagram position Black is two pawns down and in trouble. But Black has an active king and an active rook - enough to save the game. What should Black do to hold the draw?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/when-the-king-is-cut-off",
+         "pubDate" : "Tue, 18 Apr 2023 09:00:00 +0100",
+         "title" : "When the king is cut off"
+      },
+      {
+         "description" : "When tension is at its highest, even the very best players in the world can blunder games in one move. Now that four out of six games have finished decisively at the World Championship match in Astana - with no lack of strategic and tactical errors - let us take a look at the top 10 blunders from World Championship history.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ris-ten-blunders-world-championships",
+         "pubDate" : "Tue, 18 Apr 2023 06:00:00 +0100",
+         "title" : "Robert Ris: Top 10 blunders in World Championship matches"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "Nakamura beats Caruana, wins Chessable Masters"
       },
       {
-         "description" : "In the diagram position White mates Black's king in a maximum of 11 moves after 28.Rg7+!. Of course you don't need to work out the whole variation in your head, as Jan-Krzysztof Duda had to in this rapid game - but you're welcome to try!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mate-in-11",
-         "pubDate" : "Sat, 08 Apr 2023 09:00:00 +0100",
-         "title" : "Mate in 11!"
-      },
-      {
          "description" : "Hikaru Nakamura has won the 2023 Chessable Masters after beating Fabiano Caruana in two matches on a wild final day that saw six black wins in seven games. Nakamura prevailed in Armageddon to take the title, $30,000, and a place in the Champions Chess Tour Playoffs in December. Meanwhile 18-year-old Nodirbek Abdusattorov beat Maxime Vachier-Lagrave to win Division II and book a Division I spot for the next Tour event.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-cup-2023-starts-in-mali-losinj-croatia/",
          "pubDate" : "Sat, 08 Apr 2023 06:09:59 +0000",
          "title" : "Mitropa Cup 2023 starts in Mali Losinj, Croatia"
-      },
-      {
-         "description" : "Ian Nepomniachtchi will get the white pieces in the first game of the 2023 World Championship match against Ding Liren. The 14-game match kicks off on Sunday, and is the first one not to feature Magnus Carlsen since 2013. FIDE's Milan Dinic previews the contest that is set to decide who will become the 17th undisputed world chess champion. | Photos: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-preview",
-         "pubDate" : "Sat, 08 Apr 2023 02:00:00 +0100",
-         "title" : "All set for the World Championship match in Astana"
       },
       {
          "description" : "GM Hikaru Nakamura defeated GM Fabiano Caruana in the&#38;nbsp;Champions Chess Tour Chessable Masters 2023 Grand Final to win Division I on Friday. The &#34;half man, half zombie,&#34; as GM Robert Hess called Nakamura on the broadcast, came back from the dea...",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://aicf.in/ongc-ward-sports-scholarship-scheme-2023-24/",
          "pubDate" : "Fri, 07 Apr 2023 11:06:02 +0000",
          "title" : "ONGC Ward Sports Scholarship Scheme 2023-24"
-      },
-      {
-         "description" : "In his \"Game of the Week\" show #562, Merijn van Delft presents an interesting, very modern game Jorden van Foreest and Parham Maghsoodloo recently played in ther German Bundesliga. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-561-mendonca-brunello-2",
-         "pubDate" : "Fri, 07 Apr 2023 12:00:00 +0100",
-         "title" : "Game of the Week #562: Jorden van Foreest vs Parham Maghsoodloo"
       },
       {
          "description" : "",
