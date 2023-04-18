@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/",
+         "pubDate" : "Tue, 18 Apr 2023 22:37:36 +0000",
+         "title" : "GZA & Sabrina Chevannes on Hip-Hop/Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Menorca Open: Ten players share first place"
       },
       {
-         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heartbreaking loss in the 2nd half of the match.",
+         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heart-breaking loss in the 2nd half of the match. The good news is he's done it twice before.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-freezes-and-loses-heartbreaking-game-7",
@@ -1018,14 +1026,6 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 4"
       },
       {
-         "description" : " The Capital City Open III proved that chess is regaining its footing behind the initiative of Rickards High School student, Jacob Sperber. The third Tallahassee tournament since December has seen an increase in participation in each event. Sperber, who directs and plays, is inching toward the 2000 rating mark which is impressive when given his The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/\">Richard Kennedy wins Capital City Open III</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/04/09/richard-kennedy-wins-capital-city-open-iii/",
-         "pubDate" : "Sun, 09 Apr 2023 21:08:01 +0000",
-         "title" : "Richard Kennedy wins Capital City Open III"
-      },
-      {
          "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1856,22 +1856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2304",
          "pubDate" : "Wed, 29 Mar 2023 11:17:20 +0000",
          "title" : "FIDE Development Fund 2023 is now open"
-      },
-      {
-         "description" : "Only one round is left to be played before the announcement of the 2023 European Women's Chess Champion and IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406) tie for the first place scoring 8 points, each. The penultimate 10th round saw two decisive results on the top two boards as IM Oliwia Kiolbasa defeated her&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/two-way-tie-at-the-european-womens-chess-championship-2023-with-one-round-to-go/",
-         "pubDate" : "Tue, 28 Mar 2023 22:49:33 +0000",
-         "title" : "Two-way tie for the top at the European Women's Chess Championship 2023 with one round to go"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2303",
-         "pubDate" : "Tue, 28 Mar 2023 20:29:17 +0000",
-         "title" : "FIDE Women's Candidates Final 2022-2023 kicks off in Chongqing"
       }
    ]
 }
