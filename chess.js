@@ -306,6 +306,14 @@ news_feed (
          "title" : "National Arbiter Seminar Sivakasi Certificates"
       },
       {
+         "description" : "Carina D&rsquo;Souza gave a TEDx talk at Havergal College on &ldquo;Checkmating Bias: Increasing Women&rsquo;s Particiation in Chess&rdquo;. Watch the talk on YouTube: www.youtube.com/watch?v=C-WQQm69-jU",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2023/04/17/tedx-talk-checkmating-bias-increasing-womens-participation-in-chess/",
+         "pubDate" : "Mon, 17 Apr 2023 00:00:00 +0000",
+         "title" : "TEDx Talk on Checkmating Bias: Increasing Women's Participation in Chess"
+      },
+      {
          "description" : " The HBCU Chess Classic will kick off on April 22nd featuring several schools including Morehouse, Spelman, Clark Atlanta, Howard, Hampton, North Carolina A&#38;T, Florida A&#38;M, and host Morris Brown. This tournament will be a five-round, rated, Swiss tournament with both individual and team prizes. This initiative is designed to build a chess community within one The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/16/all-roads-to-atlanta-for-hbcu-chess-classic/\">All Roads to Atlanta for HBCU Chess Classic!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
