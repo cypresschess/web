@@ -1896,22 +1896,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/",
          "pubDate" : "Thu, 30 Mar 2023 07:36:09 +0000",
          "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
-      },
-      {
-         "description" : " &#8220;The human mind isn't a computer; it cannot progress in an orderly fashion down a list of candidate moves and rank them by a score down to the hundredth of a pawn the way a chess machine does. Even the most disciplined human mind wanders in the heat of competition&#8221; GM Garry Kasparov Many players <a href=\"https://chessimprover.com/carbon-versus-silicon-4/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"Carbon versus Silicon (4)\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/carbon-versus-silicon-4/\">Carbon versus Silicon (4)</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/improver.png",
-         "iconName" : "The Chess<br>Improver",
-         "link" : "https://chessimprover.com/carbon-versus-silicon-4/",
-         "pubDate" : "Wed, 29 Mar 2023 20:42:30 +0000",
-         "title" : "Carbon versus Silicon (4)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2307",
-         "pubDate" : "Wed, 29 Mar 2023 19:35:58 +0000",
-         "title" : "Women's Grand Prix New Delhi: Goryachkina takes the lead in a day of decisive games"
       }
    ]
 }
