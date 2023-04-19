@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Titled Tuesday on April 18 featured several storylines beyond GM Tuan Minh Le winning the early event and GM Maxime Vachier-Lagrave winning the late event. GM Igor Kovalenko, who has been on in the front lines in Ukraine&#39;s attempt to fight off Rus...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/minh-le-vachier-lagrave-win-titled-tuesday-april-18-2023",
+         "pubDate" : "Wed, 19 Apr 2023 08:06:14 -0700",
+         "title" : "Ukrainian Surprise In Early Titled Tuesday, Eight-Way Tie In Late"
+      },
+      {
+         "description" : "Wlodomiersz Schmidt was the first Polish grandmaster to acquire the title not on an honorary basis, but by fulfilling the norms. For a long time, the native of Poznan was the best Polish player, later a sought-after coach. He died on 1 April, shortly before his 80th birthday. An obituary by Paul Werner Wagner. | Photo: www.piit.org.pl/",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-wlodomiersz-schmidt-10-april-1943-1-april-2023",
+         "pubDate" : "Wed, 19 Apr 2023 15:00:00 +0100",
+         "title" : "Remembering Wlodomiersz Schmidt (10 April 1943 - 1 April 2023)"
+      },
+      {
+         "description" : " When I was 8 years old I moved back to PNG (where I was born) from Melbourne. The big junior sport at my school was Soccer, although Rugby League was also played. As the season was about to start I was listening to some of my classmates saying how good they were. Deciding to join in the conversation I mentioned how I had scored some massive number of goals when I lived in Melbourne. So they invited me to join the team, with the first trial match being that upcoming weekend. The only problem with my claim is that I had never played a game of soccer in my life. And as the day approached I knew I was about to get found out. In fact it was quite soon after the game began that the coach realised",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/04/once-upon-time.html",
+         "pubDate" : "Wed, 19 Apr 2023 13:43:00 +0000",
+         "title" : "Once upon a time "
+      },
+      {
+         "description" : " Not enough time, no money, too old, bad memory. Those are just some of the most frequent excuses I hear for Chess improvement. \"It is true, that's not an excuse\" you might say. Nope. Only excuses. Just give me 5 Minutes and I hope I'll convince you. In this article, I will show you why [] The post <a rel=\"nofollow\" href=\"http://nextlevelchess.blog/excuses/\">No More Excuses: Improve Your Chess Today!</a> appeared first on <a rel=\"nofollow\" href=\"http://nextlevelchess.blog\">Next Level Chess By GM Noël Studer</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "http://nextlevelchess.blog/excuses/",
+         "pubDate" : "Wed, 19 Apr 2023 12:00:00 +0000",
+         "title" : "No More Excuses: Improve Your Chess Today!"
+      },
+      {
          "description" : "Today: Matthias Wuellenweber shows us who Buddy is, and how he can improve your chess analysis. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1074,14 +1106,6 @@ news_feed (
          "title" : "D Gukesh wins title at World Chess Armageddon event"
       },
       {
-         "description" : "The third leg of the Women's Grand Prix finished last Thursday in New Delhi. Aleksandra Goryachkina, Zhu Jiner and Bibsara Assaubayeva tied for first place. As ever, GM Karsten M&uuml;ller followed the action closely, looking for exceptional positions to share with us. Find here three thought-provoking endgames with instructive analyses. | Pictured: Kateryna Lagno taking a look at Aleksandra Goryachkina's position. | Photo: Ismael Nieto",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-new-delhi-2023-endgames",
-         "pubDate" : "Mon, 10 Apr 2023 05:25:00 +0100",
-         "title" : "Endgames from New Delhi"
-      },
-      {
          "description" : "While GMs Ian Nepomniachtchi and Ding Liren were in their final preparations for the battle of the crown, soon-to-be former World Champion Magnus Carlsen and his club Offerspill invited some of the hopes of the next generation to a training camp i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1706,14 +1730,6 @@ news_feed (
          "title" : "Aravindh Chithambaram wins 20th edition of New Delhi Open"
       },
       {
-         "description" : "After opening the match with back-to-back decisive results, GM Lei Tingjie and GM Tan Zhongyi made their first draw in game three of the final of the FIDE Women&#39;s Candidates Tournament 2022-2023 on Friday. With white, Tan explored a new move out...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-3",
-         "pubDate" : "Fri, 31 Mar 2023 15:01:00 -0700",
-         "title" : "The First Draw: Lei's Perceptive Pawn Sacrifice Equalizes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1872,30 +1888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2307",
          "pubDate" : "Wed, 29 Mar 2023 19:35:58 +0000",
          "title" : "Women's Grand Prix New Delhi: Goryachkina takes the lead in a day of decisive games"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2306",
-         "pubDate" : "Wed, 29 Mar 2023 15:27:44 +0000",
-         "title" : "Fortune favours the brave: Tan Zhongyi draws first blood in China "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2305",
-         "pubDate" : "Wed, 29 Mar 2023 13:01:23 +0000",
-         "title" : "London Chess Conference: Back to classroom"
-      },
-      {
-         "description" : " The ACT Interschool Chess Competitions kick off tomorrow, with the 2023 ACT Secondary Girls Final being held at Merici College. Continuing the trend of increased numbers for chess events, this years tournament already has 55 entries, well up from last years 30 players. The team of players from Lyneham High School are probably the favourites, and a win for them would make up for missing out last year (by not having a team!). However both Canberra Grammar and Radford College might be looking for a different result, while defending champions Merici College will also be in the mix. In term two, the Primary and Secondary Open zone events will be held, with the Open finals in term 3. These events",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/03/act-interschool-kicks-off.html",
-         "pubDate" : "Wed, 29 Mar 2023 11:50:00 +0000",
-         "title" : "ACT Interschool kicks off"
       }
    ]
 }
