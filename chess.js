@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today: Matthias Wuellenweber shows us who Buddy is, and how he can improve your chess analysis. In our new video series, our developers personally explain the new features they have developed themselves. From the new data format to the beauty index. In no time at all, you'll learn how it's done.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/explained-by-the-engineers-who-is-buddy",
+         "pubDate" : "Wed, 19 Apr 2023 12:00:00 +0100",
+         "title" : "Explained by the engineers! - Who is Buddy?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613566.cms\" />Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613566.cms",
+         "pubDate" : "Wed, 19 Apr 2023 10:57:50 +0000",
+         "title" : "Global Chess League unveils its official logo"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2347",
+         "pubDate" : "Wed, 19 Apr 2023 10:49:57 +0000",
+         "title" : "World Solving Cup 2022/2023: Female touch in Riga"
+      },
+      {
+         "description" : "The second day of the match between the Kazakh women's team and the World Women's Team, which is taking place in Astana in parallel with the World Championship match between Ding Liren and Ian Nepomniachtchi, ended in a 16-16 draw. The World Team is still in the lead: after two days of rapid chess, the score is 34.5 to 29.5 for the World Team. But the best player so far has been 16-year-old Kazakh Alua Nurmanova (pictured) with 7.0/8. | Photo: Alua Nurmanova at the FIDE World and Rapid Blitz Championships 2023 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazakhstan-vs-the-world-the-world-keeps-its-lead",
+         "pubDate" : "Wed, 19 Apr 2023 11:27:29 +0100",
+         "title" : "Kazakhstan vs \"The World\": \"The World\" keeps its lead"
+      },
+      {
+         "description" : "After the eighth round of the event, Italy and France teams in the Open section are sharing the first place, and France in the Women's Section is solo leading in the Mitropa Cup 2023. Yesterday's eighth round was opened by the ceremonial first move made in the match France - Germany in the Open section by the President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/",
+         "pubDate" : "Wed, 19 Apr 2023 08:51:00 +0000",
+         "title" : "Italy and France are leading in the Mitropa Cup 2023 before the last round"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2346",
+         "pubDate" : "Wed, 19 Apr 2023 08:29:42 +0000",
+         "title" : "Global Chess League unveils its official logo"
+      },
+      {
          "description" : "impersonating a woman! At the Kenya Open, something unique happened when a man was caught playing in the women's section. Registered as an unrated player, he was wearing a hijab (head and shoulder covering) typical of a Muslim woman, with a niqaab (face covering).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,6 +162,14 @@ news_feed (
          "title" : "Girls U12 Slovak Youth Championship 2023 - LIVE"
       },
       {
+         "description" : "Continuing last month's 'On the Cover', <A HREF=\"https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html\">March 1973 & 1998</A> (March 2023), let's again follow the wheel of chess history as it was recorded in U.S. chess mazines 50 and 25 years ago. This month we find 'USA all the way'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd18.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Imagine! ... Inside: 1998 USCF Yearbook' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Robert Byrne, who won the 1972 U.S. Championship by out-scoring Reshevsky and Kavalek in a playoff this February. This is the first time By",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html",
+         "pubDate" : "Tue, 18 Apr 2023 15:48:00 +0000",
+         "title" : "April 1973 & 1998 'On the Cover'"
+      },
+      {
          "description" : "The Girls U14 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Karin Novomeska, Hana Horvathova, Olivia Sekova, []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -138,7 +194,7 @@ news_feed (
          "title" : "Menorca Open: Ten players share first place"
       },
       {
-         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heart-breaking loss in the 2nd half of the match. The good news is he's done it twice before.",
+         "description" : "Ding Liren self-destructed in time trouble in Game 7 of the World Championship match, freezing in a position where he seemed to have done all the hard work and was the one pushing for a win. Ian Nepomniachtchi now leads 4:3, with Ding Liren needing to come back from a heartbreaking loss in the 2nd half of the match. The good news is he's done it twice before.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-freezes-and-loses-heartbreaking-game-7",
@@ -1042,28 +1098,12 @@ news_feed (
          "title" : "2023 O2C Doeberl Cup - Day 4"
       },
       {
-         "description" : "Recently young grandmaster P. Iniyan visited our company and showed us a position from one of his games which should be won by White. But he needed to work very hard to do so. It was a remarkable rook ending from which there was a lot to learn. We challenged our readers to find a comprehensive solution, and received some excellent analyses. This we present you today, with Iniyan's own analysis. Don't miss the wonderfully instructive video at the end.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-iniyan-challenge-2",
-         "pubDate" : "Sun, 09 Apr 2023 20:05:00 +0100",
-         "title" : "The Iniyan Challenge"
-      },
-      {
          "description" : "Chess fans didn&#39;t have to wait long for a decisive result in the 2023 FIDE World Championship, as GM Ian Nepomniachtchi convincingly took down GM Ding Liren in game two. Despite a successful-looking novelty by Ding on move 4, things quickly turned...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-2",
          "pubDate" : "Sun, 09 Apr 2023 12:00:00 -0700",
          "title" : "Nepomniachtchi Wins Game 2 With Black After Navigating Ding's Novelty"
-      },
-      {
-         "description" : "\"Armageddon Championship Series: Asia & Oceania\", the second event of the cycle developed by World Chess, is taking place on April 3-9 in Berlin. Daniil Dubov, Yu Yangyi, Vladimir Kramnik, Nodirbek Abdusattorov, Vidit Gujrathi, Parham Maghsoodloo, Gukesh D and Murali Karthikeyan play a double-elimination blitz knockout, as they battle for €50,000 in prize money and two spots in the series' Grand Finale. | Start: 20.00 CEST. Follow the games live with commentary by Jan Gustafsson and Jovanka Houska.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
-         "pubDate" : "Sun, 09 Apr 2023 19:50:00 +0100",
-         "title" : "Armageddon Series - Live from 20.00 CEST!"
       },
       {
          "description" : "",
@@ -1856,14 +1896,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/03/act-interschool-kicks-off.html",
          "pubDate" : "Wed, 29 Mar 2023 11:50:00 +0000",
          "title" : "ACT Interschool kicks off"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2304",
-         "pubDate" : "Wed, 29 Mar 2023 11:17:20 +0000",
-         "title" : "FIDE Development Fund 2023 is now open"
       }
    ]
 }
