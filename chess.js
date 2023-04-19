@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Titled Tuesday on April 18 featured several storylines beyond GM Tuan Minh Le winning the early event and GM Maxime Vachier-Lagrave winning the late event. GM Igor Kovalenko, who has been on in the front lines in Ukraine&#39;s attempt to fight off Rus...",
+         "description" : "In his \"Game of the Week\" show #564, Merijn van Delft continues to follow the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn takes a close look at game 6, which Ding won. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-564-ding-liren-vs-ian-nepomniachtchi-game-6",
+         "pubDate" : "Wed, 19 Apr 2023 19:49:35 +0100",
+         "title" : "Game of the Week #564: Ding Liren vs Ian Nepomniachtchi, Game 6"
+      },
+      {
+         "description" : "France's teams won gold medals in both the open and women's sections at Mitropa Chess Cup 2023, organised by the Croatian Chess Federation in Mali Lošinj. The closing ceremony featured the presence of some honourable guests: the Mayor of Mali Lošinj, Mrs Anna Kuči&#263, and the President of the European Chess Union, Mr Zurab Azmaiparashvili. The President of&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/france-wins-double-gold-at-the-2023-mitropa-cup/\">Read More &#187;</a></span>",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/france-wins-double-gold-at-the-2023-mitropa-cup/",
+         "pubDate" : "Wed, 19 Apr 2023 17:02:27 +0000",
+         "title" : "France wins double gold at the 2023 Mitropa Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2348",
+         "pubDate" : "Wed, 19 Apr 2023 16:36:25 +0000",
+         "title" : "FIDE World School Championship crosses halfway mark"
+      },
+      {
+         "description" : "There will be a seminar on Swiss-Manager held via Zoom at 7.00pm-9.00pm on Tuesday 2nd May. People who attended the Zoom seminar between 28th March...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/swiss-manager-seminar/",
+         "pubDate" : "Wed, 19 Apr 2023 15:31:35 +0000",
+         "title" : "Swiss-Manager seminar"
+      },
+      {
+         "description" : "Titled Tuesday on April 18 featured several storylines beyond GM Tuan Minh Le winning the early event and GM Maxime Vachier-Lagrave winning the late event. GM Igor Kovalenko, who has been on the front lines in Ukraine&#39;s attempt to fight off Russia...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/minh-le-vachier-lagrave-win-titled-tuesday-april-18-2023",
-         "pubDate" : "Wed, 19 Apr 2023 08:06:14 -0700",
+         "pubDate" : "Wed, 19 Apr 2023 08:06:00 -0700",
          "title" : "Ukrainian Surprise In Early Titled Tuesday, Eight-Way Tie In Late"
       },
       {
-         "description" : "Wlodomiersz Schmidt was the first Polish grandmaster to acquire the title not on an honorary basis, but by fulfilling the norms. For a long time, the native of Poznan was the best Polish player, later a sought-after coach. He died on 1 April, shortly before his 80th birthday. An obituary by Paul Werner Wagner. | Photo: www.piit.org.pl/",
+         "description" : "Włodzimierz Schmidt was the first Polish grandmaster to acquire the title not on an honorary basis, but by fulfilling the norms. For a long time, the native of Poznan was the best Polish player, later a sought-after coach. He died on 1 April, shortly before his 80th birthday. An obituary by Paul Werner Wagner. | Photo: www.piit.org.pl/",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remembering-wlodomiersz-schmidt-10-april-1943-1-april-2023",
          "pubDate" : "Wed, 19 Apr 2023 15:00:00 +0100",
-         "title" : "Remembering Wlodomiersz Schmidt (10 April 1943 - 1 April 2023)"
+         "title" : "Remembering Włodzimierz Schmidt (10 April 1943 - 1 April 2023)"
       },
       {
          "description" : " When I was 8 years old I moved back to PNG (where I was born) from Melbourne. The big junior sport at my school was Soccer, although Rugby League was also played. As the season was about to start I was listening to some of my classmates saying how good they were. Deciding to join in the conversation I mentioned how I had scored some massive number of goals when I lived in Melbourne. So they invited me to join the team, with the first trial match being that upcoming weekend. The only problem with my claim is that I had never played a game of soccer in my life. And as the day approached I knew I was about to get found out. In fact it was quite soon after the game began that the coach realised",
@@ -96,14 +128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/",
          "pubDate" : "Tue, 18 Apr 2023 22:37:36 +0000",
          "title" : "GZA & Sabrina Chevannes on Hip-Hop/Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2345",
-         "pubDate" : "Tue, 18 Apr 2023 19:24:56 +0000",
-         "title" : "French Chess Federation and Île-de-France Region sign an agreement on chess for people with ASD"
       },
       {
          "description" : "<div class=\"body text-secondary\"> It's your move. The Muny premiere of \"Chess\" plays The Muny July 5 through July 11. Sponsored by Saint Louis Chess Club &amp; World Chess Hall of Fame. For tickets, Muny.org. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/muny-presents-chess-july-5-%E2%80%93-11-promo\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wCaw7w4H3TA.jpg?itok=mbTLq8X1\" alt=\"\" /></a></div>",
@@ -216,6 +240,14 @@ news_feed (
          "link" : "https://aicf.in/western-asia-youth-chess-championship-2023/",
          "pubDate" : "Tue, 18 Apr 2023 15:41:57 +0000",
          "title" : "Western Asia Youth Chess Championship - 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2345",
+         "pubDate" : "Tue, 18 Apr 2023 15:24:56 +0000",
+         "title" : "French Chess Federation and Île-de-France Region sign an agreement on chess for people with ASD"
       },
       {
          "description" : "Nearly 300 chess enthusiasts visited the island of Menorca last week to take part in the 2nd International Chess Festival, including several grandmasters. After nine rounds ten players with 7.0/9 each shared the lead in the strong open tournament. But the young Indian Gukesh had the best tiebreak and was declared tournament winner.",
@@ -1040,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2331",
          "pubDate" : "Mon, 10 Apr 2023 19:12:06 +0000",
          "title" : "Vahap Sanal wins Fagernes International"
-      },
-      {
-         "description" : "Ian Nepomniachtchi took the lead at the World Chess Championship in Astana after beating Ding Liren with black in Monday's game 2. Ding shocked onlookers with his fourth move, but Nepo reacted in principled fashion, entering the most trying continuations. Soon enough, the Russian's position went from slightly advantageous to completely winning. Ding resigned the game on move 29. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g2",
-         "pubDate" : "Mon, 10 Apr 2023 18:30:00 +0100",
-         "title" : "World Championship Game 2: Nepo scores, despite Ding's opening surprise"
       },
       {
          "description" : "In last week's TCEC/CCC post, <A HREF=\"https://chessforallages.blogspot.com/2023/04/tcec-s24-divp-finishing-stockfish-wins.html\">TCEC S24 DivP Finishing; Stockfish Wins CCC20 Blitz Final</A> (April 2023), I ended saying, <BLOCKQUOTE> In previous posts, I've mentioned OpenBench several times in passing. It's high time I devoted an off-week post to the concept. Maybe next week... </BLOCKQUOTE> <P> This being next week and if not today, maybe never, let's first look at those passing references:- <UL> <LI> 2022-09-05: <A HREF=\"https://chessforallages.blogspot.com/2022/09/chess324-is-thing.html\">Chess324 Is a Thing</A> &#149; 'OpenBench was featured in an August CCC event called, 'OpenBench Inter",
