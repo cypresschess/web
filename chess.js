@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "impersonating a woman! At the Kenya Open, something unique happened when a man was caught playing in the women's section. Registered as an unrated player, he was wearing a hijab (head and shoulder covering) typical of a Muslim woman, with a niqaab (face covering).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-player-disqualified-for",
+         "pubDate" : "Wed, 19 Apr 2023 09:16:31 +0100",
+         "title" : "Chess player disqualified for..."
+      },
+      {
          "description" : " Adisa Banjoko launched the Hip-Hop Chess Federation back in 2007 and had the desire to bridge his passion for hip-hop, martial arts, and chess. He held tournaments, taught classes, and arranged a hip-hop exhibit at the World Chess Hall of Fame. Adisa Banjoko's Hip-Hop Chess Federationwas the cover story of February 2012U.S. Chess Life magazine. The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/18/gza-sabrina-chevannes-on-hip-hop-chess/\">GZA &#038; Sabrina Chevannes on Hip-Hop/Chess</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/armageddon-series-2023-asia-live",
          "pubDate" : "Sun, 09 Apr 2023 19:50:00 +0100",
          "title" : "Armageddon Series - Live from 20.00 CEST!"
-      },
-      {
-         "description" : "Game 1 of the World Championship match was a nervy affair. Ian Nepomniachtchi, playing white, got the upper hand out of the opening, eventually gained a pawn, but then failed to convert his advantage. Ding Liren, who might become China's first-ever world champion, confessed in the press conference that he had difficulty focusing on chess at the start of the game, most likely due to the pressure of the match. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-g1",
-         "pubDate" : "Sun, 09 Apr 2023 18:40:00 +0100",
-         "title" : "World Championship Game 1: Nepo gains edge, Ding holds"
       },
       {
          "description" : "",
