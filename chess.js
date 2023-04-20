@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Magazine Extra #212 was just published! And offers a lot: e.g. opening videos with ideas for your repertoire, the \"Brilliancy\", the \"Lucky Bag\", and an update service to keep your database up-to-date. A lot of chess, beautiful chess and instructive chess!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-212",
+         "pubDate" : "Thu, 20 Apr 2023 20:26:35 +0100",
+         "title" : "New: CBM Extra #212"
+      },
+      {
+         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-g8",
+         "pubDate" : "Thu, 20 Apr 2023 19:30:00 +0100",
+         "title" : "World Championship Game 8: More drama, Ding misses big chance"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2351",
+         "pubDate" : "Thu, 20 Apr 2023 16:12:05 +0000",
+         "title" : "Ding drops crucial victory as Nepomniachtchi maintains lead in the FIDE World Chess Championship match"
+      },
+      {
          "description" : "Trials 1 through 8 of the Olympic Esports Series 2023 saw eight winners: GMs Ngoc Truong Son Nguyen, Frederik Svane, Hikaru Nakamura, Yu Yangyi, Jaime Santos Latasa, Alexey Sarana, and IMs M Pranesh and Emin Ohanyan.&#38;nbsp; While many of the &#34;usu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -31,7 +55,15 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-8",
          "pubDate" : "Thu, 20 Apr 2023 06:32:00 -0700",
-         "title" : "Flash Report: Nepomniachtchi Miraculously Holds After Beatdown By Ding"
+         "title" : "Nepomniachtchi Miraculously Holds After Beatdown By Ding"
+      },
+      {
+         "description" : " The eighth game of the World Chess Championship in Astana, Kazakhstan finished in a draw but only after Ding Liren missed very good chances to win. Off the board it seems that people have found some of Ding's training games on Lichess where these unusual lines, and presumably other things he intends to use were practiced. Ding played 4.e3 against the Nimzo-Indian but only on the way to a Saemisch pawn structure with 5.a3, he then played 9.Ra2 which he believed would be a powerful surprise. Nepomniachtchi didn't take long over choosing 9...b6 which would be most people's first idea in this structure. Ding followed up with a very temporary piece sacrifice and then a break in the centre. 17.d6",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-misses-a-huge-chance-to-level-things-up-again-in-world-championship-game-8",
+         "pubDate" : "Thu, 20 Apr 2023 16:55:00 +0400",
+         "title" : "Ding misses a huge chance to level things up again in World Championship game 8 - 8"
       },
       {
          "description" : "Andreea Navrotescu sums up the chess fans feelings for the ongoing Nepo &#x2013; Ding final of the World Chess Championship 2023 in one sentence and two hashtags. &#8220;Sorry, Magnus Carlsen, but your chess was too perfect to be this entertaining #NepoDing #weloveblunders&#8221; Andreea Navrotescu makes it for the second time this month in our #TweetOftheDay []",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chessdom.com/sorry-magnus-your-chess-was-too-perfect-tweetoftheday/",
          "pubDate" : "Thu, 20 Apr 2023 12:17:02 +0000",
          "title" : "Sorry, Magnus, your chess was too perfect! #TweetOftheDay"
-      },
-      {
-         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a sharp tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
-         "pubDate" : "Thu, 20 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 8 - Ding misses chance, Nepo still leads"
       },
       {
          "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
@@ -1074,14 +1098,6 @@ news_feed (
          "title" : "2023 World Chess Championship: Game 2"
       },
       {
-         "description" : "The Saint Louis Chess Club continues to organize seasonal, closed events aimed at creating competitive opportunities for up-and-coming players. The Spring Chess Classic is taking place on April 5-13 as a 10-player single round-robin event. After six rounds, Dariusz Swiercz, Benjamin Bok (pictured) and Christopher Yoo are sharing the lead with 3&frac12; points. In round 2, Yoo and Abhimanyu Mishra played a remarkable game, featuring no fewer than five promotions. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spring-chess-classic-2023-r6",
-         "pubDate" : "Tue, 11 Apr 2023 17:25:00 +0100",
-         "title" : "Swiercz, Bok and Yoo share the lead at Spring Chess Classic"
-      },
-      {
          "description" : " The <a href=\"https://actjcl.org.au/oycc2023/index.html\">2023 Oceania Junior and Youth Championship</a> began today at Campbell High School in Canberra. 204 players entered, although a couple of late withdrawals forced a change to some of the events. To allow everyone to be eligible for titles, the tournament is now being run in 5 sections. The Under 20 and Under 18 sections are now one event, as are the Under 16 Open and the Under 14 Open. The Under 12 Open Tournament has been joined by the Under 10's and Under 8's. The Girls event is also now one section. While medals will be awarded in all age groups (20 down to 8 for both Open and Girls), the number of direct titles on offer has been red",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1840,30 +1856,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/mar/31/chess-hikaru-nakamura-traps-a-queen-and-wins-60000-in-st-louis",
          "pubDate" : "Fri, 31 Mar 2023 07:00:16 +0000",
          "title" : "Chess: Hikaru Nakamura traps a queen and wins $60,000 in St Louis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2311",
-         "pubDate" : "Thu, 30 Mar 2023 19:02:50 +0000",
-         "title" : "WGP New Dehli Round 5 Recap: Zhu Jiner takes the lead"
-      },
-      {
-         "description" : "The 2015 World Team Championship saw China winning its first gold medal (out of three) in the tournament. The team was led by Ding Liren on top board, and had its top scorer in 15-year-old Wei Yi, who collected scoring 7/9 points on board 4. Ukraine and Armenia finished second and third, while the clear rating favourites from Russia only managed fourth place. The tournament took place in Tsaghkadzor, a small touristy town in Armenia also known as the 'valley of flowers'. | Photos: Arman Karakhanyan",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-world-team-championship-2015",
-         "pubDate" : "Thu, 30 Mar 2023 20:00:00 +0100",
-         "title" : "Throwback Thursday: 15-year-old Wei Yi leads China to World Teams gold"
-      },
-      {
-         "description" : "Before I get to this month's Yahoos (see the footnote for an explanation of 'Yahoos'), let's look at the March stats. Numbers always tell their own story. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nc30.gif\" WIDTH=175 HEIGHT=200 ALIGN=LEFT VSPACE=5 HSPACE=5> For this current post, <I>Google News</I> returned 99 chess stories, of which nine sources had two or more stories. These are shown in the chart on the left. <P> Those nine sources accounted for 53 stories, leaving 46 sources with a single story. As always, Chess.com accounted for far more stories than any other source. <P> Two other perennial leaders, Chessbase.com and the Guardian, accounted for three stories each. In last month",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/03/downstreamer-yahoos.html",
-         "pubDate" : "Thu, 30 Mar 2023 15:53:00 +0000",
-         "title" : "Downstreamer Yahoos"
       }
    ]
 }
