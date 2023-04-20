@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vladimir Kramnik recently participated at the Armageddon Series organized by World Chess in Berlin. In a 35-minute interview conducted in the German capital, the former world champion talked about his new projects, his work with Indian talents and Alireza Firouzja, and his assessment of Magnus Carlsen's place in the history of the sport. His conclusion: \"He just changed chess. Chess is Magnus Carlsen.\" | Photo: World Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-interview-world-chess-2023",
+         "pubDate" : "Thu, 20 Apr 2023 03:20:00 +0100",
+         "title" : "Kramnik on life after chess, young talents and Magnus Carlsen"
+      },
+      {
          "description" : "In his \"Game of the Week\" show #564, Merijn van Delft continues to follow the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn takes a close look at game 6, which Ding won. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -410,7 +418,7 @@ news_feed (
          "title" : "2023 World Championship Match"
       },
       {
-         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 6: Ding equalizes! Another decisive result 4/6 so far Match Score: 3-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 6Sunday, 17 April 2023 Ding powers back to equalize the match In a completely masterful game rich with ideas, Ding Liren trotted out the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/\">2023 World Chess Championship: Game 6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 6: Ding equalizes! Another decisive result 4/6 so far Match Score: 3-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 6Sunday, 16 April 2023 Ding powers back to equalize the match In a completely masterful game rich with ideas, Ding Liren trotted out the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/\">2023 World Chess Championship: Game 6</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/04/17/2023-world-chess-championship-game-6/",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tricky-2",
          "pubDate" : "Tue, 11 Apr 2023 09:00:00 +0100",
          "title" : "Tricky"
-      },
-      {
-         "description" : "16-year-old Dommaraju Gukesh emerged victorious in the second event of the Armageddon Championship Series 2023, organized by World Chess. Gukesh's excellent performance secured him a spot in September's Grand Finale, along with Nodirbek Abdusattorov, the tournament's runner-up. The series was broadcasted live on 16 online and TV platforms, including CNBC, BeIN Sports and FOX Australia. | Photos: World Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-wins-armageddon-series-asia",
-         "pubDate" : "Tue, 11 Apr 2023 06:10:00 +0100",
-         "title" : "Gukesh beats Abdusattorov, wins 'Armageddon Series: Asia & Oceania'"
       },
       {
          "description" : "",
