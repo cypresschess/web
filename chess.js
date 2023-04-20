@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "description" : "Trials 1 through 8 of the Olympic Esports Series 2023 saw eight winners: GMs Ngoc Truong Son Nguyen, Frederik Svane, Hikaru Nakamura, Yu Yangyi, Jaime Santos Latasa, Alexey Sarana, and IMs M Pranesh and Emin Ohanyan.&#38;nbsp; While many of the &#34;usu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-olympic-esports-series-trials-1-8",
+         "pubDate" : "Thu, 20 Apr 2023 07:30:41 -0700",
+         "title" : "Queen Sacs Galore: 8 Players Qualify For Olympic Esports Series Preliminaries"
+      },
+      {
+         "description" : "Ding Liren was set to make it a staggering five wins for White in a row, but a combination of missed chances, a bluff, and brilliant defence from Ian Nepomniachtchi saw Game 8 of the World Championship match end in a draw. Ian now leads 4.5:3.5, while Ding has to deal with the fallout of his \"anonymous\" pre-match training games being discovered online.",
+         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
+         "iconName" : "Chess 24",
+         "link" : "https://chess24.com/en/read/news/ding-liren-blows-huge-chance-as-world-championship-prep-leaks-online",
+         "pubDate" : "Thu, 20 Apr 2023 13:45:27 +0000",
+         "title" : "Ding Liren blows huge chance as prep leaks online"
+      },
+      {
+         "description" : "In Astana, in parallel to the World Championship match, a team of the best Kazakh women players played a blitz and rapid match against a team from \"The World\". \"The World\" team won both events, the rapid and the blitz match. \"The World\" team was led by former Women's World Champion Hou Yifan, who is still the world's number on the women's ranking list. In an interview she revealed her thoughts about the development of women's chess. | Photos: FIDE/Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-world-wins-against-kazakhstan-in-astana",
+         "pubDate" : "Thu, 20 Apr 2023 14:39:19 +0100",
+         "title" : "\"The World\" wins against Kazakhstan in Astana"
+      },
+      {
+         "description" : "GM Ding Liren almost bounced back in sensational fashion following a gutwrenching round-seven loss, falling just short after a herculean effort from GM Ian Nepomniachtchi, resulting in a draw in the eighth round of the 2023 FIDE World Championship...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-world-chess-championship-2023-game-8",
+         "pubDate" : "Thu, 20 Apr 2023 06:32:00 -0700",
+         "title" : "Flash Report: Nepomniachtchi Miraculously Holds After Beatdown By Ding"
+      },
+      {
+         "description" : "Andreea Navrotescu sums up the chess fans feelings for the ongoing Nepo &#x2013; Ding final of the World Chess Championship 2023 in one sentence and two hashtags. &#8220;Sorry, Magnus Carlsen, but your chess was too perfect to be this entertaining #NepoDing #weloveblunders&#8221; Andreea Navrotescu makes it for the second time this month in our #TweetOftheDay []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sorry-magnus-your-chess-was-too-perfect-tweetoftheday/",
+         "pubDate" : "Thu, 20 Apr 2023 12:17:02 +0000",
+         "title" : "Sorry, Magnus, your chess was too perfect! #TweetOftheDay"
+      },
+      {
+         "description" : "Drama continues to unfold at the World Championship match in Astana. Following four decisive games, Ding Liren played enterprisingly with the white pieces and gained a decisive advantage. Amid a sharp tactical middlegame, Ian Nepomniachtchi was resourceful in defence, as he also garnered a big lead on the clock. Nepo managed to escape with a draw and continues to have a 1-point lead on the scoreboard. | Replay the game with computer-assisted analysis. Full report to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-championship-2023-live",
          "pubDate" : "Thu, 20 Apr 2023 10:45:00 +0100",
-         "title" : "World Championship, Game 8 - Live!"
+         "title" : "World Championship, Game 8 - Ding misses chance, Nepo still leads"
       },
       {
          "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
@@ -216,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kazakhstan-vs-the-world-the-world-keeps-its-lead",
          "pubDate" : "Wed, 19 Apr 2023 11:27:29 +0100",
          "title" : "Kazakhstan vs \"The World\": \"The World\" keeps its lead"
-      },
-      {
-         "description" : "The chess world will see Yifan Hou compete once more OTB. She will play in the strong rapid and blitz Satty Zhuldyz Chess Festival 2023 which will take place in Astana, April 19-26. Satty Zhuldyz Chess Festival 2023 is a round robin tournament with Levon Aronian, Yifan Hou, Arjun Erigaisi, Alexander Grischuk, Vladimir Kramnik, Vincent []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/yifan-hou-returns-to-competitive-chess-this-april/",
-         "pubDate" : "Wed, 19 Apr 2023 10:26:00 +0000",
-         "title" : "Yifan Hou returns to competitive chess this April"
       },
       {
          "description" : "After the eighth round of the event, Italy and France teams in the Open section are sharing the first place, and France in the Women's Section is solo leading in the Mitropa Cup 2023. Yesterday's eighth round was opened by the ceremonial first move made in the match France - Germany in the Open section by the President&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/italy-and-france-are-leading-in-the-mitropa-cup-2023-before-the-last-round/\">Read More &#187;</a></span>",
@@ -1058,14 +1090,6 @@ news_feed (
          "title" : "The Unicyclists did not show up"
       },
       {
-         "description" : "Experts estimate that more books have been written about chess than about all other games combined. Chess addicts may own hundreds, but have an ambivalent relationship to them. On the one hand, one is proud to own the books. On the other, most cannot be read! Not by 95% of the people who buy them. ChessBase is currently in the process of launching a new \"Tutorial\" format. First volumes can be purchased in our Shop.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/brand-new-chessbase-tutorials",
-         "pubDate" : "Tue, 11 Apr 2023 12:53:52 +0100",
-         "title" : "Brand new: ChessBase Tutorials"
-      },
-      {
          "description" : " \"Still round the corner there may wait, A new road or a secret gate.\" J. R. R. Tolkien Anyone can start learning chess. There is an ocean of information available online, as well as countless books. The main challenge each one of us encounters is how to learn. I remember being afraid to reach a <a href=\"https://chessimprover.com/the-wrong-corner/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> \"The Wrong Corner\"</span></a> The post <a rel=\"nofollow\" href=\"https://chessimprover.com/the-wrong-corner/\">The Wrong Corner</a> appeared first on <a rel=\"nofollow\" href=\"https://chessimprover.com\">The Chess Improver</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/improver.png",
          "iconName" : "The Chess<br>Improver",
@@ -1698,14 +1722,6 @@ news_feed (
          "title" : "FIDE April 2023 rating list published"
       },
       {
-         "description" : "Hikaru Nakamura described a 40-game match against Magnus Carlsen as \"one of the biggest mistakes\" of his career, but the triple world champion doesn't believe his explanation.",
-         "iconLink" : "https://cypresschess.github.io/web/chess24.png",
-         "iconName" : "Chess 24",
-         "link" : "https://chess24.com/en/read/news/carlsen-on-epic-blitz-match-vs-nakamura",
-         "pubDate" : "Sun, 02 Apr 2023 17:55:19 +0000",
-         "title" : "Carlsen on epic blitz match vs. Nakamura"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1720,14 +1736,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/04/baffling-ebay.html",
          "pubDate" : "Sun, 02 Apr 2023 15:56:00 +0000",
          "title" : "Baffling eBay"
-      },
-      {
-         "description" : "GM Lei Tingjie scored an important win over GM Tan Zhongyi with White to push herself a point in front with two rounds to go in the final of the FIDE Women&#39;s Candidate&#39;s Tournament 2022-2023 on Sunday. Selecting a theoretical approach in the Cat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2022-23-women-candidates-tournament-final-day-4",
-         "pubDate" : "Sun, 02 Apr 2023 08:38:43 -0700",
-         "title" : "Lei Wins With White, Leads For 1st Time In Chongqing"
       },
       {
          "description" : " The Reykjavik Open is one of the bigger chess events held around the world. It is organised as one big swiss, and with 400 players entered, accelerating the pairings for the 9 round event makes some sense. This also means that the 1st round games are a little more interesting than non accelerated events. Board 2 saw just such a game in round 1 where GM Nils Grandellius launched a brutal sacrificial attack against IM Peter Large. If you are taking notes at home, the sacrifice on h6 was based on having 3 attackers versus 1 defender on the kingside. <br /> <b>Grandelius,Nils (2658) - Large,Peter G (2227) [E16]</b><br /> Reykjavik Open 2023 Reykjavik (1.2), 29.03.2023 <script> new PgnViewer( { ",
@@ -1752,14 +1760,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2315",
          "pubDate" : "Sat, 01 Apr 2023 19:22:02 +0000",
          "title" : "WGP New Dehli: Round 7 Recap"
-      },
-      {
-         "description" : "Edited April 3, 2023: Happy April Fool&#38;rsquo;s Day, everyone. Stay safe! Chess.com, the world&#38;rsquo;s leading online chess platform, is pleased to announce the appointment of GM Anish Giri as its new CEO. Giri, a renowned chess grandmaster,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anish-giri-chesscom-ceo",
-         "pubDate" : "Sat, 01 Apr 2023 09:00:00 -0700",
-         "title" : "New King Rises: Anish Giri Appointed Chess.com CEO"
       },
       {
          "description" : "In past columns I have indicated links between chess and such immortals as King Alfonso the Wise, Tamburlaine the Great, Shakespeare, Goethe, Napoleon, Nietzsche and Duchamp. I have, however, searched in vain for any specific reference to chess in the works of our glorious 17th century poet, John Milton. Then I realised that his unparalleled epic, []",
@@ -1864,38 +1864,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/03/downstreamer-yahoos.html",
          "pubDate" : "Thu, 30 Mar 2023 15:53:00 +0000",
          "title" : "Downstreamer Yahoos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2310",
-         "pubDate" : "Thu, 30 Mar 2023 15:16:15 +0000",
-         "title" : "WCF Game 2: Lei Tingjie grinds down Tan Zhongyi and ties the match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2309",
-         "pubDate" : "Thu, 30 Mar 2023 14:37:28 +0000",
-         "title" : "Cyprus to host fourth stage of FIDE Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/test-your-chess/#new_tab",
-         "pubDate" : "Thu, 30 Mar 2023 13:30:27 +0000",
-         "title" : "New - Test Your Chess"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Gazprom</strong>-owned Russian <strong>Match TV</strong> has not acquired any images or broadcasting rights from <strong>FIDE</strong> for its extensive world championship coverage, as FIDE Chief Marketing and Communications Officer <strong>David Llada</strong> told ChessTech. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2023/no-contract-for-match-tv/",
-         "pubDate" : "Thu, 30 Mar 2023 14:02:45 +0100",
-         "title" : "No contract for Match TV"
       }
    ]
 }
