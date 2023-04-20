@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 World Chess Championship is taking place on April 9-30 in Astana, Kazakhstan. Ian Nepomniachtchi and Ding Liren will decide who becomes the 17th undisputed world chess champion in a 14-game match. In case of a 7-7 tie, rapid playoffs will follow. | Follow the games live with expert commentary, starting at 11.00 CEST (5.00 EDT, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-championship-2023-live",
+         "pubDate" : "Thu, 20 Apr 2023 10:45:00 +0100",
+         "title" : "World Championship, Game 8 - Live!"
+      },
+      {
+         "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ii-torneo-ajedrez-jovenes-promesas-diagonal-live/",
+         "pubDate" : "Thu, 20 Apr 2023 08:30:00 +0000",
+         "title" : "II Torneo Ajedrez - Jovenes Promesas Diagonal - LIVE"
+      },
+      {
+         "description" : "The Kyiv Championship Blitz Marathon 2023 will be held from the 22nd to the 23rd of April in Kyiv, Ukraine. Up to 32 players will play a round-robin tournament in a nightly marathon. The time control is 5 minutes for the entire game with no increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kyiv-championship-blitz-marathon-2023-live/",
+         "pubDate" : "Thu, 20 Apr 2023 08:15:47 +0000",
+         "title" : "Kyiv Championship Blitz Marathon 2023 - LIVE"
+      },
+      {
+         "description" : "The SonFlow Cup 2023 will be held from the 21st to the 23rd of April in Kolding, Denmark. Participants will be divided into groups, and each group will play a 6-player round-robin. The time control is 90 minutes for 40 moves, followed by 30 minutes for the rest of the game, with a 30-second increment []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/sonflow-cup-2023-live/",
+         "pubDate" : "Thu, 20 Apr 2023 08:09:04 +0000",
+         "title" : "SonFlow Cup 2023 - LIVE"
+      },
+      {
+         "description" : "The 1000GM April Scheveningen Challengers will be held from the 21st to the 23rd of April in Sunnyvale, California, United States as a 5-round semi-Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-april-scheveningen-challengers-live/",
+         "pubDate" : "Thu, 20 Apr 2023 08:04:54 +0000",
+         "title" : "1000GM April Scheveningen Challengers - LIVE"
+      },
+      {
+         "description" : "Chess is part of the Olympic Esports Series, with the finals taking place in Singapore between 22-25 June. The tournament has now reached the second...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/important-olympic-esports-series-information/",
+         "pubDate" : "Thu, 20 Apr 2023 07:56:55 +0000",
+         "title" : "Important Olympic Esports Series information"
+      },
+      {
          "description" : "Ian Nepomniachtchi vs Ding Liren, aka Nepo &#x2013; Ding is the final of the World Chess Championship 2023. The Nepo &#x2013; Ding match will take place in Astana, Kazakhstan, from April 7 to May 1, at the elegant St. Regis Astana hotel. All the games start at 15:00 local time (GMT+6), and there is a []",
          "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
          "iconName" : "Chessdom",
@@ -18,6 +66,30 @@ news_feed (
          "title" : "Satty Zhuldyz Rapid 2023 - LIVE"
       },
       {
+         "description" : "The 1000GM April Scheveningen Challengers will be held from the 21st to the 23rd of April in Sunnyvale, California, United States as a 5-round semi-Scheveningen. The time control is 90 minutes for the entire game with a 30-second increment beginning from move 1. Replay:&#160;Nepo &#x2013; Ding game 1&#160;/&#160;Ding &#x2013; Nepo game 2&#160;/&#160;Nepo &#x2013; Ding game []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/1000gm-april-scheveningen-challengers-participants/",
+         "pubDate" : "Thu, 20 Apr 2023 05:38:00 +0000",
+         "title" : "1000GM April Scheveningen Challengers - Participants"
+      },
+      {
+         "description" : "II Torneo Ajedrez Jovenes Promesas Diagonal is a 7-round Swiss tournament held in Alcorc&#xF3;n, Spain, on 23rd April . The time control is 10 minutes for the whole game with a 2-second increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo &#x2013; Ding game 3&#xA0;/&#xA0;Nepo &#x2013; Ding game 4&#xA0;/&#xA0;Nepo &#x2013; Ding game 5&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/ii-torneo-ajedrez-jovenes-promesas-diagonal-participants/",
+         "pubDate" : "Thu, 20 Apr 2023 05:25:00 +0000",
+         "title" : "II Torneo Ajedrez - Jovenes Promesas Diagonal - Participants"
+      },
+      {
+         "description" : "The Kyiv Championship Blitz Marathon 2023 will be held from the 22nd to the 23rd of April in Kyiv, Ukraine. Up to 32 players will play a round-robin tournament in a nightly marathon. The time control is 5 minutes for the entire game with no increment. Replay:&#xA0;Nepo &#x2013; Ding game 1&#xA0;/&#xA0;Ding &#x2013; Nepo game 2&#xA0;/&#xA0;Nepo []",
+         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
+         "iconName" : "Chessdom",
+         "link" : "https://www.chessdom.com/kyiv-championship-blitz-marathon-2023-participants/",
+         "pubDate" : "Thu, 20 Apr 2023 05:09:00 +0000",
+         "title" : "Kyiv Championship Blitz Marathon 2023 - Participants"
+      },
+      {
          "description" : " 2023 World Chess Championship Astana, Kazakhstan (April 7th-May 1st) &#160; Game 7: 4th decisive game in a row as Ding collapses Match Score: 4-3 Official Site: https://worldchampionship.fide.com/ 2023 World Chess Championship: Game 7Tuesday, 18 April 2023 Ding Liren dropped Game 7 after playing a masterpiece that was the talk of the chess world. It is The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/04/20/2023-world-chess-championship-game-7/\">2023 World Chess Championship: Game 7</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -32,6 +104,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kramnik-interview-world-chess-2023",
          "pubDate" : "Thu, 20 Apr 2023 03:20:00 +0100",
          "title" : "Kramnik on life after chess, young talents and Magnus Carlsen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2350",
+         "pubDate" : "Wed, 19 Apr 2023 22:03:14 +0000",
+         "title" : "The World defeats Kazakhstan in a unique match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2349",
+         "pubDate" : "Wed, 19 Apr 2023 21:56:43 +0000",
+         "title" : "Double crown for France at the Mitropa Cup 2023"
       },
       {
          "description" : "In his \"Game of the Week\" show #564, Merijn van Delft continues to follow the World Championship match between Ian Nepomniachtchi and Ding Liren. Merijn takes a close look at game 6, which Ding won. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -106,7 +194,7 @@ news_feed (
          "title" : "Explained by the engineers! - Who is Buddy?"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613566.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613566.cms\" /></a>Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613566.cms\" />Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613566.cms",
@@ -120,14 +208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2347",
          "pubDate" : "Wed, 19 Apr 2023 10:49:57 +0000",
          "title" : "World Solving Cup 2022/2023: Female touch in Riga"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613414.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99613414.cms\" /></a>Global Chess League (GCL), a joint venture by world body FIDE and Tech Mahindra, on Wednesday unveiled its official logo, which resembles a chess board with 64 squares.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/global-chess-league-unveils-its-official-logo/articleshow/99613414.cms",
-         "pubDate" : "Wed, 19 Apr 2023 10:49:12 +0000",
-         "title" : "Global Chess League unveils its official logo"
       },
       {
          "description" : "The second day of the match between the Kazakh women's team and the World Women's Team, which is taking place in Astana in parallel with the World Championship match between Ding Liren and Ian Nepomniachtchi, ended in a 16-16 draw. The World Team is still in the lead: after two days of rapid chess, the score is 34.5 to 29.5 for the World Team. But the best player so far has been 16-year-old Kazakh Alua Nurmanova (pictured) with 7.0/8. | Photo: Alua Nurmanova at the FIDE World and Rapid Blitz Championships 2023 | Photo: Lennart Ootes",
@@ -218,38 +298,6 @@ news_feed (
          "title" : "The Wrong Corner (2)"
       },
       {
-         "description" : "The Polish Amateur Chess Championship will be held from the 15th to the 23rd of April in Zakopane, Poland as a 9-round Swiss. The tournament will have three sections: U2100, U1700 and U1300. The time control is 90 minutes for the entire game with a 30-second increment beginning from move one. Round 4 : Round []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/polish-amateur-championship-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 16:16:25 +0000",
-         "title" : "Polish Amateur Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The ITT Chess Martelli Young Talents 2023 is held from the 13 to the 21 of April in Villa Martelli, Buenos Aires, Argentina. The time control for the event is 90 min plus 30 sec per move. It is a 10-player Round-Robin tournament with participation of Joaquin Fiorito, Andres Eloy Perez Candelas, Candela Be Francisco []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/itt-chess-martelli-young-talents-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 16:12:39 +0000",
-         "title" : "ITT Chess Martelli Young Talents 2023 - LIVE"
-      },
-      {
-         "description" : "The Girls U8 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Monika Plancarova, Viktoria Lea Stricova, Karolina []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u8-slovak-youth-championship-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 15:59:48 +0000",
-         "title" : "Girls U8 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
-         "description" : "The Girls U10 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Nina Haasova, Michaela Sunova and Simona []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u10-slovak-youth-championship-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 15:54:41 +0000",
-         "title" : "Girls U10 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -258,28 +306,12 @@ news_feed (
          "title" : "Nepomniachtchi takes the lead for the third time as Ding misplays in time trouble"
       },
       {
-         "description" : "The Girls U12 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Monika Koscelnikova, Julia Nela Stricova, Emma []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u12-slovak-youth-championship-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 15:48:46 +0000",
-         "title" : "Girls U12 Slovak Youth Championship 2023 - LIVE"
-      },
-      {
          "description" : "Continuing last month's 'On the Cover', <A HREF=\"https://chessforallages.blogspot.com/2023/03/march-1973-1998-on-cover.html\">March 1973 & 1998</A> (March 2023), let's again follow the wheel of chess history as it was recorded in U.S. chess mazines 50 and 25 years ago. This month we find 'USA all the way'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nd18.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Imagine! ... Inside: 1998 USCF Yearbook' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Robert Byrne, who won the 1972 U.S. Championship by out-scoring Reshevsky and Kavalek in a playoff this February. This is the first time By",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/04/april-1973-1998-on-cover.html",
          "pubDate" : "Tue, 18 Apr 2023 15:48:00 +0000",
          "title" : "April 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "The Girls U14 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Karin Novomeska, Hana Horvathova, Olivia Sekova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u14-slovak-youth-championship-2023-live/",
-         "pubDate" : "Tue, 18 Apr 2023 15:43:36 +0000",
-         "title" : "Girls U14 Slovak Youth Championship 2023 - LIVE"
       },
       {
          "description" : "Korumdu, Issyk-Kul, Kyrgyzstan from 30th June to 10th July, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
@@ -368,14 +400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2343",
          "pubDate" : "Mon, 17 Apr 2023 22:04:51 +0000",
          "title" : "FIDE Circuit: Gukesh D leapfrogs So to grab the lead"
-      },
-      {
-         "description" : "The Girls U16 Slovak Youth Championship is taking place from 16&#x2013;23 April 2023 in Dudince. Players receive 90 minutes for 40 moves, followed by 30 minutes to the end of the game, plus a 30-second increment starting from move one. It is a 9-round Swiss tournament with participation of Greta Kapolkova, Lucia Tomcaniova, Veronika Dudonova, []",
-         "iconLink" : "https://cypresschess.github.io/web/chessdom3.png",
-         "iconName" : "Chessdom",
-         "link" : "https://www.chessdom.com/girls-u16-slovak-youth-championship-2023-live/",
-         "pubDate" : "Mon, 17 Apr 2023 21:54:10 +0000",
-         "title" : "Girls U16 Slovak Youth Championship 2023 - LIVE"
       },
       {
          "description" : "",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/satty-zhuldyz-tournaments-2023-preview",
          "pubDate" : "Sat, 15 Apr 2023 08:00:00 +0100",
          "title" : "Next week: Satty Zhuldyz rapid and blitz event with Kramnik and Hou"
-      },
-      {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/can-ding-liren-utilise-the-momentum/articleshow/99509344.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99509344.cms\" /></a>Momentum is a key component of sporting contests. A team equalises after being a goal down and the entire equation changes.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/can-ding-liren-utilise-the-momentum/articleshow/99509344.cms",
-         "pubDate" : "Sat, 15 Apr 2023 05:14:16 +0000",
-         "title" : "Can Ding Liren utilise the momentum?"
       },
       {
          "description" : "In his new Power Play Show, GM Daniel King uses game 2 of the World Championship match in Astana as a starting point, and compares it with two games from a previous match for the title, the 2008 confrontation between Vishy Anand and Vladimir Kramnik. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -1010,14 +1026,6 @@ news_feed (
          "title" : "Ding holds a comfortable draw with black in World Championship game 3 - 3"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/a-ding-dong-battle-on-cards/articleshow/99424379.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99424379.cms\" /></a>Ian Nepomniachtchi had equalled Viktor Korchnoi's feat of 1981 when as a 'non-champion', he qualified for the undisputed World chess title clash in matchplay format for the second time. Now, his struggling opponent Ding Liren must match Korchnoi's other feat to make a match of it. Russian Korchnoi was the last 'first-time finalist' to win a game - after trailing - to attain parity. He had done that against Anatoly Karpov in 1978.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/a-ding-dong-battle-on-cards/articleshow/99424379.cms",
-         "pubDate" : "Wed, 12 Apr 2023 04:54:22 +0000",
-         "title" : "A ding-dong battle on cards?"
-      },
-      {
          "description" : "The second edition of the Menorca Chess Open is taking place on April 11-16 at the Princesa Playa Hotel on the Balearic island of Menorca. Defending champion Dommaraju Gukesh returned to the paradisaic Spanish town, where he is joined by a number of formidable players - i.e. Hans Niemann (pictured), Jorden van Foreest and Vladimir Fedoseev, among others. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-march-2023/",
          "pubDate" : "Tue, 11 Apr 2023 08:38:14 +0000",
          "title" : "ECU E-Magazine March 2023"
-      },
-      {
-         "description" : "In endings with opposite-coloured bishops the defending side can often draw, sometimes even when the defender is one, two or three pawns down. However, these endgames are still tricky and the defender has to be careful. In the diagram position it is White to move and draw but in the acutal game White lost. Can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tricky-2",
-         "pubDate" : "Tue, 11 Apr 2023 09:00:00 +0100",
-         "title" : "Tricky"
       },
       {
          "description" : "",
@@ -1146,12 +1146,12 @@ news_feed (
          "title" : "Nepomniachtchi takes the World Championship lead after a disaster in game two for Ding - 2"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" /></a>Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99371609.cms\" />Teenaged Indian Grandmaster D Gukesh stunned former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the final to win the World Chess Armageddon Asia & Oceania event here.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-gm-gukesh-wins-title-at-world-chess-armageddon-asia-and-oceania-event/articleshow/99371609.cms",
          "pubDate" : "Mon, 10 Apr 2023 05:57:15 +0000",
-         "title" : "Indian GM Gukesh wins title at World Chess Armageddon Asia and Oceania event"
+         "title" : "D Gukesh wins title at World Chess Armageddon event"
       },
       {
          "description" : "While GMs Ian Nepomniachtchi and Ding Liren were in their final preparations for the battle of the crown, soon-to-be former World Champion Magnus Carlsen and his club Offerspill invited some of the hopes of the next generation to a training camp i...",
@@ -1226,14 +1226,6 @@ news_feed (
          "title" : "Chess champions I have played"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/chasing-crown-sans-jewel/articleshow/99352570.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99352570.cms\" /></a>The chess world will get a new 'disputed' champion after a gap of 16 years later this month as Russian 'neutralite' Ian Nepomniachtchi faces China's Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chasing-crown-sans-jewel/articleshow/99352570.cms",
-         "pubDate" : "Sun, 09 Apr 2023 05:00:40 +0000",
-         "title" : "Chasing crown sans jewel"
-      },
-      {
          "description" : " After the tournament started with a few upsets (and semi-upsets), the last few rounds have seen the top seeds reclaim their spots at the top of the Premier. GM Hrant Melkumyan (ARM) and GM Temur Kuybokarov lead on 5.5/6, and will face each other in Round 7. In outright 3rd on 5/6 is more of a surprise, with FM Dusan Stojic getting there by beating IM Junta Ikeda and GM Samy Shoker in rounds 5 and 6. On 4.5 is large pack of players, including local (ACT) players, IM Rishi Sardana and FM Fred Litchfield. The Major, Minor and Mini events are well underway, although the large fields see a number of players at the top. The 2 day Under 1200 tournament was completed yesterday with Unrated Benjamin",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1274,7 +1266,7 @@ news_feed (
          "title" : "The Ding-Nepomniachtchi Opening Press Conference"
       },
       {
-         "description" : "<a href=\"https://timesofindia.indiatimes.com/sports/chess/in-carlsens-shadow-chess-awaits-a-new-world-champion/articleshow/99339439.cms\"><img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99339439.cms\" /></a>Chess will crown a new world champion when Ian Nepomniachtchi and Ding Liren begin their battle on Sunday in the shadow of incumbent Magnus Carlsen, who voluntarily relinquished the title he held since 2013.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/99339439.cms\" />Chess will crown a new world champion when Ian Nepomniachtchi and Ding Liren begin their battle on Sunday in the shadow of incumbent Magnus Carlsen, who voluntarily relinquished the title he held since 2013.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/in-carlsens-shadow-chess-awaits-a-new-world-champion/articleshow/99339439.cms",
@@ -1904,30 +1896,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2023/no-contract-for-match-tv/",
          "pubDate" : "Thu, 30 Mar 2023 14:02:45 +0100",
          "title" : "No contract for Match TV"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2308",
-         "pubDate" : "Thu, 30 Mar 2023 11:19:07 +0000",
-         "title" : "Meri Arabidze clinches European Women's Chess Championship 2023"
-      },
-      {
-         "description" : "The FIDE Planning and Development Commission (PDC) is happy to announce that the 2023 FIDE Development Fund cycle is now open for submissions of funding...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-development-fund-2023-is-now-open/",
-         "pubDate" : "Thu, 30 Mar 2023 08:50:09 +0000",
-         "title" : "FIDE Development Fund 2023 is now open"
-      },
-      {
-         "description" : "After 11 thrilling rounds at the European Women's Chess Championship 2023 two players emerged on the top tying for the first place with 8.5 points, each: IM Meri Arabidze (GEO, 2433) and IM Oliwia Kiolbasa (POL, 2406). Thanks to her 8th round victory in direct encounter against the Polish representative, IM Meri Arabidze clinched the European Women's Chess&hellip; <span class=\"read-more\"><a href=\"https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/\">Read More &#187;</a></span>",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-meri-arabidze-clinches-european-womens-chess-championship-2023/",
-         "pubDate" : "Thu, 30 Mar 2023 07:36:09 +0000",
-         "title" : "IM Meri Arabidze clinches European Women's Chess Championship 2023"
       }
    ]
 }
