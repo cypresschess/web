@@ -34,7 +34,7 @@ news_feed (
          "title" : "Queen Sacs Galore: 8 Players Qualify For Olympic Esports Series Preliminaries"
       },
       {
-         "description" : "Ding Liren was set to make it a staggering five wins for White in a row, but a combination of missed chances, a bluff, and brilliant defence from Ian Nepomniachtchi saw Game 8 of the World Championship match end in a draw. Ian now leads 4.5:3.5, while Ding has to deal with the fallout of his \"anonymous\" pre-match training games being discovered online.",
+         "description" : "Ding Liren was set to make it a staggering five wins for White in a row, but a combination of missed chances, a semi-bluff, and brilliant defence from Ian Nepomniachtchi saw Game 8 of the World Championship match end in a draw. Ian now leads 4.5:3.5, while Ding has to deal with the fallout of his \"anonymous\" pre-match training games being discovered online.",
          "iconLink" : "https://cypresschess.github.io/web/chess24.png",
          "iconName" : "Chess 24",
          "link" : "https://chess24.com/en/read/news/ding-liren-blows-huge-chance-as-world-championship-prep-leaks-online",
